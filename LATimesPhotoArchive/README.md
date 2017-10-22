@@ -1,4 +1,4 @@
-### Metadata from the Los Angeles Times Photo Archive colleciton. 
+### Metadata from the Los Angeles Times Photo Archive collection. 
 
 Prepared by Setareh Saleh https://public.tableau.com/profile/setarehsaleh#!/vizhome/LATimesPhotoArchive/LATimesPhotoViewer
 
