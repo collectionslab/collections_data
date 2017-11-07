@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer an den König von Afghanistan.
+Found
+MODSMD_ARTICLE02: Zu Ministerialräten ernannt.
+Found
+MODSMD_ARTICLE03: Deutscher Protestschritt in Madrid.
+Found
+MODSMD_ARTICLE04: Pariser Presse zur Durchsuchung des Dampfers „Kamerun".
+Found
+MODSMD_ARTICLE05: Neue Massenmorde.
+Found
+MODSMD_ARTICLE06: Die Kommunisten rechnen mit langer Kriegsdauer.
+Found
+MODSMD_ARTICLE07: Nach Einnahme San Sebastians Angriff auf Malaga.
+Found
+MODSMD_ARTICLE08: 111-Boot der Regierungsstreitkräfte versenkt?
+Found
+MODSMD_ARTICLE09: „Sender der antifaschistischen Miliz" in Barcelona.
+Found
+MODSMD_ARTICLE10: Außenminister Beck beim Staatspräsidenten.
+Found
+MODSMD_ARTICLE11: Das Organ der polnischen Bauernpartei beschlagnahmt.
+Found
+MODSMD_ARTICLE12: Zusätzliches Aufrüstungsprogramm für Australien.
+Found
+MODSMD_ARTICLE13: Unterredung mit dem finnischen Außenminister.
+Found
+MODSMD_ARTICLE14: Internationale Bereinigung der Flugverkehrsgesellschaften.
+Found
+MODSMD_ARTICLE15: Tschiangkaischek verlängert sein Ultimatum.
+Found
+MODSMD_ARTICLE16: Sowjetrußlands effektive Rüstungen.
+Found
+MODSMD_ARTICLE17: Moskau gegen eine neutrale Zone im Fernen Osten.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer nach Kiel abgereist.
+Found
+MODSMD_ARTICLE02: Telegramm des Führers au die Deutsche Ostmesse.
+Found
+MODSMD_ARTICLE03: Die internationalen Frontkämpferführer verließen Coburg.
+Found
+MODSMD_ARTICLE04: Tschechenterror schont auch die Frauen nicht.
+Found
+MODSMD_ARTICLE05: Die tschechische Verbotsmaschine. Reichsverweser von Horthy nach Deutschland abgereist.
+Found
+MODSMD_ARTICLE06: Schulfrei während des Besuches Admiral von Horthys.
+Found
+MODSMD_ARTICLE07: Dr. Frick in Wien.
+Found
+MODSMD_ARTICLE08: Arbeit für das Recht ist Arbeit für die Partei.
+Found
+MODSMD_ARTICLE09: Frankreich will 1938 noch 3800 Flugschüler ausbilden.
+Found
+MODSMD_ARTICLE10: Beratungen Daladiers zur Beilegung des Hafenstreiks.
+Found
+MODSMD_ARTICLE11: Der finnische Finanzminister in Reval.
+Found
+MODSMD_ARTICLE12: Fast 44 Millionen Einwohner in Italien.
+Found
+MODSMD_ARTICLE13: Italien begrüßt die ungarischen Rasfenschutzmaßnahmen.
+Found
+MODSMD_ARTICLE14: Wieder 59 Personen in Barcelona erschossen.
+Found
+MODSMD_ARTICLE15: Nationalspanien gedenkt der ermordeten Schriftleiter.
+Found
+MODSMD_ARTICLE16: General Francs au Horthy.
+Found
+MODSMD_ARTICLE17: Blühender Waffenschmuggel von Algerien nach Rotspanien.
+Found
+MODSMD_ARTICLE18: Ausgehverbot in Palastina.
+Found
+MODSMD_ARTICLE19: Die Berge um Hebron von Freischärlern besetzt.
+Found

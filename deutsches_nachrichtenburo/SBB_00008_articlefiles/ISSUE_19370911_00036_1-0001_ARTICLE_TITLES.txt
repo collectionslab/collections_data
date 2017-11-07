@@ -1,0 +1,18 @@
+MODSMD_ARTICLE02: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE03: „Deutschland Sieg-Heil!"
+Found
+MODSMD_ARTICLE04: Sondertagungen in Nürnberg. Gauschatzmeister und Kreiskassenleiter.
+Found
+MODSMD_ARTICLE05: Die Presse der Partei.
+Found
+MODSMD_ARTICLE06: Reichsamtsleiter Sünd ermann.
+Found
+MODSMD_ARTICLE07: Dr> Dietrich.
+Found
+MODSMD_ARTICLE08: Tagung der Parteirichter.
+Found
+MODSMD_ARTICLE09: Reichsrechtsamt.
+Found
+MODSMD_ARTICLE10: Hauptamt für Beamte.
+Found

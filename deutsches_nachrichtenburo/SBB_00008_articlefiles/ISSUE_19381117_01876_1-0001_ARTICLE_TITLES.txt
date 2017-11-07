@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Dr. Goebbels über aktuelle Zeitfragen.
+Found
+MODSMD_ARTICLE02: Das Mißverhältnis des jüdischen Besitzes in Teutschland.
+Found
+MODSMD_ARTICLE03: Organisation der Wirtschaft und NSDAP.
+Found
+MODSMD_ARTICLE04: Italienische Journalisten besuchen die TAI.
+Found
+MODSMD_ARTICLE05: Einführung eines neuen Beamtengesetzes in Danzig.
+Found
+MODSMD_ARTICLE06: Die Zusammensetzung des Prager Abgeordnetenhauses.
+Found
+MODSMD_ARTICLE07: Nationale Einheitspartei verwirklicht.
+Found
+MODSMD_ARTICLE08: Spaltung der tschechischen Klerikalen.
+Found
+MODSMD_ARTICLE09: Verfassungsentwurf über die Autonomie der Slowakei.
+Found

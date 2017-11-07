@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Reichsminister Ruft in der Universität Athen.
+Found
+MODSMD_ARTICLE02: Jüdische' Brunnenvergifter gegen Tangig erneut am Werk.
+Found
+MODSMD_ARTICLE03: „Pat" Zur Graudenzer Kundgebung.
+Found
+MODSMD_ARTICLE04: Mussolini Ehrendoktor der Universität Lausanne.
+Found
+MODSMD_ARTICLE05: Panama erkennt das römische Imperium an.
+Found
+MODSMD_ARTICLE06: „Giornale dlJtalia" Zur Phrase der Nichteinmischung.
+Found
+MODSMD_ARTICLE07: Fußball-Landerkampf Frankreich—Italien abgesagt.
+Not Found
+MODSMD_ARTICLE08: Frankreich vertritt Jugoslawien in Montreux.
+Found
+MODSMD_ARTICLE09: Vor einem Besuch Edens in Brüssel?
+Found
+MODSMD_ARTICLE10: Zur Zeit keine internationale Wirtschaftskonferenz geplant.
+Found
+MODSMD_ARTICLE11: Stanning bei Eden.
+Found
+MODSMD_ARTICLE12: Regierungserklärung über Indien im englischen Parlament.
+Found
+MODSMD_ARTICLE13: Berüchtigter Kommunistenhäuptling in Ungarn verhaftet.
+Found
+MODSMD_ARTICLE14: Die vier Norweger wieder freigelassen.
+Found
+MODSMD_ARTICLE15: New Jorker Juden als Gangsters überführt.
+Found
+MODSMD_ARTICLE16: Das Riesenfeuer in Manila.
+Found

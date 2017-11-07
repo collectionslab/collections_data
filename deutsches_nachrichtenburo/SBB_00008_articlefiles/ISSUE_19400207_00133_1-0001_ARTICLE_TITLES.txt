@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Aufstellung eines Forstschutzkommandos.
+Found
+MODSMD_ARTICLE02: Entlarvung englischer Greuellügen.
+Found
+MODSMD_ARTICLE04: Die Slowakei gegen Daladiers unerbetene „Fürsorge".
+Found
+MODSMD_ARTICLE05: Der elsässische Autonomistensührer Roos hingerichtet.
+Found
+MODSMD_ARTICLE06: Die Bombardierung der Jünnan-Eisenbahn durch Japan.
+Found
+MODSMD_ARTICLE07: Neue eindeutige Erklärung Gandhis.
+Found
+MODSMD_ARTICLE08: Gefährliche „Sandbänke".
+Found
+MODSMD_ARTICLE09: Die irischen Freiheitskämpfer hingerichtet.
+Found
+MODSMD_ARTICLE10: Keine besonderen Ereignisse.
+Found
+MODSMD_ARTICLE11: „Offener Krieg zwischen England und der JRA".
+Found
+MODSMD_ARTICLE12: Ministerpräsident Metaxas zurückgekehrt.
+Found
+MODSMD_ARTICLE13: Die Valkankonfcrenz eine „Niederlage der Westmächte".
+Found
+MODSMD_ARTICLE14: Elend in Dänemark durch Englands Methoden.
+Found
+MODSMD_ARTICLE15: Unglaubliche Verzögerung der amerikanischen Jtalienpost.
+Found
+MODSMD_ARTICLE16: Englands Faust auf Kanada.
+Found

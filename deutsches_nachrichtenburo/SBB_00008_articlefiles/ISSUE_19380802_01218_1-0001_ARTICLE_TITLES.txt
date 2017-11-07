@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Im Gedenken an Hindenburg.
+Found
+MODSMD_ARTICLE02: Hel lein dankt dem Reichssportführer.
+Found
+MODSMD_ARTICLE03: Finnische Delegation Gast Generalfeldmarschall Görinas.
+Found
+MODSMD_ARTICLE04: Reichsminister Görinn gratuliert Flugkapitän Blankenburg.
+Found
+MODSMD_ARTICLE05: Dr. Riedl in die Reichswirischaftskammer berufen.
+Found
+MODSMD_ARTICLE06: Die Richtkrone über der Reichskanzlei.
+Found
+MODSMD_ARTICLE07: Abschied von den elf Toten von Merkers.
+Found
+MODSMD_ARTICLE08: Runcimans Mitarbeiter in Prag eingetroffen.
+Found
+MODSMD_ARTICLE09: Besuch des italienischen Kronprinzen bei Moscicki.
+Found
+MODSMD_ARTICLE10: 4/4 Millionen Frauen in faschistischen Organisationen.
+Found
+MODSMD_ARTICLE11: Im Kampf gegen den Bolschewismus gefallen.
+Found
+MODSMD_ARTICLE12: Italienische Zeitungen in Tunis verboten.
+Found
+MODSMD_ARTICLE13: König Faruk beglückwünscht den Ministerpräsidenten.
+Found
+MODSMD_ARTICLE14: Rhodesien verzichtet auf jüdischen Bevölkerungszuwachs.
+Found
+MODSMD_ARTICLE15: Japanischer Protest in Moskau.
+Found
+MODSMD_ARTICLE16: Neuer Augriff der Sowjettruppen auf Schangfeng.
+Found
+MODSMD_ARTICLE17: Japanischer Vorstoß auf beiden Ufern des Jangtse.
+Found

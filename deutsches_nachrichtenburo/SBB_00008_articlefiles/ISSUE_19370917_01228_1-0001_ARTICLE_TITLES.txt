@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ehrenpreise des Führers und des Duce für Radfernfahrt.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Luftsperre während der Manöver.
+Found
+MODSMD_ARTICLE04: „Times" würdigt den Bau der Reichsautobahnen.
+Found
+MODSMD_ARTICLE05: Ministerpräsident Chamberlain beendet seinen Urlaub.
+Found
+MODSMD_ARTICLE06: Der Lehrlingsstreik in Manchester.
+Found
+MODSMD_ARTICLE07: „Daily Mail" über das Moskauer Terrorregiment.
+Found
+MODSMD_ARTICLE08: Die Presse Londons versucht, auf Italien zu drücken.
+Found
+MODSMD_ARTICLE09: Pariser Blätter wünschen italienische Initiative.
+Found
+MODSMD_ARTICLE10: Ein Zusatzabkommen zu Nyon.
+Found
+MODSMD_ARTICLE11: Polens akademische Jugend für Absonderung der Juden.
+Found
+MODSMD_ARTICLE12: Der französische Kultusminister aus Warschau abgereist.
+Found
+MODSMD_ARTICLE13: 25W in Madrid gefangene Nationalspanier werden ausgelöst.
+Found
+MODSMD_ARTICLE14: Frauendemonstration für Franco in Barcelona unterdrückt.
+Found
+MODSMD_ARTICLE15: Sie wollen nicht mehr unter der roten Flagge dienen.
+Found
+MODSMD_ARTICLE16: Japan hält an den Olympischen Spielen fest.
+Found
+MODSMD_ARTICLE17: Seeverkehr mit Haitschu gesperrt.
+Found
+MODSMD_ARTICLE18: HM über die Stellung Amerikas zu den Feruostfragen.
+Found

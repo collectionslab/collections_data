@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Fackelzug für Dr. Goebbels und Ausklang.
+Found
+MODSMD_ARTICLE03: Ncichsgruppenleiter des Handels zum Vicrjahrcsplan.
+Found
+MODSMD_ARTICLE04: Vereinigung von Eisenbahn und Kraftwagen im Reichsvcrkehrsministerium.
+Not Found
+MODSMD_ARTICLE05: Das Wrack der „Elbe I" gefunden.
+Found
+MODSMD_ARTICLE06: Beileid und Nachruf zum Untergang der „Elbe l".
+Found
+MODSMD_ARTICLE07: Madrids Schicksal erfüllt sich.
+Found
+MODSMD_ARTICLE08: Prieto nicht nach Madrid zurückgekehrt.
+Found
+MODSMD_ARTICLE09: Warnung des polnischen Kultusministeriums.
+Found
+MODSMD_ARTICLE10: Mexikanische Waffenlieferungen für Spanien.
+Found

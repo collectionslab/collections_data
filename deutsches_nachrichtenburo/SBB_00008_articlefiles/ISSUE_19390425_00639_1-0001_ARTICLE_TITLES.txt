@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der jugoslawische Außenminister in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE02: Der jugoslawische Gesandte am Ehrenmal.
+Found
+MODSMD_ARTICLE03: Göring zeichnet vier verdiente Männer aus.
+Found
+MODSMD_ARTICLE04: In den Reichstag berufen.
+Found
+MODSMD_ARTICLE05: Dr. Frick stiftet Ehrenpreis für das Ostpreustenturnier.
+Found
+MODSMD_ARTICLE06: Festschmnck für die Dienstgebäude am 1. Mai.
+Found
+MODSMD_ARTICLE07: U-Gruppenführer Weinreich fünf Jahre Leiter der TN.
+Found
+MODSMD_ARTICLE08: Bernhard Köhler.
+Found
+MODSMD_ARTICLE09: „Tribmm": England und Frankreich wollen Präventivkrieg.
+Found
+MODSMD_ARTICLE10: „Die Friedensoffensive der Achse beginnt."
+Found
+MODSMD_ARTICLE11: Emigrauteuüberflusz und -Überdruß in der Schweiz.
+Found
+MODSMD_ARTICLE12: Ministerpräsident Pierlot stellt sein Kabinett vor.
+Found
+MODSMD_ARTICLE13: Labour Party gegen die Wehrpflicht.
+Found
+MODSMD_ARTICLE14: Gafencu beim König von England.
+Found
+MODSMD_ARTICLE15: Beratungen in Tokio über die europäische Lage.
+Found
+MODSMD_ARTICLE16: Der Umschwung in Bolivien.
+Found
+MODSMD_ARTICLE17: „Schädliche demokratische Ueberreste beseitigt."
+Found
+MODSMD_ARTICLE18: Verwirrung in der chilenischen Presse.
+Found

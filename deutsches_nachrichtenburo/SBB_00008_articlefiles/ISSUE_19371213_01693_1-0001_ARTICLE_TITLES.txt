@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Flandin bei Reichsminister Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Reichsminister Kerrls Forderungen an die Landespluner.
+Found
+MODSMD_ARTICLE03: Verleihung des Lembach-Preises an Prof. Bloh.
+Found
+MODSMD_ARTICLE04: Budapester Besuch Baldur von Schirachs verschoben.
+Found
+MODSMD_ARTICLE05: Ein Film über Mussolinis Deutschlandreise in Pretoria.
+Found
+MODSMD_ARTICLE06: Generalsekretär Avenol „bestätigt" Schritt Italiens.
+Found
+MODSMD_ARTICLE07: „Giornale d'Jtalia" kommentiert das Weltecho.
+Found
+MODSMD_ARTICLE08: 5 neue Kardinäle.
+Found
+MODSMD_ARTICLE09: Ungarns Kriegsminister bei König Viktor Emanuel.
+Found
+MODSMD_ARTICLE10: Die Landwirtschaftsmangel Frankreichs.
+Found
+MODSMD_ARTICLE11: Gassenbnbenmanieren bei der englischen Presse.
+Found
+MODSMD_ARTICLE12: Die Jntegralisten jetzt „Brasilianischer Kulturverband".
+Found
+MODSMD_ARTICLE13: Japans Innenminister zurückgetreten.
+Found
+MODSMD_ARTICLE14: Tokio Zum Zwischenfall bei Nanking. .
+Found
+MODSMD_ARTICLE15: Die Eroberung Nankings.
+Found
+MODSMD_ARTICLE16: Amtliche chinesische Stellen beobachten Schweigen.
+Found

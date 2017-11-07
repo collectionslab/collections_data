@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der neue bulgarische Gesandte in Berlin.
+Found
+MODSMD_ARTICLE02: Die Frauenführerin Nationalspaniens in Berlin.
+Found
+MODSMD_ARTICLE03: Der erste Jahresbericht des Volksbildungswerkes.
+Found
+MODSMD_ARTICLE04: Große Leistungen der NS.-Frauenschaft in Wien.
+Found
+MODSMD_ARTICLE05: Befreiuugsseiern in Helsinki.
+Found
+MODSMD_ARTICLE07: Kranzniederlegungen durch Mackensen in Rom.
+Found
+MODSMD_ARTICLE08: Besuch des englischen Kriegsministers in Rom?
+Found
+MODSMD_ARTICLE09: „Evening News" begrüßt die Aethiopien-Note.
+Found
+MODSMD_ARTICLE10: Regierungserklärung vom Pariser Kabinettsrat gebilligt.
+Found
+MODSMD_ARTICLE11: Der amerikanische Mobilmachungsplan.
+Found
+MODSMD_ARTICLE12: 1,2 K Milliarden für die amerikanischen Seerüstungen.
+Found
+MODSMD_ARTICLE13: Das neilgewählte ägyptische Parlament vom König eröfsnet.
+Found

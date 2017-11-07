@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ernennung zum Regierungsrat.
+Found
+MODSMD_ARTICLE02: 10 Jahre Zeitnngswissenschaftliche Vereinigung Berlin.
+Found
+MODSMD_ARTICLE03: Tagung des Bundes Deutscher Osten.
+Found
+MODSMD_ARTICLE04: Reichsinnenminister Dr. Frick beim König von Schweden.
+Found
+MODSMD_ARTICLE05: Danziger Besprechungen mit der polnischen Wirtschaft.
+Found
+MODSMD_ARTICLE07: Neuer britischer Militärattache für Berlin.
+Found
+MODSMD_ARTICLE08: Polen gegen den Pakt Paris—Moskau.
+Not Found
+MODSMD_ARTICLE09: Schwere Schäden der Maul- und Klauenseuche in England.
+Found
+MODSMD_ARTICLE10: Delbos beim polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE11: Polens Hausbesitzer wollen keine Juden mehr.
+Found
+MODSMD_ARTICLE12: Scharfes polnisches Vorgehen gegen Litauen.
+Found
+MODSMD_ARTICLE13: Kommunisten fällen Todesurteile.
+Found
+MODSMD_ARTICLE14: Ter tschechoslowakische Handelsminister gestorben.
+Found
+MODSMD_ARTICLE15: Italienisch-bulgarische Vereinbarungen für Aethiopien.
+Found
+MODSMD_ARTICLE16: Die Besuche Baldur von Schirachs in 'Teheran.
+Found
+MODSMD_ARTICLE17: Japan fordert freie Hand in der Internat. Niederlassung.
+Found
+MODSMD_ARTICLE18: Die Kennzahl der Großhandelspreise vom 1. Dezember.
+Found

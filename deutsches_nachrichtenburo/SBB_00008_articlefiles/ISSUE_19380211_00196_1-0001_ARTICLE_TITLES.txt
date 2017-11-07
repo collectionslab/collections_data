@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Panzerschiff „Deutschland" wieder in Wilhelmshaven.
+Found
+MODSMD_ARTICLE02: Vorbildlicher Lehrvertrag in der Landwirtschaft.
+Found
+MODSMD_ARTICLE03: Ministerialdirektor Dr. Gütt über Erb- und Rassenpflege.
+Found
+MODSMD_ARTICLE04: Schulschiff „Schlesien" in Valparaiso.
+Found
+MODSMD_ARTICLE05: Jüdische Paßfälscherbande in Danzig abgeurteilt.
+Found
+MODSMD_ARTICLE06: Unverständliches Urteil gegen Deutsche in Polen.
+Found
+MODSMD_ARTICLE07: Unaufhaltsamer Geburtenrückgang in Oesterreich.
+Found
+MODSMD_ARTICLE08: Fürstprimas von Polen fordert Gerechtigkeit für Ungarn.
+Found
+MODSMD_ARTICLE09: Neue sensationelle Feststellung zum Fall Bndenko.
+Found
+MODSMD_ARTICLE10: Wieder eine schwere Grenzverletzung Moskaus.
+Found
+MODSMD_ARTICLE11: Diplomatenkonferenz im belgischen Außenministerium.
+Found
+MODSMD_ARTICLE12: Zehn schweizerische Grenzschutzkompanien.
+Found
+MODSMD_ARTICLE13: Franco zum bolschewistischen Piratentum im Mittelmeer.
+Found
+MODSMD_ARTICLE14: Handgranaten gegen Zeitungsgebäude in Schanghai.
+Found

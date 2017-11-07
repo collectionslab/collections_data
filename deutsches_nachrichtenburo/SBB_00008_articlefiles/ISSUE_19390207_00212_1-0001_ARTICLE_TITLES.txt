@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Dr. Goebbels vor den Leitern der Reichspropagandaämter.
+Found
+MODSMD_ARTICLE02: Glückwunsch für Professor Thorak.
+Found
+MODSMD_ARTICLE03: Zeißig Landesgruppenleiter in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE04: Die „Internationale Werkehrs-Ausstellung Köln 1940".
+Found
+MODSMD_ARTICLE05: Beratungskomitee „Freude und Arbeit" bei König Georg.
+Found
+MODSMD_ARTICLE06: London zittert vor neuen Bombenanschägen.
+Found
+MODSMD_ARTICLE07: Vereidigung des neuen Verteidigungsministers.
+Found
+MODSMD_ARTICLE08: Die Eröffnung der Palästina-Konferenz.
+Found
+MODSMD_ARTICLE09: „Spanien das Grab des Antifaschismus."
+Found
+MODSMD_ARTICLE10: Senator Berod nach Frankreich zurückgekehrt.
+Found
+MODSMD_ARTICLE11: Bisher 198 KW Flüchtlinge in Frankreich.
+Found
+MODSMD_ARTICLE12: Heimkehr nach Natioualspanien.
+Found
+MODSMD_ARTICLE13: Ein teurer Spaß!
+Found
+MODSMD_ARTICLE14: Neue Niederlage Blums iu der Kammer.
+Found
+MODSMD_ARTICLE15: Dr. Mehmed Spaho interimistischer Außenminister.
+Found
+MODSMD_ARTICLE16: Der Lebensmittelmangel in Sowjetrußland.
+Found
+MODSMD_ARTICLE17: In Palästina geht der Kampf weiter.
+Found
+MODSMD_ARTICLE18: Syrien protestiert durch Generalstreik.
+Found
+MODSMD_ARTICLE19: Bollstreckung eines Todesurteils.
+Found

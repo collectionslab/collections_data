@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Reichsleiter Rosenberg dankt.
+Found
+MODSMD_ARTICLE02: Spende der Polizei für das Winterhilfswerk.
+Found
+MODSMD_ARTICLE03: Ansprache Dr. tricks zum „Taft der Deutschen Polizei".
+Found
+MODSMD_ARTICLE04: Deutsche Sendungen im belgischen Rundfunk.
+Found
+MODSMD_ARTICLE05: H. Frank Stellvertreter Konrad Heuleins.
+Found
+MODSMD_ARTICLE06: Moskau wühlt auch in Oesterreich.
+Found
+MODSMD_ARTICLE07: Das bolschewistische Chaos in Madrid.
+Found
+MODSMD_ARTICLE08: Weil er fleißig war . . . .
+Found
+MODSMD_ARTICLE09: Noter Räumungsbefehl überreicht.
+Found
+MODSMD_ARTICLE10: Leere Versprechungen.
+Found
+MODSMD_ARTICLE11: Rote Horden vor der Botschaft.
+Found
+MODSMD_ARTICLE12: Diplomatische Rettungsaktion unter roten Bajonetten.
+Found
+MODSMD_ARTICLE13: Stunden nervenerschiitterndcr Spannung.
+Found
+MODSMD_ARTICLE14: Ins Polizeigefängnis gezerrt.
+Found
+MODSMD_ARTICLE15: Plünderer und Diebe am Werk.
+Found
+MODSMD_ARTICLE16: Madrid wartet auf Befreiung.
+Found
+MODSMD_ARTICLE17: Wie es in der Stadt aussieht.
+Found
+MODSMD_ARTICLE18: Anarchistische Drückeberger führen das Regiment.
+Found
+MODSMD_ARTICLE19: Massenhafte Fluchtversuche.
+Found
+MODSMD_ARTICLE20: 4W „Verdächtige" wurden niedergemacht.
+Found
+MODSMD_ARTICLE21: Neue Erpressermethode, der Roten.
+Found
+MODSMD_ARTICLE22: Sieuersteckörief und Vermögeusdeschlaguahme.
+Found

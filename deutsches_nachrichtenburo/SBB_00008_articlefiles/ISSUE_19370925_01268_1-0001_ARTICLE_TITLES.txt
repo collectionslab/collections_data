@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Das Festkleid der Reichshauptstadt im Werden.
+Found
+MODSMD_ARTICLE02: Em neues Denkmal nationalsozialistischen Schaffens.
+Found
+MODSMD_ARTICLE03: Der fünfte Tag der großen Wehrmachtsmanöver.
+Found
+MODSMD_ARTICLE04: Die spanischen Jugeudsührer verließen Teutschland.
+Found
+MODSMD_ARTICLE05: Die Brand Ursachen des Rotundenbrandes nicht festzustellen.
+Found
+MODSMD_ARTICLE06: Protest gegen die Enteignungen im Memel-Gebiet.
+Found
+MODSMD_ARTICLE07: Messe für die in Spanien gefallenen Italiener.
+Found
+MODSMD_ARTICLE08: Der Rücktritt van Zeelands noch nicht erfolgt.
+Found
+MODSMD_ARTICLE09: Um die Durchführung der ungarischen Schulverordnuug.
+Found
+MODSMD_ARTICLE10: Weitere Ermittlungen zur Entführung des Zarengenerals.
+Found
+MODSMD_ARTICLE11: Frau Skobliu macht sich verdächtig.
+Found
+MODSMD_ARTICLE12: Der nationale Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE13: USA-Marine vermehrt ihre Luftstreitkräfte.
+Found

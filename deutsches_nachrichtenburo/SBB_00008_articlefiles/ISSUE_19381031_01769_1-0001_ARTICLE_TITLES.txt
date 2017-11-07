@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Daladier wieder in Paris.
+Found
+MODSMD_ARTICLE02: Auf dem Wege der Notverordnungen.
+Found
+MODSMD_ARTICLE03: Nach dem Riesenbrand von Marseille.
+Found
+MODSMD_ARTICLE04: „Ich bin der Urheber des Marseiller Brandes".
+Found
+MODSMD_ARTICLE05: Schwerste Borwürfe gegen die Marxisten.
+Found
+MODSMD_ARTICLE06: Pirow in Salamanca.
+Found
+MODSMD_ARTICLE07: Gefallenengedenken am Grnndungstag der Falange.
+Found
+MODSMD_ARTICLE08: Der König der Helleneu in London.
+Found
+MODSMD_ARTICLE09: Die Deutschen in Jugoslawien für die Regierungslifte.
+Found
+MODSMD_ARTICLE10: „Mein Kampf" in der Tschecho-Slowakei wieder erlaubt.
+Found
+MODSMD_ARTICLE11: Prag schließt weitere Logen.
+Found
+MODSMD_ARTICLE12: Die mährischen Slowaken wollen zur Slowakei.
+Found
+MODSMD_ARTICLE13: Für Ausschaltung der Juden bei einer Volksabstimmung.
+Found
+MODSMD_ARTICLE14: 1909 üm Autostraße durch die Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE15: Stalins GPU wütet weiter.
+Found
+MODSMD_ARTICLE16: Botschafter Togo in Moskau.
+Found
+MODSMD_ARTICLE17: Sowjetmarschall Blücher endgültig in Ungnade.
+Found
+MODSMD_ARTICLE18: Französische Ohrfeige für Litwiuow.
+Found
+MODSMD_ARTICLE19: Zahlreiche Araber erschossen.
+Found
+MODSMD_ARTICLE20: Strenges Ausgehverbot in Jerusalem.
+Found

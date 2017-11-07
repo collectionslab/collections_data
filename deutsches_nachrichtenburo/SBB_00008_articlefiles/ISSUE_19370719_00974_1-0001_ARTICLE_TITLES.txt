@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Tag der Deutschen Kunst.
+Found
+MODSMD_ARTICLE02: Reichsgerichtspräsident a. D. Simons beigesetzt.
+Found
+MODSMD_ARTICLE03: Neuer Oberbürgermeister von Bayreuth.
+Found
+MODSMD_ARTICLE04: Sperre für das Krankenhaus der „Barmherzigen Brüder".
+Found
+MODSMD_ARTICLE05: Eine besorgte Betrachtung des ehemaligen Ministers Fabry.
+Found
+MODSMD_ARTICLE06: Dr. Hodscha wieder beauftragt.
+Found
+MODSMD_ARTICLE07: Die Prager Regierungskrise in ungarischer Beurteilung.
+Found
+MODSMD_ARTICLE08: „Erst Anerkennung, dann Zurückziehung der Freiwilligen!"
+Found
+MODSMD_ARTICLE09: Die Reichsarbeitsdienst-Abordnung in Sofia.
+Found
+MODSMD_ARTICLE10: Neuer japanischer Protest in Nanking.
+Found

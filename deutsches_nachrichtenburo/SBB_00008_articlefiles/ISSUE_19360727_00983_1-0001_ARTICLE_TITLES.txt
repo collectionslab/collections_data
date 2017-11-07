@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer zum Sieg auf dem Nürburg-Ring.
+Found
+MODSMD_ARTICLE02: Spende des Führers für die Flüchtlinge aus Spanien.
+Found
+MODSMD_ARTICLE03: Eine Ehrengabe Argentiniens.
+Found
+MODSMD_ARTICLE04: Die Sicherung künstlerischen Filmschaffens.
+Found
+MODSMD_ARTICLE05: Kongreß für körperliche Erziehung.
+Found
+MODSMD_ARTICLE06: Der 6. Weltgeflügelkongreß.
+Found
+MODSMD_ARTICLE07: Zur Beachtung bei Reisen in die Tschechoslowakei.
+Found
+MODSMD_ARTICLE08: Die Leitung der Freiluftschulbewegung in Deutschland.
+Found
+MODSMD_ARTICLE09: Henry Pichot in Hamburg.
+Found
+MODSMD_ARTICLE10: Gedenktag an die erste deutsche Einwanderung in Brasilien.
+Found
+MODSMD_ARTICLE11: Der König von England wieder in London.
+Found
+MODSMD_ARTICLE12: Zur Auslieferung von Konstruktionsplänen an Rußland.
+Found
+MODSMD_ARTICLE13: General Queipo de Llano über die Lage.
+Found
+MODSMD_ARTICLE14: Nationalistischer Vormarsch auf Malaga.
+Found
+MODSMD_ARTICLE15: Madrider Lageberichte.
+Found
+MODSMD_ARTICLE16: Eine Unterredung mit General Francs.
+Found
+MODSMD_ARTICLE17: Italiens Neutralität im Spanien-Konflikt.
+Found
+MODSMD_ARTICLE18: Leith-Rost wieder in London.
+Found
+MODSMD_ARTICLE19: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found

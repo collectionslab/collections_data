@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Mordprozetz Frankfurter.
+Found
+MODSMD_ARTICLE02: Zum Mordprozeß frankfurter in Chur.
+Found
+MODSMD_ARTICLE03: Baldur von Schirach an die deutschen Eltern.
+Found

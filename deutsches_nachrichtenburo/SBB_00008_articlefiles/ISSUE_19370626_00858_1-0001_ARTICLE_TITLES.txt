@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Führer ehrt den Kapitän der „Deutschland".
+Found
+MODSMD_ARTICLE02: Besuch des kanadischen Ministerpräsidenten in Berlin.
+Found
+MODSMD_ARTICLE03: HJ.-Dienst und konfessionelle Betätigung.
+Found
+MODSMD_ARTICLE04: Eröffnung des Reichskriegertages 1937.
+Found
+MODSMD_ARTICLE05: Besuch des Reichskriegsministers in Budapest.
+Found
+MODSMD_ARTICLE06: Kopftaxen für geschmuggelte Bolschewisten.
+Found
+MODSMD_ARTICLE07: Weshalb der englische Währungsfonds erhöht wurde.
+Found
+MODSMD_ARTICLE08: Systematische Herausforderungen der Sowjets.
+Found

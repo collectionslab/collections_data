@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Salazar.
+Found
+MODSMD_ARTICLE02: Tanktelegramm an den Führer.
+Found
+MODSMD_ARTICLE03: Deutsch-belgisches Reiseverkehrsabkommen.
+Found
+MODSMD_ARTICLE04: Besuch polnischer Landwirtschaftler in Deutschland.
+Found
+MODSMD_ARTICLE05: Noch ein Toter auf Zeche „General Blumenthal".
+Found
+MODSMD_ARTICLE06: Britische Ehrung für Prof. Förster.
+Found
+MODSMD_ARTICLE07: Feierliche Einweihung des Finkhaushalligkooges.
+Found
+MODSMD_ARTICLE08: Der Herzog von Coburg in Genf.
+Found
+MODSMD_ARTICLE09: Empfang im „Deutschen Haus" der Weltausstellung.
+Found
+MODSMD_ARTICLE10: Paris grüßt die Hansestadt Köln.
+Found
+MODSMD_ARTICLE11: Spanische Bolschewistenhäuptlinge in Paris.
+Found
+MODSMD_ARTICLE12: Noch ein konservativer Nachwahlsieg in England.
+Found
+MODSMD_ARTICLE13: Das „Fest aller Deutschen" in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE14: „Frankreichs ernste Stunde".
+Found
+MODSMD_ARTICLE15: Tonischer Sieg über Frankreich im Schwimmländerkamps.
+Found

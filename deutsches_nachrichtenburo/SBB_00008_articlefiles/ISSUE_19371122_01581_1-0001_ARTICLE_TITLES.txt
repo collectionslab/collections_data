@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Goebbels auf der Ordensburg Sonthofen.
+Found
+MODSMD_ARTICLE02: Rosenberg auf der Tagung des Amtes für Schrifttmnspslege.
+Found
+MODSMD_ARTICLE03: Wiener Juden für Rückkehr Ottos von Habsburg.
+Found
+MODSMD_ARTICLE04: „Italien läßt sich auf seinem Weg nicht aufhalten".
+Found
+MODSMD_ARTICLE05: „Das wahre Frankreich will keinen Krieg für Moskau".
+Found
+MODSMD_ARTICLE06: Um die Teuerungszulage für Frankreichs Beamte.
+Found
+MODSMD_ARTICLE07: Kommunistische Lügenmeldung widerlegt.
+Found
+MODSMD_ARTICLE08: Einsatz französischer Panzerwagen in Beirut.
+Found
+MODSMD_ARTICLE09: Japans Haltung gegenüber einer Vermittlung unverändert.
+Found
+MODSMD_ARTICLE10: Japans Forderung an die internationalen Niederlassungen.
+Found
+MODSMD_ARTICLE11: Chinesen geben ihre Verteidigungslinien auf.
+Found
+MODSMD_ARTICLE12: Englands Botschafter in Nanking geht nach Tschnngking.
+Found
+MODSMD_ARTICLE13: Brasilien stellt die Anslandsschuldenzahlungen ein.
+Found
+MODSMD_ARTICLE14: Aktion gegen die Kommunisten in Brasilien.
+Found

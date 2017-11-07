@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Glückwünsche für den Reichssportführer.
+Found
+MODSMD_ARTICLE02: Dr. Gürtner bei einem Autounfall leicht verletzt.
+Found
+MODSMD_ARTICLE03: Wechsel in der Leitung des Wohnungshauptverbandes.
+Found
+MODSMD_ARTICLE04: Italienische Gäste im Gau Köln—Aachen.
+Not Found
+MODSMD_ARTICLE05: Amerikanische Reisefachleute in München.
+Found
+MODSMD_ARTICLE06: Eine Gauhandwerksschule in Düsseldorf.
+Found
+MODSMD_ARTICLE07: Beginn deutsch-lettischer Wirtschaftsverhandlnngen.
+Found
+MODSMD_ARTICLE08: Tie deutschen Flieger haben England verlassen.
+Found
+MODSMD_ARTICLE09: Modernisiertes englisches Schlachtschiff wurde leck.
+Found
+MODSMD_ARTICLE10: Zeitungsenten und ihr Ende.
+Found
+MODSMD_ARTICLE11: Der Gedenktag von Flitsch-Tolmein.
+Found
+MODSMD_ARTICLE12: Kundgebung der ungarischen Rechtsbewegung.
+Found
+MODSMD_ARTICLE13: Die Neubildung der luxemburgischen Regierung.
+Found
+MODSMD_ARTICLE14: Der Gouverneur der Belgischen Nationalbank beurlaubt.
+Found
+MODSMD_ARTICLE15: „Belgien droht nur von Frankreich aus Gefahr/'
+Found
+MODSMD_ARTICLE16: Offene Worte an England und Frankreich.
+Found
+MODSMD_ARTICLE17: Deutsche Schiffe vor Teneriffa warm begrüßt.
+Found
+MODSMD_ARTICLE18: Schwere Zusammenstöße in Vorderindien.
+Found
+MODSMD_ARTICLE19: Japaner setzen 100 Tanks im Taschang-Abschnitt ein.
+Found

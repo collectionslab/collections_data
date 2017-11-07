@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Daluege 41 Jahre alt.
+Found
+MODSMD_ARTICLE02: Abschiedsempsang zu Ehren der polnischen Frontkämpfer.
+Found
+MODSMD_ARTICLE03: Arbeitslosigkeit auf ein Sechstel gesunken.
+Found
+MODSMD_ARTICLE04: Die englischen Straßenbausachverstüudigen in München.
+Found
+MODSMD_ARTICLE05: Jugendführer aus dem Irak in Schlesien.
+Found
+MODSMD_ARTICLE06: Minister Farinacci bei italienischen Landarbeitern.
+Found
+MODSMD_ARTICLE07: Hunderte von sudetendeutschen Amtswaltern verschleppt.
+Found
+MODSMD_ARTICLE08: Dr. Neuwirth bei Runciman.
+Found
+MODSMD_ARTICLE09: Das Empire begrüßt die Aussprache mit dem Führer.
+Found
+MODSMD_ARTICLE10: Chamberlain auf dem Wege Zu Adolf Killet.
+Found
+MODSMD_ARTICLE11: Ter englische Botschafter bei Daladier.
+Found
+MODSMD_ARTICLE12: Der englische Geschäftsträger bei Ciano.
+Found
+MODSMD_ARTICLE13: Keine Sowjettruppen durch Rumänien.
+Found
+MODSMD_ARTICLE14: „A Voz": „Die Komödie der Prinzipien muß aufhören.^
+Found
+MODSMD_ARTICLE15: Aktion arabischer Freiheitskämpfer in Bethlehem.
+Found
+MODSMD_ARTICLE16: 29 chinesische Flugzeuge zerstört.
+Found

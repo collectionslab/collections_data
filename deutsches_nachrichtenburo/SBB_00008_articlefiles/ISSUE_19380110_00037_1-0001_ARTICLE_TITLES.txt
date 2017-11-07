@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Verwendung italienischer Arbeiter in Deutschland.
+Found
+MODSMD_ARTICLE02: Eine Hochzeitsgabe für die griechische Kronprinzessin»
+Found
+MODSMD_ARTICLE03: Eine Unterredung mit Dr. Filchner in Genua.
+Found
+MODSMD_ARTICLE04: Der Prager Besuch Micescus abgeschlossen.
+Found
+MODSMD_ARTICLE05: Die Auflockerung bei der Kleinen Entente.
+Found
+MODSMD_ARTICLE06: Em Interview Gogas über die Judenfrage in Rumänien.
+Found
+MODSMD_ARTICLE07: Arbeitswiederaufnahme bei den Goodrich-Werken.
+Found
+MODSMD_ARTICLE08: Bor einem Aerztestreik in Nord-Frankreich?
+Found
+MODSMD_ARTICLE09: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE10: Der dänische Außenminister bei Bundesrat Motta.
+Found
+MODSMD_ARTICLE11: Um. die schweizerische Neutralität.
+Found
+MODSMD_ARTICLE12: Neue Richtlinien für Australiens Einwanderungspolitik.
+Found
+MODSMD_ARTICLE13: Londoner Marxistenorganisation boykottiert Japan-Waren.
+Found
+MODSMD_ARTICLE14: Dienststelle Nanking der Deutschen Botschaft wieder tätig.
+Found
+MODSMD_ARTICLE15: Fürsorge eines Deutschen für die Bevölkerung Nankings.
+Found

@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Berlins HI-Führer im Sportpalast.
+Found
+MODSMD_ARTICLE02: Reichstheatertagung der HJ. in Bochum.
+Found
+MODSMD_ARTICLE03: Ungarns Philharmoniker in München.
+Found
+MODSMD_ARTICLE04: Ter Zentralverlag der NSDAP. Zeichnet 59 999 Mark Zum Dankopfer der Nation.
+Found
+MODSMD_ARTICLE05: Dr. Ley in Turin.
+Found

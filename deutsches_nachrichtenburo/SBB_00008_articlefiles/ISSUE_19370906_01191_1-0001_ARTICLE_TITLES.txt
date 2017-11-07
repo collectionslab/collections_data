@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Proklamation des Führers im Rundfunk.
+Found
+MODSMD_ARTICLE02: Ein Mahnmal an den Opfertod Gustloffs.
+Found
+MODSMD_ARTICLE03: Die Antibolschewistische Ausstellung eröffnet.
+Found
+MODSMD_ARTICLE04: Einsatz der Frau in der Nation.
+Found
+MODSMD_ARTICLE05: Starke Beachtung des Parteitages in Italien.
+Found
+MODSMD_ARTICLE06: „Hitler hat die deutsche Jugend die Freude gelehrt."
+Found
+MODSMD_ARTICLE07: Delbos für Zusammenarbeit aller Völker.
+Found
+MODSMD_ARTICLE08: „Die Volksfront hat alles versprochen und nichts gehalten."
+Found
+MODSMD_ARTICLE09: Das U-Boot „C 4" darf in Bordeaux ausgebefsert werden.
+Found
+MODSMD_ARTICLE10: 71 sowjetspanische Schiffe nach Bayonne geflüchtet.
+Found
+MODSMD_ARTICLE11: Bolschewistische „Helden".
+Found
+MODSMD_ARTICLE12: Die Einladungslifte zur Mittelmeerkonferenz. ,
+Found
+MODSMD_ARTICLE13: Außenminister Akel in Warschau.
+Found
+MODSMD_ARTICLE14: Lettlands Staatspräsident kll Jahre alt.
+Found
+MODSMD_ARTICLE15: Ein Pilgersonderzug verunglückt: 14 Tote.
+Found

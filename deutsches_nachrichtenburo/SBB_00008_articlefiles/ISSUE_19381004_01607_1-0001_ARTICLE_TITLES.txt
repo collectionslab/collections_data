@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Förderung der deutsch-italienischen RechtsbeZiehungen.
+Found
+MODSMD_ARTICLE02: Spanische Jugendführer in der Reichshanpistadt.
+Found
+MODSMD_ARTICLE03: Der Frankenführer beglückwünscht Henlein.
+Found
+MODSMD_ARTICLE04: Fahrt durch das befreite Land.
+Found
+MODSMD_ARTICLE05: Noch immer Zahlreiche Sudetendeutsche im Gefängnis.
+Found
+MODSMD_ARTICLE06: Bedeutende Verstärkung der britischen Luftflotte.
+Found
+MODSMD_ARTICLE07: Kabinetts- und Ministerrat in Paris.
+Found
+MODSMD_ARTICLE08: Wintertaguug des dänischen Reichstages.
+Found
+MODSMD_ARTICLE09: Auftakt zum Winterhilfswerk 1938/39.
+Found
+MODSMD_ARTICLE10: Norwegische Zeitung verteidigt das Friedensabkonnnen.
+Found
+MODSMD_ARTICLE11: Der polnische Staatspräsident an König Boris.
+Found
+MODSMD_ARTICLE12: Ordensverleihung an den Reichswirtschaftsminister.
+Found
+MODSMD_ARTICLE13: Neue Vizepräsidenten der Sowjet-Staatsbank.
+Found
+MODSMD_ARTICLE14: Japanischer Erfolg am Jaugtse.
+Found

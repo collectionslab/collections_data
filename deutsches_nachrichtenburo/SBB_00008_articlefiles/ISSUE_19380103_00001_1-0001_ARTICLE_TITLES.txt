@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Der Neujahrsaufruf des Führers.
+Found
+MODSMD_ARTICLE02: Der Führer an die Wehrmacht.
+Found
+MODSMD_ARTICLE03: Führer und Staatsoberhäupter tauschen Glück- Wünsche.
+Found
+MODSMD_ARTICLE04: Dr. Goebbels zum Jahreswechsel.^
+Found

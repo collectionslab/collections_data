@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Bulgarischer Besuch in der Reichshauptstadt.
+Found
+MODSMD_ARTICLE02: Tie Ostmark fördert die Beziehungen zum Norden.
+Found
+MODSMD_ARTICLE03: Deutsch-finnische Wirtschaftsvereinbarungen unterzeichnet.
+Found
+MODSMD_ARTICLE04: Japanische Staatsschätze für die Ausstellung in Berlin.
+Found
+MODSMD_ARTICLE05: Lebhafte Spanienaussprache im Unterhaus.
+Found
+MODSMD_ARTICLE06: Britische Handelsbilanz stark passiv.
+Found
+MODSMD_ARTICLE07: Umfangreiche kanadische Flugzeugproduktion für England?
+Found
+MODSMD_ARTICLE08: Rückgang im britischen Handelsschiffsbau.
+Found
+MODSMD_ARTICLE09: Neue Haltung der englischen Außenpolitik?
+Found
+MODSMD_ARTICLE10: Weitere Pariser Pressestimmen zur Daladier-Rede.
+Found
+MODSMD_ARTICLE11: So plündern die Bolschewismen Barcelona aus.
+Found
+MODSMD_ARTICLE12: Auszeichnung für den Verteidiger von Oviedo.
+Found
+MODSMD_ARTICLE13: Freundschaftliche Regelung zwischen Japan und England.
+Found
+MODSMD_ARTICLE14: Tie Weltausstellung in Tokio verschoben.
+Found

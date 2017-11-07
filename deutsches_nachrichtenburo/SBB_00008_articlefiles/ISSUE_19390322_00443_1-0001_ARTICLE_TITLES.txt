@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer auf dem Wege ins Memelland.
+Found
+MODSMD_ARTICLE02: Die litauische Abordnung in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE03: Der Neichsprotektor dem Führer unmittelbar unterstellt.
+Found
+MODSMD_ARTICLE04: Stuckart Leiter der Zentralstelle für das Protektorat.
+Found
+MODSMD_ARTICLE05: Die Kanzlei des Führers verlegt.
+Found
+MODSMD_ARTICLE06: Dr. Ley Parteiabordnung nach Rom.
+Found
+MODSMD_ARTICLE07: Der neuernannte Gesandte Rumäniens traf in Berlin ein.
+Found
+MODSMD_ARTICLE08: Reichswirtschaftsminister Funk in Sonthofen.
+Found
+MODSMD_ARTICLE09: Das Reichsnährstandsgesetz auch in Danzig.
+Found
+MODSMD_ARTICLE10: Die letzten Beratungen in Kowno.
+Found
+MODSMD_ARTICLE11: Italien begrüßt die Heimkehr des deutschen Memellandes.
+Found
+MODSMD_ARTICLE12: Die Unerschütterlichkeit der Achse.
+Found
+MODSMD_ARTICLE13: Lebrun in der Guildhall.
+Found
+MODSMD_ARTICLE14: Der Londoner polnische Botschafter von Bonnet empfangen.
+Found
+MODSMD_ARTICLE15: Keine Generalstabsbesprechungen Englands mit USA.
+Found
+MODSMD_ARTICLE16: London zur Wahrheit gezwungen.
+Found
+MODSMD_ARTICLE17: Kjosseiwanoff wieder in Sofia.
+Found
+MODSMD_ARTICLE18: Transjordanischer Aufstand in vollem Gange.
+Found

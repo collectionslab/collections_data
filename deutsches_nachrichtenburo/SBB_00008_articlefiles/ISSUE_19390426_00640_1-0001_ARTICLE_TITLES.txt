@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Rudolf Heß 45 Jahre alt.
+Found
+MODSMD_ARTICLE02: Vertiefung der deutsch-jugoslawischen Freundschaft.
+Found
+MODSMD_ARTICLE03: Das beste Dementi ausländischer Alarmnachrichten.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Besondere militärische Sicherungsmaßnahmen Dänemarks.
+Found
+MODSMD_ARTICLE06: Englische Aufrüstung zwingt zu neuen Stenern.
+Found
+MODSMD_ARTICLE07: Unerwarteter Zusammentritt des britischen Kabinetts.
+Found
+MODSMD_ARTICLE08: Englische Wehrpflicht für 4 Jahrgänge beschlossen?
+Found
+MODSMD_ARTICLE09: Luftverkehr Deutschland—Türkei.
+Not Found
+MODSMD_ARTICLE10: Roosevelt hört die Führerrede in Hydepark.
+Found
+MODSMD_ARTICLE11: Phrasen aus Washington.
+Found
+MODSMD_ARTICLE12: Das neue australische Kabinett.
+Found

@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: „Wir sind stolz ans Euch, deutsche Frauen und Mütter!"
+Found
+MODSMD_ARTICLE03: Chwalkowsky beim Führer.
+Found
+MODSMD_ARTICLE04: Der estnische Außenminister aus Moskau zurückgekehrt.
+Found
+MODSMD_ARTICLE05: Litauen würdigt das Uebereinkommen Berlin—Moskau.
+Not Found
+MODSMD_ARTICLE06: Amerikas Frauen für Beibehaltung des Waffenembargos.
+Found

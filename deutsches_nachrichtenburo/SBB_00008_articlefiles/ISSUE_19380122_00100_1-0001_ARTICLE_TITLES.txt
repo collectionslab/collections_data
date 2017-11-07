@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Führer ehrt Professor Troost.
+Found
+MODSMD_ARTICLE02: Königin-Witwe Marie von Jugoslawien in München.
+Found
+MODSMD_ARTICLE03: Stojadinowitsch besichtigt einen Zeitungsbetrieb.
+Found
+MODSMD_ARTICLE04: Ehrung der Retter von Edesheim.
+Found
+MODSMD_ARTICLE05: Drei Vaterlandsverräter hingerichtet.
+Found
+MODSMD_ARTICLE06: Moskauer Methoden.
+Found
+MODSMD_ARTICLE07: Der Zwischenfall auf dem Peipus-See.
+Found
+MODSMD_ARTICLE08: Der gute Auftakt für Chautemps.
+Found
+MODSMD_ARTICLE09: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE10: Konoe und Hirota vor dem Reichstag.
+Found

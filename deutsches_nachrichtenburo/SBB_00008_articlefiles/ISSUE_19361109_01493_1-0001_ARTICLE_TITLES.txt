@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Berlin im Zeichen des 9. November.
+Found
+MODSMD_ARTICLE02: Elp an die National Broadcastina Company.
+Found
+MODSMD_ARTICLE03: Das Ensemble der Dresdener Staatsoper bei Ribbentrop»
+Found
+MODSMD_ARTICLE04: „Mvrmng Post" fordert Verbot der Kommunistenpartei.
+Found
+MODSMD_ARTICLE05: Mussolini über die Mittelmeerpolitik und England.
+Found
+MODSMD_ARTICLE06: Mosley gegen das geplante Uniformverbot.
+Found
+MODSMD_ARTICLE07: Lord Londonderry über die englische Aufrüstung.
+Found
+MODSMD_ARTICLE08: Flandin für Neuwahlen.
+Found
+MODSMD_ARTICLE09: Der Besuch Graf Cianos in Wien.
+Found
+MODSMD_ARTICLE10: Unamuno über die Verbrechen der Noten.
+Found
+MODSMD_ARTICLE11: Lissabon über die Kämpfe um die Madrider Innenstadt.
+Found
+MODSMD_ARTICLE12: Humane Behandlung der Geiseln gefordert.
+Found
+MODSMD_ARTICLE13: Queipo de Llano klagt die Sowjetunion an.
+Found
+MODSMD_ARTICLE14: Lebhafte Gefechtstätigkeit im Süden von Madrid.
+Found
+MODSMD_ARTICLE15: Die „Regierung" von Bilbao und die Sowjetunion.
+Found
+MODSMD_ARTICLE16: Die Ausreise Hütts nach Südamerika verhindert.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Dr. Ernst Knoll Ministerialdirektor.
+Found
+MODSMD_ARTICLE02: Negentschaftsvorlage vom Unterhaus angenommen.
+Found
+MODSMD_ARTICLE03: Englische Rekrntierungssorgen.
+Found
+MODSMD_ARTICLE04: Paris nach der Wehraussprache.
+Found
+MODSMD_ARTICLE05: Moskauer Anweisungen für kommunistische Kammergruppe.
+Found
+MODSMD_ARTICLE06: Rüschtü Aras und Graf Ciano in Mailand.
+Found
+MODSMD_ARTICLE07: Ostjuden geben sich als „Spanier" aus.
+Found
+MODSMD_ARTICLE08: Spanische Bolschewistenschiffsleitung sucht Schutz.
+Found
+MODSMD_ARTICLE09: Schlachtschiff „Nelson" in Barcelona.
+Found
+MODSMD_ARTICLE10: Greuzübergriff bolschewistischer Spamer.
+Found
+MODSMD_ARTICLE11: Wieder ein Bolschewistendampfer aufgebracht.
+Found
+MODSMD_ARTICLE12: Häuptling der „Internationalen Brigade" Zurückgetreten.
+Found
+MODSMD_ARTICLE13: Von den spanischen Fronten.
+Found
+MODSMD_ARTICLE14: Sitzung des Nichteinmischungs-Unterausschusses.
+Found
+MODSMD_ARTICLE15: Radek-Sobelsohus Tochter verhaftet.
+Found
+MODSMD_ARTICLE16: Personalveränderungen in der Sowjet-Kriegsflotte.
+Found
+MODSMD_ARTICLE17: Anschlag im Hafen von Portland.
+Found
+MODSMD_ARTICLE18: Neuer Chef des rumänischen Generalftabes.
+Found
+MODSMD_ARTICLE19: Zuspitzung der Lage in Mint.
+Found
+MODSMD_ARTICLE20: Sianfu in der Hand der Kommunisten.
+Found

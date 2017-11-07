@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Berliner Havas-Vertreter ausgewiesen.
+Found
+MODSMD_ARTICLE02: Von hier aus wird die Seuche übertragen!
+Found
+MODSMD_ARTICLE03: Die große politische Führertagung beginnt.
+Found
+MODSMD_ARTICLE04: Der bulgarische Gesandte vom Bremer Senat empfangen.
+Found
+MODSMD_ARTICLE05: Italienischer Besuch in der Kolonialen Frauenschule.
+Found
+MODSMD_ARTICLE06: Starke Beachtung Berliner Jagdausstellung in Rumänien.
+Found
+MODSMD_ARTICLE07: Strafverfahren gegen die Teplitzer Polizisten gefordert.
+Found
+MODSMD_ARTICLE08: Aus der Haft entlassen.
+Found
+MODSMD_ARTICLE09: Die Schriftleiter der „Kattowitzer Zeitung" wieder frei.
+Found
+MODSMD_ARTICLE10: Das Untermenschentum Moskaus ergebenster Vasall.
+Found
+MODSMD_ARTICLE11: Besuch einer jugoslawischen Militärmission in Rom.
+Found
+MODSMD_ARTICLE12: „Verständigung mit der Achse Berlin—Rom."
+Not Found
+MODSMD_ARTICLE13: Italien weist englische! Falschmeldung zurück.
+Found
+MODSMD_ARTICLE14: „Eine wertvolle Hilfe für die internationale Verständigung".
+Found
+MODSMD_ARTICLE15: Peinliches Schweigen in Brüssel.
+Found
+MODSMD_ARTICLE16: Havas muß dementieren.
+Found
+MODSMD_ARTICLE17: Syriens Ministerpräsident will nach Frankreich fahren.
+Found
+MODSMD_ARTICLE18: Eine Erklärung Hulls.
+Found

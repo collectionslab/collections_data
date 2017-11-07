@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ueber 3VV9 Kilometer Reichsautobahn frei.
+Found
+MODSMD_ARTICLE02: Siemens-Ring für Generalinspektor Tobt.
+Found
+MODSMD_ARTICLE03: Die Wahl in Memel-Stadt.
+Found
+MODSMD_ARTICLE04: Dr. Schacht Zu kurzem Besuch iu London.
+Found
+MODSMD_ARTICLE05: Filmpropaganda für die englischen Rüstungen.
+Found
+MODSMD_ARTICLE06: Der italienische Voranschlag für 1339/40.
+Found
+MODSMD_ARTICLE07: Frankreichs Fehlurteil über Italien.
+Found
+MODSMD_ARTICLE08: Eine neue politische Tageszeitung in Paris.
+Found
+MODSMD_ARTICLE09: Telegrammwechsel Beck—Graf Csaky.
+Not Found
+MODSMD_ARTICLE10: Nationalspanien beansprucht die Kriegführende-Rechte.
+Found
+MODSMD_ARTICLE11: Der arabische Plan für London.
+Found
+MODSMD_ARTICLE12: Neue Fluggeschwader in Austtalien.
+Found
+MODSMD_ARTICLE13: Ehemalige Sekretärin Ballins in Sicherungsverwahrung.
+Found

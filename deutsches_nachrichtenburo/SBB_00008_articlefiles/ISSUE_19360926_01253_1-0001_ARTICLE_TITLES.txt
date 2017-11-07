@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Kampf dem Verderb. Es geht um Milliarden RM jährlich.
+Found
+MODSMD_ARTICLE02: Gegen die bolschewistische Gefahr.
+Found
+MODSMD_ARTICLE03: Schärfste Kritik der Budapester Presse an Genf.
+Found
+MODSMD_ARTICLE04: Der Negus wieder in London.
+Found
+MODSMD_ARTICLE05: Die Regelung der Bauernschulden in Jugoslawien.
+Found
+MODSMD_ARTICLE06: Gerüchte über den früheren spanischen König.
+Found
+MODSMD_ARTICLE07: Ter Kreis um Bilbao geschlossen.
+Found
+MODSMD_ARTICLE08: Die Roten erschießen 99 Geiseln.
+Found
+MODSMD_ARTICLE09: Dynamitgeladene Geiselschiffe der spanischen Marxisten.
+Found
+MODSMD_ARTICLE10: Massenmorde in Ronda.
+Found
+MODSMD_ARTICLE11: Leichte Entspannung in Schanghai.
+Found
+MODSMD_ARTICLE12: Interesse Englands und Amerikas an der Lage in China.
+Found

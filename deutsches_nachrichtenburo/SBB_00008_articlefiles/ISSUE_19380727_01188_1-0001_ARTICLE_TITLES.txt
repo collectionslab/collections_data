@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Grundsätze des NationslitÄtenstatuts.
+Found
+MODSMD_ARTICLE03: Immer wieder Polen-Verfolgung in der Tscheche-Slowakei.
+Found
+MODSMD_ARTICLE04: Bon Prag aus kommunistisch verseucht.
+Found
+MODSMD_ARTICLE05: Zuchthaus für bolschewistische Werber in Wolhynien.
+Found
+MODSMD_ARTICLE06: Jugoslawiens Adria-Politik.
+Found
+MODSMD_ARTICLE07: Labour-Denkschrift über Mängel britischer Lustaufrüstung.
+Found
+MODSMD_ARTICLE08: Bombenwürfe in Nanking.
+Found
+MODSMD_ARTICLE09: Der Grenzzwischenfall am Ussuri-Fluß.
+Found
+MODSMD_ARTICLE10: Rekordausfuhr amerikanischer Kriegsflugzeuge.
+Found
+MODSMD_ARTICLE11: Urteil wegen des Aufstandsversuches in Rio vom 11. Mai.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Die Preisbildung für ausländische Waren.
+Found
+MODSMD_ARTICLE03: Der Deutsche Zentralverein homöopathischer Aerzte tagt.
+Found
+MODSMD_ARTICLE04: Eine halbe Million in der Ausstellung „Entartete Kunst".
+Found
+MODSMD_ARTICLE05: Erfolg des Einspruches im Prozeß Kensau.
+Found
+MODSMD_ARTICLE06: Ständig wachsende jüdische Frechheit in Polen.
+Found
+MODSMD_ARTICLE07: Zuspitzung der polnisch-litauischen Minderheitenpolitik.
+Found
+MODSMD_ARTICLE08: Polnisch-rumänisches Flugverkehrs-Abkommen.
+Found
+MODSMD_ARTICLE09: Wiederaufnahme des Kraftdroschkenverkehrs in Paris.
+Found
+MODSMD_ARTICLE10: Propagandaabteilung im französischen Außenministerium.
+Found
+MODSMD_ARTICLE11: Die Folgen des Volksfront-Experiments.
+Found
+MODSMD_ARTICLE12: Das Geheimnis um Litwinows Wiener Ausenthalt.
+Found
+MODSMD_ARTICLE13: Abgehalfterte und ueueruanute Sowjetbeamte.
+Found
+MODSMD_ARTICLE14: Der Eisenbahnverkehr Schanghai—Nanking eingestellt.
+Found
+MODSMD_ARTICLE15: Keine Zurückziehung der Schanghais China-Gendarmerie.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Beileidstelegramm Dr. Schachts.
+Found
+MODSMD_ARTICLE02: Merkblatt über die deutschen Devisenvorschriften.
+Found
+MODSMD_ARTICLE03: Deutscher Historikertag in Erfurt eröffnet.
+Found
+MODSMD_ARTICLE04: Himmler vor den nationalsozialistischen Dozenten.
+Found
+MODSMD_ARTICLE05: Bürgermeister Linder Stellv. Ganleiter von Hessen-Nassau.
+Found
+MODSMD_ARTICLE06: „Daily Mail" warnt vor falscher Behandlung der Lage.
+Found
+MODSMD_ARTICLE07: Staatsbesuch des englischen Königspaares in Schottland.
+Found
+MODSMD_ARTICLE08: Die irischen Landtagswahlen.
+Found
+MODSMD_ARTICLE09: Palästina soll in drei Teile geteilt werden.
+Found
+MODSMD_ARTICLE10: Der Präsident der Philippinen kommt nach Berlin.
+Found
+MODSMD_ARTICLE11: Blum sucht seinen Rücktritt Zu begründen.
+Found
+MODSMD_ARTICLE12: Der Streit um die Amnestie in Belgien.
+Found
+MODSMD_ARTICLE13: Nationaler Heeresbericht vom Sonntag.
+Found
+MODSMD_ARTICLE14: Der neue amerikanische Gesandte in Wien.
+Found
+MODSMD_ARTICLE15: Immer wieder „entlarvte Schädlinge" im Sowjetparadies.
+Found
+MODSMD_ARTICLE16: Sowjetorden für jüdische Massenmörder.
+Found
+MODSMD_ARTICLE17: Tic Suche nach der deutschen Himalaja-Expedition.
+Found

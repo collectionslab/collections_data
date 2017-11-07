@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer prüft die Befestigungen in der Saarpfalz.
+Found
+MODSMD_ARTICLE02: Die Besichtigungsfahrt der Reichs- und Gauleiter.
+Found
+MODSMD_ARTICLE03: Mussolini ehrt den Einiger Italiens.
+Found
+MODSMD_ARTICLE04: ~Danzig so deutsch, wie Rouen französisch."
+Found
+MODSMD_ARTICLE05: Die italienisch-jugoslawische Freundschaft.
+Found
+MODSMD_ARTICLE06: Sowjetpakt „unter allen Umständen".
+Found
+MODSMD_ARTICLE07: Dreimonatiger Arbeitsdienst in Ungarn.
+Found
+MODSMD_ARTICLE08: Die Wahrheit über Danzig.
+Found
+MODSMD_ARTICLE09: London in tödlicher Verlegenheit.
+Found
+MODSMD_ARTICLE10: Scharfer Vorstoß gegen den englischen Königsbesuch.
+Found
+MODSMD_ARTICLE11: Araber gegen den Länderschacher der Einkreisungsmächte.
+Found
+MODSMD_ARTICLE12: Die Palästina-Juden drohen.
+Found
+MODSMD_ARTICLE13: Zwei Landesverräter hingerichtet.
+Found

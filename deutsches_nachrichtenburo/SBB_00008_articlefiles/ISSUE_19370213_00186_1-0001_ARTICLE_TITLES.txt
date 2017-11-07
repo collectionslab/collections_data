@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Glückwunsch Minister Dr. Fricks an Prof. Heim.
+Found
+MODSMD_ARTICLE02: Stabschef Luhe an Staatssekretär Kleinmann.
+Found
+MODSMD_ARTICLE03: Rücktritt des Reichskirchenausschusses.
+Found
+MODSMD_ARTICLE04: Arbeiterführer Cianetti besucht Deutschland.
+Found
+MODSMD_ARTICLE05: Starker Rückgang der Säuglingssterblichkeit.
+Found
+MODSMD_ARTICLE06: Von Patzen übergibt Karl Strobl die Goethe-Medaille.
+Found
+MODSMD_ARTICLE07: Vertrauenskundgebung für Rydz-Smigly im Sejm.
+Found
+MODSMD_ARTICLE08: Polens Entrüstung über die tschechische Politik.
+Found
+MODSMD_ARTICLE09: Rumäniens Außenminister nach Athen abgereist.
+Found
+MODSMD_ARTICLE10: Die Freimaurer auf Seiten der Bolschewisten.
+Found
+MODSMD_ARTICLE11: Das Vordringen der Nationalen südlich von Madrid.
+Found
+MODSMD_ARTICLE12: Chile schützt sich vor dem Kommunismus.
+Found
+MODSMD_ARTICLE13: Drei Verbrecher hingerichtet.
+Found
+MODSMD_ARTICLE14: Die Kennzahl der Großhandelspreise vom Ii). Februar 1937. Berlin, 13. Februar.
+Found

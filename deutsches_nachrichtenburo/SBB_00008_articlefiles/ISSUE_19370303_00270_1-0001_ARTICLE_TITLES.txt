@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Das Diplomatische Korps auf der Automobilausstellung.
+Found
+MODSMD_ARTICLE02: Erlaß Rufts über die verkürzte Schulausbildung. .
+Found
+MODSMD_ARTICLE03: Ehrenchormeister Professor Wohlgemuth f.
+Found
+MODSMD_ARTICLE04: Gnesener Kommunisten verurteilt.
+Found
+MODSMD_ARTICLE05: Polens lugendarbeitsdienst nimmt festere formen an.
+Found
+MODSMD_ARTICLE06: Arierbestimmung in einem weiteren polnischen Verband.
+Found
+MODSMD_ARTICLE07: „Deutsch-tschechischer Ausgleich" Potemkin-Vereiubarung.
+Found
+MODSMD_ARTICLE08: Tschechoslowakisch-französische Handelsabkommen.
+Found
+MODSMD_ARTICLE09: Veränderungen im französischen Schulwesen.
+Found
+MODSMD_ARTICLE10: Französische Verordnung über Oberbefehl der Kriegsmarine.
+Found
+MODSMD_ARTICLE11: Der erste ägyptische Botschafter in London.
+Found
+MODSMD_ARTICLE12: Wieder Werksbesetzung durch Streikende in Frankreich.
+Found
+MODSMD_ARTICLE13: „Tribnna" zu den Beschlüssen des Faschistischen Großrats.
+Found
+MODSMD_ARTICLE14: Die Erfolge des Grafen Ciano.
+Found
+MODSMD_ARTICLE15: Die finnische Regierung zurückgetreten.
+Found

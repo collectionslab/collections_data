@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Schirach gegen konjunkturöeflissene Dichterlinge.
+Found
+MODSMD_ARTICLE02: 76. Hauptversammlung des Vereins Deutscher Ingenieure.
+Found
+MODSMD_ARTICLE03: Eine Unterredung mit Konrad Henlein.
+Found
+MODSMD_ARTICLE04: Zusammentritt des Prager Parlaments endgültig abgesagt.
+Found
+MODSMD_ARTICLE05: Ungeheurer Wahlterror der Tschechen.
+Found
+MODSMD_ARTICLE06: Französische Stimmungsmache für Prag.
+Found
+MODSMD_ARTICLE07: Neuer Pressechef des schwedischen Außenministeriums.
+Found
+MODSMD_ARTICLE08: Ter nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE09: Die italienisch-spanische Solidarität.
+Found
+MODSMD_ARTICLE10: Bombenabwurf auf Cerböre ein Werk der Sowjetspanier.
+Found
+MODSMD_ARTICLE11: Aegyptische Solidarität mit den Arabern Palästinas.
+Found
+MODSMD_ARTICLE12: Dresdener Sieg im Teutschlandflug.
+Found

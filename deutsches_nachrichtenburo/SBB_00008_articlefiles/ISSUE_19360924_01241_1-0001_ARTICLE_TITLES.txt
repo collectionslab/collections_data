@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Die Londoner Presse zum Genfer Beschluß.
+Found
+MODSMD_ARTICLE02: „Litwinow hat den Völkerbund torpediert".
+Found
+MODSMD_ARTICLE03: Die dänische Presse über den Genfer Entschluß.
+Found
+MODSMD_ARTICLE04: „Messaggero": „Die Genfer Komödie wird zu einer Farce".
+Found
+MODSMD_ARTICLE05: „Gewissenlosigkeit der Genfer Einrichtung."
+Found
+MODSMD_ARTICLE06: „Gazeta Polska" über die Zulassung der Abessinier.
+Found
+MODSMD_ARTICLE07: Ultimatum General Molas an Bilbao.
+Found
+MODSMD_ARTICLE08: Der Vormarsch der Nationalisten auf Madrid.
+Found

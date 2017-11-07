@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Deutsche Volksgruppentagung in Lettland.
+Found
+MODSMD_ARTICLE02: Die Libyen-Reise Mussolinis ein Triumphzug.
+Found
+MODSMD_ARTICLE03: „Voce d'Jtalia" gegen ausländische Provokateure.
+Found
+MODSMD_ARTICLE04: Der internationale Ueberwachungsplan in Kraft.
+Found
+MODSMD_ARTICLE05: Daladier fordert Zur Rüstungsanleihezeichnung auf.
+Found
+MODSMD_ARTICLE06: Garvin brandmarkt bolschewistische Methoden.
+Found
+MODSMD_ARTICLE07: Neuer Streit um die Weihnachtsinsel?
+Found
+MODSMD_ARTICLE08: Grausamkeiten spanischer Bolschewisten.
+Found
+MODSMD_ARTICLE09: Spaniens Landbevölkerung gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE10: Dringender Hilferuf Madrids an Valencia.
+Found
+MODSMD_ARTICLE11: Bolschewistische Sprengstoff-Schmuggler verhaftet.
+Found
+MODSMD_ARTICLE12: Der Heeresbericht vom Sonnabend.
+Found
+MODSMD_ARTICLE13: Internationale Brigade gegen Zivilbevölkerung eingesetzt.
+Found
+MODSMD_ARTICLE14: Van Zeeland gegen kommunistische Wahlunterstützung.
+Found
+MODSMD_ARTICLE15: Flämisch-Nationaler Verband unterstützt Degrelle.
+Found
+MODSMD_ARTICLE16: Ein Sowjetjude wieder an leitender Stelle.
+Found

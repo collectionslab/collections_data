@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ehrenempfang in der Reichskanzlei.
+Found
+MODSMD_ARTICLE02: Zwei tapfere Not-Kreuz-Schwestern.
+Found
+MODSMD_ARTICLE03: Die jugoslawische Presseabordnung aus Berlin abgereist.
+Found
+MODSMD_ARTICLE04: Prinzregent Paul von Jugoslawien in Dresden.
+Found
+MODSMD_ARTICLE05: Außenministers Munters nach Berlin abgereist.
+Found
+MODSMD_ARTICLE06: Estnische Stimmen zu den Verträgen mit dem Reich.
+Found
+MODSMD_ARTICLE07: Italiens Presse über die Begegnung Dr. Goebbels-Alfieri.
+Found
+MODSMD_ARTICLE08: Der Weltkongreß der Luftfahrtpresse.
+Found
+MODSMD_ARTICLE09: Italien umjubelt seine Legionäre.
+Found
+MODSMD_ARTICLE10: „Eine natürliche und herzliche Atmosphäre."
+Found
+MODSMD_ARTICLE11: 71 Senatoren in Rumänien ernannt.
+Found
+MODSMD_ARTICLE12: Deutsch-rumänischer Studenten-Austausch.
+Found
+MODSMD_ARTICLE13: Der polnische Kampf gegen das Deutschtum im Olsagebiet.
+Found
+MODSMD_ARTICLE14: Attentat auf die Herzogin von Kent.
+Found
+MODSMD_ARTICLE15: Die sowjetrussische Antwort wird noch geprüft.
+Found
+MODSMD_ARTICLE16: Scharfer Zusammenstoß im Abgeordnetenhaus.
+Found

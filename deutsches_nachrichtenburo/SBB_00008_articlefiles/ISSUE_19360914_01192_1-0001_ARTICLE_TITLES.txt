@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Truppenfahnen der Wehrmacht.
+Found
+MODSMD_ARTICLE02: Spanier spenden für die deutschen Flüchtlinge.
+Found
+MODSMD_ARTICLE03: Wieder deutsche Spanien-Flüchtlinge in Hamburg.
+Found
+MODSMD_ARTICLE04: San Sebastian atmet auf.
+Found
+MODSMD_ARTICLE05: Verhandlungen über den Austausch von Geiseln.
+Found
+MODSMD_ARTICLE06: Besprechung Thörey mit dchn Komintern.
+Found
+MODSMD_ARTICLE07: Geheimnisvolles Waffenlager in Lyon.
+Found
+MODSMD_ARTICLE08: König Eduard VIII. nach London gestartet.
+Found
+MODSMD_ARTICLE09: Der Zwischenfall am Hyde-Park.
+Found
+MODSMD_ARTICLE10: Prag für Fortsetzung der Sowjetpolitik Titulescus.
+Found
+MODSMD_ARTICLE11: Die Beratung des Ständigen Rates der Kleinen Entente.
+Found
+MODSMD_ARTICLE12: Krofta über die Politik der Kleinen Entente.
+Found
+MODSMD_ARTICLE13: Der österreichische Finanzminister reist nach Genf.
+Found
+MODSMD_ARTICLE14: Schweres Brandunglück in Ostoberschlesien.
+Found
+MODSMD_ARTICLE15: Leichte Erkrankung des Königs von Albanien.
+Found
+MODSMD_ARTICLE16: Der norwegische Staatsrat beschließt Hilfsmaßnahmen.
+Found
+MODSMD_ARTICLE17: 17 Menschen verbrannt.
+Found

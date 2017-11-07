@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Beileidstelegramm Horthys.
+Found
+MODSMD_ARTICLE02: Die Verluste in Almeria.
+Found
+MODSMD_ARTICLE03: Die Londoner Presse zu den spanischen Ereignissen.
+Found
+MODSMD_ARTICLE04: „Eine gerechte Vergeltungsmaßnahme".
+Found
+MODSMD_ARTICLE05: „Aus Berlin keine Gefahr für Europa".
+Found
+MODSMD_ARTICLE06: Der nationale Heeresbericht vom Montag.
+Found
+MODSMD_ARTICLE07: Die Voraussetzungen des internationalen Fremdenverkehrs.
+Found
+MODSMD_ARTICLE08: „Das Erbe Pilsudskis darf nicht verschleudert werden."
+Found
+MODSMD_ARTICLE09: Die Slowaken fordern Autonomie.
+Found
+MODSMD_ARTICLE10: Selbstmord des stellvertretenden Verteidigungskommissars.
+Found

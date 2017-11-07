@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der ungarische Staatssekretär von Szily in Berlin.
+Found
+MODSMD_ARTICLE02: Funk bei der Landesgruppe Italien der NSDAP.
+Found
+MODSMD_ARTICLE03: „Frankreich ist der Feind des italienischen Volkes".
+Found
+MODSMD_ARTICLE04: Die Bilanz der Daladier-Reise.
+Found
+MODSMD_ARTICLE05: „Eine rein Zweiseitige Angelegenheit."
+Found
+MODSMD_ARTICLE06: Juden begaunern einander.
+Found
+MODSMD_ARTICLE07: Sie haben sich besonnen.
+Found
+MODSMD_ARTICLE08: Feierliche Bestattung Dmowski.
+Found
+MODSMD_ARTICLE09: Neuer Palast der Moskauer Kominternzentrale.
+Found
+MODSMD_ARTICLE10: Feuergefecht an der NordgrenZe Palästinas.
+Found
+MODSMD_ARTICLE11: Neue Opfer der Unterdrückung in Palästina.
+Found
+MODSMD_ARTICLE12: Australien siebt die Einwanderer.
+Found
+MODSMD_ARTICLE13: Der Stettiner Autofallenstellier zum Tode verurteilt.
+Found

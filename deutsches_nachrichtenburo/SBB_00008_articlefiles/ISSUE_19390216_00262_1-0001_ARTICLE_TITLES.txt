@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Vormittags- und Mittags-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Hanns Johst an Hermann Stehe.
+Found
+MODSMD_ARTICLE03: Die Grundforderungen der Deutschen in Litauen.
+Found
+MODSMD_ARTICLE04: Das britische Rüstungs-Weißbuch.
+Found
+MODSMD_ARTICLE06: 110 000 Pfund für die britische Kulturpropaganda.
+Found
+MODSMD_ARTICLE07: Paris zu den englischen Aufrüstungsplänen.
+Found
+MODSMD_ARTICLE08: Peru nimmt die diplomatischen Beziehungen zu Francs auf.
+Found
+MODSMD_ARTICLE09: Tie Schandtaten des roten Spionagedienstes „Sim".
+Found
+MODSMD_ARTICLE10: Verhaftung „politisch Unzuverlässiger" in Madrid.
+Found
+MODSMD_ARTICLE11: „Franca keineswegs ans Anerkennung angewiesen."
+Found
+MODSMD_ARTICLE12: Berichterstatter des „Daily Herald" als Räuber.
+Found
+MODSMD_ARTICLE13: Abgeordnetenhaus nimmt Roosevelts Wehrprogramm an.
+Found
+MODSMD_ARTICLE14: Die Flugzeugstützpunkt-Vorlage vor dem Ausschuß.
+Found
+MODSMD_ARTICLE15: Argentinien schränkt Wareneinfuhr aus USA ein.
+Found
+MODSMD_ARTICLE16: Australien duldet keine Judenkolonien.
+Found

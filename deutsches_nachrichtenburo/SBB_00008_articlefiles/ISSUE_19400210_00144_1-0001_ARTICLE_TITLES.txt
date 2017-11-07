@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Deutsches Illachrichtenbüro V
+Found
+MODSMD_ARTICLE02: Las lotmM der Volksdeutschen in Polen
+Found
+MODSMD_ARTICLE03: Ein U-Boot meldet: 38 999 BRT. versenkt.
+Found
+MODSMD_ARTICLE04: Ehrenamtliche Mitglieder des Volksgerichtshofes.
+Found
+MODSMD_ARTICLE05: Goethe-Medaille für den Bilhauer Klimsch.
+Found
+MODSMD_ARTICLE06: Der neue erfolgreiche Schlag der deutschen Luftwaffe.
+Found
+MODSMD_ARTICLE07: „Demokratie" in Reinkultur.
+Found
+MODSMD_ARTICLE08: Finnische Angriffe auf der Karelischen Landenge.
+Found
+MODSMD_ARTICLE09: Heftige russische Angriffe.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer hat Prag verlassen.
+Found
+MODSMD_ARTICLE02: Im Zeichen des Geistes ehrlicher Verständigung.
+Found
+MODSMD_ARTICLE03: Hilfszug „Bayern" in Dresden eingetroffen.
+Found
+MODSMD_ARTICLE04: Kirschbaum Generalsekretär der Hlinka-Partei.
+Found
+MODSMD_ARTICLE05: Die polnische Grenze von ungarischen Truppen erreicht.
+Found
+MODSMD_ARTICLE06: Sofia: Prag hat die neue Lage selbst herbeigeführt.
+Found
+MODSMD_ARTICLE07: Die kommunistische Gefahr in Mitteleuropa ist gebannt.
+Found
+MODSMD_ARTICLE08: Mexiko schließt seine Gesandtschaft in Prag.
+Found
+MODSMD_ARTICLE09: Glückwünsche Görings zur 63jährigen Ehejubelfeier.
+Found
+MODSMD_ARTICLE10: Gesandter Djuvara aus Berlin abgereist.
+Found
+MODSMD_ARTICLE11: Interpellationen zur Lage am Freitag.
+Found
+MODSMD_ARTICLE12: Der Herzog von Coburg auf dem Wege nach Sofia.
+Found
+MODSMD_ARTICLE13: Marschall Petain in.San Sebastian eingetroffen.
+Found
+MODSMD_ARTICLE14: Ruhe und Sicherheit in Böhmen und Mähren hergestellt»
+Found
+MODSMD_ARTICLE15: Die Auseinandersetzungen der Marxisten in Sowjetspanieu.
+Found
+MODSMD_ARTICLE16: Eine schweizerische Gesandtschaft beim Vatikan?
+Found
+MODSMD_ARTICLE17: Die Genfer Liga hütet Diebesgut!
+Found
+MODSMD_ARTICLE18: Die Palästina-Borschläge von den Zionisten abgelehnt.
+Found

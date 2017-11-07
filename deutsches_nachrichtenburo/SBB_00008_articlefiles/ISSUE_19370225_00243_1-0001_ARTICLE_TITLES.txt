@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Begrüßungsabend des Reichsverbandes der Auto-Industrie.
+Found
+MODSMD_ARTICLE02: Professor Dr. Bastianelli sprach in Verlin.
+Found
+MODSMD_ARTICLE03: Oberhaus amen französisch-sowzetrussisches Militärbündnis.
+Found
+MODSMD_ARTICLE04: Streik im Fünfkirchener Kohlenrevier.
+Found
+MODSMD_ARTICLE05: Rauben und Plündern ist ihr Handwerk!
+Found
+MODSMD_ARTICLE06: Bolschewistische Zweckmeldungen werden widerlegt.
+Found
+MODSMD_ARTICLE07: Proteststreik gegen jüdische Blutsauger in Polen.
+Found
+MODSMD_ARTICLE08: Außenpolitische Unterhaus Aussprache am Dienstag.
+Found
+MODSMD_ARTICLE09: Explosion in einem Truppenlager bei Antwerpen.
+Found
+MODSMD_ARTICLE10: Die holländischen Nationalfarben Rot-Weist-Blau.
+Found
+MODSMD_ARTICLE11: 19 Jahre selbständiges Estland.
+Found
+MODSMD_ARTICLE12: Der Pressechef der Kuomintang verhaftet.
+Found
+MODSMD_ARTICLE13: Japan hält an seiner Chinapolitik fest.
+Found

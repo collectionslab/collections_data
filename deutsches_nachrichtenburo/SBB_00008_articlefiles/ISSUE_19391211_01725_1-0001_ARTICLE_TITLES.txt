@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Baldur von Schirach spricht zur deutschen Jugend.
+Found
+MODSMD_ARTICLE02: Das „meerbeherrschende" England tief bekümmert.
+Found
+MODSMD_ARTICLE03: Südafrika will nicht länger Mitläufer Englands seim
+Found
+MODSMD_ARTICLE04: Timeskorrespondent: „Es sollte Zu denken geben".
+Found
+MODSMD_ARTICLE05: Die Sabotage-Akte in Bukarest.
+Found
+MODSMD_ARTICLE06: „Wolfsfalle der Sentimentalität."
+Found
+MODSMD_ARTICLE07: Kein Vormarsch der Sowjettruppen zum Atlantik.
+Found
+MODSMD_ARTICLE08: Wieder ein englischer Sperrballon über Westjütland.
+Found

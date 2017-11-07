@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Abschiedsbesuch des Grafen Magistrats beim Führer.
+Found
+MODSMD_ARTICLE02: England als „Vorkämpfer der Freiheit in Europa."
+Found
+MODSMD_ARTICLE03: Amerikanischer Rok-Kreuz-Vertreter in Krakau.
+Found
+MODSMD_ARTICLE04: Wer sich auf sich selbst stellt, ist Englands Gegner.
+Found
+MODSMD_ARTICLE05: „Sie haben sich stets getäuscht".
+Found
+MODSMD_ARTICLE06: Rücktritt des belgischen Generalstabschefs.
+Found
+MODSMD_ARTICLE07: Wieder eine demokratische Lüge geplatzt.
+Found
+MODSMD_ARTICLE08: Englischer KIM BRT-Dampfer gesunken.
+Found
+MODSMD_ARTICLE09: Die Polen sollen ein zweites Mal herhalten!
+Found
+MODSMD_ARTICLE10: Neuartige Panzerschutzschilde bei den Russen.
+Found
+MODSMD_ARTICLE11: Schwedisches Blatt an Chamberlain.
+Found
+MODSMD_ARTICLE12: Der Bericht des Oberkommandos der Wehrmacht.
+Found
+MODSMD_ARTICLE13: Rumänische Delegation in Belgrad eingetroffen.
+Found
+MODSMD_ARTICLE14: Beginn der Tagung des Balkanbundes in Belgrad.
+Found
+MODSMD_ARTICLE15: Uebereinstimmender Friedenswunsch auf dem Balkan.
+Found
+MODSMD_ARTICLE16: Zurückweisung englisch-französischer Hetzmeldungen.
+Found
+MODSMD_ARTICLE17: Verhaftung eines amerikanischen Journalisten in Japan.
+Found
+MODSMD_ARTICLE18: Vollstreckung eines Todesurteils.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Polen führt die Devisenkontrolle ein.
+Found
+MODSMD_ARTICLE02: Ministerpräsident van Zeeland in Warschau.
+Found
+MODSMD_ARTICLE03: Der Besuch Koscialkowskis in Budapest.
+Found
+MODSMD_ARTICLE04: Chamberlain bei Horthy.uud Gömbös.
+Found
+MODSMD_ARTICLE05: Vierstündiger Kronrat in Sofia.
+Found
+MODSMD_ARTICLE06: Frankreichs Presse zum bisherigen Ergebnis der Wahlen.
+Found
+MODSMD_ARTICLE07: Die Wahlen in Frankreich.
+Found
+MODSMD_ARTICLE08: Italienische Vorbereitungen zum Marsch auf Addis Abeba.
+Found
+MODSMD_ARTICLE09: Abessinische Soldaten berichten über den Zusammenbruch.
+Found
+MODSMD_ARTICLE10: In Honduras herrscht Ruhe.
+Found

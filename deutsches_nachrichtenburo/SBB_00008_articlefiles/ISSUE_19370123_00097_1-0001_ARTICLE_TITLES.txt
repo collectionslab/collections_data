@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: SA-Stistuug für die Hinterbliebenen der „Wellen-Besatzung.
+Found
+MODSMD_ARTICLE02: Tie Berliner Philharmoniker begeistern auch in Helsinki.
+Found
+MODSMD_ARTICLE03: Amnestie für Fahnenflüchtige vor der Pariser Kammer.
+Found
+MODSMD_ARTICLE04: Der Zustrom zu de la Rocque.
+Found
+MODSMD_ARTICLE05: Erkenntnis der bolschewistischen Gefahr in Paris?
+Found
+MODSMD_ARTICLE06: Neue Brotpreiserhöhung in Paris.
+Found
+MODSMD_ARTICLE07: Der Sohn Jouhaux' wegen Waffenschmuggels verhaftet.
+Found
+MODSMD_ARTICLE08: Wieder Juden an Polens Hochschulen als Unruhestifter.
+Found
+MODSMD_ARTICLE09: Unterzeichnung des jugoslawisch-bulgarischen Paktes.
+Found
+MODSMD_ARTICLE10: Rasche Aufbauarbeit der spanischen Nationalregierung.
+Found
+MODSMD_ARTICLE11: -5 . Nationaler Vorstoß von Nordosten auf Makaga.
+Found
+MODSMD_ARTICLE12: Bolschewistischer Luftangriff auf Ceuta.
+Found
+MODSMD_ARTICLE13: Die Explosionen in Lissabon.
+Found
+MODSMD_ARTICLE14: 5 Todesopfer einer Explosion in Tokio.
+Found
+MODSMD_ARTICLE15: Chicago im Dunkeln.
+Found

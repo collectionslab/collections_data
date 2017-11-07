@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Die Internationale Milchwirtschaftliche Ausstellung eröffnet.
+Found
+MODSMD_ARTICLE02: Die italienische Presse zur Mussolini-Rede.
+Found
+MODSMD_ARTICLE03: Gutes Echo in Jugoslawien.
+Found
+MODSMD_ARTICLE04: Paris: „Alle Türen offen gelassen".
+Found
+MODSMD_ARTICLE05: Der Generalsekretär des Völkerbundes in Estland.
+Found
+MODSMD_ARTICLE06: Die Kennzahl der Großhandelspreise vom 18. August.
+Found

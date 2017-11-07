@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer in Nürnberg.
+Found
+MODSMD_ARTICLE02: Ein Empfang zu Ehren Dr. Dietrichs.
+Found
+MODSMD_ARTICLE03: Oesterreichs Studenten danken Ruft.
+Found
+MODSMD_ARTICLE04: 10 VW Oesterreicher beim Stapellauf des KdF.-Schiffes.
+Found
+MODSMD_ARTICLE05: 2009 Steiermärker in München.
+Found
+MODSMD_ARTICLE06: Empfang der österreichischen Kommandeure in München.
+Found
+MODSMD_ARTICLE07: Dr. Schacht in Wien.
+Found
+MODSMD_ARTICLE08: Erhebende Feierstunde in den Wiener Schulen.
+Found
+MODSMD_ARTICLE09: Wiedergutmachung früheren Unrechts.
+Found
+MODSMD_ARTICLE10: Reichsführer SS. Himmler in Graz.
+Found
+MODSMD_ARTICLE11: Sofortige Hilfe für österreichische Bauern.
+Found
+MODSMD_ARTICLE12: Französische Anerkennung der deutschen Motorentechnik.
+Found
+MODSMD_ARTICLE13: Grandi wieder in London.
+Found
+MODSMD_ARTICLE14: Spaltung in der ungarischen Kleinlandwirte-Partei.
+Found
+MODSMD_ARTICLE15: Neuer Präsident der ungarischen Staatsbahnen.
+Found
+MODSMD_ARTICLE16: Zwei bedeutsame Erklärungen ungarischer Politiker.
+Found
+MODSMD_ARTICLE17: Das Rücktrittsgesuch Lozoraitis abgelehnt.
+Found
+MODSMD_ARTICLE18: Der nationale Heeresbericht.
+Found

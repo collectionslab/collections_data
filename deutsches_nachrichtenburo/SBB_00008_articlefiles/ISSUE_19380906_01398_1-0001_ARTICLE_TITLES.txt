@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an die Königin der Niederlande.
+Found
+MODSMD_ARTICLE02: Aus der, Diplomatie.
+Found
+MODSMD_ARTICLE03: Aus der Deutsch-Italienischen Gesellschaft.
+Found
+MODSMD_ARTICLE04: Gebietsbereinigungen in preußischen Provinzen.
+Found
+MODSMD_ARTICLE05: Trauerfeier für die Besatzung des „Admiral Karpfanger".
+Found
+MODSMD_ARTICLE06: Eine sudetendeutsche Richtigstellung.
+Found
+MODSMD_ARTICLE07: Tschechen-Terror im Prager Stadtparlament.
+Found
+MODSMD_ARTICLE08: Eine deutsche Erklärung an Frankreich.
+Found
+MODSMD_ARTICLE09: Das bulgarische Königspaar in London. >. si i>Z
+Found
+MODSMD_ARTICLE10: Jüdische Hetzer in Litauen.
+Found
+MODSMD_ARTICLE11: Erlahmender Verteidigungswille der Bolschewisten.
+Found
+MODSMD_ARTICLE12: Spanienbolschewisten planen Großanleihe in Frankreich.
+Found
+MODSMD_ARTICLE13: Immer wieder Neberfälle in Palästina.
+Found
+MODSMD_ARTICLE14: Deutsche Flieger begeistern Amerika»
+Found
+MODSMD_ARTICLE15: Aufstandsverfuch in Santiago niedergeschlagen.
+Found

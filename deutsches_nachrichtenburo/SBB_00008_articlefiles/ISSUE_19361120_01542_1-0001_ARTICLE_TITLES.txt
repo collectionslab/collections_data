@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Dr. Goebbels bespricht politische fragen auf Burg Vogelsang.
+Found
+MODSMD_ARTICLE02: Hauptversammlung der Schiffbautechnischen Gesellschaft.
+Found
+MODSMD_ARTICLE03: Staatssekretär Dr. Schmidt im Ehrenmal.
+Found
+MODSMD_ARTICLE04: Abendtafel zu Ehren des österreichischen Staatssekretärs.
+Found
+MODSMD_ARTICLE05: Brigadeführer Schmuck Führer der Führerschule der Obersten SA-Führung.
+Found
+MODSMD_ARTICLE06: Nationalsozialistische Gruppen in Schweden verschmolzen.
+Found
+MODSMD_ARTICLE07: Das Auslands-Echo zur Anerkennung Francas.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Das Programm des Reichsparteitages 1938
+Found
+MODSMD_ARTICLE02: Ehrung von Vertretern japanischer Kulturgesellschastm.
+Found
+MODSMD_ARTICLE03: Sir Nevile Henderson wieder in Berlin.
+Found
+MODSMD_ARTICLE04: Keine besonderen Aufträge für Botschafter Henderson.
+Found
+MODSMD_ARTICLE05: Neue tschechische Haßgesänge.
+Found
+MODSMD_ARTICLE06: Besprechungen in Prag und Marienbad.
+Found
+MODSMD_ARTICLE07: Die Prager Borschläge noch nicht überreicht.
+Found
+MODSMD_ARTICLE08: Neuer tschecho-slowakischer Militärattache in Moskau.
+Found
+MODSMD_ARTICLE09: Internationaler Tierärztlicher Kongreß 1942 in Berlin.
+Found
+MODSMD_ARTICLE10: Protest gegen Aenderung der 40-Stunden-Woche.
+Found
+MODSMD_ARTICLE11: Oberst Moriones muß büßen.
+Found
+MODSMD_ARTICLE12: Arabischer Protest wegen der Zerstörung Jeuins.
+Found
+MODSMD_ARTICLE13: Japan ehrt Professor Erwin Bältz.
+Found
+MODSMD_ARTICLE14: 17 chinesische Kampfslugzeuge abgeschossen.
+Found

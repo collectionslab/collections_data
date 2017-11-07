@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Hermann Göring 47 Jahre alt.
+Found
+MODSMD_ARTICLE02: Lilienthal Denkmünze für drei deutsche Forscher.
+Found
+MODSMD_ARTICLE03: Schändliche Lügenmanöver in London.
+Found
+MODSMD_ARTICLE04: Steuerverträge mit Jugoslawien.
+Found
+MODSMD_ARTICLE05: Deutsche Kulturarbeit in Warschau.
+Found
+MODSMD_ARTICLE06: „KriegsZiele Kriegsprofite."
+Found
+MODSMD_ARTICLE07: Der Angriff auf die „deutsche Insel Sylt".
+Found
+MODSMD_ARTICLE08: Englische Fischer empört über Churchill.
+Found
+MODSMD_ARTICLE09: Englandfahrt Todesfahrt.
+Found
+MODSMD_ARTICLE10: Echt kapitalistisch!
+Found
+MODSMD_ARTICLE11: Alarmierender Bericht der britischen Rettungsgesellschaft.
+Found
+MODSMD_ARTICLE12: Riesiger Morphiumverbrauch in London.
+Found
+MODSMD_ARTICLE13: Die sowjetrussisch-japanischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE14: Libau statt Kronstadt sowjetrussische Flottenbasis.
+Found
+MODSMD_ARTICLE15: Stimson fordert Waffenausfuhrsperre gegenüber Japan.
+Found
+MODSMD_ARTICLE16: Protest gegen Verfolgung von Coughlin-Anhängern.
+Found
+MODSMD_ARTICLE17: Die Hälfte der Bevölkerung Porto Nicos arbeitslos.
+Found

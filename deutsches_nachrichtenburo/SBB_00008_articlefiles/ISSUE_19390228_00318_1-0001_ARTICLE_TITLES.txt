@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: „Ein deutliches Zeichen des Selbstbewußtseins."
+Found
+MODSMD_ARTICLE02: Was Frankreich an Nationalspanien zurückgeben muß.
+Found
+MODSMD_ARTICLE03: Vor den Toren Madrids warten die Lebensmitteliransporte.
+Found
+MODSMD_ARTICLE04: 1,3 Millionen Flüchtlinge werden zuriickbefördert.
+Found
+MODSMD_ARTICLE05: Ein siebzigfacher roter Mörder.
+Found
+MODSMD_ARTICLE06: Die Sowjetspanier in Frankreich.
+Found
+MODSMD_ARTICLE07: Paris hat ein undankbares Thema.
+Found
+MODSMD_ARTICLE08: Londons Presse zur Anerkennung Francos.
+Found
+MODSMD_ARTICLE09: Rüstungsanleihe und Rüstungsgewinne vor dem Unterhaus.
+Found
+MODSMD_ARTICLE10: London Zu den Palästina-Verhandlungen.
+Found
+MODSMD_ARTICLE11: Italien braucht alle Hände.
+Found
+MODSMD_ARTICLE12: SchauproZeß um den Tod des Sowjetfliegers Lewanewski.
+Found
+MODSMD_ARTICLE13: Antibolschewistischer Geheimsender in Tätigkeit.
+Found
+MODSMD_ARTICLE14: Empfajng bei Botschafter Ott.
+Found
+MODSMD_ARTICLE15: England und die Lage in Schanghai.
+Found
+MODSMD_ARTICLE16: USA. darf nicht den Weltpolizisten spielen!
+Found
+MODSMD_ARTICLE17: Frau Roosevelt als Beschützerin der Neger.
+Found
+MODSMD_ARTICLE18: Politik und Geschäft in USA.
+Found
+MODSMD_ARTICLE19: Sitzstreiks gehen zu weit!
+Found
+MODSMD_ARTICLE20: Mexiko und Nationalspanien.
+Found

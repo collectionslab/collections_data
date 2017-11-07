@@ -1,0 +1,32 @@
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Italienische Studienkommission in Berlin.
+Found
+MODSMD_ARTICLE04: Staatssekretär Pfundtner sprach in Budapest.
+Found
+MODSMD_ARTICLE05: Aufdeckung einer kommunistischen Organisation in Ungarn.
+Found
+MODSMD_ARTICLE06: Horthy von Warschau nach Budapest zurückgereist.
+Found
+MODSMD_ARTICLE07: Der ungarische Staatsbesuch in Polen.
+Found
+MODSMD_ARTICLE09: Der jugoslawische Staatshaushalt.
+Found
+MODSMD_ARTICLE10: Sitzung des Obersten Verteidigungsrates in Rom.
+Found
+MODSMD_ARTICLE11: Vereinigung der „Freunde Japans" in Rom gegründet.
+Found
+MODSMD_ARTICLE12: Die Erörterung der englisch-italienischen Beziehungen.
+Found
+MODSMD_ARTICLE13: Unterhaus lehnt Lebensmittelstapelungsplätze ab.
+Found
+MODSMD_ARTICLE14: Neuer Plan für die Zurückziehung der Spanienfreiwilligen.
+Found
+MODSMD_ARTICLE15: Zuerst Reform der Rüstungsindustrie.
+Found
+MODSMD_ARTICLE16: Beamtengewerkschaft für weitere Rüstungen Frankreichs.
+Found
+MODSMD_ARTICLE17: Die Pariser Presse zum Besuch des englischen Königspaares.
+Found
+MODSMD_ARTICLE18: Der nationale Heeresbericht vom Mittwoch.
+Found

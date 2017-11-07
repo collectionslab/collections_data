@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Graf Ciano auf deutschem Gebiet.
+Found
+MODSMD_ARTICLE02: Voller Erfolg der 4. Reichsstraßensammlung.
+Found
+MODSMD_ARTICLE03: Abteilung Oesterreich des Reichsjustizmimsteriums ausgelöst.
+Found
+MODSMD_ARTICLE04: Feier Zu Ehren Friedrich Althoffs.
+Found
+MODSMD_ARTICLE05: Die deutsche Hilfsaktion im befreiten Katalonien.
+Found
+MODSMD_ARTICLE06: Drei Landesverräter hingerichtet.
+Found
+MODSMD_ARTICLE07: Rumäniens Ministerpräsident ans dem Wege zur Riviera.
+Found
+MODSMD_ARTICLE08: „Rückzug auf der ganzen Linie."
+Found
+MODSMD_ARTICLE09: Der Herzog von Koburg ehrte Marschall Pilsudski.
+Found
+MODSMD_ARTICLE10: 55 v. H. aller polnischen Schmuggler sind Juden!
+Found
+MODSMD_ARTICLE11: Jugoslawiens gradlinige Außenpolitik.
+Found
+MODSMD_ARTICLE12: Codreanu-Anhänger vor dem Militärgericht.
+Found
+MODSMD_ARTICLE13: Auch Holland wacht auf.
+Found
+MODSMD_ARTICLE14: Azana schreibt Theaterstücke.
+Found
+MODSMD_ARTICLE15: Sowjetspanier sticht Pariser Ingenieur nieder.
+Found
+MODSMD_ARTICLE16: Natioualspanien durchschaut die Absichten der Handelsjuden.
+Found
+MODSMD_ARTICLE18: Times: „Jeder Aufschub nutzlos."
+Found
+MODSMD_ARTICLE19: Die irakische Abgeordnetenkammer aufgelöst.
+Found
+MODSMD_ARTICLE20: Todesurteile gegen Araber am laufenden Band.
+Found
+MODSMD_ARTICLE21: In ganz Mandschukuo Feiern und Umzüge.
+Found
+MODSMD_ARTICLE22: Australiens Stellung zu einem europäischen Kriege.
+Found
+MODSMD_ARTICLE23: Tie Geschäftsverbindungen USA.—Südamerika.
+Not Found
+MODSMD_ARTICLE24: Akten über Sowjetspion in USA. spurlos verschwunden.
+Found

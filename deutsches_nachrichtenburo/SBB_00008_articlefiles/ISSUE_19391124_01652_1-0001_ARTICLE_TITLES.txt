@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Mit fremden Augen.
+Found
+MODSMD_ARTICLE02: Generalinspektor Dr. Todt am Westwall.
+Found
+MODSMD_ARTICLE03: Die Türkei hat die Geduld verloren.
+Found
+MODSMD_ARTICLE04: Ausfuhr holländischer Milchprodukte nach England erschwert.
+Found
+MODSMD_ARTICLE05: Englands Gefängnisse „ein verfluchter Skandal".
+Found
+MODSMD_ARTICLE06: „Frankreich fehlen die Rohmaterialien."
+Found
+MODSMD_ARTICLE07: Vor dem Boykott aller englischen Waren in Indien.
+Found
+MODSMD_ARTICLE08: Keine Handelsvertragsverhandlungen Japans—USA.
+Found
+MODSMD_ARTICLE09: Die Japaner in Nanning.
+Found

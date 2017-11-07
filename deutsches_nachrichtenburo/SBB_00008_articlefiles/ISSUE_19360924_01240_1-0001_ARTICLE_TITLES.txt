@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Otto Frickhoeffer in die Reichssendeleitung berufen.
+Found
+MODSMD_ARTICLE02: Beifallsstürme für Nürnberger Film-Szenen in Lissabon.
+Found
+MODSMD_ARTICLE03: „Graf Zeppelin" wieder nach Südamerika unterwegs.
+Found
+MODSMD_ARTICLE04: Sir Philip Sassoon besichtigt Luftstützpunkte.
+Found
+MODSMD_ARTICLE05: Neue englische Truppenverstärkungen in Palästina.
+Found
+MODSMD_ARTICLE06: Wolde Mariam unterwirst sich Italien.
+Found
+MODSMD_ARTICLE07: Ein Dementi der Agentur Havas.
+Found
+MODSMD_ARTICLE08: Pariser Schokoladenfabriken besetzt. '
+Found
+MODSMD_ARTICLE09: Amnestie in Syrien.
+Found
+MODSMD_ARTICLE10: Vayonne von Flüchtlingen überschwemmt.
+Found
+MODSMD_ARTICLE11: Andorra lehnt Schutz durch Frankreich ab.
+Found
+MODSMD_ARTICLE12: Britischer Protest in Madrid.
+Found
+MODSMD_ARTICLE13: Madrider „Volksfront" für Einigung aller „Antifaschisten".
+Found
+MODSMD_ARTICLE14: Brasiliens Abgeordnete ehren die Verteidiger des Alcazar.
+Found
+MODSMD_ARTICLE15: Zum Abbruch der Beziehungen Uruguays zu Madrid.
+Found
+MODSMD_ARTICLE16: Eine Erklärung des Portugiesischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE17: Große Waffenfunde in der Nähe von Lüttich.
+Found
+MODSMD_ARTICLE18: 50-Jahrfeier der „Goldstadt" Johannesburg.
+Found
+MODSMD_ARTICLE19: Sowjetrussische Militärattaches nach Moskau gerufen.
+Found
+MODSMD_ARTICLE20: Die sowjetrussischen Ernteschwierigkeiten.
+Found

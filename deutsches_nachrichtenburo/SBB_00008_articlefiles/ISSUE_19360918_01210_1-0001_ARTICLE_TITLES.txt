@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Deutsche Frontkämpfer auf den serbischen Schlachtfeldern.
+Found
+MODSMD_ARTICLE02: Einigung im französischen Textilarbeiterstreik.
+Found
+MODSMD_ARTICLE03: Chautemps stellvertretender Außenminister.
+Found
+MODSMD_ARTICLE04: Entschließungen des Europäischen Nationalitätenkongresses.
+Found
+MODSMD_ARTICLE05: Chinesische Vorschläge zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE06: Der Negus wendet sich an den Haager Gerichtshof.
+Found
+MODSMD_ARTICLE07: Winston Churchill besucht die Maginot-Linie.
+Found
+MODSMD_ARTICLE08: Der rumänische Verkehrsminister in Belgrad.
+Found
+MODSMD_ARTICLE09: 25 britische Kriegsschiffe in spanischen Gewässern.
+Found
+MODSMD_ARTICLE10: Mexikanisches Kriegsmaterial für die Marxisten in Malaga.
+Found
+MODSMD_ARTICLE11: Erfolge der Nationalisten an allen Fronten.
+Found
+MODSMD_ARTICLE12: Handelsminister Roper für gesunde Geschäftsverbindungen.
+Found
+MODSMD_ARTICLE13: Deutscher Bund gegen die Eingliederung Südwest-Afrikas.
+Found

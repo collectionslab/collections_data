@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer zum Richtfest des Deutschen Hauses in Paris.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Vertriebsgenehmigung für Luftschutzgegenstände.
+Found
+MODSMD_ARTICLE04: Deutsche Forscher dienen der Volksernährung.
+Found
+MODSMD_ARTICLE05: Dreßler-Andreß vor dem Weltrundfunkverein.
+Found
+MODSMD_ARTICLE06: Matrosen der „Emden" retten 15 Frauen und Kinder.
+Found
+MODSMD_ARTICLE07: Präsident Lehnich in Paris.
+Found
+MODSMD_ARTICLE08: Eine weitere Bombe in Perpignan gefunden.
+Found
+MODSMD_ARTICLE09: Verstärkung der Sowjetarmee im Fernen Osten.
+Found
+MODSMD_ARTICLE10: Sprengstoffanschlag auf ein polnisches Gefängnis.
+Found
+MODSMD_ARTICLE11: Böswillige Gerüchte über Ungarn.
+Found
+MODSMD_ARTICLE12: Krach in einer österreichischen Monarchisten-Versammlung.
+Found
+MODSMD_ARTICLE13: Jugoslawien beschlagnahmt einen französischen Dampfer.
+Found

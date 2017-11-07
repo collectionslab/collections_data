@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Graf Welczcck zur Berichterstattung nach Berlin berufen.
+Found
+MODSMD_ARTICLE02: Meldung des Oberbefehlshabers des Heeres an den Führer.
+Found
+MODSMD_ARTICLE03: Brauchitsch dankt den Soldaten.
+Found
+MODSMD_ARTICLE04: Die Tschechen zur Truppenparade in Prag.
+Found
+MODSMD_ARTICLE05: Die Slowakei feiert ihre Befreiung.
+Found
+MODSMD_ARTICLE06: Rom Zum Einzug des Führers in Berlin.
+Found
+MODSMD_ARTICLE07: Der Generalsekretär der spanischen Falange beim Duce.
+Found
+MODSMD_ARTICLE08: Die Lügenmeldung geht weiter ihren Weg.
+Found
+MODSMD_ARTICLE09: Genfer Grostrat gegen kommunistischen Schwätzer.
+Found
+MODSMD_ARTICLE10: Ruhe an der Front in Spanien.
+Found
+MODSMD_ARTICLE11: Bonnet empfing Botschafter.
+Found
+MODSMD_ARTICLE12: Die Kroaten verlangen föderative Verfassung.
+Found
+MODSMD_ARTICLE13: Araber entwaffnen britische Militärstation.
+Found
+MODSMD_ARTICLE14: Araber geißeln die englische Heuchelei.
+Found
+MODSMD_ARTICLE15: Junkers-Bomber fliegt Geschwindigkeitsrekord.
+Found
+MODSMD_ARTICLE16: Vollstreckung eines Todesurteils.
+Found

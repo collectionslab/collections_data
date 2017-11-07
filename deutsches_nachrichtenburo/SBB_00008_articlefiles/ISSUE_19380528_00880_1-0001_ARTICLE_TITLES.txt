@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ein Telegramm des Führers an den BDI.
+Found
+MODSMD_ARTICLE02: Tagung der Gesellschaft zur Rettung Schiffbrüchiger.
+Found
+MODSMD_ARTICLE03: 4. Reichsberufswettkampf der deutschen Studenten.
+Found
+MODSMD_ARTICLE04: Die europäischen Rübenaubauer an Minister Darre.
+Found
+MODSMD_ARTICLE05: Der 15. Deutsche Wcltwirischaftsiag in Königsberg.
+Found
+MODSMD_ARTICLE06: Anordnung zum Aufbau von Arbeitsfront und KdF.
+Found
+MODSMD_ARTICLE07: Für eine radikale Lösung der Judenfrage.
+Found
+MODSMD_ARTICLE08: Wie Prag die Gemeindewahlen durchfuhrt.
+Found
+MODSMD_ARTICLE09: Slowakenabordnung im Warschauer Rathans empfangen.
+Found
+MODSMD_ARTICLE10: Außenminister Beck beim schwedischen Kronprinzenpaar.
+Found
+MODSMD_ARTICLE11: Gemeinsame Neutralitätsregeln der Nordstaaten.
+Found
+MODSMD_ARTICLE12: Rotterdamer Bombenexplosion ein Werk der GPU.
+Found
+MODSMD_ARTICLE13: Die Besprechungen des französischen Außenministers.
+Found
+MODSMD_ARTICLE14: Sowjetrußlaud torpediert den Frieden.
+Found
+MODSMD_ARTICLE15: Drei englisch-türkische Handelsabkommen.
+Found
+MODSMD_ARTICLE16: Neue blutige Zusammenstöße auf Jamaica.
+Found

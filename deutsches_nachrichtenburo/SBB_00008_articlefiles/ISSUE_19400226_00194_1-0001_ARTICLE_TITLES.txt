@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: „Nelson" durch Mine schwer beschädigt.
+Found
+MODSMD_ARTICLE02: Italienische und rumänische Gäste beim Reichssportführer.
+Found
+MODSMD_ARTICLE03: Neue Neutralitätsverletzung der Engländer.
+Found
+MODSMD_ARTICLE04: Englands brutale Seekriegsführung gegen Belgien.
+Found
+MODSMD_ARTICLE05: Die „Hegemonien der großen Demokratien."
+Found
+MODSMD_ARTICLE06: Unverschämte englische Agitationsversuche in Italien.
+Found
+MODSMD_ARTICLE07: „Mit Weygand nicht einverstanden".
+Found
+MODSMD_ARTICLE08: London und Paris durchschaut.
+Found
+MODSMD_ARTICLE09: Die Arbeitstagung der Donau-Kommission abgeschlossen.
+Found
+MODSMD_ARTICLE10: Unterrichtsminister Bottai vor Pressevertretern.
+Found
+MODSMD_ARTICLE11: Deutsch-italienischer Warenverkehr für 194 V festgelegt.
+Found
+MODSMD_ARTICLE12: Neues Grenzverkehrsabkommen mit Italien.
+Found
+MODSMD_ARTICLE13: Eröffnung der Sobranje.
+Found
+MODSMD_ARTICLE14: 22. Jahrestag der Unabhängigkeit Estlands.
+Found
+MODSMD_ARTICLE15: Explosionen in nordirischen Kinos.
+Found
+MODSMD_ARTICLE16: England forderte Jnternierung der „Spee"-Mannschast.
+Found

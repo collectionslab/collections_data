@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Die Reichshauptstadt rüstet zum Empfang.
+Found
+MODSMD_ARTICLE02: Dänemark zum Führerbesuch.
+Found
+MODSMD_ARTICLE03: Die militärische Ehrenbezeigung für den Führer.
+Found
+MODSMD_ARTICLE04: Marxistische Niederlage bei den Berner Parlamentswahlen.
+Found
+MODSMD_ARTICLE06: Krag verbietet die Einfuhr Wiener Zeitungen.
+Found
+MODSMD_ARTICLE07: Polnische Vorwürfe gegen Prag.
+Found
+MODSMD_ARTICLE08: Neue Anweisungen des Geheimsenders in der Sowjetunion.
+Found
+MODSMD_ARTICLE09: Die neue estnische Regierung bestätigt.
+Found
+MODSMD_ARTICLE10: Staatsbesuch des belgischen Königs im Haag.
+Found
+MODSMD_ARTICLE11: Kabinettssitzung in Brüssel.
+Found
+MODSMD_ARTICLE12: „Die Wahrungsfrage für Belgien nicht gestellt."
+Found
+MODSMD_ARTICLE13: Alle Dienftgebliude flerggen!
+Found
+MODSMD_ARTICLE14: Belgien errichtet in Irland eine Gesandtschaft.
+Found
+MODSMD_ARTICLE15: Der britische Kolonialminister bleibt im Amt?
+Found
+MODSMD_ARTICLE16: Der Kampf um das Judengesetz in Budapest.
+Found
+MODSMD_ARTICLE17: Jouhaux will auf eigene Faust handeln.
+Found
+MODSMD_ARTICLE18: Das Wüten gegen die spanische Geistlichkeit.
+Found
+MODSMD_ARTICLE19: Admiral Jamamoto in Burgos.
+Found
+MODSMD_ARTICLE20: USA-Botschafter in Moskau nach Brüssel versetzt.
+Found
+MODSMD_ARTICLE21: Folgen der Fraukenabwertung.
+Found

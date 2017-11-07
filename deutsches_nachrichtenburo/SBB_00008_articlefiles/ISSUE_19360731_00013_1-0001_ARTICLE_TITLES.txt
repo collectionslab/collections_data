@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Die ersten Olympiasieger. Deutschland erringt fünf goldene, fünf silberne und zwei bronzene Medaillen.
+Found
+MODSMD_ARTICLE02: Bier sprechen zur Welt! Die Hüter der Olympischen Idee zur XI. Olympiade.
+Found
+MODSMD_ARTICLE03: Der italienische Kronprinz in Berlin.
+Found
+MODSMD_ARTICLE04: Die griechische Mannschaft am Ehrenmal.
+Found
+MODSMD_ARTICLE05: Die deutschen Kämpfer im Olympischen Dorf.
+Found
+MODSMD_ARTICLE06: König Eduard an die britische Olympia-Mannschaft.
+Found
+MODSMD_ARTICLE07: „Die großartigsten Spiele der Neuzeit..."
+Found

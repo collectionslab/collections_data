@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Es wird weiter gefrühstückt.
+Found
+MODSMD_ARTICLE02: Britischer Tanker durch eine Mine versenkt.
+Found
+MODSMD_ARTICLE03: Englisches Vorpostenschiff schwer beschädigt.
+Found
+MODSMD_ARTICLE04: Italienischer Dampfer auf eine Mine gelaufen.
+Found
+MODSMD_ARTICLE05: „15 VW t an einem Tag versenkt".
+Found
+MODSMD_ARTICLE06: Rasch wachsende Teuerung in England.
+Found
+MODSMD_ARTICLE07: Das „überreiche Imperium".
+Found
+MODSMD_ARTICLE08: Er kam, sah und schoß daneben.
+Found
+MODSMD_ARTICLE09: Vom französischen Gegenspionagedienst verhaftet.
+Found
+MODSMD_ARTICLE10: Das internationale Judentum kontrolliert Frankreich.
+Found
+MODSMD_ARTICLE11: „Antirussifche Tendenzen in London und in Paris wachsen".
+Found
+MODSMD_ARTICLE12: Stärkster englisch-französischer Druck gegen Skandinavien.
+Found
+MODSMD_ARTICLE13: Um die lettischen Holzlieferungen.
+Found
+MODSMD_ARTICLE14: Der russische Lagebericht.
+Found
+MODSMD_ARTICLE15: König Haakon eröffnete die neue Storting-Session.
+Found
+MODSMD_ARTICLE16: Scharfe Angriffe gegen Hulls Handelspolitik.
+Found
+MODSMD_ARTICLE17: Amerikas Staatsschuld über 42 Milliarden Dollar.
+Found
+MODSMD_ARTICLE18: Vergeblicher englischer „Protest" in Washington.
+Found
+MODSMD_ARTICLE19: Del Rio zum Präsideuten von Ecuador gewählt.
+Found
+MODSMD_ARTICLE20: Vollstreckung eines Todesurteils.
+Found

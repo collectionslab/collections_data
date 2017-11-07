@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Richtfest des Neubaus der japanischen Botschaft.
+Found
+MODSMD_ARTICLE02: Arbeitstagung des Zentralbüros „Freude und Arbeit".
+Found
+MODSMD_ARTICLE03: „Deutschland sieht unbesorgt in die Zukunft."
+Found
+MODSMD_ARTICLE04: 40W0 spanische Kinder wurden verschleppt.
+Found
+MODSMD_ARTICLE05: „Ungewöhnlich scharf."
+Found
+MODSMD_ARTICLE06: Polen glaubt nicht mehr an Strnngs Erfolg.
+Found
+MODSMD_ARTICLE07: Kläglicher Zweckoptimismus in Paris.
+Found
+MODSMD_ARTICLE08: „Noch unannehmbar" sagt Molotow.
+Found
+MODSMD_ARTICLE09: Englands große Sorgen um Fernost.
+Found
+MODSMD_ARTICLE10: Das englische Blutkonto in Palästina.
+Found
+MODSMD_ARTICLE11: Palästina beweist den Bankrott des Mandatssystems.
+Found
+MODSMD_ARTICLE12: Gefecht zwischen englischem Militär und Arabern.
+Found
+MODSMD_ARTICLE13: Araber im Konzentrationslager erschossen.
+Found
+MODSMD_ARTICLE14: Einlenken der Vereinigten Staaten im Fall Swatau?
+Found

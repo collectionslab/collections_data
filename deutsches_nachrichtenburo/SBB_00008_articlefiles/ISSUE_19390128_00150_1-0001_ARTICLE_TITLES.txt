@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Oberregierungsrat Fritzsche zum Ministerialrat ernannt.
+Found
+MODSMD_ARTICLE02: Italienische und polnische Gäste in Berlin.
+Found
+MODSMD_ARTICLE03: Schwedens Außenminister auf der Durchreise in Berlin.
+Found
+MODSMD_ARTICLE04: Im Gedenken an Hans Hohlfelder.
+Found
+MODSMD_ARTICLE05: Kvrpsfnhrer Huhnlein wieder genesen.
+Found
+MODSMD_ARTICLE06: Glückwunschtelegramm Nosenbergs.
+Found
+MODSMD_ARTICLE07: Namensändernngsrecht in Oesterreich und im Sudetengau.
+Found
+MODSMD_ARTICLE08: „Europas Schicksalskampf im Osten."
+Found
+MODSMD_ARTICLE09: Der „Tag der Polizei" in Danzig.
+Found
+MODSMD_ARTICLE10: Telegramm des Duce an General Franca.
+Found
+MODSMD_ARTICLE11: Verwundete Spanienfreiwillige in Rom angekommen.
+Found
+MODSMD_ARTICLE12: In Eilmärschen weiter vorwärts.
+Found
+MODSMD_ARTICLE13: Die Bonzen auf der Flucht.
+Found
+MODSMD_ARTICLE14: Zahllose Glückwünsche für Franca aus allen Ländern.
+Found
+MODSMD_ARTICLE15: Nationalspanische Truppen in Port-Bon.
+Found
+MODSMD_ARTICLE16: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE17: Tschechische Maßnahmen zum Judenproblem.
+Found
+MODSMD_ARTICLE18: Kommunistische Mandate in Prag endgültig aberkannt.
+Found
+MODSMD_ARTICLE19: Stürmische Unabhängigkeitsfeiern in Indien.
+Found
+MODSMD_ARTICLE20: Argentinische Hilfe für das chilenische Erdbebengebiet.
+Found
+MODSMD_ARTICLE21: Die Kennzahl der Großhandelspreise vom 25. Januar.
+Found

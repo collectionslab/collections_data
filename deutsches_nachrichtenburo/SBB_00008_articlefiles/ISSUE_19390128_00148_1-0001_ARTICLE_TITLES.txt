@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Reichsaußennnmster an Oberst Beck.
+Found
+MODSMD_ARTICLE02: Die Führerschaft der SA. beim Oberbefehlshaber des Heeres.
+Found
+MODSMD_ARTICLE03: Arbeitstagung der Akademie für Bauforschung in Innsbruck.
+Found
+MODSMD_ARTICLE04: Italien duldet keine Erpressung.
+Found
+MODSMD_ARTICLE05: Der Tapferste ist der Würdigste!
+Found
+MODSMD_ARTICLE06: Das Los der Gefangenen.
+Found
+MODSMD_ARTICLE07: Zum Geständnis viel zu feige.
+Found
+MODSMD_ARTICLE08: Der Augenschein widerlegt Bolschewistenlügen.
+Found
+MODSMD_ARTICLE09: Portugal feiert mit.
+Found

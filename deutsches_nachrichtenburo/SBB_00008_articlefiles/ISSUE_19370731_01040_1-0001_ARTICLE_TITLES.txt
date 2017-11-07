@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Personalveränderungen in der Luftwaffe.
+Found
+MODSMD_ARTICLE02: General von Rabenau im Reichsinstitut für Geschichte.
+Found
+MODSMD_ARTICLE03: Tagung der Rundfunkintendanten in Berlin.
+Found
+MODSMD_ARTICLE04: Tagung der deutschen Flughasenleiter.
+Found
+MODSMD_ARTICLE05: Coppernicus ein preußischer Patriot.
+Found
+MODSMD_ARTICLE06: Deutsche Kunst in Paris gezeigt.
+Found
+MODSMD_ARTICLE07: Sitzung des französischen Ministerrats.
+Found
+MODSMD_ARTICLE08: Zwischenfälle bei der Festsetzung des Getreidepreises.
+Found
+MODSMD_ARTICLE09: 17 Milliarden Franken Anleihebedarf in Frankreich.
+Found
+MODSMD_ARTICLE10: Die Sitzung des Nichteinmischung Zausschusses.
+Found
+MODSMD_ARTICLE11: Lord Halifax vertritt Eden.
+Found
+MODSMD_ARTICLE12: Eine arabische Denkschrift an den Mandatsausschuß.
+Found
+MODSMD_ARTICLE13: Hanna Reitsch begeistert in Zürich.
+Found
+MODSMD_ARTICLE14: Der Atlantik gleichzeitig in beiden Richtungen überquert.
+Found

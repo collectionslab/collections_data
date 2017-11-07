@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Führerbesuch iu Augsburg.
+Found
+MODSMD_ARTICLE02: Totenfeier für den von Polen ermordeten Max Grübnau.
+Found
+MODSMD_ARTICLE03: Neuer Zwischenfall an der Danzig-polnischen Grenze.
+Found
+MODSMD_ARTICLE04: Polnische Großmannssucht.
+Found
+MODSMD_ARTICLE05: Die ersten deutschen Freiwilligen nach Hamburg unterwegs.
+Found
+MODSMD_ARTICLE06: Rückkehr von den Roten verschleppter Kinder.
+Found
+MODSMD_ARTICLE07: Generaloberst Milch in Rom.
+Found
+MODSMD_ARTICLE08: „Demokratischer Verrat an Europa."
+Found
+MODSMD_ARTICLE09: Boliviens Außenminister zurückgetreten.
+Found
+MODSMD_ARTICLE10: Riesenbrand in Estland.
+Found

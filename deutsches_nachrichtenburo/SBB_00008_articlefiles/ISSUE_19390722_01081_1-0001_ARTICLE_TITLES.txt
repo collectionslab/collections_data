@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Glanzleistungen des neuein deutschen Sturzbombers In 87.
+Found
+MODSMD_ARTICLE02: Deutscher Kriegsschiffbesuch in Schweden.
+Found
+MODSMD_ARTICLE03: Colijn bildet eine Regierung von Fachministern.
+Found
+MODSMD_ARTICLE04: Das polnische Vorgehen gegen deutsche Einrichtungen.
+Found
+MODSMD_ARTICLE05: Polen erteilt Litauen politische Lehren.
+Found
+MODSMD_ARTICLE06: Polen empfiehlt sich den Einkreisern.
+Found
+MODSMD_ARTICLE07: „Eine unmögliche Lage."
+Found
+MODSMD_ARTICLE08: Der ganze Islam gegen die Vergewaltigung Palästinas.
+Found
+MODSMD_ARTICLE09: „Der Weg für die Erörterung der Tientsin-Frage frei."
+Found
+MODSMD_ARTICLE10: Die japanische Presse zum englischen Einlenken in Tokio.
+Found
+MODSMD_ARTICLE11: Roosevelts Niederlage bringt USA.-Wirtschaft Erholung.
+Found
+MODSMD_ARTICLE12: Roosevelt soll Sparsamkeit gelehrt werden.
+Found
+MODSMD_ARTICLE13: Das erklärt vieles!
+Found
+MODSMD_ARTICLE14: Die Vereinigten Staaten rüsten auf.
+Found
+MODSMD_ARTICLE15: Die Kennzahl der Großhandelspreise vom 19. Juli 1939.
+Found

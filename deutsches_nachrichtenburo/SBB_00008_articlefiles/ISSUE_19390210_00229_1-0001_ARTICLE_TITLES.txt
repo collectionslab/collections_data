@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Dr. Draeger Leiter der Deutsch-Schwedischen Vereinigung.
+Found
+MODSMD_ARTICLE02: Neuwahlen in Belgien?
+Found
+MODSMD_ARTICLE03: Der Stand der französischen Kriegsmarine.
+Found
+MODSMD_ARTICLE04: Dritte Sitzung der Militärausschüsse des Senats.
+Found
+MODSMD_ARTICLE05: Erfolgreiche nächtliche Razzia in Warschau.
+Found
+MODSMD_ARTICLE06: Sir Horace Wilson ständiger Staatssekretär.
+Found
+MODSMD_ARTICLE07: Hodgson fährt nach Burgos Zurück.
+Found
+MODSMD_ARTICLE08: Litwinow-Finkelstein nahm übel.
+Found
+MODSMD_ARTICLE09: Nationales Expeditionskorps auf Minorca.
+Found
+MODSMD_ARTICLE10: Wieder große Waffenmengen erbeutet.
+Found
+MODSMD_ARTICLE11: Katalonien ist befreit!
+Found
+MODSMD_ARTICLE12: Nationaler Jugeudaufmarsch in Barcelona. *
+Found
+MODSMD_ARTICLE13: Der Oberste Verteidigungsrat auf Freitag vertagt.
+Found
+MODSMD_ARTICLE14: Der englische Generalftabschef in Palästina.
+Found
+MODSMD_ARTICLE15: Die Japaner auf Hainau gelandet.
+Found
+MODSMD_ARTICLE16: Die Günstlingswirtschaft in USA.
+Found
+MODSMD_ARTICLE17: Offene Umgehung des Neutralitätsgesetzes.
+Found

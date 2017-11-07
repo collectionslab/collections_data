@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Hühnlem beglückwünscht Dr. Dorpmüller.
+Found
+MODSMD_ARTICLE02: Streit über die Staatsangehörigkeit von Memelländern.
+Found
+MODSMD_ARTICLE03: Mehrarbeit ist zuschlagspslichtig.
+Found
+MODSMD_ARTICLE04: Deutsches Marineboot rettet sechs Dänen.
+Found
+MODSMD_ARTICLE05: Emil lannings von Mussolini empfangen.
+Found
+MODSMD_ARTICLE06: Skandal um das Spielkasino in Baden bei Wien.
+Found
+MODSMD_ARTICLE08: Prags Bündnis mit dem Bolschewismus.
+Found
+MODSMD_ARTICLE09: Mauden empfiehlt eine neue Spanienpolitik.
+Found
+MODSMD_ARTICLE10: Der Streik im Elsaß hat politischen Hintergrund.
+Found
+MODSMD_ARTICLE11: Neue große Transporte für Spaniens Bolschewisten!
+Found
+MODSMD_ARTICLE12: Sitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE13: Arierparagraph für polnische Wasserbauingenieure.
+Found
+MODSMD_ARTICLE14: Die Warschauer Besprechungen Constantinescus.
+Found
+MODSMD_ARTICLE15: Auch Lettland greift durch.
+Found
+MODSMD_ARTICLE16: Was Italien in Mailand klarstellen will.
+Found
+MODSMD_ARTICLE17: In Madrid ißt mau schon Katzen.
+Found
+MODSMD_ARTICLE18: Aegypten für Ausweitung der Kapitulationsverhandlungeu.
+Found
+MODSMD_ARTICLE19: Neuer Fahrstuhlführerstreik in New Uork.
+Found

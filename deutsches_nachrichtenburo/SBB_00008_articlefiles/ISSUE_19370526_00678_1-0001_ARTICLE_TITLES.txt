@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Reichskriegsminister besucht die italienische Wehrmacht.
+Found
+MODSMD_ARTICLE02: Ans d>er Diplomatie.
+Found
+MODSMD_ARTICLE03: Abschluß der Schlesienreise Dr. Dorpmüllers.
+Found
+MODSMD_ARTICLE04: Hitlerjugend und Auslandsdeutschtum.
+Found
+MODSMD_ARTICLE05: Staatssekretär Milch beim belgischen König.
+Found
+MODSMD_ARTICLE06: Die Ansprache des Reichskommissars Dr. Ruppel.
+Found
+MODSMD_ARTICLE07: Weihestunde im Deutschen Haus.
+Found
+MODSMD_ARTICLE08: Erfolgreiches Vorgehen der nationalen Truppen.
+Found
+MODSMD_ARTICLE09: Franeo lehnt nach wie vor jede Vermittlung von Genf ab.
+Found
+MODSMD_ARTICLE10: Die Britische Reichskonferenz.
+Found
+MODSMD_ARTICLE11: „Polen an Abessinien nicht interessiert."
+Found
+MODSMD_ARTICLE12: Die Kinderverwahrlosung in der Sowjetunion.
+Found
+MODSMD_ARTICLE13: Entsendung japanischer Kriegsschiffe nach Swatan.
+Found
+MODSMD_ARTICLE14: Nanking entsendet Sonderkommissar nach Swatan.
+Found
+MODSMD_ARTICLE15: Das Flugzeug der französischen Ostasienflieger zerstört.
+Found

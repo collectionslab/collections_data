@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ernennungen in der Ostmark.
+Found
+MODSMD_ARTICLE02: Vortrag Dr. Bojanos im Deutschen Auslandselub.
+Found
+MODSMD_ARTICLE03: Der jüdisch-marxistische Mob randaliert weiter.
+Found
+MODSMD_ARTICLE04: Entjudungsmaßnahmen in Neapel.
+Found
+MODSMD_ARTICLE05: Parlamentarische Angriffe auf Kwiatkowski.
+Found
+MODSMD_ARTICLE06: Auch Kowno verzichtet auf Juden.
+Found
+MODSMD_ARTICLE07: Preßbnrg ehrt slowakischen Vorkämpfer.
+Found
+MODSMD_ARTICLE08: Nur noch ukrainische Aufschriften in Chust.
+Found
+MODSMD_ARTICLE09: Die franZösisch-bulgarischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE10: Veränderungen im griechischen Kabinett.
+Found
+MODSMD_ARTICLE11: HJ.-Besuch in Portugal.
+Found
+MODSMD_ARTICLE12: Die Plewitzkaja lügt.
+Found
+MODSMD_ARTICLE13: Unterhausantrag über den Freiwilligen Nationalen Dienst.
+Found
+MODSMD_ARTICLE14: Die jugoslawische Presse zur Codreanu-Affäre.
+Found
+MODSMD_ARTICLE15: „Wreme" zum England-Besuch des Prinzregenten Paul.
+Found
+MODSMD_ARTICLE16: Tokios Anteilnahme am Mistgeschick des „Condor".
+Found

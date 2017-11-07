@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Gründung der Ortsgruppe „Auswärtiges Amt" der AO.
+Found
+MODSMD_ARTICLE02: Bewunderung für die nationalsozialistische Sozialpolitik.
+Found
+MODSMD_ARTICLE03: Neues Großraum-Verkehrsflugzeug für 26 Fluggäste.
+Found
+MODSMD_ARTICLE04: General Ludendorff schwer erkrankt.
+Found
+MODSMD_ARTICLE05: Ministerpräsident Siebert in Budapest.
+Found
+MODSMD_ARTICLE06: Ungarische Industrielle in Warschau.
+Found
+MODSMD_ARTICLE07: Schi räch bei Kronprinz Paul.
+Found
+MODSMD_ARTICLE08: Die Londoner Besprechungen der französischen Staatsmänner.
+Found
+MODSMD_ARTICLE09: Der syrische Ministerpräsident in Paris.
+Found
+MODSMD_ARTICLE10: Erneute Protestkundgebungen in Syrien.
+Found
+MODSMD_ARTICLE11: Italienisch-japanische Antikomintern-Kundgebung.
+Found

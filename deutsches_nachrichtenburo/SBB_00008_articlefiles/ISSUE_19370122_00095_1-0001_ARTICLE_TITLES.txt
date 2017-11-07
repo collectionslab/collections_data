@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ein Ehrenpreis des Kührers.
+Found
+MODSMD_ARTICLE02: Besondere Hilfsaktion des WHW zum 30. Januar.
+Found
+MODSMD_ARTICLE03: Festsitzung der Reichswirtschaftskammer Zu Ehren Schachts.
+Found
+MODSMD_ARTICLE04: 14 Mann der Besatzung der „Welle" geborgen.
+Found
+MODSMD_ARTICLE05: Ein Archiv des Vierjahresplans.
+Found
+MODSMD_ARTICLE06: Neue Forschungsreise mit dem Forschungsschiff „Meteor".
+Found
+MODSMD_ARTICLE07: Araber gegen Kompromiß bei der jüdischen Einwanderung.
+Found
+MODSMD_ARTICLE08: Die Sowjet in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE09: Ausbau der nationalen Stellungen an der Madrider Front.
+Found
+MODSMD_ARTICLE10: Thorez fordert offen Räterepublik.
+Found
+MODSMD_ARTICLE11: Bolschewisten-Funktionäre wollten in Istanbul „abmustern".
+Found

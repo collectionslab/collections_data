@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Nachmittags-Ausgabe. Deutsches Nachrichtenbüro b H
+Found
+MODSMD_ARTICLE02: Der Deutsche Gemeindetag an den Führer.
+Found
+MODSMD_ARTICLE03: Ein Schritt zur Reichspolizei.
+Found
+MODSMD_ARTICLE04: Katholische Geistliche im Bunde mit Kommunisten!
+Found
+MODSMD_ARTICLE06: Die deutsch-französischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE07: Amsterdamer Kraftdroschkenfahrer im Ausstand.
+Found
+MODSMD_ARTICLE08: Lebhafte Aussprache im südafrikanischen Parlament.
+Found
+MODSMD_ARTICLE09: Die Bedeutung der Zeeland übertragenen Mission.
+Found
+MODSMD_ARTICLE10: Ausgezeichnete Beziehungen zwischen Aegypten und Italien.
+Found
+MODSMD_ARTICLE11: Inder stürmen Fabrik. Britische Polizisten verletzt.
+Found

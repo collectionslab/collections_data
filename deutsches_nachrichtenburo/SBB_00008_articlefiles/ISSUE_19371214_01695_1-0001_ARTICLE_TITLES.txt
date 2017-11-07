@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers zum Geburtstag König Georgs.
+Found
+MODSMD_ARTICLE02: Sind Kolonien eine Last?
+Found
+MODSMD_ARTICLE03: Die Entscheidung zwischen Realität und Fiktionen.
+Found
+MODSMD_ARTICLE04: „Genf ist tot".
+Found
+MODSMD_ARTICLE05: Die Reform des Wahlrechtes in Ungarn.
+Found
+MODSMD_ARTICLE06: Gedenkfeier des ungarischen Mackensen-Husarenregiments.
+Found
+MODSMD_ARTICLE07: Weitere 39 bolschewistische Hetzer im Polen entlarvt.
+Found
+MODSMD_ARTICLE08: Polen macht rückfällige Verbrecher unschädlich.
+Found
+MODSMD_ARTICLE09: Neuer Handelsminister in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE10: Generalstabsberatungen der Kleinen Entente.
+Found
+MODSMD_ARTICLE11: Neuer Generaldirektor der BIZ.
+Found
+MODSMD_ARTICLE12: Für 150 Millionen Franken Gold in Le Havre eingetroffen.
+Found
+MODSMD_ARTICLE13: Rückzahlung der französischen Eisenbahnanleihe.
+Found
+MODSMD_ARTICLE14: Versammlungsverbot in London Eastend verlängert.
+Found
+MODSMD_ARTICLE15: Moskau verweigert Zinszahlungen.
+Found
+MODSMD_ARTICLE16: Zwei chinesische Regierungen?
+Found
+MODSMD_ARTICLE17: Neuer Zwischenfall in Palästina.
+Found
+MODSMD_ARTICLE18: Große Manöver englischer Truppen am Snezkanal.
+Found
+MODSMD_ARTICLE19: Sämtliche Vereine Brasiliens werden neu registriert.
+Found

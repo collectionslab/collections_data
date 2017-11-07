@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Reicksmmister Dr. Frick stiftete einen Ehrenpreis.
+Found
+MODSMD_ARTICLE03: Zum Oberfinanzpräsidenten in Ostpreußen ernannt.
+Found
+MODSMD_ARTICLE04: Henlein dankt dem Breslauer Oberbürgermeister.
+Found
+MODSMD_ARTICLE05: Tschechische Desorganisation verzögert die Räumung.
+Found
+MODSMD_ARTICLE06: Die Pariser Presse stellt Bruch der Volksfront fest.
+Found
+MODSMD_ARTICLE07: Finanz- und Bollmachtenvorlage im Senat.
+Found
+MODSMD_ARTICLE08: London erwartet Einigung mit Italien.
+Found
+MODSMD_ARTICLE09: Attlee und Greenwood bei Lord Halifax.
+Found
+MODSMD_ARTICLE10: de Valera wieder in Dublin.
+Found
+MODSMD_ARTICLE11: 79 W 9 Juden in Italien.
+Found
+MODSMD_ARTICLE12: Der französische Botschafterposten in Rom.
+Found
+MODSMD_ARTICLE13: „Tevere" warnt vor dunklen Kräften.
+Found
+MODSMD_ARTICLE14: Die ungarische Presse zu den Forderungen an Prag.
+Found
+MODSMD_ARTICLE15: Agentenaustausch Nationalspanien—Norwegen»
+Found
+MODSMD_ARTICLE16: Arbeitssilmng des Folketings.
+Found
+MODSMD_ARTICLE17: Neuer GPN-Kommissar ernannt.
+Found
+MODSMD_ARTICLE18: Reichsmmister Funk in der Türkei.
+Found
+MODSMD_ARTICLE19: Australien von Juden überlaufen.
+Found
+MODSMD_ARTICLE20: Neue Lösung des Kalästinaproblems?
+Found

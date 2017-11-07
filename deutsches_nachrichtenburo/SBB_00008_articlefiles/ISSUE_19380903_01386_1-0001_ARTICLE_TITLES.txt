@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Nürnberg ist gerüstet!
+Found
+MODSMD_ARTICLE02: Generalfeldmarschall Göring ehrt eine IWjährige.
+Found
+MODSMD_ARTICLE03: Römischer Lorbeer an den Ehrentempeln in München.
+Found
+MODSMD_ARTICLE04: Dr. Ley eröffnet die Bau- und Siedluugsausstellung.
+Found
+MODSMD_ARTICLE05: Familienunterstützungsverordnung für Oesterreich.
+Found
+MODSMD_ARTICLE06: Die Fakultätsleiter der deutscheu Filmakademie»
+Found
+MODSMD_ARTICLE07: Die norditalienische Presse zum neuen Säuberungserlaß.
+Found
+MODSMD_ARTICLE08: Hauptquartier der USA.-Lustwasse nach Illinois verlegt.
+Found
+MODSMD_ARTICLE09: Bestialische Gefangenenmißhandlung in USA.
+Found
+MODSMD_ARTICLE10: Die Kennzahl der Großhandelspreise vom 31. August.
+Found

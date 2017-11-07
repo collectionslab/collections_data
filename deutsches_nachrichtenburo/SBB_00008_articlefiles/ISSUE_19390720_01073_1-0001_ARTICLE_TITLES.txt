@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Lutze bei der faschistischen Reitermaniuschaft.
+Found
+MODSMD_ARTICLE02: Schwedische Ehrung für Turnvater Jahn.
+Found
+MODSMD_ARTICLE03: Dr. Ley in Hamburg eingetroffen.
+Found
+MODSMD_ARTICLE04: Tie alten Liberalsten haben abgewirtschaftet!
+Found
+MODSMD_ARTICLE05: „Polnische Wirtschast" auf der Anklagebank.
+Found
+MODSMD_ARTICLE06: Willkürurteile und Bandenterror gegen Deutsche.
+Found
+MODSMD_ARTICLE07: „Nicht im ungarischen Interesse."
+Found
+MODSMD_ARTICLE08: Graf Ciano dankt dem Caudillo.
+Found
+MODSMD_ARTICLE09: 20 000 neue Bauernhöfe auf Sizilien.
+Found
+MODSMD_ARTICLE10: Glückwunsch-Telegramm Mussolinis an Franco.
+Found
+MODSMD_ARTICLE11: Craigies Bericht wird „geprüft".
+Found
+MODSMD_ARTICLE12: 29 Millionen Pfund für die Befestigung der Dardanellen.
+Found
+MODSMD_ARTICLE13: Prinzregent Paul bei Chamberlain.
+Found
+MODSMD_ARTICLE14: Kulik Sowjetbefehlshaber in der Außenmongolei.
+Found
+MODSMD_ARTICLE15: Bombe vor Synagogentür.
+Found
+MODSMD_ARTICLE16: Neue jüdische Terrorwelle in Palästina.
+Found
+MODSMD_ARTICLE17: Lebensgefährlich Erkrankte bleiben ohne Hilfe.
+Found
+MODSMD_ARTICLE18: Die britischen Grausamkeiten von Taibeh.
+Found
+MODSMD_ARTICLE19: Arabische Frauenführerin gesetzwidrig eingekerkert.
+Found

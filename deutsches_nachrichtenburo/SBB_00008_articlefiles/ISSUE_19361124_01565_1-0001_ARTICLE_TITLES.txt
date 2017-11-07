@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Europas Werbefachleute tagen in Berlin. (Schluß.)
+Found
+MODSMD_ARTICLE02: Dr. Goebbels beglückwünscht Reichsleiter Amann.
+Found
+MODSMD_ARTICLE03: Karl Zelenh f.
+Found
+MODSMD_ARTICLE04: Allgemeine Siedlungs- und Wohnungspolitik.
+Found
+MODSMD_ARTICLE05: Staatsminister Dr. Lehnich in Warschau.
+Found
+MODSMD_ARTICLE06: Reichsbankpräsident Dr. Schacht beim Kaiser von Iran.
+Found
+MODSMD_ARTICLE07: Mosley fordert Rückgabe der deutschen Kolonien.
+Found
+MODSMD_ARTICLE08: Täglich neue Verhaftungen von „Trotzkisten".
+Found
+MODSMD_ARTICLE09: Ter Führer verleiht Geheimrat Bier den Adler-Schild.
+Found
+MODSMD_ARTICLE10: Katalonien unter der Herrschaft der Sowjets.
+Found
+MODSMD_ARTICLE11: Die Explosion auf dem Kreuzer „Cervantes".
+Found
+MODSMD_ARTICLE12: England besteht auf der Schaffung einer Sicherheitszone.
+Found

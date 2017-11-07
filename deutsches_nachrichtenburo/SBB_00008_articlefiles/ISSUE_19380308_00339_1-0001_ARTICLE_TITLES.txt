@@ -1,0 +1,18 @@
+MODSMD_ARTICLE03: Hermann Göring an das Leipziger Meßamt.
+Found
+MODSMD_ARTICLE04: Der deutsche Reiseverkehr steigt.
+Found
+MODSMD_ARTICLE05: Glaise-Horstenau über den deutschen Weg Oesterreichs.
+Found
+MODSMD_ARTICLE06: Schirach in der neuen Nürnberger Großsugendheirberge.
+Found
+MODSMD_ARTICLE07: Italien gegen französische Phantasien um den Exnegns.
+Found
+MODSMD_ARTICLE08: Italiens Presse verzeichnet das positive Londoner Echo.
+Found
+MODSMD_ARTICLE09: Die englisch-irischen Besprechungen.
+Found
+MODSMD_ARTICLE10: Massenrücktritt algerischer Bürgermeister.
+Found
+MODSMD_ARTICLE11: Bucharin vereitelt Belastungsversuche Wyschinskis.
+Found

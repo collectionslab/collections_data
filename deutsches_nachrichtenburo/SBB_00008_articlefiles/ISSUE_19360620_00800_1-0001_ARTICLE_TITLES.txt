@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer gratuliert Gauleiter Koch.
+Found
+MODSMD_ARTICLE02: Schübling besiegt Louis durch Niederschlag.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels beglückwünscht Max Schmeling.
+Found
+MODSMD_ARTICLE04: Himmler an Ministerpräsident Göring.
+Found
+MODSMD_ARTICLE05: Deutsch-Polnische Besprechungen.
+Found
+MODSMD_ARTICLE06: „Hindenburg" zur dritten Nordamerikafahrt gestartet.
+Found
+MODSMD_ARTICLE07: Dr. Schacht vor der internationalen Presse in Budapest.
+Found
+MODSMD_ARTICLE08: Die Palästina-Aussprache im Unterhaus. (Schluß.)
+Found
+MODSMD_ARTICLE09: Madariaga in London.
+Found
+MODSMD_ARTICLE10: Leon Blum unterrichtet Botschafter Cerruti.
+Found
+MODSMD_ARTICLE11: Vincent Auriol vor der Kammer.
+Found
+MODSMD_ARTICLE12: Generalstreik in Valladolid.
+Found
+MODSMD_ARTICLE13: Erhöhung des amerikanischen Heeresslugzeugvestandes.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Empfang zu Ehren des Landwirtschaftsministers Rossoni.
+Found
+MODSMD_ARTICLE02: Ausstellung der NSKOV im Reichstag.
+Found
+MODSMD_ARTICLE03: Luhe überreicht Adlerschild an Geheimrat Tammann.
+Found
+MODSMD_ARTICLE04: Die Phönix-Liste veröffentlicht.
+Found
+MODSMD_ARTICLE05: Der Eindruck der Liste in ausländischen Kreisen.
+Found
+MODSMD_ARTICLE06: Optimistische Beurteilung Oesterreichs durch Chamberlain.
+Found
+MODSMD_ARTICLE07: Ungarischer Protest gegen den Plan Flandins.
+Found
+MODSMD_ARTICLE08: Der Fragebogen im Entwurf fertiggestellt.
+Found
+MODSMD_ARTICLE09: Die Zivilliste König Eduards VIII.
+Found
+MODSMD_ARTICLE10: Der ägyptische Thronfolger vor der Abreise nach Kairo.
+Found
+MODSMD_ARTICLE11: Oberhausmitglieder verlieren ihr Gerichts-Vorrecht.
+Found
+MODSMD_ARTICLE12: Herriot kandidiert auch im zweiten Wahlgang.
+Found
+MODSMD_ARTICLE13: Der französische Unterrichtsminister verzichtet.
+Found
+MODSMD_ARTICLE14: Ein nichtständiger Ratssitz für China?
+Found
+MODSMD_ARTICLE15: Der estnische Generalstabschef bei Woroschilow.
+Found
+MODSMD_ARTICLE16: Zusammenstöße in Nazareth.
+Found

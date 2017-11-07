@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der dritte Tag des Staatsbesuches.
+Found
+MODSMD_ARTICLE02: Neichsminister Dr. Goebbels in Wien.
+Found
+MODSMD_ARTICLE03: Die spanischen Generale in Köln.
+Found
+MODSMD_ARTICLE04: „Verbindung mit Benesch kompromittierend."
+Found
+MODSMD_ARTICLE05: Bottai über die faschistische Schulreform.
+Found
+MODSMD_ARTICLE06: Die neue Wrfassung des KonWreichs Albanien.
+Found
+MODSMD_ARTICLE07: Moskau soll für die rotspanischen Banden zahlen.
+Found
+MODSMD_ARTICLE08: Starker Zuzug für die arabischen Freiheitskämpfer.
+Found
+MODSMD_ARTICLE09: Empfang zu Ehren von Admiral Förster in Tokio.
+Found

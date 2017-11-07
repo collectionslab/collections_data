@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Aufgabe und Verantwortung der Reichsfinanzbeamten.
+Found
+MODSMD_ARTICLE02: Deutschland gewann den Königspokal.
+Found
+MODSMD_ARTICLE03: Genugtuung in Italien über die Reise Neuraths.
+Found
+MODSMD_ARTICLE04: Die deutschen Zeitschriftenverleger in Italien.
+Found
+MODSMD_ARTICLE05: Die Ziele des Sudetendeutschtums.
+Found
+MODSMD_ARTICLE06: Kulturtagung des „Bundes der Deutschen" in Teplitz.
+Found
+MODSMD_ARTICLE07: Katholiken und Kommunisten auch in Polen Hand in Hand.
+Found
+MODSMD_ARTICLE08: Nationaler Feiertag in Salamanca.
+Found
+MODSMD_ARTICLE09: Der bolschewistischen Uebermacht erlegen.
+Found
+MODSMD_ARTICLE10: Bolschewismen haben Guernica vernichtet!^
+Found
+MODSMD_ARTICLE11: Die marxistische Streikhetze in London.
+Found
+MODSMD_ARTICLE12: Marxisten-Ueberfall in Lille.
+Found
+MODSMD_ARTICLE13: Das vorläufige Ergebnis der japanischen Reichstagswahl.
+Found
+MODSMD_ARTICLE14: Vergiftung der New Aorker Jugend unterbunden.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Das Egerland wieder frei!
+Found
+MODSMD_ARTICLE02: Jubel im Braunauer Land-
+Found
+MODSMD_ARTICLE03: Eine Million für die Sudetendenischen gestiftet.
+Found
+MODSMD_ARTICLE04: Erklärung des Reichsaußenministers.
+Found
+MODSMD_ARTICLE05: Resignation in Prag.
+Found
+MODSMD_ARTICLE06: Die Deutsche Reichsbahn im Sudetenland.
+Found
+MODSMD_ARTICLE07: Prag bestätigt die Annahme der polnischen Forderung.
+Found
+MODSMD_ARTICLE08: Jubel in Polnisch-Teschen.
+Found
+MODSMD_ARTICLE09: Chamberlain in Cheguers.
+Found
+MODSMD_ARTICLE10: Duff Cooper zurückgetreten.
+Found
+MODSMD_ARTICLE11: Nationalspanien feiert Francs.
+Found
+MODSMD_ARTICLE12: Franco ehrt Heß»
+Found

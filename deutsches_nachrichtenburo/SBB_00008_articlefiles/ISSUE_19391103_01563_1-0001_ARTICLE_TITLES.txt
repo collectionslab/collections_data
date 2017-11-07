@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Mit fremden Augen.
+Found
+MODSMD_ARTICLE02: Dr. Aricks Aufenthalt in Posen.
+Found
+MODSMD_ARTICLE03: Dr. Durcansky übernahm auch das Innenministerium.
+Found
+MODSMD_ARTICLE04: „Wirklicher Frieden im Osten Europas geschaffen!"
+Found
+MODSMD_ARTICLE05: Unbelehrbare Dummheit der Demokratien.
+Found
+MODSMD_ARTICLE06: Freundschaft und Zusammenarbeit Italien—Griechenland.
+Not Found
+MODSMD_ARTICLE07: Verteidigungsmastnahmen in Holland verstärkt.
+Found
+MODSMD_ARTICLE08: Amerikanisches Obst soll nicht nach Holland.
+Found
+MODSMD_ARTICLE09: Bewaffnet und" ohne Namen.
+Found
+MODSMD_ARTICLE10: Mexiko bezeugt seine neutrale Haltung.
+Found

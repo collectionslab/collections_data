@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ter Führer zum Unabhängigkeitstage Boliviens.
+Found
+MODSMD_ARTICLE02: Der König von Bulgarien inkognito in Berlin.
+Found
+MODSMD_ARTICLE03: Empfangsabend für den Sportstudenten-Kongreß.
+Found
+MODSMD_ARTICLE04: Deutschlandreise griechischer Journalisten.
+Found
+MODSMD_ARTICLE05: Neuer Svortflng von Elli Beinhorn.
+Found
+MODSMD_ARTICLE06: Auslände stimmen zum deutsch-litauischen Abkommen.
+Found
+MODSMD_ARTICLE07: Wieder Lufthansa-Planverkehr mit Madrid.
+Found
+MODSMD_ARTICLE08: Drahtverbindung Burgos—Frankreich wiederhergestellt.
+Found
+MODSMD_ARTICLE09: Schandtaten roter Brandstifter in Spanien.
+Found
+MODSMD_ARTICLE10: Die Ziele der spanischen Erneuerungsbewegung.
+Found
+MODSMD_ARTICLE11: „Daily Mail" gegen die spanischen Kommunisten.
+Found
+MODSMD_ARTICLE12: „Popolo di Roma" zum Neutralitätsvorschlag.
+Found
+MODSMD_ARTICLE13: Die Lage in Griechenland.
+Found
+MODSMD_ARTICLE14: Meinungsverschiedenheiten im japanischen Kabinett.
+Found

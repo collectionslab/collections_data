@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ernennungen in der Verwaltung.
+Found
+MODSMD_ARTICLE02: Englisches Pfund bereits über 10 vH. abgeglitten.
+Found
+MODSMD_ARTICLE03: Frau und 4jähriges Kind mit Kolbenschlägen getötet.
+Found
+MODSMD_ARTICLE04: Seuchen sollen die Volksdeutschen in Polen dezimieren.
+Found
+MODSMD_ARTICLE06: Polnischer Terror vergrößert die Abneigung der Tschechen.
+Found
+MODSMD_ARTICLE07: „Günstigere Gestaltung der Lage für Estland."
+Found
+MODSMD_ARTICLE08: Belgiern erkennt den wahren Feind.
+Found
+MODSMD_ARTICLE09: Tiefer Eindruck der Antwort des Führers in Italien.
+Found
+MODSMD_ARTICLE10: Der dänische Rundfunk über den historischen Briefwechsel.
+Found
+MODSMD_ARTICLE11: AnmeldungsZwang für Auslandspapiere in England.
+Found
+MODSMD_ARTICLE12: Besprechung Chamberlain—Halifax—Henderson.
+Not Found
+MODSMD_ARTICLE13: Menschenleben spielen bei den Engländern keine Rolle.
+Found
+MODSMD_ARTICLE14: Engländer und Franzosen verlassen die Türkei.
+Found
+MODSMD_ARTICLE15: Fernsprechverkehr Türkei—Ausland unterbrochen.
+Not Found
+MODSMD_ARTICLE16: Aegypten setzt Notverordnungen in Kraft.
+Found
+MODSMD_ARTICLE17: Das Hochwasser in Tientsin.
+Found
+MODSMD_ARTICLE18: Die japanische Regierung zurückgetreten.
+Found
+MODSMD_ARTICLE19: Australien führt Goldembargo ein.
+Found
+MODSMD_ARTICLE20: Freundschaft zwischen Argentinien und Deutschland.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Deutsches Schnellboot schoß ein Flugzeug ab.
+Found
+MODSMD_ARTICLE02: Empfänge beim Duce.
+Found
+MODSMD_ARTICLE03: Mussolini zeichnet Bauern aus.
+Found
+MODSMD_ARTICLE04: Ciano wieder in Rom.
+Found
+MODSMD_ARTICLE05: „Organisation der Nation für den Krieg."
+Found
+MODSMD_ARTICLE06: Italienisch-japanische Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE07: Panikstimmung greift auch auf die Dominien über.
+Found
+MODSMD_ARTICLE08: „Wir hätten gegen England kämpfen sollen."
+Found
+MODSMD_ARTICLE09: „Ein halbkreisförmiger Gürtel um England gelegt."
+Found
+MODSMD_ARTICLE10: Madrid durchschaut Frankreichs Heuchelei.
+Found
+MODSMD_ARTICLE11: England "in Not!
+Found
+MODSMD_ARTICLE12: Die belgische Regierung nach London geflohen.
+Found
+MODSMD_ARTICLE13: London gibt Verlust des Zerstörers „Wessex" zu.
+Found
+MODSMD_ARTICLE14: Minensucher „Charles Boyes" versenkt.
+Found
+MODSMD_ARTICLE15: „Calais Anfang und Ende der Engländer in Europa."
+Found
+MODSMD_ARTICLE16: Churchill will das „Athen>ia"-Verbrechen wiederholen!
+Found
+MODSMD_ARTICLE17: Der Terror wütet in Frankreich.
+Found
+MODSMD_ARTICLE18: Versklavung der französischen Arbeiterschaft.
+Found
+MODSMD_ARTICLE19: Das Durcheinander in Frankreich wächst.
+Found
+MODSMD_ARTICLE20: So sind unsere U-Bootmänner!
+Found

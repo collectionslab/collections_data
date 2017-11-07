@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Englische Ehrung für Richard Strauß.
+Found
+MODSMD_ARTICLE02: „Europa erwache!" Italienisches Echo.
+Found
+MODSMD_ARTICLE03: Das wahre Gesicht der sowjetrussischen Versassungsreform.
+Found
+MODSMD_ARTICLE04: Zankofs und die Volkssoziale Bewegung Bulgariens.
+Found
+MODSMD_ARTICLE06: Der rumänische Austenminister bei Beck.
+Found
+MODSMD_ARTICLE07: Pariser „Universitätsstadt" von streikenden Studenten besetzt.
+Found
+MODSMD_ARTICLE08: Sondersitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE09: Largo Cabellero lehnt Schutzzone für die Madrider ab.
+Found
+MODSMD_ARTICLE10: Auf den Spuren der verschobenen Munitionsladung.
+Found
+MODSMD_ARTICLE11: Handstreich in siidfranzösischen Städten befürchtet.
+Found
+MODSMD_ARTICLE12: Der Einfluß des Wetters auf die spanischen Kämpfe.
+Found
+MODSMD_ARTICLE13: Reichsverweser Horthy in Privataudienz beim Papst.
+Found
+MODSMD_ARTICLE14: Französische Gesandtschaftswache verließ Addis Abeba»
+Found
+MODSMD_ARTICLE15: Gore von den Italienern besetzt.
+Found
+MODSMD_ARTICLE16: Keine italienischen Anleiheverhandlungen in Amerika.
+Found
+MODSMD_ARTICLE17: Staatshaushalt für 1937 vom Kabinett angenommen.
+Found
+MODSMD_ARTICLE18: Zwei Todesurteile vollstreckt.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE02: Das Ausland zum Fall Warschaus.
+Found
+MODSMD_ARTICLE04: Weiblicher Reichsarbeitsdienst Stütze der Heimatfront!
+Found
+MODSMD_ARTICLE05: Das Industriegebiet von Sandomir ohne Strom.
+Found
+MODSMD_ARTICLE06: Die erfolgreiche Arbeit der deutschen U-Boote zugegeben.
+Found
+MODSMD_ARTICLE07: MacMillan schafft es nicht.
+Found
+MODSMD_ARTICLE08: „Times" jammert über das Reklameministerium.
+Found
+MODSMD_ARTICLE09: 29 holländische Seeleute Opfer englischer Mine.
+Found
+MODSMD_ARTICLE10: Englische Minensperre legt dänische Fischerei lahm.
+Found
+MODSMD_ARTICLE11: Der polnische Gesandte in Bern weiß es besser.
+Found
+MODSMD_ARTICLE12: Nikaragua verbietet Propaganda kriegführender Nationen.
+Found

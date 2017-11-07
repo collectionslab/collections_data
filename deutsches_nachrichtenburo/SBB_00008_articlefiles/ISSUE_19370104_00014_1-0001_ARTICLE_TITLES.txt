@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Ministerpräsident Göring dankt.
+Found
+MODSMD_ARTICLE02: Dr. Oehler Regierungsvizepräsident in Magdeburg.
+Found
+MODSMD_ARTICLE03: Dr. Grawitz in sein Amt eingeführt.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Von der „Taß" frei erfunden.
+Found
+MODSMD_ARTICLE06: Noch ein Gewaltakt gegen einen deutschen Dampfer.
+Found
+MODSMD_ARTICLE07: Deutsche Gegenmaßnahmen gegen die rote Seeräuberei.
+Found
+MODSMD_ARTICLE08: Pariser Stimmen zum Mittelmeerabkommen.
+Found
+MODSMD_ARTICLE09: Um die Sicherstellung des verschobenen Spaniengoldes.
+Found
+MODSMD_ARTICLE10: Die Freiwilligenfrage vor dem technischen Unterausschuß.
+Found
+MODSMD_ARTICLE11: Baar-Barenfels überreicht sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE12: Der rumänische Staatshaushalt.
+Found
+MODSMD_ARTICLE13: 20 000 Gewehre aus Holland für Rotspanien.
+Found
+MODSMD_ARTICLE14: Dankschreiben der Amnestierten an General Franco.
+Found
+MODSMD_ARTICLE15: Der Vormarsch der Nationalarmee. Reiche Beute.
+Found
+MODSMD_ARTICLE16: Neuer Beweis für die sowjetrussische Doppelzüngigkeit.
+Found
+MODSMD_ARTICLE17: Meuterei in Barcelona?
+Found
+MODSMD_ARTICLE18: Völlige Verjudung des Finanzwesens der Sowjetunion.
+Found
+MODSMD_ARTICLE19: Tschanghsueliang begnadigt.
+Found
+MODSMD_ARTICLE20: Mellon schenkt seinen Kunstbesitz dsm amerikanischen Volke.
+Found
+MODSMD_ARTICLE21: Zuchthaus für Rassenschänder.
+Found
+MODSMD_ARTICLE22: Selbstmord durch Absprung aus einem Flugzeug.
+Found

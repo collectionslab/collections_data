@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ernennung.
+Found
+MODSMD_ARTICLE02: Als Ministerialdirektor in die Reichskanzlei berufen.
+Found
+MODSMD_ARTICLE03: Tagung der Leiter der Reichspropagandaämter.
+Found
+MODSMD_ARTICLE04: Bernd Rosemeyers letzte Fahrt.
+Found
+MODSMD_ARTICLE05: Reichsminister des Auswärtigen Freiherr von NeuVmW 65 Jahre alt.
+Found
+MODSMD_ARTICLE06: 15 Jahre faschistische Miliz: Ansprache Mussolinis.
+Found
+MODSMD_ARTICLE07: „Sensationelle Anklagen" gegen die britische Kolonialpolitik.
+Found
+MODSMD_ARTICLE08: Der amerikanische Botschafter bei Delbos.
+Found
+MODSMD_ARTICLE09: Zuspitzung in der Sandschakfrage.
+Found
+MODSMD_ARTICLE10: Fortdauernde Kämpfe in Palästina.
+Found
+MODSMD_ARTICLE11: Brasilianische Stimme zu Erfolgen deutscher Friedenspolitik.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Veränderungen in der deutschen Diplomatie.
+Found
+MODSMD_ARTICLE03: Gauleiter Bohle wieder in Berlin.
+Found
+MODSMD_ARTICLE04: Die Eisenbahngüterbewegung im Jahre 1935.
+Found
+MODSMD_ARTICLE05: Tirektorwechsel in der Hochschule für Kunsterziehung.
+Found
+MODSMD_ARTICLE06: Neuregelung des deutsch-estnischen Warenverkehrs.
+Found
+MODSMD_ARTICLE07: Unterredung des Staatssekretärs Backe.
+Found
+MODSMD_ARTICLE08: Wünsche der deutschen Evangelischen Polens.
+Found
+MODSMD_ARTICLE09: Oesterreichs Protestantismus an die Bundesregierung.
+Found
+MODSMD_ARTICLE10: Ungarns Ministerpräsident an Mussolini.
+Found
+MODSMD_ARTICLE11: Nichteinmischungsunterausschuß zusammengetreten.
+Found
+MODSMD_ARTICLE12: Moskauer Anweisungen für die Schweizer Rote Hilfe.
+Found
+MODSMD_ARTICLE13: 2 Araber in Jerusalem zum Tode verurteilt.
+Found
+MODSMD_ARTICLE14: Auch Chile erkennt die kommunistische Gefahr.
+Found
+MODSMD_ARTICLE15: Interamerikanische Friedenssicherungskonferenz.
+Found
+MODSMD_ARTICLE16: Die Manöver der japanischen Truppen in Nordchina.
+Found
+MODSMD_ARTICLE17: Borgeheu gegen Kommunistenbanden in China.
+Found

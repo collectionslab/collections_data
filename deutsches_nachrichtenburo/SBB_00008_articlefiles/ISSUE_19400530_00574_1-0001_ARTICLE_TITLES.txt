@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Wie es der Brüsseler Deutschen Botschaft in Frankreich ging.
+Found
+MODSMD_ARTICLE02: Deutschland wird das Verhalten nicht ungestraft hinnehmen.
+Found
+MODSMD_ARTICLE03: Neue Schandtaten der britischen Luftwaffe.
+Found
+MODSMD_ARTICLE04: Schulen in Malta geschlossen.
+Found
+MODSMD_ARTICLE05: „Es gibt nur noch das Problem der Flucht".
+Found
+MODSMD_ARTICLE06: Weitere Verleihung von Ritterkreuzen.
+Found
+MODSMD_ARTICLE07: Die Plutokraten ermuntern sich gegenseitig.
+Found
+MODSMD_ARTICLE08: Kripps muß in Athen umkehren.
+Found
+MODSMD_ARTICLE09: Telegrammwechfel Franeo—Carmona.
+Not Found
+MODSMD_ARTICLE10: Japan vom deutschen Sieg fest überzeugt.
+Found

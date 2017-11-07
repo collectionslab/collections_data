@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Tie ersten Wahlergebnisse in Memel.
+Found
+MODSMD_ARTICLE02: Politische Versammlungen in Memel verboten.
+Found
+MODSMD_ARTICLE03: Das Prager Ermächtigungsgesetz.
+Found
+MODSMD_ARTICLE04: Ministerpräsident Beran an den Abgeordneten Kundt.
+Found
+MODSMD_ARTICLE05: Die Regierungserklärung des Kabinetts Beran.
+Found
+MODSMD_ARTICLE07: Moskau gibt Prag noch nicht frei.
+Found
+MODSMD_ARTICLE08: Das Hnngaristenblatt „Magyarsag" verboten.
+Found
+MODSMD_ARTICLE09: Weitere 48 jüdische Presseerzeugnisse in Ungarn verboten.
+Found
+MODSMD_ARTICLE10: Mussolini besichtigt die römischen Bahnhöfe.
+Found
+MODSMD_ARTICLE11: Der neue Haushaltsplan vor der französischen Kammer.
+Found
+MODSMD_ARTICLE12: Ein Interview mit General Franco.
+Found
+MODSMD_ARTICLE13: „Demokratische Pressefreiheit."
+Found
+MODSMD_ARTICLE14: Chinesische Banden ergaben sich den Japanern.
+Found

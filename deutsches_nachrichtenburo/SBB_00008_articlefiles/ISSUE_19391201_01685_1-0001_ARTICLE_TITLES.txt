@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Personalveränderungen in der Wehrmacht.
+Found
+MODSMD_ARTICLE02: Deutsche Kultur polnische Verwahrlosung.
+Found
+MODSMD_ARTICLE03: Deutsche Städte verkamen im polnischen Schmutz.
+Found
+MODSMD_ARTICLE04: Empfang des Verbandes ausländischer Pressevertreter.
+Found
+MODSMD_ARTICLE05: Vergeblicher Sirenengesang aus London.
+Found
+MODSMD_ARTICLE06: Die sowjetisch-finnischen Feindseligkeiten haben begonnen.
+Found
+MODSMD_ARTICLE07: So „schont" England neutrale Handelsinteressen.
+Found
+MODSMD_ARTICLE08: Reuter bemüht den Blitz gegen Englands Flugzeuge.
+Found
+MODSMD_ARTICLE09: Schleppende Zahlungsweise der Westmächte.
+Found
+MODSMD_ARTICLE10: Die Lieferungsaufträge der Westmächte an Amerika.
+Found

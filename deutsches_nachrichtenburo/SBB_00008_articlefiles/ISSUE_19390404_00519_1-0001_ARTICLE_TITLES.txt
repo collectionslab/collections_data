@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Führer in Hamburg«
+Found
+MODSMD_ARTICLE03: Prag erwartet den Reichsprotektor.
+Found
+MODSMD_ARTICLE04: Italien steht fest zur Achse.
+Found
+MODSMD_ARTICLE05: Der Reichsstudentenführer in Mailand.
+Found
+MODSMD_ARTICLE06: Sozialdemokratische Verluste bei den dänischen Wahlen.
+Found
+MODSMD_ARTICLE07: Telegrammwechsel zwischen Horthy und Franco.
+Found
+MODSMD_ARTICLE08: Mit den Bonzen floh die Not aus Madrid.
+Found
+MODSMD_ARTICLE09: Dursichtige englische Manöver.
+Found
+MODSMD_ARTICLE10: Jüdische Professoren unerwünscht.
+Found

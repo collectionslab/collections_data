@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Adolf Hitler-Luftsport-Ehrenpreis 1837.
+Found
+MODSMD_ARTICLE02: Weihnachtsfeier des Reichsnährstandes.
+Found
+MODSMD_ARTICLE03: Ein deutsch—tschecho-slowakisches Abkommen.
+Not Found
+MODSMD_ARTICLE04: Verbot der Hetzliteratur in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE05: Ausweisung eines Faschisten ans Frankreich.
+Found
+MODSMD_ARTICLE06: Ein Hundertjahresplan für Marokko.
+Found
+MODSMD_ARTICLE07: Knappe Mehrheit für die Regierung Daladier.
+Found
+MODSMD_ARTICLE08: Jüdischer Sowjet-Handelsattache als Warenhausdieb.
+Found
+MODSMD_ARTICLE09: „Hollywood wimmelt von Juden wie Tel Aviv."
+Found
+MODSMD_ARTICLE10: Britischer und französischer Protestschritt in Tientsin.
+Found
+MODSMD_ARTICLE11: Amerikanische Manöver vor der brasilianischen Küste?
+Found
+MODSMD_ARTICLE12: Benjamin Simon, der Agent Philipp Musicas.
+Found
+MODSMD_ARTICLE13: Schwer vorbestrafter Berufsverbrecher hingerichtet.
+Found

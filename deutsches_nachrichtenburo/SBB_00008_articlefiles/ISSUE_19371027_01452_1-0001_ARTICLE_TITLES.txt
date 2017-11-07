@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Mussolinis große Rede im deutschen Rundfunk.
+Found
+MODSMD_ARTICLE02: Verleihung einer bulgarischen Kriegserinnerungsmedaille.
+Found
+MODSMD_ARTICLE03: FeldZeichen-Uebergabe in Hannover und in Breslau.
+Found
+MODSMD_ARTICLE04: Präsident del Guidice in Hamburg.
+Found
+MODSMD_ARTICLE05: Verurteilung radaulustiger Elemente in Danzig.
+Found
+MODSMD_ARTICLE06: Die Stetigkeit des polnisch-rumänischen Bündnisses.
+Found
+MODSMD_ARTICLE07: Mussolini zeichnet besonders verdiente Siedler aus.
+Found
+MODSMD_ARTICLE08: Chamberlain erst nächste Woche wieder im Amt.
+Found
+MODSMD_ARTICLE09: Thorez fordert kommunistisch katholische Zusammenarbeit.
+Found
+MODSMD_ARTICLE10: Andorra protestiert gegen bolschewistische Uebergrisfe.
+Found
+MODSMD_ARTICLE11: Der brasilianische Konsul in Barcelona gefangen gesetzt?
+Found
+MODSMD_ARTICLE12: Hunderte von Parteifunktionären abgeurteilt.
+Found
+MODSMD_ARTICLE13: Juden beherrschen die Sowjet-Schwerindustrie.
+Found
+MODSMD_ARTICLE14: Kiangkiao von den Japanern besetzt.
+Found
+MODSMD_ARTICLE15: Brasilien duldet keinen Kommunismus.
+Found

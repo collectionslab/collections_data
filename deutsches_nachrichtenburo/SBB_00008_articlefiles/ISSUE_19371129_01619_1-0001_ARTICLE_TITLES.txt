@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der ungarische Staatsbesuch nach Budapest abgereist.
+Found
+MODSMD_ARTICLE02: Ausstellimg „Arbeit und Freude" in Südofteuropa.
+Found
+MODSMD_ARTICLE03: Zum Reichsbernfswettkampf aller schaffenden Deutschen.
+Found
+MODSMD_ARTICLE04: Abreise der deutschein Frontkämpfer-Abordnung nach Paris.
+Found
+MODSMD_ARTICLE05: Staatssekretär Königs über die Fragen des Kraftverkehrs.
+Found
+MODSMD_ARTICLE06: Tagnug des „Landbundes Weichselgau".
+Found
+MODSMD_ARTICLE07: National-Spanien fordert Baskenkinder zurück.
+Found
+MODSMD_ARTICLE08: Kanada nahm dir Einladung zur Luftsahrtkonferenz an.
+Found

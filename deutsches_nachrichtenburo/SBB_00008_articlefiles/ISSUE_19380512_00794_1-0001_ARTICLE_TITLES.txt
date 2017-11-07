@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Hauptmann Weiß an Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Hapagschiff rettet vier französische Militärflieger.
+Found
+MODSMD_ARTICLE03: Generaladmiral Raeder in Budapest.
+Found
+MODSMD_ARTICLE04: Das Staatsbegräbnis für Goga.
+Found
+MODSMD_ARTICLE05: Halifax vertritt den englischen Aethiopien-Antrag.
+Found
+MODSMD_ARTICLE06: Italien lacht über Haile Selassies Genf-Reise.
+Found
+MODSMD_ARTICLE07: Henlein fährt nach London.
+Found
+MODSMD_ARTICLE08: Die Englandreise der deutschen Austauschstudenten.
+Found
+MODSMD_ARTICLE09: Ueber 120 Millionen RM. Dürreschäden in England.
+Found
+MODSMD_ARTICLE10: Die Trümmer Belchites werden Nationaldenkmal.
+Found
+MODSMD_ARTICLE11: Nationalspanien schafft moderne Arbeiterwohnungen.
+Found
+MODSMD_ARTICLE12: Fortschritte der nationalen Offensive bei Teruel.
+Found
+MODSMD_ARTICLE13: Die Aussichten des Kabinetts Janson.
+Found
+MODSMD_ARTICLE14: Verhaftungen in Rio nach dem Putschversuch.
+Found
+MODSMD_ARTICLE15: Bundessteuervorlage vom Abgeordnetenhaus angenommen.
+Found
+MODSMD_ARTICLE16: Der Kampf um die Lunghai-Bahn.
+Found
+MODSMD_ARTICLE17: Amoy von den Japanern vollkommen besetzt.
+Found

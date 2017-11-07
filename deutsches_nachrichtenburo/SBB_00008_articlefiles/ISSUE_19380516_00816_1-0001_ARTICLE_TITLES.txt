@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Verrechnungsabkommen mit Prag gilt auch für Oesterreich.
+Found
+MODSMD_ARTICLE02: Die deutsche Gröuland-Exepediiiou abgereist.
+Found
+MODSMD_ARTICLE03: Wieder Zwischenfälle in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE04: Der lg. Internationale Chemiekongreß in Rom.
+Found
+MODSMD_ARTICLE05: „Gionmle gegen die Katastrophenpolitiker.
+Found
+MODSMD_ARTICLE06: „Tribuna" über den Sinn der Rede Mussolims.
+Found
+MODSMD_ARTICLE07: Barcelona über die französische Haltung enttäuscht.
+Found
+MODSMD_ARTICLE08: Madrider Bevölkerung greift zur Selbsthilfe.
+Found
+MODSMD_ARTICLE09: Botschafteraustausch Vatikan—Nationalspanien.
+Not Found
+MODSMD_ARTICLE10: Ministerwechsel im britischen Kabinett.
+Found
+MODSMD_ARTICLE11: Die Anklage gegen Codreanu erhoben.
+Found
+MODSMD_ARTICLE12: Neuer Appell der Araber-Könige au England.
+Found
+MODSMD_ARTICLE13: Judenstaat Palästina Sprungbrett zur jüdischen Herrschaft.
+Found
+MODSMD_ARTICLE14: Aufdeckung einer Geheimorganisation in Beirut.
+Found
+MODSMD_ARTICLE15: „Jornal do Brasil" über den Putsch.
+Found

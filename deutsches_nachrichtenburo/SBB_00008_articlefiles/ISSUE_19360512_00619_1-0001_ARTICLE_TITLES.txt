@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Staatssekretär Reinhardt über Steuerpolitik.
+Found
+MODSMD_ARTICLE02: Der Mnanzminister von Uruguay in Hamburg.
+Found
+MODSMD_ARTICLE03: 2. Nordamerika-Fahrt des „Hindenburg" am 16. Mai.
+Found
+MODSMD_ARTICLE04: Die Wilnaer Trauerfeierlichkeiten für Pilsudski.
+Found
+MODSMD_ARTICLE05: Internationale Luftfahrt-Konferenz in Wien.
+Found
+MODSMD_ARTICLE06: Dr. Schuschnigg mahnt zur Einigkeit.
+Found
+MODSMD_ARTICLE07: Konferenz zur Revision des Meerengenstatuts.
+Found
+MODSMD_ARTICLE08: Sitzung des Versicherungsuntersuchungsausschusses.
+Found
+MODSMD_ARTICLE09: Blum wünscht Regierungsbeteiligung der Kommunisten.
+Found
+MODSMD_ARTICLE10: Sozialiften laden Kommunisten zur Regierungsbildung ein.
+Found
+MODSMD_ARTICLE11: Daladier für Regierungsbeteiligung der Radikalsoziaststen.
+Found
+MODSMD_ARTICLE12: Der portugiesische Kriegsminister zurückgetreten.
+Found

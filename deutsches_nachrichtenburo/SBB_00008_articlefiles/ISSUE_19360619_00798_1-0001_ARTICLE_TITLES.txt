@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Deutsch-japanischer Aerzteabend.
+Found
+MODSMD_ARTICLE02: Reichstagung der Nordischen Gesellschaft.
+Found
+MODSMD_ARTICLE03: Panzerschiff „Deutschland" in Kopenhagen.
+Found
+MODSMD_ARTICLE04: Die Liberalen gegen Aufhebung der Sanktionen.
+Found
+MODSMD_ARTICLE05: Französischer Ministerrat für Aufhebung der Sanktionen.
+Found
+MODSMD_ARTICLE06: Tagung des Ausschusses für Wirtschaftswerbung der Internationalen Handelskammer..
+Not Found
+MODSMD_ARTICLE07: Die Auflösung der nationalen Verbände in Frankreich.
+Found
+MODSMD_ARTICLE08: Die neue schwedische Regierung.
+Found
+MODSMD_ARTICLE09: Neue Streikmeldungen aus Spanien.
+Found
+MODSMD_ARTICLE10: Der englische Gesandte verläßt Abessinien.
+Found
+MODSMD_ARTICLE11: Neuordnung in der türkischen Volkspartei.
+Found
+MODSMD_ARTICLE12: Japan wehrt sich gegen die sowjetrussische Propaganda.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Harzer Motorsportwoche»
+Found
+MODSMD_ARTICLE02: Wehrmacht ehrt einen Toten des 9. November 1923.
+Found
+MODSMD_ARTICLE03: Zweite Tagung „Junger Norden".
+Found
+MODSMD_ARTICLE04: Die 55V-Jahrfeier der Universität Köln.
+Found
+MODSMD_ARTICLE05: Der Schwarzsender in der Sowjetunion funkt weiter.
+Found
+MODSMD_ARTICLE06: Das Verfahren gegen die Belgische Nationalbank.
+Found
+MODSMD_ARTICLE07: Sudetendeutschxr Hauptrat für Erziehung.
+Found
+MODSMD_ARTICLE08: Lutze und der Duce in der Milizkaserne „Mussolini".
+Found
+MODSMD_ARTICLE09: „Italien läßt sich nicht einschüchtern."
+Found
+MODSMD_ARTICLE10: Paris Zur sowjetspanischen „Wahnsinnsgeste".
+Found
+MODSMD_ARTICLE11: Durchführungsverordnung zum ungarischen Judengesetz.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Estnische Pressevertreter bei Reichsminister Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Dänen besichtigen den Flughafen Berlin-Tempelhof.
+Found
+MODSMD_ARTICLE03: Die Enteignung deutscher Grundstücke in Memel.
+Found
+MODSMD_ARTICLE04: Empfänge beim polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE05: Litauischer Polizist beseitigt Grenzpfahl.
+Found
+MODSMD_ARTICLE06: Herriot in Wien.
+Found
+MODSMD_ARTICLE07: Gewissenlose französische Bolschewistenwerber.
+Found
+MODSMD_ARTICLE08: Innenminister Szell zum Ueberfall auf die Pfeilkreuzler.
+Found
+MODSMD_ARTICLE09: Zusatzprotokoll und Zusatzabkommen in Nyon unterzeichnet.
+Found
+MODSMD_ARTICLE10: Londons Presse znr Beendigung der Küstenpatrouille.
+Found
+MODSMD_ARTICLE11: Empfang in der Deutschen Botschaft in Paris.
+Found
+MODSMD_ARTICLE12: Die französischen Herbstmanöver beendet.
+Found
+MODSMD_ARTICLE13: Französischer Flottenbesuch in Brindisi.
+Found
+MODSMD_ARTICLE14: „Komödie und Betrug in Genf".
+Found
+MODSMD_ARTICLE15: Ein ganzes Wespennest von „Staatsfeinden".
+Found
+MODSMD_ARTICLE16: Klage der Sowjetunion gegen die National City Bank.
+Found
+MODSMD_ARTICLE17: China protestiert gegen Roosevelts Waffenaussuhrverbot.
+Found
+MODSMD_ARTICLE18: Regenfälle schränken die Gefechtstütigkeit ein.
+Found

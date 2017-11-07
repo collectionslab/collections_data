@@ -1,0 +1,48 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Das deutsche Hilfswerk für Katalonien.
+Found
+MODSMD_ARTICLE03: Trümmer des aufgefunden.
+Found
+MODSMD_ARTICLE04: „Die deutschen Forderungen müssen beachtet werden."
+Found
+MODSMD_ARTICLE05: Das belgische Parlament aufgelöst.
+Found
+MODSMD_ARTICLE06: Gafencu über seinen Warschauer Besuch.
+Found
+MODSMD_ARTICLE07: Prag bildet die karpatho-ukraimsche Regierung um.
+Found
+MODSMD_ARTICLE08: Täglich neue Maßnahmen gegen die Italiener in Tunis.
+Found
+MODSMD_ARTICLE09: Argentinien vollzog cke Mre-Anerkennung Francos.
+Found
+MODSMD_ARTICLE10: Die Angst vor der Offensive Francos wächst.
+Found
+MODSMD_ARTICLE11: Madrid bestätigt das Chaos.
+Found
+MODSMD_ARTICLE12: Keine diplomatische Vertretung Englands in Rotspanien.
+Found
+MODSMD_ARTICLE13: Flucht Negrins an Bord eines englischen Schiffes?
+Found
+MODSMD_ARTICLE14: Hudson geht nicht nach Bukarest.
+Found
+MODSMD_ARTICLE15: Tie Palästina-Konferenz.
+Found
+MODSMD_ARTICLE16: Chamberlain mahnt die Presse zur Zurückhaltung.
+Found
+MODSMD_ARTICLE17: Der BiZekönig vermittelt.
+Found
+MODSMD_ARTICLE18: Englische Polizei gegen indische Arbeiter.
+Found
+MODSMD_ARTICLE19: 38 Tote in Benares.
+Found
+MODSMD_ARTICLE20: Französische Panzerwagen gegen syrische Aufständische.
+Found
+MODSMD_ARTICLE21: Das Leid der Araber in Palästina.
+Found
+MODSMD_ARTICLE22: „Südafrika kein zweites Palästina!"
+Found
+MODSMD_ARTICLE23: Deutsche Heldengedenkseicr in Sydney.
+Found
+MODSMD_ARTICLE24: Roosevelt befördert seinen engsten Mitarbeiter.
+Found

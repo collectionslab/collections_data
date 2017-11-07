@@ -1,0 +1,32 @@
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: „Times": Parole von Nürnberg verwirklicht.
+Found
+MODSMD_ARTICLE04: Ein neues Kapitel der ungarischen Innenpolitik.
+Found
+MODSMD_ARTICLE06: Freilassung von Häftlingen in Bulgarien.
+Found
+MODSMD_ARTICLE07: Telegrammwechsel zwischen Micescu und Krofta.
+Found
+MODSMD_ARTICLE08: Weitere Abwehrmaßnahmen Gogas gegen das Judentum.
+Found
+MODSMD_ARTICLE09: Die Pariser Presse zum neuen Bukarester Kurs.
+Found
+MODSMD_ARTICLE10: Auch der Senat .aeaen Verlängerung der Weltausstellung?
+Found
+MODSMD_ARTICLE11: Nachtsitzung der französischen Kammer.
+Found
+MODSMD_ARTICLE12: Die Gasversorgung der Pariser Vororte in Frage gestellt.
+Found
+MODSMD_ARTICLE13: Teuerungsausgleich in Frankreich.
+Found
+MODSMD_ARTICLE14: Rekordsumme für englische Flottenbauten 1938.
+Found
+MODSMD_ARTICLE15: Englische Besorgnisse über die Lage in Aegypten.
+Found
+MODSMD_ARTICLE16: London zur japanischen Antwortnote.
+Found
+MODSMD_ARTICLE17: Die Kämpfe um Schantung.
+Found
+MODSMD_ARTICLE18: 39 japanische Bomber griffen Kanton an.
+Found

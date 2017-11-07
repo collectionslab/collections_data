@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Abendempfang der Generale und Admirale beim Führer.
+Found
+MODSMD_ARTICLE02: Empfang für Minister Kohias durch Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Der Beirat der Reichsbahn tagte.
+Found
+MODSMD_ARTICLE05: Minister Rossoni Gast von Ministerpräsident Siebert.
+Found
+MODSMD_ARTICLE06: Ter niederländische Wirtschaftsminister in Leipzig.
+Found
+MODSMD_ARTICLE07: Gauleiter und Reichsstatthalter Mutschmann 60 Jahre alt.
+Found
+MODSMD_ARTICLE08: Die Ostmarktagung der DAF. in Graz.
+Found
+MODSMD_ARTICLE09: Der neue Dreh in Madrid.
+Found
+MODSMD_ARTICLE10: „Elend, Chaos und menschliche Niedrigkeit".
+Found
+MODSMD_ARTICLE11: Die Auseinandersetzung in Madrid.
+Found
+MODSMD_ARTICLE12: Der Nichteinmischungsausschuß baut ab.
+Found
+MODSMD_ARTICLE13: Die Karpatho-Ukraine protestiert.
+Found
+MODSMD_ARTICLE14: Neue Partei in Ungarn: „Pfeilkreuzlerpartei".
+Found
+MODSMD_ARTICLE15: Kein Platz für kommunistische Verbrecher in Ungarn.
+Found
+MODSMD_ARTICLE16: Oe-Mre-Anerkennung Francos durch Bulgarien.
+Found
+MODSMD_ARTICLE17: Die täglichen Palästina-Zwischenfälle.
+Found
+MODSMD_ARTICLE18: Administrator von Südwest gegen Lügenmeldungen.
+Found
+MODSMD_ARTICLE19: Roosevelt setzt immer noch auf Rotspanien.
+Found
+MODSMD_ARTICLE20: Schädliche Einwirkung der Kriegshetze.
+Found

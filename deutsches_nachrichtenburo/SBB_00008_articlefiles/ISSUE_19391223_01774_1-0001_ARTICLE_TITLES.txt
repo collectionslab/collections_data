@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Polens „Kriegsziele".
+Found
+MODSMD_ARTICLE02: Die britische Wirtschaftsschädigung der Neutralen.
+Found
+MODSMD_ARTICLE03: Die „Befriedung" Englands in Palästina geht weiter.
+Found
+MODSMD_ARTICLE04: Festsitzung des slowakischen Parlaments.
+Found
+MODSMD_ARTICLE05: Jüdische Unternehmungen in der Slowakei werden arisch.
+Found
+MODSMD_ARTICLE06: Die Tschechen und der Sieg des Reiches.
+Found
+MODSMD_ARTICLE07: „Deutsche Jagdflugzeuge unbezwingbar."
+Found
+MODSMD_ARTICLE08: „Weihnachtsgeschenke" für die englische Regierung.
+Found
+MODSMD_ARTICLE09: Das Vorpostenboot „Riverand" versenkt.
+Found
+MODSMD_ARTICLE10: Ein schwedischer Dampfer gesunken.
+Found
+MODSMD_ARTICLE11: Britendampfer „Granton" untergegangen.
+Found
+MODSMD_ARTICLE12: Britischer Tainkdampfer auf eine Mine gelaufen.
+Found
+MODSMD_ARTICLE13: Auf der Fahrt nach Schottland verschollen.
+Found
+MODSMD_ARTICLE14: Kein Ergebnis der belgisch-alliierten Verhandlungen.
+Found
+MODSMD_ARTICLE15: Gegen die Knebelung der französischen Presse.
+Found
+MODSMD_ARTICLE16: Lindbergh aus dem Luftfahrtausschuß ausgetreten.
+Found
+MODSMD_ARTICLE17: Englands Lieferungen bleiben aus.
+Found
+MODSMD_ARTICLE18: Neue Unterredung Nomura—Grew.
+Not Found

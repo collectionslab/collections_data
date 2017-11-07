@@ -1,0 +1,48 @@
+MODSMD_ARTICLE01: Der Führer wieder in Berlin.
+Found
+MODSMD_ARTICLE02: Prof. Dr. Walter Frank bei Reichsminister Dr. Frick.
+Found
+MODSMD_ARTICLE03: Die DAF spendet 2V 333 RM für Spaniendeutsche.
+Found
+MODSMD_ARTICLE04: Reichsrichtzahl für Lebenshaltungskosten Juli 1936.
+Found
+MODSMD_ARTICLE05: Vom Tode des Ertrinkens gerettet.
+Found
+MODSMD_ARTICLE06: Abschluß des Weltkongresses für Freizeit und Erholung.
+Found
+MODSMD_ARTICLE07: Kranzniederlegungen am Grabe Franz von Liszts.
+Found
+MODSMD_ARTICLE08: Spaniens Botschafter in Berlin gemaßregelt.
+Found
+MODSMD_ARTICLE09: Awei Reichsdeutsche in Barcelona verhaftet.
+Found
+MODSMD_ARTICLE10: 82 deutsche Flüchtlinge unterwegs nach Bayonne.
+Found
+MODSMD_ARTICLE11: General Mola meldet Erfolge bei Saragossa.
+Found
+MODSMD_ARTICLE12: Paris meldet Teilerfolge beider Parteien Spaniens.
+Found
+MODSMD_ARTICLE13: Spanische Marxisten an der Arbeit in Frankreich.
+Found
+MODSMD_ARTICLE14: Die Vorgänge in Spanien vor dem Kammer-Ausschuß.
+Found
+MODSMD_ARTICLE15: Nationalsozialisten an Wiener Kundgebungen unbeteiligt.
+Found
+MODSMD_ARTICLE16: Erholungsaufenthalt Schuschniggs.
+Found
+MODSMD_ARTICLE17: Zu den Flugzeugunfällen in Nordafrika.
+Found
+MODSMD_ARTICLE18: Erneute Vernehmung MacMahons.
+Found
+MODSMD_ARTICLE19: Eine internationale Spanien-Konferenz?
+Found
+MODSMD_ARTICLE20: Roosevelt in Kanada.
+Found
+MODSMD_ARTICLE21: Spaniens Militärregierung an Brasiliens Regierung.
+Found
+MODSMD_ARTICLE22: Japan und die Regierung von Burgos.
+Found
+MODSMD_ARTICLE23: Die gerichtliche Sühne der Februar-Revolte in Japan.
+Found
+MODSMD_ARTICLE24: Vollstreckung eines Todesurteils.
+Found

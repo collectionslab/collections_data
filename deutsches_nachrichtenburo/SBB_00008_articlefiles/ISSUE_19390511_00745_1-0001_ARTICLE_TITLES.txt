@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Beförderungen im Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE02: Studienkommission im Reichspropagandaministerium.
+Found
+MODSMD_ARTICLE03: Ausweisung eines deutschen Schriftleiters aus Aegypten.
+Found
+MODSMD_ARTICLE04: Neubau für das Langemarck-Studium in Tübingen.
+Found
+MODSMD_ARTICLE05: Die Auslandsjournalisten in München.
+Found
+MODSMD_ARTICLE06: Wien das Hamburg des Ostens.
+Found
+MODSMD_ARTICLE07: Polnische Artillerie für Edingen.
+Found
+MODSMD_ARTICLE08: Kreuzer „Königsberg" in Finnland.
+Found
+MODSMD_ARTICLE09: Die Schlagkraft der italienischen Kriegsmarine.
+Found
+MODSMD_ARTICLE10: 19 999 Freistellen für bedürftige albanische Kinder.
+Found
+MODSMD_ARTICLE11: Ein guter Fang der spanischen Polizei.
+Found
+MODSMD_ARTICLE12: Madrid bereitet sich zum ersten Empfang des Caudillo.
+Found
+MODSMD_ARTICLE13: Die Botschaft Lebruns an das Parlament.
+Found
+MODSMD_ARTICLE14: Das polnische Ermächtigungsgesetz endgültig verabschiedet.
+Found
+MODSMD_ARTICLE15: „Hausgerät und Leben in Deutschland".
+Found
+MODSMD_ARTICLE16: Sowjetrußland wünscht Vertagung der Ratstagung in Genf.
+Found
+MODSMD_ARTICLE17: Syrien fordert Erfüllung des Vertrages.
+Found
+MODSMD_ARTICLE18: Die Engländer befestigen Akaba.
+Found
+MODSMD_ARTICLE19: Wieder ein Blutopfer der arabischen Freiheitsbewegung.
+Found
+MODSMD_ARTICLE20: „Deutschlands Ansprüche auf Danzig wohlbegründet."
+Found
+MODSMD_ARTICLE21: Prozesse wegen Steuerhinterziehung in USA.
+Found

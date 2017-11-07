@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Dr. Goebbels beglückwünscht den Dichter Burte.
+Found
+MODSMD_ARTICLE02: Das Ausland Zum Stapellauf der „Bismarck".
+Found
+MODSMD_ARTICLE03: „Antisemitismus ehre Folge des Nationalismus."
+Found
+MODSMD_ARTICLE04: Sie wollen sich nicht zu erkennen aeben.
+Found
+MODSMD_ARTICLE05: 202 000 rote Milizen nach Frankreich geflüchtet.
+Found
+MODSMD_ARTICLE06: Paris und die Anerkennung Francas.
+Found
+MODSMD_ARTICLE07: 5W lM Katholiken in Spanien umgebracht.
+Found
+MODSMD_ARTICLE08: Tie Rückbeförderung der Milizen nach Spanien.
+Found
+MODSMD_ARTICLE09: „Times": „Jetzt Schluß mit dem Krieg ini Spanien."
+Found
+MODSMD_ARTICLE10: „Es gibt wieder die Pyrenäen."
+Found
+MODSMD_ARTICLE11: Empörende italienfeindliche Aktion in Tunis.
+Found
+MODSMD_ARTICLE12: Syrien kämpft um seine Selbständigkeit.
+Found
+MODSMD_ARTICLE13: Ausnahmezustand auf Jamaika.
+Found
+MODSMD_ARTICLE14: Senator Johnson rügt Roosevelts Methoden.
+Found
+MODSMD_ARTICLE15: Amerikanischer Kriegsschifsbesuch in Jbero-Amerika.
+Found

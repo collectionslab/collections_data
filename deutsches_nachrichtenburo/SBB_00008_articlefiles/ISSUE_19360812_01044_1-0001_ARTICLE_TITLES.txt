@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Ausländsdeutsche Arbeiter in Breslau.
+Found
+MODSMD_ARTICLE02: LZ „Hindenburg" in Frankfurt a. M. gelandet.
+Found
+MODSMD_ARTICLE03: Ter frühere König von Spanien dementiert.
+Found
+MODSMD_ARTICLE04: Erbitterte Kämpfe um Badajoz.
+Found
+MODSMD_ARTICLE05: Inspektor für die öffentliche Sicherheit in Burgos.
+Found
+MODSMD_ARTICLE06: Svwjetruszlands und Frankreichs Sammlungen für Madrid.
+Found
+MODSMD_ARTICLE07: Den Engländern wird Abreise aus Spanien angeraten.
+Found
+MODSMD_ARTICLE08: Amerika verkündet Nichteinmischung in Spanien.
+Found
+MODSMD_ARTICLE09: Auch Schweden zum Nichteinmischungpakt aufgefordert.
+Found
+MODSMD_ARTICLE10: Englische Kohle für Spanien nur gegen Barzahlung.
+Found
+MODSMD_ARTICLE11: Hirtenbrief spanischer Bischöfe gegen Kommunismus.
+Found
+MODSMD_ARTICLE12: Die kommunistische Weltgesahr. Die belgische Presse warnt.
+Found
+MODSMD_ARTICLE13: Polnische Emigration in Frankreich unter Moskauer Einfluß.
+Found
+MODSMD_ARTICLE14: Kommunistische Wühlarbeit in der griechischen Wehrmacht.
+Found
+MODSMD_ARTICLE15: Regierungszuschüsse für griechische Arbeiterorganisationen.
+Found
+MODSMD_ARTICLE16: Einschränkung des Fleischverbrauchs in Griechenland.
+Found
+MODSMD_ARTICLE17: Die Gefahr eines englischen Eisenbahnerstreiks abgewendet»
+Found
+MODSMD_ARTICLE18: Französisch-italienisches Handelsabkommen abgeschlossen.
+Found
+MODSMD_ARTICLE19: Die schwedische Rotekreuz-Abteilung in Kenya.
+Found
+MODSMD_ARTICLE20: Italien zieht 2 U-Boote aus dem Roten Meer zurück.
+Found
+MODSMD_ARTICLE21: Die französische Gesandtschaft in Addis Abeba.
+Found
+MODSMD_ARTICLE22: Unterwerfung von abessinischen Stammesführern.
+Found

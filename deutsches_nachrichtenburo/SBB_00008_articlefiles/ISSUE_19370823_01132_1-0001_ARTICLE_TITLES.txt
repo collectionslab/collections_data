@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die deutschen Stämme huldigen der Reichshauptstadt.
+Found
+MODSMD_ARTICLE02: Daranyi besuchte Schuschnigg.
+Found
+MODSMD_ARTICLE03: Zuchthaus für bolschewistische Hetzer in Oesterreich.
+Found
+MODSMD_ARTICLE04: Weitere Besserung im Befinden Horthys.
+Found
+MODSMD_ARTICLE05: Verhaftungen bei der Bäuerlichen Volkspartei in Polen.
+Found
+MODSMD_ARTICLE06: Großer Geländegewinn an der Santander-Front.
+Found
+MODSMD_ARTICLE07: Ein guter Fang!
+Found
+MODSMD_ARTICLE08: Die englische Sonntagspresse diskutiert die Mussolini-Rede.
+Found
+MODSMD_ARTICLE09: Chamberlain unterbricht wegen China seinen Urlaub.
+Found
+MODSMD_ARTICLE10: Schwere Wirtschaftsverluste der Engländer in Schanghai.
+Found
+MODSMD_ARTICLE11: Ausdehnung des Kampfgebietes im Norden Chinas.
+Found
+MODSMD_ARTICLE12: Ferneinsatz der japanischen Luftwaffe.
+Found
+MODSMD_ARTICLE13: Die Chinesen am Whangpu zurückgeschlagen.
+Found
+MODSMD_ARTICLE14: Aegyptens innerpolitische Beunruhigung beendet.
+Found
+MODSMD_ARTICLE15: Vierter deutscher Sieg im vierten Schweizer Preis.
+Found

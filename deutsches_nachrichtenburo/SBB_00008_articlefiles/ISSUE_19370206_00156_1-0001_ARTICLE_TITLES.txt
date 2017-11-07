@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Schacht beim Führer.
+Found
+MODSMD_ARTICLE02: Sir Nevile M. Henderson britischer Botschafter in Berlin.
+Found
+MODSMD_ARTICLE03: „Man muß bereit sein, für seine Ehre zu kämpfen".
+Found
+MODSMD_ARTICLE04: Nunciman wieder in England.
+Found
+MODSMD_ARTICLE05: Leichenfunde an der französische Atlantikküfte.
+Found
+MODSMD_ARTICLE06: Sowietrussische U-Bootspiouage in norwegischem Hafen.
+Found
+MODSMD_ARTICLE07: Das bolschewistische Intrigenspiel.
+Found
+MODSMD_ARTICLE08: „Liquidierung der folgen des Verrates Trotzkis".
+Found
+MODSMD_ARTICLE09: Wo ist Litwmow-Fmkelstein?
+Found
+MODSMD_ARTICLE10: Kommunstische Ausbreitungsversuche in China.
+Found
+MODSMD_ARTICLE11: Australien bildet eigene Diplomaten aus.
+Found
+MODSMD_ARTICLE12: Kanada gegen Einmischung in Spanien.
+Found
+MODSMD_ARTICLE13: Die Unterredung Rüschtü Aras—Stojadinowitsch.
+Not Found
+MODSMD_ARTICLE14: Ein Schritt Roosevelts zur Stärkung der Zentralgewalt.
+Found
+MODSMD_ARTICLE15: Forschungsschiff „Meteor" ausgelaufen»
+Found
+MODSMD_ARTICLE16: Mörder zum Tode verurteilt.
+Found
+MODSMD_ARTICLE17: Millionen-Veruntreuung beim Dominikaner-Orden in Prag.
+Found
+MODSMD_ARTICLE18: Der Streik in der amerikanischen Automobilindustrie.
+Found
+MODSMD_ARTICLE19: Besserung der Lage im Ohio-Tal.
+Found

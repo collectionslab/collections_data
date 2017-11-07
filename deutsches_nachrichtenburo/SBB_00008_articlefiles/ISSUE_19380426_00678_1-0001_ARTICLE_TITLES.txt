@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Generalmajor NiU beigesetzt.
+Found
+MODSMD_ARTICLE02: Die internationale Hotel-Tagung in Baden-Baden.
+Found
+MODSMD_ARTICLE03: Die Verhandlungen Rom—Paris.
+Not Found
+MODSMD_ARTICLE04: Paris verteidigt „grundsätzliche Lehrmeinungen".
+Found
+MODSMD_ARTICLE05: „Giornale d'Jtalia" über die Heuchelei der Marxisten.
+Found
+MODSMD_ARTICLE06: Kabinettssitzung in London.
+Found
+MODSMD_ARTICLE07: Beschleunigter Aufbau des britischen Luftschutzes.
+Found
+MODSMD_ARTICLE08: Besuch des amerikanischen Botschafters bei de Valera.
+Found
+MODSMD_ARTICLE09: Gegen die ewigen Hetzer.
+Found
+MODSMD_ARTICLE10: Gemeindewahlen im tschechoslowakischen Staatsgebiet.
+Found
+MODSMD_ARTICLE11: Stojadinowitsch: Marxismus ist Produkt des Misthausens.
+Found
+MODSMD_ARTICLE12: Stärkung der Landesverteidigung in der Schweiz.
+Found
+MODSMD_ARTICLE13: Stalin macht Schule.
+Found
+MODSMD_ARTICLE14: Das estländische Amnestiegesetz.
+Found
+MODSMD_ARTICLE15: Neues Presse- und Vereinsgesetz in Estland.
+Found
+MODSMD_ARTICLE16: Beginn der Hochzeitsfeiern in Tirana.
+Found
+MODSMD_ARTICLE17: Der türkische Freundschaftsbesuch in Athen.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Englischer Bombenangriff auf Helgoland abgewiesen.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Das Deutsche VolkSbildungswcrk im Protektorat.
+Found
+MODSMD_ARTICLE04: England hat bei den Tschechen verspielt.
+Found
+MODSMD_ARTICLE05: Die Slowakei weist Greuelmeldungen zurück.
+Found
+MODSMD_ARTICLE06: Taladirr löst Unbehagen im französischen Volk aus.
+Found
+MODSMD_ARTICLE07: Mussolini vor dem neuen Karteidirektorium.
+Found
+MODSMD_ARTICLE08: England spielt sein sattsam bekanntes Spiel.
+Found
+MODSMD_ARTICLE09: Den Kriegshetzern wird der Whisky knapp.
+Found
+MODSMD_ARTICLE10: Der russische Vormarsch in Finnland.
+Found
+MODSMD_ARTICLE11: Rußlands finnisches Programm.
+Found
+MODSMD_ARTICLE12: Deutsche Ehrung für König Boris von Bulgarien.
+Found
+MODSMD_ARTICLE13: Deutscher Dampfer entzog sich der Beschlagnahme.
+Found
+MODSMD_ARTICLE14: Arbeitslosenelend in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE15: Vollstreckung eines Todesurteils.
+Found

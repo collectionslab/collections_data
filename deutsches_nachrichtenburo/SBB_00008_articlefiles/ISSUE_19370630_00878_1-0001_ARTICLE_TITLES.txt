@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Mackenzie King als Gast Görings in der Staatsoper.
+Found
+MODSMD_ARTICLE02: Empfang zu Ehren des JHK.-Kongresses.
+Found
+MODSMD_ARTICLE03: KV Jahre Reichspatentamt.
+Found
+MODSMD_ARTICLE04: Handelsabkommen Deutschland-Niederländisch-Jndien.
+Found
+MODSMD_ARTICLE05: Belgien wendet Oslo-Erleichterungen auf Deutschland an.
+Found
+MODSMD_ARTICLE06: Rundfunkansprache des polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE07: „Polen und Rumänien von Moskau gemeinsam bedroht."
+Found
+MODSMD_ARTICLE08: „Czas" muß sich entschuldigen.
+Found
+MODSMD_ARTICLE09: Der Kampf gegen den Senat beginnt.
+Found
+MODSMD_ARTICLE10: Das Ermächtigungsgesetz vor dem Senat.
+Found
+MODSMD_ARTICLE11: Ganz Frankreich sieht auf den Franken.
+Found
+MODSMD_ARTICLE12: Jnskip über das englische Aufrüstungsprogramm.
+Found
+MODSMD_ARTICLE13: Die Blutgerichte der Sowjets in Sibirien.
+Found
+MODSMD_ARTICLE14: Tie Wühlarbeit der Sowjets in China.
+Found
+MODSMD_ARTICLE15: Erfolg des japanischen Protestes in Moskau.
+Found

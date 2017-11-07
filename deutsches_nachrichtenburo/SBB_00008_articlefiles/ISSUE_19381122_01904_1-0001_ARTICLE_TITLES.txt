@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Pfundtner aus der Sondertagung „Verwaltung" der DAF.
+Found
+MODSMD_ARTICLE02: Berlin—Wien in 11 Stunden.
+Not Found
+MODSMD_ARTICLE03: König Karl in Freiburg.
+Found
+MODSMD_ARTICLE04: Volksdeutsche Bauerntagung in Nordschleswig.
+Found
+MODSMD_ARTICLE05: Marineattachö Bouin in Kowno.
+Found
+MODSMD_ARTICLE06: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE07: Die Autonomiegesetze Pom Senat angenommen.
+Found
+MODSMD_ARTICLE08: Ter- JrastADmnll lmperium au.
+Found
+MODSMD_ARTICLE09: „Italien geht in der Rassenfrage seinen geraden Weg!"
+Found
+MODSMD_ARTICLE10: „Keine ungeregelte Einwanderung ins Britische Empire."
+Found
+MODSMD_ARTICLE11: Halms zur französisch-englischen Zusammenkunft.
+Found
+MODSMD_ARTICLE12: Der Besuch des Königs der Belgier in Holland.
+Found
+MODSMD_ARTICLE13: 1,7 Millionen Pfund britische Besatzungskosien.
+Found
+MODSMD_ARTICLE14: Der arabische Abwehrkampf geht weiter.
+Found
+MODSMD_ARTICLE15: Mit den Inden gibt es kein Verhandeln.
+Found
+MODSMD_ARTICLE16: Sympathiekundgebung für die Araber Palästinas.
+Found
+MODSMD_ARTICLE17: Immer noch französische Waffenlieferungen nach China»
+Found

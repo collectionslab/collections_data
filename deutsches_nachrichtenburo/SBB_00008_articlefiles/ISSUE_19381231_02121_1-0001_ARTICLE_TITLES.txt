@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Dr. Goebbels zum Jahresabschluß im Rundfunk.
+Found
+MODSMD_ARTICLE02: Neugestaltung der deutschen Akademien der Wissenschaften.
+Found
+MODSMD_ARTICLE03: Die „Germania" stellt ihr Erscheinen ein.
+Found
+MODSMD_ARTICLE04: „Deutschland ein sozialpolitisches Vorbild."
+Found
+MODSMD_ARTICLE05: Beschlüsse des litauischen Kabinetts.
+Found
+MODSMD_ARTICLE06: Annahme des Neutralitätsgesetzes durch Litauen.
+Found
+MODSMD_ARTICLE07: Ungarische Demarche in Krag.
+Found
+MODSMD_ARTICLE08: Die Ukrainer Polens fordern Autonomie.
+Found
+MODSMD_ARTICLE09: Zusammenfassung aller national eingestellten Polen.
+Found
+MODSMD_ARTICLE10: „Die französischen Forderungen ein Ablenkungsmanöver."
+Found
+MODSMD_ARTICLE11: Tie ersten „Erfolge" der Volksfrontregierung in Chile.
+Found
+MODSMD_ARTICLE12: Beschuldigungen gegen Kolonialminister Mandel.
+Found
+MODSMD_ARTICLE13: „Temps" fordert Abkehr von der verfehlten Bündnispolitik.
+Found
+MODSMD_ARTICLE14: Der Bruch Paris—Teheran.
+Not Found
+MODSMD_ARTICLE15: 45- Kilometer vor Tarragona.
+Found
+MODSMD_ARTICLE16: Zusammenlegung nationalspanischer Ministerien.
+Found
+MODSMD_ARTICLE17: Rote Lüge um „Jose Luis Diaz".
+Found
+MODSMD_ARTICLE18: Rotspgnifches Piratenschiff wird interniert.
+Found
+MODSMD_ARTICLE19: „Eine geeignete Basis für Friedensverhandlungen."
+Found

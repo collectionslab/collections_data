@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Tagung der leitenden Gemeindebaubeamten in Hannover.
+Found
+MODSMD_ARTICLE02: Der Norddeutsche Lloyd dankt der Kriegsmarine.
+Found
+MODSMD_ARTICLE03: Der Butterbezug im Reiseverkehr.
+Found
+MODSMD_ARTICLE04: Deutscher Musikererfolg in Kowno.
+Found
+MODSMD_ARTICLE05: Deutsche Zeitschriftenverleger in Italien.
+Found
+MODSMD_ARTICLE06: Keine Zeitung am 1. Mai in Paris.
+Found
+MODSMD_ARTICLE07: Zum Londoner Aufenthalt Daladiers.
+Found
+MODSMD_ARTICLE08: Streit um den Nationalen Verteidiaunasbeitraa. Z
+Found
+MODSMD_ARTICLE09: Der spanische Heeresbericht.
+Found
+MODSMD_ARTICLE10: Das nationale Amerika gegen kommunistische Filme.
+Found
+MODSMD_ARTICLE11: Siraßenkämpfe bei einem Streik in Amerika.
+Found
+MODSMD_ARTICLE12: Der Jude La Guardia auch komnnistischer Hetzagent.
+Found

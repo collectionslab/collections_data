@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Ministerialdirektor Lampe f.
+Found
+MODSMD_ARTICLE02: Staatssekretär Tassinari in Marienburg.
+Found
+MODSMD_ARTICLE03: Feierliche Eröffnung der Reichsmusiktage.
+Found
+MODSMD_ARTICLE04: Ehrenmal für die „Soldaten ohne Befehl".
+Found
+MODSMD_ARTICLE05: Reichserziehungsminister Dr. Ruft in Wien.
+Found
+MODSMD_ARTICLE06: Der Eisenbahnverkehr in der Steiermark wiederhergestellt.
+Found
+MODSMD_ARTICLE08: Neue tschechische Grenzverletzung nördlich von Linz.
+Found
+MODSMD_ARTICLE09: Der Besuch des tschechischen Unterrichtsministers abgesagt.
+Found
+MODSMD_ARTICLE10: Halbmilitärische Patrouillen an der polnischen Grenze.
+Found
+MODSMD_ARTICLE11: Die Ausstellung „Deutsche Plastik" in Krakau.
+Found
+MODSMD_ARTICLE12: Hungerblockade sollte dem Kommunismus Boden bereiten.
+Found
+MODSMD_ARTICLE13: Befreiuugs-Gedenkfeier in Riga.
+Found
+MODSMD_ARTICLE14: Kolonialtag in Rom.
+Found
+MODSMD_ARTICLE15: Zusammentritt der Sobranje.
+Found
+MODSMD_ARTICLE16: Einlagerung riesiger Mengen Gefrierfleisch in England.
+Found
+MODSMD_ARTICLE17: Britisches Handelsschiff angeblich angegriffen.
+Found
+MODSMD_ARTICLE18: Konrad Henlein bei Hodscha.
+Found
+MODSMD_ARTICLE19: Siegreiche Kämpfe der Nationalen.
+Found
+MODSMD_ARTICLE20: Der Sandschak in Unruhe.
+Found
+MODSMD_ARTICLE21: Arabische Abwehrschritte gegen die Teilung Palästinas»
+Found
+MODSMD_ARTICLE22: Die Kämpfe an der Lunghai-Bahn.
+Found
+MODSMD_ARTICLE23: Der Putsch Cedillos.
+Found
+MODSMD_ARTICLE24: Zwischenfall im chilenischen Kongreß.
+Found

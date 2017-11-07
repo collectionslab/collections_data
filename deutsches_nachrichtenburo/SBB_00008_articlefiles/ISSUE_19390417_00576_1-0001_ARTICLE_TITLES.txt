@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer an General von Bergmann.
+Found
+MODSMD_ARTICLE02: Zum Regierungsrat ernannt.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels spricht am 19. April.
+Found
+MODSMD_ARTICLE04: „Deutschland bewies sofort seine vollste Solidarität."
+Found
+MODSMD_ARTICLE05: Die Geschichte der italienisch-albanischen Beziehungen.
+Found
+MODSMD_ARTICLE06: Landesgruppenleiter Eitel bei Parteisekretär Starace.
+Found
+MODSMD_ARTICLE07: Teleki über seine bevorstehende Rom-Reise.
+Found
+MODSMD_ARTICLE08: Die Judenvorlage vor dem Budapester Oberhaus.
+Found
+MODSMD_ARTICLE09: Warschauer Dementi zur Pariser Reise Becks.
+Found
+MODSMD_ARTICLE10: Die Flämische Natioualpartei fordert Staatsreform.
+Found
+MODSMD_ARTICLE11: London und Paris umbuhlen Moskau.
+Found
+MODSMD_ARTICLE12: Spanien: „Wider Vernunft und Recht."
+Found
+MODSMD_ARTICLE13: Verstärkungen für Gibraltar.
+Found
+MODSMD_ARTICLE14: Das iranische Kronprinzenpaar in Teheran.
+Found
+MODSMD_ARTICLE15: Was sagt Herr Roosevelt dazu?
+Found

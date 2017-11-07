@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Zwischenfall an der deutsch-tschechoslowakischen Grenze.
+Found
+MODSMD_ARTICLE02: Vor neuen Schritten in Prag.
+Found
+MODSMD_ARTICLE03: Englands Aufgabe.
+Found
+MODSMD_ARTICLE04: Warschau läßt in Prag nachfragen.
+Found
+MODSMD_ARTICLE05: Nosenberg auf dem Gautag der NSDAP. Sachsen.
+Found
+MODSMD_ARTICLE06: Begnadigungsaktion in Litauen.
+Found
+MODSMD_ARTICLE07: Bonnet bei Daladier.
+Found
+MODSMD_ARTICLE08: Patriarch Cristea bei Ministerpräsident Skladkowsk:.
+Found
+MODSMD_ARTICLE09: Ausstandsversuch in Mexiko.
+Found
+MODSMD_ARTICLE10: Internationales Avusrennen 1338 ein deutscher Erfolg.
+Found
+MODSMD_ARTICLE11: Ueberschwemmungen in der Steiermark und in Kärnten.
+Found

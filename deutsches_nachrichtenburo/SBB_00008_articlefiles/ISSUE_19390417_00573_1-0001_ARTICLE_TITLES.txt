@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: „Fahnen heraus, schmückt Häuser und Straßen!"
+Found
+MODSMD_ARTICLE02: Die Veranstaltungen anläßlich des Geburtstages des Führers.
+Not Found
+MODSMD_ARTICLE03: Berlin wird Stadt der Parks und Sportstätten.
+Found
+MODSMD_ARTICLE04: 40jähriges Dienstjubiläum von Geheimrat Dr. Carl Bosch.
+Found
+MODSMD_ARTICLE05: Dr. Frank sprach im Sudetengau.
+Found
+MODSMD_ARTICLE06: Ein Dämpfer für bolschewistische Begehrlichkeit.
+Found
+MODSMD_ARTICLE07: Das Echo der Ciano-Rede in Rom.
+Found
+MODSMD_ARTICLE08: England drängt in Moskau.
+Found
+MODSMD_ARTICLE09: Es wird auch Zeit!
+Found
+MODSMD_ARTICLE10: Amerikanische Hauptflotte kehrt in den Pazifik zurück.
+Found

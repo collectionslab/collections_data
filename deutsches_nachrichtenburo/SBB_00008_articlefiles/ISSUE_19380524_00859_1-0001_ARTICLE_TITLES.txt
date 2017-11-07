@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Zusammenbruch einer ungeheuerlichen Verleumdung.
+Found
+MODSMD_ARTICLE02: Ein Kulturfilm des Sudetendeutschtums.
+Found
+MODSMD_ARTICLE03: 8 Musikkorps der Wehrmacht nach Italien unterwegs.
+Found
+MODSMD_ARTICLE04: Amerikanische Auszeichnung für deutsche Baufirmen.
+Found
+MODSMD_ARTICLE05: Die Nürnberger Gesetze gelten auch für Oesterreich.
+Found
+MODSMD_ARTICLE06: Staatssekretär Tassinari in Hamburg.
+Found
+MODSMD_ARTICLE07: Ruft vereidigt österreichische Junglehrer.
+Found
+MODSMD_ARTICLE08: Dr. Ley besichtigt Tiroler Betriebe.
+Found
+MODSMD_ARTICLE09: Polen stellt eine Lüge richtig.
+Found
+MODSMD_ARTICLE10: Ein krasser Gegensatz zu den Tatsachen.
+Found
+MODSMD_ARTICLE11: Sitzen die Friedensfeinde in Paris?
+Found
+MODSMD_ARTICLE12: „Ein schreiendes und unzeitgemäßes Unrecht".
+Found
+MODSMD_ARTICLE13: Der Duce eröffnet Ausstellung für Freizeit-Bewegung»
+Found
+MODSMD_ARTICLE14: Dänemark und Island erkennen das Imperium an.
+Found
+MODSMD_ARTICLE15: Entsendung einer nationalspanischen Abordnung nach Rom.
+Found
+MODSMD_ARTICLE16: Gescheiterte bolschewistische Entlastungsofsensive bei Tremp.
+Found
+MODSMD_ARTICLE17: Der Außenhandelsunterschuß Frankreichs.
+Found
+MODSMD_ARTICLE18: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE19: Die Rotterdamer Bombenaffäre.
+Found
+MODSMD_ARTICLE20: „Codreanu trägt die nationale Bewegung Rumäniens!"
+Found
+MODSMD_ARTICLE21: Dänemark nimmt die britischen Interessen in Mexiko wahr.
+Found
+MODSMD_ARTICLE22: Japanische Vorstellungen in London.
+Found
+MODSMD_ARTICLE23: Juden terrorisieren die arabische Bevölkerung.
+Found

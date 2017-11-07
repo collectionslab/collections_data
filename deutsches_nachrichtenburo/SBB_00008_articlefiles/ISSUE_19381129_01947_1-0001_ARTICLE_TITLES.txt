@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Kommissarischer Geschäftsführer der Reichsrundftmkkammcr.
+Found
+MODSMD_ARTICLE02: Großartiger Erfolg des Frankfurter Operngastspiels.
+Found
+MODSMD_ARTICLE03: Der Rücktritt Kaupas.
+Found
+MODSMD_ARTICLE04: Bulgarien demonstrierte gegen den Vertrag von Neuilly.
+Found
+MODSMD_ARTICLE05: Sitzung des polnischen Senats
+Found
+MODSMD_ARTICLE06: Wie sich die Juden in Polen breitmachen.
+Found
+MODSMD_ARTICLE08: Hinter den Kulissen der polnischen Freimaurerei.
+Found
+MODSMD_ARTICLE09: Auch in Schweden gibt es eine Indenfrage.
+Found
+MODSMD_ARTICLE10: Zionistenblatt in Italien verboten.
+Found
+MODSMD_ARTICLE11: Jüdische Emigranten suchen Belgien heim.
+Found
+MODSMD_ARTICLE12: Belgische Blätter zu den französischen Arbeitsunruhen.
+Found
+MODSMD_ARTICLE13: Die Lage in Frankreich.
+Found
+MODSMD_ARTICLE14: Drakonische Methoden der roten Machthaber in Spanien.
+Found
+MODSMD_ARTICLE15: Der nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE16: Fehlbetrag im früheren Dentsch-OstafrikK.
+Found
+MODSMD_ARTICLE17: Roosevelt „informiert sich".
+Found

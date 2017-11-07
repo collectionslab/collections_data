@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Dr. Ruft spricht in Breslau. 125-Jahrfcirr der Breslauer Universität.
+Found
+MODSMD_ARTICLE02: Paul Lincke 76 Jahre alt. Ehrung in der KDDK.
+Found
+MODSMD_ARTICLE03: Deutsches Ehrenzeichen für Mussolini.
+Found
+MODSMD_ARTICLE04: München erhält einen neuen Großflughafen.
+Found
+MODSMD_ARTICLE05: Lieber im Gefängnis, als im „Sowjetparadies".
+Found

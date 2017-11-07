@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der erste Flugzeugträger der Kriegsmarine.
+Found
+MODSMD_ARTICLE02: Der Landeskriesterführer Südwest gestorben.
+Found
+MODSMD_ARTICLE03: Die Schweiz lediglich Durchgangsland für Juden.
+Found
+MODSMD_ARTICLE04: Belgrad Zum deutsch-französischen Abkommen.
+Found
+MODSMD_ARTICLE05: Belgien: „Nützlicher als der Kelloggpakt."
+Found
+MODSMD_ARTICLE06: „Jedes Manöver Hegen die Achse muß scheitern."
+Found
+MODSMD_ARTICLE07: M Stockholm: Ein Beitrag zur Entspannung in Europa.
+Found
+MODSMD_ARTICLE08: Bereu ger: Keine Sentimentalitäten, sondern Vernunft.
+Found
+MODSMD_ARTICLE09: Empfindliche Strafen für Streikende in Lille.
+Found
+MODSMD_ARTICLE10: Prinzregent Paul in Paris.
+Found
+MODSMD_ARTICLE11: Der Kampf der russischen Bauern gegen Stalin.
+Found
+MODSMD_ARTICLE12: Die bolschewistische Agitation in England.
+Found
+MODSMD_ARTICLE13: Ausruf verhafteter Mitglieder der Eisernen Garde.
+Found
+MODSMD_ARTICLE14: Warum Caliuescu das Unterrichtsministerium abgab.
+Found
+MODSMD_ARTICLE15: 73 bolschewistische Hlugzeuge im November abgeschossen.
+Found
+MODSMD_ARTICLE16: Syrien protestiert.
+Found
+MODSMD_ARTICLE17: Grneralinspektion der Luftstreitkräfte in Japan.
+Found
+MODSMD_ARTICLE18: Unterseetunnel zwischen Japan und Mandschukuo.
+Found

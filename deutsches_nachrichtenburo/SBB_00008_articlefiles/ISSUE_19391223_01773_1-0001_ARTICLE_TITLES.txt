@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Das deutsch-niederländische Verrechnnngsabkommen.
+Found
+MODSMD_ARTICLE02: Deutsch-dänisches Warenabkommen unterzeichnet.
+Found
+MODSMD_ARTICLE03: Deutsch-schwedische Wirtschaftsverhandlungen beendet.
+Found
+MODSMD_ARTICLE04: Tie Wirtschaftsverhandlungen der Neutralen mit England.
+Found
+MODSMD_ARTICLE05: Das Ergebnis des dritten Opfersonntags.
+Found
+MODSMD_ARTICLE06: Kritische Lage in Indien.
+Found
+MODSMD_ARTICLE07: „Raubstaat England".
+Found
+MODSMD_ARTICLE08: „Giornale d'Jtalia" zu den deutschen Seekriegserfolgen.
+Found
+MODSMD_ARTICLE09: Explosionen in Briefkästen und in Postämtern.
+Found
+MODSMD_ARTICLE10: Wiederaufnahme der Kämpfe an der norwegischen Grenze»
+Found
+MODSMD_ARTICLE11: Finnischer Gegenangriff an der Petsamo-Front.
+Found
+MODSMD_ARTICLE12: Russischer Transithandel nach Deutschland über Reval?
+Found
+MODSMD_ARTICLE13: England verschleiert die wahre Lage in Indien.
+Found
+MODSMD_ARTICLE14: Die amerikanische Neutralität.
+Found
+MODSMD_ARTICLE15: Englischer Tankdampfer gesunken.
+Found
+MODSMD_ARTICLE16: Vorsorglicher Rüstungsausbau in Japan.
+Found
+MODSMD_ARTICLE17: Ausbau der Bagdadbahn.
+Found
+MODSMD_ARTICLE18: Gemeiner Volksschädling erschossen.
+Found

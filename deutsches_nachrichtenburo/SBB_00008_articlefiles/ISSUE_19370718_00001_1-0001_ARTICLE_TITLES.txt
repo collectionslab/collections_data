@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Feierliche Weihe des Hauses der Deutschen Kunst. Der Führer eröffnet die „Große Deutsche Kunstausstellung 1937".
+Found
+MODSMD_ARTICLE02: Ein denkwürdiger Tag in der deutschen Kulturgeschichte.
+Found
+MODSMD_ARTICLE03: Gewaltiger Zustrom der Volksmassen.
+Found
+MODSMD_ARTICLE04: Vor dem Hause der Deutschen Kunst.
+Found
+MODSMD_ARTICLE05: Die feierliche Uebergabe des Hauses.
+Found
+MODSMD_ARTICLE06: Staatskommissar Gauleiter Adolf Wagner
+Found
+MODSMD_ARTICLE07: Der Führer übergibt das Haus seiner Bestimmung.
+Found
+MODSMD_ARTICLE08: Der Führer betritt die Ehrenhalle.
+Found

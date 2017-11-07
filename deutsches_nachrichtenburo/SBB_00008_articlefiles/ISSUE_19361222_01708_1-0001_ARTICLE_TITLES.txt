@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Beileid des Führers zum Tode Prof. Wienands.
+Found
+MODSMD_ARTICLE02: Goethe-Medaille für Professor Dr. Glvel-Wehlar.
+Found
+MODSMD_ARTICLE03: Eine Sport-Abteilung im Innenministerium.
+Found
+MODSMD_ARTICLE04: Neuregelung der Aufwertungsfölligkeiten.
+Found
+MODSMD_ARTICLE05: Deutsch-polnisches Wirtschaftsabkommen verlängert.
+Found
+MODSMD_ARTICLE06: Für Schutz des Polentums vor jüdischer Neberfremdung.
+Found
+MODSMD_ARTICLE07: Der Pole Jan Delong von Prag begnadigt.
+Found
+MODSMD_ARTICLE08: Sechs Bergleute lebendig eingemauert.
+Found
+MODSMD_ARTICLE09: „Matin": Der französische Soldat Söldner Stalins.
+Found
+MODSMD_ARTICLE10: Die Anerkennung der Oberhoheit Italiens in Abessinien.
+Found
+MODSMD_ARTICLE11: Italiens Presse zur Gesandtschaftsumwandlung.
+Found
+MODSMD_ARTICLE12: Sowjetmarine fordert „Sühne" für „Komsomol".
+Found
+MODSMD_ARTICLE13: Steigende Lebensmittelknappheit in Katalonien.
+Found
+MODSMD_ARTICLE14: Allgemeine Wehrpflicht in Mandschnkuo.
+Found
+MODSMD_ARTICLE15: Frau Tschiangkaischek nach Sianfu abgeflogen.
+Found
+MODSMD_ARTICLE16: Jensischan entsendet Vermittler nach Sianfu.
+Found
+MODSMD_ARTICLE17: Divisionskommandeur sagt sich von Tschanghsueliang los.
+Found
+MODSMD_ARTICLE18: Außenminister Tschangtschun über die Sianfu-Nevolte.
+Found

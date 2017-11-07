@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Lord Halifax nach dem Obersalzberg abgereist.
+Found
+MODSMD_ARTICLE02: Keine Bedrohung polnischer Interessen in Danzig.
+Found
+MODSMD_ARTICLE03: „Die Tschechoslowakei ist ein Vielvölkerstaat."
+Found
+MODSMD_ARTICLE04: „Eindruck der Unaufrichtigkeit muß entstehen".
+Found
+MODSMD_ARTICLE05: Ungarn will Taten sehen.
+Found
+MODSMD_ARTICLE06: „Freunde von den Feinden untierscheiden gelernt."
+Found
+MODSMD_ARTICLE07: KdF.-Jtalienfahrer in Palermo.
+Found
+MODSMD_ARTICLE08: Dr. Todt im englischen Unterhaus.
+Found
+MODSMD_ARTICLE09: Ueberführung der Opfer der Flugzeugkatastrophe.
+Found
+MODSMD_ARTICLE10: Delbos vor dem Auswärtigen Ausschuß.
+Found
+MODSMD_ARTICLE11: Chautemps ringt um das Haushaltsgleichgewicht.
+Found

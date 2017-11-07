@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Begrüßungsartikel der italieniAen Presse zum Führerbesuch.
+Found
+MODSMD_ARTICLE02: Faschistische Fugend Probt zur Parade vor dem Führer.
+Found
+MODSMD_ARTICLE03: Havas über den ersten Londoner Verhandlungstag»
+Found
+MODSMD_ARTICLE04: Sowjetunion Waffcnlicferant für den Weltbrand?
+Found
+MODSMD_ARTICLE05: Sowzetspaniens lebte Weisheit.
+Found
+MODSMD_ARTICLE06: Der 3. Mai Nationaler Feiertag in Italien.
+Found
+MODSMD_ARTICLE07: Salazar über Portugals Politik.
+Found
+MODSMD_ARTICLE08: Der russische Geheimsender droht Stalin mit Hinrichtung.
+Found
+MODSMD_ARTICLE09: Geburtstag des Kaisers von Japan.
+Found

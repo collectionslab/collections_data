@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: 50 Jahre See-Berufsgenossenschaft.
+Found
+MODSMD_ARTICLE02: Bomben statt Postbeutel!
+Found
+MODSMD_ARTICLE03: Der nationale Heeresbericht vom Dienstag.
+Found
+MODSMD_ARTICLE04: Franco setzt eine Pension für die Familie Calvo Sotelos aus.
+Found
+MODSMD_ARTICLE05: „Schmuggel jetzt noch offener und großzügiger".
+Found
+MODSMD_ARTICLE06: Lärmender Abschluß des Marseiller Parteikongresses.
+Found
+MODSMD_ARTICLE07: „Petit Journal" Organ der Französischen Sozialpartei.
+Found
+MODSMD_ARTICLE08: Schifferstreik auf der Seine.
+Found
+MODSMD_ARTICLE09: Ter jugoslawische Generalstabsches bei Daladier.
+Found
+MODSMD_ARTICLE10: Französischer Kommentar zum Besuch König Carols.
+Found
+MODSMD_ARTICLE11: „Tel-Aviv und Moskau."
+Found
+MODSMD_ARTICLE12: Verbot einer jüdischen Zeitung.
+Found
+MODSMD_ARTICLE13: Verkündung des Sandschakabkommens.
+Found
+MODSMD_ARTICLE14: Anschlag auf Präsidenten des Indischen Nationalkongresses.
+Found

@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Der ungarische Justizminister im Reichsjustizmimsterium.
+Found
+MODSMD_ARTICLE02: Der rumänische Arbeitsmmister bei Seldte.
+Found
+MODSMD_ARTICLE03: Die Maßnahmen des Winterhilfswerkes in der Ostmark.
+Found
+MODSMD_ARTICLE04: Einführung des deutschen Wehrrechts im Land Oesterreich.
+Found
+MODSMD_ARTICLE05: Reichsminister Ruft eröffnet die Universitätstage.
+Found
+MODSMD_ARTICLE07: Jahrestagung des Deutschen Ausland-Instituts.
+Found
+MODSMD_ARTICLE08: Französische Kammer und Senat in Ferien.
+Found

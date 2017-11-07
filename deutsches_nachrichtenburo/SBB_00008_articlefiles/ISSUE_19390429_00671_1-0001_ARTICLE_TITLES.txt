@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Das Wettecho der Führerrede. Finnland
+Found
+MODSMD_ARTICLE02: Lettland
+Found
+MODSMD_ARTICLE03: Schweiz
+Found
+MODSMD_ARTICLE04: Dänemark
+Found
+MODSMD_ARTICLE05: England
+Found
+MODSMD_ARTICLE06: Belgien
+Found
+MODSMD_ARTICLE07: Vereinigte Staaten
+Found
+MODSMD_ARTICLE08: Fish: „Barmherzigkeit für Roosevelt!"
+Found
+MODSMD_ARTICLE09: Ministerpräsident SalaZar 59 Jahre alt.
+Found

@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Ehrlich begeistert für das neue Deutschland.
+Found
+MODSMD_ARTICLE02: AuslandsPressevertreter auf KdF.-Norwegenfahrt.
+Found
+MODSMD_ARTICLE03: Das Internationale Flugmeeting in Zürich.
+Found
+MODSMD_ARTICLE04: Stapellauf eines italienischen Schlachtschiffes.
+Found
+MODSMD_ARTICLE05: Der nationale Heeresbericht vom Sonntag.
+Found
+MODSMD_ARTICLE06: Unterausschuß zur Beratung des Fragebogens.
+Found
+MODSMD_ARTICLE07: Der neue englische Fragebogen bereits zugestellt.
+Found
+MODSMD_ARTICLE08: „Ein letzter Versuch der Nichteinmischungspolitik".
+Found
+MODSMD_ARTICLE09: Von der GPU zu Tode gemartert!
+Found

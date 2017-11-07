@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ehrung durch den Führer.
+Found
+MODSMD_ARTICLE02: Vierjahresplan auf Oesterreich ausgedehnt.
+Found
+MODSMD_ARTICLE03: Dr. Frick an Professor Klebelsberg.
+Found
+MODSMD_ARTICLE04: Nun dankt dem Führer mit der Tat!
+Found
+MODSMD_ARTICLE05: Oesterreich soll das politische Geschehen voll miterleben.
+Found
+MODSMD_ARTICLE06: Oesterreichische Truppen kommen nach Süddeutschland.
+Found
+MODSMD_ARTICLE07: „Im Gleichschritt mit der großen deutschen Studentenschaft»"
+Found
+MODSMD_ARTICLE08: Abschaffung unpopulärer Einrichtungen in Wien.
+Found
+MODSMD_ARTICLE09: Die Tschechoslowakei gegejn Emigration aus Oesterreich.
+Found
+MODSMD_ARTICLE10: „Tevere" über die Kammerrede Mussolinis.
+Found
+MODSMD_ARTICLE11: slll> ehemalige deutsche Frontkämpfer in Rom.
+Found
+MODSMD_ARTICLE12: Die Internationalen gegen Nichteinmischungspolitik.
+Found
+MODSMD_ARTICLE13: Die Regierungserklärung des neuen Kabinetts Blum.
+Found
+MODSMD_ARTICLE14: Die polnische Presse meldet neuen Zwischenfall.
+Found
+MODSMD_ARTICLE15: Unaufhaltsames Vordringen der nationalen Truppen.
+Found
+MODSMD_ARTICLE16: „Schwere Stunden" für die Spanien-Bolschewisten.
+Found

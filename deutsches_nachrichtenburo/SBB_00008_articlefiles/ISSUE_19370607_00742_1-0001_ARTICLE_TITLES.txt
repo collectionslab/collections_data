@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Deutsche Ehrung für Mussolini und Graf Ciano.
+Found
+MODSMD_ARTICLE02: Das Goldene Ehrenzeichen für Professor Lenard.
+Found
+MODSMD_ARTICLE03: Die Abreise des Reichsaußenministers.
+Found
+MODSMD_ARTICLE04: Gauleiter Koch warnt Hetzer im Priestergewand.
+Found
+MODSMD_ARTICLE05: Die Carl-Schurz-Reise der amerikanischen Studenten.
+Found
+MODSMD_ARTICLE06: Daranyi über Ungarns Außenpolitik.
+Found
+MODSMD_ARTICLE07: Italiens Einwände gegen die englischen Vorschläge.
+Found
+MODSMD_ARTICLE08: London Zu den Antworten Deutschlands und Italiens.
+Found
+MODSMD_ARTICLE09: Gegen die Bolschewisierung der Betriebe.
+Found
+MODSMD_ARTICLE10: Der nationale Heeresbericht vom Sonntag.
+Found
+MODSMD_ARTICLE11: Verschärfte Streiklage in Amerikas Stahlindustrie.
+Found
+MODSMD_ARTICLE12: Kmnmumsteunest in Argentinien ausgeräuchert.
+Found

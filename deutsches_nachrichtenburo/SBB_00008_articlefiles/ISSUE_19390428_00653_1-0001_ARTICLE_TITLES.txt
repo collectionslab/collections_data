@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Annahme der englischen Wehrpflichtvorlage.
+Found
+MODSMD_ARTICLE02: Zwetkowitsch erstattet Prinzregent Paul Bericht.
+Found
+MODSMD_ARTICLE03: Das ungarische Judengesetz.
+Found
+MODSMD_ARTICLE04: Dänemark verstärkt seine Wehrmacht.
+Found
+MODSMD_ARTICLE05: USA.-Borbcreitungeu zum Handelskrieg gegen Japan.
+Found

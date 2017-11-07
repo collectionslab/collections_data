@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer in St. Pölten.
+Found
+MODSMD_ARTICLE02: Berlin hat Prag gegenüber nicht gedroht.
+Found
+MODSMD_ARTICLE03: Portugal durchschaut Roosevelts Spiel.
+Found
+MODSMD_ARTICLE04: „Friedensbotschaft" contra Neutralitätsgesetz.
+Found
+MODSMD_ARTICLE05: Die Agramer Besprechung beendet.
+Found
+MODSMD_ARTICLE06: Indiens Volk durch England ausgeplündert.
+Found
+MODSMD_ARTICLE07: Maisky zu „Konsultationen" nach Moskau berufen.
+Found
+MODSMD_ARTICLE08: Die neue belgische Regierung.
+Found
+MODSMD_ARTICLE09: Revolverschüsse auf Italiener in Tunis.
+Found
+MODSMD_ARTICLE10: Der 20. April 1930 Nationaler Feiertag
+Found
+MODSMD_ARTICLE11: Neue britische Vermittlungsvorschläge an den Mufti?
+Found
+MODSMD_ARTICLE12: Jtagaki warnt die China-freundlichen Mächte.
+Found
+MODSMD_ARTICLE13: Pittman hat „höchste Eile".
+Found

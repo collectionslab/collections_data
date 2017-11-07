@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an den Kaiser von Japan.
+Found
+MODSMD_ARTICLE02: Bestandsaufnahme des jüdischen Vermögens.
+Found
+MODSMD_ARTICLE03: Interessante Enthüllungen über Moskau.
+Found
+MODSMD_ARTICLE04: Ueberleitung der Rechtspflege im Lande Oesterreich.
+Found
+MODSMD_ARTICLE05: Die litauische Gesandtschast in Wien aufgelöst.
+Found
+MODSMD_ARTICLE06: Gauleiter Bürckel wieder in Wien.
+Found
+MODSMD_ARTICLE07: Gewaltige Vorbereitungen für den Staatsbesuch in Rom.
+Found
+MODSMD_ARTICLE08: Todesurteile gegen zwei kommunistische Henker.
+Found
+MODSMD_ARTICLE09: Avcnol bei Chamberlain.
+Found
+MODSMD_ARTICLE10: Widerstände im Unterhaus gegen Simons Haushaltsplan.
+Found
+MODSMD_ARTICLE11: Die Londoner Presse zu den neuen Steuern.
+Found
+MODSMD_ARTICLE12: 22 Tote und über l»l> Verletzte in Indien.
+Found

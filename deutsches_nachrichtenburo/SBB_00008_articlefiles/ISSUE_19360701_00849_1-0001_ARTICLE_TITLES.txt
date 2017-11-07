@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Jubiläum des Berliner Vereins der ausländischen Presse.
+Found
+MODSMD_ARTICLE02: Dr. Schuschnigg fährt nicht nach Genf.
+Found
+MODSMD_ARTICLE03: Die Rede des Negus vor der Völkerbundsversammlung.
+Found
+MODSMD_ARTICLE04: Kammeraussprache über die Auslösung der Kampfbünde.
+Found
+MODSMD_ARTICLE05: Ter belgische Senat vollständig.
+Found
+MODSMD_ARTICLE06: Besuch König Eduards bei der Flotte.
+Found
+MODSMD_ARTICLE07: Papst Pius in Castell Gandolfo.
+Found
+MODSMD_ARTICLE08: Leichte Besserung im Befinden der Tochter Mussolinis.
+Found
+MODSMD_ARTICLE09: Arbeitertransporte für Jtalienisch-Ostafrika.
+Found
+MODSMD_ARTICLE10: Die Höhe der amerikanischen Staatsschulden.
+Found
+MODSMD_ARTICLE11: Gouverneur Lehmann kandidiert doch wieder.
+Found
+MODSMD_ARTICLE12: Neue Gerichtsentscheidung gegen das New Deal-Programm.
+Found
+MODSMD_ARTICLE13: Das Ergebnis der Schweinezählung vom 4. Juni 1936
+Found

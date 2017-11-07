@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Beileid des Führers und der Reichsregierung.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Ein Schritt des französischen Botschafters.
+Found
+MODSMD_ARTICLE04: Anordnung Görings zur Erschließung von Mineralien.
+Found
+MODSMD_ARTICLE05: Reichswerke A. G. für Erzbergbau und Eisenhütten „Hermann Göring" gegründet.
+Found
+MODSMD_ARTICLE06: Ein deutsch-italienisches Jugendlager bei Köln eröffnet.
+Found
+MODSMD_ARTICLE07: Schirach in Danzig und Ostpreußen.
+Found
+MODSMD_ARTICLE08: Botschafter Graf Welczeck empfing die deutschen Fechter.
+Found
+MODSMD_ARTICLE09: Corbin bei Ministerpräsident Chautemps.
+Found
+MODSMD_ARTICLE10: Sugimura über die französisch-japanischen Beziehungen.
+Found
+MODSMD_ARTICLE11: Appell der „Tribuna" an England.
+Found
+MODSMD_ARTICLE12: Abschluß englisch-japanischer Wirtschaftsbesprechungen.
+Found
+MODSMD_ARTICLE13: Spannung Zwischen Polen und Litauen verschärst.
+Found
+MODSMD_ARTICLE14: „Prawda": Die Pläne für 1937 ernstlich bedroht.
+Found
+MODSMD_ARTICLE15: Der blutige Kreislauf in Sowjetrußland.
+Found
+MODSMD_ARTICLE16: Vorzeitige Auslösung des Libanon-Parlaments.
+Found
+MODSMD_ARTICLE17: Nanking über die nordchiuesischen Abmachungen perstimmt,
+Found

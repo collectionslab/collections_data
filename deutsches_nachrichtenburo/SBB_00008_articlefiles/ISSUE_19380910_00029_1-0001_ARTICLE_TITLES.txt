@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Parteitag Großdeutschlands.
+Found
+MODSMD_ARTICLE02: Japanischer Journalistenbesuch beim Führer.
+Found
+MODSMD_ARTICLE03: Sondertttgungen in Nürnbergs Die Presse der Partei.
+Found
+MODSMD_ARTICLE04: Diplomatenempfang bei Rudolf Hetz.
+Found
+MODSMD_ARTICLE05: Fahnenübergabe an das NSFK.
+Found
+MODSMD_ARTICLE06: Nürnberg schenkt den Piatnersberg der DAF.
+Found
+MODSMD_ARTICLE07: Noch immer rollen Sonderzüge nach Nürnberg.
+Found

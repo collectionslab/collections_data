@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ernennung beim Neichsoberseeamt.
+Found
+MODSMD_ARTICLE02: Dr. Drewes Vizepräsident der Reichsmusikkammer.
+Found
+MODSMD_ARTICLE03: Veränderte Besitzverhältnisse bei der Ufa.
+Found
+MODSMD_ARTICLE04: Festabend von Offizieren der Wehrersatz-Jnspektion.
+Found
+MODSMD_ARTICLE05: „Ein Meisterstück jesuitischer Verdrehungskunst".
+Found
+MODSMD_ARTICLE06: Auch Innenminister Dormoy verwundet.
+Found
+MODSMD_ARTICLE07: Marxistcnterror in Paris.
+Found
+MODSMD_ARTICLE08: Blutige Bolschewisteurevolte in Jaen.
+Found
+MODSMD_ARTICLE09: Hohe Verluste bei den Bolschewiften.
+Found
+MODSMD_ARTICLE10: Eine „Times"-Sensation aus Barcelona.
+Found
+MODSMD_ARTICLE11: Treffliche Äußerung der „Daily Mail" zum Schacherangebot.
+Found
+MODSMD_ARTICLE12: Hetzredner Kripps abgeblitzt.
+Found
+MODSMD_ARTICLE13: „Daily Telegraph" über den Stand der Westpaktfrage.
+Found
+MODSMD_ARTICLE14: Entschließung des Allindischen Kongreßausschusses.
+Found
+MODSMD_ARTICLE15: Deutsch-englisches Frontkämpfertreffen in Buenos Aires.
+Found
+MODSMD_ARTICLE16: Der Bestechungsskandal in San Francisco.
+Found
+MODSMD_ARTICLE17: Elltinia ratio: Entkleidung!
+Found
+MODSMD_ARTICLE18: Der Mondforscher Philipp Fauth 79 Jahre alt.
+Found

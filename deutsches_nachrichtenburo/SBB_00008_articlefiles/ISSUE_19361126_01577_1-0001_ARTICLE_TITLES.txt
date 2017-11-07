@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Das Ausland zum deutsch-japanischen Abkommen.
+Found
+MODSMD_ARTICLE02: Das Presse-Echo zum Fall Ossietzky.
+Found
+MODSMD_ARTICLE03: Urheberrechts-Ausschuß der Jnterationalen Filmkammer.
+Found
+MODSMD_ARTICLE04: Außenpolitische Erklärungen Becks im Militärblatt.
+Found
+MODSMD_ARTICLE05: Scharfe Maßnahmen gegen die Warschauer Studenten.
+Found
+MODSMD_ARTICLE06: Verbot deutscher Druckschriften in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE07: Kammerausschuß hält an Neutralitätspolitik fest.
+Found
+MODSMD_ARTICLE08: Frankreichs größter Kriegshaushalt.
+Found
+MODSMD_ARTICLE09: Tie Kopfstärke der britischen Wehrmacht.
+Found
+MODSMD_ARTICLE10: Weitere Ermäßigung des Schweizer Diskontsahes.
+Found

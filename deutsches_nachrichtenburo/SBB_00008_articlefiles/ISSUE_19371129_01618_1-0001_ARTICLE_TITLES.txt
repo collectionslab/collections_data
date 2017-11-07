@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Todt weiht neuen Reichsautobahnabschnitt.
+Found
+MODSMD_ARTICLE02: Neurath über die deutsch-ungarische Freundschaft.
+Found
+MODSMD_ARTICLE03: Schirach beim bulgarischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE04: 15 Grands Prix für deutsche Kunst in Paris.
+Found
+MODSMD_ARTICLE05: Glückwünsche zum deutschen Erfolg in Paris.
+Found
+MODSMD_ARTICLE06: Sarrauts Reformprogramm für Nordafrika.
+Found
+MODSMD_ARTICLE07: Kein einheitliches Freimaurerverbot für die Schweiz.
+Found
+MODSMD_ARTICLE08: „Gründliche Kenner und Fachmänner."
+Found
+MODSMD_ARTICLE09: Bulgarien gedachte des Jahrestages von Neuilly.
+Found
+MODSMD_ARTICLE10: Jugoslawien Zum albanischen Unabhängigkeitstag.
+Found
+MODSMD_ARTICLE11: Englische Neuwahlen erst im Herbst 1939.
+Found
+MODSMD_ARTICLE12: Ein Schritt des britisches Botschafters in Tokio.
+Found
+MODSMD_ARTICLE13: Neuer Verkehrsminister in Brasilien.
+Found
+MODSMD_ARTICLE14: Nationaler Flaggentag Brasiliens.
+Found

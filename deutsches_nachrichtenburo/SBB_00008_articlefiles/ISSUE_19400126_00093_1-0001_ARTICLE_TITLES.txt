@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ernennungen im Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE02: Festsitzung der Preußischen Akademie der Wissenschaften.
+Found
+MODSMD_ARTICLE03: Keine Hinterbliebenen-Unterstützungen in England.
+Found
+MODSMD_ARTICLE05: Stampa: Churchill hat seine Ziele verfehlt.
+Found
+MODSMD_ARTICLE06: „Amtliche Berichte mit ewigem enä."
+Found
+MODSMD_ARTICLE07: Norwegischer Dampfer in der Nordsee gesunken.
+Found
+MODSMD_ARTICLE08: Die Grippe in der englischen Expeditionsarmee.
+Found
+MODSMD_ARTICLE09: Die Emigrauten in Frankreich müssen Zur Musterung.
+Found
+MODSMD_ARTICLE10: Türkischer Dampfer gesunken.
+Found
+MODSMD_ARTICLE11: Die griechischen Verluste an der englischen Küste.
+Found
+MODSMD_ARTICLE12: Baldige Antwort wegen „Asama Maru"?
+Found
+MODSMD_ARTICLE13: Der Handelsvertrag Argentinien—Brasilien.
+Found
+MODSMD_ARTICLE14: Hawai gibt keine Kohlen mehr für Handelsschiffe ab.
+Found
+MODSMD_ARTICLE15: Die unverschämte Behandlung des Dampfers „Manhattan".
+Found
+MODSMD_ARTICLE16: Markmann und die Pöhle hingerichtet.
+Found

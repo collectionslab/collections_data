@@ -1,0 +1,38 @@
+MODSMD_ARTICLE03: Leslie Bürgin Gast der Deutsch-Englischen Gesellschaft.
+Found
+MODSMD_ARTICLE04: „Gorch Rock" in Kopenhagen eingelaufen.
+Found
+MODSMD_ARTICLE05: Der Jolketing zusammengetreten.
+Found
+MODSMD_ARTICLE06: Zusammenfassung der Auslandsschweden.
+Found
+MODSMD_ARTICLE07: Um Estlands einziges Konsulat in Sowjetrusstand.
+Found
+MODSMD_ARTICLE08: Handelsabkommen Estland—Belgien.
+Not Found
+MODSMD_ARTICLE09: Ministerpräsident Skladkowski wieder gesund.
+Found
+MODSMD_ARTICLE10: Schuschnigg und Schmidt wieder in Wien.
+Found
+MODSMD_ARTICLE11: Gayda über die Budapester Erklärung.
+Found
+MODSMD_ARTICLE12: „Auch wir wollen gute Beziehungen zu Ungarn."
+Found
+MODSMD_ARTICLE13: Wie es zum Rücktritt der Regierung Chautemps kam.
+Found
+MODSMD_ARTICLE14: Schließung der Pariser Börse?
+Found
+MODSMD_ARTICLE15: Das Senatspräsidium wiedergewählt.
+Found
+MODSMD_ARTICLE16: Der nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE17: Der irische Dail Piertagt.
+Found
+MODSMD_ARTICLE18: Veränderungen im britischen Außendienst.
+Found
+MODSMD_ARTICLE19: Grünhemdenführer aus dem Gefängnis entlassen.
+Found
+MODSMD_ARTICLE20: Das japanische Generalkonsulat in Tsingtau wiedererösfnet.
+Found
+MODSMD_ARTICLE21: Eine Pleite nach der anderen.
+Found

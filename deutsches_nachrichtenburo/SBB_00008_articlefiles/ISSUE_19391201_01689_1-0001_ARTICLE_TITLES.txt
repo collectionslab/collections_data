@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Generaloberst von Brauchitsch an der Oberrheinfront.
+Found
+MODSMD_ARTICLE02: Todbringende Englandfahrt.
+Found
+MODSMD_ARTICLE03: Neue Abfuhr für Benesch und Konsorten!
+Found
+MODSMD_ARTICLE04: Landesgruppenleiter Ettel verläßt Italien.
+Found
+MODSMD_ARTICLE05: Die geheimnisvollen deutschen Kreuzer.
+Found
+MODSMD_ARTICLE06: Deutsche und italienische Fahnen ehrten Primo de Rivera.
+Found
+MODSMD_ARTICLE07: Kripps reist nach Indien.
+Found
+MODSMD_ARTICLE08: Beschädigtes britisches U-Boot lief norwegischen Hafen an.
+Found
+MODSMD_ARTICLE09: Britische Anmaßung ohne Grenzen.
+Found
+MODSMD_ARTICLE10: Die „Redeoffensive" der westlichen Minister.
+Found
+MODSMD_ARTICLE11: Japan läßt sich von England nichts vormachen.
+Found
+MODSMD_ARTICLE12: „England ist blockiert."
+Found
+MODSMD_ARTICLE13: Der deutsche Botschafter beim argentinischen Außenminister.
+Found
+MODSMD_ARTICLE14: Scharfe argentinische Stellungnahme gegen England.
+Found
+MODSMD_ARTICLE15: Die Lebenshaltungskosten im November.
+Found
+MODSMD_ARTICLE16: Vollstreckung eines Todesurteils.
+Found

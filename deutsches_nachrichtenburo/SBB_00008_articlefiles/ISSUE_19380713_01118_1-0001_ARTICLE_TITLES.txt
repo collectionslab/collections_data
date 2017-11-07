@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Generalsekretär Menemencioglu beim Führer.
+Found
+MODSMD_ARTICLE02: Beratung des Zweckverbandes Reichsparteitag Nürnberg.
+Found
+MODSMD_ARTICLE03: Brasilianische Aerzte in München.
+Found
+MODSMD_ARTICLE04: Arbeitsbesprechung von Schirachs mit Staraee.
+Found
+MODSMD_ARTICLE05: Der französische Geschäftsträger bei Graf Ciano.
+Found
+MODSMD_ARTICLE06: Eine neue französische Anleihe?
+Found
+MODSMD_ARTICLE07: „Journal des Debats" über die Pflichten Frankreichs.
+Found
+MODSMD_ARTICLE08: Venezuela aus der Genfer Liga ausgeschieden.
+Found
+MODSMD_ARTICLE09: Annahme des englisch-türkischen Abkommens im Unterhaus.
+Found
+MODSMD_ARTICLE10: Schwierige englisch-amerikanische Handelsverhandlungen.
+Found
+MODSMD_ARTICLE11: Landwirtschafts-Aussprache im Oberhaus.
+Found
+MODSMD_ARTICLE12: Chamberlain vor dem Sandys-Ausschuß.
+Found
+MODSMD_ARTICLE13: Englische Regierung prüft Frage einer Anleihe an China?
+Found
+MODSMD_ARTICLE14: Eine nationalspanische Zeitung zu Francas Vorschlag.
+Found
+MODSMD_ARTICLE15: Was ein schwedischer Freiwilliger in Rotspanien erlebte.
+Found
+MODSMD_ARTICLE16: Der portugiesische Staatspräsident nach Angola abgereist.
+Found
+MODSMD_ARTICLE17: Der Abzug der Genfer Kommission aus Syrien.
+Found
+MODSMD_ARTICLE18: Verschlechterung der amerikanischen Wirtschaftslage.
+Found

@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Ministerialdirektor Dr. Reichardt Reichswahlleiter.
+Found
+MODSMD_ARTICLE02: Rundfunk überträgt Generalappell.
+Found
+MODSMD_ARTICLE03: Auf Deutschlands höchstem Gipfel weht das Hakenkreuz.
+Found
+MODSMD_ARTICLE04: Himmler besichtigte SS.-Standarte in Innsbruck.
+Found
+MODSMD_ARTICLE05: Generaloberst von Bock in Graz eingetroffen.
+Found
+MODSMD_ARTICLE06: Lehrkörper der Universität Wien auf den Führer vereidigt.
+Found
+MODSMD_ARTICLE07: Der Evangelische Oberkirchenratspräsident vereidigt.
+Found
+MODSMD_ARTICLE08: Jugoslawische Gesandtschast in Wien aufgelöst.
+Found
+MODSMD_ARTICLE09: Erklärungen zu den deutsch-jugoslawischen Beziehungen.
+Found
+MODSMD_ARTICLE10: Der Bund der Landwirte unter Führung Henleius.
+Found
+MODSMD_ARTICLE11: Begeisterte Kundgebungen für Mussolini und Eiano.
+Found
+MODSMD_ARTICLE12: Polen schlägt Litauen Verkehrsbeßprechungen vor.
+Found
+MODSMD_ARTICLE13: Verschärfte Polizeibestimmungen in Kowno.
+Found
+MODSMD_ARTICLE14: Keine außenpolitische Aussprache in der Kammer.
+Found
+MODSMD_ARTICLE15: Abrechnung mit den Kriegshetzern in Frankreich.
+Found
+MODSMD_ARTICLE16: Rollet im Verwaltungsrat der Landesverteidignugskasse.
+Found
+MODSMD_ARTICLE17: Die neuen finanzpolitischen Gesetze Frankreichs.
+Found
+MODSMD_ARTICLE18: Wieder ein Zusammenstoß in Palästina.
+Found
+MODSMD_ARTICLE19: Araber zum Boykott der Palästina-Kommission aufgerufen.
+Found
+MODSMD_ARTICLE20: Neuer Präsident der Türkischen Staatsbank.
+Found
+MODSMD_ARTICLE21: Kurze Berkehrssperre nördlich vom Sutschaubach.
+Found

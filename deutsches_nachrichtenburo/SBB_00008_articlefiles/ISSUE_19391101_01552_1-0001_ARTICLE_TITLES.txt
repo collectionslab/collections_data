@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Beförderungen im Heer und in der Luftwaffe.
+Found
+MODSMD_ARTICLE02: Ernennung Zum Oberlandesgerichtspräsidenten.
+Found
+MODSMD_ARTICLE03: Englands Giftgaslügen entlarvt.
+Found
+MODSMD_ARTICLE04: Forster Reichsstatthalter des Reichsgaues Danzig.
+Found
+MODSMD_ARTICLE05: Neichsmimster Dr. Goebbels in Lodz.
+Found
+MODSMD_ARTICLE06: Botschaft Dr. Tisos an das slowakische Volk.
+Found
+MODSMD_ARTICLE07: Holland hat absoluten Glauben an das Wort des Führers.
+Found
+MODSMD_ARTICLE08: Die britische Armee hat keine Mäntel.
+Found

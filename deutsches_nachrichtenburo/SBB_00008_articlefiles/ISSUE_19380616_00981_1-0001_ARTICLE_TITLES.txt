@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Ernennung in der Direktion Reichsautobahuem
+Found
+MODSMD_ARTICLE02: HoÄscha erstattet Benesch Bericht.
+Found
+MODSMD_ARTICLE03: Die Autonomieforderuna der Ruthenen.
+Found
+MODSMD_ARTICLE04: Gegen die internationale Pressehetze.
+Found
+MODSMD_ARTICLE05: Handelsabkommen Italien—Afghanistan unterzeichnet.
+Not Found
+MODSMD_ARTICLE06: Jmredy über die Richtlinien der Regierungspolitik.
+Found
+MODSMD_ARTICLE07: Die Sorge des Nationalsozialismus für die Arbeiterschaft.
+Found
+MODSMD_ARTICLE08: Rückkehr bulgarischer Kommunisten aus der Sowjethölle.
+Found
+MODSMD_ARTICLE09: Polnisches Ehrenmal in Griechenland.
+Found
+MODSMD_ARTICLE10: Polens akademische Schulen fordern Juden-Ausschließung.
+Found
+MODSMD_ARTICLE11: Beck aus Reval nach Warschau zurückgekehrt.
+Found
+MODSMD_ARTICLE12: Die Verstärkung der französischen Luftwaffe.
+Found
+MODSMD_ARTICLE13: Streik in La Rochelle.
+Found
+MODSMD_ARTICLE14: Frankreich soll Chamberlains Politik mitmachen.
+Found
+MODSMD_ARTICLE15: Belgische Waffenindustrie soll kontrolliert werden.
+Found
+MODSMD_ARTICLE16: Neue Bluturteile gegen hohe Sowjetfunktionäre.
+Found
+MODSMD_ARTICLE17: 70 Jahre Deutsche Oberreal- und Handelsschule in Istanbul.
+Found
+MODSMD_ARTICLE18: Französisch-türkischer Sondervertrag über den Sandschak?
+Found
+MODSMD_ARTICLE19: Die Läden in Antiochia wieder eröffnet.
+Found
+MODSMD_ARTICLE20: „Prag muß große Zugeständnisse machen."
+Found
+MODSMD_ARTICLE21: Unruhiges Mexiko.
+Found
+MODSMD_ARTICLE22: Chile ernennt LuftfahrtattachS in Berlin.
+Found

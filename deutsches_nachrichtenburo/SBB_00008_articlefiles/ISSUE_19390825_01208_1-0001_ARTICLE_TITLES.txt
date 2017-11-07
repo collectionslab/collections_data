@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Duce empfing den Reichsfinanzminister.
+Found
+MODSMD_ARTICLE02: Schwerin-Krosigk besichtigt faschistische Siedlungen.
+Found
+MODSMD_ARTICLE03: Mussolini empfing General Gambara.
+Found
+MODSMD_ARTICLE04: Kroatenführer Dr. Matschek bei Prinzregent Paul.
+Found
+MODSMD_ARTICLE05: Die deutsche Landwirtschaftsabordnung in Moskau.
+Found
+MODSMD_ARTICLE06: „Polens Kampfbereitschaft nicht geschwächt."
+Found
+MODSMD_ARTICLE07: Polens Mobilmachung wirkte wie ein Keulenschlag.
+Found
+MODSMD_ARTICLE08: Kopflose Mobilmachung in Posen.
+Found
+MODSMD_ARTICLE09: Chamberlain auf dem Gipfelpunkt der Jutransigenz.
+Found
+MODSMD_ARTICLE10: Das fehlte noch: Ruf nach der Genfer Liga
+Found
+MODSMD_ARTICLE11: Die chilenische Presse im Banne der Geschehnisse.
+Found

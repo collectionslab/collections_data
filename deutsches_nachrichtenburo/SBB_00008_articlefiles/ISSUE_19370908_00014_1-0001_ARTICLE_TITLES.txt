@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Parteitag der Arbeit. (Fortsetzung von Sonderausgabe Nr. 13). Das Ausland zur Proklamation
+Found
+MODSMD_ARTICLE02: Gäste der Deutschen Arbeitsfront.
+Found
+MODSMD_ARTICLE03: Volksfest in der KdF-Stadt.
+Found
+MODSMD_ARTICLE04: Tag des Arbeitsdienstes
+Found
+MODSMD_ARTICLE05: Der Führer trifft ein.
+Found
+MODSMD_ARTICLE06: Der Vorbeimarsch.
+Found

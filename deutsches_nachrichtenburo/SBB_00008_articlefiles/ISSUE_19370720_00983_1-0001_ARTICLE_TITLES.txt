@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Ausstellung „Entartete Kunst" eröffnet.
+Found
+MODSMD_ARTICLE02: Eröffnungsrede von Professor Ziegler.
+Found
+MODSMD_ARTICLE03: Deutsch-englisches Flottenabkommen als Weißbuch.
+Found
+MODSMD_ARTICLE04: Das neue englische Ehescheidungsgesetz vor dem Oberhaus.
+Found
+MODSMD_ARTICLE05: Kommunistische Demonstrationen bei einer Bittprozession.
+Found
+MODSMD_ARTICLE06: Brasiliens Wünsche für das Haus der Deutschen Kunst.
+Found
+MODSMD_ARTICLE07: Eine Erklärung der japanischen Nordchina-Armee.
+Found
+MODSMD_ARTICLE08: Britische Truppen nach Tientsin beordert.
+Found
+MODSMD_ARTICLE09: Probeflug mit einem neuen Stratosphärenballon gescheitert.
+Found

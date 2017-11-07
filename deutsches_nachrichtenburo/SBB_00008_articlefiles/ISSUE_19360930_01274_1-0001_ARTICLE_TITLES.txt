@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Sozialdemokratischer Stadtverordneter verurteilt.
+Found
+MODSMD_ARTICLE03: Französisch-Polnische Anleiheverhandlungen unterbrochen.
+Found
+MODSMD_ARTICLE04: Polens Außenminister frühstückte mit Eden.
+Found
+MODSMD_ARTICLE05: Die Vvlkerbundsaussprache.
+Found
+MODSMD_ARTICLE06: Die französische Währungsvorlage vor dem Senatsausschuß.
+Found
+MODSMD_ARTICLE07: Pariser Blätter zum Beschluß des Senatsausschusses.
+Found
+MODSMD_ARTICLE08: Forderungen radikalsozialistischen Senatsgruppe.
+Found
+MODSMD_ARTICLE09: Boulogner Erziehungsrevolte macht Schule.
+Found
+MODSMD_ARTICLE10: Pariser Gemüsebauern stellen Lieferstreik ein.
+Found
+MODSMD_ARTICLE11: Opfer der roten Justizkomödie.
+Found
+MODSMD_ARTICLE12: Auch Frauen und Kinder sollen Madrid verteidigen.
+Found
+MODSMD_ARTICLE13: Geldspenden für den Wiederaufbau des AlkaZar.
+Found
+MODSMD_ARTICLE14: Nur 29 Mann der „Gravina" gereitet.
+Found
+MODSMD_ARTICLE15: Irische Blauhemden für das nationale Spanien.
+Found
+MODSMD_ARTICLE16: Gruß ungarischer Studenten an die Helden des Alkazar.
+Found
+MODSMD_ARTICLE17: Die neue schweizerische Truppenordnung.
+Found
+MODSMD_ARTICLE18: Moskaus Hoffnungen schwinden.
+Found
+MODSMD_ARTICLE19: Große Vollmachten für den Oberbefehlshaber in Palästina.
+Found
+MODSMD_ARTICLE20: Kardinal Pacelli reist nach New Uork.
+Found

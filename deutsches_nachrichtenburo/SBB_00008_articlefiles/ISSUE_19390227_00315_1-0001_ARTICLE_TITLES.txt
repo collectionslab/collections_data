@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: 4. Sahara-Rundflug mit deutscher Beteiligung.
+Found
+MODSMD_ARTICLE02: Mackensen und Eitel bei den KdF.-Urlaubern in Neapel.
+Found
+MODSMD_ARTICLE03: Drei Schweizer Journalisten aus Italien ausgewiesen.
+Found
+MODSMD_ARTICLE04: Italienische Rückwanderer wieder in der Heimat.
+Found
+MODSMD_ARTICLE05: Der karpatho-ukrainische Ministerpräsident in Prag.
+Found
+MODSMD_ARTICLE06: Die Slowaken sollen deutsch lernen.
+Found
+MODSMD_ARTICLE07: Rumänien feiert den Jahrestag der Verfassung.
+Found
+MODSMD_ARTICLE08: AZana will noch abwarten.
+Found
+MODSMD_ARTICLE09: Bombenanschlag in Quimper.
+Found
+MODSMD_ARTICLE10: Die Franco-Regierung von England anerkannt.
+Found
+MODSMD_ARTICLE11: Britisches Schiff beim Fluchtversuch auf ein! Riff gelaufen.
+Found
+MODSMD_ARTICLE12: Jüdische Angst und jüdische Frechheit.
+Found
+MODSMD_ARTICLE13: Verlassen die Inden die Palästina-Konferenz.
+Found
+MODSMD_ARTICLE14: Amerikanischer Schritt zugunsten der Palästina-Juden.
+Found
+MODSMD_ARTICLE15: Der jüdische Blutterror in Palästina rast weiter.
+Found
+MODSMD_ARTICLE16: Jüdisches Gesindel mordet Araber.
+Found
+MODSMD_ARTICLE17: Palästina wartet auf die Londoner Beschlüsse.
+Found
+MODSMD_ARTICLE18: Aegypten erkennt Nationalspanien an.
+Found
+MODSMD_ARTICLE19: Genügsames Amerika.
+Found

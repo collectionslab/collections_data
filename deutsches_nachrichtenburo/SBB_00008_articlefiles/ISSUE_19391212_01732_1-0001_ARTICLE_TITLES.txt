@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: 122 Tonnen in der ersten Dezemberwoche.
+Found
+MODSMD_ARTICLE02: Englischer Dampfer durch eine Mine vernichtet.
+Found
+MODSMD_ARTICLE03: Der Krieg schwächt Englands vierte Waffe.
+Found
+MODSMD_ARTICLE04: So mißachtet England die Rechte der Neutralen.
+Found
+MODSMD_ARTICLE05: „Die Rolle Schwedens in Genf ausgespielt."
+Found
+MODSMD_ARTICLE06: Steigerung der Lebenshaltungskosten auch in Island.
+Found
+MODSMD_ARTICLE07: Heftiger Kamps an allen Fronten in Finnland.
+Found
+MODSMD_ARTICLE08: Der Slowakische Gesandte in Moskau eingetroffen.
+Found
+MODSMD_ARTICLE09: Der russische Heeresbericht.
+Found
+MODSMD_ARTICLE10: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE11: Erkundungsflüge gegen Großbritannien.
+Found
+MODSMD_ARTICLE12: Ungerechtigkeit und Eigennutz.
+Found
+MODSMD_ARTICLE13: Alliierte Rivalen
+Found
+MODSMD_ARTICLE14: Kriegswirtschaftliche Nöte Aegyptens.
+Found
+MODSMD_ARTICLE15: Auch in Syrien Versorgungsschwierigkeiten.
+Found

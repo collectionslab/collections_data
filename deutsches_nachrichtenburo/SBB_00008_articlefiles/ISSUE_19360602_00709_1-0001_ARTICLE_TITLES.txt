@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Dank des ungarischen Kultusministers an Ruft.
+Found
+MODSMD_ARTICLE02: Reichsmiuister Ruft auf Erholungsurlaub.
+Found
+MODSMD_ARTICLE03: Besprechungen der deutsch-finnischen Regierungsausschüsse.
+Found
+MODSMD_ARTICLE04: Junger deutscher Gelehrter in China ermordet.
+Found
+MODSMD_ARTICLE05: Jahrestagung der British Legion in Buxton.
+Found
+MODSMD_ARTICLE06: Der Negus auf der Reise von Gibraltar noch London.
+Found
+MODSMD_ARTICLE07: Italien und die vorzeitige Einberufung des Völkerbundes.
+Found
+MODSMD_ARTICLE08: Die gcsamtschuldnerische Haftung der Memel-Verurteilten.
+Found
+MODSMD_ARTICLE09: Die Streikwelle in Paris.
+Found
+MODSMD_ARTICLE10: Das Volksfront-Programm der französischen Kommunisten.
+Found
+MODSMD_ARTICLE11: Sozialistische Landestagung in Paris.
+Found
+MODSMD_ARTICLE12: Die Lage in Palästina.
+Found

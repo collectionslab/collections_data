@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Reichssinanzmintster über „Deutsche Finanzpolitik".
+Found
+MODSMD_ARTICLE02: Ausruf der Reichsleiter zur Jugendherbergswerbung.
+Found
+MODSMD_ARTICLE03: Fristverlängerung für Umbauarbeiten.
+Found
+MODSMD_ARTICLE04: Einkommensteuer der katholischen Geistlichen.
+Found
+MODSMD_ARTICLE05: Heldengedcnken in München.
+Found
+MODSMD_ARTICLE06: Ausländische Pressevertreter in Kiel.
+Found
+MODSMD_ARTICLE07: Bürgermeister Kotzias beim deutschen Geschäftsträger.
+Found
+MODSMD_ARTICLE08: Bürgermeister Kotzias über den Empfang beim Führer.
+Found
+MODSMD_ARTICLE09: Japanischer Olympiaflug Tokio—Berlin.
+Not Found
+MODSMD_ARTICLE10: Der Heimatschutz zum Ausscheiden Starhembergs.
+Found
+MODSMD_ARTICLE11: Mandorfer österreichischer Landwirtschaftsminister.
+Found
+MODSMD_ARTICLE12: Eden bei Flandin und Leon Blum.
+Found
+MODSMD_ARTICLE13: Guatemala aus dem Völkerbund ausgetreten.
+Found
+MODSMD_ARTICLE14: Frontkämpferkongreß in Paraguay.
+Found
+MODSMD_ARTICLE15: Reform im japanischen Auswärtigen Amt.
+Found
+MODSMD_ARTICLE16: Die Schmuggelaffäre vor dem japanischen Reichstag.
+Found
+MODSMD_ARTICLE17: China wirft Japan Unterstützung der Schmuggler vor.
+Found
+MODSMD_ARTICLE18: Amy Mollison fliegt Rekordzeiten.
+Found

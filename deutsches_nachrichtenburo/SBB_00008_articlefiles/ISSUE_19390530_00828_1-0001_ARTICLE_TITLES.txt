@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Goethemedaille für Professor Jansen.
+Found
+MODSMD_ARTICLE02: In die Akademie für Deutsches Recht berufen..
+Found
+MODSMD_ARTICLE03: Neue deutsch-italienische Wirtschaftsabkommen.
+Found
+MODSMD_ARTICLE04: Großkundgebung der faschistischen Frauen vor dem Tuce,
+Found
+MODSMD_ARTICLE05: Reichsarbeitsfiihrer Hier! in Rom.
+Found
+MODSMD_ARTICLE06: Die Schweiz bleibt ihrer Neutralität treu.
+Found
+MODSMD_ARTICLE07: Burckhardt bei Beck.
+Found
+MODSMD_ARTICLE08: Der Wert der Sowjetunion als „Beschützer".
+Found
+MODSMD_ARTICLE09: Das Kriegszustand-Gesetz in Polen.
+Found
+MODSMD_ARTICLE10: Richter in eigener Sache!
+Found
+MODSMD_ARTICLE11: Festigung des litauischen Wirtschaftslebens.
+Found
+MODSMD_ARTICLE12: Regierungssieg bei den ungarischen Wahlen.
+Found
+MODSMD_ARTICLE13: Deat gegen die Kommunisten.
+Found
+MODSMD_ARTICLE14: Die Einkreisungs-Botschafter an der Arbeit.
+Found
+MODSMD_ARTICLE15: Englisch-sowjetrussische Freundlichkeiten.
+Found
+MODSMD_ARTICLE16: „Verjagt die Engländer und die Juden".
+Found
+MODSMD_ARTICLE17: Der chilenische Justizminister suspendiert.
+Found
+MODSMD_ARTICLE18: 42 außenmongolische Flugzeuge abgeschossen.
+Found

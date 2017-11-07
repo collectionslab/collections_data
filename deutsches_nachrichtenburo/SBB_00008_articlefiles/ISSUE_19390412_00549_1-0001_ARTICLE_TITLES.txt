@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Deutsch-bulgarischer Freundschaftsabeud.
+Found
+MODSMD_ARTICLE02: Die portugiesischen Schriftleiter in Stuttgart.
+Found
+MODSMD_ARTICLE03: Imposanter Einsatz der Wehrmacht Italiens.
+Found
+MODSMD_ARTICLE04: Maltas Kampf gegen englische Unterdrückung.
+Found
+MODSMD_ARTICLE05: Italien zum Austritt Ungarns aus der Genfer Liga.
+Found
+MODSMD_ARTICLE06: Der italienische Vormarsch in Albanien.
+Found
+MODSMD_ARTICLE07: Mackiewicz wieder auf freiem Fuß.
+Found
+MODSMD_ARTICLE08: Eine polnische Militärdelegation fährt nach England.
+Found
+MODSMD_ARTICLE09: „Die Spannung der letzten Tage ist vorbei."
+Found
+MODSMD_ARTICLE10: Lediglich „gewisse Vorsichtsmaßnahmen".
+Found
+MODSMD_ARTICLE11: „Englische Pressemeldungen Spekulationen."
+Found
+MODSMD_ARTICLE12: England verlängert den Krieg in China.
+Found
+MODSMD_ARTICLE13: Um die Dardanellendurchfahrt.
+Found
+MODSMD_ARTICLE14: Bombenexplosion in Liverpool.
+Found
+MODSMD_ARTICLE15: „Frankreich klebt an England."
+Found
+MODSMD_ARTICLE16: Dämmerung in der französischen Presse?
+Found
+MODSMD_ARTICLE17: Der hoffnungslose Fall Roosedelt.
+Found
+MODSMD_ARTICLE18: Gegen die amerikanischen Kriegshetzer.
+Found
+MODSMD_ARTICLE19: Guambefestigung jetzt hinten herum?
+Found
+MODSMD_ARTICLE20: Empörung gegen die britische Herrschaft auf Zypern.
+Found

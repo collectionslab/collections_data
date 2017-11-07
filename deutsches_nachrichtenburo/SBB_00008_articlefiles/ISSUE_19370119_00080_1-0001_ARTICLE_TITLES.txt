@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Abend- und Nacht-Ausgabe. Deutsches Nachrichtenbüro b
+Found
+MODSMD_ARTICLE02: Der Kührer dankt den Rettern der Station Puttgarden.
+Found
+MODSMD_ARTICLE03: Ehrengaben für Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: Goethe-Medaille für den Komponisten Prof. Reiter.
+Found
+MODSMD_ARTICLE05: Generalleutnant Schaumburg nach Hamburg versetzt.
+Found
+MODSMD_ARTICLE06: Der Domiuienminister und Eden vor dem Unterhaus.
+Found
+MODSMD_ARTICLE07: Negative Antworten auf den Kontrollplan.
+Found
+MODSMD_ARTICLE08: Ein Engländer spendet für Madrid.
+Found
+MODSMD_ARTICLE09: Schießbefehl des französischen Marineministeriums.
+Found
+MODSMD_ARTICLE10: Jouhaux beschwert sich.
+Found
+MODSMD_ARTICLE11: Wiederaufnahme der Arbeit auf den Pariser Schlachthäusern.
+Found
+MODSMD_ARTICLE12: 17 999 belgische Bergarbeiter im Ausstand.
+Found
+MODSMD_ARTICLE13: Keine italienischen Vertreter bei der Völkerbundsratssitzung.
+Found
+MODSMD_ARTICLE14: Scharfe Kritik der „Tribuna" an Frankreichs Haltung.
+Found
+MODSMD_ARTICLE15: Die Türkei gegen Tendenzmeldungen.
+Found
+MODSMD_ARTICLE16: Gegen das Schlagwort von der „Volksfront" in China.
+Found
+MODSMD_ARTICLE17: Mandschurische Vertretung beim japanischen Staatsrat.
+Found
+MODSMD_ARTICLE18: Streikunruhen in Detroit.
+Found

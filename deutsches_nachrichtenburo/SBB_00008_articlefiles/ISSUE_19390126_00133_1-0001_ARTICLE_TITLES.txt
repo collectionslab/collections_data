@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Staatsbegräbnis für General Eberhardt.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels gratuliert Professor Wossidlo.
+Found
+MODSMD_ARTICLE03: Ter erste Großdeutsche Reichstag.
+Found
+MODSMD_ARTICLE04: Die brasilianische Luftwaffeukvmmission.
+Found
+MODSMD_ARTICLE05: Die polnische Presse Zum Staatsbesuch Ribbentrops.
+Found
+MODSMD_ARTICLE06: Londons Presse zeigt große Aufmerksamkeit.
+Found
+MODSMD_ARTICLE07: Wieder ein Anschlag in Bukarest aufgedeckt.
+Found
+MODSMD_ARTICLE08: Albanien erhält ein Ministerium für Volkserziehung.
+Found
+MODSMD_ARTICLE09: Der siegreiche Vormarsch der Nationalspanier.
+Found
+MODSMD_ARTICLE10: Barcelona die Quelle der Lügenflut.
+Found
+MODSMD_ARTICLE11: Sowjetspanische Milizen halten Flüchtlinge Zurück.
+Found
+MODSMD_ARTICLE12: Bis zuletzt treu vereint.
+Found
+MODSMD_ARTICLE13: Montjuich und Tibidabo besetzt.
+Found
+MODSMD_ARTICLE14: Woher das nationale Kriegsmaterial stammt.
+Found
+MODSMD_ARTICLE15: Der dänische Vertreter in Nationalspanien.
+Found
+MODSMD_ARTICLE16: Admiral Leahy über die Guam-Frage.
+Found
+MODSMD_ARTICLE17: Ter Antisemitismus in USA.
+Found
+MODSMD_ARTICLE18: Den amerikanischen Rundfunkhörern geht ein Licht auf.
+Found
+MODSMD_ARTICLE19: Vollstreckung eines Todesurteils.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Beileidstelegramm des Führers an den Reichskriegerbund.
+Found
+MODSMD_ARTICLE02: Wer kann in die Partei aufgenommen werden?
+Found
+MODSMD_ARTICLE03: Von Blomberg besichtigt Luftkriegsschule.
+Found
+MODSMD_ARTICLE04: Vorträge vor den Kreisleitern auf Burg Vogelsang.
+Found
+MODSMD_ARTICLE05: Unterstaatssekretär Ricci in München.
+Found
+MODSMD_ARTICLE06: Die Konferenz in Montreux.
+Found
+MODSMD_ARTICLE07: Radikalsoziale von Le Havre gegen Volksfront.
+Found
+MODSMD_ARTICLE08: Eden fliegt am Sonntag nach Brüssel.
+Found
+MODSMD_ARTICLE09: London am 1. Mai wahrscheinlich ohne Autobusse.
+Found
+MODSMD_ARTICLE10: Brotmangel in Bilbao.
+Found
+MODSMD_ARTICLE11: Französische Parlamentarier bei General Francs.
+Found
+MODSMD_ARTICLE12: Außenminister Munters begibt sich im Juni nach Moskau.
+Found

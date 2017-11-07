@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Antwort an einet! König.
+Found
+MODSMD_ARTICLE02: 10 weitere Offiziere erhalten das Ritterkreuz.
+Found
+MODSMD_ARTICLE03: Duff Cooper meldet „Erfolg".
+Found
+MODSMD_ARTICLE04: Bedeutender Erfolg der deutschen Luftwaffe.
+Found
+MODSMD_ARTICLE05: Sie haben es nicht anders gewollt!
+Found
+MODSMD_ARTICLE06: „Tevere": „England wurde ein Wrack!"
+Found
+MODSMD_ARTICLE07: Sir Samuel Hoare nach Madrid entsandt.
+Found

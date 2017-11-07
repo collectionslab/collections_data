@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Weitere Glückwünsche für Hugo Bruckmann.
+Found
+MODSMD_ARTICLE02: Schirach bei der Eröffnung der Grabbe-Woche.
+Found
+MODSMD_ARTICLE03: Ter Oberbefehlshaber des Heeres im Egerland.
+Found
+MODSMD_ARTICLE04: Konrad Henlein begrüßt 1600 Flüchtlinge.
+Found
+MODSMD_ARTICLE05: Ungarn bricht die Verhandlungen in Komorn ab.
+Found
+MODSMD_ARTICLE06: Empfang, Dr. Leys durch den König von Rumänien.
+Found
+MODSMD_ARTICLE07: Starke Beachtung des Besuches Chvalkovskys durch Polen.
+Found
+MODSMD_ARTICLE08: Die judeufeiudliche Einstellung der Slowaken.
+Found
+MODSMD_ARTICLE09: Reichswirtschaftsminister Funk in Sofia.
+Found
+MODSMD_ARTICLE10: Die italienisch-englischen Besprechungen in Rom,
+Found
+MODSMD_ARTICLE11: Rücktritt der Regierung von Paraguay.
+Found
+MODSMD_ARTICLE12: Sowjetrussisch-japanischer Zwischenfall.
+Found

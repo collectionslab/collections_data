@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Im Zeichezn des bevorstehenden Duce-Besuches.
+Found
+MODSMD_ARTICLE02: Ankunft der Marine-Ehrenkompagnie in München.
+Found
+MODSMD_ARTICLE03: Die faschistischen Führer geleiten den Duce zum Zuge.
+Found
+MODSMD_ARTICLE04: „Fliegerangriff" auf Bremen und Bremerhaven.
+Found
+MODSMD_ARTICLE05: Tagung der deutschen Geschichts- und Altertumsvereine.
+Found
+MODSMD_ARTICLE06: Tod eines erfolgreichen Flugzeugkonstrukteurs.
+Found
+MODSMD_ARTICLE07: Deutschland gewinnt drei Preise.
+Found
+MODSMD_ARTICLE08: Rücktrittsabsichten van Zeelands?
+Found
+MODSMD_ARTICLE09: Der französische Botschafter bei Eden.
+Found
+MODSMD_ARTICLE10: Die ersten britischen Patrouillenschiffe eingesetzt.
+Found
+MODSMD_ARTICLE11: k Jahre Kerker für den Besitz von Papierböllern!
+Found
+MODSMD_ARTICLE12: Moskaus Vorgehen gegen die „nationalen" Republiken.
+Found
+MODSMD_ARTICLE13: Die Japaner vor Paoting.
+Found
+MODSMD_ARTICLE14: An der Schanghaifront nichts Neues.
+Found

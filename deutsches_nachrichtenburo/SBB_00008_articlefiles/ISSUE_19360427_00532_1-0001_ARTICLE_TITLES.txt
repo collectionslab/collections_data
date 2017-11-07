@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Rudolf Heß zum Geburtstag.
+Found
+MODSMD_ARTICLE02: Ter italienische Landwirtschaftsminister in Berlin.
+Found
+MODSMD_ARTICLE03: Reichsleiter Rosenberg in Stuttgart.
+Found
+MODSMD_ARTICLE04: Stabschef Lutze vor der mecklenburgischen SA.
+Found
+MODSMD_ARTICLE05: Die Prüfungen im Reichsberusswettkamps.
+Found
+MODSMD_ARTICLE06: Der erste Wahltag in Frankreich.
+Found
+MODSMD_ARTICLE07: Rundfunkrede Sarrauts.
+Found
+MODSMD_ARTICLE08: Außenminister Arita über Japans Austenpolitik.
+Found

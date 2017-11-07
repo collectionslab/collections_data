@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Führer bei den Truppen in Warschau.
+Found
+MODSMD_ARTICLE02: Britische Transportarbeiter gegen die Regierung.
+Found
+MODSMD_ARTICLE03: Englische Gewerkschaftsopposition läßt nicht locker.
+Found
+MODSMD_ARTICLE04: Ernste Krise des französischen Wirtschaftslebens.
+Found
+MODSMD_ARTICLE05: Die landwirtschaftliche Ausstellung der Sowjetunion.
+Found
+MODSMD_ARTICLE06: Eingehende Beratungen der litauischen Regierung.
+Found
+MODSMD_ARTICLE07: Estnische Seemänner über ihre Erlebnisse in England.
+Found
+MODSMD_ARTICLE08: Der Führer an die Soldaten der Oftfront.
+Found
+MODSMD_ARTICLE09: Das Kriegsziel Englands absurd und heuchlerisch!
+Found

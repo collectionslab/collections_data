@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer besichtigt das Volkswagenwerk Fallersleben.
+Found
+MODSMD_ARTICLE02: Der Führer an den Landwirtschaftskongreß.
+Found
+MODSMD_ARTICLE03: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE04: Seiter und Munters Gäste Ribüentrops.
+Found
+MODSMD_ARTICLE05: Die spanischen und die italienischen Offiziere bei Branchitsch.
+Found
+MODSMD_ARTICLE06: Deutsch-jugoslawische Wirtschaftsverhaudlungen.
+Found
+MODSMD_ARTICLE07: Görlitzer empfing italienische Studiengesellschaft.
+Found
+MODSMD_ARTICLE08: Danzig ist und bleibt deutsch!
+Found
+MODSMD_ARTICLE09: Mißhandelt, weil er deutsch sprach.
+Found
+MODSMD_ARTICLE10: Serrano Suner bei Mussolini und Graf Ciano.
+Found
+MODSMD_ARTICLE11: Alfieri wieder in Rom.
+Found
+MODSMD_ARTICLE12: Baidur von Schirach in Bukarest.
+Found
+MODSMD_ARTICLE13: Jerusalems Juden schützen die Mörder.
+Found
+MODSMD_ARTICLE14: Vor dem englischen Königsbesuch in USA.
+Found
+MODSMD_ARTICLE15: Die Niagara Fälle werden abgesperrt.
+Found

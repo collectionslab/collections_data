@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Freiplätze für Beamte Italiens an deutschen Akademien.
+Found
+MODSMD_ARTICLE03: Ausstellung des Landschaftsmalers Ivan Christofs
+Found
+MODSMD_ARTICLE04: Drei weitere Grands Prix für deutsche Firmen.
+Found
+MODSMD_ARTICLE05: Das Saarland feiert den Jahrestag der Abstimmung.
+Found
+MODSMD_ARTICLE06: Nationalspanische Ehrungejn für Göring und Rosenberg.
+Found
+MODSMD_ARTICLE07: „Iran war stolz auf Baidur von Schirachs Besuch".
+Found
+MODSMD_ARTICLE08: Dr. Schuschnigg über die Budapester Konferenz.
+Found
+MODSMD_ARTICLE09: Prag MMN die bodenständige Sprache Karpatho-RuUands.
+Found
+MODSMD_ARTICLE10: Neue Verfolgungswelle als Einigungsmittel Valencias.
+Found
+MODSMD_ARTICLE11: Lebhafte Tätigkeit der nationalen Luftwaffe bei Teruel.
+Found
+MODSMD_ARTICLE12: Nationalspaniens Wirtschaftsaufbau.
+Found
+MODSMD_ARTICLE13: 1W Millionen Peseten zum Wiederaufbau Oviedos nötig.
+Found
+MODSMD_ARTICLE14: Das Ergebnis des französischen Kabinettsrats.
+Found
+MODSMD_ARTICLE15: Moskau schränkt Auslajndsverbindungen systematisch ein.
+Found

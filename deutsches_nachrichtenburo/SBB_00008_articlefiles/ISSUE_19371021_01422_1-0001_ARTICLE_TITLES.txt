@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Frick stiftet sportlichen Ehrenpreis.
+Found
+MODSMD_ARTICLE02: Der Präsident der Handelsangestellten Italiens in Nürnberg.
+Found
+MODSMD_ARTICLE03: Die Bedeutung der deutschen Kolonialforderung.
+Found
+MODSMD_ARTICLE04: Hitler Jugend singt auf Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE05: 100-Jahr-Gemeinde deutscher Katholiken in Paris.
+Found
+MODSMD_ARTICLE06: Greiser unterrichtet den Vertreter Polens.
+Found
+MODSMD_ARTICLE07: Keine Beschwerde gegen die Danziger Zentrumsauflösung.
+Found
+MODSMD_ARTICLE08: Das englische Parlament wieder zusammengetreten.
+Found
+MODSMD_ARTICLE09: Die Verwaltung der Belgischen Nationalbank vor Gericht.
+Found
+MODSMD_ARTICLE10: „Giornale d'Jtalia" Zur Lage.
+Found
+MODSMD_ARTICLE11: IW-Lire-Goldmünzen in Italien.
+Found
+MODSMD_ARTICLE12: Bolschewistisches Pech bei der Flucht aus Gijon.
+Found
+MODSMD_ARTICLE13: Sonderplätze für Juden auch in Warschauer Schulen.
+Found
+MODSMD_ARTICLE14: 72 neue Todesurteile in der Sowjetunion.
+Found

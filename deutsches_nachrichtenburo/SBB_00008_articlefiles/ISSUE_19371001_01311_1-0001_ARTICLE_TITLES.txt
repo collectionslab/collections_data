@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ernennungen durch den Führer und Reichskanzler.
+Found
+MODSMD_ARTICLE02: Zahlreiche Diplomaten nehmen am Erntedanktag teil.
+Found
+MODSMD_ARTICLE03: Emge Stellv. Präsident der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE04: Dr. Witte Präsident der Reichsbahndirektion Breslau.
+Found
+MODSMD_ARTICLE05: Das Siedlungsergebnis des Jahres 193b.
+Found
+MODSMD_ARTICLE06: Dr. Todt eröffnet die Reichsautobahn Karlsruhe—Bruchsal.
+Not Found
+MODSMD_ARTICLE07: Drei Fernsehsender im kommenden Jahre.
+Found
+MODSMD_ARTICLE08: Prüfung der Lage der polnischen Minderheit in Danzig.
+Found
+MODSMD_ARTICLE09: Bohle bei Sir Vansittart und bei Winston Churchill.
+Found
+MODSMD_ARTICLE10: Londoner Blätter zum Besuch des Gauleiters Bohle.
+Found
+MODSMD_ARTICLE11: Marschall Badoglio in Budapest.
+Found
+MODSMD_ARTICLE12: 1W Franken Einnahmen, aber 135 Franken Ausgaben.
+Found
+MODSMD_ARTICLE13: Todesurteile in allen Bezirken gegen „Schädlinge".
+Found
+MODSMD_ARTICLE14: Deutsche Wirtschaftsschriftleiter in der Türkei.
+Found
+MODSMD_ARTICLE15: Amtliche Verlautbarung bestätigt Zuspitzung in Palästina.
+Found

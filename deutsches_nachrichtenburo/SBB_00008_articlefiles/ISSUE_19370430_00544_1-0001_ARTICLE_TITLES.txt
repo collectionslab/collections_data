@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die italienischen Journalisten von Dr. Goebbels empfangen.
+Found
+MODSMD_ARTICLE02: Katholischer Psarrvikar als Schänder deutscher Jugend.
+Found
+MODSMD_ARTICLE03: Wieder ein unwürdiger Kinderseelsorger.
+Found
+MODSMD_ARTICLE04: Die österreichische Abordnung für die Krönungsfeierlichkeiten.
+Found
+MODSMD_ARTICLE05: Polnische Frontkämpfer gegen die Kominternpropaganda.
+Found
+MODSMD_ARTICLE06: Honvedminster Röder wieder in Budapest.
+Found
+MODSMD_ARTICLE07: Vinceut-Auriol dementiert erneut Auflegung einer Anleihe.
+Found
+MODSMD_ARTICLE08: Delbos über die internationale Lage.
+Found
+MODSMD_ARTICLE09: Merkwürdiges Urteil in Tunis.
+Found
+MODSMD_ARTICLE10: Sowjetrussische Rekruten als „Ritter der Weltrevolution".
+Found
+MODSMD_ARTICLE11: Türkisch-irakischer Freundschaftsvertrag verlängert.
+Found
+MODSMD_ARTICLE12: Indische Kongreßpartei gegen Minderheitsminister.
+Found

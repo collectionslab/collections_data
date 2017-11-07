@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Juden bei öffentlichen kulturellen Verunstaltungen nicht mehr zugelassen.
+Found
+MODSMD_ARTICLE02: Der Reichswirtschaftsminister Zum Tode Schinckels.
+Found
+MODSMD_ARTICLE03: Wiederaufrichtung deutscher Denkmäler in Memel.
+Found
+MODSMD_ARTICLE04: Pässe für „Bürger des Memelgebiets" werden wieder visiert.
+Found
+MODSMD_ARTICLE05: Gegen den Mißbrauch der Pressefreiheit in der Schweiz.
+Found
+MODSMD_ARTICLE06: Das künftige tschecho-slowakische Parlament.
+Found
+MODSMD_ARTICLE07: Beneschs Freunde wühlen.
+Found
+MODSMD_ARTICLE08: „Die Welt der Sowjets" spukt noch immer in Prag.
+Found
+MODSMD_ARTICLE09: Belgische Organisationen ehren deutsche Kriegsgefallene»
+Found
+MODSMD_ARTICLE10: Rote Fahnen bei Waffenstillstandsfeier.
+Found
+MODSMD_ARTICLE11: Lamonrenx befürwortet eine französische Weltreichspolitik.
+Found
+MODSMD_ARTICLE12: Ter nationale Heeresbericht.
+Found
+MODSMD_ARTICLE13: Belgische Abordnung in Nationals^amen.
+Found
+MODSMD_ARTICLE14: Aendernngen im türkischen Kabinett.
+Found
+MODSMD_ARTICLE15: In Palästina fließt weiter Blut.
+Found
+MODSMD_ARTICLE16: Gamelin in Algier.
+Found
+MODSMD_ARTICLE17: Keine Selbstverwaltung in Zypern.
+Found
+MODSMD_ARTICLE18: Gesandter Wagner überreicht sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE19: Rückkehr der HJ. aus Japan.
+Found
+MODSMD_ARTICLE20: Neuer großer Erfolg der Japaner.
+Found
+MODSMD_ARTICLE21: Zwei Todesurteile vollstreckt.
+Found

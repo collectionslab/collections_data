@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Dr. Goebbels eröffnet erste Reichsmesse Großdeutschlands.
+Found
+MODSMD_ARTICLE02: Ein freies Volk ehrt die Helden des 4» März 1919.
+Found
+MODSMD_ARTICLE03: Künstlerempfang im Haus des Führers.
+Found
+MODSMD_ARTICLE04: Die Kommunisten der Vortrupp der Weltrevolution.
+Found

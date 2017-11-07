@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer an Francs.
+Found
+MODSMD_ARTICLE02: Italienischer Sachverständigen-Besuch im Reich.
+Found
+MODSMD_ARTICLE03: Noch engere Zusammenarbeit.
+Found
+MODSMD_ARTICLE04: Italiens Presse würdigt das neue deutsche Kunstschaffen.
+Found
+MODSMD_ARTICLE05: Herzliche Abschiedskundgebungen für Graf Ciauo.
+Found
+MODSMD_ARTICLE07: Polens Vernichtungsfeldzug gegen deutsche Unternehmen.
+Found
+MODSMD_ARTICLE08: Zur Inspektion in Warschau eingetroffen.
+Found
+MODSMD_ARTICLE09: Chamberlain gibt die Schwierigkeiten in Ostasien zu. .
+Found
+MODSMD_ARTICLE10: Der englische Kredit an die Türkei.
+Found
+MODSMD_ARTICLE11: Unterhausanfragen über Einkreisungsabkommen.
+Found
+MODSMD_ARTICLE12: Butler muß britische Zeitungslügen richtigstellen.
+Found
+MODSMD_ARTICLE13: Das englische Lieblingsthema: „Berteidignngs"-Fragen.
+Found
+MODSMD_ARTICLE14: King-Hall der Märchenerzähler.
+Found
+MODSMD_ARTICLE15: Das französische Luftfahrtministerium dementiert.
+Found
+MODSMD_ARTICLE16: Der Präsident des Libanon reift nach Paris.
+Found
+MODSMD_ARTICLE17: Die englischen und französischen Unterhändler im Kreml.
+Found
+MODSMD_ARTICLE18: Aegypten muß für britische Interessen zahlen!
+Found
+MODSMD_ARTICLE19: Die chinesische Kriegsmarine vernichtet.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers an den König von England.
+Found
+MODSMD_ARTICLE02: Lantini und Dr. Ley in der Reiches.
+Found
+MODSMD_ARTICLE03: Chamberlain vor den ausländischen Journalisten.
+Found
+MODSMD_ARTICLE05: Der vorletzte Tag im Plewitzkaja-Prozeß.
+Found
+MODSMD_ARTICLE06: Ministerpräsident Beran vor dem Senat.
+Found
+MODSMD_ARTICLE07: Polen Zur Kolonialfrage.
+Found
+MODSMD_ARTICLE08: Zehn jüdische Bordelle ausgehoben.
+Found
+MODSMD_ARTICLE09: Die Araber treten für den geflüchteten Großmusti ein.
+Found
+MODSMD_ARTICLE10: Die arabische Presse Zur Palästina-Konferenz
+Found
+MODSMD_ARTICLE11: „Panamerika-Völkerbund ein Luftschloß."
+Found
+MODSMD_ARTICLE12: Argentinien denkt anders als USA.
+Found

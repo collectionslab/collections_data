@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Sudetendeutscher Turnertag in Aussig.
+Found
+MODSMD_ARTICLE02: Edens schwierige Wochenend-Aufgabe.
+Found
+MODSMD_ARTICLE03: Internationale Kongresse in Paris.
+Found
+MODSMD_ARTICLE04: Die Pariser Sonntagspresse zur Kontrollfrage.
+Found
+MODSMD_ARTICLE05: Erhöhung der französischen Ueberland-Transportsätze.
+Found
+MODSMD_ARTICLE06: Die Erhöhung der französischen Postgebühren.
+Found
+MODSMD_ARTICLE07: Eine Schraube ohne Ende: Lohnerhöhungen.
+Found
+MODSMD_ARTICLE08: Die Regelung der Grenzkontrolle.
+Found
+MODSMD_ARTICLE09: „Moralischer Bericht" in Marseille.
+Found
+MODSMD_ARTICLE10: Guadenakt des litauischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE11: Scharfe ungarische Kritik an der französischen Erklärung.
+Found
+MODSMD_ARTICLE12: Die Fäden laufen nach Moskau!
+Found
+MODSMD_ARTICLE13: „Frankreich reißt sich die Maske ab".
+Found
+MODSMD_ARTICLE14: Deutsch-schwcdischer Schüleraustausch.
+Found
+MODSMD_ARTICLE15: Verzweifelte Angriffe der Bolschewismen vor Madrid.
+Found
+MODSMD_ARTICLE16: Eisenbahnunglück in Frankreich.
+Found

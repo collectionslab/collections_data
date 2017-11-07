@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Aufführung der „Walküre" in Gegenwart des Führers.
+Found
+MODSMD_ARTICLE02: Besuche im deutsch-italienischen Jugendlager in Nideggen.
+Found
+MODSMD_ARTICLE03: Oesterreichs Teilnahme am Sängerbundesfest.
+Found
+MODSMD_ARTICLE04: Die Lettland- und Ostlanddeutschen nach Breslau unterwegs.
+Found
+MODSMD_ARTICLE05: „Lavoro Fascista" Zum Besuch der Arbeitsfront-Abordnung.
+Found
+MODSMD_ARTICLE06: Japan erkennt das italienische Imperium an.
+Found
+MODSMD_ARTICLE07: Einweihung des „Internationalen Pavillons" in Paris.
+Found
+MODSMD_ARTICLE08: Internationaler Psychologen-Kongreß in Paris.
+Found
+MODSMD_ARTICLE09: Erhöhung der Eisenbahntarife in England.
+Found
+MODSMD_ARTICLE10: Englischer Dampfer aufgebracht.
+Found
+MODSMD_ARTICLE11: „Jswestija" über Sowjetkultur.
+Found
+MODSMD_ARTICLE12: Lebensmittelnot bedroht Buffalo.
+Found
+MODSMD_ARTICLE13: Nanga Parbat-Opfer gefunden.
+Found

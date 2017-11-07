@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Empfang bei Konteradmiral Kobayaschi.
+Found
+MODSMD_ARTICLE02: Gesetz über Beamtenvereinigungen.
+Found
+MODSMD_ARTICLE03: Gedenkfeier für Gil Vicente.
+Found
+MODSMD_ARTICLE04: Presseempfang in Frankfurt.
+Found
+MODSMD_ARTICLE05: „Danziger Nationale Zeitung" stellt ihr Erscheinen ein.
+Found
+MODSMD_ARTICLE06: Schacht bei Blum.
+Found
+MODSMD_ARTICLE07: Der Nachfolger von Jules Moch.
+Found
+MODSMD_ARTICLE08: Staatsbegräbnis für Dr. Kramarsch.
+Found
+MODSMD_ARTICLE09: Die Londoner Presse zur Regierung Chamberlain.
+Found
+MODSMD_ARTICLE10: Baldwin Ritter des Hosenbandordens.
+Found
+MODSMD_ARTICLE11: Der Bombenangriff auf Palma vor dem Ausschuß. <
+Found

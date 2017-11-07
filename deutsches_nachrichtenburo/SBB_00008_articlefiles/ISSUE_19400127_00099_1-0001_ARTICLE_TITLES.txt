@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Englands und Frankreichs Sorgen.
+Found
+MODSMD_ARTICLE02: Das Urteil der Welt über Coulondres Doppelrolle.
+Found
+MODSMD_ARTICLE03: Der russische Heeresbericht.
+Found
+MODSMD_ARTICLE04: Die Finnen melden.
+Found
+MODSMD_ARTICLE05: Englands „Blitzkrieg" gegen die Grippe!
+Found
+MODSMD_ARTICLE06: Englandfeindliche Bewegung auch in Nanking.
+Found
+MODSMD_ARTICLE07: Verschärfung der japanischen Blockade in Tienisin.
+Found
+MODSMD_ARTICLE08: Vollstreckung eines Todesurteils.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ein Dementi der Berliner Griechischen Gesandtschast.
+Found
+MODSMD_ARTICLE02: Die Aerzteschaft dankt Baldur von Schirach.
+Found
+MODSMD_ARTICLE03: Fest der deutschen Sportpresse.
+Found
+MODSMD_ARTICLE04: Der Caudillo vor dem Kabinettsrat in Saragossa.
+Found
+MODSMD_ARTICLE05: Parlamentär Negrins in Barcelona erwartet.
+Found
+MODSMD_ARTICLE06: Zur Besetzung Minorcas.
+Found
+MODSMD_ARTICLE07: Keine Verhandlungen Zwischen Franco und Miaja.
+Found
+MODSMD_ARTICLE08: Wie das rote Gesindel in Figueras hauste.
+Found
+MODSMD_ARTICLE09: Das sind die Siege der Demokratien.
+Found
+MODSMD_ARTICLE10: Negrin! und Konsorten auf der Suche nach Obdach.
+Found
+MODSMD_ARTICLE11: In Cerbere klirrten die Fensterscheiben.
+Found
+MODSMD_ARTICLE12: Miaja geschäftsführender Präsident der Narrenrepublik.
+Found
+MODSMD_ARTICLE13: Pius XI.
+Found
+MODSMD_ARTICLE14: Pacelli Wahrer der Rechte des Heiligen Stuhles.
+Found
+MODSMD_ARTICLE15: Errichtung von Gasmaskenfabriken in Aegypten.
+Found
+MODSMD_ARTICLE16: Aegypten: „Die Juden sind unser Unglück".
+Found
+MODSMD_ARTICLE17: Das japanische Ausienamt zur Besetzung der Insel Hainau.
+Found
+MODSMD_ARTICLE18: Verräter hingerichtet.
+Found

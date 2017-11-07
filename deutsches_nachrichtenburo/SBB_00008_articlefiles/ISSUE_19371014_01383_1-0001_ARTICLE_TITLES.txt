@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Zielsichere deutsche Sozialpolitik. Rechenschaftsbericht des Sozialamtes der DAF.
+Found
+MODSMD_ARTICLE02: Die Durchführung der Preisüberwachung bei Grundstücken.
+Found
+MODSMD_ARTICLE03: Jede Mieterhöhung künftig genehmigungspflichtig.
+Found
+MODSMD_ARTICLE04: Die Tagung der Lilienthal-Gesellschaft.
+Found
+MODSMD_ARTICLE05: Eine Grenzgebiets-Korrektur.
+Found
+MODSMD_ARTICLE06: Abschluß der griechischen Herbstmanöver.
+Found
+MODSMD_ARTICLE07: 8909 Flüchtlinge nach dem nationalen Spanien zurückgekehrt.
+Found
+MODSMD_ARTICLE08: Teilnahme Kanadas an der Neun-Mächte-Konferenz.
+Found
+MODSMD_ARTICLE09: Aufbau einer syrischen Luftwaffe.
+Found
+MODSMD_ARTICLE10: Annäherung zwischen Spanisch-Marokko und Aegypten.
+Found
+MODSMD_ARTICLE11: Amerikanischer Matrose in Fernost verletzt.
+Found
+MODSMD_ARTICLE12: Japanisch-mongolische Truppen in Kweisui einmarschiert.
+Found

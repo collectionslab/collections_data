@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: 400 Franzosen auf Deutschlandfahrt.
+Found
+MODSMD_ARTICLE02: 5. Internationaler Treuhand- und Prüfungs-Kongreß.
+Found
+MODSMD_ARTICLE03: Erdöl-Förderung in der Ostmark.
+Found
+MODSMD_ARTICLE04: Kein Postgeheimnis mehr.
+Found
+MODSMD_ARTICLE05: Die tschechischen Kommunisten fischen im Trüben.
+Found
+MODSMD_ARTICLE06: Preissteigerungen in Prag.
+Found
+MODSMD_ARTICLE07: Kommumstische Demonstrationen vor dem Prager Parlament.
+Found
+MODSMD_ARTICLE08: Benesch empfing den Bolschewiken Gottwald.
+Found
+MODSMD_ARTICLE09: Benesch im Rundfunk.
+Found
+MODSMD_ARTICLE10: Tschechen errichten Schützengräben.
+Found
+MODSMD_ARTICLE11: Graslitz frei vom Tschechen-Terror.
+Found
+MODSMD_ARTICLE12: Die Bahnstrecke Linz—Budweis unterminiert.
+Not Found
+MODSMD_ARTICLE13: Die Slowaken warten ab.
+Found
+MODSMD_ARTICLE14: Rom: „Ein 2lljähriges Lügensystem zusammengebrochen!"
+Found
+MODSMD_ARTICLE15: Verschärfter Terror in Prag.
+Found
+MODSMD_ARTICLE16: Diplomaten bei Graf Ciano.
+Found
+MODSMD_ARTICLE17: Diplomatenbesuche bei Bonnet.
+Found
+MODSMD_ARTICLE18: Kolonialminister Mandel will ausscheiden.
+Found
+MODSMD_ARTICLE19: Lord Halifax zur Chamberlain-Reise.
+Found
+MODSMD_ARTICLE20: Die deutscheu Frontkämpfer iu London.
+Found
+MODSMD_ARTICLE21: Einbruch in das Verteidigungssystem am Ebro.
+Found
+MODSMD_ARTICLE22: Amtsgebäude in Jericho m Brand gesteckt.
+Found
+MODSMD_ARTICLE23: Präsident Seebauer in Washington.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Greiser zum Gauleiter des Warthe-Gaues ernannt.
+Found
+MODSMD_ARTICLE02: Kriegsberichter mit dem Eisernen Kreuz ausgezeichnet.
+Found
+MODSMD_ARTICLE03: Von A bis Z erfunden und erlogen.
+Found
+MODSMD_ARTICLE04: Deutsche Dichter im befreiten Land.
+Found
+MODSMD_ARTICLE05: „Durchsichtiges Liebeswerben um die Gunst Italiens."
+Found
+MODSMD_ARTICLE06: Im Balkan kann nichts ohne Italien unternommen werden.
+Found
+MODSMD_ARTICLE07: Churchill vor dem Tribunal der Weltmeinung.
+Found
+MODSMD_ARTICLE08: Die Entlarvung Churchills in der belgischen Presse.
+Found
+MODSMD_ARTICLE09: „Ankara muß zwischen Moskau und den Westmächten wählen."
+Found
+MODSMD_ARTICLE10: „Südafrika muß eigene freie Republik werden."
+Found
+MODSMD_ARTICLE11: „Sofortiger ehrenvoller Frieden mit Deutschland!"
+Found
+MODSMD_ARTICLE12: Die indische Kongreßpartei droht mit offenem Kampf.
+Found
+MODSMD_ARTICLE13: Kjosseiwanoff mit der Kabinettsbildung beauftragt.
+Found
+MODSMD_ARTICLE14: Libau wird russischer Flottenstützpunkt.
+Found
+MODSMD_ARTICLE15: Russische Militärkommifsion in Kowno.
+Found
+MODSMD_ARTICLE16: Auch hier log Winston Churchill.
+Found

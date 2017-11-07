@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Dr. Frank vor den rechtswissenschaftlichen Hochschullehrern.
+Found
+MODSMD_ARTICLE02: Neue Autobahnstrecken eröffnet.
+Found
+MODSMD_ARTICLE03: Kreuzer „Köln" wieder auf der Heimreise.
+Found
+MODSMD_ARTICLE04: „Es gibt kein fertiges Nationalitätenstatut."
+Found
+MODSMD_ARTICLE05: Das Elend in sudetendeutschen Gebieten vor dem Unterhans.
+Found
+MODSMD_ARTICLE06: Memelländisches Ganturnfest verboten.
+Found
+MODSMD_ARTICLE07: Italienische Urlauber fahren nach Nürnberg.
+Found
+MODSMD_ARTICLE08: Konservativer Wahlsieg bei einer Unterhaus-Ersatzwahl.
+Found
+MODSMD_ARTICLE09: Französisches Marxistenblatt rempelt Chamberlain an.
+Found
+MODSMD_ARTICLE10: „Frankreich muß die 43. rotspanische Division adoptieren".
+Found
+MODSMD_ARTICLE11: Rote Offensive an der Katalonien-Front eingestellt.
+Found
+MODSMD_ARTICLE12: „Kartoffel-Johns"-Schiff versenkt.
+Found
+MODSMD_ARTICLE13: Henry Ford gegen profitgierige Kriegshetzer.
+Found

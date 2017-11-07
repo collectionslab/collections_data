@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Graf Grandi in München.
+Found
+MODSMD_ARTICLE02: Staatssekretär Körner auf der Leipziger Frühjahrsmesse.
+Found
+MODSMD_ARTICLE03: Italienische Akademiker in Leipzig.
+Found
+MODSMD_ARTICLE04: „Auflösung des Parlaments eine sehr ernste Maßnahme".
+Found
+MODSMD_ARTICLE05: Moskau unterstützt weiter Negrin.
+Found
+MODSMD_ARTICLE06: Maja übernahm den Vorsitz im Madrider Ausschuß.
+Found
+MODSMD_ARTICLE07: Madrider „Verteidigungsrat" ein durchsichtiges Manöver.
+Found
+MODSMD_ARTICLE08: Deutsches Seim in Vigo eingeweiht.
+Found
+MODSMD_ARTICLE09: Allgemeine Flucht der roten Bonzen.
+Found
+MODSMD_ARTICLE10: Tie Besichtigungsreise General Nognös' in Tunesien.
+Found
+MODSMD_ARTICLE11: Die CGT.-Gewerkschaft iu der Bank von Frankreich.
+Found
+MODSMD_ARTICLE12: Bonnet empfing Qmnones de Leon und Berard.
+Found
+MODSMD_ARTICLE13: Der rumänische Ministerpräsident gestorben.
+Found
+MODSMD_ARTICLE14: Die karpatho-ukrainische Regierung.
+Found
+MODSMD_ARTICLE15: Wenig geeignete Mastnahmen Zur Befriedung Palästinas.
+Found
+MODSMD_ARTICLE16: Lückenlose Vollkommenheit und außerordentliche Stärke.
+Found
+MODSMD_ARTICLE17: Man rechnet in USA mit ständigem Arbeitslosennbel.
+Found
+MODSMD_ARTICLE18: Roosevelts doppeltes Antlitz.
+Found
+MODSMD_ARTICLE19: Theatralische Dekorierung Roosevelts.
+Found

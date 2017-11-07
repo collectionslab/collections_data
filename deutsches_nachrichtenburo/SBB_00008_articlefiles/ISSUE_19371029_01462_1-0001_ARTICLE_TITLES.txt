@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Rosenberg vor Diplomatie und Weltpresse.
+Found
+MODSMD_ARTICLE03: Pierre Arnal ins Außenministerium berufen.
+Found
+MODSMD_ARTICLE04: Der nationalspanische Heeresbericht vom 28. Oktober.
+Found
+MODSMD_ARTICLE05: Italiener organisieren die Luftfahrt Perus.
+Found
+MODSMD_ARTICLE06: Parteigefährten des Mufti in Beirut.
+Found
+MODSMD_ARTICLE07: Streik auf französischm Passagierdampfern in Saigon.
+Found
+MODSMD_ARTICLE08: Selbstmord eines chinesischen Truppenkommandeurs.
+Found

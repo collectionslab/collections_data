@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Göring Schirmherr des 11. Chemie-Jngeuieur-Kongresses.
+Found
+MODSMD_ARTICLE02: Besuch jugoslawischer Forstmänner in Salzburg.
+Found
+MODSMD_ARTICLE03: „Eine ernste Warnung an alle EinkreisWgspolitiker."
+Found
+MODSMD_ARTICLE04: Gegen den deutsch-feindlichen Hetzfeldzug in Ungarn.
+Found
+MODSMD_ARTICLE05: Queipo de Llano wird ins Ministerium berufen.
+Found
+MODSMD_ARTICLE06: England und das Rüstungsgeschäft mit Warschau.
+Found
+MODSMD_ARTICLE07: „Palästina-Problem praktisch überhaupt nicht zu lösen."
+Found
+MODSMD_ARTICLE08: Nur sehr kurze Parlamentsferien in Englands
+Found
+MODSMD_ARTICLE09: Neue Anweisungen an den britischen Botschafter in Moskau.
+Found
+MODSMD_ARTICLE10: London verlangt völlige Unterwerfung Polens.
+Found
+MODSMD_ARTICLE11: Französische Spionenriecherei bloßgestellt.
+Found
+MODSMD_ARTICLE12: Mexiko bedankt sich für spanische Volksfront-Emigranten.
+Found
+MODSMD_ARTICLE13: Nach der dritten Unterredung Arita-Craigie.
+Found
+MODSMD_ARTICLE14: „Übereinstimmung der Ansichten über die Grundfragen."
+Found
+MODSMD_ARTICLE15: Sowjetflugzeuge bombardierten japanisches Feldlazarett.
+Found
+MODSMD_ARTICLE16: Chinesische Kritik an England.
+Found
+MODSMD_ARTICLE17: Eine neue Niederlage Roosevelts.
+Found
+MODSMD_ARTICLE18: Zurückhaltende Fernostpolitik der USA.
+Found

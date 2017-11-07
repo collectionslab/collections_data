@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Aktive Dienstpflicht zwei Jahre. Ein Erlaß des Führers.
+Found
+MODSMD_ARTICLE02: Staatssekretär General Milch an die lunkerswerke.
+Found
+MODSMD_ARTICLE03: Dr. Ley in Crössinsee.
+Found
+MODSMD_ARTICLE04: Der Reichssporiführer dankt.
+Found
+MODSMD_ARTICLE05: Die Polizeibesugnisse auf den Autobahnen.
+Found
+MODSMD_ARTICLE06: Ter Kronprinz von Griechenland aus Berlin abgereist.
+Found
+MODSMD_ARTICLE07: Deutsche Schiffe in den spanischen Gewässern.
+Found
+MODSMD_ARTICLE08: Wieder 88 Spanien-Flüchtlinge in Hamburg.
+Found
+MODSMD_ARTICLE09: Das deutsche Waffenembargo auch von Italien begrüßt.
+Found
+MODSMD_ARTICLE10: Besprechung Edens mit Baldwin.
+Found
+MODSMD_ARTICLE11: Die ägyptische Abordnung bei Eden.
+Found
+MODSMD_ARTICLE12: Die Tagesordnung der Tagung des Völkerbundsrats.
+Found
+MODSMD_ARTICLE13: Italienisch-Holländische Handelsbesprechungen verschoben.
+Found
+MODSMD_ARTICLE14: Lebensmittelmangel in Santander und Bilbao.
+Found
+MODSMD_ARTICLE15: Die grauenvolle Ermordung des Generals Lopes Ochoa.
+Found
+MODSMD_ARTICLE16: Spanische Borbehalte auf einen amerikanischen Protest.
+Found
+MODSMD_ARTICLE17: Das Haßdenkmal von Dinant eingeweiht.
+Found
+MODSMD_ARTICLE18: Ein albanisches Dementi.
+Found

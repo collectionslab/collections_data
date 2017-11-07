@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Reichsstatthalter besucht Spanien-Flüchtlinge.
+Found
+MODSMD_ARTICLE02: Insgesamt 2000 Reichsdeutsche aus Madrid abbefördert.
+Found
+MODSMD_ARTICLE03: Der erbitterte Kampf um BadajoZ.
+Found
+MODSMD_ARTICLE04: Sieg der Nationalisten bei Marbella.
+Found
+MODSMD_ARTICLE05: Eiscnbahnstrecken durch die Nationalisten wiederhergestellt.
+Found
+MODSMD_ARTICLE06: Englische Grubenbeamte in Spanien gefangen.
+Found
+MODSMD_ARTICLE07: „laime nicht gesunken?
+Found
+MODSMD_ARTICLE08: Neue Taktik des Madrider Senders.
+Found
+MODSMD_ARTICLE09: Geiselmorde in San Sebastian.
+Found
+MODSMD_ARTICLE10: Ter Waffenschmugge! an der spanischen Grenze.
+Found
+MODSMD_ARTICLE11: Eine „Russische Legion" gegen die spanischen Marxisten?
+Found
+MODSMD_ARTICLE12: Portugal antwortet auf die Neutralitätsvorschläge.
+Found
+MODSMD_ARTICLE13: Keine gemeinsame Nichteinmischungserklärung der Schweiz.
+Found
+MODSMD_ARTICLE14: Wachsende Skepsis in Italien in der Nichteinmischungsfrage.
+Found
+MODSMD_ARTICLE15: Französische Reserveoffiziere reisen nach Sowjetrußland.
+Found
+MODSMD_ARTICLE16: Französisch-Polnische Generalstabsbesprechungen.
+Found
+MODSMD_ARTICLE17: Der Negus will nicht in London bleiben.
+Found
+MODSMD_ARTICLE18: Roosevelt zur Außenpolitik der Bereinigten Staaten.
+Found

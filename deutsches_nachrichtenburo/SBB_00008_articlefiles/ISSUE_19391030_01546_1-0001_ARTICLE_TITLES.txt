@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ansiedlung von Baltendeutschen in Gotenhafen.
+Found
+MODSMD_ARTICLE02: „Ein Sieg der Kanonenkönige in Amerika."
+Found
+MODSMD_ARTICLE03: Daladier unterdrückt die Volksmeinung.
+Found
+MODSMD_ARTICLE04: Die Krone englischer Verdummungsmainöver.
+Found
+MODSMD_ARTICLE05: „Herr Wirrwarr, Hitlers Verbündeter in England."
+Found
+MODSMD_ARTICLE06: Englands Wirtschaft erstickt an der Kontrolle.
+Found
+MODSMD_ARTICLE07: Irland: „Ein Verbrechen an der Welt."
+Found
+MODSMD_ARTICLE08: Die Folgen der englischen Seeräuberei.
+Found
+MODSMD_ARTICLE09: Wachsende Englandfeindlichkeit in Südafrika.
+Found
+MODSMD_ARTICLE10: Für einen südosteuropäischen „neutralen Block".
+Found
+MODSMD_ARTICLE11: Britischer Dampfer von britischen Festungsgeschützen versenkt.
+Found

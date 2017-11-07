@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Verleihung von Treudienstehrenzeichen.
+Found
+MODSMD_ARTICLE03: Reichshauptamtsleiter Dr. Dresler 4V Jahre alt.
+Found
+MODSMD_ARTICLE04: Die Arbeitslosigkeit in Vorarlberg um K 2 v. H. gesunken.
+Found
+MODSMD_ARTICLE05: Der Reichsjugendführer an die HJ.-Führerschaft Österreichs.
+Found
+MODSMD_ARTICLE06: Protest gegen jüdische Provokationen in Laibach.
+Found
+MODSMD_ARTICLE07: Das dänische Königspaar in Nordschleswig.
+Found
+MODSMD_ARTICLE08: Der Verband der Polen besteht auf Autonomie.
+Found
+MODSMD_ARTICLE09: Säuberung beim „Bolschewik".
+Found
+MODSMD_ARTICLE10: Ungarisch-polnischer Telegrammwechsel.'
+Found
+MODSMD_ARTICLE11: Ungarischer Ministerrat.
+Found
+MODSMD_ARTICLE12: Schwere Zuchthausstrafen für bulgarische Kommunisten.
+Found
+MODSMD_ARTICLE13: Tagung des Internationalen Frontkämpfer-Ausschusses.
+Found
+MODSMD_ARTICLE14: 26. Mai: Grundsteinlegung Zum Volkswagen-Werk.
+Found
+MODSMD_ARTICLE15: Bewaffnung der britischen Handelsmarine im Kriegsfall.
+Found
+MODSMD_ARTICLE16: Törichte Fragerei im Unterhaus.
+Found
+MODSMD_ARTICLE17: Rotspanische U-Boote unter sowjetrussischer Führung.
+Found
+MODSMD_ARTICLE18: Zwei rote Milizhäuptlinge in Barcelona erschossen.
+Found
+MODSMD_ARTICLE19: Der Vizekönig von Aethiopien wieder in Addis Abeba.
+Found
+MODSMD_ARTICLE20: Professor von Reuter in Washington!.
+Found
+MODSMD_ARTICLE21: Cardenas auf Inspektionsreise in den Oelgegenden.
+Found
+MODSMD_ARTICLE22: Noch immer Verhaftungen in Rio de Janeiro.
+Found
+MODSMD_ARTICLE23: Paraguay und Bolivien zur Chacokonferenz bereit.
+Found

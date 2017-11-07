@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Rotterdam ergibt sich.
+Found
+MODSMD_ARTICLE02: In Dinant, Givet und Sedan.
+Found
+MODSMD_ARTICLE03: 3 Kriegsschiffe versenkt.
+Found
+MODSMD_ARTICLE04: Die Maas natürliche Verlängerung der Maginotlinie.
+Found
+MODSMD_ARTICLE05: Die Reichshauptstadt im Banne der Erfolge.
+Found
+MODSMD_ARTICLE06: Deutsch-litauische Schiffahrtsverhandlnugen.
+Found
+MODSMD_ARTICLE07: Flüchtlingsstrom an der französischen Grenze.
+Found
+MODSMD_ARTICLE08: Holländischer Dampfer aus Mine gelaufen.
+Found
+MODSMD_ARTICLE09: „Lüttich die erste große Entscheidung".
+Found
+MODSMD_ARTICLE10: England spürt nun den Krieg selbst.
+Found
+MODSMD_ARTICLE11: „General Zeit" marschiert in den Ruhestand.
+Found
+MODSMD_ARTICLE12: Die römische Presse zum deutschen Vormarsch.
+Found
+MODSMD_ARTICLE13: „Popolo di Roma" gegen Greuellügen.
+Found
+MODSMD_ARTICLE14: Holland kapituliert!
+Found
+MODSMD_ARTICLE15: General Duval „beherrscht" noch Lüttich.
+Found
+MODSMD_ARTICLE16: Weitere Normalisierung des Lebens in Oslo.
+Found
+MODSMD_ARTICLE17: Krieg gegen Wehrlose.
+Found
+MODSMD_ARTICLE18: Protest Tokios gegen antijapanische Machenschaften.
+Found

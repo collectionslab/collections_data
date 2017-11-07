@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer an die Witwe des Generals Kraus.
+Found
+MODSMD_ARTICLE02: Ministerialrat Dr. Johannes Nichter.
+Found
+MODSMD_ARTICLE03: Gewaltige Treuekundgebungen in Leoben.
+Found
+MODSMD_ARTICLE04: Tschechische Lügen am laufenden Band.
+Found
+MODSMD_ARTICLE05: Immer neue Feuerüberfälle auf Reichsgebiet.
+Found
+MODSMD_ARTICLE06: Slowakische Bolkspartei beharrt auf Autonomie.
+Found
+MODSMD_ARTICLE07: Judenflucht in die Hohe Tatra.
+Found
+MODSMD_ARTICLE08: Rumänien stoppt Transitverkehr nach der Tschecho-Slowakest
+Found
+MODSMD_ARTICLE09: Außenminister Bonnet empfing del Vaho.
+Found
+MODSMD_ARTICLE10: Abrechnung mit den Kriegstreibern.
+Found
+MODSMD_ARTICLE11: Brüsseler Konferenz über Luftprivatrecht.
+Found
+MODSMD_ARTICLE12: Kurze Pause in den Besprechungen im Führerbau.
+Found
+MODSMD_ARTICLE13: Oslo: Das Spiel der Hetzer schlägt fehl!
+Found
+MODSMD_ARTICLE14: Sitzung des spanischen Ministerrats.
+Found
+MODSMD_ARTICLE15: Blutige Bilanz in Tarrogona.
+Found
+MODSMD_ARTICLE16: Rotspanische Angriffe erfolgreich abgewiesen,
+Found
+MODSMD_ARTICLE17: Keine australischen Truppen nach Europa.
+Found
+MODSMD_ARTICLE18: Lebhafte japanische Angriffe am Aangtse-Nordufer.
+Found

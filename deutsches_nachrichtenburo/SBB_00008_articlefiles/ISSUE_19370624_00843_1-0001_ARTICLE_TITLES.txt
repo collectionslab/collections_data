@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der italienische Jugendführer dankt dem Führer.
+Found
+MODSMD_ARTICLE02: Beförderung in der Reichskanzlei.
+Found
+MODSMD_ARTICLE03: Der Regierungspräsident in Koblenz endgültig bestätigt.
+Found
+MODSMD_ARTICLE04: Ausländisches Interesse an der deutschen Frauenarbeit.
+Found
+MODSMD_ARTICLE05: Besuch amerikanischer Seekadetten in Frankfurt a. M.
+Found
+MODSMD_ARTICLE06: Oesterreich kämpft gegen den Geburtenrückgang.
+Found
+MODSMD_ARTICLE07: Oberlmdober über d:e deutsch-franzostsche Verstandrgung.
+Found
+MODSMD_ARTICLE08: Der erste Kabinettsrat Chantempsß
+Found
+MODSMD_ARTICLE09: Chautemps übernimmt die Abteilung Elsaß-Lothringen.
+Found
+MODSMD_ARTICLE10: Norwegen will Herr seiner Entschlüsse bleiben.
+Found
+MODSMD_ARTICLE11: Ehemalige deutsche Kriegsgefangene nach England eingeladen.
+Found
+MODSMD_ARTICLE12: Neue Verluste der englischen Truppen in Indien.
+Found
+MODSMD_ARTICLE13: Keine Unruhen in Nord-Tschachar.
+Found
+MODSMD_ARTICLE14: Mitglieder der Himalaya-Stiftung fliegen nach Indien.
+Found
+MODSMD_ARTICLE15: Beileid des Generalgouverneurs von Bengalen.
+Found

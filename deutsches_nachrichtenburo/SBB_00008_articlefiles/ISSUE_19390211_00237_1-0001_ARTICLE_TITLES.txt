@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Stabschef Lutze und General Russo besichtigten Tripolis.
+Found
+MODSMD_ARTICLE02: Ter ehemalige französische Handelsminister Chapsal f.
+Found
+MODSMD_ARTICLE03: Nach Minorca die Hainau-Niederlage.
+Found
+MODSMD_ARTICLE04: England schafft sich eine neue Flottenbasis.
+Found
+MODSMD_ARTICLE05: Englands Borbereitungen für den Kriegsfall.
+Found
+MODSMD_ARTICLE06: Eine neue Form von Attentaten?
+Found
+MODSMD_ARTICLE07: Cypern verlangt Gerechtigkeit.
+Found
+MODSMD_ARTICLE08: „Humbug nach 254 Jahren völliger Teilnahmslosigkeit".
+Found
+MODSMD_ARTICLE09: „Friedensplan" Chamberlains für die Palästina-Konferenz?
+Found
+MODSMD_ARTICLE10: London prüft wieder einmal die Lage.
+Found
+MODSMD_ARTICLE11: Schießerei auf eine Prozession: 29 Verwundete.
+Found
+MODSMD_ARTICLE12: Bluff oder Wahnsinn?
+Found
+MODSMD_ARTICLE13: Eine Polnische Wirtschaftsabordnung in Burlos.
+Found
+MODSMD_ARTICLE14: Polen: „Die Frage der jüdischen Umsiedlung ist zu lösen."
+Found
+MODSMD_ARTICLE15: Vor 19 Jahren bekam Polen den Zugang zum Meer.
+Found
+MODSMD_ARTICLE16: Die Vaterländische Volksbewegung fordert Aufklärung.
+Found
+MODSMD_ARTICLE17: Ter britische Geueralstabschef „inspiziert" Palästina.
+Found
+MODSMD_ARTICLE18: Veröffentlichung eines vertraulichen Berichts gefordert.
+Found
+MODSMD_ARTICLE19: Amerikas Krirgsmaieriallieferungeu.
+Found

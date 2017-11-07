@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Deutsch-italienisches Abkommen.
+Found
+MODSMD_ARTICLE02: Größtes Volk und stärkste Wirtschaft Europas.
+Found
+MODSMD_ARTICLE03: Prager deutsches Arbeitsamt beim Sozialminister.
+Found
+MODSMD_ARTICLE04: In Barcelona wächst die Kopflosigkeit.
+Found
+MODSMD_ARTICLE05: Empörung über die neuerliche Einmischung Frankreichs.
+Found
+MODSMD_ARTICLE06: Gibt Thorez sein Spiel um die Sache Barcelonas verloren?
+Found
+MODSMD_ARTICLE07: Jahresessen der Deutschen Handelskammer in London.
+Found
+MODSMD_ARTICLE08: Frankreichs Außenpolitik sucht Abenteuer zu vermeiden.
+Found
+MODSMD_ARTICLE09: Erneuter Luftangriff auf Barcelona.
+Found
+MODSMD_ARTICLE10: Arado 79 flog 2W9 IM über australischen Busch.
+Found

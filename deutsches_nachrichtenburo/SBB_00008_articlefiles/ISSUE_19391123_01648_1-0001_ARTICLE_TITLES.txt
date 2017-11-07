@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Aussagen des Captain Stevens.
+Found
+MODSMD_ARTICLE02: Der Führer beglückwünschte den Präsidenten von Portugal.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Londoner Stellungnahme: Zynisch und brutal.
+Found
+MODSMD_ARTICLE05: Bescheideues England!
+Found
+MODSMD_ARTICLE06: England muß seine Auslandswerte verkaufen!
+Found
+MODSMD_ARTICLE07: Französischer Trawler lief auf eine Mine.
+Found
+MODSMD_ARTICLE08: Wieder englische Dampfer versenkt.
+Found
+MODSMD_ARTICLE09: Eine weitere Schiffsversenkung.
+Found
+MODSMD_ARTICLE10: Die Kriegssolgen in Paris.
+Found

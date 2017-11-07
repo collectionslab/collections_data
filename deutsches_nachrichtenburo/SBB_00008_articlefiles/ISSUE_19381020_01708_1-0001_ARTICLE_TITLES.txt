@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Adolf Hitler in Krumau»
+Found
+MODSMD_ARTICLE02: Reichsminister Ruft in Braunau.
+Found
+MODSMD_ARTICLE03: Das bulgarisch-jugoslawische Freundschaftsverhältnis.
+Found
+MODSMD_ARTICLE04: Die Beisetzung des Prinzen Arsen Karageorgewitsch.
+Found
+MODSMD_ARTICLE05: Reichsmiuister Dr. Frank in Budapest.
+Found
+MODSMD_ARTICLE06: Feierlicher Empfang der Spanienfreiwilligen.
+Found
+MODSMD_ARTICLE07: Italien verbietet das Schächten.
+Found
+MODSMD_ARTICLE08: Daladier empfing Fiuanzmimster Marchandeau und Blum-
+Found
+MODSMD_ARTICLE09: Kennedy sprach über Rüstungsbegrenzungen.
+Found
+MODSMD_ARTICLE10: Polnische Kritik an Litauens Minderheitenpolitik.
+Found

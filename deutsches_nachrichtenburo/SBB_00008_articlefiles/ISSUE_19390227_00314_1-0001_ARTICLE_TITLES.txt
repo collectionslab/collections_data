@@ -1,0 +1,48 @@
+MODSMD_ARTICLE01: Ehrenmal für Horst Wessel auf dem Tünte!.
+Found
+MODSMD_ARTICLE02: Der Präsident des Reichsluftschutzbundes im Sudetengau.
+Found
+MODSMD_ARTICLE03: Deutsch-portugiesische Gemälde-Ausstellung.
+Found
+MODSMD_ARTICLE04: Bombenangriff aus Almeria.
+Found
+MODSMD_ARTICLE05: „Leere Phrasen sollen egoistische Zwecke tarnen!"
+Found
+MODSMD_ARTICLE06: Empörung über den Zynismus der roten Bonzen.
+Found
+MODSMD_ARTICLE07: Negrin setzt einen Berteidiguugsgeneral ein.
+Found
+MODSMD_ARTICLE08: In sicherer Hut läßt es sich gut reden.
+Found
+MODSMD_ARTICLE09: Dem nahem Ende entgegen.
+Found
+MODSMD_ARTICLE10: Rotspanische Räuber bringen ihre Beute in Sicherheit.
+Found
+MODSMD_ARTICLE11: Was treiben die spanischen Anarchisten in Frankreich?
+Found
+MODSMD_ARTICLE12: Mit der Soldkasse über die. Grenze.
+Found
+MODSMD_ARTICLE13: Der Erbprinz von Tunesien gestorben.
+Found
+MODSMD_ARTICLE14: Vmnbenexplosion in Belfast.
+Found
+MODSMD_ARTICLE15: Blitzschläge in britische Ballonsperren.
+Found
+MODSMD_ARTICLE16: Revision der schwedischen Heeresverordnung verlangt.
+Found
+MODSMD_ARTICLE17: Minister Jarost zur Judeufrage.
+Found
+MODSMD_ARTICLE18: Tschechische Abwehr gegen jüdische Peiniger.
+Found
+MODSMD_ARTICLE19: Neuer Minister in Belgrad.
+Found
+MODSMD_ARTICLE20: Der türkische Außenminister in Athen.
+Found
+MODSMD_ARTICLE21: Türkische Sympathien für den syrischen Freiheitskampf.
+Found
+MODSMD_ARTICLE22: Bombenexplosion im Zentrum Jerusalems.
+Found
+MODSMD_ARTICLE23: Schuldspruch gegen Hines.
+Found
+MODSMD_ARTICLE24: Englische Humanität in der Praxis.
+Found

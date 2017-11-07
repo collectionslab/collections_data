@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Abschiedsbesuche Calonders und Kaeckenbeecks beim Führer.
+Found
+MODSMD_ARTICLE02: Die Ziele des gemeinnützigen Wohnungsbaues.
+Found
+MODSMD_ARTICLE03: Großer Erfolg der Ausgrabungen in Olympia.
+Found
+MODSMD_ARTICLE04: De Valera wiedergewählt.
+Found
+MODSMD_ARTICLE05: Die Nichteinmischung vor dem englischen Kabinett.
+Found
+MODSMD_ARTICLE06: Grandi bei Eden.
+Found
+MODSMD_ARTICLE07: Das englische Unterhaus widerlegt ein U-Boot-Märchen.
+Found
+MODSMD_ARTICLE08: Englisch-japanische Aussprache aufgeschoben.
+Found
+MODSMD_ARTICLE09: „Der neue Judenstaat eine Unmöglichkeit."
+Found
+MODSMD_ARTICLE10: Pessimismus und Tendenzmache in Paris.
+Found
+MODSMD_ARTICLE11: Die Untersuchung über den Warschauer Bombenanschlag.
+Found
+MODSMD_ARTICLE12: Aegypten und das Palästina-Problem.
+Found
+MODSMD_ARTICLE13: Der neue demokratische Fraktionsführer im Senat.
+Found
+MODSMD_ARTICLE14: 3000 Kilogramm schwerer Goldschatz in Panama gefunden.
+Found

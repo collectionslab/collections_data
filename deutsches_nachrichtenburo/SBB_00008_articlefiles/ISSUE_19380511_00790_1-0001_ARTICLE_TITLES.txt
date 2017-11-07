@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Göring begibt sich nach Oesterreich.
+Found
+MODSMD_ARTICLE02: Göruig zum Opfertag des Jugendherbergswerks.
+Found
+MODSMD_ARTICLE03: Glückwunschtelegramm Dr. Micks an General Daluege.
+Found
+MODSMD_ARTICLE04: Bürckel bestellt Beauftragten für die kulturellen Fragen.
+Found
+MODSMD_ARTICLE05: Ein sudetcndeutschtumsfeindlicher Antrag.
+Found
+MODSMD_ARTICLE06: „Giornale d'Jtalia gegen Verdrehungsmanöver.
+Found
+MODSMD_ARTICLE07: Mussolini legt den Grundstein für 2 große Fabriken.
+Found
+MODSMD_ARTICLE08: Treuegelöbnis der kolonialen Notabeln vor Mussolini.
+Found
+MODSMD_ARTICLE09: Telegramm des Führers an den König von England.
+Found
+MODSMD_ARTICLE10: Estnische Anerkennung des italienischen Imperiums.
+Found
+MODSMD_ARTICLE11: Bereits 89 Tote in Markham.
+Found
+MODSMD_ARTICLE12: Vorläufiger Kommissar für die Minderheiten in Rumänien.
+Found
+MODSMD_ARTICLE13: Der Sowjetgeheimsender droht mit weiteren Enthüllungen.
+Found
+MODSMD_ARTICLE14: Der Kampf um die Lunghai-Bahn vor der Entscheidung.
+Found
+MODSMD_ARTICLE15: Die Regierung Vargas Herr der Lage.
+Found

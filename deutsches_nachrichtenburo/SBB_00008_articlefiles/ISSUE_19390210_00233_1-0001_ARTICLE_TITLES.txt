@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Beileid des Führers zum Ableben des Papstes.
+Found
+MODSMD_ARTICLE02: Die Kommandeure des Heeres beim Führer.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels beglückwünscht Professor Trunk.
+Found
+MODSMD_ARTICLE04: Die Trauerseier für Henry Deterding.
+Found
+MODSMD_ARTICLE06: Amerikanischer Besuch in Berlin.
+Found
+MODSMD_ARTICLE07: Oberleutnant Pulkowsky in Madras tödlich verunglückt.
+Found
+MODSMD_ARTICLE08: In 48 Tagen 3 Provinzen erobert.
+Found
+MODSMD_ARTICLE09: Die spanischen Kunstschätze noch in Frankreich.
+Found
+MODSMD_ARTICLE10: Lebruns Beileid.
+Found
+MODSMD_ARTICLE11: Noch kein Termin für den Zusammentritt des Konklave.
+Found
+MODSMD_ARTICLE12: Bleibt das Kabinett Spaak?
+Found
+MODSMD_ARTICLE13: Mißtrauensantrag im Unterhaus.
+Found
+MODSMD_ARTICLE14: Roosevelt soll eine Abrüstungskonferenz einberufen.
+Found
+MODSMD_ARTICLE15: Deutsche Sportflieger in Kapstadt.
+Found
+MODSMD_ARTICLE16: Deutsch-Neuguinea „Symbol für eine Milliarde Pfund".
+Found
+MODSMD_ARTICLE17: Hinrichtung eines Berussverbrechers.
+Found

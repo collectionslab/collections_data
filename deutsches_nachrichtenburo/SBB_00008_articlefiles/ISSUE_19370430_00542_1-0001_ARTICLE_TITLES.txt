@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Beförderungen in der SA.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels besichtigt die Kundgebungsstätten.
+Found
+MODSMD_ARTICLE03: Der Reichsaußenminister reist nach Rom.
+Found
+MODSMD_ARTICLE04: Kriegergräber-Ausschuß tagt in Berlin
+Found
+MODSMD_ARTICLE05: Ricci in Berlin eingetroffen. Empfang im Rathaus.
+Found
+MODSMD_ARTICLE06: Starace empfängt die Teilnehmer am Reitturnier.
+Found
+MODSMD_ARTICLE07: Riesenschmuggel an der österreich-tschechoslowakischen Grenze.
+Found
+MODSMD_ARTICLE08: Ablehnung der Blumschen Schulpolitik in Elsaß-Lothringen.
+Found
+MODSMD_ARTICLE09: Streik in der Brauereiindustrie von Balenciennes.
+Found
+MODSMD_ARTICLE10: Graf Ciano in Tirana.
+Found
+MODSMD_ARTICLE11: Der Inhalt des amerikanischen Neutralitätsgesetzes.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Aussprache des Führers mit Munters und Setter.
+Found
+MODSMD_ARTICLE02: Meinungsaustausch der Außenminister.
+Found
+MODSMD_ARTICLE03: Glückwünsche Görings zur 65jährigen Ehejubelfeier.
+Found
+MODSMD_ARTICLE04: Rückreise der jugoslawischen Journalisten.
+Found
+MODSMD_ARTICLE05: Spaniens Presse im Zeichen der Legionäre.
+Found
+MODSMD_ARTICLE06: Rom empfängt die siegreichen Spanienkämpfer.
+Found
+MODSMD_ARTICLE07: Neue italienfeindliche Ausschreitungen in Tunis.
+Found
+MODSMD_ARTICLE08: Das neue ungarische Parlament.
+Found
+MODSMD_ARTICLE09: „Belgiens Treue zur Politik der Unabhängigkeit."
+Found
+MODSMD_ARTICLE10: Schwere Anklagen gegen Benesch.
+Found
+MODSMD_ARTICLE11: Vritisch-sowjetrussischer Kuhhandel.
+Found
+MODSMD_ARTICLE12: Araber heimtückisch von Juden ermordet.
+Found
+MODSMD_ARTICLE13: Neuer japanischer Vorstoß in der Provinz Schantung.
+Found
+MODSMD_ARTICLE14: Ehemaliger chinesischer Staatspräsident gestorben.
+Found

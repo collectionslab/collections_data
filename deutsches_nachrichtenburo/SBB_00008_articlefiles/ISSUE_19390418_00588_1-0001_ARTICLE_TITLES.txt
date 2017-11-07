@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Nachmittags- und Abend-Ausgabe. deutsches Nachrichtenbüro K
+Found
+MODSMD_ARTICLE02: Vor der Ankunft der ausländischen Ehrengäste.
+Found
+MODSMD_ARTICLE03: Außenminister Gafencu in Berlin.
+Found
+MODSMD_ARTICLE04: Baldur von Schirach in Marienburg.
+Found
+MODSMD_ARTICLE05: Teleki und Csaky ehrten die Gefallenen.
+Found
+MODSMD_ARTICLE06: Verlegene Erklärungen Chamberlains im Unterhaus.
+Found
+MODSMD_ARTICLE07: 16 französische Kriegsschiffe in Gibraltar.
+Found
+MODSMD_ARTICLE08: Ministerat in Paris.
+Found
+MODSMD_ARTICLE09: Katholisch-liberales Kabinett in Brüssel gebildet.
+Found
+MODSMD_ARTICLE10: „Roosevelts Manöver bereits erschüttert."
+Found
+MODSMD_ARTICLE11: Sofia und Ankara gegen die Einkreisungspolitik.
+Found
+MODSMD_ARTICLE12: Keine Sowjetruppem durch Rumänien!
+Found
+MODSMD_ARTICLE13: Demonstrationsmarsch englischer Soldatem durch Kairo.
+Found
+MODSMD_ARTICLE14: Englischer Sadismus in Palästina.
+Found
+MODSMD_ARTICLE15: Chaim Weizmann soll Roosevelt „beraten".
+Found
+MODSMD_ARTICLE16: Den Vereinigten Staaten geht es nur um das Geschäft.
+Found
+MODSMD_ARTICLE17: „Deutschland führend in der Luftfahrt."
+Found
+MODSMD_ARTICLE18: Menzies Ministerpräsident von Australien.
+Found

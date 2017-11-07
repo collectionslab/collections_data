@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Gesandtenempfange beim Führer.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Ehrung für den scheidenden ägyptischen Gesandten.
+Found
+MODSMD_ARTICLE04: Nüst an den Berein Deutscher Bibliothekare.
+Found
+MODSMD_ARTICLE05: Abschluß der Deutschlandreise Cianettis.
+Found
+MODSMD_ARTICLE07: Jüdische Betrüger und „vaterländischer" Schieber.
+Found
+MODSMD_ARTICLE08: Tagung der Aerzte des öffentlichen Gesundheitsdienstes.
+Found
+MODSMD_ARTICLE09: Die dritte Wahletappe in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE10: Um die dreijährige Dienstpflicht.
+Found
+MODSMD_ARTICLE11: Die rote „Eiserne Division" vernichtet.
+Found
+MODSMD_ARTICLE12: Für wen war die Pikrinsäure?
+Found
+MODSMD_ARTICLE13: Der zweifelhafte Wert der französischen Bündnisse. .
+Found
+MODSMD_ARTICLE14: Aegypten kauft 36 Militärflugzeuge.
+Found
+MODSMD_ARTICLE15: Japanische Offensive aus Hankau?
+Found
+MODSMD_ARTICLE16: Die Chacokonferenz ergebnislos verlaufen?
+Found
+MODSMD_ARTICLE17: Der Grenzzwischenfall Ekuador-Peru.
+Found
+MODSMD_ARTICLE18: Schaffung eines brasilianischen Luftrates.
+Found
+MODSMD_ARTICLE19: Mexikanische Truppen im Kampf mit Banditen.
+Found
+MODSMD_ARTICLE20: Zunehmende IMeitslosigkeit in USA.
+Found

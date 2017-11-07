@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: 111. Internationaler Kongreß für ärztliche Fortbildung.
+Found
+MODSMD_ARTICLE02: Kommunistenverhaftungen in Istanbul.
+Found
+MODSMD_ARTICLE03: Der Streik auf Mauritius.
+Found
+MODSMD_ARTICLE04: Luftkämpfe über Schanghai und Nanking.
+Found
+MODSMD_ARTICLE05: Japanische Flugzeuge bombardieren Kalgau.
+Found

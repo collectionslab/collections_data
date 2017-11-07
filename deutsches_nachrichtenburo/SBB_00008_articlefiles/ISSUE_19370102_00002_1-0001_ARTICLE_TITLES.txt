@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer an die Wehrmacht.
+Found
+MODSMD_ARTICLE02: Neujahrsaufruf des Führers an die Partei.
+Found
+MODSMD_ARTICLE03: „Nationalsozialisten! Nationalsozialistinnen! Parteigenossen!
+Found
+MODSMD_ARTICLE04: Der Dank des Stellvertreters des Führers.
+Found
+MODSMD_ARTICLE05: Generaloberst Göring an seine Mitarbeiter.
+Found
+MODSMD_ARTICLE06: Göring: Parole 1937: Aeußerste Kraft voraus!
+Found
+MODSMD_ARTICLE07: Der Reichsführer-SS. an die SS. und Polizei.
+Found
+MODSMD_ARTICLE08: „An alle SS.-Männer!
+Found
+MODSMD_ARTICLE09: An die deutsche Polizei!
+Found
+MODSMD_ARTICLE10: Admiral Foerster im Ruhestand.
+Found
+MODSMD_ARTICLE11: Feierliche Flaggensetzung für Vizeadmiral Carls.
+Found
+MODSMD_ARTICLE12: Zehn Jahre Gefängnis für Tschanghsueliang.
+Found

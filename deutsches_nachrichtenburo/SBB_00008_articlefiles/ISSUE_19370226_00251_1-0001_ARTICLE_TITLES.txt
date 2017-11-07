@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Wieder ein Reichsdeutscher in der Sowjetunion verhaftet.
+Found
+MODSMD_ARTICLE02: Gesetz über Wasser- und Bodenverbände.
+Found
+MODSMD_ARTICLE03: Hühnlein auf Neichstagung des Kraftfahrzeughandwerks.
+Found
+MODSMD_ARTICLE04: Dr. Ley auf der Tagung des Handwerks-Beirats.
+Found
+MODSMD_ARTICLE05: Norwegische Handelsschüler besuchen Deutschland.
+Found
+MODSMD_ARTICLE06: Wiener Ministerrat über den Besuch von Neuraths.
+Found
+MODSMD_ARTICLE07: Das Badcn.er Spielkasino bleibt bestehen.
+Found
+MODSMD_ARTICLE08: Der Tod des Direktors von Norsk Telegram Byra.
+Found
+MODSMD_ARTICLE09: Norwegens Vertreter bei der Haager Konferenz.
+Found
+MODSMD_ARTICLE10: Norwegen gegen Teilnahme an den spanischen Kämpfen.
+Found
+MODSMD_ARTICLE11: Chemische Fabriken in Mülhausen unter Streikterror.
+Found
+MODSMD_ARTICLE12: Sowjetbonzen leben auf großem Fuß.
+Found
+MODSMD_ARTICLE13: Zwangsmaßnahmen in Rumänien gegen Studenten.
+Found
+MODSMD_ARTICLE14: Vor einer neuen Rundfunkrede Roosevelts.
+Found
+MODSMD_ARTICLE15: Fisherbody- und Chevroletwerke geschlossen.
+Found

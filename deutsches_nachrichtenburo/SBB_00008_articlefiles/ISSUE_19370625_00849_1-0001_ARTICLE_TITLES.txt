@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ernennung.
+Found
+MODSMD_ARTICLE02: Aus der Berliner Diplomatie.
+Found
+MODSMD_ARTICLE03: Deutsche Kulturwoche auf der Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE04: Chamberlain vor dem Unterhaus zur Außenpolitik.
+Found
+MODSMD_ARTICLE05: Adnnral Sir William Fisher h.
+Found
+MODSMD_ARTICLE06: Starker Eindruck deutscher Sozialarbeit in Paris.
+Found
+MODSMD_ARTICLE07: 50-Jahrfeier der Deutschen Schule in Sofia.
+Found
+MODSMD_ARTICLE08: Ministerwechsel im Irak.
+Found
+MODSMD_ARTICLE09: Botschafter Arioschi f.
+Found
+MODSMD_ARTICLE10: Bombenterror steigert das Streikchaos.
+Found
+MODSMD_ARTICLE11: Unruhiges Trinidad.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Dank des Reichskriegsministers.
+Found
+MODSMD_ARTICLE02: Eine Hetzmeldung des Wiener „Telegraph".
+Found
+MODSMD_ARTICLE03: Deutsche Kriegsschiffe retten Volksgenossen in Spanien.
+Found
+MODSMD_ARTICLE04: „Tiger" und „Iltis" fahren zur Ablösung nach Spanien.
+Found
+MODSMD_ARTICLE05: Der antireligiöse Feldzug in Spanien.
+Found
+MODSMD_ARTICLE06: Frontbesuch des spanischen Präsidenten.
+Found
+MODSMD_ARTICLE07: Die Bedeutung des Sieges von Jrun.
+Found
+MODSMD_ARTICLE08: Der sWnische Botschafter in Athen zurückgetreten.
+Found
+MODSMD_ARTICLE09: Fiasko der französischen an Spanien gelieferten Flugzeuge.
+Found
+MODSMD_ARTICLE10: Vier Marineflieger in Rochefort verhaftet.
+Found
+MODSMD_ARTICLE11: Londoner Kundgebung für die spanischen Marxisten.
+Found
+MODSMD_ARTICLE12: „Prawda" über die Regierungsumbildung in Madrid.
+Found
+MODSMD_ARTICLE13: „Lunds Dagblad" über „Moskaus Nichteinmischung."
+Found
+MODSMD_ARTICLE14: Auflegung der neuen schweizerischen Wehranleihe.
+Found
+MODSMD_ARTICLE15: Tie schweizerischen Vorschläge zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE16: Bundesrat gegen Freimaurer-Volksbegehren.
+Found
+MODSMD_ARTICLE17: Erneute Brotpreiserhöhung in Bordeaux.
+Found
+MODSMD_ARTICLE18: Der Metropolit von Sofia in Belgrad.
+Found
+MODSMD_ARTICLE19: Steuersteckbriefe und Vermögensbeschlaguahmen.
+Found

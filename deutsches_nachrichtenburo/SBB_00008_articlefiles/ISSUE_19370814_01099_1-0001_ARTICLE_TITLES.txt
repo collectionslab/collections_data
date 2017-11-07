@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Festlicher Auftakt Zur 700-Jahr-Feier der Reichshauptstadt.
+Found
+MODSMD_ARTICLE02: Die Reichswettkämpfe der SA.
+Found
+MODSMD_ARTICLE03: Ausländische Minister grüßen die deutsche Ostmesse.
+Found
+MODSMD_ARTICLE04: Glückwünsche an das Deutsche Auslandinstitut.
+Found
+MODSMD_ARTICLE05: Graf Fhutaara über die japanische Jugendorganisation.
+Found
+MODSMD_ARTICLE06: Die Berechtigung der deutschen Kolonialforderung.
+Found
+MODSMD_ARTICLE07: Kontrolle der Ueberschußernten in Amerika.
+Found
+MODSMD_ARTICLE08: Japans Antwort an Staatssekretär Hnll.
+Found
+MODSMD_ARTICLE09: 500 Tote eines neuen chinesischen Luftbombardememts.
+Found
+MODSMD_ARTICLE10: Teilnehmer des Februarausstandes in Tokio verurteilt.
+Found

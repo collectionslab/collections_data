@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Gauleiter Lohse bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Personalveränderungen in der Führerschaft der SA.
+Found
+MODSMD_ARTICLE03: Weiterer Ausbau des Gemeinschaftslagers Hanns Kerrl.
+Found
+MODSMD_ARTICLE04: Deutsche Volksgruppen trafen sich in Weimar.
+Found
+MODSMD_ARTICLE05: Die römische Presse begrüßt die Abordnung der NSDAP.
+Found
+MODSMD_ARTICLE06: Gauleiter Streicher in Rom.
+Found
+MODSMD_ARTICLE07: Der ungarische Reichstag eröffnet.
+Found
+MODSMD_ARTICLE08: „Die Tschechoslowakei ist ein Nationalitätenstaat".
+Found
+MODSMD_ARTICLE09: „Hinaus mit den Tschechen."
+Found
+MODSMD_ARTICLE10: Holsti bei Staatspräsident Ulmanis.
+Found
+MODSMD_ARTICLE11: Die Thronrede des Königs vor dem englischen Unterhaus.
+Found
+MODSMD_ARTICLE12: Neunmächte-Konferenz am 3. November.
+Found
+MODSMD_ARTICLE13: Bemühungen zur Lösung der belgischen Regierungskrise.
+Found
+MODSMD_ARTICLE14: In Asturien über 16 666 bolschewistische Mordtaten!
+Found
+MODSMD_ARTICLE15: Stalins Ausrottungsfeldzng geht weiter.
+Found
+MODSMD_ARTICLE16: Der englisch-japanische Zwischenfall in Schanghai.
+Found
+MODSMD_ARTICLE17: Bahnlinie Schanghai—Nanking unterbrochen.
+Found
+MODSMD_ARTICLE18: Die Internationalen Niederlassungen erneut gefährdet.
+Found

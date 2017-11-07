@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE02: Der Eindruck der Proklamation.
+Found
+MODSMD_ARTICLE03: Rudolf Hetz eröffnet Ausstellung „Nürnberg, die deutsche Stadt".
+Found
+MODSMD_ARTICLE04: Alfred Rosenberg eröffnet Kulturtagung.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Arbeitstagung Verkehr in den Berliner Kammersälen.
+Found
+MODSMD_ARTICLE02: Dr. Ley vor führenden Männern des Handwerks.
+Found
+MODSMD_ARTICLE03: Die deutsch-italienischen Filmderhandlungen.
+Found
+MODSMD_ARTICLE04: Bericht zur Kirchenverfolgung in der Sowjetunion.
+Found
+MODSMD_ARTICLE05: Streikdrohung der Bäckergesellen in Lille.
+Found
+MODSMD_ARTICLE06: Kommunisten stören Rede des englischen Kriegsministers.
+Found
+MODSMD_ARTICLE07: Der deutsche Marineattache zum Tode Kellys.
+Found
+MODSMD_ARTICLE08: Die sowjetrussische Einmischung in Spanien.
+Found
+MODSMD_ARTICLE09: Sowjetrussische Fabrikmarken auf eroberten Tanks.
+Found
+MODSMD_ARTICLE10: Nationale Erfolge in der Provinz Cordoba.
+Found
+MODSMD_ARTICLE11: Deutsche Schule in Litauen geschlossen.
+Found
+MODSMD_ARTICLE12: Die „Reichspost" über den Wert des Arbeitsdienstes.
+Found

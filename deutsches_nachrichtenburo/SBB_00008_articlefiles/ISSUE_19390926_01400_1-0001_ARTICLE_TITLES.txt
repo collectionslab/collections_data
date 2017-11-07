@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Der Staatsakt für Freiherr von Fritsch.
+Found
+MODSMD_ARTICLE02: Rückkehr der SS.-Heimwehr Danzig.
+Found
+MODSMD_ARTICLE03: Demobilisierung der slowakischen Truppen.
+Found
+MODSMD_ARTICLE04: Der Verkehr zwischen West- und Ostoberschlesien.
+Found
+MODSMD_ARTICLE05: .Tie Verpflegungslage in Warschau katastrophal.
+Found
+MODSMD_ARTICLE06: Fast gelyncht, weil sie nicht polnisch sprachen.
+Found
+MODSMD_ARTICLE07: Folgen der englischen Blockade.
+Found

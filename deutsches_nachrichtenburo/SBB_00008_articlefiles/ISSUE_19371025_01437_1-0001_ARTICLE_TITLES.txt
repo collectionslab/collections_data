@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Frick vor den Gemeindebeamten.
+Found
+MODSMD_ARTICLE02: Der Parteibesuch in Rom.
+Found
+MODSMD_ARTICLE03: Herzog von Windsor abgereist.
+Found
+MODSMD_ARTICLE04: Zusammenkunft sudetendeutscher Schriftsteller.
+Found
+MODSMD_ARTICLE05: Oesterreichischer Staatspreis für bildende Künste»
+Found
+MODSMD_ARTICLE06: Neichskulturwalter Kinkel sprach in Sofia.
+Found
+MODSMD_ARTICLE07: General der Fieger Milch vor der englischen Presse.
+Found
+MODSMD_ARTICLE08: „Italien kann keine weiteren Zugeständnisse mehr machen".
+Found
+MODSMD_ARTICLE09: Verlustliste italienischer Freiwilliger.
+Found
+MODSMD_ARTICLE10: Bisher 12 000 Gefangene in Asturien.
+Found
+MODSMD_ARTICLE11: Es gärt in Französisch-Marokko.
+Found
+MODSMD_ARTICLE12: Das Ergebnis der australischen Wahlen.
+Found

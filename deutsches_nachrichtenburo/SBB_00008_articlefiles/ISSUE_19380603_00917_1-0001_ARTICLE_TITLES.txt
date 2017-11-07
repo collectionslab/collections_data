@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: „Hitler in Italien" Bildwerk von Heinrich Hoffmann.
+Found
+MODSMD_ARTICLE02: Vor der Reichsiaguug der NSG» „Kraft durch Freude".
+Found
+MODSMD_ARTICLE03: General Kraus; auf dem Appell der österreichischen Soldaten.
+Found
+MODSMD_ARTICLE04: Düsseldorf ehrt Alfred Rosenberg.
+Found
+MODSMD_ARTICLE05: Dr. Lech im größten österreichischen Edelstahlwerk.
+Found
+MODSMD_ARTICLE07: Die Neichsminister Frick und Frank von Wien abgereist.
+Found
+MODSMD_ARTICLE08: Die Mitglieder der I. D. in Salzburg.
+Found
+MODSMD_ARTICLE09: Staatssekretär Komas in Lyon.
+Found
+MODSMD_ARTICLE10: Ein Ausschuß für Brennstoffversorgung in Frankreich,
+Found
+MODSMD_ARTICLE11: England fördert die Hilfsluftwaffe.
+Found
+MODSMD_ARTICLE12: Das Gesetz über Stapelung von Lebensmitteln angenommen»
+Found
+MODSMD_ARTICLE13: Englands Öffentlichkeit ist voll von den Zwischenfällen.
+Found
+MODSMD_ARTICLE14: Schärfste Verwahrung des Deutschen Reiches.
+Found
+MODSMD_ARTICLE15: Die Tschechoslowakei entstand aus einem Betrug.
+Found
+MODSMD_ARTICLE16: Irische Absage an den Parlamentarismus.
+Found
+MODSMD_ARTICLE17: Botschafter Franasodici bei Ministerpräsident Skladkowski.
+Found
+MODSMD_ARTICLE18: Außerordentliche Sitzung des syrischen Kabinetts.
+Found
+MODSMD_ARTICLE19: Die Frage der Nationalhymne der Südafrikanischen Union.
+Found

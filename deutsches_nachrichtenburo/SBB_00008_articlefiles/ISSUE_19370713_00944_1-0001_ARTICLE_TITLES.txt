@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Eine deutsch-österreichische Uebereinkunft.
+Found
+MODSMD_ARTICLE02: Hochschulstipendien für junge Deutsche aus Südwestafrika.
+Found
+MODSMD_ARTICLE03: Die Reichsfestspiele Heidelberg 1937.
+Found
+MODSMD_ARTICLE04: Beirat für die Reichsfestspiele Heidelberg berufen.
+Found
+MODSMD_ARTICLE05: Wir sind alle Soldaten des.Führers!
+Found
+MODSMD_ARTICLE06: Lansbury zum Zweiten Mal beim Duce.
+Found
+MODSMD_ARTICLE07: England will bis Freitag Bericht erstatten.
+Found
+MODSMD_ARTICLE08: MacDonald reist nach Südamerika.
+Found
+MODSMD_ARTICLE09: Pyrenäengrenze ohne internationale Ueberwachungsbeamte.
+Found
+MODSMD_ARTICLE10: Der „Temps" begründet die französische Haltung.
+Found
+MODSMD_ARTICLE11: Lissabon weist französische Behauptungen zurück.
+Found
+MODSMD_ARTICLE12: Scharfe Stellungnahme gegen die Neuordnung in Palästina.
+Found
+MODSMD_ARTICLE13: Freche Angriffe amerikanischer Juden gegen Polen.
+Found
+MODSMD_ARTICLE14: Eine Erklärung der chinesischen Botschaft in Berlin.
+Found
+MODSMD_ARTICLE15: Japans Verluste in Nordchina: 18 Tote, 41 Verwundete»
+Found

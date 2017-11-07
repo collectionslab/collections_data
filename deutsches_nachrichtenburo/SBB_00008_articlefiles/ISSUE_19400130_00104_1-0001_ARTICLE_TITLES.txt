@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers an den König der Bulgaren.
+Found
+MODSMD_ARTICLE02: Beförderungen in der Wehrmacht.
+Found
+MODSMD_ARTICLE03: Beförderungen bei der Polizei.
+Found
+MODSMD_ARTICLE04: Holland zu den Erfolgen der deutschen Luftwaffe.
+Found
+MODSMD_ARTICLE05: Rruter gibt die deutsche« Erfolge Zu.
+Found
+MODSMD_ARTICLE06: Der englische Arbeiter bezahlt den Krieg.
+Found
+MODSMD_ARTICLE07: Noch keine Veröffentlichung der britischen Antwort.
+Found
+MODSMD_ARTICLE08: Havas wieder einmal beim Lügen ertappt.
+Found
+MODSMD_ARTICLE09: „Dem französischen Volk wird die Wahrheit vorenthalten".
+Found
+MODSMD_ARTICLE10: Die Versenkung der 3 feindlichen Schiffe.
+Found
+MODSMD_ARTICLE11: „Friede inud Neutralität im Südosten".
+Found
+MODSMD_ARTICLE12: Niedrigste Mittel der britischen Propaganda.
+Found
+MODSMD_ARTICLE13: Admiral Stark vor dem Marineausschuß.
+Found
+MODSMD_ARTICLE14: Entschließung der Antibritischen Liga in Tokio.
+Found

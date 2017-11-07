@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Aus der Preußtscheu Verwaltung.
+Found
+MODSMD_ARTICLE02: Gedankenaustausch Ley-Cianetti.
+Found
+MODSMD_ARTICLE03: Der französische Geschäftsträger im Foreign Office.
+Found
+MODSMD_ARTICLE04: Eine NeujahrDwtschaft Chamberlains.
+Found
+MODSMD_ARTICLE05: Verstärkung der französischen Flugzeugproduktion gefordert.
+Found
+MODSMD_ARTICLE06: „Endgültige Klärung" der syrischen Frage.
+Found
+MODSMD_ARTICLE07: Delbos antwortet dem „Gringoire".
+Found
+MODSMD_ARTICLE08: Polen entzieht Dr. Ulih den Peisepaß.
+Found
+MODSMD_ARTICLE09: Die Jagd nach dem Taufschein.
+Found
+MODSMD_ARTICLE10: Völkersront gegen Inda!
+Found
+MODSMD_ARTICLE11: Judentrio verschob Devisen und Schmucksachen.
+Found
+MODSMD_ARTICLE12: Die Umorganisierung der rumänischen Presse.
+Found
+MODSMD_ARTICLE13: „Der Einfluß der USA. in Südamerika geringer."
+Found
+MODSMD_ARTICLE14: Ehestandsdarlehen in Brasilien.
+Found
+MODSMD_ARTICLE15: Wieder einmal Ausgehverbot in Jaffa.
+Found

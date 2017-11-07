@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Präsident Taichitao dankt Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Glückwunsch Dr. Goebbels an Louis Trenker.
+Found
+MODSMD_ARTICLE03: Stabschef Lutze an Blomberg.
+Found
+MODSMD_ARTICLE04: Die Untersuchung des Grubenunglücks in Bochum.
+Found
+MODSMD_ARTICLE05: Litauen gegen eine Abänderung des Völkerbundspaktes.
+Found
+MODSMD_ARTICLE06: „Journal de Geneve" über die polnische Politik.
+Found
+MODSMD_ARTICLE07: Großkreuz der Ehrenlegion für General Rydz-Smigly.
+Found
+MODSMD_ARTICLE08: Neue Verlängerung der Dienstzeit in Frankreich?
+Found
+MODSMD_ARTICLE09: Weitere Besserung im Befinden Titulescus.
+Found
+MODSMD_ARTICLE10: „Action Fran?aise" berichtet über weitere Kriegslieferungen
+Found
+MODSMD_ARTICLE11: Pariser Kundgebung für spanische Linksregierung.
+Found
+MODSMD_ARTICLE12: Von Madrid losgesagt.
+Found
+MODSMD_ARTICLE13: Immer neue französische Waffenlieferungen.
+Found
+MODSMD_ARTICLE14: Italienische Kritik an der Haltung Frankreichs.
+Found
+MODSMD_ARTICLE16: Prieto über die Umbildung der Madrider Regierung.
+Found
+MODSMD_ARTICLE17: General Queipo de Llano über die Erfolge auf Mallorca.
+Found
+MODSMD_ARTICLE18: Kampfpause vor Jrun.
+Found
+MODSMD_ARTICLE19: Maßnahmen gegen Freiwilligenwerbnng für Spanien?
+Found
+MODSMD_ARTICLE20: Regierungsbildung in Gore?
+Found
+MODSMD_ARTICLE21: Opposition gegen Stalin in Georgien?
+Found

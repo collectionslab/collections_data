@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Aus der Verwaltung.
+Found
+MODSMD_ARTICLE02: „Hitler hat auf die Politik Englands geantwortet."
+Found
+MODSMD_ARTICLE03: Die jugoslawische Presse zur Führerrede.
+Found
+MODSMD_ARTICLE04: England will der „Weltpolizist" bleiben.
+Found
+MODSMD_ARTICLE05: „Nicht erwünscht, Chamberlains Erklärung zu verkleinern.
+Found
+MODSMD_ARTICLE06: Polen soll mit einer Anleihe geködert werden.
+Found
+MODSMD_ARTICLE07: Frankreichs Fliegernachwuchssrage.
+Found
+MODSMD_ARTICLE08: Paul Faure marschiert nicht für Dschibuti.
+Found
+MODSMD_ARTICLE09: Frankreich fürchtet Syrien zu verlieren.
+Found
+MODSMD_ARTICLE10: Die spanischen Kriegsschiffe aus Bizerta ausgelaufen.
+Found
+MODSMD_ARTICLE11: Das amtliche Wahlergebnis in Belgien.
+Found
+MODSMD_ARTICLE12: Polnische Vorschau Zu Becks Londonreise.
+Found
+MODSMD_ARTICLE13: Selbstmord Oberst Slaweks.
+Found
+MODSMD_ARTICLE14: Valentin Sjöberg gestorben.
+Found
+MODSMD_ARTICLE15: Wieder Zwei Araber erschossen.
+Found

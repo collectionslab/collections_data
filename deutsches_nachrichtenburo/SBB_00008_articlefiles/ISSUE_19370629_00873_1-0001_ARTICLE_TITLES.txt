@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer empfing den kanadischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE02: Der neue peruanische Gesandte beim Führer.
+Found
+MODSMD_ARTICLE03: Empfang des Senatspräsidenten Jshida.
+Found
+MODSMD_ARTICLE04: Deutscher Hochschultag in Göttingen.
+Found
+MODSMD_ARTICLE05: Unter KV Ordensangehörigen 53 Sittlichkeitsverbrecher!
+Found
+MODSMD_ARTICLE06: Meinungsverschiedenheiten im Spanienausschuß.
+Found
+MODSMD_ARTICLE07: Franken-Handel an der Londoner Börse ausgesetzt.
+Found
+MODSMD_ARTICLE08: Französischer Ministerrat billigt Regierungserklärung.
+Found
+MODSMD_ARTICLE09: Die Pariser Kongresse.
+Found
+MODSMD_ARTICLE10: Vergnügungspark der Weltausstellung geschlossen.
+Found
+MODSMD_ARTICLE11: Französisches Urteil über die Zustünde in Perpignan.
+Found
+MODSMD_ARTICLE12: Eine geheimnisvolle Schiffsladung.
+Found
+MODSMD_ARTICLE13: Hodscha plädiert für Völkerbund und Donauplan.
+Found

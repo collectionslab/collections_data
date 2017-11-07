@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Italienische Auszeichnung für Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Neichsminister Frank an die deutschen Hochschullehrer.
+Found
+MODSMD_ARTICLE03: Luftsperrgebiet über dem Bückeberg.
+Found
+MODSMD_ARTICLE04: Noch eine Zuschrift Arnold Wilsons zur Mandatsfrage.
+Found
+MODSMD_ARTICLE05: Stärkste Tätigkeit im englischen Kriegsschiffbau.
+Found
+MODSMD_ARTICLE06: Die allgemeine Aussprache in Gens abgeschlossen.
+Found
+MODSMD_ARTICLE07: Bilder von Greco in Toledo unversehrt ausgefunden.
+Found
+MODSMD_ARTICLE08: Der Vormarsch der spanischen Nationalisten.
+Found
+MODSMD_ARTICLE09: Das Piratenschisf vor Buenos Aires.
+Found
+MODSMD_ARTICLE10: Bauernfiihrer Torgeres droht mit Generalstreik.
+Found
+MODSMD_ARTICLE11: Staatssekretär Schmidt über mitteleuropäische Probleme.
+Found
+MODSMD_ARTICLE12: Graziani beim Vertreter Teutschlands in Addis Abeba.
+Found
+MODSMD_ARTICLE13: Tie Salzgewinnung in Abessinien.
+Found

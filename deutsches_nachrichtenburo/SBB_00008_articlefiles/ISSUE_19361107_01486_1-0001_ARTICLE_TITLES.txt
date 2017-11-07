@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: 5 455 565 Mark erbrachte der erste Eintopfsonntag!
+Found
+MODSMD_ARTICLE02: General der Infanterie a. D. von Strantz f.
+Found
+MODSMD_ARTICLE03: Die 125-Jahrfeier der Universität Breslau.
+Found
+MODSMD_ARTICLE04: Tie „Negierung" teilt Uebersiedlung nach Valencia mit«
+Found
+MODSMD_ARTICLE05: Auch Moses Rosenberg hat Reißaus genommen.
+Found
+MODSMD_ARTICLE06: Vorbereitungen für den Einmarsch in Madrid,
+Found
+MODSMD_ARTICLE07: England zieht Verstärkungen aus Palästina zurück»
+Found
+MODSMD_ARTICLE08: Verschärfung der Lage im amerikanischen Seemansstreik.
+Found
+MODSMD_ARTICLE09: Roosevelt fährt nach Buenos Aires.
+Found
+MODSMD_ARTICLE10: Die Kennzahl der Großhandelspreise vom 4. November und im Monatsdurchschnitt Oktober.
+Found

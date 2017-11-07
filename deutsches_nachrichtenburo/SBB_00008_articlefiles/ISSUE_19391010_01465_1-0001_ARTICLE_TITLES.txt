@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Bericht des Oberkommandos der Wehrmacht.
+Found
+MODSMD_ARTICLE02: Ans der Diplomatie.
+Found
+MODSMD_ARTICLE03: Drei Landesverräter hingerichtet.
+Found
+MODSMD_ARTICLE04: Die Kriegshetzer am Pranger.
+Found
+MODSMD_ARTICLE05: Die Not in englischen Wirtschaftszweigen.
+Found
+MODSMD_ARTICLE06: Der britische Seeräuberkrieg.
+Found
+MODSMD_ARTICLE07: Die Schuld Englands!
+Found
+MODSMD_ARTICLE08: Ohne Gehalt und Sold.
+Found
+MODSMD_ARTICLE09: Shaw: „Warum nicht zuerst den Churchillismus vernichten?"
+Found
+MODSMD_ARTICLE10: Neuer Schwindel des englischen Lügenministeriums.
+Found
+MODSMD_ARTICLE11: Kein dänischer Speck mehr für England.
+Found
+MODSMD_ARTICLE12: Bizauskas und Rastikis in Kowno.
+Found
+MODSMD_ARTICLE13: Der sinnische Sonderbeauftragte fährt nach Moskau.
+Found
+MODSMD_ARTICLE14: „In Versailles liegt die Ursache der Konflikte."
+Found
+MODSMD_ARTICLE15: Mandschurische Sojabohnen für Deutschland.
+Found
+MODSMD_ARTICLE16: „Unentbehrliches Dokument für das geschichtliche Urteil."
+Found

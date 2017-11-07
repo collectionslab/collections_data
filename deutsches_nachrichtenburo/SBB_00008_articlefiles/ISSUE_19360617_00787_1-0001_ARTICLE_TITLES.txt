@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Beisetzung des SA-Mannes Deskowski in Danzig.
+Found
+MODSMD_ARTICLE02: Dr. Frick im neuen Dienstgebäude des Arbeitsdienstes.
+Found
+MODSMD_ARTICLE03: Neichstagung der NS-Kulturgememde lö3K in München.
+Found
+MODSMD_ARTICLE04: Bauerntumstagung der Hitler-Jugend.
+Found
+MODSMD_ARTICLE05: Keine Devisenanbietungspflicht für Olympiareisende.
+Found
+MODSMD_ARTICLE06: Hoare über den Flottenstützpunkt Malta.
+Found
+MODSMD_ARTICLE07: Die Reform der belgischen Landesverteidigung.
+Found
+MODSMD_ARTICLE08: Schweiz verbietet Propaganda französischer Gewerkschaftler.
+Found
+MODSMD_ARTICLE09: Der neue polnische Botschafter in Moskau.
+Found
+MODSMD_ARTICLE10: Neue Arbeitsbedingungen für spanische Landarbeiter.
+Found
+MODSMD_ARTICLE11: Spanische Polizeioffiziere im Gefängnis.
+Found
+MODSMD_ARTICLE12: Streik auf den staatlichen elsässischen Kaligruben.
+Found
+MODSMD_ARTICLE13: Leitende Sowjetbeamte zahlen in Eigenwährung.
+Found
+MODSMD_ARTICLE14: Araberpresse wieder erschienen.
+Found

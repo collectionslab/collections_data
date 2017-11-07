@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Telegrammwechsel zwischen dem Führer und Jmredy.
+Found
+MODSMD_ARTICLE02: Eine Entschließung des Kongresses für Innere Medizin.
+Found
+MODSMD_ARTICLE03: Dr. Schlegclbcrger aus dem Wege der Besserung.
+Found
+MODSMD_ARTICLE04: Ein neuer Triumph deutscher Kunst.
+Found
+MODSMD_ARTICLE05: Die deutsche Offiziersabordnung bei Marschall Mannerheim.
+Found
+MODSMD_ARTICLE06: „Die Achse Rom—Berlin ein Friedenselement."
+Not Found
+MODSMD_ARTICLE07: „Popolo dl Roma" gegen französische! Verständnislosigkeit.
+Found
+MODSMD_ARTICLE08: Italien fordert von Frankreich Loyalität.
+Found
+MODSMD_ARTICLE09: Erste Sitzung nach Umbildung des Kabinetts.
+Found
+MODSMD_ARTICLE10: Auch Roheiseneinlagerung in England für Notzeiten.
+Found
+MODSMD_ARTICLE11: Ein Vorstoß des tschechischen Schulvereins.
+Found
+MODSMD_ARTICLE12: Verfall der Disziplin in der Noten Armee.
+Found
+MODSMD_ARTICLE13: Sun so wieder einmal in Moskau.
+Found
+MODSMD_ARTICLE14: Die chinesische Armee meidet die Entscheidung.
+Found
+MODSMD_ARTICLE15: Schwere Kämpfe an der West-Schantung-Front.
+Found
+MODSMD_ARTICLE16: Desertierungen auf dem englischen Kreuzer „Dorsetshire".
+Found
+MODSMD_ARTICLE17: Die amerikanische Flotteuausrüstungsvorlage.
+Found

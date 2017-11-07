@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Goebbels an Grnndgens.
+Found
+MODSMD_ARTICLE02: Neichsminister Funk verabschiedet sich vom Werberat.
+Found
+MODSMD_ARTICLE03: Faschistische Industriearbeiter-Abordnung in Berlin.
+Found
+MODSMD_ARTICLE04: Die italienische Presse zum Erfolg ihrer Militärflieger.
+Found
+MODSMD_ARTICLE05: Ein Jahr Freundschaftsabkommen Jugoslawien—Bulgarien.
+Found
+MODSMD_ARTICLE06: Starkes Echo der Rede des Gauleiters Bohle in Ungarn.
+Found
+MODSMD_ARTICLE07: Bolschewistenflugzeug bombardiert französisches Torpedoboot.
+Found
+MODSMD_ARTICLE08: Die Führer der rotspanischen Lustwaffe Ausländer.
+Found
+MODSMD_ARTICLE09: Moskauer Eingeständnis.
+Found
+MODSMD_ARTICLE10: Der Wiederaufbau Oviedos.
+Found
+MODSMD_ARTICLE11: Kirschbraun und Zacharias abgeurteilt.
+Found
+MODSMD_ARTICLE12: Gegen den jüdischen Versuch der Genfer Stimmungsmache.
+Found
+MODSMD_ARTICLE13: Eine mahnende Stimme aus Prag.
+Found
+MODSMD_ARTICLE14: Die englische Palästina-Justiz.
+Found

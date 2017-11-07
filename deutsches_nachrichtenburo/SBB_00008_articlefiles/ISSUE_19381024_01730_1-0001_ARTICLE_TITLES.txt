@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Steuervergünstigungen für die Sudetendeutschen.
+Found
+MODSMD_ARTICLE02: Empfang polnischer Ingenieure in Dresden.
+Found
+MODSMD_ARTICLE03: Freiplätze für sudetendeutsche Studierende.
+Found
+MODSMD_ARTICLE04: Die Aenderung der Prager Außenpolitik.
+Found
+MODSMD_ARTICLE05: Forderungen der tschechischen Jugendorganisationen.
+Found
+MODSMD_ARTICLE06: Die ungarischen Gegenvorschläge in Prag überreicht.
+Found
+MODSMD_ARTICLE07: „Giornale d'Jtalia" gegen englisch-französische Bangemacher.
+Found
+MODSMD_ARTICLE08: Das eindeutige Ergebnis der Senatswahlen.
+Found
+MODSMD_ARTICLE09: Abschluß der Besprechungen mit den Parteiführern.
+Found
+MODSMD_ARTICLE10: 100 Jahre Archäologische Gesellschaft in Athen.
+Found
+MODSMD_ARTICLE11: Wieder Feuerüberfalle in Palästina.
+Found
+MODSMD_ARTICLE12: Tie Bocca-Tigris-Forts eingenommen.
+Found
+MODSMD_ARTICLE13: In Schußnähe von Hankau.
+Found
+MODSMD_ARTICLE14: Chinesischer Silberiransport beschlagnahmt.
+Found

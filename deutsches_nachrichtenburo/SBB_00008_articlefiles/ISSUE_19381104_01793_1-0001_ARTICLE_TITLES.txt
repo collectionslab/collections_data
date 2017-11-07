@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Thüringen erwartet den Führer.
+Found
+MODSMD_ARTICLE02: Graf Ciano aus Wien abgereist.
+Found
+MODSMD_ARTICLE03: Der Vormarsch beginnt am K. November.
+Found
+MODSMD_ARTICLE04: Auszeichnungen für Jmredy und Kanya.
+Found
+MODSMD_ARTICLE05: Jmredy dankt Teutschland und Italien.
+Found
+MODSMD_ARTICLE06: Weitere tschechische Stimmen zum Wimer Schiedsspruch.
+Found
+MODSMD_ARTICLE07: Tiso berichtet den slowakischen Abgeordneten.
+Found
+MODSMD_ARTICLE08: Hakenkreuz offiziell in der Slowakei getragen.
+Found
+MODSMD_ARTICLE09: Das Reich gibt ihnen Arbeit und Verdienst.
+Found
+MODSMD_ARTICLE10: Spaak weist Hetzlügen zurück.
+Found
+MODSMD_ARTICLE11: Das litauisch-lettisch-estnische Neutralitätsgesetz.
+Found
+MODSMD_ARTICLE12: Der Ruf nach Einigkeit in Frankreich.
+Found
+MODSMD_ARTICLE13: Das Großkreuz der Ehrenlegion Frantzois-Poncet»
+Found
+MODSMD_ARTICLE14: Vertrauenserklärungen für Taladier.
+Found
+MODSMD_ARTICLE15: Agrement für Guariglia in Paris erteilt.
+Found
+MODSMD_ARTICLE16: Ariernachweis für Italiens Flugzeugingenieure.
+Found
+MODSMD_ARTICLE17: Das Ebro-Ufer erreicht.
+Found
+MODSMD_ARTICLE18: „Das Gleichgewicht in Europa völlig geändert."
+Found
+MODSMD_ARTICLE19: Jüdischer Druck iu Amerika.
+Found

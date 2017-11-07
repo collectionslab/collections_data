@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Sensationeller Geheimbefehl entdeckt.
+Found
+MODSMD_ARTICLE02: Errichtung der Deutschen Film-Akademie.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: Die schweizerische Neutralität als Friedeusfaktor.
+Found
+MODSMD_ARTICLE05: Em Geschenk der Dominien-Ministerpräsidenten.
+Found
+MODSMD_ARTICLE06: Dir Forderungen der Polen in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE07: Das Ausbürgerungsgesetz vom Sejm angenommen.
+Found
+MODSMD_ARTICLE08: Rituelle Schlichtung in ganz Polen verboten.
+Found
+MODSMD_ARTICLE09: Polens Abwehrkampf gegen das bolschewistische Wühlen.
+Found
+MODSMD_ARTICLE10: Neue Welle der Komintern-Hetze in Polen und Litauen.
+Found
+MODSMD_ARTICLE11: London wünscht „Stabilisierung der Lage" in Frankreich.
+Found
+MODSMD_ARTICLE12: Frankreich wieder im Streikfieber.
+Found
+MODSMD_ARTICLE13: In Eilmärschen auf Lerida.
+Found
+MODSMD_ARTICLE14: Großer Lufthafen in Basra eröffnet.
+Found

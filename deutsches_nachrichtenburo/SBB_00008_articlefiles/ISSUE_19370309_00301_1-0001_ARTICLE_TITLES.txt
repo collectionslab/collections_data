@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Reick an Professor Lenz.
+Found
+MODSMD_ARTICLE02: Dr. Frick stiftet einen Ehrenpreis.
+Found
+MODSMD_ARTICLE03: Landrat Dr. Vogeler Regierungsvizepräsident in Arnsberg.
+Found
+MODSMD_ARTICLE04: Die Zahl der Rundfunkteilnehmer am 1. März.
+Found
+MODSMD_ARTICLE05: Denkwürdiger Tag für die Hauptstadt der Bewegung.
+Found
+MODSMD_ARTICLE06: Die deutsche Handelsabordnung in Rom.
+Found
+MODSMD_ARTICLE07: Der Danziger Völkerbundskommissar in Warschau.
+Found
+MODSMD_ARTICLE08: Ein weiterer Appell an die polnische Regierung.
+Found
+MODSMD_ARTICLE09: Polen äußert im Rohstoffausschuß seine Wünsche.
+Found
+MODSMD_ARTICLE10: Regierungskrise in Norwegen?
+Found
+MODSMD_ARTICLE11: Die Landesverteidigungsanleihe vor der Pariser Kammer.
+Found
+MODSMD_ARTICLE12: Seemannsstreik auch in Le Havre.
+Found
+MODSMD_ARTICLE13: Französischer Klagebrief aus dem bolschewistischen Spanien.
+Found
+MODSMD_ARTICLE14: Neuer Höllenmaschinenfnnd in Perpignan.
+Found
+MODSMD_ARTICLE15: Gesteigerter bolschewistischer Schiffsverkehr in Marseille.
+Found
+MODSMD_ARTICLE16: Jüdische Zeitungshetze in Palästina.
+Found
+MODSMD_ARTICLE17: Ein syrisches Dementi.
+Found
+MODSMD_ARTICLE18: Weitere Aussperrungen in Amerika.
+Found

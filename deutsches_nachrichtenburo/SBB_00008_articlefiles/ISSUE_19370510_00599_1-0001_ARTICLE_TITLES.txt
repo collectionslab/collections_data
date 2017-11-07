@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Dr. Goebbels bringt Danzig den Treuegruß des Reiches.
+Found
+MODSMD_ARTICLE02: Tagung des Hauptschulungsamtes der NSDAP.
+Found
+MODSMD_ARTICLE03: Das italienische Königspaar besucht Budapest.
+Found
+MODSMD_ARTICLE04: Rücktritt des bulgarischen Handelsministers.
+Found
+MODSMD_ARTICLE05: Die kommunistischen Umtriebe in Jugoslawien.
+Found
+MODSMD_ARTICLE06: Durchbruch durch den Festungsgürtel von Bilbao.
+Found
+MODSMD_ARTICLE07: 16 Flugzeuge der spanischen Bolschewisten in Toulouse.
+Found
+MODSMD_ARTICLE08: Ausdehnung der Revolte auf ganz Katalonien.
+Found
+MODSMD_ARTICLE09: Vertrauensvotum der Kammer für Blum.
+Found
+MODSMD_ARTICLE10: Der türkische Ministerpräsident bei Delbos.
+Found
+MODSMD_ARTICLE11: Delbos reist nach Brüssel.
+Found
+MODSMD_ARTICLE12: Zum Verbot der Jung"Hu-von-Orleans-Feiern.
+Found
+MODSMD_ARTICLE13: Bedrohliche sowjetrussische Ernährungslage.
+Found

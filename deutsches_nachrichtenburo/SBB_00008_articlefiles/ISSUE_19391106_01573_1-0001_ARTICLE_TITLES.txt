@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Dr. Goebbels an die Jugend.
+Found
+MODSMD_ARTICLE02: Neue Lügensensation der „Times".
+Found
+MODSMD_ARTICLE03: Gegen die Saboteure der Neutralität in Belgien.
+Found
+MODSMD_ARTICLE04: Jud Baruch wollte sich das Geschäft nicht entgehen lassen
+Found
+MODSMD_ARTICLE05: Aegypten fordert Freilassung der Palästina-Araber.
+Found

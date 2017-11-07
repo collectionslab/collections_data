@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Italienische Stimmen zur Unterredung Aras-Ciano.
+Found
+MODSMD_ARTICLE02: Italienische Transportgesellschaft in Ostafrika.
+Found
+MODSMD_ARTICLE03: Eden vom König empfangen.
+Found
+MODSMD_ARTICLE04: Englisches Regentschaftsgesetz endgültig angenommen.
+Found
+MODSMD_ARTICLE05: Belgischer Senat: Valencia voll verantwortlich.
+Found
+MODSMD_ARTICLE06: Der König von Schweden in Paris.
+Found
+MODSMD_ARTICLE07: Neue Streikwelle in Frankreich.
+Found
+MODSMD_ARTICLE08: Neue Verhaftungswelle in der Sowjetunion.
+Found
+MODSMD_ARTICLE09: 39 Milliarden Rubel für sowjetrussische Rüstungen!
+Found
+MODSMD_ARTICLE10: Die Hinrichtungen in Moskau.
+Found

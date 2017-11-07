@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die finnischen Jäger im Haus der Flieger.
+Found
+MODSMD_ARTICLE02: Tschechische Kuliurschriftleiter besuchen Berlin.
+Found
+MODSMD_ARTICLE03: Beisetzung des Freiherrn Marschall von Bieberstein.
+Found
+MODSMD_ARTICLE04: Professor Burckhardt bei Gauleiter Forster.
+Found
+MODSMD_ARTICLE05: Sitzung des slowakischen Ministerrats.
+Found
+MODSMD_ARTICLE06: Dr. Giirtner bei Graf Ciano.
+Found
+MODSMD_ARTICLE07: Das ist die stählerne und wahre Allianz!
+Found
+MODSMD_ARTICLE08: Staatsbesuch von der jugoslawischen Bevölkerung gebilligt!
+Found
+MODSMD_ARTICLE09: Lord Halifax wieder in London.
+Found
+MODSMD_ARTICLE10: Wieder Bombenfund in einem Londoner Lichtspielhans.
+Found
+MODSMD_ARTICLE11: Die Aufgaben des neuen britischen Munitionsministers.
+Found
+MODSMD_ARTICLE12: Frankreich verletzt die Akte von Algeciras.
+Found
+MODSMD_ARTICLE13: Polens Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE14: Der Kaiser von Annam besucht Frankreich.
+Found
+MODSMD_ARTICLE15: Elsässische Wirtschaftsnot.
+Found
+MODSMD_ARTICLE16: Kommunisten machen in „Demokratie".
+Found
+MODSMD_ARTICLE17: Der britische Botschafter bei Beck.
+Found

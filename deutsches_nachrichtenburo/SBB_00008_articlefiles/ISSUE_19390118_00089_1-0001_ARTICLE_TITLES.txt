@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Korpsführer Christiansen zum General der Flieger befördert.
+Found
+MODSMD_ARTICLE02: Dkr Herzog von Coburg in Rom.
+Found
+MODSMD_ARTICLE03: Berufserziehung im Vierjahresplan.
+Found
+MODSMD_ARTICLE04: Der Slowakische Landtag feierlich eröffnet.
+Found
+MODSMD_ARTICLE05: Ein Führerrat des Memeldeutschtums.
+Found
+MODSMD_ARTICLE06: Mussolini empfing brasilianische Flieger.
+Found
+MODSMD_ARTICLE07: England beteiligt sich an der Weltausstellung in Rom 1942.
+Found
+MODSMD_ARTICLE08: Die erste Londoner Kabinettssitzung im neuen Jahr.
+Found
+MODSMD_ARTICLE09: Gefängnisstrafen für Iren.
+Found
+MODSMD_ARTICLE10: Attlee verlangt wieder einmal Hilfsaktion für.Sowjetspanien
+Not Found
+MODSMD_ARTICLE11: Luftfahrtdelegation Australien und Neuseeland.
+Found
+MODSMD_ARTICLE12: Ter französische Ministerrat prüfte außenpolitische Fragen.
+Found
+MODSMD_ARTICLE13: Meuternde Bolschewistenhorden.
+Found
+MODSMD_ARTICLE14: Schweden baut 80W Tonnen-Kriegsschiffe.
+Found
+MODSMD_ARTICLE15: Weiterer Vormarsch an der katalanischen Front.
+Found
+MODSMD_ARTICLE16: Fronvögte für die Sowjetarbeiter.
+Found
+MODSMD_ARTICLE17: Neuerliche Kundgebungen in Damaskus.
+Found
+MODSMD_ARTICLE18: 13 parlamentarische Vizeminister m Japan.
+Found
+MODSMD_ARTICLE19: Filme zeugen von den Leistungen deutscher Technik.
+Found

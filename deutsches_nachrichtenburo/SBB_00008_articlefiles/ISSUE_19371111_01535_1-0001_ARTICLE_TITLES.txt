@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Kranzniederlegung in Langemarck.
+Found
+MODSMD_ARTICLE02: Neuregelung des deutsch-niederländischen Zahlungsverkehrs.
+Found
+MODSMD_ARTICLE03: Polen feiert seinen Unabhängigkeitstag.
+Found
+MODSMD_ARTICLE04: Der Beherrscher des italienischen Imperiums 68 Jahre alt.
+Found
+MODSMD_ARTICLE05: Das offene Treiben der GPU. in Paris.
+Found
+MODSMD_ARTICLE06: Provokation eines „ernsten Zwischenfalls" beabsichtigt.
+Found
+MODSMD_ARTICLE07: Moskaus „Festsehungsgeschwüre" in Spanien und China.
+Found
+MODSMD_ARTICLE08: Reinfall der Gewerkschaftsbonzen.
+Found
+MODSMD_ARTICLE09: „Ein totalitärer Staat mehr in der Welt".
+Found
+MODSMD_ARTICLE10: Geschlossenheit des neuen brasilianischen Regimes.
+Found
+MODSMD_ARTICLE11: Der Eindruck der brasilianischen Ereignisse in Washington.
+Found
+MODSMD_ARTICLE12: „Intoleranz und deutschfeindliche Voreingenommenheit".
+Found
+MODSMD_ARTICLE13: Kriegszustand in Paraguay verlängert.
+Found
+MODSMD_ARTICLE14: Verkehrsminister Pirow empfing Dr. Koppenberg.
+Found
+MODSMD_ARTICLE15: „China ist nicht der eigentliche Gegner".
+Found
+MODSMD_ARTICLE16: Eine scharfe Warnung des japanischen Oberkommandos.
+Found
+MODSMD_ARTICLE17: Der chinesische Widerstand in Putung gebrochen.
+Found
+MODSMD_ARTICLE18: In Schanghai von einer verirrten Kugel getroffen.
+Found

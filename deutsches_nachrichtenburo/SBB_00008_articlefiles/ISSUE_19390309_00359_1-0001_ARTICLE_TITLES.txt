@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Schuh des Heldengedenktages.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Präsident Tullio Cianetti besucht Deutschland.
+Found
+MODSMD_ARTICLE04: Ehrenbürgerrccht für Agnes Miegel.
+Found
+MODSMD_ARTICLE05: Der Zentralausschuß der Korporationen tagte.
+Found
+MODSMD_ARTICLE06: Der japanische Botschafter bei Gras Ciano.
+Found
+MODSMD_ARTICLE07: Burgos verlangt Auslieferung der sowjetspanischeu Flotte.
+Found
+MODSMD_ARTICLE08: Meuterei und Plünderungen in Rotspanien.
+Found
+MODSMD_ARTICLE09: Bolschewistische Schergen in Barcelona verhaftet.
+Found
+MODSMD_ARTICLE10: Der Herzog von Alba spanischer Botschafter in London.
+Found
+MODSMD_ARTICLE11: Der Generalsekretär der Falange nach Rom eingeladen.
+Found
+MODSMD_ARTICLE12: Um die rotspanischen Flüchtlinge.
+Found
+MODSMD_ARTICLE13: Anhaltelager für die rotspanischen Besatzungen.
+Found
+MODSMD_ARTICLE14: Frankreich „neutralisiert" weiter Francas Eigentum.
+Found
+MODSMD_ARTICLE15: Umleitung nach Barcelona»
+Found
+MODSMD_ARTICLE16: Neuwahl des Staatspräsidenten am 5. April?
+Found
+MODSMD_ARTICLE17: Die Briten laden ein.
+Found
+MODSMD_ARTICLE18: Englands Beitrag zu Frankreichs Sicherheit.
+Found
+MODSMD_ARTICLE19: 5 Millionen Pfund für die Tschiangkaischek-Realeruna.
+Found
+MODSMD_ARTICLE20: Die Japaner säubern Schantung.
+Found
+MODSMD_ARTICLE21: Mexiko läßt Flugzeuge in USA. bauen.
+Found
+MODSMD_ARTICLE22: Mexikanische Stimmen zur Entwicklung in Madrid»
+Found

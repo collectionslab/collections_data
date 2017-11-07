@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Abschluß Danzig-Polnischer Besprechungen.
+Found
+MODSMD_ARTICLE02: Journalist aus der Schweiz ausgewiesen.
+Found
+MODSMD_ARTICLE03: Französische Sozialpartei für vaterländische Einigung.
+Found
+MODSMD_ARTICLE04: Daladier fährt nicht nach Marokko.
+Found
+MODSMD_ARTICLE05: Politische Zusammenstöße in Lille.
+Found
+MODSMD_ARTICLE06: Französisch-türkische Besprechungen.
+Found
+MODSMD_ARTICLE07: Neue blutige Zusammenstöße im Sandschak.
+Found
+MODSMD_ARTICLE08: Flamen für Vertretung der völkischen Belange.
+Found
+MODSMD_ARTICLE09: Die Arbeitslosigkeit in Oesterreich.
+Found
+MODSMD_ARTICLE10: Queipo de Llano gegen Lügenmeldungen über Marokko.
+Found
+MODSMD_ARTICLE11: Zum Leiter des Presseamts der Nationalregierung ernannt.
+Found
+MODSMD_ARTICLE12: Das Schicksal des Escorial besiegelt.
+Found
+MODSMD_ARTICLE13: Freimaurer organisiert Einsatz ausländischer Freiwilliger.
+Found
+MODSMD_ARTICLE14: Bevölkerung von Santander fordert kampflose Uebergabe.
+Found
+MODSMD_ARTICLE15: „Madrid lebt in der Furcht vor Seuchen und Hunger."
+Found
+MODSMD_ARTICLE16: Spanische Kinder werden nach Sowjetrustland verschleppt.
+Found
+MODSMD_ARTICLE17: Roter Häuptling wollte sich ergeben.
+Found
+MODSMD_ARTICLE18: Die Angst der spanischen Bolschewisten vor der Wahrheit.
+Found
+MODSMD_ARTICLE19: Französische „Lebensmittel" für die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE20: „Spanische Krise" in Stockholm.
+Found
+MODSMD_ARTICLE21: Rundfunk in Sianfu unter kommunistischer Leitung.
+Found

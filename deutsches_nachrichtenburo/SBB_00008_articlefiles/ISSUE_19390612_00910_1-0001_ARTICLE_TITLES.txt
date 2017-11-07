@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: "Der Führer im Wiener Burgtheater.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Frank in Kopenhagen.
+Found
+MODSMD_ARTICLE03: Polnische Methoden.
+Found
+MODSMD_ARTICLE04: Die deutsche Luftflotte liegt den Einkreislern im Magen.
+Found
+MODSMD_ARTICLE05: Die britische Begleitmusik zur Reise des Königspaares.
+Found
+MODSMD_ARTICLE06: Ein jüdisches Londoner Hetzblatt verschwand.
+Found
+MODSMD_ARTICLE07: „Die baltischen Kastanien."
+Found
+MODSMD_ARTICLE08: Was gedenkt Frankreich eigentlich zu tun?
+Found
+MODSMD_ARTICLE09: Amerika verweigert Rückreise spanischer Kinder.
+Found
+MODSMD_ARTICLE10: Mordanschlag auf die chinesische Erneuerungsregierung.
+Found
+MODSMD_ARTICLE11: Der rumänische Außenminister in Ankara.
+Found
+MODSMD_ARTICLE12: Blutiges Wochenende in Jerusalem.
+Found
+MODSMD_ARTICLE13: Forderungen der amerikanischen Isolationisten.
+Found
+MODSMD_ARTICLE14: Roosevelts Einmischungspolitik zu kostspielig.
+Found
+MODSMD_ARTICLE15: „New Jork Sun" zum britischen Königsbesuch.
+Found
+MODSMD_ARTICLE16: Jüdische Beschimpfungen der kubanischen Regierung.
+Found
+MODSMD_ARTICLE17: Wegen gemeinschaftlichen Mordes hingerichtet.
+Found

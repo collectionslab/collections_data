@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Zwei weitere Matrosen der „Deutschland" gestorben.
+Found
+MODSMD_ARTICLE02: Dr. Ley sprach auf einer Großkundgebung der DAF.
+Found
+MODSMD_ARTICLE03: Darre empfängt Mitglieder des Weltmilchverbandes.
+Found
+MODSMD_ARTICLE04: Stärkste Beachtung der Reise Neuraths in Budapest.
+Found
+MODSMD_ARTICLE05: Der polnische Kultusminister in Ungarn.
+Found
+MODSMD_ARTICLE06: Spanien trauert um General Mola.
+Found
+MODSMD_ARTICLE07: Außer General Mola noch sechs Personen verunglückt.
+Found
+MODSMD_ARTICLE08: „Molas Geist lebt weiter." Die Ursachen des Unglücks.
+Found
+MODSMD_ARTICLE09: Blum im Senat Zum Pressegesetz.
+Found
+MODSMD_ARTICLE10: Eine erste Bilanz der Weltreichskonferenz.
+Found
+MODSMD_ARTICLE11: Amerikanisches Presseecho zu den Koblenzer Prozessen.
+Found
+MODSMD_ARTICLE12: Braddock suspendiert. Außerdem IWll Dollar Geldstrafe.
+Found
+MODSMD_ARTICLE13: Die Suspendierung Braddocks ein unverständlicher Beschluß.
+Found

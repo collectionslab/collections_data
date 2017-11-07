@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Der italienische Außenminister in Berlin.
+Found
+MODSMD_ARTICLE02: Roms Presse am Vorabend der Berliner Besprechungen.
+Found
+MODSMD_ARTICLE03: Ungarische Blätter zum Berliner Besuch Gras Cianos.
+Found
+MODSMD_ARTICLE05: Jugend und Rechtsprechung.
+Found
+MODSMD_ARTICLE06: Englische Spende für Nürnberg.
+Found
+MODSMD_ARTICLE07: Vayreuther Hochschule für Lehrerbildung eröffnet.
+Found
+MODSMD_ARTICLE08: Neugliederung der vorgeschichtlichen Zeitstufen.
+Found
+MODSMD_ARTICLE09: Abschiedsbotschaft an österreichischen Freiheitsbund.
+Found
+MODSMD_ARTICLE10: Französische Kommunistenzeitung in Oesterreich verboten.
+Found
+MODSMD_ARTICLE11: Das amtliche Ergebnis der Storting-Wahlen.
+Found
+MODSMD_ARTICLE12: Ter belgische Botschafter erneut im englischen Außenamt.
+Found
+MODSMD_ARTICLE13: Konservativer Wahlsieg in Erdington.
+Found
+MODSMD_ARTICLE14: Eine Note der Madrider Regierung in London überreicht.
+Found
+MODSMD_ARTICLE15: Katzenjammer in Madrid.
+Found
+MODSMD_ARTICLE16: Madrids Innenminister Verteidigungsleiter.
+Found
+MODSMD_ARTICLE17: Paßzwang in Madrid.
+Found
+MODSMD_ARTICLE18: Notes „Mittelmeerheer" unter sowjetrussischem Kommando.
+Found
+MODSMD_ARTICLE19: Fernando Po in den Händen der Nationalisten.
+Found
+MODSMD_ARTICLE20: Italienischer Vorstoß nach Westabessinien.
+Found
+MODSMD_ARTICLE21: Die Ruhe in Bombay wiederhergestellt.
+Found
+MODSMD_ARTICLE22: Streikausschreitungen amerikanischer Kommunistinnen
+Found

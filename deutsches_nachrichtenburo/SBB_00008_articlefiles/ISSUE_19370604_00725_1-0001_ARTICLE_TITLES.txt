@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Neuregelung des nationalspanischen Heereskommandos.
+Found
+MODSMD_ARTICLE02: Höchste Ordensauszeichnung für den toten General Mola.
+Found
+MODSMD_ARTICLE03: Die Darstellung des Unglücksfluges.
+Found
+MODSMD_ARTICLE04: Der nationalspanische Heeresbericht vom Donnerstag.
+Found
+MODSMD_ARTICLE05: Der Krach im spanischen Bolschewistenlager geht weiter.
+Found
+MODSMD_ARTICLE06: Lord Plymouth auf seiner baltischen Rundreise in Reval.
+Found
+MODSMD_ARTICLE07: Umfangreiche Lieferungsaufträge für das kanadische Heer.
+Found
+MODSMD_ARTICLE08: Die englisch-amerikanischen Handelsbeziehungen.
+Found
+MODSMD_ARTICLE09: Tibor Eckhardt bekennt sich Zur Regierungspolitik.
+Found
+MODSMD_ARTICLE10: Rückblick auf mn Jahr Volksfrontregierung.
+Found
+MODSMD_ARTICLE11: Streikhetze in der französischen Landwirtschaft.
+Found
+MODSMD_ARTICLE12: Jude finanziert Gangsterbanden.
+Found
+MODSMD_ARTICLE13: Roosevelt verlangt Planung gegen Naturkatastrophen.
+Found
+MODSMD_ARTICLE14: „Oeffnung der Rohstoffquellen für alle Völker."
+Found
+MODSMD_ARTICLE15: Die Zusammensetzung des Kabinetts Konoe.
+Found
+MODSMD_ARTICLE16: Ein Hochverräter und ein Landesverräter hingerichtet.
+Found

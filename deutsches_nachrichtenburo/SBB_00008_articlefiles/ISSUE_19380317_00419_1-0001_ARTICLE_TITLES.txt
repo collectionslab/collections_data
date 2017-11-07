@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Ein Aufruf Dr. Goebbels'.
+Found
+MODSMD_ARTICLE02: Das Ausland zum Berliner Freudentag.
+Found
+MODSMD_ARTICLE03: Die italienische Luftwaffe wird weiter ausgebaut.
+Found
+MODSMD_ARTICLE04: Das Echo der Mussolini-Rede.
+Found
+MODSMD_ARTICLE05: Vor einem Kabinett Potain?
+Found
+MODSMD_ARTICLE06: Zusammenstöße Mischen Hindus und Mohammedanern.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Frick an Korpsführer Hühnlein.
+Found
+MODSMD_ARTICLE02: Schirach im Gebiet Baden der HJ-
+Found
+MODSMD_ARTICLE03: Der Verwaltungsrat der Reichsbahn tagt in Friedrichshafen.
+Found
+MODSMD_ARTICLE04: Wieder klösterliche Sittlichkeitsverbrecher vor Gericht.
+Found
+MODSMD_ARTICLE05: Die Moral, des Bruders Aloisus.
+Found
+MODSMD_ARTICLE06: Das Ergebnis der Besprechungen van Zeelands in USA.
+Found
+MODSMD_ARTICLE07: Die Ausarbeitung der französischen Finanzprojekte.
+Found
+MODSMD_ARTICLE08: Deutsche Filme! auf der Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE09: Die Kammer nahm eine Reihe von Gesetzesvorlagen an.
+Found
+MODSMD_ARTICLE10: Faschistische Abfuhr für die italienischen Pfarrblätter.
+Found

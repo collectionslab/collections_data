@@ -1,0 +1,36 @@
+MODSMD_ARTICLE02: Aus der Arbeit der Internationalen Filmkammer.
+Found
+MODSMD_ARTICLE03: Bildung von Ausschüssen und Archiven.
+Found
+MODSMD_ARTICLE04: Film und Olympische Kunstwettbewerbe.
+Found
+MODSMD_ARTICLE05: Entschließung gegen Hetzfilme.
+Found
+MODSMD_ARTICLE06: Pfarrer Gründler nicht mehr in Barcelona.
+Found
+MODSMD_ARTICLE07: Besuch des französischen Handelsministers in Berlin.
+Found
+MODSMD_ARTICLE08: Botschafter Herbette in San Sebastian angegriffen.
+Found
+MODSMD_ARTICLE09: Die Beschlüsse des Madrider Diplomatischen Korps.
+Found
+MODSMD_ARTICLE10: 289 Zöglinge eines Priesterseminars ermordet.
+Found
+MODSMD_ARTICLE11: Sau Sebastian vor dem Angriff der Nationalisten.
+Found
+MODSMD_ARTICLE12: Was geht in Portugal vor?
+Found
+MODSMD_ARTICLE13: Aufruf gegen die Juden bei den Gemeindekmhlen in Lodz.
+Found
+MODSMD_ARTICLE15: Der vermißte polnische Ballon LOPP bei Onega gelande:.
+Found
+MODSMD_ARTICLE16: Verhaftung ausländischer Kommunisten in der Schweiz.
+Found
+MODSMD_ARTICLE17: Der Besuch König Eduards iu Wien.
+Found
+MODSMD_ARTICLE18: Absage Sir Walter Citrines an den Kommunismus.
+Found
+MODSMD_ARTICLE19: Neue Quote für die jüdische Einwanderung nach Palästina.
+Found
+MODSMD_ARTICLE20: Die Wahrzeichen des alten Moskau werden vernichtet.
+Found

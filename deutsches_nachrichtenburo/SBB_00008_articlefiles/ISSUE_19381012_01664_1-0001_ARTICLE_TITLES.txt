@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Beauftragungen durch Reichskommissar Konrad Henlein.
+Found
+MODSMD_ARTICLE02: Einsatz der Ordnungspolizei in Südmähren.
+Found
+MODSMD_ARTICLE03: Besondere Ausweise sür den kleinen Grenzverkehr.
+Found
+MODSMD_ARTICLE04: Abschied sudetendeutscher Flüchtlinge von München.
+Found
+MODSMD_ARTICLE05: Französische Gäste in Hamburg.
+Found
+MODSMD_ARTICLE06: Eine Kundgebung der slowakischen Regierung.
+Found
+MODSMD_ARTICLE07: Bekämpfung der Arbeitslosigkeit in der Tschechen
+Found
+MODSMD_ARTICLE08: Ungarns Forderung in Komorn.
+Found
+MODSMD_ARTICLE09: Nach Budapest unterwegs.
+Found
+MODSMD_ARTICLE10: Der polnische Minister Bobkowsky bei von Horthy.
+Found
+MODSMD_ARTICLE11: Polnische Besetzung vollzogen.
+Found
+MODSMD_ARTICLE12: Einsichtsvolle Worte aus England.
+Found
+MODSMD_ARTICLE13: Die Amerika-Reise des englischen Königspaares.
+Found
+MODSMD_ARTICLE14: Italiens Abwehrkampf gegen die jüdische Ausbeutung.
+Found
+MODSMD_ARTICLE15: Die italienischen Freiwilligen haben Spanien verlassen.
+Found
+MODSMD_ARTICLE16: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE17: Endgültiger Schiedsspruch im Chaco-Konflikt.
+Found
+MODSMD_ARTICLE18: Aufdringlicher Hetzjude aus USA. deportiert.
+Found
+MODSMD_ARTICLE19: Detroit Zahlte für Sowjetspanien.
+Found

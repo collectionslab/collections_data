@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Negierungsrat Rechenberg zum Oberregierungsrat ernannt.
+Found
+MODSMD_ARTICLE02: Jetzt auch Fluggäste nach Barcelona.
+Found
+MODSMD_ARTICLE03: Weitgehende Förderung des Arbeiterwohnstättenbaues.
+Found
+MODSMD_ARTICLE04: General der Infanterie von Quast gestorben.
+Found
+MODSMD_ARTICLE05: Tentschlcmdsahrt Portugiesischer Journalisten.
+Found
+MODSMD_ARTICLE06: Dr. Ley bei Mussolini.
+Found
+MODSMD_ARTICLE07: Nationale Erfolge auch an der Cordoba- und Toledo-Front.
+Found
+MODSMD_ARTICLE08: Madrid, das Grab des Kommunismus.
+Found
+MODSMD_ARTICLE09: Die Besetzung Madrids vollständig.
+Found
+MODSMD_ARTICLE10: General Reinhardt in Nationalspanien herzlich willkommen.
+Found
+MODSMD_ARTICLE11: Telegramm des Führers an Franca.
+Found
+MODSMD_ARTICLE12: Starkes Aufsehen über Madrids Fall in England.
+Found
+MODSMD_ARTICLE13: Der britische Generalstabschef in Paris eingetroffen.
+Found
+MODSMD_ARTICLE14: Sechs für die französische Rüstung.
+Found
+MODSMD_ARTICLE15: Der englische Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE16: Wieder zwei Araber von den Engländern erschossen.
+Found

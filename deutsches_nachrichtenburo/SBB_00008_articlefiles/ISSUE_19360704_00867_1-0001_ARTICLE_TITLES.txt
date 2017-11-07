@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Olympia-Stätten sind bereit.
+Found
+MODSMD_ARTICLE02: Britische Frontkämpfer auf dem Kyffhäuser.
+Found
+MODSMD_ARTICLE03: Argentinische Architekten in Köln.
+Found
+MODSMD_ARTICLE04: Luftschiff „Graf Zeppelin" auf der Rückfahrt.
+Found
+MODSMD_ARTICLE05: Der Petrusheim-Prozeß.
+Found
+MODSMD_ARTICLE06: Abschluß der Aussprache in der Völkerbundsversammlung.
+Found
+MODSMD_ARTICLE07: Ein Mißtrauensantrag der englischen Arbeiterpartei.
+Found
+MODSMD_ARTICLE08: Weitere Zusammenkunft der Restlocarno-Mächte in Genf.
+Found
+MODSMD_ARTICLE09: Keine Rückkehr des Negus nach Abessinien.
+Found
+MODSMD_ARTICLE10: Der österreichische Ministerrat beschließt Staatsschutzgesetz.
+Found
+MODSMD_ARTICLE11: Bulgarien dementiert Deutschlandreise König Boris.
+Found
+MODSMD_ARTICLE12: Das Ergebnis der siuuläudischen Reichstagswahleu.
+Found
+MODSMD_ARTICLE13: Politischer Bombenanschlag in Barcelona.
+Found
+MODSMD_ARTICLE14: Spanische Amnestie für politische Vergehen erweitert.
+Found
+MODSMD_ARTICLE15: Wieder ein Feuerüberfall in Madrid.
+Found

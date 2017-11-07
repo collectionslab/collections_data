@@ -1,0 +1,40 @@
+MODSMD_ARTICLE02: Winston Churchill in Paris.
+Found
+MODSMD_ARTICLE03: Zur Diskontheraufsetzung in Frankreich.
+Found
+MODSMD_ARTICLE04: Streik legt die französische Flußschiffahrt lahm.
+Found
+MODSMD_ARTICLE05: Botschafter Araquistain in Paris eingetroffen.
+Found
+MODSMD_ARTICLE06: Katalanischer Minister nach Frankreich geflohen?
+Found
+MODSMD_ARTICLE07: Die Roten vor Huesca zurückgedrängt.
+Found
+MODSMD_ARTICLE08: Lage in Madrid immer schwieriger.
+Found
+MODSMD_ARTICLE10: Der spanische Gesandte in Guatemala zurückgetreten.
+Found
+MODSMD_ARTICLE11: Sender Rabat meldet nationalistische Erfolge.
+Found
+MODSMD_ARTICLE12: London zu den Genfer Ereignissen.
+Found
+MODSMD_ARTICLE13: Entsendung eines französischen Sondervertreters nach Rom?
+Found
+MODSMD_ARTICLE14: 29 WO Granaten für Mexiko?
+Found
+MODSMD_ARTICLE15: Marxistischer Gewerkschaftssekretär in Antwerpen verhaftet.
+Found
+MODSMD_ARTICLE16: Dreistündige Konferenz im belgischen Innenministerium.
+Found
+MODSMD_ARTICLE17: Besuch des belgischen Handelsministers in Warschau.
+Found
+MODSMD_ARTICLE18: Der Erlast über den polnischen Arbeitsdienst.
+Found
+MODSMD_ARTICLE19: Keine Englandreise des rumänischen Kronprinzen.
+Found
+MODSMD_ARTICLE20: Erfolglose Untersuchung in Pakhoi.
+Found
+MODSMD_ARTICLE21: Die chinesische Regierung lehnt die Verantwortung ab.
+Found
+MODSMD_ARTICLE22: Ein neuer Zwischenfall?
+Found

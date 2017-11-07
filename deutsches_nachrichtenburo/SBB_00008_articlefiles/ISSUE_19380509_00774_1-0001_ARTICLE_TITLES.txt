@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Des Führers Einzug in Florenz.
+Found
+MODSMD_ARTICLE02: Dr. Dresler überreichte dem Duce zwei Geschenke.
+Found
+MODSMD_ARTICLE03: Gauleiter Bohle bei der AO. der NSDAP, in Rom.
+Found
+MODSMD_ARTICLE04: Die römische Presse zum Abschied des Führ es von Rom.
+Found
+MODSMD_ARTICLE05: Reorganisierung der britischen Heimatarmee.
+Found
+MODSMD_ARTICLE06: Ein Fünfjahresplan für England?
+Found
+MODSMD_ARTICLE07: Die Mehrheit der katalanischen Bevölkerung für Francs.
+Found
+MODSMD_ARTICLE08: Unaufhaltsamer Vormarsch im Abschnitt Morella.
+Found
+MODSMD_ARTICLE09: Nationalspanien lehnt internationale Einmischung ab.
+Found
+MODSMD_ARTICLE10: Truppenparade bei der Pariser leanne d'Arc-Feier.
+Found
+MODSMD_ARTICLE11: Neuer Seuatspräsident in Aegypten.
+Found
+MODSMD_ARTICLE12: Der voraussichtliche Fehlbetrag in USA.
+Found

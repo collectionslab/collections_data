@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Erste Verleihung des Deutschen Olympia-Ehrenzeichens.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels dankt der Presse des In- und Auslandes.
+Found
+MODSMD_ARTICLE03: Der Präsident des lOC dankt dem deutschen Volk.
+Found
+MODSMD_ARTICLE04: Runge zum Scharführer befördert.
+Found
+MODSMD_ARTICLE05: Tie englische Presse zu Deutschlands olympischem Erfolg.
+Found
+MODSMD_ARTICLE06: Dänische Rundschau auf Olympia.
+Found
+MODSMD_ARTICLE07: „Die Schlußfeier war ergreifend".
+Found
+MODSMD_ARTICLE08: Anerkennung in Schweden.
+Found
+MODSMD_ARTICLE09: Die römische Presse zum Abschluß der Olympischen Spiele.
+Found
+MODSMD_ARTICLE10: Die ungarische Presse über die Olympischen Spiele.
+Found
+MODSMD_ARTICLE11: Höchste Anerkennung der amerikanischen Presse.
+Found

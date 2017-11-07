@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer verleiht das Schutzwall-Ehrenzeichen.
+Found
+MODSMD_ARTICLE02: Sehr erfolgreiche Luftkämpse an sechs Stellen.
+Found
+MODSMD_ARTICLE03: Zum Ministerialrat ernannt.
+Found
+MODSMD_ARTICLE04: Englands und Frankreichs Sorgen.
+Found
+MODSMD_ARTICLE05: Neuer schwerer Verlust der britischen Marine.
+Found
+MODSMD_ARTICLE06: Die Lebensmittellage in England.
+Found
+MODSMD_ARTICLE07: Weiteres starkes Interesse für die Atteniatsaufklärung.
+Found
+MODSMD_ARTICLE08: „Deutsch-jugoslawische Handelsbeziehungen nicht betroffen".
+Found
+MODSMD_ARTICLE09: Das neue Spanien baut auf.
+Found
+MODSMD_ARTICLE10: Die Ereignisse in England erregen überall Interesse.
+Found
+MODSMD_ARTICLE11: Anhaltende Verteuerung der Lebenshaltung in England.
+Found
+MODSMD_ARTICLE12: Der Führer und die militärischen Befehlshaber.
+Found
+MODSMD_ARTICLE13: Englands neueste Völkerrechtsverletzung am Pranger.
+Found
+MODSMD_ARTICLE14: Die britischen Methoden auch in Moskau durchschaut.
+Found
+MODSMD_ARTICLE15: Die rumänische Regierung zurückgetreten.
+Found
+MODSMD_ARTICLE16: Bombenangriff auf die Sheiland-Jnseln zugegeben.
+Found
+MODSMD_ARTICLE17: „Englands Exportblockade verletzt die Rechte Neutraler."
+Found

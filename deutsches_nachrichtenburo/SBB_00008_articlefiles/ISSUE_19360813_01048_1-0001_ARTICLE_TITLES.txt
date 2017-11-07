@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Auf dem Felde der Pflicht Befüllen.
+Found
+MODSMD_ARTICLE02: Berliner Nustauschschülcr aus Spanien zurück.
+Found
+MODSMD_ARTICLE03: Weitere Spanienflüchtlinge in Hamburg.
+Found
+MODSMD_ARTICLE04: Irische Lehrer über Deutschland.
+Found
+MODSMD_ARTICLE05: Vvr der Elektrifizierung der österreichische» Bundesbahnen?
+Found
+MODSMD_ARTICLE06: Prälat Grieger will den Völkerbund anrufen.
+Found
+MODSMD_ARTICLE07: Tie 'französisch-italienischen Wirtschaftsabmachungen.
+Found
+MODSMD_ARTICLE08: Italien hält seine Vorbehalte aufrecht.
+Found
+MODSMD_ARTICLE09: Portugal und das Nichteiumischungsproblem.
+Found
+MODSMD_ARTICLE10: Für Abbruch der Handelsbeziehungen zu Spanien.
+Found
+MODSMD_ARTICLE11: Britischer Diplomat will nach Madrid.
+Found
+MODSMD_ARTICLE12: Rücktritt des spanischen Gesandten in Kopenhagen.
+Found
+MODSMD_ARTICLE13: Vereinigung der nationalistischen Nord- und Südtruppen.
+Found
+MODSMD_ARTICLE14: Qneipo de Llano über den Vormarsch der Nationalisten.
+Found
+MODSMD_ARTICLE15: General OrgaZ Oberbefehlshaber in Spanisch-Marokko.
+Found
+MODSMD_ARTICLE16: General Gamelin in Warschau.
+Found
+MODSMD_ARTICLE17: Der erste kommunistische Abgeordnete Nordamerikas.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die Sondertagungen des Reichsbauerntages.
+Found
+MODSMD_ARTICLE02: Landesverbandsleiter des Jugendherbergswerkes tagen.
+Found
+MODSMD_ARTICLE03: Jüdische Provokateure verurteilt.
+Found
+MODSMD_ARTICLE04: Dormoy zum französischen Innenminister ernannt.
+Found
+MODSMD_ARTICLE05: Wieder ein Streik in der französischen Schiffahrt.
+Found
+MODSMD_ARTICLE06: Der Waffenschmuggel von Bordeaux.
+Found
+MODSMD_ARTICLE07: Der Schiesipnlverskandal von Toulouse.
+Found
+MODSMD_ARTICLE08: Die französische Regierung und die Blockadefrage.
+Found
+MODSMD_ARTICLE09: Spanien-Aussprache in der belgischen Kammer.
+Found
+MODSMD_ARTICLE10: Beratung der belgischen Militärvorlage verlangt.
+Found
+MODSMD_ARTICLE11: Die militärische Lage in Madrid günstig.
+Found
+MODSMD_ARTICLE13: Englische Kriegsschiffe in spanischen Gewässern.
+Found
+MODSMD_ARTICLE14: Urlaubssperre für Schiffsbesatzungen in Malta.
+Found
+MODSMD_ARTICLE15: Italien und die Lage im westlichen Mittelmeer.
+Found
+MODSMD_ARTICLE16: Englands Gesandtschastswache ans Addis Abeba abgereist.
+Found
+MODSMD_ARTICLE17: Die Abschaffung der ägyptischen Kapitulationen.
+Found
+MODSMD_ARTICLE18: Hochbahnunglück in Chicago.
+Found

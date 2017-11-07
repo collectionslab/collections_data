@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: KKjähriges Militärjubilänm des Freiherrn von Watter.
+Found
+MODSMD_ARTICLE02: Deutscher Flottenverband reist in die spanischen Gewässer.
+Found
+MODSMD_ARTICLE03: Danktelegramme des Reichsstudentenführers.
+Found
+MODSMD_ARTICLE04: Das Prager Czernin-Palais Sitz des Reichsprotektors.
+Found
+MODSMD_ARTICLE05: Viktor Emanuel König von Albanien.
+Found
+MODSMD_ARTICLE06: Eine albanische Abordnung überbringt die Königskrone.
+Found
+MODSMD_ARTICLE07: Auch das Stammgebiet Zogns reibungslos besetzt.
+Found
+MODSMD_ARTICLE08: Ungarns Presse zum Austritt aus der Genfer Liga.
+Found
+MODSMD_ARTICLE09: Bukarest: Was ist Englands Garantie wert?
+Found
+MODSMD_ARTICLE10: Tie dänische Presse im Bann britischer Panikmache.
+Found
+MODSMD_ARTICLE11: Weitere 2t) Millionen Kronen für Verteidigungszwecke.
+Found
+MODSMD_ARTICLE12: Die ägyptische Regierung verbietet Wafd-Kongreß.
+Found
+MODSMD_ARTICLE13: Moskau enthüllt seine Ziele in China.
+Found
+MODSMD_ARTICLE14: Noosevelt versucht die Wirtschaft zu beruhigen.
+Found
+MODSMD_ARTICLE15: Auch die lutherischen Kirchep gegen Roosevelt.
+Found
+MODSMD_ARTICLE16: Sensationelle Finanzpläne in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE17: Vollstreckung eines Todesurteils.
+Found

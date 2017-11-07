@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Das Frontkämpfertreffen in Berlin.
+Found
+MODSMD_ARTICLE02: Reichsminister a. D. von Rosenberg f.
+Found
+MODSMD_ARTICLE03: Unterstaatssekretär Lagrange empfängt Reichssportführer.
+Found
+MODSMD_ARTICLE04: Gegen den Einmischungsversuch der Weltkirchenkonferenz.
+Found
+MODSMD_ARTICLE05: Stuck Sieger im Großen Bergpreis.
+Found

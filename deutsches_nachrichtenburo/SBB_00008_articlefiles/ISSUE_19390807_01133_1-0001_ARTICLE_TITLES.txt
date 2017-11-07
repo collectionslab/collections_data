@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Beginn des Adolf Hitler-Marsches der Berliner HJ.
+Found
+MODSMD_ARTICLE02: Ritter von Epp betont Deutschlands Kolonialforderungm.
+Found
+MODSMD_ARTICLE03: Polnische Panik-Gerüchte von Danzig Zurückgewiesen.
+Found
+MODSMD_ARTICLE05: Eine Rede des Marschalls Rydz-Smigly in Krakau.
+Found
+MODSMD_ARTICLE06: Polen macht Volksdeutsche heimatlos!
+Found
+MODSMD_ARTICLE07: Strang verläßt Montag Moskau.
+Found
+MODSMD_ARTICLE08: Auf der Suche nach einer neuen Formel für Moskau.
+Found
+MODSMD_ARTICLE09: Ter englische Kriegsminister in Paris.
+Found
+MODSMD_ARTICLE10: Notenaustausch über die japanischen Forderungen.
+Found
+MODSMD_ARTICLE11: Starke Beachtung der Dessauer Rede Görings in London.
+Found
+MODSMD_ARTICLE12: Chamberlain ging nach Schottland in Ferien.
+Found
+MODSMD_ARTICLE13: Erholungsurlaub Daladiers.
+Found
+MODSMD_ARTICLE14: Paris meldet: Stalin bleibt in Moskau.
+Found
+MODSMD_ARTICLE15: Die italienischen Manöver.
+Found
+MODSMD_ARTICLE16: Neue Kämpfe an der mandschurischen Grenze.
+Found
+MODSMD_ARTICLE17: Botschaft des bolivianischen Staatspräsidenten.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Dr. Goebbels ehrt Regisseur Ritter.
+Found
+MODSMD_ARTICLE02: Fernand de Brinon in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE03: Fragen des künftigen Luftschiffverkehrs.
+Found
+MODSMD_ARTICLE04: Brasilianische Ingenieure reisen durch Deutschland.
+Found
+MODSMD_ARTICLE05: Die Lebensmittelversorgung Englands im Kriegsfalle.
+Found
+MODSMD_ARTICLE06: Warum wurde Krylenko entfernt?
+Found
+MODSMD_ARTICLE07: De Valera lehnt eine Erklärung ab.
+Found
+MODSMD_ARTICLE08: Ein französischer „Hauptmann von Köpenick".
+Found
+MODSMD_ARTICLE09: Molotow droht Frankreich!
+Found
+MODSMD_ARTICLE10: Die Hochzeit des Königs Faruk von Aegypten.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ehrung des scheidenden japanischen Handelsattaches.
+Found
+MODSMD_ARTICLE02: Dopvelbesteuerungsvertrag mit den Niederlanden.
+Found
+MODSMD_ARTICLE03: Regelung der Verhältnisse im Pietz-Konzern.
+Found
+MODSMD_ARTICLE04: Panzerschiff „Admiral Graf Spee" unterwegs nach Spithead
+Found
+MODSMD_ARTICLE05: Reichsautobahn Hamburg—Lübeck feierlich eingeweiht.
+Found
+MODSMD_ARTICLE06: Träuerfeier für Mittelholzer. Beileid Görings.
+Found
+MODSMD_ARTICLE07: Deutsche Kolonie beglückwünscht König Christian.
+Found
+MODSMD_ARTICLE08: Revolverschuß im Prager Abgeordnetenhaus.
+Found
+MODSMD_ARTICLE09: Bewegte Sitzung der belgischen Kammer.
+Found
+MODSMD_ARTICLE10: Nur Teilstreik bei den Pariser Haarschueidern.
+Found
+MODSMD_ARTICLE11: Gibraltar will Spaniern keine Zuflucht mehr bieten.
+Found
+MODSMD_ARTICLE12: Königsdenkmal in Dublin durch Bombe zerstört.
+Found
+MODSMD_ARTICLE13: Zahlreiche Besuche bei Baldwin und Eden.
+Found
+MODSMD_ARTICLE14: Keine Krönungs-Amnestie für Palästina.
+Found
+MODSMD_ARTICLE15: Verurteilung Bucharins und Rykows im Geheimverfahren.
+Found
+MODSMD_ARTICLE16: Feuergefecht an der sowjetrussisch-afghanischen Grenze.
+Found
+MODSMD_ARTICLE17: „Eisenhemden" die Miliz des Libanon?
+Found
+MODSMD_ARTICLE18: Unruhiger Sandschak. Polizeipatrouille überfallen.
+Found
+MODSMD_ARTICLE19: Die Frage eines Attentats auf LZ. „Hindenburg".
+Found

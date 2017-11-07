@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Hermann Göring über die geplante lagdausstellung.
+Found
+MODSMD_ARTICLE02: General Daluege bei Skladkowski.
+Found
+MODSMD_ARTICLE03: Kundgebung der Neichsbetriebsgemeinschaft Eisen und Metall.
+Found
+MODSMD_ARTICLE04: Neubildung des österreichischen Kabinetts.
+Found
+MODSMD_ARTICLE05: Die feierliche Parlamentseröffnung im Oberhaus.
+Found
+MODSMD_ARTICLE06: Roosevelt wiedergewählt.
+Found
+MODSMD_ARTICLE07: Antrag der Churchill-Gruppe auf Rüstungsaussprache.
+Found
+MODSMD_ARTICLE08: Eden am Tonnerstag vor dem Unterhaus.
+Found
+MODSMD_ARTICLE09: General Rydz-Smigly Zum Marschall Polens ernannt.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Gayda über die Grundsätze der italienischen Außenpolitik.
+Found
+MODSMD_ARTICLE02: Die Vormittagsberatung in Wien beendet.
+Found
+MODSMD_ARTICLE03: Vertrauen ans die Entscheidung Deutschlands und Italiens.
+Found
+MODSMD_ARTICLE04: Die englische Presse zur Chamberlain-Rede.
+Found
+MODSMD_ARTICLE05: Zeitungseinstellungen in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE06: Zurückdrängung der Juden im Prager Geschäftsleben.
+Found
+MODSMD_ARTICLE07: Warschau zum polnisch—tschecho-flowakischen Grenzabkommen
+Found
+MODSMD_ARTICLE08: „Expreß Poranny" über Beck.
+Found
+MODSMD_ARTICLE09: 16 rotspamsche Flieger im Luftkampf abgeschossen.
+Found
+MODSMD_ARTICLE10: Moskaus Helfer in Frankreich.
+Found
+MODSMD_ARTICLE11: Verlesung der Rede Atatürks vor der Nationalversammlung.
+Found

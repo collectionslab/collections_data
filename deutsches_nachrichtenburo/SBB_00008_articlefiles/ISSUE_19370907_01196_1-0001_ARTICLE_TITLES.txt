@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Neuer NSRB.-Gauführer.
+Found
+MODSMD_ARTICLE03: Todesurteil des Reichskriegsgerichts vollstreckt.
+Found
+MODSMD_ARTICLE04: 19 Todesopfer des Eisenbahnunglücks in Holzheim.
+Found
+MODSMD_ARTICLE05: Kranzniederlegung in Paris durch Staatssekretär Funk.
+Found
+MODSMD_ARTICLE06: Paris feiert dein „Rosenkavalier".
+Found
+MODSMD_ARTICLE07: Britische Bergwerksstudenten besuchten Deutschland.
+Found
+MODSMD_ARTICLE08: Der estnische Außenminister in Wien.
+Found
+MODSMD_ARTICLE09: Kulturabkommen Oesterreichs mit Polen beabsichtigt.
+Found
+MODSMD_ARTICLE10: Empörte Zurückweisung der Sowjetnote in Italien.
+Found
+MODSMD_ARTICLE11: Sitzung des Rates der Landesverteidigung in Paris.
+Found
+MODSMD_ARTICLE12: Zurück aus Sowjetspanien.
+Found
+MODSMD_ARTICLE13: Kongreß Zur Bekämpfung der Tuberkulose.
+Found
+MODSMD_ARTICLE14: Jugoslawien feierte den Geburtstag des Königs.
+Found
+MODSMD_ARTICLE15: Eine Stimme der Vernunft.
+Found
+MODSMD_ARTICLE16: „Britischer" Frachtdampfer beschlagnahmt?
+Found
+MODSMD_ARTICLE17: Erpreffermethoden sowjetrussischer Behörden.
+Found
+MODSMD_ARTICLE18: Die blutigen Zwischenfälle in Palästina.
+Found
+MODSMD_ARTICLE19: Japan bedauert, lehnt aber die Verantwortung ab.
+Found
+MODSMD_ARTICLE20: Nochmaliges Bedauern Japans in der Antwortnote.
+Found

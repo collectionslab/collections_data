@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Herzog von Coburg in Krakau feierlich verabschiedet.
+Found
+MODSMD_ARTICLE02: Tie polnische Presse begrüßt Ciano.
+Found
+MODSMD_ARTICLE03: Spanien gedenkt des Gründungstages der NSDAP.
+Found
+MODSMD_ARTICLE04: IM 238 rote Gefangene bei der Katalonien-Offensive.
+Found
+MODSMD_ARTICLE05: Die Ermordung des Bischofs von Teruel.
+Found
+MODSMD_ARTICLE06: Del Vayo verpackt geraubte Kunstwerke.
+Found
+MODSMD_ARTICLE07: Miaja sorgt für einen Alterssitz.
+Found
+MODSMD_ARTICLE08: Abwehr bolschewistischer Einmischungsversuche.
+Found
+MODSMD_ARTICLE09: Londons neuester Plan für Palästina.
+Found
+MODSMD_ARTICLE10: Der Zwischenfall von Kauluu beigelegt.
+Found
+MODSMD_ARTICLE11: Die Sowjetherrschaft in Sinkiang.
+Found
+MODSMD_ARTICLE12: Lustkampf über Lautschau.
+Found
+MODSMD_ARTICLE13: Chinesisches Matt warnt vor Juden.
+Found
+MODSMD_ARTICLE14: Jbn Saud warnt England.
+Found
+MODSMD_ARTICLE15: Die jüdische Gefahr in Südafrika.
+Found
+MODSMD_ARTICLE16: USA. speichert „strategische Rohstoffe" auf.
+Found

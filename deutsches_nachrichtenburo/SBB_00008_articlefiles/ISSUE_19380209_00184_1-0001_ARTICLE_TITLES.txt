@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht General von Lettow-Vorbeck.
+Found
+MODSMD_ARTICLE02: Staatssekretär Pfundtner in Budapest.
+Found
+MODSMD_ARTICLE03: Italien Prangert Lügen über Deutschland an.
+Found
+MODSMD_ARTICLE04: Italienisch-englische Fühlungnahme bahnt sich an.
+Found
+MODSMD_ARTICLE05: Tie französischen Beamten werden wieder vorstellig.
+Found
+MODSMD_ARTICLE06: Die Auswirkungen der Streiks auf Frankreichs Außenhandel.
+Found
+MODSMD_ARTICLE07: Besprechungen Kanyas mit Beck.
+Found
+MODSMD_ARTICLE08: Um das jugoslawische Konkordat.
+Found
+MODSMD_ARTICLE09: Eine Erklärung Roosevelts.
+Found
+MODSMD_ARTICLE10: Japan lehnt Bekanntgabe seiner Flottenbanpläne ab.
+Found
+MODSMD_ARTICLE11: Tie Kennzahl der Großhandelspreise im Januar.
+Found

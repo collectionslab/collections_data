@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Reichsautobahn Werder—Magdeburg eingeweiht.
+Not Found
+MODSMD_ARTICLE02: Oberbayerns jüngste Sehenswürdigkeit.
+Found
+MODSMD_ARTICLE03: „Graf Zeppelin" in Rio de Janeiro gelandet.
+Found
+MODSMD_ARTICLE04: Botschafter Schurman über Deutschland.
+Found
+MODSMD_ARTICLE05: Für eine Annäherung Jugoslawien—Ungarn.
+Found
+MODSMD_ARTICLE06: Sowjetrussisches Militärflugzeug auf estländischem Gebiet.
+Found
+MODSMD_ARTICLE07: Unterredung Vausittarts mit Delbos.
+Found
+MODSMD_ARTICLE08: Dementi Salengros.
+Found
+MODSMD_ARTICLE09: Feststellungen der französischen Presse zur Rede Salengros.
+Found
+MODSMD_ARTICLE10: Jouhaux wieder in Paris.
+Found
+MODSMD_ARTICLE11: Rumänien stimmt Nichteinmischungsvorschlag zu>
+Found
+MODSMD_ARTICLE12: Italiens Standpunkt in der Nichteinmischungsfrage«
+Found
+MODSMD_ARTICLE13: Weiterer Vormarsch der Nationalisten von Badajoz aus.
+Found
+MODSMD_ARTICLE14: Verstärkter Flüchtlingsstrom aus Spanien.
+Found

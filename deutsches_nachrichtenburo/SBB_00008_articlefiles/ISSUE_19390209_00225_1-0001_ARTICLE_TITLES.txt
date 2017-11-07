@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Göring empfing den jugoslawischen Außenminister.
+Found
+MODSMD_ARTICLE02: Verleihung der Karmarsch-Denkmünze an DorpmüKer.
+Found
+MODSMD_ARTICLE03: Dr. Syrup über Fragen des Arbeitsemsatzes.
+Found
+MODSMD_ARTICLE04: Thomsen Landesgruppenlciter der AO. in Spanien.
+Found
+MODSMD_ARTICLE05: Der Vorsitzende der Deutsch-Schwedischen Bereinigung.
+Found
+MODSMD_ARTICLE06: Leistungsverbcsserungcn in der Unfallversicherung.
+Found
+MODSMD_ARTICLE07: Entschließung der entlassenein Memeldentschen.
+Found
+MODSMD_ARTICLE08: Lutze nach Tripolis unterwegs.
+Found
+MODSMD_ARTICLE09: Dr. Ley verließ London.
+Found
+MODSMD_ARTICLE10: Negrin muß wieder seine Koffer packen.
+Found
+MODSMD_ARTICLE11: Das Kabinett Spaak zurückgetreten.
+Found
+MODSMD_ARTICLE12: Azaüa vorerst in Paris gelandet.
+Found
+MODSMD_ARTICLE13: Azaüas militärische Berater wechseln die Fronten!
+Found
+MODSMD_ARTICLE14: Der Chef der brasilianischen Militärmission in Europa.
+Found
+MODSMD_ARTICLE15: Argentinien gegen eine Bevormundung durch Roosevelt.
+Found

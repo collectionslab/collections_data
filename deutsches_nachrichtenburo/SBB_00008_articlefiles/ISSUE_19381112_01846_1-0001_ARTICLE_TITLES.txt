@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Beileid des Führers zum Tode Vater Schlageters.
+Found
+MODSMD_ARTICLE02: NSKK.-Motorstandarte M3O Berlin „Ernst vom Rath".
+Found
+MODSMD_ARTICLE03: Gesetzliches Verbot des Waffenbesitzes der Juden.
+Found
+MODSMD_ARTICLE04: Deutsch-dänisches WarenverkehrsabkoMmen.
+Found
+MODSMD_ARTICLE05: Energischer Schritt der Slowaken in Krag.
+Found
+MODSMD_ARTICLE06: Chvalkovsky Elnheitskandidat bei den Präsidentenwahlen.
+Found
+MODSMD_ARTICLE07: Polen feierte seinen Nationalfeiertag.
+Found
+MODSMD_ARTICLE08: Bonuet vertritt die französische Regierung.
+Found
+MODSMD_ARTICLE09: Reibereien vor dem Grabmal des Unbekannten Soldaten.
+Found
+MODSMD_ARTICLE10: Der Berliner britische Boschaster operiert.
+Found
+MODSMD_ARTICLE11: „Arabische Drohung mit Generalaufstand."
+Found
+MODSMD_ARTICLE12: Appell der arabischen Freischärler an die Ausländer.
+Found
+MODSMD_ARTICLE13: Der neue amerikanische Kongreß»
+Found
+MODSMD_ARTICLE14: „Deutsche Koiomalsorderuug ein selbstverständliches Recht."
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Neurath berichtete dem Führer.
+Found
+MODSMD_ARTICLE02: Die Frage der Verdeutschung technischer Ausdrücke.
+Found
+MODSMD_ARTICLE03: Lord Londonderry fordert Verständnis für Deutschland.
+Found
+MODSMD_ARTICLE04: Umbesetzungen im englischen Luftoberkommando.
+Found
+MODSMD_ARTICLE05: Trostlose Lage in den englischen Elendsgebieten.
+Found
+MODSMD_ARTICLE06: Lord Halifax über Völkerbunds-Sanktionsbestimmungen.
+Found
+MODSMD_ARTICLE07: Noch kein Ausschluß Sir Stasford Cripps'.
+Found
+MODSMD_ARTICLE08: Jüdische Frechheiten ohne Ende.
+Found
+MODSMD_ARTICLE09: Oberst Koc beim Staatspräsidenten.
+Found
+MODSMD_ARTICLE10: Einrichtung eines Internationalen Werberates?
+Found
+MODSMD_ARTICLE11: Daladier vor dem Heeresausschuß der Kammer.
+Found
+MODSMD_ARTICLE12: „Das kommunistische Heer bereits in Frankreich!"
+Found
+MODSMD_ARTICLE13: Cot nach Paris abgereist.
+Found
+MODSMD_ARTICLE14: Studenten fordern Einhaltung des Numerus clausus.
+Found
+MODSMD_ARTICLE15: Blutiger Zusammenstoß in Fünfkirchen.
+Found
+MODSMD_ARTICLE16: „Wir wollen Frieden und Brot!"
+Found
+MODSMD_ARTICLE17: Erneute schwere bolschewistische Verluste.
+Found
+MODSMD_ARTICLE18: Ueberlegenheit der Kongreß-Partei bei indischen Wahlen.
+Found
+MODSMD_ARTICLE19: Betrügereien führten zur Bankenkrise in Daressalam.
+Found
+MODSMD_ARTICLE20: Die deutschen Teilnehmer am Oaseuflug in Assuan.
+Found

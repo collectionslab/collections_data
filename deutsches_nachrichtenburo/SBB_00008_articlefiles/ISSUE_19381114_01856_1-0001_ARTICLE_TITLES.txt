@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Goebbels Schirmherr der Bochumer Hebbel-Woche.
+Found
+MODSMD_ARTICLE02: Staatssekretär Reinhardt vor den Wiener Finanzbeamten.
+Found
+MODSMD_ARTICLE03: Ein Memeldeutscher von Litauern überfallen»
+Found
+MODSMD_ARTICLE04: Der englische Königsbesuch in Kanada.
+Found
+MODSMD_ARTICLE05: Das wahre Gesicht des Bolschewismus.
+Found
+MODSMD_ARTICLE06: „Die Kommunistische Partei Frankreichs ist aufzulösen."
+Found
+MODSMD_ARTICLE07: Reynaud zu den neuen Wirtschaftsmaßnahmen.
+Found
+MODSMD_ARTICLE08: Weitere Fortschritte am Ebro.
+Found
+MODSMD_ARTICLE09: Kommission für Gefangenenaustausch.
+Found
+MODSMD_ARTICLE10: Mussolini empfing 800 Künstler.
+Found
+MODSMD_ARTICLE11: Völlige Befriedung in Jtalieuisch-Ostafrika.
+Found
+MODSMD_ARTICLE12: Jüdische Frechheiten gegenüber Polen.
+Found
+MODSMD_ARTICLE13: Benesch unterstützte die Freimaurer.
+Found
+MODSMD_ARTICLE14: Forderungen der ungarischen Minderheit in Rumänien.
+Found
+MODSMD_ARTICLE15: „Palästina-Verhandlungen npr mit dem Großmusti". . .. .
+Found
+MODSMD_ARTICLE16: Jericho besetzt.
+Found
+MODSMD_ARTICLE17: Japan und die Jangtse-Schiffahrt.
+Found
+MODSMD_ARTICLE18: Mexiko nimmt den amerikanischen Vorschlag an.
+Found
+MODSMD_ARTICLE19: Kolumbien wehrt sich gegen jüdische Einwanderung.
+Found
+MODSMD_ARTICLE20: Wiener Sängerknaben in Washington.
+Found

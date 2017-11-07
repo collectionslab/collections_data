@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: 3W VW RM für die Unwetter-Geschädigten in Oberbayern.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Goebbels bei Berliner SA-Jührern.
+Found
+MODSMD_ARTICLE03: Neuorganisierung der deutschen Geschichtswissenschaft.
+Found
+MODSMD_ARTICLE04: Verkehrssünden werden in den Führerschein eingetragen.
+Found
+MODSMD_ARTICLE05: „Graf Zeppelin" auf seiner siebenten Südamerikafahrt.
+Found
+MODSMD_ARTICLE06: Flüchtlingstransport aus Barcelona eingetroffen.
+Found
+MODSMD_ARTICLE07: 380 Deutsche aus Spanien in St. Jean de Luz.
+Found
+MODSMD_ARTICLE08: Die deutschen Geschäftshäuser in Bilbao unversehrt.
+Found
+MODSMD_ARTICLE09: Stadt und Provinz Sevilla im Besitz der Nationalisten.
+Found
+MODSMD_ARTICLE10: General Franca nach Marokko zurückgekehrt.
+Found
+MODSMD_ARTICLE11: Die galicischen Streitkräfte auf Seiten der Nationalisten.
+Found
+MODSMD_ARTICLE12: „Havas" meldet Niederlagen der Madrider Regierung.
+Found
+MODSMD_ARTICLE13: Alle Franzosen sollen Katalonien verlassen.
+Found
+MODSMD_ARTICLE14: Paris bestätigt Teilnahme Italiens an Fünferkonferenz.
+Found
+MODSMD_ARTICLE15: Zufriedenheit über die französischen Grenzbefestigungen.
+Found
+MODSMD_ARTICLE16: Jean Goy gegen die Bolschewisierung Frankreichs.
+Found
+MODSMD_ARTICLE17: Oberhaus-Aussprache über die Reform des Völkerbundes.
+Found
+MODSMD_ARTICLE18: Kein Auslandsurlaub der britischen Minister.
+Found
+MODSMD_ARTICLE19: Eine stolze Erinnerung an Lindberghs Vater.
+Found

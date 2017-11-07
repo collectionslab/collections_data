@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Feiern der Auslandsdeutschen.
+Found
+MODSMD_ARTICLE02: Deutsch-japanischer Abend in Berlin.
+Found
+MODSMD_ARTICLE03: Oesterreich:?cher Erlas; gegen Gerüchtemacherei.
+Found
+MODSMD_ARTICLE04: Das katholische „Linzer Volksblatt" beschlagnahmt.
+Found
+MODSMD_ARTICLE05: Phönix-Direktor Bachmann in Ungarn verhaftet.
+Found
+MODSMD_ARTICLE06: Die Gesandten Oesterreichs und Ungarns bei Suvich.
+Found
+MODSMD_ARTICLE07: Scharfe Sprache des „Giornale tüJtalia" gegen England.
+Found
+MODSMD_ARTICLE08: Italienische Kriegsgefangene in Kenya erschossen.
+Found
+MODSMD_ARTICLE09: Langsamer italienischer Vormarsch.
+Found
+MODSMD_ARTICLE10: Ter Negus in Addis Abeba.
+Found
+MODSMD_ARTICLE11: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found

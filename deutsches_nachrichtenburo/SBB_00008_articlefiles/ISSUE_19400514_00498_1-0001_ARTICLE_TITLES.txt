@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Generalfeldmarschall Göring in seinem Hauptquartier.
+Found
+MODSMD_ARTICLE02: Botschafter Attolico abgereist.
+Found
+MODSMD_ARTICLE03: Die Pluto traten geben Agressionsplan zu!
+Found
+MODSMD_ARTICLE04: Das versenkte Schlachtschiff.
+Found
+MODSMD_ARTICLE05: Zuchthausstrafen für Volksverräter.
+Found
+MODSMD_ARTICLE06: Italiens Schaden durch die Schiffskontrolle.
+Found
+MODSMD_ARTICLE07: Das stärkste Fort der Festung Lüttich gefallein.
+Found
+MODSMD_ARTICLE08: Das Kabinett Churchill.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer empfing Sumner Weltes.
+Found
+MODSMD_ARTICLE02: Der Führer zur Eröffnung der Leipziger Messe.
+Found
+MODSMD_ARTICLE03: Generalfeldmarschall Göring an der Westfront.
+Found
+MODSMD_ARTICLE04: Geleitwort Görmgs für die Leipziger Messe.
+Found
+MODSMD_ARTICLE05: Der Reichsderkehrsmmister an die Leipziger Messe.
+Found
+MODSMD_ARTICLE06: Dr. Dietrich empfing den spanischen Professor Dr. Lain.
+Found
+MODSMD_ARTICLE07: Italienischer Dampfer in der Nordsee gesunken.
+Found
+MODSMD_ARTICLE08: ~England behandelt Frankreich wie eine Kolonie."
+Found
+MODSMD_ARTICLE09: Der Baralongmörder bildet 10 000 U-Bootfallensteller aus.
+Found
+MODSMD_ARTICLE10: Ein neuer Plutokratenskandal in London.
+Found
+MODSMD_ARTICLE11: Eine feine Lady!
+Found
+MODSMD_ARTICLE12: Der sowjetrussische Heeresbericht.
+Found
+MODSMD_ARTICLE13: Die Wühlarbeit des Intelligente Service.
+Found
+MODSMD_ARTICLE14: Deutsche Aufklörungsflüge über der gesamten Nordsee.
+Found
+MODSMD_ARTICLE15: „Prawda" über die Vorgänge in Indien.
+Found
+MODSMD_ARTICLE16: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE17: So wahrt England die Rechte der Neutralen!
+Found

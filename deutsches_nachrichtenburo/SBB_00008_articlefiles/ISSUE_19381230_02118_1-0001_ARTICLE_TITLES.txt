@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Neujahrsausruf des Abgeordneten Kundt.
+Found
+MODSMD_ARTICLE02: Deutsche Beiauge in deutschen Händen.
+Found
+MODSMD_ARTICLE03: Antijüdische Entschließungen in ganz Polen.
+Found
+MODSMD_ARTICLE04: Kategorische Forderung des „Kurjer Pöznanski".
+Found
+MODSMD_ARTICLE05: Die Aussichten für das Judentum in Frankreich.
+Found
+MODSMD_ARTICLE06: Sensationelle Enthüllungen des „Petit Parisien".
+Found
+MODSMD_ARTICLE07: Frankreich und das Syrien-Problem.
+Found
+MODSMD_ARTICLE08: Die Entsendung der Senegalschützen nach Dschibuti.
+Found
+MODSMD_ARTICLE09: Die finnisch-schwedischen Aaland-Verhandlungen.
+Found
+MODSMD_ARTICLE10: Der Zerstörer „Jose Luis Diaz" vernichtet.
+Found
+MODSMD_ARTICLE11: Ministerrat in Burgos.
+Found
+MODSMD_ARTICLE12: Schwere sowjetspanische Verluste.
+Found
+MODSMD_ARTICLE13: Neuer Angstschrei aus Barcelona.
+Found
+MODSMD_ARTICLE14: Schärfster Protest im rotspanischen „Arbeiterparadies".
+Found
+MODSMD_ARTICLE15: Jüdische Agenten werbm für die rotspanische Armee.
+Found
+MODSMD_ARTICLE16: Moskau protestiert in Barcelona.
+Found
+MODSMD_ARTICLE17: USA. sollte sich um sich selbst bekümmern!
+Found

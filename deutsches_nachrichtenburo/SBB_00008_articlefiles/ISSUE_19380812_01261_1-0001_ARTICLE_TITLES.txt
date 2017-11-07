@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Empfang der japanischen Jugendführer.
+Found
+MODSMD_ARTICLE02: Die Reichsfrauenführerin in Innsbruck.
+Found
+MODSMD_ARTICLE03: Reichsstatthalter Dr. Seysi-Jnquart in Salzburg.
+Found
+MODSMD_ARTICLE04: Der Rückgang der Arbeitslosigkeit in Wien.
+Found
+MODSMD_ARTICLE05: Daladier wieder in Paris.
+Found
+MODSMD_ARTICLE06: Diplomatenempfänge bei Bonnet.
+Found
+MODSMD_ARTICLE07: Fiuanzminister Marchandeau wehrt sich gegen Unruhestifter.
+Found
+MODSMD_ARTICLE08: 4W WiZ Körbe Trauben verdorben.
+Found
+MODSMD_ARTICLE09: Mussolini bei den Vorsührungen der Kadettenführer.
+Found
+MODSMD_ARTICLE10: Italiens Presse Zum Empfang Balbos in Deutschland»
+Found
+MODSMD_ARTICLE11: „Tebere" kennzeichnet das Judentum.
+Found
+MODSMD_ARTICLE12: , Verkündung der neuen Verwaltungsreform Rumäniens.
+Found
+MODSMD_ARTICLE13: Kabinettssitzung in Belgrad.
+Found
+MODSMD_ARTICLE14: Rückkehr des polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE15: 1759 Quadratkilometer an der Estramadura-Front erobert.
+Found
+MODSMD_ARTICLE16: Provinz Eiudad Real wird Kriegsgebiet.
+Found
+MODSMD_ARTICLE17: Ein türkischer Vertreter in Burgos beglaubigt.
+Found
+MODSMD_ARTICLE18: Wie Sowjetspanien die internationalen Brigaden tarnt.
+Found

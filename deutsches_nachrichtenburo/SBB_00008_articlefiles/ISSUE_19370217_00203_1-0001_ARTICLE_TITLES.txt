@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Reichsinspekteur für die Erzeugungsschlacht.
+Found
+MODSMD_ARTICLE02: In den Stab des Stellvertreters des Führers berufen.
+Found
+MODSMD_ARTICLE03: Hauptamtsleiter Neef beim lettischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE04: Belgiens außenpolitische Neuorientierung.
+Found
+MODSMD_ARTICLE05: Botschafter Faupel in Salamanca.
+Found
+MODSMD_ARTICLE06: Hedilla über Kampf und Ziel der Falange.
+Found
+MODSMD_ARTICLE07: Anarchisten plündern in Santander.
+Found
+MODSMD_ARTICLE08: Milliarden Pfund für Englands Aufrüstung!
+Found
+MODSMD_ARTICLE09: Paris und London Zur Einigung im Spanien-Ausschuß.
+Found
+MODSMD_ARTICLE10: Besprechung über deutsch-österreichischen Zahlungsverkehr.
+Found

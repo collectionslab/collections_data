@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer an Generalfeldmarschall von Blomberg.
+Found
+MODSMD_ARTICLE02: 28 Tote in Bochum.
+Found
+MODSMD_ARTICLE03: Kommunistische Menschenschmuggler in der Steiermark.
+Found
+MODSMD_ARTICLE04: Vor dem Fall Malagas?
+Found
+MODSMD_ARTICLE05: Sowjetrussischer General kommandiert Rote Miliz.
+Found
+MODSMD_ARTICLE06: Mexikanische Waffen für Spanien.
+Found
+MODSMD_ARTICLE07: Der spanische Geschäftsträger in Salvador zurückgetreten.
+Found
+MODSMD_ARTICLE08: 15 Flieger in Barcelona erschossen.
+Found
+MODSMD_ARTICLE09: Note Flugzeuge bombardieren Krankenhäuser.
+Found
+MODSMD_ARTICLE10: Norwegen Zur Frage der Völkerbundsreform.
+Found
+MODSMD_ARTICLE11: Lettlands Stellung zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE12: Neuseeland für Revision der Friedensverträge.
+Found
+MODSMD_ARTICLE14: „Evening News" enthüllt.
+Found
+MODSMD_ARTICLE15: Moskau bedauert den Abgang Titulescus.
+Found
+MODSMD_ARTICLE16: Kein Rücktritt rumänischer Auslandsdiplomaten.
+Found

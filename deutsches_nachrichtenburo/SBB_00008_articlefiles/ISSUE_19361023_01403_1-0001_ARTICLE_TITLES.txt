@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Graf Cians in Gatow.
+Found
+MODSMD_ARTICLE02: Ueberweisung von Bersorgungsbezügen und Renten.
+Found
+MODSMD_ARTICLE03: Empfaiigsabend der Stadt München.
+Found
+MODSMD_ARTICLE04: AusschnsMungcn der Akademie für deutsches Recht.
+Found
+MODSMD_ARTICLE05: Einweihung des neuen Hauses der Technik in Essen.
+Found
+MODSMD_ARTICLE06: Bilbao und Madrid erneut mit Bomben belegt.
+Found
+MODSMD_ARTICLE07: Ganze Familien in Madrid als Geiseln festgenomemn.
+Found
+MODSMD_ARTICLE08: Azana macht Sprüche!
+Found
+MODSMD_ARTICLE09: Greueltaten der Roten: Opfer zum Fenster hinausgeworfen.
+Found
+MODSMD_ARTICLE10: Zusammenarbeit zwischen Faschismus und Nationalsozialismus.
+Not Found
+MODSMD_ARTICLE11: „Ter wahre Friedensfeind ist der Bolschewismus".
+Found
+MODSMD_ARTICLE12: Ministerbesprechung mit den Mehrheitsparteien in Prag.
+Found
+MODSMD_ARTICLE13: Hafenarbeiterstreik in Glasgow.
+Found
+MODSMD_ARTICLE14: Schwere Ausschreitungen in Mexiko.
+Found

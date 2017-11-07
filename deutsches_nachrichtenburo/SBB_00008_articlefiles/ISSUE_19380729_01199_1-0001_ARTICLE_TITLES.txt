@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Künstlerempsaug im Hause Wahnfried.
+Found
+MODSMD_ARTICLE02: Reichsmimster Dr. Frick besuchte die Grasschaft Glatz.
+Found
+MODSMD_ARTICLE03: Ernennung im Reichsverkehrsmimsterium.
+Found
+MODSMD_ARTICLE04: Gauleiter Proksch-Wien Reichstreuhänder der Arbeit.
+Found
+MODSMD_ARTICLE05: Leistuugskampf der öffentlichen Betriebe.
+Found
+MODSMD_ARTICLE06: Reichsarbeitsführer Hier! in Breslau.
+Found
+MODSMD_ARTICLE07: Staatssekretär Guedes besucht die Neichsjugendführung.
+Found
+MODSMD_ARTICLE08: Prags Gegenstoß gegen die Mission Lord Runcnnans.
+Found
+MODSMD_ARTICLE09: Am Dienstag Abreise Lord Runcimlms nach Prag.
+Found
+MODSMD_ARTICLE10: Der ,Montague"-Zwischensall. –
+Not Found
+MODSMD_ARTICLE11: Der englisch-amerikamsche Handelsvertrag.
+Found
+MODSMD_ARTICLE12: Die englisch-indischen Handelsvertragsverhandlungen.
+Found
+MODSMD_ARTICLE13: Die britische Lustfahrtkommission in Kanada.
+Found
+MODSMD_ARTICLE14: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE15: Flandins Verständigungs-Artikel.
+Found
+MODSMD_ARTICLE16: Die Pariser Untergrundbahn im Dienste des Luftschutzes.
+Found
+MODSMD_ARTICLE17: Antwerpen soll bolschewistischer Stützpunkt werden.
+Found
+MODSMD_ARTICLE18: Neue Weltbestleistung dex deutschen Luftfahrt
+Found
+MODSMD_ARTICLE19: Victor Emanuel 111. empfing neue Gesandte.
+Found
+MODSMD_ARTICLE20: Die Anerkennung der Franco-Regierung durch Holland.
+Found
+MODSMD_ARTICLE21: Polen wünscht Wirtschaftsvertrag mit Mandschnkuo.
+Found
+MODSMD_ARTICLE22: Die Revolte aus Kreta niedergeschlagen.
+Found
+MODSMD_ARTICLE23: Syrieus entschlossenes Bekenntnis zum Freiheitswillen.
+Found

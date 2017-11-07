@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Todt über Autobahubau in der Ostmark und Sudetenland.
+Found
+MODSMD_ARTICLE02: Abschluß der Jtalieufahrt der Berliner Liedertafel.
+Found
+MODSMD_ARTICLE03: „Frieden mit dem Ausland, Sicherheit in der Heimat."
+Found
+MODSMD_ARTICLE04: Bukarest: Günstiges Echo der Reise Funks.
+Found
+MODSMD_ARTICLE05: Die Revision der dänischen Verfassung.
+Found
+MODSMD_ARTICLE06: Moskaus Ausschluß rettete den Frieden.
+Found
+MODSMD_ARTICLE07: Nationalspanien bittet nicht, sondern fordert!
+Found
+MODSMD_ARTICLE08: 3IM arabische Freiheitskämpfer gesangen.
+Found
+MODSMD_ARTICLE09: Militäraktion in Jerusalem noch nicht abgeschlossen.
+Found
+MODSMD_ARTICLE10: England versorgt Tschiaugkaischek weiter mit Kriegsmaterial.
+Found
+MODSMD_ARTICLE11: Räumung Haukaus in vollem Gang.
+Found

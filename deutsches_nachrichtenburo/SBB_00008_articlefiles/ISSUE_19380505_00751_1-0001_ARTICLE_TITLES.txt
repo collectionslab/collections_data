@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Tie Britische Legion gibt eine Fahne zurück.
+Found
+MODSMD_ARTICLE02: Aufstockung der Reichsanleihe um 45V Will. RM.
+Found
+MODSMD_ARTICLE03: Der neue Frankenkurs.
+Found
+MODSMD_ARTICLE04: Pariser Stimmen zum neuen Abwertungsbeschluß.
+Found
+MODSMD_ARTICLE05: „Die Quittung für die Streiks".
+Found
+MODSMD_ARTICLE06: Französische Note zur Freiwilligeufrage.
+Found
+MODSMD_ARTICLE07: Slowakische Kritik an Prags Minderheitenpolitik.
+Found
+MODSMD_ARTICLE08: Der lettische Außenminister in Stöckholm.
+Found
+MODSMD_ARTICLE09: Abschiedsempfang Dr. Leys in Athen.
+Found
+MODSMD_ARTICLE10: Dr. Ley in Belgrad.
+Found
+MODSMD_ARTICLE11: Der Zweite Tag der Konferenz von Sinaia.
+Found
+MODSMD_ARTICLE12: Kollektivbauern ein Jahr ohne Löhne.
+Found
+MODSMD_ARTICLE13: Für und gegen Roosevelt.
+Found
+MODSMD_ARTICLE14: Bolivianisches Dekret Hegen den Kommunismus.
+Found

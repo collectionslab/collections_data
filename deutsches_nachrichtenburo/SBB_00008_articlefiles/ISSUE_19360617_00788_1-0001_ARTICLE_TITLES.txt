@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Beileid des Führers Zum Revaler Explosions-Unglück.
+Found
+MODSMD_ARTICLE02: Einheitliche Zusammenfassung der polizeilichen Aufgaben.
+Found
+MODSMD_ARTICLE03: Empfang beim Führer.
+Found
+MODSMD_ARTICLE04: Dr. Goebbels unterrichtet sich über die Farbfilmentwicklung.
+Found
+MODSMD_ARTICLE05: Zum Vudapester Besuch Dr. Schachts.
+Found
+MODSMD_ARTICLE06: Dr. Ley auf Burg Crössinsee.
+Found
+MODSMD_ARTICLE07: Der Streik in den elsässischen Kalibergwerken beigelegt.
+Found
+MODSMD_ARTICLE08: Zwei Gesehentwürfe im Senat angenommen.
+Found
+MODSMD_ARTICLE09: Französische Frontkämpferabordnung bei Delbos.
+Found
+MODSMD_ARTICLE10: Das Kabinett billigt Edens Erklärungen.
+Found
+MODSMD_ARTICLE11: Rom dementiert neue Forderungen.
+Found
+MODSMD_ARTICLE12: Schweizer Nationalrat lehnt 40-Stunden-Woche ab.
+Found
+MODSMD_ARTICLE13: Von der Internationalen Arbeitskonferenz.
+Found
+MODSMD_ARTICLE14: Tagung der Nachrichtenbüros»
+Found
+MODSMD_ARTICLE15: Steuersteckbrief und Vermögensbeschlagnahme.
+Found

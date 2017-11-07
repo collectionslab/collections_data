@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Dr. Frick Zum Tode von Oberreichsanwalt Dr. Werner.
+Found
+MODSMD_ARTICLE02: Ausruf des Reichsjugeudführers Zum WHW.
+Found
+MODSMD_ARTICLE03: Besuch des Staatssekretärs Milch in Italien.
+Found
+MODSMD_ARTICLE04: ' Abschluß der Führertagung des NSKK.
+Found
+MODSMD_ARTICLE05: Sozialdemokratische Partei in Danzig aufgelöst.
+Found
+MODSMD_ARTICLE06: Tie Lilienthalgesellschaft besuchte die Aunkerswerke.
+Found
+MODSMD_ARTICLE07: Die französische und römische Presse zum deutschen Protest.
+Found
+MODSMD_ARTICLE08: Polnische Zeitung würdigt das WHW.
+Found
+MODSMD_ARTICLE10: Der französische Ministerrat tagt.
+Found
+MODSMD_ARTICLE11: „Erkenntnisse" Herriots: „Frankreich ist ruhig".
+Found
+MODSMD_ARTICLE12: Streik der Liller Straßenreiniger.
+Found
+MODSMD_ARTICLE13: Außenminister Beck in Paris.
+Found
+MODSMD_ARTICLE14: „Daily Telegraph" zum Besuch Becks in Paris.
+Found
+MODSMD_ARTICLE15: Gedankenaustausch Stojadinowitsch—Ruschtü Aras.
+Found
+MODSMD_ARTICLE16: Tschechoslowakische Militärflieger in Moskau.
+Found
+MODSMD_ARTICLE17: Der Vormarsch der Sudarmee.
+Found
+MODSMD_ARTICLE18: Madrider Regierung verbot Feiern des „Tages der Rasse".
+Found
+MODSMD_ARTICLE19: Der Moskau-Madrider Warenaustausch.
+Found
+MODSMD_ARTICLE20: Neue Einwanderungsbestimmungen in Uruguay.
+Found

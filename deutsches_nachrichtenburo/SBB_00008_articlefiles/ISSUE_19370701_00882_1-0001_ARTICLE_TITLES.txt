@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ter Führer besuchte das Deutsche Opernhaus.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Fragen des internationalen Kreditverkehrs.
+Found
+MODSMD_ARTICLE04: Empfang der JHK.-Kongreßteilnehmer durch Dr. Schacht.
+Found
+MODSMD_ARTICLE05: Betrügereien eines früheren katholischen Pfarrers.
+Found
+MODSMD_ARTICLE06: Verkehrstagung in Wien.
+Found
+MODSMD_ARTICLE07: Freundschaftlicher Ausklang in Warschau.
+Found
+MODSMD_ARTICLE08: Jugoslawiens Vizeaußenminister Gesandter in Warschau.
+Found
+MODSMD_ARTICLE09: Neuer Finanzminister in Dänemark.
+Found
+MODSMD_ARTICLE10: Die „politische Seite" des Ermächtigungsgesetzes.
+Found
+MODSMD_ARTICLE11: Die Bank von Frankreich gewährt 15 Milliarden Vorschuß.
+Found
+MODSMD_ARTICLE12: „Anleihen nicht mehr unterzubringen".
+Found
+MODSMD_ARTICLE13: Simon über Frankreichs Währungspolitik.
+Found
+MODSMD_ARTICLE14: Außenpolitische Fragen vor dem britischen Kabinett.
+Found
+MODSMD_ARTICLE15: Van Zeeland auf der Heimreise.
+Found
+MODSMD_ARTICLE16: Neue schwere Kämpfe an der indischen Nordwestgrenze.
+Found
+MODSMD_ARTICLE17: Eurasia-Luftlinie Peiping—Hongkong eröffnet.
+Found

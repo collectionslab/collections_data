@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Noosevelt verleugnet die Monroe-Doktrin«
+Found
+MODSMD_ARTICLE02: Aushebung der tschechischen Ausnahmebestimmungen.
+Found
+MODSMD_ARTICLE03: Die Bewaffnung und die Ausrüstung der polnischen Armee.
+Found
+MODSMD_ARTICLE04: Bombenwurf vor einer Budapester Synagoge.
+Found
+MODSMD_ARTICLE05: Ein alarmierender Telephonanruf in London.
+Found
+MODSMD_ARTICLE06: Salazar gab das Marineministerium wieder ab.
+Found
+MODSMD_ARTICLE07: Francas Sieg in Katalonien.
+Found
+MODSMD_ARTICLE08: Senator Bärard in Bilbao eingetroffen.
+Found
+MODSMD_ARTICLE09: Der belgische Nexistenführer in Burgos.
+Found
+MODSMD_ARTICLE10: Gerona bereits fast völlig geräumt.
+Found
+MODSMD_ARTICLE11: Bisher 61158 Flüchtlinge aus Katalonien in Frankreich.
+Found
+MODSMD_ARTICLE12: Roheitsakte während des Generalstreikversuchs.
+Found
+MODSMD_ARTICLE13: Ministerpräsident Spaak nur leicht verletzt.
+Found
+MODSMD_ARTICLE14: Wieder Ausgehverbot in Jerusalem.
+Found
+MODSMD_ARTICLE15: Scharfe Kritik Roosevelts auch in den Weststaaten.
+Found
+MODSMD_ARTICLE16: Das ist USA.
+Found

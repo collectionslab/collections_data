@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Staatssekretär Milch besucht die schwedische Luftwasse.
+Found
+MODSMD_ARTICLE02: Generalmajor Neinhardt ehrt Tirols Soldatentmn.
+Found
+MODSMD_ARTICLE03: 8. Internationale Tagung für Geschichtswissenschaft.
+Found
+MODSMD_ARTICLE04: Die kommenden Wahlen in Jugoslawien.
+Found
+MODSMD_ARTICLE05: 1b PW Avanguardisten vor Mussolini.
+Found
+MODSMD_ARTICLE06: Von 399 ausländischen Studenten nur 16 Nichtjuden!
+Found
+MODSMD_ARTICLE07: Die römische Presse zur Simon-Rede.
+Found
+MODSMD_ARTICLE08: Neuer Auslandserfolg der deutschen Luftfahrt.
+Found
+MODSMD_ARTICLE09: In Marseille wird „versuchsweise" gearbeitet.
+Found
+MODSMD_ARTICLE10: HJ. im sportlichen Wettkampf mit portugiesischer Jugend.
+Found
+MODSMD_ARTICLE11: Neues gewaltiges Bauprogramm der NSA-Marine.
+Found
+MODSMD_ARTICLE12: Roosevelt über die Aufrüstung der USA.
+Found
+MODSMD_ARTICLE13: „Herald Tribüne" über das Los der ungarischen Minderheit
+Found
+MODSMD_ARTICLE14: Zwei Bahnstationen in Palästina in Brand gesteckt.
+Found

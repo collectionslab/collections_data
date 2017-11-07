@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Zahlreiche Glückwünsche für Hermann Göring.
+Found
+MODSMD_ARTICLE03: Kameradschaftsabend der Mitarbeiter Dr. Goebbels'.
+Found
+MODSMD_ARTICLE04: Ein bezeichnendes Abstimmungsergebnis!
+Found
+MODSMD_ARTICLE05: Dienstruhe für das NSKK. bis zum 29. April.
+Found
+MODSMD_ARTICLE06: Das Echo der Welt.
+Found
+MODSMD_ARTICLE07: Der nordirische Ministerpräsident in London.
+Found
+MODSMD_ARTICLE08: 130 Wll Streikende in Paris.
+Found
+MODSMD_ARTICLE09: Türkisch-ägyptischer Freundschaftsvertrag.
+Found
+MODSMD_ARTICLE10: Die Regierung von Ecuador zurückgetreten.
+Found

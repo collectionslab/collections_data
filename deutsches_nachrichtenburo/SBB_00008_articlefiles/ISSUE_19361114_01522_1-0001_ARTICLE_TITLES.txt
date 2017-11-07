@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Tie Deutsche Negierung über die Bersailler Stromakte.
+Found
+MODSMD_ARTICLE03: Erste Reichstagung für Naturschutz.
+Found
+MODSMD_ARTICLE04: Neues Verwaltungsgebäude der Neichsstelle für Getreide.
+Found
+MODSMD_ARTICLE05: Steuerbefreiung für Weihnachtsgeschenke.
+Found
+MODSMD_ARTICLE06: Mißbräuchliche Verwendung des Wortes „Polizei".
+Found
+MODSMD_ARTICLE07: Einweihung des Umbaues der Universität Freiburg.
+Found
+MODSMD_ARTICLE08: Propaganda-Aktion der de la Rocque-Partei.
+Found
+MODSMD_ARTICLE09: Sensationeller Spionagefall in Towjetrustland.
+Found
+MODSMD_ARTICLE10: Bischof v. Hecke! in Belgrad.
+Found
+MODSMD_ARTICLE11: Belgrad und die Wiener Dreierbesprechungen.
+Found
+MODSMD_ARTICLE12: Steuersteckbrief und Vermögensbeschlagnahme.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Kaiserslautern, Gauhauptstadt der Saarpfalz.
+Found
+MODSMD_ARTICLE02: Freier Kraftfahrzeugverkehr in die Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE03: Kreuzer „Seydlitz" vom Stapel gelaufen.
+Found
+MODSMD_ARTICLE04: Eine Erklärung des ungarischen Außenministers.
+Found
+MODSMD_ARTICLE05: Zusammenkunft der Außenminister des Balkanbundes.
+Found
+MODSMD_ARTICLE06: Kurzer Prozeß mit jüdischen Devisenschiebern.
+Found
+MODSMD_ARTICLE07: Kein Oberbefehlshaber der Schweizer Armee im Frieden.
+Found
+MODSMD_ARTICLE08: Betrugsaffäre an der belgisch-holländischen Grenze.
+Found
+MODSMD_ARTICLE09: Tie Sowjets drohen mit dem Angriffskrieg.
+Found
+MODSMD_ARTICLE10: Die Sowjet-Dynastie Kaganowitsch.
+Found
+MODSMD_ARTICLE11: Heute Entscheidung in Kairo?
+Found
+MODSMD_ARTICLE12: Zusammenkunft Cardenas—Roosevelt.
+Not Found
+MODSMD_ARTICLE13: Die Durchführung des Aufrüstungsprogramms Noosevelts.
+Found

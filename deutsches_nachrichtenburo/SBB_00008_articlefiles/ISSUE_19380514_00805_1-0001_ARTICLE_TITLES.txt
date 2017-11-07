@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Reichsfinanzminister besucht Oesterreich.
+Found
+MODSMD_ARTICLE02: Aufruf Christiansens zum „Deutschlandflug 1938".
+Found
+MODSMD_ARTICLE03: Dank au Obergebietsführer Rodatz.
+Found
+MODSMD_ARTICLE04: Neues Veto des litauischen Memel-Gouverneurs.
+Found
+MODSMD_ARTICLE05: Vier deutsche Privatschulen in Wolhynien geschlossen.
+Found
+MODSMD_ARTICLE06: Warschau: „Die Sowjets haben in Genf verspielt".
+Found
+MODSMD_ARTICLE07: Scharfes Durchgreifen im Gefahrenherd Wolhynien.
+Found
+MODSMD_ARTICLE08: Wieder eine sowjetrussische Grenzverletzung.
+Found
+MODSMD_ARTICLE09: Internationale Luftfahrtausstellung in Helsinki.
+Found
+MODSMD_ARTICLE10: Die ersten Mastnahmen der Regierung Imredv.
+Found
+MODSMD_ARTICLE11: Vertrauen zu Ungarns neuer Regierung.
+Found
+MODSMD_ARTICLE12: Das Rücktrittsgesuch Lord Swintons bestätigt.
+Found
+MODSMD_ARTICLE13: Weitere Besprechungen Konrad Henleins in London.
+Found
+MODSMD_ARTICLE14: Pariser Stimmen zu den Verhandlungen mit Rom.
+Found
+MODSMD_ARTICLE15: Wieder Sowjet-Kriegsmaterial für Barcelona.
+Found
+MODSMD_ARTICLE16: Dr. Bauer beim Vizekönig von Indien.
+Found
+MODSMD_ARTICLE17: Bolschewistische Unruhen in Tel Aviv.
+Found
+MODSMD_ARTICLE18: Neue Bombenattentate in Palästina.
+Found
+MODSMD_ARTICLE19: Washington Zum Konflikt England—Mexiko.
+Found

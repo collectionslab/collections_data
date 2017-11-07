@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Minister Pirow vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Commendatore Puccetti in Berlin.
+Found
+MODSMD_ARTICLE03: Knlonial-Tradition bei der Polizei.
+Found
+MODSMD_ARTICLE04: Das sind die „armen Juden" in Essen!
+Found
+MODSMD_ARTICLE05: Landvolk und Schule.
+Found
+MODSMD_ARTICLE06: Zollabmachungen Zwische Danzig und Polen.
+Found
+MODSMD_ARTICLE07: Italien zum deutsch-italienischen Kulturabkommen.
+Found
+MODSMD_ARTICLE08: Wieder eine jüdische Paßfälscherbande ausgehoben.
+Found
+MODSMD_ARTICLE09: Fünf Verteidiger für Grünspan.
+Found
+MODSMD_ARTICLE10: Beginn der Besprechungen in Paris.
+Found
+MODSMD_ARTICLE11: Spamens Zivilisation hängt vom Siege Francas ab.
+Found
+MODSMD_ARTICLE12: Wieder Todesurteile in der Sowjetunion.
+Found
+MODSMD_ARTICLE13: Amerikas riesige Aufrüstung fordert neue Steuern.
+Found
+MODSMD_ARTICLE14: Großkreuz des Deutschen Adlers an Fürst Konoe überreicht.
+Found
+MODSMD_ARTICLE15: Zum Jahrestag des Antikominternpaktes.
+Found
+MODSMD_ARTICLE16: Japan will keine Kompromißlösungen.
+Found
+MODSMD_ARTICLE17: Die Waffentransporte über Jndochina dauern an.
+Found
+MODSMD_ARTICLE18: Vollstreckung eines Todesurteils.
+Found

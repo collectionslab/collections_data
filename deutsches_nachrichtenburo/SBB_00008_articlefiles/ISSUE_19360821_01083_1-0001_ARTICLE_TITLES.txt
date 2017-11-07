@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Deutscher Protest in Moskau und Madrid.
+Found
+MODSMD_ARTICLE02: Deutsche Schutzmaßnahmen in spanischen Gewässern.
+Found
+MODSMD_ARTICLE03: Der polnische Konsul in Valencia ermordet.
+Found
+MODSMD_ARTICLE04: Verbindung Zwischen Nationalisten aus Sevilla und Granada.
+Found
+MODSMD_ARTICLE05: Anwachsen der spanischen Phalanxbewegung.
+Found
+MODSMD_ARTICLE06: Moskaus Hand in Spanien.
+Found
+MODSMD_ARTICLE07: 26 französische Flugzeuge in Madrid gelandet.
+Found
+MODSMD_ARTICLE08: Spanische Beamte überschreiten die französische Grenze.
+Found
+MODSMD_ARTICLE09: Mexiko lehnt den Vermittlungsvorschlag für Spanien ab.
+Found
+MODSMD_ARTICLE10: Der 35. Frcmziskanerbruder vor der Koblenzer Strafkammer«
+Found
+MODSMD_ARTICLE11: Bildung eines österreichischen Heimatschutz-Führerrates.
+Found
+MODSMD_ARTICLE12: Schach-Olympia.
+Found
+MODSMD_ARTICLE13: Verstärkte Wühlarbeit der Kommunisten in Belgien.
+Found
+MODSMD_ARTICLE14: Fortsetzung der Moskauer Justizkomödie.
+Found
+MODSMD_ARTICLE15: Um die Eingliederung Südwestafrikas.
+Found

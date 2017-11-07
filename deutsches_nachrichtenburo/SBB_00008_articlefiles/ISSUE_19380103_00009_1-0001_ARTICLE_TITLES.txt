@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Deutsch-rumänische Freundschaftskundgebung.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Rudolf Heß dankt für Weihnachts- und Neujahrsglückwünsche.
+Found
+MODSMD_ARTICLE04: Der Reichsstudentenführer zum Neuen Jahr.
+Found
+MODSMD_ARTICLE05: 15W Rumänen in Rom.
+Found
+MODSMD_ARTICLE06: Giornale d'Jtalia: „Neue Mobilisierung gegen Italien."
+Found
+MODSMD_ARTICLE07: London beachtet italienische Presseangriffe.
+Found
+MODSMD_ARTICLE08: „Evening Standard" über den Vierjahresplan.
+Found
+MODSMD_ARTICLE09: Eden nach Südfrankreich abgereist.
+Found
+MODSMD_ARTICLE10: Chautemps ringt um den Arbeitsfrieden.
+Found
+MODSMD_ARTICLE11: Ausländische Streikhetzer in der Umgebung von Lyon.
+Found
+MODSMD_ARTICLE12: Umfangreiche Säuberungsaktion um Teruel.
+Found
+MODSMD_ARTICLE13: Ein heimlicher Tscheka-Friedhof in Alicante entdeckt.
+Found
+MODSMD_ARTICLE14: Ungarns Maßnahmen gegen jüdische Emigranten.
+Found
+MODSMD_ARTICLE15: Fünf Verhaftungen im sowjetrussischen Außenamt.
+Found
+MODSMD_ARTICLE16: Neuer Pressechef der Bolschewistischen Partei.
+Found
+MODSMD_ARTICLE17: Tagesmeldung aus Moskau: Acht Todesurteile.
+Found
+MODSMD_ARTICLE18: Das ägyptische Parlament aufgelöst.
+Found
+MODSMD_ARTICLE19: 45 Verletzte bei politischen Kundgebungen in Aegypten.
+Found
+MODSMD_ARTICLE20: 19,8 Millionen Arbeitslose in Amerika.
+Found

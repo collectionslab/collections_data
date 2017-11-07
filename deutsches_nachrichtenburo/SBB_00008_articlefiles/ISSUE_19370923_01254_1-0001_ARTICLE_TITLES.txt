@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die großen Wehrmachtsmanöver.
+Found
+MODSMD_ARTICLE02: Die Bedeutung des Mussolini-Besuches.
+Found
+MODSMD_ARTICLE04: General Stefan von Horthy -f.
+Found
+MODSMD_ARTICLE05: Gründung eines Demokratischen Blocks in Polen.
+Found
+MODSMD_ARTICLE06: Zurückweisung tschechischer Presseangriffe durch Polen.
+Found
+MODSMD_ARTICLE07: Nationaler Heeresbericht vom Mittwoch.
+Found
+MODSMD_ARTICLE08: Japan lehnt jeden Schadensersatz ab.
+Found
+MODSMD_ARTICLE09: Der amerikanische Botschafter nach Nanking zurückgekehrt.
+Found
+MODSMD_ARTICLE10: Schraube ohne Ende auch in Syrien.
+Found
+MODSMD_ARTICLE11: Die Weißen Südafrikas wehren sich.
+Found

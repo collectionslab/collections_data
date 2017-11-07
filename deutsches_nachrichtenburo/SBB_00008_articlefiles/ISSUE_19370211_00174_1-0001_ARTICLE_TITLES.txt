@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht den König von Aegypten
+Found
+MODSMD_ARTICLE02: Italienischer Besuch in der Reichsfilmkammer.
+Found
+MODSMD_ARTICLE03: Sitzung des Londoner Unterausschusses.
+Found
+MODSMD_ARTICLE04: Die englische Sensationspresse macht sich mißliebig.
+Found
+MODSMD_ARTICLE05: Meinungsverschiedenheiten im englischen Kabinett?
+Found
+MODSMD_ARTICLE06: Bevölkerungspolitische Aussprache im Unterhaus.
+Found
+MODSMD_ARTICLE07: Sabotageakte auch in der australischen Kriegsflotte.
+Found
+MODSMD_ARTICLE08: Eine italienische Richtigstellung.
+Found
+MODSMD_ARTICLE09: Die nationalen Divisionen im Vormarsch.
+Found
+MODSMD_ARTICLE10: Wie die Bolschewismen in Malaga hausten.
+Found
+MODSMD_ARTICLE11: Neuer Golddiebstahl der spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE12: Die Folgen der Beschießung des Hafens von Barcelona.
+Found
+MODSMD_ARTICLE13: Streikabbruch bei General Motors.
+Found
+MODSMD_ARTICLE14: Smuts über Lösung internationaler Schwierigkeiten.
+Found
+MODSMD_ARTICLE15: Aegypten feiert den Geburtstag seines Königs.
+Found
+MODSMD_ARTICLE16: Vollzug eines Todesurteils in Augsburg.
+Found

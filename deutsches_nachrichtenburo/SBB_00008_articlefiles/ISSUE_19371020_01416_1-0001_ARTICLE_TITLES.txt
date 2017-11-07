@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Tagung der Deutschen Gesellschaft für Gynäkologie.
+Found
+MODSMD_ARTICLE02: Abschied Bonomis von Berlin.
+Found
+MODSMD_ARTICLE03: Italienischer Besuch in München.
+Found
+MODSMD_ARTICLE04: Reichsführer SS. Himmler aus Rom abgereist.
+Found
+MODSMD_ARTICLE05: Der Duce setzt einen Obersten Autarkierat ein.
+Found
+MODSMD_ARTICLE06: „Eine wenig ermutigende Atmosphäre".
+Found
+MODSMD_ARTICLE07: Botschafter von Stohrer besucht San Sebastian.
+Found
+MODSMD_ARTICLE08: Der finnische Außenminister nach Berlin abgereist.
+Found
+MODSMD_ARTICLE09: Sowjetspion als englischer Tourist verkleidet!
+Found
+MODSMD_ARTICLE10: Die Kolonialdebatte wird fortgesetzt.
+Found
+MODSMD_ARTICLE11: Folgen der Teuerungswelle in Frankreich.
+Found
+MODSMD_ARTICLE12: Erhöhte Abgaben auch für die Besitzer der Ehrenlegion.
+Found
+MODSMD_ARTICLE13: Katalanische Grenzposten in sowjetrussischer Uniform!
+Found
+MODSMD_ARTICLE14: Erfolg der jugoslawischen Regierung im Parlament.
+Found
+MODSMD_ARTICLE15: Roosevelt Zur Neun-Mächte-Konferenz.
+Found
+MODSMD_ARTICLE16: Peinliche Fragen an Roosevelt.
+Found
+MODSMD_ARTICLE17: „Roosevelts Privatpolitik".
+Found
+MODSMD_ARTICLE18: Material für den Nichteinmischungsausschuß.
+Found
+MODSMD_ARTICLE19: Hull fährt nach Kanada.
+Found
+MODSMD_ARTICLE20: Mexikanische Ordensauszeichnung für Azana.
+Found
+MODSMD_ARTICLE21: Verpachtung von USA.-Zerstörern an Brasilien.
+Found

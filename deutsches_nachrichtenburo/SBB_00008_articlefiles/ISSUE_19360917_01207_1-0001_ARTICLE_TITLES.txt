@@ -1,0 +1,4 @@
+MODSMD_ARTICLE01: Der Führer an die Soldaten des V. Armeekorps.
+Found
+MODSMD_ARTICLE02: Lloyd George über seine Eindrücke in Deutschland.
+Found

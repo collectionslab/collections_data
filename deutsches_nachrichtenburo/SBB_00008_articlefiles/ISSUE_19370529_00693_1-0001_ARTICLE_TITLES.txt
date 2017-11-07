@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dr. Goebbels rechnet ab.
+Found
+MODSMD_ARTICLE02: Erneute Provokation des internationalen Kontrolldienstes.
+Found
+MODSMD_ARTICLE03: Kanadische Frontkämpfer aus dem Kynlmuser.
+Found
+MODSMD_ARTICLE04: Dr. Ley eröffnet die Ausstellung „Meisterwettkampf 1937".
+Found
+MODSMD_ARTICLE05: Weitere 13 Besatzungsmitglieder des „Hindenburg" daheim.
+Found
+MODSMD_ARTICLE06: Deutsch-französischer Handelsvertrag vor dem Abschluß.
+Found
+MODSMD_ARTICLE07: Bisher 11 VW Franzosen aus Spanien heimbeförd'tzxt.
+Found
+MODSMD_ARTICLE08: De la Roque zur Schaffung der „Freiheitsfront".
+Found
+MODSMD_ARTICLE09: Das neue britische Kabinett vereidigt.
+Found
+MODSMD_ARTICLE10: Der Oslo-Block hat Handelsabkommen unterzeichnet.
+Found
+MODSMD_ARTICLE11: Der japanisch-chinesische Zwischenfall in Swatau.
+Found
+MODSMD_ARTICLE12: Kommunistische Spionageorganisation in Korea aufgedeckt.
+Found

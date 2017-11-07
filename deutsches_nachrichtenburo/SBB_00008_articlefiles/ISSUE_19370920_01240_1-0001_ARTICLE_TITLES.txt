@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ein Aufruf zu Hindenburgs 99. Geburtstag.
+Found
+MODSMD_ARTICLE02: Von Blomberg und Göring beobachten den Luftangriff.
+Found
+MODSMD_ARTICLE03: Wechsel in der Leitung der Reichspostdirektion Oppeln.
+Found
+MODSMD_ARTICLE04: General von Gerok gestorben.
+Found
+MODSMD_ARTICLE05: Oberbolschewist Negrin beleidigt den Führer!
+Found
+MODSMD_ARTICLE06: „Antideutsche Politik stürzt Oesterreich ins Verderben."
+Found
+MODSMD_ARTICLE07: Deutsche Konditoren erhalten französischen Staatspreis.
+Found
+MODSMD_ARTICLE08: Gamelin bei jugoslawischen und rumänischen Manövern.
+Found
+MODSMD_ARTICLE09: Nordspaniens Presse begrüßt Botschafter von Stohrer.
+Found
+MODSMD_ARTICLE10: „Tevere" über die Lage im Mittelmeer.
+Found
+MODSMD_ARTICLE11: Wie England seine Staatsangehörigen in Nanking schützt.
+Found
+MODSMD_ARTICLE12: England und die Blockade der chinesischen Kstste.
+Found
+MODSMD_ARTICLE13: Sieben gleichzeitige „Ehen" eines polnischen Juden.
+Found
+MODSMD_ARTICLE14: Das Programm der „American Legion".
+Found
+MODSMD_ARTICLE15: Luftschlacht auch in Nordchina.
+Found

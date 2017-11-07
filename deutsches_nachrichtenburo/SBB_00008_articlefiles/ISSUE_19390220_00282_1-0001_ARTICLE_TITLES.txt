@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ernüchterung in Paris.
+Found
+MODSMD_ARTICLE02: Skandalöse Zustände in Toulouse.
+Found
+MODSMD_ARTICLE03: Unter der Geißel der rotspanischen Milizen.
+Found
+MODSMD_ARTICLE04: Visher 55 999 Katalonien-Flüchtlinge zurückgekehrt.
+Found
+MODSMD_ARTICLE05: Wo steckt del Vayv?
+Found
+MODSMD_ARTICLE06: Der Vertreter Perus in Burgos.
+Found
+MODSMD_ARTICLE07: England sieht die Lage realistischer.
+Found
+MODSMD_ARTICLE08: Immer noch unzufrieden mit der britischen Aufrüstung.
+Found
+MODSMD_ARTICLE09: Dr. Münch reist nach Helsinki.
+Found
+MODSMD_ARTICLE10: Der türkische Außenminister auf der Fahrt nach Bukarest.
+Found
+MODSMD_ARTICLE11: Roosevelt will die Flugzeugaffäre vertuscheu.
+Found
+MODSMD_ARTICLE12: Hearst contra Roosevelt.
+Found
+MODSMD_ARTICLE13: Aegypten erkennt Francs an.
+Found
+MODSMD_ARTICLE14: Ganz Damaskus demonstrierte.
+Found
+MODSMD_ARTICLE15: Neuer Zwischenfall in Schanghai.
+Found
+MODSMD_ARTICLE16: Der Außenminister der Nanking-Regierung ermordet.
+Found

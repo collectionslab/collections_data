@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Generalkonsul Kehn ins Propagandaministerium berufen»
+Found
+MODSMD_ARTICLE02: Der slowakische Gesandte bei der Hitlerjugend.
+Found
+MODSMD_ARTICLE03: Empfang Zu Ehren der Fünfkampfmannschaften.
+Found
+MODSMD_ARTICLE04: Internationale Luftfahrtausstellung in Brüssel eröffnet.
+Found
+MODSMD_ARTICLE05: Was die polnische Presse verschweigt.
+Found
+MODSMD_ARTICLE06: Polnischer Unterdrückungsfeldzug gegen die Ukrainer.
+Found
+MODSMD_ARTICLE07: England bleibt unbelehrbar.
+Found
+MODSMD_ARTICLE08: Arita über die japanischen Neuordnungsbestrebungen.
+Found
+MODSMD_ARTICLE09: Begeistertes Echo des Kjosseiwauoff-Besuchs in Bulgarien.
+Found
+MODSMD_ARTICLE10: Die Kennzahl der Großhandelspreise vom 5. Juli und im Monatsdurchschnitt Juni 1939.
+Found

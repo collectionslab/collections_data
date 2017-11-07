@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer au General von Löhberg.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Die Ehrengäste des 1. Mai bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: Glückwunschadresse des Auswärtigen Amtes an Ribbentrvp.
+Found
+MODSMD_ARTICLE05: Empfang für Minister Jankowitsch.
+Found
+MODSMD_ARTICLE06: Verleihung von Trcncdirnst Ehrenzeichen.
+Found
+MODSMD_ARTICLE07: Handelsabkommen zwischen Deutschland und Ecuador.
+Found
+MODSMD_ARTICLE08: Die Vertretung von Juden in Rechtsangelegenheiten.
+Found
+MODSMD_ARTICLE09: Die erste Marine-SA.-Führerschule in Kiel eröffnet.
+Found
+MODSMD_ARTICLE10: Ein neues 36 KW Tonnen-Schiff der Hapag
+Found
+MODSMD_ARTICLE11: Urlauberaustausch im Rahmen der Hitler-Freiplatz-Spende.
+Found
+MODSMD_ARTICLE12: Rom bereits völlig im Zeichen des Führerbesuches.
+Found
+MODSMD_ARTICLE13: Das Sudetendeutschtum läßt sich nicht provozieren!
+Found
+MODSMD_ARTICLE14: 15 v. H. Lohnherabschung für USA.-Eisenbahnarbeiter.
+Found
+MODSMD_ARTICLE15: Die Reichsten nzisscr für Lebenshaltungskosten im April.
+Found

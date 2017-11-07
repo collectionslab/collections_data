@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Rückreise des Reichsaußenministers.
+Found
+MODSMD_ARTICLE02: Die Torpedierung der „Courageous".
+Found
+MODSMD_ARTICLE03: Der englische Verrat an Polen.
+Found
+MODSMD_ARTICLE04: Holländische Entrüstung über die Knebelung der Schiffahrt.
+Found
+MODSMD_ARTICLE05: Staatssekretär Dr. Landfried bei Cincar-Markowitsch.
+Found
+MODSMD_ARTICLE06: „In Moskau wird das Schicksal Osteuropas entschieden".
+Found
+MODSMD_ARTICLE07: Der Londoner Sender einer dreisten Lüge überführt.
+Found
+MODSMD_ARTICLE08: Das neue rumänische Kabinett.
+Found
+MODSMD_ARTICLE09: Nur eine Partei in der Slowakei.
+Found
+MODSMD_ARTICLE10: Englische Lügen nochmals festgenagelt.
+Found
+MODSMD_ARTICLE11: „Unhaltbare Zustände im französischen Postverkehr".
+Found
+MODSMD_ARTICLE12: Um die Wiederaufnahme dez- Tientsin-Konferenz.
+Found
+MODSMD_ARTICLE13: Austenausschuß des Senats stimmt der Pittman-Bill zu.
+Found
+MODSMD_ARTICLE14: Mexiko bleibt streng neutral.
+Found
+MODSMD_ARTICLE15: Erneute Schlappe der Lügenfabrikanten.
+Found

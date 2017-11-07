@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: „Barbarische Methoden!"
+Found
+MODSMD_ARTICLE02: Franz Stöhr f.
+Found
+MODSMD_ARTICLE03: Bulgarisches Kabinett nochmals verändert.
+Found
+MODSMD_ARTICLE04: Selbstauslösung des italienischen Rotary Verbandes.
+Found
+MODSMD_ARTICLE05: Der Vormarsch am Eöro-Bogen geht weiter.
+Found
+MODSMD_ARTICLE06: Deutsche Musik in Griechenland.
+Found
+MODSMD_ARTICLE07: Bemerkenswerte Eingeständnisse der „Prawda".
+Found
+MODSMD_ARTICLE08: „Voller Sieg Mexikos."
+Found
+MODSMD_ARTICLE09: Holländisches Verkehrsflugzeug verunglückt.
+Found

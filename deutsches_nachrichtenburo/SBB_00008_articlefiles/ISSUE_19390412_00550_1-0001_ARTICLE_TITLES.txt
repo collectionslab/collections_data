@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Zu Regierungspräsidenten ernannt.
+Found
+MODSMD_ARTICLE02: Staatssekretär Esser besucht Italien.
+Found
+MODSMD_ARTICLE03: Italien im Bewußtsein seiner Stärke.
+Found
+MODSMD_ARTICLE04: „Regime Fascista" weist französische Heucheleien Zurück.
+Found
+MODSMD_ARTICLE05: „Rom achtet die Unverletzlichkeit Griechenlands."
+Found
+MODSMD_ARTICLE06: Belgrad zur Frage einer Garantie für Griechenland.
+Found
+MODSMD_ARTICLE07: „Held" Zogu.
+Found
+MODSMD_ARTICLE08: „Information" stellt eine leichte Entspannung fest.
+Found
+MODSMD_ARTICLE09: Großprogramm für öffentliche Arbeiten in Spanien.
+Found
+MODSMD_ARTICLE10: Afrikanisches Truppenmanöver zu Ehren Görings.
+Found
+MODSMD_ARTICLE11: Japans Presse durchschaut das Spiel Englands.
+Found
+MODSMD_ARTICLE12: Völliges Durcheinander in Aegypten.
+Found
+MODSMD_ARTICLE13: Zwei Mörder hingerichtet.
+Found

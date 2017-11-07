@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Leitung der bayerischen Ministerien für Wirtschaft und Unterricht.
+Found
+MODSMD_ARTICLE02: Empfang der Kulturschaffenden im Propagandaministerium.
+Found
+MODSMD_ARTICLE03: Rudolf Heß auf dem Abend des deutschen Bauerntums.
+Found
+MODSMD_ARTICLE04: Ball der ausländischen Presse.
+Found
+MODSMD_ARTICLE05: Die Schaffung des britischen Nahrungsmittelamtes.
+Found
+MODSMD_ARTICLE06: Pariser Presse lehnt bolschewistische Anrufung des Völkerbundesrates ab.
+Not Found
+MODSMD_ARTICLE07: General Gaupel in Salamanca eingetroffen.
+Found
+MODSMD_ARTICLE08: Bolschewisten lehnen Humanisierungsbestrebungen ab.
+Found
+MODSMD_ARTICLE09: Großmütige Gerechtigkeit der spanischen Nationalregierung.
+Found
+MODSMD_ARTICLE10: Litwinow-Finlelstein als bolschewistischer Hetzredner,
+Found
+MODSMD_ARTICLE11: Immer wieder Goldschmuggel der Roten nach Frankreich.
+Found
+MODSMD_ARTICLE12: Daranyi über die Ergebnisse der Rom-Reise.
+Found
+MODSMD_ARTICLE13: Deutscher Minderheitenvertreter zur Thronrede.
+Found
+MODSMD_ARTICLE14: Bahnhofsvorsteher von Perpignan verhastet.
+Found

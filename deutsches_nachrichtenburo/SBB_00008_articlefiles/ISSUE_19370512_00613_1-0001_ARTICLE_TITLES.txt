@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Besuch des holländischen Sozialministers.
+Found
+MODSMD_ARTICLE02: Staatsrat Meinberg mit Sonderaufgabe betraut.
+Found
+MODSMD_ARTICLE03: Werkstoffausstellung des Handwerks.
+Found
+MODSMD_ARTICLE04: Trauerfeier für die Opfer des „Hindenburg"-Unglücks.
+Found
+MODSMD_ARTICLE05: Die Untersuchung der „Hiudenburg"-Katastrophe.
+Found
+MODSMD_ARTICLE06: Wunderbare Rettung des Kabinenjungen vom „Hindenburg".
+Found
+MODSMD_ARTICLE07: 3000 Gäste beim Herzogpaar von Kent.
+Found
+MODSMD_ARTICLE08: Angriffe der Regierungsmehrheit gegen van Zeeland.
+Found
+MODSMD_ARTICLE09: Beschwerde der Franco-Regierung über Englands Beihilfe.
+Found
+MODSMD_ARTICLE10: Zerstörung spanischer Kunstdenkmäler durch Bombenabwürfe.
+Found
+MODSMD_ARTICLE11: Der Nachfolger Hedillas im Führerrat der Nationalpartei.
+Found
+MODSMD_ARTICLE12: Bukarestreise des türkischen Außenministers.
+Found

@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Offiziere der Luftwaffe mit dem Ritterkreuz ausgezeichnet.
+Found
+MODSMD_ARTICLE02: „Daily Mail" plaudert aus der Schule.
+Found
+MODSMD_ARTICLE03: Was sagt Amerika zum Raub von Cura?ao und Aruba?
+Found
+MODSMD_ARTICLE04: Wer regiert England?"
+Found
+MODSMD_ARTICLE05: Die Entlassung norwegischer Kriegsgefangener.
+Found
+MODSMD_ARTICLE06: Neuer Justizmord in Frankreich.
+Found
+MODSMD_ARTICLE07: Lüttich gefallen.
+Found
+MODSMD_ARTICLE08: Japan zur Frage Niederländisch-Jndiens.
+Found
+MODSMD_ARTICLE09: „Holland schützt seine Kolonien selbst."
+Found

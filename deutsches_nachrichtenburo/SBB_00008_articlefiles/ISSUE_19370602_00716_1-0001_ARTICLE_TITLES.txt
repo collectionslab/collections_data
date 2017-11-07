@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: „Die Bolschewisten kommen nicht auf ihre Kosten!"
+Found
+MODSMD_ARTICLE02: London weiterhin optimistisch.
+Found
+MODSMD_ARTICLE03: Paris hält die Lage für entspannt.
+Found
+MODSMD_ARTICLE04: „Barcelona und Valencia die Unruheherde Europas".
+Found
+MODSMD_ARTICLE05: Portugal fordert ebenfalls Garantien.
+Found
+MODSMD_ARTICLE06: Eden berichtete vor der Reichskonferenz über Spanien.
+Found
+MODSMD_ARTICLE07: Der nationale Heeresbericht vom Dienstag.
+Found
+MODSMD_ARTICLE08: „Ciudad de Barcelona" lief auf eine Mine.
+Found
+MODSMD_ARTICLE09: Chamberlains Entscheidung über die Rüstungssteuervorlage.
+Found
+MODSMD_ARTICLE10: Minister Swietoslawski nach Budapest abgereist.
+Found
+MODSMD_ARTICLE11: Atlantik-Rekordflug endgültig abgesagt.
+Found
+MODSMD_ARTICLE12: Der amerikanische Senat gegen Steuerhinterziehungen.
+Found
+MODSMD_ARTICLE13: „Palästina ist unteilbar."
+Found

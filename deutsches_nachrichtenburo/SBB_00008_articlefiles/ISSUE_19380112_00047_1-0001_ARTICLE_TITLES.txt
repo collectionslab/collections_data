@@ -1,0 +1,36 @@
+MODSMD_ARTICLE02: Beileidstelegramm des Führers an Präsident Justo.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Neujahrsempfang in Warschau.
+Found
+MODSMD_ARTICLE05: Eine Erklärung Skwarczynskis.
+Found
+MODSMD_ARTICLE06: Judentum und Kommunismus.
+Found
+MODSMD_ARTICLE07: Warschau feiert die polnisch-ungarische Freundschaft.
+Found
+MODSMD_ARTICLE08: Bvlschewisten verschleudern historische Kunstschätze.
+Found
+MODSMD_ARTICLE10: König Georg dankt dem griechischen Volk.
+Found
+MODSMD_ARTICLE11: Vor Abschluß der Budapester Zusammenkunft.
+Found
+MODSMD_ARTICLE12: Besserung im Befinden der Königin von Dänemark.
+Found
+MODSMD_ARTICLE13: Mißglückte Legitimistenkundgebungen in Wien.
+Found
+MODSMD_ARTICLE14: Starke Beachtung der Führeransprache in Rom.
+Found
+MODSMD_ARTICLE15: London über die Friedensworte des Führers.
+Found
+MODSMD_ARTICLE16: Auch der Arbeitsminister bemühte sich vergeblich.
+Found
+MODSMD_ARTICLE17: Nationalspanische Zeitungen in Frankreich verboten.
+Found
+MODSMD_ARTICLE18: Japans Vormarsch in Schantung.
+Found
+MODSMD_ARTICLE19: Kapstadt wird befestigt.
+Found
+MODSMD_ARTICLE20: Amerikas Interesse an den Philippinen.
+Found

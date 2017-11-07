@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Parade des SX. Armeekorps vor dem Führer.
+Found
+MODSMD_ARTICLE02: Die Ankunft des Führers.
+Found
+MODSMD_ARTICLE03: Der Führer spricht.
+Found
+MODSMD_ARTICLE04: Die Fahnenübergabe.
+Found
+MODSMD_ARTICLE05: Der Vorbeimarsch.
+Found
+MODSMD_ARTICLE06: Der afghanische Außenminister in Berlin.
+Found
+MODSMD_ARTICLE07: Beileid Deutschlands zum Tode Bureschs.
+Found
+MODSMD_ARTICLE08: Deutsches Beileid in Paris.
+Found
+MODSMD_ARTICLE09: Dritte deutsche Minderheitenschule in Kattowitz geschlossen.
+Found
+MODSMD_ARTICLE10: Gesandter Veverka überreicht sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE11: Englische Ministerbesprechung.
+Found
+MODSMD_ARTICLE12: Marxistischer Gewerkschafts-Landesausschust einberufen.
+Found
+MODSMD_ARTICLE13: Die Liller Textilbetriebe geräumt.
+Found
+MODSMD_ARTICLE14: Die Sitzung des Völkerbundsrates.
+Found
+MODSMD_ARTICLE15: Aussprache des österreichischen Finanzministers mit Delbos.
+Found
+MODSMD_ARTICLE16: Der ungarische Außenminister reist nach Genf.
+Found
+MODSMD_ARTICLE17: Dr. Beneschs Besuchsreise in die Westslowakei.
+Found
+MODSMD_ARTICLE18: Griechische Arbeiterverbände für den König.
+Found
+MODSMD_ARTICLE19: Erhöhte Aktivität der nationalistischen Flieger.
+Found
+MODSMD_ARTICLE20: Brasilianischer Protest gegen marxistische Grausamkeiten.
+Found
+MODSMD_ARTICLE21: Kommunistische Herausforderung französischer Matrosen.
+Found

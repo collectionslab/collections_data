@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer empfängt die Mitglieder des Volksgerichtshofes.
+Found
+MODSMD_ARTICLE02: Gesandter von Rndowit; beim Führer.
+Found
+MODSMD_ARTICLE03: Erklärung der Familie Nobel.
+Found
+MODSMD_ARTICLE04: Maßnahmen Zur Finanzierung der Reichsautobahnen.
+Found
+MODSMD_ARTICLE05: Boliviens Gesandter bei Anslandsorganisation der NSDAP.
+Found
+MODSMD_ARTICLE06: Neue Prüfungsbestimmungen an Verwaltungs-Akademien.
+Found
+MODSMD_ARTICLE07: „Hindenburg" über den deutschen Siedlungen Brasiliens.
+Found
+MODSMD_ARTICLE08: Polnische Spende für Danziger Seeleute.
+Found
+MODSMD_ARTICLE09: Die Militärvorlage vor der belgischen Kammer.
+Found
+MODSMD_ARTICLE10: Delbos fährt nach Genf.
+Found
+MODSMD_ARTICLE11: Kurze Sitzung der französischen Kammer.
+Found
+MODSMD_ARTICLE12: französische Pressegesetzdebatte erneut verschoben»
+Found
+MODSMD_ARTICLE13: Tie Bolschewisierung der tschechischen Hochschulen.
+Found
+MODSMD_ARTICLE14: Die Pleite der Gotilosenpropaganda in Sowjetrusstand.
+Found
+MODSMD_ARTICLE15: Lettlands Militärblatt gegen die Bolschewistendrohungen.
+Found
+MODSMD_ARTICLE16: Ungarisch-italienischer Telegrammwechsel.
+Found
+MODSMD_ARTICLE17: Festtage in Bukarest,
+Found
+MODSMD_ARTICLE18: Der Industrielle Gustav Oberländer 5.
+Found
+MODSMD_ARTICLE19: Roosevelt will zwischen Paraguay und Bolivien vermitteln.
+Found

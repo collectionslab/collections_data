@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Goebbels über Propaganda, Volksmeinung und Kulturfragen.
+Found
+MODSMD_ARTICLE02: Der Dank der dmtschen Arbeiter an Göring.
+Found
+MODSMD_ARTICLE03: Die Tagung des Bundes Deutscher Osten. >
+Found
+MODSMD_ARTICLE04: Mit der Leitung des Prager Handelsministeriums betraut.
+Found
+MODSMD_ARTICLE05: Baron Jschii in Paris.
+Found
+MODSMD_ARTICLE06: Pariser Kammerausschuß für Zeitungsausfuhrverbot.
+Found
+MODSMD_ARTICLE07: Haushalt des Pariser Innenministeriums genehmigt.
+Found
+MODSMD_ARTICLE08: Dienstag Zusammentritt des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE09: Eine Erklärung der deutschen Volksgruppe in Rumänien.
+Found
+MODSMD_ARTICLE10: Indische Nutznießer einer Fälscheraffäre in ÄAkarest.
+Found
+MODSMD_ARTICLE11: Kubanisches Gesetz gegen lästige Ausländer.
+Found
+MODSMD_ARTICLE12: USA-Postsäcke von Millionenwert geraubt.
+Found
+MODSMD_ARTICLE13: Die Japaner 40 km vor Nanking.
+Found
+MODSMD_ARTICLE14: Hinrichtung eines Raubmörders.
+Found

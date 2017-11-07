@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Obergeneralarzt a. D. Prof. von Kern 30 Jahre alt.
+Found
+MODSMD_ARTICLE02: Teutschlands erfolgreiche Bevölkerungspolitik.
+Found
+MODSMD_ARTICLE03: „Das französische Volk will Verständigung mit Deutschland."
+Found
+MODSMD_ARTICLE04: Einweihung der „Wilhelm-Frick-Hütte" im Spertental.
+Found
+MODSMD_ARTICLE05: Tie „Studienfahrt Deutscher Technik" abgeschlossen.
+Found
+MODSMD_ARTICLE06: Dänisch-nationalsozialistische Tageszeitung ab 1. Januar.
+Found
+MODSMD_ARTICLE07: Die Judenfrage vor dem polnischen Sejm.
+Found
+MODSMD_ARTICLE08: Belgien stellt dreiste Lügen richtig.
+Found
+MODSMD_ARTICLE09: Das Ergebnis der Sudetenwahl.
+Found
+MODSMD_ARTICLE10: Albert Janssen belgischer Finanzminister.
+Found
+MODSMD_ARTICLE11: Jüdische Schmuggelbande in Mailand gefaßt.
+Found
+MODSMD_ARTICLE12: Der Rakoczy-Marsch wird Nationalhymne.
+Found
+MODSMD_ARTICLE13: Wieder Erschießung „bei Nacht und starkem Nebel".
+Found
+MODSMD_ARTICLE14: Metaxas: „Balkan-Bund gegen niemanden gerichtet."
+Found
+MODSMD_ARTICLE15: Zwei griechische Minister zurückgetreten.
+Found

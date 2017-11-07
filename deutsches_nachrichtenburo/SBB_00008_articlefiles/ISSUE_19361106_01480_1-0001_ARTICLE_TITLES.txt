@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Schutz des Gedenktages vom 3. November.
+Found
+MODSMD_ARTICLE02: Neue 500 Millionen-Anleihe des Deutschen Reiches.
+Found
+MODSMD_ARTICLE03: Die Tagung der RBG Verkehr und öffentliche Betriebe.
+Found
+MODSMD_ARTICLE04: Gegen Verherrlichung jüdischer Mörder.
+Found
+MODSMD_ARTICLE05: Beschlagnahme der „Gazeta Gdanska" in Tanzig.
+Found
+MODSMD_ARTICLE06: Stockinger Präsident der Bundesbahnen.
+Found
+MODSMD_ARTICLE07: Scharfe polnische Erwiderung zur Krofta-Rede.
+Found
+MODSMD_ARTICLE08: Schweres Eisenbahnunglück bei Warschau.
+Found
+MODSMD_ARTICLE09: Reform der französischen Gemeindefinanzen.
+Found
+MODSMD_ARTICLE10: Brandstiftungen und Plünderungen in Madrid.
+Found
+MODSMD_ARTICLE11: Zahlreiche Kommunisten in Lettland verurteilt.
+Found
+MODSMD_ARTICLE12: Neue Kämpfe um die Innere Mongolei.
+Found

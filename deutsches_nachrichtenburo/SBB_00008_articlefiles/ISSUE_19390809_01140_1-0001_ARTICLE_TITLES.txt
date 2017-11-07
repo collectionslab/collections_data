@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Generalfeldmarschall Görina wieder in Berlin.
+Found
+MODSMD_ARTICLE02: Küstenpatrouillenboot fährt Weltrekord.
+Found
+MODSMD_ARTICLE03: Protestkundgebung Danzigs gegen die polnische Bedrohung.
+Found
+MODSMD_ARTICLE04: Dr. Goebbels vor Vertretern des italienischen Schrifttums.
+Found
+MODSMD_ARTICLE05: General Pariani über die Manöver in Oberitalien.
+Found
+MODSMD_ARTICLE06: Anerkenung des Königs von Italien.
+Found
+MODSMD_ARTICLE07: Polen fehlen die Reserven!
+Found
+MODSMD_ARTICLE08: Warschau macht sich wieder einmal selbst Mut.
+Found
+MODSMD_ARTICLE09: Amerikanisch-britische Front gegen die Iren?
+Found
+MODSMD_ARTICLE10: Wieder zwei Sprengstoff-Briefe entdeckt.
+Found
+MODSMD_ARTICLE11: In Erwartung neuer antibritischer Kundgebungen.
+Found
+MODSMD_ARTICLE12: Die britischen Luftmanöver.
+Found
+MODSMD_ARTICLE13: „Scharfer Protest" Englands.
+Found
+MODSMD_ARTICLE14: Pressekonferenz bei Roosevelt.
+Found
+MODSMD_ARTICLE15: Minister Hopkins als Hetzer.
+Found
+MODSMD_ARTICLE16: Jrenfiihrer Russell noch in den USA.
+Found
+MODSMD_ARTICLE17: Südafrika gegen das kriegshetzerische Judentum.
+Found
+MODSMD_ARTICLE18: Englisch-ägyptische Manöver im östlichen Mittelmeer.
+Found
+MODSMD_ARTICLE19: Macht England Bewaffnung der Palästinajuden rückgängig?
+Found
+MODSMD_ARTICLE20: Palästina-Kommissar geht in die Ferien.
+Found
+MODSMD_ARTICLE21: Japanische Armee hat Englands Verhandlungstaktik satt.
+Found
+MODSMD_ARTICLE22: Die Fünfer-Konferenz in Tokio.
+Found
+MODSMD_ARTICLE23: „Englisch-japanische Beziehungen schlechter denn je".
+Found

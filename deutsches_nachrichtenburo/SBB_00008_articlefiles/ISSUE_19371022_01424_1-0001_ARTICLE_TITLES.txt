@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Frank in Versailles.
+Found
+MODSMD_ARTICLE02: Empfang in der Deutschen Botschaft.
+Found
+MODSMD_ARTICLE03: Botschafter von Stohrer verläßt San Sebastian.
+Found
+MODSMD_ARTICLE04: Schriftleiter der „Kattowitzer Zeitung" verhaftet.
+Found
+MODSMD_ARTICLE05: Der deutsch-belgische Notenwechsel vor der Kammer.
+Found
+MODSMD_ARTICLE06: Verfassungsaussprache in der Haager Kammer.
+Found
+MODSMD_ARTICLE07: Der Mord an Borchgrave vor dem Haager Gerichtshof.
+Found
+MODSMD_ARTICLE08: „Die Nordfrout hat aufgehört zu existieren."
+Found
+MODSMD_ARTICLE09: Francos Sieg in Asturien ein gewaltiger strategischer Erfolg.
+Found
+MODSMD_ARTICLE10: 35 Provinzen gehören Francs, 15 den Bolschewisten.
+Found
+MODSMD_ARTICLE11: Die rote Schreckensherrschaft in Jnfiesto.
+Found
+MODSMD_ARTICLE12: In Sowjetspanien werden „Schuldige" gesucht.
+Found
+MODSMD_ARTICLE13: „Bürgerlich entartete" Miliz in Sowjetrußland.
+Found
+MODSMD_ARTICLE14: Kontingentierung der jüdischen Einwanderung in Palästina.
+Found
+MODSMD_ARTICLE15: Ueberfall in Jerusalem.
+Found
+MODSMD_ARTICLE16: Schritt des amerikanischen Botschafters in Nanking.
+Found
+MODSMD_ARTICLE17: Außenminister Hüll in Ottawa.
+Found
+MODSMD_ARTICLE18: 35 000 Tonnen-Schlachtschiff für USA. wird auf Kiel gelegt.
+Found

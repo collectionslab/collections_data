@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Bombardement von Almeria.
+Found
+MODSMD_ARTICLE02: Verstärkung der deutschen Seestreitkräfte.
+Found
+MODSMD_ARTICLE03: Beileid Francas an den Führer.
+Found
+MODSMD_ARTICLE04: Trauerbeflaggung der staatlichen und kommunalen Gebäude.
+Found
+MODSMD_ARTICLE05: Gibraltar flaggt halbmast.
+Found
+MODSMD_ARTICLE06: Auslandsstimmen zum Ueberfall auf die „Deutschland"^
+Found
+MODSMD_ARTICLE07: Flanderngedenkfeier des Reichskriegerbundes.
+Found
+MODSMD_ARTICLE08: Das Avus-Rennen lein deutscher Triumph.
+Found
+MODSMD_ARTICLE09: Die Vondel-Gedenkfeier in Köln.
+Found
+MODSMD_ARTICLE10: Große Beachtung der Goebbels-Rede in Holland.
+Found

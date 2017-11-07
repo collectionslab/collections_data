@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die ungarischen Philharmoniker in Mannheim.
+Found
+MODSMD_ARTICLE02: Dr. Ley spricht vor italienischen Industriellen.
+Found
+MODSMD_ARTICLE03: Die Athener Universität ehrt Reichsminister Ruft.
+Found
+MODSMD_ARTICLE04: Dr. Lippert sprach in Stockholm.
+Found
+MODSMD_ARTICLE05: Edens Besuch in Brüssel bestätigt.
+Found
+MODSMD_ARTICLE06: Die Einstellung von Rex zur flämischen Frage.
+Found
+MODSMD_ARTICLE07: Das nennt Moskau Nichteinmischung!
+Found
+MODSMD_ARTICLE08: Bolschewistischer Luftangriff auf Balladolid.
+Found
+MODSMD_ARTICLE09: Weiter vorwärts auf Durango.
+Found
+MODSMD_ARTICLE10: 14 Schweizer „Spanien-Fahrer" verurteilt.
+Found
+MODSMD_ARTICLE11: Die katastrophale Frühjahrsaussaat in der Sowjetunion.
+Found
+MODSMD_ARTICLE12: Die „Prawda" sucht wieder „Verantwortliche".
+Found
+MODSMD_ARTICLE13: Teilweise Arbeits-Wiederaufnahme in den Chryslerwerkeu.
+Found
+MODSMD_ARTICLE14: Der Präsident der Philippinen in Mexiko.
+Found

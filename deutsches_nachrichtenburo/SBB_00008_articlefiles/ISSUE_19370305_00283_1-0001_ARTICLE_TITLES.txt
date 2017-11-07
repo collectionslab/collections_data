@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Die Filmschaffenden an den Führer und Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Die Jahrestagung der Reichsfilmkammer.
+Found
+MODSMD_ARTICLE03: Französischer Ministerrat über die Finanzlage.
+Found
+MODSMD_ARTICLE04: Italiener in Frankreich belästigt.
+Found
+MODSMD_ARTICLE05: Starke Vermehrung der britischen Luftwaffe.
+Found
+MODSMD_ARTICLE06: „Freiwilliges Fliegerkorps" in Schweden.
+Found
+MODSMD_ARTICLE07: Auch Holland will ein Freiwilligenverbot erlassen.
+Found

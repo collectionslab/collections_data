@@ -1,0 +1,50 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an den König der Albaner.
+Found
+MODSMD_ARTICLE02: Abschluß der Jahrestagung von „Kraft durch Freude".
+Found
+MODSMD_ARTICLE03: Ehrenabordnungen des Bauerntums bei Darre.
+Found
+MODSMD_ARTICLE04: König Karl auf der Heimreise.
+Found
+MODSMD_ARTICLE05: Neuer Präsident der Deutsch-baltischen Volksgemeinschaft.
+Found
+MODSMD_ARTICLE06: Abschiedsbesuche des deutschen Gesandten in Riga.
+Found
+MODSMD_ARTICLE07: Memeldeutsche Beamte und Angestellte fordern ihr Recht.
+Found
+MODSMD_ARTICLE08: Luxemburg will keine Juden.
+Found
+MODSMD_ARTICLE09: Die Judenfrage in Polen.
+Found
+MODSMD_ARTICLE10: Polnisch-sowjetrussische Erklärung.
+Found
+MODSMD_ARTICLE11: Pirow in Rom
+Found
+MODSMD_ARTICLE12: Der Rücktritt des Kabinetts Jmredy abgelehnt.
+Found
+MODSMD_ARTICLE13: Jüdische Lehrkräfte aus der Slowakei an Prag überwiesen.
+Found
+MODSMD_ARTICLE14: Neue polnisch-slowakische Zwischenfälle.
+Found
+MODSMD_ARTICLE15: Leichter Ausnahmezustand in Sofia.
+Found
+MODSMD_ARTICLE16: Bonnet an die Adresse Amerikas.
+Found
+MODSMD_ARTICLE17: Die französischen Eisenbahnen können „rekurriert" werden.
+Found
+MODSMD_ARTICLE18: „Der Streik gegen den Frieden gerichtet!"
+Found
+MODSMD_ARTICLE19: Spaniens Bolschewisten Hetzen gegen Daladier.
+Found
+MODSMD_ARTICLE20: Das Verhältnis Deutschlands zu den Westmächten.
+Found
+MODSMD_ARTICLE21: Sowjetspanischer Bittgang zu Roosevelt?
+Found
+MODSMD_ARTICLE22: Brasiilien ehrt im Kommnnistenputsch gefallene Soldaten.
+Found
+MODSMD_ARTICLE23: Auch Kanada soll keine Juden aufnehmen.
+Found
+MODSMD_ARTICLE24: Wieder diplomatische Beziehungen Bolivien—Paraguay.
+Not Found
+MODSMD_ARTICLE25: Kein Interesse für Roosevelts Lima-Pläne.
+Found

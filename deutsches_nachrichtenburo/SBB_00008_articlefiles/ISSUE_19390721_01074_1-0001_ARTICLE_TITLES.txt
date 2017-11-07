@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers an den König der Belgier.
+Found
+MODSMD_ARTICLE02: Weihevolle Totenehrung durch Stabschef Lutze.
+Found
+MODSMD_ARTICLE03: Telegrammwechsel Brauchitsch—Lutze.
+Not Found
+MODSMD_ARTICLE04: Die faschistische Frauenabordnung in Deutschland.
+Found
+MODSMD_ARTICLE05: Deutsch-ungarische Jndustriebesprechungen.
+Found
+MODSMD_ARTICLE06: Der Auftakt der fünften KdF.-Reichstagung.
+Found
+MODSMD_ARTICLE07: Auszeichnung für Oberbürgermeister Fiehler.
+Found
+MODSMD_ARTICLE08: Der slowakische Verkehrsminister besuchte Deutschland.
+Found
+MODSMD_ARTICLE09: Der polnische Staatspräsident im Urlaub.
+Found
+MODSMD_ARTICLE10: Neue Nackenschläge auf das Deutschtum in Polen.
+Found
+MODSMD_ARTICLE11: Blindenführer Korfanty frei.
+Found
+MODSMD_ARTICLE12: König Gustav eröffnete die Lingiade.
+Found
+MODSMD_ARTICLE13: Die Einkreisungsanleihe an Polen.
+Found
+MODSMD_ARTICLE14: Rüstungsgeschäfte um jeden Preis.
+Found
+MODSMD_ARTICLE15: Nur Sklaverei!
+Found
+MODSMD_ARTICLE16: England trifft „Vorbereitungen" in Schanghai.
+Found
+MODSMD_ARTICLE17: Scharfe Kampfansage der Mohammedaner Indiens.
+Found

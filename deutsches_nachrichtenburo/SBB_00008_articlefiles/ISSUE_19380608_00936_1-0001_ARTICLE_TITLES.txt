@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Göring weiht Meisterschule für Malerei in Kronenburg.
+Found
+MODSMD_ARTICLE02: Sofortmaßnahmen der Deutschen Reichspost für Oesterreich.
+Found
+MODSMD_ARTICLE03: Italienische Verkehrssachmänner besuchen Deutschland»
+Found
+MODSMD_ARTICLE05: Reichsarbeitstagung der deutschen Chemiker in Bayreuth.
+Found
+MODSMD_ARTICLE06: Prag führt dreijährige Dienstzeit ein.
+Found
+MODSMD_ARTICLE07: Wer bezahlt die dreijährige Dienstzeit?
+Found
+MODSMD_ARTICLE08: Scharfe Sprache der norditalienischen Presse.
+Found
+MODSMD_ARTICLE09: Ungarns neue Wirtschafts- und Sozialpolitik.
+Found
+MODSMD_ARTICLE10: Protest der syrischen Regierung in Paris.
+Found
+MODSMD_ARTICLE11: Die Kennzahl der Großhandelspreise im Mai 1938.
+Found

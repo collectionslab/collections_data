@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Tie italienischen Journalisten in Stuttgart.
+Found
+MODSMD_ARTICLE02: „Keine neuen politischen Ziele."
+Found
+MODSMD_ARTICLE03: Vor neuen Entwicklungen in Oesterreich?
+Found
+MODSMD_ARTICLE05: Ungarische Befriedigung über die Ergebnisse von Venedig.
+Found
+MODSMD_ARTICLE06: Die bolschewistischen Wühlereien in Polen.
+Found
+MODSMD_ARTICLE07: Der Hungerstreik in Ostoberschlesien teilweise beigelegt
+Found
+MODSMD_ARTICLE08: Der Besuch des polnischen Austenministers in Bukarest.
+Found
+MODSMD_ARTICLE09: Nationaler Parteiführer in Ungarn verurteilt.
+Found
+MODSMD_ARTICLE10: Der nationale Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE11: Neue Strafgerichte in Moskau.
+Found
+MODSMD_ARTICLE12: Ungeheuerliche Steuerhinterziehung.
+Found

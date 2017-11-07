@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Tränengasbomben gegen Freiheitskämpfer.
+Found
+MODSMD_ARTICLE02: Sidor schuld an Machs Verhaftung.
+Found
+MODSMD_ARTICLE03: Deutsche Vauerndörser brennen»
+Found
+MODSMD_ARTICLE04: 59 Verletzte in Jglau.
+Found
+MODSMD_ARTICLE05: Fünf Deutsche vermißt.
+Found
+MODSMD_ARTICLE06: Ueberfall auf das deutsche Arbeitsamt in Jglau.
+Found
+MODSMD_ARTICLE07: 39 ungarische Parteileiter verhaftet.
+Found
+MODSMD_ARTICLE08: Zwei tschechische Divisionen in Preßburg.
+Found
+MODSMD_ARTICLE09: Großbritanniens Politik kaum berührt.
+Found
+MODSMD_ARTICLE10: Madrid veranstaltet einen Prozeß gegen 300 Kvmmunisten.
+Found
+MODSMD_ARTICLE11: „Tief beleidigend und menschenunwürdig."
+Found
+MODSMD_ARTICLE12: Großangriff der Engländer in Transjordanien.
+Found
+MODSMD_ARTICLE13: Britischer Protest gegen einen Drahtzaun.
+Found
+MODSMD_ARTICLE14: Freilassung des Jntegralistenführers Salgado.
+Found

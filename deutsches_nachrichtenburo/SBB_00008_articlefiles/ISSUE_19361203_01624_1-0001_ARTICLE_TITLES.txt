@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Regelung des Fettbezuges.
+Found
+MODSMD_ARTICLE02: Das Gesetz über das Winterhilfswerk.
+Found
+MODSMD_ARTICLE03: Arbeitstagung beim Reichskommissar für die Preisbildung.
+Found
+MODSMD_ARTICLE04: Staatssekretär Dr. Lammers in Budapest.
+Found
+MODSMD_ARTICLE05: Danziger Volkstagsabgeordneter verhaftet.
+Found
+MODSMD_ARTICLE06: Gauleiter Bohle Zum Untergang der „Elsa". x
+Found
+MODSMD_ARTICLE07: Abstempelung spanischer Banknoten bei Spaniens Konsulaten
+Found
+MODSMD_ARTICLE08: Stürmische Debatte in der Pariser Kammer.
+Found
+MODSMD_ARTICLE09: „Gazeta Polska" gegen Schdanow.
+Found
+MODSMD_ARTICLE10: Eine Kriegszone an Spaniens Mittelmeerküste.
+Found
+MODSMD_ARTICLE11: Präsident Roosevelt in Montevideo.
+Found
+MODSMD_ARTICLE12: Rathaus von arbeitslosen Frauen gestürmt.
+Found

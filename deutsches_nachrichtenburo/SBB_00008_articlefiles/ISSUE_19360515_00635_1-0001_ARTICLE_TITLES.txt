@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ein Aufruf des Stellvertreters des Führers:
+Found
+MODSMD_ARTICLE02: Glückwunschtelegramm der Hapag an „Hindenburg".
+Found
+MODSMD_ARTICLE03: Empfangsabend des Außenpolitischen Amtes der NSDAP.
+Found
+MODSMD_ARTICLE04: Generaldirektor Dr. Reismüller I'.
+Found
+MODSMD_ARTICLE05: Soldaten fahren mit „Kraft durch Freude" nach Norwegen.
+Found
+MODSMD_ARTICLE06: Der Versicherungsuntersuchungsausschuß.
+Found
+MODSMD_ARTICLE07: Baldwins politische Stellung.
+Found
+MODSMD_ARTICLE08: Ein neuer Flugboothafen bei Portsmouth.
+Found
+MODSMD_ARTICLE09: Umgruppierungen der britischen Gibraltar-Flotte.
+Found
+MODSMD_ARTICLE10: England beabsichtigt Militärbündnis mit Aegypten.
+Found
+MODSMD_ARTICLE11: Riesiger Goldabzug bei der Bank von Frankreich.
+Found
+MODSMD_ARTICLE12: Die neuen Mitglieder der österreichischen Regierung.
+Found
+MODSMD_ARTICLE13: Schwedische Kreditsperre gegen Italien.
+Found
+MODSMD_ARTICLE14: Eine Amnestie in Bulgarien.
+Found
+MODSMD_ARTICLE15: Der Handelsvertrag zwischen USA und Kanada.
+Found

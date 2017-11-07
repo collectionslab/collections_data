@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Sowjetrussisches Verkehrsflugzeug in Berlin.
+Found
+MODSMD_ARTICLE02: 1888 ermordete Deutsche im Wartheland.
+Found
+MODSMD_ARTICLE03: Churchill durch die Tatsachen überführt.
+Found
+MODSMD_ARTICLE04: Die schweren Sorgen der englischen Schiffahrt.
+Found
+MODSMD_ARTICLE05: Der sowjetrussische Frontbericht vom 8. Januar.
+Found
+MODSMD_ARTICLE06: „Prawda" reißt den Heuchlern die Maske vom Gesicht.
+Found
+MODSMD_ARTICLE07: Für Abbruch diplomatischer Beziehungen Paris—Moskau.
+Not Found
+MODSMD_ARTICLE08: Lord Beaverbrook findet keine Gegenliebe.
+Found
+MODSMD_ARTICLE09: Erfolgreicher Vorstoß deutscher Kampfflugzeuge.
+Found
+MODSMD_ARTICLE10: Die Kennzahl der Großhandelspreise im Dezember.
+Found
+MODSMD_ARTICLE11: Vollstreckung eines Todesurteils.
+Found

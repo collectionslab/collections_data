@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Empfang der italienischen Strafvollzugsbeamten.
+Found
+MODSMD_ARTICLE02: Neuer bahnbrechender Erfolg der deutschen Luftfahrt.
+Found
+MODSMD_ARTICLE03: Juden nicht mehr zum Börsenbesuch Zugelassen.
+Found
+MODSMD_ARTICLE04: Empfang zur Neichstagung der Nordischen Gesellschaft.
+Found
+MODSMD_ARTICLE05: Männer der Leibstandarte besuchen Tannenberg.
+Found
+MODSMD_ARTICLE06: In der Ostmark bereits über eine halbe Million in der DAF.
+Found
+MODSMD_ARTICLE07: Vorträge vor der Wiener Verwaltungsakademie.
+Found
+MODSMD_ARTICLE08: Tagung des Internationalen Roten Kreuzes in London.
+Found
+MODSMD_ARTICLE09: Naive Ansichten der „Times".
+Found
+MODSMD_ARTICLE10: „Keine Vergeltungsmaßnahmen für Bombenangriffe".
+Found
+MODSMD_ARTICLE11: Tatarescu bei Lord Halifax.
+Found
+MODSMD_ARTICLE12: England und seine „Rivalen".
+Found
+MODSMD_ARTICLE13: Die Vergreisung der Schweiz.
+Found
+MODSMD_ARTICLE14: Der Aufbau im nationalen Spanien.
+Found
+MODSMD_ARTICLE15: Kommunistenprozesse in Brasilien.
+Found

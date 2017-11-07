@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Tote Helden kehren heim.
+Found
+MODSMD_ARTICLE02: Außenminister Beck beim Staatspräsidenten.
+Found
+MODSMD_ARTICLE03: Ruhiger Verlaust der Kommunalwahlen in Polen.
+Found
+MODSMD_ARTICLE04: Polnische Denkschrift in Prag überreicht.
+Found
+MODSMD_ARTICLE05: Das „Prager Tagblait" erscheint weiter.
+Found
+MODSMD_ARTICLE06: Das Vermögen der aufgelösten tschechischen Verbände.
+Found
+MODSMD_ARTICLE07: Die Wahlen zum slowakischen Landtag.
+Found
+MODSMD_ARTICLE08: Juden verbreiten kommunistische Flugzettel.
+Found
+MODSMD_ARTICLE09: Amerikareise des dänischen Kronprinzenpaares.
+Found
+MODSMD_ARTICLE10: Konferenz der Unterrichtsminister der nordischen Länder.
+Found
+MODSMD_ARTICLE11: Ministerium für Arbeit und Nationaldienst in England.
+Found
+MODSMD_ARTICLE12: Englische Anleihe für China?
+Found
+MODSMD_ARTICLE13: Flandin über auMn- und innenpolitische Fragen.
+Found
+MODSMD_ARTICLE14: Der Haushalt des Luftfahrtministeriums vor der Kammer.
+Found
+MODSMD_ARTICLE15: Bretonisches Freiheitsdenkmal in die Luft gesprengt.
+Found
+MODSMD_ARTICLE16: Merkulow „Ehrentschekist".
+Found

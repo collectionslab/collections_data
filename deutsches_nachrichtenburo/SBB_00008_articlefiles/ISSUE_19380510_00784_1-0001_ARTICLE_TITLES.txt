@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer in Leipzig.
+Found
+MODSMD_ARTICLE02: Der Führer ehrt zwei Hundertjährige.
+Found
+MODSMD_ARTICLE03: Reichsleiter zum Opfertag des lugendherbergswerks.
+Found
+MODSMD_ARTICLE04: Allgemeiner Deutscher Bankiertag 1938.
+Found
+MODSMD_ARTICLE05: Truppenparade in Bukarest.
+Found
+MODSMD_ARTICLE06: Verfahren gegen Memelländer eingestellt.
+Found
+MODSMD_ARTICLE07: Stalin macht den Leuten vom Geheimsender den Prozeß.
+Found
+MODSMD_ARTICLE08: Abessiniensitzung in Genf abgesagt.
+Found
+MODSMD_ARTICLE09: Regierungserklärungen zur Finanzlage Belgiens.
+Found
+MODSMD_ARTICLE10: Zahlreiche Flugzeug unglückosällc in England.
+Found
+MODSMD_ARTICLE11: Keine Hoffnung mehr auf Rettung der englischen Bergleute.
+Found

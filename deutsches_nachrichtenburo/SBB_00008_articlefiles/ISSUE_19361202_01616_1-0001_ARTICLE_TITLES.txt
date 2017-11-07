@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Verbesserungen in der Versorgung der alten Wehrmacht.
+Found
+MODSMD_ARTICLE02: Schi räch gedenkt der Gemordeten der HJ.
+Found
+MODSMD_ARTICLE03: Berufung des Staatsanwalts im Tarnowitzer Prozeß.
+Found
+MODSMD_ARTICLE04: Aussprache über Militärvorlage in der belgischen Kammer.
+Found
+MODSMD_ARTICLE05: Lord Halifax über außenpolitische Fragen.
+Found
+MODSMD_ARTICLE06: Tie englische Presse zum Waffentransport-Verbot.
+Found
+MODSMD_ARTICLE07: „Gaceta Regional" über die deutsch-spanische Freundschaft.
+Found
+MODSMD_ARTICLE08: Großangelegtes nationales Umgehnngsmanöver bei Madrid.
+Found
+MODSMD_ARTICLE09: Die Verbindung Volksfrontregierung—Kommunisten.
+Found
+MODSMD_ARTICLE10: Die Pariser Presse begrüßt Noosevelts Rede.
+Found
+MODSMD_ARTICLE11: Japan und das italienische Imperium.
+Found

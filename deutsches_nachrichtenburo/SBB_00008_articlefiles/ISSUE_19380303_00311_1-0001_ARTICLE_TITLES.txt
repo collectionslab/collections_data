@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Moskauer Schreckensprozetz. „Geständnisse" über „Geständnisse".
+Found
+MODSMD_ARTICLE02: Errichtung einer Kopernikus-Jugendburg bei Köppernig.
+Found
+MODSMD_ARTICLE03: Oesterreichs Generalstabschef in dm Ruhestand getreten.
+Found
+MODSMD_ARTICLE04: Kanya bei Schuschnigg.
+Found
+MODSMD_ARTICLE05: De Valera wieder in London.
+Found
+MODSMD_ARTICLE06: Das gewaltige englische Aufrüstungsprogramm.
+Found
+MODSMD_ARTICLE07: Die Londoner Besprechungen über Großkampfschifse.
+Found
+MODSMD_ARTICLE08: Aegypten wird über Besprechungen mit Italien unterrichtet.
+Found
+MODSMD_ARTICLE09: Nationalspanischer Handelsagent in Newcastle.
+Found
+MODSMD_ARTICLE10: Die Neutralität der Schweiz.
+Found
+MODSMD_ARTICLE11: Französischer Gewerkschaftssekretär legt sein Amt nieder.
+Found
+MODSMD_ARTICLE12: Das Verbrechen von Lubon ein Fanal.
+Found

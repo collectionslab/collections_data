@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ruft: „Ich will, daß die Jugend die Zeit bewußt erlebt!"
+Found
+MODSMD_ARTICLE02: Die Graudenzer Goethe-Schule staatlich anerkannt.
+Found
+MODSMD_ARTICLE03: Der polnisch-litauische Grenzzwischenfall.
+Found
+MODSMD_ARTICLE04: Bcisxyung des erschossenen polnischen Grenzsoldaten.
+Found
+MODSMD_ARTICLE05: Polens Geduld geht zu Ende.
+Found
+MODSMD_ARTICLE06: Vor neuen Theaterpozessen.
+Found
+MODSMD_ARTICLE07: 17 Moskauer Verurteilte erwarten die Hinrichtung.
+Found
+MODSMD_ARTICLE08: Abscheu in London über das Moskauer Bluturteil.
+Found
+MODSMD_ARTICLE09: Die Unterhausaussprache beendet.
+Found
+MODSMD_ARTICLE10: Außenminister Beck aus Rom abgereist.
+Found
+MODSMD_ARTICLE11: Günstige Wirtschafts- und Finanzlage Italiens.
+Found
+MODSMD_ARTICLE12: Empfang bei Blum.
+Found
+MODSMD_ARTICLE13: Geschäftsübergabe in den französischen Ministerien.
+Found
+MODSMD_ARTICLE14: Wenig Zuversicht im Senat für die neue Regierung.
+Found
+MODSMD_ARTICLE15: Sowjetspänische Flugeuge über französischem Gebiet.
+Found
+MODSMD_ARTICLE16: Demonstration der Wafd-Wgeordneten»
+Found

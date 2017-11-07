@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ehrungen für Friedrich den Großen.
+Found
+MODSMD_ARTICLE02: Aufgaben des deutschen Handwerks im Jahre 1937.
+Found
+MODSMD_ARTICLE03: Ein Minister für die englischen Notstandsgebiete?
+Found
+MODSMD_ARTICLE04: Anwerbeverbots-Erörterung im Parlament angekündigt.
+Found
+MODSMD_ARTICLE05: Britische Geschwader vor Gibraltar.
+Found
+MODSMD_ARTICLE06: Bevorstehende italienisch-türkische Verhandlungen.
+Found
+MODSMD_ARTICLE07: Frankreichs ungeheure öffentliche Verschuldung.
+Found
+MODSMD_ARTICLE08: Freilassung auf höheren Befehl.
+Found
+MODSMD_ARTICLE09: Krediterhöhungeu für französische Auslandsinstitute.
+Found
+MODSMD_ARTICLE10: Bericht über Rohstoff-Ausschuß bei den Ratsmitgliedern.
+Found
+MODSMD_ARTICLE11: Französische Kommunisten randalieren an Schweizer Grenze.
+Found
+MODSMD_ARTICLE12: Paul Jouhaux bestellte Waffen für 531 VW Franken.
+Found
+MODSMD_ARTICLE13: Ministerpräsident HodZa über Minderheitsfragen.
+Found
+MODSMD_ARTICLE14: Trinksprüche zwischen Stojadinowitsch und Kjosseiwanoff.
+Found
+MODSMD_ARTICLE15: Bolschewistischer Pöbel stürmt die Banken von Malaga.
+Found
+MODSMD_ARTICLE16: Wangtschingwei warnt China vor dem Kommunismus.
+Found
+MODSMD_ARTICLE17: Riesige Hochwasserschäden in USA.
+Found
+MODSMD_ARTICLE18: Oeltanks explodiert. Em Stadtviertel in Flammen.
+Found

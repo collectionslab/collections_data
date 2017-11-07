@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer empfängt Professor Zankoff.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Der Reichsfinanzminister über Finanz- und Wirtschaftspolitik
+Found
+MODSMD_ARTICLE04: Wachsende Aufgaben der NS-Volkswohlfahrt.
+Found
+MODSMD_ARTICLE05: Die planmäßige Entrechtung des Sudetendeutschtums.
+Found
+MODSMD_ARTICLE06: Sitzung des Nichteinmischnngsausschusses.
+Found
+MODSMD_ARTICLE07: Malta wird nicht abgetreten.
+Found
+MODSMD_ARTICLE08: Sitzung des englischen Kabinetts. ' /
+Found
+MODSMD_ARTICLE09: Englischer Dampfer mit russischem Kriegsmaterial angehalten
+Found
+MODSMD_ARTICLE10: Erfolgloser roter Luftangriff auf Salamanca.
+Found
+MODSMD_ARTICLE11: Polnisches Regierungsblatt geißelt Bolschewistenheuchelei.
+Found
+MODSMD_ARTICLE12: Estland wehrt sich gegen die Ausfälle Schdanows.
+Found
+MODSMD_ARTICLE13: Weitere Diskontermäßigung in Holland.
+Found
+MODSMD_ARTICLE14: Der japanische Kriegsminister zur Verfassungsreform.
+Found
+MODSMD_ARTICLE15: Steuersteckbrief und Vermögensbeschlagnalzme.
+Found

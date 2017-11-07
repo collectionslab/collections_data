@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Wiederzusammentritt von Kammer und Senat.
+Found
+MODSMD_ARTICLE03: Tie Sitzungen des Nichteinmischungsunterausschusses.
+Found
+MODSMD_ARTICLE04: „Giornale warnt England.
+Found
+MODSMD_ARTICLE05: Tie Ilmtriebe Maiskys in London bestätigt.
+Found
+MODSMD_ARTICLE06: Britischer Geschwaderchef aus Gibraltar abgereist.
+Found
+MODSMD_ARTICLE07: Reichstagseröffnnng in Schweden.
+Found
+MODSMD_ARTICLE08: Ungarische legitimistische Oppositionsparteien vereinigt.
+Found
+MODSMD_ARTICLE09: Ter türkische Außenminister über die Sandschak-Frage.
+Found
+MODSMD_ARTICLE10: Metaxas über den Ausbau des neuen Griechenlands.
+Found
+MODSMD_ARTICLE11: Gegen die Judeneinwanderung in Südafrika.
+Found
+MODSMD_ARTICLE12: Neue Waffensendung aus Sowjetrußland.
+Found
+MODSMD_ARTICLE13: Roosevelt will die Verwaltung straffer gestalten.
+Found

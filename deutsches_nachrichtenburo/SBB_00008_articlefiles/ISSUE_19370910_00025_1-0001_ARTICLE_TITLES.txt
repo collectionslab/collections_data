@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE02: Das lkecht im Dritten Keich
+Found
+MODSMD_ARTICLE03: Als nächster Redner ergriff Reichsleiter Dr. Frank
+Found
+MODSMD_ARTICLE04: Nationalsozialistische Gesetzgebung im abgelaufenen Jahre.
+Found
+MODSMD_ARTICLE05: Starker Rückgang der Kriminalität.
+Found
+MODSMD_ARTICLE06: Saubere Rechtsprechung im neuen Teutschland.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Frick stiftet Ehrenpreis.
+Found
+MODSMD_ARTICLE02: Rundfahrt der 2000 Autobahnarbeiter durch Berlin.
+Found
+MODSMD_ARTICLE03: Schwabens neuer stellvertretender Gauleiter.
+Found
+MODSMD_ARTICLE04: Die Polizei gegen fahrlässige Brandstiftungen.
+Found
+MODSMD_ARTICLE05: Oesterreichs Geschenk an das Haus Habsburg.
+Found
+MODSMD_ARTICLE06: Die ostjüdische Masseneinwanderung nach Oesterreich.
+Found
+MODSMD_ARTICLE07: Delbos am Grabe Masaryks.
+Found
+MODSMD_ARTICLE08: Prags handelspolitischer Wunschzettel für Delbos.
+Found
+MODSMD_ARTICLE09: Pariser Vermutungen über die Prager Besprechungen.
+Found
+MODSMD_ARTICLE10: Es wird weiter gestreikt.
+Found
+MODSMD_ARTICLE11: Pierre Cot in London.
+Found
+MODSMD_ARTICLE12: Feuergefecht in Palästina.
+Found
+MODSMD_ARTICLE13: Wieder ein Todesurteil iu Jerusalem.
+Found
+MODSMD_ARTICLE14: Die „Times" zur sowjetrussischen Wahlgroteske.
+Found
+MODSMD_ARTICLE15: Italienischer Brasilienslng mit Rekordabsicht.
+Found
+MODSMD_ARTICLE16: Eine neue Streikblüte in USA: Steh streik.
+Found
+MODSMD_ARTICLE17: Kriegsgerichtliche Untersuchung des „Panay"-Ungliicks.
+Found

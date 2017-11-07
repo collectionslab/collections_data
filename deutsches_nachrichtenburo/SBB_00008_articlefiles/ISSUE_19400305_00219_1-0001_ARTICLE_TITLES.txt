@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Jugoslawiens Handelsminister in Berlin.
+Found
+MODSMD_ARTICLE02: Verstärkter deutsch-italienischer Jugendaustausch.
+Found
+MODSMD_ARTICLE03: Irische Anklagen gegen England.
+Found
+MODSMD_ARTICLE04: Englische Steuereinziehung in Sierra Leone.
+Found
+MODSMD_ARTICLE05: Die englische Plutokratie.
+Found
+MODSMD_ARTICLE06: Schweineställe und Plutokratenperlen.
+Found
+MODSMD_ARTICLE07: Echt englisch.
+Found
+MODSMD_ARTICLE08: Peinliche Prophetie.
+Found
+MODSMD_ARTICLE09: Der Wehrmachtsbericht.
+Found
+MODSMD_ARTICLE10: Opfer der Todesküste.
+Found
+MODSMD_ARTICLE11: Das Echo der italienischen Protestnote.
+Found
+MODSMD_ARTICLE12: Scharfe Abrechnung mit Wedgewood.
+Found
+MODSMD_ARTICLE13: Verurteilung der englischen Seekriegssührujng.
+Found

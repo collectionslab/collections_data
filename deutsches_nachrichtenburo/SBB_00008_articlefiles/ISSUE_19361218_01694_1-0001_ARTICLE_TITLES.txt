@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Danziger Parteigenossen beim Führer und bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Das Reichskriegsministerium Zu einer Havas-Meldung.
+Found
+MODSMD_ARTICLE03: Weihnachtsfeiern der Hitler-Jugend.
+Found
+MODSMD_ARTICLE04: In die Akademie für Deutsches Recht berufen.
+Found
+MODSMD_ARTICLE05: Abreise des Herzogs von Aosta.
+Found
+MODSMD_ARTICLE06: Deutscher Matrose in Kobe erschlagen.
+Found
+MODSMD_ARTICLE07: Ter französische Haushaltsplan angenommen.
+Found
+MODSMD_ARTICLE08: Der Besuch Antonescus in Paris.
+Found
+MODSMD_ARTICLE09: Beck vor dem Auswärtigen Ausschuß des Senats.
+Found
+MODSMD_ARTICLE11: Die abessinische Grenzstation Gambela besetzt.
+Found
+MODSMD_ARTICLE12: Verstärkter Ausbau der USA-Marine.
+Found
+MODSMD_ARTICLE13: Besprechungen Tschiangtingwens in Nanking.
+Found
+MODSMD_ARTICLE14: Die Mongolenfnhrer stellen den Kampf ein.
+Found

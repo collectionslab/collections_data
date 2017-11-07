@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Deutsch-japanischer Abend 'bei Reichsminister Nüst.
+Found
+MODSMD_ARTICLE02: O , . Auslander studieren die Rcichsautobahnen.
+Found
+MODSMD_ARTICLE03: Erfolgreicher Start der Leipziger Frühjahrsmesse.
+Found
+MODSMD_ARTICLE05: Badoglio erstattete dem Duee Bericht» .
+Found
+MODSMD_ARTICLE06: Lebhafte Freude in Italien über den Besuch Görings.
+Found
+MODSMD_ARTICLE07: Kanalverbindung Ostsee—Schwarzes Meer.
+Not Found
+MODSMD_ARTICLE08: Dauerkrise in Belgien.
+Found
+MODSMD_ARTICLE09: Die Aufrüstung der britischen Luftwaffe.
+Found
+MODSMD_ARTICLE10: 25 Millionen unnütz ausgegeben.
+Found
+MODSMD_ARTICLE11: Roosevelts „Theorien".
+Found

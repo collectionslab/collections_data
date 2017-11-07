@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer ehrt ausscheidende Generale.
+Found
+MODSMD_ARTICLE02: Neues Handelsabkommen mit Ecuador.
+Found
+MODSMD_ARTICLE03: Die Rechtsverhältnisse der jüdischen Kultusvereinigung.
+Found
+MODSMD_ARTICLE04: Die Oesterreichische Legion in Salzburg.
+Found
+MODSMD_ARTICLE05: Der Londoner Hauptunterausschuß zusammengetreten.
+Found
+MODSMD_ARTICLE06: Wenn Demokratie aufhört, ein Ideal zu sein. . . .
+Found
+MODSMD_ARTICLE07: Aussprache im Pariser auswärtigen Senatsansschuß.
+Found
+MODSMD_ARTICLE08: Pressestimmen.zur Mussolini-Rede.
+Found
+MODSMD_ARTICLE09: Wahlen in Aegypten.
+Found
+MODSMD_ARTICLE10: Umfangreicher Kriegsmaterial-Transport aus New Jork.
+Found
+MODSMD_ARTICLE11: Brasilianische Ehrung für die deutschen Rekordflieger.
+Found

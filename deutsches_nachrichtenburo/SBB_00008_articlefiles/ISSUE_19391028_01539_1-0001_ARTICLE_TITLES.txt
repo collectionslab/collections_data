@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Das Lügenministerium fälscht das Gutachten Staehelins.
+Found
+MODSMD_ARTICLE02: „Südafrika hat keinen Grund zur Kriegsteilnahme."
+Found
+MODSMD_ARTICLE03: Gauleiter Forster ehrte alte Kämpfer.
+Found
+MODSMD_ARTICLE04: Auflösung der deutschen Schulen in Lettland.
+Found
+MODSMD_ARTICLE05: „Wachsende Mißstimmung in Frankreich."
+Found
+MODSMD_ARTICLE06: Bisher 133 Milliarden Lire für die italienische Wehrmacht.
+Found
+MODSMD_ARTICLE07: Die ungarische Presse Zur Sowjetnote.
+Found
+MODSMD_ARTICLE08: Die Engländer rauben schwedischen Kaffee.
+Found
+MODSMD_ARTICLE09: Holland leidet durch die britischen Blockademaßnahmen.
+Found
+MODSMD_ARTICLE10: Der amerikanische Senat lehnt den Antrag Nye ab.
+Found

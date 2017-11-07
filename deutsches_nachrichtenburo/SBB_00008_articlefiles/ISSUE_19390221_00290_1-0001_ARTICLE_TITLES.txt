@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Reiseverkehr zwischen Deutschland und Italien.
+Found
+MODSMD_ARTICLE02: Intrigen sollen Francos Sieg untergraben.
+Found
+MODSMD_ARTICLE03: Wieder 16 Italiener in Tunis verhaftet.
+Found
+MODSMD_ARTICLE04: Erklärungen Tisos im Preßburger Landtag.
+Found
+MODSMD_ARTICLE05: Schlachtschiff „Georg V." von Stapel gelaufen.
+Found
+MODSMD_ARTICLE06: England soll nicht jedes Märchen glauben.
+Found
+MODSMD_ARTICLE07: Groß-Londons Lebensmittelkommissar zurückgetreten.
+Found
+MODSMD_ARTICLE08: Wieder ein Sowjetflugzeug über Finnland.
+Found
+MODSMD_ARTICLE09: Wie die Sowjets Spione und Agenten ausbilden.
+Found
+MODSMD_ARTICLE10: General Jhler Inspekteur der Konzentrationslager.
+Found
+MODSMD_ARTICLE11: Was will Azana?
+Found
+MODSMD_ARTICLE12: Wieder diplomatische Beziehungen Iran—Frankreich.
+Found
+MODSMD_ARTICLE13: Syrische Anklagen gegen Frankreich.
+Found
+MODSMD_ARTICLE14: Wieder ein Mord, in Schanghai.
+Found
+MODSMD_ARTICLE15: Südafrika unter der Judengeißel.
+Found

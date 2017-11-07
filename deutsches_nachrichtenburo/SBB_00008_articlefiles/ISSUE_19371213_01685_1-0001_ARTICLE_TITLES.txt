@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Italien verläßt Sen Mkerlninii. Der Beschluß des großen Faschistischen Rates. Ungeheure Begeisterung in Italien.
+Found
+MODSMD_ARTICLE02: Ungeheure Begeisterung in Italien.
+Found
+MODSMD_ARTICLE03: Die Mitteilung an den Volkerbund.
+Found
+MODSMD_ARTICLE04: Graf Cianos Mitteilung in Genf.
+Found
+MODSMD_ARTICLE05: Vme deutsche Verlautbarung. Keine Rückkehr Deutschlands in den Völkerbund.
+Found
+MODSMD_ARTICLE06: Die Aufnahme in der Welt.
+Found
+MODSMD_ARTICLE07: Hunderttausende in den Strafen Roms.
+Found
+MODSMD_ARTICLE08: Die Sitzung des Grotzen Faschistenrates.
+Found
+MODSMD_ARTICLE09: Die Ansprache Mussolinis.
+Found

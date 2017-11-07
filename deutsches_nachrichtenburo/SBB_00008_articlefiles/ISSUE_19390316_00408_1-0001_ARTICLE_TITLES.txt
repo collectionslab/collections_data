@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Dr. Hacha beim Führer.
+Found
+MODSMD_ARTICLE02: Prag wieder eine deutsche Stadt.
+Found
+MODSMD_ARTICLE03: Zum Einmarsch der deutschen Truppen in Brünn.
+Found
+MODSMD_ARTICLE04: „Deutschland Herrscher in Zentraleuropa."
+Found
+MODSMD_ARTICLE05: Ungarische Patrouillen an der polnischen Grenze.
+Found
+MODSMD_ARTICLE06: „In 24 Stunden eine innerdeutsche Angelegenheit geworden"
+Found
+MODSMD_ARTICLE07: Frankreichs Parlamentarier recht erregt.
+Found
+MODSMD_ARTICLE08: Bilbao: „Der künstliche Freimaurerstaat verschwindet".
+Found
+MODSMD_ARTICLE09: „Prag hörte auf die Sirenenkläge aus Frankreich."
+Found
+MODSMD_ARTICLE10: Petain in Spanien eingetroffen.
+Found
+MODSMD_ARTICLE11: Aufruf zur Revolution in Syrien.
+Found
+MODSMD_ARTICLE12: „Terroristische Vereinigung von Damaskus."
+Found
+MODSMD_ARTICLE13: Die Juden lehnen die Palästina-Vorschläge Englands ab.
+Found
+MODSMD_ARTICLE14: Stehendes Berufsheer für Australien.
+Found
+MODSMD_ARTICLE15: Tonfilm von der Japan-Reise der HJ.-Gruppe.
+Found
+MODSMD_ARTICLE16: New Jork und das Judentum.
+Found
+MODSMD_ARTICLE17: Schnelle Sühne für gemeines Verbrechen.
+Found

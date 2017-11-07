@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Vorbildliche Tat des Gaues Südhannover-Braunschweig.
+Found
+MODSMD_ARTICLE02: Rekordflug eines Lufthansa-Verkehrsflugzeuges.
+Found
+MODSMD_ARTICLE03: Der deutsche Militärattache in Prag gestorben.
+Found
+MODSMD_ARTICLE04: Schweizerische Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE05: Wiederzusammentritt der Kammer Ende Oktober.
+Found
+MODSMD_ARTICLE06: Kommunistensturm auf ein französisches Nonnenkloster.
+Found
+MODSMD_ARTICLE07: Eine vielsagende Aufforderung.
+Found
+MODSMD_ARTICLE08: Pariser Unbehagen über die Anwesenheit des Negus.
+Found
+MODSMD_ARTICLE09: Paris ist beunruhigt.
+Found
+MODSMD_ARTICLE10: Tie englische Presse nicht sehr hoffnungsvoll für Gens.'
+Found
+MODSMD_ARTICLE11: Die Bedeutung der Einnahme von Magueda.
+Found
+MODSMD_ARTICLE12: Huesca hält dem roten Ansturm stand.
+Found
+MODSMD_ARTICLE13: Die Nationalisten besetzen drei weitere baskische Ortschaften.
+Found
+MODSMD_ARTICLE14: Zwischenfall in Barcelona.
+Found
+MODSMD_ARTICLE15: Zuchthausstrafen für litauische Kommunisten.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Chef der polnischen Lustwaffe in Berlin.
+Found
+MODSMD_ARTICLE02: Tie Entwicklung des Arbeitseinsatzes im November.
+Found
+MODSMD_ARTICLE03: Der Wettbewerb für die Bertiner Hochschulstadt.
+Found
+MODSMD_ARTICLE04: Die Ablehr Italiens von Genf. „Totale Solidarität Berlin—Rom".
+Not Found
+MODSMD_ARTICLE05: Die kleineren Staaten horchen auf.
+Found
+MODSMD_ARTICLE06: Die Schweiz nach der Abkehr Italiens von Genf.
+Found
+MODSMD_ARTICLE07: Folgerungen der Schweiz aus Italiens Vorgehen.
+Found
+MODSMD_ARTICLE08: Der Eindruck in USA.: „Die Genfer Einrichtung ist tot".
+Found
+MODSMD_ARTICLE09: Schirach besichtigt rumänische Führerschule.
+Found
+MODSMD_ARTICLE10: Ungarns Kriegsminister heute bei Mussolini.
+Found
+MODSMD_ARTICLE11: Umbesetzungen im Auswärtigen Dienst der Schweiz.
+Found
+MODSMD_ARTICLE12: Eden bei Chamberlain.
+Found
+MODSMD_ARTICLE13: Neue Zusammenstöße in Palästina.
+Found

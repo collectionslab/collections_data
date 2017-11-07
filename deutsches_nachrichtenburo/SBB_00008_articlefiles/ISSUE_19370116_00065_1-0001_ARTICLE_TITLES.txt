@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Baidur von Schirach zur Heimbeschaffungsaktion der HJ.
+Found
+MODSMD_ARTICLE02: SA.-Obergruppenführer Rasche über die Kampfspiele.
+Found
+MODSMD_ARTICLE03: Nikolaus von Berg 'f.
+Found
+MODSMD_ARTICLE04: Spende der deutschen Beamten für die Spaniendeutschen.
+Found
+MODSMD_ARTICLE05: Eine bulgarische Zeitung zu Görings Jtalienreise.
+Found
+MODSMD_ARTICLE06: Spanien-Aussprache im Unterhaus am Dienstag.
+Found
+MODSMD_ARTICLE07: Paläftma-Note des Emirs von Trausjordauien.
+Found
+MODSMD_ARTICLE08: Irland über die Londoner Besprechungen zufrieden.
+Found
+MODSMD_ARTICLE09: Vienot über Frankreichs Libanon- und Syrien-Verträge.
+Found
+MODSMD_ARTICLE10: Wiederaufnahme der Wirtschaftsverhandlungen Paris-Prag.
+Found
+MODSMD_ARTICLE11: Druckerstreik in Compiegne.
+Found
+MODSMD_ARTICLE12: Französisches Atlantikgeschwader ausgelaufen.
+Found
+MODSMD_ARTICLE13: Ein weiterer Pariser Tatsachenbericht aus Spanisch-Marokko.
+Found
+MODSMD_ARTICLE14: Wer sind die Schuldigen des Lügenfeldzuges?
+Found
+MODSMD_ARTICLE15: Belgien fordert Genugtuung.
+Found
+MODSMD_ARTICLE16: Völkerbund soll Lage der geflüchteten Spanier prüfen.
+Found
+MODSMD_ARTICLE17: Ueber IM „Wohltätigkeitsvereine" in Wien ausgelöst.
+Found
+MODSMD_ARTICLE18: Neue Zusammenstöße in der Warschauer Universität.
+Found
+MODSMD_ARTICLE19: Erweiterung des lettländischen Wehrpflichtgesetzes.
+Found
+MODSMD_ARTICLE20: „Waffenstillstand" im Automobilarbeiterstreik in USA.
+Found

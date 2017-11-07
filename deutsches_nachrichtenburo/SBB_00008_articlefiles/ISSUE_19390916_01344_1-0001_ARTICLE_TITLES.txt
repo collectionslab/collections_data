@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Przemysl und Bialyftok genommen.
+Found
+MODSMD_ARTICLE02: Der deutsch-niederländische Verrechnungsverkehr.
+Found
+MODSMD_ARTICLE03: Rom: „Die Tage des gegenwärtigen Polen gezählt."
+Found
+MODSMD_ARTICLE04: Französischer Minenkreuzer in die Lust geflogen.
+Found
+MODSMD_ARTICLE05: Das englische Pfund fällt weiter.
+Found
+MODSMD_ARTICLE06: Empört über die britischen Seeräubereien.
+Found
+MODSMD_ARTICLE07: Das englische Lügenministerium widerlegt.
+Found
+MODSMD_ARTICLE08: England will die Zerstückelung Deutschlands.
+Found
+MODSMD_ARTICLE09: Jahresklasse 1937 der griechischen Wehrmacht entlassen.
+Found
+MODSMD_ARTICLE10: Geschwätz um Englands Kriegsziele.
+Found
+MODSMD_ARTICLE11: Die Aufrechterhaltung der rumänischen Neutralität.
+Found
+MODSMD_ARTICLE12: Aufstand afghanischer Stämme in Indien.
+Found
+MODSMD_ARTICLE13: Lindbergh gegen jede Einmischung in Europa.
+Found
+MODSMD_ARTICLE14: Trotz überfüllter Schulklassen Lehrerabbau in Neuyork.
+Found
+MODSMD_ARTICLE15: „Brasilien ist neutral und will den Frieden."
+Found
+MODSMD_ARTICLE16: Berichtigung.
+Found

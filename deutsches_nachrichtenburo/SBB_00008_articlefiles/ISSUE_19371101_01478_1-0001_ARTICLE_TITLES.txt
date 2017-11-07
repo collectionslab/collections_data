@@ -1,0 +1,48 @@
+MODSMD_ARTICLE01: Italienische Kolonialpolitiker in Berlin.
+Found
+MODSMD_ARTICLE02: Justizminister Solmi in München.
+Found
+MODSMD_ARTICLE03: Nudols Heß in Neapel.
+Found
+MODSMD_ARTICLE04: Kreuzer „Emden" aus Syrakus ausgelaufen.
+Found
+MODSMD_ARTICLE05: Der König von Griechenland in Italien.
+Found
+MODSMD_ARTICLE06: Gesunde Finanzen im faschistischen Italien.
+Found
+MODSMD_ARTICLE07: Der „Osservatore Romajno" mischt sich ein.
+Found
+MODSMD_ARTICLE08: Oberst Beck fünf Jahre Außenminister.
+Found
+MODSMD_ARTICLE09: Kolons Hochschuljugend gegen judensreundliche Professoren.
+Found
+MODSMD_ARTICLE10: Die Bemühungen de Maus gescheitert.
+Found
+MODSMD_ARTICLE11: Zur Inkraftsetzung des Abkommens von Nyon.
+Found
+MODSMD_ARTICLE12: Ein vernünftiges Wort.
+Found
+MODSMD_ARTICLE13: Ein Engländer von den Valencia-Bolschewisten eingekerkert.
+Found
+MODSMD_ARTICLE14: 7 Millionen Peseten für die GPU. Valencias.
+Found
+MODSMD_ARTICLE15: Oberbolschewist Negrin schon nach Barcelona übergesiedelt.
+Found
+MODSMD_ARTICLE16: Eine Million Dollar für die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE17: Reger Wechsel auf Sowjetfunktionärsposten.
+Found
+MODSMD_ARTICLE18: König Boris von Bulgarien in Paris.
+Found
+MODSMD_ARTICLE19: Paris zur Beurlaubung Cerrutis.
+Found
+MODSMD_ARTICLE20: 85 marokkanische Eingeborene zu Zwangsarbeit verurteilt.
+Found
+MODSMD_ARTICLE21: Japanisches Dementi angeblicher Friedensbedingungen.
+Found
+MODSMD_ARTICLE22: Japans Beziehungen zu England.
+Found
+MODSMD_ARTICLE23: Mehr als 1000 Tote bei den Überschwemmungen in Syrien.
+Found
+MODSMD_ARTICLE24: Der Kampf gegen den Kommunismus in Brasilien.
+Found

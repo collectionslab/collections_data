@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Bei Sedan 79 feindliche Flugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE02: Holländische Wörterbücher bei französischen Gefangenen.
+Found
+MODSMD_ARTICLE03: Erfolge, die wir England neidlos gönnen.
+Found
+MODSMD_ARTICLE04: Antienalische Demonstrationen in Italien.
+Found
+MODSMD_ARTICLE05: Wie England die Neutralen zu beeinflussen versucht.
+Found
+MODSMD_ARTICLE07: „Antideutsche Blockade auf Italien ausgedehnt".
+Found
+MODSMD_ARTICLE08: Führer des deutschen Handwerks in Italien.
+Found
+MODSMD_ARTICLE09: Ehrliche Bewunderung für die deutsche Wehrmacht.
+Found
+MODSMD_ARTICLE10: Britische, französische und belgische Truppen geworfen.
+Found
+MODSMD_ARTICLE11: Großkampf zwischen Panzerverbänden bei Namur.
+Found
+MODSMD_ARTICLE12: Wie sich das „Journal" blamierte.
+Found
+MODSMD_ARTICLE13: Hollands Regierung nach London geflüchtet.
+Found
+MODSMD_ARTICLE14: Bombenexplosionen vor englischem Lügenbüro.
+Found
+MODSMD_ARTICLE15: Entdeckung einer Bombenfabrik in Irland.
+Found
+MODSMD_ARTICLE16: England knebelt den Mittelmeerverkehr.
+Found
+MODSMD_ARTICLE17: Wie sie sich in Westindien aufführen.
+Found
+MODSMD_ARTICLE18: Weitere britische Truppen auf Cura?ao gelandet.
+Found
+MODSMD_ARTICLE19: „Freiburg ist eine unverteidigte Stadt."
+Found

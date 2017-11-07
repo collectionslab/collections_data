@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Neue Gesandte überreichen ihre Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE02: Eine ungarische Ehrung für Adolf Hitler.
+Found
+MODSMD_ARTICLE03: Die vereinigte KdF.-Flvtte aus hoher Fahrt.
+Found
+MODSMD_ARTICLE04: Jtalienbesuch oberbayerischer KdF.-Fahrer.
+Found
+MODSMD_ARTICLE05: Beförderung im NS.-Megerkorps.
+Found
+MODSMD_ARTICLE06: Ab 1. Oktober Arbeitsdienstpflicht in Oesterreich.
+Found
+MODSMD_ARTICLE07: Neue Reichsmittel zur Förderung der Kleintierzucht.
+Found
+MODSMD_ARTICLE08: Rücktritt der estnischen Regierung.
+Found
+MODSMD_ARTICLE09: Irrwege der Sozialpolitik der Volksfront.
+Found
+MODSMD_ARTICLE10: Die englische Lustausrüsiung.
+Found
+MODSMD_ARTICLE11: Genf soll die Sanktionsfrage bereinigen.
+Found
+MODSMD_ARTICLE12: Sowjetrussische Diplomatenschicksale.
+Found
+MODSMD_ARTICLE13: Die Amtsenthebungen in der Sowjetunion.
+Found
+MODSMD_ARTICLE14: Neue Todesurteile in Sowjetrußland.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Telegrammwechsel zwischen dem Führer und General Francs.
+Found
+MODSMD_ARTICLE02: Das Ergebnis des Januar-Eintopfes.
+Found
+MODSMD_ARTICLE03: Rotes Kreuz-Ehrenzeichen an Polizeiärzte.
+Found
+MODSMD_ARTICLE04: Sinn der körperlichen Uebung im Reichsberufswettkampf.
+Found
+MODSMD_ARTICLE05: Neue Werbung der HI. für die Landarbeitslehre.
+Found
+MODSMD_ARTICLE07: Glückwünsche für Heinrich langer.
+Found
+MODSMD_ARTICLE08: Deutsche Jungen aus Amerika zurückgekehrt.
+Found
+MODSMD_ARTICLE09: Die Zwischenfälle bei Klagenfurt.
+Found
+MODSMD_ARTICLE10: Selbst Grenzüberwachung kein Schutz vor den Juden.
+Found
+MODSMD_ARTICLE11: Die „Deutschland" hat Lissabon wieder verlassen.
+Found
+MODSMD_ARTICLE12: Des Führers Entscheidungen weiter Italiens Hauptthema.
+Found
+MODSMD_ARTICLE13: Das griechische Kronprinzenpaar in Luzern.
+Found
+MODSMD_ARTICLE14: Ueberwachungsnoten an Salamanca und Valencia.
+Found
+MODSMD_ARTICLE15: Die italienisch-englische Verständigung.
+Found
+MODSMD_ARTICLE16: Für Anerkennung des italienischen Imperiums und Francas.
+Found
+MODSMD_ARTICLE17: Stojadinowitschs großer Wahlsieg.
+Found
+MODSMD_ARTICLE18: Der türkische Außenminister in Belgrad.
+Found
+MODSMD_ARTICLE19: Neue Zusammenstöße in Algier.
+Found
+MODSMD_ARTICLE20: Anschlag gegen einen früheren Präsidenten von Nicaragua.
+Found

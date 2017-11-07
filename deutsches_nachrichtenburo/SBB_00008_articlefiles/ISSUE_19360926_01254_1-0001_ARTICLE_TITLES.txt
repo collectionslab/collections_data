@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Annäherung der Schweizer Valuta an die Weltvaluten.
+Found
+MODSMD_ARTICLE02: Geteilte Aufnahme der Frankenabwertung in Paris«
+Found
+MODSMD_ARTICLE03: London zu den französischen Währungsmaßnahmen.
+Found
+MODSMD_ARTICLE04: Genf Zur Abwertung des Franken.
+Found
+MODSMD_ARTICLE05: Kopenhagen Zur Frankenabwertung.
+Found
+MODSMD_ARTICLE06: Regierungskrise der katalanischen Regierung.
+Found
+MODSMD_ARTICLE07: Die Schwester Queipo de Llanos verhaftet.
+Found
+MODSMD_ARTICLE08: Acht Todesurteile in Albacete.
+Found
+MODSMD_ARTICLE09: Die roten Kriegsschiffe nicht mehr im Mittelmeer.
+Found
+MODSMD_ARTICLE10: Verhaftungen in der belgischen Waffenschiebungsaffäre.
+Found
+MODSMD_ARTICLE11: Kein Zwang Zur Namensmagyarisierung.
+Found
+MODSMD_ARTICLE12: Landon für gegenseitige Handelsverträge.
+Found
+MODSMD_ARTICLE13: Neuer amerikanischer Kriegsminister.
+Found
+MODSMD_ARTICLE14: Chilenische Ingenieure kommen nach Deutschland.
+Found
+MODSMD_ARTICLE15: Die Kennzahl der Großhandelspreise vom 23. September.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die Reichsgruppe Hochschullehrer an Minister Dr. Frank.
+Found
+MODSMD_ARTICLE02: Tr. Goebbels empfängt Redner der Partei.
+Found
+MODSMD_ARTICLE03: Außerordentlicher Ministerrat in Budapest.
+Found
+MODSMD_ARTICLE05: Kultusminister Homan zum Tode von Gömbös.
+Found
+MODSMD_ARTICLE06: Budapest im Zeichen der Trauer.
+Found
+MODSMD_ARTICLE07: Römische Blätterstimmen zur Abwertung.
+Found
+MODSMD_ARTICLE08: Britische Stimmen zur Lira-Abwertung.
+Found
+MODSMD_ARTICLE09: Rumänien bleibt bei seiner Währungspolitik.
+Found
+MODSMD_ARTICLE10: Keine Abwertung in Litauen.
+Found
+MODSMD_ARTICLE11: Telbos wieder in Paris.
+Found
+MODSMD_ARTICLE12: Der jugoslawische Kriegsminister in Paris.
+Found
+MODSMD_ARTICLE13: Das Indenproblem in Polen.
+Found

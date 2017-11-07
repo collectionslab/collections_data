@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Drohender polnischer Angriff auf Danzig.
+Found
+MODSMD_ARTICLE02: Unerhörte polnische Grenzverletzung.
+Found
+MODSMD_ARTICLE03: Der polnische Waffenschmuggel nach Danzig.
+Found
+MODSMD_ARTICLE04: Maßnahmen der Militärbehörden in Edingen.
+Found
+MODSMD_ARTICLE05: Die Militärmissionen verlassen Moskau.
+Found
+MODSMD_ARTICLE06: Mussolini empfing die Generalstabschefs.
+Found
+MODSMD_ARTICLE07: Viktor Emanuel überreicht Ciano den Annunziatenorden.
+Found
+MODSMD_ARTICLE08: „Das Spiel der Demo-Plutokratien durchschaut".
+Found
+MODSMD_ARTICLE09: „Paris Midi": „Freie Hand für Deutschland im Osten".
+Found
+MODSMD_ARTICLE10: Paris völlig hilflos.
+Found
+MODSMD_ARTICLE11: „Blankowechsel für das Dritte Reich".
+Found
+MODSMD_ARTICLE12: „Die Lage Englands sehr schwierig geworden".
+Found
+MODSMD_ARTICLE13: Großes Aufsehen über das neue Danzig in London.
+Found
+MODSMD_ARTICLE14: Rege diplomatische Tätigkeit in Istanbul.
+Found
+MODSMD_ARTICLE15: Die Türkei stark beeindruckt.
+Found
+MODSMD_ARTICLE16: Ungarn begrüßt den deutsch-russischen Vertrag.
+Found
+MODSMD_ARTICLE17: Sondersitzung des niederländischen Kabinetts.
+Found
+MODSMD_ARTICLE18: Holland zur Entwicklung in Danzig.
+Found
+MODSMD_ARTICLE19: Tie Austenminister der nordischen Staaten abgereist.
+Found
+MODSMD_ARTICLE20: Dr. Malan fordert erneut Neutralität für Südafrika.
+Found

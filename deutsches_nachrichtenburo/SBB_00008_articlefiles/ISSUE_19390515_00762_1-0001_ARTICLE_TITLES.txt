@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: KdF.-Urlauber grüßen den Führer.
+Found
+MODSMD_ARTICLE02: Auslandsjournalisten auf Deutschlandfahrt.
+Found
+MODSMD_ARTICLE03: Rom: „Entscheidende Mahnung des Duce."
+Found
+MODSMD_ARTICLE04: Paris ohne Gegenargumente.
+Found
+MODSMD_ARTICLE05: Die belgische Presse begrüßt die Turiner Rede.
+Found
+MODSMD_ARTICLE06: Starkes Echo der Mussolini-Rede in Jugoslawien.
+Found
+MODSMD_ARTICLE07: Die Mussolini-Rede in Amerika stärkstens beachtet.
+Found
+MODSMD_ARTICLE08: Polens tägliche Gemeinheiten.
+Found
+MODSMD_ARTICLE09: Die Hetzaktion gegen deutsche Waren.
+Found
+MODSMD_ARTICLE10: Keine deutschen Filme mehr in Ostoberschlesien.
+Found
+MODSMD_ARTICLE11: Polnische Radauszenen in deutscher Kirche.
+Found
+MODSMD_ARTICLE12: Münch über die Haltung der nordischen Staaten.
+Found
+MODSMD_ARTICLE13: Der polnische Kriegsmimster in Paris.
+Found
+MODSMD_ARTICLE14: Der Königsbesuch beginnt nicht programmgemäß.
+Found
+MODSMD_ARTICLE15: Griechenland braucht Geld zu Rüstungen.
+Found
+MODSMD_ARTICLE16: Roosevelt entfesselte kommunistischen Gewerkschaftsterror.
+Found
+MODSMD_ARTICLE17: Rücksichtslose Urteile gegen junge Araber.
+Found
+MODSMD_ARTICLE18: Tschungking wird geräumt.
+Found

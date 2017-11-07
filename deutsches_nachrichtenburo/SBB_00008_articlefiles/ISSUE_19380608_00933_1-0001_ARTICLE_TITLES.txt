@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Wieder ein unerhörter tschechischer Gewaltakt.
+Found
+MODSMD_ARTICLE02: Selbst Manke werden wüst beschimpft.
+Found
+MODSMD_ARTICLE03: Hlinka spricht für das slowakische Volk.
+Found
+MODSMD_ARTICLE04: „Schicksalsverbundenheit der Slowaken und Ungarn".
+Found
+MODSMD_ARTICLE05: Für eine slowakische Armee mit slowakischen Offizieren.
+Found
+MODSMD_ARTICLE06: Kamps gegen jüdischen Einfluß in Polen.
+Found
+MODSMD_ARTICLE07: Warschauer Juden demonstrieren.
+Found
+MODSMD_ARTICLE08: Kommunistische Mordbuben zum Tode verurteilt.
+Found
+MODSMD_ARTICLE09: Anschluß an das deutsche und italienische Autostraßennet;.
+Found
+MODSMD_ARTICLE10: Die Offensive zwischen Teruel und der Küste.
+Found
+MODSMD_ARTICLE12: Französische Kriegsschiffe zum Schutz roter Schmuggelschiffe?
+Found
+MODSMD_ARTICLE13: Nach der Anerkennung Francas durch Prag.
+Found
+MODSMD_ARTICLE14: Mechlis auf der Suche nach neuen Opfern.
+Found
+MODSMD_ARTICLE15: Die neue amerikanische Jlottenaufrüstung beginnt.
+Found
+MODSMD_ARTICLE16: Niederlage Roosevelts bei einer UrWahl im Staate lowa.
+Found
+MODSMD_ARTICLE17: Peruanische Truppen an der Grenze von Ekuador?
+Found

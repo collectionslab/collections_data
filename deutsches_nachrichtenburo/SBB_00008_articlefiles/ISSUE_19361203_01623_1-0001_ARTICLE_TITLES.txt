@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Staatssekretär Reinhardt zur Realsteuerreform.
+Found
+MODSMD_ARTICLE02: Ausnahme der freien Berufe aus der Gewerbesteuer.
+Found
+MODSMD_ARTICLE03: 10 Jahre Japan-Institut. Telegrammwechsel mit dem Führer.
+Found
+MODSMD_ARTICLE04: Aberkennung der deutschen Staatsangehörigkeit.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Bergjungknappen an die Front!
+Found
+MODSMD_ARTICLE07: Kreuzer „Emden" in Ceylon. –
+Not Found
+MODSMD_ARTICLE08: Ausruf Dr. Schachts: Alle Zeichnen Reichsanleihe?
+Found
+MODSMD_ARTICLE09: Eine vorbildliche Stiftung für die deutschen Studenten.
+Found
+MODSMD_ARTICLE10: Sitzung der radikalsozialistischen Kammergruppc.
+Found
+MODSMD_ARTICLE11: Antrittsvorlesung Professor Sprangers in Tokio.
+Found

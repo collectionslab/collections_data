@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Spaak mit der Weiterführung der Geschäfte beauftragt.
+Found
+MODSMD_ARTICLE02: Zur Demission der Regierung Spaak.
+Found
+MODSMD_ARTICLE03: Erweiterte Vollmachten für Gamelin.
+Found
+MODSMD_ARTICLE04: Bonnet berichtet London über Berard.
+Found
+MODSMD_ARTICLE05: Madrid erwartet die rotspanische „Regierung".
+Found
+MODSMD_ARTICLE06: Einigung zwischen den arabischen Gruppen.
+Found
+MODSMD_ARTICLE07: Wieder Bombenexplosionen auf einem Londoner Bahnhof.
+Found
+MODSMD_ARTICLE08: Streikunruhen im Britischen Weltreich.
+Found
+MODSMD_ARTICLE09: Minorca von nationalspanischen Truppen besetzt.
+Found
+MODSMD_ARTICLE10: Die Nationalen an der französischen Grenze.
+Found
+MODSMD_ARTICLE11: Papst Pius XI. ernstlich erkrankt.
+Found
+MODSMD_ARTICLE12: Die Opposition gegen Weizmann im eigenen Lager wächst.
+Found
+MODSMD_ARTICLE13: 400 arabische Beamte entlassen.
+Found
+MODSMD_ARTICLE14: Britisches Militär durchsucht eine Mädchenschule.
+Found
+MODSMD_ARTICLE15: Sowjetrussische Grenzverletzung.
+Found
+MODSMD_ARTICLE16: Eine neue Partei in Japan.
+Found
+MODSMD_ARTICLE17: Die japanischen Maßnahmen haben ihre Wirkung getan.
+Found
+MODSMD_ARTICLE18: Drei Dollar täglich für Störungen des Lehrbetriebs.
+Found
+MODSMD_ARTICLE19: Amerikanische Wassertransporte an Sowjetspanien.
+Found
+MODSMD_ARTICLE20: Erster Teil der amerikanischen Flottenmanöver beendet.
+Found

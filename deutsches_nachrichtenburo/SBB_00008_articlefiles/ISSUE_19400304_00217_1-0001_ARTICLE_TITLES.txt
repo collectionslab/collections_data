@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: U-Boot meldet Versenkung von 36 Wk> BRT.
+Found
+MODSMD_ARTICLE02: Neuer Vorstand des Verbandes ausländischer Pressevertreter.
+Found
+MODSMD_ARTICLE03: Kulturelles Aufbauprogramm für Wien.
+Found
+MODSMD_ARTICLE04: Italienische Fragen an Churchill.
+Found
+MODSMD_ARTICLE05: Eindruck der Goebbelsrede in Italien und Belgien.
+Found
+MODSMD_ARTICLE06: „Ein Akt der Unverschämtheit und der Gewalt".
+Found
+MODSMD_ARTICLE07: Britisches Schiff an Englands Westküste gesunken.
+Found
+MODSMD_ARTICLE08: Englischer Dampfer durch Bombe vernichtet.
+Found
+MODSMD_ARTICLE09: Die „fliegenden Löwen" unter sich.
+Found
+MODSMD_ARTICLE10: Schwedisches Motorschiff gesunken.
+Found
+MODSMD_ARTICLE11: Vom deutschen Flugzeug bombardiert.
+Found
+MODSMD_ARTICLE12: Die Russen umzingeln Wiborg.
+Found
+MODSMD_ARTICLE13: Die britische Knute über Indien.
+Found
+MODSMD_ARTICLE14: Eine Erklärung Gandhis.
+Found
+MODSMD_ARTICLE15: An Englands Küste verloren.
+Found
+MODSMD_ARTICLE16: Finnen melden Fortdauer des russischen Druckes.
+Found
+MODSMD_ARTICLE17: In Uruguay versucht man die Buren-Greuel abzuleugnen.
+Found
+MODSMD_ARTICLE18: Heraus mit allen „Asama Maru"-Deutschen!
+Found

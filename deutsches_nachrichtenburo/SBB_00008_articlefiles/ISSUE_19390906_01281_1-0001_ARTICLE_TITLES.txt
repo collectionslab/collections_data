@@ -1,0 +1,50 @@
+MODSMD_ARTICLE01: Krakau genommen.
+Found
+MODSMD_ARTICLE02: Schneller Vormarsch auf Lodz.
+Found
+MODSMD_ARTICLE03: Verschleierungsmanöver des Warschauer Lügensenders.
+Found
+MODSMD_ARTICLE04: Von den Polen verschleppt.
+Found
+MODSMD_ARTICLE05: Esbjerg durch englisches Flugzeug bombardiert.
+Found
+MODSMD_ARTICLE06: Rom zu den Greueltaten der Polen.
+Found
+MODSMD_ARTICLE07: Spanien bewundert den deutschen Vormarsch.
+Found
+MODSMD_ARTICLE08: Die Nationalfarben an den spanischen Schiffen.
+Found
+MODSMD_ARTICLE09: Ausnahmegesetze von der belgischen Kammer angenommen.
+Found
+MODSMD_ARTICLE10: Wird Warschau geräumt?
+Found
+MODSMD_ARTICLE11: Wirtschaftsbeziehungen mit Schweden aufrechterhalte^.
+Found
+MODSMD_ARTICLE12: Englische Lügentaktik durchschaut.
+Found
+MODSMD_ARTICLE13: König Georg läßt sich berichten.
+Found
+MODSMD_ARTICLE14: Schiffsverkehr in der Adria wieder aufgenommen.
+Found
+MODSMD_ARTICLE15: Deutschland ist völlig ruhig.
+Found
+MODSMD_ARTICLE16: Agramer Blätter gegen unverantwortliche Preistreiber.
+Found
+MODSMD_ARTICLE17: Moskau meldet den deutschen Vormarsch.
+Found
+MODSMD_ARTICLE18: Amerika und die Lüge über Tschenstochau.
+Found
+MODSMD_ARTICLE19: Ausfuhrsperre für amerikanisches Kriegsmaterial.
+Found
+MODSMD_ARTICLE20: Keine Sondersteuer auf Kriegsgeschäfte.
+Found
+MODSMD_ARTICLE21: Ihre oberste Moral: Kriegsgewinne.
+Found
+MODSMD_ARTICLE22: Strikter Neutralitätswille Guatemalas.
+Found
+MODSMD_ARTICLE23: Argentinien verbietet Brennstoff-Ausfuhr.
+Found
+MODSMD_ARTICLE24: Der Kaufpreis für die Beteiligung Australiens.
+Found
+MODSMD_ARTICLE25: Das südafrikanische Kriegskabinett.
+Found

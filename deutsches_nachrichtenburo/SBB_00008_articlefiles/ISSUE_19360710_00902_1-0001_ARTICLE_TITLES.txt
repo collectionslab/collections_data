@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Graf Volpi in Berlin.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Ehrenpreis Dr. Fricks für die Emfer Regatta.
+Found
+MODSMD_ARTICLE04: Regatta-Strecke in Grünau bereit zum Olympischen Kampf.
+Found
+MODSMD_ARTICLE05: Ein Olivenbaum für das Reichssportfeld.
+Found
+MODSMD_ARTICLE06: Besichtigung des Reichssportfeldes verlängert.
+Found
+MODSMD_ARTICLE07: Die Zuständigkeitsregelung für die Olympischen Spiele.
+Found
+MODSMD_ARTICLE08: v. Cramm und Henkel siegen in Agram.
+Found
+MODSMD_ARTICLE09: Sitzung des französischen Kabinettsrats.
+Found
+MODSMD_ARTICLE10: Kammeraussprache über französische Rüstungsgeheimnisse.
+Found
+MODSMD_ARTICLE11: Der sowjetrussische Botschafter bei Delbos.
+Found
+MODSMD_ARTICLE12: Die englisch-französischen Garantieverpflichtungen erloschen.
+Found
+MODSMD_ARTICLE13: Britische Verstärkungen verlassen das Mittelmeer.
+Found
+MODSMD_ARTICLE14: Londoner Blätter zu ZM -VtWÄUMWGZ'haIBeH..
+Found
+MODSMD_ARTICLE15: Die italienischen Journalisten verließen die Schweiz.
+Found
+MODSMD_ARTICLE16: Der Gesundheitzustand in Italien.
+Found
+MODSMD_ARTICLE17: Vollsitzung des Vollzugsausschusses der Kuomintang-Partei.
+Found
+MODSMD_ARTICLE18: Noosevelt Schiedsrichter im Grenzstreit Peru—Ekuador.
+Not Found
+MODSMD_ARTICLE19: 300 Todesopfer der Hitzewelle in Amerika.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Kührer stiftet Ehrenpreis für Motorradrennen.
+Found
+MODSMD_ARTICLE02: Trauerfeier für die Toten des Kaliwerkes Kaiserroda.
+Found
+MODSMD_ARTICLE03: Die britischen Frontkämpfer verließen Berlin.
+Found
+MODSMD_ARTICLE04: Französisches Wirtschaftsidyll.
+Found
+MODSMD_ARTICLE05: Kl) Unterhausuntglieder richten eine Botschaft an Mussolini.
+Found
+MODSMD_ARTICLE06: Der polnische Außenminister zurückgekehrt.
+Found
+MODSMD_ARTICLE07: Polen gedenkt des Beginns seines Freiheitskampfes.
+Found
+MODSMD_ARTICLE08: Sowjetrußlands Magiuot-Linie fertiggestellt.
+Found
+MODSMD_ARTICLE09: Die letzte protestantische Kirche in Moskau geschlossen.
+Found
+MODSMD_ARTICLE10: Verhaftung von weiteren Volkskommissaren?
+Found
+MODSMD_ARTICLE11: Japanisches Generalkonsulat durch Sowjets geschlossen.
+Found
+MODSMD_ARTICLE12: Wieder Gefechtstätigkeit bei Schangfeng.
+Found
+MODSMD_ARTICLE13: Zwei sowjetrussische Flugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE14: Haukau entvölkert sich.
+Found
+MODSMD_ARTICLE15: Neuer japanischer Luftaugriff auf Hankau.
+Found
+MODSMD_ARTICLE16: Kämpfe südlich von Kiukiaug.
+Found
+MODSMD_ARTICLE17: Syrien will nicht französisch werden.
+Found
+MODSMD_ARTICLE18: Für Einverleibung des Sandschak in die Türkei.
+Found
+MODSMD_ARTICLE19: Deutsche Siege beim „Großen Motorradpreis von Europa".
+Found
+MODSMD_ARTICLE20: Deutscher Autosieg auch in Livorno.
+Found

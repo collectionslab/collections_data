@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ehrenpreis Dr. Fricks für das Internationale Reitturnier.
+Found
+MODSMD_ARTICLE02: Himmlers Dank.
+Found
+MODSMD_ARTICLE03: Norwegischer Legationsrat Ulrich Stang 59 Jahre alt.
+Found
+MODSMD_ARTICLE04: Italiens Kronprinz ehrt Ministerpräsident Görinn.
+Found
+MODSMD_ARTICLE05: Großartige Kundgebung in Neapel für Deutschland.
+Found
+MODSMD_ARTICLE06: Ein Appell der „Tribuna" gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE07: „Libcrtö" tadelt das Schweigen der Regierung.
+Found
+MODSMD_ARTICLE08: Französischer Zerstörer von Flugzeug angegriffen.
+Found
+MODSMD_ARTICLE09: Die Verstaatlichung von Rüstungswerken in Frankreich.
+Found
+MODSMD_ARTICLE10: Körper-Ertüchtigung auch in Frankreich.
+Found
+MODSMD_ARTICLE11: Die „Freiwilligen"-Werbung in Holland.
+Found
+MODSMD_ARTICLE12: Ein „Schritt nach vorwärts" in Jugoslawien.
+Found
+MODSMD_ARTICLE13: Englands Kriegsminister über die allgemeine Wehrpflicht.
+Found
+MODSMD_ARTICLE14: Auch Südafrika wehrt sich gegen die Verjudung.
+Found
+MODSMD_ARTICLE15: Schlichtung bei General Motors gescheitert.
+Found

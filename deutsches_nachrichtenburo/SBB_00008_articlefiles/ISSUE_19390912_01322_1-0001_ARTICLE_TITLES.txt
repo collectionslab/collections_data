@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Wirksames Eingreifen der Luftwaffe.
+Found
+MODSMD_ARTICLE02: Ernennungen.
+Found
+MODSMD_ARTICLE03: Polen organisiert Mordbrenner.
+Found
+MODSMD_ARTICLE04: Die Vernichtung einer polnischen Kavalleriebrigade.
+Found
+MODSMD_ARTICLE05: De Valera unterstreicht Irlands Neutralität.
+Found
+MODSMD_ARTICLE06: Empörung und Aufregung in ganz Nordschleswig.
+Found
+MODSMD_ARTICLE07: Unnützer polnischer Leugnungsversuch.
+Found
+MODSMD_ARTICLE08: Slowakische Zivilverwaltung in polnischen Gebietsteilen.
+Found
+MODSMD_ARTICLE09: Polnische Mordbrenner!
+Found
+MODSMD_ARTICLE10: Erfolgreiche Operationen der slowakischen Truppen.
+Found
+MODSMD_ARTICLE11: Rumäniens Botschafter hat Polen endgültig verlassen.
+Found
+MODSMD_ARTICLE12: Schweizer Gesandtschaft nahe der rumänischen Grenze.
+Found
+MODSMD_ARTICLE13: Unabhängigkeit von Lonbon ist besser.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Neichsstatthalter Kaufmann an den Führer. V
+Found
+MODSMD_ARTICLE02: Polen dankt für deutsche Rettungstat.
+Found
+MODSMD_ARTICLE03: Ehrung eines ausländischen Gelehrten.
+Found
+MODSMD_ARTICLE04: Der Reichspostminister an Direktor Wronsky.
+Found
+MODSMD_ARTICLE05: Reichsbankpräsident Dr. Schacht in Koblenz.
+Found
+MODSMD_ARTICLE06: Neue Schmutzwäsche aus dem „Phönix"-Skaudal.
+Found
+MODSMD_ARTICLE07: Kommunistennest bei Bialystok ausgehoben.
+Found
+MODSMD_ARTICLE08: Der Mord an Nawaschin.
+Found
+MODSMD_ARTICLE09: Rücktritt Vanderveldes gefordert.
+Found
+MODSMD_ARTICLE10: Wieder Arbeitsaufnahme im Antwerpener Hafen.
+Found
+MODSMD_ARTICLE11: Das Flugzeugunglück bei Oran.
+Found
+MODSMD_ARTICLE12: Der Moskauer Theaterprozeß. Weitere „Geständnisse".
+Found
+MODSMD_ARTICLE13: Bolschewistischer Hilfskreuzer abgefangen.
+Found
+MODSMD_ARTICLE14: Der Grenzverkehr Aethiopien—Britisch-Somaliland.
+Found
+MODSMD_ARTICLE15: Tie Zusammenkunft Graf Ciano—Rüschtü Aras.
+Found
+MODSMD_ARTICLE16: Die Abschaffung der ägyptischen Kapitulationen.
+Found
+MODSMD_ARTICLE17: Zuspitzung der Streiklage bei General Motors in Detroit.
+Found

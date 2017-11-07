@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Dr. Goebbels vor dem Neichskultursenat.
+Found
+MODSMD_ARTICLE02: Verabschiedung von KW italienischen Landarbeitern.
+Found
+MODSMD_ARTICLE03: Regierungsvizepräsidenten in Außig und Troppau.
+Found
+MODSMD_ARTICLE04: Letztes tschechisches Restgebiet am Freitag planmäßig besetzt.
+Found
+MODSMD_ARTICLE05: Einweihung der Braunschweiger Luftfahrtinstitute.
+Found
+MODSMD_ARTICLE06: Vavreeka vor der Auslandspresse.
+Found
+MODSMD_ARTICLE07: Jüdische Gaunertricks in Norwegen.
+Found
+MODSMD_ARTICLE08: Bulgariens Außenpolitik.
+Found

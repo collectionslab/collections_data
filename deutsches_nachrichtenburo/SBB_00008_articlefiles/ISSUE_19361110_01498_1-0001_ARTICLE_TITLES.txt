@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ansprache des Führers bei Vereidigung der SS.-Rekruten.
+Found
+MODSMD_ARTICLE02: Goldenes Parteiehrenzeichen für Darre und Hilgenfeldt.
+Found
+MODSMD_ARTICLE03: Botschafter Attolico an Rudolf Heft.
+Found
+MODSMD_ARTICLE04: Uebersührung ermordeter Hamburger Nationalsozialisten.
+Found
+MODSMD_ARTICLE05: Flaggen halbmast für die „Isis".
+Found
+MODSMD_ARTICLE06: Bericht über den Untergang der „Isis".
+Found
+MODSMD_ARTICLE07: Prof. Hofmann Ehrenbürger der Stadt Breslau.
+Found
+MODSMD_ARTICLE08: Tie Tagung der französischen Sozialen Volkspartei.
+Found
+MODSMD_ARTICLE10: Protest gegen die Einkerkerung von Charles Maurras.
+Found
+MODSMD_ARTICLE11: Graf Cianos Wiener Aufenthalt.
+Found
+MODSMD_ARTICLE12: Schwächeanfall Mac Donalds.
+Found
+MODSMD_ARTICLE13: Van Zoeland fährt nach London.
+Found
+MODSMD_ARTICLE14: Der nationalzaranistische Parteivorsitzende bei König Carol.
+Found
+MODSMD_ARTICLE15: Die rumänische Presse über die Kundgebung am Sonntag.
+Found
+MODSMD_ARTICLE16: Mexikanische Waffen Hilfe für die Madrider Kvmmnii^^
+Found
+MODSMD_ARTICLE17: Um die japanische Staatsreform.
+Found

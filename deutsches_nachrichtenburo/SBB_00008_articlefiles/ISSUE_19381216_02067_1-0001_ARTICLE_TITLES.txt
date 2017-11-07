@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Diplomatenempfänge beim Führer.
+Found
+MODSMD_ARTICLE02: Dr. Todt Hauptdienstleiter.
+Found
+MODSMD_ARTICLE03: Generalbevollmächtigter für die Bauwirtschaft.
+Found
+MODSMD_ARTICLE04: Goebbels empfing Berliner Sieger der NS.-Kampfspiele.
+Found
+MODSMD_ARTICLE05: Brauchitsch empfängt die Militärattaches.
+Found
+MODSMD_ARTICLE06: Tagesbefehl des Reichsjugendführers.
+Found
+MODSMD_ARTICLE07: Auslösung zweier Organisationen.
+Found
+MODSMD_ARTICLE08: Lantini aus Köln abgereist.
+Found
+MODSMD_ARTICLE09: 23 Memeldeutsche und 4 Litauer im neuen Memellandtag.
+Found
+MODSMD_ARTICLE10: Indische Studenten provozieren weiter.
+Found
+MODSMD_ARTICLE11: „Das elendste Land der Erde."
+Found

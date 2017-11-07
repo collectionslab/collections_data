@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Danktelegramm Jmredys an den Führer.
+Found
+MODSMD_ARTICLE02: 175 Jahre Staatliche Porzellan-Manufaktur.
+Found
+MODSMD_ARTICLE03: Trauerfeier im Volksgerichtshof.
+Found
+MODSMD_ARTICLE04: Em rotspanischer Frachter gekapert.
+Found
+MODSMD_ARTICLE05: Veranstaltung der Schwedisch-Deutschen Bereinigung.
+Found
+MODSMD_ARTICLE06: Die „wirklichen Tschechen" melden sich.
+Found
+MODSMD_ARTICLE07: Reyuauds Pläne: Weniger Ausgaben, mehr Einnahmen.
+Found
+MODSMD_ARTICLE08: Pichot für eine Regierung des öffentlichen Wohls.
+Found
+MODSMD_ARTICLE09: Explosion auf einem roten Schmuggelschiff.
+Found
+MODSMD_ARTICLE10: Gedenkfeiern in Belgrad.
+Found
+MODSMD_ARTICLE11: Eine Wahlrede Roosevelts.
+Found
+MODSMD_ARTICLE12: Stillgelegte amerikanische Rüstungswerke wieder in Betrieb.
+Found
+MODSMD_ARTICLE13: Hull Zur Fernost-Lage.
+Found
+MODSMD_ARTICLE14: 113 MO Chinesen in drei Monaten gefallen.
+Found
+MODSMD_ARTICLE15: Die Kennzahl der Großhandelspreise vom 2. November.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Hohe Auszeichnung für Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Generaloberst Göring in Wien.
+Found
+MODSMD_ARTICLE03: Aus der Berliner Diplomatie.
+Found
+MODSMD_ARTICLE04: Frontbildung gegen den Marxismus in Belgien.
+Found
+MODSMD_ARTICLE05: Tie Lothringische Front gegen kommunistische Hetzer.
+Found
+MODSMD_ARTICLE06: kommunistischer Druck auf Ministerpräsident Blum.
+Found
+MODSMD_ARTICLE07: Englische Ablehnung des neuen Sowjetmanövers.
+Found
+MODSMD_ARTICLE08: Der Primas von Polen über die rote Gefahr.
+Found
+MODSMD_ARTICLE10: Die Labour Party im Schlepptau Madrids.
+Found
+MODSMD_ARTICLE11: Englische Minister über die internationale Lage.
+Found
+MODSMD_ARTICLE12: Moskauer Rundfunk nur noch über Spanien.
+Found
+MODSMD_ARTICLE13: Grandi bleibt in London.
+Found
+MODSMD_ARTICLE14: General Baistrocchi Zurückgetreten.
+Found
+MODSMD_ARTICLE15: Die Ersatzwahl für den Haager Gerichtshof.
+Found
+MODSMD_ARTICLE16: Jbn Saud verbietet Sklaveneinfuhr.
+Found

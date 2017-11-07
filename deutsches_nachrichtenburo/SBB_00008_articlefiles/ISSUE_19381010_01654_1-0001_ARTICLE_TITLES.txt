@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers an Herzog Adolf Friedrich.
+Found
+MODSMD_ARTICLE02: Einmarsch in Leopold und Proschwitz.
+Found
+MODSMD_ARTICLE03: Ein weiteres Opfer tschechischer WUkür.
+Found
+MODSMD_ARTICLE04: Botschafter von Bnlow-Schwante in Brüssel.
+Found
+MODSMD_ARTICLE05: Die polnische Presse über die Führer-Rede.
+Found
+MODSMD_ARTICLE06: Freudiges Echo der Führerrede in Norditalien.
+Found
+MODSMD_ARTICLE07: Italiens Mittelmeerpolitik.
+Found
+MODSMD_ARTICLE08: Der Volta-Kongreß regt koloniale Zusammenarbeit an.
+Found
+MODSMD_ARTICLE09: Die Berliner Liedertafel auf Jtalienfahrt.
+Found
+MODSMD_ARTICLE10: Das sudetendeutsche Beispiel für Irland.
+Found
+MODSMD_ARTICLE11: Militärische Reorganisation in England.
+Found
+MODSMD_ARTICLE12: Das Lustschutzproblem der britischen Hauptstadt.
+Found
+MODSMD_ARTICLE13: Palästina-Sorgen der Londoner Morgenpresse.
+Found
+MODSMD_ARTICLE14: Der bulgarische Generalstabschef ermordet.
+Found
+MODSMD_ARTICLE15: London: „Lokalisierung des spanischen Krieges".
+Found
+MODSMD_ARTICLE16: Gefangenenaustausch in Spanien.
+Found
+MODSMD_ARTICLE17: Neichsminister Funk in Istanbul.
+Found
+MODSMD_ARTICLE18: Die Türkei schätzt Deutschlands Vertrauen.
+Found
+MODSMD_ARTICLE19: Blutige Zusammenstöße in Kairo.
+Found
+MODSMD_ARTICLE20: Weitere Truppenverstärkung für Palästina.
+Found
+MODSMD_ARTICLE21: Sinyaug von den Japanern besetzt.
+Found

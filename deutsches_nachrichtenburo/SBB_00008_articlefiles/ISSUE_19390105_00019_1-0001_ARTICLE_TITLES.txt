@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Italien ist entrüstet über die Ausschreitungen in Tunis.
+Found
+MODSMD_ARTICLE02: Chamberlain gegen Bolschewistenfrechheit.
+Found
+MODSMD_ARTICLE03: Unterredung Halifax—Corbin.
+Not Found
+MODSMD_ARTICLE04: Chvalkovsky an die tschechische Jugend.
+Found
+MODSMD_ARTICLE05: Bilbao gedenkt der roten Schreckensherrschaft.
+Found
+MODSMD_ARTICLE06: Der rote Verteidigungsgürtel Kataloniens gesprengt.
+Found
+MODSMD_ARTICLE07: Tie Lage droht katastrophal zu werden.
+Found
+MODSMD_ARTICLE08: Die Satzungen der rumänischen „Einheitspartei".
+Found
+MODSMD_ARTICLE09: Frau Roosevelt und die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE10: Der Bau des Nikaragua-Kanals beantragt.
+Found
+MODSMD_ARTICLE11: Die Verschleuderung der Staatsgelder in USA.
+Found
+MODSMD_ARTICLE12: Washington zur Rooseveltbotschaft.
+Found
+MODSMD_ARTICLE13: Das Kabinett Hiranuma.
+Found
+MODSMD_ARTICLE14: Vollstreckung von Todesurteilen.
+Found

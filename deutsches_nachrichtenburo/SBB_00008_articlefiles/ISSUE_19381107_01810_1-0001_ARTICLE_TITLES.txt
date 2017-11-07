@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Rudolf Hetz im Sudetengau.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels besucht Mütterheim.
+Found
+MODSMD_ARTICLE03: Grundsteinlegung zu Deutschlands größter SA.-Reiterschule.
+Found
+MODSMD_ARTICLE04: Hubertusfeier der deutschen Jägerschaft.
+Found
+MODSMD_ARTICLE05: Die Bedeutung des Antikominternpaktes.
+Found
+MODSMD_ARTICLE06: Aufruf des karpKtho-ukraimschen Nationalrates.
+Found
+MODSMD_ARTICLE07: Nationalspsmscher Heeresbericht.
+Found

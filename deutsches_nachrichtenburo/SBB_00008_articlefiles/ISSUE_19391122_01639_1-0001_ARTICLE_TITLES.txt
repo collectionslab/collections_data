@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Wer beherrscht die Nordsee?
+Found
+MODSMD_ARTICLE02: Otto Straffer hat sich nach England begeben.
+Found
+MODSMD_ARTICLE03: „Wirksames Dementi gegen die englischen Lügen."
+Found
+MODSMD_ARTICLE04: „Italiens Möglichkeiten von Tag Zu Tag größer."
+Found
+MODSMD_ARTICLE05: Britisches Piratentum kennt keine Grenzen.
+Found
+MODSMD_ARTICLE06: London will systematisch alle Märkte zerstören.
+Found
+MODSMD_ARTICLE07: Die britische Industrie ist lieferungsunfähig.
+Found
+MODSMD_ARTICLE08: Der Chef des lettischen Heeresstabes in Reval.
+Found
+MODSMD_ARTICLE09: Deutschlands U-Boote eine fürchterliche Waffe.
+Found
+MODSMD_ARTICLE10: Graf Terautschis Tank an Deutschland.
+Found
+MODSMD_ARTICLE11: Tokio bestätigt den! Verlust der „Terukuni Maru".
+Found
+MODSMD_ARTICLE12: Washington für Barzahlung.
+Found

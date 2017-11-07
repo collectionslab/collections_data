@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: So hausten die englischen Seeräuber.
+Found
+MODSMD_ARTICLE02: Bohle an die deutsche Handelsmarine.
+Found
+MODSMD_ARTICLE03: Koht zum Verbrechen im Jössingfjord.
+Found
+MODSMD_ARTICLE04: Wie der deutsche Dampfer „Wakama" überfallen wurde.
+Found
+MODSMD_ARTICLE05: Roosevelt begibt sich nach Panama.
+Found
+MODSMD_ARTICLE06: Belgien kauft amerikanische Tonnage.
+Found

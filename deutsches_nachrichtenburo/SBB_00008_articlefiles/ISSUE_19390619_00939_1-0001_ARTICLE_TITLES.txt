@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer an den Reichsverweser von Horthy.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels aus Danzig abgereist.
+Found
+MODSMD_ARTICLE03: Ablenkungsmanöver in London und Paris.
+Found
+MODSMD_ARTICLE04: Paris rechnet mit englischen Repressalien.
+Found
+MODSMD_ARTICLE05: Der englische Kolonialminister in Paris.
+Found
+MODSMD_ARTICLE06: Paris und London zu den Goebbels-Reden.
+Found
+MODSMD_ARTICLE07: Betretenes Schweigen in London.
+Found
+MODSMD_ARTICLE08: Größte Beachtung der Goebbels-Reden in Belgiens Presse.
+Found
+MODSMD_ARTICLE09: Gafencu auf der Rückreise.
+Found
+MODSMD_ARTICLE10: Inspektionsreise Badoglios nach Albaniem
+Found
+MODSMD_ARTICLE11: Mussolini in Piacenza.
+Found
+MODSMD_ARTICLE12: „Kapitulation vor Moskau oder vor Tientsin?"
+Found
+MODSMD_ARTICLE13: „Die Stunde der Befreiung kommt sicher."
+Found
+MODSMD_ARTICLE14: Starker Eindruck der Goebbels-Rede in Jugoslawien.
+Found
+MODSMD_ARTICLE15: Washington will bei Brasilien Eindruck machen.
+Found
+MODSMD_ARTICLE16: „England sollte Hongkong an China zurückgeben".
+Found

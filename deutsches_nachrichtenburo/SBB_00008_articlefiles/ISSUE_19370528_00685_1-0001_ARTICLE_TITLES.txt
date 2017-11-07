@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ein Aufruf des Führers zum Reichssportwettkampf der HJ.
+Found
+MODSMD_ARTICLE02: Aufruf des Jugendführers des Deutschen Reiches.
+Found
+MODSMD_ARTICLE03: Aufruf des Reichssportführers.
+Found
+MODSMD_ARTICLE04: Frühstück Zu Ehren japanischen Konteradmirals Kobayaschi.
+Found
+MODSMD_ARTICLE05: Das Flugzeug als Helfer der Kranken.
+Found
+MODSMD_ARTICLE07: Reichsarbeitstagung des Hauptamtes für Kommunalpolitik.
+Found
+MODSMD_ARTICLE08: Der Auftakt Zum Jubiläumstag der Hamburg-Amerika Linie.
+Found
+MODSMD_ARTICLE09: Unterredung zwischen Dr. Schacht und Vincent-Auriol.
+Found
+MODSMD_ARTICLE10: Doriot beginnt den Wahlkampf.
+Found
+MODSMD_ARTICLE11: Beifall im Unterhaus für Baldwin. , . . ..... .... . '
+Found
+MODSMD_ARTICLE12: Tie letzte Sitzung der Empire-Konferenz unter Baldwin.
+Found
+MODSMD_ARTICLE13: Streikgefahr im englischen Kohlenbergbau gebannt.
+Found
+MODSMD_ARTICLE14: Zur Entlassung Belgiens ans den Locarnoverpflichtungen.
+Found
+MODSMD_ARTICLE15: Die „Air Pyrenees" mne getarnte bolschewistische Fluglinie.
+Found

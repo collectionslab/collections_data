@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Ministerialrat Dr. Wucher Ministerialdirektor.
+Found
+MODSMD_ARTICLE02: Ans der Diplomatie.
+Found
+MODSMD_ARTICLE03: Graf Fhutaara im Haus des Deutschen Sports.
+Found
+MODSMD_ARTICLE04: Die Durchführung des Wehrsteuergesetzes
+Found
+MODSMD_ARTICLE05: Lutze und Hühnlein an General von Epp.
+Found
+MODSMD_ARTICLE06: Weitere Ehrungen Epps.
+Found
+MODSMD_ARTICLE07: Büecke! rechnet mit dem politischen Katholizismus ab.
+Found
+MODSMD_ARTICLE08: „Nordmeer" in New Jork eingetroffen.
+Found
+MODSMD_ARTICLE09: Deutsche Matrosen besuchen Florenz.
+Found
+MODSMD_ARTICLE10: Mussolini im sizilianischen Manövergelände.
+Found
+MODSMD_ARTICLE11: Streik auf der „Jle die France".
+Found
+MODSMD_ARTICLE12: Von einem unbekannten Kriegsschiff beschossen.
+Found
+MODSMD_ARTICLE13: Valencias Machthaber fühlejn sich nicht mehr sicher.
+Found
+MODSMD_ARTICLE14: „Sowjetrußland die befreundete Nation Valencias."
+Found
+MODSMD_ARTICLE15: „Gottesdienst" unter dem Bajonett.
+Found
+MODSMD_ARTICLE16: Ein chinesisches Dementi.
+Found
+MODSMD_ARTICLE17: Die Amerikaner beginnen mit der Räumung Schanghais.
+Found
+MODSMD_ARTICLE18: Wieder Lustkämpse über Schanghai.
+Found
+MODSMD_ARTICLE19: Chinesische Darstellung der Luftkämpfe am Sonntag.
+Found
+MODSMD_ARTICLE20: Japan macht China verantwortlich.
+Found
+MODSMD_ARTICLE21: Streikunruhen auf Mauritius.
+Found
+MODSMD_ARTICLE22: Eine Blütenlese „demokratischer Methoden".
+Found
+MODSMD_ARTICLE23: Blutige Zusammenstöße in Brasilien.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Reichshandwerksmeistcr über die Aufgaben des Handwerks.
+Found
+MODSMD_ARTICLE02: Tagung der Gesellschaft für Arbeitsschutz.
+Found
+MODSMD_ARTICLE03: Kundgebung des Reichsamts „Deutsches VolksbilduugswerkN
+Found
+MODSMD_ARTICLE04: Ter 2. Bundesappell der Vaterländischen Front.
+Found
+MODSMD_ARTICLE05: Neuorganisation des Regierungslagers in Polen?
+Found
+MODSMD_ARTICLE06: Wachsende Beunruhigung über die Politik Blums.
+Found
+MODSMD_ARTICLE07: Tarnungsversuch der französischen Kommunisten.
+Found
+MODSMD_ARTICLE08: „Matin" über den französisch sowjetrussischen Pakt.
+Found
+MODSMD_ARTICLE09: Die Tschechoslowakei soll Belgien nachahmen.
+Found
+MODSMD_ARTICLE10: Die Sowjetunion droht England.
+Found
+MODSMD_ARTICLE11: A. Pribitschewitsch Parteichef der selbständigen Demokraten.
+Found
+MODSMD_ARTICLE12: Einweihung des neuen Parlamentsgebäudes in Belgrad.
+Found
+MODSMD_ARTICLE13: Seegefecht auf der Höhe von Malaga.
+Found
+MODSMD_ARTICLE14: Der mexikanische Kriegsminister f.
+Found
+MODSMD_ARTICLE15: Verkehrsnnglück bei der Rückkehr Nahas Paschas.
+Found
+MODSMD_ARTICLE16: Besetzung des Restgebietes von Abessinien.
+Found

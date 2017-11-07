@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Militärverwaltung in Polen.
+Found
+MODSMD_ARTICLE02: Der neue türkische Botschafter beim Führer.
+Found
+MODSMD_ARTICLE03: Erbärmlicher Schwindel um „Royal Sceptre" entlarvt.
+Found
+MODSMD_ARTICLE04: Verkettung unglücklicher Umstände.
+Found
+MODSMD_ARTICLE05: Siegreiche Truppen ziehen in Tanzig ein.
+Found
+MODSMD_ARTICLE06: Tie öffentliche Meinung Englands in Judenhänden.
+Found
+MODSMD_ARTICLE07: Lissabon: Neutralität bis zum Aeußersten.
+Found
+MODSMD_ARTICLE08: Jugoslawien unterstreicht Mussolinis Darlegungen.
+Found
+MODSMD_ARTICLE09: Die Ritterlichkeit des deutschen Handelskrieges.
+Found
+MODSMD_ARTICLE10: Reichsaußenmimster v. Ribbentrop in Moskau eingetroffen.
+Found
+MODSMD_ARTICLE11: Belgien weist britische Lügenmeldungen zurück.
+Found
+MODSMD_ARTICLE12: Proteste Luxemburgs bei der französischen Regierung.
+Found
+MODSMD_ARTICLE13: Englisches Militärslugzeug in Island beschlagnahmt.
+Found
+MODSMD_ARTICLE14: Mussolim bemüht sich weiter um Lokalisierung des Krieges.
+Found
+MODSMD_ARTICLE15: Kabinettskrise in Chile.
+Found
+MODSMD_ARTICLE16: Der Wahrheit eine Bresche!
+Found

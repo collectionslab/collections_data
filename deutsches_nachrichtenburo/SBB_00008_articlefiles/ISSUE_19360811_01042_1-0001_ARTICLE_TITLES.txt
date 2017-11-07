@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die Stärke der Kriegsschiffe in Spaniens Gewässern.
+Found
+MODSMD_ARTICLE02: Der italienische Kronprinz auf der Heimfahrt.
+Found
+MODSMD_ARTICLE03: IV. Internationale Filmkunst-Ausstellung eröffnet.
+Found
+MODSMD_ARTICLE04: König Eduard VIII. an der dalmatinischen Küste.
+Found
+MODSMD_ARTICLE05: Tschechoslowakei weist ungarischen Legiiimistenführer aus.
+Found
+MODSMD_ARTICLE06: Sowjetunion erhöht Heeresstärke.
+Found
+MODSMD_ARTICLE07: Französisch-sowjetrussisches Prozeß-Abkommen.
+Found
+MODSMD_ARTICLE08: Abschlußarbriten der Kammer.
+Found
+MODSMD_ARTICLE09: Pariser Linksabgeordnete an Spaniens Staatspräsidenten.
+Found
+MODSMD_ARTICLE10: Portugal und die Ereignisse in Spanien.
+Found
+MODSMD_ARTICLE12: Gefängnis für die italienischen Weger in Marokko.
+Found
+MODSMD_ARTICLE13: Tschechisches Flugzeug und französische Bomber in Madrid.
+Found
+MODSMD_ARTICLE14: Zum Kriegsgebiet erklärt.
+Found
+MODSMD_ARTICLE15: Spaniens neuer Botschafter in Rom muß zurücktreten.
+Found
+MODSMD_ARTICLE16: Rückkehr englischer Fliegergeschwader aus Aden.
+Found
+MODSMD_ARTICLE17: Mandschurisch-mongolische Verhandlungswiederaufnahme.
+Found
+MODSMD_ARTICLE18: Tschiangkaischek in Kanton.
+Found
+MODSMD_ARTICLE19: Steuersteckbrief und Vermögensbeschlagnahme.
+Found

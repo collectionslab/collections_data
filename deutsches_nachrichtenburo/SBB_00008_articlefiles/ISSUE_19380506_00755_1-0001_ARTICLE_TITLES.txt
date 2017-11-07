@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer wieder in Rom.
+Found
+MODSMD_ARTICLE02: Italienische Einladung an die Lilienthal-Gesellschast.
+Found
+MODSMD_ARTICLE03: Abschluß der T.eutschlandreise von Dr. Miletitsch.
+Found
+MODSMD_ARTICLE04: Ein Volk lernt sich kennen.
+Found
+MODSMD_ARTICLE05: Dritte Lesung des Judengesetzes in Budapest.
+Found
+MODSMD_ARTICLE06: Nationalspanischcr Gesandter in Wien nach Budapest versenk.
+Found
+MODSMD_ARTICLE07: Wechsel in der Leitung der Bstdapester politischen Polizei.
+Found
+MODSMD_ARTICLE08: Flugverkehrsabkommen zwischen Budapest und Prag.
+Found
+MODSMD_ARTICLE09: Schwere Ausschreitungen in Castellon.
+Found
+MODSMD_ARTICLE10: Neue Kriegsmateriallieserungen für Rotspamen.
+Found
+MODSMD_ARTICLE11: Vergebliche Gegenangriffe der Bolschewismen.
+Found
+MODSMD_ARTICLE12: Chamberlain zum englisch-irischen Abkommen.
+Found
+MODSMD_ARTICLE13: Die Tagung der Kleinen Entente in Sinaia abgeschlossen.
+Found
+MODSMD_ARTICLE14: Die ukrainische Akademie wird gesäubert.
+Found
+MODSMD_ARTICLE15: Der Afrikaflug Wolf Hirths.
+Found
+MODSMD_ARTICLE16: Dr. Eckener fährt nach Amerika.
+Found

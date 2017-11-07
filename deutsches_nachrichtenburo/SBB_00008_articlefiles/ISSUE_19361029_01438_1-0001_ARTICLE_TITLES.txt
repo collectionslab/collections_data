@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: 1V Zahre Gau Grog-Berlin der NSDAP. Zweifacher Festtag für Reichsminister Dr. Goebbels: 19 Jahre Gauleiter uns 39. Geburtstag.
+Found
+MODSMD_ARTICLE02: Pimpfe gratulieren als erste.
+Found
+MODSMD_ARTICLE03: Die Reichshauptstadt gratuliert.
+Found
+MODSMD_ARTICLE04: Geburtstagskonzert auf dem Wilhelm-Platz.
+Found
+MODSMD_ARTICLE05: Goldenes Erinnerungszeichen für alte Parteigenossen.
+Not Found

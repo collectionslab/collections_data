@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Festtag der Nation.
+Found
+MODSMD_ARTICLE02: Oesterreich feiert den Geburtstag.
+Found
+MODSMD_ARTICLE03: Ernennungen im Reichskirchenministerium.
+Found
+MODSMD_ARTICLE04: Ehrungen im Reichswirtschaftsministerium.
+Found
+MODSMD_ARTICLE05: Ernennungen und Beförderungen in der HJ.
+Found
+MODSMD_ARTICLE06: Massenkundgebungen der spanischen Falange.
+Found
+MODSMD_ARTICLE07: Das Aran-Tal von den Bolschewisten völlig geräumt.
+Found
+MODSMD_ARTICLE08: Steckbrief gegen Otto von Habsburg.
+Found
+MODSMD_ARTICLE09: Neuer Direktor der bulgarischen Presseabteilung.
+Found
+MODSMD_ARTICLE10: Albanisch-jugoslawisches Luftfahrtabkommen.
+Found
+MODSMD_ARTICLE11: „Die Juden ein die Wehrkraft gefährdendes Element".
+Found
+MODSMD_ARTICLE12: Das Goldhortungsprogramm in USA. fallen gelassen.
+Found
+MODSMD_ARTICLE13: Ter „Panay"-Zwischenfall endgültig geregelt.
+Found
+MODSMD_ARTICLE14: Um die Südseeinseln Canton und Enderbnry.
+Found

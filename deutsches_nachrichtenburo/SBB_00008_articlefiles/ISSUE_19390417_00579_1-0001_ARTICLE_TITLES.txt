@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht General von Massow.
+Found
+MODSMD_ARTICLE02: Schirach weihte 63 Jugendherbergen.
+Found
+MODSMD_ARTICLE03: Reichsmmister Frick an Baidur von Schirach.
+Found
+MODSMD_ARTICLE04: Der stellvertretende Gauleiter Unger-Essen gestorben.
+Found
+MODSMD_ARTICLE05: Staatssekretär Esser in Rom.
+Found
+MODSMD_ARTICLE06: Empfang zu Ehren der albanischen Abordnung.
+Found
+MODSMD_ARTICLE07: Albaniens Volk hat die Ereignisse in Rom miterlebt.
+Found
+MODSMD_ARTICLE08: Teleki und Csaky nach Rom abgereist.
+Found
+MODSMD_ARTICLE09: Miaja in Paris.
+Found
+MODSMD_ARTICLE10: Der Hintergrund der Roosevelt-Heuchelei.
+Found
+MODSMD_ARTICLE11: Das schlechte Gewissen Englands.
+Found
+MODSMD_ARTICLE12: Kriegsgespenster am Stillen Ozean.
+Found
+MODSMD_ARTICLE13: Sir Oswald Mosley fordert Volksentscheid.
+Found
+MODSMD_ARTICLE14: Die Komintern ist noch nicht zufrieden.
+Found
+MODSMD_ARTICLE15: Kriegsmaterialkäufe der Sowjets in USA.
+Found
+MODSMD_ARTICLE16: Belgrad: Verhandlungen am grünen Tisch unfruchtbar.
+Found
+MODSMD_ARTICLE17: „Wreme" zum Berliner Besuch Gafencus.
+Found
+MODSMD_ARTICLE18: Spanien hat eine Million Mann unter den Waffen.
+Found
+MODSMD_ARTICLE19: Japan zu Roosevelts „Botschaft".
+Found
+MODSMD_ARTICLE20: Der „Friedensappell" war Wahlmache!
+Found
+MODSMD_ARTICLE21: Wirbelsturm fegt über die Vereinigten Staaten.
+Found

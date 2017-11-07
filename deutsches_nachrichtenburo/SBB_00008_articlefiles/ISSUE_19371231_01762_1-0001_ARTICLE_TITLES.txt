@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Goebbels spricht zum Jahreswechsel.
+Found
+MODSMD_ARTICLE02: Neuer deutsch-siamesischer Freundschaftsvertrag.
+Found
+MODSMD_ARTICLE03: Italiens Presse begrüßt Handelsvertrag Rom—Tokio.
+Found
+MODSMD_ARTICLE04: „Giornalc d'ltalia" über die neue rumänische Regierung.
+Found
+MODSMD_ARTICLE05: Warnende Stimmen in Oesterreich.
+Found
+MODSMD_ARTICLE06: Julius Barmat an Belgien ausgeliefert.
+Found
+MODSMD_ARTICLE07: Senatsausschuß gegen Wiedereröffnung der Weltausstellung.
+Found
+MODSMD_ARTICLE08: Dreistes Rückzugsmanöver der Kommunisten.
+Found
+MODSMD_ARTICLE09: Streik im Kohlengebiet von Valenciennes.
+Found
+MODSMD_ARTICLE10: Neuer Waffentransport nach Sowjetspanien via Frankreich.
+Found
+MODSMD_ARTICLE11: Erfolgreiche Umgehungsmanöver der Nationalen bei Teruel.
+Found
+MODSMD_ARTICLE12: Eden wieder in London. Erste Arbeit: Antwort an Tokio.
+Found
+MODSMD_ARTICLE13: Blutbad unter den Führern des georgischen Volkes!
+Found
+MODSMD_ARTICLE14: Wieder ein Todesurteil gegen einen Palästina-Araber.
+Found

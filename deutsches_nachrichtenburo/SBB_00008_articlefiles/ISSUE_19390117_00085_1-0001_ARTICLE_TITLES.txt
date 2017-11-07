@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Reichstreuhänder der Arbeit für das Sudetenland.
+Found
+MODSMD_ARTICLE02: NSKOV. hat 1,6 Millionen Mitglieder.
+Found
+MODSMD_ARTICLE03: „Arbeitseinsatz der Frauen und der Erwerbsbeschränkten".
+Found
+MODSMD_ARTICLE04: Sudetenlaud im Reiseverkehr.
+Found
+MODSMD_ARTICLE05: Festigung des Vertrauensverhältnisses in der Slowakei.
+Found
+MODSMD_ARTICLE06: Neues Bombenattentat in England.
+Found
+MODSMD_ARTICLE07: Englands Verkehrswirtschaft im Kriege.
+Found
+MODSMD_ARTICLE08: Halifax wieder in London.
+Found
+MODSMD_ARTICLE09: Neue Arbeitslosendemonstrationen in London.
+Found
+MODSMD_ARTICLE10: Bildung einer Reserve der englischen Hilfsluftwaffe.
+Found
+MODSMD_ARTICLE11: London klagt über Konkurrenz durch zugewanderte Juden.
+Found
+MODSMD_ARTICLE12: An allen Fronten Kataloniens neue Erfolge.
+Found
+MODSMD_ARTICLE13: „Katalanen-Regierung" zur Uebergabe bereit?
+Found
+MODSMD_ARTICLE14: 220 Icm in 3 Tagen!
+Found
+MODSMD_ARTICLE15: Die nationale Presse Zur Botschaft Francas.
+Found
+MODSMD_ARTICLE16: Die Türkei schiebt ausländische Juden ab.
+Found
+MODSMD_ARTICLE17: General Naci Tunau türkischer Wehrminister.
+Found
+MODSMD_ARTICLE18: Die Veränderung im ägyptischen Kabinett.
+Found
+MODSMD_ARTICLE19: Erste Sitzung der arabischen Abordnung.
+Found
+MODSMD_ARTICLE20: Wie New Jork die Erfolge Francas sieht.
+Found

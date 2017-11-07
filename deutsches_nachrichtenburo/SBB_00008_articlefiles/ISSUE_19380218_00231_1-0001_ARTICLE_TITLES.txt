@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Das deutsche Motorsportabzeichen.
+Found
+MODSMD_ARTICLE02: Reichsminister Ruft auf dem Berliner Studententag.
+Found
+MODSMD_ARTICLE03: Auch die Schiffsbesatzung«!:! hören den Führer.
+Found
+MODSMD_ARTICLE04: „Kein wahres Wort an den Gerüchten über Ostpreußen."
+Found
+MODSMD_ARTICLE05: König Georg VI. für körperliche Ertüchtigung.
+Found
+MODSMD_ARTICLE06: „Positivere Haltung Englands in Europa."
+Found
+MODSMD_ARTICLE07: Guy la Chamber vor dem Luftfahrtausschuß des Senats.
+Found
+MODSMD_ARTICLE08: Die Streiklage in Paris und Umgebung.
+Found
+MODSMD_ARTICLE09: Katzenjammer bei den ungarischen Legitinnsten.
+Found
+MODSMD_ARTICLE11: Einberufung des Prager Parlaments.
+Found
+MODSMD_ARTICLE12: Juden versorgen Sowjetspanien mit Kanonenfutter.
+Found
+MODSMD_ARTICLE13: Neuer natioualspauischer Erfolg an der Alfambra-Front.
+Found
+MODSMD_ARTICLE14: Forderungen des Indischen Kongresses.
+Found
+MODSMD_ARTICLE15: 1,65 Milliarden Dollar für Flottenlneubauten in USA.
+Found
+MODSMD_ARTICLE16: Bau subventionierter Handelsschiffe auf Auslandswerften.
+Found

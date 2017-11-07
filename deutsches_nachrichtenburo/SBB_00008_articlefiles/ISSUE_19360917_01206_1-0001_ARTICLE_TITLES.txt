@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Griechenlandreise des Reichsministers Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Sonderauftrag für Staatssekretär Pfundtner.
+Found
+MODSMD_ARTICLE03: Der Leiter der Oesterreichischen Filmkonferenz in Berlin.
+Found
+MODSMD_ARTICLE04: Rcichssahrplan-Besprechung in Heidelberg.
+Found
+MODSMD_ARTICLE05: Zum 20K. Geburtstag des Generals von Steuden.
+Found
+MODSMD_ARTICLE06: Segelschulschiff „Horst Wessel" in Dienst gestellt.
+Found
+MODSMD_ARTICLE07: „Graf Zeppelin" auf der Heimreise.
+Found
+MODSMD_ARTICLE08: Eröffnungssitzung der Münchener Straßenbautagung.
+Found
+MODSMD_ARTICLE09: Französische Parlamentarier in Aachen.
+Found
+MODSMD_ARTICLE10: Frankreich will Rüstungsbeschränkungen vorschlagen.
+Found
+MODSMD_ARTICLE11: Der französische Unterstaatssekretär de Vienot in Prag.
+Found
+MODSMD_ARTICLE12: „Corriere della Sera" zur Ministerzusammenkunft in Wien.
+Found
+MODSMD_ARTICLE13: Französischer Handelsdampfer angehalten.
+Found
+MODSMD_ARTICLE14: Um die Beilegung des französischen Textilarbeiterstreiks.
+Found
+MODSMD_ARTICLE15: Die Bluttaten der Kommunisten in der Provinz Sevilla.
+Found
+MODSMD_ARTICLE16: Tie Kriegsbereitschaft der sowjetrussischen Armee.
+Found

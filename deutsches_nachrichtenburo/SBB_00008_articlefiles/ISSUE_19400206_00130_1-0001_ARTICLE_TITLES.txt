@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Fahrt auf England ist Fahrt in Kriegsgebiet!
+Found
+MODSMD_ARTICLE02: So sorgt die britische Plutokratie für die Soldaten.
+Found
+MODSMD_ARTICLE03: 1V VW-Tonner aus dem Geleitzug versenkt.
+Found
+MODSMD_ARTICLE04: Griechischer SWV-Tonner gesunken.
+Found
+MODSMD_ARTICLE05: Explosionen in Birmingham, Manchester und London.
+Found
+MODSMD_ARTICLE06: Der Wechsel im holländischen Oberbefehl.
+Found
+MODSMD_ARTICLE07: Gandhi gibt nicht nach.
+Found
+MODSMD_ARTICLE08: Ein Mißverständnis.
+Found
+MODSMD_ARTICLE09: Jnfanteriescharmützel nördlich des Ladogasees.
+Found
+MODSMD_ARTICLE10: Der türkische Außenminister bei Kjosseiwanoff.
+Found
+MODSMD_ARTICLE11: Spanien braucht eine starke Flotte!
+Found
+MODSMD_ARTICLE12: Chinesen boykottieren englische Waren.
+Found
+MODSMD_ARTICLE13: Erneute Pfunbabschwächung in Neuyork.
+Found
+MODSMD_ARTICLE14: Englands Versprechungen verdienen kein Vertrauen.
+Found
+MODSMD_ARTICLE15: Ein Volksschädling hingerichtet.
+Found

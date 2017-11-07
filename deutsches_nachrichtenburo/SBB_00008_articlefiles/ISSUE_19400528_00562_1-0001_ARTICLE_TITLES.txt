@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Goethemedaille für Professor Schulten-Erlangen.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Gemeral Jronside.
+Found
+MODSMD_ARTICLE04: Englischer Tabak-Bluff.
+Found
+MODSMD_ARTICLE05: „Indien hat seinen „Kriegsbeitrag" bereits geleistet".
+Found
+MODSMD_ARTICLE06: Tannenberg ins Riesenhafte gesteigert.
+Found
+MODSMD_ARTICLE07: „Das schlimmste Verbrechen Frankreichs."
+Found
+MODSMD_ARTICLE08: Ausländerjagd im Londoner Hafen.
+Found
+MODSMD_ARTICLE09: Hauptsache, sie haben das Geld.
+Found
+MODSMD_ARTICLE10: Das italienische Nizza.
+Found
+MODSMD_ARTICLE11: Deutschlands höchster Orden Graf Teleki überreicht.
+Found
+MODSMD_ARTICLE12: Zwei holländische U-Boote konnten sich retten.
+Found
+MODSMD_ARTICLE13: Die Moskauer Presse zur Einnahme von Calais.
+Found
+MODSMD_ARTICLE14: King Georges Rede auch manchem Amerikaner Zu viel.
+Found
+MODSMD_ARTICLE15: Auch in Schanghai Fallschirmpsychose.
+Found

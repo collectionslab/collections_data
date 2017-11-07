@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer ans der Ordensburg Sonthofen.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Beileid des Reichsarbeitsministers.
+Found
+MODSMD_ARTICLE04: Beisetzung der Opfer des Ostender Flugzeug-Unglücks.
+Found
+MODSMD_ARTICLE05: Der deutsche Kriegsschiffbesuch in Reval.
+Found
+MODSMD_ARTICLE06: Der „Bund der Landwirte" droht mit Regiernngsaustritt.
+Found
+MODSMD_ARTICLE07: „Im Geiste der Achse Berlin—Rom".
+Found
+MODSMD_ARTICLE08: Im Zeichen der deutsch-spanischen Freundschaft.
+Found
+MODSMD_ARTICLE09: Amtliche Mitteilung über Ernennung der Agenten.
+Found
+MODSMD_ARTICLE10: Besuch italienischer Kriegsteilnehmer in London.
+Found
+MODSMD_ARTICLE11: Erhöhung der französischen Eisenbahntarife.
+Found
+MODSMD_ARTICLE12: Nachforschungen ohne Ergebnis.
+Found
+MODSMD_ARTICLE13: Elf Bischöfe in der Sowjetunion verhaftet.
+Found
+MODSMD_ARTICLE14: Englischer Freundschaftsvertrag mit Siam.
+Found

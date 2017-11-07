@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: SV. Geburtstag des französischen Botschafters in Berlin.
+Found
+MODSMD_ARTICLE02: Ohnesorge beglückwünscht die Deutsche Lufthansa.
+Found
+MODSMD_ARTICLE03: Himmler sprach vor der Deutschen Adelsgenossenschaft.
+Found
+MODSMD_ARTICLE04: Deutsch-französische Zusammenarbeit im Ozeanluftverkehr.
+Found
+MODSMD_ARTICLE05: Beileidskundgebungen zur Naturkatastrophe in der Südpsalz.
+Found
+MODSMD_ARTICLE06: Der französische Botschafter in Kiel.
+Found
+MODSMD_ARTICLE07: Zusammenarbeit zwischen KdF. und NS.-Kulturgemeinde»
+Found
+MODSMD_ARTICLE09: Ostpreußen erwartet die Alte Garde.
+Found
+MODSMD_ARTICLE10: Mackensen zum Reichskriegertag in Kassel.
+Found
+MODSMD_ARTICLE11: Die Befestigungen um Bilbao durchbrochen.
+Found
+MODSMD_ARTICLE12: Politischer Mord in Madrid.
+Found
+MODSMD_ARTICLE13: Weitere 175 italienische Freiwillige in Spanien gefallen.
+Found
+MODSMD_ARTICLE14: Abänderung französischer Ortsbezeichnungen in Italien.
+Found
+MODSMD_ARTICLE15: „Kollektive Sicherheit bedeutet kollektiven Krieg".
+Found
+MODSMD_ARTICLE16: Bolle Einigung der 4 Mächte in London.
+Found
+MODSMD_ARTICLE17: London zu den Vorgängen um Tuchatschewski.
+Found

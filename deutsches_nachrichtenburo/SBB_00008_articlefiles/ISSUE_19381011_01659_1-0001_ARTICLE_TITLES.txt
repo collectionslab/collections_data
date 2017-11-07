@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Glückwunschschreiben des Ministerpräsidenten Göring.
+Found
+MODSMD_ARTICLE02: Kriegler an die rundfunkhörenden Volksgenossen.
+Found
+MODSMD_ARTICLE03: Sofortiger Aufbau der NSV. Sudetengau.
+Found
+MODSMD_ARTICLE04: Teutschlands Westbefestigungen keine Bedrohung.
+Found
+MODSMD_ARTICLE05: Französischer Arbeiter von Kommunisten ermordet.
+Found
+MODSMD_ARTICLE06: Tagesbefehl Daladiers an das Heer.
+Found
+MODSMD_ARTICLE07: Jüdischer Menschenschmuggel nach Frankreich.
+Found
+MODSMD_ARTICLE08: Der britische Luftmarschall in Reims.
+Found
+MODSMD_ARTICLE09: Der irakische Außenminister ans London abgereist.
+Found
+MODSMD_ARTICLE10: Erste Sitzung des slowakischen Ministerrats.
+Found
+MODSMD_ARTICLE11: Emigrantendämmerung in Prag.
+Found
+MODSMD_ARTICLE12: Reisen aus der Tschecho-Slowakei in das Reich.
+Found
+MODSMD_ARTICLE13: Einmarsch der ungarischen Truppen.
+Found
+MODSMD_ARTICLE14: Devisenschmuggler festgenommen.
+Found
+MODSMD_ARTICLE15: Eine „Mexiko-Woche" in Sowjetspanien.
+Found
+MODSMD_ARTICLE16: Arabische Warnung an die Juden.
+Found
+MODSMD_ARTICLE17: Arabische Natioualregieruug in Jerusalem.
+Found
+MODSMD_ARTICLE18: Wieder 12 Tote in Palästina.
+Found
+MODSMD_ARTICLE19: Japanische Erfolge am Luschan-Berg.
+Found

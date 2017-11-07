@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm des Führers an Gauleiter Weinrich.
+Found
+MODSMD_ARTICLE02: Reichspostnnnister beglückwünscht Syndicato Condor.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Die Sammlungen am „Tag der nationalen Solidarität".
+Found
+MODSMD_ARTICLE05: Baldur von Schirach: „Warum nicht"?
+Found
+MODSMD_ARTICLE06: Hinrichtung eines Mörders und Brandstifters.
+Found
+MODSMD_ARTICLE07: „Diese Verbindung ist lebensgefährlich".
+Found
+MODSMD_ARTICLE08: Die „Times" über die Lage der Sudetendeutschen.
+Found
+MODSMD_ARTICLE09: Attlee nach Sowjetspanien abgereist.
+Found
+MODSMD_ARTICLE10: Dr. Neumayer und Dr. Kienböck aus London abgereist.
+Found
+MODSMD_ARTICLE11: Vor der Delbos-Reise nach Warschau.
+Found
+MODSMD_ARTICLE12: Eine Fahne der polnischen für die französischen Frontkämpfer.
+Found
+MODSMD_ARTICLE13: Haushaltsaussprache in der französischen Kammer.
+Found
+MODSMD_ARTICLE14: Deutsch-japanischer Jugendaustausch.
+Found
+MODSMD_ARTICLE15: Der Notenaustausch Mandschukuo—Nationalspanien.
+Not Found

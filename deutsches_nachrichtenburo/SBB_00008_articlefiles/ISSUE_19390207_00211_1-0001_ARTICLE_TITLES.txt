@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Stabschef Luhe in Messina.
+Found
+MODSMD_ARTICLE02: Ausschluß der Juden aus der italienischen Wehrmacht.
+Found
+MODSMD_ARTICLE03: Die Neubildung der jugoslawischen Regierung.
+Found
+MODSMD_ARTICLE04: Wie Franco um seinen Sieg geprellt werden soll.
+Found
+MODSMD_ARTICLE05: Sowjet-Madrid ruft zum Weltkrieg auf.
+Found
+MODSMD_ARTICLE06: Brennende Städte kennzeichnen den Rückzug der Roten.
+Found
+MODSMD_ARTICLE07: London achtet aus das spanische Fliichtlingsproblem.
+Found
+MODSMD_ARTICLE08: London und Paris wollen in Burgos vermitteln?
+Found
+MODSMD_ARTICLE09: Madrid bereits ausgegeben?
+Found
+MODSMD_ARTICLE10: Auch die internationalen Brigaden fliehen.
+Found
+MODSMD_ARTICLE11: „Staatspräsident" Azana brachte sich in Sicherheit.
+Found
+MODSMD_ARTICLE12: Verschiebung des Besuches des Herzogpaars von Kent.
+Found
+MODSMD_ARTICLE13: WA sich London in Rumänien schadlos halten?
+Found
+MODSMD_ARTICLE14: Beginn der Palästina-Konferenz.
+Found
+MODSMD_ARTICLE15: Straßenbaupläne auch in der Karpaiho-Ukraine»
+Found
+MODSMD_ARTICLE16: Königsbesuch im Panzerwagen.
+Found
+MODSMD_ARTICLE17: Aufstellung eines australischen Nationalregisters.
+Found

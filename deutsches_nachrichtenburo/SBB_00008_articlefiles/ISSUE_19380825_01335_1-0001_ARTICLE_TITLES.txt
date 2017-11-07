@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Teiltagung der Weltkraftkonferenz in Wien.
+Found
+MODSMD_ARTICLE02: Italienischer Segelschulschiffbesuch in Kiel.
+Found
+MODSMD_ARTICLE03: Budapest zum Empfang Horthhs in Berlin.
+Found
+MODSMD_ARTICLE04: Polens Presse zum Berliner Empfang von Horthys.
+Found
+MODSMD_ARTICLE05: Die römische Presse zum Horthy-Besuch.
+Found
+MODSMD_ARTICLE06: Japanische Auszeichnung für Parteisekretär Starace.
+Found
+MODSMD_ARTICLE07: Italien zu Stojadinowitschs Friedenspolitik.
+Found
+MODSMD_ARTICLE08: Auch Korsika vom Marseiller Streik ergriffen.
+Found
+MODSMD_ARTICLE09: Grauenvolle Zustände im Gefängnis von Philadelphia.
+Found

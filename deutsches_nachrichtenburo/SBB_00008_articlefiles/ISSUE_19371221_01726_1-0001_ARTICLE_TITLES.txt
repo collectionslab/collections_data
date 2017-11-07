@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Das Beileid Zum Tode Ludendorffs.
+Found
+MODSMD_ARTICLE02: Das Ausland über die Feldherrneigenschaften Ludendorffs.
+Found
+MODSMD_ARTICLE03: General Röder in Turin.
+Found
+MODSMD_ARTICLE04: Die Verhandlungspunkte auf der Budapester Konferenz.
+Found
+MODSMD_ARTICLE05: Deutschlands Presse erringt Preise in Paris.
+Found
+MODSMD_ARTICLE06: Tagung des französischen Nationalen Wirtschaftsrates.
+Found
+MODSMD_ARTICLE07: Der jugoslawische Handelsdelegierte für Nationalspanien»
+Found
+MODSMD_ARTICLE08: Die Sowjets panier schließen die Grenze bei Perthus.
+Found
+MODSMD_ARTICLE09: Neuer Angriff Edens gegen Italien.
+Found
+MODSMD_ARTICLE10: Auflösung des brasilianischen Austenhandelsrates.
+Found
+MODSMD_ARTICLE11: Die Olympischen Spiele 1949 in Tokio.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Frick Ehrenmitglied der Ungarisch-Deutschen Gesellschaft.
+Found
+MODSMD_ARTICLE02: Admiral Cavagnari besucht Großadmiral Dr. 11. e. Raeder.
+Found
+MODSMD_ARTICLE03: Eine italienische Jagdstaffel in Deutschland.
+Found
+MODSMD_ARTICLE04: Besuche spanischer Offiziere bei der Luftwaffe.
+Found
+MODSMD_ARTICLE05: Der lebte Tag der Westfalenfahrt der Alten Garde.
+Found
+MODSMD_ARTICLE06: Das Verhältnis des Beamten zu Staat und Partei.
+Found
+MODSMD_ARTICLE08: Lettland setzt sich gegen die Lügenhetze zur Wehr.
+Found
+MODSMD_ARTICLE09: Molotow wird in einigen Tagen antworten.
+Found
+MODSMD_ARTICLE10: Zum Volkskommissar für Industrieanlagen ernannt.
+Found
+MODSMD_ARTICLE11: Die spanische Fliegerabordnung beim Duce.
+Found
+MODSMD_ARTICLE12: Anschlagsplan gegen Calinescu aufgedeckt.
+Found
+MODSMD_ARTICLE13: Beratungen in Singapur.
+Found
+MODSMD_ARTICLE14: Roosevelt ködert die Kommunisten.
+Found
+MODSMD_ARTICLE15: Ehrenmitglieder des deutsch-chilenischen Kulturinstituts.
+Found
+MODSMD_ARTICLE16: Brasilien sorgt selbst für seine Verteidigung.
+Found
+MODSMD_ARTICLE17: Die Kennzahl der Großhandelspreise vom 14. Juni 1939.
+Found

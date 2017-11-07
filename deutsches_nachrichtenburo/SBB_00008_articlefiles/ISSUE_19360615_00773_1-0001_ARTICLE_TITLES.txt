@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Starke Beachtung der . Goebbels-Rede in Paris.
+Found
+MODSMD_ARTICLE02: Die Neichstagung der NS-Kulturgemeinde in München.
+Found
+MODSMD_ARTICLE03: Deutscher Auto-Sieg auf dem Nürburg-Ring.
+Found
+MODSMD_ARTICLE04: Deutscher Tennissieg gegen Irland.
+Found
+MODSMD_ARTICLE05: „Popolo d'Jtalia" über Deutschlands Wiederaufstieg.
+Found
+MODSMD_ARTICLE06: Zwischenfall im Kattowitzer Hochverratsprozeß.
+Found
+MODSMD_ARTICLE07: Die polnisch-tschechoslowakischen Beziehungen.
+Found
+MODSMD_ARTICLE08: Rücktritt der schwedischen Regierung?
+Found
+MODSMD_ARTICLE09: „Journal" über die neue sowjetrussische Verfassung.
+Found
+MODSMD_ARTICLE10: Ausschlußreiche Erklärungen französischer Kommunisten.
+Found
+MODSMD_ARTICLE11: Franchreich zahlt wieder nicht an Amerika.
+Found
+MODSMD_ARTICLE12: Neue Einigungen neue Streiks.
+Found
+MODSMD_ARTICLE13: Tie Durchdringung Abessiniens.
+Found
+MODSMD_ARTICLE14: Beitritt Aegyptens zum Internationalen Arbeitsbüro.
+Found
+MODSMD_ARTICLE15: 82 Grenzverletzungen in fünf Monaten.
+Found
+MODSMD_ARTICLE16: Mexikanische Pressefehde gegen den Einfluß der Juden.
+Found

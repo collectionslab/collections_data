@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Das Buch ein Kraftquell der Nation.
+Found
+MODSMD_ARTICLE02: Trauerfeier für Oberstarzt der Polizei Dr. Scham.
+Found
+MODSMD_ARTICLE03: „Hilf mit!" Feierstunde des NS.-Lehrerblmdes.
+Found
+MODSMD_ARTICLE04: Italien achtet auf Distanz.
+Found
+MODSMD_ARTICLE05: Der Führer in Wien.
+Found
+MODSMD_ARTICLE06: Vor dem 17. Jahrestüg des Marsches auf Rom.
+Found
+MODSMD_ARTICLE07: Japans Kriegsminister zum Fall Hankaus»
+Found
+MODSMD_ARTICLE08: Wieder fünf Araber in Palästina erschossen.
+Found

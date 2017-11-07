@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Funk über das Ergebnis seiner Südostreise.
+Found
+MODSMD_ARTICLE03: Polnische Straßenbausachleute in Innsbruck.
+Found
+MODSMD_ARTICLE04: „Expreß Poranny" gegen französische Presse. »
+Found
+MODSMD_ARTICLE05: Warschau über den Polenmord in Lyon erbittert.
+Found
+MODSMD_ARTICLE06: Warschau meldet: Wieder Polenverfolgungen in Litauen.
+Found
+MODSMD_ARTICLE07: Telegramm Fraucos an Mussolini.
+Found
+MODSMD_ARTICLE08: Die italienisch-spanische Waffenbrüderschaft.
+Found
+MODSMD_ARTICLE09: Nationaler Vorstoß an der Ebro-Front.
+Found
+MODSMD_ARTICLE10: Wieder Brot statt Bomben.
+Found
+MODSMD_ARTICLE11: Gespannte Lage an deT ungarischen Grenze.
+Found
+MODSMD_ARTICLE12: Beratungen in Budapest.
+Found
+MODSMD_ARTICLE13: Blutige Ausschreitungen in Preßburg.
+Found
+MODSMD_ARTICLE14: Em Marxist bei Paris tot aufgefunden.
+Found
+MODSMD_ARTICLE15: Tie Doppelzüngigkeit der Palästina-Politik.
+Found
+MODSMD_ARTICLE16: Iren fordern Beendigung der Trennung.
+Found
+MODSMD_ARTICLE17: Wiedereröffnung der albanischen Kammer.
+Found
+MODSMD_ARTICLE18: Die arabischen Frauen gegen die Palästina-Politik.
+Found
+MODSMD_ARTICLE19: Rascher japanischer Vormarsch in Südchina.
+Found

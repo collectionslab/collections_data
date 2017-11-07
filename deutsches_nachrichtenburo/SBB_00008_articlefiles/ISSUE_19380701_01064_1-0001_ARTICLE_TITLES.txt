@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Telegrammwechsel zwischen Bottai und Ruft.
+Found
+MODSMD_ARTICLE02: Deutsche Küstenaufklärungsftafsel besucht Estland.
+Found
+MODSMD_ARTICLE03: Ernennungen und Versetzungen im Heer.
+Found
+MODSMD_ARTICLE04: Vorarbeiten für den Reichsparteitag 1938.
+Found
+MODSMD_ARTICLE05: Das Natioualitätenstatut immer noch nicht fertig.
+Found
+MODSMD_ARTICLE06: Fest aller Deutschen in Komotau genehmigt.
+Found
+MODSMD_ARTICLE07: Wieder drei SdK.-Bürgermeister gewählt.
+Found
+MODSMD_ARTICLE08: Die Schweiz stimmt über ein einheitliches Strafrecht ab.
+Found
+MODSMD_ARTICLE09: Schweizer Regierung für Verlängerung des Finanznotrechts.
+Found
+MODSMD_ARTICLE10: Die italienische Presse sieht einen Fortschritt.
+Found
+MODSMD_ARTICLE11: Frankreichs Absichten in Spanien.
+Found
+MODSMD_ARTICLE12: Marxistische Forderungen in Frankreich.
+Found
+MODSMD_ARTICLE13: Höchsttonnage für Grosiknmpfschisse 45 MW Tonnen.
+Found
+MODSMD_ARTICLE14: Südafrikanische Union will das Imperium anerkennen.
+Found
+MODSMD_ARTICLE15: Die Unruhen in Waziristan.
+Found
+MODSMD_ARTICLE16: GPU.-Chef für den Fernen Osten flüchtet nach Mandschukuo.
+Found
+MODSMD_ARTICLE17: Bolschewistenhetze in den Vereinigten Staaten.
+Found

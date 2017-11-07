@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Vom Rath Gesandtschaftsrat I. Klasse.
+Found
+MODSMD_ARTICLE02: Beförderungen im NSKK. zum 9. November.
+Found
+MODSMD_ARTICLE03: Die Auslandsorganisation ehrte die Toten der Bewegung.
+Found
+MODSMD_ARTICLE04: Aeber 19 Millionen Rundfunkhörer.
+Found
+MODSMD_ARTICLE05: Die KdF.-Flotte gedenkt des 9. November.
+Found
+MODSMD_ARTICLE06: Das Ausland zur Müncheuer Führerrede.
+Found
+MODSMD_ARTICLE07: Deutsche Buchausgabe der Reden Salazars.
+Found
+MODSMD_ARTICLE08: Italienische Entrüstung über die jüdische Bluttat.
+Found
+MODSMD_ARTICLE09: Der Mordfall Grynfzpan öffnet Frankreich die Augen.
+Found
+MODSMD_ARTICLE10: Das Befinden des Legationssekretärs vom Rath.
+Found
+MODSMD_ARTICLE11: Der sowjetspanische Widerstand am Ebro läßt nach.
+Found
+MODSMD_ARTICLE12: Schwere Ruhestörungen bei den amerikanischen Wahlen.
+Found
+MODSMD_ARTICLE13: Weitere japanische Fortschritte.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Pressechef der NSDAP, zum Dankopfer der Nation.
+Found
+MODSMD_ARTICLE02: Ter italienische Fliegergeneral Aimone-Cat in Berlin.
+Found
+MODSMD_ARTICLE03: Großer Erfolg deutscher Künstler in Reval.
+Found
+MODSMD_ARTICLE04: „Giornale d'Jtalia" über das Zerrbild der Nichteinmischung.
+Found
+MODSMD_ARTICLE05: Kommunistenüberfall auf englische Faschisten.
+Found
+MODSMD_ARTICLE06: Brandstiftung auf einem englischen Dampfer.
+Found
+MODSMD_ARTICLE07: Folgen der Blockade von Bilbao.
+Found
+MODSMD_ARTICLE08: Die scheinheilige Haltung der englischen Opposition.
+Found
+MODSMD_ARTICLE09: Schlachtkreuzer „Hood" verläßt Spaniens Nordknste.
+Found
+MODSMD_ARTICLE10: Der nationale Heeresbericht vom Mittwoch.
+Found
+MODSMD_ARTICLE11: Die französische „40-Stnnden-Woche" undurchführbar.
+Found
+MODSMD_ARTICLE12: Die „verzierten" Ausstellungs-Trikoloren beseitigt.
+Found
+MODSMD_ARTICLE13: Aufteilung Palästinas in Provinzen?
+Found
+MODSMD_ARTICLE14: Frauen in USA besetzen eine Fabrik.
+Found
+MODSMD_ARTICLE15: Die amerikanische Flottenaufrüstung verzögert.
+Found
+MODSMD_ARTICLE16: Kabinettskrise in Ontario.
+Found

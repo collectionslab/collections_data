@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Führer bei den alten Münchener Parteigenossen.
+Found
+MODSMD_ARTICLE02: Die deutschen Bergmänner danken dem Führer.
+Found
+MODSMD_ARTICLE03: Verbesserung in der Lage der Kriegsbeschädigten.
+Found
+MODSMD_ARTICLE04: Auch den Kleinrentnern wird geholfen.
+Found
+MODSMD_ARTICLE05: 53 Auszeichnungen für deutsches Bier und deutsche WeineM
+Found
+MODSMD_ARTICLE06: Italien feierte den „Mütter- und Kindertag".
+Found
+MODSMD_ARTICLE07: Eine Rundfunkbotschaft von Dr. Benesch.
+Found
+MODSMD_ARTICLE08: Sowjetdiplomaten werden knapp.
+Found

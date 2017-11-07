@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dank des Führers
+Found
+MODSMD_ARTICLE02: Telegrammwechsel des Führers mit Mussolini.
+Found
+MODSMD_ARTICLE03: Der Neujahrsgruß der Berchtesgadener Weihnachtsschüben.
+Found
+MODSMD_ARTICLE04: Eine Neujahrsansprache Gogas.
+Found
+MODSMD_ARTICLE06: Belgrad verhindert Zustrom von Juden aus Rumänien.
+Found
+MODSMD_ARTICLE07: Ungarns Ziel: Eine aktive Außenpolitik.
+Found
+MODSMD_ARTICLE08: Vansittart Diplomatischer Hauptberater Edens.
+Found
+MODSMD_ARTICLE09: Das englische Weißbuch über Palästina.
+Found
+MODSMD_ARTICLE10: Antibolschewistische Franendemonstration in Sagunt.
+Found
+MODSMD_ARTICLE11: Eine Neujahrsumfrage des tschechischen „Venkov".
+Found
+MODSMD_ARTICLE12: Vernichtende Kritik der „Gazeta Polska" an Moskau.
+Found
+MODSMD_ARTICLE13: Zionisten als bolschewistische Wühler.
+Found
+MODSMD_ARTICLE14: Portugal beseht eine Insel bei Macao.
+Found
+MODSMD_ARTICLE15: Die Reichskennziffer für die Lebenshaltungskosten.
+Found

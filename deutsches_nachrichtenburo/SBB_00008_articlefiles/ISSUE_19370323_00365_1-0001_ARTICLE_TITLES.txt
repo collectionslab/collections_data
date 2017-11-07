@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Luftschiff „Hindeuburg" Zur Heimreise gestartet.
+Found
+MODSMD_ARTICLE02: Amerikanisches Echo der deutscheu Anteilnahme.
+Found
+MODSMD_ARTICLE03: Prager Trinksprüche.
+Found
+MODSMD_ARTICLE04: Wehmütige Klage über Frankreichs gesunkenes Ansehen.
+Found
+MODSMD_ARTICLE05: Marxistische „Arbeitskameradschaft" in Clichy.
+Found
+MODSMD_ARTICLE06: Flugzeug der „Roten Hilfe" landet in Frankreich.
+Found
+MODSMD_ARTICLE07: Nationale Bombenflieger über Valencia.
+Found
+MODSMD_ARTICLE08: Fühlungnahme König Leopolds mit englischen Politikern.
+Found
+MODSMD_ARTICLE09: Belgien will Herr im eigenen Hause sein.
+Found
+MODSMD_ARTICLE10: Englische Ministergehälter sollen erhöht werden.
+Found
+MODSMD_ARTICLE11: Positive englische Politik in der Kolonialsrage gefordert.
+Found
+MODSMD_ARTICLE12: Keine Anerkennung der Sowjetunion durch Belgrad.
+Found
+MODSMD_ARTICLE13: Bombenattentat in Jaffa. Drei Araber verletzt.
+Found
+MODSMD_ARTICLE14: Stahlmangel der USA behoben. Kriegsschiffe im Bau.
+Found
+MODSMD_ARTICLE15: Amerikanischer Marinehaushalt angenommen.
+Found
+MODSMD_ARTICLE16: Benzinlager explodiert. 15 Verletzte.
+Found

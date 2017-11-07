@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Mit Gummiknüppeln gegen Sudetendentsche.
+Found
+MODSMD_ARTICLE02: „Gioruale d'Jtalia" zu den Reden Mussolinis.
+Found
+MODSMD_ARTICLE03: Blum will Arbeitslosenfonds schaffen.
+Found
+MODSMD_ARTICLE04: Pariser Handelskammer gegen Generalstreikhetze.
+Found
+MODSMD_ARTICLE05: Kammer-Interpellation gegen politische Streiks.
+Found
+MODSMD_ARTICLE06: Das Großkreuz der Ehrenlegion für Sir G. Clerk.
+Found
+MODSMD_ARTICLE07: Große Hetzkundgebung in Paris.
+Found
+MODSMD_ARTICLE08: Erholungsurlaub von Sir Samuel Hoare.
+Found
+MODSMD_ARTICLE09: Vor Wiederaufnahme der Arbeit in den Whitehead-Werken.
+Found
+MODSMD_ARTICLE10: Schiffahrtsgeseh Unterhaus verabschiedet.
+Found
+MODSMD_ARTICLE11: „Morning Post" über Clichy.
+Found
+MODSMD_ARTICLE12: Der Wirtschaftsrat der Balkan-Entente in Athen.
+Found
+MODSMD_ARTICLE13: Der Protest des deutschen Botschafters in Washington.
+Found
+MODSMD_ARTICLE14: Repräsentantenhaus nimmt Neutralitäts-Gesetz an.
+Found
+MODSMD_ARTICLE15: Weitere Zuspitzung der Streiklage in Detroit.
+Found
+MODSMD_ARTICLE16: Fieberhafte Aufräumungsarbeiten in New London.
+Found
+MODSMD_ARTICLE17: Neuer Rekord für den Pazifik-Westflug.
+Found
+MODSMD_ARTICLE18: Juden schießen in Jerusalem ans Araber.
+Found
+MODSMD_ARTICLE19: Beschränkter Ausnahmezustand in Jerusalem.
+Found

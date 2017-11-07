@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Der Verein der ausländischen Kresse empfängt Rosenberg.
+Found
+MODSMD_ARTICLE02: Österreichische Dichter im Hauptamt für Volkswohlfahrt.
+Found
+MODSMD_ARTICLE03: Praktische Wettkämpfe im Reichsberufswettkampf.
+Found
+MODSMD_ARTICLE04: Der britische Botschafter beim Reichsberufswettkampf.
+Found
+MODSMD_ARTICLE05: Die Leiche des Kapitäns Lübbe in Hamburg eingetroffen.
+Found
+MODSMD_ARTICLE06: Deutsche Seeleute retten spanischen Fischdampfer.
+Found
+MODSMD_ARTICLE07: Das Ergebnis des internationalen Hotelkongresses.
+Found
+MODSMD_ARTICLE08: Der Reichskriegerführer bei General Kraust.
+Found
+MODSMD_ARTICLE09: Reichsminister Dr. Dorpmüller in Duernstein.
+Found
+MODSMD_ARTICLE10: Der König von Italien unterrichtet sich.
+Found
+MODSMD_ARTICLE11: Immer noch Kriegsmaterialsenduugen nach Sowjetspameu.
+Found
+MODSMD_ARTICLE12: Blondel erstattete Bonnet Bericht.
+Found
+MODSMD_ARTICLE13: London begrüßt das englisch-irische Abkommen.
+Found
+MODSMD_ARTICLE14: Ein Geschenk Chamberlains an de Valera.
+Found
+MODSMD_ARTICLE15: 2K neue bolschewistische Morde in Barcelona.
+Found
+MODSMD_ARTICLE16: Weiteres Vordringen der Nationaltruppen bei Teruel.
+Found
+MODSMD_ARTICLE17: Immer neue Opfer der Agitation für Sowjetspanien.
+Found
+MODSMD_ARTICLE18: Kowuo dementiert Zerstörung der Bahnstrecke nach Wilna.
+Found
+MODSMD_ARTICLE19: Eröffnung der Plovdiver Internationalen Mustermesse.
+Found
+MODSMD_ARTICLE20: Vollzugsausschuß ungarischer Journalisten.
+Found
+MODSMD_ARTICLE21: Personalveränderungen bei den japanischen Befehlsstellen.
+Found

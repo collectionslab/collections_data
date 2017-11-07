@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Keine Bekanntgabe der Arbeitslosenziffern mehr.
+Found
+MODSMD_ARTICLE02: Vier große Flugwettbewerbe 1939.
+Found
+MODSMD_ARTICLE03: Fünfzigster Geburtstag des Neichshandwerksmeisters.
+Found
+MODSMD_ARTICLE04: Trauerfeier für die Mitarbeiter Seyß-Inquarts.
+Found
+MODSMD_ARTICLE05: Prags Urteil über die deutschen Soldaten.
+Found
+MODSMD_ARTICLE06: Graf Ciano über die Neuordnung an der Adria.
+Found
+MODSMD_ARTICLE07: Spanien hat seinen Weg gewählt!
+Found

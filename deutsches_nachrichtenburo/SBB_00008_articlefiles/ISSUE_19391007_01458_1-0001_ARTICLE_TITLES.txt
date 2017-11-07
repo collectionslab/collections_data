@@ -1,0 +1,16 @@
+MODSMD_ARTICLE02: Glückwunsch des Führers an Himmler.
+Found
+MODSMD_ARTICLE03: Großadmiral Raeder auf der Halbinsel Hela.
+Found
+MODSMD_ARTICLE04: Rom: „Eine konkrete Plattform für den Frieden."
+Found
+MODSMD_ARTICLE05: Spanien hebt den Friedenswillen Adolf Hitlers hervor.
+Found
+MODSMD_ARTICLE06: Gewaltiges Echo der Führerrede in Jugoslawien.
+Found
+MODSMD_ARTICLE07: „Es liegt an den Weltmächten, Hitlers Hand zu ergreifen."
+Found
+MODSMD_ARTICLE08: Größtes Interesse in Estland.
+Found
+MODSMD_ARTICLE09: Verständnis in Japan.
+Found

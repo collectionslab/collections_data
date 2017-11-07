@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der Tag der großen Darsde Des Staatsbesuches letzter Tag.
+Found
+MODSMD_ARTICLE02: Mussolini im Ehrenmal.
+Found
+MODSMD_ARTICLE03: MMO Mann aufmarschiert.
+Found
+MODSMD_ARTICLE04: Die Meldung an den Führer.
+Found
+MODSMD_ARTICLE05: Duce und Führer fahren die Front ab.
+Found
+MODSMD_ARTICLE06: Der Truppenvorbeimarsch.
+Found

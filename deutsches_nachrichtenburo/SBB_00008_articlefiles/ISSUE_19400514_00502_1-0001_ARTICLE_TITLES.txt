@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Holländischer General und 18 999 Mann gefangen.
+Found
+MODSMD_ARTICLE02: Großer Erfolg der Luftwaffe.
+Found
+MODSMD_ARTICLE03: Kommandierende Generäle erstatten Mussolini Bericht.
+Found
+MODSMD_ARTICLE04: Ansaldo an das italienische Heer.
+Found
+MODSMD_ARTICLE05: Parteisekretär Muti in Turin.
+Found
+MODSMD_ARTICLE06: Rom: „Systematische Gehässigkeiten".
+Found
+MODSMD_ARTICLE07: „Milizia Fascista" zur britischen Blockade.
+Found
+MODSMD_ARTICLE08: „Englisch-französischer Wirtschastskrieg gegen Italien."
+Found
+MODSMD_ARTICLE09: Neue Todesurteile in Palästina.
+Found
+MODSMD_ARTICLE10: Beweis für die Angriffsaktion auf das Ruhrgebiet.
+Found
+MODSMD_ARTICLE11: Wieder Araberführer zum Tode verurteilt.
+Found
+MODSMD_ARTICLE12: Oberkriegshetzer Churchill wird „Oberkriegsführer".
+Found
+MODSMD_ARTICLE13: Der Balkan weiter für Politik der-Neutralität.
+Found
+MODSMD_ARTICLE14: Präsident Vargas: „Wir werden uns weiter fernhalten!"
+Found
+MODSMD_ARTICLE15: Mitteilung Aritas an den niederländischen Gesandten.
+Found
+MODSMD_ARTICLE16: Die Besetzung schafft für Japan eine neue Lage.
+Found

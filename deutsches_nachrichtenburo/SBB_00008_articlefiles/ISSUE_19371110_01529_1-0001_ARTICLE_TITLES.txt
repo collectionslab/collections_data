@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Gewaltiger Besuch der Ausstellung „Der ewige Jude".
+Found
+MODSMD_ARTICLE02: Seldte besichtigt Zuidersee-Trockenlegung.
+Found
+MODSMD_ARTICLE03: Der Reiters-Chor wieder in Riga.
+Found
+MODSMD_ARTICLE04: Prager Ausschuß berät sudeteudeutsche Beschwerde.
+Found
+MODSMD_ARTICLE05: Finanzminister Dr. Kalfus vor dem Abgeordnetenhaus.
+Found
+MODSMD_ARTICLE06: Ein Protest des schwedischen Außenministers.
+Found
+MODSMD_ARTICLE07: Kein tschechisches Verständnis für die polnische Minderheit.
+Found
+MODSMD_ARTICLE08: Polen kämpft gegen kommunistische Terroristen.
+Found
+MODSMD_ARTICLE09: Brüsseler Konferenz auf Mittwoch nachmittag verschoben.
+Found
+MODSMD_ARTICLE10: Forderungen der Frontkämpfer Frankreichs.
+Found
+MODSMD_ARTICLE11: Französische Luftmanöver über dem Mittelmeer.
+Found
+MODSMD_ARTICLE12: Tie „Gibraltar-Batterien" spuken im Unterhaus.
+Found
+MODSMD_ARTICLE13: Erfolgreiche Rekrutenwerbung in England.
+Found
+MODSMD_ARTICLE14: Tatarescu bei König Carol von Rumänien.
+Found
+MODSMD_ARTICLE15: Weitere rumänische Stimmen zum Antikomintern-Pakt.
+Found
+MODSMD_ARTICLE16: Sowjetrussische Hochverratsprozesse. 4V neue Erschießungen.
+Found
+MODSMD_ARTICLE17: „Das Problem „China" muß endgültig gelöst werden".
+Found
+MODSMD_ARTICLE18: Botschafter Dieckhoff bei Roosevelt.
+Found
+MODSMD_ARTICLE19: Besuch des Prinzen Konoye bei Roosevelt.
+Found
+MODSMD_ARTICLE20: Kommunistische Zeitung in Kanada verboten.
+Found

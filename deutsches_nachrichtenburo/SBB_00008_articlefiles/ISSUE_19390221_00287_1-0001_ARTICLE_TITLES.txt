@@ -1,0 +1,50 @@
+MODSMD_ARTICLE01: Stojadinowitsch bei Prinzregent Paul zur Abschiedsaudienz.
+Found
+MODSMD_ARTICLE02: Die nordischen Außenminister in Helsinki.
+Found
+MODSMD_ARTICLE03: Barcelona feiert seine Befreiung.
+Found
+MODSMD_ARTICLE04: Schweres Eisenbahnunglück in Nationalspanien.
+Found
+MODSMD_ARTICLE05: Rationale Offensive an der Front von Madrid.
+Found
+MODSMD_ARTICLE06: Almeria mit Bomben belegt.
+Found
+MODSMD_ARTICLE07: 50 000 ehemalige rotspanische Milizsoldaten für Franco.
+Found
+MODSMD_ARTICLE08: Schriftlicher Bericht Berards an Bonnet.
+Found
+MODSMD_ARTICLE09: Sowjetspanische Bonzen wieder unterwegs nach Madrid.
+Found
+MODSMD_ARTICLE10: „Jone" meldet schwere Unruhen in Madrid.
+Found
+MODSMD_ARTICLE11: Frankreichs Truppenzusammenziehung in Dschibuti.
+Found
+MODSMD_ARTICLE12: Farinacci über die Kraft der Achse.
+Found
+MODSMD_ARTICLE13: Wieder ein Bombenanschlag.
+Found
+MODSMD_ARTICLE14: Königsreise im Schatten der Bombenanschläge.
+Found
+MODSMD_ARTICLE15: Vor britischen „konkreten Anregungen".
+Found
+MODSMD_ARTICLE16: Unüberbrückbare Gegensähe auf der Palästinakonfeerenz.
+Found
+MODSMD_ARTICLE17: Pierlots Kabinettsbildung vor dem Abschluß.
+Found
+MODSMD_ARTICLE18: Immer wieder blutige Zwischenfälle in Jerusalem.
+Found
+MODSMD_ARTICLE19: Japanisches Gesetz über die Grenzkontrolle.
+Found
+MODSMD_ARTICLE20: . Die internationalen Quertreibereien in Schanghai.
+Found
+MODSMD_ARTICLE21: Fieberhafte militärische Vorbereitungen in Sibirien?
+Found
+MODSMD_ARTICLE22: Rüstumgsfieber auch in Australien.
+Found
+MODSMD_ARTICLE23: Senator Nye beantragt einen Maulkorb für Roosevelt.
+Found
+MODSMD_ARTICLE24: Politische Schwarzmalerei.
+Found
+MODSMD_ARTICLE25: Amerika macht mit der Kriegspsychose Geschäfte.
+Found

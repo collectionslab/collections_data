@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Dr. Goebbels vor dem Kulturkreis der SA.
+Found
+MODSMD_ARTICLE02: Reichsminister v. Neurath bei Bundespräsident Miklas.
+Found
+MODSMD_ARTICLE03: Polen unier dem Eindruck des Koc'schen Programms.
+Found

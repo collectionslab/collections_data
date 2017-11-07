@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Mussolini-Pokal für den Olympia-Film.
+Found
+MODSMD_ARTICLE02: Reichsmimster Dr. Goebbels beglückwünscht Leni Riefenstahl.
+Found
+MODSMD_ARTICLE03: SdK. Zerschlägt Auslandslügen.
+Found
+MODSMD_ARTICLE04: Fortdauer der diplomatischen Besprechungen in London.
+Found
+MODSMD_ARTICLE05: Paris blickt mit Spannung nach Prag.
+Found
+MODSMD_ARTICLE06: Milch und Stumpfs Gäste des schwedischen Kriegsministers.
+Found
+MODSMD_ARTICLE07: Schwedischer Ministerrat.
+Found
+MODSMD_ARTICLE08: In Barcelona angeworben und nach Le Havre gereist.
+Found
+MODSMD_ARTICLE09: 210113 Kriegsgefangene in Nationalspanien.
+Found
+MODSMD_ARTICLE10: Um den Austausch von Kriegsgefangenen in Spanien.
+Found
+MODSMD_ARTICLE11: Herzliche Unterredung des Duce mit König Boris.
+Found
+MODSMD_ARTICLE12: Ein jugoslawisches Blatt über die Tagung ijn Stuttgart.
+Found
+MODSMD_ARTICLE13: Ein Freiheitsdenkmal in Tirana.
+Found
+MODSMD_ARTICLE14: Währiges Regierungsjubiläum der holländischen Königin.
+Found
+MODSMD_ARTICLE15: Tschechische Frage vor der südafrikanischen Kammer.
+Found
+MODSMD_ARTICLE16: Neuer Chef der britischen Militärmission in Aegypten.
+Found
+MODSMD_ARTICLE17: Mohammedaner Oberbürgermeister von Jerusalem.
+Found
+MODSMD_ARTICLE18: Wieder zwei Araber von Juden erschossen.
+Found
+MODSMD_ARTICLE19: Abgesagter Besuch von USA.-Zerstörern in Veracruz.
+Found
+MODSMD_ARTICLE20: Auch USA. beschäftigt sich mit dem tschechischen Problem.
+Found
+MODSMD_ARTICLE21: Ausweisung des Kommujnistenhäuptlings Bridges abgelehnt.
+Found

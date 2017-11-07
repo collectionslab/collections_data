@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Neujahrskundgebungen.
+Found
+MODSMD_ARTICLE02: -Stärkste Beachtung der Neusahrsbotschaft des Führers.
+Found
+MODSMD_ARTICLE03: Dämmert es immer noch nicht?
+Found
+MODSMD_ARTICLE04: Rundfunkerklärung Minister Gasencus.
+Found
+MODSMD_ARTICLE05: Gegen Frankreichs Bindungen an Moskau.
+Found
+MODSMD_ARTICLE06: Araber-Besprechungen ohne Teilnahme des Großmufti?
+Found
+MODSMD_ARTICLE07: Palastina meldet neues Feuergefecht.
+Found
+MODSMD_ARTICLE08: Neujahrsbotschaften aus Tokio.
+Found
+MODSMD_ARTICLE09: Die japanische Kabinettsneubildung.
+Found
+MODSMD_ARTICLE10: Wangtschingweis Botschaft stark beachtet.
+Found
+MODSMD_ARTICLE11: Besuch einer britischen Luftfahrtabordnung in Australien.
+Found

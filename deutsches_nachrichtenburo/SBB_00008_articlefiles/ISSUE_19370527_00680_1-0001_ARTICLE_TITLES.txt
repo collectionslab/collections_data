@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ley vor den Lehranwärtern der Schulungsburgen.
+Found
+MODSMD_ARTICLE02: Schacht bei dem französischen Handelsminister.
+Found
+MODSMD_ARTICLE03: Doriot seines Amtes als Bürgermeister enthoben.
+Found
+MODSMD_ARTICLE04: Londoner Autobusstreik beigelegt.
+Found
+MODSMD_ARTICLE05: Die bolschewistischen Massenabschlachtungen von Madrid.
+Found
+MODSMD_ARTICLE06: Das Märchen der Landung von Deutschen in San Sebastian.
+Found
+MODSMD_ARTICLE07: Sir Thomas Jnskip über die Kontrolle der Waffenindustrie.
+Found
+MODSMD_ARTICLE08: Labour Party gegen marxistisch-kommunistische Einheitsfront.
+Found
+MODSMD_ARTICLE09: Die Entlassung Belgiens aus dem Locarno-Vertrag.
+Found
+MODSMD_ARTICLE10: Ungarn und die Kleine Entente.
+Found
+MODSMD_ARTICLE11: „Ministerium für populäre Kultur".
+Found
+MODSMD_ARTICLE12: Vier Kommunistenprozesse in Kowno.
+Found
+MODSMD_ARTICLE13: Die Polizeimaßnahmen gegen den Flamen-Aufmarsch.
+Found
+MODSMD_ARTICLE14: Sechsstunden-Arbeitstag im polnischen Bergbau.
+Found

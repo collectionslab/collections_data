@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer im mecklenburgischen Manövergebiet.
+Found
+MODSMD_ARTICLE02: Gesundheitsfürsorge in der Invalidenversicherung.
+Found
+MODSMD_ARTICLE03: Deutsche Abordnung für Ingenieur-Kongreß.
+Found
+MODSMD_ARTICLE04: Italiens Presse im Zeichen des Mussolini-Besuches.
+Found
+MODSMD_ARTICLE05: Ernster Zwischenfall bei italienischem Besuch in Tunis.
+Found
+MODSMD_ARTICLE06: Englands und Frankreichs Antworten in Rom überreicht.
+Found
+MODSMD_ARTICLE07: Eden in Paris eingetroffen.
+Found
+MODSMD_ARTICLE08: Thronrede der Königin der Niederlande.
+Found
+MODSMD_ARTICLE09: Die Völkerbundsversammlung am Dienstag.
+Found
+MODSMD_ARTICLE10: „Erniedrigend für die Burennation."
+Found
+MODSMD_ARTICLE11: Die Engländer bleiben in Nanking.
+Found
+MODSMD_ARTICLE12: Schwerer japanischer Luftangriff auf Kanton.
+Found
+MODSMD_ARTICLE13: Die Cholera-Epidemie in Hongkong. .
+Found

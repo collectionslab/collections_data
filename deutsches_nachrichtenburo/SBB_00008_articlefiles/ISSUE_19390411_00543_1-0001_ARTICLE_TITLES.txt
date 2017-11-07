@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Admiral Albrecht Zum Generaladmiral befördert.
+Found
+MODSMD_ARTICLE02: Der neue jugoslawische Gesandte in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE03: Graf Ciano wieder in Rom.
+Found
+MODSMD_ARTICLE04: Danktelegramme aus Albanien an Mussolini.
+Found
+MODSMD_ARTICLE05: „Das Gegacker der sogenannten Demokratien".
+Found
+MODSMD_ARTICLE06: Die italienischen Flüchtlinge nach Albanien zurückgekehrt.
+Found
+MODSMD_ARTICLE08: Die italienischen Toten von Turazzo beigesetzt.
+Found
+MODSMD_ARTICLE09: Proklamation des Generals Guzzoni.
+Found
+MODSMD_ARTICLE10: Generalfeldmarschall Göring in Tripolis.
+Found
+MODSMD_ARTICLE11: Die Osterfeiertage in Belgrad.
+Found
+MODSMD_ARTICLE12: Englands „Schutz" für Griechenland und die Türkei.
+Found
+MODSMD_ARTICLE13: „Uebersall der Marsbewohner" auch in Frankreich.
+Found
+MODSMD_ARTICLE14: Ter griechische Gesandte bei Bonnet.
+Found
+MODSMD_ARTICLE15: Norman wieder gewählt.
+Found
+MODSMD_ARTICLE16: Kabinettsumbildung in Island?
+Found
+MODSMD_ARTICLE17: Der Föderalismus in Brasilien beseitigt.
+Found
+MODSMD_ARTICLE18: Auch Peru kehrt der Genfer Schwatzbude den Rücken.
+Found
+MODSMD_ARTICLE19: Tie New Aorker Presse zu Albanien und Spanien.
+Found
+MODSMD_ARTICLE20: Mord in der britischen Niederlassung in Tieutsin.
+Found

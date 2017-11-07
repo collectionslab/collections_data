@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Staatsbesuch des Senators Sorondo.
+Found
+MODSMD_ARTICLE02: Jureniew in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE03: Schwedische Panzerschiffdivision besucht Kiel.
+Found
+MODSMD_ARTICLE04: Deutschlandfahrt dänischer Juristen.
+Found
+MODSMD_ARTICLE05: Ter Internationale Studententag in Heidelberg beendet.
+Found
+MODSMD_ARTICLE06: Immer wieder Kloster Ebernach.
+Found
+MODSMD_ARTICLE07: Der neue deutsche Gesandte in Dublin eingetroffen.
+Found
+MODSMD_ARTICLE08: Labourabgeordneter will Zum Dum reisen.
+Found
+MODSMD_ARTICLE09: Englands Palästina-Bericht wird in Genf vorgelegt.
+Found
+MODSMD_ARTICLE10: Die Juden mit dem Palästina-Plan nicht zufrieden.
+Found
+MODSMD_ARTICLE11: Die „Stampa" gegen Londons Palästina-Absichten.
+Found
+MODSMD_ARTICLE12: Demokratische Vereinigung gegen die Volksfrontregierung.
+Found
+MODSMD_ARTICLE13: Sommerferien in den französischen Parlamenten.
+Found
+MODSMD_ARTICLE14: Der nationale Heeresbericht vom Mittwoch.
+Found
+MODSMD_ARTICLE15: Sowjetgrößen im Lubjanka-Gefängnis verschwunden.
+Found
+MODSMD_ARTICLE16: In Moskau wird eine sogenannte „Wahlordnung" beraten.
+Found
+MODSMD_ARTICLE17: Die USA. unterstützen die deutschen Nordatlantikflüge.
+Found
+MODSMD_ARTICLE18: Umfangreiche Regulierungsarbeiten am Mississippi-Lauf.
+Found

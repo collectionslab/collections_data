@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Deutsches Aachrichtenbüro K
+Found
+MODSMD_ARTICLE02: Der jfuhrer nahm Abschied von Seneml Aochelchsuer
+Found
+MODSMD_ARTICLE03: Funk überreicht Präsident Pietzsch den Adlerschild.
+Found
+MODSMD_ARTICLE04: Deutsch-Portugiesisches Abkommen.
+Found
+MODSMD_ARTICLE05: Spanischer Orden für Ministerpräsident Salazar»
+Found
+MODSMD_ARTICLE06: „Paris will offenbar Oel ins Feuer gießen."
+Found
+MODSMD_ARTICLE07: Sie reden und Hetzen weiter.
+Found
+MODSMD_ARTICLE08: Englands Blutschuld in Palästina.
+Found

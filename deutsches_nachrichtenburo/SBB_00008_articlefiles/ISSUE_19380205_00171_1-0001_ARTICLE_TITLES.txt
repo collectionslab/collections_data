@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Antworttelegramm des Führers an den Duee.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Göring eröffnet Ausstellung in der Akademie der Künste.
+Found
+MODSMD_ARTICLE04: Glückwunsch Görings.
+Found
+MODSMD_ARTICLE05: Gruppenführertagung des NSFK.
+Found
+MODSMD_ARTICLE07: Akademie des NSD.-Tozentenbundes in Tübingen.
+Found
+MODSMD_ARTICLE08: Italienische Stndienkommissiou in Frankfurt a. M.
+Found
+MODSMD_ARTICLE09: Reichsbeamtenführer Neef bei Mussolini.
+Found
+MODSMD_ARTICLE10: Die Sitzung des Großen Faschistischen Rates.
+Found
+MODSMD_ARTICLE11: Italienische Zustimmung aus Verschärfung der Patrouillen.
+Found
+MODSMD_ARTICLE12: Ministerrat in London.
+Found
+MODSMD_ARTICLE13: Englisch-amerikanische „Vorstellungen" in Tokio.
+Found
+MODSMD_ARTICLE14: Gegen die Zuwanderung von Ostjuden nach Oesterreich.
+Found
+MODSMD_ARTICLE15: Neuer Menschenschmuggel für Sowjetspanien.
+Found
+MODSMD_ARTICLE16: Der türkische Außenminister bei Daranyi.
+Found
+MODSMD_ARTICLE17: Kriegsminister Kasprzycki über Polens Wehrhastmachung.
+Found

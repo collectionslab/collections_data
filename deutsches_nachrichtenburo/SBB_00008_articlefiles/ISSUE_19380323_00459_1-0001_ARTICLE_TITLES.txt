@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Telegrammwechsel zwischen Franca und Hitler.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels spendet für Wiener Theater.
+Found
+MODSMD_ARTICLE03: Verordnung zur Volksabstimmung und Reichstagswahl.
+Found
+MODSMD_ARTICLE04: Die 2VW Wiener Arbeitskameraden in Potsdam.
+Found
+MODSMD_ARTICLE05: Rechtsschulung der Hitler-Jugend durch den NSRB.
+Found
+MODSMD_ARTICLE06: Dr. Ohnesorge dankt den österreichischen Postbeamten.
+Found
+MODSMD_ARTICLE07: Ehrung des deutschen Gesandten in Kopenhagen.
+Found
+MODSMD_ARTICLE08: Legitimisten-Theater im Budapester Abgeordnetenhaus.
+Found
+MODSMD_ARTICLE09: Fortsetzung der italienisch-englischen Besprechungen.
+Found
+MODSMD_ARTICLE10: Die römische Presse im Zeichen der Losung des Duce.
+Found
+MODSMD_ARTICLE11: 25 Millionen Kronen für Norwegens Landesverteidigung.
+Found
+MODSMD_ARTICLE12: Gignoux gegen Blums Inflationspolitik.
+Found
+MODSMD_ARTICLE13: Die nationalspanische Ossensive geht weiter.
+Found
+MODSMD_ARTICLE14: Sprengstofflager inmitten der Zivilbevölkerung!
+Found
+MODSMD_ARTICLE15: Türkei entsendet Handelsagenten nach Nationalspanien.
+Found
+MODSMD_ARTICLE16: Riesenkundgebung für Cardenas in Mexiko-Stadt.
+Found

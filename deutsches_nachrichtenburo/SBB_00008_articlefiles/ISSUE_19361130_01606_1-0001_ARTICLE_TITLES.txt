@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Nationalsoziaiistische Verkehrspolitik.
+Found
+MODSMD_ARTICLE02: Die Kämpfe der deutscheu Freikorps in der Nachkriegszeit.
+Found
+MODSMD_ARTICLE03: Neichskennzahl für die Lebenschaltungskosten.
+Found
+MODSMD_ARTICLE04: Trauerfeier für die Verunglückten von „U 18".
+Found
+MODSMD_ARTICLE05: Schulschiff „Deutschland" in Rio de Janeiro.
+Found
+MODSMD_ARTICLE06: Rundfahrt des LZ „Hindenburg" über Südbrasilien.
+Found
+MODSMD_ARTICLE07: Eden über das deutsch-japanische Abkommen.
+Found
+MODSMD_ARTICLE08: Londoner Universitätsrektor seinen Verletzungen erlegen.
+Found
+MODSMD_ARTICLE09: Erzbischof von Edinburg brandmarkt den Kommunismus.
+Found
+MODSMD_ARTICLE10: Drei sowjetrussische Dampfer in Cartagena versenkt.
+Found
+MODSMD_ARTICLE11: Amnestie in Albanien.
+Found
+MODSMD_ARTICLE12: Die ungarisch-österreichische Aussprache.
+Found
+MODSMD_ARTICLE13: Handelsminister Bastid bei Leon Blum.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Zum Ministerialrat im Reichsinnenministerium ernannt.
+Found
+MODSMD_ARTICLE02: Rosenberg vor den Arbeitsdienst-Führerinnen.
+Found
+MODSMD_ARTICLE03: London gibt erfolglosen Luftangriff zu.
+Found
+MODSMD_ARTICLE04: Ein Gipfelpunkt britischer Heuchelei.
+Found
+MODSMD_ARTICLE06: Mindestens 26 englische Tanker auf dem Meeresgrund.
+Found
+MODSMD_ARTICLE07: England durch die deutsche Luftwaffe beunruhigt.
+Found
+MODSMD_ARTICLE08: Anders als die Engländer es erwarteten.
+Found
+MODSMD_ARTICLE09: Englischer Trawler durch Explosion versenkt.
+Found
+MODSMD_ARTICLE10: Englisches Vorpostenboot durch Bomben versenkt.
+Found
+MODSMD_ARTICLE11: Englische Seeräuber bringen rumänisches Schiff auf.
+Found
+MODSMD_ARTICLE12: Die Jndcnherrfchaft in Frankreich.
+Found
+MODSMD_ARTICLE13: Britischer Bomberangriff abgeschlagen.
+Found
+MODSMD_ARTICLE14: Sowjetrussischc Gelder in Frankreich beschlagnahmt.
+Found
+MODSMD_ARTICLE15: Russischer Heeresbericht.
+Found
+MODSMD_ARTICLE16: Finnischer Heeresbericht.
+Found
+MODSMD_ARTICLE17: Besprechungen des bulgarischen Finanzministers in Bukarest.
+Found
+MODSMD_ARTICLE18: Jugoslawiens Freimaurer machen sich mausig.
+Found
+MODSMD_ARTICLE19: Amerikanischer Flvttenbesuch in Aunchal.
+Found

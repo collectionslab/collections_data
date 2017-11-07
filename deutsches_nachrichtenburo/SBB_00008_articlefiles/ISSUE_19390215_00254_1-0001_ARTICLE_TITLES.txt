@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Deutsches Nachrichtenbüro b ff
+Found
+MODSMD_ARTICLE02: Der nationalsozialistische Beamte.
+Found
+MODSMD_ARTICLE04: Pius XI. beigesetzt.
+Found
+MODSMD_ARTICLE05: Weißbuch über die arabische Unabhängigkeitssorderung.
+Found
+MODSMD_ARTICLE06: Das syrische Kirchengememdegesetz zurückgezogen.
+Found
+MODSMD_ARTICLE07: Neuer Zusammenstoß au der Grenze von Mandschukuo.
+Found

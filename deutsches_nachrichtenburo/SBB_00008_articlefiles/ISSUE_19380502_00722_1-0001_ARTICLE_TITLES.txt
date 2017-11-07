@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Der Ausklang des 1 Mai.
+Found
+MODSMD_ARTICLE02: Minister Miletitsch in Berlin.
+Found
+MODSMD_ARTICLE03: Brüssel erwartet günstige Auswirkungen.
+Found
+MODSMD_ARTICLE04: Gemeindewahlen in der Slowakei verschoben.
+Found
+MODSMD_ARTICLE05: Deutsche Junghandwerker in Sofia.
+Found

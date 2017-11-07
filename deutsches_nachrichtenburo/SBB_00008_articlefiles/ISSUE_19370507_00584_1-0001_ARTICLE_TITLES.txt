@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Einweihung der Joseph Goebbels-Jugendherberge.
+Found
+MODSMD_ARTICLE02: Schirach über die Erziehung der deutschen Jugend.
+Found
+MODSMD_ARTICLE03: Hinkel weiht das Haus der Artistik.
+Found
+MODSMD_ARTICLE04: Zehn Jahre Deutsche Handelskammer für Polen.
+Found
+MODSMD_ARTICLE05: Erregte Spanien-Aussprache im Unterhaus.
+Found
+MODSMD_ARTICLE06: Streidrohung angesichts der Weltausstellung.
+Found
+MODSMD_ARTICLE07: Blum kämpft um die Pause. /
+Found
+MODSMD_ARTICLE08: Verbot des Jeanne iüArc-Festes in Frankreich.
+Found
+MODSMD_ARTICLE09: Bombenanschlag im D-Zug Bordeaux—Marseille.
+Not Found
+MODSMD_ARTICLE10: Handelsabkommen Litauen—Belgien.
+Not Found
+MODSMD_ARTICLE11: Direktor Olivier von der „Belga" f.
+Found
+MODSMD_ARTICLE12: Neuer Geländegewinn der spanischen Nationaltruppen.
+Found
+MODSMD_ARTICLE13: Bau eines sowjetrussischen Schlachtschiffes in USA!
+Found

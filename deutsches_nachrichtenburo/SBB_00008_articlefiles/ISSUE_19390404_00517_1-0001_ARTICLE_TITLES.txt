@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer inmitten der Arbeiterurlauber.
+Found
+MODSMD_ARTICLE02: Die Goethe-Medaille für Dr. Bumke.
+Found
+MODSMD_ARTICLE03: Ablösung der deutschen Truppen in Böhmen und Möhren.
+Found
+MODSMD_ARTICLE04: Ausgeglichener Reichshanshaltsplan für 1939.
+Found
+MODSMD_ARTICLE05: Die verhängnisvollen Gefahren der Einkreisungsversuche.
+Found
+MODSMD_ARTICLE06: Chamberlain lehnt erneut die Zwangsregistriernng ab.
+Found
+MODSMD_ARTICLE07: Feierliche Amtsübernahme durch den Reichsprotektor.
+Found
+MODSMD_ARTICLE08: Englisch-französische Zusammenarbeit im Flugzeugbau.
+Found
+MODSMD_ARTICLE09: Fünf rotspanische Anarchisten in Bordeaux.
+Found
+MODSMD_ARTICLE10: Jbero-amerikanische Staaten erkannten Franca an.
+Found
+MODSMD_ARTICLE11: Türkische Nationalversammlung bestätigt Jsmet Jnönü.
+Found
+MODSMD_ARTICLE12: Tie Börsen der USA. befürchten Milliarden Kursverluste.
+Found

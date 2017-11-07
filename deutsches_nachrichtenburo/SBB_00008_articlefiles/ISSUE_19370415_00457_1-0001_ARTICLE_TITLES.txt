@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Gesandter Völckers vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Graf Schwerin von Krosigk auf der Heimreise.
+Found
+MODSMD_ARTICLE03: Empfang Zu Ehren Dr. Schachts.
+Found
+MODSMD_ARTICLE04: Dr. Schacht vor der Presse in Brüssel.
+Found
+MODSMD_ARTICLE05: Dr. Ley bei Mussolini.
+Found
+MODSMD_ARTICLE06: VierZigjahrfeier der deutschen Schule in Athen.
+Found
+MODSMD_ARTICLE07: Reichsminister Ruft vor der griechischen Presse.
+Found
+MODSMD_ARTICLE08: Staatsminister Stauning wieder in Kopenhagen.
+Found
+MODSMD_ARTICLE09: Zusammentreffen Schuschnigg—Mussolini am 22. April.
+Found
+MODSMD_ARTICLE10: Unterhaus lehnt Mißtrauensantrag der Labour Party ab.
+Found
+MODSMD_ARTICLE11: Das Ueberwachungsschema nächste Woche in Kraft.
+Found
+MODSMD_ARTICLE12: Gegen die Haltung der Labour-Partei in der Spanienfrage.
+Found

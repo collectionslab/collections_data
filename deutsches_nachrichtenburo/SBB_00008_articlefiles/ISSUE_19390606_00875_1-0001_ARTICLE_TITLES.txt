@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Deutsches Rachrichtenbüro M
+Found
+MODSMD_ARTICLE02: Die Oarakle des Sieges.
+Found
+MODSMD_ARTICLE04: Dr. Frick in Budapest.
+Found
+MODSMD_ARTICLE05: Paris und London zum Abschluß des Berliner Staatsbesuchs.
+Found

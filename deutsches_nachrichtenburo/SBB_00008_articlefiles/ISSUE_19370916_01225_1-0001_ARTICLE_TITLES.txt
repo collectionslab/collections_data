@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Neurath beglückwünscht Gouverneur von Lindequist.
+Found
+MODSMD_ARTICLE02: Kunstausschuß bei der Terra-Kunstfilm eingesetzt.
+Found
+MODSMD_ARTICLE03: „Ausdruck der Würde der Arbeit".
+Found
+MODSMD_ARTICLE04: „Verständigung mit Deutschland ist notwendig."
+Found
+MODSMD_ARTICLE05: Deutsch-französisches Studentenlager.
+Found
+MODSMD_ARTICLE06: Tamburini nicht der Attentäter?
+Found
+MODSMD_ARTICLE07: Am Freitag Zusammenkunft der Unterzeichner von Nyon?
+Found
+MODSMD_ARTICLE08: „Englisch-französisches Monopol steht nnr auf dem Papier."
+Found
+MODSMD_ARTICLE09: Eine Warnung der „Staucha".
+Found
+MODSMD_ARTICLE10: Auch die „Reichspost" erkennt die Gefahren Nyons.
+Found
+MODSMD_ARTICLE11: Der nationalspanische Heeresbericht vom Mittwoch.
+Found
+MODSMD_ARTICLE12: Auch Pola de Gordon von Bolschewisten verwüstet.
+Found
+MODSMD_ARTICLE13: Gijon und Aviles bombardiert.
+Found
+MODSMD_ARTICLE14: Kryleuko seines Postens enthoben.
+Found
+MODSMD_ARTICLE15: Weitere Fortschritte der japanischen Offensive.
+Found
+MODSMD_ARTICLE16: Dr. Diem organsiert den bulgarischen Sport.
+Found

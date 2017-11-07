@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Trennung zwischen Juden und Deutschen notwendig.
+Found
+MODSMD_ARTICLE02: Hetzjuden in Polen abgeurteilt.
+Found
+MODSMD_ARTICLE03: Polens Chemiker wehren sich gegen das Judentum.
+Found
+MODSMD_ARTICLE04: Sitzung des ungarischen Oberhauses.
+Found
+MODSMD_ARTICLE05: Jmredy vor den politischen Schriftleitern.
+Found
+MODSMD_ARTICLE06: Reformdebatte im Oberhaus.
+Found
+MODSMD_ARTICLE07: Englische Bauern mit Landwirtschaftspolitik unzufrieden.
+Found
+MODSMD_ARTICLE08: Streit um das englische Kohlengesetz.
+Found
+MODSMD_ARTICLE09: Britische Metallgewerkschaften hemmen die Aufrüstung.
+Found
+MODSMD_ARTICLE10: Ergänzung zum englisch-sowjetrussischen Flotteuvertrag.
+Found
+MODSMD_ARTICLE11: Der britische Plan für Spanien.
+Found
+MODSMD_ARTICLE12: Hodgson kehrt mit neuen Instruktionen nach Burgos zurück.
+Found
+MODSMD_ARTICLE13: Bonuet zur Besetzung der Paraeel-Jnseln.
+Found
+MODSMD_ARTICLE14: CGT. protestiert.
+Found
+MODSMD_ARTICLE15: Doriot besucht Natioualfpanieu.
+Found
+MODSMD_ARTICLE16: Schwere sowjetspanische Verluste.
+Found
+MODSMD_ARTICLE17: Das italienisch-mandschurische Abkommen.
+Found
+MODSMD_ARTICLE18: Zeki Arzuzi für friedlichen Ausgleich im Sandschak.
+Found
+MODSMD_ARTICLE19: Botschaft des Kaisers von Japan an die Nation.
+Found
+MODSMD_ARTICLE20: Kanada im Dienst der englischen Luftaufrüstung.
+Found

@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Dr. Goebbels in Breslau.
+Found
+MODSMD_ARTICLE02: Appell in der Jahrhunderthalle
+Found
+MODSMD_ARTICLE03: Jubelnder Empfang der heimkehrenden Arbeiter in Wien.
+Found
+MODSMD_ARTICLE04: Pariser Abendblätter sprechen von Regierungskrise.
+Found
+MODSMD_ARTICLE05: Spanienbolschewisten fliehen nach Frankreich.
+Found
+MODSMD_ARTICLE06: Die nationalen Truppen auf dem Vormarsch.
+Found
+MODSMD_ARTICLE07: Hoover warnt vor Einmischung in europäische Fragen.
+Found

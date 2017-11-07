@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Parteitag GrvHdeutschlands.
+Found
+MODSMD_ARTICLE02: Die ausländischen Ehrengäste bei Nibbentrop.
+Found
+MODSMD_ARTICLE03: GLsteabend im SS-Biwack.
+Found
+MODSMD_ARTICLE04: Haus des Nürnberger Faseio eingeweiht.
+Found
+MODSMD_ARTICLE05: Sondertagmigen in Nürnberg.
+Found
+MODSMD_ARTICLE06: Der Reichsschatzmeister lädt ein.
+Found

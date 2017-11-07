@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Dr. Stahn zum Ministerialdirigenten ernannt.
+Found
+MODSMD_ARTICLE02: Eröffnung des Kongresses für berufliches Bildungswesen.
+Found
+MODSMD_ARTICLE03: Gustaf Gründgens vom König von Dänemark empfangen.
+Found
+MODSMD_ARTICLE04: Versöhnliche Pressestimmen aus Paris.
+Found
+MODSMD_ARTICLE05: Jmredy wieder in BudapeE – j
+Not Found
+MODSMD_ARTICLE06: Die Versöhnung der Nachbarn Polen und Litauen.
+Found
+MODSMD_ARTICLE07: Großer Sieg der Nationalspanier an der Estremadurasront.
+Found
+MODSMD_ARTICLE08: Neue Untat jüdischer Terroristen in Palästina.
+Found

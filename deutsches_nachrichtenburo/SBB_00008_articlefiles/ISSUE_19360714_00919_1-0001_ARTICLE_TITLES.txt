@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: 139 Tote, 4459 Verletzte.
+Found
+MODSMD_ARTICLE02: Der Neichsverkehrsminister an Korpsführer Hühnlein.
+Found
+MODSMD_ARTICLE03: Große Staatspreise der Preußischen Akademie der Künste.
+Found
+MODSMD_ARTICLE04: Vollstreckung eines Todesurteils.
+Found
+MODSMD_ARTICLE05: Ausklang der Reichstagung des NSLB.
+Found
+MODSMD_ARTICLE06: Bundeskommissär Adam gegen falsche Auslegungen.
+Found
+MODSMD_ARTICLE07: Norditalienische Stimmen zum Abkommen Berlin—Wien.
+Not Found
+MODSMD_ARTICLE08: Pirow für deutsche Mitarbeit in Afrika.
+Found
+MODSMD_ARTICLE09: Streikzusammenstöße in einer ägyptischen Zuckerfabrik.
+Found
+MODSMD_ARTICLE10: Hungermarsch auf die Hauptstadt von Pennsylvania.
+Found
+MODSMD_ARTICLE11: Abschluß der Kuomintang-Tagung.
+Found
+MODSMD_ARTICLE12: Starke Erhöhung der japanischen Heeresausgaben.
+Found

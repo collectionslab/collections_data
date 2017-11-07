@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Stellvertreter des Führers in Düsseldorf.
+Found
+MODSMD_ARTICLE02: Nachruf des Reichssportführers für Dr. Rigole.
+Found
+MODSMD_ARTICLE03: Die Hauptversammlung der Lilienthal-Gefellschaft.
+Found
+MODSMD_ARTICLE04: Staatssekretär Funk in Wien.
+Found
+MODSMD_ARTICLE05: Größte Befriedigung in Brüssel.
+Found
+MODSMD_ARTICLE06: Die amtliche belgische Einleitung Zur Notenbekanntgabe.
+Found
+MODSMD_ARTICLE07: „De Standaard" zum deutsch-belgischen Notenwechsel.
+Found
+MODSMD_ARTICLE08: Enthüllungen französischer Blätter.
+Found
+MODSMD_ARTICLE09: Vorbereitungen für den 2. Wahlgang der Kantonalwahlen.
+Found
+MODSMD_ARTICLE10: Stojadinowitsch bei Lebrun und Chautemps.
+Found
+MODSMD_ARTICLE11: Empfang im Deutschen Haus auf der Weltausstellung.
+Found
+MODSMD_ARTICLE12: Tschechische Unverschämtheit.
+Found

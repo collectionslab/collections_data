@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der jugoslawische Ministerpräsident an den Führer.
+Found
+MODSMD_ARTICLE02: Frühstück Zu Ehren der chinesischen Gäste.
+Found
+MODSMD_ARTICLE03: Sitzung des Kuratoriums für das Reichsehrenmal.
+Found
+MODSMD_ARTICLE04: „Institut für Deutsche Kultur- und Wirtschaftspropaganda."
+Found
+MODSMD_ARTICLE05: Feierliche Eröffnung der KdF-Reichstagung in Hamburg.
+Found
+MODSMD_ARTICLE06: Portugiesische Anerkennung für „Kraft durch Freude".
+Found
+MODSMD_ARTICLE07: Amtseinführung des neuen Oberlandesgerichtspräsidenten.
+Found
+MODSMD_ARTICLE08: Ueberfall an der Danzig-polnischen Grenze.
+Found
+MODSMD_ARTICLE09: Die Sitzung des JOK. in Warschau.
+Found
+MODSMD_ARTICLE10: Kommunistische Geheimversammlung tagte in Brünn.
+Found
+MODSMD_ARTICLE11: Lord Plymouths Besuch im Baltikum beendet.
+Found
+MODSMD_ARTICLE12: Belgisches Gesetz über Nichteinmischung.
+Found
+MODSMD_ARTICLE13: Ein mißglückter sowjetrussischer Sabotageversuch.
+Found

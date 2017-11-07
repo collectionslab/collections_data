@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Erster Flug Berlin—Tokio—Berlin geglückt.
+Not Found
+MODSMD_ARTICLE02: Hühnlein erhält das Goldene Ehrenzeichen der HJ.
+Found
+MODSMD_ARTICLE03: „Slowo" begrüßt den neuen deutschen Gesandten.
+Found
+MODSMD_ARTICLE04: Budapest zum deutsch-italienischen Bündnisvertrag.
+Found
+MODSMD_ARTICLE05: Tokio: „Die Achse jetzt ein eiserner Wille!"
+Found
+MODSMD_ARTICLE06: New Jork: „Ereignis von größter Wichtigkeit."
+Found
+MODSMD_ARTICLE07: Unverschämt und doch kleinlaut.
+Found
+MODSMD_ARTICLE08: Halluzinationen des „Kurjer Polski".
+Found
+MODSMD_ARTICLE09: Polen soll endgültig „reif gemacht" werden.
+Found
+MODSMD_ARTICLE10: Viele Worte, aber kein Ausweg!
+Found
+MODSMD_ARTICLE11: Bombenattentate und kein Ende!
+Found
+MODSMD_ARTICLE12: Paris stellt Nachgeben Englands in Aussicht!
+Found
+MODSMD_ARTICLE13: Abschluß der Begegnung Cincar-Markowitsch—Gafeneu.
+Not Found
+MODSMD_ARTICLE14: Salazar über die Gefahrein der Pressehetze.
+Found
+MODSMD_ARTICLE15: Die Vereinigten Staaten unter der Knute Judas.
+Found
+MODSMD_ARTICLE16: Roosevelt soll den Juden helfen.
+Found

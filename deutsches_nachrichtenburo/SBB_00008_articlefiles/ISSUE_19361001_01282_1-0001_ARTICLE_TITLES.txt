@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Propagandaminister Alfieri im Deutschen Opernhaus.
+Found
+MODSMD_ARTICLE02: Internationaler Kongreß für Brückenbau.
+Found
+MODSMD_ARTICLE03: Die deutschen Luftschiffe wieder auf der Heimreise.
+Found
+MODSMD_ARTICLE04: Der König von England kehrt nach London zurück.
+Found
+MODSMD_ARTICLE05: Ein Ausweg aus dem Streit Senat—Kammer?
+Found
+MODSMD_ARTICLE06: Die französischen Kommunisten gegen die Rechtsverbände.
+Found
+MODSMD_ARTICLE07: Neue Kundgebungen Pariser Fürsorgezöglinge.
+Found
+MODSMD_ARTICLE08: „Internationale Aktion der Arbeiterklasse".
+Found
+MODSMD_ARTICLE09: Unabhängige Sowjetrepublik in Cartagena.
+Found
+MODSMD_ARTICLE10: Der Chef des roten Hauptquartiers gefangen genommen.
+Found
+MODSMD_ARTICLE11: Für Anerkennung der Burgos-Regierung.
+Found
+MODSMD_ARTICLE12: Zloty-Parität soll aufrecht erhalten werden.
+Found
+MODSMD_ARTICLE13: „Ersatzwehrpflicht" in Polen.
+Found
+MODSMD_ARTICLE14: Neubesetzung von Ministerien in Uruguay.
+Found
+MODSMD_ARTICLE15: Richtlinien für die chinesisch-japanischen Verhandlungen.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Telegramm Riccis an den Führer.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels an die in die Betriebe entsandten Beamten.
+Found
+MODSMD_ARTICLE03: KW Mill. RM neue Reichsschatzanweisungen.
+Found
+MODSMD_ARTICLE04: Hans Kriegler Präsident der Reichsrundfunkkammer.
+Found
+MODSMD_ARTICLE05: Programmbesprechung der Rundfunk-Intendanten.
+Found
+MODSMD_ARTICLE06: Rudolf Heß begrüßt die italienischen Journalisten.
+Found
+MODSMD_ARTICLE07: Ministerpräsident Hodscha nach London abgereist.
+Found
+MODSMD_ARTICLE08: Londoner Ausschuß zur Bombardierung offener Städte.
+Found
+MODSMD_ARTICLE09: Bolschewisten bombardieren Zivilbevölkerung von Saragossa.
+Found
+MODSMD_ARTICLE10: Verbrüderungsrummel Moskau—Valencia.
+Found
+MODSMD_ARTICLE11: Straßenkämpfe zwischen den Bolschewisten in Bilbao.
+Found
+MODSMD_ARTICLE12: Daranyi unterstreicht Ungarns Revisionsfordernngen.
+Found
+MODSMD_ARTICLE13: Der Sexualmord von Manage vor der belgischen Kammer.
+Found
+MODSMD_ARTICLE14: Umfassendes Ausrüstungsprogramm in Aegypten.
+Found
+MODSMD_ARTICLE15: Abschiedsbesuch Professor Dölgers bei Georgakopulos.
+Found
+MODSMD_ARTICLE16: Streikterror in Hollywood.
+Found

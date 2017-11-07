@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Dr. Schacht bei König Boris.
+Found
+MODSMD_ARTICLE02: Ein Ungar über Deutschland.
+Found
+MODSMD_ARTICLE03: Lord Lothian über die Ursachen der Weltkrise.
+Found
+MODSMD_ARTICLE04: Entschließungen der Internationalen Arbeitskonferenz.
+Found
+MODSMD_ARTICLE05: Englische Politiker für Aufhebung der Sanktionen.
+Found
+MODSMD_ARTICLE06: Die englische Presse zur Sanktionsfrage.
+Found
+MODSMD_ARTICLE07: Italienische Aufbaupläne in Abessinien.
+Found
+MODSMD_ARTICLE08: Der Prozeß gegen die Franziskanerbrüder.
+Found

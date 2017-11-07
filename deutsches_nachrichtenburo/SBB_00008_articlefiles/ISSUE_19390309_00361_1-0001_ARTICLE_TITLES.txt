@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer an die deutschen Rektoren.
+Found
+MODSMD_ARTICLE02: Jahrestagung der Neichsfilmkammer.
+Found
+MODSMD_ARTICLE03: Hanns Johst an Agnes Wieget.
+Found
+MODSMD_ARTICLE04: Die Rede des britischen Kriegsministers.
+Found
+MODSMD_ARTICLE05: Lord Winterten gegen die englische Linksopposition.
+Found
+MODSMD_ARTICLE06: Zwei Juden verließen die Palästinakonferenz.
+Found
+MODSMD_ARTICLE07: Sperre über die gesamte rotspanische Mittelmeerküste.
+Found
+MODSMD_ARTICLE08: Nationalspanien fordert Auslieferung der roten Schiffe.
+Found
+MODSMD_ARTICLE09: Jugoslawiens Außenpolitik.
+Found
+MODSMD_ARTICLE10: Die Sowjetunion nimmt keine rotspanischen Flüchtlinge.
+Found
+MODSMD_ARTICLE11: Das ist New Uork!
+Found
+MODSMD_ARTICLE12: Kanadas Haltung im Kriegsfall.
+Found
+MODSMD_ARTICLE13: 1,7 Milliarden Jen für Japans Marine.
+Found
+MODSMD_ARTICLE14: Vollstreckung eines Todesurteils.
+Found

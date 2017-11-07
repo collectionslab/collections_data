@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Beförderungen bei der Wehrmacht.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Sender Luxemburg fälschte.
+Found
+MODSMD_ARTICLE04: Mähreu unter dem Schutz des Großdeutschen Reiches.
+Found
+MODSMD_ARTICLE05: Brauchitsch läßt sich Meldung erstatten.
+Found
+MODSMD_ARTICLE06: Teleki vor dem Abgeordnetenhaus.
+Found
+MODSMD_ARTICLE07: Stärkste Anteilnahme im Memelland.
+Found
+MODSMD_ARTICLE08: Starker Eindruck in Dänemark.
+Found
+MODSMD_ARTICLE09: Norwegische Zeitungsschreiber nicht einverstanden.
+Found
+MODSMD_ARTICLE10: Unfreiwillige Selbstironie des „Paris Midi".
+Found
+MODSMD_ARTICLE11: „Resto del Carlino": „Jede Schuld rächt sich".
+Found
+MODSMD_ARTICLE12: Belgische Blätter mahnen zur strengsten Neutralität.
+Found
+MODSMD_ARTICLE13: Tokio: Teutschland sichert die Ordnung in Mitteleuropa.
+Found
+MODSMD_ARTICLE14: Geistlicher von chinesischen Soldaten getötet.
+Found
+MODSMD_ARTICLE15: Veränderungen in der USA.-Marine.
+Found
+MODSMD_ARTICLE16: Die Vereinigten Skaten suchen kürzeren Seeweg nach Asien.
+Found

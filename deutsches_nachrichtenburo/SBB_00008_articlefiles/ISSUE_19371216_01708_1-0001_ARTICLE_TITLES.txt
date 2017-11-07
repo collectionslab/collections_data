@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Dr. Goebbels besichtigt Berliner SS.-Porzeklan-Niederlage«
+Found
+MODSMD_ARTICLE02: Dr. Danckelmann zum Oberverwaltungsgerichtsrat ernannt.
+Found
+MODSMD_ARTICLE03: Neuregelung der deutsch-polnischen Filmbeziehungen.
+Found
+MODSMD_ARTICLE04: Nationalsozialistische Bücher in Nationalspanien.
+Found
+MODSMD_ARTICLE05: Reichsminister Dr. Frick im westlichen Erzgebirge.
+Found
+MODSMD_ARTICLE06: Mitglieder des Diplomatischen Korps in Schwarzenberg.
+Found
+MODSMD_ARTICLE07: Sitzung des Nichteinmischungsausschilsses.
+Found
+MODSMD_ARTICLE08: Die Finnlandreise des Reichssportführers.
+Found
+MODSMD_ARTICLE09: Italien aus dem Internationalen Arbeitsamt ausgeschieden.
+Found
+MODSMD_ARTICLE10: „Giornale dsJtalia" zum italienischen Staatshaushalt.
+Found
+MODSMD_ARTICLE11: Honved-Minister Roeder in Gnidonia.
+Found
+MODSMD_ARTICLE12: Eine Reihe neuer Gesetze in Oesterreich verabschiedet.
+Found
+MODSMD_ARTICLE13: Italienisch-französische Handelsvereinbarung verlängert.
+Found
+MODSMD_ARTICLE14: Die Schuldenpolitik der Volksfront.
+Found
+MODSMD_ARTICLE15: Das ist Moskaus „Demokratie".
+Found

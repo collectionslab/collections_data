@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: „Deutschland will den Frieden, aber nicht den Kirch Hofsfrieden von Versailles!" Neichsminlstcr Dr. Goebbels sprach auf der Sonnenwendfeier der Reichshauptstadt.
+Found
+MODSMD_ARTICLE02: Die Alte Garde grüßt den Führer.
+Found
+MODSMD_ARTICLE03: Besuch italienischer Strasvollzugsbeamter in Berlin.
+Found
+MODSMD_ARTICLE04: Deutsch-rumänische Wirtschaftsvereinbarungen.
+Found
+MODSMD_ARTICLE05: Kapitalertragssteuer vom Nationalrat abgelehnt.
+Found

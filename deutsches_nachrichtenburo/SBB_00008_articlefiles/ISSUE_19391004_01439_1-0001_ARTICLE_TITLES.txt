@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Handelsschiffe sollen U-Boote rammen.
+Found
+MODSMD_ARTICLE02: Beispielhafter Heldenmut eines Landwehroffiziers.
+Found
+MODSMD_ARTICLE04: Die frevelhaste Aufputschung Warschaus Zum Widerstand.
+Found
+MODSMD_ARTICLE05: In vier Tagen 72 Dampfer eingeholt.
+Found
+MODSMD_ARTICLE06: Das englische Lügenministerium wieder einmal ertappt.
+Found
+MODSMD_ARTICLE07: Sitzung des französischen Parlaments gefordert.
+Found
+MODSMD_ARTICLE08: Wachsende Kriegsmüdigkeit in Frankreich.
+Found
+MODSMD_ARTICLE09: Portugiesische Maßnahmen gegen Kriegsgewinnler.
+Found
+MODSMD_ARTICLE10: Deutschlands Recht zur Selbstbestimmung.
+Found

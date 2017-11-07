@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die großen Wehrmachtsmanöver.
+Found
+MODSMD_ARTICLE02: Fliegeralarm in Hamburg.
+Found
+MODSMD_ARTICLE03: Die feierliche Uebergabe der Beglaubigung Stohrers.
+Found
+MODSMD_ARTICLE04: Wieder deutscher Lehrer au polnische Schule versetzt.
+Found
+MODSMD_ARTICLE05: Internationaler Kongreß für Kinderschutz in Rom.
+Found
+MODSMD_ARTICLE06: Major Troncoso nach Brest übergeführt.
+Found
+MODSMD_ARTICLE07: „Palästina ist ein arabisches Land".
+Found
+MODSMD_ARTICLE08: Vormilitärische Mädchenerziehung in der Türkei.
+Found
+MODSMD_ARTICLE09: Gegen jüdisch-kommunistische Eingeborenen-Verhetzung.
+Found

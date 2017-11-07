@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Arbeitstagungen der Erbgefundheitsgerichte.
+Found
+MODSMD_ARTICLE03: Neichsbankpräsident Dr. Schacht in Sofia.
+Found
+MODSMD_ARTICLE04: Einweihung der ersten Reichssiedlerschule in Erlangen.
+Found
+MODSMD_ARTICLE05: Besichtigungsreise Generalfeldmarschalls von Blomberg.
+Found
+MODSMD_ARTICLE06: Volksfront-Zwischenfälle auch in Algerien. 45 Verletzte.
+Found
+MODSMD_ARTICLE07: Subich in Semmering bei Wien eingetroffen.
+Found
+MODSMD_ARTICLE08: Italienisch-ungarischer Telegrammwechsel.
+Found
+MODSMD_ARTICLE09: Kein Rücktritt Edens.
+Found
+MODSMD_ARTICLE10: Eine spanische Stimme über Deutschlands Aufstieg.
+Found
+MODSMD_ARTICLE11: Die spanische Völkerbundsabordmmg ernannt.
+Found
+MODSMD_ARTICLE12: Die Entspannung der innerchinesischen Lage.
+Found
+MODSMD_ARTICLE13: Immer neue Unruhen in Palästina.
+Found

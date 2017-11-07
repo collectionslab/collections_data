@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Abend- und Nacht-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Der Führer beim Richtfest in Berchtesgaden.
+Found
+MODSMD_ARTICLE03: Adolf-Hitler-Schulen. Ein Verfügung des Führers.
+Found
+MODSMD_ARTICLE04: Beförderungen bei Heer und Marine.
+Found
+MODSMD_ARTICLE05: Begeisterter Empfang Görings in Neapel.
+Found
+MODSMD_ARTICLE06: Gesandter von Kuhlmann Beileid des Rührers.
+Found
+MODSMD_ARTICLE07: Der Reichsverkehrsminister Zum Autosieg in Kapstadt.
+Found
+MODSMD_ARTICLE08: V Empfang für Kreuzer „Emden" in Tokio.
+Found
+MODSMD_ARTICLE09: Wieder Teilstreiks im belgischen Kohlenbergbau.
+Found
+MODSMD_ARTICLE10: Tie „Naturalisierung" von bolschewistischen Söldlingen.
+Found
+MODSMD_ARTICLE11: Schlächterstreik in Paris.
+Found
+MODSMD_ARTICLE12: Beginn der Wahlen Zur neuen Verfassung in Indien.
+Found

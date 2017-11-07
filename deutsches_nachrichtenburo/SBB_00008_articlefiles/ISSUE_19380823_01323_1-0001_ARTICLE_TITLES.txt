@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Reichsverweser und der Führer auf Helgoland.
+Found
+MODSMD_ARTICLE02: Freude in Hamburg über den bevorstehenden Besuch.
+Found
+MODSMD_ARTICLE03: „Tevere" über frühere päpstliche Maßnahmen gegen Juden.
+Found
+MODSMD_ARTICLE04: Abschied des Gesandten von Richthofen von Brüssel.
+Found
+MODSMD_ARTICLE05: Gesandter Dinichert in Stockholm eingetroffen.
+Found
+MODSMD_ARTICLE06: Vuillemin bei Daladier.
+Found
+MODSMD_ARTICLE07: Neuer französischer Kriegshafen in Syrien.
+Found
+MODSMD_ARTICLE08: Britischer Hauptmann in Palästina getötet.
+Found
+MODSMD_ARTICLE09: Der Zugüberfall in Palästina.
+Found
+MODSMD_ARTICLE10: In Palästina erscheint nur noch eine arabische Zeitung.
+Found
+MODSMD_ARTICLE11: Noch eine Denkschrift über Palästina.
+Found
+MODSMD_ARTICLE12: Panislamitische Konferenz geplant.
+Found
+MODSMD_ARTICLE13: Tokio zu den Gerüchten über Hainau.
+Found
+MODSMD_ARTICLE14: Weitere aufsehenerregende Aussagen Matthews'.
+Found

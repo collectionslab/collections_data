@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer spricht zur Abstimmung.
+Found
+MODSMD_ARTICLE02: Glückwünsche des Führers an den Schah von Iran.
+Found
+MODSMD_ARTICLE03: Mittwoch schulfrei.
+Found
+MODSMD_ARTICLE04: Rumänische Luftverkehrsabordnung in Berlin.
+Found
+MODSMD_ARTICLE05: Kerrl Ehrenbürger der Stadt Barntrup.
+Found
+MODSMD_ARTICLE06: Goldene Bücher der N-Bootswaffe.
+Found
+MODSMD_ARTICLE07: Sciß-Jnquart dankt derJ,National-Zeitung" in Essen.
+Found
+MODSMD_ARTICLE08: Ribbentrop von Wien abgeflogen.
+Found
+MODSMD_ARTICLE09: Erste Maßnahmen für eine einwandfreie Abstimmung!
+Found
+MODSMD_ARTICLE10: Dankopfer der Nation auch für Oesterreich.
+Found
+MODSMD_ARTICLE11: Das Ausland zu den Wiener Kundgebungen.
+Found
+MODSMD_ARTICLE13: Die bolschewistischen Machthaber flüchten aus Valencia.
+Found
+MODSMD_ARTICLE14: „Vormarsch in Richtung Mittelmeer."
+Found
+MODSMD_ARTICLE15: Die Spionage für Moskau in England.
+Found
+MODSMD_ARTICLE16: Überprüfung der Philippinen-Frage gefordert.
+Found

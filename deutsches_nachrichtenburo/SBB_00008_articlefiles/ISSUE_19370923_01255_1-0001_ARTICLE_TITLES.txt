@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Italien zum Aufruf von Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Die Augustäische Ausstellung vom Duce eingeweiht.
+Found
+MODSMD_ARTICLE03: Der italienische Vertreter bei Delbos.
+Found
+MODSMD_ARTICLE04: Die Genfer Besprechungen Italien—Frankreich beendet.
+Not Found
+MODSMD_ARTICLE05: Naive Kommentatoren.
+Found
+MODSMD_ARTICLE06: Salamauca zum Zwischenfall von Brest.
+Found
+MODSMD_ARTICLE07: „Die Führer der Volksfront suchen Streit".
+Found
+MODSMD_ARTICLE08: Nationalspanische Mastnahmen.
+Found
+MODSMD_ARTICLE09: 50 „Trotzkisten" in Barcelona verhaftet.
+Found
+MODSMD_ARTICLE10: Valencia feiert das 20jährige Bestehen der Sowjetunion.
+Found
+MODSMD_ARTICLE11: Litwmow-Finkelstein schmollt. . .
+Found
+MODSMD_ARTICLE12: Fühlungnahme Edens mit Corbin.
+Found
+MODSMD_ARTICLE13: Neue Kampfbomber-Fabrik iu Belfast.
+Found
+MODSMD_ARTICLE14: Der Knatchbull-Zwischenfall ist erledigt.
+Found

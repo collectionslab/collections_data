@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Dank des Führers.
+Found
+MODSMD_ARTICLE02: Wie sie lügen! Berdrehungskunstücke der „Liberte".
+Found
+MODSMD_ARTICLE03: Erneute Lügenmeldung am Pranger.
+Found
+MODSMD_ARTICLE04: Reichsdeutscher von roten Machthaber« in Bilbao ermordet.
+Found
+MODSMD_ARTICLE05: Rote Erklärungen zu deutschen Gegenmaßnahmen.
+Found
+MODSMD_ARTICLE06: Stürckghs Rücktritt rückgängig gemacht.
+Found
+MODSMD_ARTICLE07: Vier englische Schlachtschiffe zu je 35 KW t.
+Found
+MODSMD_ARTICLE08: „Giornale d'Jtalia über die Ziele der Abmachung.
+Found
+MODSMD_ARTICLE09: Schlacht zwischen Pariser Polizei und Unterwelt.
+Found
+MODSMD_ARTICLE10: Pariser Kommunistenblatt wegen Aufreizung beschlagnahmt.
+Found
+MODSMD_ARTICLE11: Henriot gegen Streikpropaganda und Revolutionshetze.
+Found
+MODSMD_ARTICLE12: Salamanca gegen den illegalen Handel mit Rot-Spanien.
+Found
+MODSMD_ARTICLE13: Griechische Stimmen zum Nichtangriffspakt Belgrad-Sofia.
+Found
+MODSMD_ARTICLE14: Verschiebt Mexiko Flugzeuge der USA nach Spanien?
+Found
+MODSMD_ARTICLE15: Mitteilung Mexikos an USA zu den Flugzenglieferungen.
+Found

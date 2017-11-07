@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: In vier Jahren 11KK KW eheliche Kinder mehr geboren.
+Found
+MODSMD_ARTICLE02: Wieder IM) österreichische Kinder in Köln.
+Found
+MODSMD_ARTICLE03: Dr. Ley auf einem Appell der Steyr-Werke.
+Found
+MODSMD_ARTICLE04: Ehrung eines alten Kämpfers.
+Found
+MODSMD_ARTICLE05: Für 2 Millionen Reichsmark Kraftfahrzeuge im Bau»
+Found
+MODSMD_ARTICLE06: Ausbau der Vorarlberger Wasserkraftwerke.
+Found
+MODSMD_ARTICLE07: Verbot politischer Betätigung sudetendeutscher Erzieher»
+Found
+MODSMD_ARTICLE08: Haussuchungen bei führenden Slowaken.
+Found
+MODSMD_ARTICLE09: Der Schulstreit in Neutomischel.
+Found
+MODSMD_ARTICLE10: Nene Unterredung Ciano—Perth.
+Not Found
+MODSMD_ARTICLE11: Bettelarm aus der Sowjetunion zurückgekehrt.
+Found
+MODSMD_ARTICLE12: Kaganowitsch wieder Verkehrskvmmissar.
+Found
+MODSMD_ARTICLE13: Die Rüstungsindustriellen bei Jnskip.
+Found
+MODSMD_ARTICLE14: Die Tradition muß gewahrt werden.
+Found
+MODSMD_ARTICLE15: „Esti Ujsag" zur jüdischen Radauszene im Unterhaus.
+Found
+MODSMD_ARTICLE16: Botschafterkonferenz bei Paul-Boncour.
+Found
+MODSMD_ARTICLE17: Weiterer Vormarsch in Katalonien.
+Found
+MODSMD_ARTICLE18: Vor einer Entscheidungsschlacht an der Lunghai-Bahn.
+Found

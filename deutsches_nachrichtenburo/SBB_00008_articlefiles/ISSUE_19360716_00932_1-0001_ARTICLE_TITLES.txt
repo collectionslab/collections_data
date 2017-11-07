@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers an den König von England.
+Found
+MODSMD_ARTICLE02: Der Anschlag auf den König. Der Tüter ein Engländer.
+Found
+MODSMD_ARTICLE03: Sir John Simon über den Anschlag.
+Found
+MODSMD_ARTICLE04: Eine Friedensrede König Eduards VIII.
+Found
+MODSMD_ARTICLE05: Brasiliens zweite Olympia-Mannschaft eingetroffen.
+Found
+MODSMD_ARTICLE06: Olympiafahrt des Luftschiffes „Hindenburg".
+Found
+MODSMD_ARTICLE07: General Daluege beglückwünscht Bismarcks Leibgendarm.
+Found
+MODSMD_ARTICLE08: Abschluß des Kulturpolitischen Lagers in Heidelberg.
+Found
+MODSMD_ARTICLE09: Schwerer Verlust der polnischen Luftstreitmacht.
+Found
+MODSMD_ARTICLE10: Siapellauf des Schnelldampfer? „Pretoria". Eine Rede des Reichsministers Dr. Schacht.
+Found
+MODSMD_ARTICLE11: Oesterreichisch-französisches Kulturabkommen in Kraft.
+Found
+MODSMD_ARTICLE12: Kammerdebatte um die Kriegsindustrie-Verstaatlichung.
+Found

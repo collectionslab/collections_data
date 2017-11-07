@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Schirach ruft die HJ. zur Werbung für ländliche Berufe auf.
+Found
+MODSMD_ARTICLE02: Ausruf für das VdM.-Werk „Glaube und Schönheit."
+Found
+MODSMD_ARTICLE03: Neue Ausbauarbeit des Roten Kreuzes.
+Found
+MODSMD_ARTICLE04: Italienische Kommission besichtigt „Wilhelm Gustloff".
+Found
+MODSMD_ARTICLE05: Jüdisches Devisenschieberkonsortium vor Gericht.
+Found
+MODSMD_ARTICLE06: Schweizerische Militärattaches für Berlin, Rom und Paris.
+Found
+MODSMD_ARTICLE07: Ungarns Reichsverweser in Warschan festlich empfangen.
+Found
+MODSMD_ARTICLE08: Ungarns Außenminister über die Freundschaft mit Polen.
+Found
+MODSMD_ARTICLE09: Lettlands stellvertretender Ministerpräsident zurückgetreten.
+Found
+MODSMD_ARTICLE10: Neuer estnisch-sowjetrussischer Grenzzwischenfall.
+Found
+MODSMD_ARTICLE11: Stojadinowitsch packt die kroatische Frage an.
+Found
+MODSMD_ARTICLE12: Engländer und Amerikaner an der Teruel-Front.
+Found
+MODSMD_ARTICLE13: Zum Besuch des englischen Königspaares in Frankreich.
+Found
+MODSMD_ARTICLE14: Eine japanische Klarstellung.
+Found
+MODSMD_ARTICLE15: Ueberreichnng der japanischen Antwortnote am Donnerstag.
+Found

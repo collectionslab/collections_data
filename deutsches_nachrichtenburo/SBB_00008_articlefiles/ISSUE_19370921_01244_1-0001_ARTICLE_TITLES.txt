@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Personalveränderungen in der Kriegsmarine Herbst 1937.
+Found
+MODSMD_ARTICLE02: Glückwunsch Görings zur Eiserneu Hochzeit.
+Found
+MODSMD_ARTICLE03: Pariser Echo zur Berliner Luftschutzübung.
+Found
+MODSMD_ARTICLE04: Deutsch-französische Studentenlager.
+Found
+MODSMD_ARTICLE05: Pariser Tagungen.
+Found
+MODSMD_ARTICLE07: Das Warschauer Ghetto ein Banditenviertel.
+Found
+MODSMD_ARTICLE08: Kommunistischer Meuchelmord in Polen.
+Found
+MODSMD_ARTICLE09: „Polnische Demokratische Vereinigung."
+Found
+MODSMD_ARTICLE10: Mehr Ratsplätze als Kandidaten.
+Found
+MODSMD_ARTICLE11: Der Ausschluß Valencia-Spaniens aus dem Völkerbundsrat.
+Found
+MODSMD_ARTICLE12: Sorgen um den französischen Franken.
+Found
+MODSMD_ARTICLE13: Kabinettssitzung in England verschoben.
+Found
+MODSMD_ARTICLE14: England will jährlich 1000 Reserveflieger ausbilden.
+Found
+MODSMD_ARTICLE15: Kjosseiwanoss über seine Auslandsbesprechnngen.
+Found
+MODSMD_ARTICLE16: Geschichtsforschungskongreß in Istanbul.
+Found
+MODSMD_ARTICLE17: Genickschuß für 20 Eisenbahnangestellte.
+Found
+MODSMD_ARTICLE18: 50 japanische Flugzeuge bombardierten Nanking.
+Found
+MODSMD_ARTICLE19: Amerika und der chinesisch-japanische Konflikt.
+Found

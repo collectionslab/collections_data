@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Alfred Nosenberg sprach in Düsseldorf vor Hundertausend.
+Found
+MODSMD_ARTICLE02: IW-Jahr-Feier der Schichau-Werke in Elbing.
+Found
+MODSMD_ARTICLE03: „Ostpreußen als Bollwerk deutscher Kultur."
+Found
+MODSMD_ARTICLE04: August Röchliug f.
+Found
+MODSMD_ARTICLE05: Tie Akademischen Weltspiele in Paris beendet.
+Found
+MODSMD_ARTICLE06: Die nationalen Heeresberichte.
+Found
+MODSMD_ARTICLE07: General Franca Ehrendoktor der Universität Valladolid.
+Found
+MODSMD_ARTICLE08: Burgos feierte Deutschland.
+Found
+MODSMD_ARTICLE09: Die Machtverteilung in Spanien.
+Found
+MODSMD_ARTICLE10: Wie die Oberbonzen ihre Anhänger verrieten.
+Found
+MODSMD_ARTICLE11: Das irakische Parlament aufgelöst.
+Found
+MODSMD_ARTICLE12: Besserung im Befinden von Sir Hughes Kuatchbull.
+Found
+MODSMD_ARTICLE13: Schaffung eines Großmongolischen Reiches?
+Found
+MODSMD_ARTICLE14: Sowjetwaffen an China.
+Found
+MODSMD_ARTICLE15: China stimmt dem amerikanischen Friedensappell zu.
+Found
+MODSMD_ARTICLE16: Valencia bestellt weiteres Kriegsmaterial.
+Found

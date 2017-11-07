@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Jagdveranstaltung zu Ehren Stojadinowitschs.
+Found
+MODSMD_ARTICLE02: Ein Vortrag des Reichsfinanzministers in Dresden.
+Found
+MODSMD_ARTICLE03: Bei der polnischen Wehrmacht Zu Gast.
+Found
+MODSMD_ARTICLE04: Nur Mitglieder der Vaterländischen Front dürfen Ski laufen!
+Found
+MODSMD_ARTICLE05: Der Warschauer Sowjet-Geschäftsträger auf „Urlaub".
+Found
+MODSMD_ARTICLE06: Auf das Wohl des „Kaisers von Aethiopien".
+Found
+MODSMD_ARTICLE07: Nach der Regierungsbildung in Frankreich.
+Found
+MODSMD_ARTICLE08: Grammens wieder freigelassen.
+Found
+MODSMD_ARTICLE09: Devisensperre für Juden in Rumänien.
+Found

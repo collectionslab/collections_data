@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Erhöhung der neuen Reichsanleihe um 200 Mill. RM.
+Found
+MODSMD_ARTICLE02: Japan ehrt die im Weltkriege gefallenen deutschen Seehelden.
+Found
+MODSMD_ARTICLE03: Die Leibeserziehung der deutschen Jugend.
+Found
+MODSMD_ARTICLE04: Slaweikoff-Feier im Leipziger Haus der Nationen.
+Found
+MODSMD_ARTICLE05: Aufhebung kommunistischer Gemeinderäte in der Schweiz.
+Found
+MODSMD_ARTICLE06: Außenminister Beck wieder in Warschau.
+Found
+MODSMD_ARTICLE07: „Litauens Schutz Sache jedes litauischen Bürgers."
+Found
+MODSMD_ARTICLE08: Die „Front der Freiheit" in Frankreich.
+Found
+MODSMD_ARTICLE09: Französische Beklemmung über Genf. X
+Found
+MODSMD_ARTICLE10: Paris rechnet mit dem Fall Bilbaos.
+Found
+MODSMD_ARTICLE11: Lord Cranborne beantwortet Anfragen über Spanien.
+Found
+MODSMD_ARTICLE12: Tie El Gallo-Linie unter schwerstem Feuer.
+Found
+MODSMD_ARTICLE13: Ein ungeeigneter „Missionar".
+Found

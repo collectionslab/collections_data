@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Plumpe englische Banernfängerbriefe
+Found
+MODSMD_ARTICLE02: Was soll diese fortdauernde Lügenkampagne?
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Goebbels in München eingetroffen.
+Found
+MODSMD_ARTICLE04: Graf Ciano in Santander.
+Found
+MODSMD_ARTICLE05: Englische Artillerie auf geraubtem Boden.
+Found
+MODSMD_ARTICLE06: „Lächerlicher Versuch, den starken Mann zu spielen."
+Found
+MODSMD_ARTICLE07: Eine Spitzenleistung polnischen Größenwahnsinns.
+Found
+MODSMD_ARTICLE08: Die bösen fremden Agenten sind schuld!
+Found
+MODSMD_ARTICLE09: Britische Provokationsflüge.
+Found
+MODSMD_ARTICLE10: Frankreich startet den letzten Versuch.
+Found
+MODSMD_ARTICLE11: Roosevelt hebt den Achtstundentag ans!
+Found
+MODSMD_ARTICLE12: Nun hat England die Wahl!
+Found

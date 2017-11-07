@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ehrung kinderreicher Familien.
+Found
+MODSMD_ARTICLE02: Ministerpräsident Göring in Braunschweig.
+Found
+MODSMD_ARTICLE03: Die Reichshubertusfeier auf dem Hainberg.
+Found
+MODSMD_ARTICLE04: Ungarns Presse zur Jagdausstellung.
+Found
+MODSMD_ARTICLE05: Zwischenfälle in Valencia.
+Found
+MODSMD_ARTICLE06: Ein Obertschekist gegen Andalusiens Bauern angesetzt.
+Found
+MODSMD_ARTICLE07: Verödete Fabriken in Sowjeispamen.
+Found
+MODSMD_ARTICLE08: Frankreich kaust das Werk einer deutschen Bildhauerin.
+Found
+MODSMD_ARTICLE09: Die rückläufige Bevölkerungsbewegung in Frankreich.
+Found
+MODSMD_ARTICLE10: Kommunistische Anbiederung an tche 2. Internationale.
+Found
+MODSMD_ARTICLE11: Schweizer Militärgericht untersucht Freiwilligenschmuggel.
+Found
+MODSMD_ARTICLE12: Verhaftungen und Haussuchungen bei verdächtigen Arabern.
+Found
+MODSMD_ARTICLE13: Eine Warnung gegen die britische Palästinapolitik.
+Found
+MODSMD_ARTICLE14: Starke Spannung Zwischen Haiti und San Domingo.
+Found

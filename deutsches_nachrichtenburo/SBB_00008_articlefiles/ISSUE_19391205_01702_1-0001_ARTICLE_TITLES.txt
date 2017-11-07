@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Eine Rundfunkansprache Machs.
+Found
+MODSMD_ARTICLE02: Die Slowaken in der Ostmark.
+Found
+MODSMD_ARTICLE03: „Englands unblutiger Krieg in Wirklichkeit der grausamste!"
+Found
+MODSMD_ARTICLE04: „Ueber Finnland und Leningrad nach Moskau".
+Found
+MODSMD_ARTICLE05: Die Sowjetunion geht nicht nach Genf.
+Found
+MODSMD_ARTICLE06: Endlich mal einer ehrlich!
+Found
+MODSMD_ARTICLE07: 9526 junge Engländer verweigerten den Kriegsdienst.
+Found
+MODSMD_ARTICLE08: Ein englischer Dampfer gesunken.
+Found
+MODSMD_ARTICLE09: Sir John. Simon in Paris.
+Found
+MODSMD_ARTICLE10: „Tie Juden ruinieren unsere Wirtschaft".
+Found
+MODSMD_ARTICLE11: Washington hält die Beziehungen zu Moskau aufrecht.
+Found
+MODSMD_ARTICLE12: Die Engländer stehlen amerikanische Post.
+Found
+MODSMD_ARTICLE13: Erschöpfung des Unterstützungsfonds auch in Toledo (Ohio).
+Found
+MODSMD_ARTICLE14: Neues Kabinett in Bolivien.
+Found
+MODSMD_ARTICLE15: Direkte Luftverbindung Tschungking—Deutschland.
+Found

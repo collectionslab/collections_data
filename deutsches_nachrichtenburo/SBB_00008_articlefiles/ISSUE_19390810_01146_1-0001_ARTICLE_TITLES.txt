@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Das ganze Danziger Land hört mit!
+Found
+MODSMD_ARTICLE02: Polnischer Zollbeamter schießt auf Danziger Kinder.
+Found
+MODSMD_ARTICLE03: Wirtschaftsstörung durch Kleingieldhamsterei.
+Found
+MODSMD_ARTICLE04: Juden machen sich den Kleingeldmangel in Polen zunutze.
+Found
+MODSMD_ARTICLE05: Brutaler Terror gegen alles Deutsche.
+Found
+MODSMD_ARTICLE06: Militärische Sperrgebiete bei Könitz.
+Found
+MODSMD_ARTICLE07: Folgen der Warschauer Kriegshetze.
+Found
+MODSMD_ARTICLE08: Vereidigung des Kabinetts de Geer.
+Found
+MODSMD_ARTICLE09: Die Solidarität zwischen Deutschland und Italien.
+Found
+MODSMD_ARTICLE10: Ein kategorisches Dementi Bulgariens.
+Found
+MODSMD_ARTICLE11: Krieg findet nur bei Schönwetter statt.
+Found
+MODSMD_ARTICLE12: Systematisches Ausrottungsverfahren gegen die Araber.
+Found
+MODSMD_ARTICLE13: Klare und eindeutige Antworten der Palästina-Araber.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Lieder, Tänze und Spiele aus dem Volkstum Europas.
+Found
+MODSMD_ARTICLE02: Die slowakische Verfassung angenommen.
+Found
+MODSMD_ARTICLE03: Neues slowakisches Wehrgesetz.
+Found
+MODSMD_ARTICLE04: Wieder ein polnischer Sieg über deutsche Kinder.
+Found
+MODSMD_ARTICLE05: Polnische „Kulturarbeit".
+Found
+MODSMD_ARTICLE06: Jronsides Abreise etwas plötzlich.
+Found
+MODSMD_ARTICLE07: Graf Ciano empfing den englischen Botschafter.
+Found
+MODSMD_ARTICLE08: Cianetti zum Staatssekretär ernannt.
+Found
+MODSMD_ARTICLE09: Völliger Umfall Englands in der Anleihefrage?
+Found
+MODSMD_ARTICLE10: Der alte Vers: „Neue" Instruktionen für Moskau.
+Found
+MODSMD_ARTICLE11: Mosley protestiert gegen englische Rundfunkliigen.
+Found
+MODSMD_ARTICLE12: Ein neuer Vorstoß der Churchill-Eden-Gruppe.
+Found
+MODSMD_ARTICLE13: Japans Kabinettsrat billigt Ueberemkunft Arita-Craigie.
+Found
+MODSMD_ARTICLE14: Keine Beteiligung der USA. an Tokioter Besprechungen.
+Found
+MODSMD_ARTICLE15: Roosevelt legt die Maske ab!
+Found

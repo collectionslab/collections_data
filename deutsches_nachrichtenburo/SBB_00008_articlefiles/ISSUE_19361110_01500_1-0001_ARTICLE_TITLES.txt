@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Mise Dr. Schachts nach Ankara.
+Found
+MODSMD_ARTICLE02: Der Reichsverkehrsminister zum Untergang der „Isis".
+Found
+MODSMD_ARTICLE03: NM 10 000 für die Hinterbliebenen der „Isis"-Besapung.
+Found
+MODSMD_ARTICLE04: Nachruf der Reichsfachgruppe Seeschiffahrt für die „Isis".
+Found
+MODSMD_ARTICLE05: Deutsch-griechisches Luftverkehrsabkommen.
+Found
+MODSMD_ARTICLE06: Großer Erfolg Willem Mengelbergs in Berlin.
+Found
+MODSMD_ARTICLE07: Englischer Mittelmeervorschlag Ciano überreicht?
+Found
+MODSMD_ARTICLE08: Abänderungsantrag zur Dankadresse abgelehnt.
+Found
+MODSMD_ARTICLE09: Lord Londonderry über Verständigungspolitik.
+Found
+MODSMD_ARTICLE10: Der Besuch des Außenministers Beck in London.
+Found
+MODSMD_ARTICLE11: Ramsay MacDonald erkrankt.
+Found
+MODSMD_ARTICLE12: Keine Aenderung der englischen Nichteinmischungspolitik.
+Found
+MODSMD_ARTICLE13: Die französischen FlugMtglieserungen an Madrid.
+Found
+MODSMD_ARTICLE14: Tie kommunistischen Waffenbestellungen bei Lyon.
+Found
+MODSMD_ARTICLE15: Schwere Verluste der roten Horden.
+Found
+MODSMD_ARTICLE16: Tie jugoslawisch-bulgarische Annäherungspolitik.
+Found
+MODSMD_ARTICLE17: Zwangsarbeitslager in Litauen.
+Found
+MODSMD_ARTICLE18: Eingeständnisse Molotows.
+Found
+MODSMD_ARTICLE19: Neue Zusammenstöße in Bombay.
+Found
+MODSMD_ARTICLE20: Der Kampf gegen den Kommunismus in Argentinien.
+Found

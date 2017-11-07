@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der 9. November in München Gedenkakt im Generalkommando
+Found
+MODSMD_ARTICLE02: In Erwartung des historischen Zuges.
+Found
+MODSMD_ARTICLE03: Der Erinnerungsmarsch.
+Found
+MODSMD_ARTICLE04: Der Zug vor dem Mahnmal.
+Found
+MODSMD_ARTICLE05: Der Appell auf dem Königsplatz.
+Found
+MODSMD_ARTICLE06: Der Führer ehrt die ersten Märtyrer.
+Found
+MODSMD_ARTICLE07: Ehrungen durch den Führer.
+Found
+MODSMD_ARTICLE08: Der Führer bei Abt Schachleitner.
+Found
+MODSMD_ARTICLE09: Berliner spanische Botschaft hißt die nationale Flagge.
+Found
+MODSMD_ARTICLE10: Prinzregent Paul nach London abgereist.
+Found

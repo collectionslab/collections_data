@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Das Beamtentum in der Reichsidee.
+Found
+MODSMD_ARTICLE02: Deutsch-Portugiesische Flottenfreundschaft.
+Found
+MODSMD_ARTICLE03: Empfänge bei Bonnet.
+Found
+MODSMD_ARTICLE04: Döat gegen Frankreichs „Meinungsmacher".
+Found
+MODSMD_ARTICLE05: Generaloberst von Brauchitsch in Genua.
+Found
+MODSMD_ARTICLE06: Ausgezeichneter Besuch der deutschen Buchausstellung.
+Found
+MODSMD_ARTICLE07: Prinzregent Paul bei Mussolini.
+Found
+MODSMD_ARTICLE08: Die norwegische Presse zu den Ministerbesprechungen.
+Found
+MODSMD_ARTICLE09: Rumänien feierte sein Nationalfest.
+Found
+MODSMD_ARTICLE10: Potemkin aus Warschau abgereist.
+Found
+MODSMD_ARTICLE11: Blum bei Lord Halifax und Churchill.
+Found
+MODSMD_ARTICLE12: Eilverfahren für das Wehrpflichtgesetzt.
+Found
+MODSMD_ARTICLE13: Maiskh sprach im Foreign Office vor.
+Found
+MODSMD_ARTICLE14: Ausstellung über internationales Wohnungswesen.
+Found
+MODSMD_ARTICLE15: Umanski soll Sowjetbotschafter in Washington werden.
+Found
+MODSMD_ARTICLE16: Rückkehr der deutschen Abordnung von Teheran.
+Found
+MODSMD_ARTICLE17: Die Folge des amerikanischen Kohlenarbeiterstreiks.
+Found

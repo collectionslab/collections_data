@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die Trauung des Kronprinzen Paul.
+Found
+MODSMD_ARTICLE02: 14 Kommunisten unschädlich gemacht.
+Found
+MODSMD_ARTICLE03: Ter polnische Tennisverband schließt Juden aus.
+Found
+MODSMD_ARTICLE04: Terrorist Koleman erhebt Klage gegen Unbekannt.
+Found
+MODSMD_ARTICLE05: Ein Interview mit Graf Jschii.
+Found
+MODSMD_ARTICLE06: Sowjetrußlands Streben nach skandinavischen Erzen.
+Found
+MODSMD_ARTICLE07: Das Ausland zur Moskauer Wahlparodie.
+Found
+MODSMD_ARTICLE08: Weitere Sowjetdiplomaten hingerichtet?
+Found
+MODSMD_ARTICLE09: Auch der Kommissar des Pariser Sowjetpavillons verhaftet.
+Found
+MODSMD_ARTICLE10: Fünfzehn neue Todesurteile in der Sowjetunion.
+Found
+MODSMD_ARTICLE11: Das rätselhafte Verschwinden des Ehepaars Robinson.
+Found
+MODSMD_ARTICLE12: USA. zum Fall Robinson.
+Found
+MODSMD_ARTICLE13: Amerikanisches Kanonenboot durch Bomben versenkt.
+Found
+MODSMD_ARTICLE14: Japan übernimmt die Verantwortung.
+Found
+MODSMD_ARTICLE15: Der amerikanische Botschafter bei Hirota.
+Found
+MODSMD_ARTICLE16: Erfolge der Japaner im Kampf um Nanking.
+Found
+MODSMD_ARTICLE17: Verlegung der Tungtschi-Universität.
+Found
+MODSMD_ARTICLE18: Kein Kompromiß mit den Juden, sondern Gerechtigkeit!
+Found

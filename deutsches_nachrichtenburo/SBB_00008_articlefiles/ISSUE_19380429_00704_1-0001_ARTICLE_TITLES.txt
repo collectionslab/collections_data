@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ernennungen im Reichserziehungsministerium.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels Ehrenbürger der Stadt des deutschen Films.
+Found
+MODSMD_ARTICLE04: Verleihung von Treuedienstzeichen.
+Found
+MODSMD_ARTICLE05: Schickedanz bei Jankowitsch.
+Found
+MODSMD_ARTICLE06: Minister Jankowitsch sprach vor seinen Landsleuten.
+Found
+MODSMD_ARTICLE07: Erste Sitzung des Ausschusses für Wohlfahrtsrecht.
+Found
+MODSMD_ARTICLE08: „Kraft durch Freude" macht Schule.
+Found
+MODSMD_ARTICLE09: Das ungarische Jnvestitionsprogramm.
+Found
+MODSMD_ARTICLE10: 5W qkm Gelände an der Terucl-ssroiit gesäubert.
+Found
+MODSMD_ARTICLE11: „Sommerzeit" aus Strommangel.
+Found
+MODSMD_ARTICLE12: Die amtliche Mitteilung über die Londoner Verhandlungen.
+Found
+MODSMD_ARTICLE13: Deutschland und Italien werden unterrichtet.
+Found
+MODSMD_ARTICLE14: Die französischen Minister nach Paris abgeflogen.
+Found
+MODSMD_ARTICLE15: London ist kühler als Paris.
+Found
+MODSMD_ARTICLE16: Englische Metallgewerkschaftler boykottieren Jnskip.
+Found
+MODSMD_ARTICLE17: Vorläufig keine englischen Oelkäufe in Mexiko.
+Found

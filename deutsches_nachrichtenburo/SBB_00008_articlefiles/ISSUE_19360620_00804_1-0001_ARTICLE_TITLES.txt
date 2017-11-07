@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer an den 3. Deutschen Apothekertag.
+Found
+MODSMD_ARTICLE02: Der Führer an den Allgemeinen Deutschen Musikverein.
+Found
+MODSMD_ARTICLE03: Beileidstelegramm Reichsminister Rusts an Frau Lersch.
+Found
+MODSMD_ARTICLE04: Entlassung des thüringischen Ministers Dr. Weber.
+Found
+MODSMD_ARTICLE05: Der Reühssendeleiter an Schmeling.
+Found
+MODSMD_ARTICLE06: Die Reichstagung der Nordischen Gesellschaft.
+Found
+MODSMD_ARTICLE07: 15K. Geburtstag General von Reyhers.
+Found
+MODSMD_ARTICLE08: Botschafter Cerruti reist nach Rom.
+Found
+MODSMD_ARTICLE09: Rüschtü Aras bei Delbos.
+Found
+MODSMD_ARTICLE10: Britische Abordnung nach Montreux abgereist.
+Found
+MODSMD_ARTICLE11: Parlamentsferien in der Schweiz.
+Found
+MODSMD_ARTICLE12: „Bund der Kriegsdienstgegner Oesterreichs" aufgelöst.
+Found
+MODSMD_ARTICLE13: Das Programm der neuen schwedischen Regierung.
+Found
+MODSMD_ARTICLE14: Schlichtungsverhandlungen in Brüssel.
+Found
+MODSMD_ARTICLE15: Die ungarischen Minderheiten in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE16: Die spanischen Sozialdemokraten gegen Madariaga.
+Found
+MODSMD_ARTICLE17: Verteidigungsplan für die Philippinen.
+Found

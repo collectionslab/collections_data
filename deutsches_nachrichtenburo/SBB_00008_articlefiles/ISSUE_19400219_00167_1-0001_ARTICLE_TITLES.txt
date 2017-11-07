@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Empörung in aller Welt.
+Found
+MODSMD_ARTICLE02: Italien.
+Found
+MODSMD_ARTICLE03: UdSSR.
+Found
+MODSMD_ARTICLE04: Lettland.
+Found
+MODSMD_ARTICLE05: Schweiz.
+Found
+MODSMD_ARTICLE06: Schweden.
+Found
+MODSMD_ARTICLE07: Norwegen.
+Found
+MODSMD_ARTICLE08: Dänemark.
+Found
+MODSMD_ARTICLE09: Ungarn.
+Found
+MODSMD_ARTICLE10: Bulgarien.
+Found
+MODSMD_ARTICLE11: Griechenland.
+Found
+MODSMD_ARTICLE12: Jugoslawien.
+Found
+MODSMD_ARTICLE13: Belgien.
+Found

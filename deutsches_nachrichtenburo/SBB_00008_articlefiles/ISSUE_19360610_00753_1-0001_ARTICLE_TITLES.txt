@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dr. Goebbels als Zeuge im BaugrubenungiücksproZeß.
+Found
+MODSMD_ARTICLE02: Der Internationale Gemeindekongreß in Berlin beendet.
+Found
+MODSMD_ARTICLE03: Deutschland kündigt das Verrechnungs- und das Waren-Zahlungsabkommen mit der Schweiz.
+Not Found
+MODSMD_ARTICLE04: Keine Beschäftigung mehr ohne Arbeitsbuch.
+Found
+MODSMD_ARTICLE05: Besuch des Panzerschiffs „Deutschland" in Kopenhagen.
+Found
+MODSMD_ARTICLE06: Weihe eines deutschen Gemeinschaftshauses in Schanghai.
+Found
+MODSMD_ARTICLE07: Der Kattowitzer Hochverratsprozeß.
+Found
+MODSMD_ARTICLE08: Neue belgische Ausnahmeverordnung gegen Heimattreue.
+Found
+MODSMD_ARTICLE09: Die litauischen Sejmwahlen im Memelgebiet.
+Found
+MODSMD_ARTICLE10: Kwiatkowski über die neuen polnischen Wirtschaftspläne.
+Found
+MODSMD_ARTICLE11: Parteipolitische Einteilung der französischen Kammer.
+Found
+MODSMD_ARTICLE12: Japans Einfluß in den chinesischen Provinzen.
+Found

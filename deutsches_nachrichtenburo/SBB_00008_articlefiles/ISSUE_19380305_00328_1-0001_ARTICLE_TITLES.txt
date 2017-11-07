@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Moskauer Schauprozetz. Die Lebensmittelknappheit in der Sowjetunion.
+Found
+MODSMD_ARTICLE02: Störung des DNB.-Drahtberichtes durch Moskau.
+Found
+MODSMD_ARTICLE03: Die Altersfürsorge der Bühnenschaffenden.
+Found
+MODSMD_ARTICLE04: Empfangsabend beim Reichsarbeitsminister.
+Found
+MODSMD_ARTICLE05: Der Geburtstag Hanns Schemms.
+Found
+MODSMD_ARTICLE06: Selbstschutzmaßnahmen für Taxifahrer in Paris.
+Found
+MODSMD_ARTICLE07: Lord Kerth kehrt nach Rom zurück.
+Found
+MODSMD_ARTICLE08: Die Kresse zu Spaaks Abstimmungserfolg.
+Found
+MODSMD_ARTICLE09: Das spanische Handelsministerium in Bilbao.
+Found
+MODSMD_ARTICLE10: Wie die „Samuprawa" über Moskau urteilt.
+Found
+MODSMD_ARTICLE11: „Asiatifierung Sowjetrustlands."
+Found
+MODSMD_ARTICLE12: Wieder ein schwerer Zusammenstoß in Palästina.
+Found

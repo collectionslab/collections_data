@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Generalfeldmarschall Göring wieder in Berlin.
+Found
+MODSMD_ARTICLE02: Glückwunsch an Professor Dr. Kleine.
+Found
+MODSMD_ARTICLE03: Italiens und Teutschlands Kolonialpolitik gemeinsam«
+Found
+MODSMD_ARTICLE04: Meinungsterror gegen Deutsche in Polen.
+Found
+MODSMD_ARTICLE05: Jüdischer Korrespondent der „GaZeta Polska" übermütig.
+Found
+MODSMD_ARTICLE06: Polnischer Handel zu 47 v. H. verjudet.
+Found
+MODSMD_ARTICLE07: Der Duce iu Turin.
+Found
+MODSMD_ARTICLE08: Schweden erhöht die Wehrbereitschaft.
+Found
+MODSMD_ARTICLE09: Eingeständnis der Londoner Einkreisungsstrategen.
+Found
+MODSMD_ARTICLE10: Der Sandschak der Preis für die Türkei.
+Found
+MODSMD_ARTICLE11: Wieder drei Bombenexplosionen in London.
+Found
+MODSMD_ARTICLE12: Das schlechte Gewissen!
+Found
+MODSMD_ARTICLE13: Erste Parade der slowakischen Wehrmacht.
+Found
+MODSMD_ARTICLE14: Uebungsfahrt amerikanischer Schlachtschiffe.
+Found
+MODSMD_ARTICLE15: Portorico USA-Flugzeugstühpunkt im Atlantik.
+Found
+MODSMD_ARTICLE16: Polens Unabhängigkeit nicht bedroht.
+Found
+MODSMD_ARTICLE17: Englische Schikanen in Palästina.
+Found
+MODSMD_ARTICLE18: Abschluß der Japanreise der deutschen Schriftleiter.
+Found

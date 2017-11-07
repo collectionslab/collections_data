@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Stadtbaurat Brugmann-Nürnberg zum Professor ernannt.
+Found
+MODSMD_ARTICLE02: Blomberg besichtigt die Kriegsschule München.
+Found
+MODSMD_ARTICLE03: Das Unwesen der jüdischen Betrüger in Oesterreich.
+Found
+MODSMD_ARTICLE04: Wiener Betrachtungen zur Tagung der Kleinen Entente.
+Found
+MODSMD_ARTICLE05: Die bulgarische Presse zur Belgrader Tagung.
+Found
+MODSMD_ARTICLE06: Die Belgrader Außenministerkonferenz.
+Found
+MODSMD_ARTICLE07: Lettland soll wirtschaftlich erschlossen werden.
+Found
+MODSMD_ARTICLE09: Die Streikwelle in Frankreich.
+Found
+MODSMD_ARTICLE10: Die französische Abordnung für die Krönungsfeier.
+Found
+MODSMD_ARTICLE11: Paris von einer Valencia-,,Note" nicht erbaut.
+Found
+MODSMD_ARTICLE12: Katalanische Bonzen ergattern Ministerposten.
+Found
+MODSMD_ARTICLE13: Erfolgreicher nationaler Angriff nördlich von Madrid.
+Found
+MODSMD_ARTICLE14: Vergeltung für Fliegerangriffe auf offene ,
+Found
+MODSMD_ARTICLE15: Fortschreitende Offensive vor Bilbao.
+Found
+MODSMD_ARTICLE16: Vier Streikbewegungen in England.
+Found
+MODSMD_ARTICLE17: Amnestie in Bulgarien.
+Found
+MODSMD_ARTICLE18: Der neue Gouverneur von Eritrea tritt sein Amt an.
+Found
+MODSMD_ARTICLE19: 4K2 0W amerikanische Bergarbeiter im Streik.
+Found
+MODSMD_ARTICLE20: Neue Arbeitskonflikte in Illinois und Detroit.
+Found
+MODSMD_ARTICLE21: Zwei Londoner Vorortzüge Zusammengestoßen.
+Found

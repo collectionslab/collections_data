@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Reichsfinanzschule Ilmenau eröffnet»
+Found
+MODSMD_ARTICLE02: Kommt der internationale Hotelgutschein?
+Found
+MODSMD_ARTICLE03: Maria Müller singt in Warschau.
+Found
+MODSMD_ARTICLE04: Pariser Blätter zur Lage nach den Wahlen.
+Found
+MODSMD_ARTICLE05: Ausländische Stimmen Zum französischen Wahlergebnis.
+Found
+MODSMD_ARTICLE06: Diskonterhöhung in Frankreich?
+Found
+MODSMD_ARTICLE07: Vorkehrungen zum Schutz der Europäer in Addis Abeba.
+Found
+MODSMD_ARTICLE08: Dreiviertel-Mehrheit der Wafd-Partei in der Kammer.
+Found
+MODSMD_ARTICLE09: Die englisch-ägyptischen Verhandlungen.
+Found

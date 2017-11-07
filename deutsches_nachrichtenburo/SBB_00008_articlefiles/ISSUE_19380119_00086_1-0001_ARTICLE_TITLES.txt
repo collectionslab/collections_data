@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Japanische Gäste in der Auslandsorganisation der NSDAP.
+Found
+MODSMD_ARTICLE02: Tagung der Oberlandesgerichtspräsidenten.
+Found
+MODSMD_ARTICLE03: Deutscher Sieg im Internationalen Sternslug von Hoggar.
+Found
+MODSMD_ARTICLE04: „Ein wirksamer Erfolg Görings".
+Found
+MODSMD_ARTICLE05: Anerkennende Worte für die deutsche Presse.
+Found
+MODSMD_ARTICLE06: Oesterreichische Legitimisten aus Jugoslawien ausgewiesen.
+Found
+MODSMD_ARTICLE07: Guistiniani aus Danzig nach Rom berufen.
+Found
+MODSMD_ARTICLE08: Die englisch-irischen Verhandlungen abgeschlossen.
+Found
+MODSMD_ARTICLE09: Die Verlautbarung über die englisch-irischen Besprechungen.
+Found
+MODSMD_ARTICLE10: De Valera trug sich nicht ins Gästebuch von Buckingham ein.
+Found
+MODSMD_ARTICLE11: Dm neuen Minister übernahmen ihre Geschäfte.
+Found
+MODSMD_ARTICLE12: Gespannte Lage in Bordeaux.
+Found
+MODSMD_ARTICLE13: Die Sowjet-Werkspionage in Schweden erwiesen.
+Found
+MODSMD_ARTICLE14: Der Auftakt der Königshochzeit in Kairo.
+Found
+MODSMD_ARTICLE15: Daventry will auch türkisch senden.
+Found
+MODSMD_ARTICLE16: Singapur soll größter englischer Stützpunkt in Asien werden.
+Found
+MODSMD_ARTICLE17: Hilferuf an Roosevelt.
+Found
+MODSMD_ARTICLE18: Ausländische Handelsjuden müssen Ecuador verlassen.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Reichsausienminister wieder in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE02: Zapfenstreich vor den Abgeordneten des Reichstages.
+Found
+MODSMD_ARTICLE03: Tie ausländischen Reiter beim Reichsbauernsührer.
+Found
+MODSMD_ARTICLE04: Farinacci in der Hauptstadt der Bewegung.
+Found
+MODSMD_ARTICLE05: Barcelona über Nacht verwandelt.
+Found
+MODSMD_ARTICLE06: Neuer Erfolg der Nationalen nördlich von Barcelona.
+Found
+MODSMD_ARTICLE07: Francs besitzt jetzt drei Viertel Spaniens.
+Found
+MODSMD_ARTICLE08: Italien lehnt Konferenz Zur Regelung der Spanienfrage ab.
+Found
+MODSMD_ARTICLE09: Stärkung des polnischen Elements in OstgaliZien.
+Found
+MODSMD_ARTICLE10: Aus Juden wurden „Finnländer".
+Found
+MODSMD_ARTICLE11: Regierungssieg bei der Nachwahl in Ost-Norfolk.
+Found
+MODSMD_ARTICLE12: Wohin mit dem rotspanischen Flüchtlingsstrom?
+Found
+MODSMD_ARTICLE13: Englisch-französisch-tschechisches Finanzabkommen.
+Found
+MODSMD_ARTICLE14: Frankreich reaktiviert Reserve-Fliegeroffiziere.
+Found
+MODSMD_ARTICLE15: Znriickdrängnng des englischen Elements in Südafrika.
+Found
+MODSMD_ARTICLE16: Blutige Zusammenstöße in Jaipur.
+Found
+MODSMD_ARTICLE17: Marschall Wupeifu Vorsitzender der Befriedungskommission.
+Found
+MODSMD_ARTICLE18: Roosevelt füllt die Geldsäcke der Rüstungsindustrie.
+Found
+MODSMD_ARTICLE19: Roosevelt und die Befestigung von Guam.
+Found
+MODSMD_ARTICLE20: Bolschewisten und Indem in Mexiko unerwünscht.
+Found

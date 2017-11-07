@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Chvalkovsky bei Reichsaußenminister von Ribbentrost.
+Found
+MODSMD_ARTICLE02: Der Zoll grenzschuh an der neuen Reichsgrenze.
+Found
+MODSMD_ARTICLE03: Die bisher niedrigste Arbeitslosenzahl»
+Found
+MODSMD_ARTICLE04: Staudrecht im Bezirk Munkacs.
+Found
+MODSMD_ARTICLE05: Neues karpatho-ukrainisches Regierungsblatt.
+Found
+MODSMD_ARTICLE06: Die Verhandlungen in Komorn auf dem toten Punkt.
+Found
+MODSMD_ARTICLE07: „Függetlenseg" über die Verhandlungen in Komorn.
+Found
+MODSMD_ARTICLE08: Marschall Rydz-Smigly im Olsa-Gebiet.
+Found
+MODSMD_ARTICLE09: Blutiges Nachspiel des Olsa-Konslikts iu Lemberg.
+Found
+MODSMD_ARTICLE10: Die Taktik gegen die Achse Berlin—Rom.
+Not Found
+MODSMD_ARTICLE11: Großfürst Kyrill gestorben.
+Found
+MODSMD_ARTICLE12: Die Londoner Presse zur Lage in Palästina.
+Found
+MODSMD_ARTICLE13: Schweres Gefecht bei Jerusalem.
+Found
+MODSMD_ARTICLE14: Die japanische Presse über die Gründe der neuen Aktion.
+Found
+MODSMD_ARTICLE15: Zehn Tote bei einem Autounglück in Niederdonau.
+Found

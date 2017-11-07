@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Beförderungen in Heer, Marine und Luftwaffe.
+Found
+MODSMD_ARTICLE03: Ungesetzlichkeiten der „Bekennenden Kirche" verboten.
+Found
+MODSMD_ARTICLE04: Der Führer eröffnet am Dienstag das WHW. 1937/38.
+Found
+MODSMD_ARTICLE05: Militärgroßkonzert in der Deutschland-Halle.
+Found
+MODSMD_ARTICLE06: Die englischen Straßenbaufachleute in Heidelberg.
+Found
+MODSMD_ARTICLE07: Italien, Deutschland und die Dreierbesprechungen.
+Found
+MODSMD_ARTICLE08: Deutsche Chemiker in der Pariser Deutschen Botschaft.
+Found
+MODSMD_ARTICLE09: Der Ständerat billigt Verbot der Kommunistischen Partei.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Führer zum argentinischen Unabhängigkeitstag.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Internationaler Kongreß der Rübenanbauer.
+Found
+MODSMD_ARTICLE04: Tassmari bei der Leibstandarie SS. Adolf Hitler.
+Found
+MODSMD_ARTICLE05: Der Reichsinnenminister in Graz.
+Found
+MODSMD_ARTICLE06: Unerhörtes Vorgehen gegen sudeiendeutsche Beamte.
+Found
+MODSMD_ARTICLE07: Paris stellt Entspannung der Lage fest.
+Found
+MODSMD_ARTICLE08: Kabinettsrat in Paris.
+Found
+MODSMD_ARTICLE09: Das Internationale Landwirtschaftsinstitut tagt in Rom.
+Found
+MODSMD_ARTICLE10: Der polnische Außenminister auf der Fahrt nach Stockholm.
+Found
+MODSMD_ARTICLE11: Der rumänische Ministerpräsident in Krakau.
+Found
+MODSMD_ARTICLE12: Ausstecknng „Freude und Arbeit" in Athen geschlossen.
+Found
+MODSMD_ARTICLE13: „Klassizistisches Athen."
+Found
+MODSMD_ARTICLE14: Beginn des Codreanu-Prozesses in Bukarest.
+Found
+MODSMD_ARTICLE15: Bombenexplosion in Rotterdam.
+Found
+MODSMD_ARTICLE16: Neue scharfe Maßnahmen in Palästina.
+Found
+MODSMD_ARTICLE17: Syrische Bauern protestieren gegen Steuererhöhnngen.
+Found
+MODSMD_ARTICLE18: Ruhe im Staate San Luis Potosi.
+Found
+MODSMD_ARTICLE19: Der Verlauf des Deutschlandfluges.
+Found
+MODSMD_ARTICLE20: Deutscher Modellflugrekord.
+Found

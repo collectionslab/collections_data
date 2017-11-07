@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Die Dritte Reichsnährstandsausstellung.
+Found
+MODSMD_ARTICLE02: Eröffnung der Ausstellung durch den Reichsbauernführer.
+Found
+MODSMD_ARTICLE03: Graf Ciano und die Söhne Mussolinis zurückgekehrt.
+Found

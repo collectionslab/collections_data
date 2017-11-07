@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer zum Tode Ludendorffs.
+Found
+MODSMD_ARTICLE02: Das Beileid Görings.
+Found
+MODSMD_ARTICLE03: Der Neichskriegsminister an die Wehrmacht.
+Found
+MODSMD_ARTICLE04: Staatsakt für General Ludendorff.
+Found
+MODSMD_ARTICLE05: Das Staatsbegräbnis des Generals Ludendorff.
+Found
+MODSMD_ARTICLE06: Abschied vom Feldherrn.
+Found
+MODSMD_ARTICLE07: Beförderungen im Propagandaministerium.
+Found
+MODSMD_ARTICLE08: Rudolf Heß spricht am Weihnachtsabend.
+Found
+MODSMD_ARTICLE09: Eden fahrt nicht nach Paris.
+Found
+MODSMD_ARTICLE10: Reichsverweser Horthy über die Königsfrage.
+Found
+MODSMD_ARTICLE11: Die Wahlen in Rumänien.
+Found
+MODSMD_ARTICLE12: Der Herzog von Aosta in Aethiopien eingetroffen.
+Found
+MODSMD_ARTICLE13: IVO KW Reichsautobahner feiern Weihnachten/''^.
+Found
+MODSMD_ARTICLE14: Afghanische Aemter für Landwirtschaft und Bergbau.
+Found

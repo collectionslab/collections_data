@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Zum Regierungsvizepräsidenten ernannt.
+Found
+MODSMD_ARTICLE02: Doldene Ehrenzeichen für Volksdeutsche Führer,
+Found
+MODSMD_ARTICLE03: So sorgt die nationalsozialistische Volksgemeinschaft.
+Found
+MODSMD_ARTICLE04: Spukgeschichten des „Temps".
+Found
+MODSMD_ARTICLE05: Italien: „Deutschland in starker Position".
+Found
+MODSMD_ARTICLE06: Araber verstärken den Freiheitskampf in Palästina.
+Found
+MODSMD_ARTICLE07: England raubt Gold und Post von neutralen Schiffen.
+Found
+MODSMD_ARTICLE08: England ruiniert Hollands koloniale Verbindungen.
+Found
+MODSMD_ARTICLE09: Der englisch-französisch-türkische Pakt.
+Found
+MODSMD_ARTICLE10: Der Bericht über den Kriegsverlauf stark beachtet.
+Found
+MODSMD_ARTICLE11: Berichtigung.
+Found

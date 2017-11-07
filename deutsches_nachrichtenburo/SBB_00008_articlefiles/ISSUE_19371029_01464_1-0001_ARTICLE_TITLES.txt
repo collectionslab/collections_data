@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Geburtstagsempfang bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Deutschlands Standpunkt in der Kolonialfrage.
+Found
+MODSMD_ARTICLE03: Das Echo der Mussolini-Rede.
+Found
+MODSMD_ARTICLE04: Unveränderte Kampflage an der Schanghai-Front.
+Found

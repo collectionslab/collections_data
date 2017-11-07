@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Judenfrage das Weltproblem.
+Found
+MODSMD_ARTICLE02: Vereinbarungen mit Ungarn über Wirtschaftsfragen.
+Found
+MODSMD_ARTICLE03: Das Hultschiuer Land feiert seine Befreiung.
+Found
+MODSMD_ARTICLE04: Beck empfing den Kownoer Oberbürgermeister.
+Found
+MODSMD_ARTICLE05: Brntstellen der jüdischen Internationale geschlossen.
+Found
+MODSMD_ARTICLE06: Umbesetzungen im schwedischen Kabinett.
+Found
+MODSMD_ARTICLE07: Chamberlain läßt sich keine Borschriften machen.
+Found
+MODSMD_ARTICLE08: Ein unmöglicher Plan!
+Found
+MODSMD_ARTICLE09: Heftige Anklagen gegen die „unerwünschten Fremdlinge".
+Found
+MODSMD_ARTICLE10: Der Luxusklub in Genf.
+Found
+MODSMD_ARTICLE11: Günstige Aufnahme der Chamberlain-Rede in Paris.
+Found
+MODSMD_ARTICLE12: Der Katastropheuwinter in Sowjetspanien.
+Found
+MODSMD_ARTICLE13: Nationalspanische Vorwürfe gegen Hull.
+Found
+MODSMD_ARTICLE14: Wieder mehrere Araber ins Jenseits befördert.
+Found
+MODSMD_ARTICLE15: Präsident Vargas über die Politik Brasiliens.
+Found

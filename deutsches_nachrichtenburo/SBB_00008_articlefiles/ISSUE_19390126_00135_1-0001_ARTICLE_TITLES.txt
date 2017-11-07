@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Telegramm des Führers an den Präsidenten von Chile.
+Found
+MODSMD_ARTICLE02: Starke Anteilnahme am Siege Francas.
+Found
+MODSMD_ARTICLE03: Ungeheurer Jubel in ganz Nationalspanien.
+Found
+MODSMD_ARTICLE04: Rundfunkansprache der Generäle Francas in Barcelona.
+Found
+MODSMD_ARTICLE05: Jubel im befreiten Barcelona.
+Found
+MODSMD_ARTICLE06: Der gewaltige Erfolg der Katalonien-Offensive.
+Found
+MODSMD_ARTICLE07: Die letzten Stunden vor dem Einmarsch in Barcelona.
+Found
+MODSMD_ARTICLE08: Begeisterung in Italien über den Fall Barcelonas.
+Found
+MODSMD_ARTICLE09: Nach dem Fall Barcelonas.
+Found
+MODSMD_ARTICLE10: Keine Ruhe für die geflüchteten rotfpanifchen Bonzen.
+Found
+MODSMD_ARTICLE11: Auch der amerikanische Geschäftsträger verließ Barcelona.
+Found
+MODSMD_ARTICLE12: Verdächtige Geschäftigkeit.
+Found
+MODSMD_ARTICLE13: AbenteMerstrom ergießt sich erneut nach Frankreich.
+Found
+MODSMD_ARTICLE14: Nationalspanische Sendungen über „Radio Barcelona".
+Found
+MODSMD_ARTICLE15: Jtalienfeindliche Kundgebungen in Paris.
+Found
+MODSMD_ARTICLE16: Frankreich ruft Rekruten vorzeitig unter die Fahnen.
+Found
+MODSMD_ARTICLE17: Volksfront als Vorbereitung für Sowjet-Europa.
+Found
+MODSMD_ARTICLE18: Sowjetschiffe sollen die Straße von Gibraltar meiden.
+Found

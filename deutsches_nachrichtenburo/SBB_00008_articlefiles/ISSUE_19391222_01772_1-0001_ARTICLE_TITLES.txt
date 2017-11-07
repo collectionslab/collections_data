@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Beförderung zum Admiral.
+Found
+MODSMD_ARTICLE02: Goethe-Medaille für Prof. Schwarz.
+Found
+MODSMD_ARTICLE03: Deutsch-rumänische Wirtschaftsvereinbarungen.
+Found
+MODSMD_ARTICLE04: London legt „Graue Listen" an.
+Found
+MODSMD_ARTICLE05: Die ersten Wolhynien-Deutschen in Lodsch.
+Found
+MODSMD_ARTICLE06: Weitere 34 verstümmelte Volksdeutsche gefunden.
+Found
+MODSMD_ARTICLE07: Trauerparade in Krakau.
+Found
+MODSMD_ARTICLE08: Was über die Slowakei alles zusammengelogen wird.
+Found
+MODSMD_ARTICLE09: Artilleriekampf auf der Karelischen Landenge.
+Found
+MODSMD_ARTICLE10: Englands Verbrecherfeldzug in Jugoslawien.
+Found
+MODSMD_ARTICLE11: Das russische Hauptquartier in Salmijärdi?
+Found
+MODSMD_ARTICLE12: Englands Küste ein Schiffsfriedhof.
+Found
+MODSMD_ARTICLE13: Alter Plunder geht nach Finnland.
+Found
+MODSMD_ARTICLE14: Dänischer Marineattacho in Berlin ernannt.
+Found
+MODSMD_ARTICLE15: England hat Angst um das tägliche Brot.
+Found
+MODSMD_ARTICLE16: Englisches Flugzeug auf eine Kirche gestürzt.
+Found
+MODSMD_ARTICLE17: „Uruguay in Englands Polypenarm".
+Found
+MODSMD_ARTICLE18: Verräter hingerichtet!
+Found

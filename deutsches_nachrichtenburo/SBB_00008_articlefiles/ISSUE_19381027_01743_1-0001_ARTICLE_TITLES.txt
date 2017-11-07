@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Führer in Südmühren.
+Found
+MODSMD_ARTICLE03: Ribbentrop nach Rom abgefahren.
+Found
+MODSMD_ARTICLE04: Ernennungen im Reichsernährungsministerium.
+Found
+MODSMD_ARTICLE05: Staatssekretär Reinhardt im Sudetengau.
+Found
+MODSMD_ARTICLE06: Prags Antwort auf die ungarischen Vorschläge.
+Found
+MODSMD_ARTICLE07: Die neue karpatho-ukrainische Landesregierung.
+Found
+MODSMD_ARTICLE08: Die Sitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE09: Große militärische Operationen in Nordpalästina.
+Found

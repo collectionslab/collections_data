@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Minister Dr. Gürtner beim Deutschen Juristentag 1936.
+Found
+MODSMD_ARTICLE02: Besuch des norwegischen Außenministers in Berlin.
+Found
+MODSMD_ARTICLE03: Aus der Berliner Diplomatie.
+Found
+MODSMD_ARTICLE04: Weitere Ilmbesetzungen an führenden Stellen in Wien.
+Found
+MODSMD_ARTICLE05: Die Zwischenfälle in einem belgischen Truppenlager.
+Found
+MODSMD_ARTICLE06: Die große Rede Baldwins.
+Found
+MODSMD_ARTICLE07: Internationales Frontkämpfertreffen in England.
+Found
+MODSMD_ARTICLE08: Ein englischer Heerführer aus dem Weltkrieg gestorben.
+Found
+MODSMD_ARTICLE09: Die Königlich-Italienische Akademie huldigt dem König.
+Found
+MODSMD_ARTICLE10: Kammer stimmt der Einverleibung Abessiniens zu.
+Found
+MODSMD_ARTICLE11: Chiles Initiative in der Sanktionsfrage erfolgreich.
+Found
+MODSMD_ARTICLE12: Auch Argentinien, Ekuador und Uruguay gegen Sanktionen.
+Found
+MODSMD_ARTICLE13: Berichtigung.
+Found

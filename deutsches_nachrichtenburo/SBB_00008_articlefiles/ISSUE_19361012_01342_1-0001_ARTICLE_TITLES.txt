@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer empfängt Hermann Esser.
+Found
+MODSMD_ARTICLE02: Schirach über das Wirken der Kriegsdichter.
+Found
+MODSMD_ARTICLE03: Abschluß der Internationalen Brückerbauer-Tagung.
+Found
+MODSMD_ARTICLE04: Schwedische Stimme über das neue Deutschland.
+Found
+MODSMD_ARTICLE05: Polnische Anerkennung für das WHW.
+Found
+MODSMD_ARTICLE06: Tie Budapester Presse zur Berufung Taranyis.
+Found
+MODSMD_ARTICLE07: Für einen „Völkerbund der Frontsoldaten".
+Found
+MODSMD_ARTICLE08: Die englischen Kommunisten für eigene Kandidaten.-
+Found
+MODSMD_ARTICLE09: Schweizer Gewerkschaftler gegen Kommunisten.
+Found
+MODSMD_ARTICLE10: Erklärungen Gründls im Nichteinmischungsausschuß.
+Found
+MODSMD_ARTICLE11: Zentralistische Staatsauffassung der Militärgruppe.
+Found
+MODSMD_ARTICLE12: Ter „Festtag der Rasse" im nationalen Spanien.
+Found
+MODSMD_ARTICLE13: Die Fortschritte des Angriffes aus Madrid.
+Found
+MODSMD_ARTICLE14: Die Kampfmaßnahmen der nationalen Luftflotte.
+Found
+MODSMD_ARTICLE15: Protest gegen den Verkauf spanischer Kunstschätze»
+Found
+MODSMD_ARTICLE16: Neuer sowjetischer „Lebeusmitteldampser" nach Spanien.
+Found
+MODSMD_ARTICLE17: Denunziantentum in der Sowjetunion.
+Found

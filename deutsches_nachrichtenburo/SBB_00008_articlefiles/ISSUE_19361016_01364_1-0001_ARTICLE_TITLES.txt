@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dr. Ley über den Kampf gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE02: Telegrammwechsel zwischen Kanha, Neurath und Ciano.
+Found
+MODSMD_ARTICLE03: Taranyi über das ungarische Regierungsprogramm.
+Found
+MODSMD_ARTICLE04: Belgische Pressestimmen zur Rede des Königs.
+Found
+MODSMD_ARTICLE05: Vor einem Notenaustausch zwischen Paris und Brüssel?
+Found
+MODSMD_ARTICLE06: „Gazeta Polska" über Stimmungsumschwung in Frankreich.
+Found
+MODSMD_ARTICLE07: Spanien und Belgien bor Pariser Kammerausschuß.
+Found
+MODSMD_ARTICLE08: Die italienische Presse zur belgischen Politik.
+Found
+MODSMD_ARTICLE09: Schifferstreik verursacht Warenknappheit in Paris.
+Found
+MODSMD_ARTICLE10: Vormarsch auf Madrid wieder aufgenommen.
+Found
+MODSMD_ARTICLE11: Notenwechsel zwischen Lissabon und Madrid.
+Found
+MODSMD_ARTICLE12: Litwinow-Finkelstein wieder daheim.
+Found

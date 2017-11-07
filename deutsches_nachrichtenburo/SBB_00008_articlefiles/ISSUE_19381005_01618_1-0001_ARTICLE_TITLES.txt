@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Besetzung des Abschnitts KZ!.
+Found
+MODSMD_ARTICLE02: Die evangelische Kirche dankt dem Führer.
+Found
+MODSMD_ARTICLE03: Telegrammwechsel zwischen Seyß-Jnquart und Henlein.
+Found
+MODSMD_ARTICLE04: Erster Eintopssonntag am 9. Oktober»
+Found
+MODSMD_ARTICLE05: Tagung der Gaufrauenschaftsleiterinnen.
+Found
+MODSMD_ARTICLE06: Dr. Ley über die Ausstellung „Freude und Arbeit".
+Found
+MODSMD_ARTICLE07: Trennung von Schul-- und Kirchenamt.
+Found
+MODSMD_ARTICLE09: Benesch zurückgetreten.
+Found
+MODSMD_ARTICLE10: Die Räumung des ungarischen Gebietes schreitet forst
+Found
+MODSMD_ARTICLE11: Polen fordert gemeinsame Grenze mit Ungarn.
+Found
+MODSMD_ARTICLE12: Grotzdeutschland hilft den Sudetendeutschen.
+Found
+MODSMD_ARTICLE13: Italien bewahrt Borsicht.
+Found
+MODSMD_ARTICLE14: Neue Unterredung Cianos mit dem englischen Botschafter.
+Found
+MODSMD_ARTICLE15: Mussolini beglückwünscht Marschall Badoglio.
+Found
+MODSMD_ARTICLE16: 28K : 4 im Senat für das Ermächtigungsgesetz.
+Found
+MODSMD_ARTICLE17: Japan protestiert bei Frankreich.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Polnischer Panzervorstoß auf Danzig geplant?
+Found
+MODSMD_ARTICLE02: Polen unterbricht Danzigs Eisenbahnverkehr.
+Found
+MODSMD_ARTICLE03: Flüchtlingselend in Schneidemühl.
+Found
+MODSMD_ARTICLE04: Ostoberschlesien hermetisch abgeschlossen!
+Found
+MODSMD_ARTICLE05: Lebensmittelmangel in Polen immer stärker fühlbar.
+Found
+MODSMD_ARTICLE06: Die Tschechen verbitten sich die Einmischung Polens.
+Found
+MODSMD_ARTICLE07: Holland im Zeichen der Mobilmachung.
+Found
+MODSMD_ARTICLE08: „Mehr als ein üblicher Nichtangriffsvertrags
+Found
+MODSMD_ARTICLE09: Die judenfeindlichen Demonstrationen in Antwerpen.
+Found
+MODSMD_ARTICLE10: Auch in Brüssel judenfeindliche Kundgebungen.
+Found
+MODSMD_ARTICLE11: Dementi der Telegraphen-Agentur der Sowjetunion.
+Found
+MODSMD_ARTICLE12: Amerikaner verlassen Frankreich.
+Found
+MODSMD_ARTICLE13: Die Iren wollen nicht für England kämpfen.
+Found
+MODSMD_ARTICLE14: Der deutsche Botschafter beim spanischen Außenminister.
+Found
+MODSMD_ARTICLE15: Parlamentssitzung in Südafrika.
+Found
+MODSMD_ARTICLE16: Arabischer Freischärlerführer erschossen.
+Found
+MODSMD_ARTICLE17: Das neue japanische Kabinett.
+Found

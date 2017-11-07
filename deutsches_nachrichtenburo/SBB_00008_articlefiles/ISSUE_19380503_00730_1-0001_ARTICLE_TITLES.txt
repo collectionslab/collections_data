@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Führer betritt Italiens Boden.
+Found
+MODSMD_ARTICLE02: Das Imperium erwartet den Führer.
+Found
+MODSMD_ARTICLE04: Rudolf Heß: Wir grüßen Euch, Faschisten!
+Found
+MODSMD_ARTICLE05: Dr. Goebbels in „Lavoro Fascista".
+Found
+MODSMD_ARTICLE06: Bekenntnis zur deutsch-italienischen Freundschaft.
+Found
+MODSMD_ARTICLE07: Steigende Spannung in Italien.
+Found
+MODSMD_ARTICLE08: Abfahrt der Mailänder Deutschen nach Rom.
+Found
+MODSMD_ARTICLE09: Generaladmiral Naeder bei den Flotten Übungen in Neapel»
+Found

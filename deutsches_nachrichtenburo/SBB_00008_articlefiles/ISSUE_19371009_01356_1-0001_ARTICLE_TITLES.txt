@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Kranzniederlegungen am Grabe Horst Wessels.
+Found
+MODSMD_ARTICLE02: Neuer Kommandeur des XIII. Armeekorps.
+Found
+MODSMD_ARTICLE03: Der Zivilluftfahrt-Direktor Argentiniens in Deutschland.
+Found
+MODSMD_ARTICLE04: Reichsminister Darre bei Ministerpräsident Siebert.
+Found
+MODSMD_ARTICLE05: Internationale Kochkunst-Ausstellung eröffnet.
+Found
+MODSMD_ARTICLE06: Beisetzung des Aachener Bischofs Dr. Vogt.
+Found
+MODSMD_ARTICLE07: General Milch auf dem Rückflug aus Paris.
+Found
+MODSMD_ARTICLE08: Das Blutkonto des GPU-Agenten Skoblin.
+Found
+MODSMD_ARTICLE09: 23 Milliarden für Frankreichs Landesverteidigung.
+Found
+MODSMD_ARTICLE10: Dementi und Gegendementi.
+Found
+MODSMD_ARTICLE11: Londoner Empfänge für Abordnung der American Legion.
+Found
+MODSMD_ARTICLE12: Die Überreichung der Note Italiens bestätigt.
+Found
+MODSMD_ARTICLE13: Frankreichs und Sowjetrußlands „Nichteinmischung"!
+Found
+MODSMD_ARTICLE14: Entschiedene Sprache des „Tevere".
+Found
+MODSMD_ARTICLE15: Hochwasser hemmt die Operationen in Nordchina.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Universität Frankfurt ehrt argentinischen Gelehrten.
+Found
+MODSMD_ARTICLE02: Holländischer Dank an die deutsche Kriegsmarine.
+Found
+MODSMD_ARTICLE03: Danzig-Polnische Protokolle unterzeichnet.
+Found
+MODSMD_ARTICLE04: Die jüdisch-bolschewistische Unterwelt in Polen.
+Found
+MODSMD_ARTICLE05: Finnlands Staatspräsident beim König von Schweden.
+Found
+MODSMD_ARTICLE06: „Francs kämpft für die Wiederauferstehung Spaniens!"
+Found
+MODSMD_ARTICLE07: Die Verwahrung des Kührers fiel auf fruchtbaren Boden.
+Found
+MODSMD_ARTICLE08: Spaak über die Unabhängigkeitspolitik Belgiens.
+Found
+MODSMD_ARTICLE09: Der Senat erhebt Einspruch gegen die Arbeitsgesetze.
+Found
+MODSMD_ARTICLE10: Patriotische Spiegelfechterei der Kommunisten in Paris.
+Found
+MODSMD_ARTICLE11: Vor dem neuen Moskauer Schauprozest.
+Found
+MODSMD_ARTICLE12: Sowjetrussische Truppen in Korea.
+Found
+MODSMD_ARTICLE13: Volksentscheid und Kriegserklärung in USA.
+Found
+MODSMD_ARTICLE14: Amerikanische Journalistin warnt vor den „roten Ratten".
+Found
+MODSMD_ARTICLE15: Bolschewisten wollten die Regierung von Kuba stürzen.
+Found

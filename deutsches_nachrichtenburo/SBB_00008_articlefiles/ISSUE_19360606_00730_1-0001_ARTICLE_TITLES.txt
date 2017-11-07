@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Trauerbeflaggung am K. Juni.
+Found
+MODSMD_ARTICLE02: Arbeitssitzungen des Kongresses für Gewerblichen Rechtsschutz
+Found
+MODSMD_ARTICLE03: Deutschland führt am ersten Tag des Davispokalkampfes.
+Found
+MODSMD_ARTICLE04: Die deutschen Reiter bei Staatspräsident Moscicki.
+Found
+MODSMD_ARTICLE05: Ein irischer Student über die deutsche Disziplin.
+Found
+MODSMD_ARTICLE06: Schuschnigg aus Viareggio abgereist.
+Found
+MODSMD_ARTICLE07: Der Oberkommissar sür Aegypten beim König.
+Found
+MODSMD_ARTICLE08: Reise des Negus in die Schweiz.
+Found
+MODSMD_ARTICLE09: Ernennung Hoares im Urteil der Londoner Morgenpresse.
+Found
+MODSMD_ARTICLE10: Rom begrüßt Hoares Rückkehr.
+Found
+MODSMD_ARTICLE11: Keine Teilnahme Italiens an der Völkerbundsversammlung.
+Found
+MODSMD_ARTICLE12: Die Streiklage vor dem französischen Kabinett.
+Found
+MODSMD_ARTICLE13: Neue Zwischenfälle in Palästina.
+Found
+MODSMD_ARTICLE14: 829 Millionen Dollar neue Steuern in USA.
+Found

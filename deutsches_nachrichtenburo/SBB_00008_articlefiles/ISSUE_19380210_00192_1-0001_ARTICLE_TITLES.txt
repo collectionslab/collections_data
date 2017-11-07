@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Fischer Leiter des Reichspropagandaamts Schlesien.
+Found
+MODSMD_ARTICLE02: Teutschland gewann Bob-Weltmeisterschaft.
+Found
+MODSMD_ARTICLE03: Reichsverweser Horthy wieder in Budapest.
+Found
+MODSMD_ARTICLE04: Spanienrummel der tschechischen Volschewistenknechte.
+Found
+MODSMD_ARTICLE05: Die Goldverluste der Bank von Frankreich.
+Found
+MODSMD_ARTICLE06: Begleiterscheinungen französischer Preiserhöhungen.
+Found
+MODSMD_ARTICLE07: Neue Nichteinmischungs-Aussprache Edens mit Grandi.
+Found
+MODSMD_ARTICLE08: Die Wahlen in Nordirland.
+Found
+MODSMD_ARTICLE09: Deutscher Musiker spielt in Nationalspanien.
+Found
+MODSMD_ARTICLE10: Telegrammwechsel Zwischen den Führern der Balkanentente.
+Found
+MODSMD_ARTICLE11: 68 Italiener aus Sowjetrußland ausgewiesen.
+Found
+MODSMD_ARTICLE12: Taß-Vertreter und GPU.-Agent Vodrow Hauptschuldiger.
+Found
+MODSMD_ARTICLE13: Aegypten im Zeichen der Wahlvorbereitungen.
+Found
+MODSMD_ARTICLE14: Neue Handgranatenanschläge in Schanghai.
+Found
+MODSMD_ARTICLE15: Rege Tätigkeit an der japanisch-chinesischen Front.
+Found
+MODSMD_ARTICLE16: Mandschukuos Gesandter für Rom ernannt.
+Found

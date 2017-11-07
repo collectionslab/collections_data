@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Der Führer in der Volks-Oper.
+Found
+MODSMD_ARTICLE02: Empfang für Professor da Silva.
+Found
+MODSMD_ARTICLE03: Die Grands Prix für die neuejn deutschen Werkstoffe.
+Found
+MODSMD_ARTICLE04: Die französische Presse zur Begrüßung Delbos' durch Neurath.
+Found
+MODSMD_ARTICLE06: Die polnische Presse zum Warschauer Besuch von Delbos.
+Found
+MODSMD_ARTICLE07: Auf der Lüge ertappt.
+Found
+MODSMD_ARTICLE08: Der tschechoslowakische Handelsminister schwer erkrankt.
+Found
+MODSMD_ARTICLE09: Griechenlands Schafsende hinter Metaxas.
+Found
+MODSMD_ARTICLE10: Drei Milliarden Lire für den Straßenbau in Aethiopien.
+Found
+MODSMD_ARTICLE11: Schweizer Vorkehrungen für den Fall einer Mobilmachung.
+Found
+MODSMD_ARTICLE12: Sowjetrussen überwachein die Pyrenäengrenze.
+Found
+MODSMD_ARTICLE13: Gedenkstein für General Mola enthüllt.
+Found
+MODSMD_ARTICLE14: Wieder 1000 Ausländer Kanonenfutter für Sowjetspameu
+Found
+MODSMD_ARTICLE15: Bisher 1000 Siedlungsbauten in Andalusien fertiggestellt.
+Found
+MODSMD_ARTICLE16: Spanisch-Marokko spendet für die Frontsoldaten.
+Found
+MODSMD_ARTICLE17: „Armeeliga für Verteidigung Englands und des Empire."
+Found
+MODSMD_ARTICLE18: Der König von Griechenland bei Edem
+Found
+MODSMD_ARTICLE19: Die Japaner verlassen die Internationale Niederlassung.
+Found
+MODSMD_ARTICLE20: Korruptionshfnhl in Newark.
+Found
+MODSMD_ARTICLE21: Der dominikanische Außenminister f.
+Found
+MODSMD_ARTICLE22: Ein Gesandter Guatemalas in Salamanca.
+Found
+MODSMD_ARTICLE23: Auflösung sämtlicher politischer Verbände in Brasilien.
+Found

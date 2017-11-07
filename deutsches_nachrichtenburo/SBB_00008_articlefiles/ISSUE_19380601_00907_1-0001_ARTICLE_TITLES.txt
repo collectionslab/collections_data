@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Der Wiener Aufenthalt des Reichsinnenministers.
+Found
+MODSMD_ARTICLE03: Dr. Popitz über Kragen Staatlichen Hochbauverwaltung.
+Found
+MODSMD_ARTICLE04: Die neue politische und staatliche Einteilung Oesterreichs.
+Found
+MODSMD_ARTICLE05: Visumzwang für Reichsdeutsche in der Südafrika-Union.
+Found
+MODSMD_ARTICLE07: Die heimtückischen Schüsse auf Bayer und Kraus.
+Found
+MODSMD_ARTICLE08: Konzert des Regiments General Göring in Mailand.
+Found
+MODSMD_ARTICLE09: Gleichbleibende Preise in Italien.
+Found
+MODSMD_ARTICLE10: Farinacci Staatsminister.
+Found
+MODSMD_ARTICLE11: „Ohne Zusammenbruch Sowjetspaniens keine Entspannung."
+Found
+MODSMD_ARTICLE12: Die französischen Waffensendungen an Roispanien.
+Found
+MODSMD_ARTICLE13: „Schluß mit dem spanischen Blutvergießen."
+Found
+MODSMD_ARTICLE14: Paris wird für den Königsbesuch „gesäubert".
+Found
+MODSMD_ARTICLE15: Neue Streikbewegungen in Frankreich.
+Found
+MODSMD_ARTICLE16: Kabinettssitzung über die Nachfolgeschaft Hankeys.
+Found
+MODSMD_ARTICLE17: Ein neuer Gesehentwurf der englischen Regierung.
+Found
+MODSMD_ARTICLE18: Altbundesrat Schultheß zurückgetreten.
+Found
+MODSMD_ARTICLE19: GPU-Agent Waluch ermordete Konowalez.
+Found

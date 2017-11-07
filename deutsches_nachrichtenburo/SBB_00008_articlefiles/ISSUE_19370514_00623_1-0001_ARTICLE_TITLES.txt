@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Deutsch-polnische Verständigung übr Plest-Konzern.
+Found
+MODSMD_ARTICLE02: Abschluß eines Doppelbesteuerungsvertrags mit Holland.
+Found
+MODSMD_ARTICLE03: Eröffnung der Rügendamm-Straße.
+Found
+MODSMD_ARTICLE04: Wissenschaft Zum Einsatz bereit.
+Found
+MODSMD_ARTICLE05: Großer Empfang in der Deutschen Botschaft.
+Found
+MODSMD_ARTICLE07: Das englische Königspaar im Londoner Armenviertel.
+Found
+MODSMD_ARTICLE08: Neue Kundgebungen in Irland.
+Found
+MODSMD_ARTICLE09: Wenig Bereitschaft für die englische Rüstungssteuer.
+Found
+MODSMD_ARTICLE10: Millionen Mark Verlust in einer Woche.
+Found
+MODSMD_ARTICLE11: Wieder bolschewistischer Bombenangriff auf Zivilbevölkerung
+Found
+MODSMD_ARTICLE12: Die Sudetendeutsche Partei gegen ein Hodscha-Jnterview.
+Found
+MODSMD_ARTICLE13: Minister Grabowski wieder in Warschau.
+Found
+MODSMD_ARTICLE14: Die neuen Gesandten Jugoslawiens in London und Wien.
+Found
+MODSMD_ARTICLE15: Verlobung im dänischen Königshaus.
+Found
+MODSMD_ARTICLE16: 13,5 Millionen Kronen zum Neubau von Kriegsfahrzeugen.
+Found
+MODSMD_ARTICLE17: Botschafter Dieckhoff und Untersuchungskommission in USA.
+Found
+MODSMD_ARTICLE18: 10 W 0 Dollar für die Opfer der „Hindenburg"-Besatzung.
+Found
+MODSMD_ARTICLE19: Neuer Streik bei General Motors.
+Found
+MODSMD_ARTICLE20: Brasilianische Abgeordnete verurteilt.
+Found

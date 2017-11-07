@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Die spanischen Offiziere beim Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE03: „Stiftung für Opfer der Arbeit."
+Found
+MODSMD_ARTICLE04: Der Kopenhagener Besuch Dr. Franks.
+Found
+MODSMD_ARTICLE05: Marschall Badoglio berichtet dem Duce über Libyen.
+Found
+MODSMD_ARTICLE06: Abschluß des Weltkongresses der Luftfahrtpresse.
+Found
+MODSMD_ARTICLE07: Fragen des „Giornale d'Jtalia" an die „Garantierten".
+Found
+MODSMD_ARTICLE08: „Einkreisungspolitik führt zum Krieg."
+Found
+MODSMD_ARTICLE09: „Nur ein Ehrloser kann an Untreue denken."
+Found
+MODSMD_ARTICLE10: Vorschlag Londons zur Lage in Tientsin.
+Found
+MODSMD_ARTICLE11: General Franca fährt Ende September nach Rom.
+Found
+MODSMD_ARTICLE13: Ernennungen in der französischen Luftarmee.
+Found
+MODSMD_ARTICLE14: Berechtigtes Mißtrauen in Bulgarien gegen London.
+Found
+MODSMD_ARTICLE15: Rücktritt des rumänischen Senatspräsidenten.
+Found
+MODSMD_ARTICLE16: Die jüdischen Bombenattentate nehmen kein Ende.
+Found
+MODSMD_ARTICLE17: Tschungking erneut bombardiert.
+Found
+MODSMD_ARTICLE18: Sperrung der Internationalen Niederlassung in Tientsin.
+Found
+MODSMD_ARTICLE19: Antisemitismus in fast allen Ländern.
+Found

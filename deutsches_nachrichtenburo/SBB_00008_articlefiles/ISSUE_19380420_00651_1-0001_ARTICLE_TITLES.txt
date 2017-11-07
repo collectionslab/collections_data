@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Jubelstürme um den Führer vor der Reichskanzlei.
+Found
+MODSMD_ARTICLE02: Die Reichskanzlei feiert den Geburtstag des Kührers.
+Found
+MODSMD_ARTICLE03: Ernennungen in der Ordnungspolizei.
+Found
+MODSMD_ARTICLE04: Die große Geburtstagsparade in Wien
+Found
+MODSMD_ARTICLE05: Die Feiern in Innsbruck, Graz und Linz.
+Found
+MODSMD_ARTICLE06: Die Hakenkreuzsahne auf dem Wiener Stephansturm.
+Found
+MODSMD_ARTICLE07: Die nationalspanische Presse gratuliert dem Führer.
+Found
+MODSMD_ARTICLE08: l!> bolschewistische Drahtzieher in Ostgnlizicn verhastet.
+Found
+MODSMD_ARTICLE09: Ein Vorfall in Prag.
+Found
+MODSMD_ARTICLE10: „Umschwung in der politischen Atmosphäre".
+Found
+MODSMD_ARTICLE11: Sitzung des französischen Ministerrats.
+Found
+MODSMD_ARTICLE12: Ueber 2599 Gefangene im Gebiet von Tortosa gemacht.
+Found
+MODSMD_ARTICLE13: Immer noch Unruhen in Tunesien.
+Found
+MODSMD_ARTICLE14: Die japanische Presse zur Erklärung des Fürsten Konoe.
+Found
+MODSMD_ARTICLE15: Roosevelt begrüßt die englisch-italienischen Abmachungen.
+Found

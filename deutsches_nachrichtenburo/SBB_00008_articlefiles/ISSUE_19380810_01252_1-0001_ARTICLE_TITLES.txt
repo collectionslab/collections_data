@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Marschall Balbo am Ehrenmal und im Rathaus.
+Found
+MODSMD_ARTICLE02: Ausländische Gäste im HI.-Lager.
+Found
+MODSMD_ARTICLE03: Beileid Dr. Fricks Zum Tode Frobeniusst
+Found
+MODSMD_ARTICLE04: Kranzniederlegung an den Lilieuthal-Gedenkstättem
+Found
+MODSMD_ARTICLE05: Anerkennung für hervorragende Leistungen.
+Found
+MODSMD_ARTICLE06: Richtfest im Emsmoor.
+Found
+MODSMD_ARTICLE07: Dusf Cooper in Tanzig.
+Found
+MODSMD_ARTICLE08: Die Norwegenfahrt deutscher Bauernführer beendet.
+Found
+MODSMD_ARTICLE09: „Juden Zutritt verboten" aus polnischem Sportplatz.
+Found
+MODSMD_ARTICLE10: Die römische Presse zum Berliner Besuch Balbos.
+Found
+MODSMD_ARTICLE11: „Gioruale d Italia" über die neue korporative Kammer.
+Found
+MODSMD_ARTICLE12: Bericht der italienischen Manöverleitung.
+Found
+MODSMD_ARTICLE13: Bomben auf Valencia.
+Found
+MODSMD_ARTICLE14: Türkische Waffenkaufe in London?
+Found
+MODSMD_ARTICLE15: Moskau schützt den Papst!
+Found
+MODSMD_ARTICLE16: Judrnviertel mit Kollektivstrafe belegt.
+Found
+MODSMD_ARTICLE17: Schließung des sowjetrussischen Generalkonsulats in Korea?
+Found

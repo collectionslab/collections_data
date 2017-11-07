@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Gemeinschaftsempfang der Wehrmacht am 14. September.
+Found
+MODSMD_ARTICLE02: Einstellung von Freiwilligen in die Luftwaffe im Frühjahr 1937.
+Not Found
+MODSMD_ARTICLE03: Deutsche Schiffe retteten über 11 W 0 Spanien-Flüchtlinge.
+Found
+MODSMD_ARTICLE04: Paketnachsendung für Kriegsschisse.
+Found
+MODSMD_ARTICLE05: Sonderhilse für langfristige Textil-Kurzarbeiter.
+Found
+MODSMD_ARTICLE06: Generalmajor a. D. Freiherr von Holzing-Berstett gestorben.
+Found
+MODSMD_ARTICLE07: Sittlichkeitsverbrechens eines jüdischen Arztes.
+Found
+MODSMD_ARTICLE08: Ein Alarmruf aus Wien gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE09: „Spanien-Hilfsausschuß" in der Slowakei.
+Found
+MODSMD_ARTICLE10: Ergebnis des Gordon-Bennet-Wettfahrens.
+Found
+MODSMD_ARTICLE11: Geheimnisvoller Besuch in Warschau.
+Found
+MODSMD_ARTICLE12: Stojadiuowitschs und Antoucscus Reise nach Preßburg.
+Found
+MODSMD_ARTICLE13: Außerordentliche Mittel für Italiens Heer.
+Found
+MODSMD_ARTICLE14: Anerkennung der Burgos-Regierung durch Argentinien.
+Found
+MODSMD_ARTICLE15: 50 ausländische Flieger bei den Marxisten eingetroffen.
+Found
+MODSMD_ARTICLE16: Ein Priester im Alcazar.
+Found
+MODSMD_ARTICLE17: Die Kennzahl der Großhandelspreise vom 9. September.
+Found

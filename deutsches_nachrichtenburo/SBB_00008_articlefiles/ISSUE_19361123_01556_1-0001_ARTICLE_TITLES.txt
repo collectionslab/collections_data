@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Das Beileid der SA.
+Found
+MODSMD_ARTICLE02: Die Tagung der Neichsstelle zur Förderung des Schrifttums.
+Found
+MODSMD_ARTICLE03: Der Berliner Besuch Dr. Schmidts.
+Found
+MODSMD_ARTICLE04: Staatssekretär Schmidt an Neurath und Göring.
+Found
+MODSMD_ARTICLE05: Beileid der englischen Admiralität Zum Sinken von „11 18".
+Found
+MODSMD_ARTICLE06: Dr. Schachts Besuch in Teheran.
+Found
+MODSMD_ARTICLE07: Tie „Humanite" in der Schweiz verboten.
+Found
+MODSMD_ARTICLE08: Gegen den Wahnsinnspakt mit Moskau.
+Found
+MODSMD_ARTICLE09: Strickereisabrik von der Belegschaft beseht.
+Found
+MODSMD_ARTICLE10: Eisenbahnwagen mit Pulverladung nach Spanien verschoben.
+Found
+MODSMD_ARTICLE11: 500 Obdachlose durch den Niesenbrand in Angers.
+Found
+MODSMD_ARTICLE12: „Trionna" fordert rasche Entscheidung in der Spanienfrage.
+Found
+MODSMD_ARTICLE13: Tie Warnung der spanischen Nationalregierung.
+Found
+MODSMD_ARTICLE14: Die neutrale Zone in Madrid erweitert.
+Found
+MODSMD_ARTICLE15: Sicherheitszone im Hafen von Barcelona abgelehnt?
+Found
+MODSMD_ARTICLE16: Besuch des belgischen Ministerpräsidenten in London.
+Found
+MODSMD_ARTICLE17: Der rumänische Verkehrsminister in Belgrad.
+Found
+MODSMD_ARTICLE18: Die Kämpfe in Suiyuan.
+Found
+MODSMD_ARTICLE19: Ein Manifest des chinesischen Bandenführers Wang Ving.
+Found
+MODSMD_ARTICLE20: Meuterei von Gendarmeriestreitkräften in Osthopei.
+Found

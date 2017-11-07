@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Ohuesorge beglückwünscht Christiansen.
+Found
+MODSMD_ARTICLE03: Der frühere Reichspostminister Giesberts gestorben.
+Found
+MODSMD_ARTICLE04: Unter Tage verschüttet.
+Found
+MODSMD_ARTICLE05: Neuer tschechischer Roheitsakt gegen Sudetendeutschen.
+Found
+MODSMD_ARTICLE06: Gesetz gegen italienisch-jüdische Mischehen gefordert.
+Found
+MODSMD_ARTICLE07: „Tevere" brandmarkt die Verworfenheit der Juden.
+Found
+MODSMD_ARTICLE08: „Kein Platz für zugewanderte Juden".
+Found
+MODSMD_ARTICLE09: Die Rassenpolitik in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE10: Chamberlain kehrt nach London zurück.
+Found
+MODSMD_ARTICLE11: Englands Kommission zur Nachprüfung von Luftangriffen.
+Found
+MODSMD_ARTICLE12: Rote Ueberläufer am Ebro.
+Found
+MODSMD_ARTICLE13: Der neue albanische Gesandte nach Berlin abgereist.
+Found
+MODSMD_ARTICLE14: Stanislawski gestorben.
+Found
+MODSMD_ARTICLE15: Wieder ein neuer stellvertretender Volkskommissar.
+Found
+MODSMD_ARTICLE16: Amerikanisch-sowjetrussischer Handelsvertrag verlängert.
+Found
+MODSMD_ARTICLE17: Wieder jüdische Bombenattentate in Palästina.
+Found
+MODSMD_ARTICLE18: Arabische Zeitung zum überraschenden Besuch MacDonalds.
+Found
+MODSMD_ARTICLE19: Japanische Verlustliste für Schangfeng.
+Found
+MODSMD_ARTICLE20: Nordrhodesien gegen jüdische Einwanderung.
+Found

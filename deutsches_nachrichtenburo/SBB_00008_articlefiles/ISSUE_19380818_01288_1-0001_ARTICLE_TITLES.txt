@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Scharfe Abrechnung der Sudetendeutschen mit Prag.
+Found
+MODSMD_ARTICLE02: Der Führer in Döberitz.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels ehrt Prof. Troost.
+Found
+MODSMD_ARTICLE04: Landesbischof Glondys bei Reichsminister Kerrl.
+Found
+MODSMD_ARTICLE05: Ausländische Frontkämpferführer in Koburg.
+Found
+MODSMD_ARTICLE06: Die Pariser Presse zum Besuch General Vuillemins.
+Found
+MODSMD_ARTICLE07: Bilbao baut einen Flughafen.
+Found
+MODSMD_ARTICLE08: Französisches Munitionslager bei Damaskus explodiert.
+Found

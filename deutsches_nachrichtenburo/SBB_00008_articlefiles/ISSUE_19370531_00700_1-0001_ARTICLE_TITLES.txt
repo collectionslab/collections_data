@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer sprach im Nationalen Klub.
+Found
+MODSMD_ARTICLE02: Ehrenpreis des Führers für das Heeresjagdrennen.
+Found
+MODSMD_ARTICLE03: Goethe-Medaille für Prof. Dr. Eduard Hehck.
+Found
+MODSMD_ARTICLE04: Ehrenpreis des Führers für die Reichsnährstandsausstellung.
+Found
+MODSMD_ARTICLE05: Internationale Bibelforscher verkappte Staatsfeinde.
+Found
+MODSMD_ARTICLE06: Ministerpräsident Göring in Schwarza.
+Found
+MODSMD_ARTICLE07: Abschluß des Reichsführerlagers in Weimar.
+Found
+MODSMD_ARTICLE08: „Platz der SA." eingeweiht.
+Found
+MODSMD_ARTICLE09: Ehrung eines deutschen Gelehrten in Schweden.
+Found
+MODSMD_ARTICLE10: Starke Beachtung der Goebbels-Rede in Budapest.
+Found
+MODSMD_ARTICLE11: „Eine internationale Provokation".
+Found
+MODSMD_ARTICLE12: England nimmt Flottenbesprechungen auf.
+Found
+MODSMD_ARTICLE13: Französisch-türkische Abkommen in Genf unterzeichnet.
+Found
+MODSMD_ARTICLE14: Wegverlegung des USA.-Botschaft aus Valencia?
+Found
+MODSMD_ARTICLE15: Blutige Streikausschreitungen in Chicago.
+Found
+MODSMD_ARTICLE16: Kommunisten-Terror verhindert Dampfer au der Ausfahrt»
+Found

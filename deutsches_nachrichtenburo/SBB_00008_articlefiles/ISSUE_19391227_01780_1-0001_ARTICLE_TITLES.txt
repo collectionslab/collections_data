@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Whrer feiert Weihnachten bei seinen Soldaten an der Westfront.
+Found
+MODSMD_ARTICLE02: Generaloberst von Branchitsch an die Wehrmacht.
+Found
+MODSMD_ARTICLE03: Wehrmachtsbericht vom 24. Dezember.
+Found
+MODSMD_ARTICLE04: Wehrmachtsbericht vom 25. Dezember.
+Found
+MODSMD_ARTICLE05: Erfolglose britische Fliegerangriffe.
+Found
+MODSMD_ARTICLE06: Stalins Antworttelegramm an den Führer.
+Found
+MODSMD_ARTICLE07: Kapitänleutnant Prien in die Heimat zurückgekehrt.
+Found
+MODSMD_ARTICLE08: Erholungsheim für deutsche Kriegsbeschädigte.
+Found
+MODSMD_ARTICLE09: Ein zweites schweres Eisenbahnunglück.
+Found

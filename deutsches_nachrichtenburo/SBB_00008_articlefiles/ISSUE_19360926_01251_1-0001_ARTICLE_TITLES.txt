@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Abschluß des Manövers des Gruppenkommandos 11.
+Found
+MODSMD_ARTICLE02: Der italienische Propagandaminister kommt nach Berlin.
+Found
+MODSMD_ARTICLE03: Nahas Pascha in Berlin.
+Found
+MODSMD_ARTICLE04: Ausstellung „Reisebüro und Fremdenverkehr" eröffnet.
+Found
+MODSMD_ARTICLE05: Die Reise des türkischen Ministerpräsidenten nach London.
+Found
+MODSMD_ARTICLE06: 411-Stunden-Woche im französischen Bergbau.
+Found
+MODSMD_ARTICLE07: Der Wechsel im Pariser Volksfront-Kabinett.
+Found
+MODSMD_ARTICLE08: Währungsentente zwischen Washington, London und Paris.
+Found
+MODSMD_ARTICLE09: Finanzsragen vor dem französischen Ministerrat.
+Found
+MODSMD_ARTICLE10: Englische Stellungnahme Zur Frankenabweriung.
+Found
+MODSMD_ARTICLE11: Die Sowjethilfe für die spanischen Marxisten.
+Found

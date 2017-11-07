@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers für General von Lochow.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Ernennungen beim Volksgerichtshof.
+Found
+MODSMD_ARTICLE04: Oesterreichische Soldaten bei der Führer-Parade.
+Found
+MODSMD_ARTICLE05: Der erste Langstrecken-Segelflug über die Nordfee.
+Found
+MODSMD_ARTICLE06: 499 italienische Arbeiter-Urlauber in Köln.
+Found
+MODSMD_ARTICLE07: Svinhufvud erhielt das Großkreuz vom Deutschen Adler.
+Found
+MODSMD_ARTICLE08: Der Internationale Balneologenverband grüßt den Führer.
+Found
+MODSMD_ARTICLE09: 31 jüdische Hetzer festgenommen.
+Found
+MODSMD_ARTICLE10: Vorgehen gegen die Eiserne Garde in Rumänien.
+Found
+MODSMD_ARTICLE11: Anerkennung des Imperiums durch die Tschechoslowakei.
+Found
+MODSMD_ARTICLE12: Der Schritt Blondels.
+Found
+MODSMD_ARTICLE13: Belgrad zum Römischen Abkommen.
+Found
+MODSMD_ARTICLE14: Der Londoner Besuch Daladiers und Bonnets.
+Found
+MODSMD_ARTICLE15: Beendigung des Pariser Metallarbeiterstreiks.
+Found
+MODSMD_ARTICLE16: Paris und die Juden.
+Found
+MODSMD_ARTICLE17: Fiasco bei der Einberufung neuer Jahresklassen.
+Found
+MODSMD_ARTICLE18: Damit man sie nicht vergißt.
+Found
+MODSMD_ARTICLE19: Waffenlieferungsvertrag Sowjetunion—China.
+Found
+MODSMD_ARTICLE20: Gegen Sowjeteinmischung in Arabien.
+Found
+MODSMD_ARTICLE21: Wachsemde Ausländerfurcht bei den Sowjets.
+Found
+MODSMD_ARTICLE22: Das Echo aus den USA.
+Found
+MODSMD_ARTICLE23: Ausstellung einer amerikanischen Armeereserve.
+Found

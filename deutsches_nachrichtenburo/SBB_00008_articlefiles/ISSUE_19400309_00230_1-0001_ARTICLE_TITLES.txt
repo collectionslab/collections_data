@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Vom Führer ernannt.
+Found
+MODSMD_ARTICLE02: Brauchitsch erneut an der Westfront.
+Found
+MODSMD_ARTICLE03: Mach über seine Eindrücke im Reich.
+Found
+MODSMD_ARTICLE04: Nicht einmal Kohlen für den eigenen Bedarf!
+Found
+MODSMD_ARTICLE05: Englische Plutokraten verließen das Land.
+Found
+MODSMD_ARTICLE06: Ein englisches Schiff verloren.
+Found
+MODSMD_ARTICLE07: England will die griechischen Reeder erpressen.
+Found
+MODSMD_ARTICLE08: Washingtoner Blatt zur Flucht der „Queen Elizabeth".
+Found
+MODSMD_ARTICLE09: „Amerika will sich aus dem Krieg heraushalten".
+Found
+MODSMD_ARTICLE10: Der Reichsaußenminister nach Rom abgereist.
+Found
+MODSMD_ARTICLE11: Amerikanische Gesetze kümmern Frankreich nicht.
+Found
+MODSMD_ARTICLE12: Eingriff Englands in Amerikas innere Angelegenheiten.
+Found
+MODSMD_ARTICLE13: Churchills Schwindeleien erkannt.
+Found
+MODSMD_ARTICLE14: Erpressungsmethoden gegenüber Argentinien.
+Found
+MODSMD_ARTICLE15: Schwer vorbestrafter Gewohnheitsverbrecher hingerichtet.
+Found

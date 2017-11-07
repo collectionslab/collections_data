@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Russo ehrt die Blutzeugen des 9. November 1923.
+Found
+MODSMD_ARTICLE02: Amerikanische Jungen besuchen Deutschland.
+Found
+MODSMD_ARTICLE03: Die Rekordflieger mit ihrem „Taifun" Zurückgekehrt.
+Found
+MODSMD_ARTICLE04: Der Kleinkrieg gegen die Sudetendeutschen geht weiter.
+Found
+MODSMD_ARTICLE05: Englands starkes Interesse für die sudetendeutsche Frage.
+Found
+MODSMD_ARTICLE06: England will Beispiel sein.
+Found
+MODSMD_ARTICLE07: Kein Schutz für britische Schiffe in spanischen Häfen.
+Found
+MODSMD_ARTICLE08: „Die Politik des Faschismus seit jeher Rassenpolitik."
+Found
+MODSMD_ARTICLE09: Schirach auf dem Wege nach Med.
+Found
+MODSMD_ARTICLE10: Jugoslawische Anerkennung für „Kraft durch Freude".
+Found
+MODSMD_ARTICLE11: Nachspiel des Rexisten-Parteitages in Lombeck.
+Found
+MODSMD_ARTICLE12: Gründung eines rumänischen Kulturverbandes.
+Found
+MODSMD_ARTICLE13: Weitere Palästina-Zwischenfälle.
+Found
+MODSMD_ARTICLE14: Zwei irakische Minister amtsenthoben.
+Found
+MODSMD_ARTICLE15: Die mandschurische Stadt Schanfeng von den Sowjets besetzt.
+Found
+MODSMD_ARTICLE16: Flottenparade vor Präsident! Roosevelt.
+Found

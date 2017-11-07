@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Einstellung von Freiwilligen in die Luftwaffe.
+Found
+MODSMD_ARTICLE03: Freiwilliger Dienst in der Kriegsmarine.
+Found
+MODSMD_ARTICLE04: Trauerfeier für W. H. Blöcker. Görina am Sarge.
+Found
+MODSMD_ARTICLE05: Reichsminister Dr. Ruft vor der Hitler-Jugend in Kiel.
+Found
+MODSMD_ARTICLE06: Moskau fordert katalanische Sowjetrepublik.
+Found
+MODSMD_ARTICLE07: Gesetze zur Trauung der holländischen Kronprinzessin.
+Found
+MODSMD_ARTICLE08: „Sie sind auf unsere Seite getreten".
+Found
+MODSMD_ARTICLE09: Streikabbruch in San Franziska.
+Found
+MODSMD_ARTICLE10: Staatsreform in Japan.
+Found
+MODSMD_ARTICLE11: Die Kennzahl der Großhandelspreise vom 11. November.
+Found

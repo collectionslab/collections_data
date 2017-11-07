@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Konnnunistenfunktionar hat sich überzeugt.
+Found
+MODSMD_ARTICLE02: Wahlkundgebungen im Reich.
+Found
+MODSMD_ARTICLE03: 4 Wochen Erholung für österreichische Waisenkinder.
+Found
+MODSMD_ARTICLE04: Die Wühlarbeit der Prager kommunistischen Hetzzentrale.
+Found
+MODSMD_ARTICLE05: Aufruf des Reichskriegerführers zum 19. April.
+Found
+MODSMD_ARTICLE06: Lrrida umzingelt.
+Found
+MODSMD_ARTICLE07: Folgen der Volkosrontpolitik.
+Found
+MODSMD_ARTICLE08: Vermehrte Rüstungsausgaben in Holland.
+Found

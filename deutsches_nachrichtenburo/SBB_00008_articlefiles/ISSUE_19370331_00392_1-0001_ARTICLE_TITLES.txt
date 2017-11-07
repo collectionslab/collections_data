@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Ab 1. April: Reichstreuhänder der Arbeit.
+Found
+MODSMD_ARTICLE03: Reichskennzahl für Lebenshaltungskosten März 1937.
+Found
+MODSMD_ARTICLE04: Hilgenseldt zum Abschluß des Winterhilfswerks 1936/37.
+Found
+MODSMD_ARTICLE05: Deutschlandreise der Ungarischen Philharmoniker.
+Found
+MODSMD_ARTICLE06: Filmdokument „Durch Kampf zum Sieg".
+Found
+MODSMD_ARTICLE07: Letzte Sitzung des Senats der Freien und Hansestadt Lübeck.
+Found
+MODSMD_ARTICLE08: Italienische Ehrung deutschen Musikfchriftstellers.
+Found
+MODSMD_ARTICLE09: Stapellauf eines Größtankschiffes für Panama in Kiel.
+Found
+MODSMD_ARTICLE10: „Oesterreich braucht einen vernünftigen Antisemitismus".
+Found
+MODSMD_ARTICLE11: Frankreichs Rüstungsindustrie ohne Schwefelkies.
+Found
+MODSMD_ARTICLE12: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE13: Londoner Krönung im Zeichen eines Verkehrsstreiks?
+Found
+MODSMD_ARTICLE14: 2WO Juden werden ans Südafrika ausgewiesen.
+Found
+MODSMD_ARTICLE15: Die japanische Presse zur Auflösung des Reichstages.
+Found

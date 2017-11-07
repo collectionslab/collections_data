@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die italienischen Frontkämpfer verließen Berlin.
+Found
+MODSMD_ARTICLE02: 7 993 999 Einwohner in der Ostmark.
+Found
+MODSMD_ARTICLE03: General Halder in Helsinki.
+Found
+MODSMD_ARTICLE04: Entschließung des Kopenhagener Kongresses der IHK.
+Found
+MODSMD_ARTICLE05: „Tag des Meeres" im Zeichen polnischer Großmannssucht.
+Found
+MODSMD_ARTICLE06: Der jugoslawische Verkehrsminister Spaho gestorben.
+Found
+MODSMD_ARTICLE07: London zum britischen Flottenmemorandum.
+Found
+MODSMD_ARTICLE08: Lehnt England Japans Bedingungen ab?
+Found
+MODSMD_ARTICLE09: Tientsin-Vlockade bleibt!
+Found
+MODSMD_ARTICLE10: Beorderung des Tokioter Sowjetgesandten nach Moskau?
+Found
+MODSMD_ARTICLE11: Wieder 11 Araber ermordet.
+Found
+MODSMD_ARTICLE12: Appell Jbn Sauds an die Regierung des Irak.
+Found
+MODSMD_ARTICLE13: Die Zeitungen strafen Roosevelt Lügen.
+Found
+MODSMD_ARTICLE14: Rüstungsjuden haben Hochkonjunktur.
+Found
+MODSMD_ARTICLE15: 11 Milliarden für „Nothilfe" in USA.
+Found
+MODSMD_ARTICLE16: Deutsch-chilenisches Handelsabkommen verlängert.
+Found

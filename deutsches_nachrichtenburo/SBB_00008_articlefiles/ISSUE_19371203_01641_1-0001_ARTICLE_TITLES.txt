@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Erste Verleihung des Ehrenbuches für kinderreiche Familien.
+Found
+MODSMD_ARTICLE02: Vorwürfe von allen Seiten im Prager Abgeordnetenhaus.
+Found
+MODSMD_ARTICLE03: Lebhafte Aussprache im polnischen Sejm.
+Found
+MODSMD_ARTICLE04: Freunde aus Valencia in Paris.
+Found
+MODSMD_ARTICLE05: Nationaler Heeresbericht vom Donnerstag»
+Found
+MODSMD_ARTICLE06: Eid auf Spaniens Einheit, Größe und Freiheit.
+Found
+MODSMD_ARTICLE07: Auch der Hohe Kommissar von Spanisch-Marokko vereidigt.
+Found
+MODSMD_ARTICLE08: Umbesetzungen im »englischen Armeerat.
+Found
+MODSMD_ARTICLE09: „Säuberung" der sowjetrussischen Staatsbank.
+Found
+MODSMD_ARTICLE10: Schirach beim König von Irak.
+Found

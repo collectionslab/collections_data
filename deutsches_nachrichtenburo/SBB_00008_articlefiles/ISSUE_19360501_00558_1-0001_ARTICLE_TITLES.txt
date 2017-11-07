@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Freut Euch des Lebens! Der Nationale Feiertag des Deutschen Volkes 193 k.
+Found
+MODSMD_ARTICLE02: Der Führer und Dr. Goebbels an die Preisträger.
+Found
+MODSMD_ARTICLE03: Der Literaturpreis der Stadt Berlin verliehen.
+Found
+MODSMD_ARTICLE04: Der 1. Mai im Reich.
+Found
+MODSMD_ARTICLE05: Danzig am 1. Mai.
+Found
+MODSMD_ARTICLE06: Ehrung der Träger des Mozart-Preises.
+Found
+MODSMD_ARTICLE07: Gedenkstunde an der Geiselmordstätte in München»
+Found
+MODSMD_ARTICLE08: Gesandter von NichtHofen beim Führer.
+Found
+MODSMD_ARTICLE09: Der neue deutsche Gesandte in Brüssel eingetroffen.
+Found
+MODSMD_ARTICLE10: Finnische Gäste bei Oberlindober.
+Found
+MODSMD_ARTICLE11: Erklärung des Kaisers von Abessinien.
+Found

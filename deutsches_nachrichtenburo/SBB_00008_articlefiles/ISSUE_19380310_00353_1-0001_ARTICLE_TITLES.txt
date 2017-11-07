@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Dr. Goebbels an die deutsche Presse. Ein Empfang im Reichspropagandaministerium.
+Found
+MODSMD_ARTICLE02: Regierungsumbildung in Ungarn»
+Found
+MODSMD_ARTICLE03: Weiterhin Unklarheit über die Entwicklung in Frankreich.
+Found
+MODSMD_ARTICLE04: Frankreichs Kommunisten für „echte" Volksfront-Regierung.
+Found
+MODSMD_ARTICLE05: Stellungnahme der Sozialdemokratischen Kammergruppe.
+Found
+MODSMD_ARTICLE06: Regierungserklärung Chautemps' am Donnerstag früh.
+Found
+MODSMD_ARTICLE07: Hinter verschlossenen Türen.
+Found
+MODSMD_ARTICLE08: Militärähnliche Organisationen in Aegypten aufgelöst.
+Found
+MODSMD_ARTICLE09: Fast 11 Millionen Arbeitslose in Amerika.
+Found
+MODSMD_ARTICLE10: Flottenfeiertag bis Januar 1940?
+Found

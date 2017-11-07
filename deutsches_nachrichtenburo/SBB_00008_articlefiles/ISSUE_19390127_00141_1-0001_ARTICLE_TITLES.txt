@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Freude und Jubel in Barcelona.
+Found
+MODSMD_ARTICLE02: Auch in den Pyrenäen gute Fortschritte.
+Found
+MODSMD_ARTICLE03: Italien grüßt das nationale Spanien.
+Found
+MODSMD_ARTICLE04: Der „Times"-Berichterstatter Zeuge der Begeisterung.
+Found
+MODSMD_ARTICLE05: Bis zur letzten Minute geraubt und geplündert.
+Found
+MODSMD_ARTICLE06: Tausende von politischen Gefangenen verschleppt.
+Found
+MODSMD_ARTICLE07: Die Warschauer Presse zum Ribbentrop-Besuch.
+Found
+MODSMD_ARTICLE08: In Mexiko können 39 999 Kinder nicht eingeschult werden.
+Found
+MODSMD_ARTICLE09: Für wen arbeitet Amerikas Rüstungsindustrie?
+Found

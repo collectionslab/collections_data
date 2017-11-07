@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Neichskriegsminister besichtigt Standort München.
+Found
+MODSMD_ARTICLE02: Goethe-Medaille für Kar! Schönherr.
+Found
+MODSMD_ARTICLE03: Das Deutsche Beamtengesetz und die Lehrer.
+Found
+MODSMD_ARTICLE04: Führertnguug der SA.-Gruppe Hochland.
+Found
+MODSMD_ARTICLE05: Ruhe und Ordnung in Venezuela.
+Found
+MODSMD_ARTICLE06: Sir Henry Page-Crost gegen deutsche Kolomalsorderung.
+Found
+MODSMD_ARTICLE07: Die Wiener Presse Zum Neurath-Besuch.
+Found
+MODSMD_ARTICLE08: Kabinettssitzung in London.
+Found
+MODSMD_ARTICLE09: Auch in Lettland Freiwilligenverbot.
+Found
+MODSMD_ARTICLE10: Estland gibt sich eine neue Verfassung.
+Found
+MODSMD_ARTICLE11: Nord-Norwegen wimmelt von sowjetrussischen Spionen.
+Found
+MODSMD_ARTICLE12: Neuer Streit um die Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE13: Streik bei den Gaswerken in Mmes.
+Found
+MODSMD_ARTICLE14: Lnftfahrtminister Cot immer noch Gefangener der Lawine.
+Found
+MODSMD_ARTICLE15: Die Biscaya für Sowjetmatrosen zu „stürmisch".
+Found
+MODSMD_ARTICLE16: Sowjetrussische Lobeshymnen auf Selm.
+Found

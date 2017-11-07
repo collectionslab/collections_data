@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Jin den Herzen verankerte Freundschaft.
+Found
+MODSMD_ARTICLE02: Zusammenstöße Zwischen Ukrainern und Polen.
+Found
+MODSMD_ARTICLE03: Kinder allein über die Grenze gekommen.
+Found
+MODSMD_ARTICLE04: Bon Aufständischen überfallen und blutig geschlagen.
+Found
+MODSMD_ARTICLE05: Zwangsarbeit in Sümpfen.
+Found
+MODSMD_ARTICLE06: Restlose und sofortige Polonisiernng der Grenzzone.
+Found
+MODSMD_ARTICLE07: Polnisches Schreckensregiment in Ostgalizien.
+Found
+MODSMD_ARTICLE08: Danzigs neue Brücke dem Verkehr übergeben.
+Found
+MODSMD_ARTICLE09: Der bulgarische Erziehungsminister besucht Berlin.
+Found
+MODSMD_ARTICLE10: Düster umwölkter Pressehimmel in Paris.
+Found
+MODSMD_ARTICLE11: Zusammenstoß zwischen Katholiken und Muselmanen.
+Found

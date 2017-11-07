@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: „Am Feierabend ein gutes Buch."
+Found
+MODSMD_ARTICLE02: ReichsKuszenmimster von Ribbentrop in Warschau.
+Found
+MODSMD_ARTICLE03: Die Budapester Presse zur Warschauer Reise Ribbeutrops,
+Found
+MODSMD_ARTICLE04: England das „Gelobte Land" der Juden Ungarns.
+Found
+MODSMD_ARTICLE05: Ansbildungskurse für Jahresklasse 1901 in Italien.
+Found
+MODSMD_ARTICLE06: „Letzte Phase der Befreiung Spaniens."
+Found
+MODSMD_ARTICLE07: Spanisches Echo zum deutsch-spanischen Kulturabkommen.
+Found
+MODSMD_ARTICLE08: „Spaniens große nationale Gemeinschaft."
+Found
+MODSMD_ARTICLE09: Der britische Gesandte hat Barcelona verlassen.
+Found
+MODSMD_ARTICLE10: „Barcelona wartet auf das Ende."
+Found
+MODSMD_ARTICLE11: Rotspanische Post stellt den Betrieb ein.
+Found
+MODSMD_ARTICLE12: Tie zweijährige Dienstzeit in Frankreich.
+Found
+MODSMD_ARTICLE13: Der Führer der Karpatho-Ukrainischen Einheitspartei.
+Found
+MODSMD_ARTICLE14: Bedrohliche Lage in der Sowjetwirtschaft.
+Found
+MODSMD_ARTICLE15: Kapitalistische Antreibermethoden im Sowjetstaat.
+Found
+MODSMD_ARTICLE16: Tie Kabinettsumbildung in der Türkei.
+Found

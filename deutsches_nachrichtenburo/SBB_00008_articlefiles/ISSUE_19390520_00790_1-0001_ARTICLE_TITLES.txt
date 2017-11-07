@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Deutschlands Befestigungen in West und Ost.
+Found
+MODSMD_ARTICLE02: Aussprache von Ribbentrop—Urbsys.
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Goebbels Ehrenbürger von Köln.
+Found
+MODSMD_ARTICLE04: Hauptversammlung des Vereins Deutscher Ingenieure.
+Found
+MODSMD_ARTICLE05: Rnndfunkansprache Francas an die geeinte Nation.
+Found
+MODSMD_ARTICLE06: Die große Siegesfeier in Madrid.
+Found
+MODSMD_ARTICLE07: Italiens Spanienfreiwillige kehren zurück.
+Found
+MODSMD_ARTICLE08: Lord Halifax in Paris.
+Found

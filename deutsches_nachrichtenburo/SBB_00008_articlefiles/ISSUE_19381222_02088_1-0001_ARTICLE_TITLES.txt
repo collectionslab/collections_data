@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die deutsch-italienischen Wirtschaftsbesprechungen.
+Found
+MODSMD_ARTICLE02: Ungarns Außenminister von Ciano nach Rom eingeladen.
+Found
+MODSMD_ARTICLE03: Das neue Kabinett Stojadinowitsch.
+Found
+MODSMD_ARTICLE04: Stojadinowitsch Zur Kabinettsbildung.
+Found
+MODSMD_ARTICLE05: Auflösung der tschechischen Kommunistischen Partei.
+Found
+MODSMD_ARTICLE06: Juden hemmen die nationalen und staatlichen Kräfte.
+Found
+MODSMD_ARTICLE07: Reynaud bedauert die Verstaatlichung von Jndustriewerken.
+Found
+MODSMD_ARTICLE08: Die Tunisreise Daladiers.
+Found
+MODSMD_ARTICLE09: 11 rotspanische Flieger abgeschossen.
+Found
+MODSMD_ARTICLE10: Juda überschwemmt Sowjetspanien mit Papier.
+Found
+MODSMD_ARTICLE11: Die Steigerung der englischem Flugzeugproduktion.
+Found
+MODSMD_ARTICLE12: Jüdisch-sowjetrussische Spionage in USA.
+Found
+MODSMD_ARTICLE13: Hochbetrieb in Lima.
+Found
+MODSMD_ARTICLE14: Brasilien kündigt rigorose Sparmaßnahmen a,n.
+Found
+MODSMD_ARTICLE15: Wieder ein Autofallenbandit zum Tode verurteilt.
+Found

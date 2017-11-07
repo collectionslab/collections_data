@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Jesuitenpater wegen Kanzelmißbrauchs verurteilt.
+Found
+MODSMD_ARTICLE02: In Paris wird das Brot wieder teurer.
+Found
+MODSMD_ARTICLE03: „Die belgischen Rennfahrer wurden bespieen und geohrfeigt."
+Found
+MODSMD_ARTICLE04: Nationalspanische Kriegsschiffe gegen Blockadebrecher.
+Found
+MODSMD_ARTICLE05: Die Weltpresse über das nationale Spanien.
+Found
+MODSMD_ARTICLE06: Italien lud 625 spanische Jungfalangisten ein.
+Found
+MODSMD_ARTICLE07: Die Auswechslung der chinesischen Divisionen.
+Found

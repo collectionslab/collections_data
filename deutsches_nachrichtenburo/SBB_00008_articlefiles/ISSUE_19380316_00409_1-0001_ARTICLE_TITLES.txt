@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Das Ausland über den Anschluß.
+Found
+MODSMD_ARTICLE02: Ungarns offizieller Glückwunsch.
+Found
+MODSMD_ARTICLE03: Richtlinien des Führers für die österreichischen Ästue.
+Found
+MODSMD_ARTICLE04: Reichsbankpräsident Dr. Schacht in Wien.
+Found
+MODSMD_ARTICLE05: Eingliederung der SA.-Gruppe Oesterreich.
+Found
+MODSMD_ARTICLE06: Nationalbibliothek in Wien unter neuer Leitung.
+Found
+MODSMD_ARTICLE07: „Daily Telegraph" fordert von England Verständnis.
+Found
+MODSMD_ARTICLE08: Während Deutschland jubelt Genickschüsse in Moskau.
+Found

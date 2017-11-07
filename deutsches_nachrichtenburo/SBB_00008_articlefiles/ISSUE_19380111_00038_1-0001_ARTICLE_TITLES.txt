@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Glückwunschschreiben des Kührers an Geheimrat Cranz.
+Found
+MODSMD_ARTICLE02: Tagung der Wettkampfleiter des Reichsberufswettkampfes.
+Found
+MODSMD_ARTICLE03: Auszeichnung des Kulturfilmes „Grenzland Ostpommern".
+Found
+MODSMD_ARTICLE04: Große Vorbereitungen Zum Besuch des Führers in Rom.
+Found
+MODSMD_ARTICLE05: Neichsminister Darre im pontinischen Gebiet.
+Found
+MODSMD_ARTICLE06: Tie Konserenz der Rompaktmächtc.
+Found
+MODSMD_ARTICLE07: Amtliche Mitteilung über die Prager Besprechungen.
+Found
+MODSMD_ARTICLE08: Brand in der Bukarester Oesterreichischen Gesandtschaft.
+Found
+MODSMD_ARTICLE09: Wechsel in der Leitung des Lagers der Nationalen Einigung?
+Found
+MODSMD_ARTICLE10: USA.-Kriegsflotte soll weiter verstärkt werden.
+Found
+MODSMD_ARTICLE11: Verdächtige kommunistische Fragebogen in den USA.
+Found
+MODSMD_ARTICLE12: Der Kongreß lehnt die Lndlow-Entschließung ab.
+Found
+MODSMD_ARTICLE13: Die Ansprachen bei der Begegnung von Vargas und Justo.
+Found
+MODSMD_ARTICLE14: Schweres Flugzeugunglück in Argentinien.
+Found
+MODSMD_ARTICLE15: Erfolge des Finanzministers Mexikos in Washington.
+Found
+MODSMD_ARTICLE16: Die Einnahme von Tsingtau durch die Japaner.
+Found
+MODSMD_ARTICLE17: Australien sür Revision des Ottawaer Abkommens.
+Found

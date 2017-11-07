@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer empfing die Sieger vom Nürburgring.
+Found
+MODSMD_ARTICLE02: „Rheingold" in Anwesenheit des Führers.
+Found
+MODSMD_ARTICLE03: Finnlandreise deutscher Bauernführer.
+Found
+MODSMD_ARTICLE04: Sowjetrußland torpediert den britischen Plan.
+Found
+MODSMD_ARTICLE05: Eden beantwortet Spanien-Anfrage im Unterhaus.
+Found
+MODSMD_ARTICLE06: Der Londoner Flottenvertrag vor dem Oberhaus.
+Found
+MODSMD_ARTICLE07: Abschluß der Weltkirchenkonferenz in Oxford.
+Found
+MODSMD_ARTICLE08: König Carol von Rumänien in Brüssel.
+Found
+MODSMD_ARTICLE09: Die französische Regierung gegen Flußschifferstreik.
+Found
+MODSMD_ARTICLE10: Großmufti von Jerusalem verschanzt sich in einer Moschee.
+Found
+MODSMD_ARTICLE11: Freundschaftsabkommen zwischen Aegypten und der Türkei.
+Found

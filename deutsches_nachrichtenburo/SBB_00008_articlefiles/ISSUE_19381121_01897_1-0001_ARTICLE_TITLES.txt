@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Begnadigung durch den Führer.
+Found
+MODSMD_ARTICLE02: Botschafter Coulondre beim Reichsaußenminister.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Beschleunigte Aburteilung von Gangsterverbrechen.
+Found
+MODSMD_ARTICLE05: Italienische Studienkommission in Hamburg.
+Found
+MODSMD_ARTICLE06: Vortrag des Reichspostministers in Wien.
+Found
+MODSMD_ARTICLE07: Abgeordneter Schramek verschwindet.
+Found
+MODSMD_ARTICLE08: Francsis-Poucet am Grab des Unbekannten Soldaten.
+Found
+MODSMD_ARTICLE09: Politische Verhaftungen in Warschau.
+Found
+MODSMD_ARTICLE10: Für gänzliche Entfernung der Juden aus Polen.
+Found
+MODSMD_ARTICLE11: Campinchi über die Notwendigkeit der Notverordnungen.
+Found
+MODSMD_ARTICLE12: Die Opposition gegen die französische Regierung.
+Found
+MODSMD_ARTICLE13: Explosion in einer Synagoge in Rumänien.
+Found
+MODSMD_ARTICLE14: Die Beisetzungsfeierlichkeiten für Watürk.
+Found
+MODSMD_ARTICLE15: „Rüstnngsfieber Vorwand für nackten Imperialismus^
+Found
+MODSMD_ARTICLE16: Tie britische Aktionswelle in Palästina«
+Found
+MODSMD_ARTICLE17: Beginn einer neuen Offensive der Japaner in Sndchnm.
+Found

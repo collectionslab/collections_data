@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Englands und Frankreichs Sorgen.
+Found
+MODSMD_ARTICLE02: Das Volksdeutsche Bataillon in der Slowakei.
+Found
+MODSMD_ARTICLE03: Arbeitspflicht in den besetzten polnischen Gebieten.
+Found
+MODSMD_ARTICLE04: Frankreich fordert wirtschaftliche Hilfe Englands.
+Found
+MODSMD_ARTICLE05: Treibjagd auf „Defaitisten".
+Found
+MODSMD_ARTICLE06: Schweizer dürfen nicht bei Kriegführenden dienen.
+Found
+MODSMD_ARTICLE07: Kampf gegen England auf allen Meeren.
+Found
+MODSMD_ARTICLE08: Das Scheitern des belgisch-holländischen Friedensschrittes«
+Found
+MODSMD_ARTICLE09: Die Folgen der Mobilmachung in Frankreich.
+Found
+MODSMD_ARTICLE10: Ultimative indische Erklärung in London überreicht.
+Found
+MODSMD_ARTICLE11: Indien unter der Peitsche Englands.
+Found
+MODSMD_ARTICLE12: Die Annäherung zwischen Japan und Rußland.
+Found
+MODSMD_ARTICLE13: Fehlkonstruktion der neuesten amerikanischen Zerstörer.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: D-Zug Zusammenstoß im Bahnhof Gcnthin.
+Found
+MODSMD_ARTICLE02: Englands Sorgen.
+Found
+MODSMD_ARTICLE03: Vereinbarungen über den deutsch-lettischen Warenverkehr.
+Found
+MODSMD_ARTICLE04: Hörerrekord des deutschen Rundfunks.
+Found
+MODSMD_ARTICLE05: Das Fest der Wintersonnenwende in Posen.
+Found
+MODSMD_ARTICLE06: Die Schwierigkeiten im englischen Schiffsbau.
+Found
+MODSMD_ARTICLE07: Chamberlains Krieg.
+Found
+MODSMD_ARTICLE08: Starker Rückgang der holländischen Ein- und Aussuhr.
+Found
+MODSMD_ARTICLE09: Aufklärungsflüge über Nordfrankreich und Südengland.
+Found
+MODSMD_ARTICLE10: Schwedische Dampfer auf Minen gelaufen.
+Found
+MODSMD_ARTICLE11: Kapitalflucht in Schweden.
+Found
+MODSMD_ARTICLE12: Ungarischer Dampfer nach Malta verschleppt.
+Found
+MODSMD_ARTICLE13: „Keine besondere Bedeutung".
+Found
+MODSMD_ARTICLE14: England sucht Bauholz und Schiffe.
+Found
+MODSMD_ARTICLE15: Hochkonjunktur für die Flagge Panamas.
+Found
+MODSMD_ARTICLE16: Morgenthau gegen Roosedelts Steuererhöhungspläne.
+Found

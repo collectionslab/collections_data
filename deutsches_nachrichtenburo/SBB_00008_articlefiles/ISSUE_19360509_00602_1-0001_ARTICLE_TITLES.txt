@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Gärtner über das neue Patentrecht.
+Found
+MODSMD_ARTICLE02: „Hindenburg" beim Nantncket-Feuerschisf.
+Found
+MODSMD_ARTICLE03: Der Rigaer Deutsche Gewerbeverein bleibt bestehen.
+Found
+MODSMD_ARTICLE04: Die neue Verfassung in China verkündet.
+Found
+MODSMD_ARTICLE05: Scharfe Angriffe Churchills gegen englische Sanktionspolitik.
+Found
+MODSMD_ARTICLE06: Die diplomatischen Vertretungen in Abessinien.
+Found
+MODSMD_ARTICLE07: Die ersten Ausfuhrgüter aus Abessinien in Trieft.
+Found
+MODSMD_ARTICLE08: Ueberfall auf den Eisenbahnzug Addis Abeba—Dschibuti.
+Not Found
+MODSMD_ARTICLE09: Amtsantritt des neuen Präsidenten von Costarica.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Aufgaben der Neichsakademie für deutsche Jugendführung
+Found
+MODSMD_ARTICLE02: Internationale Akademie für Textilchemie und Koloristik.
+Found
+MODSMD_ARTICLE03: Dramatisches Rettungswerk eines deutschen Dampfers.
+Found
+MODSMD_ARTICLE04: Manöverschluß vor Malta.
+Found
+MODSMD_ARTICLE05: Lord Perth bei Ciano.
+Found
+MODSMD_ARTICLE06: Nachklänge des Führerbesuches in Italien.
+Found
+MODSMD_ARTICLE07: Polens neuer Botschafter in Rom eingetroffen.
+Found
+MODSMD_ARTICLE08: Warschauer Polizei verhaftete jüdische Kommunistin.
+Found
+MODSMD_ARTICLE09: Polnisches Minderheitenorgan beschlagnahmt.
+Found
+MODSMD_ARTICLE10: Unzufriedenheit der Slowaken.
+Found
+MODSMD_ARTICLE11: „Ein plötzlicher Anfall von Sinnesverwirrung."
+Found
+MODSMD_ARTICLE12: Ein dreister Umfälschungsversuch.
+Found
+MODSMD_ARTICLE13: Schärfste Kampfansage Hlinkas an Prag.
+Found
+MODSMD_ARTICLE14: Prag führte Kaufzwang für Gasmasken ein.
+Found
+MODSMD_ARTICLE15: Rücktritt des französischen Sandschak-Kommiffars.
+Found
+MODSMD_ARTICLE16: Der Zusammenstoß an der Grenze von Ecuador und Peru.
+Found

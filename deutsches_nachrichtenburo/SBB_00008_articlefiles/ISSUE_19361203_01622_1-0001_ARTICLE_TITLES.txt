@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Staatssekretär Reinhardt zur Nealsteuerreform.
+Found
+MODSMD_ARTICLE02: Vereinheitlichung der Realsteuern und Vereinfachung des Steuerwesens.
+Found
+MODSMD_ARTICLE03: Neugestaltung der Lastenverteiluug, der Ausgabenverteilung und des Finanzausgleichs.
+Found
+MODSMD_ARTICLE04: Realsteuerresorm als Voraussetzung für »weitere Neugestaltung des Reiches.
+Not Found
+MODSMD_ARTICLE05: Verwaltungsverfahren und Abgrenzung der Verwaltungs- Zuständigkeiten.
+Found
+MODSMD_ARTICLE06: Höhe der Grundsteuer und der Gewerbesteuer Belastungsverschiebungen.
+Found
+MODSMD_ARTICLE07: Besteuerungsgrundlagen und Steuerbeträge.
+Found
+MODSMD_ARTICLE08: Steuerbefreiung des Neuhausbesitzes, insbesondere der Arbeiterwohnstätten.
+Found

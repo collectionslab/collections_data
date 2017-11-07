@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Das Erziehuugsideal der deutscheu Frau im Dritten Reich.
+Found
+MODSMD_ARTICLE02: Empfang des Befehlshabers! der italienischen Schulschiffe.
+Found
+MODSMD_ARTICLE03: Tschechen benehmen sich weiter roh und ungezügelt.
+Found
+MODSMD_ARTICLE04: Untersuchung der tschechischen Provokationen in Gabersdors.
+Found
+MODSMD_ARTICLE05: D> plomatcnempsang bei Krofta.
+Found
+MODSMD_ARTICLE06: Ministerratssitzungen in Prag.
+Found
+MODSMD_ARTICLE07: Splittergruppen sprechen beim Stabe Lord Runcimans vor.
+Found
+MODSMD_ARTICLE08: Chamberlain fährt Zum König.
+Found
+MODSMD_ARTICLE09: London möchte nicht als parteiisch gelten.
+Found
+MODSMD_ARTICLE10: Reuter über maßgebliche Faktoren des Tschechenproblems.
+Found
+MODSMD_ARTICLE11: Befürchtungen der englischen Presse verringert.
+Found
+MODSMD_ARTICLE12: Politik des „Eisernen Korsetts" heute nicht mehr möglich!
+Found
+MODSMD_ARTICLE13: Marschall Graziani auf der Heimreise.
+Found
+MODSMD_ARTICLE14: Der deutsche Gesandte in Belgrad bei Dr. Stojadinowitsch.
+Found
+MODSMD_ARTICLE15: Geburtsschloß des Königs Zogu Nationaldenkmal.
+Found
+MODSMD_ARTICLE16: Hull informiert Präsident Roosevelt.
+Found
+MODSMD_ARTICLE17: Die bolschewistische Spinne über USA.
+Found

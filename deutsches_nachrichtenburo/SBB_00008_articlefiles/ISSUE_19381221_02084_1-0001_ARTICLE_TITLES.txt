@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Tie Rassengesetze vom italienischen Senat angenommen.
+Found
+MODSMD_ARTICLE02: „Gioruale tüJtalia" zu den Erklärungen Bonnets.
+Found
+MODSMD_ARTICLE03: Tie französische Kammeraussprache.
+Found
+MODSMD_ARTICLE04: Kommunist Marth durchgefallen.
+Found
+MODSMD_ARTICLE05: Manöver an der „Maginot-Linie von Tunis".
+Found
+MODSMD_ARTICLE06: Der englische Freiwillige Nationale Dienst und seine Ziele.
+Found
+MODSMD_ARTICLE07: Tagung des neuen Aufrüstungsausschusses in London.
+Found
+MODSMD_ARTICLE08: Der Papst soll Weihnachtsfrieden für Barcelona vermitteln.
+Found
+MODSMD_ARTICLE09: Der mandschurische Gesandte bei General Francs.
+Found
+MODSMD_ARTICLE10: Das Gesamtergebnis der Kommunalwahlen in Polen.
+Found
+MODSMD_ARTICLE11: Der neue GPU-Chef will noch Jeschow schlagen.
+Found
+MODSMD_ARTICLE12: Warenaustausch zwischen Polen und Sowjetrußland.
+Found
+MODSMD_ARTICLE13: Jahresbericht der schwedischen Kriegsmarine.
+Found
+MODSMD_ARTICLE14: La Guardia wurde auf offener Straße niedergeschlagen.
+Found
+MODSMD_ARTICLE15: Wichtige Probleme in Lima ungeklärt.
+Found
+MODSMD_ARTICLE16: Empfang zu Ehren des deutschen Botschafters.
+Found
+MODSMD_ARTICLE17: Keine Einreisevisen für politische Emigranten.
+Found
+MODSMD_ARTICLE18: Hamburger Autobandit zum Tode verurteilt.
+Found
+MODSMD_ARTICLE19: Der jüdische Millionenschieber Bösel.
+Found

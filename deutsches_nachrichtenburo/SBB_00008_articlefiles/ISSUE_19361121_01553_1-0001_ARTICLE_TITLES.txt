@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: General Gaupel deutscher Geschäftsträger in Salamanca.
+Found
+MODSMD_ARTICLE02: Eröffnung der Ausstellung „Das politische Deutschland".
+Found
+MODSMD_ARTICLE03: Tie Tagung der Forschungsabteilung Judenfrage.
+Found
+MODSMD_ARTICLE04: Erste Reichsautobahnkreuzung im Verkehr.
+Found
+MODSMD_ARTICLE05: Erleichterung des Kraftfahrzeugverkehrs nach Teutschland.
+Found
+MODSMD_ARTICLE06: Staatssekretär Dr. Schmidt in der Auslands-Organisation.
+Found
+MODSMD_ARTICLE07: General Kilian Astray Presseleiter der Nationalen.
+Found
+MODSMD_ARTICLE08: Befriedigung in Wien über den Besuch Dr. Schmidts.
+Found
+MODSMD_ARTICLE09: Einschränkung der Warenhausbetriebe in Oesterreich.
+Found
+MODSMD_ARTICLE10: Verhaftungen in Sofia.
+Found
+MODSMD_ARTICLE11: Frauen von Rotmordkommandos zum Kampf gezwungen.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Danktelegramm General Rrancos an Rudolf Heß.
+Found
+MODSMD_ARTICLE02: Hamburg baut eine neue Sielaulage.
+Found
+MODSMD_ARTICLE03: Die NSKK.-Männer in Budapest.
+Found
+MODSMD_ARTICLE04: Keine Abwertung des Schilling.
+Found
+MODSMD_ARTICLE05: Eine Treue-Erklärung für Starhemberg.
+Found
+MODSMD_ARTICLE06: Keine Aenderung der polnischen Währungspolitik.
+Found
+MODSMD_ARTICLE07: Französische Währungsvorlage endgültig verabschiedet.
+Found
+MODSMD_ARTICLE08: Der Parteitag der englischen Konservativen.
+Found
+MODSMD_ARTICLE09: Arbeiterparteiliche Kritik an der Rede Hoares.
+Found
+MODSMD_ARTICLE10: Francois-Poncet bei Präsident Lebrun.
+Found
+MODSMD_ARTICLE11: Vor Beseitigung der Sträflingskolonie Cayenne.
+Found
+MODSMD_ARTICLE12: Handelskammerpräsident Clark für Handelsvertragsrevision.
+Found
+MODSMD_ARTICLE13: 20 belgische Bergarbeiter verschüttet.
+Found
+MODSMD_ARTICLE14: Wieder ein sowjetrussischer Volkskommissar abgesetzt.
+Found
+MODSMD_ARTICLE15: Antibolschewistische Massenkundgebung in Budapest.
+Found
+MODSMD_ARTICLE16: „Antibolschewistische Ungarische Liga" gegründet.
+Found
+MODSMD_ARTICLE17: Ungarns Nichtteilnahme am Abrüstungsausschuß.
+Found
+MODSMD_ARTICLE18: Die Reise Pacellis nach den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE19: 30 Verletzte bei Streikunruhen in Pennsylvanien.
+Found

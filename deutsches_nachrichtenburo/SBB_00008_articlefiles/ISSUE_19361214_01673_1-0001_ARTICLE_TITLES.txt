@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm des Führers an König Georg VI.
+Found
+MODSMD_ARTICLE02: Eine englische Stimme zur Kolvnialrede Schachts.
+Found
+MODSMD_ARTICLE03: Katholizismus und Kommunismus.
+Found
+MODSMD_ARTICLE04: Präsident Svinhufvud 75 Jahre.
+Found
+MODSMD_ARTICLE05: Schwedische Marxisten für die internationale Brigade.
+Found
+MODSMD_ARTICLE06: De la Rocque protestiert gegen die Regierung.
+Found
+MODSMD_ARTICLE07: Frankreichs Verteidigungsanlagen.
+Found
+MODSMD_ARTICLE08: Die französische Presse über die Ereignisse in China.
+Found
+MODSMD_ARTICLE09: „Em Kampf zwischen Gut und Böse".
+Found
+MODSMD_ARTICLE10: „Matin" über die sowjetrussische Einmischung in Spanien.
+Found
+MODSMD_ARTICLE11: Um die Wiederdeschaffung der spanischen Kunstschätze.
+Found
+MODSMD_ARTICLE12: Jnönn fordert die Unabhängigkeit des Sandschak.
+Found
+MODSMD_ARTICLE13: Tie Lage in China.
+Found
+MODSMD_ARTICLE14: Konferenz beim Kaiser von Japan.
+Found

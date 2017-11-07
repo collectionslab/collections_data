@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Unterredung eines Franzosen mit dem Führer.
+Found
+MODSMD_ARTICLE02: Was geht in Mährisch-Ostrau vor?
+Found
+MODSMD_ARTICLE03: Sowjetrussisches Flugzeug am Nordpol.
+Found
+MODSMD_ARTICLE04: Die Presse zu den französisch-belgischen Besprechungen.
+Found
+MODSMD_ARTICLE05: Die Arbeitslosigkeit in Amerika.
+Found

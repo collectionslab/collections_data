@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: „Deutschland nicht mehr der Packesel Europas."
+Found
+MODSMD_ARTICLE02: Empfang für den ungarischen Justizminister.
+Found
+MODSMD_ARTICLE03: Oesterreichische Künstler als Gäste Alfred Rosenbergs.
+Found
+MODSMD_ARTICLE04: Reichswirtschaftsminister Funk in Hamburg.
+Found
+MODSMD_ARTICLE05: Raeder besichtigt die Donauslottille.
+Found
+MODSMD_ARTICLE06: Reichsnmnster Darre in Graz.
+Found
+MODSMD_ARTICLE07: Die SdP. stellt die drei Bürgermeister von Gablonz.
+Found
+MODSMD_ARTICLE08: Der französische Präsident empfängt Graf von Welczeck.
+Found
+MODSMD_ARTICLE09: Gemeinsame französisch-türkische Verwaltung des Saudschak,
+Found
+MODSMD_ARTICLE10: Im Flugzeug über der Wasserwüste des Hoaugho.
+Found

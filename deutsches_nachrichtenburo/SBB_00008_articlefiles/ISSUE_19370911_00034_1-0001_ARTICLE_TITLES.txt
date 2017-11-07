@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Parteitag Der Arbeit.
+Found
+MODSMD_ARTICLE02: Tie Betreuung der berufstätigen Frau.
+Found
+MODSMD_ARTICLE03: Die Frauen als Helferinnen in der Not.
+Found
+MODSMD_ARTICLE04: Die Jugendgruppen der NS-Frauenschast.
+Found
+MODSMD_ARTICLE05: Das Leistungsbuch des Deutschen Frauenwerks.
+Found
+MODSMD_ARTICLE06: Die deutschen Frauen danken dem Führer.
+Found
+MODSMD_ARTICLE07: Der Führer spricht.
+Found
+MODSMD_ARTICLE08: Feierstunde im HJ.-Lager.
+Found

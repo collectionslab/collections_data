@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die spanischen Ehrengäste bei der Falange Espaüola.
+Found
+MODSMD_ARTICLE02: Enge sportliche Beziehungen Teutschland—Spanien.
+Not Found
+MODSMD_ARTICLE03: Der Neichsjugendführer empfing ausländische Gäste.
+Found
+MODSMD_ARTICLE04: Ruft für Schulgeldfreiheit.
+Found
+MODSMD_ARTICLE05: Eröffnung des Reichsentscheids im Reichsberufswettkampf.
+Found
+MODSMD_ARTICLE06: Der Auftakt zur Hebbelwoche in Bochum.
+Found
+MODSMD_ARTICLE07: Deutsche Auszeichnung für Armeegeneral Neditsch.
+Found
+MODSMD_ARTICLE08: Rumäniens Anteilnahme am Geburtstag des Führers.
+Found
+MODSMD_ARTICLE09: „Ein Unbekannter ist zur Seele seiner Nation geworden."
+Found
+MODSMD_ARTICLE10: Gafencu über seinen Besuch in Berlin.
+Found
+MODSMD_ARTICLE11: Ter neue Dreh der Einkreiser!
+Found
+MODSMD_ARTICLE12: Französische Kommunisten überfielen nationalspanische Feier.
+Found
+MODSMD_ARTICLE13: Enge Verbundenheit Bilbao—Köln.
+Not Found
+MODSMD_ARTICLE14: Vor der großen Siegesparade in Madrid.
+Found
+MODSMD_ARTICLE15: Der Abschluß der Besprechungen Ciano—Markowitsch.
+Not Found
+MODSMD_ARTICLE16: Die chinesische April-Offensive erfolglos.
+Found
+MODSMD_ARTICLE17: Streik in Chile.
+Found

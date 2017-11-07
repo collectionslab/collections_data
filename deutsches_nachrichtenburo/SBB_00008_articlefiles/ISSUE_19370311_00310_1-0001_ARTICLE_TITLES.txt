@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Manacorda über „Lehre und Kritik des Kommunismus".
+Found
+MODSMD_ARTICLE02: Fünf Juden in Polen verurteilt.
+Found
+MODSMD_ARTICLE03: Streik im polnisch-ostoberschlesischen Bergbau?
+Found
+MODSMD_ARTICLE04: Erneute Ablehnung des Lodzer Stadtpräsidenten.
+Found
+MODSMD_ARTICLE05: „Uj Magyarsag" entlarvt die jüdische Pressehetze.
+Found
+MODSMD_ARTICLE06: Schwedisches Gegenstück zur Stauning-Rede.
+Found
+MODSMD_ARTICLE07: Ein Warnruf nach der Londoner Stadtratswahl.
+Found
+MODSMD_ARTICLE08: Kommunistische Einflüsse beim schottischen Autobus-Streik.
+Found
+MODSMD_ARTICLE09: Teilweise Einigung im Seemannsstreik von Bordeaux.
+Found
+MODSMD_ARTICLE10: Die Kontrolle der spanisch-portugiesischen Grenze.
+Found
+MODSMD_ARTICLE11: Amtliche Mitteilung über die „Mar Cantabrico".
+Found
+MODSMD_ARTICLE12: Ersatz für das Luftschiff „Los Angeles" gefordert.
+Found
+MODSMD_ARTICLE13: New Uorker Fürsorgeämter durch Erwerbslose besetzt.
+Found
+MODSMD_ARTICLE14: Senator Nye widerlegt Morgan.
+Found

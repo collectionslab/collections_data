@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Gedächtnisschau für Friedrich Wilhelm I.
+Found
+MODSMD_ARTICLE02: Ostmark-Reise Dr. Fricks.
+Found
+MODSMD_ARTICLE03: General Milch über die Auswirkungen des Rekordfluges.
+Found
+MODSMD_ARTICLE04: Das Ausland zum „Condor"-Rekord.
+Found
+MODSMD_ARTICLE05: Die Eintopfspende in Nationalspanien.
+Found
+MODSMD_ARTICLE06: Immer neue Todesurteile in Rotspanien.
+Found
+MODSMD_ARTICLE07: Die neuen Steuergesetze in Aegypten.
+Found
+MODSMD_ARTICLE08: Britischer Ossizier in Palästina getötet.
+Found
+MODSMD_ARTICLE09: Herzliche Verabschiedung der HJ.-Führer in Schanghai.
+Found
+MODSMD_ARTICLE10: Neuer Friedensbeitrag Japans.
+Found
+MODSMD_ARTICLE11: Eifrige Wühltätigkeit der Komintern in den USA.
+Found

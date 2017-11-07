@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Gauinspektion des Gaues Düsseldorf durch Dr. Ley.
+Found
+MODSMD_ARTICLE02: Gauleiter Büeckes sprach zu seinem neuen Gau.
+Found
+MODSMD_ARTICLE03: Wie die Roten in Gerona hausten.
+Found
+MODSMD_ARTICLE04: 400 kostbare Gemälde über die Grenze geschafft.
+Found
+MODSMD_ARTICLE05: Notspanische Milizen wollen nach Nationalspanien.
+Found
+MODSMD_ARTICLE06: Der rotspanische „Staatspräsident" in Frankreich.
+Found
+MODSMD_ARTICLE07: Rotspanische Flieger flüchten nach Frankreich.
+Found
+MODSMD_ARTICLE08: Polnisches Militärblatt über Francas Truppen.
+Found
+MODSMD_ARTICLE09: Der Faschistische Großrat zur Führerrede.
+Found
+MODSMD_ARTICLE10: Tie Solidarität Deutschlands und Italiens.
+Found
+MODSMD_ARTICLE11: Viktor Emanuel 111. empfing den finnischen Gesandten.
+Found
+MODSMD_ARTICLE12: Schweres Verbrechen eines Pfarrers bei Bukarest.
+Found
+MODSMD_ARTICLE13: Vertiefte Freundschaft der Autikommternmächte.
+Found
+MODSMD_ARTICLE14: Eine Umfrage über die amerikanische Außenpolitik.
+Found

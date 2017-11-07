@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Französische Gäste in Berlin,
+Found
+MODSMD_ARTICLE02: Ernennungen im Reichsluftfahrtministerium.
+Found
+MODSMD_ARTICLE03: Luftsperre über Ostfriesland und den Ostfriesischen Inseln.
+Found
+MODSMD_ARTICLE04: Kreuzer „Karlsruhe" wieder daheim.
+Found
+MODSMD_ARTICLE05: Die Münchener Fortsetzung des Gemeindekongresses.
+Found
+MODSMD_ARTICLE06: Ein großer Teil der Ausständigen streikmüde.
+Found
+MODSMD_ARTICLE07: Die 4V Stunden-Woche von der Kammer angenommen.
+Found
+MODSMD_ARTICLE08: 148 Millionen für Schwedens Landesverteidigung.
+Found
+MODSMD_ARTICLE09: Neue Ueberfalle in Palästina.
+Found
+MODSMD_ARTICLE10: Das Parteiprogramm der Republikaner.
+Found

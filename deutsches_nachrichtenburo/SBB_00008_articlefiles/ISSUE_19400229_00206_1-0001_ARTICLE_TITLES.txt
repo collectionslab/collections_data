@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Oberst Bodini in Berlin.
+Found
+MODSMD_ARTICLE02: Oberst Bodini vom Reichsaußenminister empfangen.
+Found
+MODSMD_ARTICLE03: Sano Mach in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE04: Abschluß der Kriegstagung der deutschen Presse.
+Found
+MODSMD_ARTICLE05: Bundespräsident Dr. Hainisch gestorben.
+Found
+MODSMD_ARTICLE06: Schweres Grubenunglück bei Trieft.
+Found
+MODSMD_ARTICLE07: Italien zur Goebbels-Rede.
+Found
+MODSMD_ARTICLE08: Unsanfte Abfuhr für den Lügenlord.
+Found
+MODSMD_ARTICLE09: „Englands Postraub ist Spionage".
+Found
+MODSMD_ARTICLE10: Jugoslawischer Protest gegen „schwarze Listen".
+Found
+MODSMD_ARTICLE11: Der Wehrmachtsbericht.
+Found
+MODSMD_ARTICLE12: In zwei Fernunternehmungen 89 999 BRT versenkt.
+Found
+MODSMD_ARTICLE13: Chamberlain treibt „Landwirtschaftspolitik".
+Found
+MODSMD_ARTICLE14: Die 9 Deutschen der „Asama Maru" in Jokohama.
+Found
+MODSMD_ARTICLE15: Das Ziel der INA: Vernichtung des Empire.
+Found
+MODSMD_ARTICLE16: Vollstreckung eines Todesurteils.
+Found

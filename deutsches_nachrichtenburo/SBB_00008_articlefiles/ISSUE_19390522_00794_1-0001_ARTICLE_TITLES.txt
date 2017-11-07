@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Höhepunkt der Reichsmusiktage.
+Found
+MODSMD_ARTICLE02: Gründungsfeier der Deutsch-Jugoslawischen Gesellschaft.
+Found
+MODSMD_ARTICLE03: Gründung eines internationalen Juristenverbandes.
+Found
+MODSMD_ARTICLE04: Der Führer empfing Litauens Außenminister.
+Found
+MODSMD_ARTICLE05: Der Führer dankt den Rechtswahrern für das Treuegelöbnis.
+Found
+MODSMD_ARTICLE06: Abschluß der Besichtigungsreise Mussolinis in Piemont.
+Found
+MODSMD_ARTICLE07: Die argentinische Presse zur Madrider Siegesparade.
+Found

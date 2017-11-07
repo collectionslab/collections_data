@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Nacht-Ausgabe. deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Die Volksdeutschen gegen die slowakische VolksWhlung.
+Found
+MODSMD_ARTICLE04: Sokol alleinige staatliche Erziehungsorganisation.
+Found
+MODSMD_ARTICLE05: Die Juden- und Emigranteufrage in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE06: Bodenlose jüdische Frechheit.
+Found
+MODSMD_ARTICLE07: Ariernachweise am laufenden Band.
+Found
+MODSMD_ARTICLE08: Der zweite ungarische ludcngesetzentwurf fertiggestellt.
+Found
+MODSMD_ARTICLE09: Graf Cianos Besuch in Warschau.
+Found
+MODSMD_ARTICLE10: Jüdischer Großschieber in Bentschen verhaftet.
+Found
+MODSMD_ARTICLE11: Tie sowjetrussische Wald- und Holzindustrie.
+Found
+MODSMD_ARTICLE12: Die Rom-Reise der britischen Minister.
+Found
+MODSMD_ARTICLE13: Belgische Goldreserven in der Bank von England.
+Found
+MODSMD_ARTICLE14: Ergreifende Gedächtnisseier in Santander.
+Found
+MODSMD_ARTICLE15: Im brennenden Dorf eingeschlossen.
+Found
+MODSMD_ARTICLE16: Andauernder Vormarsch trotz Regens und Hochwassers.
+Found
+MODSMD_ARTICLE17: Arabischer Geschäftsstreik in Jerusalem.
+Found
+MODSMD_ARTICLE18: Die Araber sollen ausgehungert werden.
+Found
+MODSMD_ARTICLE19: Moralische Folge der „Säuberungen".
+Found
+MODSMD_ARTICLE20: Wechsel auf dem Posten des türkischen Justizministers.
+Found
+MODSMD_ARTICLE21: Kanadische Flugzeugsabrik in Mexiko.
+Found
+MODSMD_ARTICLE22: Vereinheitlichung der Währung in Nordchina.
+Found

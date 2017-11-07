@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Politische Kundgebung in Hamburg.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Goebbels spricht.
+Found
+MODSMD_ARTICLE03: Die Welt.qefahr des Bolschewismus.
+Found
+MODSMD_ARTICLE04: Einheit von Kartei, Staat und Wehrmacht.
+Found
+MODSMD_ARTICLE05: Der Führer das große Vorbild.
+Found
+MODSMD_ARTICLE06: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE07: Weißbuch über Körperertüchtigung in England.
+Found
+MODSMD_ARTICLE08: Englischer Parlamentarier über Spanien.
+Found
+MODSMD_ARTICLE09: Regelmäßige Freiwilligentransporte von Bordeaux!
+Found
+MODSMD_ARTICLE10: Maßnahmen gegen Abtreibung in Frankreich gefordert.
+Found
+MODSMD_ARTICLE11: Dänische Wehrordnung vor dem Folketing.
+Found
+MODSMD_ARTICLE12: Norwegischer Dampfer mit Freiwilligen gesunken.
+Found

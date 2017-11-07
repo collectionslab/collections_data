@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die Kommunistische Partei in Danzig bleibt verboten.
+Found
+MODSMD_ARTICLE02: Die schwedische Regierung zurückgetreten.
+Found
+MODSMD_ARTICLE03: Italienische Besorgnisse.
+Found
+MODSMD_ARTICLE04: Der kommunistische Abgeordnete Lüttichs im Gefängnis.
+Found
+MODSMD_ARTICLE05: Einzelheiten zum Ostender Waffenschmuggel.
+Found
+MODSMD_ARTICLE06: Französischer Dampfer von rotem Torpedoboot angehalten.
+Found
+MODSMD_ARTICLE07: Barcelona ruft Nordafrika zur Revolution auf.
+Found
+MODSMD_ARTICLE08: Zyromski protestiert und tritt zurück.
+Found
+MODSMD_ARTICLE09: Ministerpräsident Salazar über die Haltung Portugals.
+Found
+MODSMD_ARTICLE10: Todesurteil gegen Alonso bestätigt.
+Found
+MODSMD_ARTICLE11: 12 Erschießungen in Lerida.
+Found
+MODSMD_ARTICLE12: Marxisten erschießen 1W Gefangene in Malaga.
+Found
+MODSMD_ARTICLE13: Strategische Defensive.
+Found

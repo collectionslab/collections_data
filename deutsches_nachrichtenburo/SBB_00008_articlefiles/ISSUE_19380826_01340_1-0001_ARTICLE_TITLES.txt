@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Horthy am Grabe Friedrichs des Großem
+Found
+MODSMD_ARTICLE02: Die VI. Reichstagung der Auslandsdeutschen.
+Found
+MODSMD_ARTICLE03: Polnischer Rundfunk unter neuer Leitung.
+Found
+MODSMD_ARTICLE04: Selbsthilfe Liudberghs.gegeu GPU.-Bespitzelung.
+Found
+MODSMD_ARTICLE05: New Aorker Blätter über die Parade in Berlin.
+Found
+MODSMD_ARTICLE06: Scharfe Sprache der Vereinigten Staaten gegen Mexiko.
+Found
+MODSMD_ARTICLE07: Seit Wochen wilder Bandenkrieg in Chicago.
+Found
+MODSMD_ARTICLE08: Der Episkopat Chiles ermahnt den Klerus.
+Found
+MODSMD_ARTICLE09: Jüdisches Attentat in Jaffa.
+Found
+MODSMD_ARTICLE10: Englands Methoden in Palästina.
+Found
+MODSMD_ARTICLE11: Japan und der zivile Lustverkehr in China.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Starker Erfolg des deutscheu Liederabends in Paris.
+Found
+MODSMD_ARTICLE02: MittelmeerkonferenZ am 19. September?
+Found
+MODSMD_ARTICLE03: „Eine gewaltige Realität."
+Found
+MODSMD_ARTICLE04: „Das englische Volk wird an der Nase herumgeführt."
+Found
+MODSMD_ARTICLE05: Englische Kommunisten kehren aus Sowjetspanien zurück.
+Found
+MODSMD_ARTICLE06: Weiterer Bormarsch an der Küste.
+Found
+MODSMD_ARTICLE07: Verwundete Spanienkämpfer wieder in Italien.
+Found
+MODSMD_ARTICLE08: Argentinischer Staatsbesuch in Rio de Janeiro.
+Found
+MODSMD_ARTICLE09: Wilhelm Filchner wieder auf freiem Fuß.
+Found
+MODSMD_ARTICLE10: Der neue japanische Vorstost gegen Schanghai eingeleitet.
+Found
+MODSMD_ARTICLE11: Fürst Konoe vor dem japanischen Reichstag.
+Found
+MODSMD_ARTICLE12: Ausdehnung der japanischen Ueberwachungszone.
+Found
+MODSMD_ARTICLE13: Paoschan von den Japanern eingenommen.
+Found
+MODSMD_ARTICLE14: Sowjetrussischer Uebergriss an der Küste von Korea.
+Found

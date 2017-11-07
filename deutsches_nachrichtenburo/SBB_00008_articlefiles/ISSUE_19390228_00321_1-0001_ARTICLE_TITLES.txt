@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Frühstück zu Ehren des Marquis Jnouye.
+Found
+MODSMD_ARTICLE02: General Elles zu Besuch in Berlin.
+Found
+MODSMD_ARTICLE03: Dr. Lammers eröffnet die Berwaltungsakademie Reichenberg
+Found
+MODSMD_ARTICLE04: Tie Reichsfrauenführerin bei der Königin von Italien.
+Found
+MODSMD_ARTICLE05: Musikabend in der deutschen Gesandtschaft in Athen.
+Found
+MODSMD_ARTICLE06: Der bulgarische König in Belgrad.
+Found
+MODSMD_ARTICLE07: Ungarisch—tschecho-slowakisches Uebereinkommen.
+Found
+MODSMD_ARTICLE08: Soudan mit der Bildung des Kabinetts beauftragt.
+Found
+MODSMD_ARTICLE09: Das Rücktrittsschreiben AZanas.
+Found
+MODSMD_ARTICLE10: Die Formalitäten der Anerkennung Fraucos durch Paris.
+Found
+MODSMD_ARTICLE11: Die rotspanische Vertretung! in Paris.
+Found
+MODSMD_ARTICLE12: Die Dominien mit der Anerkennung Francos einverstanden.
+Found
+MODSMD_ARTICLE13: Die rotspanische Vertretung in London geräumt.
+Found
+MODSMD_ARTICLE14: Erhöhung der Ausgaben für die britische Flotte.
+Found
+MODSMD_ARTICLE15: 24 Staaten haben General Franca anerkannt.
+Found
+MODSMD_ARTICLE16: Anerkennung Francas durch die Nord-Länder.
+Found
+MODSMD_ARTICLE17: Ausgehverbot über Judenviertel von Jerusalem verhängt.
+Found
+MODSMD_ARTICLE18: Generalstreik in Haifa.
+Found
+MODSMD_ARTICLE19: Die Vorbedingung für alle kommenden Verhandlungen.
+Found
+MODSMD_ARTICLE20: Japan zieht 9 Konsulate in Mandschukuo ein.
+Found
+MODSMD_ARTICLE21: Jugendorganisation in Brasilien gefordert.
+Found
+MODSMD_ARTICLE22: Kennziffer für die Lebenshaltungskosten im Februar.
+Found

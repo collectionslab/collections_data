@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Deutscher Dampfer von Sowjet-Schiff augehalten.
+Found
+MODSMD_ARTICLE03: Wie lange noch Politik der Gasse?
+Found
+MODSMD_ARTICLE04: Reichsdeutscher von den Tschechen ausgewiesen.
+Found
+MODSMD_ARTICLE05: Liquidierung der Vorfälle von Mährisch-Ostrau?
+Found
+MODSMD_ARTICLE06: Die sudetendeutsche „Zeit" wieder beschlagnahmt.
+Found
+MODSMD_ARTICLE07: Zustimmung zum „Times"-Borsch!ag.
+Found
+MODSMD_ARTICLE08: „Organisation des deutschen Handels beispielhaft."
+Found
+MODSMD_ARTICLE09: Neuer lettischer Gesandter in Warschau beglaubigt.
+Found
+MODSMD_ARTICLE10: Trieft erwartet Mussolini.
+Found
+MODSMD_ARTICLE11: Rumänische Grenze für Juden gesperrt.
+Found
+MODSMD_ARTICLE12: Was will Litwinow-Finkelstein in Paris?
+Found
+MODSMD_ARTICLE13: Pariser Brotpreis steigt weiter.
+Found
+MODSMD_ARTICLE14: Rotspanisches Kriegsschiff im Hasen von Gibraltar.
+Found
+MODSMD_ARTICLE15: Weitere nationalspanische Fortschritte.
+Found
+MODSMD_ARTICLE16: Das Bürgermeisteramt in Jaffa überfallen.
+Found
+MODSMD_ARTICLE17: Amerika kontrolliert ausländische Propagandisten.
+Found
+MODSMD_ARTICLE18: Warenhausstreik in San Francisco.
+Found
+MODSMD_ARTICLE19: Neuer Präsident des Kongresses von Costarica.
+Found

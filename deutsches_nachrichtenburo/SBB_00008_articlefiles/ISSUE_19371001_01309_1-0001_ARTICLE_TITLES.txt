@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Aus der Diplomatie
+Found
+MODSMD_ARTICLE02: Das Erntedankfest des deutschen Volkes.
+Found
+MODSMD_ARTICLE03: Erfolg der Berliner Philharmoniker in Stockholm.
+Found
+MODSMD_ARTICLE04: Neues Gebäude für die Deutsche Botschaft in Washington.
+Found
+MODSMD_ARTICLE05: Der Abwehrkampf der Jugend Polens gegen die Juden.
+Found
+MODSMD_ARTICLE06: Polnische Rechtsanwälte fordern Arierparagrapheen.
+Found
+MODSMD_ARTICLE07: Litauen behält die Devisenbewirtschaftung bei.
+Found
+MODSMD_ARTICLE08: Bolschewistische Intrigen in Genf.
+Found
+MODSMD_ARTICLE09: Cecil über die Aufgaben des Völkerbundes.
+Found
+MODSMD_ARTICLE10: Englisch-französische Drohungen.
+Found
+MODSMD_ARTICLE11: Protestversammlung in London gegen Japan.
+Found
+MODSMD_ARTICLE12: Eden auf Erholungsurlaub.
+Found
+MODSMD_ARTICLE13: „Journal" warnt vor Vogel-Strauß-Politik.
+Found
+MODSMD_ARTICLE14: Delbos bringt Krofta nach Paris mit.
+Found
+MODSMD_ARTICLE15: Die Kunstschätze Gijons verschleppt.
+Found
+MODSMD_ARTICLE16: Weitere Erfolge an der Asturien-Front.
+Found
+MODSMD_ARTICLE17: Roosevelt besucht Kanada.
+Found
+MODSMD_ARTICLE18: Rascher Vormarsch des japanischen rechten Flügels.
+Found
+MODSMD_ARTICLE19: Japans Kampf ein Kampf gegen den Kommunismus.
+Found

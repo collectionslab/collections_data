@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Dr. Ley zum Gruppenführer im NS.-Wegerkorps ernannt.
+Found
+MODSMD_ARTICLE02: Geheimrat Schmitz im Verwaltungsrat der BIZ.
+Found
+MODSMD_ARTICLE03: Minister Steenberghe besucht die Leipziger Messe.
+Found
+MODSMD_ARTICLE04: Neuer Chef des Kulturamtes der Reichsjugendführung.
+Found
+MODSMD_ARTICLE05: Vor einem Jahr Heimkehr der Ostmark.
+Found
+MODSMD_ARTICLE06: Dr. Ley über die deutsche Volkwerdung.
+Found
+MODSMD_ARTICLE07: Der Schweizer Bundesrat geggn Hetzer.
+Found
+MODSMD_ARTICLE08: Preßburg vertritt seinen Standpunkt gegenüber Prag.
+Found
+MODSMD_ARTICLE09: Blutbad in Madrid.
+Found
+MODSMD_ARTICLE10: „Die letzten Zuckungen eines sich auflösenden Systems."
+Found
+MODSMD_ARTICLE11: Staatsbegräbnis für Miron Cristea.
+Found
+MODSMD_ARTICLE12: Massenkündigungen italienischer Arbeiter in Tunis.
+Found
+MODSMD_ARTICLE13: Kein Vertrauensmann der Engländer beim Mufiü^-^.^
+Found
+MODSMD_ARTICLE14: Einmonatiges Verbot für das Zentralorgan der Wafd-Partei.
+Found
+MODSMD_ARTICLE15: Der Wahlspruch des ägyptischen Heeres.
+Found
+MODSMD_ARTICLE16: Erfolgreiche Angriffe japanischer Bombenstaffeln.
+Found
+MODSMD_ARTICLE17: Vargas warnt vor Moskaus Schleichmethoden.
+Found

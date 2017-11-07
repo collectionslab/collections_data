@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Das Weltecho der Führerrede.
+Found
+MODSMD_ARTICLE02: Bulgarien
+Found
+MODSMD_ARTICLE03: Litauen
+Found
+MODSMD_ARTICLE04: Lettland
+Found
+MODSMD_ARTICLE05: Eftland
+Found
+MODSMD_ARTICLE06: Vereinigte Staaten
+Found
+MODSMD_ARTICLE07: Prager Feststellungen zur Lügenhetze des Auslandes.
+Found
+MODSMD_ARTICLE08: Italien begrüßt Generaloberst von Brauchitsch.
+Found
+MODSMD_ARTICLE09: Römischer Ministerrat.
+Found
+MODSMD_ARTICLE10: Englische Einflüsterung in Belgien.
+Found
+MODSMD_ARTICLE11: Der Volkskommissar der Sowjet-Kriegsmarine abgesägt.
+Found
+MODSMD_ARTICLE12: Die geschändete Zivilisation in Palästina.
+Found
+MODSMD_ARTICLE13: „England der Störenfried der Welt!"
+Found
+MODSMD_ARTICLE14: Reichskennziffer für die Lebenshaltungskosten im April.
+Found

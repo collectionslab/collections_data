@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Reichsverkehrsminister Zum Tode Ernst von Delins'.
+Found
+MODSMD_ARTICLE02: Professor Ziegler empfängt ausländische Künstler.
+Found
+MODSMD_ARTICLE03: Deutschland auf der Filmkunstausstellung Venedig.
+Found
+MODSMD_ARTICLE04: Hadamowsky in der Leitung der Rnndfnnkansstellnng.
+Found
+MODSMD_ARTICLE05: Neubesetzung leitender Stellen bei der Reichspost.
+Found
+MODSMD_ARTICLE06: Rumänische Jugend in Nürnberg.
+Found
+MODSMD_ARTICLE07: Die Ostpreußenfahrt des Reichsjugendführers beendet.
+Found
+MODSMD_ARTICLE08: Ter Reichskriegsminister in den Unterweserstädten.
+Found
+MODSMD_ARTICLE09: Abfahrt der deutschen Kriegsschiffe von DauZig.
+Found
+MODSMD_ARTICLE10: Japans neuer Botschafter bei Delbos.
+Found
+MODSMD_ARTICLE11: Mißglückter Fluchtversuch eines bolschewistischen Dampfers.
+Found
+MODSMD_ARTICLE12: Waren- und Lebensmittelmangel in Sowjeirnßland.
+Found
+MODSMD_ARTICLE13: Die japanischen Forderungen nicht erfüllt.
+Found
+MODSMD_ARTICLE14: Neuer Gouverneur der Bank von Japan.
+Found
+MODSMD_ARTICLE15: Weitere 15 Verletzte in Cleveland.
+Found
+MODSMD_ARTICLE16: Erdbeben in Mexiko.
+Found

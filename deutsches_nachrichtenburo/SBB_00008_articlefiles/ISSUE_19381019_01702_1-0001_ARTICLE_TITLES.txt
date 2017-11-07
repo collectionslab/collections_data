@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Jubel um Reichsmimster Ruft.
+Found
+MODSMD_ARTICLE02: Die Reichstagung des NSDStB. in Graz.
+Found
+MODSMD_ARTICLE03: Schwerer Autounfall im Sudetenland.
+Found
+MODSMD_ARTICLE04: Himmler würdigt die italienische Polizei.
+Found
+MODSMD_ARTICLE05: Jüdisches Schmarotzertum ausgeschaltet.
+Found
+MODSMD_ARTICLE06: Die Maßnahmen zur Rassenreinigung gerechtfertigt.
+Found
+MODSMD_ARTICLE07: Polnischer Protest in Kowno.
+Found
+MODSMD_ARTICLE08: Unterirdische Wühlarbeit in Prag.
+Found
+MODSMD_ARTICLE09: Fortschreitende Säuberung der slowakischen Verwaltung.
+Found
+MODSMD_ARTICLE10: England für die ungarischen Forderungen.
+Found
+MODSMD_ARTICLE11: Chamberlain llsteder in London.
+Found
+MODSMD_ARTICLE12: Die katastrophale Lage in Palästina.
+Found
+MODSMD_ARTICLE13: Höchste Spannung in Jerusalem.
+Found
+MODSMD_ARTICLE14: Die Beschlüsse des arabischen Frauenkongresses.
+Found

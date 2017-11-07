@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Luftmarschall Balbo verlief; Berlin.
+Found
+MODSMD_ARTICLE02: Bulgarische Austauschstudenten in Deutschland.
+Found
+MODSMD_ARTICLE03: Sudetendeutsche Turner und Turnerinnen m Berlin.
+Found
+MODSMD_ARTICLE04: Begrüßungsabend der Teilnehmer des Gartenbaukongresses.
+Found
+MODSMD_ARTICLE05: Die Leiter der Reichspropagandaämter in Bayreuth.
+Found
+MODSMD_ARTICLE06: Ausklang der NS.-Frauenschaftstagung in Innsbruck.
+Found
+MODSMD_ARTICLE07: Neue Freiheitsstrafen gegen Memel-Deutsche.
+Found
+MODSMD_ARTICLE08: Sudetendeutsche Abgeordnete bei Lord Runciman.
+Found
+MODSMD_ARTICLE09: Auto eines SdP.-Abgeordneten mit Steinen beworfen.
+Found
+MODSMD_ARTICLE10: Gesandter Dr. Mastny in Prag.
+Found
+MODSMD_ARTICLE11: Die Zusammenfassung der polnischen Jugend.
+Found
+MODSMD_ARTICLE12: Steigende LebensmittelknappheU m Roispanien.
+Found
+MODSMD_ARTICLE13: Rückzugsbefehle als Grund zum Erschießen.
+Found
+MODSMD_ARTICLE14: Anerkennung des Papstes für nationalspanische Sozialhilfe.
+Found
+MODSMD_ARTICLE15: Der britische Luftfahrtminister bei Chamberlain.
+Found
+MODSMD_ARTICLE16: Das englische Imperium uudemokratisch regiert?
+Found
+MODSMD_ARTICLE17: Zahlreiche sowjetrussische Deserteure bei Schaugseug.
+Found
+MODSMD_ARTICLE18: Sowjets beschießen japanischen Abgeordneten.
+Found
+MODSMD_ARTICLE19: Dank an die koreanische Armee.
+Found
+MODSMD_ARTICLE20: Wahlkampfreise Roosevelts.
+Found
+MODSMD_ARTICLE21: Aufhebung des BelageruNgszustaudes in Tunesien.
+Found

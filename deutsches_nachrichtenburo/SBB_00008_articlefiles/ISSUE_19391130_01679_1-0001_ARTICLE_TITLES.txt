@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ministerialrat Verlohr zum Ministerialdirigenten ernannt.
+Found
+MODSMD_ARTICLE02: Luftkampf über der Grafschaft Northumberland.
+Found
+MODSMD_ARTICLE03: Englands Ausfuhrblockade völkerrechtswidrig.
+Found
+MODSMD_ARTICLE04: „Blockade gegen deutschen Export sofort bei Inkrafttreten."
+Found
+MODSMD_ARTICLE05: Holland versucht Fortsetzung seiner Schiffahrt.
+Found
+MODSMD_ARTICLE06: Wie Englands Krieg die Neutralen trifft.
+Found
+MODSMD_ARTICLE07: Smetona über die Aufgaben Litauens.
+Found
+MODSMD_ARTICLE08: Die Franzosen sollen die Wahrheit nicht erfahren.
+Found
+MODSMD_ARTICLE09: Indien verlangt völlige Unabhängigkeit!
+Found
+MODSMD_ARTICLE10: „Bereit für die kommenden Ereignisse."
+Found

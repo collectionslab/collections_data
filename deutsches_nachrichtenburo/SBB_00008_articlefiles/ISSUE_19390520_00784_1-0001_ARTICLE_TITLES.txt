@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Westwall hält und wird gehalten.
+Found
+MODSMD_ARTICLE02: Empfang beim Reichspressechef.
+Found
+MODSMD_ARTICLE03: Deutschlandreise amerikanischer Studenten.
+Found
+MODSMD_ARTICLE04: Empfang im Reichsgericht.
+Found
+MODSMD_ARTICLE05: General Graf von der Schulenburg gestorben.
+Found
+MODSMD_ARTICLE06: Großadmiral Raeder zur großdeutschen Jugend.
+Found
+MODSMD_ARTICLE07: Das englische Königspaar in Ottawa.
+Found
+MODSMD_ARTICLE08: Begeistertes Echo der Madrider Siegesparade in Italien.
+Found
+MODSMD_ARTICLE09: Palästina-Juden als betrogene Betrüger.
+Found

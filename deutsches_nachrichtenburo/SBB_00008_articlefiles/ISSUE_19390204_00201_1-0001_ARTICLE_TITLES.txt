@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Deutschland gewann den Preis des Fuhrers.
+Found
+MODSMD_ARTICLE02: Aus der Wehrmacht.
+Found
+MODSMD_ARTICLE03: Ausstellung „Der ewige Jude" in Bremen.
+Found
+MODSMD_ARTICLE04: Immer stärkere Flugzeuglieferungen für England.
+Found
+MODSMD_ARTICLE05: Ultimatum der irischen Republikanischen Armee.
+Found
+MODSMD_ARTICLE06: Die Pläne für die Bombenanschläge aufgefunden?
+Found
+MODSMD_ARTICLE07: England setzt die Palästina-Konferenz unter Druck.
+Found
+MODSMD_ARTICLE08: Handelserlaubnis für Ausländer in Frankreich.
+Found
+MODSMD_ARTICLE09: Die Eroberung Geronas.
+Found
+MODSMD_ARTICLE10: Die roten Positionen für Kriegsoperationen wertlos.
+Found
+MODSMD_ARTICLE11: Stabschef Lutze wieder in Rom.
+Found
+MODSMD_ARTICLE12: Der Tuce befördert General Beruoscoui.
+Found
+MODSMD_ARTICLE13: Kunstausstellung in Anwesenheit des Duce eröffnet.
+Found
+MODSMD_ARTICLE14: Italienischer Südamerika-Flug.
+Found
+MODSMD_ARTICLE15: Rom: „Ein reichlich verspätetes Dementi".
+Found
+MODSMD_ARTICLE16: „Verspätete und kraftlose Geste der Sowjetunion."
+Found
+MODSMD_ARTICLE17: Amerika läßt sich nicht ins Verderben führen.
+Found

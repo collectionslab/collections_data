@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Beileidstelegramme an Generaladmiral Raeder.
+Found
+MODSMD_ARTICLE02: Der japanische Botschafter in Kiel.
+Found
+MODSMD_ARTICLE03: Generalvikar schützt Sittlichkeitsverbrecher.
+Found
+MODSMD_ARTICLE04: Reichskennziffer für Lebenshaltungskosten Mai 1937.
+Found
+MODSMD_ARTICLE05: Helle Empörung in Italien. Einmütige Zustimmung.
+Found
+MODSMD_ARTICLE07: „Deutschland hat ein Recht auf Genugtuung".
+Found
+MODSMD_ARTICLE08: Schwerer Schaden im befestigten Hafen von Almeria.
+Found
+MODSMD_ARTICLE09: Eine dreist-lügnerische bolschewistische Behauptung.
+Found
+MODSMD_ARTICLE10: Rotspanischer Dampfer vor Barcelona versenkt.
+Found
+MODSMD_ARTICLE11: 17 Tote beim britischen Reichsflugtag.
+Found

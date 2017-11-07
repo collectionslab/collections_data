@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Neichsminister Kerrl in Littoria.
+Found
+MODSMD_ARTICLE02: Dr. Schecks Jtalienreise beendet.
+Found
+MODSMD_ARTICLE03: Deutsche Luftfahrtstudienreise nach Italien.
+Found
+MODSMD_ARTICLE04: „England zu einer „Versöhnung" mit Italien bereit."
+Found
+MODSMD_ARTICLE05: Ter „stark beschäftigte" Chamberlain.
+Found
+MODSMD_ARTICLE06: Marschall Petain weilt in Paris.
+Found
+MODSMD_ARTICLE07: Französischer Kabinettsrat.
+Found
+MODSMD_ARTICLE08: Plumpe Stimmungsmache auch in Paris.
+Found
+MODSMD_ARTICLE09: Polen zur Albanien-Eingliederung.
+Found
+MODSMD_ARTICLE10: Japan läßt sich durch britische Manöver nicht beeinflussen.
+Found
+MODSMD_ARTICLE11: Nationale Bewegung kämpft für innere Reformen in Japan.
+Found
+MODSMD_ARTICLE12: Neue chinesische Offensive in der Provinz Schansi.
+Found
+MODSMD_ARTICLE13: Schwere politische Bluttat in Kaifeng.
+Found
+MODSMD_ARTICLE14: Auch die amerikanische Presse macht in Theaterdonner.
+Found
+MODSMD_ARTICLE15: Diktator Jckes.
+Found
+MODSMD_ARTICLE16: Ablehnung der englischen Kriegshetze in Brasilien.
+Found

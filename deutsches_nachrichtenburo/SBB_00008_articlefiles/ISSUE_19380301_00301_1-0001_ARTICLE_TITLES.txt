@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Tag der Luftwaffe.
+Found
+MODSMD_ARTICLE02: Aer Führer an die ausgeschiedenen Generale.
+Found
+MODSMD_ARTICLE03: Der Führer ehrt Vizeadmiral von Trotha.
+Found
+MODSMD_ARTICLE04: Neuordnung im Berliner Theaterwesen.
+Found
+MODSMD_ARTICLE05: Dr. Schlegelberger beim dänischen Kronprinzen.
+Found
+MODSMD_ARTICLE06: Römische Pressestimmen zum Besuch des Führers.
+Found
+MODSMD_ARTICLE07: Aufruf des volkspolitischen Referenten Oberöfterreichs.
+Found
+MODSMD_ARTICLE08: Tie Kommunisten beschlossen den Mord an Pfarrer Streich.
+Found
+MODSMD_ARTICLE09: Palästinas Oberkommissar scheidet aus dem Amt.
+Found
+MODSMD_ARTICLE10: Das chinesische Hauptquartier in Süd-Schansi besetzt.
+Found
+MODSMD_ARTICLE11: Auch Amerika horcht auf.
+Found
+MODSMD_ARTICLE12: Kuba geht gegen das bolschewistische Gesindel vor.
+Found

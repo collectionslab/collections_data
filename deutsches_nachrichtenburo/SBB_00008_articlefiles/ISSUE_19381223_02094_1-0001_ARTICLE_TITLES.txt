@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die deutsch-albanischen Handelsbeziehungen.
+Found
+MODSMD_ARTICLE02: Die Schweizer Hilfsdienstvorlage angenommen.
+Found
+MODSMD_ARTICLE03: Die Stellung der Juden in Ungarn.
+Found
+MODSMD_ARTICLE04: HandgranateiMinschlag aufDolnische Polizei im Olsagebiet.
+Found
+MODSMD_ARTICLE05: Keine Sammlung für notleidende Arbeitslose.
+Found
+MODSMD_ARTICLE06: Auch Holland bekennt sich zur Schutzzollpolitik.
+Found
+MODSMD_ARTICLE07: Nachtsitzung der französischen Kammer.
+Found
+MODSMD_ARTICLE08: Ein Dementi der Agence Havas.
+Found
+MODSMD_ARTICLE09: Der britische Pariser Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE10: Der französische Wasfenschmuggel nach Rotspanien.
+Found
+MODSMD_ARTICLE11: Völlige Ruhe und Ordnung in Nationälspanien.
+Found
+MODSMD_ARTICLE12: Nationalspanien macht einer roten Lüge den Prozeß.
+Found
+MODSMD_ARTICLE13: Frankreich hilft Sowjetspanien!
+Found
+MODSMD_ARTICLE14: Wahlniederlage der „roten Tuches;".
+Found
+MODSMD_ARTICLE15: Keine Kabinettsveränderung in London.
+Found
+MODSMD_ARTICLE16: Ungewöhnliche Gäste im „Ritz".
+Found

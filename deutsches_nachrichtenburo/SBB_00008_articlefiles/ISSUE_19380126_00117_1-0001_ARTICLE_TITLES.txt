@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Staatssekretär Dr. Schlegelberger sprach in Warschau.
+Found
+MODSMD_ARTICLE02: Wie Oesterreich die ostjüdische Invasion bekämpfen will.
+Found
+MODSMD_ARTICLE03: Neuer Geist in Rumänien.
+Found
+MODSMD_ARTICLE04: Ministerrat über die Durchführung der Neuwahlen.
+Found
+MODSMD_ARTICLE05: Die Kabinettskrise in Sofia.
+Found
+MODSMD_ARTICLE06: In 24 Stunden von Rom nach Rio de Janeiro.
+Found
+MODSMD_ARTICLE07: Begeisterung in Italien.
+Found
+MODSMD_ARTICLE08: Edlen Gast des französischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE09: Die Verlautbarung über die Pariser Besprechungen Edens.
+Found
+MODSMD_ARTICLE10: Der zweimalige nationale Bombenangriff auf Barcekmm^
+Found
+MODSMD_ARTICLE11: Neue große Verluste der Roten bei Teruel.
+Found
+MODSMD_ARTICLE12: Die japanische Truppenlandung auf der Insel Hainan.
+Found
+MODSMD_ARTICLE13: Reed als Oberster Bundesrichter vom Senat bestätigt.
+Found
+MODSMD_ARTICLE14: Kampf gegen die Antilynch-Vorlage im USA-Senat.
+Found
+MODSMD_ARTICLE15: Ufa-Direktor Alexander Grau f.
+Found

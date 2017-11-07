@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Mutter des Reichskriegsministers 9V Jahre.
+Found
+MODSMD_ARTICLE02: Weihnachtsruhe im NSKK.-Dienst.
+Found
+MODSMD_ARTICLE03: Präsidialsitzung der Akademie für Deutsches Recht«
+Found
+MODSMD_ARTICLE04: Ein rumänisches Blatt zu den Sowjet-„Wahlen".
+Found
+MODSMD_ARTICLE05: „Die Sowjets, die fanatischsten Anhänger Genfs."
+Found
+MODSMD_ARTICLE06: Genf und die neutralen Staaten.
+Found
+MODSMD_ARTICLE07: Sozialdemokratische Erkenntnisse und Beklemmungen.
+Found
+MODSMD_ARTICLE08: Bericht über Wirtschaft und Erzeugung in Frankreich.
+Found
+MODSMD_ARTICLE09: Zu 15 Monaten schweren Kerkers verurteilt.
+Found
+MODSMD_ARTICLE10: Erneute Razzia ans galizische Juden in Budapest.
+Found
+MODSMD_ARTICLE11: Das Programm Polens zur See.
+Found
+MODSMD_ARTICLE12: Britischer Rundfunk treitb bolschewistische Agitation!
+Found
+MODSMD_ARTICLE13: Rückreise des griechischen Königs nach Athen.
+Found
+MODSMD_ARTICLE14: Amtliche Mitteilung über den Delbos-Besuch in Belgrad.
+Found
+MODSMD_ARTICLE15: Tokio feiert den Fall Nankings.
+Found

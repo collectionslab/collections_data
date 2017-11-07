@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Adlerschild des Reiches für Geheimrat Prof. von Krehl.
+Found
+MODSMD_ARTICLE02: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Dr. Friedrich Stieve zum Gesandten I. Klasse ernannt.
+Found
+MODSMD_ARTICLE04: Das Reichsumlegungsgesetz.
+Found
+MODSMD_ARTICLE05: Rundfunkübertragung der Qttedlinburger Kundgebung.
+Found
+MODSMD_ARTICLE06: Hauer Schmidt wohlbehalten geborgen.
+Found
+MODSMD_ARTICLE07: Ein ungarischer Abgeordneter über das neue Deutschland.
+Found
+MODSMD_ARTICLE08: Unruhen in Abessinien. Deutscher Missionar ermordet.
+Found
+MODSMD_ARTICLE09: Heimschaffung italienischer Truppenverbiinde.
+Found
+MODSMD_ARTICLE10: Vorbereitungen für Volksfrontregierung in Belgien.
+Found
+MODSMD_ARTICLE11: Vertrauenserklärung für die Regierung Zeeland .
+Found
+MODSMD_ARTICLE12: Lord Rothermere über die europäische Lage.
+Found
+MODSMD_ARTICLE13: Neuregelung der Arbeitslosenunterstützung in England.
+Found
+MODSMD_ARTICLE14: Sondersitzung des Unterhauses.
+Found
+MODSMD_ARTICLE15: Fabry über Völkerbund und Sowjetpakt.
+Found
+MODSMD_ARTICLE16: Daladier spricht als Kriegsminister.
+Found
+MODSMD_ARTICLE17: Das Anleihewesen in der Sowjetunion.
+Found
+MODSMD_ARTICLE18: Gespannte Lage in der Stahlindustrie der USA.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer im Gebiet von Engerau.
+Found
+MODSMD_ARTICLE02: Ter Brasilianische Botschafter verlieft Berlin.
+Found
+MODSMD_ARTICLE03: Polnische Straftenbauingenieure in Berlin.
+Found
+MODSMD_ARTICLE04: Paris zu den Senatswahlen.
+Found
+MODSMD_ARTICLE05: „Jour": Schluß mit dem Sowjetpakt!
+Found
+MODSMD_ARTICLE06: Das Verhältnis zwischen Deutschland und Frankreich.
+Found
+MODSMD_ARTICLE07: Paris Zu den Ereignissen in China.
+Found
+MODSMD_ARTICLE08: Die Japaner in Hankau.
+Found
+MODSMD_ARTICLE09: Systematische Verarmung Sowjetspaniens.
+Found
+MODSMD_ARTICLE10: Rotspanien sendet wieder „brüderliche Grüße".
+Found
+MODSMD_ARTICLE11: Roosevelts Sympathie für die Palästinajuden.
+Found
+MODSMD_ARTICLE12: Deutsche Ehrung für Griechenland.
+Found
+MODSMD_ARTICLE13: 5 Sowjetspione in Bukarest verhaftet.
+Found
+MODSMD_ARTICLE14: Iraks Außenminister von seiner Europareise zurück.
+Found
+MODSMD_ARTICLE15: Neue Todesurteile gegen Araber.
+Found

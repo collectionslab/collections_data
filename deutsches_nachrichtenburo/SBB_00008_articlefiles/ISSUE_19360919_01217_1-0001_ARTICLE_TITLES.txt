@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Gauleiter Simon zum Fest der deutschen Traube.
+Found
+MODSMD_ARTICLE02: Gründung der „Deutschen Gesellschaft für Hygiene".
+Found
+MODSMD_ARTICLE03: Das künftige Genossenschaftsrecht.
+Found
+MODSMD_ARTICLE04: Ein liberianisches Dementi.
+Found
+MODSMD_ARTICLE05: Der dänische Reichstag einberufen.
+Found
+MODSMD_ARTICLE06: Für Verbot kommunistischer Organisationen in der Schweiz«
+Found
+MODSMD_ARTICLE07: Marxistenverhaftungen in Estland.
+Found
+MODSMD_ARTICLE08: Die Katastrophe der „Pourquoi Pas?"
+Found
+MODSMD_ARTICLE09: Jüdischer Devisenschmuggel zwischen Wien und Zürich.
+Found
+MODSMD_ARTICLE10: Abschluß jugoslawisch-rumänischer Verhandlungen.
+Found
+MODSMD_ARTICLE11: Führende belgische Marxisten als Waffenschieber.
+Found
+MODSMD_ARTICLE12: Schwere Verluste der Roten bei Talavera.
+Found
+MODSMD_ARTICLE13: Schwere Kämpfe an der Bahn Burgos—San Sebastian.
+Found
+MODSMD_ARTICLE14: Rücktritt des spanischen Konsuls in Kapstadt.
+Found
+MODSMD_ARTICLE15: General Queipo de Llano über die Kriegslage.
+Found
+MODSMD_ARTICLE16: Der griechische Kommunistenführer verhaftet.
+Found
+MODSMD_ARTICLE17: Selbstverwaltung für die türkische Minderheit in Syrien?
+Found
+MODSMD_ARTICLE18: Die gespannte Lage in Palästina.
+Found
+MODSMD_ARTICLE19: Wieder ein Japaner in China ermordet.
+Found

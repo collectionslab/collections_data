@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Neichsnünister Dr. Frick an die Bergwacht.
+Found
+MODSMD_ARTICLE02: Reichserziehungsminister Ruft an Frau Chamberlain.
+Found
+MODSMD_ARTICLE03: Die Bayerische Ostmark ehrt Houston Stewart Chamberlain»
+Found
+MODSMD_ARTICLE04: Rosenberg eröffnet die Wilhelm Peterfen-Ausstellung.
+Found
+MODSMD_ARTICLE05: Katholischer Jungscharführer wegen Blutschande verurteilt.
+Found
+MODSMD_ARTICLE06: Valdwin bei König Georg.
+Found
+MODSMD_ARTICLE07: Britische Offiziere in Bilbao vorübergehend in Haft.
+Found
+MODSMD_ARTICLE08: Keine Sechsmächtekonferenz.
+Found
+MODSMD_ARTICLE09: Schweizer Stimmen zu den Antwortnoten.
+Found
+MODSMD_ARTICLE10: Die arabischen Forderungen in Palästina.
+Found
+MODSMD_ARTICLE11: Allgemeine Wehrpflicht in Mandschnkuo.
+Found
+MODSMD_ARTICLE12: Die Kennzahl der Großhandelspreise vom 6. Januar.
+Found

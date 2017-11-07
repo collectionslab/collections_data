@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Auszeichnung für die Errettung von Menschen.
+Found
+MODSMD_ARTICLE02: Tie österreichischen Industriellen in Hamburg.
+Found
+MODSMD_ARTICLE03: Französische Abgeordnete in Leipzig.
+Found
+MODSMD_ARTICLE04: Französische Volkstumsgruppe besucht Schlesien.
+Found
+MODSMD_ARTICLE05: 4. Reichstagung der Nordischen Gesellschaft eröffnet.
+Found
+MODSMD_ARTICLE06: Ein Zweiter Preis an Holland gefallen.
+Found
+MODSMD_ARTICLE07: Graf Ciauo Generalleutnant der Miliz.
+Found
+MODSMD_ARTICLE08: Botschafter-Besprechung in London.
+Found
+MODSMD_ARTICLE09: London zu dem neuen Anschlag der Valencia-Bolschewisten.
+Found
+MODSMD_ARTICLE10: Niederlage Blums im Senat.
+Found

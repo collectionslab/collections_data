@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Reichsminister Ruft vor österreichischen Sportlehrern.
+Found
+MODSMD_ARTICLE02: Dr. Ley bei österreichischen Werkmönnern.
+Found
+MODSMD_ARTICLE03: 5 Pumpwerke zur Verwertung des Hamburger Abwassers.
+Found
+MODSMD_ARTICLE04: Der Muttertag in Leonding.
+Found
+MODSMD_ARTICLE05: Schulheimschiff „Hans Schemm" auf großer Fahrt.
+Found
+MODSMD_ARTICLE06: Gastspiet der Frankfurter Oper in Jugoslawien.
+Found
+MODSMD_ARTICLE07: Ein jugoslawisches Urteil über KdF.
+Found
+MODSMD_ARTICLE08: Jugoslawiens Kriegsminister besucht die türkische Armee.
+Found
+MODSMD_ARTICLE09: Neuer Generaldirektor der jugoslawischen Staatsbahnen.
+Found
+MODSMD_ARTICLE10: „Das Erstaunen in Paris unbegründet".
+Found
+MODSMD_ARTICLE11: Chamberlain leicht erkrankt.
+Found
+MODSMD_ARTICLE12: Chamberlain zur kollektiven Sicherheit.
+Found
+MODSMD_ARTICLE13: Die Autwort Prags auf die britische Note.
+Found
+MODSMD_ARTICLE14: Weitere Fortschritte an der Teruelfront.
+Found
+MODSMD_ARTICLE15: Nationalspanien nimmt den Zinsendienst wieder auf.
+Found
+MODSMD_ARTICLE16: Japanischer Protestschritt in Moskau.
+Found
+MODSMD_ARTICLE17: Die Lunghai-Bahn von Norden und Süden erreicht.
+Found
+MODSMD_ARTICLE18: Die japanische Presse zum Erfolg in Mittelchina.
+Found
+MODSMD_ARTICLE19: Berichtigung.
+Found

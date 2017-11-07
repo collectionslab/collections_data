@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Kanzlei des Führers am 29. April geschlossen.
+Found
+MODSMD_ARTICLE02: Verleihung von Nettungs-Auszeichnungen.
+Found
+MODSMD_ARTICLE03: Glaise-Horstenau im Reichsinstitut für Geschichte des neuen Deutschland.
+Found
+MODSMD_ARTICLE04: Italienische Ehrung für deutsche Polizeiabordnung.
+Found
+MODSMD_ARTICLE05: Fahnenverleihung an die Wehrmacht in München.
+Found
+MODSMD_ARTICLE06: Katholische Geistliche im Bunde mit Kommunisten.
+Found
+MODSMD_ARTICLE07: Auch Guatemala erkennt das italienische Imperium an.
+Found
+MODSMD_ARTICLE08: Die Beschäftigung älterer Angestellter.
+Found
+MODSMD_ARTICLE09: Erweiterung des reichsgesetzlichen Unfallschutzes.
+Found
+MODSMD_ARTICLE10: Die Konferenz in Montreux.
+Found

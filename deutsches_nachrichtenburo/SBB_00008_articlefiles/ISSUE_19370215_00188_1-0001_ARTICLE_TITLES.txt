@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der schwedische Gesandte af Wirsen abgereist.
+Found
+MODSMD_ARTICLE02: Die Reichskammer der Bildenden Künste an Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Internationaler Frontkämpferkongreß in Berlin.
+Found
+MODSMD_ARTICLE04: Dr. Frank über nationalsozialistisches Wirtschaftsrecht.
+Found
+MODSMD_ARTICLE05: Dr. Ley weihte das „Haus der Arbeit" in Essen.
+Found
+MODSMD_ARTICLE06: Dcr italienische Arbeiterführer Cianetti in Köln.
+Found

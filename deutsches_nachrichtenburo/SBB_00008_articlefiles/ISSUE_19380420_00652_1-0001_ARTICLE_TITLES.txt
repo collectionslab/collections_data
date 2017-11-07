@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Abfahrt des Führers zur Aufführung des Olympiafilms.
+Found
+MODSMD_ARTICLE02: Weitere Glückwunschbesuche beim Führer.
+Found
+MODSMD_ARTICLE03: Berge von Liebesgaben in der Reichskanzlei.
+Found
+MODSMD_ARTICLE04: Glückwünsche Dr. Fricks für Geheimrat Goepke.
+Found
+MODSMD_ARTICLE05: Belgien begrüßt das italienisch-englische Abkommen.
+Found
+MODSMD_ARTICLE06: Unglaubliche Unverschämtheiten der ungarischen Juden.
+Found
+MODSMD_ARTICLE07: Erweiterung des rumänischen Staatsbürgergesetzes.
+Found
+MODSMD_ARTICLE08: Jugoslawisch-bulgarisches Grenzabkommen.
+Found

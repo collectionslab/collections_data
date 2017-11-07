@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Dank des Prinzregentten Paul an den Führer.
+Found
+MODSMD_ARTICLE02: Reichssender Böhmen.
+Found
+MODSMD_ARTICLE03: General Queipo de Llano in Hamburg.
+Found
+MODSMD_ARTICLE04: Strang bei Prof. Burckhardt.
+Found
+MODSMD_ARTICLE05: „Kursänderung oder taktische Manöver?"
+Found
+MODSMD_ARTICLE06: Die „Times" gibt zu: „Nur eine Gegenaktion".
+Found
+MODSMD_ARTICLE07: „Die Rede von Halifax keineswegs ein Akt der Schwäche."
+Found
+MODSMD_ARTICLE08: Bittere Worte über die „Freunde jenseits des Kanals".
+Found
+MODSMD_ARTICLE09: Der „demokratische" Empfang des englischen Königspaares.
+Found
+MODSMD_ARTICLE10: Die Kennzahl der Großhandelspreise vom 7. Juni.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Professor Schumacher 70 Jahre alt.
+Found
+MODSMD_ARTICLE02: Besuch des Reichswirtschaftsministers in Franken.
+Found
+MODSMD_ARTICLE03: Der Reichsaustenminister besucht Lord Halifax.
+Found
+MODSMD_ARTICLE04: Fortsetzung der englisch-irischen Verhandlungen.
+Found
+MODSMD_ARTICLE05: Botschafter Lord Perth bei Außenminister Graf Ciano.
+Found
+MODSMD_ARTICLE06: Italiens Presse zur Rede Chamberlains im Unterhaus.
+Found
+MODSMD_ARTICLE07: „Giornale d'ltalia" über die Rede Daranhis.
+Found
+MODSMD_ARTICLE08: Neue rumänische Gesandte für Berlin und Rom.
+Found
+MODSMD_ARTICLE09: Bukarester Stimmen über die Borgäuge in Moskau.
+Found
+MODSMD_ARTICLE10: Kritische Lage für Chautemps.
+Found
+MODSMD_ARTICLE11: Ein Appell von Senator Henrh-Haye im „Journal".
+Found
+MODSMD_ARTICLE12: Schießübungen der französischen Atlantifklotte.
+Found
+MODSMD_ARTICLE13: Flucht nationaler Spanier aus Katalonien.
+Found
+MODSMD_ARTICLE14: Sabotage aus einem sowjetspanischen U-Boot.
+Found
+MODSMD_ARTICLE15: Eheschließung König Zogus am 27. April.
+Found
+MODSMD_ARTICLE16: Jagoda plötzlich wieder „voll geständig".
+Found
+MODSMD_ARTICLE17: Eardenas verhandelt mit den Erdölgesellschaftcn.
+Found

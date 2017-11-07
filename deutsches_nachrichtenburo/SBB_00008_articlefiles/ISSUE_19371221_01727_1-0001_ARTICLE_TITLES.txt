@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Tie Ueberführung Ludendorffs ins Generalkommando.
+Found
+MODSMD_ARTICLE02: Adolf Wagner überbringt das Beileid des Führers.
+Found
+MODSMD_ARTICLE03: Die Hauptstadt der Bewegung ehrt den großen Toten.
+Found
+MODSMD_ARTICLE04: Göring über Wirtschafts- und sozialpolitische Fragen.
+Found
+MODSMD_ARTICLE06: Der Volkswohnungsbau im faschistischen Italien.
+Found
+MODSMD_ARTICLE07: Das wirtschaftliche Durcheinander in Frankreich.
+Found
+MODSMD_ARTICLE08: Moskaus Antreibermethodm in Frankreich.
+Found
+MODSMD_ARTICLE09: Benesch nach Paris eingeladen.
+Found
+MODSMD_ARTICLE10: Englands Beziehungen zu Franco vor dem Unterhaus.
+Found
+MODSMD_ARTICLE11: Lansburv berichtet über Südosteuropareise.
+Found
+MODSMD_ARTICLE12: „Stalin das blutdürstigste Ungeheuer der Welt."
+Found
+MODSMD_ARTICLE13: Schulschiff „Schlesien" in Mar del Plata.
+Found
+MODSMD_ARTICLE14: 78 Schulkinder Opfer eines Schulhausbrandes.
+Found

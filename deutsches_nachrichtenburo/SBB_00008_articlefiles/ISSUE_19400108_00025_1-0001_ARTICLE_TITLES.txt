@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Verleihung der Goethe-Medaille.
+Found
+MODSMD_ARTICLE02: Verhaftungswelle in der Südafrikanischen Union.
+Found
+MODSMD_ARTICLE03: Die deutschen Volksschulen im Generalgouvernement.
+Found
+MODSMD_ARTICLE04: Der Gedankenaustausch Ciano—Csaky.
+Not Found
+MODSMD_ARTICLE05: Die neuen englischen Minister.
+Found
+MODSMD_ARTICLE06: Englands Sorgen.
+Found
+MODSMD_ARTICLE08: Dem „Manchester Guardian" geht ein Licht auf.
+Found
+MODSMD_ARTICLE09: Die Preissteigerungen in England.
+Found
+MODSMD_ARTICLE10: Aufklärungsflüge über Großbritannien und Frankreich.
+Found
+MODSMD_ARTICLE11: Gedenkstein für vier deutsche Flieger in Bilbao.
+Found
+MODSMD_ARTICLE12: Schwedische Freiwillige für Finnland.
+Found
+MODSMD_ARTICLE13: Der Todesgürtel um Englands Küsten.
+Found
+MODSMD_ARTICLE14: Wieder Verletzung des Völkerrechts.
+Found
+MODSMD_ARTICLE15: Einigung über die neue Zentralregierung in China.
+Found
+MODSMD_ARTICLE16: Eine flagrante Verletzung des Völkerrechts.
+Found
+MODSMD_ARTICLE17: Der Abbruch der amerikanisch-argentinischen Verhandinngen.
+Found
+MODSMD_ARTICLE18: Vollstreckung eines Todesurteils.
+Found

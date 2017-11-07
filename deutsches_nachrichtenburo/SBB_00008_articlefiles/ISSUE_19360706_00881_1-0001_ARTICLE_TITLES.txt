@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Der Auslandspressechef der Reichsfilmkammer gestorben.
+Found
+MODSMD_ARTICLE03: Ausländische Frontsoldaten an den Reichskriegertag.
+Found
+MODSMD_ARTICLE04: 8. deutsch-englisches Jugendlager bei Siegen eröffnet.
+Found
+MODSMD_ARTICLE05: München stiftet einen „Lenbach-Preis".
+Found
+MODSMD_ARTICLE06: Gäste zum Weltkongreß für Freizeit und Erholung.
+Found
+MODSMD_ARTICLE07: Segelschulschiff „Gorch Fock" fährt nach England.
+Found
+MODSMD_ARTICLE08: Der Petrusheim-Prozetz.
+Found
+MODSMD_ARTICLE09: Verhaftung einer Oberin wegen Tevisenvergehens.
+Found
+MODSMD_ARTICLE10: Hauptversammlung des Bundes der Sudetendeutschen.
+Found
+MODSMD_ARTICLE11: Rechtfertigung der britischen Aufrüstung.
+Found
+MODSMD_ARTICLE12: Der neue spanische Botschafter beim Quirinal in Rom.
+Found
+MODSMD_ARTICLE13: Politische Zusammenstöße in FranWAHAK
+Found
+MODSMD_ARTICLE14: Das Programm der neuen bulgarischen Regierung.
+Found
+MODSMD_ARTICLE15: Die Schweiz ohne Kraftwagenverkehr.
+Found
+MODSMD_ARTICLE16: Zum Tode des japanischen Offiziers Sasaki.
+Found
+MODSMD_ARTICLE17: Politischer Mord in Hongkong?
+Found

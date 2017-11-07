@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Trauerfeier in Friedrichshofen.
+Found
+MODSMD_ARTICLE02: Steuermann Felder vom LZ „Hindenburg" beigeseht.
+Found
+MODSMD_ARTICLE03: Einweihung der Bernhard-Rust-Hochschule.
+Found
+MODSMD_ARTICLE04: Dr. Ley vor dem Reichsführerlager der HJ.
+Found
+MODSMD_ARTICLE05: Maurice Fröre bei Bundespräsident Motta.
+Found
+MODSMD_ARTICLE06: Das italienische Herrscherpaar wieder in Rom.
+Found
+MODSMD_ARTICLE07: Abschiedstelegramm des Königs von Italien an Horthy.
+Found
+MODSMD_ARTICLE08: Die polnisch-französischen Wirtschaftsabmachungen.
+Found
+MODSMD_ARTICLE09: Neuer Großangriff der nationalen Truppen.
+Found
+MODSMD_ARTICLE10: Katastrophale Zustände im fernöstlichen Sowjetbahnnetz.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Geschichtliche Weihestunde in Quedlinburg.
+Found
+MODSMD_ARTICLE02: Bekenntnispfarer wegen Kanzelhetze festgenommen.
+Found
+MODSMD_ARTICLE03: Verurteilung eines Rasseschänders.
+Found
+MODSMD_ARTICLE04: Verleihung der Pasteur-Medaille an deutschen Chemiker.
+Found
+MODSMD_ARTICLE05: Delbos im Auswärtigen Ausschuß über Spanien.
+Found
+MODSMD_ARTICLE06: Die Straßenbahner von Montpellier im Streik.
+Found
+MODSMD_ARTICLE07: Kein spanisch-französischer Grenzzwischenfall.
+Found
+MODSMD_ARTICLE08: Die Nationalem an der Grenze der Provinz Santander.
+Found
+MODSMD_ARTICLE09: Bisher 421 Flugzeuge von den Nationalen abgeschossen.
+Found
+MODSMD_ARTICLE10: Der Bischof von Gibraltar weist die englische Presse zurecht.
+Found
+MODSMD_ARTICLE11: Britische Persönlichkeiten gegen Kommunistenplakate.
+Found
+MODSMD_ARTICLE12: Ein Verbesserungsantrag zur Wehrbeitragssteuer.
+Found
+MODSMD_ARTICLE13: Neuordnung der militärischen Leitung Schwedens.
+Found
+MODSMD_ARTICLE14: Litwinow-Finkelstein lehnt ab.
+Found
+MODSMD_ARTICLE15: Tokio besteht auf bedingungsloser Räumung.
+Found
+MODSMD_ARTICLE16: Veränderungen in der amerikanischen Diplomatie.
+Found

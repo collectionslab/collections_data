@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Rücktritt des Obersten Koc.
+Found
+MODSMD_ARTICLE02: In Rumänien war ihnen der Boden zu heiß.
+Found
+MODSMD_ARTICLE03: Kritik an der britischen Außenpolitik.
+Found
+MODSMD_ARTICLE04: Jouhaux droht der Regierung.
+Found
+MODSMD_ARTICLE05: Eine Fabrik wird gestürmt.
+Found
+MODSMD_ARTICLE06: Immer weitere Fabriken müssen schließen.
+Found
+MODSMD_ARTICLE07: Um den Arbeitsfrieden in Frankreich.
+Found
+MODSMD_ARTICLE08: Aus der Suche nach Kapuzenmännern.
+Found
+MODSMD_ARTICLE09: Enthüllungen der Pariser Polizei.
+Found
+MODSMD_ARTICLE10: Zur Erklärung Dormohs über die Bombenanschläge.
+Found
+MODSMD_ARTICLE11: Kommunistische Revolte auf der „Guaruja^?
+Found
+MODSMD_ARTICLE12: Tie Schlacht bei Teruel.
+Found
+MODSMD_ARTICLE13: Aufstandsb'ewegnng in sowjetspanischen Städten.
+Found
+MODSMD_ARTICLE14: Kulturaustausch zwischen Italien und Schweden.
+Found
+MODSMD_ARTICLE15: Belgrad und die Budapester Außenminister-Konferenz.
+Found
+MODSMD_ARTICLE16: Vor dem Belgrader Besuch des Außenministers Micescu.
+Found
+MODSMD_ARTICLE17: Englischer Archäologe in Palästina erschossen.
+Found
+MODSMD_ARTICLE18: Amerikas Interessen in China.
+Found

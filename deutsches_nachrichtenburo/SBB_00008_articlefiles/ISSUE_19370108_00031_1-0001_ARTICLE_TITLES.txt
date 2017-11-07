@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer dankt den Rettern vom Watzmann.
+Found
+MODSMD_ARTICLE02: Generalfeldmarschall von Blomberg an die Witwe Behnckes.
+Found
+MODSMD_ARTICLE03: Beisetzung des Admirals Behncke.
+Found
+MODSMD_ARTICLE05: Befristete Note Belgiens au die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE06: Großzügige sozialpolitische Maßnahmen General Francos.
+Found
+MODSMD_ARTICLE07: Offene Absage Tschanghsueliangs an Nanking.
+Found
+MODSMD_ARTICLE08: Dem Bernehmen nach ist es Zwischen Tungkwan und Huahsieu bereits zu ersten Kämpfen gekommen.
+Found
+MODSMD_ARTICLE09: Will Frankreich in der Freiwilligen-Frage Ernst machen?
+Found
+MODSMD_ARTICLE10: Katalonien unter sowjetrussischer Knute.
+Found
+MODSMD_ARTICLE11: Atatürk nach Ankara zurückgekehrt.
+Found
+MODSMD_ARTICLE12: Amerikanisches Waffenausfuhrverbot in Kraft.
+Found
+MODSMD_ARTICLE13: Bau von zwei neuen Schlachtschiffen in Amerika.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Geueralfeldmarschall Göring wieder in Berlin.
+Found
+MODSMD_ARTICLE02: Den Toten zum Gedächtnis.
+Found
+MODSMD_ARTICLE03: Reichsverkehrsminister Dr. Dorpmüller in Wien.
+Found
+MODSMD_ARTICLE04: Der Eisendabndurchgangsverkehr nach Ostpreußen.
+Found
+MODSMD_ARTICLE05: Gauleiter Forster wieder in Tanzig.
+Found
+MODSMD_ARTICLE06: Deutschland zuerkannte Weltbestleistungen.
+Found
+MODSMD_ARTICLE07: Großer Erfolg des Olympia-Films in Riga.
+Found
+MODSMD_ARTICLE08: Erklärung des Schweizer Bundespräsidenten.
+Found
+MODSMD_ARTICLE09: Die französischen Flugzeugbestellungen in USA.
+Found
+MODSMD_ARTICLE10: „Tevere" warnt das Quai d'Orsay.
+Found
+MODSMD_ARTICLE11: Mussolini nach Rom Zurückgekehrt.
+Found
+MODSMD_ARTICLE12: Del Vayos Genfer Schwindel.
+Found
+MODSMD_ARTICLE13: Die ungarischen Sicherheitsgesetze angenommen.
+Found
+MODSMD_ARTICLE14: Der Erbauer des Reichssportfeldes in Belgrad.
+Found
+MODSMD_ARTICLE15: Schwedische Auszeichnung für Stojadinowitsch.
+Found
+MODSMD_ARTICLE16: Neue Todesurteile in der Sowjetunion.
+Found
+MODSMD_ARTICLE17: Vor dem Sturm auf Hsütschau.
+Found
+MODSMD_ARTICLE18: Untergrundbahnungliick in London.
+Found

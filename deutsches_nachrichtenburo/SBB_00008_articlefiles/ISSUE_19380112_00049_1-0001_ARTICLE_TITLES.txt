@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Rosenbergs 4ü. Geburtstag.
+Found
+MODSMD_ARTICLE02: Das Begrüßungsschreiben Dr. Goebbels' an Dr. Filchner.
+Found
+MODSMD_ARTICLE03: Personalverändernngen im Münchener MuWeüen.
+Found
+MODSMD_ARTICLE04: Die „Deutschland" vor Taormina vor Anker.
+Found
+MODSMD_ARTICLE05: Handelsabkommen Deutschland-Ecuador verlängert.
+Found
+MODSMD_ARTICLE06: Romreise des lettischen Außenministers Munters.
+Found
+MODSMD_ARTICLE07: Eine neue Verhaftung in Clermont-Ferrand.
+Found
+MODSMD_ARTICLE08: Das Rathaus von Puigcerda niedergebrannt.
+Found
+MODSMD_ARTICLE09: Britische Zerstörerflottille in Gibraltar eingetroffen.
+Found
+MODSMD_ARTICLE10: Neues Amt für die englische Flugzeugherstellung.
+Found
+MODSMD_ARTICLE11: Die Angriffe gegen Englands Lustfahrtnlinister.
+Found
+MODSMD_ARTICLE12: Heirat des Reichskriegsmijnisters.
+Found
+MODSMD_ARTICLE13: Das irische Parlament tagt.
+Found
+MODSMD_ARTICLE14: Inspektionsreise Höre Belishas nach Nordirland.
+Found
+MODSMD_ARTICLE15: Amerikanische Glückwunschadresse an de Valera.
+Found
+MODSMD_ARTICLE16: Vermißtes amerikanisches Flugboot aufgefunden.
+Found
+MODSMD_ARTICLE17: England fordert freie! Schiffahrt auf dem Jangtse.
+Found
+MODSMD_ARTICLE18: Der „Oberste Rat der Sowjetunion" zusammengetreten.
+Found
+MODSMD_ARTICLE19: Schritte gegen gegen lettische Minderheit in Sowjetrußland.
+Found

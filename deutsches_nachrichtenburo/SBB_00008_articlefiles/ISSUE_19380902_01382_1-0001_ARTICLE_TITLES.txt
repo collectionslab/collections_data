@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Beförderungen im Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE02: Lei!ende ausländische Polizeibeamte in Deutschland.
+Found
+MODSMD_ARTICLE03: Die polnischen Frontkämpfer bei Seldte.
+Found
+MODSMD_ARTICLE04: Die japanischen Pressevertreter bei der DAF.
+Found
+MODSMD_ARTICLE05: 167 374 Wohnungen und Siedlerstellen im Bau.
+Found
+MODSMD_ARTICLE07: Eine neue Sehenswürdigkeit Nürnbergs.
+Found
+MODSMD_ARTICLE08: Die deutsche Himalaja-Expedition in Rom.
+Found
+MODSMD_ARTICLE09: Der Ausschluß der Juden von den italienischen Schulen.
+Found
+MODSMD_ARTICLE10: Kommunisten im Kanton Basel „staatstreu"!
+Found
+MODSMD_ARTICLE11: Hultschiner Abordnung bei Runciman.
+Found
+MODSMD_ARTICLE12: SipiHg des Parlamentarischen Klubs der SdP.
+Found
+MODSMD_ARTICLE13: Der Pariser englische Botschafter wieder im Dienst.
+Found
+MODSMD_ARTICLE14: Plymouths Sekretär reist nach Spanien? l
+Found
+MODSMD_ARTICLE15: Die Verluste der Sowjetspanier im Ebro-Bogen.
+Found
+MODSMD_ARTICLE16: Deutsche Flieger in Cleveland.
+Found
+MODSMD_ARTICLE17: Leifer-Orgauisatiou in Aleppo aufgedeckt.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Unfall eines Postflugzeuges.
+Found
+MODSMD_ARTICLE02: Freiwilliger Eintritt in die Wehrmacht Zum Herbst 1938.
+Found
+MODSMD_ARTICLE03: Schulschiff „Deutschland" in Sautos.
+Found
+MODSMD_ARTICLE04: Vertreter Tschiangkaischeks vor dem Ostasiatischen Verein.
+Found
+MODSMD_ARTICLE05: Holländische Aenderung des Krisis-Einfuhrgesetzes.
+Found
+MODSMD_ARTICLE06: Trau keinem Jutü bei seinem Eid!
+Found
+MODSMD_ARTICLE07: Das Weihnachtsfest „reaktionär und staatsgefährlich".
+Found
+MODSMD_ARTICLE08: Der „Henker von Asturien" verhaftet.
+Found
+MODSMD_ARTICLE09: „Unverschämtheit von nltrademokratischem Stil".
+Found
+MODSMD_ARTICLE10: Untersuchung des Bombenanschlages in Schanghai.
+Found

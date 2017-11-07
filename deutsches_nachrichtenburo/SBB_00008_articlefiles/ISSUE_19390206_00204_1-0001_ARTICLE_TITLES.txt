@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Marschall Balbo bei Stabschef Luhe.
+Found
+MODSMD_ARTICLE02: Die Kameradschaft zwischen SA. und Miliz.
+Found
+MODSMD_ARTICLE03: Bierjahresschau nationalen Kunstschaffens in Rom.
+Found
+MODSMD_ARTICLE04: Seo de Urgel genommen.
+Found
+MODSMD_ARTICLE05: Ter Hafen von Cartagena bombardiert.
+Found
+MODSMD_ARTICLE06: Der rote „Admiralftab" floh nach Frankreich.
+Found
+MODSMD_ARTICLE07: Del Vayo residert iu Perpignan.
+Found
+MODSMD_ARTICLE08: Wieder zwei Bombenanschläge in England.
+Found
+MODSMD_ARTICLE09: Polnische Juden an der Klagemauer.
+Found
+MODSMD_ARTICLE10: Polen verzichtet auf 30prozentige Golddeckung.
+Found
+MODSMD_ARTICLE11: Tschechische Advokaten für Lösung der Judenfrage.
+Found
+MODSMD_ARTICLE12: Prag soll dem Antikominternpakt beitreten.
+Found
+MODSMD_ARTICLE13: Die „Liberte" warnt vor Roosevelt-Jllusionen.
+Found
+MODSMD_ARTICLE14: Ter ungarische Gesandte verlies; Moskau.
+Found
+MODSMD_ARTICLE15: Englands Flugzeugkäuse in Amerika.
+Found

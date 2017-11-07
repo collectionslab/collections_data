@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Italienische Studienkommission in München eingetroffen.
+Found
+MODSMD_ARTICLE02: 559 italienische Arbeiterurlauber in Stuttgart-
+Found
+MODSMD_ARTICLE03: Landeshanptabteilnngsleiter Fritz Heß gestorben.
+Found
+MODSMD_ARTICLE04: Schluß der Florentiner Musikfestspiele.
+Found
+MODSMD_ARTICLE05: Botschafterempfänge bei Bonnet.
+Found
+MODSMD_ARTICLE06: Daladiers Bekenntnis zur alten Zeit.
+Found
+MODSMD_ARTICLE07: Frankreich sichert sich gegen bolschewistische Luftangriffe.
+Found
+MODSMD_ARTICLE08: Die sowjetspanische Provokation in Frankreich.
+Found
+MODSMD_ARTICLE09: Salamanca zu den bolschewistischen Provokationen.
+Found
+MODSMD_ARTICLE10: Weitere 4500 gkrn und 70 Ortschaften befreit.
+Found
+MODSMD_ARTICLE11: Moskau und Barcelona erstreben internationalen Konflikt.
+Found
+MODSMD_ARTICLE12: Weltrevolution und Geschäft.
+Found
+MODSMD_ARTICLE13: Nur bedingungslose Uebergabe beendet den Spanien-Krieg.
+Found
+MODSMD_ARTICLE14: Die Lage an der Teruel-Front.
+Found
+MODSMD_ARTICLE15: Der Vertreter Prags in Burgos.
+Found
+MODSMD_ARTICLE16: Griechische Sportwoche.
+Found
+MODSMD_ARTICLE17: Der Film vom Italien-Besuch des Führers in Ankara.
+Found
+MODSMD_ARTICLE18: Palästina-Lage schlimmer denn je.
+Found
+MODSMD_ARTICLE19: Zurückweisung eines französischen Protestes in Tokio.
+Found
+MODSMD_ARTICLE20: Kaifeng vou den japanischen Truppen besetzt.
+Found

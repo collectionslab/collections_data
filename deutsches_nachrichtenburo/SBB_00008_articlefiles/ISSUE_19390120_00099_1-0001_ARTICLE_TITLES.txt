@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Der Herzog von Coburg beim Kaiser und König.
+Found
+MODSMD_ARTICLE03: Italienische Gefallene sollen in die Heimat zurück.
+Found
+MODSMD_ARTICLE04: Gefallen im Kampf gegen den Weltfeind.
+Found
+MODSMD_ARTICLE05: „Tevere": „Eingreifen in Spanien bedeutet Krieg."
+Found
+MODSMD_ARTICLE06: Vor dem Rückzug 72 Gefangene niedergeschossen.
+Found
+MODSMD_ARTICLE07: Ein Niesenraub.
+Found
+MODSMD_ARTICLE08: Italienischer Journalist in Tunis verhaftet.
+Found
+MODSMD_ARTICLE09: Neue ablehnende Antwort Chamberlains an Attlee.
+Found
+MODSMD_ARTICLE10: Die Schweiz hat genug von der Sorte!
+Found
+MODSMD_ARTICLE11: Judentransport nach Mittelamerika unterwegs.
+Found
+MODSMD_ARTICLE12: Wahlen für den ersten Landtag der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE13: „Wreme" über die Unterredung Ciano-Stojadinowitsch.
+Found
+MODSMD_ARTICLE14: Ehrung des polnischen Kultusministers.
+Found
+MODSMD_ARTICLE15: Litauen wehrt sich gegen jüdische Ausbeutung.
+Found
+MODSMD_ARTICLE16: Drei neue Volkskommissariate.
+Found
+MODSMD_ARTICLE17: Verstärkte Hilfe transjordanischer Araber.
+Found
+MODSMD_ARTICLE18: Versammlung des Deutschen Südwestbundes in Windhuk.
+Found
+MODSMD_ARTICLE19: „Amerika soll sich aus der Spanienfrage heraushalten".
+Found
+MODSMD_ARTICLE20: Angriffe Fishs auf Roosevelt und sein Rüstungsprogramm.
+Found
+MODSMD_ARTICLE21: Verdoppelung der Panama-Garnison.
+Found
+MODSMD_ARTICLE22: Japanisch-philippinischer Zwischenfall.
+Found
+MODSMD_ARTICLE23: Verbrecher an der Volksgemeinschaft.
+Found

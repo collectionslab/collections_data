@@ -1,0 +1,22 @@
+MODSMD_ARTICLE02: Beförderungen und Ehrungen. Beförderungen in Heer und Murine.
+Found
+MODSMD_ARTICLE04: Dr. Hermann Muhs Staatssekretär.
+Found
+MODSMD_ARTICLE05: Sprenger Reichswerkscharführer.
+Found
+MODSMD_ARTICLE06: Ernennungen in der Verwaltung.
+Found
+MODSMD_ARTICLE07: Beförderungen im Reichsfinanzministerium.
+Found
+MODSMD_ARTICLE09: Beförderungen in der Kanzlei des Führers.
+Found
+MODSMD_ARTICLE10: Mit der Goethe-Medaille ausgezeichnet.
+Found
+MODSMD_ARTICLE11: Beförderungen bei der Polizei.
+Found
+MODSMD_ARTICLE12: Ohnesorge NSKK – Gruppenführer.
+Not Found
+MODSMD_ARTICLE13: Beförderungen in der SS.
+Found
+MODSMD_ARTICLE14: Beförderungen im Reichsarbeitsdienst.
+Found

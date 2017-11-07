@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Verleihung von Treudienst-Ehrenzeichen.
+Found
+MODSMD_ARTICLE02: Die NSV. hat Geburtstag,
+Found
+MODSMD_ARTICLE03: Die Amnestie in der Parteigerichtsbarkeit.
+Found
+MODSMD_ARTICLE04: Teilnahme Deutschlands an der Stefams-Feier in Ungarn.
+Found
+MODSMD_ARTICLE05: Preissenkung bei den Wiener Elektrizitätswerken.
+Found
+MODSMD_ARTICLE06: Graz schafft Arbeit.
+Found
+MODSMD_ARTICLE07: Minister Jankowitsch in Bochum.
+Found
+MODSMD_ARTICLE08: Die Neuordnung der französischen Luftfahrt.
+Found
+MODSMD_ARTICLE09: Abschluß des polnischen Nationalfeiertages.
+Found
+MODSMD_ARTICLE10: Juden im Solde Moskaus.
+Found
+MODSMD_ARTICLE11: Amerikanisches Flottenbauprogramm im Senat angenommen.
+Found
+MODSMD_ARTICLE12: Der kationalspanische Heeresbericht.
+Found

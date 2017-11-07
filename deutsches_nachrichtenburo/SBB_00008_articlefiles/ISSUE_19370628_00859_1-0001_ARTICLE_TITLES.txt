@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der Führer auf dem mainfrankischen Gantag.
+Found
+MODSMD_ARTICLE02: Die große Kundgebung.
+Found
+MODSMD_ARTICLE03: Der Führer spricht.
+Found
+MODSMD_ARTICLE04: De la Rocque und das Kabinett Chautemps.
+Found
+MODSMD_ARTICLE05: Abflug von Mitgliedern der Himalaya-Stiftung nach Indien.
+Found
+MODSMD_ARTICLE06: Neuer deutscher Erfolg auf der „Kieler Woche".
+Found

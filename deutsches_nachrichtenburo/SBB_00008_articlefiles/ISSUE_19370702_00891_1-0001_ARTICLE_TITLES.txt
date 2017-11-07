@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Leibniztag der Akademie der Wissenschaften.
+Found
+MODSMD_ARTICLE02: Neuer Weltrekord im Dauersegelflug für Frauen.
+Found
+MODSMD_ARTICLE03: Der Reichskriegsminister von Budapest abgeflogen.
+Found
+MODSMD_ARTICLE04: Die Konferenz der baltischen Austenminister.
+Found
+MODSMD_ARTICLE05: Das Wehrerziehungsgesetz angenommen.
+Found
+MODSMD_ARTICLE06: Ein „Bombenspaß" der jungen Judeuschaft.
+Found
+MODSMD_ARTICLE07: Geheimnisvolle Schießerei in Belfast.
+Found
+MODSMD_ARTICLE08: Englische Ablenkungsmanöver.
+Found
+MODSMD_ARTICLE09: „Auf eine tatsächliche Neutralität kommt es an."
+Found
+MODSMD_ARTICLE10: Geheimes Abkommen zwischen England und Franca?
+Found
+MODSMD_ARTICLE11: Der Nichteinmischungsausschuß tagt.
+Found
+MODSMD_ARTICLE12: Eine sensationelle Verhaftung in USA.
+Found
+MODSMD_ARTICLE13: Neuerliche Verschärfung des Amur-Konfliktes.
+Found
+MODSMD_ARTICLE14: Vollstreckung Zweier Todesurteile.
+Found

@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Lorbeerkranz des Führers für Leutnant Günther.
+Found
+MODSMD_ARTICLE02: Neuordnung des Reichskultursenates.
+Found
+MODSMD_ARTICLE03: Die internationalen Fachkongresse des Handwerks tagen.
+Found
+MODSMD_ARTICLE04: Die Eröffnung der Luftverkehrslinie Berlin—Bukarest.
+Not Found
+MODSMD_ARTICLE05: Aufbau der Deutschen Arbeitsfront in Oesterreich.
+Found
+MODSMD_ARTICLE06: Die deutschen Nieder in Belgrad.
+Found
+MODSMD_ARTICLE07: Tie deutsche Abordnung für Rassenpolitik in Rom.
+Found
+MODSMD_ARTICLE08: Außenminister Ciano empfängt nationalpanische Abordnung.
+Found
+MODSMD_ARTICLE09: Spanien gedenkt der Toten vom Panzerschiff „Deutschland".
+Found
+MODSMD_ARTICLE10: Valeuna-Bolschewisten räumen Hafenviertel.
+Found
+MODSMD_ARTICLE11: Nationale Flieger bombardierten Madrid.
+Found
+MODSMD_ARTICLE12: Svivjctspanischc Waffenschiebungen vor Schweizer Gericht.
+Found
+MODSMD_ARTICLE13: Ungarn: Ein bedeutungsvoller sudetendeutscher Sieg.
+Found
+MODSMD_ARTICLE14: Stärkster Eindruck des SDP-Erfolges in Bulgarien.
+Found
+MODSMD_ARTICLE15: Polnischer Bericht über die Zustände in Nordböhmen.
+Found
+MODSMD_ARTICLE16: Ausstellung „Deutsche Plastik der Gegenwart" in Krakau.
+Found
+MODSMD_ARTICLE17: Ter rumänische Generalstabschef in Warschau.
+Found
+MODSMD_ARTICLE18: Polens Kampf gegen das Judentum geht weiter.
+Found
+MODSMD_ARTICLE19: Französische Luftabordnung bei Sir Kingsley Wood.
+Found
+MODSMD_ARTICLE20: Englischer Oberst über Wühlarbeit der Euglandkominunisten.
+Found
+MODSMD_ARTICLE21: Auch die baltischen Staaten brauchen Handlungsfreiheit.
+Found
+MODSMD_ARTICLE22: Nachträgliche gesetzliche Bestätigung von Erlassen.
+Found

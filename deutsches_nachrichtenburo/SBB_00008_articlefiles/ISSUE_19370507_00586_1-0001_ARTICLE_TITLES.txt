@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Weitere unfaire Berichterstattung englischer Blätter.
+Found
+MODSMD_ARTICLE02: Erfreuliche Sprache eines englischen Blattes.
+Found
+MODSMD_ARTICLE03: England gegen verschärfte Kontrolle der Waffenausfuhr.
+Found
+MODSMD_ARTICLE04: Außenpolitische Rede des japanischen Außenministers.
+Found
+MODSMD_ARTICLE05: Die britische Reichskonferenz.
+Found
+MODSMD_ARTICLE06: Zuckerabkommen in London unterzeichnet.
+Found
+MODSMD_ARTICLE07: Baldwin mahnt zur Abwendung des Kohlenarbeiterstreiks.
+Found
+MODSMD_ARTICLE08: Verhandlungen im englischen Bergarbeiterstreik.
+Found
+MODSMD_ARTICLE09: 4350 Frauen und Kinder aus Bilbao abtransportiert.
+Found
+MODSMD_ARTICLE10: Was geht in Barcelona vor?
+Found
+MODSMD_ARTICLE11: Bolschewistischer Flugzeugüberfall auf Valladolid.
+Found
+MODSMD_ARTICLE12: Selbstanklage eines Bolschewistenhäuptlings.
+Found
+MODSMD_ARTICLE13: Companys läßt sich durch Franzosen schützen.
+Found
+MODSMD_ARTICLE14: Bolschewistenzentrale Valencia greift ein.
+Found
+MODSMD_ARTICLE15: Das Chaos in Barcelona.
+Found
+MODSMD_ARTICLE16: Die Aufgaben der neuen spanischen Nationalpartei.
+Found

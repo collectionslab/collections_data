@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Die Beisetzung des Staatssekretärs von Bülow.
+Found
+MODSMD_ARTICLE02: Die italienischen Flieger besuchen die deutsche Luftwaffe.
+Found
+MODSMD_ARTICLE03: Meisterschaft der Wehrmacht im Modernen Fünfkampf 1938.
+Found
+MODSMD_ARTICLE04: Parteipolitische Kundgebung der NS-lournalisten.
+Found
+MODSMD_ARTICLE05: Sudetendeutsche Wochenzeitung ans sechs Monate verboten.
+Found
+MODSMD_ARTICLE06: Eden nach Paris, der Negus nach Genf abgereist.
+Found
+MODSMD_ARTICLE07: Londons Stellung zur Meerengenfrage.
+Found

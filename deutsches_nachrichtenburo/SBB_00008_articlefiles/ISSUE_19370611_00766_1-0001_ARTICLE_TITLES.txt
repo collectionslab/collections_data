@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Chinesische Minister ehren Deutschlands Gefallene.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels spricht bei der Sonnwendfeier.
+Found
+MODSMD_ARTICLE03: Die Arbeitslosigkeit auf ein Minimum gesunken.
+Found
+MODSMD_ARTICLE04: Die KdF.-Reichstagung. 25 Nationen vertreten.
+Found
+MODSMD_ARTICLE05: Kubanischer Marinebesuch in Hamburg.
+Found
+MODSMD_ARTICLE06: Besuch schwedischer Schulschiffe in Danzig.
+Found
+MODSMD_ARTICLE07: „Schulter an Schulter" untersagt.
+Found
+MODSMD_ARTICLE08: Kommunistische Bande unschädlich gemacht.
+Found
+MODSMD_ARTICLE09: Neurath besucht die deutsche Schule in Sofia.
+Found
+MODSMD_ARTICLE10: Ungarns Presse begrüßt den deutschen Außenminister.
+Found
+MODSMD_ARTICLE11: Krofta muß die Presse Zurückpfeifen.
+Found
+MODSMD_ARTICLE12: Heulein-Kundgebungen wurden verboten.
+Found
+MODSMD_ARTICLE13: Sowjetpakt von Warschau und Bukarest abgelehnt.
+Found
+MODSMD_ARTICLE14: Polnische Juden gegen Bestrafung eines Meuchelmörders.
+Found
+MODSMD_ARTICLE15: Ecuador protestiert bei Peru.
+Found
+MODSMD_ARTICLE16: Kommunistenverhaftungen in Brasilien.
+Found

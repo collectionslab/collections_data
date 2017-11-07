@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Bericht des Oberkommandos der Wehrmacht.
+Found
+MODSMD_ARTICLE02: Ausbau der Stellung der Reichsverteidigungskommissare.
+Found
+MODSMD_ARTICLE03: Generalfeldmarschall von Mackensen in Danzig.
+Found
+MODSMD_ARTICLE04: „Regime Fascista" gegen törichte Gerüchte.
+Found
+MODSMD_ARTICLE05: Neue holländische Vorwürfe gegen Britannien.
+Found
+MODSMD_ARTICLE06: Griechische Anerkennung für deutsche Fürsorge.
+Found
+MODSMD_ARTICLE07: Die industrielle Erzeugung in der Sowjetunion.
+Found
+MODSMD_ARTICLE08: Paets billigt das russisch-estnische Protokoll.
+Found
+MODSMD_ARTICLE09: Höre Belisha kauft getragene Mäntel auf.
+Found
+MODSMD_ARTICLE10: Weitere Rationierungsmaßnahmen M England.
+Found
+MODSMD_ARTICLE11: Chamberlain nicht für Blaubuchveröffentlichung.
+Found
+MODSMD_ARTICLE12: Fadenscheinige Entschuldigungen.
+Found
+MODSMD_ARTICLE13: Der Rücktritt der Beamten im japanischen Außenamt.
+Found
+MODSMD_ARTICLE14: Die Chrysler-Werke in Detroit durch Streik stillgelegt.
+Found
+MODSMD_ARTICLE15: Kennzahl der Großhandelspreise im September.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Generalmajor Lob wieder im Reichsluftfahrtministerium.
+Found
+MODSMD_ARTICLE02: Noch keine tschechische nationale Einheitsfront.
+Found
+MODSMD_ARTICLE03: Prag will die jüdischen Emigranten loswerden.
+Found
+MODSMD_ARTICLE04: „Gazeta Polska" zu den Siegen der Japaner.
+Found
+MODSMD_ARTICLE05: Feierliche Ueberführung gefallener deutscher Soldaten.
+Found
+MODSMD_ARTICLE06: Der Duce vor den Schwarzhemden in Rom.
+Found
+MODSMD_ARTICLE07: Attlee bei Chamberlain.
+Found
+MODSMD_ARTICLE08: Neuer Generalsekretär im finnischen Außenministerium.
+Found
+MODSMD_ARTICLE09: Tagung der gesetzgebenden Versammlung in Sofia.
+Found
+MODSMD_ARTICLE10: Botschafter Coulondre von Moskau abgereist.
+Found
+MODSMD_ARTICLE11: Das Arabertum erwartet eine totale Lösung.
+Found
+MODSMD_ARTICLE12: Die Abschnürung Palästinas.
+Found
+MODSMD_ARTICLE13: Immer die gleichen Methoden britischer Mandatspolitik.
+Found
+MODSMD_ARTICLE14: Tokios Bevölkerung demonstriert den Endsieg.
+Found
+MODSMD_ARTICLE15: Flankenvorstoß nordwestlich Hankaus.
+Found
+MODSMD_ARTICLE16: Craigie im japanischen Außenministerium.
+Found
+MODSMD_ARTICLE17: Der Dank des Tenno an die Wehrmacht.
+Found
+MODSMD_ARTICLE18: Amerikanische Stimmen zu den Erklärungen Noosevelts.
+Found
+MODSMD_ARTICLE19: Amerika will eine „unbesiegbare" Flotte.
+Found
+MODSMD_ARTICLE20: Kardmal Mundelein bei Roosevelt.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Des Führers Abschied aus Innsbruck.
+Found
+MODSMD_ARTICLE02: Uebertragung der Heß-Rede auf den Deutschlandsender.
+Found
+MODSMD_ARTICLE03: Dr. Frick in Umstellen.
+Found
+MODSMD_ARTICLE04: Strafaussetzung in Oesterreich bei Straftaten aus Not.
+Found
+MODSMD_ARTICLE05: „Times" zum Empfang des Führers in Tirol.
+Found
+MODSMD_ARTICLE06: Norman wieder Gouverneur der Bank von England.
+Found
+MODSMD_ARTICLE07: London hält Blums Schicksal für besiegelt.
+Found
+MODSMD_ARTICLE08: Blum begründet den Finanzplan.
+Found
+MODSMD_ARTICLE09: Pariser Presse hält Regierungssturz für unvermeidlich.
+Found
+MODSMD_ARTICLE10: Neue Fabrikbesetznngen in Frankreich.
+Found
+MODSMD_ARTICLE11: „Frankreich gehört den Juden."
+Found
+MODSMD_ARTICLE12: 25 Jahre Schwedisch-Deutsche Vereinigung in Stockholm.
+Found
+MODSMD_ARTICLE13: Generali Franca hofft auf baldiges Kriegsende.
+Found
+MODSMD_ARTICLE14: Im Zeichen der „Nichteinmischung".
+Found
+MODSMD_ARTICLE15: Selbstmord des früheren Gesandten Buzdugan.
+Found

@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Das Rheinland beging den Jahrestag seiner Befreiung.
+Found
+MODSMD_ARTICLE02: Rosenberg vor W Wl) Amtsträgern in Düsseldorf.
+Found
+MODSMD_ARTICLE03: Die Lyoner Messe eröffnet.
+Found
+MODSMD_ARTICLE04: Bombenexplosion in französischem Schnellzug.
+Found
+MODSMD_ARTICLE05: „Boce d'Jtalia" über die Lage der Sudetendeutschen.
+Found
+MODSMD_ARTICLE06: Aegypten beschafft Kriegsmaterial.
+Found
+MODSMD_ARTICLE07: Der japanische Staatshaushalt vom Unterhaus verabschiedet.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Nationalsozialistische Wohnungspolitik in der Ostmark.
+Found
+MODSMD_ARTICLE02: Machtvolle Freudenkundgebungen der Memeldeutschen.
+Found
+MODSMD_ARTICLE03: Unfall des Präsidenten der Reichsgetreidestelle in Prag.
+Found
+MODSMD_ARTICLE04: Finanzverhandlungen London—Prag unterbrochen.
+Not Found
+MODSMD_ARTICLE05: Keine Arbeitserlaubnis für zugewanderte Juden.
+Found
+MODSMD_ARTICLE06: Jüdischer Waffenschieber unschädlich gemacht.
+Found
+MODSMD_ARTICLE07: Panamerikanischer Bündnisplan gescheitert. .
+Found
+MODSMD_ARTICLE08: Verschleierungstendenz in Lima.
+Found
+MODSMD_ARTICLE09: Washingtons Südamerika-Politik hat doppelten Boden.
+Found
+MODSMD_ARTICLE10: Die New Aorker Betrugsangelegenheit.
+Found
+MODSMD_ARTICLE11: Autobandit Heller hingerichtet.
+Found

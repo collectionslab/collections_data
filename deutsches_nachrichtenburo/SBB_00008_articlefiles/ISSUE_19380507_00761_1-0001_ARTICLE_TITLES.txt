@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: s,Tag des deutschen Handwerks."
+Found
+MODSMD_ARTICLE02: Die Auswirkung des englisch-italienischen Abkommens.
+Found
+MODSMD_ARTICLE03: England läßt Maschinengewehre in Kanada herstellen.
+Found
+MODSMD_ARTICLE04: Die belgische Regierung stellt Dienstag die Vertrauensfrage,
+Found
+MODSMD_ARTICLE05: Schweizer Bundesrat verbietet kommunistische Hetzbroschürc.
+Found
+MODSMD_ARTICLE06: Die schweizerische Neutralitätsfrage vor dem Bundesrat.
+Found
+MODSMD_ARTICLE07: Marxistischer Gewerkschaftsbonze stiehlt tili 000 Franken.
+Found
+MODSMD_ARTICLE08: Waffenschmuggel nach wie vor.
+Found
+MODSMD_ARTICLE09: Rote Söldner werden mit Maschinengewehren vorgetrieben»
+Found
+MODSMD_ARTICLE10: Fortgesetzte Niederlagen der spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE11: Nationale Erfolge bei Teruel.
+Found
+MODSMD_ARTICLE12: Massenverhaftungen von Kommunisten in Polen.
+Found
+MODSMD_ARTICLE13: Zwei neue polnische Ueberseeschisfe.
+Found
+MODSMD_ARTICLE14: Der Kamps um das ungarische Judengesetz.
+Found
+MODSMD_ARTICLE15: Lettische Emheitskultur.
+Found
+MODSMD_ARTICLE16: Anklageerhebung gegen Codreanu.
+Found
+MODSMD_ARTICLE17: Schwerer Autounfall des jugoslawischen Kultusministers.
+Found
+MODSMD_ARTICLE18: Die deutschen Zeitschristenverleger in Athen.
+Found
+MODSMD_ARTICLE19: Jahresfeier der Thronbesteigung des Königs Faruk.
+Found
+MODSMD_ARTICLE20: Der ägyptische Ministerpräsident über Palästina.
+Found
+MODSMD_ARTICLE21: Ein neues Einwanderungsgesetz in Brasilien.
+Found

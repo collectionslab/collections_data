@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer in Lodz.
+Found
+MODSMD_ARTICLE02: Brauchitsch beim Stabe des Generals von Reichenau.
+Found
+MODSMD_ARTICLE03: Tatkräftige Aktionen der deutschen Luftwaffe.
+Found
+MODSMD_ARTICLE04: Sinnlose Aufwiegelung polnischer Zivilisten,.
+Found
+MODSMD_ARTICLE05: Die Deutschen sollen Warschau vom Terror befreien.
+Found
+MODSMD_ARTICLE06: Die Blutschuld der polnischen Regierung nicht abzuleugnen.
+Found
+MODSMD_ARTICLE07: In England und Frankreich geschlossene Filmtheater.
+Found
+MODSMD_ARTICLE08: Für sie ist der Krieg aus!
+Found
+MODSMD_ARTICLE09: Der Außenhandel Jugoslawiens.
+Found
+MODSMD_ARTICLE10: Tagung der Oslo-Staaten beendet.
+Found
+MODSMD_ARTICLE11: Konferenz der nordischen Länder! in Kopenhagen.
+Found
+MODSMD_ARTICLE12: „London will sich vor der Bezahlung drücken."
+Found
+MODSMD_ARTICLE13: „Höchstens k bis 8 Monate!"
+Found
+MODSMD_ARTICLE14: Kaufkraft der lettischen Währung wird gesichert.
+Found
+MODSMD_ARTICLE15: Scheitern Englands türkische Pläne?
+Found
+MODSMD_ARTICLE16: Auch Nye für Beibehaltung des Waffenausfuhrverbots.
+Found

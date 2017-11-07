@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Weitere Beileidskundgebungen zum Tode von Bülows.
+Found
+MODSMD_ARTICLE02: Agnes Miegel erhält den Herder-Preis.
+Found
+MODSMD_ARTICLE03: Die Entschuldung der überschuldeten Erbhöfe.
+Found
+MODSMD_ARTICLE05: Die Osthilfeschlußverordnung.
+Found
+MODSMD_ARTICLE06: Reichstagung der nationalsozialistischen Journalisten.
+Found
+MODSMD_ARTICLE07: Die Franziskaner-Brüder vor Gericht.
+Found
+MODSMD_ARTICLE08: Die Verhandlungen in Montreux.
+Found
+MODSMD_ARTICLE09: Internationale Arbeitskammer stimmt für bezahlte Serien.
+Found
+MODSMD_ARTICLE10: Holland ermüßigt den Diskontsatz.
+Found
+MODSMD_ARTICLE11: Neue Streiks in Frankreich.
+Found
+MODSMD_ARTICLE12: Die „Stampa" zur Rede DelbVssi
+Found
+MODSMD_ARTICLE13: Streiks gefährden die spanische Landwirtschaft.
+Found
+MODSMD_ARTICLE14: Chinesischer Zollkutter beschoß japanisches Frachtschiff.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Generalfeldmarschall Görinn gratuliert.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels vor den Leitern der Reichspropagandaämter.
+Found
+MODSMD_ARTICLE03: Der Reichsfinanzminister in Troppau.
+Found
+MODSMD_ARTICLE04: Italien begeht feierlich den „Tag des Heeres".
+Found
+MODSMD_ARTICLE05: „Bündnis gegen alle zukünftigen Eventualitäten".
+Found
+MODSMD_ARTICLE06: Teutschlands Marine ehrt Portugals Gefallene.
+Found
+MODSMD_ARTICLE07: Tagung der Kroatischen Bauernpartei.
+Found
+MODSMD_ARTICLE08: Spanische Forderungen an Frankreich.
+Found
+MODSMD_ARTICLE09: Mnglische Generale besichtigen die Maginot-Linie.
+Found
+MODSMD_ARTICLE10: Jud Blum reist in Einkreisung.
+Found
+MODSMD_ARTICLE11: „Daily Expreß" tippt auf Preissteigerung.
+Found
+MODSMD_ARTICLE12: Hore-Velisha verteidigt das Wehrpflichtgesetz.
+Found
+MODSMD_ARTICLE13: Engländer in Palästina machtlos.
+Found
+MODSMD_ARTICLE14: Stoßseufzer aus Australien.
+Found
+MODSMD_ARTICLE15: Schweres Flugzeugunglück in Ekuador.
+Found
+MODSMD_ARTICLE16: Vollstreckung eines Todesurteils.
+Found

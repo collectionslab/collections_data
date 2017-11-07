@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Hauptamt für Kommunalpolttik.
+Found
+MODSMD_ARTICLE02: Die große Aufgabe des Nationalsozialismus.
+Found
+MODSMD_ARTICLE03: Bindung und Pflicht für die Gemeinden selbst.
+Found
+MODSMD_ARTICLE04: Gemeindeverwaltung und Partei.
+Found

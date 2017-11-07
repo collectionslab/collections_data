@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Frank über Rechtswissenschaft und Geistesgeschichte.
+Found
+MODSMD_ARTICLE03: Prag entläßt die Reservisten.
+Found
+MODSMD_ARTICLE04: Die Tschechen verweigern polnischen Fliegern Hilfe.
+Found
+MODSMD_ARTICLE05: Sowjeispanien erkennt seine hoffnungslose Lage.
+Found
+MODSMD_ARTICLE06: Die Angst vor „trotzkistischer Sabotage".
+Found
+MODSMD_ARTICLE07: Bau des Nikaragua-Kanales vertagt.
+Found
+MODSMD_ARTICLE08: Hangtschau das Zweite Hongkong.
+Found

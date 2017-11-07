@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: In den Volksgerichtshof berufen.
+Found
+MODSMD_ARTICLE02: Avanguardisten auf Reichsausstellung „Schaffendes Volk".
+Found
+MODSMD_ARTICLE03: Zuchthaus für jüdischen Rassenschänder.
+Found
+MODSMD_ARTICLE04: Die deutsch-polnische Frontkkmpferbegegnung.
+Found
+MODSMD_ARTICLE05: Die norditalienische Presse Zur Erklärung Cianos.
+Found
+MODSMD_ARTICLE06: Erfolg der britischen Vorschläge von Moskau abhängig.
+Found
+MODSMD_ARTICLE07: England für Rückkehr der baskischen Flüchtlingskinder. . *
+Found
+MODSMD_ARTICLE08: Die „Times" für Segelflugförderung in England.
+Found
+MODSMD_ARTICLE09: Die Pariser Autodroschken erhöhen Tarife um 25 v. H.
+Found
+MODSMD_ARTICLE10: Verstärkter Druck auf die Regierung Chautemps.
+Found
+MODSMD_ARTICLE11: Neuer tschechoslowakischer Gesandter in Moskau.
+Found
+MODSMD_ARTICLE12: Japanischer Mottenbesuch in der Türkei.
+Found
+MODSMD_ARTICLE13: Peiping noch immer von der Welt abgeschnitten.
+Found

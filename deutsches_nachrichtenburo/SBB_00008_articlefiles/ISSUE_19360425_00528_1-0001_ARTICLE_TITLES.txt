@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Neue Vorschriften für die Vergebung von Leistungen.
+Found
+MODSMD_ARTICLE02: Neichsminister Darre im Dresdener Rathaus.
+Found
+MODSMD_ARTICLE03: Der Besuch des Stoßtrupp Hitler 1323 in Stettin.
+Found
+MODSMD_ARTICLE04: Großer Erfolg des Pianisten Edwin Mischer in Stockholm.
+Found
+MODSMD_ARTICLE05: Deutscher Gelehrter vom König Boris empfangen.
+Found
+MODSMD_ARTICLE06: Die Bestrafung des „Memeler Tampfboot"-Verlages.
+Found
+MODSMD_ARTICLE07: Die Besuche Chamberlains in Wien und Prag.
+Found
+MODSMD_ARTICLE08: Eine Erklärung des Ministerpräsidenten Koscialkowski.
+Found
+MODSMD_ARTICLE09: Baldwin zum Wochende abgereist.
+Found
+MODSMD_ARTICLE10: Eine „Mandats-Gruppe" im Unterhaus.
+Found
+MODSMD_ARTICLE11: Lord Amulree wünscht Wiederaufnahme des Luftschiffbaues.
+Found
+MODSMD_ARTICLE12: Tie verunglückten englischen Schüler beigesetzt.
+Found
+MODSMD_ARTICLE13: Norwegens Außenminister verläßt Sowjetrußland.
+Found
+MODSMD_ARTICLE14: Diplomatische Besprechungen in Rom.
+Found
+MODSMD_ARTICLE15: Der Bormarsch der Italiener in Abessinien.
+Found
+MODSMD_ARTICLE16: Italienische Soldaten aus der Gefangenschaft ausgebrochen.
+Found
+MODSMD_ARTICLE17: Weiterhin gespannte Lage in Palästina.
+Found
+MODSMD_ARTICLE18: Zusammenstöße zwischen Hindus und Mohammedanern.
+Found
+MODSMD_ARTICLE19: Handelsvertrag USA—Guatemala.
+Not Found
+MODSMD_ARTICLE20: Nach Kuba und den Philippinen Portorico.
+Found
+MODSMD_ARTICLE21: Parteipolitisches Betätigungsverbot in Paraguay.
+Found

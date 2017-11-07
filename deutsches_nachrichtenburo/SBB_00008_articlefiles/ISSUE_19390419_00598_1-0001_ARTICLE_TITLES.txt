@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer empfängt die beförderten SS.-lunker.
+Found
+MODSMD_ARTICLE02: Beförderungen in der Wehrmacht.
+Found
+MODSMD_ARTICLE03: Goethe-Medaille für Professor Rüdin.
+Found
+MODSMD_ARTICLE04: General Rusfo bei Stabschef Lutze.
+Found
+MODSMD_ARTICLE05: Tie Geburtenzunahme im Deutschen Reich 1934 bis 1938.
+Found
+MODSMD_ARTICLE06: Berlins Maibaum kommt aus dem Böhmerwald.
+Found
+MODSMD_ARTICLE07: Baldur von Schirach nimmt die Zehnjährigen auf.
+Found
+MODSMD_ARTICLE08: Das Geschenk der Partei für den Führer.
+Found
+MODSMD_ARTICLE09: General Blaskowitz au Korpsführer Hühnlein.
+Found
+MODSMD_ARTICLE10: Führer-Geburtstagsfeiern in der Slowakei.
+Found
+MODSMD_ARTICLE11: Das faschistische Italien feiert mit.
+Found
+MODSMD_ARTICLE12: Lord Weir Mmütionsmimster?
+Found

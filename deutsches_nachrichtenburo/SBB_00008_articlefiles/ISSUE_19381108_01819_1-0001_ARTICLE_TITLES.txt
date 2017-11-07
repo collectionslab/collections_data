@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Autobahn-Rasthof „Magdeburger Börde" eröffnet.
+Found
+MODSMD_ARTICLE02: Beisetzung des Oberreichsauwalts Paretz.
+Found
+MODSMD_ARTICLE03: Die ersten Ordensjunker in der Ostmark ausgemustert.
+Found
+MODSMD_ARTICLE04: Franeois-Poncet über seine Aufgabe in Rom.
+Found
+MODSMD_ARTICLE05: Die Pariser Presse zur Aufgabe Fraueois-Koueets.
+Found
+MODSMD_ARTICLE06: Der Besuch Pirows bei Chamberlain.
+Found
+MODSMD_ARTICLE07: London zur Rede des Reichsaußenministers.
+Found
+MODSMD_ARTICLE08: Spaak hat gesiegt.
+Found
+MODSMD_ARTICLE09: Ter nationale Heeresbericht.
+Found
+MODSMD_ARTICLE10: Ungarischer Gesetzentwurf über die Rückgliederung.
+Found
+MODSMD_ARTICLE11: Gegen jüdische Professoren und Studenten.
+Found
+MODSMD_ARTICLE12: Weitere englische Verstärkungen in Palästina.
+Found
+MODSMD_ARTICLE13: Ausdehnung der japanischen Operationszone.
+Found
+MODSMD_ARTICLE14: Das Befinden des Legationssekretärs vom Rath.
+Found
+MODSMD_ARTICLE15: Chinesische Truppenzusammenziehungen in Hunan.
+Found
+MODSMD_ARTICLE16: Japans Kriegsbeute in China.
+Found
+MODSMD_ARTICLE17: Gerüchte über einen Aufstand in Blagolojeschtschensk.
+Found

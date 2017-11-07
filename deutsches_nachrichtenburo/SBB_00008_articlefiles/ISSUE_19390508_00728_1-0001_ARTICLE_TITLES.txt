@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Beamtenschaft grüßt den Führer.
+Found
+MODSMD_ARTICLE02: Brauchitsch bei einer italienischen Gefechtsübung.
+Found
+MODSMD_ARTICLE03: Ciano in Rom begeistert empfangen.
+Found
+MODSMD_ARTICLE04: Friedensgeist die Grundlage des neuen Bündnisses.
+Found
+MODSMD_ARTICLE05: Der neue englische Botschafter in Rom.
+Found
+MODSMD_ARTICLE06: Eröffnung einer Belgischen Akademie in Rom.
+Found
+MODSMD_ARTICLE07: Deutsche Ingenieure bereisen Rumänien.
+Found
+MODSMD_ARTICLE08: „Nichtangriffsversprechen mit Neutralität vereinbar."
+Found
+MODSMD_ARTICLE09: Litauen schließt kein Militärbündnis mit Warschau.
+Found
+MODSMD_ARTICLE10: Moskaus neuer Botschafter in Warschau ernannt.
+Found
+MODSMD_ARTICLE11: Ausweisung von 300 Volksdeutschen aus Neutomischel.
+Found
+MODSMD_ARTICLE12: Was die Engländer „Palästinapolitik" nennen.
+Found
+MODSMD_ARTICLE13: England in der Zwickmühle.
+Found
+MODSMD_ARTICLE14: Japan und die Einkreisungsbestrebungen Englands.
+Found
+MODSMD_ARTICLE15: Argentinien vom Mailänder Abkommen überrascht.
+Found
+MODSMD_ARTICLE16: Amerika begreift den wahren Sinn des Bündnisses.
+Found

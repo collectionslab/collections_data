@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: 44. Geburtstag des Prinzregenten Paul.
+Found
+MODSMD_ARTICLE02: Adolf Hitler-Preis zur Förderung des Segelflugs.
+Found
+MODSMD_ARTICLE03: Aus der Verwaltung.
+Found
+MODSMD_ARTICLE04: Tschammer-Osten 4 Jahre Reichssportführer.
+Found
+MODSMD_ARTICLE05: Forschungsinstitut für Wohnungs- und Siedlungswesen.
+Found
+MODSMD_ARTICLE06: Regelung der Arbeitszeit zu Pfingsten.
+Found
+MODSMD_ARTICLE07: Deutsche Lufthansa fliegt ab 1. Mai nach Helsinki.
+Found
+MODSMD_ARTICLE08: Der Mord an der Diplomatentochter aufgeklärt.
+Found
+MODSMD_ARTICLE09: Der Besuch Cianos in Albanien.
+Found
+MODSMD_ARTICLE10: Chamberlain wird kritisiert.
+Found
+MODSMD_ARTICLE12: London am 1. Mai von Verkehrsstreik bedroht.
+Found
+MODSMD_ARTICLE13: Die Londoner Blätter zu den Brüsseler Ergebnissen.
+Found
+MODSMD_ARTICLE14: Pariser Blätter zu Edens Besprechungen in Brüssel.
+Found
+MODSMD_ARTICLE15: Cot in London.
+Found
+MODSMD_ARTICLE16: Bolschewistischer Waffenaufkäufer von Scotland Aard gesucht.
+Found

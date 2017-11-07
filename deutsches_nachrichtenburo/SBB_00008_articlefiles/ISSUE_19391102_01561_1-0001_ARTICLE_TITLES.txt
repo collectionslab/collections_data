@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Amtseinführung des Reichsstatthalters Greiser.
+Found
+MODSMD_ARTICLE02: Dr. Frick im Warthegau.
+Found
+MODSMD_ARTICLE03: Eröffnung der Weichselbrücke bei Graudenz.
+Found
+MODSMD_ARTICLE04: Die Westukraine in die Sowjetunion aufgenommen.
+Found
+MODSMD_ARTICLE05: „Gehört Sumatra zu Britisch-Jndien?"
+Found
+MODSMD_ARTICLE06: Rasche Schrumpfung der englischen Zinnvorräte.
+Found
+MODSMD_ARTICLE07: Das englische Piratentum gegen die Neutralen.
+Found
+MODSMD_ARTICLE08: Flugblattprotest der französischen Arbeiter und Bauern.
+Found
+MODSMD_ARTICLE09: So wird das französische Volk „unterrichtet".
+Found
+MODSMD_ARTICLE10: Churchill wieder am Werk!
+Found

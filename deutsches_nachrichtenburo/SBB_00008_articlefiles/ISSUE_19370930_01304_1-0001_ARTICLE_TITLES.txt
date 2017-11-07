@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Staatssekretär Reinhardt über Steuerfragen.
+Found
+MODSMD_ARTICLE02: Rom im Festschmuck.
+Found
+MODSMD_ARTICLE03: Unerhörter Vorfall in Ostoberschlesien.
+Found
+MODSMD_ARTICLE04: Hohe polnische Auszeichnung für Hlinka.
+Found
+MODSMD_ARTICLE05: Ungarn und die Kleine Entente.
+Found
+MODSMD_ARTICLE06: Die Macht des jüdischen Großkapitals in Ungarn.
+Found
+MODSMD_ARTICLE07: Die deutsch-jugoslawischen Wirtschaftsbeziehungen.
+Found
+MODSMD_ARTICLE08: Aus der Völkerbundsversammlung.
+Found
+MODSMD_ARTICLE09: Motta über die schweizerische Spanien-Politik.
+Found
+MODSMD_ARTICLE10: Die Arbeit der Marinesachverständigen beendet.
+Found
+MODSMD_ARTICLE11: Moskaus Sendboten in Riga unschädlich gemacht.
+Found
+MODSMD_ARTICLE12: Japans Presse über den Völkerbund erbittert.
+Found
+MODSMD_ARTICLE13: Japan antwortet den Westmächten.
+Found

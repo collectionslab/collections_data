@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Beschleunigte Verbindung Schlesien—Ostmark.
+Not Found
+MODSMD_ARTICLE02: 5Kg 030 Schaffende in der Ostmark von der DAF. erfaßt.
+Found
+MODSMD_ARTICLE03: Bruno Mussolini heiratet.
+Found
+MODSMD_ARTICLE04: Die deutschen Kliniken in Prag wieder zurückgegeben.
+Found
+MODSMD_ARTICLE05: Budapest wie Prag für Schiedsverfahren.
+Found
+MODSMD_ARTICLE06: Der Ausbau der slowakischen Autonomie.
+Found
+MODSMD_ARTICLE07: Regierungskommissare bei Zeitungen in der Slowakei.
+Found
+MODSMD_ARTICLE08: Kein antipolnischer Block.
+Found
+MODSMD_ARTICLE09: Bonnet über die künftige französische Außenpolitik.
+Found
+MODSMD_ARTICLE10: Der Radikalsoziale Parteitag zur Außenpolitik.
+Found
+MODSMD_ARTICLE11: Japanischer Vormarsch in Hupeh.
+Found

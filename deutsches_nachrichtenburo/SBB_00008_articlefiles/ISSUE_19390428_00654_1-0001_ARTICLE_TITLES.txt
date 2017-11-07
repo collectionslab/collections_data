@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Führer gratuliert Prinzregent Paul.
+Found
+MODSMD_ARTICLE02: Fürst Colonna zu Gast beim Reichsminister des Auswärtigen.
+Found
+MODSMD_ARTICLE03: Cincar-Markowitsch hat Berlin verlassen.
+Found
+MODSMD_ARTICLE04: Der finnische Kultusminister aus Berlin abgereist.
+Found
+MODSMD_ARTICLE05: Richtfest für den Neubau der jugoslawischen Gesandschaft.
+Found
+MODSMD_ARTICLE06: Die Auszeichnung der Musterbetriebe.
+Found
+MODSMD_ARTICLE07: Türkische Ehrengäste in München.
+Found
+MODSMD_ARTICLE08: Ehrungen für Albert Roth.
+Found
+MODSMD_ARTICLE09: Der 1. Mai im Protektorat.
+Found
+MODSMD_ARTICLE10: Mrpathendeutsche hören den Führer.
+Found
+MODSMD_ARTICLE11: Die Romreise Tisos verschoben.
+Found
+MODSMD_ARTICLE12: Paris erwartet die Führer-Rede mit ungeheurer Spannung.
+Found
+MODSMD_ARTICLE13: Der Schirlingsbecher wird gesüßt.
+Found
+MODSMD_ARTICLE14: Gafencu erneut bei Bonnet.
+Found
+MODSMD_ARTICLE15: Volle Zustimmung zur Lösung der kroatischen Frage.
+Found
+MODSMD_ARTICLE16: Neuer Generalstabschef der Vereinigten Staaten.
+Found
+MODSMD_ARTICLE17: Streikende legten in New Jork den Verkehr still.
+Found
+MODSMD_ARTICLE18: Tolle Zustände natürlich in USA.
+Found
+MODSMD_ARTICLE19: Verwahrung der mexikanischen Regierung.
+Found
+MODSMD_ARTICLE20: Australiens selbständige Pazifik-Politik.
+Found

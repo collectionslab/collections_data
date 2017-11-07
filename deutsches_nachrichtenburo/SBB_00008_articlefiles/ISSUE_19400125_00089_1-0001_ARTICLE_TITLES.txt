@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Das Beileid des Führers zum Tode Mottas.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels vor den Zeitschriften-Schriftleitern.
+Found
+MODSMD_ARTICLE03: Unerhörte Zumutung Frankreichs.
+Found
+MODSMD_ARTICLE04: Mit fremden Augen.
+Found
+MODSMD_ARTICLE05: Dr. Lcy wieder bei den Westwall-Arbeitern.
+Found
+MODSMD_ARTICLE06: Ein neuer Lieferungsskandal in England.
+Found
+MODSMD_ARTICLE07: England läßt Matrosenmütter und Witwen verhungern!
+Found
+MODSMD_ARTICLE08: Strandräuber an Englands Küsten.
+Found
+MODSMD_ARTICLE09: Die Toten müssen Sold zurückzahlen.
+Found
+MODSMD_ARTICLE10: „Neuer Rückgang! des Pfundes zu befürchten."
+Found
+MODSMD_ARTICLE11: Englischer Schiffskauf in Portugal verboten.
+Found
+MODSMD_ARTICLE12: Nationalbewußtsein gegen britische Beherrschungsamsprüche.
+Found

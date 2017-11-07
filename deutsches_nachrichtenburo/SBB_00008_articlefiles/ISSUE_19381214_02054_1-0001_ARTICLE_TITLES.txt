@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: 8b Befestigungsarbeiter von Dr. Goebbels empfangen.
+Found
+MODSMD_ARTICLE02: Das Vermögen der „armen" Judenmillionäre Hamburgs.
+Found
+MODSMD_ARTICLE03: Die Stellung der Deutschen in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE04: „Leider haben wir nicht rechtzeitig begriffen." *
+Found
+MODSMD_ARTICLE05: In Tyrnau brannten zwei Synagogen.
+Found
+MODSMD_ARTICLE06: Erweiterte Aufgaben des Herder-Instituts in Riga.
+Found
+MODSMD_ARTICLE07: Das lettische Neutralitätsgesetz.
+Found
+MODSMD_ARTICLE08: Das Urteil im Plewitzkaja-Prozeß.
+Found
+MODSMD_ARTICLE09: „Das Wettrüsten der Demokratien."
+Found
+MODSMD_ARTICLE10: Die Bevölkernngsverhältnisse in Tunis.
+Found
+MODSMD_ARTICLE11: Brasilianische Abfuhr für Morgenthau.
+Found

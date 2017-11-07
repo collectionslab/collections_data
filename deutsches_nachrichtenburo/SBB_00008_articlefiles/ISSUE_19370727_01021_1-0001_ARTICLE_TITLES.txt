@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Roggen und Weizen im Dienst der Brotversorgung.
+Found
+MODSMD_ARTICLE02: Die Polizei im Dienste des Ernteschutzes.
+Found
+MODSMD_ARTICLE03: Die Reichssteuereinnahmen im Juni.
+Found
+MODSMD_ARTICLE04: Außenminister Eden über die Lage in Nordchina.
+Found
+MODSMD_ARTICLE05: Großadmiral Gough-Calthorpe f.
+Found
+MODSMD_ARTICLE06: Prüfung der Palästinavorschläge.
+Found
+MODSMD_ARTICLE07: Streik in den Pariser Schlachthäusern.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer an die Neichsverkehrsgruppe Schienenbahuen.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Das SS.-Führerkorps am Tage der Nationalen Solidarität.
+Found
+MODSMD_ARTICLE04: Der Schulzeiterlaß des Reichserziehungsministers.
+Found
+MODSMD_ARTICLE05: Bucheckernsammlung der Hitler-Jugend.
+Found
+MODSMD_ARTICLE06: Tr. Goebbels vor Angehörigen der Nationalpolitischen Erziehungsanstalt Spandau.
+Not Found
+MODSMD_ARTICLE07: Tagung in Nationalpolitischer Erziehungsanstalt Spandau.
+Found
+MODSMD_ARTICLE08: NSKK. leitet Motorsportausbildung auf Ordensburgen.
+Found
+MODSMD_ARTICLE09: Alfred Rosenberg vor dem fränkischen SA.-Fü^rerkorps.
+Found
+MODSMD_ARTICLE10: Kurze Sitzung des englischen Oberhauses.
+Found
+MODSMD_ARTICLE11: Freiwilligen-Frage vor Nichteinmischungsunterausschuß.
+Found
+MODSMD_ARTICLE12: Dringlichkeitsverfahren für Frankreichs Haushaltsplan.
+Found
+MODSMD_ARTICLE13: Fortschreitende Teuerung in Frankreich.
+Found
+MODSMD_ARTICLE14: Wieder ein viehischer Notmord in Spanien.
+Found
+MODSMD_ARTICLE15: Vorverlegung der schweizerischen Truppenordnnng.
+Found
+MODSMD_ARTICLE16: Keine Zurückziehung der Truppen Japans aus Tsingtau.
+Found

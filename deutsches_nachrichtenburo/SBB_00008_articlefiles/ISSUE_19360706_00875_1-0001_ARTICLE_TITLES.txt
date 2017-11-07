@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Die Genfer Entschließung zur Aufhebung der Sanktionen.
+Found
+MODSMD_ARTICLE02: Die abessinischen Entschließungsentwürfe.
+Found
+MODSMD_ARTICLE03: Die 16. Bölkerbundsversammlung abgeschlossen.
+Found
+MODSMD_ARTICLE04: Öffentliche Sitzung des Völkerbundsrates.
+Found
+MODSMD_ARTICLE05: Anklagerede des Senatspräsidenten Greiser vor dem Völkerbundsrat.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Glückwünsche fremder Staatsoberhaupter und Regierungschefs.
+Found
+MODSMD_ARTICLE02: Ostmark und Sudetenland Reichsgaue.
+Found
+MODSMD_ARTICLE03: Manfred von Richthofens 21. Todestag.
+Found
+MODSMD_ARTICLE04: Ernennung,
+Found
+MODSMD_ARTICLE05: Die Wehrmacht dankt der NSV.
+Found
+MODSMD_ARTICLE06: Die ungarische Regierungspartei lehnt „Ehrenarier" ab.
+Found
+MODSMD_ARTICLE07: Italiens Freudschaft zu Jugoslawien.
+Found
+MODSMD_ARTICLE08: Gafencu beim König der Belgier.
+Found
+MODSMD_ARTICLE09: Für Eindämmung der Pressehetze in Stidwestafrika.
+Found
+MODSMD_ARTICLE10: „Roosevelt erzengt vorsätzlich Kriegspsychose."
+Found
+MODSMD_ARTICLE11: Gegen Roosevelts gewissenlose Ablenkungsmanöver.
+Found

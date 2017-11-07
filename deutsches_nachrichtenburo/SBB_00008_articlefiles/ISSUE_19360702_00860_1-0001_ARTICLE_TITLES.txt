@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Dr. Jrick zum Unfall des Musikzuges der Leibstandarte.
+Found
+MODSMD_ARTICLE03: Ein Reichsinstitut für Vor- und Frühgeschichte.
+Found
+MODSMD_ARTICLE04: Exzellenz Lewald über die Olympischen Spiele.
+Found
+MODSMD_ARTICLE05: Auflösung des Deutschen und des Preußischen Philologenverbandes.
+Not Found
+MODSMD_ARTICLE06: Quedlinburg nach der Heinrich-Feier.
+Found
+MODSMD_ARTICLE07: Staatsrai Eggeling zum SS-Brigadeführer ernannt.
+Found
+MODSMD_ARTICLE08: Reichskriegertag 1936.
+Found
+MODSMD_ARTICLE09: Teilstrecken der deutschen Alpenstraste eröffnet.
+Found
+MODSMD_ARTICLE10: Einweihung des Heims der Lisfaboner Hitlerjugend.
+Found
+MODSMD_ARTICLE11: Die Leistungen an die „Phönix"-Versicherungsnehmer.
+Found
+MODSMD_ARTICLE12: Danziger Fragen am Sonnabend vor Völkerbundsrat.
+Found
+MODSMD_ARTICLE13: Die Nachmittagssitzung der Völkerbundsversammlung.
+Found
+MODSMD_ARTICLE14: Freimaurernmtriebe in Ungarn.
+Found
+MODSMD_ARTICLE15: Protest des japanischen Botschafters in Moskau.
+Found

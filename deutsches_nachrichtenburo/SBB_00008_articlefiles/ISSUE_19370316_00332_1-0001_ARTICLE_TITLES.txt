@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Zwei Jahre deutsche Wehrfreiheit. Gedenkansprache des Generalobersten Göring.
+Found
+MODSMD_ARTICLE02: Die Aufgaben der Bernfserziehung im Vierjahresplan.
+Found
+MODSMD_ARTICLE03: Eine Ehrung für den Führer in München.
+Found
+MODSMD_ARTICLE04: Begrüßung des neuen polnischen Vertreters in Danzig.
+Found

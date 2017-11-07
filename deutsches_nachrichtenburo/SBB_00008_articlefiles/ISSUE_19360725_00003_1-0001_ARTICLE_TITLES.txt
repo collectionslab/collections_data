@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ein Ehrenpreis des Führers für die Transatlantik-Regatta.
+Found
+MODSMD_ARTICLE02: Präsident Baillet-Latour an die Reichsrundfunkgesellschaft.
+Found
+MODSMD_ARTICLE03: Der Reichssportfnhrer telefoniert mit Tokio.
+Found
+MODSMD_ARTICLE04: Erste Attachesitzung im Olympischen Dorf.
+Found
+MODSMD_ARTICLE05: Das Olympia-Banner in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE06: Die Amerikaner sind da!
+Found
+MODSMD_ARTICLE07: „Ein wahrhaft königlicher Empfang".
+Found
+MODSMD_ARTICLE08: Der olympische Fackellauf.
+Found
+MODSMD_ARTICLE09: Die bulgarische Grenze überschritten.
+Found
+MODSMD_ARTICLE10: Die Fackel naht!
+Found
+MODSMD_ARTICLE11: Der Weg durch Berlin.
+Found
+MODSMD_ARTICLE12: 12 weitere Seglermannschaften in Kiel.
+Found
+MODSMD_ARTICLE13: Ans der amerikanischen Mannschaft ausgestoßen.
+Found

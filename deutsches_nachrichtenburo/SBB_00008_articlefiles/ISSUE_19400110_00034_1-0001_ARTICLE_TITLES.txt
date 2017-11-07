@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: „Tevere" entlarvt Englands erbärmliches Spiel.
+Found
+MODSMD_ARTICLE02: Tiso empfing den ungarischen Gesandten.
+Found
+MODSMD_ARTICLE03: England stiehlt holländisches Eigentum.
+Found
+MODSMD_ARTICLE04: Gefängnisstrafen als Druckmittel im Lohnkampf.
+Found
+MODSMD_ARTICLE05: Kommandeur der englischen Flieger in Frankreich.
+Found
+MODSMD_ARTICLE06: „Noch harte Schläge für die britische Handelsflotte."
+Found
+MODSMD_ARTICLE07: W. C. verabschiedet sich in Aacht-Klub-Uniform.
+Found
+MODSMD_ARTICLE08: Kein Gehalt, aber Schikanen.
+Found
+MODSMD_ARTICLE09: Auch eine Folge des englischen Krieges.
+Found
+MODSMD_ARTICLE10: Dänemark fordert von England Schadenersatz.
+Found
+MODSMD_ARTICLE11: Sowjetrussen bei der Eröffnung der Universität Preßburg.
+Found
+MODSMD_ARTICLE12: „England und Frankreich schon immer gegen Rußland."
+Found
+MODSMD_ARTICLE13: 8 bewaffnete Kriegs- und Handelsschiffe versenkt.
+Found
+MODSMD_ARTICLE14: Bulgarien begrüßt den Handelsvertrag mit Rußland.
+Found
+MODSMD_ARTICLE15: Roosevelt spricht über Amerikas große Präsidenten.
+Found
+MODSMD_ARTICLE16: Besprechungen zur Bildung einer neuen Regierung in Japan
+Found
+MODSMD_ARTICLE17: England drängelt sich in Tschungking vor.
+Found

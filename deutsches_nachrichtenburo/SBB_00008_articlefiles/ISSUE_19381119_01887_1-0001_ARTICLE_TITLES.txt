@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Botschafter Coulondre in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE02: Mussolini eröffnet Bergwerksausstellung.
+Found
+MODSMD_ARTICLE03: Militärische Vorbereitung der polnischen Landjugend.
+Found
+MODSMD_ARTICLE04: Sieben Polen zu je 18 Monaten Gefängnis verurteilt.
+Found
+MODSMD_ARTICLE05: Absatzschwierigkeiten und Teuerung im Olsa-Gebiet.
+Found
+MODSMD_ARTICLE06: Aniijüdische Kundgebung in Lemberg.
+Found
+MODSMD_ARTICLE07: 29 Jahre lettische Unabhängigkeit.
+Found
+MODSMD_ARTICLE08: Die Deutschen in der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE09: Der Staatsbesuch des französischen Präsidenten in London.
+Found
+MODSMD_ARTICLE10: Ein Bericht über Spanien.
+Found
+MODSMD_ARTICLE11: Lord Nuffield: Schluß mit den Nörgeleien.
+Found
+MODSMD_ARTICLE12: Sir John Simon ist besorgt um die Juden in Deutschland.
+Found
+MODSMD_ARTICLE13: Schärfste Kritik an den neuen Handelsverträgen.
+Found
+MODSMD_ARTICLE14: Wieder schwere Kämpfe in Palästina.
+Found
+MODSMD_ARTICLE15: Tynamitexplosion in einer Synagoge.
+Found
+MODSMD_ARTICLE16: Die aufreizende Heuchelei der Genfer Liga.
+Found
+MODSMD_ARTICLE17: Panzerschiff „Admiral Graf Spee" .in Bilbao.
+Found

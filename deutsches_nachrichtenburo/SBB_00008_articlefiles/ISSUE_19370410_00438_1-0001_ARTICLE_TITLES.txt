@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Eröffnung des Dankopfers der Nation.
+Found
+MODSMD_ARTICLE02: Die Vorbereitungen zum Nationalfeiertag beginnen.
+Found
+MODSMD_ARTICLE03: Ministerialrat Hanke Zum Ministerialdirektor ernannt.
+Found
+MODSMD_ARTICLE04: Die deutschen Seestreitkräfte in spanischen Gewässern.
+Found
+MODSMD_ARTICLE05: Auszeichnung für den italienischen Film „Mario".
+Found
+MODSMD_ARTICLE06: 366 666 Arbeitslose im März weniger.
+Found
+MODSMD_ARTICLE07: Neuregelung der Rückgriffshaftung der Soldaten.
+Found
+MODSMD_ARTICLE08: Rossaint plante „Studienreife" nach Sowjetrußland.
+Found
+MODSMD_ARTICLE09: Milde Strafe für amerikanische Freiwillige.
+Found
+MODSMD_ARTICLE10: Neue Brutalitäten der spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE11: Die Kennzahl der Großhandelspreise vom 7. April 1937.
+Found

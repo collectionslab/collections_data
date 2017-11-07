@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Mineralogentagung in Graz eröffnet.
+Found
+MODSMD_ARTICLE02: Auch in Aussig ein sudetendeutscher Bürgermeister gewählt.
+Found
+MODSMD_ARTICLE03: Der geheime Prager Haushaltsvoranschlag»
+Found
+MODSMD_ARTICLE04: Autonomie der Slowakei eine „unabweisbare Lösung".
+Found
+MODSMD_ARTICLE05: Autounfall des estländischen Bildungsministers.
+Found
+MODSMD_ARTICLE06: Die ungarische Presse zur Anerkennung der Wehrhoheit.
+Found
+MODSMD_ARTICLE07: Schiltst mit Fudeu in der Verwaltung.
+Found
+MODSMD_ARTICLE08: „Das italienische Volk vergißt diese Beleidigungen nicht."
+Found
+MODSMD_ARTICLE09: Die Radikalsozialeu stehen hinter Taladier.
+Found
+MODSMD_ARTICLE10: Japanische Offensive gegen Hankau.
+Found
+MODSMD_ARTICLE11: Konzentrationslager in Brasilien.
+Found

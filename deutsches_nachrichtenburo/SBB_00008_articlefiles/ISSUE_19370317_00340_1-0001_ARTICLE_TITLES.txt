@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer besucht Ausstellung „Das deutsche Bühnenbild".
+Found
+MODSMD_ARTICLE02: Zum Ablauf des Genfer Minderheitenschutzabkommens.
+Found
+MODSMD_ARTICLE03: Wolfgang von Gronau in Kapstadt.
+Found
+MODSMD_ARTICLE04: Deutsche Wertarbeit in Griechenland.
+Found
+MODSMD_ARTICLE05: Kommunistische Massenversammlung in Paris angekündigt.
+Found
+MODSMD_ARTICLE06: Eine freche Erklärung der Pariser Kommunistenleitung.
+Found
+MODSMD_ARTICLE07: Heftige Angriffe des „Journal des Debats" gegen Blum.
+Found
+MODSMD_ARTICLE08: Ein neuer französischer Kurzwellensender.
+Found
+MODSMD_ARTICLE09: Auf der Weltausstellung wird wieder gearbeitet.
+Found
+MODSMD_ARTICLE10: Vertranenserklärung für die neue Libanon-Regierung.
+Found
+MODSMD_ARTICLE11: Schwierige Sandschakberatungen.
+Found
+MODSMD_ARTICLE12: Neuer Streik in einem englischen Rüstungswerk.
+Found
+MODSMD_ARTICLE13: Unterhaussitzung zu Ehren Sir Austen Chamberlains.
+Found
+MODSMD_ARTICLE14: Tie Labour-Party zu Sir Stafford Kripps' Brandrede.
+Found
+MODSMD_ARTICLE15: Bolschewistischer Handel um Spanisch-Marokko.
+Found
+MODSMD_ARTICLE16: Angelesen beim polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE17: Neuer Befehlshaber der holländischen Armee.
+Found
+MODSMD_ARTICLE18: Erfolg der nationalen ungarischen Studentenschaft.
+Found
+MODSMD_ARTICLE19: Das Ergebnis der Tokioter Stadtratswahlen.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Großdeutsche Volksweihnacht.
+Found
+MODSMD_ARTICLE02: Neues Handelsabkommen Frankreich—Belgien—Luxemburg.
+Not Found
+MODSMD_ARTICLE03: Senatssitzung in Paris.
+Found
+MODSMD_ARTICLE04: Sabotage auf einem französischen Dampfer.
+Found
+MODSMD_ARTICLE05: Der Generalresident von Tunesien fährt nach Paris.
+Found
+MODSMD_ARTICLE06: Wer reparierte das beschädigte rotspanische Torpedoboot?
+Found
+MODSMD_ARTICLE07: Mussolini feiert Weihnachten auf seinem Landsitz.
+Found
+MODSMD_ARTICLE08: Kein Rugby-Kampf Italien—Frankreich.
+Not Found
+MODSMD_ARTICLE09: Das Judentum ist selbst schuld!
+Found
+MODSMD_ARTICLE10: Herrn Jckes ins Stammbuch!
+Found
+MODSMD_ARTICLE11: Ueberraschende Offensive Francas.
+Found
+MODSMD_ARTICLE12: „Jckes kann sein Mundwerk nicht zügeln."
+Found
+MODSMD_ARTICLE13: „Mit Mardam zur Selbständigkeit!"
+Found

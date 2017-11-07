@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Dank des Führers an das deutsche Volk.
+Found
+MODSMD_ARTICLE02: Glückwünsche für den Führer.
+Found
+MODSMD_ARTICLE03: Sturm „Franz Lutz" und Sturm „Eugen Schacht«".
+Found
+MODSMD_ARTICLE04: Das Attentat schon im August vorbereitet!
+Found
+MODSMD_ARTICLE05: Dr. Goebbels spricht zu Arbeitern und Soldaten.
+Found
+MODSMD_ARTICLE07: Französische Angriffe abgeschlagen.
+Found
+MODSMD_ARTICLE08: Die Wirtschaftsbesprechnngen abermals verschoben.
+Found
+MODSMD_ARTICLE09: Fliegeralarm in Paris.
+Found

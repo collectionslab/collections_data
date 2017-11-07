@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die Triumphfahrten der deutschen Ruderer.
+Found
+MODSMD_ARTICLE02: Der Führer beglückwünscht die deutschen Ruderer.
+Found
+MODSMD_ARTICLE03: Fünf Goldmedaillen für Deutschland in Grünau!
+Found
+MODSMD_ARTICLE04: Kiefer-USA gewinnt das IMM-Mckenschwimmen.
+Found
+MODSMD_ARTICLE05: Die Sieker im Säbelmannschaftsfcchten.
+Found
+MODSMD_ARTICLE06: Gartcnempfnng bei Generaloberst Göring.
+Found
+MODSMD_ARTICLE07: Ehrung der deutschen Olympia-Sieger und -Siegerinnen.
+Found
+MODSMD_ARTICLE08: Großkonzert der Wehrmacht im Olympiastadion.
+Found
+MODSMD_ARTICLE09: Segelflieger Rotter an Dr. Lewald.
+Found

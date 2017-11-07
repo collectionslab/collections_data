@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer beglückwüsncht den bolivianischen Präsidenten.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Deutsch-afghanisches Verrechuungsabkommen abgeschlossen.
+Found
+MODSMD_ARTICLE04: Dr. Ley besichtigt Zeltlager des Reichsparteitages.
+Found
+MODSMD_ARTICLE05: Generalpostweister Farley besucht Reichspostmiuisterium»
+Found
+MODSMD_ARTICLE06: Aufnahme der Beziehungen Bulgarien—Slowakei.
+Found
+MODSMD_ARTICLE07: Polen versuchten Brandstiftung auf Danziger Gebiet.
+Found
+MODSMD_ARTICLE08: Polnischer Größenwahn.
+Found
+MODSMD_ARTICLE09: Volksdeutschen Bauern wird der Acker enteignet.
+Found
+MODSMD_ARTICLE10: Der AusrottungsfeldZug des Wojewoden in Kattowitz.
+Found
+MODSMD_ARTICLE11: „Friedliebende Politiker" bei Licht besehen.
+Found
+MODSMD_ARTICLE12: Die italienischen Manöver.
+Found
+MODSMD_ARTICLE13: Marschall Balbo in Turin eingetroffen.
+Found
+MODSMD_ARTICLE14: Treffen japanischer Botschafter am Comer See.
+Found
+MODSMD_ARTICLE15: Chamberlain wird nicht ernst genommen.
+Found
+MODSMD_ARTICLE16: Schweres Unglück bei Potsdam.
+Found
+MODSMD_ARTICLE17: Zwei Eifenbahnunfälle in England.
+Found

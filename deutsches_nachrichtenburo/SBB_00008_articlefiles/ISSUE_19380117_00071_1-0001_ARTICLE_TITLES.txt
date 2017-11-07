@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dr. Stojadinowitsch im Deutschen Opernhaus.
+Found
+MODSMD_ARTICLE02: Rosenberg und Dr. Ley in Lippe.
+Found
+MODSMD_ARTICLE03: Aussperrung der Hotelangestellten in Stockholm.
+Found
+MODSMD_ARTICLE04: Der Kampf gegen die Judenherrschaft in Rumänien.
+Found
+MODSMD_ARTICLE05: Italienisch-griechisches Handelsabkommen unterzeichnet.
+Found
+MODSMD_ARTICLE06: „Neuer Beweis für die Znsammenarbeit in Mitteleuropa".
+Found
+MODSMD_ARTICLE07: Bulgarien zum Deutschlandbesuch Stojadinowtischs.
+Found
+MODSMD_ARTICLE08: Paris blickt nach Berlin.
+Found
+MODSMD_ARTICLE09: Streit im französischen Volksfrontlager.
+Found
+MODSMD_ARTICLE10: Der nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE11: Regierungsumbildung in Syrien.
+Found
+MODSMD_ARTICLE12: Gegen Alarmnachrichten aus Hongkong.
+Found

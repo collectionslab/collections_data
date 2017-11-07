@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Göring sprach zum deutschen Volk.
+Found
+MODSMD_ARTICLE02: Stärkste Beachtung der Göring-Rede.
+Found
+MODSMD_ARTICLE03: Die Verluste der kämpfenden Truppe in Polen gering.
+Found
+MODSMD_ARTICLE04: Lügenallianz Havas-Reuter.
+Found
+MODSMD_ARTICLE05: Drei französische Aufklärungsflugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE06: Spanische Bewunderung der deutschen Armee.
+Found
+MODSMD_ARTICLE07: Brüssel: „Der britische Bomber schoß zuerst!"
+Found
+MODSMD_ARTICLE08: Polnische Militärabordnung in London.
+Found
+MODSMD_ARTICLE09: Der Wahrheit dienen!
+Found
+MODSMD_ARTICLE10: Die englische Neutralitätsverletznng Nr. 8.
+Found

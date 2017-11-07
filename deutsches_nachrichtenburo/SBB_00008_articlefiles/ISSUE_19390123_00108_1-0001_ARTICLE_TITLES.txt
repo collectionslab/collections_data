@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Künderin einer neuen Zeit.
+Found
+MODSMD_ARTICLE03: Abschluß der NSV.-Gautagung in Brüx.
+Found
+MODSMD_ARTICLE04: Unaufhaltsamer Vormarsch in Katalonien.
+Found
+MODSMD_ARTICLE05: Villafranca bei Panades erobert.
+Found
+MODSMD_ARTICLE06: Ein Borkämpfer der flämischen Sprache verurteilt.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Schlcsien-Reise des Reichsverkehrsministers.
+Found
+MODSMD_ARTICLE02: Das Institut für deutsche Musikforschung.
+Found
+MODSMD_ARTICLE03: Trauerfeier für Generalleutnant Wever in Dresden.
+Found
+MODSMD_ARTICLE04: Reichsschahmeister Schwarz zur Eröffnung der VII. Reichslotterie für Arbeitsbeschaffung.
+Not Found
+MODSMD_ARTICLE05: Festessen des City Livcry-Clubs in Baden-Baden.
+Found
+MODSMD_ARTICLE06: Die Forderungen der Ostmärkischen Sturmscharcn.
+Found
+MODSMD_ARTICLE07: Rundfunkrede Leon Blums.
+Found
+MODSMD_ARTICLE08: Die 49-Stunden-Woche auf der Arbeitskonserenz.
+Found
+MODSMD_ARTICLE09: Judenfeindliche Zwischenfälle bei Warschau.
+Found
+MODSMD_ARTICLE10: Äe politischen Pläne des Negus.
+Found
+MODSMD_ARTICLE11: Prinzregent Paul nach Bukarest abgereist.
+Found

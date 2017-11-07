@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Göring beglückwünscht Ehejubilare.
+Found
+MODSMD_ARTICLE03: Dr. Ley sprach über den Führer.
+Found
+MODSMD_ARTICLE04: Tagung der Deutschen Akademie für Städtebau.
+Found
+MODSMD_ARTICLE06: Polnische Straßenbauer in München.
+Found
+MODSMD_ARTICLE07: Freiherr von Egloffstein gestorben.
+Found
+MODSMD_ARTICLE08: Abendempfang Kanyas für Dr. Frank.
+Found
+MODSMD_ARTICLE09: „Man redet vom Frieden und rüstet weiter."
+Found
+MODSMD_ARTICLE10: Die Kommunistische Partei in Prag liquidiert.
+Found
+MODSMD_ARTICLE11: Eine indische Stimme zur Kolonialfrage.
+Found
+MODSMD_ARTICLE12: Palästina in Säuberungsbezirke eingeteilt.
+Found
+MODSMD_ARTICLE13: Endgültige Lösung der Palästina-Frage noch im November?
+Found
+MODSMD_ARTICLE14: Die Chinesenbehörden haben Kanton geräumt.
+Found
+MODSMD_ARTICLE15: Kanton zum größten Teil in Händen der Japaner.
+Found
+MODSMD_ARTICLE16: Tee Japaner M Km vor Hankau.
+Found

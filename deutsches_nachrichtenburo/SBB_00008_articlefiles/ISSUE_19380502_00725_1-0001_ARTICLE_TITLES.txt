@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Vierter deutscher Fliegerhandwerkerwettbewerb.
+Found
+MODSMD_ARTICLE02: Das Sonntagsziel der Römer: Die Einzugsstraste.
+Found
+MODSMD_ARTICLE03: Die Berliner Philharmoniker in Rom.
+Found
+MODSMD_ARTICLE04: Das Flugzeugunglück in Italien.
+Found
+MODSMD_ARTICLE05: Litauen erkennt das Imperium an.
+Found
+MODSMD_ARTICLE06: London zum Feiertag des deutschen Volkes.
+Found
+MODSMD_ARTICLE07: Starker Widerhall der Hmlein-Rede in Warschau.
+Found
+MODSMD_ARTICLE08: Keine Zeit Zur Information Maiskys.
+Found
+MODSMD_ARTICLE09: 200 Kommunisten in Wolhynien verhaftet.
+Found
+MODSMD_ARTICLE10: Maifeiern der griechischen Arbeiterschaft.
+Found
+MODSMD_ARTICLE11: Das griechisch-türkische Zusatzabkommen.
+Found
+MODSMD_ARTICLE12: Ungarische Blätter zum Londoner Kommunique.
+Found
+MODSMD_ARTICLE13: Ministerbesprechung bei Daladier.
+Found
+MODSMD_ARTICLE14: Hat es Zweck, Flugzeuge aus Amerika einzuführen?
+Found
+MODSMD_ARTICLE15: Organisierung der Freizeit Hauptaufgabe der Falange.
+Found
+MODSMD_ARTICLE16: Moskauer Mai-Demonstration und Truppenparade.
+Found
+MODSMD_ARTICLE17: Ein Vertreter der Pekinger Regierung in Tokio.
+Found

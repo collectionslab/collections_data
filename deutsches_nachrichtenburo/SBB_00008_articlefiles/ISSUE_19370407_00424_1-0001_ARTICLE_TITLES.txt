@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ehrenbürgerbriefe an Ministerpräsident Göring überreicht.
+Found
+MODSMD_ARTICLE02: Dampfer „Borkum" erhält Hilfe.
+Found
+MODSMD_ARTICLE03: Danziger Finanzsenator erläutert Staatshaushaltsplan.
+Found
+MODSMD_ARTICLE04: Ter polnische Komponist Szhnmnowski in Krakau beigesetzt.
+Found
+MODSMD_ARTICLE05: Parlamentarischer Leerlauf in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE06: „Giornale d'Jtalia": Ist das Nichteinmischung?
+Found
+MODSMD_ARTICLE07: Spanische Währung in Gibraltar nicht mehr gültig»
+Found
+MODSMD_ARTICLE08: Vereinfachung des rumänischen Kabinetts.
+Found
+MODSMD_ARTICLE09: Erbitterte Kämpfe au der Basken front.
+Found
+MODSMD_ARTICLE10: 40-Stunden-Woche schädigst Frankreichs WirtfMft.
+Found
+MODSMD_ARTICLE11: Bomben auf britischen Zerstörer bei Valencia.
+Found
+MODSMD_ARTICLE12: Eden: Japan lehnt KaliberbegrenZung ab.
+Found
+MODSMD_ARTICLE13: Mongolei-Gouverneur Futsiji in Peiping.
+Found

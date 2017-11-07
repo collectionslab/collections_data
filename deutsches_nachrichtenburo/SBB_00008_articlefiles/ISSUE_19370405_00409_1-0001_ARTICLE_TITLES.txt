@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Reichsunnister Dr. Goebbels auf der TexLilschau.
+Found
+MODSMD_ARTICLE02: Italienische Kranzniederlegung am Ehrenmal.
+Found
+MODSMD_ARTICLE03: Deutsche Kolonialausstellung in Frankfurt a. M. eröffnet.
+Found
+MODSMD_ARTICLE04: Cuxhaven feierlich auf Preußen übernommen.
+Found
+MODSMD_ARTICLE05: Die ungarischen Philharmoniker in Hamburg.
+Found
+MODSMD_ARTICLE06: GPN-Häuptlmg Jagoda verhaftet»
+Found
+MODSMD_ARTICLE08: Potemkin erster stellvertretender Außenkommissar.
+Found
+MODSMD_ARTICLE09: Die verantwortungslose Streikhetze in England.
+Found
+MODSMD_ARTICLE10: Frankreichs Kommunisten mißbrauchen öffentliche Gelder.
+Found
+MODSMD_ARTICLE11: Kommune überfällt Versammlungsteilnehmer.
+Found
+MODSMD_ARTICLE12: Französisches Generalkonsulat in Addis Abeba.
+Found
+MODSMD_ARTICLE13: Streiks in Le Havre und Lille.
+Found
+MODSMD_ARTICLE14: Sie können auch anders!
+Found
+MODSMD_ARTICLE15: Bolschewistische Maulwurfsarbeit an der polnischen Ostgrenze.
+Found
+MODSMD_ARTICLE16: Der nationale Heeresbericht vom Sonnabend.
+Found
+MODSMD_ARTICLE17: Gewehre und Munition als „Kondensierte Milch".
+Found
+MODSMD_ARTICLE18: Benesch nach Belgrad abgereist.
+Found
+MODSMD_ARTICLE19: Zollunion zum Ausbau des jugoslawisch-bulgarischen Handels
+Found
+MODSMD_ARTICLE20: Türkischer Staatsbesuch in Belgrad.
+Found
+MODSMD_ARTICLE21: Griechenlands Vertreter bei den Londoner Feierlichkeiten.
+Found
+MODSMD_ARTICLE22: Eine Wahlversammlung für van Zeeland.
+Found

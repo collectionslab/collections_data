@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Gedenkfeiern des 9. November im Auslande.
+Found
+MODSMD_ARTICLE02: Neuorganisation der Deruluft.
+Found
+MODSMD_ARTICLE03: Staatsrat Eßberger zum Untergang der „Isis".
+Found
+MODSMD_ARTICLE04: Kattowitzer Hochverratsprozeß in 2. Instanz.
+Found
+MODSMD_ARTICLE05: Englisch-italienische Mittelmeerverständigung?
+Found
+MODSMD_ARTICLE06: Bergarbeiterstreik in Norkshire.
+Found
+MODSMD_ARTICLE07: Das Uniformverbot vor dem Unterhaus.
+Found
+MODSMD_ARTICLE08: Schwere Zusammenstöße in einem Pariser Vorort.
+Found
+MODSMD_ARTICLE09: Der Quai d'Orsay vermißt ein Aktenstück.
+Found
+MODSMD_ARTICLE10: Zuchthausstrafen für polnische Kommunisten.
+Found
+MODSMD_ARTICLE11: Dr. Matschek beim Prinzregenten Paul.
+Found
+MODSMD_ARTICLE12: Verzweifelte Lage in Madrid.
+Found
+MODSMD_ARTICLE13: Die spanische Staatsbank in Burgos an die BIZ.
+Found
+MODSMD_ARTICLE14: Salvador erkennt Burgos-Regierung an.
+Found
+MODSMD_ARTICLE15: Ein mysteriöser Dampfer in Esbjerg.
+Found
+MODSMD_ARTICLE16: Das neue albanische Kabinett Kotta.
+Found

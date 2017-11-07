@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Die Slowakei erhält geraubte Gebiete zurück.
+Found
+MODSMD_ARTICLE02: Das Oberkommando der Wehrmacht gibt bekannt.
+Found
+MODSMD_ARTICLE03: Reichsaußenminister von Ribbentrop spricht in Danzig.
+Found
+MODSMD_ARTICLE04: Anerkennung für heldenhaften Einsatz.
+Found
+MODSMD_ARTICLE05: Empfindliche Strafen wegen Preissteigerungen.
+Found
+MODSMD_ARTICLE06: Die U-Bootfahrer von Scapa Flow in Kiel.
+Found
+MODSMD_ARTICLE07: Tie Zahl der Volksdeutschen Opfer noch unübersehbar.
+Found
+MODSMD_ARTICLE08: Umsiedlung von Deutschen aus Südtirol.
+Found
+MODSMD_ARTICLE09: Finnische Abordnung erneut nach Moskau gereist.
+Found
+MODSMD_ARTICLE10: Die Durchführung des russisch-estnischen Vertrages.
+Found
+MODSMD_ARTICLE11: Im Dienst der sizilianischen Bodenreform.
+Found
+MODSMD_ARTICLE12: Schlechte Zukunftaussichten für England.
+Found
+MODSMD_ARTICLE13: England knebelt die neutrale Schiffahrt!
+Found
+MODSMD_ARTICLE14: Aus britische Minen gestoßen und gesunken. –
+Not Found
+MODSMD_ARTICLE15: Amerikanische Zeitung zur Heldentat von Scapa Flow.
+Found
+MODSMD_ARTICLE16: England verletzt die internationalen Postgesetze.
+Found
+MODSMD_ARTICLE17: „Eine unerfüllte Erwartung".
+Found
+MODSMD_ARTICLE18: Hoover zur Frage des Waffenembargos.
+Found
+MODSMD_ARTICLE19: Amerikanisches Schiff in schwerem Atlantiksturm.
+Found

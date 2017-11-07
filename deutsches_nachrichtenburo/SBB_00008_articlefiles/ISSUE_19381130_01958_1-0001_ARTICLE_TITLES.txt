@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Botschaft Hermann Görings an das japanische Volk.
+Found
+MODSMD_ARTICLE02: Beileidstelegramm des Reichsarbeitsministers.
+Found
+MODSMD_ARTICLE03: Generalinspektor Dr. Todt Major der Reserve.
+Found
+MODSMD_ARTICLE04: Gesetzliche Neuordnung des Feuerlöschwesens.
+Found
+MODSMD_ARTICLE05: Zur Eingliederung der Feuerwehren in die Polizei.
+Found
+MODSMD_ARTICLE06: Ein begreifliches Verbot Frankreichs.
+Found
+MODSMD_ARTICLE07: Kabinettssitzung in Loudone
+Found
+MODSMD_ARTICLE08: Besprechungen im Nichteinmischungsausschuß.
+Found
+MODSMD_ARTICLE09: Codreanu und 12 Gefangene auf der Flucht erschossen.
+Found
+MODSMD_ARTICLE10: Beispiellose Pionierleistung der deutschen Luftfahrt.
+Found
+MODSMD_ARTICLE11: Nationalspanische Pressestimme zur Kolonialfrage.
+Found
+MODSMD_ARTICLE12: „Hier hören die Zugeständnisse aus!"
+Found
+MODSMD_ARTICLE13: 43 Araber in einem Dorfe verhaftet.
+Found

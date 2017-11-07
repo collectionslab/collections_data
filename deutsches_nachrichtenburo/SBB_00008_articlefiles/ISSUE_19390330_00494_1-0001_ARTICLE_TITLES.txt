@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Goebbels in Athen eingetroffen.
+Found
+MODSMD_ARTICLE02: Die Slowakei vom Vatikan anerkannt.
+Found
+MODSMD_ARTICLE03: „Die halb geöffnete Tür endgültig zugeschlagen."
+Found
+MODSMD_ARTICLE04: „Italien bleibt nicht im Mittelmeer als Gefangener."
+Found
+MODSMD_ARTICLE05: Das neue Spanien sorgt für die befreite Hauptstadt.
+Found
+MODSMD_ARTICLE06: So wüteten die roten Verbrecher in Valencia.
+Found
+MODSMD_ARTICLE07: Jubelnder Empfang der Franco-Truppen in Valencia.
+Found
+MODSMD_ARTICLE08: Die ersten Lebensmitieltransporte in Valencia.
+Found
+MODSMD_ARTICLE09: Ungarische Stimmen Zur Befreiung Spaniens.
+Found
+MODSMD_ARTICLE10: Wieder Kabinettssitzung in London.
+Found
+MODSMD_ARTICLE11: Unverminderter Terror in ganz Palästina.
+Found
+MODSMD_ARTICLE12: Frankreich bestellt, Amerika liefert.
+Found

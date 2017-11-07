@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Hitler-Jugend errichtet Patenfriedhof.
+Found
+MODSMD_ARTICLE02: Der Pariser Aascio ehrt vom Rath.
+Found
+MODSMD_ARTICLE03: Schamloser als der Verfailler Vertrag.
+Found
+MODSMD_ARTICLE04: Der 20» Jahrestag des Waffenstillstandes.
+Found
+MODSMD_ARTICLE05: Tie deutschen Schriftleiter in der Londoner Handelskammer.
+Found
+MODSMD_ARTICLE06: Die Kcmada-Reise des englischen Kömgspaares.
+Found
+MODSMD_ARTICLE07: Neuordnung der englischen Zivilen Luftfahrt.
+Found
+MODSMD_ARTICLE08: Keine Neigung für Edens „Mitielpartei"-Werbung.
+Found
+MODSMD_ARTICLE09: Die berechtigte.deutsche Empörung.
+Found
+MODSMD_ARTICLE10: „Das alte politische System ist tot."
+Found
+MODSMD_ARTICLE11: Die slowakischen Dörfer mit Juden überschwemmt.
+Found
+MODSMD_ARTICLE12: Griechische Teilnahme zum Ableben Atatürks.
+Found
+MODSMD_ARTICLE13: Erstmals KdF.-Fahrer aus griechischem Boden.
+Found
+MODSMD_ARTICLE14: Der diplomatische Vertreter Rumäniens bei Francs.
+Found
+MODSMD_ARTICLE15: Zwei Mörder hingerichtet.
+Found

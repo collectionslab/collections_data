@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: 94 Jahre Dominikanische Republik.
+Found
+MODSMD_ARTICLE02: Teutschland von einem Engländer gesehen»
+Found
+MODSMD_ARTICLE03: Chamberlain zum Wochenende nach Chequers abgereist.
+Found
+MODSMD_ARTICLE04: De Valera auf der Rückreise.
+Found
+MODSMD_ARTICLE05: Besuch des Prager Unterrichtsministers in Wien.
+Found
+MODSMD_ARTICLE06: Die Gestaltung Europas Karikatur der Entente-Zusagen.
+Found
+MODSMD_ARTICLE07: Moskaus Wühlzentralen in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE08: Eine holländische Stimme gegen den GPU.-Terror.
+Found
+MODSMD_ARTICLE09: Der Streit um Belgiens Innen- und Austenpolitik.
+Found
+MODSMD_ARTICLE10: Ein Erfolg der flämischen Bewegung.
+Found
+MODSMD_ARTICLE11: Moskau und die englisch-italienischen Verhandlungen.
+Found
+MODSMD_ARTICLE12: Jüdisches Geschrei wegen des Verbots der Schwäbsitzung.
+Found
+MODSMD_ARTICLE13: Die Preisschraube im Volksfront-Frankreich.
+Found
+MODSMD_ARTICLE14: Viscount Astpr über die Ziele Chamberlains.
+Found
+MODSMD_ARTICLE15: Hinrichtung.
+Found
+MODSMD_ARTICLE16: Die Kennzahl der Großhandelspreise vom 23. Februar.
+Found

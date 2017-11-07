@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Weiteres Beileid zum Anschlag auf die „Deutschland".
+Found
+MODSMD_ARTICLE02: Der dänische Außenminister in Berlin.
+Found
+MODSMD_ARTICLE03: Keine öffentlichen Mittel mehr für das Herz-Jesu-Heim.
+Found
+MODSMD_ARTICLE04: Verlängerung des deutsch-polnischen Wirtschaftsvertrages.
+Found
+MODSMD_ARTICLE05: Schwedische Bauern als Gaste des deutschen Gesandten.
+Found
+MODSMD_ARTICLE06: Filchner wohlauf?
+Found
+MODSMD_ARTICLE07: Die Danzig polnischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE08: Ungarn trauert um Trianon.
+Found
+MODSMD_ARTICLE09: Politische Erklärungen des türkischen Außenministers.
+Found
+MODSMD_ARTICLE10: 4W-Jahrfeier der Universität Lausanne.
+Found
+MODSMD_ARTICLE11: Das Pressegesetz vom Senat geändert.
+Found
+MODSMD_ARTICLE12: Republikanische Vereinigung für nationale Einigung.
+Found
+MODSMD_ARTICLE13: Blüten des Parlamentarismus.
+Found
+MODSMD_ARTICLE14: Bratianu bei Delbos.
+Found
+MODSMD_ARTICLE15: Französische Flugzeugabwehr in Cerböre.
+Found
+MODSMD_ARTICLE16: Haare zur britischen Rüstung.
+Found
+MODSMD_ARTICLE17: Nationale Labour-Party unterstützt Kabinett Chamberlain.
+Found
+MODSMD_ARTICLE18: Die Kennzahl der Großhandelspreise vom 2. Juni und im Monatsdurchschnitt Mai.
+Found

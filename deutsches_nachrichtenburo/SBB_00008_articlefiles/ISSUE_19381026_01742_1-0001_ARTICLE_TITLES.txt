@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Eine Verordnung des Führers und Reichskanzlers.
+Found
+MODSMD_ARTICLE02: Forstdirektion Reichenberg wurde Regierungsforstamt.
+Found
+MODSMD_ARTICLE03: Vierraum- statt Kleinstwohuungen.
+Found
+MODSMD_ARTICLE04: Abschluß der Besichtigungsreise Rusts.
+Found
+MODSMD_ARTICLE05: Brody Zurückgetreten.
+Found
+MODSMD_ARTICLE06: Jmredy: „Zuerst die Autorität!"
+Found
+MODSMD_ARTICLE07: Ein selbstverständlicher Meinungsaustausch.
+Found
+MODSMD_ARTICLE08: Die höchste Auszeichnung des Reiches für Francois-Poncet.
+Found
+MODSMD_ARTICLE09: „Für Libyen beginnt eine neue geschichtliche Periode."
+Found
+MODSMD_ARTICLE10: Neuer Staatspräsident in Chile.
+Found
+MODSMD_ARTICLE11: Roosevelt über die Verhandlungen mit England.
+Found

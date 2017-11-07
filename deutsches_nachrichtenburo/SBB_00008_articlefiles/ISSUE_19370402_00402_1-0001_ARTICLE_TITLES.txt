@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Zerstörer „Z 11— Z 16" erhalten vom Führer Namen.
+Found
+MODSMD_ARTICLE02: Grußworte au die Ungarischen Philharmoniker.
+Found
+MODSMD_ARTICLE03: Zur Eröffnung des Fernschreibverkehrs mit England.
+Found
+MODSMD_ARTICLE04: Die jüdischen Hetzer gegen Deutschland in der Sowjetpresse.
+Found
+MODSMD_ARTICLE05: Die Ehrung des Stadtbaurates Prof. Brugmann-Niirnberg.
+Found
+MODSMD_ARTICLE06: Der Chef der chilenischen Luftmacht in HambnrM
+Found
+MODSMD_ARTICLE07: Anschluß an den NSLB.
+Found
+MODSMD_ARTICLE08: Maßnahmen gegen deutschen Pressevertreter in Wien.
+Found
+MODSMD_ARTICLE09: DanZiger Greuelnachrichten-Fabrikant verurteilt.
+Found
+MODSMD_ARTICLE10: Das bisherige Ergebnis der Belgrader Konferenz.
+Found
+MODSMD_ARTICLE11: Zustimmung der Kleinen Entente Zur Aufrüstung Ungarns?
+Found
+MODSMD_ARTICLE12: Die nationalen Truppen 25 kin vor Bilbao.
+Found
+MODSMD_ARTICLE13: Mexiko und die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE14: Vier Schisser bei Saßnitz aus Seenot gerettet.
+Found

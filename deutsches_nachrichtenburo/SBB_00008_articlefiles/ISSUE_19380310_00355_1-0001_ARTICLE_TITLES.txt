@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Präsident Hoover bei Generalfeldmarschall Göring.
+Found
+MODSMD_ARTICLE02: „Das Ringen Italiens und Deutschlands um ihre Einheit/'
+Found
+MODSMD_ARTICLE03: Brasiliens Botschafter über die Leipziger Messe.
+Found
+MODSMD_ARTICLE04: Viseount Hailsham Präsident! des Geheimen Staatsrates.
+Found
+MODSMD_ARTICLE05: Der Nachtragshaushalt des englischen Außenamtes.
+Found
+MODSMD_ARTICLE06: Besprechung zwischen de Valera und Sir Samuel Hoare.
+Found
+MODSMD_ARTICLE07: Lohnerhöhung oder Verkehrsstreik!
+Found
+MODSMD_ARTICLE08: Der Herzog von Alba im englischen Außenamt.
+Found
+MODSMD_ARTICLE09: Schauprozcsse nach Moskauer Vorbild in Valencia.
+Found
+MODSMD_ARTICLE10: Mit Maschinengewehren gegen Arbeiter.
+Found
+MODSMD_ARTICLE11: Die italienisch-polnische Zusammenarbeit.
+Found
+MODSMD_ARTICLE12: Verlautbarung über die polnisch-italienischen Besprechungen.
+Found
+MODSMD_ARTICLE13: Neues Kanonenfutter für Sowjetspanien.
+Found
+MODSMD_ARTICLE14: „Journal" über die Bündnissähigkeit Sowjetrußlands.
+Found
+MODSMD_ARTICLE15: Die Regierung Chautemps zurückgetreten 7
+Found
+MODSMD_ARTICLE16: Proteststreik gegen einen „Nichtnmrxisten".
+Found
+MODSMD_ARTICLE17: Devisenschiebungen bei der Bank von Lettland.
+Found
+MODSMD_ARTICLE18: Die außenpolitische Aussprache in der Skupschtina.
+Found
+MODSMD_ARTICLE19: „Diario da Manha" über die Genfer Liga.
+Found
+MODSMD_ARTICLE20: Stürmische Szenen im indischen Parlament.
+Found
+MODSMD_ARTICLE21: Neuer brasilianischer Außenminister.
+Found

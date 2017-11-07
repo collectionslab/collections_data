@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Partei zum Soldatenjubiläum des Führers.
+Found
+MODSMD_ARTICLE02: Bulgarische Lehrer und Lehrerinneu in Berlin.
+Found
+MODSMD_ARTICLE03: Der Todestag Andreas Hlinkas.
+Found
+MODSMD_ARTICLE04: Erneute polnische Herausforderung.
+Found
+MODSMD_ARTICLE05: Tie polnische Terrorwelle über Ostoberschlesien.
+Found
+MODSMD_ARTICLE06: Der Leidensweg der Deutschen in Polen.
+Found
+MODSMD_ARTICLE07: Minister Chodacky bei Beck.
+Found
+MODSMD_ARTICLE08: Korsanty gestorben.
+Found
+MODSMD_ARTICLE09: Warnung der norditalienischen Presse an Jllusinonisten.
+Found
+MODSMD_ARTICLE10: Französischer Rekordflug über 16 666 kuu
+Found
+MODSMD_ARTICLE11: Phantasien der Pariser Presse.
+Found
+MODSMD_ARTICLE12: Der Ferne Osten bei den Moskauer Verhandlungen.
+Found
+MODSMD_ARTICLE13: Der 21. Zionistenkongreß eröffnet.
+Found
+MODSMD_ARTICLE14: Ausgehverbot für Jerusalem.
+Found
+MODSMD_ARTICLE15: Amerikanische Iren gegen den englischen Innenminister.
+Found

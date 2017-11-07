@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Vier Deutsche in Spanien erschossen.
+Found
+MODSMD_ARTICLE02: Spanische Diplomaten in der Schweiz zurückgetreten.
+Found
+MODSMD_ARTICLE03: Spanische Militärgruppe meldet große Erfolge.
+Found
+MODSMD_ARTICLE04: St. Raphael noch nicht von Regierungstruppen eingenommen
+Found
+MODSMD_ARTICLE05: Große Truppentransporte nach Algeeiras.
+Found
+MODSMD_ARTICLE06: Amerikanische Gewerkschaft unterstützt Spaniens Marxisten.
+Found
+MODSMD_ARTICLE07: Die italienische Antwort an Frankreich.
+Found
+MODSMD_ARTICLE08: „Gazzetta del Popolo" zur Kommunistengefahr in Frankreich
+Found
+MODSMD_ARTICLE09: Jakobiner-Geist.
+Found
+MODSMD_ARTICLE10: Entschließungen der marxistischen französischen Lehrer.
+Found
+MODSMD_ARTICLE11: Frankreich verlängert 40-Millionen-Pfund-Anleihe.
+Found
+MODSMD_ARTICLE12: Metaxas über den neuen Kurs in Griechenland.
+Found
+MODSMD_ARTICLE13: Die Durchführung der Meerengenkonvention.
+Found
+MODSMD_ARTICLE14: Schweres Bergwerksunglück bei Manchester.
+Found

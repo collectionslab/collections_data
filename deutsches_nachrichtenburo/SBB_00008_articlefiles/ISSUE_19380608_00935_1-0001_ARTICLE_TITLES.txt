@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Göriug auf der Internationalen Handwerksausstellung.
+Found
+MODSMD_ARTICLE02: 66. Geburtstag des Reichspostministers.
+Found
+MODSMD_ARTICLE03: Wechsel in der Leitung der Nordischen Gesellschaft.
+Found
+MODSMD_ARTICLE04: Tr. Gütt über nationalsozialistische Gesundheitspolitik»
+Found
+MODSMD_ARTICLE05: Sudetendeutsches Memorandum an Hodscha.
+Found
+MODSMD_ARTICLE06: Die ungarische Presse zur Preßburger Kundgebung.
+Found
+MODSMD_ARTICLE07: Die Unterdrückung der Ungarn in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE08: „Außerhalb der Realitäten".
+Found
+MODSMD_ARTICLE09: Der Kongreß für außenpolitische Studien in Mailand.
+Found
+MODSMD_ARTICLE10: Der Reichsverkehrsminister in London.
+Found
+MODSMD_ARTICLE11: Die Kooperative Partei Englands gegen die Völksfront.
+Found
+MODSMD_ARTICLE12: Die Spaltung der französischen Sozialdemokraten.
+Found
+MODSMD_ARTICLE13: Die französischen Maßnahmen an der spanischen Grenze.
+Found
+MODSMD_ARTICLE14: Internationale Kriminalpolizeitagung in Bukarest.
+Found
+MODSMD_ARTICLE15: Die griechische Presse zum Olympia-Film.
+Found
+MODSMD_ARTICLE16: Wiederausleben des Ausstaudes in Mexiko?
+Found
+MODSMD_ARTICLE17: Sühne für zwei Mordtaten.
+Found
+MODSMD_ARTICLE18: Riesige Betrügereien bei Wiener Judenfirmen.
+Found

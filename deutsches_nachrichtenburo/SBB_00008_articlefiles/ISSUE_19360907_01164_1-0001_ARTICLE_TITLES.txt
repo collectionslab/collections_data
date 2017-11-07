@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Englische Juristen in Berlin.
+Found
+MODSMD_ARTICLE02: Präsident Earmvna empfing den deutschen Gesandten»
+Found
+MODSMD_ARTICLE03: Senator Gustav Mayr si.
+Found
+MODSMD_ARTICLE04: Die bisherigen Ergebnisse der Gordon-Bennett-Fahrt.
+Found
+MODSMD_ARTICLE05: „Gazeta Polska" zum Besuch Rydz-Smiglys in Paris.
+Found
+MODSMD_ARTICLE06: General Rydz-Smigly auf der Rückreise aus Paris.
+Found
+MODSMD_ARTICLE07: Die polnischen Bischöfe warnen vor dem Bolschewismus.
+Found
+MODSMD_ARTICLE08: Ablehnung der russischen Paktvorschläge in Estland.
+Found
+MODSMD_ARTICLE09: Frauen protestieren gegen die Blutherrschaft in Spanien.
+Found
+MODSMD_ARTICLE10: König Eduard VIII. von Istanbul abgereist.
+Found
+MODSMD_ARTICLE11: Tie Bildung des Ueberwachungsausschusses.
+Found
+MODSMD_ARTICLE12: Neuer Kommunistentransport durch Frankreich.
+Found
+MODSMD_ARTICLE13: Englischer Freiwilliger von Marxisten in Jrun hingerichtet.
+Found
+MODSMD_ARTICLE14: Die Geiseln von Guadalupe freigelassen.
+Found
+MODSMD_ARTICLE15: Madrid kann sich nicht halten.
+Found
+MODSMD_ARTICLE16: Spanischer Arzt schildert marxistische Greueltaten.
+Found
+MODSMD_ARTICLE17: Portugiesische Pressestimmen zur Regierung Caballeros.
+Found
+MODSMD_ARTICLE18: Das Schicksal des Suez-Kanals.
+Found
+MODSMD_ARTICLE19: Mussolini empfängt den albanischen Unterrichtsminister.
+Found
+MODSMD_ARTICLE20: Jubiläum der chilenischen Kriegsakademie.
+Found

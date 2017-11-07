@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Frühjahrsstellenbesetzungen in der Kriegsmarine.
+Found
+MODSMD_ARTICLE02: Dr. Frick empfing den Budapester Bürgermeister.
+Found
+MODSMD_ARTICLE03: Die französische Regierung verhandelt mit Franca.
+Found
+MODSMD_ARTICLE04: In Erwartung des geschlagenen Bolschewiftenheeres.
+Found
+MODSMD_ARTICLE05: Mussolini und Lutze am Ehrenmal der Gefallenen.
+Found
+MODSMD_ARTICLE06: Freundliche Aufnahme der Chamberlain-Rede in Rom.
+Found
+MODSMD_ARTICLE07: Die Führer-Rede im Mittelpunkt der Kabinettssitzung.
+Found
+MODSMD_ARTICLE08: Die Berechtigung der deutschen Kolonialforderungen.
+Found
+MODSMD_ARTICLE09: „Alle Türen aufgeschlossen, keine versperrt."
+Found
+MODSMD_ARTICLE10: Für eine friedliche Neuordnung der Weltverhaltnisse.
+Found
+MODSMD_ARTICLE11: Moskau macht sicff die Sache leicht.
+Found
+MODSMD_ARTICLE12: Brasilien: Anerkennung der deutschein Kolonialforderung.
+Found
+MODSMD_ARTICLE13: Eine amerikanische Pressestimme zur Führerrede.
+Found
+MODSMD_ARTICLE14: Um die Befestigung der Guaminsel.
+Found
+MODSMD_ARTICLE15: Berlin—Addis Abeba in 33 Stunden.
+Not Found

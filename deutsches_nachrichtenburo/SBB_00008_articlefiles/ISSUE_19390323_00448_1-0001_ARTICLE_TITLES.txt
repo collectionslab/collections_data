@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer vor Memel.
+Found
+MODSMD_ARTICLE02: Unter den Klängen des Deutschlandliedes über die Memel.
+Found
+MODSMD_ARTICLE03: Außenminister von Ribbentrop an Dr. Neumann.
+Found
+MODSMD_ARTICLE04: „Der Weg für gutnachbarliche Beziehungen geebnet."
+Found
+MODSMD_ARTICLE05: Paris zur Rückkehr des Memellandes.
+Found
+MODSMD_ARTICLE06: Belgrad: „Kein Grund zur Aufregung."
+Found
+MODSMD_ARTICLE07: Die polnische Presse zur Heimkehr des Memelgebietes.
+Found
+MODSMD_ARTICLE08: Chamberlain verhandelt mit der Opposition.
+Found
+MODSMD_ARTICLE09: Imperialisten, die von Ausbeutung und Egoismus sprechen!
+Found
+MODSMD_ARTICLE10: Bombenanschläge in Birmingham.
+Found
+MODSMD_ARTICLE11: Die Verschuldung der Schweiz.
+Found

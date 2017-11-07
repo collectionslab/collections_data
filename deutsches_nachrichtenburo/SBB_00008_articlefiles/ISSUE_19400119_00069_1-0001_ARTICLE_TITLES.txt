@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Mittags- und Nachmittags-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Das sieht der britischen Plutokratie ähnlich.
+Found
+MODSMD_ARTICLE03: Freihafenzone für Litauen in Memel eröffnet.
+Found
+MODSMD_ARTICLE04: „England kämpft um den Bestand seiner Weltherrschaft".
+Found
+MODSMD_ARTICLE05: Die französischen Kausleute murren gegen England.
+Found
+MODSMD_ARTICLE06: Ein norwegischer Dampfer nach Explosion gesunken.
+Found
+MODSMD_ARTICLE07: Eingeständnis der „Times".
+Found
+MODSMD_ARTICLE08: England macht alle Handelsschiffe zu Kriegsfahrzeugen.
+Found
+MODSMD_ARTICLE09: Norwegischer Dampfer versenkt.
+Found
+MODSMD_ARTICLE10: Englische Pulverfabrik flog in die Luft.
+Found
+MODSMD_ARTICLE11: Wieder englische Neutralitätsverletzungen.
+Found
+MODSMD_ARTICLE12: Zwei britische 5999 Tonnen-Dampfer gesunken.
+Found
+MODSMD_ARTICLE13: Sowjetregierung bedauert Grenzverletzungen.
+Found
+MODSMD_ARTICLE14: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE15: Hull zum Verkauf von amerikanischen Dampfern.
+Found
+MODSMD_ARTICLE16: Zwei Landesverräter hingerichtet.
+Found

@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Eröffnung der Reichsfilmkammertagung.
+Found
+MODSMD_ARTICLE02: Leidenschaftlicher Appell Flandins an die Vernunft.
+Found
+MODSMD_ARTICLE03: Der Kamps gegen den Kartoffelkäfer.
+Found
+MODSMD_ARTICLE04: Französischer Botschafter in USA. überreicht Beglaubigung.
+Found

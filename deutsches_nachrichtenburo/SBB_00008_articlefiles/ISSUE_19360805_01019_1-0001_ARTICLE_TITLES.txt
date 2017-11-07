@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Präsident von Peru beglückwünscht den Führer.
+Found
+MODSMD_ARTICLE02: Empfänge beim Führer.
+Found
+MODSMD_ARTICLE03: Der Führer an Staatssekretär Pfundtner.
+Found
+MODSMD_ARTICLE04: Architekt Werner March zum Professor ernannt.
+Found
+MODSMD_ARTICLE05: Die Geburtsstunde der Sturmabteilung.
+Found
+MODSMD_ARTICLE06: Deutsch-litauisches Warenabkommen unterzeichnet.
+Found
+MODSMD_ARTICLE07: Bulgaren ehren deutsche Kriegsgefallene.
+Found
+MODSMD_ARTICLE09: Danziger Zentrumsorgan verboten.
+Found
+MODSMD_ARTICLE10: Keine Regierungsumbildung in Oesterreich.
+Found
+MODSMD_ARTICLE11: Rücktritt des Vertreters des Völkerbundes in Oesterreich.
+Found
+MODSMD_ARTICLE12: Neuer stellvertretender Außenminister in Estland.
+Found
+MODSMD_ARTICLE13: Ter deutsche Geschäftsträger wieder in Madrid.
+Found
+MODSMD_ARTICLE14: Absage an die Madrider Regierung.
+Found
+MODSMD_ARTICLE15: Französische Marxisten Hetzen in Spanien.
+Found
+MODSMD_ARTICLE16: Londoner Bericht über die Lage in Spanien.
+Found
+MODSMD_ARTICLE17: Wichtige Entschließung des belgischen Militärausschusses.
+Found
+MODSMD_ARTICLE18: Die Verbindungen Bulgarien—Griechenland unterbrochen.
+Found
+MODSMD_ARTICLE19: Schweres Autounglück bei Seefeld in Tirol.
+Found

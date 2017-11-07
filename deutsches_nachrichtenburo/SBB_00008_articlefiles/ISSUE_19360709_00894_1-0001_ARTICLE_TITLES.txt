@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ausgaben des Welt-Freizeitkongresses.
+Found
+MODSMD_ARTICLE02: Der Petrusheim-Prozeß in Kleve.
+Found
+MODSMD_ARTICLE03: Gegen Einsetzung des Danzig-Ausschusses.
+Found
+MODSMD_ARTICLE04: König Eduard VIII. reist an die französische Riviera.
+Found
+MODSMD_ARTICLE05: fragen im Unterhaus.
+Found
+MODSMD_ARTICLE06: Unterhaus lehnt Mißtrauensantrag ab.
+Found
+MODSMD_ARTICLE07: Frankreichs Kriegsmarineminister zur Flottenpolitik.
+Found
+MODSMD_ARTICLE08: Selbstmord wegen der Politik Leon Blums.
+Found
+MODSMD_ARTICLE09: Die französisch-syrischen Verhandlungen.
+Found
+MODSMD_ARTICLE10: Der Besuch des Vizekanzlers Oesterreichs in Budapest.
+Found
+MODSMD_ARTICLE11: Interparlamentarische Konferenz abgeschlossen.
+Found
+MODSMD_ARTICLE12: Italien sucht keine amerikanische FinMHWA^E^i^L
+Found
+MODSMD_ARTICLE13: Italiens Trauer um die ermordeten Flieger.
+Found
+MODSMD_ARTICLE14: Ueber 100 Todesopfer im amerikanischen Dürregebiet.
+Found
+MODSMD_ARTICLE15: Die Kennzahl der Großhandelspreise im Juni 1936.
+Found

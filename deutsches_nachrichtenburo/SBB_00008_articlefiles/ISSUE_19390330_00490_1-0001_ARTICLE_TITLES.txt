@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Dr. Ley empfing die Wirtschaftsführer.
+Found
+MODSMD_ARTICLE02: Ungarn zum Besuch Dr. Goebbels'.
+Found
+MODSMD_ARTICLE03: Bemühungen um eine „Vaterländische Front" in Litauen.
+Found
+MODSMD_ARTICLE04: Litauischer Minister dementiert eine Reuterlüge.
+Found
+MODSMD_ARTICLE05: Sven Hedin gegen üble Hetzer.
+Found
+MODSMD_ARTICLE06: Besichtigungsreise Mussolinis nach Calabrien.
+Found
+MODSMD_ARTICLE07: Rote Horden plünderten den Escorial.
+Found
+MODSMD_ARTICLE08: Roispaniens „Botschafter" in Washington räumt das Feld.
+Found
+MODSMD_ARTICLE09: Warum bilden Negrin und del Vayo eine Ausnahme?
+Found
+MODSMD_ARTICLE10: Mandel berichtet über „Erfolge der Kolonialpolitik".
+Found
+MODSMD_ARTICLE11: Zweistündige Unterredung Gamelin—Gort.
+Not Found
+MODSMD_ARTICLE12: Sie können es nicht lassen . . .
+Found
+MODSMD_ARTICLE13: Verstärknwg der Territorialarmee um 49 999 Mann.
+Found
+MODSMD_ARTICLE14: Palästinaskandal vor dem englischen Unterhaus.
+Found
+MODSMD_ARTICLE15: 150 Abgeordnete beantragen Vertrauen für Chamberla'm»
+Found
+MODSMD_ARTICLE16: Vernachlässigung des Empire dafür Einkreisungspolitik.
+Found
+MODSMD_ARTICLE17: Die Neutralitätspolitik der Vereinigten Staaten.
+Found
+MODSMD_ARTICLE18: Der kubanische ExPräsident Machado gestorben.
+Found

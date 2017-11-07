@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Das Goldene Ehrenzeichen der NSDAP, für Reinhard.
+Found
+MODSMD_ARTICLE02: Wohlfahrtsmaßnahmen für die österreichischen Eisenbahner.
+Found
+MODSMD_ARTICLE03: Die deutsch rumänischen Luftverkehrsverhandlungen.
+Found
+MODSMD_ARTICLE04: „Wilhelm Gustloff" zur ersten Urlauberfahrt ausgelaufen.
+Found
+MODSMD_ARTICLE05: Ucherreichuug der Goethe-Medaille an Gustav Frensseu.
+Found
+MODSMD_ARTICLE06: Die 3 KdF.-Schiffe wieder auf der Heimreise.
+Found
+MODSMD_ARTICLE07: Kanya Warnt vor Greuelmärchen.
+Found
+MODSMD_ARTICLE08: Polnische Blätter Zur Erklärung Becks.
+Found
+MODSMD_ARTICLE09: Rücktritt der litauischen Regierung nochmals dementiert.
+Found
+MODSMD_ARTICLE10: Der 1. Mai auch in Schweden Feiertag.
+Found
+MODSMD_ARTICLE11: Fortsetzung der Kammeraussprache in Paris.
+Found
+MODSMD_ARTICLE12: Stojadinowitsch über die jugoslawische Außenpolitik.
+Found
+MODSMD_ARTICLE13: „Eine neue Politik von Versailles muß vermieden werden."
+Found
+MODSMD_ARTICLE14: Die Aussprache Chamberlains mit Gewerkschaftsvertretern.
+Found
+MODSMD_ARTICLE15: Ein Agent des englischen Geheimdienstes entführt.
+Found
+MODSMD_ARTICLE16: Das Volk denkt anders als die Journaille.
+Found
+MODSMD_ARTICLE17: Der amerikanische Militärhaushalt.
+Found

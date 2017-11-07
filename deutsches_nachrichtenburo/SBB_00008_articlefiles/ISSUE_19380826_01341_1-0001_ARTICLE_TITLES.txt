@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: lagdbefuch des Reichsfiuauzmiuisters in Danzig.
+Found
+MODSMD_ARTICLE02: Abschied des Bolivianischen Gesandten von Berlin.
+Found
+MODSMD_ARTICLE03: Empfang der italienischen Segelschulschiffe in Kiel.
+Found
+MODSMD_ARTICLE04: Bruno Heydrich gestorben..
+Found
+MODSMD_ARTICLE05: Die Sudetendeutschen greifen zur Notwehr.
+Found
+MODSMD_ARTICLE06: Kommunistische Bürgerkriegsvorbereitungen!
+Found
+MODSMD_ARTICLE07: Die holländische Presse zum Besuch Horthys.
+Found
+MODSMD_ARTICLE08: Die ungarische Presse Zur Berliner Truppenschau.
+Found
+MODSMD_ARTICLE09: Glückwunschtelegramm Ciauos an Kanya.
+Found
+MODSMD_ARTICLE10: Weltbestleistung eines deutschen Schraubenflugzeugs.
+Found
+MODSMD_ARTICLE11: Immer stärkerer Ausbau der englischen Kriegsindustrie.
+Found
+MODSMD_ARTICLE12: 46 Millionen Franken für Sowsttspanien!
+Found
+MODSMD_ARTICLE13: Die Opfer des jüdischen Anschlags in Jaffa.
+Found
+MODSMD_ARTICLE14: Die Opfer der Unruhen in Burma.
+Found

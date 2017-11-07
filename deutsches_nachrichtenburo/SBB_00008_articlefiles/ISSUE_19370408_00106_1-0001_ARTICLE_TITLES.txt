@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Spendenliste Nr. 114 vom K. April 1937.
+Found
+MODSMD_ARTICLE02: Spendenliste Nr. 115 vom 7. April 1937.
+Found
+MODSMD_ARTICLE03: Spendenliste Nr. 116 vom 8. April 1937.
+Found

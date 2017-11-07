@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Prof. Wilhelm Kisch vom Führer ausgezeichnet.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels in Weimar.
+Found
+MODSMD_ARTICLE03: Empfang der Mitglieder der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE04: Erklärung des sudetendeutschen Abgeordneten Frank.
+Found
+MODSMD_ARTICLE05: Rydz-Smigly für das Lager der nationalen Einigung.
+Found
+MODSMD_ARTICLE06: 29 kommunistische Terroristen in Grodno bestraft.
+Found
+MODSMD_ARTICLE07: Die deutsch-ungarische Kulturaussprache.
+Found
+MODSMD_ARTICLE08: Die deutsch-lettischen Wirtschaftsberhandlungen.
+Found
+MODSMD_ARTICLE09: 3333 „Kraft durch Freude"-Fahrer in Lissabon.
+Found
+MODSMD_ARTICLE10: Lächerliche Argumente gegen den deutschen Kolonialanspruch.
+Found
+MODSMD_ARTICLE11: Gegen die „kommunistische Hypothek".
+Found
+MODSMD_ARTICLE12: Stürmische Sitzung des radikalsozialen Parteitages.
+Found
+MODSMD_ARTICLE13: Der italienische Botschafter in Paris beurlaubt»
+Found
+MODSMD_ARTICLE14: Nationalspanien zum Geburtstag von Dr. Goebbels.
+Found
+MODSMD_ARTICLE15: Verurteilung des früheren Ministers Gitscheff.
+Found
+MODSMD_ARTICLE16: Neuer Direktor der bulgarischen Staatspolizei.
+Found
+MODSMD_ARTICLE17: Das rumänische Offizierskorps wird verjüngt.
+Found
+MODSMD_ARTICLE18: Die Sandschakkommission des Völkerbundes in Damaskus.
+Found
+MODSMD_ARTICLE19: Ein Zwischenfall in Schanghai.
+Found

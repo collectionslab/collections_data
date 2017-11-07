@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Eröffnung des Reichsforschungsrates.
+Found
+MODSMD_ARTICLE02: Die erste japanische Matrosenabordnung in Berlin, ls
+Found
+MODSMD_ARTICLE03: Eine Richtigstellung des nationalspanischen Hauptquartiers.
+Found
+MODSMD_ARTICLE04: Um den Waffenstillstand in Spanien.
+Found
+MODSMD_ARTICLE05: Internationale Konferenz über den Walfischfang.
+Found
+MODSMD_ARTICLE06: Wieder 11 „Trotzkisten" hingerichtet.
+Found
+MODSMD_ARTICLE07: Die Untersuchung in Lakehurst.
+Found

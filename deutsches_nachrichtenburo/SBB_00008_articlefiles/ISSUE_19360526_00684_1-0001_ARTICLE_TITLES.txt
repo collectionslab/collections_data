@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Verleihung von Auszeichnungen für Lebensrettung.
+Found
+MODSMD_ARTICLE02: Der ungarische Kultusminister bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Die ungarische Presse zum Berliner Besuch Homans.
+Found
+MODSMD_ARTICLE04: Brillenrezepte bei der Musterung vorlegen.
+Found
+MODSMD_ARTICLE05: Der Prozeß gegen die Franziskanerbrüder.
+Found
+MODSMD_ARTICLE06: Das vorläufige Memeler Stadtverordnetenwahl-Ergebnis.
+Found
+MODSMD_ARTICLE07: Schwere Ausschreitungen gegen Minderheitsdeutsche.
+Found
+MODSMD_ARTICLE08: Das belgische Kabinett zurückgetreten.
+Found
+MODSMD_ARTICLE09: Herabsetzung der Gefängnisstrafe für Maurras.
+Found
+MODSMD_ARTICLE10: Thomas gibt seine Amtssiegel zurück.
+Found
+MODSMD_ARTICLE11: Malcolm MacDonald über die Maßnahmen in Palästina.
+Found
+MODSMD_ARTICLE12: Erklärung des Oberkonnnissars von Palästina.
+Found
+MODSMD_ARTICLE13: Palästina in Aufruhr.
+Found
+MODSMD_ARTICLE14: Die außerordentliche Tagung des japanischen Reichstags.
+Found
+MODSMD_ARTICLE15: Neuer Chef der chinesischen Banditenbekämpfnng.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Präsident Syrup über Durchführung des Vierjahresplaues.
+Found
+MODSMD_ARTICLE03: Beileidstelegramm Rudolf Heß' zum Untergang der „Isis".
+Found
+MODSMD_ARTICLE04: Londoner Unterausschuß-Sitzung.
+Found
+MODSMD_ARTICLE05: Hungermarsch-Teilnehmer im Unterhaus.
+Found
+MODSMD_ARTICLE06: Frühstück Zu Ehren Becks im Buckingham-Palast.
+Found
+MODSMD_ARTICLE07: Das Meerengenabkommen unterzeichnet.
+Found
+MODSMD_ARTICLE08: Ermordung eines französischen Krankenpflegers.
+Found
+MODSMD_ARTICLE09: Erneute judenfeindliche Kundgebungen in Budapest.
+Found
+MODSMD_ARTICLE10: Tie Heimholung der Asche König Konstantins.
+Found
+MODSMD_ARTICLE11: Zwei wallonische Gruben von Streikenden gewaltsam beseW^
+Found
+MODSMD_ARTICLE12: Die Besprechungen Cianos in Wien.
+Found
+MODSMD_ARTICLE13: Außenminister von Kanya in Wien.
+Found
+MODSMD_ARTICLE14: Kreta lehnt den Bolschewismus ab.
+Found
+MODSMD_ARTICLE15: China meldet Vorbehalte an.
+Found
+MODSMD_ARTICLE16: Steuersteckbrief und Vermögensbeschlagnahme.
+Found

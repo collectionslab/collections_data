@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Neuer Knickerbocker-Schwindel entlarvt.
+Found
+MODSMD_ARTICLE02: Glückwunsch des Führers an General Franeo.
+Found
+MODSMD_ARTICLE03: Zum Ministerialdirigenten ernannt.
+Found
+MODSMD_ARTICLE04: Holland protestiert gegen einen neuen Rechtsbruch Englands.
+Found
+MODSMD_ARTICLE05: Wohin mit unerwünschten Polen?
+Found
+MODSMD_ARTICLE06: Gandhi nicht mehr englandfreundlich?
+Found
+MODSMD_ARTICLE07: Die Philippinen bestehen auf Unabhängigkeit.
+Found
+MODSMD_ARTICLE08: Annahme des mexikanischen Neutralitätsgesetzes.
+Found

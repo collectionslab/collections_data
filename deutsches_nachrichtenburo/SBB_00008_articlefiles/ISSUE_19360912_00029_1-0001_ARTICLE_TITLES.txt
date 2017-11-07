@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Parteitag der Ehre.
+Found
+MODSMD_ARTICLE02: Appell der politischen Leiter.
+Found
+MODSMD_ARTICLE03: Der Führer kommt!
+Found
+MODSMD_ARTICLE04: Der Führer spricht.
+Found

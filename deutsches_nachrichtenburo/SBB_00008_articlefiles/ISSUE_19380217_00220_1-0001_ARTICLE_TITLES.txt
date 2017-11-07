@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Hollands Straßenbauer in Norddeutschland.
+Found
+MODSMD_ARTICLE02: Papen verabschiedet sich von der reichsdeutschen Presse.
+Found
+MODSMD_ARTICLE03: Veränderungen in der Vaterländischen Front.
+Found
+MODSMD_ARTICLE04: Staatssekretär für Land- und Forstwirtschaft in Wien.
+Found
+MODSMD_ARTICLE05: Marschall Graziam erkrankt.
+Found
+MODSMD_ARTICLE06: „Slovenec" gegen die internationalen Hetzblätter.
+Found
+MODSMD_ARTICLE07: Die Säuberungsmaßnahmen Gogas werden fortgesetzt.
+Found
+MODSMD_ARTICLE08: Die deutsche Kolonialforderung vor dem Oberhaus.
+Found
+MODSMD_ARTICLE09: Lord Winterton beteuert Englands objektive Propaganda.
+Found
+MODSMD_ARTICLE10: Eden bestätigt die japanische Entschuldigung.
+Found
+MODSMD_ARTICLE11: Das Echo des Stalin-Artikels.
+Found
+MODSMD_ARTICLE12: Italien dementiert dumme Gerüchte^^^
+Found
+MODSMD_ARTICLE13: Afghanistan—Sowjetrußland ohne Konsularbeziehungen.
+Found
+MODSMD_ARTICLE14: Sowjetrussische Fliegeroffiziere nach Estland geflüchtet.
+Found
+MODSMD_ARTICLE15: Der Verräter Skoblin im Fernen Osten.
+Found
+MODSMD_ARTICLE16: Hongkonger Frachtdampfer von Japanern ausgebracht.
+Found
+MODSMD_ARTICLE17: Gandhi: Die Lage in Indien sehr ernst.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Aenderung der Organisation des Vierjahresplanes.
+Found
+MODSMD_ARTICLE02: Anprangerung betrunkener Verkehrsteilnehmer.
+Found
+MODSMD_ARTICLE03: Bundeskanzler Schuschnigg über das Ziel seiner Politik.
+Found
+MODSMD_ARTICLE04: Eden übermittelt Mitteilungen an die Botschafter.
+Found
+MODSMD_ARTICLE05: Eröffnung des Weltkirchenkongresses in Oxford.
+Found
+MODSMD_ARTICLE06: Tie Verstärkung der amerikanischen Schlachtschiff-Kaliber.
+Found
+MODSMD_ARTICLE07: Tie Kommunisten loben Pacelli. . .
+Found
+MODSMD_ARTICLE08: Neue französische Gesetze amtlich verkündet.
+Found
+MODSMD_ARTICLE09: „Die Haltung Frankreichs ein ernstes Problem".
+Found
+MODSMD_ARTICLE10: Neuer polnischer Militärattache in Bukarest.
+Found
+MODSMD_ARTICLE11: Verhaftung im sowjetrussischen Außenministerium.
+Found
+MODSMD_ARTICLE12: Aegyptische Ablehnung der englischen Palästina-Pläne.
+Found
+MODSMD_ARTICLE13: China gegen Verletzung seiner Hoheitsrechte.
+Found
+MODSMD_ARTICLE14: Kämpfe vor der Südmauer Peipings.
+Found
+MODSMD_ARTICLE15: Erklärungen zu den Ereignissen in Nordchina.
+Found

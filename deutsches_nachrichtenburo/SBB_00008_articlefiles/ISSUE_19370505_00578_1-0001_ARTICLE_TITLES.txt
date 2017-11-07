@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Parade der KdF.-Flotte vor dem Führer.
+Found
+MODSMD_ARTICLE02: Der Führer an Bord der „Grille".
+Found
+MODSMD_ARTICLE03: Eröffnung der Breslauer Messe 1937.
+Found
+MODSMD_ARTICLE04: Franziskaner-Brüder mißbrauchen Zöglinge.
+Found
+MODSMD_ARTICLE05: Die deutsch-italienischen Besprechungen in Rom.
+Found
+MODSMD_ARTICLE06: Abschiedsbesuch Neuraths bei Mussolini.
+Found
+MODSMD_ARTICLE07: Löhne in Italien der Lira-Abwertung angeglichen.
+Found

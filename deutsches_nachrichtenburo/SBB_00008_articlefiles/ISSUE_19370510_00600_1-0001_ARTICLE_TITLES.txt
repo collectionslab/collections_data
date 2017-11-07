@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Kulturpolitische Rede Dr. Goebbels' in Danzig.
+Found
+MODSMD_ARTICLE02: Der nationale Heeresbericht vom Sonnabend.
+Found
+MODSMD_ARTICLE03: Die Hintergründe der englischen Propaganda.
+Found
+MODSMD_ARTICLE04: Feier am Denkmal der Jungfrau von Orleans.
+Found
+MODSMD_ARTICLE05: Beitritt des Jemen zum arabischen Freundschaftsvertrag.
+Found

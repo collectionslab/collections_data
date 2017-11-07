@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ribbentrop dankt für die Glückwünsche.
+Found
+MODSMD_ARTICLE02: Gründung eines Neichsjagdmuseums in Berlin.
+Found
+MODSMD_ARTICLE03: Frist für Neichszuschüsse bei Wohnungsbauten verlängert.
+Found
+MODSMD_ARTICLE04: Bavaria Filmkunst G. m. b. H. gegründet.
+Found
+MODSMD_ARTICLE05: Der Reichskommissar für Preisbildung über seine Aufgaben.
+Found
+MODSMD_ARTICLE06: Verteilung der Aufgabenbereiche im Wiener Kabinett.
+Found
+MODSMD_ARTICLE07: Wiener Blätter zur Kabinettsumbildung.
+Found
+MODSMD_ARTICLE08: Ein ostjüdischer Paßfälscher in Oesterreich gefaßt.
+Found
+MODSMD_ARTICLE09: Budenko mit falschem sowietspanischen Pap entkommen.
+Found
+MODSMD_ARTICLE10: „Moskaus Hetze führt zum Krieg."
+Found
+MODSMD_ARTICLE11: Die Korruptionsaffäre in der belgischen Staatsdrnckerei.
+Found

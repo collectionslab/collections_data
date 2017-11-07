@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Nichtangriffspakt Deutschland—Rußland.
+Not Found
+MODSMD_ARTICLE02: Empfang für Teilnehmer am Archäologenkongrest.
+Found
+MODSMD_ARTICLE03: So Hausen Englands Freunde.
+Found
+MODSMD_ARTICLE04: Ein ganzes Dorf wandert aus.
+Found
+MODSMD_ARTICLE05: Polnische Taten, die England für korrekt halt.
+Found
+MODSMD_ARTICLE06: „Bald kommen die Polen nach Westoberschlesien."
+Found
+MODSMD_ARTICLE07: Polen Hetzen Hunde auf den Flüchtlingsstrom.
+Found
+MODSMD_ARTICLE08: Raub an deutschem Eigentum jetzt amtlich sanktioniert.
+Found
+MODSMD_ARTICLE09: Arrest für Volksdeutsche Flüchtlinge.
+Found
+MODSMD_ARTICLE10: Groteske Angsturteile polnischer Gerichte.
+Found
+MODSMD_ARTICLE11: Neue Haßurteile gegen Volksdeutsche in Polen.
+Found
+MODSMD_ARTICLE12: Polens Kriegsvorbereitungen steigern sich.
+Found
+MODSMD_ARTICLE13: Der Reichsfinanzminister in Rom eingetroffen.
+Found
+MODSMD_ARTICLE14: Englands Geschäftsträger bei Bonnet.
+Found
+MODSMD_ARTICLE15: Am Dienstag Vollsitzung des britischen Kabinetts.
+Found
+MODSMD_ARTICLE16: Wieder einmal auf der ganzen Linie blamiert.
+Found
+MODSMD_ARTICLE17: Südafrika gegen die Boykotthetzer.
+Found
+MODSMD_ARTICLE18: Die Oelleitung brennt bei Haifa.
+Found

@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Frnnk vor der Wiener Universität.
+Found
+MODSMD_ARTICLE02: Deutsch-englische Wirtschaftsverhandlungen in Berlin.
+Found
+MODSMD_ARTICLE03: England will Frieden in Spanien stiften.
+Found
+MODSMD_ARTICLE04: Außenpolitische Rede des ungarischen Außenministers.
+Found
+MODSMD_ARTICLE05: Durchgreifender Ausbau der ungarischen Armee.
+Found
+MODSMD_ARTICLE06: Die! Schraube ohne Ende.
+Found

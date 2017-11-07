@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Eine weitere Stiftung Dr. Goebbels'. 1,5 Millionen Reichsmark für die deutschen Künstler.
+Found
+MODSMD_ARTICLE02: Neues Haus für die Saarbrücker Finanzämter.
+Found
+MODSMD_ARTICLE03: Hlinka verlangt Verwirklichung der slowakischen Rechte.
+Found
+MODSMD_ARTICLE04: Söhne französischer Frontsoldaten eingeladen.
+Found
+MODSMD_ARTICLE05: Paris protestiert vorsorglich in Valencia und Salamanca.
+Found
+MODSMD_ARTICLE06: Tolle Zustände in einem französischen Hafen.
+Found
+MODSMD_ARTICLE07: Wieder schwere Unruhen in Madrid.
+Found
+MODSMD_ARTICLE08: Der nationale Heeresbericht vom Mittwoch.
+Found
+MODSMD_ARTICLE09: Verwundete nationalspanische Offiziere bei Mussolini.
+Found
+MODSMD_ARTICLE10: Italiens Presse zum Jahrestag des Marsches auf Rom»
+Found
+MODSMD_ARTICLE11: „Völlig ungenügende" Herbstbestellung in Sowjetrußland.
+Found
+MODSMD_ARTICLE12: „Wahlkandidat" Finkelstein wird nicht erwähnt.
+Found
+MODSMD_ARTICLE13: Der Eindruck der Neurath-Erklärung in USA.
+Found
+MODSMD_ARTICLE14: Balfours Ehrenhain wird Zu Asche.
+Found
+MODSMD_ARTICLE15: Strategisch wichtige Insel von den Japanern besetzt.
+Found
+MODSMD_ARTICLE16: Antienglischer Beschluß der indischen Kongreßpartei.
+Found

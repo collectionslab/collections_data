@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Englands und Frankreichs Sorgen.
+Found
+MODSMD_ARTICLE02: Englische Bomben auf dänischem Gebiet gesunden.
+Found
+MODSMD_ARTICLE03: Einstellung des Dampferverkehrs Kopenhagen—Bornholm.
+Found
+MODSMD_ARTICLE04: Neue dänische Beobachtungsstation für Minen.
+Found
+MODSMD_ARTICLE05: „Messaggero" über die Folgen der Blockade.
+Found
+MODSMD_ARTICLE07: Italiens Aufbauarbeit in Libyen.
+Found
+MODSMD_ARTICLE08: Minen südlich von Malmö gesichtet.
+Found
+MODSMD_ARTICLE09: Jüdische Spenden für die Alliierten.
+Found
+MODSMD_ARTICLE10: Prien torpediert einen britischen Schweren Kreuzer.
+Found
+MODSMD_ARTICLE11: Britischer 2500 t-Dampfer gesunken.
+Found
+MODSMD_ARTICLE12: Die „Spaarndam" in Flammen.
+Found
+MODSMD_ARTICLE13: Irland beschließt die Errichtung einer eigenen Flotte.
+Found
+MODSMD_ARTICLE14: Fish droht den Präsidentschaftskandidaten.
+Found
+MODSMD_ARTICLE15: „Die Vereinigten Staaten brauchen deutsche Waren."
+Found
+MODSMD_ARTICLE16: Japan läßt sich die Zwangsmaßnahmen nicht gefallen.
+Found

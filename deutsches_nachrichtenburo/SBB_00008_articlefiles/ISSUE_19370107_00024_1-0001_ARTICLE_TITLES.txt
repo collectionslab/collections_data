@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Festaufführung der Staatsoper in München.
+Found
+MODSMD_ARTICLE02: französisch-belgische Skiläufer-Jugendgruppe in München.
+Found
+MODSMD_ARTICLE03: Am Vorabend der Haager Hochzeitsfeierlichkeiten
+Found
+MODSMD_ARTICLE04: Frankreichs Regierungsmitglieder an der Riviera.
+Found
+MODSMD_ARTICLE06: Gerüchte um Alexandrette.
+Found
+MODSMD_ARTICLE07: Zyromski fordert Eingreifen Frankreichs für die Roten.
+Found
+MODSMD_ARTICLE08: Frankreichs Steuerzahler und die roten Spanien-Flüchtlinge.
+Found
+MODSMD_ARTICLE09: Rotmord in Katalonien.
+Found
+MODSMD_ARTICLE10: Englands Sorge um den Geburtenrückgang.
+Found
+MODSMD_ARTICLE11: Sowjetrussische Agenten in Chinesisch-Turkestan.
+Found
+MODSMD_ARTICLE12: Die Botschaft Roosedelts an den Kongreß.
+Found
+MODSMD_ARTICLE13: Der Kriegmaterial-Wettlauf mit dem Kongreß.
+Found

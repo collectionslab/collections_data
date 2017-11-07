@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an Lutze.
+Found
+MODSMD_ARTICLE02: Lufthansa alleinige Trägerin des Luftverkehrs.
+Found
+MODSMD_ARTICLE03: Großzügige Förderung der Kleinsiedlung.
+Found
+MODSMD_ARTICLE04: „Em methodischer Lügenfeldzug."
+Found
+MODSMD_ARTICLE05: Dr. Hacha in Strbske Pleso eingetroffen.
+Found
+MODSMD_ARTICLE06: Die naiioualspauische Offensive in Katalonien.
+Found
+MODSMD_ARTICLE07: Reynaud über die schlechte französische Finanzlage.
+Found
+MODSMD_ARTICLE08: Daladier wird auch Algier besuchen.
+Found
+MODSMD_ARTICLE09: Senegalfchützen aus dem Wege nach Dschibuti.
+Found
+MODSMD_ARTICLE10: Die Heimkehr der Verbauuten Araberführer.
+Found
+MODSMD_ARTICLE11: Bankdirektor in Palästina entführt.
+Found
+MODSMD_ARTICLE12: Bomben gegen das Polizeigebäude von Haifa.
+Found
+MODSMD_ARTICLE13: GM» Die japauifch-sowjetrussischen Fischereiverhandlungen.
+Found
+MODSMD_ARTICLE14: Bolschewistische Einmischungsversuche in Chile.
+Found

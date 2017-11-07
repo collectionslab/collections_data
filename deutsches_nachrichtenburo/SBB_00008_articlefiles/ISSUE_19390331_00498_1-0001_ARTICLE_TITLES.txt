@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der schnellste Mann der Welt.
+Found
+MODSMD_ARTICLE03: Mussolini in Reggio.
+Found
+MODSMD_ARTICLE04: Tr. Hacha empfing tschechische Journalisten.
+Found
+MODSMD_ARTICLE05: Die Festlegung der slowakischen Oftgrenze.
+Found
+MODSMD_ARTICLE06: Anerkennung Francas durch Schweden.
+Found
+MODSMD_ARTICLE07: Der Herzog von Alba nach Madrid berufen.
+Found
+MODSMD_ARTICLE08: Das Unterhaus zusammengetreten.
+Found
+MODSMD_ARTICLE09: Latakije von französischem Militär besetzt.
+Found
+MODSMD_ARTICLE10: Zwei Araberkinder Opfer jüdischer Mordgier.
+Found
+MODSMD_ARTICLE11: Japan nimmt die Spratly-Inseln in Besitz.
+Found
+MODSMD_ARTICLE12: „USA. bereitet sich auf einen Krieg vor."
+Found
+MODSMD_ARTICLE13: Amerika hortet 69 vH. des Goldbestandes der Welt!
+Found
+MODSMD_ARTICLE14: 75 Kriegsschiffe für das „bedrohte" Amerika in Bau.
+Found
+MODSMD_ARTICLE15: Mit Roosevelts Quacksalbereien kommt man nicht weiter!
+Found

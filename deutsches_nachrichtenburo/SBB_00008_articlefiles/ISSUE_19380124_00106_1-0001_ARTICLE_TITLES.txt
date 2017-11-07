@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Filmball in München.
+Found
+MODSMD_ARTICLE02: Abreise der jugoslawischen Journalisten.
+Found
+MODSMD_ARTICLE03: „Politika" über die deutsch-jugoslawische Freundschaft.
+Found
+MODSMD_ARTICLE04: Die Londoner Presse über die Münchener Ausstellung.
+Found
+MODSMD_ARTICLE05: Deutschland als Vorbild in der Ertüchtigung der Jugend.
+Found
+MODSMD_ARTICLE06: Hoffnung auf stabilere Verhältnisse in Frankreich.
+Found
+MODSMD_ARTICLE07: Italien zu dem heuchlerischen Standpunkt der Großmächte.
+Found
+MODSMD_ARTICLE08: Auch Prag will Agenten bei Franco-Regierung ernennen.
+Found
+MODSMD_ARTICLE09: Hlinka-Jnterpellation wird zensiert.
+Found
+MODSMD_ARTICLE10: Schließung litauischer Organisationen in Wilna.
+Found
+MODSMD_ARTICLE11: Neuer Hauptschriftleiter der „Polska Zbrojna".
+Found
+MODSMD_ARTICLE12: Neue Erfolge der Nationalspanier an der Tcrnel-Front.
+Found
+MODSMD_ARTICLE13: 3999 Nordamerikancr auf sotvjetspanischer Seite.
+Found
+MODSMD_ARTICLE14: Großfeuer in der Sowjetbotschaft in Hankau.
+Found
+MODSMD_ARTICLE15: Der amerikanische Botschafter bei Hirota.
+Found
+MODSMD_ARTICLE16: Schweres Unglück auf der Donau.
+Found
+MODSMD_ARTICLE17: Geheimnisvoller Doppelmord auf brasilianischem Dampfer.
+Found

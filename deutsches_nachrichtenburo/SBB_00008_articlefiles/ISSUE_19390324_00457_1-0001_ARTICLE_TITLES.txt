@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Führer wieder in Swinemünde.
+Found
+MODSMD_ARTICLE02: Die Memeler Führerrede in der Pariser Presse.
+Found
+MODSMD_ARTICLE03: Starker Eindruck des Memeler Führerbesuches in London.
+Found
+MODSMD_ARTICLE04: Die neuen deutschen Verträge in Polen stark beachtet.
+Found
+MODSMD_ARTICLE05: Belgrad zum deutsch rumänischen Wirtschaftsabkommen.
+Found
+MODSMD_ARTICLE06: Betretenheit und Verwirrung in London.
+Found
+MODSMD_ARTICLE07: Belgien bedarf keiner neuen Grenzgarantien.
+Found
+MODSMD_ARTICLE08: „Times" als Gouvernante.
+Found
+MODSMD_ARTICLE09: Betrübte Einkreisungshetzer.
+Found
+MODSMD_ARTICLE10: Tie Berufung der Plewitzkaja abgelehnt.
+Found

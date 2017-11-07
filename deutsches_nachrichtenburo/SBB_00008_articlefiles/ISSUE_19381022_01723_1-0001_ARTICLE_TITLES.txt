@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Tr. Goebbels in der Hamburgischen Staatsoper.
+Found
+MODSMD_ARTICLE03: Reichsminister Kerrl wieder in Berlin.
+Found
+MODSMD_ARTICLE04: Vor der Eröffnung der Reichsautobahn.Ostsee-Alpen.
+Found
+MODSMD_ARTICLE05: Reichsminister Dr. Frank besichtigte Budapest.
+Found
+MODSMD_ARTICLE06: Ter vierte Vorschlag Prags an Ungarn überreicht.
+Found
+MODSMD_ARTICLE07: Die mährischen Slowaken wollen rur Slowakei.
+Found
+MODSMD_ARTICLE08: Dr. Benesch in England.
+Found
+MODSMD_ARTICLE09: Wirkung und Möglichkeiten des Münchener Abkommens.
+Found
+MODSMD_ARTICLE10: Ter „Tcmps" über den französischen Diplomaienschub.
+Found
+MODSMD_ARTICLE11: Fünf Priester in Valencia ermordet.
+Found
+MODSMD_ARTICLE12: Kriegsschauplatz Palästina.
+Found

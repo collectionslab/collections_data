@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Reichsminister! Dr. Mick dankt.
+Found
+MODSMD_ARTICLE02: Das Ergebnis der letzten Straßensammlung.
+Found
+MODSMD_ARTICLE03: Im Zeichen deutsch-japanischen Kulturaustausche
+Found
+MODSMD_ARTICLE04: Unterzeichnung des italienisch-englischen Abkommens.
+Found
+MODSMD_ARTICLE05: „Anzeichen für eine neue europäische Politik".
+Found
+MODSMD_ARTICLE06: Rom zur Außenpolitik der Pariser Regierung.
+Found
+MODSMD_ARTICLE07: Vorläufig kein französischer Ministerbesuch in London.
+Found
+MODSMD_ARTICLE08: Immer noch Streiks iu der französischen Metallindustrie.
+Found
+MODSMD_ARTICLE09: Militärdienstpflicht für Staatenlose.
+Found
+MODSMD_ARTICLE10: Ausdehnung der Devisengesetze in Ungarn.
+Found
+MODSMD_ARTICLE11: Der Prager Sowjetgesandte erneut nach Bukarest gereist.
+Found
+MODSMD_ARTICLE12: Befestigungsanlagen an der sowjetrussischen Westgrenze.
+Found
+MODSMD_ARTICLE13: Sowjetrussisches Bombenflugzeug in Rumänien gelandet.
+Found
+MODSMD_ARTICLE14: Wieder „Kollegien"-System in der Sowjetunion.
+Found
+MODSMD_ARTICLE15: Trennung der Zolleinahmen zwischen Syrien und Libanon.
+Found
+MODSMD_ARTICLE16: Die Kennzahl der Großhandelspreise vom 12. April.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ernennungen.
+Found
+MODSMD_ARTICLE02: Deutscher Marinebesuch in Finnland.
+Found
+MODSMD_ARTICLE03: 2000 Danziger Hitlerjungen auf Deutschlandfahrt.
+Found
+MODSMD_ARTICLE04: Kanadas Olympia-Ruderer in Berlin.
+Found
+MODSMD_ARTICLE05: Brasiliens Schachvertretung abgereist.
+Found
+MODSMD_ARTICLE06: Portugals Olympia Segler auf der Fahrt nach Kiel.
+Found
+MODSMD_ARTICLE07: Bauernehrung in Jngelfingen.
+Found
+MODSMD_ARTICLE08: LZ „Hindenburg" in Lakehurst gelandet.
+Found
+MODSMD_ARTICLE09: Die Internationale Konferenz für soziale Arbeit.
+Found
+MODSMD_ARTICLE10: Hauptamtsleiter Hilgenfeldt spricht in London.
+Found
+MODSMD_ARTICLE11: Die Südafrikanische Union hebt die Sanktionen auf.
+Found
+MODSMD_ARTICLE12: London meldet neue Unruhen in Palästina.
+Found
+MODSMD_ARTICLE13: England und Belgien zum beltisch österrelchlsche!! Abkommen.
+Found
+MODSMD_ARTICLE14: Spanische Polizei ermordet Monarchistenführer Sotelo.
+Found

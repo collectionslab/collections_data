@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Dank des Königs von England an den Führer.
+Found
+MODSMD_ARTICLE02: Minister Slingenberg am Adolf Hitler-Koog.
+Found
+MODSMD_ARTICLE03: Staatssekretär Freister über Gefangenenerziehuug.
+Found
+MODSMD_ARTICLE04: Deutsch-italienische Wirtschaftsabkommen unterzeichnet.
+Found
+MODSMD_ARTICLE05: Deutsch-Polnische Besprechungen in Warschau.
+Found
+MODSMD_ARTICLE06: Gegen Litauens Miuderheiteupolitik.
+Found
+MODSMD_ARTICLE07: Lodzer Polizei schließt den Verlag „Liberias".
+Found
+MODSMD_ARTICLE08: „Gazeta Polska" zur Rede Cianos.
+Found
+MODSMD_ARTICLE09: Die norditalienische Presse zur Ciano-Rede
+Found
+MODSMD_ARTICLE10: Besserung im Befinden des Kapitäns Prnß.
+Found
+MODSMD_ARTICLE11: Noosevelts nächstes Ziel: Stabilisierung der Warenpreise.
+Found
+MODSMD_ARTICLE12: Schwachsinnige als billige Hausangestellte verkauft.
+Found
+MODSMD_ARTICLE13: Francisco Miguone dirigert die Philharmoniker.
+Found

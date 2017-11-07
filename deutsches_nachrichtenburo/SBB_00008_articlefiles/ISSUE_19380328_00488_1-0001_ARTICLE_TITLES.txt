@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Wahlkundgebungen im Reich.
+Found
+MODSMD_ARTICLE02: Die Erklärung der Bischöse von den Kanzeln verlesen.
+Found
+MODSMD_ARTICLE03: Starke Beachtung der deutschen Wahl in Frankreich.
+Found
+MODSMD_ARTICLE04: „Echo de Paris" im „Jour" aufgegangen.
+Found
+MODSMD_ARTICLE05: Auch in Marseille wird gestreikt.
+Found
+MODSMD_ARTICLE06: Der frühere Finanzminister Rägnier gegen Blum.
+Found
+MODSMD_ARTICLE07: Mussolini am Mittwoch vor dem Senat.
+Found
+MODSMD_ARTICLE08: Unterredung Ciano— Perth.
+Not Found
+MODSMD_ARTICLE09: „Jnsornmzione Diplomatie" Zu den Besprechungen.
+Found
+MODSMD_ARTICLE10: Minister Alfieri über die Beziehungen Rom—Belgrad.
+Not Found
+MODSMD_ARTICLE11: „Genf keine Grundlage für eine reale Politik."
+Found
+MODSMD_ARTICLE12: Die Polnische Gesandtschaft in Wien aufgelöst.
+Found
+MODSMD_ARTICLE13: Staatssekretär Kleinmann in Budapest.
+Found
+MODSMD_ARTICLE14: Der rumänische Etat vor dem Ministerrat.
+Found
+MODSMD_ARTICLE15: Neue Mitglieder des spanischen Nationalrats.
+Found
+MODSMD_ARTICLE16: Begeisterter Empfang der „Emden"-Besabung in Bilbao.
+Found
+MODSMD_ARTICLE17: Eine Erklärung Duclos' in Barcelona.
+Found
+MODSMD_ARTICLE18: Tränengasbomben gegen kommunistische Hetzkundgebung.
+Found

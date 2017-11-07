@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Italiens Presse zur Rede des Führers.
+Found
+MODSMD_ARTICLE02: Verleihung des Olympischen Ehrenzeichens.
+Found
+MODSMD_ARTICLE03: Vor einer Gleichberechtigungs-Vereinbarung Ungarns.
+Found
+MODSMD_ARTICLE04: Neue Judenkrawalle an der Universität Warschau.
+Found
+MODSMD_ARTICLE05: Die Schweiz sichert ihre Landesversorgung im Kriegsfall.
+Found
+MODSMD_ARTICLE06: Königliche Gäste bei der Königin-Mutter Mary.
+Found
+MODSMD_ARTICLE07: Lansbury legt Vorsitz der Labour-Gruppe nieder.
+Found
+MODSMD_ARTICLE08: Kommunistische Paßfälschung für Valencia.
+Found
+MODSMD_ARTICLE09: Außenpolitische Guild Hall-Rede Chamberlains.
+Found
+MODSMD_ARTICLE10: Flucht der chinesischen Bevölkerung aus Schanghai.
+Found

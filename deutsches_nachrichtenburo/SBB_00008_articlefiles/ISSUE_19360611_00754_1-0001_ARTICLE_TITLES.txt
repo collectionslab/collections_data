@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Schlich des Neichshandwerkeriages 1936.
+Found
+MODSMD_ARTICLE02: Aufruf für Hochwassergeschädigte.
+Found
+MODSMD_ARTICLE03: Urteil gegen den Franziskanerbruder Alexander.
+Found
+MODSMD_ARTICLE04: Die litauischen Sejmwahlen beendet.
+Found
+MODSMD_ARTICLE05: Polens Botschafter in Moskau geht nach Paris.
+Found
+MODSMD_ARTICLE06: Kabinettssitzung in London.
+Found
+MODSMD_ARTICLE07: Botschafterbesuche im Foreign Office.
+Found
+MODSMD_ARTICLE08: Eden dementiert Verfassungsverhandlungen mit Aegypten.
+Found
+MODSMD_ARTICLE09: Frontkämpfer Frankreichs gegen Vorgehen der Streikenden.
+Found
+MODSMD_ARTICLE10: Dringliche Behandlung der französischen Sozialgesetze.
+Found
+MODSMD_ARTICLE11: Frankreichs Innenminister gegen Preiserhöhung.
+Found
+MODSMD_ARTICLE12: Ausschußberatung des Regierungsprogramms.
+Found
+MODSMD_ARTICLE13: Keine Aenderung der italienischen Außenpolitik.
+Found
+MODSMD_ARTICLE14: 50 abessinische Häuptlinge leisten Eid auf Italien.
+Found
+MODSMD_ARTICLE15: Politische Konferenz auf der Donau.
+Found
+MODSMD_ARTICLE16: Griechische Regierungsmaßnahmen für die Beamten.
+Found
+MODSMD_ARTICLE17: Türkischer Ministerrat über die Konferenz in Montreux.
+Found
+MODSMD_ARTICLE18: Arabischer Angriff auf jüdische Siedlungen.
+Found
+MODSMD_ARTICLE19: Sowjetrussische Militärberater in China.
+Found

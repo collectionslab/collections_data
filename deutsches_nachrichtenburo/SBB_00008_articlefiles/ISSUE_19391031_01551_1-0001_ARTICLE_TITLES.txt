@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Generaloberst von Brauchitsch über unsere heutige Lage.
+Found
+MODSMD_ARTICLE02: Verwaltungsmaßnahmen im deutschen Osten.
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Frick in Danzig.
+Found
+MODSMD_ARTICLE04: Die neue Wache des Faschismus.
+Found
+MODSMD_ARTICLE05: Die römische Presse zur Umbesetzung der Ministerposten.
+Found
+MODSMD_ARTICLE06: „Popolo d'Jtalia" zur Waffenlieferung durch USA.
+Found
+MODSMD_ARTICLE07: Die russische Protestnote schlug wie eine Bombe ein.
+Found
+MODSMD_ARTICLE08: Infame Verletzungen der belgischen Neutralität.
+Found
+MODSMD_ARTICLE09: Auch in Norwegen Steigerung der Lebenshaltungskosten.
+Found
+MODSMD_ARTICLE10: England schimpft über die „Kontorgewalt".
+Found
+MODSMD_ARTICLE11: Für japanische Gegenmaßnahmen gegen die Blockade.
+Found
+MODSMD_ARTICLE12: „Keine Möglichkeit, Deutschland Zu zerschlagen".
+Found

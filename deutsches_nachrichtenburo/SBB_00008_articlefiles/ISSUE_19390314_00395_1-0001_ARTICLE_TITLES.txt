@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers für den Schah von Iran.
+Found
+MODSMD_ARTICLE02: Beileidstelegramm des Führers an Frau von Levetzow.
+Found
+MODSMD_ARTICLE03: Glückwunsch Görings zur KSjährigeni Ehejubelfeier.
+Found
+MODSMD_ARTICLE04: Cianetti besichtigte das Rügen-Bad.
+Found
+MODSMD_ARTICLE05: Tschechen brandschatzen ein deutsches Dorf.
+Found
+MODSMD_ARTICLE06: Mödritz in Mammen.
+Found
+MODSMD_ARTICLE07: Dr. Tiso zur Unabhängigkeitserklärung der Slowakei
+Found
+MODSMD_ARTICLE08: 84 Deutsche und Slowaken verhaftet.
+Found
+MODSMD_ARTICLE09: Mach übernimmt das Oberkommando der Hlinka-Garde.
+Found
+MODSMD_ARTICLE10: Der Tschechenterror in der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE11: Das Gewaltregiment des tschechischen Generals Prchala.
+Found
+MODSMD_ARTICLE12: Der ungarische Bormarsch geht weiter.
+Found
+MODSMD_ARTICLE13: Hacha Dienstagabend in Berlin.
+Found
+MODSMD_ARTICLE14: Prag zieht seine Truppen nicht zurück.
+Found
+MODSMD_ARTICLE15: Von tschechischen Gendarmen ins Gefängnis geworfen.
+Found
+MODSMD_ARTICLE16: Die jüdisch-bolschewistische Hetzkampagne in der Tschechen
+Found
+MODSMD_ARTICLE17: Der japanisch-sowjetrussische Fischereikonflikt.
+Found
+MODSMD_ARTICLE18: Japanische Luftangriffe in Nordwestchina.
+Found

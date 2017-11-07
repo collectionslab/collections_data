@@ -1,0 +1,4 @@
+MODSMD_ARTICLE01: Der Führer gibt dem Breslauer Fest die Weihe.
+Found
+MODSMD_ARTICLE02: Der Führer ehrt die Bezwinger der Eiger-Nordwand.
+Found

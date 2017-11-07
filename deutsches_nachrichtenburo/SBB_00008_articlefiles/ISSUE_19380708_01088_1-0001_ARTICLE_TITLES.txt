@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Reichsparteitag vom 5. bis 12. September.
+Found
+MODSMD_ARTICLE02: Glückwunsch des Führers für hundertjährigen Altveteran.
+Found
+MODSMD_ARTICLE03: Generalsekretär Menemencioglu bei von Ribbentrop.
+Found
+MODSMD_ARTICLE04: Deutsch-siamesisches Studentenlager in Kärnten.
+Found
+MODSMD_ARTICLE05: Neuer deutscher Weltrekord im Segelflug.
+Found
+MODSMD_ARTICLE06: Eröffnung der deutschen Wehrmachtsmeisterschaften 1938.
+Found
+MODSMD_ARTICLE07: Julius Streicher sprach Zu Geschichtsforschern.
+Found
+MODSMD_ARTICLE08: Deutsche Küstenauskläruugsstasfel besucht Malmö.
+Found
+MODSMD_ARTICLE09: Stockholm sah den Film vom Besuch des Führers in Italien.
+Found
+MODSMD_ARTICLE10: Steuererhöhung infolge sozialdemokratischer Mißwirtschaft.
+Found
+MODSMD_ARTICLE11: Mißglückter Anschlag auf „General" Maja.
+Found
+MODSMD_ARTICLE12: „Gioruale d'Jtalia" über Zusammenarbeit Japan—ltalien.
+Found
+MODSMD_ARTICLE13: Massenverhastungen nach der Flucht Ljuschkows.
+Found
+MODSMD_ARTICLE14: Verstärkung des britischen Militärs in Palästina.
+Found
+MODSMD_ARTICLE15: Neue Unruhen in WaZiristan.
+Found
+MODSMD_ARTICLE16: Amerikanische Versicherungen das Opfer jüdischer Gauner.
+Found
+MODSMD_ARTICLE17: Wahlrecht! für die Frauen Mexikos.
+Found
+MODSMD_ARTICLE18: Chilenische Kupferminenarbeiter im Streik.
+Found

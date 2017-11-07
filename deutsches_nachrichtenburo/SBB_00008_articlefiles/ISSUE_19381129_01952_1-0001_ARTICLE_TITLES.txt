@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Nacht-Ausgabe« Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Dr. Ley an den Bahren der Waldenburger Opfer.
+Found
+MODSMD_ARTICLE03: Der Bau der ersten Reichsautobahn im Sudetenland.
+Found
+MODSMD_ARTICLE04: Tschechischer Fmanzbeamter erschossen
+Found
+MODSMD_ARTICLE05: Diplomatische Beziehungen Belgien—Nationalspanien.
+Found
+MODSMD_ARTICLE06: Französische Streikende wollen nach Belgien.
+Found
+MODSMD_ARTICLE07: Kommunistische Fremdenlegion in Belgien.
+Found
+MODSMD_ARTICLE08: 4 Monate Gefängnis für Abraham und Ghana Grünspan.
+Found
+MODSMD_ARTICLE09: Kampf den Dunkelmännern und Kriegstreibern!
+Found
+MODSMD_ARTICLE10: Daladiers Kampf gegen den Kreml.
+Found
+MODSMD_ARTICLE11: Eine neue Rüstungsanleihe in England.
+Found
+MODSMD_ARTICLE12: Geteilte Meinung über den Handelsvertrag.
+Found
+MODSMD_ARTICLE13: Admiral Pouud in London.
+Found
+MODSMD_ARTICLE14: Lettlands Außenminister am 5. Dezember in London.
+Found
+MODSMD_ARTICLE15: Schweden zieht sich zurück.
+Found
+MODSMD_ARTICLE16: Metaxas zur nationalen Organisierung der Jugend.
+Found
+MODSMD_ARTICLE17: 23 Araber und 2 Briten bei Ummazzinat getötet.
+Found
+MODSMD_ARTICLE18: Araberblatt geißelt die britische Mandatspolitik.
+Found
+MODSMD_ARTICLE19: Arabische Beamte auf die Straße gesetzt.
+Found
+MODSMD_ARTICLE20: Jüdische Banknoteufälscher im gelobten Land.
+Found

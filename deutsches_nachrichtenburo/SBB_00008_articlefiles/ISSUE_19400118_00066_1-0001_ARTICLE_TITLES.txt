@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Deutsches Aachrichtenbüro Äff
+Found
+MODSMD_ARTICLE02: z. deutsche Veröffentlichung zum srsnjölischen Albtmch.
+Found
+MODSMD_ARTICLE03: Der slowakische Staatsvertrag mit Deutschland.
+Found
+MODSMD_ARTICLE04: „Frankreich dem britischen Willen unterworfen."
+Found
+MODSMD_ARTICLE05: 2KO Volksdeutsche verließen Reval.
+Found
+MODSMD_ARTICLE06: Taß klagt Schweden an.
+Found
+MODSMD_ARTICLE07: Moskau dementiert eine Lüge des „Daily Herald".
+Found

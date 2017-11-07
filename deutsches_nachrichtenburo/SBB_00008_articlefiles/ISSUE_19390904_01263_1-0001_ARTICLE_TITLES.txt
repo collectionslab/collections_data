@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Frankreich leistet Polen Beistand.
+Found
+MODSMD_ARTICLE02: Kurze Äuslandsnachrichten.
+Found
+MODSMD_ARTICLE03: Grenzzonen-Verordnung in Kraft getreten.
+Found
+MODSMD_ARTICLE04: Die polnische Luftwaffe wirksam getroffen.
+Found
+MODSMD_ARTICLE05: Schulschiff „Schleswig-Holstein" im Kampf.
+Found
+MODSMD_ARTICLE06: Umbildung der belgischen Regierung.
+Found
+MODSMD_ARTICLE07: Freudentag im befreiten Tarnowitz.
+Found
+MODSMD_ARTICLE08: Auch Schweden hält die Handelsbeziehungen aufrecht.
+Found
+MODSMD_ARTICLE09: Flüchtlinge in Rumänien.
+Found
+MODSMD_ARTICLE10: Das Internationale Rote Kreuz tritt in Aktion.
+Found
+MODSMD_ARTICLE11: Japan wartet die weitere Entwicklung ab.
+Found
+MODSMD_ARTICLE12: Washington: Außerordentliche Kabinettssitzung am Montag.
+Found
+MODSMD_ARTICLE13: Amerika wird sich aus dem Konflikt heraushalten.
+Found
+MODSMD_ARTICLE14: „Chile muß strikteste Neutralität beobachten."
+Found
+MODSMD_ARTICLE15: Gesetz über die Neutralität Brasiliens unterzeichnet.
+Found

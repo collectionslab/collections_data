@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ernennung zum Oberverwaltungsgerichtrat.
+Found
+MODSMD_ARTICLE02: Empfang beim Reichsaußenminister.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Kameradschaftsabend des Deutsch-Englischen Kreises.
+Found
+MODSMD_ARTICLE05: Die Finnlandreise des ReichsfinanZministers.
+Found
+MODSMD_ARTICLE06: Marxistengesindel überfällt deutsche Festversammlung.
+Found
+MODSMD_ARTICLE07: Das neue österreichische Fremdengefetz.
+Found
+MODSMD_ARTICLE08: Alle Parteiveranstaltungen in Rumänien verboten.
+Found
+MODSMD_ARTICLE09: Das nationalspanische Justizministerium in Vitoria eröffnet.
+Found
+MODSMD_ARTICLE10: Französische Gasmasken für Sowjetspanien.
+Found
+MODSMD_ARTICLE11: Worte, denen die Tat folgen sollte.
+Found
+MODSMD_ARTICLE12: „Stalins Brief eine Herausforderung und Drohung."
+Found
+MODSMD_ARTICLE13: Jouhaux über das französische Arbeitsstatu4:
+Found
+MODSMD_ARTICLE14: Schwierige Geburt des französischen „Arbeitsstatuts".
+Found
+MODSMD_ARTICLE15: Die täglichen Todesurteile in Sowjetrußland.
+Found
+MODSMD_ARTICLE16: Um die Freilassung der politischen Gefangenen in Indien.
+Found
+MODSMD_ARTICLE17: Jrak-Oelraffinerie kommt nach Haifa.
+Found
+MODSMD_ARTICLE18: „Ein wirksames Mittel zur Vertiefung der Freundschaft".
+Found
+MODSMD_ARTICLE19: Deutsche Wirtschaftsmethoden als Vorbild.
+Found

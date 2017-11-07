@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Grußwechsel des Homöopathischen Kongresses mit dem Führer.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Rumänischer Jugendführer in Berlin.
+Found
+MODSMD_ARTICLE04: Deutscher Vorsitz bei einem Internationalen Kongreß.
+Found
+MODSMD_ARTICLE05: Es waren sowjetspanische Flugzeuge!
+Found
+MODSMD_ARTICLE06: Für scharfe Maßnahmen gegen die Luftpiraten.
+Found
+MODSMD_ARTICLE07: Die Bombardierung der „Kristakis".
+Found
+MODSMD_ARTICLE08: Es kracht im Volksfront-Gebälk.
+Found
+MODSMD_ARTICLE09: Ter „Figaro" um die französische Sicherheit besorgt»
+Found
+MODSMD_ARTICLE10: Pariser Internationale Kongresse beendet.
+Found
+MODSMD_ARTICLE11: Pariser Autodroschkenfahrer gegen Fahrpreiserhöhung.
+Found
+MODSMD_ARTICLE12: Neusüdwales bevorzugt britische Einwanderer.
+Found
+MODSMD_ARTICLE13: Moskau bestellt 35 llkll-Tonnen-Schlachtschiffe in USA.
+Found
+MODSMD_ARTICLE14: Der chinesische Aufmarsch.
+Found
+MODSMD_ARTICLE15: Chinesischer Aufmarsch auch am Nankau-Paß?
+Found
+MODSMD_ARTICLE16: Das Mngtse-Gebiet von japanischen Zivilisten geräumt.
+Found
+MODSMD_ARTICLE17: Washington sorgt sich um die Amerikaner in Nordchina.
+Found
+MODSMD_ARTICLE18: Neuer chilenischer Justizminister.
+Found

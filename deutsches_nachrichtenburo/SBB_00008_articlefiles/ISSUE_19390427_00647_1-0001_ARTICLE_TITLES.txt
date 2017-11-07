@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Goebbels in Bochum.
+Found
+MODSMD_ARTICLE02: Malik Buschati albanischer Innenminister.
+Found
+MODSMD_ARTICLE03: Ermächtigungsgesetz für das Kabinett Pierlot angenommen.
+Found
+MODSMD_ARTICLE04: „Zeitlich beschränkte Diktatur."
+Found
+MODSMD_ARTICLE05: Auch die Liberalen bekämpften das Wehrpflichtgesetz.
+Found
+MODSMD_ARTICLE06: „RePulse" unentbehrlich?
+Found
+MODSMD_ARTICLE07: Rekruten-,,Begeisterung" in England.
+Found
+MODSMD_ARTICLE08: Gafencu in Paris eingetroffen.
+Found
+MODSMD_ARTICLE09: Frankreich dienert vor England.
+Found
+MODSMD_ARTICLE10: Syrien-Besprechungen in Paris.
+Found
+MODSMD_ARTICLE11: 1760 KdF.-Urlauber grüßen den Führer.
+Found
+MODSMD_ARTICLE12: Neue Hilfetelegramme.
+Found
+MODSMD_ARTICLE13: Kairoer Besprechungen neuer Verzögerungsversuch.
+Found
+MODSMD_ARTICLE14: Uebergreifeu der Palästina-Unruhen aus Transjordanien.
+Found
+MODSMD_ARTICLE15: Washington kann kaum noch abwarten.
+Found
+MODSMD_ARTICLE16: Was ein Handbuch verrät.
+Found
+MODSMD_ARTICLE17: „Roosevelts Volkstümlichkeit auf dem niedrigsten Stand/'
+Found
+MODSMD_ARTICLE18: Das ist den Juden unangenehm.
+Found
+MODSMD_ARTICLE19: Im „freiesten Land der Welt".
+Found
+MODSMD_ARTICLE20: Australiens Sonderinteressen im Pazifik.
+Found
+MODSMD_ARTICLE21: Kleinflugzeug fliegt Rekord über 1666 Kilometer.
+Found

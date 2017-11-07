@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Das englische Schlachtschiff „Royal Oak" versenkt.
+Found
+MODSMD_ARTICLE02: Churchill schweigt noch immer!
+Found
+MODSMD_ARTICLE03: Wieder zwei neutrale Schiffe gesunken.
+Found
+MODSMD_ARTICLE04: Drei finnische Seeleute als Opfer Englands.
+Found
+MODSMD_ARTICLE05: „Präventivkrieg gegen Italien?"
+Found
+MODSMD_ARTICLE06: Italien: Anklage gegen England!
+Found
+MODSMD_ARTICLE07: Britische Heuchelei bleibt sich immer gleich.
+Found
+MODSMD_ARTICLE08: „Ueberall die Hand des Intelligente Service".
+Found
+MODSMD_ARTICLE09: „Saboteur des Weltfrieden!"
+Found
+MODSMD_ARTICLE10: Für Wiederherstellung von Sicherheit und Vertrauen.
+Found
+MODSMD_ARTICLE11: Verurteilung der Chamberlainrede in Japan.
+Found
+MODSMD_ARTICLE12: Die Bewegungen im Osten abgeschlossen.
+Found
+MODSMD_ARTICLE13: Zweigstelle des Lügenministeriums in Tokio.
+Found
+MODSMD_ARTICLE14: Englands Seeräuberei in japanischen Gewässern.
+Found
+MODSMD_ARTICLE15: „Deutschland braucht seinen notwendigen Lebensraum!"
+Found
+MODSMD_ARTICLE16: Auspeitschung in amerikanischem Gefängnis.
+Found

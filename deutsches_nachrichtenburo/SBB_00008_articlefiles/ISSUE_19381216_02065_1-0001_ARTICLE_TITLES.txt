@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der deutsche Adlerorden für Minister Lantini.
+Found
+MODSMD_ARTICLE02: Die „Pazifisten" fordern znm Rüstungswettlauf heraus.
+Found
+MODSMD_ARTICLE03: Neuer Pressechef des ungarischen AustenMinisterimns.
+Found
+MODSMD_ARTICLE04: Groteske Szenen in der französischen Kammer.
+Found
+MODSMD_ARTICLE05: Ehestandsdarlehen auch in Frankreich?
+Found
+MODSMD_ARTICLE06: Kamps gegen die Abtreibungen in Frankreich gefordert.
+Found
+MODSMD_ARTICLE07: Ein neuer GPU.-Mord in Frankreich?
+Found
+MODSMD_ARTICLE08: Marxistische Hetzer wandern ins Gefängnis.
+Found
+MODSMD_ARTICLE09: „Alarmierend ist der Hnnger der Bevölkerung".
+Found
+MODSMD_ARTICLE10: Neue Unruhen in Barcelona.
+Found
+MODSMD_ARTICLE11: Em landwirtschaftliches Hilfswerk in Nationalspanien.
+Found
+MODSMD_ARTICLE12: Der nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE13: Allgemeines Parteienverbot in Rumänien.
+Found
+MODSMD_ARTICLE14: Neuer kanadischer Gesandter für Belgien und Holland.
+Found
+MODSMD_ARTICLE15: Der amerikanische Wirtschaftsminister zurückgetreten.
+Found
+MODSMD_ARTICLE16: Verdrehnngskttnste Litwinow-Finkelsteins.
+Found

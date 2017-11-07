@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die Goethe-Medaille für Burte und Stolzing-Cerny.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Dr. Gutt fünf Jahre Leiter der Gesundheitsabteilung.
+Found
+MODSMD_ARTICLE04: HJ.-Heimbeschaffung gesetzlich geregelt.
+Found
+MODSMD_ARTICLE05: Die neue Reichsgaragenordnung erlassen.
+Found
+MODSMD_ARTICLE06: Starke Beachtung der Auto-Ausstellung im Ausland.
+Found
+MODSMD_ARTICLE07: Ter griechische Ministerpräsident in Belgrad.
+Found
+MODSMD_ARTICLE08: Das Genfer rotspanische Konsulat geschlossen.
+Found
+MODSMD_ARTICLE09: Himmler in Warschau.
+Found
+MODSMD_ARTICLE10: Französischer General über das spanische Heer.
+Found
+MODSMD_ARTICLE11: Frankreich wünscht englische Flugzeugmotoren zn kaufen.
+Found
+MODSMD_ARTICLE12: Offene Worte an die Adresse Englands.
+Found

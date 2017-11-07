@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: England Zum deutschen Protest in Madrid.
+Found
+MODSMD_ARTICLE02: Toller Vorfall auf dem Flugplatz von Portsmouth.
+Found
+MODSMD_ARTICLE03: Das britische Luftfahrtministerium greift ein.
+Found
+MODSMD_ARTICLE04: Wafsenstillstandsbereitschaft der baskischen Separatisten.
+Found
+MODSMD_ARTICLE05: Madrider Flieger Zu den Nationalisten übergegangen.
+Found
+MODSMD_ARTICLE06: Siegesmeldung der spanischen Volksfront.
+Found
+MODSMD_ARTICLE07: Engländer berichten über kommunistische Greueltaten.
+Found
+MODSMD_ARTICLE08: Washington lehnt Vermittlung im spanischen Bürgerkrieg ab»
+Found
+MODSMD_ARTICLE09: 175 g Spanien-Flüchtlinge in Genua.
+Found
+MODSMD_ARTICLE10: Die französisch-italienischen Besprechungen.
+Found
+MODSMD_ARTICLE11: Unterredungen mit Telbos.
+Found
+MODSMD_ARTICLE12: Zwei Sowjet-Generäle bei den französischen Herbstmanövern.
+Found
+MODSMD_ARTICLE13: Französische Flugzeugindustrielle in Moskau.
+Found
+MODSMD_ARTICLE14: Der König von Irak für ein arabisches Palästina.
+Found
+MODSMD_ARTICLE15: Für eine japanisch-chinesische Zusammenarbeit.
+Found
+MODSMD_ARTICLE16: Schacholympiade München 1936.
+Found

@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Telegrammwechsel zwischen dem Führer und Franco.
+Found
+MODSMD_ARTICLE02: Glückwunsch des Führers.
+Found
+MODSMD_ARTICLE03: Ernennung.
+Found
+MODSMD_ARTICLE04: Ans der Diplomatie.
+Found
+MODSMD_ARTICLE05: Der Heldengedenktag 1939.
+Found
+MODSMD_ARTICLE06: Erste Erfolge des Landdienst-Appells.
+Found
+MODSMD_ARTICLE07: Neichenhaller Jäger gewannen 25 KM-Skispähtrupplaus.
+Found
+MODSMD_ARTICLE08: Die sudetendeutschen Journalisten in München.
+Found
+MODSMD_ARTICLE09: Graf Teleki vor dem ungarischen Oberhaus.
+Found
+MODSMD_ARTICLE10: Das Judentum der größte Feind der Slowaken.
+Found
+MODSMD_ARTICLE11: Der türkische Außenminister in Belgrad.
+Found
+MODSMD_ARTICLE12: Die Kostenrechnung der Palästinakonferenz.
+Found
+MODSMD_ARTICLE13: Chamberlain weicht aus.
+Found
+MODSMD_ARTICLE14: Der geheimnisvolle „U-Boot-Angriff" im Atlantik.
+Found
+MODSMD_ARTICLE15: Die Sozialpolitik Nationalspaniens.
+Found
+MODSMD_ARTICLE16: Entscheidung über die Ve-Mre-Anerkennung Francas?
+Found
+MODSMD_ARTICLE17: Britische Gewaltumßuahmen gegen die arabische Bevölkerung.
+Found
+MODSMD_ARTICLE18: Japan wahrt seine Fischereirechte.
+Found
+MODSMD_ARTICLE19: Die Urheber der Schanghaier Morde.
+Found
+MODSMD_ARTICLE20: „Schanghai die unüberwindliche Festung der Juden."
+Found
+MODSMD_ARTICLE21: Isidor Grünbaum hatte einen Revolver in der Hand!
+Found

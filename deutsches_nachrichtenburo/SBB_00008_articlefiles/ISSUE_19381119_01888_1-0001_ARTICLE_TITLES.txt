@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Begnadigung durch den Führer.
+Found
+MODSMD_ARTICLE02: Tie Gemeindeordnung in den sudetendeutschen Gebieten.
+Found
+MODSMD_ARTICLE03: Das Sudetenland in Erwartung Dr. Goebbelsst
+Found
+MODSMD_ARTICLE04: Stabschef Lutze und General Russo in Innsbruck.
+Found
+MODSMD_ARTICLE05: Die Begründung zum WWMWrmächtiguugsgesetz.
+Found
+MODSMD_ARTICLE06: Die Marxisten gegen die Notverordnungen.
+Found
+MODSMD_ARTICLE07: Kammerauflösung und Neuwahlen gefordert.
+Found
+MODSMD_ARTICLE08: De Martel verliest endgültig Beirut.
+Found
+MODSMD_ARTICLE09: Uebersührung der Leiche Atatürks nach Ankara.
+Found
+MODSMD_ARTICLE10: Elf Tote in Istanbul.
+Found
+MODSMD_ARTICLE11: Roosevelt wünscht Heeresluftflotte von 9289 Maschinen.
+Found
+MODSMD_ARTICLE12: „Japan bereit, den Neunerpakt zu kündigen."
+Found
+MODSMD_ARTICLE13: Vollstreckung zweier Todesurteile.
+Found

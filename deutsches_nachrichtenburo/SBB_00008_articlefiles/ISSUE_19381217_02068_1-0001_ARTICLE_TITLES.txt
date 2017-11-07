@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Kanzlei des Führers vorübergehend geschlossen.
+Found
+MODSMD_ARTICLE02: Arbeitstagung des Neichsinnenministeriums.
+Found
+MODSMD_ARTICLE03: Veranstaltung der Deutsch-Französischen Gesellschaft.
+Found
+MODSMD_ARTICLE04: Das Heer als Auftraggeber im Sudetenland.
+Found
+MODSMD_ARTICLE05: Zurück aus Japan.
+Found
+MODSMD_ARTICLE06: Dr. Lehnich vor den Filmschaffenden der Ostmark.
+Found
+MODSMD_ARTICLE07: Die Bedeutung der Memel-Abstimmungen.
+Found
+MODSMD_ARTICLE08: Karmasin zu den slowakischen Landtagswahlen.
+Found
+MODSMD_ARTICLE09: Ueberbrückungsgeseh für den tschechischen Haushalt.
+Found
+MODSMD_ARTICLE10: Konflikt zwischen Tschechen und Slowaken.
+Found
+MODSMD_ARTICLE11: Die Juden in der italienischen Wirtschaft.
+Found
+MODSMD_ARTICLE12: Die britischen Rüstungen in Singapur.
+Found
+MODSMD_ARTICLE13: Japanische Fortschritte gegen Guerilla-Banden.
+Found
+MODSMD_ARTICLE14: Einmütiges Bekenntnis zum burischen Volkstum.
+Found
+MODSMD_ARTICLE15: Todesstrafe für die Nürnberger Autobanditen.
+Found

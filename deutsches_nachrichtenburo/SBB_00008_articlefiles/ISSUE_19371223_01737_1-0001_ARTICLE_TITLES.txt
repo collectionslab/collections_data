@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Militärattaches beim Staatsakt in München.
+Found
+MODSMD_ARTICLE02: Beileid der österreichischen Armee zum Tode Ludemdorffs.
+Found
+MODSMD_ARTICLE03: Beschlüsse des Wiener Ministerrates.
+Found
+MODSMD_ARTICLE04: Der Film vom Teutschlandbesuch Mussolinis.
+Found
+MODSMD_ARTICLE05: Italien und die Unterhausdebatte.
+Found
+MODSMD_ARTICLE06: Anerkennung der neuen Stellung Italiens gefordert.
+Found
+MODSMD_ARTICLE07: Deutsch-französische Wirtschastsvereinbaruna.
+Found
+MODSMD_ARTICLE08: Bundespräsident Motta warnt die Genfer Entente.
+Found
+MODSMD_ARTICLE09: Der geraubte Baskenschatz den Holschewisien aüsgelWert.
+Found
+MODSMD_ARTICLE10: Polens Kampf gegen bolschewistische Wühlmäuse.
+Found
+MODSMD_ARTICLE11: Ungarns Kampf gegen die Weltpest.
+Found
+MODSMD_ARTICLE12: Begnadigungen in Estland.
+Found
+MODSMD_ARTICLE13: Dänische Ehrung für den englischen König.
+Found
+MODSMD_ARTICLE14: Englisches Oberhaus bis 1. Februar vertagt.
+Found
+MODSMD_ARTICLE15: Ormsby-Gore stellt Beruhigung in Palästina fest.
+Found

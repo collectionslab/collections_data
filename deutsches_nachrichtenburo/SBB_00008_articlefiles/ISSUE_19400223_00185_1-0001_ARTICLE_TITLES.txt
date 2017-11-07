@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Bulgarischer Besuch in Berlin.
+Found
+MODSMD_ARTICLE03: General der Artillerie von Gronau f.
+Found
+MODSMD_ARTICLE04: Generaloberst von Brauchitsch in Krakau.
+Found
+MODSMD_ARTICLE05: Sven Hedins Dank.
+Found
+MODSMD_ARTICLE06: „England richtet seine Augen auf die norwegische Küste".
+Found
+MODSMD_ARTICLE07: „Auch dieser Mord wird gesühnt!"
+Found
+MODSMD_ARTICLE08: Moskau prangert die britische Gewaltpolitik an.
+Found
+MODSMD_ARTICLE09: Eine estländische Feststellung.
+Found
+MODSMD_ARTICLE10: Erfolgreiches Spähtruppunternehmen an der Westfront.
+Found
+MODSMD_ARTICLE11: Auch Estland leidet unter dem englischen Krieg.
+Found
+MODSMD_ARTICLE12: Neuer Generalsekretär im bulgarischen Austenministerium.
+Found
+MODSMD_ARTICLE13: Rumänien spürt die Auswirkungen des englischen Krieges.
+Found
+MODSMD_ARTICLE14: Wieder drei Bombenexplosionen im Londoner Westend.
+Found
+MODSMD_ARTICLE15: Senegalesen der Kern der Weygand-Truppen.
+Found
+MODSMD_ARTICLE16: „Der britische Standpunkt auf sehr schwachen Füßen".
+Found
+MODSMD_ARTICLE17: Schwere Wirtschaftskrise in Neuseeland.
+Found
+MODSMD_ARTICLE18: Neubildung des irakischen Kabinetts.
+Found

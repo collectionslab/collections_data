@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Helmut Sündermann Reichshauptamtsleiter.
+Found
+MODSMD_ARTICLE02: Ehrenvoller Auftrag für Professor Friedrich.
+Found
+MODSMD_ARTICLE03: Hohe belgische und deutsche Gäste in Köln.
+Found
+MODSMD_ARTICLE04: Die Studenten von Rom demonstrieren.
+Found
+MODSMD_ARTICLE05: Wieder Studentenkundgebungen wegen Tunis.
+Found
+MODSMD_ARTICLE06: Reynaud fertigt die Kritiker ab.
+Found
+MODSMD_ARTICLE07: Massenverhaftungen in Rumänien.
+Found
+MODSMD_ARTICLE08: Der schwedische Verteidigungsminister gestorben.
+Found
+MODSMD_ARTICLE09: Was ein betrogener dänischer Arbeiter berichtet.
+Found
+MODSMD_ARTICLE10: Minister Revay feiert die Autonomie der Karpatho-Nkraine.
+Found
+MODSMD_ARTICLE11: Das jüdische Vermögen in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE12: Das Judenproblem in der Slowakei.
+Found
+MODSMD_ARTICLE13: Die Juden machen den Engländern Vorschriften?
+Found
+MODSMD_ARTICLE14: Sperrung des Hafens von Jaffa angedroht.
+Found
+MODSMD_ARTICLE15: Gegen die Hetzer und Brunnenvergifter!
+Found

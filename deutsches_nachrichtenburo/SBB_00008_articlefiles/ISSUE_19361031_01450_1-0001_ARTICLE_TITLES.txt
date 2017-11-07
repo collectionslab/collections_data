@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Jubiläumskundgebung des Gaues Berlin.
+Found
+MODSMD_ARTICLE02: Der Führer spricht.
+Found
+MODSMD_ARTICLE03: Aenderung der Bürgersteuer.
+Found
+MODSMD_ARTICLE04: Ableistung des Arbeitsdienstes durch Abiturienten.
+Found
+MODSMD_ARTICLE05: Bergarbeiter bei Ministerpräsident Skladkowski.
+Found
+MODSMD_ARTICLE06: Für Vereinigung von Korea und Mandschukuo.
+Found

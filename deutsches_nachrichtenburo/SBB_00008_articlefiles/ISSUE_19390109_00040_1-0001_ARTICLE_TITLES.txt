@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer ehrt die Mitarbeiter Speers.
+Found
+MODSMD_ARTICLE02: Frühstück bei Minister Lantini zu Ehren Funks.
+Found
+MODSMD_ARTICLE03: Reichsminister Funk vom Dnce empfangen.
+Found
+MODSMD_ARTICLE04: „Tribuna" zum Besuch des Reichswirischaftsministers Funk.
+Found
+MODSMD_ARTICLE05: „Tribnna" widerlegt Pariser Hetzlügen.
+Found
+MODSMD_ARTICLE06: Auflösung der Iranischen Gesandtschaft in Paris.
+Found
+MODSMD_ARTICLE07: Die Operationen an der Katalonien-Front.
+Found
+MODSMD_ARTICLE08: Jüdische Verdrehungskünste.
+Found
+MODSMD_ARTICLE09: Erst die dritte Wasfenschiebung aufgeflogen.
+Found
+MODSMD_ARTICLE10: Litwinow-Finkelstein verschärft die Fischereiverhandlungen.
+Found
+MODSMD_ARTICLE11: Die Vereinigten Staaten als Waffenhändler der Welt.
+Found
+MODSMD_ARTICLE12: . Pater Coughlin gibt Roosevelt eine deutliche Antwort.
+Found
+MODSMD_ARTICLE13: Lyons warnt erneut den Hetzer Wells.
+Found

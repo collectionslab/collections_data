@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer Zum Geburtstag König Peters.
+Found
+MODSMD_ARTICLE02: Beförderungen im ReichsfinanZministerium.
+Found
+MODSMD_ARTICLE03: Deutschlandreise estländischer Journalisten.
+Found
+MODSMD_ARTICLE04: Auszeichnung des Films „Unternehmen Michael".
+Found
+MODSMD_ARTICLE05: Goldene Ehrenplakctte des DAJ. für Dr. Goebbels.
+Found
+MODSMD_ARTICLE06: Starkes Interesse für den Reichsparteitag in England.
+Found
+MODSMD_ARTICLE07: Ter Fall Bell.
+Found
+MODSMD_ARTICLE08: Londoner Mutmaßungen über die Mittelmeerkonferenz.
+Found
+MODSMD_ARTICLE09: Französische Blätterstimmen zur Mittelmeerkonferuz.
+Found
+MODSMD_ARTICLE10: Eine Serie von Sittlichkeitsverbrechen aufgedeckt.
+Found
+MODSMD_ARTICLE11: Die Grundsätze der estnischen Außenpolitik.
+Found
+MODSMD_ARTICLE12: Kongreß zur Bekämpfung der Tuberkulose.
+Found
+MODSMD_ARTICLE13: Der „Tag der Arbeit" in Amerika.
+Found
+MODSMD_ARTICLE14: Anwendung des Neutralitätsgesetzes in Aussicht genommen.
+Found
+MODSMD_ARTICLE15: Hirota spricht Japans tiefstes Bedauern aus.
+Found
+MODSMD_ARTICLE16: Chinesischer Zollkntter beschlagnahmt.
+Found
+MODSMD_ARTICLE17: „Militärmasinahmen bis zur Hilflosigkeit Chinas."
+Found
+MODSMD_ARTICLE18: Die japanische Offensive bei Schanghai.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die neue rumänische Regierung bereits vereidigt.
+Found
+MODSMD_ARTICLE02: Die Organisation der ungarischen Verwaltung.
+Found
+MODSMD_ARTICLE03: „Uj Nemzewk" fordert Regelung der Judenfrage Ungarns.
+Found
+MODSMD_ARTICLE05: Vortrag in Paris über deutsche Jugenderziehung.
+Found
+MODSMD_ARTICLE06: Neuer Protest gegen die französische Arbeitsordnung.
+Found
+MODSMD_ARTICLE07: Zeitungsanssuhrverbot vor der Kammer.
+Found
+MODSMD_ARTICLE08: Auszeichnung Vansittarts.
+Found
+MODSMD_ARTICLE09: De Valera zur nordirischen Wahl.
+Found
+MODSMD_ARTICLE10: Regierung soll Söldnerwerbung in Belgien unterbinden.
+Found
+MODSMD_ARTICLE11: Um die Anerkennung Francos und des Imperiums.
+Found
+MODSMD_ARTICLE12: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE13: Die Untersuchung über den Zwischenfall auf dem Peipus-See.
+Found
+MODSMD_ARTICLE14: Bahia verbietet Kritik an ausländischen Regierungen.
+Found

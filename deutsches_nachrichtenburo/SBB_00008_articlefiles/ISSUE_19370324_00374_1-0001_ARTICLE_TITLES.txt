@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Großkampfoffensive der Erzeugungsschlacht.
+Found
+MODSMD_ARTICLE02: Das ganze Volk sieht auf die Landwirtschaft.
+Found
+MODSMD_ARTICLE03: Von Mackensen Staatssekretär des Auswärtigen Amts.
+Found
+MODSMD_ARTICLE04: Ms der Diplomatie.
+Found
+MODSMD_ARTICLE05: Deutsch-tsckechoslowakisches Luftverkehrsabkommen.
+Found
+MODSMD_ARTICLE06: Auszeichnung für den Film „Die Tochter des Samurai".
+Found
+MODSMD_ARTICLE07: Prof. Spatz-München Vorsitzender des Internationalen Verbandes der medizinischen Fachpresse.
+Not Found
+MODSMD_ARTICLE08: Gras Ciano nach Belgrad abgereist.
+Found
+MODSMD_ARTICLE09: „Das Maß des Erträglichen überschritten".
+Found
+MODSMD_ARTICLE10: England und die Erklärungen Gör'mgs.
+Found
+MODSMD_ARTICLE11: Ii» Zeichen der englisch.italienischen Spannung.
+Found
+MODSMD_ARTICLE12: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE13: Pariser Stimmen zum Kammer-Abschluß.
+Found
+MODSMD_ARTICLE14: Neue Streiks in Frankreich,
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Erweiterter Auftrag an die Hitler-Jugend.
+Found
+MODSMD_ARTICLE02: Vor der Parade auf dem Wenzelsplatz.
+Found
+MODSMD_ARTICLE03: Francs dankt Göring.
+Found
+MODSMD_ARTICLE04: Außenminister Beck beim englischen König.
+Found
+MODSMD_ARTICLE05: Wieder Bombenexplosionen in England.
+Found
+MODSMD_ARTICLE06: Der neue Zusammenstoß an der mandschurischen Grenze.
+Found
+MODSMD_ARTICLE07: Kanada erkennt Franca an.
+Found
+MODSMD_ARTICLE08: Chile: „Das gesamt Volk verlangt Bestrafung."
+Found

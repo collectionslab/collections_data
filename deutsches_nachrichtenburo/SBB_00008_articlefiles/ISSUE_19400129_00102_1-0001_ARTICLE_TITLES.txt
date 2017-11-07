@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Das Ende einer Lügcnkampagne.
+Found
+MODSMD_ARTICLE02: Churchill möchte beschönigen.
+Found
+MODSMD_ARTICLE03: Em neues Eingeständnis der deutschen Seekriegserfolge.
+Found
+MODSMD_ARTICLE04: Zusammengestoßen.
+Found
+MODSMD_ARTICLE05: Churchills Hetze zum Weltkrieg.
+Found
+MODSMD_ARTICLE06: Schwedischer Dampfer überfällig.
+Found
+MODSMD_ARTICLE07: „Deutschland kann stolz sein".
+Found
+MODSMD_ARTICLE08: Der französische Frachtdampfer „Alsacien" versenkt.
+Found
+MODSMD_ARTICLE09: Rege deutsch-jugoslawische Wirtschaftsbeziehungen.
+Found
+MODSMD_ARTICLE10: Der jugoslawische Finanzminister leicht verletzt.
+Found
+MODSMD_ARTICLE11: Die Wahlen in Bulgarien beendet.
+Found
+MODSMD_ARTICLE12: Anmaßender englischer Druck auf Rumänien.
+Found
+MODSMD_ARTICLE13: Keine besonderen Ereignisse.
+Found
+MODSMD_ARTICLE14: England auf der Suche nach Schiffsersatz.
+Found
+MODSMD_ARTICLE15: Der finnische Heeresbericht vom 28. Januar.
+Found
+MODSMD_ARTICLE16: Furchtbares Eisenbahnunglück in Japan.
+Found
+MODSMD_ARTICLE17: Die englandfeindliche Bewegung in China nimmt zu.
+Found
+MODSMD_ARTICLE18: Die Deutschen der „Asama Maru" in Hongkong.
+Found
+MODSMD_ARTICLE19: Südamerikanische Unzufriedenheit mit England.
+Found
+MODSMD_ARTICLE20: Vollstreckung eines Todesurteils.
+Found

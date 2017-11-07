@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die große Gemeinschaft aller deutschen Frontsoldaten.
+Found
+MODSMD_ARTICLE02: Außenminister von Kanya ans Rom abgereist.
+Found
+MODSMD_ARTICLE03: Abschluß des ungarischen Staatsbesuchs in Rom.
+Found
+MODSMD_ARTICLE04: Amtliche Mitteilung über den Staatsbesuch in Rom.
+Found
+MODSMD_ARTICLE05: Die ungarisch-italienischen Besprechungen.
+Found
+MODSMD_ARTICLE06: Die italienisch-portugiesische Freundschaft.
+Found
+MODSMD_ARTICLE07: Prager Ermächtigungsgesetz im Entwurf fertig.
+Found
+MODSMD_ARTICLE08: „Die Minderheitenfrage läßt sich nicht wegmanövrieren".
+Found
+MODSMD_ARTICLE09: Polens Kampf gegen die rote Pest.
+Found
+MODSMD_ARTICLE10: Die Befestigungsarbeiten an der finnischen Grenze.
+Found
+MODSMD_ARTICLE11: Menschenleere Räume in englischen Kolonien. –
+Not Found
+MODSMD_ARTICLE12: 20 Kilometer vor Sagunt.
+Found
+MODSMD_ARTICLE13: Zufatzkredite für die ägyptische Landesverteidigung.
+Found
+MODSMD_ARTICLE14: Syrien fürchtet um seine nördlichen Gebiete.
+Found
+MODSMD_ARTICLE15: Wieder Wahl im Sandschak.
+Found
+MODSMD_ARTICLE16: 289 indische Bauern bei Unruhen verwundet.
+Found
+MODSMD_ARTICLE17: 199 999 Rotarmisten um Wladiwostok konzentriert.
+Found
+MODSMD_ARTICLE18: Unterzeichnung des Chaco-Abkommens.
+Found

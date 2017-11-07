@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Neue Devisenamnestie.
+Found
+MODSMD_ARTICLE02: König Georg VI. beruft Mitarbeiter seines Vaters.
+Found
+MODSMD_ARTICLE03: Vorläufig noch keine Kabinettsumbildung in England.
+Found
+MODSMD_ARTICLE04: Das Gesetz zur Aufrechterhaltung der öffentlichen Ordnung.
+Found
+MODSMD_ARTICLE05: Das Programm des Ausschusses für die Völkerbundsreform.
+Found
+MODSMD_ARTICLE07: Das Lebensrecht der Sudetendeutschen.
+Found
+MODSMD_ARTICLE08: Forderungen der französischen Beamtengewerkschaft.
+Found
+MODSMD_ARTICLE09: Reform der ungarischen Regierungspartei beendet.
+Found
+MODSMD_ARTICLE10: Die Meuterer in Sianfu umzingelt. :T ... . .... . -...
+Found
+MODSMD_ARTICLE11: Ergebenheitserklärung der Zentralregierungstruppen.
+Found
+MODSMD_ARTICLE12: Tschiangkaischek will nicht mit Tschanghsueliang verhandeln.
+Found
+MODSMD_ARTICLE13: Helsinki feiert den 75. Geburtstag Svinhufvuds.
+Found
+MODSMD_ARTICLE14: Die Lage vor Madrid.
+Found
+MODSMD_ARTICLE15: Präsident Roosevelt wieder daheim.
+Found

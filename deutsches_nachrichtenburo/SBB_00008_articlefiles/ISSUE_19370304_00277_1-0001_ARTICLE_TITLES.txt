@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die Genehmigunaspflicht für Luftbilder.
+Found
+MODSMD_ARTICLE02: Leitsätze der italienischen Bevölkerungspolitik.
+Found
+MODSMD_ARTICLE03: Gegen verantwortungslose Niistungspolitik.
+Found
+MODSMD_ARTICLE04: Polens Universitäten für nationalen Zusammenschluß.
+Found
+MODSMD_ARTICLE05: Das Verbot des Warschauer Marxistenblattes.
+Found
+MODSMD_ARTICLE06: Die bolschewistische Verseuchung Frankreichs.
+Found
+MODSMD_ARTICLE07: Schwere Streikunruhen in Nancy. Viele Verletzte.
+Found
+MODSMD_ARTICLE08: Moskaus neuer „Botschafter" in Valencia eingetroffen.
+Found
+MODSMD_ARTICLE09: Nationaler Kreuzer beschießt Cartagena.
+Found
+MODSMD_ARTICLE10: Zwei bolschewistische Spanien-Dampfer beschlagnahmt.
+Found
+MODSMD_ARTICLE11: Volschewistenangrisfe abgeschlagen.
+Found
+MODSMD_ARTICLE12: Die Bergwerke Kataloniens im Besitz der Nationaltr^?pen.
+Found
+MODSMD_ARTICLE13: Holländisches Waffentransportverbot geplant.
+Found
+MODSMD_ARTICLE14: Deutschunterricht in Elizabeth. Starke Beteiligung.
+Found
+MODSMD_ARTICLE15: Mit Tränengasbomben gegen Streikende in USA.
+Found
+MODSMD_ARTICLE16: Pläne des amerikanischen Generalstabs.
+Found
+MODSMD_ARTICLE17: Kommunistenumtriebe in der amerikanischen Handelsmarine.
+Found
+MODSMD_ARTICLE18: Stühpunkt Singapur in zwei Jahren fertig.
+Found

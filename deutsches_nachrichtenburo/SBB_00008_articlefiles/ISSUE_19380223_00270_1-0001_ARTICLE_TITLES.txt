@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Gmeral Verdaguer vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Dar neue Schweizer Gesandte in Berlin.
+Found
+MODSMD_ARTICLE03: Schulkreuzer „Emden" nach Frankreich eingeladen.
+Found
+MODSMD_ARTICLE04: „Berlingske Tidende" Zum deutschen Wirtschaftsaufstieg.
+Found
+MODSMD_ARTICLE05: Generalfeldmarschall Göring in Warschau.
+Found
+MODSMD_ARTICLE06: „Kurzer Poranny" zur Rede des Führers.
+Found
+MODSMD_ARTICLE07: Skoblin GPU.-Sonderbeauftragter für die Mongolei?
+Found
+MODSMD_ARTICLE08: Morrison vor dem Unterhaus.
+Found
+MODSMD_ARTICLE09: Die Londoner Presse zur Unterhansaussprache.
+Found
+MODSMD_ARTICLE10: Auch in Nationalspanien das Arbeitsbuch.
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht schildert Einnahme von Teruel.
+Found
+MODSMD_ARTICLE12: Die polnisch-italienische Freundschaft.
+Found
+MODSMD_ARTICLE13: Tagung des Prager Abgeordnetenhauses.
+Found
+MODSMD_ARTICLE14: Der neue argentinische Präsident vor dem Kongreß.
+Found
+MODSMD_ARTICLE15: Rückbernfung japanischer Generale.
+Found

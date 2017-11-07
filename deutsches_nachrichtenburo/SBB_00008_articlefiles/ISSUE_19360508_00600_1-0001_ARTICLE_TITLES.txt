@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Eine Anordnung für den Muttertag.
+Found
+MODSMD_ARTICLE02: Hilgenfeld dankt dem Deutschen Schützenverband.
+Found
+MODSMD_ARTICLE03: Der Große Fachrat der Wirtschaftsprüfer.
+Found
+MODSMD_ARTICLE04: Der deutsch-Polnische Durchgangsverkehr.
+Found
+MODSMD_ARTICLE05: Professor Dr. Max Rubner war deutschblütiger Herkunft.
+Found
+MODSMD_ARTICLE06: Weitere Zunahme der Rundfunkteilnehmer.
+Found
+MODSMD_ARTICLE07: Volksdeutscher Schrifttumspreis für Erwin Wittstock.
+Found
+MODSMD_ARTICLE08: Türkische Abordnung auf der Südostausstellung.
+Found
+MODSMD_ARTICLE09: LZ „Hindenburg" 5W üm vor der Südspitze Neufundlands.
+Found
+MODSMD_ARTICLE10: LZ „Hindenburg" im Sturm über dem Nordatlantik.
+Found
+MODSMD_ARTICLE11: Der „Hindenburg"-Flug Tagesgespräch von New Aork.
+Found
+MODSMD_ARTICLE12: Am 9. und 19. Juni litauische Parlamentswahlen.
+Found
+MODSMD_ARTICLE13: Der Präsident der Bank von Polen zurückgetreten.
+Found
+MODSMD_ARTICLE14: Verhaftung des Ministerialrats Autengruber.
+Found
+MODSMD_ARTICLE15: Völlige Einigkeit in der Kleinen Entente.
+Found
+MODSMD_ARTICLE16: Griechisches Dementi zur Konserenz der Balkanmächte.
+Found
+MODSMD_ARTICLE17: Auch Frankreich und Belgien unterrichtet.
+Found
+MODSMD_ARTICLE18: Ras Sejum unterwirft sich.
+Found
+MODSMD_ARTICLE19: Furchtbare Brandkatastrophe in einer polnischen Stadt.
+Found

@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Tie Minderheiten-Erklärung des Innenministers von Szell.
+Found
+MODSMD_ARTICLE02: Eine Erklärung des Stellvertreters des Führers.
+Found
+MODSMD_ARTICLE03: Jahrestagung der Reichskammer der bildenden Künste.
+Found
+MODSMD_ARTICLE04: Ende der des Oberschlesien-Abkommens.
+Found
+MODSMD_ARTICLE05: Tschechoslowakei setzt Druck auf Polen-Minderheit fort.
+Found
+MODSMD_ARTICLE06: Die Verurteilten von Tiflis bereits hingerichtet.
+Found
+MODSMD_ARTICLE07: Rege Tätigkeit der japanischen Flieger in Nordchina.
+Found
+MODSMD_ARTICLE08: Neue bolivianische Regierung.
+Found
+MODSMD_ARTICLE09: Ein verdienter deutscher Auslandspionier.
+Found

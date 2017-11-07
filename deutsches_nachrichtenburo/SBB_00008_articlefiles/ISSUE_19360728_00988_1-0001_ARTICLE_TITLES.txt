@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer spendet weitere 50 MV Mark.
+Found
+MODSMD_ARTICLE02: Eröffnung der ersten unterirdischen Reichsbahnstrecke.
+Found
+MODSMD_ARTICLE03: Der Weltkongreß für Freizeit und Erholung.
+Found
+MODSMD_ARTICLE04: Zwei weitere Todesopfer des Autounglücks bei Besenfeld.
+Found
+MODSMD_ARTICLE05: Deutsch-chinesischer Freundschaftsabend.
+Found
+MODSMD_ARTICLE06: Der Besuch des brasilianischen Schulschiffes in Hamburg.
+Found
+MODSMD_ARTICLE07: Isländische Gäste bei der Reichsfrauenführung.
+Found
+MODSMD_ARTICLE08: Staatsminister Lehnich in Venedig.
+Found
+MODSMD_ARTICLE09: Baldwin gibt seine Urlaubsreise auf.
+Found
+MODSMD_ARTICLE10: Fortsetzung der Aussprache im Unterhaus.
+Found
+MODSMD_ARTICLE11: Die Zurückziehung der britischen Mittelmeergarantien.
+Found
+MODSMD_ARTICLE12: Die Lage der Deutschen in Madrid zufriedenstellend.
+Found
+MODSMD_ARTICLE13: Ruhe vor der Entscheidungsschlacht in Spanien.
+Found
+MODSMD_ARTICLE14: Ein Lagebericht der Madrider Regierung.
+Found
+MODSMD_ARTICLE15: Schwere Niederlage der Kommunisten.
+Found
+MODSMD_ARTICLE16: Die militärischen Aktionen in Südspanien.
+Found
+MODSMD_ARTICLE17: Doch französische Flugzeuge in Spanien?
+Found
+MODSMD_ARTICLE18: Zur Frage der Waffenlieferungen an Spanien.
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Führer an das deutsche Handwerk.
+Found
+MODSMD_ARTICLE02: Der Brief Napoleons.
+Found
+MODSMD_ARTICLE03: Stärkster Widerhall der Goebbels-Rede im Ausland.
+Found
+MODSMD_ARTICLE04: Für deutsch-französische Verständigung.
+Found
+MODSMD_ARTICLE06: 259-Jahr-Feier der Deutschen Akademie der Naturforscher.
+Found
+MODSMD_ARTICLE07: Entschließungen des Rates der Deutschen in Polen.
+Found
+MODSMD_ARTICLE08: Die Lage des deutschen Schulwesens in Polen. .
+Found
+MODSMD_ARTICLE09: Tie Kennzahl der Großhandelspreise vom 26. Mai.
+Found

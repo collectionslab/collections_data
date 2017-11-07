@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Göring ans dem Kueniglberg. Spatenstich zu den Lustfahrtbauten.
+Found
+MODSMD_ARTICLE02: Der Friedenswille der Kern der Rede Mussolinis.
+Found
+MODSMD_ARTICLE03: Anstritt Chiles aus der Genfer Liga.
+Found
+MODSMD_ARTICLE04: Gauleiter Forster am Grabe Pilsudskis.
+Found
+MODSMD_ARTICLE05: Schwedische Presse über das Versagen des Genfer Bundes.
+Found
+MODSMD_ARTICLE06: Die Schweiz seht ihren Neutralitätsstandpunkt durch.
+Found
+MODSMD_ARTICLE07: Offene Worte General Sir Jan Hamiltons an die Hetzer.
+Found
+MODSMD_ARTICLE08: Die mexikanische Gesandtschaft in London geschlossen.
+Found

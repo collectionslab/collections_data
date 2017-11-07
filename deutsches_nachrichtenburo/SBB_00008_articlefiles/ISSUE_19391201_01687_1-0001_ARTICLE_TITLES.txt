@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Geringe Artillerie- und Spähtrupptätigkeit im Westen.
+Found
+MODSMD_ARTICLE02: England verstärkt die indischen Garnisonen.
+Found
+MODSMD_ARTICLE03: Wieder ein britischer Dampfer überfällig.
+Found
+MODSMD_ARTICLE04: Dr. Tuka nagelt britische Lügen fest.
+Found
+MODSMD_ARTICLE05: „Wanderkomödiant Benesch" am Pranger.
+Found
+MODSMD_ARTICLE07: Auch Moskau teilt den Beginn der Kampfhandlungen mit.
+Found
+MODSMD_ARTICLE08: 175 Stimmen gegen Daladier in der französischen Kammer.
+Found
+MODSMD_ARTICLE09: 194 nach England fahrende Schiffe versenkt.
+Found
+MODSMD_ARTICLE10: Hollands Ostasiendampfer Verkehren nur uoch bis Genua.
+Found
+MODSMD_ARTICLE11: Neuer Innenminister im Kabinett Tatarescu.
+Found
+MODSMD_ARTICLE12: Die Besatzung der „Zaritza Militza" wieder in Jugoslawien.
+Found
+MODSMD_ARTICLE13: Deutsch-italienisch-japanisch-russische Zusammenarbeit?
+Found

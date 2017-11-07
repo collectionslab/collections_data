@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Erste Mittags-Ausgabe. Deutsches Illachrichtenbüro ? ff
+Found
+MODSMD_ARTICLE02: Die Internationale Automobil-und MoLorradausstellung.
+Not Found
+MODSMD_ARTICLE03: Jubel um den Führer.
+Found
+MODSMD_ARTICLE04: Das (Khrenspalicr auf der Feststratze.
+Found
+MODSMD_ARTICLE05: Die Eröffnungsfeier.
+Found
+MODSMD_ARTICLE06: Allmers,
+Found
+MODSMD_ARTICLE07: Reichsminister Dr. Goebbels
+Found

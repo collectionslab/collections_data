@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Scapini beim Führer.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels an die Neichsautobahncr.
+Found
+MODSMD_ARTICLE03: Kameradschaftsabend der Offiziere des Beurlaubtenstandes.
+Found
+MODSMD_ARTICLE04: Gegenbesuch Hodschas bei Delbos.
+Found
+MODSMD_ARTICLE05: Der polnische Diskontsatz auf v. H. herabgesetzt.
+Found
+MODSMD_ARTICLE06: Abfahrt eines französischen Dampfers verhindert.
+Found
+MODSMD_ARTICLE07: Staatsminister Riecke auf der Siedlungstagung in Ulm.
+Found
+MODSMD_ARTICLE08: London rechnet mit japanischer Aktion gegen Südchina.
+Found
+MODSMD_ARTICLE09: Aufklärung der Brasilianer über die neue Verfassung.
+Found

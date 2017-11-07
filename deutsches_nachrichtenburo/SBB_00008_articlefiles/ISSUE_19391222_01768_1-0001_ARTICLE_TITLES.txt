@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ernennung zum Ministerialdirektor.
+Found
+MODSMD_ARTICLE02: Der NS. Neichskriegerbund ehrt Ludendorff.
+Found
+MODSMD_ARTICLE03: Lenin-Orden für Stalin.
+Found
+MODSMD_ARTICLE04: Schwedischer Dampfer auf eine Mine gelaufen.
+Found
+MODSMD_ARTICLE05: Mit fremden Augen.
+Found
+MODSMD_ARTICLE06: Staatsbesuch des italienischen Herrscherpaares im Vatikan.
+Found
+MODSMD_ARTICLE07: Reynauds verwelkte Siegespalme.
+Found
+MODSMD_ARTICLE08: Die Lage an den finnisch-russischen Fronten.
+Found
+MODSMD_ARTICLE09: Der russische Vormarsch in Finnland.
+Found
+MODSMD_ARTICLE10: 80 380 Brutto-Registertonnen von einem U-Boot versenkt.
+Found
+MODSMD_ARTICLE11: So Hausen britische Agenten in Jugoslawien.
+Found
+MODSMD_ARTICLE12: Keine Verletzung der norwegischen Grenze.
+Found
+MODSMD_ARTICLE13: Englische Seeräuberei gegen Neutrale.
+Found
+MODSMD_ARTICLE14: Kanadier mußten vor einem Juden strammstehen.
+Found

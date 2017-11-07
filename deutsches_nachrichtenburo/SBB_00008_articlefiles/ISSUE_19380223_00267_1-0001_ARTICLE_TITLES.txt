@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Lutze zum Todestag Horst Wessels.
+Found
+MODSMD_ARTICLE02: Chamberlain wird deutlich.
+Found
+MODSMD_ARTICLE03: Lord Halifax unterrichtet Botschafter Corbin.
+Found
+MODSMD_ARTICLE04: Englisch-italienische Handelsverhandlungen in London.
+Found
+MODSMD_ARTICLE05: Fortsetzung der englisch-irischen Besprechungen.
+Found
+MODSMD_ARTICLE06: Die Unterredung Ciano—Lord Perth.
+Not Found
+MODSMD_ARTICLE07: Rom:' Frankreich am Scheidewege.
+Found
+MODSMD_ARTICLE08: Rotspanischer FlugZeugüberfall auf französischen Dampfer.
+Found
+MODSMD_ARTICLE09: Barcelona gibt die Räumung Teruels zu.
+Found
+MODSMD_ARTICLE10: Spanien feiert den Sieg bei Teruel.
+Found
+MODSMD_ARTICLE11: Spaak vor dem Außenausschuß des Senats.
+Found
+MODSMD_ARTICLE12: Das Neutralitätsproblem vor dem Bundesrat der Schweiz.
+Found
+MODSMD_ARTICLE13: Dr. Gavrilo Patriarch der serbisch-orthodoxen Kirche.
+Found
+MODSMD_ARTICLE14: Unterstaatssekretär Comnen in Belgrad.
+Found
+MODSMD_ARTICLE15: Bukarest erkennt Budenko als echt.
+Found
+MODSMD_ARTICLE16: Ein Kommunist an hoher Stelle im chinesischen Kriegsrat.
+Found

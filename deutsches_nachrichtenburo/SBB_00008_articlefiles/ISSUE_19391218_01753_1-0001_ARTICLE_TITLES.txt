@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Tie Goethe-Medaille für Schriftsteller Hans Watzlik.
+Found
+MODSMD_ARTICLE02: „Dichter und Kämpfer".
+Found
+MODSMD_ARTICLE03: Aussichtslose französische Pläne.
+Found
+MODSMD_ARTICLE04: Weitere Schifssuntergäuge in englischen Gewässern.
+Found
+MODSMD_ARTICLE05: Deutsche Aufklärungsflieger über der Nordsee.
+Found
+MODSMD_ARTICLE06: Die Gefahren der Englandfahrt.
+Found
+MODSMD_ARTICLE07: Der japanische Botschafter bei Molotow.
+Found
+MODSMD_ARTICLE08: Abzug des englischen Militärs aus Aegypten gefordert.
+Found
+MODSMD_ARTICLE09: England will in Amerika Schiffe kaufen.
+Found
+MODSMD_ARTICLE10: Ein Brandstifter hingerichtet.
+Found

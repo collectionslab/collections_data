@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Beileid Görings zum Unglück auf Schachtanlage „Nordstern".
+Found
+MODSMD_ARTICLE02: Beileidstelegramm Lutzes an Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Botschafter von Ribbentrop nach London abgeflogen.
+Found
+MODSMD_ARTICLE04: Deutsche Bücherschenkung für Mexiko.
+Found
+MODSMD_ARTICLE05: Erklärung der Reichsbewegung „Deutsche Christen".
+Found
+MODSMD_ARTICLE07: Volksverbundene Justiz.
+Found
+MODSMD_ARTICLE08: Die Italien-Fahrer der DAF. wieder in Deutschland.
+Found
+MODSMD_ARTICLE09: Corbin im Foreign Office.
+Found
+MODSMD_ARTICLE10: Danziger Staatsführung und Geistlichkeit einer Meinung.
+Found
+MODSMD_ARTICLE11: Scotland Jard sucht verschwundene Flugzeugpläne.
+Found
+MODSMD_ARTICLE12: Schlägereien in französischen Wahlversammlungen.
+Found
+MODSMD_ARTICLE13: Bolschewistische Oberhäuptlinge auf der Flucht.
+Found
+MODSMD_ARTICLE14: Katalanische gegen Valencia-Bolschewisten.
+Found
+MODSMD_ARTICLE15: Versagen der Feldbestellung in der Sowjetunion.
+Found
+MODSMD_ARTICLE16: Belagerungszustand über Palästina.
+Found
+MODSMD_ARTICLE17: Kampfpause in Schanghai.
+Found
+MODSMD_ARTICLE18: Zahlreiche Bolschewisten in Brasilien verhaftet.
+Found

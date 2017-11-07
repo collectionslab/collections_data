@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Rvsenberg sprach vor den Wirtschafispolitikern.
+Found
+MODSMD_ARTICLE02: Abfuhr für Lügenhehe des „Manchester Guardian".
+Found
+MODSMD_ARTICLE03: Karmasin beim slowakischen Wirtfchaftsminister.
+Found
+MODSMD_ARTICLE04: Anerkennung der Regierung Francas durch Prag.
+Found
+MODSMD_ARTICLE05: Vormarsch auf die Grenzstadt Puigcerda.
+Found
+MODSMD_ARTICLE06: Ein neuer Sieg der Volksgemeinschaft.
+Found
+MODSMD_ARTICLE07: Barcelonas Kriegsmaterialsabriken arbeiten für Jranco.
+Found
+MODSMD_ARTICLE08: Kreuzer „Devonshire" in Port Vendres eingetroffen.
+Found
+MODSMD_ARTICLE09: Selbst Moskau gibt die Einnahme Barcelonas zu.
+Found
+MODSMD_ARTICLE10: Wieder 15 Sowjetbetriebsleiter gemaßregelt.
+Found
+MODSMD_ARTICLE11: Roosevelt fordert 50 Millionen für Flugzeugbau.
+Found

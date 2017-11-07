@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Starker Ausbau der Reichsbahn und der Reichswasserstraßen.
+Found
+MODSMD_ARTICLE02: Dr. Lev sprach zu den sudetenbeutschen Mitarbeitern.
+Found
+MODSMD_ARTICLE03: Kardinal Verdier hetzt!
+Found
+MODSMD_ARTICLE04: Das verbindende Element der Achse Berlin—Rom.
+Not Found
+MODSMD_ARTICLE05: Graf Bethlen als Judenknecht.
+Found
+MODSMD_ARTICLE06: Manresa gefallen.
+Found
+MODSMD_ARTICLE07: Ansiedlnng von Sowjetspaniern in Frankreich.
+Found
+MODSMD_ARTICLE08: Tolezal, Benesch und zwei Prager Juden.
+Found
+MODSMD_ARTICLE09: Moskauer Filmfunktionäre eine einzige Gaunerbande.
+Found
+MODSMD_ARTICLE10: Immer neue Zusammenstöße in Palästina.
+Found
+MODSMD_ARTICLE11: Japan unterbindet Waffentransporte in Äidchina.
+Found

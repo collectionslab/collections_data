@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Nachmittags – Aasgabe. Deutsches Nachrichtenbüro
+Not Found
+MODSMD_ARTICLE02: Der Führer nimmt Abschied vom toten Reichsärzteführer.
+Found
+MODSMD_ARTICLE03: Die Volks-, Berufs- und Betriebzählnug am 17. Mai.
+Found
+MODSMD_ARTICLE04: Arbeitsämter werden Reichsbehörden.
+Found
+MODSMD_ARTICLE05: „Keine Aktion außerhalb der Achse."
+Found
+MODSMD_ARTICLE06: Stürmische Sympathiekundgebungen für Göring.
+Found
+MODSMD_ARTICLE07: Motta gegen unverantwortliche Gerüchtemacherei.
+Found
+MODSMD_ARTICLE08: Litauens Beauftragter für die Memel-Rückgliederung.
+Found

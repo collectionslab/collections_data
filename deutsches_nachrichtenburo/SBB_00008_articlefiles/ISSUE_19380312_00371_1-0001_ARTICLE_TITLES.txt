@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Der Führer in München. Begeisterter Empfang durch die jubelnde Bevölkerung.
+Found
+MODSMD_ARTICLE02: Das Ausland zu Oesterreich.
+Found
+MODSMD_ARTICLE03: Das deutsche Volk flaggt!
+Found
+MODSMD_ARTICLE04: Beschlüsse des Großen Faschistischen Rats.
+Found
+MODSMD_ARTICLE05: Ehrung des polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE06: Geheimrat von Vertesy f.
+Found
+MODSMD_ARTICLE07: Die deutschen Südwestafrikaner gegen jede Annexion.
+Found

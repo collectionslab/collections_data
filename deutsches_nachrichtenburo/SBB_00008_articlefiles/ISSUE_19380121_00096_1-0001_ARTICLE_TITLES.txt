@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Stojadinowitsch ehrt die Freiheitskämpfer.
+Found
+MODSMD_ARTICLE02: Stojadinowitsch als Gast bei Bayerns Reichsstatthalter.
+Found
+MODSMD_ARTICLE03: Die jugoslawischen Pressevertreter in München.
+Found
+MODSMD_ARTICLE04: Deutschlands erste Dozentenbunds-Akademie eröffnet.
+Found
+MODSMD_ARTICLE05: Der lettische Außenminister in Rom.
+Found
+MODSMD_ARTICLE06: Belgien erkennt die Eroberung Aethiopiens an. –
+Not Found
+MODSMD_ARTICLE07: Die Nichteinmischungs-Beratungen in London.
+Found
+MODSMD_ARTICLE08: Wird der Washingtoner Flottenvertrag gekündigt?
+Found
+MODSMD_ARTICLE09: General Gamelin Generalstabschef der Landesverteidigung.
+Found
+MODSMD_ARTICLE10: Kommunisten randalieren.
+Found
+MODSMD_ARTICLE11: Das Geiselsystem in der Sowjetunion.
+Found
+MODSMD_ARTICLE12: Schweizer Bundesrat genehmigt den Neutralitäts-Bericht.
+Found
+MODSMD_ARTICLE13: Neun hohe chinesische Offiziere hingerichtet.
+Found

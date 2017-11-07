@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Einführung der Mitglieder des Volksgerichtshofs.
+Found
+MODSMD_ARTICLE02: Der Weltkongreß für gewerblichen Rechtsschub.
+Found
+MODSMD_ARTICLE03: Staatliche Hochschule für Kunsterziehung.
+Found
+MODSMD_ARTICLE04: Auslösung der Deutschen Landsmannschaften.
+Found
+MODSMD_ARTICLE05: Die allgemeine Dienstpflicht in Oesterreich.
+Found
+MODSMD_ARTICLE06: Verbot der „Danziger Volksstimme".
+Found
+MODSMD_ARTICLE07: Die Biennale in Venedig eröffnet.
+Found
+MODSMD_ARTICLE08: Tagung der belgischen Sozialistischen Arbeiterpartei.
+Found
+MODSMD_ARTICLE09: Vandervelde beim König.
+Found
+MODSMD_ARTICLE10: Landtag der NSB (Mustert-Bewegung).
+Found
+MODSMD_ARTICLE11: Radikale Forderungen der englischen Arbeiteropposition.
+Found
+MODSMD_ARTICLE12: Der geheimnisvolle bolschewistische Zeuge.
+Found
+MODSMD_ARTICLE13: Die Streiklage in Frankreich.
+Found
+MODSMD_ARTICLE14: Feuerübersälle durch Anarchosyndikalisten.
+Found
+MODSMD_ARTICLE15: Landeskongreß der jugoslawischen Regierungspartei.
+Found
+MODSMD_ARTICLE16: Veränderungen im griechischen Kabinett.
+Found
+MODSMD_ARTICLE17: Abessinischer Angriff auf Dessie?
+Found
+MODSMD_ARTICLE18: Der Aufstand in Nikaragua.
+Found
+MODSMD_ARTICLE19: Steuersteckbriefe und Bermögensbeschlagnahmen.
+Found

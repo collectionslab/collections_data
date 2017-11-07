@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Reichsberufswettkampf 1937 im Zeichen des Vierjahrplanes.
+Found
+MODSMD_ARTICLE02: Auszeichnung verdienter Bauern am Erntedanktag.
+Found
+MODSMD_ARTICLE03: Der Vermittlungsvorschlag vom Senat gebilligt.
+Found
+MODSMD_ARTICLE04: Bedeutungsvoller Tag für die österreichische Wehrmacht.
+Found
+MODSMD_ARTICLE05: General Francisco Franco.
+Found
+MODSMD_ARTICLE06: Vom Madrider Flugplatz geflohen.
+Found
+MODSMD_ARTICLE07: Die Parteitagung der englischen Konserdativen.
+Found
+MODSMD_ARTICLE08: Die sowjetrussische Gefahr für Polen.
+Found
+MODSMD_ARTICLE09: Streik verhindert die Ausfahrt des „President Rooscvelt".
+Found

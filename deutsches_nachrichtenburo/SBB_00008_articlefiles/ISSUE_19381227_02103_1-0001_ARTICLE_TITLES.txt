@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Der Führer ehrt einen Berliner Arzt.
+Found
+MODSMD_ARTICLE03: Prof. Dörpfeld 85 Jahre.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Südafrikanische Studenten aus Deutschlandreise.
+Found
+MODSMD_ARTICLE06: Jbiza gedenkt der Gefallenen der „Deutschland".
+Found
+MODSMD_ARTICLE07: 135 WK Preise für kinderreiche Familien in Italien.
+Found
+MODSMD_ARTICLE08: „Giornale dlJtalia" gegen französische Auslegungsversnche.
+Found
+MODSMD_ARTICLE09: Die italienische Presse warnt Frankreich.
+Found
+MODSMD_ARTICLE10: Neue Auseinandersetzungen zwischen Kammer und Senat?
+Found
+MODSMD_ARTICLE11: Tatarescu bei Präsident Lebrun.
+Found
+MODSMD_ARTICLE12: Frankreichs Beziehungen zu Sowjetrußland und Polen.
+Found
+MODSMD_ARTICLE13: Vereinheitlichung des tschecho-slowakischen Berufslebens.
+Found
+MODSMD_ARTICLE14: Die nationalspanische Offensive.
+Found
+MODSMD_ARTICLE15: Sowjetrußland schließt sein Konsulat in Hakodate.
+Found
+MODSMD_ARTICLE16: Der japanische Reichstag feierlich eröffnet.
+Found

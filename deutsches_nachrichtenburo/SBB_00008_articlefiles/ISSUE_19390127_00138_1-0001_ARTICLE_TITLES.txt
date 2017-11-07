@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Große Mehrheit für Daladier.
+Found
+MODSMD_ARTICLE02: Randalierende Frauen vor dem Palais Bourbon.
+Found
+MODSMD_ARTICLE03: Tie Uniform der nationalspamschen Falange.
+Found
+MODSMD_ARTICLE04: Säuberung Spaniens von allen Handlangern Moskaus.
+Found
+MODSMD_ARTICLE05: Neichsaußenmimster von RibbenLrop bei Oberst Beck.
+Found
+MODSMD_ARTICLE06: „Gewaltige Kundgebung der deutsch-italienische Solidarität"
+Found
+MODSMD_ARTICLE07: Wieder ein Unterführer der Eisernen Garde erschossen.
+Found
+MODSMD_ARTICLE08: Die Vertreter der Deutschen Partei bei dem Schulminister.
+Found
+MODSMD_ARTICLE09: Deutsche Gewerkschaft in der Slowakei.
+Found
+MODSMD_ARTICLE10: Ausschreibung einer slowakischen Anleihe.
+Found
+MODSMD_ARTICLE11: Prag: „Realpolitik statt Katastrophenpolitik".
+Found
+MODSMD_ARTICLE12: 18 Monate Gefängnis für einen Mord.
+Found
+MODSMD_ARTICLE13: Gewaltsame Durchsuchung der Wohnung des Großmufti.
+Found
+MODSMD_ARTICLE14: Ergreifender Schritt der Araberfrauen Palästinas.
+Found
+MODSMD_ARTICLE15: Keine Aenderung der türkischen Politik.
+Found
+MODSMD_ARTICLE16: Südafrikaner verzichten auf jüdische Einwanderung.
+Found

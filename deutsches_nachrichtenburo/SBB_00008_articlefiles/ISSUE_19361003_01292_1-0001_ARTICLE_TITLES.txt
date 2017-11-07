@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Zapfenstreich der Kriegsmarine vor Blomberg.
+Found
+MODSMD_ARTICLE02: Meinberg vertritt Darre auf dem Bückeberk.
+Found
+MODSMD_ARTICLE03: Wieder Postanweisungsverkehr mit den Niederlanden.
+Found
+MODSMD_ARTICLE04: Neichsstatthalter Kaufmann bei den Deutschen in Schweden.
+Found
+MODSMD_ARTICLE05: Reichskulturwalter Kinkel in Sofia.
+Found
+MODSMD_ARTICLE06: Ausbau des schwedischen Flugverkehrs.
+Found
+MODSMD_ARTICLE07: Tschechoslowakischer Ministerrat zur Währungslage.
+Found
+MODSMD_ARTICLE08: Keine Schritte Ungarns auf währungspolitischem Gebiet.
+Found
+MODSMD_ARTICLE09: Metaxas über die zukünftige griechische Politik.
+Found
+MODSMD_ARTICLE10: Eine „Bittschrift des jüdischen Volksrates" in London.
+Found
+MODSMD_ARTICLE11: Englands Arbeiterpartei und die Aufrüstungsfrage.
+Found
+MODSMD_ARTICLE12: Pariser Verteidignngsausschuß berät.
+Found
+MODSMD_ARTICLE13: Französische Behörden beschlagnahmen spanische Dampfer.
+Found
+MODSMD_ARTICLE14: Fahne der Nationalisten ans Botschaft am Vatikan.
+Found
+MODSMD_ARTICLE15: Fortschritte der Nationalisten vor Bilbao.
+Found
+MODSMD_ARTICLE16: Das spanische „Obergericht" arbeitet«
+Found
+MODSMD_ARTICLE17: Spanisches Piratenschiff in Buenos Aires.
+Found
+MODSMD_ARTICLE18: Anarchisten fordern Abdankung Caballeros.
+Found
+MODSMD_ARTICLE19: Die Phönixinseln „Eigentum König Eduards VIII."
+Found
+MODSMD_ARTICLE20: Freundschaftsvertrag Mexiko-Finnland.
+Found
+MODSMD_ARTICLE21: New Nork im Wahlkampf. Die Rede Alfred Smiths.
+Found
+MODSMD_ARTICLE22: Sowjetrussisch-japanische Fischereifrage geregelt.
+Found
+MODSMD_ARTICLE23: Wegen Ermordung eines Japaners zum Tode verurteilt.
+Found

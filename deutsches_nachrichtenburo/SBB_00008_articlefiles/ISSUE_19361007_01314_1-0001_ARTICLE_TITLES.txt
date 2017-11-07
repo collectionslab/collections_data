@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer eröffnet das vierte Winterhilfswerk.
+Found
+MODSMD_ARTICLE02: Neichsverweser von Horthp an den Führer.
+Found
+MODSMD_ARTICLE03: Ausländische Eisenbahnfachleute bei Dorpmüller.
+Found
+MODSMD_ARTICLE05: Rückkehr der deutschen Schriftleiter aus Jugoslawien.
+Found
+MODSMD_ARTICLE06: Schweizer Nationalrat billigt neue Trnppenordnung.
+Found
+MODSMD_ARTICLE07: Aufsehenerregende Beschuldigungen gegen Blum.
+Found
+MODSMD_ARTICLE08: Das „Revolutionsgericht" in Soissons.
+Found
+MODSMD_ARTICLE09: der Tot»
+Found
+MODSMD_ARTICLE10: Die Versorgung der Roten durch französische Flieger.
+Found
+MODSMD_ARTICLE11: Abwertung der Tschechenkrone zwischen IHM bis 15,98 v. H.
+Found
+MODSMD_ARTICLE12: Gegen weitere englische Verpflichtungen in Europa.
+Found
+MODSMD_ARTICLE13: Kritik der Arbeiterpartei am Aufrnstnngsprogramm.
+Found
+MODSMD_ARTICLE14: Balbo berichtet Mussolini über Libyens Küstenstraße.
+Found

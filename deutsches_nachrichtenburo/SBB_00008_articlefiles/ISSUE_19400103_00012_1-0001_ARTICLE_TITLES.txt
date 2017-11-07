@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Glückwunschaustausch zwischen dem Führer und Dr. Tiso.
+Found
+MODSMD_ARTICLE02: Telegrammwechsel zwischen dem Duee und Schirach.
+Found
+MODSMD_ARTICLE03: Drei modernste britische Kampfflugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE04: Eine bittere Wahrheit für London.
+Found
+MODSMD_ARTICLE05: Chamberlain hat keine Zeit mehr zum Angeln.
+Found
+MODSMD_ARTICLE06: Der Hafen von Antwerpen völlig verödet.
+Found
+MODSMD_ARTICLE07: Londons „Hilfe" für Finnland.
+Found
+MODSMD_ARTICLE08: Die imperialistischen Kriegsziele Englands.
+Found
+MODSMD_ARTICLE09: Frankreich will den Kriegsschauplatz erweitern.
+Found
+MODSMD_ARTICLE10: Vom nördlichsten finnischen Kriegsschauplatz.
+Found
+MODSMD_ARTICLE11: Rückkehr der Gerettetm des deutscheu Vorpostenbootes.
+Found
+MODSMD_ARTICLE12: Einberufung von Reservisten in Rußland.
+Found
+MODSMD_ARTICLE13: 45 999 Tote in Anatolien.
+Found
+MODSMD_ARTICLE14: Immer wieder die Haltet-den-Dieb-Taktik Englands.
+Found
+MODSMD_ARTICLE15: Die Operationen der japanischen Armee.
+Found
+MODSMD_ARTICLE16: Washington protestiert gegen den britischen Postraub.
+Found
+MODSMD_ARTICLE17: Merkwürdiges Verhalten des Neuyorker Rundfunks.
+Found
+MODSMD_ARTICLE18: „Neutralität."
+Found

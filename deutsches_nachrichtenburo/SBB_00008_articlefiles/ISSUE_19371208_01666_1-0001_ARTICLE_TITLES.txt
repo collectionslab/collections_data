@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Sudetendeutsche Kunstausstellung in Berlin.
+Found
+MODSMD_ARTICLE02: Der jugoslawische Ministierpräsident bei Ciano.
+Found
+MODSMD_ARTICLE03: Stojadinowitsch besichtigte das pontimsche Gebiet.
+Found
+MODSMD_ARTICLE04: Arierparagraph im Wilnaer Aerztebezirk.
+Found
+MODSMD_ARTICLE05: Erklärungen des Obersten Koc.
+Found
+MODSMD_ARTICLE06: Judko Barmat aus Belgien geflüchtet.
+Found
+MODSMD_ARTICLE07: „Financial Times" Zur Wirtschaftslage Deutschlands.
+Found
+MODSMD_ARTICLE08: „Brigade Attlee".
+Found
+MODSMD_ARTICLE09: Französische Behörden stellen Grenzverletzungen fest.
+Found
+MODSMD_ARTICLE10: Das Verbrechen der rotspanischeu Grenzwachen.
+Found
+MODSMD_ARTICLE11: Der bolschewistische Raub in Spanien ein „Hoheitsakt"!
+Found
+MODSMD_ARTICLE12: Ständige Verteuerung als Folge der Volksfrontpolitik.
+Found
+MODSMD_ARTICLE13: Gegen die Ratifizierung des Alexandrette-Vertrages.
+Found
+MODSMD_ARTICLE14: Frankreichs Sorgen um seine Oeleinfuhr.
+Found
+MODSMD_ARTICLE15: Die irakische Oelleitung erneut beschädigt.
+Found
+MODSMD_ARTICLE16: Neue Feuerüberfälle in Palästina.
+Found
+MODSMD_ARTICLE17: Nanking zur Uebergabe aufgefordert.
+Found

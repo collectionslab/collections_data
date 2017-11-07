@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Der Einfluß der 25 Punkte auf die Gesetzgebung.
+Found
+MODSMD_ARTICLE02: Die Schaffung einer starken Zentralgewalt des Reiches.
+Found
+MODSMD_ARTICLE03: Der Weg zum deutschen Gemeinrecht.
+Found
+MODSMD_ARTICLE04: Volksgenosse kann nur sein, wer deutschen Blutes ist.
+Found
+MODSMD_ARTICLE05: Volksheer statt Söldnertruppe.
+Found
+MODSMD_ARTICLE06: Der erfolgreiche Kampf gegen Versailles.
+Found
+MODSMD_ARTICLE07: Die ausländischen Jäger im Deutschen Auslandsklub.
+Found

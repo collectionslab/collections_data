@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Krokodilstränen über „deutsche Grausamkeiten."
+Found
+MODSMD_ARTICLE02: Der Orient enttäuscht durch die Demokratien.
+Found
+MODSMD_ARTICLE03: Eine unangenehme Erinnerung.
+Found
+MODSMD_ARTICLE04: Mussolini empfing Marschall de Bono.
+Found
+MODSMD_ARTICLE05: Aktiveres Eingreifen der Westmächte in Finnland.
+Found
+MODSMD_ARTICLE06: Der Lieblingsplan des Generals Weygand.
+Found
+MODSMD_ARTICLE07: 462 Deutsche aus Deutsch-Ostafrika eingetroffen.
+Found
+MODSMD_ARTICLE08: Wie die „Munster" unterging.
+Found
+MODSMD_ARTICLE09: Schießerei in Belfast nach einer Protestkundgebung.
+Found
+MODSMD_ARTICLE10: „Eine kleine, mächtige Clique in England."
+Found
+MODSMD_ARTICLE11: Scotland Aard meldet einen „Erfolg".
+Found
+MODSMD_ARTICLE12: Acht englische Flugzeuge verbrannt.
+Found
+MODSMD_ARTICLE13: Bergarbeiterstreik in Belgien beendet.
+Found
+MODSMD_ARTICLE14: Ministerrat in Bukarest.
+Found
+MODSMD_ARTICLE15: Der russische Heeresbericht.
+Found
+MODSMD_ARTICLE16: „Englands und Frankreichs Rolle in Osteuropa ausgespielt".
+Found
+MODSMD_ARTICLE17: Die Unehrlichkeit der französischen Parolen.
+Found
+MODSMD_ARTICLE18: Kein Beitritt Aegyptens zum Saadabad-Pakt.
+Found
+MODSMD_ARTICLE19: Englisches Kapital wird Juden in die Hände gespielt.
+Found
+MODSMD_ARTICLE20: Nur die Westmächte stiften im Nahen Osten Unruhe.
+Found
+MODSMD_ARTICLE21: „England mißachtet die amerikanische Neutralität".
+Found

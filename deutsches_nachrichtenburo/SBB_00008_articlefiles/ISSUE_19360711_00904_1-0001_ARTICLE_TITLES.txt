@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Deutschlands Teilnahme am Londoner SoZialkongreß.
+Found
+MODSMD_ARTICLE02: Strenger Arrest gegen österreichische Nationalsozialisten.
+Found
+MODSMD_ARTICLE03: Das Unterhaus als Klagemaner.
+Found
+MODSMD_ARTICLE04: Parlamentsferien in England August bis Oktober.
+Found
+MODSMD_ARTICLE05: Diplomaten im Foreign Office.
+Found
+MODSMD_ARTICLE06: Großadmiral Sir John Kelly.
+Found
+MODSMD_ARTICLE07: Das Explosionsunglück in Woolwich.
+Found
+MODSMD_ARTICLE08: Der Bieliber Textilarbeiterstreik beendet.
+Found
+MODSMD_ARTICLE09: Kommunistischer Parteitag in Paris.
+Found
+MODSMD_ARTICLE10: Angriffe gegen Frankreichs Luftfahrtminister.
+Found
+MODSMD_ARTICLE11: Pariser Parlamentarier auf einem Truppenübungsplatz.
+Found
+MODSMD_ARTICLE12: Benutzung von Sendestationen in Abessinien verboten.
+Found
+MODSMD_ARTICLE13: Zum tschechoslowakischen Staatsverteidigungsgesetz.
+Found
+MODSMD_ARTICLE14: Bor Ausbruch eines Eisenbahnerstreiks in Spanien.
+Found
+MODSMD_ARTICLE15: Metaxas über Griechenlands Wehrbereitschaft.
+Found
+MODSMD_ARTICLE16: Die Gluthitze in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE17: Roosevelt auf Urlaub.
+Found
+MODSMD_ARTICLE18: Rücktritt hoher japanischer Offiziere.
+Found
+MODSMD_ARTICLE19: Weitere Klärung zwischen Nanking und Kanton.
+Found

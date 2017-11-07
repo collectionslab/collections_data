@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Der Reichsparteitag 1937. (Aortsetzung von Sonderausgabe Nr. 2.) Der Empfang der Presse.
+Found
+MODSMD_ARTICLE02: Feierliches Einläuten des Reichsparteis tages. Fahrt des Führers zum Rathaus.
+Found
+MODSMD_ARTICLE03: Empfang des Führers im Rathaus. Ein Geschenk der Stadt.
+Found
+MODSMD_ARTICLE04: Begrüßung durch Nürnbergs Oberbürgermeister
+Found
+MODSMD_ARTICLE05: Die Rede des Führers.
+Found

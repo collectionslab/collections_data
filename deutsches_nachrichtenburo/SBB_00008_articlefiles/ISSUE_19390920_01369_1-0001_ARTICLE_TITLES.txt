@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Dorpmüller an die Niederländischen Staatsbahnen.
+Found
+MODSMD_ARTICLE02: Gauleiter und Oberpräsident Wagner in Kattowitz.
+Found
+MODSMD_ARTICLE03: Weiterer Vormarsch der Rotem Armee.
+Found
+MODSMD_ARTICLE04: Der größte Teil der Westukraine besetzt.
+Found
+MODSMD_ARTICLE05: Der Eindruck des Sowjeteinmarsches auf die Welt.
+Found
+MODSMD_ARTICLE06: „Jswestija": Der polnische Staat nicht lebensfähig.
+Found
+MODSMD_ARTICLE07: Polnisch-rumänische Grenze von den Russen besetzt.
+Found
+MODSMD_ARTICLE08: Ungarn weist englische Lügenmeldung zurück.
+Found
+MODSMD_ARTICLE09: Rußland respektiert die rumänische Grenze.
+Found
+MODSMD_ARTICLE10: Italien: „Englands Verantwortung außer Zweifel."
+Found
+MODSMD_ARTICLE11: „Die egoistische und idiotische britische Politik."
+Found
+MODSMD_ARTICLE13: „Britisches Empire nur durch Eroberungen aufgebaut."
+Found
+MODSMD_ARTICLE14: Lebensmittel als Kriegskonterbande unannehmbar!
+Found
+MODSMD_ARTICLE15: „Unfreundliche Haltung Amerikas nicht mehr zu übersehen."
+Found
+MODSMD_ARTICLE16: „Ausgangspunkt für normale Beziehungen."
+Found

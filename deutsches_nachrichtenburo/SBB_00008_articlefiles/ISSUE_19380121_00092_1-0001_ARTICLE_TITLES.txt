@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Stojadinowitsch besichtigte Hydrierwerk des Ruhrbergbaues.
+Found
+MODSMD_ARTICLE02: Ministerpräsident Stojadinowitsch in Düsseldorf.
+Found
+MODSMD_ARTICLE03: „Von Anfang bis Ende frei erfunden".
+Found
+MODSMD_ARTICLE04: Aus der Verwaltung.
+Found
+MODSMD_ARTICLE05: Die Berliner ägyptische Kolonie feierte die Königs-Hochzeit.
+Found
+MODSMD_ARTICLE06: Die 11. Internationale Flugplankonferenz.
+Found
+MODSMD_ARTICLE07: Die Beisetzung von Frau Emma von Blomberg.
+Found
+MODSMD_ARTICLE08: Verurteilung eines österreichischen Nationalsozialisten.
+Found
+MODSMD_ARTICLE09: Ungarische Juden müssen Staatsbürgerschaft nachweisen.
+Found
+MODSMD_ARTICLE10: Polnische Aerzte gegen jüdische Versippujng.
+Found
+MODSMD_ARTICLE11: Kommunistischer Vertrauensmann flieht mit Parteigeldern.
+Found
+MODSMD_ARTICLE12: Kammerwahlen in Estland im Februar.
+Found
+MODSMD_ARTICLE13: Eine „achtbare" Mehrheit für Chautemps.
+Found
+MODSMD_ARTICLE14: Wünsche des Linksausschusses.
+Found
+MODSMD_ARTICLE15: Protest gegen das englische Kohlengesetz.
+Found

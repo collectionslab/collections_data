@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Das erfundene Führer-Interview.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels empfängt die Vertreter des Handwerks.
+Found
+MODSMD_ARTICLE04: Empfang des Reichsaußenminister für Minister Roman»
+Found
+MODSMD_ARTICLE05: Deutschlandreise amerikanischer Austauschstudenten.
+Found
+MODSMD_ARTICLE06: Reichsminister Dr. Frank vor den HJ.-Führern.
+Found
+MODSMD_ARTICLE07: General Cei in München.
+Found
+MODSMD_ARTICLE08: Abschluß der Romreise der deutschen Wehrmacht-Musikkorps.
+Found
+MODSMD_ARTICLE09: Fürst Lanza di Scalen f.
+Found
+MODSMD_ARTICLE10: Italiens Finanzminister zerstreut Jnflationsbesorgnisse.
+Found
+MODSMD_ARTICLE11: Prag sagt Bestrafung der schuldigen Militärflieger zu.
+Found
+MODSMD_ARTICLE12: Wie lange wird diese Mobilisierung noch andauern?
+Found
+MODSMD_ARTICLE13: London wird lange warten könnend
+Found
+MODSMD_ARTICLE14: Neuer Direktor der Suez-Kanal-Gesellschaft.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Festaufführung in der Staatsoper.
+Found
+MODSMD_ARTICLE02: Cencar-Markowitsch bei Ribbentrop.
+Found
+MODSMD_ARTICLE03: Empfang der jugoslawischen Pressedelegation durch Goebbels.
+Found
+MODSMD_ARTICLE04: Die Veranstaltungen ain Sonnabend.
+Found
+MODSMD_ARTICLE05: Jugoslawien erlebt die Tage von Berlin mit.
+Found
+MODSMD_ARTICLE06: Ernennung zum Ministerialdirektor.
+Found
+MODSMD_ARTICLE07: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE08: Der Auftakt Zum Großdeutschen Reichskriegertag.
+Found
+MODSMD_ARTICLE09: Der Rückgang der Arbeitslosigkeit in Böhmen-Mähren.
+Found
+MODSMD_ARTICLE10: Die Botschafter Englands und Frankreichs bei Molotow.
+Found
+MODSMD_ARTICLE11: England und USA. bemühen sich um Juden als Siedler.
+Found
+MODSMD_ARTICLE12: Englische Arbeiter bestreiken Militärsinghafen.
+Found
+MODSMD_ARTICLE13: Die französische Kriegsmarine wird weiter verstärkt.
+Found
+MODSMD_ARTICLE14: Die Eingliederung der albanischen Streitkräfte.
+Found
+MODSMD_ARTICLE15: Sonderbare französische „Propaganda"-Methoden.
+Found
+MODSMD_ARTICLE16: Die Türkei weist französische Lügen zurück.
+Found
+MODSMD_ARTICLE17: Die Krise in Syrien.
+Found
+MODSMD_ARTICLE18: Mandschurisches Grenzgebiet von Sowjettruppen gesäubert.
+Found

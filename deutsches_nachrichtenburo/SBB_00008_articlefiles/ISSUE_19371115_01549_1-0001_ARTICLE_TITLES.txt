@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Bruno Mussolini nach Rom zurückgekehrt.
+Found
+MODSMD_ARTICLE02: Die Judenfrage in Ungarn wird Weitergetrieben.
+Found
+MODSMD_ARTICLE03: Nichts Neues an allen Fronten.
+Found
+MODSMD_ARTICLE04: Von den Bolschewisten verschleppte Kinder kehren heim. –
+Not Found
+MODSMD_ARTICLE05: Der „arme" Negus.
+Found
+MODSMD_ARTICLE06: „Sunday Chroniele" zieht eine Sowjetbilanz.
+Found
+MODSMD_ARTICLE07: Lärm um einen Empfang beim polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE08: Maja fordert Truppenverstärkungen.
+Found
+MODSMD_ARTICLE09: Die französischen Beamten lassen nicht locker.
+Found
+MODSMD_ARTICLE10: Amtsentsetzungen und Neuernennungen.
+Found
+MODSMD_ARTICLE11: Neue Erfolge der Japaner.
+Found
+MODSMD_ARTICLE12: Unruhiges Wochenende in Jerusalem.
+Found
+MODSMD_ARTICLE13: Haiti bittet um Vermittlung im Konflikt mit San Domingo.
+Found
+MODSMD_ARTICLE14: Kampf gegen den Kommunismus auch in Argentinien.
+Found

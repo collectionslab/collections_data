@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Neichsmmister Dr. Arick stiftet einen Ehrenpreis.
+Found
+MODSMD_ARTICLE02: Dr. Todt eröffnet Straßenbauausstellung München.
+Found
+MODSMD_ARTICLE03: Die Tätigkeit deutscher Kriegsschiffe in Spanien.
+Found
+MODSMD_ARTICLE04: Indienststellung des Segelschulschiffs „Horst Wessel".
+Found
+MODSMD_ARTICLE05: Schweres Verkehrsungluck in Glashütte.
+Found
+MODSMD_ARTICLE06: Der ehemalige Bundeskanzler Dr. Bnresch f.
+Found
+MODSMD_ARTICLE07: Oesterreich wünscht Abschaffung der Genfer Finanzkontrolle.
+Found
+MODSMD_ARTICLE08: Schwere Zusammenstöße mit Kommunisten in Polen.
+Found
+MODSMD_ARTICLE09: Sir Samuel Hoare in Gibraltar eingetroffen.
+Found
+MODSMD_ARTICLE10: Abordnung Frankreichs auf der Völkerbundstagung.
+Found
+MODSMD_ARTICLE11: Der Einfluß des Kommunismus in Frankreich.
+Found
+MODSMD_ARTICLE12: Dämmerung bei den Radikalsozialisten.
+Found
+MODSMD_ARTICLE13: Militärbewegung auch in Katalonien?
+Found
+MODSMD_ARTICLE14: Rundfunksender San Sebastian wieder in Betrieb.
+Found
+MODSMD_ARTICLE15: Anarchistische Schreckensherrschaft in Santander.
+Found
+MODSMD_ARTICLE17: Nationalistische Flugzeuge bombardieren Valencia.
+Found
+MODSMD_ARTICLE18: Eine antikommunistische Kampftruppe in Portugal.
+Found
+MODSMD_ARTICLE19: Metaxas über die Gründe der Streikbewegung im August.
+Found
+MODSMD_ARTICLE20: Erheblich erhöhter Staatshaushalt Japans.
+Found
+MODSMD_ARTICLE21: Die Zwischenfälle in Tschengtu und Pakhoi.
+Found

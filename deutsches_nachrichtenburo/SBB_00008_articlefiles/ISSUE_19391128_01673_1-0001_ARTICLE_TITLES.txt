@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Zum Unterstaatssekrctär im Auswärtigen Amt ernannt.
+Found
+MODSMD_ARTICLE02: Ernennung zum Generalmajor der Ordnungspolizei.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Englischer Angriff auf Borkum abgeschlagen.
+Found
+MODSMD_ARTICLE05: Mißlungener Borstoß englischer Flieger.
+Found
+MODSMD_ARTICLE06: Vorbildlicher deutscher Fliegergeist.
+Found
+MODSMD_ARTICLE07: Mit fremden Augen.
+Found
+MODSMD_ARTICLE08: „Kein Volk kann sich heute als neutral bezeichnen."
+Found
+MODSMD_ARTICLE09: „Völlige Verständnislosigkeit."
+Found
+MODSMD_ARTICLE10: „Ein gefährliches Thema."
+Found
+MODSMD_ARTICLE11: „Bei Wiederholung der Provokation das Feuer erwidern!"
+Found
+MODSMD_ARTICLE12: „Größte Belastungsprobe."
+Found
+MODSMD_ARTICLE13: „Gerechte Arbeitsteilung."
+Found
+MODSMD_ARTICLE14: Verstärkung der amerikanischen Flotte im Fernen Osten.
+Found
+MODSMD_ARTICLE15: England will Amerikas Ausfuhr kontingentieren.
+Found
+MODSMD_ARTICLE16: Ernennungen im japanischen Kabinett.
+Found

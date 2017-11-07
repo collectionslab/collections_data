@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Nächtliche Olympische Feierstunde.
+Found
+MODSMD_ARTICLE03: Der Startschutz ist gefallen. Die ersten Kämpfe im Olympia-Stadion.
+Found
+MODSMD_ARTICLE04: Der Führer trifft ein.
+Found
+MODSMD_ARTICLE05: Zwei Goldene Medaillen für Deutschland.
+Found
+MODSMD_ARTICLE06: Weitere Kämpfe.
+Found
+MODSMD_ARTICLE07: Fackelträger startet nach Kiel.
+Found
+MODSMD_ARTICLE08: Die Siegerehrung.
+Found
+MODSMD_ARTICLE09: Der Führer ehrt die ersten Sieger.
+Found
+MODSMD_ARTICLE10: Die Rückkehr des Führers.
+Found
+MODSMD_ARTICLE11: Das Olympische Feuer auf dem Wege nach Kiel.
+Found
+MODSMD_ARTICLE12: Luftschiff „Hindenburg" grüßt den Führer.
+Found
+MODSMD_ARTICLE13: Deutsche Olympia-Feier in Rio de Janeiro.
+Found

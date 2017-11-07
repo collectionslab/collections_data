@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Reichsarbeitsführer Hier! zum Reichsleiter ernannt.
+Found
+MODSMD_ARTICLE02: Der japanische Botschafter in Bayreuth.
+Found
+MODSMD_ARTICLE03: Lloyd George in Heidelberg.
+Found
+MODSMD_ARTICLE04: Das zweite Nordatlantik-Flugboot der Lufthansa erfolgreich.
+Found
+MODSMD_ARTICLE06: Ein Engländer zum Rettungswerk deutscher Seeleute.
+Found
+MODSMD_ARTICLE07: Internationaler Forstwirtschafts-Kongrest eröffnet.
+Found
+MODSMD_ARTICLE08: Zu den kommunistischen Umtrieben in Oesterreich.
+Found
+MODSMD_ARTICLE09: Avenols römische Mission gescheitert. Ein abessinisches Dementi.
+Found
+MODSMD_ARTICLE10: Frankreich dementiert den Herbette-Zwischenfall.
+Found
+MODSMD_ARTICLE11: Havas Zur Niederlage der Roten auf Mallorca.
+Found
+MODSMD_ARTICLE12: Nationalistische Lustangriffe auf Valencia und Malaga.
+Found
+MODSMD_ARTICLE13: Ein Ultimatum Molas an San Sebastian.
+Found
+MODSMD_ARTICLE14: Der spanische Vizekonsul in San Miguel zurückgetreten.
+Found
+MODSMD_ARTICLE15: Sabotageakt auf einem amerikanischen Kreuzer.
+Found
+MODSMD_ARTICLE16: Glückwünsche zum erfolgreichen Nordatlantikflug.
+Found
+MODSMD_ARTICLE17: Untersuchung des Bochumer Bergwerksuuglucks.
+Found
+MODSMD_ARTICLE18: Italien und der Völkerbund.
+Found
+MODSMD_ARTICLE19: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found

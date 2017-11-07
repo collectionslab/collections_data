@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Max Schmeling vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Staatssekretär Grauert im einstweiligen Ruhestand.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Beförderungssteuer für gewerblichen Kraftfahrzeugverkehr.
+Found
+MODSMD_ARTICLE05: Wegen Ausspähung militärischer Geheimnisse verurteilt»
+Found
+MODSMD_ARTICLE06: Wegen Landesverrat.ls Jahre Zuchthaus.
+Found
+MODSMD_ARTICLE07: Immer wieder neue Streiks in Frankreich.
+Found
+MODSMD_ARTICLE08: Lord Lothian fordert Gerechtigkeit für Deutschland. a
+Found
+MODSMD_ARTICLE09: Britisch-französische Einmütigkeit in Genf?
+Found
+MODSMD_ARTICLE10: Italienische Blätter Zur Anwesenheit des Negus in Genf.
+Found
+MODSMD_ARTICLE11: Jnnerpolitische Zusammenstöße in Aegypten.
+Found
+MODSMD_ARTICLE12: Schüsse an der mandschurisch-sowjetrussischen Grenze.
+Found

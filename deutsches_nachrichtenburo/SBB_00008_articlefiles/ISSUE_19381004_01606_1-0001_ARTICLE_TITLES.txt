@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Deutschlandfahrt der italienischen Eisenbahner beendet.
+Found
+MODSMD_ARTICLE02: Deutscher Student von Tschechen ermordet.
+Found
+MODSMD_ARTICLE03: Ungarn demonstrieren ans der Insel Schutt.
+Found
+MODSMD_ARTICLE04: Polen für Erfüllung der ungarischen Forderungen.
+Found
+MODSMD_ARTICLE05: Interministerielle Kommission in Warschau gebildet.
+Found
+MODSMD_ARTICLE06: Maschinengewehrfeuer auf die polnische Bevölkerung.
+Found
+MODSMD_ARTICLE07: Die befreiten Polen in Teschen eingetroffen.
+Found
+MODSMD_ARTICLE08: Ultimatum der Hlinka-Partei.
+Found
+MODSMD_ARTICLE09: Die Ukrainer fordern Selbstbestimmungsrecht.
+Found
+MODSMD_ARTICLE10: London zur Triumphfahrt des Führers.
+Found
+MODSMD_ARTICLE11: Drei Themen in der Pariser Presse.
+Found
+MODSMD_ARTICLE13: Vor einem Revirement in Frankreich?
+Found
+MODSMD_ARTICLE14: Amerika zum Münchener Abkommen.
+Found
+MODSMD_ARTICLE15: Zwei Todesurteile wegen Landesverrats vollstreckt.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Reform der gewerblichen Wirtschaft.
+Found
+MODSMD_ARTICLE02: Aenderung der Patentgebühren.
+Found
+MODSMD_ARTICLE03: Eröffnung des „Nebensenders Bayreuth".
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Edens Urlaub.
+Found
+MODSMD_ARTICLE06: Finanzschwierigkeiten der Anglo-South-American-Bank.
+Found
+MODSMD_ARTICLE07: „Daily Telegraph" über die Dardanellenfrage.
+Found
+MODSMD_ARTICLE08: Britische Vorstellungen in Tokio.
+Found
+MODSMD_ARTICLE09: Zweiter Stellvertreter des polnischen Kriegsministers.
+Found
+MODSMD_ARTICLE10: Durchführung des Dürrehilfeprogramms in den USA. –
+Not Found

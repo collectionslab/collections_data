@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Empfang des Führers am Brenner.
+Found
+MODSMD_ARTICLE02: Begeisterte Begrüßungsartikel für Adolf Hitler.
+Found
+MODSMD_ARTICLE03: Die Pariser Presse Zur Abreise des Führers.
+Found
+MODSMD_ARTICLE04: Der französische Ministerrat.
+Found
+MODSMD_ARTICLE05: Die Ausstellung „Freude und Arbeit" in Athen.
+Found
+MODSMD_ARTICLE06: Das nationale Spanien ehrt seine Helden.
+Found
+MODSMD_ARTICLE07: Botschafter von Dirksen in London eingetroffen.
+Found
+MODSMD_ARTICLE08: Chamberlain verteidigt das englisch italienische Abkommen.
+Found

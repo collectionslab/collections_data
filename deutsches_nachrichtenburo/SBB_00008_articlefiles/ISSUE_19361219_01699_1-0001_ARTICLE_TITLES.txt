@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Autobahneinweihung in Thüringen.
+Found
+MODSMD_ARTICLE02: Voltsweihnachtsfeiern im ganzen Reiche.
+Found
+MODSMD_ARTICLE03: 299 Millionen Preußenanleihe.
+Found
+MODSMD_ARTICLE04: Personalveränderungen in der Kriegsmarine.
+Found
+MODSMD_ARTICLE05: Ordensauszeichnung für Staatssekretär Lammers.
+Found
+MODSMD_ARTICLE06: Warenverkehr mit Rumänien.
+Found
+MODSMD_ARTICLE07: General-Admiral Raeder dankt der Marine Frankreichs.
+Found
+MODSMD_ARTICLE08: Aufgebot der Kronprinzessin Juliana.
+Found
+MODSMD_ARTICLE09: Neuer Päpstlicher Nuntius in Wien.
+Found
+MODSMD_ARTICLE10: Neville Chamberlain Weihnachten in Frankreich.
+Found
+MODSMD_ARTICLE11: Streik von ISS »ölt Baumwollspinnern in England?
+Found
+MODSMD_ARTICLE12: Ein Mörder als „Polizeipräsident" von Almeria.
+Found
+MODSMD_ARTICLE13: Auch Amerika wrackt nicht ab.
+Found
+MODSMD_ARTICLE14: Japan gegen Kompromiß Nanking—Tschanghsueliang.
+Found
+MODSMD_ARTICLE15: Tie Kennzahl der Großhandelspreise vom 16. Dezember.
+Found

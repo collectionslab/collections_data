@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Reichsschatzmeister Schwarz.
+Found
+MODSMD_ARTICLE02: Hcnleiu in Jägerndorf und Troppau.
+Found
+MODSMD_ARTICLE03: Polnische Truppen besetzen die Nestgebiete.
+Found
+MODSMD_ARTICLE04: Daladiers letzter Appell.
+Found
+MODSMD_ARTICLE05: „Tie Existenz der Nation steht auf dem Spiel."
+Found
+MODSMD_ARTICLE06: „Frankreich Moskaus Versuchsfeld".
+Found
+MODSMD_ARTICLE07: Demonstrationen in Sofia.
+Found
+MODSMD_ARTICLE08: Stojadinowitsch zur Lösung der kroatischen Frage.
+Found
+MODSMD_ARTICLE09: Würdigung der Außenpolitik Adolf Hitlers.
+Found
+MODSMD_ARTICLE10: Keine „NeberschwemWUug" Amerikas mit Juden.
+Found
+MODSMD_ARTICLE11: Staatsanwalt gegen Boyrotthetzer angerufen.
+Found
+MODSMD_ARTICLE12: Tie Japaner säubern das Gebiet um Hongkong.
+Found
+MODSMD_ARTICLE13: Deutsches Flugzeug in Bathurst verunglückt.
+Found

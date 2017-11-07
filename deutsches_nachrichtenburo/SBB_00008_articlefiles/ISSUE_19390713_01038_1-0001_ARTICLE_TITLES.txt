@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Teilnahme Alfieris am Tag der Deutschen Kunst.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels Ehrenbürger von Heidelberg.
+Found
+MODSMD_ARTICLE03: Militärische Trauerfeier für Hauptmann Wille.
+Found
+MODSMD_ARTICLE04: Antrittsbesuch des Warschauer slowakischen Gesandten.
+Found
+MODSMD_ARTICLE05: Bor dem polnischen Terror Geflohene eingekerkert.
+Found
+MODSMD_ARTICLE06: Italien wird in aller Zukunft an Spaniens Seite stehen.
+Found
+MODSMD_ARTICLE07: „Spaniens Weg ist klar vorgezeichnet."
+Found
+MODSMD_ARTICLE08: Italien weist unerwünschte Ausländer aus.
+Found
+MODSMD_ARTICLE09: 1814 Millionen organisierte Faschisten in Italien.
+Found
+MODSMD_ARTICLE10: Neue Richtlinien für die Unterhändler in Moskau.
+Found
+MODSMD_ARTICLE11: Langsame Rückgabe des spanischen Goldes.
+Found
+MODSMD_ARTICLE12: Genfer Vereinsausschuß „beobachtet" Danzig.
+Found
+MODSMD_ARTICLE13: Chamberlaiu hat nichts Neues mitzuteilen.
+Found
+MODSMD_ARTICLE14: Zwei Millionen Pfund Kredit für Griechenland.
+Found
+MODSMD_ARTICLE15: Japanische Vorstellungen in Moskau.
+Found
+MODSMD_ARTICLE16: Syrien wird entwaffnet.
+Found
+MODSMD_ARTICLE17: Der König des Irak in Damaskus.
+Found
+MODSMD_ARTICLE18: 29 999 arabische Freiheitskämpfer hinter Stacheldraht.
+Found
+MODSMD_ARTICLE19: Furchtbare Leiden arabischer Dörfer.
+Found
+MODSMD_ARTICLE20: Palästinas Marter unter britischer Willkür.
+Found
+MODSMD_ARTICLE21: Die japanische Volksbewegung gegen England.
+Found

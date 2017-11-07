@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Wehrmachtsbericht.
+Found
+MODSMD_ARTICLE02: Wieder sinkt ein englischer Dampfer durch Minenexplosion.
+Found
+MODSMD_ARTICLE03: Engländer jammert über Londons Lügenministerium-
+Found
+MODSMD_ARTICLE04: Die deutsche Freundschaft ein Garant für die Slowakei.
+Found
+MODSMD_ARTICLE05: Gandhi zum äußersten entschlossen.
+Found
+MODSMD_ARTICLE06: Londoner Lügen niedriger gehängt.
+Found
+MODSMD_ARTICLE08: Ein flagranter Bruch des Völkerrechts.
+Found
+MODSMD_ARTICLE09: England wird nichts gewinnen!
+Found
+MODSMD_ARTICLE10: Die Leiche Prinw de Riberas in Madrid.
+Found
+MODSMD_ARTICLE11: Auf dem Wege der russisch-japanischen Verständigung.
+Found
+MODSMD_ARTICLE12: Neuer Volkskommissar ernannt.
+Found
+MODSMD_ARTICLE13: Molotow über die russisch-finnische Krise.
+Found
+MODSMD_ARTICLE14: Chile: Deutschland kaufte und verkaufte?
+Found

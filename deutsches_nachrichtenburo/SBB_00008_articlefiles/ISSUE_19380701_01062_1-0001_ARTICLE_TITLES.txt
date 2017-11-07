@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Einheitliches Recht zum Schutze des deutschen Waldes.
+Found
+MODSMD_ARTICLE02: Leibniz-Gedenksitzung der Akademie der Wissenschaften.
+Found
+MODSMD_ARTICLE03: Schlußsitzung der österreichisch-deutschen Arbeitsgemeinschaft.
+Found
+MODSMD_ARTICLE04: Dr. Ley aus Rom zurückgekehrt.
+Found
+MODSMD_ARTICLE05: Die italienische Presse geißelt Frankreichs Aengste.
+Found
+MODSMD_ARTICLE06: Bekanntmachung des Memel-Direktoriums.
+Found
+MODSMD_ARTICLE07: Rote Gegenangriffe au allen Fronten zusammengebrochen.
+Found
+MODSMD_ARTICLE08: Drastische Kritik au der Genfer Liga im Oberhaus.
+Found
+MODSMD_ARTICLE09: Nur Moskau tanzt aus der Reihe.
+Found
+MODSMD_ARTICLE10: Bluttat marxistischer Streikeuder in Grenoble.
+Found
+MODSMD_ARTICLE11: Den eigenen Bankrott ständig vor Augen.
+Found
+MODSMD_ARTICLE12: Um die Zukunft des Sandschaks.
+Found
+MODSMD_ARTICLE13: Verbissene Kämpfe um Matang und Taihu.
+Found
+MODSMD_ARTICLE14: Bolschewistischer Agent in Brasilien verhaftet.
+Found

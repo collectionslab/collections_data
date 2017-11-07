@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Die Partei hilft den Flüchtlingen.
+Found
+MODSMD_ARTICLE02: Deutschenjagd in allen GrenZbeZirken.
+Found
+MODSMD_ARTICLE03: Der Sturm auf die Hauptstelle der SdP. in Eger.
+Found
+MODSMD_ARTICLE04: Sudetendeutsche vogelfrei.
+Found
+MODSMD_ARTICLE05: Roderich Menzels Bekenntnis zum Deutschtum.
+Found
+MODSMD_ARTICLE06: Tschechische Arbeitslose rufen nach Hitler.
+Found
+MODSMD_ARTICLE07: Zunehmende Verwirrung in Prag.
+Found
+MODSMD_ARTICLE08: Lord Runciman beim König.
+Found

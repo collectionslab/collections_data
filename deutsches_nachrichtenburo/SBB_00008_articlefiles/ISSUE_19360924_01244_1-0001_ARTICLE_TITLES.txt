@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Neichsaußenminister wieder in Berlin.
+Found
+MODSMD_ARTICLE02: Ungarischer Orden für Reichsminister von Neurath.
+Found
+MODSMD_ARTICLE03: Weitere Reichsautobahnen werden dem Verkehr übergeben.
+Found
+MODSMD_ARTICLE04: Professor Wolfgang Schultz gestorben.
+Found
+MODSMD_ARTICLE05: Die deutsch-rumänischen Wirtschaftsverhandlumen.
+Found
+MODSMD_ARTICLE06: Spaniens Konsul in Stuttgart legt sein Amt nieder.
+Found
+MODSMD_ARTICLE07: Neue Rechtsbewegung in Frankreich.
+Found
+MODSMD_ARTICLE08: Erhöhung des Diskontsatzes der Bank von Frankreich.
+Found
+MODSMD_ARTICLE09: Zwischenfälle bei Reservistenaushebungen im Elsaß?
+Found
+MODSMD_ARTICLE10: Französischer Schutz für Andorra?
+Found
+MODSMD_ARTICLE11: Wahl der Vizepräsidenten in Genf.
+Found
+MODSMD_ARTICLE12: Die römische Presse zum Genfer Beschlust.
+Found
+MODSMD_ARTICLE13: Mexikos erster Gesandter in Bukarest.
+Found
+MODSMD_ARTICLE14: Der englische Botschafter bei Japans Außenminister.
+Found
+MODSMD_ARTICLE15: Japanische Seesoldaten landen in Schanghai.
+Found
+MODSMD_ARTICLE16: Weitere Verstärkungen des japanischen Landungskorps.
+Found
+MODSMD_ARTICLE17: Ein Interview des Generals Matsumuro.
+Found

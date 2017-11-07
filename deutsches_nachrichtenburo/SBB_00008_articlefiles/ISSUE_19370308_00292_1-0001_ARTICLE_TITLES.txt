@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Festlicher Abschluß der Reichsfilmkammertagung.
+Found
+MODSMD_ARTICLE02: Vor allem Wochenende!
+Found
+MODSMD_ARTICLE03: Schnelle Billigung der Landesverteidigungsanleihe erwartet.
+Found
+MODSMD_ARTICLE04: Gegen die Vormachtstellung der marxistischen Gewerkschaften.
+Found
+MODSMD_ARTICLE05: Rechtsstehende französische Wochenschrift gemaßregelt.
+Found
+MODSMD_ARTICLE06: Blum mahnt zur Sparsamkeit.
+Found
+MODSMD_ARTICLE07: Die Labour Party macht sich Regierungssorgen.
+Found
+MODSMD_ARTICLE08: Der Nichteinmischungs-Schwiudel geht weiter.
+Found
+MODSMD_ARTICLE09: Internationaler Gewerkschaftsbund als Waffenschieber.
+Found
+MODSMD_ARTICLE10: Bolschewistische Untermenschen.
+Found
+MODSMD_ARTICLE11: Nationalspanischer Seesieg an der Küste der Gascogne.
+Found
+MODSMD_ARTICLE12: Polnische Bauern für Oberst Koc.
+Found
+MODSMD_ARTICLE13: Die Wahlkomödie der Sowjets.
+Found
+MODSMD_ARTICLE14: Ernste Lage in Südtunesien.
+Found
+MODSMD_ARTICLE15: Wieder Drahtverhaue und Panzerwagen in Jerusalem.
+Found

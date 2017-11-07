@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Die italienischen Journalisten in München.
+Found
+MODSMD_ARTICLE02: Förderung des Gesundheitszustandes aller Schaffenden.
+Found
+MODSMD_ARTICLE03: Die italienischen Jndustrieführer in München.
+Found
+MODSMD_ARTICLE04: Der Bortrag von Dr. Lammers in Kopenhagen.
+Found
+MODSMD_ARTICLE05: Bauarbeiterstreik in 17 Städten Schwedens.
+Found
+MODSMD_ARTICLE06: Der österreichische! Staatsbesuch in Budapest.
+Found
+MODSMD_ARTICLE07: Caillaux über die Verelendung der französischen Arbeiter.
+Found
+MODSMD_ARTICLE08: Sowjetspanisches Kriegsflugzeug verirrt sich nach Frankreich.
+Found

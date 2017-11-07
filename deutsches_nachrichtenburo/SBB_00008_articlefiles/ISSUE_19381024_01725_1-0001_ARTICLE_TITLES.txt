@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Eine riefige Armee der deutschen Arbeit entsteht.
+Found
+MODSMD_ARTICLE03: Reichsminister Ruft vor sudetendeutschen Erziehern.
+Found
+MODSMD_ARTICLE04: Gegen die neuen litauischen Staatsschutzgesetze.
+Found
+MODSMD_ARTICLE05: Der nationalspamsche Heeresbericht.
+Found
+MODSMD_ARTICLE06: Ende des Fernost-Krieges in Sicht?
+Found

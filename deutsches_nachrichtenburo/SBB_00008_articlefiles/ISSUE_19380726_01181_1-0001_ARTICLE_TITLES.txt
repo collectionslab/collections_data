@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: „Parsifal" in Anwesenheit des Führers.
+Found
+MODSMD_ARTICLE02: Rudolf Heß in Salzburg.
+Found
+MODSMD_ARTICLE03: Graz, „Stadt der Volkserhebung".
+Found
+MODSMD_ARTICLE04: Wiener Gedenkfeier zur Erinnerung an den 25. Juli 1934-
+Found
+MODSMD_ARTICLE05: Ley eröffnet erste Wiener Gauschule der NSDAP, und DAF.
+Found
+MODSMD_ARTICLE06: Tagesbefehl an die SA.: „Vorwärts zu neuer Arbeit!"
+Found
+MODSMD_ARTICLE07: Konrad Henlein in Breslau.
+Found
+MODSMD_ARTICLE08: Göring auch am Montag noch in Dänemark.
+Found
+MODSMD_ARTICLE09: Starke Beachtung der Heß-Rede in der römischen Presse.
+Found
+MODSMD_ARTICLE10: Dle jüdische Kriegshetze.
+Found
+MODSMD_ARTICLE11: Erfolgreiche Bombardierung sowjetsvaiiischer Hasenanlage.
+Found
+MODSMD_ARTICLE12: 120 km Frontverkürzung bei der Estramadura-Offensive.
+Found
+MODSMD_ARTICLE13: Verschärfte Bewachung der katalanischen Grenzen.
+Found
+MODSMD_ARTICLE14: Sowjetspanische Fahne für die 8. chinesische Division.
+Found

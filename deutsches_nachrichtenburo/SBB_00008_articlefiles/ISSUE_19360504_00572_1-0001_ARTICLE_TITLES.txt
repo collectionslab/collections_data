@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Trauerfeier in Bückeburg.
+Found
+MODSMD_ARTICLE02: Die Kundgebung der Reichstheaterkammer in München.
+Found
+MODSMD_ARTICLE03: Kreuzer „Nürnberg" in Lissabon.
+Found
+MODSMD_ARTICLE04: König Aaruk dankt für das Beileid der Deutschen in Aegypten.
+Found
+MODSMD_ARTICLE05: Sondersitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE06: Die bedrohliche Lage der Europäer in Addis Abeba.
+Found
+MODSMD_ARTICLE07: Unzufriedenheit im österreichischen Gewerkschaftsbund.
+Found
+MODSMD_ARTICLE08: „Wiener Sonn- und MonÄgszeitung" von Vaterländischen Front übernommen.
+Found
+MODSMD_ARTICLE09: Oesterreichische Denkschrift in Prag überreicht.
+Found
+MODSMD_ARTICLE10: Die Grundlinien des neuen litauischen Wahlgesetzes.
+Found
+MODSMD_ARTICLE11: Van Zeeland über Belgiens innerpolitische Lage.
+Found
+MODSMD_ARTICLE12: Tagung des Katholisch-Flämischen Landbundes.
+Found
+MODSMD_ARTICLE13: Der italienische Heeresbericht Nr. 292.
+Found
+MODSMD_ARTICLE14: Die Jahreskonferenz des Balkanbundes eröffnet.
+Found
+MODSMD_ARTICLE15: Zwischenfall bei einer Heldengedenkfeier in Madrid.
+Found
+MODSMD_ARTICLE16: Blutige Zusammenstöße bei den ägyptischen Wahlen.
+Found
+MODSMD_ARTICLE17: Nach den ägyptischen Wahlen.
+Found
+MODSMD_ARTICLE18: Aufhebung des Ausnahmezustandes in Jaffa und Tel Aviv.
+Found
+MODSMD_ARTICLE19: Hinrichtung in Munster.
+Found

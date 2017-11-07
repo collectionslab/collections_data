@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Kiel in Erwartung des Führers.
+Found
+MODSMD_ARTICLE02: Die lettische Presse zur Pariser Erklärung.
+Found
+MODSMD_ARTICLE03: Warschau: Hofsnungen für eine zukünftige Entwicklung.
+Found
+MODSMD_ARTICLE04: Rücktritt des Memelgouverneurs Tubelis.
+Found
+MODSMD_ARTICLE05: Die Ausschreitungen gegen die Italiener in Tunis.
+Found
+MODSMD_ARTICLE06: Bonnet unterrichtet den englischen Botschafter.
+Found
+MODSMD_ARTICLE07: Jouhanx verliert einen einträglichen Posten.
+Found
+MODSMD_ARTICLE08: Rotspanische Deserteure als Einbrecher in Paris.
+Found
+MODSMD_ARTICLE09: Freilassung der Verbannten Araberführer.
+Found
+MODSMD_ARTICLE10: Scharfe Angriffe auf die Außenpolitik Roosevelts.
+Found
+MODSMD_ARTICLE11: GPU.-Chef Jeschow gestürzt.
+Found
+MODSMD_ARTICLE12: Ein chilenisches Blatt zur Konferenz von Lima.
+Found

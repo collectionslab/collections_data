@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Die Tagung des Wirtschaftsausschusses des Völkerbundes.
+Found
+MODSMD_ARTICLE02: König Eduard VIII. an König Georg 11.
+Found
+MODSMD_ARTICLE03: Eine Belgrader Erklärung zur Reise Stojadinowitschs.
+Found
+MODSMD_ARTICLE04: Die Streiklage in Frankreich.
+Found
+MODSMD_ARTICLE05: Für Sicherstellung der Arbeitsfreiheit.
+Found
+MODSMD_ARTICLE06: Der Schriftwechsel zur Nichteinmischungsaktion.
+Found
+MODSMD_ARTICLE07: Die englischen Gewerkschaften zur Nichteinmischung.
+Found
+MODSMD_ARTICLE08: Manöverschluß in Südostfrankreich.
+Found
+MODSMD_ARTICLE09: Neue Erfolge der Nationalisten in der Gegend von Talavera.
+Found
+MODSMD_ARTICLE10: General Franco über die militärische Lage.
+Found
+MODSMD_ARTICLE11: Ramon Franco bietet den Nationalisten seine Dienste an.
+Found
+MODSMD_ARTICLE12: Nationalistischer Kreuzer kapert roten Transportdampfer.
+Found
+MODSMD_ARTICLE13: Spanische Kommunisten martern Priester.
+Found
+MODSMD_ARTICLE14: Zwischenfall bei einem Pressebesuch in San Sebastian.
+Found
+MODSMD_ARTICLE15: Die Lage in Huesca.
+Found
+MODSMD_ARTICLE16: Der Jude Rosenberg einziger Botschafter in Madrid.
+Found
+MODSMD_ARTICLE17: Die marxistische Blutherrschaft in Barcelona.
+Found
+MODSMD_ARTICLE18: Marxistische Schiffe beschießen norwegischen Dampfer.
+Found
+MODSMD_ARTICLE19: Erhöhung der australischen Wehrausgaben.
+Found
+MODSMD_ARTICLE20: Australische Gebietserwerbnng im Südpolargebiet.
+Found
+MODSMD_ARTICLE21: Ein Büro der „Jntegralistischen Aktion" geschlossen.
+Found

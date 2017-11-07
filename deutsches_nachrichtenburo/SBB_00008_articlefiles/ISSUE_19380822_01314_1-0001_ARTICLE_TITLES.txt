@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Horthy und der Führer besuchen Helgoland.
+Found
+MODSMD_ARTICLE02: D?"r Führer an Konteradmiral Höpsner.
+Found
+MODSMD_ARTICLE03: Englische Kraftsahrt-Schriftleiter reisen durch Deutschland.
+Found
+MODSMD_ARTICLE04: Staatssekretär Backe über die Aufgaben des Gartenbaues.
+Found
+MODSMD_ARTICLE05: Volksgemeinschaft der Tat im sudetendeutfchen Gebiet.
+Found
+MODSMD_ARTICLE06: Engländer besichtigen die stillgelegten Industriegebiete.
+Found
+MODSMD_ARTICLE07: Daladier: Frankreich muß mehr arbeiten!
+Found
+MODSMD_ARTICLE08: Regierungskrise in Frankreich.
+Found
+MODSMD_ARTICLE09: Das Echo der Daladier-Rede.
+Found
+MODSMD_ARTICLE10: Frankreich liefert Brennstoff an Rotspanien.
+Found

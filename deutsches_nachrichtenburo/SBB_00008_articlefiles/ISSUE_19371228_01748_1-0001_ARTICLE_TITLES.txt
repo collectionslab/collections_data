@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Von Hassell besucht Panzerschiff „Deutschland".
+Found
+MODSMD_ARTICLE02: Ein Enkel Mussolinis geboren.
+Found
+MODSMD_ARTICLE03: Italienische Studienkommission geht nach Tokio.
+Found
+MODSMD_ARTICLE04: Eine Wehrformation der österreichischen Legitimisten.
+Found
+MODSMD_ARTICLE05: 5 Memelländer vom litauischen Staatspräsidenten begnadigt.
+Found
+MODSMD_ARTICLE06: Neuer Schlag gegen die Kirchen in Sowjetrußland.
+Found
+MODSMD_ARTICLE07: Schwedens Wirtschaft fordert Handelsabkommen mit Francs.
+Found
+MODSMD_ARTICLE08: Schwere Verluste der Bolschewisten bei Tcrucl.
+Found
+MODSMD_ARTICLE09: Kraftlosere bolschewistische Angriffe bei Teruel.
+Found
+MODSMD_ARTICLE10: Deutsche Teilnehmer am Sternflug nach Hoggar unterwegs.
+Found
+MODSMD_ARTICLE11: Frankreichs Regierung wehrt sich gegen Streikunordnung.
+Found
+MODSMD_ARTICLE12: Duclos für marxistisch-bolschewistische Verbrüderung.
+Found
+MODSMD_ARTICLE13: Pariser Journalisten gegen CGT.-Verband.
+Found
+MODSMD_ARTICLE14: Entführter syrischer Gouverneur von Truppen befreit.
+Found
+MODSMD_ARTICLE15: Vor Auslösung der Politischen Parteien in Syrien.
+Found
+MODSMD_ARTICLE16: Verschärfte Einwanderungsbestimmuugen für Singapur.
+Found
+MODSMD_ARTICLE17: Tsinansu von den Japanern genommen.
+Found
+MODSMD_ARTICLE18: Wieder ein Zwischenfall in Schanghai.
+Found
+MODSMD_ARTICLE19: Entschädigungssumme für die „Panay" noch nicht festgesetzt.
+Found
+MODSMD_ARTICLE20: Trauerseier für General Ludendorff in New Jork.
+Found
+MODSMD_ARTICLE21: Die Amnestie in Kuba.
+Found
+MODSMD_ARTICLE22: Deutscher Motorradsieg in einem australischen Rennen.
+Found

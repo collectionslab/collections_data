@@ -1,0 +1,32 @@
+MODSMD_ARTICLE02: Neue Reichsanleihe.
+Found
+MODSMD_ARTICLE03: Dr. Schacht zur neuen Reichsanleihe.
+Found
+MODSMD_ARTICLE04: Glückwunschtelegramme an Max Schmeling.
+Found
+MODSMD_ARTICLE05: Abschluß der deutsch-ungarischen Wirtschaftsberhandlungcn.
+Found
+MODSMD_ARTICLE06: Die Tagung der deutsch-polnischen Wirtschaftsausschüsse.
+Found
+MODSMD_ARTICLE08: „Hindenburg" flog Rekord.
+Found
+MODSMD_ARTICLE09: Abschluß der Haupttagung der Sudetendeutschen Partei.
+Found
+MODSMD_ARTICLE10: Ein Verurteilter des Kattowitzer Hochverratsprozesses f.
+Found
+MODSMD_ARTICLE11: Chambrun bei Delbos.
+Found
+MODSMD_ARTICLE12: Die Frage der „satten und der hungernden Völker".
+Found
+MODSMD_ARTICLE13: Italienische Vorbehalte für Montreux.
+Found
+MODSMD_ARTICLE14: Devisenkontrolle auch in Abessinien.
+Found
+MODSMD_ARTICLE15: Schüsse auf den Zug Lydda—Jerusalem.
+Found
+MODSMD_ARTICLE16: Unruhiges Palästina.
+Found
+MODSMD_ARTICLE17: Ein Friedensaufruf nordchinesischer Generale.
+Found
+MODSMD_ARTICLE18: Chinesen beschlagnahmen japanische Schisse.
+Found

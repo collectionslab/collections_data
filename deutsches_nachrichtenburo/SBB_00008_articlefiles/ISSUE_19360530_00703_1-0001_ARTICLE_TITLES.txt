@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Die Weihe des Ehrenmals in Laboe.
+Found
+MODSMD_ARTICLE02: Von Kiel nach Laboe.
+Found
+MODSMD_ARTICLE03: Die Ankunft in Laboe.
+Found
+MODSMD_ARTICLE04: Der Einmarsch der Fahnen.
+Found
+MODSMD_ARTICLE05: Die Ankunft des Führers.
+Found
+MODSMD_ARTICLE06: Im Ehrenhof.
+Found

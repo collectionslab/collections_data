@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Großdeutschland entsteht.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels Leiter des Propagandakampfes.
+Found
+MODSMD_ARTICLE04: Seyß-Jnguart vom Führer vereidigt.
+Found
+MODSMD_ARTICLE05: Die Goethe-Medaille für Gustav Frenssen.
+Found
+MODSMD_ARTICLE06: Feierstunde am Bern Jsel.
+Found
+MODSMD_ARTICLE07: Die Regelung der östereichischen Forstwirtschaft.
+Found
+MODSMD_ARTICLE08: Ungarische Stimme über den Anschluß.
+Found
+MODSMD_ARTICLE09: Die Gründe für die Niederlagen Valencias.
+Found
+MODSMD_ARTICLE10: Der Petroleumkonflikt in Mexiko verschärft.
+Found
+MODSMD_ARTICLE11: War ein integralistischer Ausstand in Brasilien geplant?
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Glückwunsch des spanischen Staatschefs zum 30. Januar.
+Found
+MODSMD_ARTICLE02: Ernennungen in der Reichskanzlei.
+Found
+MODSMD_ARTICLE03: Regelung des Wirtschaftsverkehrs mit Syrien und Libanon.
+Found
+MODSMD_ARTICLE04: Eine erfreuliche Bilanz.
+Found
+MODSMD_ARTICLE05: Auslandsdeutsche feierten den Tag der Machtübernahme.
+Found
+MODSMD_ARTICLE06: Neugestaltung und städtebauliche Entwicklung Bagdads.
+Found
+MODSMD_ARTICLE07: Italien feiert Griindungstag der faschistischen Miliz.
+Found
+MODSMD_ARTICLE08: Bolschewistisches Motorschiff beschlagnahmt.
+Found
+MODSMD_ARTICLE09: Wieder Streiks in Frankreich.
+Found
+MODSMD_ARTICLE10: Thorez besucht Spaniens Bolschewisten.
+Found
+MODSMD_ARTICLE11: Syriens Widerstand gegen die Sandschak-Regelung.
+Found
+MODSMD_ARTICLE12: Früherer Befehlshaber der Sowjet-Ostseeflotte verhaftet.
+Found
+MODSMD_ARTICLE13: Kreuzer „Emden" verließ Nanking.
+Found
+MODSMD_ARTICLE14: Tie Kabinettsumbildung in Japan.
+Found
+MODSMD_ARTICLE15: Verschärfung der Streiklage in Amerika.
+Found

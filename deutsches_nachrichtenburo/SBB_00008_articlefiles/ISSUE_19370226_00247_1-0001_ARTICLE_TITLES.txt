@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Dr. Goebbels sprach in Köln.
+Found
+MODSMD_ARTICLE02: „Mit uns zieht die neue Zeit!"
+Found
+MODSMD_ARTICLE03: Neue Sitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE04: Die Rüstungsanleihe vor dem Unterhaus.
+Found
+MODSMD_ARTICLE05: Leon Degrelle verhaftet.
+Found
+MODSMD_ARTICLE06: Kohlenversorgung der Spanienbolschewisten unterbunden.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Gastspiel des Polnischen Balletts in Berlin.
+Found
+MODSMD_ARTICLE02: Alfred Rosenberg vor 10 000 Führern der SA.
+Found
+MODSMD_ARTICLE04: Der Entwurf einer neuen litauischen Verfassung.
+Found
+MODSMD_ARTICLE05: Steigerung der polnischen Rohstoff-Erzeugung.
+Found
+MODSMD_ARTICLE06: „Die jüdische Auswanderung eine Lebensfrage für Polen".
+Found
+MODSMD_ARTICLE07: 39 999 Juden mit doppelter Staatsbürgerschaft. –
+Not Found
+MODSMD_ARTICLE08: Zurechtweisung der jüdisch-liberalen Budapester Presse.
+Found
+MODSMD_ARTICLE09: Die Razzia gegen die bolschewistischen Spanienwerber.
+Found
+MODSMD_ARTICLE10: Ter nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE11: General Franco half der Landwirtschaft.
+Found
+MODSMD_ARTICLE12: Der Bericht van Seelands auch in Washington veröffentlicht.
+Found

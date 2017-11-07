@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Adolf Hitler am deutschen Rhein.
+Found
+MODSMD_ARTICLE02: 40 000 östereichische Kinder kommen ins alte Reichsgebiet.
+Found
+MODSMD_ARTICLE03: Opfer an Lohn und Gehalt für WHW auf „Konto Österreich".
+Found
+MODSMD_ARTICLE04: Gunnar Gunnarsson über den Anschluß Oesterreichs.
+Found
+MODSMD_ARTICLE05: Generalfeldmarschall Göring in Klagenfurt.
+Found
+MODSMD_ARTICLE06: Einzug der SS.-Verfügungstruppe 3 in Wien,
+Found
+MODSMD_ARTICLE07: Seht die Stimmlisten ein! Sichert Euer Stimmrecht!
+Found
+MODSMD_ARTICLE08: „Deutsch-italienische Gesellschaft zu Hamburg" gegründet.
+Found
+MODSMD_ARTICLE09: „Die Grenzen sind weit geöffnet."
+Found
+MODSMD_ARTICLE10: Neues Kabinett Miron Cristea.
+Found

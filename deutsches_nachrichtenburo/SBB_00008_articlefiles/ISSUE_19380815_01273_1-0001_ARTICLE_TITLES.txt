@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die deutschen OZeanflieger wieder in Berlin.
+Found
+MODSMD_ARTICLE02: Stärkste Beachtung des „Condor"-Rekords in Paris.
+Found
+MODSMD_ARTICLE03: USA.-Rundfunk meldete glückliche Landung des „Condor".
+Found
+MODSMD_ARTICLE04: Luftmarschall Balbo auf der Rückreise nach Italien.
+Found
+MODSMD_ARTICLE05: Staatssekretär Freister vor österreichischen Rechtswahrern.
+Found
+MODSMD_ARTICLE06: Frankreichs Haushaltssorgen.
+Found
+MODSMD_ARTICLE07: Tagung der französischen Arbeitsinvaliden.
+Found
+MODSMD_ARTICLE08: Duff Cooper in Helsinki.
+Found
+MODSMD_ARTICLE09: Warnung Mussolinis an eine chaotische Welt.
+Found
+MODSMD_ARTICLE10: Wiederaufleben des Konflikts um Schangfeng?
+Found

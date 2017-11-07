@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Dr. Goebbels auf dem Gautag Westfalen-Nord.
+Found
+MODSMD_ARTICLE02: 2W Jahre Universität Göttingen.
+Found
+MODSMD_ARTICLE03: Glückwünsche und Ehrenpromotionen.
+Found
+MODSMD_ARTICLE04: Der Warschauer Besuch König Carols.
+Found
+MODSMD_ARTICLE05: Die Säuberung an der Nordfront wird fortgesetzt.
+Found
+MODSMD_ARTICLE06: Der Streik auf Trinidad geht auf Tobago über.
+Found

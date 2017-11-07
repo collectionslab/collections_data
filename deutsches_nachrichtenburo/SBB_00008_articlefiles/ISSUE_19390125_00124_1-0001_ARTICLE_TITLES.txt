@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Nibbentrop sprach vor den deutschen Generälen.
+Found
+MODSMD_ARTICLE02: Erfolge im Kampf gegen die Landflucht.
+Found
+MODSMD_ARTICLE03: Beruhard Köhler über Großraumpolitik.
+Found
+MODSMD_ARTICLE04: Memeldirektorium bekennt sich zum Nationalsozialismus.
+Found
+MODSMD_ARTICLE05: Gegen jüdische Vorherrschaft in der litauischen Wirtschaft.
+Found
+MODSMD_ARTICLE06: Außenpolitische Kammeraussprsche auf Tonnerstag vertagt.
+Found
+MODSMD_ARTICLE07: „Alleiniger Nutznießer eines Krieges: Moskau."
+Found
+MODSMD_ARTICLE08: Frankreich sperrt die Grenzen.
+Found
+MODSMD_ARTICLE09: Französischer Kreuzer vor Barcelona eingetroffen.
+Found
+MODSMD_ARTICLE10: Starkes britisches Geschwader in Gibraltar eingelaufen.
+Found
+MODSMD_ARTICLE11: Englische Hilfsmaßnahmen für spanische Flüchtlingskinder.
+Found
+MODSMD_ARTICLE12: Tie MaestraZgo-Armee steht vor Tarrasa und Sabadell.
+Found
+MODSMD_ARTICLE13: Norwegische Hilfeleistungen für Rotspanien.
+Found
+MODSMD_ARTICLE14: Syriens Kampf um seine Unabhängigkeit.
+Found
+MODSMD_ARTICLE15: Der Verräter Naschaschibi nach London eingeladen?
+Found
+MODSMD_ARTICLE16: Die Anklagen gegen USA-Arbeitsmimsier Frau Perkins.
+Found
+MODSMD_ARTICLE17: kommunistischer Agitatoren nach Mexiko?
+Found
+MODSMD_ARTICLE18: Quartiermacher Krieto.
+Found

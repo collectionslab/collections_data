@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Britischer Anschlag auf die „Schwarze Muttergottes".
+Found
+MODSMD_ARTICLE02: Leidensfahrt Warschau—Tschernowitz.
+Not Found
+MODSMD_ARTICLE03: Polnischer Botschafter bei Coulondre.
+Found
+MODSMD_ARTICLE04: London beschimpft Moskau.
+Found
+MODSMD_ARTICLE05: „Times": „Polen wird sicher geholfen werden".
+Found
+MODSMD_ARTICLE06: London will erst Fühlung nehmen.
+Found
+MODSMD_ARTICLE07: London fährt fort, die Weltgeschichte zu dementieren.
+Found
+MODSMD_ARTICLE08: Abreise Moszickis nach Bukarest.
+Found
+MODSMD_ARTICLE09: Der Sowjeteinmarsch im Vordergrund der lettischen Presse
+Found
+MODSMD_ARTICLE10: Rumänien wird auch weiter strenge Neutralität wahren.
+Found
+MODSMD_ARTICLE11: „Deutschlands strategisches Ziel in Polen ist erreicht."
+Found
+MODSMD_ARTICLE12: Spanien zum Einmarsch der Russen.
+Found
+MODSMD_ARTICLE13: Ohnmächtige Wut in England.
+Found
+MODSMD_ARTICLE14: Schweden: „Neue Machtgruppierung in Europa."
+Found
+MODSMD_ARTICLE15: „Verantwortungsgefühl und Vernunft gebieten Neutralität"«
+Found

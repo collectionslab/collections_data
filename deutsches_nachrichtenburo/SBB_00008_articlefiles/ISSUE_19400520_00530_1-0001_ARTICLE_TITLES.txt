@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Vottai sprach zum Tag der Auslandsitaliener.
+Found
+MODSMD_ARTICLE02: Paris und London spüren den Ernst der Lage.
+Found
+MODSMD_ARTICLE03: „Die Aggressoren müssen jetzt die Rechnung bezahlen."
+Found
+MODSMD_ARTICLE05: Ansaldo: „Die letzte Phase der Vorbereitung."
+Found
+MODSMD_ARTICLE06: Britisch-französische Weltbrandgelüste.
+Found
+MODSMD_ARTICLE07: „Vertrauen das Privileg der Starken!"
+Found
+MODSMD_ARTICLE08: Leger mußte gehen.
+Found
+MODSMD_ARTICLE09: England muß Papier sparen.
+Found
+MODSMD_ARTICLE10: General Guillaumat gestorben.
+Found
+MODSMD_ARTICLE11: England denkt schon an Invasion.
+Found
+MODSMD_ARTICLE12: Spionagefnrcht in England.
+Found
+MODSMD_ARTICLE13: Holland über die Engländer wütend.
+Found
+MODSMD_ARTICLE14: Zugverkehr Frankreichs—Basel unterbrochen.
+Not Found
+MODSMD_ARTICLE15: Portugal bleibt neutral.
+Found
+MODSMD_ARTICLE16: „Brasilien ist neutral!"
+Found

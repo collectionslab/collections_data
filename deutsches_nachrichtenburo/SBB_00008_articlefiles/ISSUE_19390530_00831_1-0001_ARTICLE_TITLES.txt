@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Deutsch-japanischer Telegrammwechsel.
+Found
+MODSMD_ARTICLE02: Beileid des Reichserziehungsministers.
+Found
+MODSMD_ARTICLE03: Die Voranschläge für die italienische Wehrmacht.
+Found
+MODSMD_ARTICLE04: „Regime Fascista" zum Pakt mit Moskau.
+Found
+MODSMD_ARTICLE05: Moskau gab die Anweisungen an die spanischen Mörder.
+Found
+MODSMD_ARTICLE06: Schüsse in Belfast, Bomben in Liderpool und Birmingham.
+Found
+MODSMD_ARTICLE07: „Chamberlains Außenpolitik nur für Londoner City gut."
+Found
+MODSMD_ARTICLE08: Die Mitgliederverluste der Gewerkschaft EGT.
+Found
+MODSMD_ARTICLE09: Feiger jüdischer Terror in Palästina.
+Found
+MODSMD_ARTICLE10: Die außenmongolischen Angriffe am Boirnor.
+Found
+MODSMD_ARTICLE11: Kommunistische Agitation in der amerikanischen Marine.
+Found

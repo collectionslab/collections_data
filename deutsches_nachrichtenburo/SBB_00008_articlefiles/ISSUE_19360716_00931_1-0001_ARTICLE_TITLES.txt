@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Deutsch-ungarischer Telegrammwechsel.
+Found
+MODSMD_ARTICLE02: Photowettbewerb „Die schöne Straße" verlängert.
+Found
+MODSMD_ARTICLE03: Ausländer lernen das neue Deutschland kennen.
+Found
+MODSMD_ARTICLE04: Deutscher Flugverkehr trotz Orkans aufrechterhalten.
+Found
+MODSMD_ARTICLE05: Neichslehrgang des NSD Studentenbundes.
+Found
+MODSMD_ARTICLE06: Wettbewerb um den Chopin-Preis in Warschau.
+Found
+MODSMD_ARTICLE07: Anschlag auf den König von England vereitelt.
+Found
+MODSMD_ARTICLE08: Oesterreichische Bischöfe zum Abkommen Berlin—Wien.
+Found
+MODSMD_ARTICLE09: Prozesse gegen österreichische Nationalsozialisten eingestellt.
+Found
+MODSMD_ARTICLE10: Der Prager Besuch des sowjetrussischen Luftwaffenchefs.
+Found
+MODSMD_ARTICLE11: Generalsekretär Munters lettländischer Außenminister.
+Found
+MODSMD_ARTICLE12: Kammerausschuß billigt Nationalisierungsvorlage.
+Found
+MODSMD_ARTICLE13: Mussolini über die Besitzergreifung Abessiniens.
+Found
+MODSMD_ARTICLE14: Gerüchte über einen Anschlag auf Marschall Graziani.
+Found
+MODSMD_ARTICLE15: Italienisches Sonderkriegsgericht in Addis Abeba.
+Found
+MODSMD_ARTICLE16: Flämische Stimme gegen eine Dreier-Konferenz.
+Found
+MODSMD_ARTICLE17: Die Haltung Nankings.
+Found

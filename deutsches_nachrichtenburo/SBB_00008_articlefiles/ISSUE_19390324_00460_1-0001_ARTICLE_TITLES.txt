@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Der neue Finanzplan der Reichsregierung.
+Found
+MODSMD_ARTICLE03: Der Führer wieder in Berlin.
+Found
+MODSMD_ARTICLE04: Spanien zeigt Frankreich die kalte Schulter.
+Found
+MODSMD_ARTICLE05: 350 Millionen Finmnark für den Heeresbedsrf Finnlands.
+Found

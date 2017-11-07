@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Besprechungen des Führers in Nürnberg.
+Found
+MODSMD_ARTICLE02: Dr. Frick besucht süddeutsche Stadtgemeinden.
+Found
+MODSMD_ARTICLE03: Das 50-jährige Militärdienstjubiläum des Generals v. Epp.
+Found
+MODSMD_ARTICLE04: Japanische Jugendführer in Berlin.
+Found
+MODSMD_ARTICLE05: Ter Internationale Homöopathische Kongreß abgeschlossen.
+Found
+MODSMD_ARTICLE06: Einweihung der ersten Siedlung im Sprottebruch.
+Found
+MODSMD_ARTICLE07: Volksverrat gesühnt.
+Found
+MODSMD_ARTICLE08: Oldenburg-Januschau
+Found
+MODSMD_ARTICLE09: Im Zeichen deutsch-jugoslawischer Freundschaft.
+Found
+MODSMD_ARTICLE10: „Truxa" und „Condottieri" auf der Filmkunstschau.
+Found
+MODSMD_ARTICLE11: Gegenbesuch deutscher Segelfliegerjugend in England.
+Found
+MODSMD_ARTICLE12: Der neue irakische Generalstabschef.
+Found
+MODSMD_ARTICLE13: Abtransport der Engländer aus Schanghai.
+Found
+MODSMD_ARTICLE14: Die japanische Zivilbevölkerung verläßt China.
+Found
+MODSMD_ARTICLE15: Standrecht in der Internationalen Niederlassung.
+Found
+MODSMD_ARTICLE16: 59 Verletzte, 199 Verhaftete bei Demonstrationen in Kalkutta.
+Found
+MODSMD_ARTICLE17: Fusion amerikanischer Nachrichtenagenturen.
+Found
+MODSMD_ARTICLE18: Amerikaner dürfen nicht in das „Sowjetparadies".
+Found
+MODSMD_ARTICLE19: Der Präsident von Paraguay zurückgetreten.
+Found

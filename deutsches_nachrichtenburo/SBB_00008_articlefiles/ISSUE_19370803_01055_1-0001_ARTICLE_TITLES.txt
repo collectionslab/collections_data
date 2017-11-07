@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Anerkennung für sportliche Polizeibeamten Erfolge.
+Found
+MODSMD_ARTICLE02: Magdeburg schenkt polnischem Staat Pilsudski-Gedenkstätte.
+Found
+MODSMD_ARTICLE03: Kranzniederlegung belgischer Studenten in München.
+Found
+MODSMD_ARTICLE04: Deutsche Borträge auf Pariser Kongreß.
+Found
+MODSMD_ARTICLE05: Nachtmanöver bei Douai.
+Found
+MODSMD_ARTICLE06: Frankreich für die englischen Westpaktpläne.
+Found
+MODSMD_ARTICLE07: Englands Presse zum Briefwechsel Mussolini-Chamberlain.
+Found
+MODSMD_ARTICLE08: Chamberlain hofft auf Viermächtekonserenz im Herbst.
+Found
+MODSMD_ARTICLE09: 10 000 kanadische Textilarbeiter streiken.
+Found
+MODSMD_ARTICLE10: Jüdische Hintergedanken Zum britischen Palästina-Plan.
+Found
+MODSMD_ARTICLE11: Aegyptens Ministerpräsident nimmt an Genfer Tagung teil.
+Found
+MODSMD_ARTICLE12: Aegypten baut 22W neue Volksschulen.
+Found
+MODSMD_ARTICLE13: Japanische Säuberungsaktion in Nordchina.
+Found
+MODSMD_ARTICLE14: Kunstflugkonkurrenz Kategorie L in Zürich.
+Found

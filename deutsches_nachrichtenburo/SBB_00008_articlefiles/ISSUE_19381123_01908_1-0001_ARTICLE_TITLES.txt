@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Julius Streicher sprach in Traunstein.
+Found
+MODSMD_ARTICLE02: Belgische Kammerdebatte zur Judenfrage.
+Found
+MODSMD_ARTICLE03: Daladier droht.
+Found
+MODSMD_ARTICLE04: 4 – LA
+Not Found
+MODSMD_ARTICLE05: Der polnische Senat.
+Found
+MODSMD_ARTICLE06: De Valera erneut für Beendigung der Teilung.
+Found
+MODSMD_ARTICLE07: Dr. Hacha wird Staatspräsident.
+Found
+MODSMD_ARTICLE08: Auch die tschechischen Volkssozialen in der Einheitspartei.
+Found
+MODSMD_ARTICLE09: Jüdische Banditen überfielen wehrloses Araberdorf.
+Found
+MODSMD_ARTICLE10: Amerikanische Pressestimmen einmal sachlich.
+Found

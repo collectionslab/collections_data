@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Wehrmachtsakademie besucht Propagandaministerium.
+Found
+MODSMD_ARTICLE02: „Admiral Graf Spee" am 15. Mai in Spithead.
+Found
+MODSMD_ARTICLE03: Zeichen des deutschen Wirtschaftsaufstieges.
+Found
+MODSMD_ARTICLE04: Die italienischen Journalisten im Ruhrgebiet.
+Found
+MODSMD_ARTICLE05: Die italienischen Industriellen in Westdeutschland.
+Found
+MODSMD_ARTICLE06: „Die geistige Revolution noch nicht Zu Ende."
+Found
+MODSMD_ARTICLE07: Kommunistenüberfall auf Danziger SA.-Führer.
+Found
+MODSMD_ARTICLE08: Generalinsvektor Dr. Todt sprach in Wien.
+Found
+MODSMD_ARTICLE09: Empfang für die deutschen Zeitschriftenverleger in Rom.
+Found
+MODSMD_ARTICLE10: Blum unter dem Druck der Gewerkschaften.
+Found
+MODSMD_ARTICLE11: Überschwemmungen in Amerika: 12 Tote.
+Found
+MODSMD_ARTICLE12: Der Brand im Kloster Marienthal vor Gericht.
+Found

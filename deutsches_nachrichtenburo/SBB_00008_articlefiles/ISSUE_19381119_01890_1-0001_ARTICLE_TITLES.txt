@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Empsangsabeud zu Ehren Pirows.
+Found
+MODSMD_ARTICLE02: Frau Pirow im „Haus der Deutschen Frau".
+Found
+MODSMD_ARTICLE03: Die deutsch-polnischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE04: Italienische Journalisten besuchten das Presseamt der DAF.
+Found
+MODSMD_ARTICLE05: Neue Reichsanleihe.
+Found
+MODSMD_ARTICLE06: Trauer der Sudetendeutschen um Ernst vom Rath.
+Found
+MODSMD_ARTICLE07: Beendigung der Prager Autonomieverhandlnngen.
+Found
+MODSMD_ARTICLE09: Abordnung der Reichsstudentenführung besucht Warschau.
+Found
+MODSMD_ARTICLE10: Die Schweiz will kein europäisches Emigrantenasyl sein.
+Found
+MODSMD_ARTICLE11: Ungarn reinigt seine Zeitschristenpresse.
+Found
+MODSMD_ARTICLE12: Das Judenproblem in Ungarn.
+Found
+MODSMD_ARTICLE13: Australien will sich keine Juden aufhalsen lassen.
+Found
+MODSMD_ARTICLE14: Südafrika will schärfere Pressekontrolle.
+Found
+MODSMD_ARTICLE15: Thronrede König Faruks. .
+Found
+MODSMD_ARTICLE16: Auch Amerika will die Juden nicht.
+Found
+MODSMD_ARTICLE17: Die Kennzahl der Großhandelspreise vom 15. November, l
+Found

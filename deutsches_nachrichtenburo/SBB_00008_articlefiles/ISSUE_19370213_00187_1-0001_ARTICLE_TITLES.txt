@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Auszeichnungen für Errettung aus Lebensgefahr.
+Found
+MODSMD_ARTICLE02: 4 Reichsbahndirektoren zu Ministerialdirektoren ernannt.
+Found
+MODSMD_ARTICLE03: Der Volksrichter in der neuen Strafrechtspflege.
+Found
+MODSMD_ARTICLE04: Starke Beachtung der Goebbels-Rede auch in Holland.
+Found
+MODSMD_ARTICLE05: Eisenbahn-Blockade gegen Portugal.
+Found
+MODSMD_ARTICLE06: Gnadenerlaß in Italien zur Geburt des Thronerbe^
+Found
+MODSMD_ARTICLE07: Keine Spanien-Pässe mehr für holländische Arbeitslose.
+Found
+MODSMD_ARTICLE08: Schießerei zwischen Bolschewisten.
+Found
+MODSMD_ARTICLE09: Weitere nationale Erfolge an allen Fronten.
+Found
+MODSMD_ARTICLE10: Schwierigkeiten im amerikanischen Kriegsschiffbau.
+Found

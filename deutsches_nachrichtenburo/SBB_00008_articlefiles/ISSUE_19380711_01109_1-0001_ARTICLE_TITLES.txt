@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Japanische Jugendsührer in Hohen-Neuendorf.
+Found
+MODSMD_ARTICLE02: Schluß der Internationalen Handwerksausstellung.
+Found
+MODSMD_ARTICLE03: Die Deutsche Bergwacht vor neuen Aufgaben.
+Found
+MODSMD_ARTICLE04: Nationalsozialistisches Ausbautempo.
+Found
+MODSMD_ARTICLE05: Tschechischer Störsender gegen Wiener Rundfunk.
+Found
+MODSMD_ARTICLE06: Sollen die Nationalitäten vergewaltigt werden?
+Found
+MODSMD_ARTICLE07: Der „Sechserausschuß" tagt.
+Found
+MODSMD_ARTICLE08: Wo bleibt Bestätigung der sudetendeutschen Bürgermeister?
+Found
+MODSMD_ARTICLE09: Ein Staatspolizeiamt in der sudetendeutschen Stadt Niemes.
+Found
+MODSMD_ARTICLE10: Neue Massenverhaftungen in der Ukraine.
+Found
+MODSMD_ARTICLE11: Moskau verstärkt seine militärische Hilfe für China.
+Found
+MODSMD_ARTICLE12: Japaner setzen chinesische Jndustriewerke wieder in Gang.
+Found
+MODSMD_ARTICLE13: Übereinkommen zwischen Bolivien und Paraguay.
+Found
+MODSMD_ARTICLE14: Volksabstimmung über das neue Chaco-Abkommen.
+Found
+MODSMD_ARTICLE15: Deutschland siegte im Welt-Handball-Turnier.
+Found
+MODSMD_ARTICLE16: IV. Internationale Marine-Kokal-Segelwettfahrten.
+Found
+MODSMD_ARTICLE17: Deutscher Erfolg im Großen Preis von Belgien.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Nachmittags-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Begnadigung durch den Führer.
+Found
+MODSMD_ARTICLE03: Streik nach kommunistischem Muster in Polen.
+Found
+MODSMD_ARTICLE04: Prag verbietet deutsche Druck-Erzeugnisse.
+Found
+MODSMD_ARTICLE05: Zerstörung aller Kirchen in Sowjetrußland.
+Found
+MODSMD_ARTICLE06: Austenminister Spaak zur Rede König Leopolds.
+Found
+MODSMD_ARTICLE07: Die Liberale Partei Belgiens gegen die Rerbewequng.
+Found
+MODSMD_ARTICLE08: Staatssekretär Milch bei Mussolini.
+Found
+MODSMD_ARTICLE09: Lothringen wehrt sich.
+Found
+MODSMD_ARTICLE10: Die Fabrik Sautter-Harle geräumt.
+Found
+MODSMD_ARTICLE11: Große Kriegsbeute in Oviedo.
+Found
+MODSMD_ARTICLE12: Fünf rote Flugzeuge in Malaga vernichtet.
+Found
+MODSMD_ARTICLE13: Erzbischof von Liverpool zum Wühlen des Kommunismus.
+Found
+MODSMD_ARTICLE14: Mosleys Propagandafeldzug bringt Erfolge.
+Found
+MODSMD_ARTICLE15: Garvin: Vernichtender Fehlschlag der sowjetrussischen Politik.
+Found
+MODSMD_ARTICLE16: Studentenkundgebungen in Dorpat.
+Found
+MODSMD_ARTICLE17: Verschärfte Filmuberwachnng in Bulgarien.
+Found
+MODSMD_ARTICLE18: Die Folgen der jüdischen Provokation in Tel Aviv.
+Found
+MODSMD_ARTICLE19: Aegypten dementiert Abwertungsgerüchte.
+Found
+MODSMD_ARTICLE20: 399 neue Verhaftungen in Bombay.
+Found

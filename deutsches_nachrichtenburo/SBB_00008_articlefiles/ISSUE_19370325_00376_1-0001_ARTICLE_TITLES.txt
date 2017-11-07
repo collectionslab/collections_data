@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Schwedische Politiker in München.
+Found
+MODSMD_ARTICLE02: Presseecho zum New Jorker WHW-Abend.
+Found
+MODSMD_ARTICLE03: Prags Streben nach Verbindung mit Sowjetrußland.
+Found
+MODSMD_ARTICLE04: Ter österreichische Oberste Rechnungshof rügt.
+Found
+MODSMD_ARTICLE05: Die italienisch-jugoslawische Zusammenarbeit.
+Found
+MODSMD_ARTICLE06: Belgiens Recht Zu Generalstabsbesprechungen.
+Found
+MODSMD_ARTICLE07: Katholisches Ultimatum an Sap.
+Found
+MODSMD_ARTICLE08: König Leopold bei Georg VI.
+Found
+MODSMD_ARTICLE09: Die Unteragenten des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE10: Baldwm auf Osterurlaub.
+Found
+MODSMD_ARTICLE11: Unterhausanfrage über eine italienische Broschüre.
+Found
+MODSMD_ARTICLE12: Die englischen Gewerkschaften für Valencia-Bolschewisten.
+Found
+MODSMD_ARTICLE13: Besprechungen bei Außenminister Delbos.
+Found
+MODSMD_ARTICLE14: Illustrationen zu Blums Kammerrede.
+Found
+MODSMD_ARTICLE15: Nationaler Heeresbericht vom Mittwoch.
+Found
+MODSMD_ARTICLE16: Bolschewistische „Idylle" in Madrid.
+Found
+MODSMD_ARTICLE17: Bolschewistische Häfen bombardiert.
+Found
+MODSMD_ARTICLE18: Wieder ein Jude mit hohem Sowjetposten betraut.
+Found
+MODSMD_ARTICLE19: Abbruch des Kairoer Studentenstreiks.
+Found
+MODSMD_ARTICLE20: Roosevelt gegen Steuererhöhuug.
+Found
+MODSMD_ARTICLE21: Die Streikhetze in USA führt zu Schlägereien.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Ministerialrat Badberger.
+Found
+MODSMD_ARTICLE02: Eine Feierstunde des deutschen Kraftfahrsports.
+Found
+MODSMD_ARTICLE03: Parade der „Musketiere des Duce" vor Mussolini.
+Found
+MODSMD_ARTICLE04: Streit Md Zank unter den SowjetbonZen.
+Found
+MODSMD_ARTICLE05: Ein „Gerichtspräsident", der 17W „Todesurteile" aussprach.
+Found
+MODSMD_ARTICLE06: Nationalspanischer Ministerrat.
+Found
+MODSMD_ARTICLE07: Kabineitsrat in Paris.
+Found
+MODSMD_ARTICLE08: Berard wieder in Nationalspanien.
+Found
+MODSMD_ARTICLE09: Umwandlung Belgiens in einen Bundesstaat gefordert.
+Found
+MODSMD_ARTICLE10: Judenschwindler Jmitianow und seine „Mitarbeiter".
+Found
+MODSMD_ARTICLE11: Der Ausrottungsfeldzug gegen die Eiserne Garde.
+Found
+MODSMD_ARTICLE12: Prag entläßt jüdische Offiziere.
+Found
+MODSMD_ARTICLE13: Stanley und Hudson kommen nach Deutschland.
+Found
+MODSMD_ARTICLE14: Sowjetspaniens Vertreter machen Reisen.
+Found
+MODSMD_ARTICLE15: Zahlreiche Flugplätze in Borneo.
+Found
+MODSMD_ARTICLE16: Das syrische Kabinett Zurückgetreten.
+Found
+MODSMD_ARTICLE17: Die Erregung in Syrien.
+Found
+MODSMD_ARTICLE18: Jugendliche Araber werden ausgepeitscht!
+Found
+MODSMD_ARTICLE19: Frankreichs Flugzeugbestellungen in Amerika.
+Found
+MODSMD_ARTICLE20: Judentum gleich Demokratie.
+Found

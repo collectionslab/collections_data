@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Vom Führer begnadigt.
+Found
+MODSMD_ARTICLE02: Der Preußische Staatshaushalt 1937 verabschiedet.
+Found
+MODSMD_ARTICLE03: Beförderung des Berliner Polizeivizepräsidenten.
+Found
+MODSMD_ARTICLE04: Reichsrundfunkintendant Dr. Glasmeier.
+Found
+MODSMD_ARTICLE05: Ministerialrat Dreßler-Andres.
+Found
+MODSMD_ARTICLE06: Intendant Hans Kriegler.
+Found
+MODSMD_ARTICLE07: Neue Gerichtsgliederung in Groß-Hamburg.
+Found
+MODSMD_ARTICLE08: Traurige Begleitmusik der „Polska Zachodnia".
+Found
+MODSMD_ARTICLE09: Der Nichteinmischungsausschuß tagt erst am Montag.
+Found
+MODSMD_ARTICLE10: Die englischen Truppen bleiben in Indien.
+Found
+MODSMD_ARTICLE11: Nun auch Streik bei den Pariser Filmgesellschaften.
+Found
+MODSMD_ARTICLE12: Eine Jouhaux-Versammlnng verboten.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Keine Festbeflaggung zum Neichsgründungstag.
+Found
+MODSMD_ARTICLE02: Zahlen beweisen das Abgleiten des englischen Handels.
+Found
+MODSMD_ARTICLE04: City-Plutokraten benutzen die Gelegenheit.
+Found
+MODSMD_ARTICLE05: Anhaltender Tonnagemangel in England.
+Found
+MODSMD_ARTICLE06: Die Umtriebe der Habsburger in London und Paris.
+Found
+MODSMD_ARTICLE07: „Ceske Slovo" über den Sinn des Krieges.
+Found
+MODSMD_ARTICLE08: Abschluß eines spanisch-bulgarischen Handelsvertrages.
+Found
+MODSMD_ARTICLE09: Teleki über die Besprechungen in Venedig.
+Found
+MODSMD_ARTICLE10: Die englische Freundschaft ist teuer.
+Found
+MODSMD_ARTICLE11: Die Unruhen in Burhanpur dauern an.
+Found
+MODSMD_ARTICLE12: Die antibritische Bewegung in China schreitet fort.
+Found
+MODSMD_ARTICLE13: Landwirtschaftliche Kredite Amerikas für Finnland?
+Found

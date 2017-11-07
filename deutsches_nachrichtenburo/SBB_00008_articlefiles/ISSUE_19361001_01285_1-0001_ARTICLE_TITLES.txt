@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE02: General Sixt von Armin f.
+Found
+MODSMD_ARTICLE03: Die Aenderung der Reichsstraßenverkehrsordnung.
+Found
+MODSMD_ARTICLE04: Mitglieder des Autorenkongresses in Dresden.
+Found
+MODSMD_ARTICLE05: Am Montag italienischer Ministerrat.
+Found
+MODSMD_ARTICLE06: Stapellauf eines polnischen Kreuzers in England.
+Found
+MODSMD_ARTICLE07: Gesetz gegen Angriffe auf die Eidgenossenschaft.
+Found
+MODSMD_ARTICLE08: 5000 Totenscheine auf einen spanischen Arzt.
+Found
+MODSMD_ARTICLE09: lieber 100 Tote bei der Versenkung des roten Torpedoboots.
+Found
+MODSMD_ARTICLE10: Caballero kündigt die spanische Sowjetrepublik an.
+Found
+MODSMD_ARTICLE11: Die Kammer billigt das abgeänderte Währungsgesetz.
+Found
+MODSMD_ARTICLE12: Eine Besprechung Baldwins mit Neville Chamberlain.
+Found
+MODSMD_ARTICLE13: Neue militärische Maßnahmen Japans in Schanghai.
+Found
+MODSMD_ARTICLE14: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE02: Der Frontkämpferkongreß an die Staatsoberhäupter.
+Found
+MODSMD_ARTICLE03: Frontkämpferversorgung wird verbessert.
+Found
+MODSMD_ARTICLE04: Heldengedenken der deutschen Jugend.
+Found
+MODSMD_ARTICLE05: Keine Arbeitsbuchkontrolle durch die Polizei.
+Found
+MODSMD_ARTICLE06: Mugficherungsschiff „Hans Ralshoven" vom Stapel gelaufen.
+Found
+MODSMD_ARTICLE07: Der Krönungseid Georgs VI.
+Found
+MODSMD_ARTICLE08: Aegypten soll die Aufnahme in den Völkerbund beantragen.
+Found
+MODSMD_ARTICLE09: Neue Zusammenstöße in Palästina.
+Found
+MODSMD_ARTICLE10: Lindbergh nach Australien unterwegs.
+Found
+MODSMD_ARTICLE11: 199 Millionen NM für die kanadische Aufrüstung.
+Found
+MODSMD_ARTICLE12: Eine Präger Verlautbarung zur Minderheitenbehandlung.
+Found
+MODSMD_ARTICLE13: Portugal Zu den Londoner Ueberwachungsplänen.
+Found
+MODSMD_ARTICLE14: Bolschewistenwerber in Frankreich nutzen letzte Stunden.
+Found
+MODSMD_ARTICLE15: Einberufung einer chinesischen Nationalversammlung.
+Found

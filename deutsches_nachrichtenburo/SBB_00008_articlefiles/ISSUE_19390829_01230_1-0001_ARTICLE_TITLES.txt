@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Tie Arbeitstagung des Rechtsamtes der AO.
+Found
+MODSMD_ARTICLE02: Plumpe Stimmungsmache des Straßburger Senders.
+Found
+MODSMD_ARTICLE03: Ausruf der slowakischen Regierung.
+Found
+MODSMD_ARTICLE04: Ein typischer Vertragsbruch Polens.
+Found
+MODSMD_ARTICLE05: Polnisches Bataillon verweigert Dienstleistung.
+Found
+MODSMD_ARTICLE06: Fünf Volksdeutsche Flüchtlinge niedergeknallt.
+Found
+MODSMD_ARTICLE07: Ein Ukrainer zu Tode gefoltert.
+Found
+MODSMD_ARTICLE08: Lügenmeldung der Pat.
+Found
+MODSMD_ARTICLE09: Irland betont seine Neutralität
+Found
+MODSMD_ARTICLE10: Irischer Hilferuf gegen die britische Tyrannei.
+Found
+MODSMD_ARTICLE11: Löschung der englischen Schiffslichter und Leuchtbojen.
+Found
+MODSMD_ARTICLE12: Erhöhung der Kriegsrisikoprämien in London.
+Found
+MODSMD_ARTICLE13: Die Botschafter Deutschlands und Italiens bei Beigbeder.
+Found
+MODSMD_ARTICLE14: Madrid: „Bewußt für Ungerechtigkeit!"
+Found
+MODSMD_ARTICLE15: Norwegen verstärkt die Neutralitäts-Schutzmaßnahmen.
+Found
+MODSMD_ARTICLE16: Japan: „England irrt sich gewaltig".
+Found
+MODSMD_ARTICLE17: Nobujuki Abe mit japanischer Kabinettsbildung beauftragt.
+Found

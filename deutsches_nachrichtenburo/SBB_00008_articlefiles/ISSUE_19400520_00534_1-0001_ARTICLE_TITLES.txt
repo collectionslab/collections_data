@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der englische Kreuzer vor Bodoe nunmehr gekentert.
+Found
+MODSMD_ARTICLE02: Bei Nacht und Nebel fort aus der Maginot-Linie.
+Found
+MODSMD_ARTICLE03: Die Engländer sind stolz auf ihre Rückzüge.
+Found
+MODSMD_ARTICLE04: „England kämpft, wenn die Stunde kommt."
+Found
+MODSMD_ARTICLE05: „Rom muß und wird sein Wort mitzureden haben."
+Found
+MODSMD_ARTICLE06: „Stellvertretung" durch Kranke in England.
+Found
+MODSMD_ARTICLE07: Popolo d'Jtalia: „Verspätete Erkenntnisse."
+Found
+MODSMD_ARTICLE08: Englischer Kommandant auf französischem Zerstörer.
+Found
+MODSMD_ARTICLE09: Franzosen geben die deutschen Erfolge zu.
+Found

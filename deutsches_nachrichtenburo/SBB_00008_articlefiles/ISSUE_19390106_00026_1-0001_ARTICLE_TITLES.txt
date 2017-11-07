@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Berufung in das Präsidium der Reichs-Rechtsanwaltskammer
+Found
+MODSMD_ARTICLE02: Kein deutscher Rechtswahrer vertritt Juden.
+Found
+MODSMD_ARTICLE03: Ein ungarische—tschecho-slowakischer Zwischenfall.
+Found
+MODSMD_ARTICLE05: Budapest meldet neue Beschießung von Munkacs.
+Found
+MODSMD_ARTICLE06: Ungarischer Protest in Prag.
+Found
+MODSMD_ARTICLE07: Prag: „Keine Mobilmachung und Truppenverschiebungen."
+Found
+MODSMD_ARTICLE08: „Französisch-jüdische Provokationen."
+Found
+MODSMD_ARTICLE09: „Korsika italienischer Boden."
+Found
+MODSMD_ARTICLE10: Tie „Condor"-Besatzung in Genua.
+Found
+MODSMD_ARTICLE11: Nückfluten der Roten in Richtung Barcelona.
+Found
+MODSMD_ARTICLE12: Französischer Flottenbesuch in Gibraltar.
+Found
+MODSMD_ARTICLE13: Schüsse in Britisch-Jndien.
+Found
+MODSMD_ARTICLE14: Ein Sittlichkeitsverbrecher hingerichtet.
+Found

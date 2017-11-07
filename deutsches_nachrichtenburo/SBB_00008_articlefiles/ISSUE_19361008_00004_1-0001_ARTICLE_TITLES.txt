@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Spendenliste Nr. 2 vom 8. Okiober 193 k.
+Found
+MODSMD_ARTICLE02: Spendenliste Nr. 3 vom 19. Oktober 1936.
+Found
+MODSMD_ARTICLE03: Spendenliste Nr. 4 vom 13. Oktober 1936.
+Found

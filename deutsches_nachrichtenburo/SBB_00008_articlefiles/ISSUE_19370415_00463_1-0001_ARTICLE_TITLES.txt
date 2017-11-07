@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Eröffnung der Flugstrecke Münster—Berlin.
+Not Found
+MODSMD_ARTICLE02: Internationale Bevölkerungs- und Rohstoff-Probleme.
+Found
+MODSMD_ARTICLE03: Wohltätigkeitskonzert in Deutscher Gesandtschaft.
+Found
+MODSMD_ARTICLE04: – Hungerstreik auf ostoberschlesischer Grube.
+Not Found
+MODSMD_ARTICLE05: „Die kräftigste Ohrfeige für die Regierung Blum".
+Found
+MODSMD_ARTICLE06: Peinliche Fragen an Frankreichs Finanzminister.
+Found
+MODSMD_ARTICLE07: Neue Forderungen und Drohungen der Pariser Arbeiter.
+Found
+MODSMD_ARTICLE08: Bedenkliche Entwicklung in Frankreich.
+Found
+MODSMD_ARTICLE09: Valdwin vom englischen König empfangen.
+Found
+MODSMD_ARTICLE10: Zuschriften an die Times über Völkerbundsreform.
+Found
+MODSMD_ARTICLE11: Schottische Bergarbeiter müssen am Krönungstag arbeiten.
+Found
+MODSMD_ARTICLE12: Koutrollplan in England zuversichtlich beurteilt.
+Found
+MODSMD_ARTICLE13: Wieder vergebliche Angriffe der Bolschewisten.
+Found
+MODSMD_ARTICLE14: Die lettisch-finnischen Außenministerbesprechungen.
+Found
+MODSMD_ARTICLE15: Kommunistenkrawalle an der Agramer Universität.
+Found
+MODSMD_ARTICLE16: Polizeioffizier und Polizist in Haifa erschossen.
+Found
+MODSMD_ARTICLE17: Neuer Neberfall auf englische Posten in Wasiristan.
+Found
+MODSMD_ARTICLE18: Repräsentantenhaus gegen Lynchjustiz.
+Found
+MODSMD_ARTICLE19: Statistik zur Reichstagswahl vom Jahre 1936.
+Found

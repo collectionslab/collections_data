@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Empfang in der Reichsbank zu Ehren der chinesischen Gäste.
+Found
+MODSMD_ARTICLE02: Dr. Ley auf Burg Vogelsang.
+Found
+MODSMD_ARTICLE04: Ehrung eines deutschen Gelehrten in Ungarn.
+Found
+MODSMD_ARTICLE05: Zur Reichstagung „Kraft durch Freude" eingetroffen.
+Found
+MODSMD_ARTICLE06: Wieder ein hemmungsloser Priester verurteilt.
+Found
+MODSMD_ARTICLE07: Eine Erklärung Neuraths an die Avala.
+Found
+MODSMD_ARTICLE08: Empfang in Sofia zu Ehren des Reichsaußenministers.
+Found
+MODSMD_ARTICLE09: Empfang für den Reichskriegsminister in Taormina.
+Found
+MODSMD_ARTICLE10: Besuch deutscher Polizeioffiziere in Warschau.
+Found
+MODSMD_ARTICLE11: Der Arierparagraph in Polen.
+Found
+MODSMD_ARTICLE12: Der Austragungsort der V. Olympischen Winterspiele.
+Found
+MODSMD_ARTICLE13: Abschluß des polnischen Besuches in Bukarest.
+Found
+MODSMD_ARTICLE14: Außenminister Sandler beim lettischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE15: Ueber 399 Anarchisten-Häuptlinge in Madrid erschossen?
+Found
+MODSMD_ARTICLE16: Der Waffenschmuggel für Sowjetspanien aus Frankreich.
+Found
+MODSMD_ARTICLE17: Japanische Warnung an Nanking.
+Found

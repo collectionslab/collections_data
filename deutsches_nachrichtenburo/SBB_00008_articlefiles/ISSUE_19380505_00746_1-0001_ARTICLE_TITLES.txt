@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Abendtafel im Qnirinal.
+Found
+MODSMD_ARTICLE02: Der Führer nach Neapel abgereist.
+Found
+MODSMD_ARTICLE03: Neapel in Erwartung des Führers.
+Found
+MODSMD_ARTICLE04: Deutsch-dänische Handelsbesprechungen.
+Found
+MODSMD_ARTICLE05: Feierliche Einholung der Polizei-Standarte.
+Found
+MODSMD_ARTICLE06: Tagung des Berwaltungsrats der Reichsautobahnen.
+Found
+MODSMD_ARTICLE07: Carl von Ossietzky einer Gehirnhautentzündung erlegen.
+Found
+MODSMD_ARTICLE08: Tschechische Sanktionen gegen Sudetendeutsche.
+Found
+MODSMD_ARTICLE09: Sudetendeutsche Abgeordnete bei Hodscha.
+Found
+MODSMD_ARTICLE10: Prag soll endlich guten Willen zeigen.
+Found
+MODSMD_ARTICLE11: Deutschenhasser und Jugendverderber verhaftet.
+Found
+MODSMD_ARTICLE12: Finnische Gesandtschaft in Wien eingezogen.
+Found
+MODSMD_ARTICLE13: Ein Verpflegungsinspektor in Polen.
+Found

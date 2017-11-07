@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Reichsaußenminister bei Botschafter Attolico.
+Found
+MODSMD_ARTICLE02: Die Störungen des Wirtschaftslebens in England.
+Found
+MODSMD_ARTICLE03: Die Türkei in der Schuldknechtschaft der Westmächte.
+Found
+MODSMD_ARTICLE04: Das Mgiische Gaukelspiel in Finnland.
+Found
+MODSMD_ARTICLE05: Speck und Schmalz unter Regierungskontrolle.
+Found
+MODSMD_ARTICLE06: Weitere Schisfsverluste an den englischen Küsten.
+Found
+MODSMD_ARTICLE07: Die Schwierigkeiten der Kriegstreiber wachsen.
+Found
+MODSMD_ARTICLE08: Anfklärungsflüge über der schottischen Küste.
+Found
+MODSMD_ARTICLE09: Neues Lamento der britischen Gewerkschaften. E
+Found
+MODSMD_ARTICLE10: „Auf die Hetze der Westmächte hereingefallen."
+Found
+MODSMD_ARTICLE11: Japanische Offensive in Honan und Hupei.
+Found
+MODSMD_ARTICLE12: Tie englische Antwort befriedigt Washington nicht.
+Found

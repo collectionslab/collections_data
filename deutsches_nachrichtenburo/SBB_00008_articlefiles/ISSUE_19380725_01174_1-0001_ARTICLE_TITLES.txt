@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an Dr. Stojadinowitsch.
+Found
+MODSMD_ARTICLE02: Der Führer bei Gauleiter Wächtler.
+Found
+MODSMD_ARTICLE03: Eröffnung der Salzburger Festspiele.
+Found
+MODSMD_ARTICLE04: Der britische Gesandte bei Hodscha.
+Found
+MODSMD_ARTICLE05: Das Prager Ermächtigungsgesetz Zurückgestellt.
+Found
+MODSMD_ARTICLE06: Ein Pole Zum Bürgermeister gewählt.
+Found
+MODSMD_ARTICLE07: Ta-riot über seine Reife durch Nationalspanien.
+Found
+MODSMD_ARTICLE08: Ein Spanienbesuch Hemmings?
+Found
+MODSMD_ARTICLE09: Geländegewinne an allen Fronten.
+Found
+MODSMD_ARTICLE10: Zwangsaufenthalt für Frauen in Rumänien.
+Found
+MODSMD_ARTICLE11: Noch keine Freigabe der finnischen Vermessungsschiffe.
+Found
+MODSMD_ARTICLE12: Der Kolonialbesuch des portugiesischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE13: Die GrenzaktiviKt der Sowjets. //
+Found
+MODSMD_ARTICLE14: Die japanischen Parlamentäre noch nicht zurückgekehrt.
+Found
+MODSMD_ARTICLE15: Die amerikanischen Interessen in Mexiko.
+Found
+MODSMD_ARTICLE16: Bargas über das Programm seiner Regierung.
+Found
+MODSMD_ARTICLE17: Triumph der deutschen Wagen auf dem Nürburgring.
+Found
+MODSMD_ARTICLE18: Deutscher Tennissieg über Frankreich.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Erschütternde Beispiele polnischer Brutalität.
+Found
+MODSMD_ARTICLE02: Empfang der Carl Schurz-Vereinigung.
+Found
+MODSMD_ARTICLE03: Chauvinistischer Hast gefährdet Polens Industrie.
+Found
+MODSMD_ARTICLE04: Weiter betretenes Schweigen in Polen.
+Found
+MODSMD_ARTICLE05: Madrid bringt die Forster-Rede ausführlich.
+Found
+MODSMD_ARTICLE06: Die Madrider Presse begrüßt die neue Regierung.
+Found
+MODSMD_ARTICLE07: England sucht die Forster-Rede zu bagatellisieren.
+Found
+MODSMD_ARTICLE08: Botschafter Coulondre bei Außenminister Bonnet.
+Found
+MODSMD_ARTICLE09: Die englisch-französische Militärmission in Moskau.
+Found
+MODSMD_ARTICLE10: König Karl wieder in Istanbul.
+Found
+MODSMD_ARTICLE11: Die Vereinigten Staaten verlängern den Ostasienkrieg.
+Found

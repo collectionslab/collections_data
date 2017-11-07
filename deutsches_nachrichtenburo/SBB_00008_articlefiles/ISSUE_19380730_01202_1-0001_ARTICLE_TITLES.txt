@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Jenny Kamnrersgaard.
+Found
+MODSMD_ARTICLE02: „Walküre" ini Anwesenheit des Führers.
+Found
+MODSMD_ARTICLE03: Berliner Kongreßteilnehmer bei der Reichsfrauenführerin.
+Found
+MODSMD_ARTICLE04: Kongreß für berusliches Fortbildungswefen beendet.
+Found
+MODSMD_ARTICLE05: Himmler vor den Führern des Auslandsdeutschtums.
+Found
+MODSMD_ARTICLE06: Die sudetendeutschen Vorschläge sind nur Mindestmaß.
+Found
+MODSMD_ARTICLE07: Warschau hält die Prager Verhandlungen nicht für ehrlich.
+Found
+MODSMD_ARTICLE08: Berliner Auszeichnung für polnische Handwerker.
+Found
+MODSMD_ARTICLE09: Nur Juden sind eifrige Agenten der Komintern.
+Found
+MODSMD_ARTICLE10: Die innen- und außenpolitische Lage Belgiens.
+Found
+MODSMD_ARTICLE11: Breslau in Erwartung des Movers.
+Found
+MODSMD_ARTICLE12: Scharfe Bestrafung für die Kreta-Aufständischen.
+Found
+MODSMD_ARTICLE13: Die griechische Presse Zu der Revolte auf Kreta.
+Found
+MODSMD_ARTICLE14: Amerikas Botschafter in China übersiedelt nach Tschungking.
+Found

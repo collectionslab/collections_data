@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Oberst Lindbergh verläßt Berlin.
+Found
+MODSMD_ARTICLE02: Lindbergh in Kopenhagen.
+Found
+MODSMD_ARTICLE03: Studenten Italiens bei deutscher Jugend zu Gast.
+Found
+MODSMD_ARTICLE04: Delbos über die französische Außenpolitik.
+Found
+MODSMD_ARTICLE05: Der Zeitpunkt der Fünfmächte-Konferenz.
+Found
+MODSMD_ARTICLE06: Flugzeugtrümmer bei den Kanal-Inseln.
+Found
+MODSMD_ARTICLE07: Spanisches Regiernngsflugzeug in Gibraltar beschlagnahmt.
+Found
+MODSMD_ARTICLE08: Flugzeuge der Militärgruppe gegen Kriegsschiffe.
+Found
+MODSMD_ARTICLE09: Verlautbarungen der Madrider Regierung.
+Found
+MODSMD_ARTICLE10: General Queipo de Llano über die Lage.
+Found
+MODSMD_ARTICLE11: Der Aufbau der marxistischen Milizen in Spanien.
+Found
+MODSMD_ARTICLE12: Vormarsch der Nationalisten auf San Sebastian.
+Found
+MODSMD_ARTICLE13: Die englische Botschaft übersiedelt nach Biarritz.
+Found
+MODSMD_ARTICLE14: Rücktritt spanischer Botschaftssekretäre.
+Found
+MODSMD_ARTICLE15: Generalversammlung der Landwirtschaftskommission.
+Found
+MODSMD_ARTICLE16: Verkehrsregelung auf der Dschibuti-Bahn.
+Found
+MODSMD_ARTICLE17: Der Mufti von Algier ermordet.
+Found
+MODSMD_ARTICLE18: Paraphierung der Klauseln über den Sudan.
+Found
+MODSMD_ARTICLE19: Londoner Blätter über die Verhandlungen mit Aegypten.
+Found

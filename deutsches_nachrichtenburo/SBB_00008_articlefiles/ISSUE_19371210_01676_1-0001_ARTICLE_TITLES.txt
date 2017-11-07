@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Rosenberg in der sudetendeutschen Kunstausstellung. »
+Found
+MODSMD_ARTICLE02: Der Polnische Stellvertretende Handelsminister in Danzig.
+Found
+MODSMD_ARTICLE03: Pflege „echt österreichischer Geschichtsauffassung".
+Found
+MODSMD_ARTICLE04: Zur Einberufung des Großen Faschistischen Rates.
+Found
+MODSMD_ARTICLE05: Die Tagung des Londoner Unterausschusses«
+Found
+MODSMD_ARTICLE06: Chamberlain über das Abkommen von Ottawa.
+Found
+MODSMD_ARTICLE07: Der Zweite Tag des Delbos-Besuches in Bukarest.
+Found
+MODSMD_ARTICLE08: Der Bluff von den „Geheimbünden".
+Found
+MODSMD_ARTICLE09: Kammerkritik an der französischen Handelsmarine
+Found
+MODSMD_ARTICLE10: Volksgemeinschaft im nationalen
+Found
+MODSMD_ARTICLE11: Die Aufbauarbeiten in Nationalspanien.
+Found
+MODSMD_ARTICLE12: Queipo de Llano legt Grundstein zu Arbeitersiedlung.
+Found
+MODSMD_ARTICLE13: Flüchtlinge aus Valencia in Gibraltar eingetroffen.
+Found
+MODSMD_ARTICLE14: Das polnische Volk wehrt sich gegen die Verjudung.
+Found
+MODSMD_ARTICLE15: Immer wieder jüdische Provokationen.
+Found
+MODSMD_ARTICLE16: Litauischer Wohlfahrtsverein in Wilna aufgelöst.
+Found
+MODSMD_ARTICLE17: Baldur von Schirach beim türkischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE18: Tokio erkennt Tschiangkaischek nicht mehr an.
+Found
+MODSMD_ARTICLE19: Japanische Generaloffensive eröffnet.
+Found

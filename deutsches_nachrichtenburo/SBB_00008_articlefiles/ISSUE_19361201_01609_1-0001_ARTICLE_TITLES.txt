@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Adamczyk kommissarischer Regierungspräsident in Oppeln.
+Found
+MODSMD_ARTICLE02: M Millionen RM für Fortführung der Kleinsiedlung.
+Found
+MODSMD_ARTICLE03: Neichszuschüsse für die Kleinrentnerfürsorge.
+Found
+MODSMD_ARTICLE04: Organ der Jungdeutschen Partei in Polen beschlagnahmt.
+Found
+MODSMD_ARTICLE05: Begeisterter Empfang Horthys in Budapest.
+Found
+MODSMD_ARTICLE06: Das französisch-amerikanische Tchuldenproblem.
+Found
+MODSMD_ARTICLE07: Veränderungen im französischen Generalstab.
+Found
+MODSMD_ARTICLE08: „Kein Sturz Blums ohne Bruch der Volksfront/'
+Found
+MODSMD_ARTICLE09: Zusammenschluß französischer Völkerbundsvereinigungen.
+Found
+MODSMD_ARTICLE10: Englisch-jugoslawisches Handelsabkommen unterzeichnet.
+Found
+MODSMD_ARTICLE11: Großer Bestechungsprozeß in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE12: Sitzung des Völkerbundsrats am 19. Dezember.
+Found
+MODSMD_ARTICLE13: Die Wühlarbeit der „Roten Hilfe" in der Schweiz.
+Found
+MODSMD_ARTICLE14: Holländischer Ingenieur in Moskau verhaftet.
+Found
+MODSMD_ARTICLE15: Spanischer Heeresbericht.
+Found
+MODSMD_ARTICLE16: Aufruf des Oberst Aague an die spanische Falange.
+Found
+MODSMD_ARTICLE17: Nationale Erfolge an der Biscaya-Front.
+Found

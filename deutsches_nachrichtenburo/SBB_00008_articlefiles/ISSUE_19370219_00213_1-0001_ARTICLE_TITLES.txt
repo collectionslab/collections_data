@@ -1,0 +1,50 @@
+MODSMD_ARTICLE01: Dr. Ley mit seinen italienischen Gästen in Berlin.
+Found
+MODSMD_ARTICLE02: Rüstungsanleihe vom Unterhaus gebilligt.
+Found
+MODSMD_ARTICLE03: Nach deutschem Muster.
+Found
+MODSMD_ARTICLE04: Studentendemonstration im Unterhaus für Sowjet-Spanien.
+Found
+MODSMD_ARTICLE05: Die Nachmittagssitzung des Londoner Unterausschusses.
+Found
+MODSMD_ARTICLE06: Wehrgesepnovelle in Prag angenommen.
+Found
+MODSMD_ARTICLE07: Zur Ansprache Blums an die Weltausstellungsarbeiter.
+Found
+MODSMD_ARTICLE08: Die Streikflut in Frankreich steigt wieder.
+Found
+MODSMD_ARTICLE09: Weltausstellungsarbeiter für Regierungsvorschlag.
+Found
+MODSMD_ARTICLE10: Französische Flugzeugfabriken enteignet.
+Found
+MODSMD_ARTICLE11: Die Peugeot-Werke von Streikenden besetzt.
+Found
+MODSMD_ARTICLE12: Tie „Goldklausel" von der Kammer angenommen.
+Found
+MODSMD_ARTICLE13: Frankreichs Gesetz gegen Preissteigerungen.
+Found
+MODSMD_ARTICLE14: Kommunistischer Dieb darf in Paris Abgeordneter bleiben.
+Found
+MODSMD_ARTICLE15: Nationale Flugzeuge unterbrechen Bahnverbindung.
+Found
+MODSMD_ARTICLE16: Flugblätter über Almeria mit dem Ersuchen, sich zu ergeben.
+Found
+MODSMD_ARTICLE17: Sechs bolschewistische Jagdflugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE18: Bolschewistenflugzeug griff englische Torpedoboote an.
+Found
+MODSMD_ARTICLE20: Eine weitere österreichische Privatbahn in Schwierigkeiten.
+Found
+MODSMD_ARTICLE21: Schwedisches Freiwilligenverbot.
+Found
+MODSMD_ARTICLE22: Die Athener Konferenz der Balkan-Entente.
+Found
+MODSMD_ARTICLE23: Türkei drängt auf Inkraftsetzung des Sandschakabkommens.
+Found
+MODSMD_ARTICLE24: Rumänischer Staatsbesuch in der Türkei erst im März.
+Found
+MODSMD_ARTICLE25: Lindbergh in Buschir.
+Found
+MODSMD_ARTICLE26: Neuer blutiger Ueberfall auf britische Truppen in Indien.
+Found

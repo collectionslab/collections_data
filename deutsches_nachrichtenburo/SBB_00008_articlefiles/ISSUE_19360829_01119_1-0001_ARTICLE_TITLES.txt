@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Dr. Goebbels auf der Rundfunkausstellung.
+Found
+MODSMD_ARTICLE02: Abschiedsseier für ibero-amerikanische ?lerzte.
+Found
+MODSMD_ARTICLE03: Ju 86 „Bückeberg" aus Bathurst zurück.
+Found
+MODSMD_ARTICLE04: Das neue österreichische Jugendgesetz.
+Found
+MODSMD_ARTICLE05: Ozerski nach Moskau zurückberufen.
+Found
+MODSMD_ARTICLE06: Die englische Presse zur Abberufung Ozerskis.
+Found
+MODSMD_ARTICLE07: Ein Havas-Dementi.
+Found
+MODSMD_ARTICLE08: „Eine Regierung ohne Autorität."
+Found
+MODSMD_ARTICLE09: Sowjetschiff für Malaga?
+Found
+MODSMD_ARTICLE10: Französische Sympathieerklärungen in Barcelona.
+Found
+MODSMD_ARTICLE11: Uebergriffe an der französisch-spanischen Grenze.
+Found
+MODSMD_ARTICLE12: Die Schlacht um Iruu.
+Found
+MODSMD_ARTICLE13: Spanisches Schiff geht ohne Kapitän in See.
+Found
+MODSMD_ARTICLE14: Oropesa von den Nationalisten erobert.
+Found
+MODSMD_ARTICLE15: Erfolgreiche Bombenwürfe nationalistischer Flieger.
+Found
+MODSMD_ARTICLE16: Italienisches Waffenausfuhrverbot für Spanien.
+Found
+MODSMD_ARTICLE17: Die Mittelmeerreise Sir Samuel Hoares.
+Found

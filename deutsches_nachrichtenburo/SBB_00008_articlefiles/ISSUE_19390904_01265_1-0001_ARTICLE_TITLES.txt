@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Matznahmen zur Sicherung der deutschen Verteidigungskraft.
+Found
+MODSMD_ARTICLE02: „Bevollmächtigte für den Nahverkehr" eingesetzt.
+Found
+MODSMD_ARTICLE03: Gewaltiger Andrang von Freiwilligen für die Wehrmacht.
+Found
+MODSMD_ARTICLE04: Erleichterung des Verkehrs mit kleineren Zahlungsmitteln.
+Found
+MODSMD_ARTICLE05: „Daily Telegraph" enthüllt die englische Kriegsschuld.
+Found
+MODSMD_ARTICLE06: Neuer polnischer Rechtsbruch.
+Found
+MODSMD_ARTICLE07: Auch Norwegen bleibt neutral.
+Found
+MODSMD_ARTICLE08: PMischer Rückzug artet durch Tiefangriff in Flucht aus.
+Found
+MODSMD_ARTICLE09: Uebernahme der Danziger Bahnen.
+Found
+MODSMD_ARTICLE10: Dänemark legt Minensperre.
+Found
+MODSMD_ARTICLE11: König Leopold übernahm den Oberbefehl über die Armee.
+Found
+MODSMD_ARTICLE12: Jüdische Kriegshetzer in Brüssel verprügelt.
+Found
+MODSMD_ARTICLE13: Staatssekretär im jugoslawischen Landwirtschaftsministerium
+Found
+MODSMD_ARTICLE14: Polnische Lügenmeldungen in der „Politika".
+Found
+MODSMD_ARTICLE15: Inda freut sich: Die Kriegssaat geht auf.
+Found
+MODSMD_ARTICLE16: Beschleunigte Heimbeförderung von Aüslandsamerikanern.
+Found

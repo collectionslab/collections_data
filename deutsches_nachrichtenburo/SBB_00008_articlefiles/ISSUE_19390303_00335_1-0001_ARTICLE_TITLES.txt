@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Konzertabend beim Führer.
+Found
+MODSMD_ARTICLE02: Der Fürst von Liechtenstein bei Reichsminister Dr. Frick.
+Found
+MODSMD_ARTICLE03: Dr. Ley und Dr. Syrup Zur Fachbuchwerbung 1939.
+Found
+MODSMD_ARTICLE04: Die deutsch-ungarischen Wirtschaftsbeziehungen.
+Found
+MODSMD_ARTICLE05: Deutsche Apothekerabordnung im Pariser Rathaus.
+Found
+MODSMD_ARTICLE06: Bonnet hatte Spanien-Besprechungen.
+Found
+MODSMD_ARTICLE07: Französische Kommunisten nehmen wieder den Mund voll.
+Found
+MODSMD_ARTICLE08: Palästina-Juden bei Chamberlain.
+Found
+MODSMD_ARTICLE09: England plant Aenderung der Indien-Akte.
+Found
+MODSMD_ARTICLE10: Zwischenfall im Londoner Unterhaus.
+Found
+MODSMD_ARTICLE11: Ein Opfer des politischen Katholizismus.
+Found
+MODSMD_ARTICLE12: 12W Millionen Zloty für die polnische Rüstung.
+Found
+MODSMD_ARTICLE13: Der Gouverneur von Athen besucht die Leipziger Messe.
+Found
+MODSMD_ARTICLE14: Nach wie vor gespannte Lage in Rangun.
+Found
+MODSMD_ARTICLE15: Widerliche Heuchelei der amerikanischen Juden.
+Found

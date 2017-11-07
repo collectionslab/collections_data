@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Goebbels aus Venedig Zurückgekehrt.
+Found
+MODSMD_ARTICLE02: Heimkehr ins Vaterland.
+Found
+MODSMD_ARTICLE03: Graf Baillet-Latour in Garmisch-Partenkirchen.
+Found
+MODSMD_ARTICLE04: Verhaftung Volksdeutscher in verschärftem Tempo.
+Found
+MODSMD_ARTICLE05: Polnische Zollinspektoren als Aufwiegler entlarvt.
+Found
+MODSMD_ARTICLE06: Hlinka bewunderte Hitler und Mussolini.
+Found
+MODSMD_ARTICLE07: Der estländische Außenminister in Lettland.
+Found
+MODSMD_ARTICLE08: Der argentinische Rechtsanspruch auf die Falklandinseln.
+Found
+MODSMD_ARTICLE09: Keine Wiederaufnahme der Beziehungen zu Sowjetrußland.
+Found
+MODSMD_ARTICLE10: Churchill in der Maginot-Linie.
+Found
+MODSMD_ARTICLE11: Puaux in Frankreich eingetroffen.
+Found
+MODSMD_ARTICLE12: Warum die Eile?
+Found
+MODSMD_ARTICLE13: Die Moskauer Generalstabsbesprechungen.
+Found
+MODSMD_ARTICLE14: Bombenexplosionen in Southport und Fleetwood.
+Found
+MODSMD_ARTICLE15: Der italienische Kronprinz in Tripolis.
+Found
+MODSMD_ARTICLE16: Truppenparade vor Präsident Carmona in Pretoria.
+Found
+MODSMD_ARTICLE17: Juden sprengen Araberhäuser.
+Found
+MODSMD_ARTICLE18: Ein Zwischenfall vor dem britischen Konsulat in Swatau.
+Found

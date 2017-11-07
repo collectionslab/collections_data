@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Führer empfing Minister Cetinkaya.
+Found
+MODSMD_ARTICLE02: Beileidstelegramm des Führers an Frau von Rosenberg.
+Found
+MODSMD_ARTICLE03: Der Todestag des Geueralfeldmarschalls von Hindenburg.
+Found
+MODSMD_ARTICLE04: Kongreß für gärungslose Früchteverwertung.
+Found
+MODSMD_ARTICLE05: Protest gegen den Oxforder Einmischungsversuch.
+Found
+MODSMD_ARTICLE06: Türkischer Besuch in Düsseldorf.
+Found
+MODSMD_ARTICLE07: Das deutsch-französische Jugeudlager in Reichenhall.
+Found
+MODSMD_ARTICLE08: Der Schweizer Nationalfeiertag.
+Found
+MODSMD_ARTICLE09: Der Minderheitenstreit Warschau—Prag.
+Not Found
+MODSMD_ARTICLE10: Polnisches Echo des Frontkämpsertrefseus in Berlin.
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht vom Sonntag.
+Found
+MODSMD_ARTICLE12: Begnadigung Hedillas.
+Found
+MODSMD_ARTICLE13: Der englische Botschafter bei Graf Ciano.
+Found
+MODSMD_ARTICLE14: Italienische Korrespondenten wieder in London.
+Found
+MODSMD_ARTICLE15: Deutsche Theatersachleute in Verona.
+Found
+MODSMD_ARTICLE16: Die belgische Presse Zu Moskaus Sabotage.
+Found
+MODSMD_ARTICLE17: Die Züricher Flugveranstaltung abgebrochen.
+Found
+MODSMD_ARTICLE18: Italienisches Großflugzeug verunglückt.
+Found
+MODSMD_ARTICLE19: Schiffskatastrophe an der griechischen Küste.
+Found
+MODSMD_ARTICLE20: Juden in New Jorks Strandbad unbeliebt.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: SS-Oberführer Arauner in der Reichsbauernstadt beigesetzt.
+Found
+MODSMD_ARTICLE02: Tie Deutschlandfahrt der ausländischen Journalisten.
+Found
+MODSMD_ARTICLE03: General Daluege am Sarge Pilsduskis.
+Found
+MODSMD_ARTICLE04: Neuer Erfolg der Dresdener Staatsoper in London.
+Found
+MODSMD_ARTICLE05: Erholungsurlaub Lloyd Georges nach Westindien.
+Found
+MODSMD_ARTICLE06: Geringe Strafe für die Ausschreitungen vor der Botschaft.
+Found
+MODSMD_ARTICLE07: Die Maßregelung Latours.
+Found
+MODSMD_ARTICLE09: Kommunistisches Revolutionsheer in Frankreich?
+Found
+MODSMD_ARTICLE10: Weitere Pressestimmen zur Eden-Rede.
+Found
+MODSMD_ARTICLE11: Gegenbesuch Miklas' in Budapest.
+Found
+MODSMD_ARTICLE12: Befehl des Frontmilizführers Hülgerth.
+Found
+MODSMD_ARTICLE13: Weitere Festnahmen von Kommunisten in Warschau.
+Found
+MODSMD_ARTICLE14: Trauung der KonMnzessin Juliane am 7. Januar.
+Found
+MODSMD_ARTICLE15: Furchtbare Geiselmorde in Alicante.
+Found
+MODSMD_ARTICLE16: Bericht über die Einnahme von Getafe.
+Found
+MODSMD_ARTICLE17: Nationale Erfolge bei Siguenza.
+Found
+MODSMD_ARTICLE18: Brasilianische Maßnahmen gegen Kommunisten und Juden.
+Found

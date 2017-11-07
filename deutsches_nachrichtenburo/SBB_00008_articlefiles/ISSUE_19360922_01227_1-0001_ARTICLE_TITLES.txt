@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Goebbels in Athen.
+Found
+MODSMD_ARTICLE02: Die Hitlerjungen im ewigen Rom.
+Found
+MODSMD_ARTICLE03: Die römische Presse über den Besuch der Hitlerjungen.
+Found
+MODSMD_ARTICLE04: Die englische Presse über die deutschen Herbstmanöver.
+Found
+MODSMD_ARTICLE05: Deutsch-polnischer Wirtschaftsvertrag verlängert.
+Found
+MODSMD_ARTICLE06: Deutsch-chinesischer Studentenaustausch.
+Found
+MODSMD_ARTICLE07: Luftschiff „Hindenburg" zur Rückfahrt gestartet.
+Found
+MODSMD_ARTICLE08: Die Wahlen in Schweden.
+Found
+MODSMD_ARTICLE09: Politische Auswirkungen der schwedischen Wahlen.
+Found
+MODSMD_ARTICLE10: Vor dem Rücktritt der schwedischen Regierung.
+Found
+MODSMD_ARTICLE11: Krisenstimmung in Gens.
+Found
+MODSMD_ARTICLE12: Zulassung Abessiniens soll vor das Haager "Gericht.
+Found
+MODSMD_ARTICLE13: Prof. Jöze nicht mehr Abessiniens Vertreter in Genf.
+Found
+MODSMD_ARTICLE14: Vor einem verzweifelten Durchbruchsversuch der Roten?
+Found
+MODSMD_ARTICLE15: Waffen auf spanischen Dampfern in St. Nazaire.
+Found
+MODSMD_ARTICLE16: Kommunistische Geheimversammlnng ausgehoben.
+Found

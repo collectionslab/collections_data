@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Einweihung des Hindenburg-Denkmals in Forst
+Found
+MODSMD_ARTICLE02: Verteilung der Preise der Kieler Woche.
+Found
+MODSMD_ARTICLE03: Ehrung der deutsch-türkischen Waffenbrüderschaft.
+Found
+MODSMD_ARTICLE04: Neuerliche Erhöhung des Brotpreises in Paris.
+Found
+MODSMD_ARTICLE05: Wieder zwei Generäle erschossen.
+Found
+MODSMD_ARTICLE06: Bisher fünf Bischöse in Spanien ermordet.
+Found
+MODSMD_ARTICLE07: Präsident Casanovas über die Autonomie Kataloniens.
+Found
+MODSMD_ARTICLE08: „Almirante Cervera" beschießt Fort Guadalupe.
+Found
+MODSMD_ARTICLE09: Riesiges Benzinlager in Malaga ausgebrannt.
+Found
+MODSMD_ARTICLE10: Schwere Verluste der roten Miliz.
+Found
+MODSMD_ARTICLE11: Burgos appelliert an das Weltgewissen.
+Found
+MODSMD_ARTICLE12: Italien besteht auf unbedingter Nichteinmischung.
+Found
+MODSMD_ARTICLE14: Bulgarische Stimme geegn die bolschewistische Gefahr.
+Found
+MODSMD_ARTICLE15: Die Rote Armee der Stoßtrupp der Weltrevolution.
+Found

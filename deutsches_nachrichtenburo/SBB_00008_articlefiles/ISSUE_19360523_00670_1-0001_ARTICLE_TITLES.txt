@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der holländische Berkehrsminister in Mannheim.
+Found
+MODSMD_ARTICLE02: Amerikanische Austauschstudenten in Bonn.
+Found
+MODSMD_ARTICLE03: Kampfansage der nationalen Ungarn an das Judentum.
+Found
+MODSMD_ARTICLE04: Der finnische Außenminister in Budapest.
+Found
+MODSMD_ARTICLE05: Titulescu bei Sarraut.
+Found
+MODSMD_ARTICLE06: Vorschläge des Frontkämpferperbandes „Union Federale",
+Found
+MODSMD_ARTICLE07: Die Finanzierung der neuen Wehrvorlage der Schweiz.
+Found
+MODSMD_ARTICLE08: Polnische Warnung vor der Taktik der Kommunisten.
+Found
+MODSMD_ARTICLE09: Kommunistische Zentraldruckerei Bulgariens ausgehoben.
+Found
+MODSMD_ARTICLE10: Die englische Presse zum Rücktritt des Kolonialministers.
+Found
+MODSMD_ARTICLE11: Zweigstellenerösfnimg der Bank von Italien in Addis Abeba.
+Found
+MODSMD_ARTICLE12: Die Unruhen in Palästina.
+Found
+MODSMD_ARTICLE13: Amtsenthebung von Richtern in Madrid.
+Found
+MODSMD_ARTICLE14: Kommunistische Radaukundgebungen in Mexiko.
+Found

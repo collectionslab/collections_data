@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der 50. Geburtstag des Reichsministers Kerrl.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Dr. Frick besichtigte die Sudetendeutsche Kunstausstellung.
+Found
+MODSMD_ARTICLE04: Konrad Henlein besucht die Dienststelle für das WHW.
+Found
+MODSMD_ARTICLE05: Der Chef der polnischen Luftwaffe besucht Deutschland.
+Found
+MODSMD_ARTICLE06: Drei Grands Prix für das deutsche Fernsehen.
+Found
+MODSMD_ARTICLE07: Tagung der Strombauverwaltungen der Rheinuferstaaten.
+Found
+MODSMD_ARTICLE08: Tagung des Ausschusses für Jugeudrecht.
+Found
+MODSMD_ARTICLE09: Jugendschuh und Jugendfürsorge im Strafrecht.
+Found
+MODSMD_ARTICLE10: Bolschewistische Agentin geschnappt.
+Found
+MODSMD_ARTICLE11: Boykott gegen den jüdischen Handel in Westpolen.
+Found
+MODSMD_ARTICLE12: Ganz Italien in fieberhafter Erwartung.
+Found
+MODSMD_ARTICLE13: Noch immer starre Allianz-Politik?
+Found
+MODSMD_ARTICLE14: Baldur von Schi räch in Bukarest.
+Found
+MODSMD_ARTICLE15: Schirachs Dank an Atatürk.
+Found
+MODSMD_ARTICLE16: Repräsentantenhaus für Kontrolle der Ernteüberschüsse.
+Found

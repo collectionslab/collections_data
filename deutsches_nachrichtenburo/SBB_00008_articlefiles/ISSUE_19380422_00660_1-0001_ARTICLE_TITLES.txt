@@ -1,0 +1,50 @@
+MODSMD_ARTICLE01: Feierstunde im Neichsjustizministerium.
+Found
+MODSMD_ARTICLE02: Südosteuropareise deutscher Zeitschriftenverleger.
+Found
+MODSMD_ARTICLE03: Schulschiff „Schleswig-Holstein" wieder in der Heimat.
+Found
+MODSMD_ARTICLE04: Jahressitzung der Königlichen Akademie von Italien.
+Found
+MODSMD_ARTICLE05: Telegrammwechsel Budapest—Rom.
+Found
+MODSMD_ARTICLE06: Portugals Gesandter überreicht Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE07: Jüdische Beschuldigung gegen die ungarische Regierung.
+Found
+MODSMD_ARTICLE08: 1K32 OVO Mitglieder der Polnischen Luftschutzliga.
+Found
+MODSMD_ARTICLE09: Früh übt sich.
+Found
+MODSMD_ARTICLE10: Litauischer Staatshaushaltsplan verabschiedet.
+Found
+MODSMD_ARTICLE11: Wieder Menschenschmuggel in Schweden ausgedeckt.
+Found
+MODSMD_ARTICLE12: Britische Teilungskommission aus dem Wege nach Palästina.
+Found
+MODSMD_ARTICLE13: Lord Perth tritt in den Ruhestand.
+Found
+MODSMD_ARTICLE14: Massenausträge für die amerikanische Flugzeug-Industrie.
+Found
+MODSMD_ARTICLE15: Französische Aufrüstungsanleihr in London?
+Found
+MODSMD_ARTICLE16: Französisch-englische Verhandlungen.
+Found
+MODSMD_ARTICLE17: Anweisungen für Blondcl.
+Found
+MODSMD_ARTICLE18: Die Schweiz revidiert ihre Haltung zur Genfer Liga.
+Found
+MODSMD_ARTICLE19: Sie hatten genug!
+Found
+MODSMD_ARTICLE20: Zahlreiche Verhaftungen in Tunis.
+Found
+MODSMD_ARTICLE21: Algerische Bürgermeister bereuen ihren Rücktritt.
+Found
+MODSMD_ARTICLE22: Wahlgesetz für die Sandschak-Wahlen.
+Found
+MODSMD_ARTICLE23: Jüdischer Feuerüberfall auf Araberautobus.
+Found
+MODSMD_ARTICLE24: Der Streit um die Oelselder in Mexiko.
+Found
+MODSMD_ARTICLE25: Roosevelt ruft Henry Ford.
+Found

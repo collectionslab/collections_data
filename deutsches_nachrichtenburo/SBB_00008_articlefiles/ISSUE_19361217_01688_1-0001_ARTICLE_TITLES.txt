@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Raumhoheit des Reiches.
+Found
+MODSMD_ARTICLE02: Reichsdeutsche Zeitungen in Ostoberschlesien beschlagnahmt.
+Found
+MODSMD_ARTICLE03: Bundesrat Motta zum Bundespräsidenten gewählt.
+Found
+MODSMD_ARTICLE04: „Tribuna" über Ribbentrops Londoner Rede.
+Found
+MODSMD_ARTICLE05: Noel Buxton zur Kolonialfrage.
+Found
+MODSMD_ARTICLE06: Daladier über die Landesverteidigung.
+Found
+MODSMD_ARTICLE07: Armeesprache in Belgien französisch und flämisch.
+Found
+MODSMD_ARTICLE08: Redakteure der Rex-Bewegung verurteilt.
+Found
+MODSMD_ARTICLE09: Verlustreiche Gefechte für Tschanghsucliang.
+Found
+MODSMD_ARTICLE10: Ein Raubmörder hingerichtet.
+Found

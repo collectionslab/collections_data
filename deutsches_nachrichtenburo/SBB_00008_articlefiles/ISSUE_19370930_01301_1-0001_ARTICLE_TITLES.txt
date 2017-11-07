@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Mussolinis Fahrt durch Oesterreich.
+Found
+MODSMD_ARTICLE02: Das Ausland zum Besuch des Duce
+Found
+MODSMD_ARTICLE04: Dr. Goebbels dankt den Berlinern.
+Found
+MODSMD_ARTICLE05: Eine „Sabotage- und Spionageorganisation" in Madrid.
+Found
+MODSMD_ARTICLE06: 59W Pfund Schadensersatz für Botschafter Knatchbull.
+Found

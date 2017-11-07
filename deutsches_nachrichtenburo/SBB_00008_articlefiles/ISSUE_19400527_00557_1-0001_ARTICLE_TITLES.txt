@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Fortschreitender Angriff in Flandern und im Artois.
+Found
+MODSMD_ARTICLE02: Die Londoner Kriegspropaganda wird ständig dümmer.
+Found
+MODSMD_ARTICLE03: Riesige Polizeiaktionen in Paris.
+Found
+MODSMD_ARTICLE04: Jud Mandel läßt Arbeiter erschießen, s
+Found
+MODSMD_ARTICLE05: 15 französische Generäle abgesetzt.
+Found
+MODSMD_ARTICLE06: Leon Blum beschwört seine Leser.
+Found
+MODSMD_ARTICLE07: „Deutschland den Gegnern weit überlegen."
+Found
+MODSMD_ARTICLE08: So hausten die Franzosen in Süd-Luxemburg!
+Found
+MODSMD_ARTICLE09: Calais gefallen!
+Found
+MODSMD_ARTICLE10: Deutsch-schwedische Grenzfragen besprochen.
+Found
+MODSMD_ARTICLE11: London spürt seinen Krieg immer deutlicher.
+Found
+MODSMD_ARTICLE12: Sie verstehen unter Feigheit etwas anderes.
+Found
+MODSMD_ARTICLE13: Gewaltverbrecher hingerichtet.
+Found

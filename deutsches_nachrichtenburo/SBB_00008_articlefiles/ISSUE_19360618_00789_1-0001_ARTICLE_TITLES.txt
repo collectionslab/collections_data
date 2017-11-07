@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Führer im Olympischen Dorf.
+Found
+MODSMD_ARTICLE02: Olympia-Kundgebung der Deutschen Akademie.
+Found
+MODSMD_ARTICLE03: Veranstaltung des Deutsch-Polnischen Instituts.
+Found
+MODSMD_ARTICLE04: Kreuzer „Königsberg" aus Helsingfors ausgelaufen.
+Found
+MODSMD_ARTICLE05: Roseuberg auf der Reichsiagung der NS-Kulturgemeinde.
+Found
+MODSMD_ARTICLE06: Der Negus während der Völkerbundstagung in Genf.
+Found
+MODSMD_ARTICLE07: Der frühere estnische Außenminister Seljamaa f.
+Found
+MODSMD_ARTICLE08: Die Neubildung der schwedischen Regierung.
+Found

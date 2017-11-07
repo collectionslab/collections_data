@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Auslandsreisen deutscher Schulschiffe.
+Found
+MODSMD_ARTICLE02: Neue Fahrzeugbeschaffung der Reichsbahn.
+Found
+MODSMD_ARTICLE03: General der Infanterie a. D. Sixt von Armin beigesetzt.
+Found
+MODSMD_ARTICLE04: Luftschiff „Hindenburg" in Frankfurt a. M. gelandet.
+Found
+MODSMD_ARTICLE05: Teutschland—Brasilien in rund 40 Stunden.
+Not Found
+MODSMD_ARTICLE06: Korpsführer Hühnlein in Wien.
+Found
+MODSMD_ARTICLE07: Die deutschen Schriftleiter in Jugoslawien.
+Found
+MODSMD_ARTICLE08: Auch Prag wertet ab.
+Found
+MODSMD_ARTICLE09: Die französische Regierung warnt vor Preissteigerungen.
+Found
+MODSMD_ARTICLE10: Zollermäßigungen in Frankreich.
+Found
+MODSMD_ARTICLE11: Ein französisches Dementi.
+Found
+MODSMD_ARTICLE12: Ehemalige französische Frontofsiziere an Franco.
+Found
+MODSMD_ARTICLE13: Die Gliederung der nationalistischen Streitkräfte.
+Found
+MODSMD_ARTICLE14: Starace zum Oberst befördert.
+Found
+MODSMD_ARTICLE15: Wirtschaftsabkommen Türkei—Irland.
+Not Found
+MODSMD_ARTICLE16: Argentinien wehrt sich gegen den Kommunismus.
+Found
+MODSMD_ARTICLE17: Argentinien schreitet auf dem Piratenschiff ein.
+Found
+MODSMD_ARTICLE18: Tie japanisch-chinesischen Verhandlungen.
+Found
+MODSMD_ARTICLE19: „Untergang des Fernen Ostens".
+Found

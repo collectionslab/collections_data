@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Deutsche Weihestunde in Breslau.
+Found
+MODSMD_ARTICLE02: Festliches Bild auf der Friesenwiese.
+Found
+MODSMD_ARTICLE03: Einmarsch der Standarten.
+Found
+MODSMD_ARTICLE04: Jubel um den Führer.
+Found
+MODSMD_ARTICLE05: Begrüßungsansprache des Gauleiters.
+Found
+MODSMD_ARTICLE06: 130 000 Sänger und Sängerinnen!
+Found
+MODSMD_ARTICLE07: Massenchöre singen.
+Found
+MODSMD_ARTICLE08: Reichsminister Dr. Goebbels spricht.
+Found
+MODSMD_ARTICLE09: Des Führers Grutz an die Sänger.
+Found
+MODSMD_ARTICLE10: „Deutsche! Deutsche Volksgenossen und Volksgenossinnen! Meine deutschen Sänger!
+Found

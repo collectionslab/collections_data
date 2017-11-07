@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Frühstück zu Ehren des Ministerialdirektors Dr. Schiopetto.
+Found
+MODSMD_ARTICLE02: Die industriellen Aufgaben des Vierjahresplans.
+Found
+MODSMD_ARTICLE03: Flugzeugabsturz bei Wustrow.
+Found
+MODSMD_ARTICLE04: Hitler-Jugend und Wehrmacht.
+Found
+MODSMD_ARTICLE05: Dr. Frick in der Grenzmark Posen-Westpreußen.
+Found
+MODSMD_ARTICLE06: Baldwin bei König Georg.
+Found
+MODSMD_ARTICLE07: Der Verteidigungsminister vor der britischen Reichspresse.
+Found
+MODSMD_ARTICLE08: Die Verteidigungsfrage vor der britischen Reichskonferenz.
+Found
+MODSMD_ARTICLE09: Eingeborene überfallen englische Truppen.
+Found
+MODSMD_ARTICLE10: Spaak über Hilfsmaßnahmen für die Bilbao-FUchtlinge,
+Found
+MODSMD_ARTICLE11: Bolschewistische Flieger bombardieren wehrlose Bevölkerung«
+Found
+MODSMD_ARTICLE12: Der Entwurf des Sandschak- Statutes.
+Found
+MODSMD_ARTICLE13: Neuer Kownoer Prozeß gegen Memelländer.
+Found

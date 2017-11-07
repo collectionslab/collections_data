@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an Christi Cranz.
+Found
+MODSMD_ARTICLE02: Tie brasilianische Lustwaffenkonnnission.
+Found
+MODSMD_ARTICLE03: Sudetendeutsche Schriftleiter als Gäste des RDP.
+Found
+MODSMD_ARTICLE04: Die Beisetzung Hubert Klausners in Villach.
+Found
+MODSMD_ARTICLE05: Eingliederung der Forst-Hochschule Hannoversch-Müuden.
+Found
+MODSMD_ARTICLE06: Deutschlandbesuch brasilianischer Aerzte.
+Found
+MODSMD_ARTICLE07: Am Montag beginnt die Konferenz des Balkanbundes.
+Found
+MODSMD_ARTICLE08: „Volksdeutsche Zeitung" Organ der deutschen Volksgruppe.
+Found
+MODSMD_ARTICLE09: Der tschechoslowakische Geueralstabschef zurückgetreten.
+Found
+MODSMD_ARTICLE10: De-jure-Anerkennung Nationalspaniens durch Polen.
+Found
+MODSMD_ARTICLE11: Berard trifft in Burgos auf verschlossene Türen»
+Found
+MODSMD_ARTICLE12: Syriens Auflehnung in Rom stark beachtet.
+Found
+MODSMD_ARTICLE13: Iren im Londoner Gefängnis in den Hungerstreik getreten.
+Found
+MODSMD_ARTICLE14: Reuter meldet Fortschritte bei den Verhandlungen.
+Found
+MODSMD_ARTICLE15: Für den jüdischen „Verteidigungsfonds".
+Found
+MODSMD_ARTICLE16: Ein verhängnisvoller Ilebermittlungsfehler!
+Found

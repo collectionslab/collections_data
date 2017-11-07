@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ein stolzes Dokument.
+Found
+MODSMD_ARTICLE02: .Die Berliner Feiern der Wehrmacht am 19. und 29. April.
+Found
+MODSMD_ARTICLE03: Tie Meistbegünstigung für deutsche Einfuhr nach Kamerun.
+Found
+MODSMD_ARTICLE04: Wirtschaftsbeziehungen ergänzen Freundschaft Berlin—Rom.
+Not Found
+MODSMD_ARTICLE05: Ehrung eines deutschen Ingenieurs.
+Found
+MODSMD_ARTICLE06: Das italienische Botschafterpaar in Schloß Windsor.
+Found
+MODSMD_ARTICLE07: Kleinhändler protestieren gegen 40-Stunden-Woche.
+Found
+MODSMD_ARTICLE08: Streikterror in französischen Städten.
+Found
+MODSMD_ARTICLE09: Wieder ein Emigrauienverbrecher im Ausland verhaftet.
+Found
+MODSMD_ARTICLE10: Immer neuer Nachschub für Sowjetspanien.
+Found
+MODSMD_ARTICLE11: Flüchtlinge in der Argentinischen Botschaft in Madrid.
+Found
+MODSMD_ARTICLE12: Kartoffel-Jones will Bilbao-Blockade durchbrechen.
+Found
+MODSMD_ARTICLE13: Bukarest-Besuch Becks in der nächsten Woche.
+Found
+MODSMD_ARTICLE14: Neuer Bombenanschlag in Warschauer Hochschule.
+Found
+MODSMD_ARTICLE15: Universität Agram geschlossen.
+Found
+MODSMD_ARTICLE16: Ausstand auf den Philippinen.
+Found
+MODSMD_ARTICLE17: Streikuuruhen in Montreal.
+Found
+MODSMD_ARTICLE18: Feierstunde deutscher Frauen in Buenos Aires.
+Found
+MODSMD_ARTICLE19: Bollstreckung von Todesurteilen.
+Found

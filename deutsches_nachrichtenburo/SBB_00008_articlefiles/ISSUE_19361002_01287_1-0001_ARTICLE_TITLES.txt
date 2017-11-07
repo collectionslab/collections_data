@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Frankreichs Presse zur Annahme der Abwertungsvorlage«
+Found
+MODSMD_ARTICLE02: Angriffe argen Innenminister Salengro.
+Found
+MODSMD_ARTICLE03: „Matin" rechnet mit Litwinows Rücktritt.
+Found
+MODSMD_ARTICLE04: De la Rocque will Kampf gegen Moskau fortsetzen.
+Found
+MODSMD_ARTICLE05: Ungarns Nationalbankpräsident zur Frankenabwertung.
+Found
+MODSMD_ARTICLE07: Die englische Presse zur Rede Hoares.
+Found
+MODSMD_ARTICLE08: Vollzugsausschuß der Arbeiterpartei tagt in Edinburg.
+Found
+MODSMD_ARTICLE09: Britisch-italienische Einigung über Handelsabkommen?
+Found
+MODSMD_ARTICLE10: Wieder britisch-sowjetrussische Flottenverhandlungen.
+Found
+MODSMD_ARTICLE11: Die Schlagwetterexplosion in La Bonverie.
+Found
+MODSMD_ARTICLE12: Englische Füsiliere im Gefecht mit Arabern.
+Found
+MODSMD_ARTICLE13: Die Burgos-Regiernng gegen die Goldverschiebungen.
+Found
+MODSMD_ARTICLE14: Ansprachen General Francos bei seiner Amtsübernahme.
+Found
+MODSMD_ARTICLE15: Rote „Humanitäts-Gesellschaft" martert Priester zu Tode.
+Found
+MODSMD_ARTICLE16: Roosevelt im Wahlkampf.
+Found

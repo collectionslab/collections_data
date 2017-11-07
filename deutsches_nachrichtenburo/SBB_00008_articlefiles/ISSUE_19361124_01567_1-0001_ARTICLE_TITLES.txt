@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Dr. Goebbels begrüßt die ausländischen Werbefachleute.
+Found
+MODSMD_ARTICLE02: Tagung der NSKK.-PresseMerenten.
+Found
+MODSMD_ARTICLE03: Der Ausenthalt Dr. Schachts in Teheran.
+Found
+MODSMD_ARTICLE04: Eden über den englisch-ägyptischen Vertrag.
+Found
+MODSMD_ARTICLE05: Mittelmeer-Aussprache Eden—Maisky.
+Found
+MODSMD_ARTICLE06: Pariser Uebereinstimmung mit London in der Blockadefrage.
+Found
+MODSMD_ARTICLE07: Die Streiklage in der Liller Metallindustrie.
+Found
+MODSMD_ARTICLE08: Politischer Zusammenschluß in Polen.
+Found
+MODSMD_ARTICLE09: Wieder Vorlesungen an den Lemberger Hochschulen.
+Found
+MODSMD_ARTICLE10: Polizei vor den Warschauer Hochschulen.
+Found
+MODSMD_ARTICLE11: Erbittertes Ringen im Häusermeer von Madrid.
+Found
+MODSMD_ARTICLE12: Englische U-Boot-Flottille in den spanischen Gewässern?
+Found
+MODSMD_ARTICLE13: Aufsehenerregender Abireibungs-Prvzeß in Wien.
+Found
+MODSMD_ARTICLE14: Streiks auf den Hochschulen in Kairo.
+Found
+MODSMD_ARTICLE15: Großfeuer in Düren.
+Found

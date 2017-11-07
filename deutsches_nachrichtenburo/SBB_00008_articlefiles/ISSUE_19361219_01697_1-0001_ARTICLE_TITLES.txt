@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Mnf Jahre NS.-Reichssymphonieorchester.
+Found
+MODSMD_ARTICLE02: Bescherung für alte Musiker aus der Spende „Künstlerdank".
+Found
+MODSMD_ARTICLE03: Kronprinz Umberto von Italien in Kassel.
+Found
+MODSMD_ARTICLE04: Die militärischen Ränge des englischen Königs.
+Found
+MODSMD_ARTICLE05: Weihnachtsferien des englischen Unterhauses.
+Found
+MODSMD_ARTICLE06: Große britische Manöver im Fernen Osten.
+Found
+MODSMD_ARTICLE07: Der Quai d'Orsay über den Pariser Besuch Autonescus.
+Found
+MODSMD_ARTICLE08: Weitere Zusammenstöße in Straßburg.
+Found
+MODSMD_ARTICLE09: Gesetz über Schiedsverfahren vom Senat verabschiedet.
+Found
+MODSMD_ARTICLE10: Andauernde „Freiwilligen"-Werbung in Frankreich.
+Found
+MODSMD_ARTICLE11: Der Streik in der Liller Metallindustrie.
+Found
+MODSMD_ARTICLE12: Beförderungen in der Schweizer Wehrmacht.
+Found
+MODSMD_ARTICLE13: Jüdisches Blumengeschäft als kommunistsche Lesehalle.
+Found
+MODSMD_ARTICLE14: Scharfe polnische Maßnahmen in der Neutralitätsfrage.
+Found
+MODSMD_ARTICLE15: Tolle Zustände auf einem roten spanischen Handelsschiff.
+Found
+MODSMD_ARTICLE16: Ruhetag au der Madrider Front. X
+Found
+MODSMD_ARTICLE17: Tschiangkaischek gegen Luftangrisse auf Siansu.
+Found
+MODSMD_ARTICLE18: Stimmungsumschwung in Sianfu.
+Found
+MODSMD_ARTICLE19: Kampfhandlungen in Schensi unterbrochen.
+Found
+MODSMD_ARTICLE20: Veränderungen im paraguayischen Kabinett.
+Found
+MODSMD_ARTICLE21: Drei Jahre Zuchthaus für Juwelendieb Schiffbauer.
+Found
+MODSMD_ARTICLE22: Ein jüdischer Großbetrüger verurteilt.
+Found

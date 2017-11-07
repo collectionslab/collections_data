@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: 11,9 Millionen Rundfunkteilnehmer in Großdeutschland.
+Found
+MODSMD_ARTICLE02: Mailand zur Führerrede.
+Found
+MODSMD_ARTICLE03: Paris spricht von „rotspanischen Machenschaften".
+Found
+MODSMD_ARTICLE04: Der Kammerbeschluß bedeutet Anerkennung Francas.
+Found
+MODSMD_ARTICLE05: Sowjetspanier plündert ein Marseiller Geschäftshaus.
+Found
+MODSMD_ARTICLE06: Azana zieht die Konsequenz.
+Found
+MODSMD_ARTICLE07: Immer neue von den Roten geraubte Schätze tauchen auf.
+Found
+MODSMD_ARTICLE08: Eifrige Sowjeiagenten in Frankreich.
+Found
+MODSMD_ARTICLE09: Die Bevölkeruugspolitik in Frankreich.
+Found
+MODSMD_ARTICLE10: „Liberte" stellt ihr Erscheinen ein.
+Found
+MODSMD_ARTICLE11: „Times": „Es werden zu viele Gerüchte verbreitet."
+Found
+MODSMD_ARTICLE12: Ernüchterung in der englischen Presse.
+Found
+MODSMD_ARTICLE13: Der Verteidiger Teruels von roten Schergen ermordet.
+Found
+MODSMD_ARTICLE14: Budapest Zum Antikominternpakt.
+Found
+MODSMD_ARTICLE15: Der Duce Zu Ciauos Besuch in Warschau.
+Found
+MODSMD_ARTICLE16: Vollstreckung eines Todesurteils. .
+Found

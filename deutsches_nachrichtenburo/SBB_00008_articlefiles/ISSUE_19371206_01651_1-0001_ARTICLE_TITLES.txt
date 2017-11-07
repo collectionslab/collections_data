@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dank des Führers an Künstler und Künstlerinnen.
+Found
+MODSMD_ARTICLE02: Das Sammelergebnis des Solidaritatstages.
+Found
+MODSMD_ARTICLE03: Reichsmark 7 KZS 476,49
+Found
+MODSMD_ARTICLE04: Die Ergebnisse aus dem einzelnen. Gauen.
+Found
+MODSMD_ARTICLE05: Dr. Goebbels dankt den Sammlern.
+Found
+MODSMD_ARTICLE06: Glückwunsch des Führers an Finnlands Staatspräsidenten.
+Found
+MODSMD_ARTICLE07: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE08: Das Befinden Ludendorffs.
+Found
+MODSMD_ARTICLE09: Dr. Frick: Das Werden des neuen Deutschland.
+Found
+MODSMD_ARTICLE10: Gustav Adolf verteidigte deutsches Geistesgut.
+Found
+MODSMD_ARTICLE11: Schweden wird europäische Großmacht.
+Found

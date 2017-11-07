@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Tino Alfieri am Ehrenmal Unter den Linden.
+Found
+MODSMD_ARTICLE02: Wie General Giraud gefangen genommen wurde.
+Found
+MODSMD_ARTICLE03: Das ist die britische Kampfmoral.
+Found
+MODSMD_ARTICLE04: Reichsstatthalter von Epp vom Duce empfangen.
+Found
+MODSMD_ARTICLE05: Die Poilus sollen sich für England verbinten!
+Found
+MODSMD_ARTICLE06: Stimmung in England immer gedrückter.
+Found
+MODSMD_ARTICLE07: „Italiens Wahl kann nicht zweifelhaft sein."
+Found
+MODSMD_ARTICLE08: Telephonverbindung England—Frankreich unterbrochen.
+Found
+MODSMD_ARTICLE09: „Herr Wirrwarr" auch auf dem englischen Arbeitsmarkt.
+Found
+MODSMD_ARTICLE10: Bankerott der Politik führte zum militärischen Fiasko.
+Found
+MODSMD_ARTICLE11: Will die Türkei das syrische Erbe Weygands übernehmen?
+Found
+MODSMD_ARTICLE12: Ein Verbrecher hingerichtet.
+Found

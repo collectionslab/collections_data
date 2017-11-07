@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Deutscher Pavillon auf der Mustermesse in Rio.
+Found
+MODSMD_ARTICLE02: Paris und London Zur Anerkennung Aethiopiens.
+Found
+MODSMD_ARTICLE03: Paris und London zum sowjetrussischen Schritt.
+Found
+MODSMD_ARTICLE04: Alarmruf einer französischen Handelskammer.
+Found
+MODSMD_ARTICLE05: Vorverlegung des französischen Ministerrats.
+Found
+MODSMD_ARTICLE06: Internationaler Gesellenaustausch.
+Found
+MODSMD_ARTICLE07: Moskaus Wühlereien in Ungarn.
+Found

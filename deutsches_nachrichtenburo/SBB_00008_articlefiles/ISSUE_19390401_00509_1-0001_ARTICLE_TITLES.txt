@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Abschiedsempfang für die bolivianischen Jugendführer.
+Found
+MODSMD_ARTICLE02: Vizepräsident Bruner im Ruhestand.
+Found
+MODSMD_ARTICLE03: Verbindung von Politik und Wissenschaft.
+Found
+MODSMD_ARTICLE04: Darre vor dem agrarpolitischen Apparat.
+Found
+MODSMD_ARTICLE05: Franca an den Tuce.
+Found
+MODSMD_ARTICLE06: Die Wirtschaft in JtalienisckpOstafrika.
+Found
+MODSMD_ARTICLE07: Das französische Schuldkonto in Tunis.
+Found
+MODSMD_ARTICLE08: Anerkennung Francos durch Ekuador.
+Found
+MODSMD_ARTICLE09: Dr. Andritsch jugoslawischer Gesandter in Berlin.
+Found
+MODSMD_ARTICLE10: Wieder Schwäbisch-Deutscher Kulturbund in Slowenien.
+Found
+MODSMD_ARTICLE11: Der Ministerrat in Paris.
+Found
+MODSMD_ARTICLE12: Emigranten im französischen Heer?
+Found
+MODSMD_ARTICLE13: Ein frommer Wunsch von Paul Faure.
+Found
+MODSMD_ARTICLE14: Verlängerung des deutsch-französischen Handelsabkommens.
+Found
+MODSMD_ARTICLE15: Polnisch-ungarische Verhandlungen.
+Found
+MODSMD_ARTICLE16: Hudson in Stockholm.
+Found
+MODSMD_ARTICLE17: Schweden rüstet Handelsschiffe als Hilfskreuzer aus.
+Found
+MODSMD_ARTICLE18: Handelsabkommen zwischen Washington und Ankara.
+Found
+MODSMD_ARTICLE19: Washington hebt Waffenausfuhrverbot nach Spanien auf.
+Found
+MODSMD_ARTICLE20: Landesverräter oder Rechtsprecher?
+Found
+MODSMD_ARTICLE21: Kongreß des Weltpostvereins in Buenos Aires.
+Found

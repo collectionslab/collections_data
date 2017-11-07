@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Nüsts Beileid zum Ableben von Dr. Danzfuß.
+Found
+MODSMD_ARTICLE02: Afrikaslieger Karl Schwabe abgestürzt.
+Found
+MODSMD_ARTICLE03: Reichskenuzahl für Lebenshaltungskosten im August.
+Found
+MODSMD_ARTICLE04: „Sowjetrußland Land des schweigenden Todes."
+Found
+MODSMD_ARTICLE05: Der polnische Staatspräsident unterbricht seinen Urlaub.
+Found
+MODSMD_ARTICLE06: Sühne für die Bauernunruhen in Galizken.
+Found
+MODSMD_ARTICLE07: Guter Fang der polnischen Polizei.
+Found
+MODSMD_ARTICLE08: Kolnische Pressekampagne gegen Danzig.
+Found
+MODSMD_ARTICLE09: Finnischer Staatsbesuch in Lettland.
+Found
+MODSMD_ARTICLE10: Präsident Lebrun hat seinen Urlaub angetreten.
+Found
+MODSMD_ARTICLE11: Die Beschlüsse des französischen Ministerrats.
+Found
+MODSMD_ARTICLE12: Neue Militärslugplätze in Frankreich. –
+Not Found
+MODSMD_ARTICLE13: „Der China-Sowjetpakt hat Frankreich aufhorchen lassen."
+Found
+MODSMD_ARTICLE14: Die Tagung der Kleinen Entente abgeschlossen.
+Found
+MODSMD_ARTICLE15: Die Nachrichtenagenturen-Tagung abgeschlossen.
+Found
+MODSMD_ARTICLE16: Fort Wusung von den Japanern genommen.
+Found
+MODSMD_ARTICLE17: Japanische Truppen überquerten den Whangpu.
+Found

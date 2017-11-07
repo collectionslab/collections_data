@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Historikertag in Erfurt.
+Found
+MODSMD_ARTICLE02: Deutsch-österreichische Besprechungen in Wien.
+Found
+MODSMD_ARTICLE03: Die ungarische Presse zu den deutsch-italienischen Vorschlägen.
+Found
+MODSMD_ARTICLE04: Prozeß gegen 22 Polendeutsche in Könitz.
+Found
+MODSMD_ARTICLE05: Der „Wawel"-Zwischenfa!l kommt vor das Parlament.
+Found
+MODSMD_ARTICLE07: Der schwedische Außenminister besucht Sowjetrußland.
+Found
+MODSMD_ARTICLE08: Baltikum-Reise Avenols.
+Found
+MODSMD_ARTICLE09: Kriegsmaterialgeschäfte in einer Pariser Bar.
+Found
+MODSMD_ARTICLE10: Nach wie vor: Senat gegen Kammer.
+Found
+MODSMD_ARTICLE11: Vor einem Generalstreik der französischen Bauarbeiter?
+Found
+MODSMD_ARTICLE12: Die sozialen Kämpfe in Frankreich.
+Found
+MODSMD_ARTICLE13: Ministerrat in Paris am Donnerstag.
+Found
+MODSMD_ARTICLE14: Wieder heftige Kämpfe vor Madrid.
+Found
+MODSMD_ARTICLE15: Reuter über die Freitag-Sitzung.
+Found
+MODSMD_ARTICLE16: Keine absolute Mehrheit für De Valera.
+Found

@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Erste Mittags-Ausgabe. Deutsches Nachrichtenbüro ?
+Found
+MODSMD_ARTICLE02: Tie Goethe-Medaille für Karl Hans Strobl.
+Found
+MODSMD_ARTICLE03: Korpsführer Hühnlein zum deutschen Autosieg in Südafrika.
+Found
+MODSMD_ARTICLE04: Holländischer Ministerbesuch in Oslo.
+Found
+MODSMD_ARTICLE05: Für den inneren Frieden Oesterreichs.
+Found
+MODSMD_ARTICLE06: Zuchthaus für kommunistische Hetzer in Litauen.
+Found
+MODSMD_ARTICLE07: Das italienische Echo des Göringbesuches.
+Found
+MODSMD_ARTICLE08: Rrisc Drnmmonds nach London.
+Found
+MODSMD_ARTICLE09: Schriften der irischen republikanischen Armee beschlagnahmt.
+Found
+MODSMD_ARTICLE10: Volks frontneiaungen in England»
+Found
+MODSMD_ARTICLE11: Neuer tschechoslowakischer Gesandter in Stockholm.
+Found
+MODSMD_ARTICLE12: Wird Vienot zur Verantwortung gezogen?
+Found
+MODSMD_ARTICLE13: Die französische Antwort an England.
+Found
+MODSMD_ARTICLE14: „Voce antwortet dem „Temps".
+Found
+MODSMD_ARTICLE15: Del Vajo: „Ein Sowjetspanien ist unser Ziel!"
+Found
+MODSMD_ARTICLE16: Unaufhaltsamer Vormarsch auf Malaga.
+Found
+MODSMD_ARTICLE17: Schwerste Verluste der roten Horden.
+Found
+MODSMD_ARTICLE18: Französischer Industrieller in Bilbao ermordet.
+Found
+MODSMD_ARTICLE19: Der chilenische Arbeitsminister zurückgetreten.
+Found
+MODSMD_ARTICLE20: Mexiko verhindert Waffenausfuhr nach Rot-Spanien.
+Found
+MODSMD_ARTICLE21: 36 Engländer in Sianfu als Geiseln festgesetzt.
+Found
+MODSMD_ARTICLE22: Schweres Eisenbahnunglück in China.
+Found

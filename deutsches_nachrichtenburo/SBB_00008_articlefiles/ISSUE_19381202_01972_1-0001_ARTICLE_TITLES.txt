@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Dr. Goebbels in Außig.
+Found
+MODSMD_ARTICLE02: Tie neue Regierung in Prag.
+Found
+MODSMD_ARTICLE03: Regierungskrise in Brüssel?
+Found
+MODSMD_ARTICLE04: Für Weiterentwicklung der Verständigung von München.
+Found
+MODSMD_ARTICLE05: Privatklage des Herrn vom Rath.
+Found
+MODSMD_ARTICLE06: Das Ausland zur Erschießung Codreanus.
+Found
+MODSMD_ARTICLE07: Em Attentäter von Klausenburg verhaftet.
+Found

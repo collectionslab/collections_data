@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Weitere Beileidskundgebungen zum Tode von Bülows.
+Found
+MODSMD_ARTICLE02: Neuer Chef der Motorsportschulen des NSKK.
+Found
+MODSMD_ARTICLE03: Berlin empfängt Max Schmeling.
+Found
+MODSMD_ARTICLE04: Lord Londonderry über die deutsch-englischen Beziehungen.
+Found
+MODSMD_ARTICLE05: Der Reichsärzteführer beim Budapester Oberbürgermeister.
+Found
+MODSMD_ARTICLE06: Der Neichsverweser bei Gömbös.
+Found
+MODSMD_ARTICLE07: Parlamentsferien in Ungarn.
+Found
+MODSMD_ARTICLE08: Lebhafte handelspolitische Tätigkeit in Ungarn.
+Found
+MODSMD_ARTICLE09: Polen sperrt den Transfer für Auslandsanleihen.
+Found
+MODSMD_ARTICLE10: Beratungen der Neutralen über die Völkerbundsreform.
+Found
+MODSMD_ARTICLE11: Presse-Empfang beim Negus.
+Found
+MODSMD_ARTICLE12: Neue italienische Denkschrift über die Abessinienfrage.
+Found
+MODSMD_ARTICLE13: Petretti stellvertretender Generalgouverneur.
+Found
+MODSMD_ARTICLE14: Wieder Lärmszenen in der belgischen Kammer.
+Found
+MODSMD_ARTICLE15: Zwangsarbeit für Spione auf Malta.
+Found
+MODSMD_ARTICLE16: Vereinheitlichung des Nachrichtenwesens in Japan.
+Found
+MODSMD_ARTICLE17: Steuersteckbrief und Vermögensbeschlagnahme.
+Found

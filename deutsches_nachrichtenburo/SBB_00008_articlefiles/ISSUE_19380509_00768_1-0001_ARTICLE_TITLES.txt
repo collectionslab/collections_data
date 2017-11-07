@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Das deutsch-italienische Freundschaftsgelöbnis.
+Found
+MODSMD_ARTICLE02: Florenz erwartet den Führer-
+Found
+MODSMD_ARTICLE03: Weihe der Ehrenstätte deutscher Kraftfahrt.
+Found
+MODSMD_ARTICLE04: Wiener Vieh- und Fleischhandel jetzt judenrein.
+Found
+MODSMD_ARTICLE05: Zusammenschluß aller sudeiendeutschen Jugendverbände.
+Found
+MODSMD_ARTICLE06: 2749 tschechoslowakische Gemeinden wählen.
+Found
+MODSMD_ARTICLE07: Rumänien trauert um Goga.
+Found
+MODSMD_ARTICLE08: Daranyi über das ungarische Aufbauprogramm.
+Found
+MODSMD_ARTICLE09: Kapitän Holm Chef der norwegischen Marineflugwaffe.
+Found
+MODSMD_ARTICLE10: Immer noch ungeklärte Lage in Brüssel.
+Found

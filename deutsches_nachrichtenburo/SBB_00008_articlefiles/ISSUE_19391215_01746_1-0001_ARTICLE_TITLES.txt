@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die erste öffentliche Sitzung des deutschen Prisenhofes.
+Found
+MODSMD_ARTICLE03: Bewunderung in Italien für „Admiral Graf Spee".
+Found
+MODSMD_ARTICLE04: Dänischer Dampfer durch Mine gesunken.
+Found
+MODSMD_ARTICLE05: Frankreichs Goldreserven für England!
+Found
+MODSMD_ARTICLE06: Englands Rohstoffversorgung ernsthaft gefährdet.
+Found
+MODSMD_ARTICLE07: 1V britische Kampfflugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE08: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE09: Spanien bewundert die Taten des „Admiral Graf Spee".
+Found
+MODSMD_ARTICLE10: Englische Lügenpropaganda ausgeschaltet.
+Found
+MODSMD_ARTICLE11: Wieder ein englischer 7WV-Tonner verloren.
+Found
+MODSMD_ARTICLE12: Britische Kontrolle der türkischen Binnenschiffahrt.
+Found
+MODSMD_ARTICLE13: Japan gibt die Jangtseschiffahrt nicht frei.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Abschied von Generalmajor Roettig.
+Found
+MODSMD_ARTICLE02: SA.-Obergruppenführer Meyer-Quade gefallen.
+Found
+MODSMD_ARTICLE03: Afghanistan bleibt neutral.
+Found
+MODSMD_ARTICLE04: Sofortmaßnahmen in den besetzten polnischen Gebieten.
+Found
+MODSMD_ARTICLE05: Moskauer Sender schildert das Chaos in Polen.
+Found
+MODSMD_ARTICLE06: „Es geht um Englands Weltmachtstellung."
+Found
+MODSMD_ARTICLE07: Die „Basler Nachrichten" gegen das britische „Seeunrecht".
+Found
+MODSMD_ARTICLE08: England sperrt Postsendungen nach den neutralen Ländern.
+Found
+MODSMD_ARTICLE09: Deutsche als Zwangsarbeiter auf deutschen Pflanzungen.
+Found
+MODSMD_ARTICLE10: Fünf Deutsche in Lemberg von Juden viehisch ermordet.
+Found
+MODSMD_ARTICLE11: Die deutschen Konsulatsbeamten aus Polen ans Heimreise.
+Found
+MODSMD_ARTICLE12: Norwegens Vorräte schon sehr knapp.
+Found
+MODSMD_ARTICLE13: Die Korrektheit der deutschen U-Boot-Kommandanten.
+Found
+MODSMD_ARTICLE14: Polen für England nur eine Episode.
+Found
+MODSMD_ARTICLE15: Türkei betont Freundschaft zur Sowjetunion.
+Found
+MODSMD_ARTICLE16: Kein Anlaß für einen deutsch-türkischen Konflikt.
+Found
+MODSMD_ARTICLE17: Die Kennzahl der Großhandelspreise vom 13. September.
+Found

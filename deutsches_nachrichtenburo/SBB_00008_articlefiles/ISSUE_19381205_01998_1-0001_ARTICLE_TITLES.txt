@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Dr. Frank über das Wesen der deutschen Verwaltung.
+Found
+MODSMD_ARTICLE03: Lutze und Ruft sammelten in Hannover.
+Found
+MODSMD_ARTICLE04: Ukrainische Schutzorganisation Siez.
+Found
+MODSMD_ARTICLE05: Ein Goethe-Gedenkstein in Polen gestürzt.
+Found
+MODSMD_ARTICLE06: Polen verweigert Bernatzki das Einreisevisum.
+Found
+MODSMD_ARTICLE07: Die Grenzbevölkerung sehnt sich nach Frieden.
+Found
+MODSMD_ARTICLE08: Coulondre in Paris eingetroffen.
+Found
+MODSMD_ARTICLE09: Teilweise Arbeitswiederanfnahme in Paris und Lille.
+Found
+MODSMD_ARTICLE10: Ohnmächtige Wut des französischen Marxismus.
+Found
+MODSMD_ARTICLE11: „Wir gehen Zum Angriff über."
+Found
+MODSMD_ARTICLE12: Veränderung in der rumänischen Regierung.
+Found
+MODSMD_ARTICLE13: Antrittsreden im ungarischen Parlament.
+Found
+MODSMD_ARTICLE14: Deutschlands Produktionsplan als Vorbild.
+Found
+MODSMD_ARTICLE15: 418 Spanienfreiwillige zurückgekehrt.
+Found
+MODSMD_ARTICLE16: Verstärkung des arabischen Wwehrkampfes in Palästina.
+Found
+MODSMD_ARTICLE17: Die japanische Wehrmacht feiert die „Condör"-Besatzuug.
+Found

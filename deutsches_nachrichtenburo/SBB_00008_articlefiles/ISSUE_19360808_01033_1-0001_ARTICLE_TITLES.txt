@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Kronprinz Umberto abgereist.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Von Wedelstaedt kom. Landeshauptmann in Königsberg.
+Found
+MODSMD_ARTICLE04: Pflege der deutschen Sprache.
+Found
+MODSMD_ARTICLE05: Die Tätigkeit der deutschen Kriegsschiffe in Spanien.
+Found
+MODSMD_ARTICLE06: Die Hilfeleistung für die Deutschen in Spanien.
+Found
+MODSMD_ARTICLE07: Münchener Fascio spendet für die Spanienflüchtlinge.
+Found
+MODSMD_ARTICLE08: Die Deutschen auf dem Zahnärztekongreß in Wien.
+Found
+MODSMD_ARTICLE09: Weitere spanische Diplomaten für die Burgos-Regierung.
+Found
+MODSMD_ARTICLE10: Neuer Truppentransport in Algeciras»
+Found
+MODSMD_ARTICLE11: Beginn einer spanischen Wirtschaftsreform.
+Found
+MODSMD_ARTICLE12: Madrid meldet Kämpfe bei Alicante.
+Found
+MODSMD_ARTICLE13: Die Verstaatlichung der französischen Kriegsindustrie.
+Found
+MODSMD_ARTICLE14: Ter gekränkte Kommumstenführer.
+Found
+MODSMD_ARTICLE15: Verbindungen mit den Kanarischen Inseln unterbrochen.
+Found
+MODSMD_ARTICLE16: 3000 Pariser Kraftdroschkenfahrer entlassen.
+Found
+MODSMD_ARTICLE17: Lord Lugard zurückgetreten.
+Found
+MODSMD_ARTICLE18: Türkische Gesandtschaft in Addis Abeba ausgelöst.
+Found
+MODSMD_ARTICLE19: Britische Truppen gegen Aufständische bei Nablus.
+Found
+MODSMD_ARTICLE20: Uruguay verbietet Sympathiekundgebung für Madrid.
+Found
+MODSMD_ARTICLE21: Veränderungen in der argentinischen Regierung.
+Found
+MODSMD_ARTICLE22: Die Kwangfi-Truppen am Meer.
+Found
+MODSMD_ARTICLE23: Die letzten Opfer der Warnecliffe-Grube geborgen.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Italienische Studienabordnung in München.
+Found
+MODSMD_ARTICLE02: Glanzvoller Abschluß der NS.-Winterkampfspiele in Villach>
+Found
+MODSMD_ARTICLE03: Bradl entthront Norwegens Springerkönige.
+Found
+MODSMD_ARTICLE04: Polnischer Gesetzentwurf für neues Wahlrecht.
+Found
+MODSMD_ARTICLE05: Die Anerkennung Nationalspaniens durch Polen.
+Found
+MODSMD_ARTICLE06: Verantwortung der Demokratien für das Wettrüsten.
+Found
+MODSMD_ARTICLE07: Spanische Kunstschätze nach Sowjetrustland verschleppt.
+Found
+MODSMD_ARTICLE08: Polen bewundert NationKlspanien.
+Found
+MODSMD_ARTICLE09: Klare Worte aus Burgos.
+Found
+MODSMD_ARTICLE10: Tie Fürsorge für die Spanienflüchtlinge in Frankreich.
+Found
+MODSMD_ARTICLE11: Rundfunk nur für waschechte Roispanier.
+Found
+MODSMD_ARTICLE12: Ter Kommumsmus hofft in Frankreich aus Revanche!
+Found
+MODSMD_ARTICLE13: Berards Unterredungen in Burgos.
+Found
+MODSMD_ARTICLE15: Keschäftskabinett in Belgien?
+Found
+MODSMD_ARTICLE16: England pocht auf seine Macht und Stärke.
+Found
+MODSMD_ARTICLE17: Gajda-Versammluug in Prag aufgelöst.
+Found
+MODSMD_ARTICLE18: Estland schickt diplomatischen Agenten nach Burgos.
+Found
+MODSMD_ARTICLE19: In Port Darwin wird gestreikt.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Viktor Emanuel 111. Kaiser von Abessinien.
+Found
+MODSMD_ARTICLE02: Die historische Nacht in Rom.
+Found
+MODSMD_ARTICLE03: Italiens Aufgaben in Abessinien.
+Found
+MODSMD_ARTICLE04: Eine Erklärung des Negus.
+Found
+MODSMD_ARTICLE05: Danzig-Polnisches Marktregulierungsübereinkommen.
+Found
+MODSMD_ARTICLE06: Baliische Außenminister-Konferenz beendet.
+Found
+MODSMD_ARTICLE07: Einspruch des Gouverneurs des Memelgebiets.
+Found
+MODSMD_ARTICLE08: Das neue litauische Sejmwahlgesetz veröffentlicht.
+Found
+MODSMD_ARTICLE09: Wiener Kerkerurteile gegen Nationalsozialisten.
+Found
+MODSMD_ARTICLE10: Wirtschaftsbesprechungen in Belgrad.
+Found
+MODSMD_ARTICLE11: Auch Truppen aus Kenia unterwegs.
+Found
+MODSMD_ARTICLE12: Besprechungen in Genf.
+Found
+MODSMD_ARTICLE13: Spaniens Botschafter beim Papst.
+Found
+MODSMD_ARTICLE14: Was mau in Sowjetrußland „Volksgerichte" nennt.
+Found
+MODSMD_ARTICLE15: Das neue ägyptische Kabinett gebildet.
+Found

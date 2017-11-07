@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Nachmittags- u. Abendausgabe. Deutsches Nachrichtentmro
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Der neue Beirat der Deutschen Reichspost.
+Found
+MODSMD_ARTICLE04: Fernsprechverkehr mit den Niederlanden, Syrien und Japan.
+Found
+MODSMD_ARTICLE05: Verurteilung des Verräters Stegmann.
+Found
+MODSMD_ARTICLE06: Das englische Königspaar als Gast der Stadt London.
+Found
+MODSMD_ARTICLE07: von Blomberg besichtigt Bomberstaffeln in Andover.
+Found
+MODSMD_ARTICLE08: Zugeständnisse bei der Bemessung der Rüstungssteuer.
+Found
+MODSMD_ARTICLE09: Neuer Ueberfall auf britische Truppen in Indien.
+Found
+MODSMD_ARTICLE10: Sitzung des französischen Ministerrats.
+Found
+MODSMD_ARTICLE11: Pariser Presse zu den Besprechungen Litwinow-Finkelsteins.
+Found
+MODSMD_ARTICLE12: Hafenbetrieb von Ronen soll stillgelegt werden.
+Found
+MODSMD_ARTICLE13: Herriot muß vor den Streikenden kapitulieren.
+Found
+MODSMD_ARTICLE14: Die Pläne des norwegischen Außenministers.
+Found
+MODSMD_ARTICLE15: Pfingsttagung der schwedischen Nationalsozialisten.
+Found
+MODSMD_ARTICLE16: „Taß" dementiert Verhaftung Serebrowskis.
+Found
+MODSMD_ARTICLE17: Unterschlagungen im Sowjetparadies.
+Found
+MODSMD_ARTICLE18: Der arabische Pakt von den Fürsten unterzeichnet.
+Found
+MODSMD_ARTICLE19: Der Kardinal-Erzbischof weiß keine bessere Antwort!
+Found
+MODSMD_ARTICLE20: Kommunistische Umsturzpläne in Argentinien.
+Found

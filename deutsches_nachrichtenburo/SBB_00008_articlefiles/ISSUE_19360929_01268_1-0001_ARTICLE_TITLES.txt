@@ -1,0 +1,16 @@
+MODSMD_ARTICLE02: Ganz Deutschland hörte die Proklamation des Führers. Gemeinschaftsempfang in allein Betrieben.
+Found
+MODSMD_ARTICLE04: Die Abwertungsvorlage vor der Kammer.
+Found
+MODSMD_ARTICLE05: Leon Blum verzichtet auf die gleitende Lohnskala.
+Found
+MODSMD_ARTICLE06: Währnngsmaßnahme Lettlands.
+Found
+MODSMD_ARTICLE07: Polnische Bergabeiter fordern Sechs-Stunden-Tag.
+Found
+MODSMD_ARTICLE08: Entgegnung der sowjetrussischcn Staatsbank.
+Found
+MODSMD_ARTICLE09: Sowjetrussifcher Generalkonsul für Barcelona.
+Found
+MODSMD_ARTICLE10: Abermals Gefangene in Barcelona ermordet!
+Found

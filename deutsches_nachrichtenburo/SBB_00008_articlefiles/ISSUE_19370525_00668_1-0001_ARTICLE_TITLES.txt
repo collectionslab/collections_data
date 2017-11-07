@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Konteradmiral Kobayaschi in Berlin.
+Found
+MODSMD_ARTICLE03: Das argentinische Linienschiff „Rivadavia" in Hamburg.
+Found
+MODSMD_ARTICLE04: Dr. Dorpmüller in Schlesien.
+Found
+MODSMD_ARTICLE05: Zwischenfälle beim Handball-Länderkampf in Wien.
+Found
+MODSMD_ARTICLE06: Protest der spanischen Nationalregierung.
+Found
+MODSMD_ARTICLE07: Englischer Schritt in Burgos.
+Found
+MODSMD_ARTICLE08: Die Zivilliste des Königs vor dem Unterhaus.
+Found
+MODSMD_ARTICLE09: Der Streik in der französischen Handelsschiffahrt.
+Found
+MODSMD_ARTICLE10: Aktivität hinter den Genfer Kulissen.
+Found
+MODSMD_ARTICLE11: Dr. Eckener in Washington.
+Found
+MODSMD_ARTICLE12: Die amerikanische Arbeitslosenversicherung.
+Found
+MODSMD_ARTICLE13: Roosevelts Vorschläge zum neuen Nira-Gesetz.
+Found
+MODSMD_ARTICLE14: Kommunistischer Hochverräter hingerichtet.
+Found

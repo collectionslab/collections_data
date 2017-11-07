@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Deutschland verläßt das Kontrollsystem. (Schluß.)
+Found
+MODSMD_ARTICLE02: Die italienische Erklärung;
+Found
+MODSMD_ARTICLE03: Botschafter von Ribbentrop auf dem Wege nach Berlin.
+Found
+MODSMD_ARTICLE04: Dank der österreichischen Industriellen an den Führer.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Mailänder Scala spendet Betrag für neuen Zeppelin.
+Found
+MODSMD_ARTICLE07: Reichsarbeitstagung der deutschen Studentenführer.
+Found
+MODSMD_ARTICLE08: Mariatann eine Brutstätte sexueller Verbrechen.
+Found
+MODSMD_ARTICLE09: Das neue holländische Kabinett gebildet.
+Found
+MODSMD_ARTICLE10: Italien zum Scheitern der Londoner Besprechungen.
+Found
+MODSMD_ARTICLE11: Abenteuerlicher Flug der „Polonia II.".
+Found
+MODSMD_ARTICLE12: Berichtigung.
+Found

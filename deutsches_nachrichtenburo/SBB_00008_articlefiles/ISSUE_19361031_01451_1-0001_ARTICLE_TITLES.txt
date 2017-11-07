@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Kocht Kohlgerichte! Aufruf der Reichsfrauenfuhrung.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels am Grabe Horst Wessels.
+Found
+MODSMD_ARTICLE03: Ehrung der ältesten Berliner Parteigenossen.
+Found
+MODSMD_ARTICLE04: Eine Generaloberin der NS.-Schwesternschaft.
+Found
+MODSMD_ARTICLE05: Landesverräter hingerichtet.
+Found
+MODSMD_ARTICLE06: Dünung verhindert Untersuchung des Wracks von „Elbe I".
+Found
+MODSMD_ARTICLE07: Spende für die Hinterbliebenen der „Elbe I"-Besatzung.
+Found
+MODSMD_ARTICLE08: Der Volksbuud Deutsche Kriegsgräbersürsorge tagt.
+Found
+MODSMD_ARTICLE09: Gauleiter Bohle bei Graf Ciano.
+Found
+MODSMD_ARTICLE10: Seelenmesse für Marschall Pilsudski.
+Found
+MODSMD_ARTICLE11: König Carol von Prag abgereist.
+Found
+MODSMD_ARTICLE12: Große Verstärkung der französischen Luftwaffe.
+Found
+MODSMD_ARTICLE13: Verbot von Doppelverdienertum für französische Beamte.
+Found
+MODSMD_ARTICLE14: „Neutralitätspolitik eine Verletzung des Völkerbundes!"
+Found
+MODSMD_ARTICLE15: Salengro von der Anklage der Fahnenflucht freigesprochen.
+Found
+MODSMD_ARTICLE16: Lyoner Handgranatenschieber in Barcelona aufgespürt.
+Found
+MODSMD_ARTICLE17: Sowjetrussischer Militärattache leitet Verteidigung Madrids.
+Found
+MODSMD_ARTICLE18: Nationaler Angriff auf Katalonien?
+Found
+MODSMD_ARTICLE19: Neue Sowjetnoten an den Nichteinmischungsausschuß.
+Found
+MODSMD_ARTICLE20: Staatsstreich zwingt Irak-Regierung zum Rücktritt.
+Found
+MODSMD_ARTICLE21: Steuersteckbrief und Bermögensbeschlagnahme.
+Found

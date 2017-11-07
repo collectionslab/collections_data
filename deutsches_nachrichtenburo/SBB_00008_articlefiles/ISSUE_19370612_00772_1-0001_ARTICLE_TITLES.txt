@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Göring beglückwünscht die Lufthansa.
+Found
+MODSMD_ARTICLE02: Dokumente zum ersten Vierjahresplan des Führers.
+Found
+MODSMD_ARTICLE03: Aenderung in der Führung der Gruppe 9 des NSFK.
+Found
+MODSMD_ARTICLE04: Goethe-Plakette für Prof. Dr. Raabe.
+Found
+MODSMD_ARTICLE05: Der Reichsaußenminister am Grabe von Gömbös.
+Found
+MODSMD_ARTICLE06: Neurath wird von der ungarischen Presse herzlich begrüßt.
+Found
+MODSMD_ARTICLE07: Pressestimmen zu den Kontrollverhandlungen.
+Found
+MODSMD_ARTICLE08: Nach dem Moskauer Bluturteil.
+Found
+MODSMD_ARTICLE09: Die Kennzahl der Großhandelspreise vom 9. Juni.
+Found
+MODSMD_ARTICLE10: Vollstreckung eines Todesurteils.
+Found

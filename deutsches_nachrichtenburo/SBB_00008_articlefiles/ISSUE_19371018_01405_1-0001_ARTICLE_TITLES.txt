@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Leistungen der Post während dies Mussolini-Besuchs.
+Found
+MODSMD_ARTICLE02: Neber Oesterreich wurde nicht gesprochen.
+Found
+MODSMD_ARTICLE03: Schwarz van Berk verabschiedet sich von Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: Der Herzog von Windsor in Leipzig.
+Found
+MODSMD_ARTICLE05: Der erste deutsche Beamtentag eröffnet.
+Found
+MODSMD_ARTICLE06: Oberst Lindbergh in Bremen.
+Found
+MODSMD_ARTICLE07: Die Wahrheit über die italienischen Freiwilligen.
+Found
+MODSMD_ARTICLE08: Die Pariser Montagspresse zu London.
+Found
+MODSMD_ARTICLE09: Die Londoner Montagspresse zum Spanienproblem.
+Found
+MODSMD_ARTICLE10: Der Technische Unterausschuß zusammengetreten.
+Found
+MODSMD_ARTICLE11: Crasham Cooke straft Brunnenvergifter Lügen.
+Found
+MODSMD_ARTICLE12: Die geplante Neunmächtekonferenz.
+Found
+MODSMD_ARTICLE13: Moskaus Sabotage in der Nichteimnischungsfrage.
+Found
+MODSMD_ARTICLE14: Nur der Wechsel ist beständig!
+Found
+MODSMD_ARTICLE15: Eine arabische Zeitung in Marokko verboten.
+Found
+MODSMD_ARTICLE16: Einmarsch der Japaner in die Provinz Honan.
+Found

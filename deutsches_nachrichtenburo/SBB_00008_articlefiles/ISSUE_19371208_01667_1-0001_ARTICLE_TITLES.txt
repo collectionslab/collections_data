@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ernennungen durch den Führer und Reichskanzler.
+Found
+MODSMD_ARTICLE02: Ehrung eines Hundertjährigen durch den Führer.
+Found
+MODSMD_ARTICLE03: Für die Freiheit der Forschung.
+Found
+MODSMD_ARTICLE04: „Grüne Woche Berlin 1938" fällt aus.
+Found
+MODSMD_ARTICLE05: Anerkennung der deutschen Buch- und Druckerzeugung.
+Found
+MODSMD_ARTICLE06: Börenger über europäische Zusammenarbeit.
+Found
+MODSMD_ARTICLE07: Die Frage der französischen U-Boote.
+Found
+MODSMD_ARTICLE08: Kommunistische Stadtverwaltung Hilst Streikenden.
+Found
+MODSMD_ARTICLE09: Die Entwertung der Pensionen in Frankreich.
+Found
+MODSMD_ARTICLE10: Delbos iu Bukarest.
+Found
+MODSMD_ARTICLE11: Empörung über die Reise Attlees nach Sowjetspanien.
+Found
+MODSMD_ARTICLE12: Die Verbrüderung Attlees mit den Henkern Spaniens.
+Found
+MODSMD_ARTICLE13: Zusammenfassung der spanischen Akademien.
+Found
+MODSMD_ARTICLE14: Kein Rücktritt Tschiangkaischeks.
+Found

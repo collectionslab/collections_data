@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer dankt der Presse.
+Found
+MODSMD_ARTICLE02: 1199 Nationalsozialisten marschieren durch Nienrade.
+Found
+MODSMD_ARTICLE03: Durcansky und Karmasin auf dem Wege nach Berlin.
+Found
+MODSMD_ARTICLE04: Trauerfeier in der Deutschen Botschaft in Paris»
+Found
+MODSMD_ARTICLE05: Die Trauer um Gesandschaftsrat vom Rath.
+Found
+MODSMD_ARTICLE06: Grünspan wird von den Irrenärzten untersucht.
+Found
+MODSMD_ARTICLE07: Endgültiger Bruch in Frankreichs Volksfront.
+Found
+MODSMD_ARTICLE08: Paris: „Kein Erfolg für Roosevelt."
+Found
+MODSMD_ARTICLE09: Paris zum Tode von Kemal Atatürk«
+Found
+MODSMD_ARTICLE10: Ueber 199 999 Ausländer in London.
+Found
+MODSMD_ARTICLE11: Tie italienische Schule judenfrei.
+Found
+MODSMD_ARTICLE12: Das Rassengesetz vom italienischen Ministerrat angenommen.
+Found
+MODSMD_ARTICLE13: Polen im Zeichen des Unabhängigkeitstages.
+Found
+MODSMD_ARTICLE14: Beileidsbesuch des Diplomatischeu Korps in Ankara.
+Found

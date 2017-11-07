@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Tagung der Leitung der Reichspropagandaämter.
+Found
+MODSMD_ARTICLE02: Enthüllung eines Grabmals für Generaloberst von Seeckt.
+Found
+MODSMD_ARTICLE03: Die faschistische Handelskonföderation dankt der DAF.
+Found
+MODSMD_ARTICLE04: Die Leiter einer jüdischen Bank in Danzig verhaftet.
+Found
+MODSMD_ARTICLE05: Kommunistenzentrale in Wilna ausgehoben.
+Found
+MODSMD_ARTICLE06: Rom zur Rede Edens.
+Found
+MODSMD_ARTICLE07: Chamberlain wieder im Amt.
+Found
+MODSMD_ARTICLE08: Eine englische Bittschrift.
+Found
+MODSMD_ARTICLE09: Empfang bei Ministerpräsident Chamberlain.
+Found
+MODSMD_ARTICLE10: Zu dem englisch-japanischen Zwischenfall.
+Found
+MODSMD_ARTICLE11: Britische Schiffe aus den nordspanischen Gewässern abberufen.
+Found
+MODSMD_ARTICLE12: General Franco erwartet baldiges Kriegsende.
+Found
+MODSMD_ARTICLE13: Landverbindung mit Frankreich lebenswichtig.
+Found
+MODSMD_ARTICLE14: Wieder K Personen in Leningrad erschossen.
+Found
+MODSMD_ARTICLE15: Pariser Kohlenträger im Streik.
+Found
+MODSMD_ARTICLE16: Ostasien-Konflikt in Brüssel im Hintergrund?
+Found
+MODSMD_ARTICLE17: Bessarabien braucht keine russischen Zeitungen.
+Found
+MODSMD_ARTICLE18: Wechsel in der sowjetrussischen Botschaft in Ankara.
+Found
+MODSMD_ARTICLE19: Sonderzug mit „Grünhemden" bei Rio verunglückt.
+Found
+MODSMD_ARTICLE20: „Die Juden wollen Palästina nur ausbeuten".
+Found
+MODSMD_ARTICLE21: Schaffung einer unabhängigen Mongolei.
+Found

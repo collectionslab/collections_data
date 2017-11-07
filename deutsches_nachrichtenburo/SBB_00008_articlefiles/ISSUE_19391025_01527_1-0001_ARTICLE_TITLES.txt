@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Botschafter Oschima in Abschiedsaudienz beim Führer.
+Found
+MODSMD_ARTICLE02: Der Oberbefehlshaber des Heeres an der Westfront.
+Found
+MODSMD_ARTICLE03: Die deutsch-schweizerischen Wirtschaftsbeziehungen.
+Found
+MODSMD_ARTICLE04: Die deutschen Dichter besuchten Bromberg und Posen.
+Found
+MODSMD_ARTICLE05: Das hast Du angestiftet, John Bull!
+Found
+MODSMD_ARTICLE06: Großdeutschlands militärische Stärke.
+Found
+MODSMD_ARTICLE07: Deutsches U-Boot rettet norwegischen Dampfer.
+Found
+MODSMD_ARTICLE08: Parlamentsauflösung in Bulgarien.
+Found
+MODSMD_ARTICLE09: Die Zentralkommission für Grenzfragen in Warschau.
+Found
+MODSMD_ARTICLE10: Paasikibi wieder nach Helsinki abgereist.
+Found
+MODSMD_ARTICLE11: Ergänzung und Erweiterung des lettischen Kabinetts.
+Found
+MODSMD_ARTICLE12: Wechsel in der dänischen Heeresleitung.
+Found
+MODSMD_ARTICLE13: Chamberlain beim König.
+Found
+MODSMD_ARTICLE14: Der Wirrwarr auf dem englischen Lebensmittelmarkt.
+Found
+MODSMD_ARTICLE15: Immer neue „Flecken auf dem Schild der Wahrheit".
+Found
+MODSMD_ARTICLE16: Wachsende Zinnankäufe Amerikas in England.
+Found
+MODSMD_ARTICLE17: Wehrpflicht für 21jährige Australier.
+Found
+MODSMD_ARTICLE18: Die Juden für General Smuts!
+Found
+MODSMD_ARTICLE19: Die Regierung von Mandschnkno löst sich vom Pfund.
+Found

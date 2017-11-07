@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Danktelegramm Mussolinis an den Führer.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Seltsamer Beschluß der Oxforder Weltkirchenkonferenz.
+Found
+MODSMD_ARTICLE04: Protest der deutschen Freikirchen.
+Found
+MODSMD_ARTICLE05: Erörterung der Frage der spanischen Häfen.
+Found
+MODSMD_ARTICLE06: Die römische Morgenpresse zum englischen Verfahrensplan.
+Found
+MODSMD_ARTICLE07: General Franco besuchte die Frontstellungen vor Madrid.
+Found
+MODSMD_ARTICLE08: Bomben-Anschlag in Aleppo.
+Found
+MODSMD_ARTICLE09: Streiks im Transjordanland.
+Found
+MODSMD_ARTICLE10: Die Abmachungen mit den chinesischen Lokalbehörden.
+Found

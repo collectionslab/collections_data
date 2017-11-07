@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Gering im Berliner Sportpalast.
+Found
+MODSMD_ARTICLE02: Rücktritt der Regierung Blum.
+Found
+MODSMD_ARTICLE03: Weitere Treuebotschaften nach Wien unterwegs.
+Found
+MODSMD_ARTICLE04: Vollzählig mit Ja!
+Found
+MODSMD_ARTICLE05: Die erste HJ.-Jugendherberge in Oesterreich.
+Found

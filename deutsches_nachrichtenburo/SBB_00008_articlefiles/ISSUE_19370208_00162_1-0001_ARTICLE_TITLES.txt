@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Berlin ehrt rumänische Kämpfer gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE02: Englands Rüstungsfabriken in voller Tätigkeit.
+Found
+MODSMD_ARTICLE03: „Durch einen unklugen und unedlen Frieden beraubt."
+Found
+MODSMD_ARTICLE04: „Obserder" zur Kolonialfrage-
+Found
+MODSMD_ARTICLE05: „Die Welt sollte Deutschlands Ansprüche berücksichtigen^.
+Found
+MODSMD_ARTICLE06: Geheimnisvoller Waffendiebstahl in einer Kriegsschule.
+Found
+MODSMD_ARTICLE07: Wieder ein Opfer der Bolschewisten an Land gespült.
+Found
+MODSMD_ARTICLE08: Mysteriöse „Verirr,ingen" spanischer Bolschewistenslugzeuge.
+Not Found
+MODSMD_ARTICLE09: Oesterreichische Arbeitsanleihe.
+Found
+MODSMD_ARTICLE10: Hungerstreik des Lodzer Krankenhauspersonals.
+Found
+MODSMD_ARTICLE11: Zusammenschluß mit kommunistischer Gewerkschaft abgelehnt
+Found
+MODSMD_ARTICLE12: Ein ungarischer Hirtenbrief gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE13: Rumänien wünscht keinen Pakt mit Sowjetrußland.
+Found
+MODSMD_ARTICLE14: Eine italienische Stellungnahme zur Hoare-Rede.
+Found
+MODSMD_ARTICLE15: Indisch-bolschewistische Hetzpropaganda in Tanger.
+Found
+MODSMD_ARTICLE16: Die Schlacht um Malaga.
+Found
+MODSMD_ARTICLE17: Bolschewistischer Bürgerkrieg: Immer wieder Mord!
+Found
+MODSMD_ARTICLE18: Flugzeuge mit dem Sowjetstern!
+Found
+MODSMD_ARTICLE19: Das Programm des neuen japanischen Kabinetts.
+Found
+MODSMD_ARTICLE20: Tie „Sitzstreiker" in Mut verbarrikadieren sich.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: WHW.-Konzert in der Scala brachte 13 20V RM.
+Found
+MODSMD_ARTICLE02: Polen zur deutschen Erklärung.
+Found
+MODSMD_ARTICLE03: Abfuhr des „Dziennik Narodowy" für den Völkerbund.
+Found
+MODSMD_ARTICLE04: Die Deutschlandriege der Olympiasieger in Bukarest.
+Found
+MODSMD_ARTICLE05: Der Duce als Gastgeber eines Gemeinschaftsessens.
+Found
+MODSMD_ARTICLE06: General Röder in Rom.
+Found
+MODSMD_ARTICLE07: Galadiner für Delbos in Belgrad.
+Found
+MODSMD_ARTICLE08: Der Ausbau der französischen Luftwaffe.
+Found
+MODSMD_ARTICLE09: 39 Kisten mit Schießpulver in Narbonne gestohlen.
+Found
+MODSMD_ARTICLE10: Bolschewistisches Werbebüro in Oslo.
+Found
+MODSMD_ARTICLE11: Moskaus„demokratische Wahlaktion".
+Found
+MODSMD_ARTICLE12: Japanisch-englischer Zwischenfall.
+Found
+MODSMD_ARTICLE13: Britischer Protest bei Japan.
+Found
+MODSMD_ARTICLE14: Autonome Regierung in Schansi.
+Found
+MODSMD_ARTICLE15: Normale Beziehungen Uruguays zu Nationalspanien.
+Found
+MODSMD_ARTICLE16: Brasilien schafft sich eine eigene Industrie.
+Found
+MODSMD_ARTICLE17: Mexikos Staatspräsident beantragt Verfassungsänderung.
+Found

@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Ernennungen durch den Führer und Reichskanzler.
+Found
+MODSMD_ARTICLE02: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Bevorzugte Arbeitsvermittlung und Unterstützung.
+Found
+MODSMD_ARTICLE04: Generalprobe der Wehrmacht auf dem Bückeberg.
+Found
+MODSMD_ARTICLE05: Einführung des neuen Landgerichtspräsidenten in Guben.
+Found
+MODSMD_ARTICLE06: Reinhardt über Deutschlands gesumde Finanzlage.
+Found
+MODSMD_ARTICLE07: „Gleichberechtigung!"
+Found
+MODSMD_ARTICLE08: General Röder erstattet dem ungarischen Kabinett Bericht.
+Found
+MODSMD_ARTICLE09: Der entscheidende Schlag gegen die Araber.
+Found

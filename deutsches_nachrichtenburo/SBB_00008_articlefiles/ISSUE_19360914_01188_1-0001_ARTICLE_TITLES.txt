@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: NSKK. übernimmt Verkehrserziehung.
+Found
+MODSMD_ARTICLE02: Das zweite Lufthansa-Flugboot in New Jork eingetroffen.
+Found
+MODSMD_ARTICLE03: Göring zu den erfolgreichen Nordatlantik-Flügen.
+Found
+MODSMD_ARTICLE04: Architekt Prof. Vehrens nach Berlin berufen.
+Found
+MODSMD_ARTICLE05: Lloyd George im Erbhöfedors Riedrode.
+Found
+MODSMD_ARTICLE06: San Sebastian in den Händen der Nationalisten.
+Found
+MODSMD_ARTICLE07: Bilbao in Erwartung des nationalistischen Angriffs.
+Found
+MODSMD_ARTICLE08: Wieder nationalistische Offiziere zum Tode verurteilt.
+Found
+MODSMD_ARTICLE09: „Almiraute Cervera" beschlagnahmt ein marxistisches Schiff.
+Found
+MODSMD_ARTICLE10: Freies Geleit für Frauen und Kinder im Alkazar.
+Found
+MODSMD_ARTICLE11: Madrid wirft Verstärkungen an die Taladera-Front.
+Found
+MODSMD_ARTICLE12: Empfang in der Wiener englischen Gesandtschaft.
+Found
+MODSMD_ARTICLE13: König Eduard aus Wien abgereist.
+Found
+MODSMD_ARTICLE14: Erhöhung des Brotpreises in Perpignan.
+Found
+MODSMD_ARTICLE15: „Genosse" Thorez in Warschau unerwünscht.
+Found
+MODSMD_ARTICLE16: Vor französisch-polnischen Handelsvertragsverhandlungen.
+Found
+MODSMD_ARTICLE17: Die Besprechungen Blums in Lille erfolglos.
+Found
+MODSMD_ARTICLE18: Politische Forderungen der englischen Drucker.
+Found
+MODSMD_ARTICLE19: Englische Truppen nach Palästina abgegangen.
+Found
+MODSMD_ARTICLE20: Kritik am englisch-ägyptischen Vertrag.
+Found
+MODSMD_ARTICLE21: Italien schafft ein Kolonialheer.
+Found

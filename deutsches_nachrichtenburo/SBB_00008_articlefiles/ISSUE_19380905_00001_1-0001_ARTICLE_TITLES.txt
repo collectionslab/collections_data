@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: vei kklchspaltkllia ms.
+Found
+MODSMD_ARTICLE02: Der Führer Ln Nürnberg. Begeisterte Begrüßung in der Stadt der Neichsparteitage.
+Found
+MODSMD_ARTICLE03: Der Diplomatenzug eingetroffen.
+Found
+MODSMD_ARTICLE04: Italiens und Spaniens Abordnung in Nürnberg.
+Found
+MODSMD_ARTICLE05: Ankunft des Chefs der polnischen Staatspolizei;
+Found
+MODSMD_ARTICLE06: Der Empfang der Presse.
+Found

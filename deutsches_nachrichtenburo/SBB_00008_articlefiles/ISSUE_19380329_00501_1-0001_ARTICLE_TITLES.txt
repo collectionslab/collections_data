@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Wahlkundgebungen vom Montag.
+Found
+MODSMD_ARTICLE02: Göring in Wiener-Neustadt.
+Found
+MODSMD_ARTICLE03: Schutzbündler in die Volksgemeinschaft eingegliedert.
+Found
+MODSMD_ARTICLE04: Italien zum großdeutschen Wahlkampf.
+Found
+MODSMD_ARTICLE05: Einsichtsvolles Urteil aus schwedischem Munde.
+Found
+MODSMD_ARTICLE06: Der sowjetspanische Agent in Paris bei Paul-Boncour.
+Found
+MODSMD_ARTICLE07: Hodscha kündigt em Minderheitenstatut an.
+Found
+MODSMD_ARTICLE08: Karpathendeutscher Protest gegen Prag.
+Found
+MODSMD_ARTICLE09: Vorschlag einer Volksabstimmung in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE10: Otto schickt sich in die Lage.
+Found
+MODSMD_ARTICLE11: Gemeindewahlen in Slowenien.
+Found
+MODSMD_ARTICLE12: Mandschurischer Ministerpräsident gestorben.
+Found
+MODSMD_ARTICLE13: Borah an die demokratischen Kriegstreiber.
+Found
+MODSMD_ARTICLE14: Neue deutsche fliegerische Großleistung.
+Found

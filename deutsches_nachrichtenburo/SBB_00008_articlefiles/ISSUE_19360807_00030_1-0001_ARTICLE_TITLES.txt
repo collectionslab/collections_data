@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Göring: Der Soldat ist der beste Sportkamerad.
+Found
+MODSMD_ARTICLE02: „Ueber jede Kritik erhaben!"
+Found
+MODSMD_ARTICLE04: Vansittart über die Olympischen Spiele.
+Found
+MODSMD_ARTICLE05: Der ReichsfinanZminister beglückwünscht Manger.
+Found
+MODSMD_ARTICLE06: Stabschef Lutze beglückwünscht Manger und Ehrl.
+Found
+MODSMD_ARTICLE07: Hauptmann Handrick.
+Found
+MODSMD_ARTICLE08: Reichssportführer an Internationalen Schwimmverband.
+Found
+MODSMD_ARTICLE09: Drei deutsche Weltbestleistungen anerkannt.
+Found
+MODSMD_ARTICLE10: Das Olympische Feuer auf dem Wege nach Grünau.
+Found
+MODSMD_ARTICLE11: Schweden gewinnt die Zweite Goldene Medaille»
+Found
+MODSMD_ARTICLE12: Williams USA gewinnt die 400 Meter.
+Found
+MODSMD_ARTICLE13: Argentiniens erste Goldmedaille.
+Found
+MODSMD_ARTICLE14: Polnische Gäste im Kieler Rathaus.
+Found
+MODSMD_ARTICLE15: „Messaggero" über die Dietrich-Eckart-Bühne.
+Found
+MODSMD_ARTICLE16: Ankäufe auf der Olympischen Kunstausstellung.
+Found

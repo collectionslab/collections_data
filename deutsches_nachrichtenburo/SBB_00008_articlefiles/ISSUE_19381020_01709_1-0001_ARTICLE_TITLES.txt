@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Staatsrat Börger zum Ministerialdirektor ernannt.
+Found
+MODSMD_ARTICLE02: Neuer Leiter der Reichsgruppe Industrie.
+Found
+MODSMD_ARTICLE03: Ter Arbeitseinsatz im Sudetenland.
+Found
+MODSMD_ARTICLE04: Neichstreuhänderverwaltung im Sudetenland.
+Found
+MODSMD_ARTICLE05: Den sudetendeutschen Jnvalidenrentnern geHolsen.
+Found
+MODSMD_ARTICLE06: Tschechischer Ueberfall auf sudetendeutsches Dorf.
+Found
+MODSMD_ARTICLE07: Polizei und SS. schützen die geräumten Grenzgebiete.
+Found
+MODSMD_ARTICLE08: Dr. Diso und Dr. Durcansky wieder in Preßburg.
+Found
+MODSMD_ARTICLE09: Staatsbürgerschaft für Deutsche in der Slowakei.
+Found
+MODSMD_ARTICLE10: Neuer Verfassungsentwurf in Prag.
+Found
+MODSMD_ARTICLE11: Neichsmiuister Dr. Frank beim ungarischen lustiznünister.
+Found
+MODSMD_ARTICLE12: Rätselraten um den Plan Daladiers.
+Found
+MODSMD_ARTICLE13: Der rumänische Gesandte bei Außenminister Bonnet»
+Found
+MODSMD_ARTICLE14: Hoare vom König empfangen.
+Found
+MODSMD_ARTICLE15: Privater Besuch des belgischen Königs in London.
+Found
+MODSMD_ARTICLE16: König Carol nach London eingeladen.
+Found
+MODSMD_ARTICLE17: Fortsetzung der Aktion der Engländer in Jerusalem.
+Found
+MODSMD_ARTICLE18: 15 Tote und 29 Verletzte in Jerusalem.
+Found
+MODSMD_ARTICLE19: Japans Aufbaupläne in China.
+Found

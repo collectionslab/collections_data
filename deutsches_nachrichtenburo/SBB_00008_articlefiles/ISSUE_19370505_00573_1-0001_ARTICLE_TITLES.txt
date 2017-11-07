@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Erste Morgen-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Die italienischen Jndustrieführer in München.
+Found
+MODSMD_ARTICLE03: Volle Übereinstimmung zwischen Neurath und Ciano.
+Found
+MODSMD_ARTICLE04: Die Trinksprüche Neurath's und Ciano's.
+Found
+MODSMD_ARTICLE05: „Ein beschämender Skandal."
+Found
+MODSMD_ARTICLE06: Liller Bauarbeiterstreik geht weiter.
+Found
+MODSMD_ARTICLE07: Maifeier der Deutschen in Ankara.
+Found

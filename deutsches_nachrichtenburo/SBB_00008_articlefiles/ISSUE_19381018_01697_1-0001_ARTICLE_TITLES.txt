@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Botschafter Togo verabschiedet sich vom Führer.
+Found
+MODSMD_ARTICLE02: Gäring regelt die Bevorschussung von Brotgetreide.
+Found
+MODSMD_ARTICLE03: Rosenberg vor den Schulungsmännern der Partei.
+Found
+MODSMD_ARTICLE04: Reichsminister Ruft im Sudetenlande.
+Found
+MODSMD_ARTICLE05: Tie Wühlarbeit in Italien.
+Found
+MODSMD_ARTICLE06: Bolschewistische Spitzelorganisation in der Schweiz.
+Found
+MODSMD_ARTICLE07: Hiihnlem besucht den Pariser Auto-Salon.
+Found
+MODSMD_ARTICLE08: Eine Hetzkampagne Zusammengebrochen.
+Found
+MODSMD_ARTICLE09: Wieder ein Volksbildungskommissar fällig?
+Found
+MODSMD_ARTICLE10: Überschwemmung hält die Japaner nicht aus.
+Found
+MODSMD_ARTICLE11: Palästinapolizei dem britischen Militär unterstellt.
+Found

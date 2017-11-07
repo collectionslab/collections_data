@@ -1,0 +1,30 @@
+MODSMD_ARTICLE02: Erweiterung der Zuständigkeit des Generalbauinspektors.
+Found
+MODSMD_ARTICLE03: Auszeichnung für den Herzog von Coburg.
+Found
+MODSMD_ARTICLE04: Antworttelegramm des Führers an die NSKOV.
+Found
+MODSMD_ARTICLE05: Jugoslawischer Dank an deutsche Presseführer.
+Found
+MODSMD_ARTICLE06: Der Lehrgang für Wirtschaftspolitik der NSDAP.
+Found
+MODSMD_ARTICLE07: Reichsminister ehren Dr. Hemke!.
+Found
+MODSMD_ARTICLE08: Finanzminister Dr. Popitz im Fischereihafen Wesermünde.
+Found
+MODSMD_ARTICLE09: Italiens Geschwader passiert Fernando Noronha.
+Found
+MODSMD_ARTICLE10: Die britische Mittelmoerflotte vor Gibraltar.
+Found
+MODSMD_ARTICLE12: Die Grundsätze der Politik Neuspaniens.
+Found
+MODSMD_ARTICLE13: Neue Schießereien bei Jerusalem.
+Found
+MODSMD_ARTICLE14: Feuergesecht im Staate Pernambuco: 145 Tote.
+Found
+MODSMD_ARTICLE15: Denkmal für Buldes in Chile enthüllt.
+Found
+MODSMD_ARTICLE16: Hirota: Vorläufig keine Kriegserklärung an China.
+Found
+MODSMD_ARTICLE17: Japanische Landung auf der Insel Hainan.
+Found

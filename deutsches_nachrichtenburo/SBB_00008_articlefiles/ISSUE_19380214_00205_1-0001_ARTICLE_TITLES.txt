@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Dr. Goebbels überreichte das Goldene Ehrenzeichen.
+Found
+MODSMD_ARTICLE02: Ehrenpreis Dr. Fricks.
+Found
+MODSMD_ARTICLE03: Siedlungen für Waldarbeiter.
+Found
+MODSMD_ARTICLE04: Professor Dr. Ludwig Schemann f.
+Found
+MODSMD_ARTICLE05: Mussolinis Spende für das WHW.
+Found
+MODSMD_ARTICLE06: Deutsche Bergleute Gäste der deutschen Kolonie in Brüssel.
+Found
+MODSMD_ARTICLE07: Proteste gegen Rundfunkvorträge über die Genfer Liga.
+Found
+MODSMD_ARTICLE08: Ueberflüssige Einladung an einen Genfer Ausschuß.
+Found
+MODSMD_ARTICLE09: Umbildung des englischen Kabinetts?
+Found
+MODSMD_ARTICLE10: Pressestimmen zu Chamberlains Außenpolitik.
+Found
+MODSMD_ARTICLE11: Die Internationale, übertönt die englische Hymne.
+Found
+MODSMD_ARTICLE12: Verbot der meisten Boulevardblätter in Bukarest?
+Found
+MODSMD_ARTICLE13: Polenreise des neuen rumänischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE14: Der finnische Kultusminister in Warschau.
+Found
+MODSMD_ARTICLE15: Genug mit den Untexschämtheiten der Presse!
+Found
+MODSMD_ARTICLE16: Verlustreicher Rückzug der Chinesen.
+Found
+MODSMD_ARTICLE17: Uebergang der Japaner über den Hwai-Fluß.
+Found
+MODSMD_ARTICLE18: Zwei-Fronten-Flotte „ein kostspieliges Geschäft".
+Found
+MODSMD_ARTICLE19: „König Georg VI. – Dock" in Singapur eröffnet.
+Not Found
+MODSMD_ARTICLE20: Ein Verräter hingerichtet.
+Found
+MODSMD_ARTICLE21: Vollstreckung eines Todesurteils.
+Found
+MODSMD_ARTICLE22: Zum Fährbootunglück in Sydney.
+Found

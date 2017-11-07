@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Fuhrer nach Leipzig unterwegs.
+Found
+MODSMD_ARTICLE02: Der Führer in Leipzig eingetroffen.
+Found
+MODSMD_ARTICLE03: Der Führer im Leipziger Rathaus.
+Found
+MODSMD_ARTICLE04: Geburtstagsglückwunsch des Führers für Prof. Dr. Pfeiffer.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Ehrung des Gelehrten Ernst Curtius.
+Found
+MODSMD_ARTICLE07: Japanisches Generalkonsulat in Wen.
+Found
+MODSMD_ARTICLE08: Reichsmarkwährung im Postsparkassenverkehr.
+Found
+MODSMD_ARTICLE09: Bedeutend ermäßigte Postgebühren für Oesterreich.
+Found
+MODSMD_ARTICLE10: Vorübergehend Doppelwährung in Oesterreich.
+Found
+MODSMD_ARTICLE11: Viktor Emanuel 111. empfängt Professor Gericke.
+Found
+MODSMD_ARTICLE12: Der italienische Minister Alsieri in Belgrad.
+Found
+MODSMD_ARTICLE13: Ein nationaler Verteidigungsfonds in Lettland.
+Found
+MODSMD_ARTICLE14: Auf Westerland gestrandet und geborgen.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Vestchtigungsreise des Reichskriegsministers.
+Found
+MODSMD_ARTICLE02: Aenderung der Waffenfarbe der Nachrichtentruppe.
+Found
+MODSMD_ARTICLE03: Wehrpflichtigen-Beurlaubung für die Landwirtschaft.
+Found
+MODSMD_ARTICLE04: Internationale Eisenbahntagung in Kopenhagen.
+Found
+MODSMD_ARTICLE05: Nundfunkansprache van Zeelands an das belgische Volk.
+Found
+MODSMD_ARTICLE06: Generalstabschef Roost in Bern gestorben.
+Found
+MODSMD_ARTICLE07: Truppenparade der libyschen Streitkräfte.
+Found
+MODSMD_ARTICLE08: Bedenken der „Ere Rondelle" gegen die 40-Stunden-Woche.
+Found
+MODSMD_ARTICLE09: Verteilung der Sitze in den Pariser Kammerausschüssen.
+Found
+MODSMD_ARTICLE10: Herausgeber der „Humanite" aus der Haft entlassen.
+Found
+MODSMD_ARTICLE11: Verhaftungen in der Phönix-Angelegenheit in Polen.
+Found
+MODSMD_ARTICLE12: Die Generalstabschefs der Kleinen Entente in Bukarest.
+Found
+MODSMD_ARTICLE13: Rumänische Nationalistenführer vor Gericht.
+Found
+MODSMD_ARTICLE14: Die Frage der Schuld am Bukarester Einsturzunglück.
+Found
+MODSMD_ARTICLE16: London für Verschiebung der Meerengenkonferenz.
+Found
+MODSMD_ARTICLE17: Eisenbahnzüge in Palästina unter militärischem Schutz.
+Found
+MODSMD_ARTICLE18: „Morning Post" über die Unruhen in Palästina.
+Found
+MODSMD_ARTICLE19: Die Unterredung Leith Roß—Arita.
+Not Found
+MODSMD_ARTICLE20: Olympia-Abend in Tokio.
+Found
+MODSMD_ARTICLE21: Japan warnt vor Zwischenfällen.
+Found

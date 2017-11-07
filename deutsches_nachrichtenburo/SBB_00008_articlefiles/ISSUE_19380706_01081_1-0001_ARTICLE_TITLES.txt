@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Aus der Diplomatie-
+Found
+MODSMD_ARTICLE02: Memeldeutsche Zu Zwangsarbeit und Gefängnis verurteilt.
+Found
+MODSMD_ARTICLE03: Sudetendeutscher Lehrertag.
+Found
+MODSMD_ARTICLE04: Recht und Frieden für die Minderheiten?
+Found
+MODSMD_ARTICLE05: Französischer Orden für Minister Jezek.
+Found
+MODSMD_ARTICLE06: 9. Sitzung des Internationalen Bibliothekarverbandes.
+Found
+MODSMD_ARTICLE07: Präsident Gabler in sein Amt eingeführt.
+Found
+MODSMD_ARTICLE08: Kabinettssitzung in London.
+Found
+MODSMD_ARTICLE09: Das Schicksal der Sowjetbotschafter.
+Found
+MODSMD_ARTICLE10: Nationalspanischer Ministerrat.
+Found
+MODSMD_ARTICLE11: Grauenhafte Greuel der Bolschewisten in Burriana.
+Found
+MODSMD_ARTICLE12: Verstärkter Luftschutz auch in Norwegen.
+Found
+MODSMD_ARTICLE13: Ausbürgerung von Polen, die ihr Volk vergessen.
+Found
+MODSMD_ARTICLE14: Syrien verweigert Unterschrift unter Sandschak-Vertrag.
+Found
+MODSMD_ARTICLE15: Der Führer der Sandschak-Araber wieder in Freiheit.
+Found
+MODSMD_ARTICLE16: Der Belagerungszustand im Sandschak aufgehoben.
+Found
+MODSMD_ARTICLE17: Ter Abschied der deutschen Militärberater aus China.
+Found
+MODSMD_ARTICLE18: Scharfe Worte der japanischen Presse gegen Frankreich.
+Found
+MODSMD_ARTICLE19: Die Menschenverluste im China-Konflikt»
+Found
+MODSMD_ARTICLE20: Ljuschkows Persönlichkeit einwandfrei festgestellt.
+Found
+MODSMD_ARTICLE21: Ein Raubmörder hingerichtet.
+Found
+MODSMD_ARTICLE22: Die Messerschnntt-„Taifnn" bewährt sich aufs neue.
+Found

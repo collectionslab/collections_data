@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer in Dresden.
+Found
+MODSMD_ARTICLE02: Ernennung im polnischen Außenministerium.
+Found
+MODSMD_ARTICLE03: Die Lage der polnischen Minderheit in Litauen.
+Found
+MODSMD_ARTICLE04: Auch der Zinssatz französischer Schatzbonds erhöht.
+Found
+MODSMD_ARTICLE05: Was die französischen Kommunisten wünschen.
+Found
+MODSMD_ARTICLE06: Nationalrat der Sozialistischen Partei einberufen.
+Found
+MODSMD_ARTICLE07: Französische Ratschläge für Mussolini.
+Found
+MODSMD_ARTICLE08: Das unruhige Spanien.
+Found
+MODSMD_ARTICLE09: 47 Tote in Spanien in 14 Tagen.
+Found
+MODSMD_ARTICLE10: Britischer Reichsverteidigungsausschuß zusammengetreten.
+Found
+MODSMD_ARTICLE11: Mannschaftsmangel in der englischen Luftmacht.
+Found
+MODSMD_ARTICLE12: Hertzog für Aufrechterhaltung der Sühnemaßnahmen.
+Found
+MODSMD_ARTICLE13: Der Negus in Suez.
+Found
+MODSMD_ARTICLE14: Truppenparade in Sofia.
+Found
+MODSMD_ARTICLE15: Abessinien das warnende Beispiel.
+Found
+MODSMD_ARTICLE16: Die Autouomiebestrebuugen der Inneren Mongolei.
+Found
+MODSMD_ARTICLE17: Sowjetfahne auf Oberstem Bundesgericht der USA.
+Found

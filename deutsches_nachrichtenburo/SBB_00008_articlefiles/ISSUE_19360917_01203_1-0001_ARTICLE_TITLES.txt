@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer bei der Parade des 5. Armeekorps.
+Found
+MODSMD_ARTICLE02: Die erste Hitler-Urlauber-Kameradschaft in München.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Ergebnislose Schlichtungsverhandlungen.
+Found
+MODSMD_ARTICLE05: Diplomatenempfiinge bei Delbos.
+Found
+MODSMD_ARTICLE06: Die Sitzung des Vollzugsausschusses der Nadikalsozialisten.
+Found
+MODSMD_ARTICLE07: Französische Forderungen an Spanisch-Marokko.
+Found
+MODSMD_ARTICLE08: Der Aufenthalt des Staatssekretärs Schmidt in Rom.
+Found
+MODSMD_ARTICLE09: Vor der Abreise der britischen Völkerbundsdelegierten.
+Found
+MODSMD_ARTICLE10: MacMahons Verteidiger legt Berufung ein.
+Found
+MODSMD_ARTICLE11: General Dill geht in Palästina scharf vor.
+Found
+MODSMD_ARTICLE12: Beschränkung der Aufenthaltsgenehmigung in Gibraltar.
+Found
+MODSMD_ARTICLE13: Rote Flugzeuge bombardieren San Sebastian und Oviedo.
+Found
+MODSMD_ARTICLE14: Frankreich gibt Flugzeug an Madrid zurück.
+Found
+MODSMD_ARTICLE15: Madrid will neues Geld ausgeben.
+Found
+MODSMD_ARTICLE16: Note Bestien.
+Found
+MODSMD_ARTICLE17: Weitere Erfolge der Nationalisten.
+Found
+MODSMD_ARTICLE18: Ein amerikanisches Geschwader für Europa.
+Found
+MODSMD_ARTICLE19: Abessinische Vertreter für die Genfer Ratssitzung.
+Found

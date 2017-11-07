@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Dr. Goebbels bei dem Autoren-Bankett.
+Found
+MODSMD_ARTICLE02: Schwede-Coburg an den Seedienst Ostpreußen.
+Found
+MODSMD_ARTICLE03: Ein deutsches Kunstwerk für Prinzessin Juliana.
+Found
+MODSMD_ARTICLE04: Die deutsch-ungarische Besuchsfahrt 193 k.
+Found
+MODSMD_ARTICLE05: Ungarns Presse zur antibolschewistischen Kundgebung.
+Found
+MODSMD_ARTICLE06: Oesterreichischer Ministerrat bestätigt Nichtabwertung.
+Found
+MODSMD_ARTICLE07: Portugiesischer Protest gegen den roten Terror.
+Found

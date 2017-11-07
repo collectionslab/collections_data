@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Die Werbung für das deutsche Aachbuch.
+Found
+MODSMD_ARTICLE02: Starke Beachtung der Reden Görmgs in Paris.
+Found
+MODSMD_ARTICLE03: Blutige Zwischenfälle in Tunesien.
+Found
+MODSMD_ARTICLE04: König Boris von Bulgarien wieder in Sofia.
+Found
+MODSMD_ARTICLE05: Bundesstaätliche Verfassung Belgiens?
+Found
+MODSMD_ARTICLE06: Bolschewistische Rmsturzpläne für Belgien?
+Found
+MODSMD_ARTICLE07: Abschluß der brasilianisch-amerikanischen Verhandlungen.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Kanzlei des Führers vom 28. 1. bis 10. 2. geschlossen.
+Found
+MODSMD_ARTICLE02: Die deutschen Hoggar-Flieger wieder daheim.
+Found
+MODSMD_ARTICLE03: Eine Rede des Reichsarbeitsmiyisters Seldte in Essen.
+Found
+MODSMD_ARTICLE05: Die Tagung der Kommission für Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE06: Staatssekretär Bohle in Wien.
+Found
+MODSMD_ARTICLE07: Deutsches Konzert für Falange-Führerinnen in Salamanca.
+Found
+MODSMD_ARTICLE08: USA.-Kommunisten versprechen Sowjetspanien Hilfe.
+Found
+MODSMD_ARTICLE09: Ein Netz von Spitzeln terrorisiert ,
+Found
+MODSMD_ARTICLE10: Engländer als Gäste bolschewistischer Massenmörder.
+Found
+MODSMD_ARTICLE11: Explosion in schottischer Sprengstoff-Fabrik. K Tote.
+Found
+MODSMD_ARTICLE12: Kommunistische Geheimdruckereien in Sofia ausgehoben.
+Found
+MODSMD_ARTICLE13: Athens Presse begrüßt die Regierungsmasmahmen.
+Found
+MODSMD_ARTICLE14: Süuberungsaktion der Staatspolizei in Montreal.
+Found
+MODSMD_ARTICLE15: Streik in der mexikanischen Elektroindustrie.
+Found
+MODSMD_ARTICLE16: Tie Einmischung Moskaus in den Fernostkonflikt.
+Found
+MODSMD_ARTICLE17: Moskau schürt weiter. Tokio berät Gegenmaßnahmen.
+Found

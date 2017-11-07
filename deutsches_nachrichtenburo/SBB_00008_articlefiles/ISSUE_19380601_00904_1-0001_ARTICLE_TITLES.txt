@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Adolf Hitler-Spende auch für Oesterreich.
+Found
+MODSMD_ARTICLE02: Ter ungarische Handelsmmister in Berlin.
+Found
+MODSMD_ARTICLE03: Empfang der italienischen und der ungarischen Handwerker.
+Found
+MODSMD_ARTICLE04: Der Skagerrak-Gedenktag in Wilhelmshaven.
+Found
+MODSMD_ARTICLE05: Die Alliance Internationale de Tourisme in Nürnberg.
+Found
+MODSMD_ARTICLE06: Ausreise sudetendeutscher Sänger ins Reich verhindert.
+Found
+MODSMD_ARTICLE07: Noch ein Beispiel tschechischen Wahlterrors.
+Found
+MODSMD_ARTICLE08: Das Begräbnis des abgestürzten tschechischen Fliegers.
+Found
+MODSMD_ARTICLE09: Römische Blätter zur Verschleppungstaktik Prags.
+Found
+MODSMD_ARTICLE10: Anerkennung des Imperiums durch Bulgarien.
+Found
+MODSMD_ARTICLE11: Jubel um die deutschen Musikkorps.
+Found
+MODSMD_ARTICLE12: Der Eröffnungsflug Berlin—Bukarest.
+Not Found
+MODSMD_ARTICLE13: Graf Raczinski überreicht sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE14: Sowjetjude Kohn provoziert im Nichteinmischungsausschust.
+Found
+MODSMD_ARTICLE15: Tagung der Internationalen Arbeitskonserenz.
+Found
+MODSMD_ARTICLE16: Bolschewisten auf dem Rückzug.
+Found
+MODSMD_ARTICLE17: Sowjetbotschafter Maisky „auf Urlaub".
+Found

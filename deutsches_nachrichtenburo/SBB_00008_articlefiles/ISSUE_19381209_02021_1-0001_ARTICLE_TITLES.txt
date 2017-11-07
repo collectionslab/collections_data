@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Korpsintendant Marcard zum Gruppenintendanten ernannt.
+Found
+MODSMD_ARTICLE02: Deutsch-chilenisches Handels- und Zahlungsabkommen.
+Found
+MODSMD_ARTICLE03: „Die Verhandlungen nicht beendet."
+Found
+MODSMD_ARTICLE04: Portugal: „Ein Akt von historischer Bedeutung."
+Found
+MODSMD_ARTICLE05: Verfehlte USA.-Forderungen in Lima.
+Found
+MODSMD_ARTICLE06: Der Verfall in Sowjetspanien.
+Found
+MODSMD_ARTICLE07: Sandler zur außenpolitischen Lage.
+Found
+MODSMD_ARTICLE08: Die Judenfrage in der Slowakei.
+Found
+MODSMD_ARTICLE09: Anhaltende antiitalienische Kundgebungen in Tunis.
+Found
+MODSMD_ARTICLE10: Gänzliches Verbot einer arabischen Zeitung.
+Found
+MODSMD_ARTICLE11: Neue scharfe Unterdrückungsmasznahmen in Palästina.
+Found
+MODSMD_ARTICLE12: Verhandlungen zwischen Japan, England und Amerika.
+Found
+MODSMD_ARTICLE13: Juden provozieren in New Aork.
+Found

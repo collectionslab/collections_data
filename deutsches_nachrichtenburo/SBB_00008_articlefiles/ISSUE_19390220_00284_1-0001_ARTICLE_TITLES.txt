@@ -1,0 +1,40 @@
+MODSMD_ARTICLE02: Das Heilpraktikergesetz.
+Found
+MODSMD_ARTICLE03: Glückwunsch des Reichsinnenministers Dr. Frick.
+Found
+MODSMD_ARTICLE04: Satzung der Stiftung „Deutscher Sportdank".
+Found
+MODSMD_ARTICLE05: Neichsfnhrerschule des Deutschen Roten Kreuzes.
+Found
+MODSMD_ARTICLE06: Zum Senatsprösidenten beim Reichskriegsgericht ernannt.
+Found
+MODSMD_ARTICLE08: Studienkommission des Frauenamtes der DAF. in Turin.
+Found
+MODSMD_ARTICLE09: „Bewußte Verschwörung gegen den Frieden."
+Found
+MODSMD_ARTICLE10: Realismus der polnischen Politik.
+Found
+MODSMD_ARTICLE11: Polnisch-sowjetrussischer Handelsvertrag.
+Found
+MODSMD_ARTICLE12: Tie Schlamperei in der Sowjetwirtschaft.
+Found
+MODSMD_ARTICLE13: Naiisnalspanischer Geschäftsträger in Warscham
+Found
+MODSMD_ARTICLE14: Terror in der rotspanischen Provinz Murcia.
+Found
+MODSMD_ARTICLE15: Ein Peiniger Barcelonas verhaftet.
+Found
+MODSMD_ARTICLE16: Berard verließ Burgos nicht endgültig.
+Found
+MODSMD_ARTICLE17: Krampfhafte Bemühungen um Azana.
+Found
+MODSMD_ARTICLE18: Unruhen in Syrien.
+Found
+MODSMD_ARTICLE19: Zweitägiges Ausgchverbot in Jerusalem.
+Found
+MODSMD_ARTICLE20: „Seefalke" zum Rückflug gestartet.
+Found
+MODSMD_ARTICLE21: Caughliu klärt Amerika über den Juden auf.
+Found
+MODSMD_ARTICLE22: „Neberschüssige Waren" der Vereinigten Staaten.
+Found

@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Ter Führer an die Berliner.
+Found
+MODSMD_ARTICLE02: Nürnberg stiftet eine Jugendherberge in Braunau.
+Found
+MODSMD_ARTICLE03: Die Preisbildungsbestimmungen gelten auch in Oesterreich.
+Found
+MODSMD_ARTICLE04: Neu aufgestelltes SS.-Bataillon kommt nach Wien.
+Found
+MODSMD_ARTICLE05: Hermann Göring-Stiftung für die NSV. Oesterreichs.
+Found
+MODSMD_ARTICLE06: Hermann Göring in Wiener-Neustadt.
+Found
+MODSMD_ARTICLE07: . . . . und in Sowjetrußland Massenhinrichtungen!
+Found
+MODSMD_ARTICLE08: 100 Kundgebungen des Sudetendentschtums.
+Found
+MODSMD_ARTICLE09: Japan verbietet französischen Hetzfilm.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Ausländische Anerkennung für die deutsche Wohlfahrtspflege.
+Found
+MODSMD_ARTICLE02: Die Olympia-Filme in Venedig.
+Found
+MODSMD_ARTICLE03: „Die Rassenfrage eine rein politische Frage."
+Found
+MODSMD_ARTICLE04: Sitzung der Volksfrontvereinignng.
+Found
+MODSMD_ARTICLE05: Bonnet erhielt keine Bestätigung.
+Found
+MODSMD_ARTICLE06: Empfänge bei Bouuet.
+Found
+MODSMD_ARTICLE07: Die Marseiller Hafenarbeiter beim Präfekten.
+Found
+MODSMD_ARTICLE08: Die englische Presse zur Berliner Parade.
+Found
+MODSMD_ARTICLE09: Vor wichtigen Erklärungen der englischen Regierung.
+Found
+MODSMD_ARTICLE10: Seltsame Auslassungen der englischen Presse.
+Found
+MODSMD_ARTICLE11: Londoner Presse über angebliche Prager Augeständnisse.
+Found
+MODSMD_ARTICLE12: Prag erhöht Rüstungsausgaben um Milliarden.
+Found
+MODSMD_ARTICLE13: Ministerberatungen in Prag.
+Found
+MODSMD_ARTICLE14: Die Flucht vor der Wahrheit.
+Found
+MODSMD_ARTICLE15: Unterredung des französischen Botschafters mit dcl Vayo.
+Found
+MODSMD_ARTICLE16: 16 666 bolschewistische Gefangene an der Ebrofront.
+Found
+MODSMD_ARTICLE17: Die sowjetrussische Mißwirtschaft.
+Found
+MODSMD_ARTICLE18: Wieder zehn Bluturteile in Sowjetrußland.
+Found
+MODSMD_ARTICLE19: Der portugiesische Generalkonsul in New Aork verunglückt.
+Found
+MODSMD_ARTICLE20: „Tag der Soldaten" in Brasilien.
+Found

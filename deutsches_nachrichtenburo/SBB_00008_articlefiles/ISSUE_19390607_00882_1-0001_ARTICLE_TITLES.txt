@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr. Goebbels besichtigte Wiener Theater.
+Found
+MODSMD_ARTICLE02: Gesunde deutsche Finanzpolitik.
+Found
+MODSMD_ARTICLE03: Abschiedsabend für 2W finnische Freiheitskämpfer.
+Found
+MODSMD_ARTICLE04: „Esti Ujsag" zur Heimkehr der Legionäre.
+Found
+MODSMD_ARTICLE05: Polen zur Condor-Parade.
+Found
+MODSMD_ARTICLE06: Der ewige Kommandowechsel in der Roten Armee.
+Found
+MODSMD_ARTICLE07: „Daily Expreß" warnt erneut vor Sowjetrußland.
+Found
+MODSMD_ARTICLE08: London als Mittelpunkt der Einkreisung.
+Found
+MODSMD_ARTICLE09: Neue militärische Titel in Frankreich.
+Found
+MODSMD_ARTICLE10: Des Führers Antwort war vernichtend.
+Found
+MODSMD_ARTICLE11: Königsbesuchsfahrt durch ein Spalier von Regungslosen.
+Found

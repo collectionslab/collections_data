@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Frontkämpfer ehren ihre gefallenen Kriegskameraden.
+Found
+MODSMD_ARTICLE02: Berufung in den Reichsverkehrsrat.
+Found
+MODSMD_ARTICLE03: Die Neichsnotarordnung.
+Found
+MODSMD_ARTICLE05: Ter bolschewistensreundliche britische Rundfunk.
+Found
+MODSMD_ARTICLE06: Ehrung für deutsche Gefallene in Gibraltar.
+Found
+MODSMD_ARTICLE07: Botschafter Faupel auf dem Wege nach Salamauca.
+Found
+MODSMD_ARTICLE08: Vinzenz Lancia f.
+Found
+MODSMD_ARTICLE09: Ein bolschewistischer Massenmörder gefangen.
+Found
+MODSMD_ARTICLE10: Der amtliche Heeresbericht.
+Found
+MODSMD_ARTICLE11: Wie die Nichteinmischung aussieht.
+Found
+MODSMD_ARTICLE12: Der Kampf der Schweiz gegen den Kommunismus.
+Found
+MODSMD_ARTICLE13: Trmksprüche von Metaxas und Stojadmowitsch.
+Found
+MODSMD_ARTICLE14: Abfuhr für marxistische Seemannsgewerkschaft in Oslo.
+Found

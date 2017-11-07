@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Ein Geschenk des Führers an Reichsverweser von Horthy.
+Found
+MODSMD_ARTICLE02: Staatssekretär Reinhardt über den Zollgrenzschutz.
+Found
+MODSMD_ARTICLE03: Empfang beim deutschen Gesandten in Kairo.
+Found
+MODSMD_ARTICLE04: Eden Ehrendoktor der Universität Durhan!»
+Found
+MODSMD_ARTICLE05: London zurückhaltend.
+Found
+MODSMD_ARTICLE06: DWe außenpolitische Aussprache im Unterhaus.
+Found
+MODSMD_ARTICLE07: Der Charakter der Nichteinmischungs-Verhandlungen.
+Found
+MODSMD_ARTICLE08: Keine Ostertagung zur Nichteinmischungsfrage.
+Found
+MODSMD_ARTICLE09: 5W Amerikaner nach Spanien befördert.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Vormittags-Ausgabe. Deutsches Nachrichtenbüro bff
+Found
+MODSMD_ARTICLE02: Josef Wagner über sein Aufgabengebiet
+Found
+MODSMD_ARTICLE03: Keine Vergewaltigung der Wirtschaft.
+Found
+MODSMD_ARTICLE04: Das Wesen des Preises.
+Found
+MODSMD_ARTICLE05: Kein Platz für Wirtschaftsegoismus.
+Found
+MODSMD_ARTICLE06: Notwendigkeit staatlichen Eingreifens.
+Found
+MODSMD_ARTICLE07: Die Wirtschaft eine Einheit.
+Found
+MODSMD_ARTICLE08: Die Tätigkeit des Reichskommissars.
+Found
+MODSMD_ARTICLE09: Einschaltung der nationalsozialistischen Bewegung.
+Found
+MODSMD_ARTICLE10: Die sittlichen Kräfte der deutschen Wirtschaft.
+Found
+MODSMD_ARTICLE11: Das Ziel des Vierjahresplanes.
+Found
+MODSMD_ARTICLE12: Preisbildung als organischer Vorgang.
+Found
+MODSMD_ARTICLE13: Die Wirtschaft muß Leistungen vollbringen.
+Found

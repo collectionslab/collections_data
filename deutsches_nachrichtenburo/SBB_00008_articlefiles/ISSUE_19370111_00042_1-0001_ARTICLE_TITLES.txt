@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Urlaubsreife Görinas nach Italien.
+Found
+MODSMD_ARTICLE02: Die Hetze gegen Schmelings Weltmeisterschaftskampf.
+Found
+MODSMD_ARTICLE03: Eine Devisenschieberbande in Preßburg gesaßt.
+Found
+MODSMD_ARTICLE04: Der „Gcgensireik" in den Liller Metallwerken.
+Found
+MODSMD_ARTICLE05: Tie richtige Überschrift.
+Found
+MODSMD_ARTICLE06: Marokkohetze gleichzeitig ein Börseumanöver?
+Found
+MODSMD_ARTICLE07: und die Freiwilligellfrage.
+Found
+MODSMD_ARTICLE08: Pariser Rechtsabgeordneter für Anwerbungs-Verbot.
+Found
+MODSMD_ARTICLE09: Die außenpolitische Haltung der Radikalsozialisten.
+Found
+MODSMD_ARTICLE10: De Tessant über außenpolitische Magen.
+Found
+MODSMD_ARTICLE11: „Observer" über die Einmischung Moskaus in Spanien.
+Found
+MODSMD_ARTICLE12: Die Rolle Sowjetrnßlands in Spanien.
+Found
+MODSMD_ARTICLE13: Die Spanienbolschewiken lehnen Grenzkontrolle ab.
+Found
+MODSMD_ARTICLE14: Trotz Verbots weiter Freiwilligenwerbung in England.
+Found
+MODSMD_ARTICLE15: Weitere Erfolge der nationalen Truppen.
+Found
+MODSMD_ARTICLE16: Auch die Türkei wehrt sich.
+Found

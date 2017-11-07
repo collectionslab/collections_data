@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Abend-Ansgabe« Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Jagdgeschwader Richthofen meldet den 199. Lustsieg.
+Found
+MODSMD_ARTICLE03: Bombentreffer vernichtete den Kreuzer „Effiingham".
+Found
+MODSMD_ARTICLE04: Meinungsverschiedenheiten zwischen Paris und London.
+Found
+MODSMD_ARTICLE05: Breslauer Messe 1940 eröffnet.
+Found
+MODSMD_ARTICLE06: „Fackelträger der neuen Zeit."
+Found
+MODSMD_ARTICLE07: Reynauds Rede: „Eingeständnis der Niederlage".
+Found
+MODSMD_ARTICLE08: Trostargumente, die nicht mehr helfen.
+Found
+MODSMD_ARTICLE09: Wie ein Blitzstrahl!
+Found
+MODSMD_ARTICLE10: „Gegen die deutschen Panzer machtlos."
+Found

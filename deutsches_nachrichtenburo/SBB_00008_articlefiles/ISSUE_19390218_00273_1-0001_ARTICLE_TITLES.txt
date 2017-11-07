@@ -1,0 +1,38 @@
+MODSMD_ARTICLE03: Der Führer im Kreise der Automobilarbeiterschaft.
+Found
+MODSMD_ARTICLE04: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE05: Dr. Dietrich sprach zu den Sudeten-Journalisten.
+Found
+MODSMD_ARTICLE06: Atlantik Flugboot „Seefalke" in Rio de-Janeiro.
+Found
+MODSMD_ARTICLE07: Zusammenarbeit der Bauern aller Länder.
+Found
+MODSMD_ARTICLE08: Ncichsiuspekteur Gauleiter Leopold 59 Jahre alt.
+Found
+MODSMD_ARTICLE09: Dr. h. c. Schiele gestorben.
+Found
+MODSMD_ARTICLE10: Kein Attentat auf Mussolini.
+Found
+MODSMD_ARTICLE11: Die spanische Nation immer bereit.
+Found
+MODSMD_ARTICLE12: Bolksvergifter ihrer Krofessorwürden entkleidet.
+Found
+MODSMD_ARTICLE13: Bonnet empfing den sowjetspanischen „Außenminister".
+Found
+MODSMD_ARTICLE14: Die roten Bonzen flüchten aus Madrid.
+Found
+MODSMD_ARTICLE15: Lord Runciman macht eine längere Erholungsreise.
+Found
+MODSMD_ARTICLE16: Ablehnung britischer Vorschläge durch die Araber.
+Found
+MODSMD_ARTICLE17: Streit um die „Casa d'Espana" in Brüssel.
+Found
+MODSMD_ARTICLE18: Zwangsweise Einstellung des Warenverkehrs.
+Found
+MODSMD_ARTICLE19: kubanische Ehrung für drei deutsche Naturforscher.
+Found
+MODSMD_ARTICLE20: Brasilien: „Ein schöner Beweis menschlicher Solidarität."
+Found
+MODSMD_ARTICLE21: Brasilien, Argentinien und Uruguay für Francs.
+Found

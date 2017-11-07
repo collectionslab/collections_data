@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Reichsinimster Dr. Frank nach Rom abgereist.
+Found
+MODSMD_ARTICLE02: Die Jahrestagung der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE03: Dr. Mick Ehrenbürger von Elbing.
+Found
+MODSMD_ARTICLE04: Das neue Deutsche Haus in Genua.
+Found
+MODSMD_ARTICLE05: Erholungsaufenthalt Stojadinowitschs am Gardasee.
+Found
+MODSMD_ARTICLE06: Daladier als Gast des deutschen Botschafters.
+Found
+MODSMD_ARTICLE07: Lamoureux gegen falsche Ratgeber.
+Found
+MODSMD_ARTICLE08: Internationale Wegeansstellung im Haag.
+Found
+MODSMD_ARTICLE09: Für unzweideutige Neutralitätspolitik Schwedens.
+Found
+MODSMD_ARTICLE10: Die Frage des Bombenabwurfs auf offene Städte.
+Found
+MODSMD_ARTICLE11: Revision gegen den Freispruch eines Waffenschmugglers.
+Found
+MODSMD_ARTICLE12: Neuer Schlag Prags gegen die Volksgrupenpresse.
+Found
+MODSMD_ARTICLE13: Warschau ist skeptisch.
+Found
+MODSMD_ARTICLE14: Polnisches Nationalmuseum vom Staatspräsidenten eröffnet.
+Found
+MODSMD_ARTICLE15: Die „Säuberung" im Militärbezirk Kiew.
+Found
+MODSMD_ARTICLE16: Polnische Blätter zur Drohrede Kaliums.
+Found
+MODSMD_ARTICLE17: Die letzte Kirche in Minsk geschlossen.
+Found
+MODSMD_ARTICLE18: „Nationaler Fliegerfonds Nikolaus von Horthy".
+Found
+MODSMD_ARTICLE19: Weitere Anhänger Codreanus im Konzentrationslager.
+Found
+MODSMD_ARTICLE20: Rumänische Ehrung für den polnischen Unterrichtsminister.
+Found
+MODSMD_ARTICLE21: Neue Namen in der Ukraine.
+Found
+MODSMD_ARTICLE22: Ruhe im Sandschak bei anhaltender Spannung.
+Found
+MODSMD_ARTICLE23: Pittman für Revision der Neutralitätspolitik.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die ungarischen Philharmoniker in Frankfurt a. M.
+Found
+MODSMD_ARTICLE02: Ein Vortrag Professor Marchs in Wien. s
+Found
+MODSMD_ARTICLE03: Schuschmgg empfängt französische Parlamentarier.
+Found
+MODSMD_ARTICLE04: Polens Kampf gegen die Preissteigerungen.
+Found
+MODSMD_ARTICLE05: Genfer Großer Rat für Verbot der Kommunistischen Partei.
+Found
+MODSMD_ARTICLE06: Der litauische Außenminister in Paris.
+Found
+MODSMD_ARTICLE07: Unterredung Bastid—Potemkin.
+Not Found
+MODSMD_ARTICLE08: Diplomatenessen in Paris.
+Found
+MODSMD_ARTICLE09: Die Bolkssrontpolitik wirkt sich aus.
+Found
+MODSMD_ARTICLE10: De la Rocgue erhebt Einspruch gegen Strafverfolgung.
+Found
+MODSMD_ARTICLE11: Strafverfahren auch gegen Jean Renaud.
+Found
+MODSMD_ARTICLE12: „St. Denis in Belagerungszustand".
+Found
+MODSMD_ARTICLE13: „Candide" über die Auswirkungen der Volksfrontpolitik.
+Found
+MODSMD_ARTICLE14: Die Arbeiten der Zuckerkonferenz.
+Found
+MODSMD_ARTICLE15: Ausbau der englischen Autostraßen.
+Found
+MODSMD_ARTICLE16: Feuersbrunst auf den Philippinen: 16 666 Obdachlose.
+Found
+MODSMD_ARTICLE17: Fliegerbomben auf das Schaktu-Tal.
+Found
+MODSMD_ARTICLE18: Die Kennzahl der Großhandelspreise im Monatsdurchschnitt März.
+Found

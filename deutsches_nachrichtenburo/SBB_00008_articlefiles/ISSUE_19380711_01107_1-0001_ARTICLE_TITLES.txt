@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Der Ehrentag der deutschen Kunst.
+Found
+MODSMD_ARTICLE02: Der Führer am Grabe von Professor Troost.
+Found
+MODSMD_ARTICLE03: Heinrich Hoffmann zum Professor ernannt.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Der Chef des Strasienwesens der USA. bei Dr. Todt.
+Found
+MODSMD_ARTICLE06: Das Erlöschen der Familienfideikommisse.
+Found
+MODSMD_ARTICLE07: Das Espadan-Gebirge völlig im Besitz der Nationalen.
+Found

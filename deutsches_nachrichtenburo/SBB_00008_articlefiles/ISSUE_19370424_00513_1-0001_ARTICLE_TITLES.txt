@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Stuttgarter Besuch der italienischen Journalisten.
+Found
+MODSMD_ARTICLE02: Arbeit und Aufgaben des Comite France-Allemagne.
+Found
+MODSMD_ARTICLE03: Schuschnigg und Schmidt wieder in Wien.
+Found
+MODSMD_ARTICLE04: Venedig im Spiegel der Wiener Presse.
+Found
+MODSMD_ARTICLE05: Der Hungerstreik in Ostoberschlesien beendet.
+Found
+MODSMD_ARTICLE06: Daladier in Manchester.
+Found
+MODSMD_ARTICLE07: Autobusverkehr in Teilen Englands lahmgelegt.
+Found
+MODSMD_ARTICLE08: Englisch-französische Erklärung an Belgien unterzeichn
+Found
+MODSMD_ARTICLE09: Verschwinden eines Sowjetrussen in Marseille.
+Found
+MODSMD_ARTICLE10: Wer seinen Hunger stillt, begeht Staatsverbrechen.
+Found
+MODSMD_ARTICLE11: Die Kennzahl der Großhandelspreise vom 21. Apru.
+Found

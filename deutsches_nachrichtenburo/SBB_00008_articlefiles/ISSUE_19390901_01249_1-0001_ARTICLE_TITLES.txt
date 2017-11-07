@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Oberkommando der Wehrmacht gibt bekannt.
+Found
+MODSMD_ARTICLE02: Die Luftwaffe bombardierte ausschließlich militärische Ziele.
+Found
+MODSMD_ARTICLE03: England von den Vorschlägen des Führers unterrichtet!
+Found
+MODSMD_ARTICLE04: Warschau nannte das Angebot des Führers „unverschämt".
+Found
+MODSMD_ARTICLE05: Danzig zeigt sein deutsches Gesicht.
+Found
+MODSMD_ARTICLE06: Abreise des Genfer Kommissars aus Danzig.
+Found
+MODSMD_ARTICLE07: Große Waffenfunde in den polnischen AmtsAebäuden.
+Found
+MODSMD_ARTICLE08: Verwaltungsmaßnahmen in Danzig.
+Found
+MODSMD_ARTICLE09: Die letzte himmelschreiende polnische Provokation.
+Found
+MODSMD_ARTICLE10: Der Bahnhof von Beuthen beschossen.
+Found
+MODSMD_ARTICLE11: Schweizerische Neutralitätserklärung in Paris übergeben.
+Found
+MODSMD_ARTICLE12: Nepal zu den Vorschlägen des Führers.
+Found
+MODSMD_ARTICLE13: Der dänische Reichstag einberufen.
+Found
+MODSMD_ARTICLE14: Gesamtmobilmachung in England.
+Found
+MODSMD_ARTICLE15: Ruhige Aufnahme in Belgien.
+Found
+MODSMD_ARTICLE16: Schuld trägt allein der Krämergeist der Demokratien.
+Found
+MODSMD_ARTICLE17: Die Rede Molotows im Mittelpunkt der Moskauer Presse.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Funk und Ley auf der Handwerkstagung.
+Found
+MODSMD_ARTICLE02: Die Reichsarbeitstagung der NSKOV.
+Found
+MODSMD_ARTICLE03: Der Führer Dienstag abend Wieder in Berlin.
+Found
+MODSMD_ARTICLE04: Komintern finanziert Kircheneinbrüche in Polen.
+Found
+MODSMD_ARTICLE05: Die neue estnische Regierung.
+Found
+MODSMD_ARTICLE06: Lord Halifax bei Bonnet.
+Found
+MODSMD_ARTICLE07: Deutscher Torpedobootszerstörer in Gotenburg.
+Found
+MODSMD_ARTICLE08: Betrogene Rotspaniensöldner.
+Found
+MODSMD_ARTICLE09: Belgische Minister zu Wirtschastsverhandlungen in Paris.
+Found
+MODSMD_ARTICLE10: Minister Miletitsch wieder in Belgrad.
+Found
+MODSMD_ARTICLE11: Englisches erschießt arabischen Freischärler.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Zum 80. Geburtstag König Gustavs V. von Schweden.
+Found
+MODSMD_ARTICLE02: Die 5. Jalzrestagung der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE03: Der Reichsfinanzminister über Bremens Entwicklung.
+Found
+MODSMD_ARTICLE04: Seyß-Jnquart sprach in Stuttgart.
+Found
+MODSMD_ARTICLE05: IIM Hitlerjungen Gäste der Wehrmacht.
+Found
+MODSMD_ARTICLE06: Botschafter von Mackensen vor den Deutschen in Mailand.
+Found
+MODSMD_ARTICLE07: Die deutschen Eisenbahner in Italien.
+Found
+MODSMD_ARTICLE08: „Eine fremde Horde aus dem dunkelsten Ghetto."
+Found
+MODSMD_ARTICLE09: Ein typischer Sowjetskandal.
+Found
+MODSMD_ARTICLE10: Angstgeschrei des Kommissars von Valencia.
+Found

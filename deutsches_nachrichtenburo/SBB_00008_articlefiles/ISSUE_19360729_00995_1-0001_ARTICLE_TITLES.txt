@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Rücktritt des spanischen Botschafters in Berlin.
+Found
+MODSMD_ARTICLE02: Oberregierungsrat Kühnhold Zum Ministerialrat ernannt.
+Found
+MODSMD_ARTICLE03: Freizeitgestaltung und Rundfunk.
+Found
+MODSMD_ARTICLE04: Luftschiff „Hindenburg" wieder in Frankfurt.
+Found
+MODSMD_ARTICLE05: Start des „Graf Zeppelin" in Friedrichshafen.
+Found
+MODSMD_ARTICLE06: Die deutschen Kriegsschiffe in Spanien.
+Found
+MODSMD_ARTICLE07: Deutsche Austauschschüler bei Madrid außer Gefahr.
+Found
+MODSMD_ARTICLE08: Flüchtlinge aus Spanien in Saarbrücken eingetroffen.
+Found
+MODSMD_ARTICLE09: General Queipo de Llano rückt vor.
+Found
+MODSMD_ARTICLE10: Nationalistische Regierung in Burgos.
+Found
+MODSMD_ARTICLE11: Madrid über die Lage.
+Found
+MODSMD_ARTICLE12: Spanisches Regierungs-U-Boot durch Bomben versenkt.
+Found
+MODSMD_ARTICLE13: Juni-Haushalt vom Pariser Senat angenommen.
+Found
+MODSMD_ARTICLE14: Vertrauliche Aussprache Über Rüstungsfragen in London.
+Found
+MODSMD_ARTICLE15: Ein Friedensbekenntnis Baldwins.
+Found
+MODSMD_ARTICLE16: Adressen des Ober- und des Unterhauses an den König.
+Found
+MODSMD_ARTICLE17: Amnestie in Ägypten.
+Found
+MODSMD_ARTICLE18: Erfolgreiche Abwehr abessinischer Räuberbanden.
+Found
+MODSMD_ARTICLE19: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found

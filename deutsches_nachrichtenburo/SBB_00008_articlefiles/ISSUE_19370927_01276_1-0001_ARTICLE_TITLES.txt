@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Erste Mittags – Ausgabe. "Deutsches Nachrichtenbüro
+Not Found
+MODSMD_ARTICLE02: Okgkisterter Empfang in Essen
+Found
+MODSMD_ARTICLE03: Triumphfahrt zu den Kruppschen Werken.
+Found
+MODSMD_ARTICLE04: In der Waffenschmiede des Reiches.
+Found
+MODSMD_ARTICLE05: Triumphale Rückfahrt zum Bahnhof.
+Found
+MODSMD_ARTICLE06: Auf der Fahrt nach der Reichshauptstadt.
+Found
+MODSMD_ARTICLE07: Italienische Journalisten in Berlin.
+Found

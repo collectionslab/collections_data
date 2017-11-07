@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der ungarische Staatsbesuch in Berlin beendet.
+Found
+MODSMD_ARTICLE02: Fürst Colonna bei Stabschef Luhe.
+Found
+MODSMD_ARTICLE03: Brauchitsch auf dem Wege nach Tripolis.
+Found
+MODSMD_ARTICLE04: Tie deutschen Eisenbahner in Rom.
+Found
+MODSMD_ARTICLE05: Die demokratischen Manöver vernichtend gebrandmarkt.
+Found
+MODSMD_ARTICLE06: Der ungarische Wirtschaftsminister in Rom.
+Found
+MODSMD_ARTICLE07: Erfolgloses britisches Werben.
+Found
+MODSMD_ARTICLE08: Budapester Stimmen zum Besuch Telekis.
+Found
+MODSMD_ARTICLE09: Stauning tritt für ein neutrales Dänemark ein.
+Found
+MODSMD_ARTICLE10: Ein ernstes Anzeichen polnischen Wahnsinns.
+Found
+MODSMD_ARTICLE11: Der französische Botschafter bei Beck.
+Found
+MODSMD_ARTICLE12: Paris bedauert die Langsamkeit der Einkreisung.
+Found
+MODSMD_ARTICLE13: London zu den machtvollen Kundgebungen des 1. Mai.
+Found
+MODSMD_ARTICLE14: Stillschweigen um Potemkin in Ankara.
+Found
+MODSMD_ARTICLE15: Die Besprechungen General Weygands in Ankara.
+Found
+MODSMD_ARTICLE16: Japans Ministerpräsident zur politischen Lage.
+Found
+MODSMD_ARTICLE17: Eine „Liga pazifischer Staaten".
+Found

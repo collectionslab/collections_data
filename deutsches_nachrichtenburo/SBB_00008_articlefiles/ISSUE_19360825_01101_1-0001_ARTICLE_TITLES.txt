@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Benno v. Arcnt Rcichsbühnenbildner.
+Found
+MODSMD_ARTICLE02: „Evening News": „Deutschland hat klug gehandelt".
+Found
+MODSMD_ARTICLE03: „Deutschland hat seinen Friedenswillen dokumentiert".
+Found
+MODSMD_ARTICLE04: Rom zur Erhöhung der deutschen Militärdienstzeit.
+Found
+MODSMD_ARTICLE05: Deutsche Kriegsschiffe in spanischen Gewässern.
+Found
+MODSMD_ARTICLE06: Außenpolitischer Ausschuß des britischen Kabinetts.
+Found
+MODSMD_ARTICLE07: Neue britische Truppenverstärkungen für Palästina.
+Found
+MODSMD_ARTICLE08: Ter Besuch des Sowjet-Botschafters bei Arita.
+Found
+MODSMD_ARTICLE09: Massenverhaftungen in der Sowjetunion.
+Found
+MODSMD_ARTICLE10: Hungerrevolten auch in anderen russischen Gebieten.
+Found
+MODSMD_ARTICLE11: Die Budapester Presse zu dem Moskauer Justiztheaier.
+Found
+MODSMD_ARTICLE12: Kommunistische Sabotage bei tschechoslowakischen Manövern.
+Found
+MODSMD_ARTICLE13: Soldaten der britischen Botschaftswache in Peiping beschossen.
+Found

@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Reichsleiter von Epp zur Kolonialfrage.
+Found
+MODSMD_ARTICLE02: Hauptversammlung der Deutschen Akademie in München.
+Found
+MODSMD_ARTICLE03: Deutsch wieder Amtssprache im Memelgebiet.
+Found
+MODSMD_ARTICLE04: Schon 75 Tote und Vermißte in Marseille.
+Found
+MODSMD_ARTICLE05: Abschluß des Marseiller Parteikongresses.
+Found

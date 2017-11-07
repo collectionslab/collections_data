@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer ehrt Generaloberst Freiherrn von Fritsch.
+Found
+MODSMD_ARTICLE02: Glückwünsche des Führers an General von Stülpnagel.
+Found
+MODSMD_ARTICLE03: Ehrung Rudolf Jungs durch den Führer.
+Found
+MODSMD_ARTICLE04: Auftrag des Führers an Korpsführer Hühnlein.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Rudolf Heß empfing die südafrikanischen Frontkämpfer.
+Found
+MODSMD_ARTICLE07: Die Gesellschaft Reichsautobahnen in Reichsverwaltung.
+Found
+MODSMD_ARTICLE08: Personalveränderungen in der Heeresverwaltung.
+Found
+MODSMD_ARTICLE09: Schwerin von Krosigk über Finanz- und Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE10: Der Ausbau des Reichsnährstandes in der Ostmark.
+Found
+MODSMD_ARTICLE11: Beschwerden und Forderungen der Sudetendeutschen Partei.
+Found
+MODSMD_ARTICLE12: Ter ungarische Justizminister nach Berlin abgereist.
+Found
+MODSMD_ARTICLE13: Die römische Presse zur Chamberlain-Erklärung.
+Found
+MODSMD_ARTICLE14: Rote Pyrenäen-Division hält sich nur mit Hilfe Frankreichs.
+Found
+MODSMD_ARTICLE15: Personalvermehrung der französischen Werften.
+Found
+MODSMD_ARTICLE16: Japaner und Chinesen gemeinsam gegep den Gelben Fluß.
+Found

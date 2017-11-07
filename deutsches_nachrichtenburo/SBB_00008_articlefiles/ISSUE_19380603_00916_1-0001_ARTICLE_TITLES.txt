@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Zirkus Sarrasani flieht aus der Tschechoslowakei!
+Found
+MODSMD_ARTICLE02: Die Aufgaben der sudetendeutschen Industrie.
+Found
+MODSMD_ARTICLE03: Rom: „Prag hat neues Oel ins Feuer gegossen."
+Found
+MODSMD_ARTICLE04: Die Rede Cianos im Mittelpunkt der römischen Abendpresse.
+Found
+MODSMD_ARTICLE05: Ein Geschenk der Ageuzia Stefani für Mussolini.
+Found
+MODSMD_ARTICLE06: König Georg empfängt französische Luftfahrtkommission.
+Found
+MODSMD_ARTICLE07: Aufstapelungsgesetz für den Kriegsfall eingebracht.
+Found
+MODSMD_ARTICLE08: Die Pläne für den Kriegsfall noch nicht ausreichend.
+Found
+MODSMD_ARTICLE09: Bonnet vor dem Auswärtigen Ausschuß der Kammer.
+Found
+MODSMD_ARTICLE10: Der türkische Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE11: Erstaunte Fragen über den französischen Luftschutz.
+Found
+MODSMD_ARTICLE12: Familienzuwachs im schwedischen Königshaus.
+Found
+MODSMD_ARTICLE13: 149 Millionen für die schwedische Landesverteidigung.
+Found
+MODSMD_ARTICLE14: Nachspiel zum Codreanu-Prozeß.
+Found
+MODSMD_ARTICLE15: Kommunistischer Hetzer in Saloniki festgenommen.
+Found
+MODSMD_ARTICLE16: Chiles Austrittserklärung der Genfer Liga übermittelt.
+Found
+MODSMD_ARTICLE17: Entgegenkommende. Antwort aus Tokio.
+Found
+MODSMD_ARTICLE18: Wieder Sabotageakt der Eingeborenen in Tunis.
+Found

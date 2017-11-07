@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Beginn der Reichsfestspiele in Heidelberg.
+Found
+MODSMD_ARTICLE02: Wilhelm Gustloff-Lager der auslandsdeutschen Hitlerjugend.
+Found
+MODSMD_ARTICLE03: Graf Ciano beim Caudillo.
+Found
+MODSMD_ARTICLE04: Raub des deutschen Theaters in Teschen.
+Found
+MODSMD_ARTICLE05: Polnischer Schlag gegen die deutschen Genossenschaften.
+Found
+MODSMD_ARTICLE06: Die letzte deutsche Zeitung in Ostgalizien.
+Found
+MODSMD_ARTICLE07: Minister Cobolli-Gigli auf Pantelleria und Sizilien.
+Found
+MODSMD_ARTICLE08: Italiener verlassen Korsika.
+Found
+MODSMD_ARTICLE09: Stauning fährt nach Rejkjavik.
+Found
+MODSMD_ARTICLE10: Paris: Unbehagen und Mißgunst.
+Found
+MODSMD_ARTICLE11: Tie eigenen Schützlinge verprügelt!
+Found
+MODSMD_ARTICLE12: Verschärfung der antibritischen Bewegung auch in Kanton.
+Found
+MODSMD_ARTICLE13: Der Hafeukommandamt von Gibraltar fuhr nach Oran.
+Found
+MODSMD_ARTICLE14: Britische Brutalität in Palästina»
+Found
+MODSMD_ARTICLE15: Oran spanische Jrredenta.
+Found
+MODSMD_ARTICLE16: Kanonen statt Brot.
+Found
+MODSMD_ARTICLE17: Blutige Zusammenstöße im Harlaner Kohlenrevier.
+Found
+MODSMD_ARTICLE18: Weitere 19 Millionen für die USA-Lustwaffe.
+Found

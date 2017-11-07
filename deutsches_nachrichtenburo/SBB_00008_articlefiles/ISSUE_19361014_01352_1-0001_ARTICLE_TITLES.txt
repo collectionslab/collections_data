@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Das Ausland zur Kommumstenlümmelei im Elsaß.
+Found
+MODSMD_ARTICLE02: Die Gründe der Neise Thörey nach Warschau.
+Found
+MODSMD_ARTICLE03: Wegen Unterstützung der Trotzki-Bewegung erschossen.
+Found
+MODSMD_ARTICLE04: Aushebung einer Geheimdruckerei in Warschau.
+Found
+MODSMD_ARTICLE05: Zwangsarbeitslager in Litauen.
+Found
+MODSMD_ARTICLE06: Aenderung im Vorsitz der Regierungspartei Ungarns.
+Found
+MODSMD_ARTICLE07: Der aktive und passive Luftschutz in der Schweiz.
+Found
+MODSMD_ARTICLE08: Die Nachfolge des verstorbenen Ministers für Schottland.
+Found
+MODSMD_ARTICLE09: Hoare: „Erst eigene, dann kollektive Sicherheit".
+Found
+MODSMD_ARTICLE11: Britische Kirche gegen Aenderung des Krönungseides.
+Found
+MODSMD_ARTICLE12: Brandstiftung im Londoner Faschisten-Hauptquartier.
+Found
+MODSMD_ARTICLE13: Neuer sowjetrussischer Vorstoß in England.
+Found
+MODSMD_ARTICLE14: Nur französischer Geschäftsträger in Rom.
+Found
+MODSMD_ARTICLE15: Gecken die Finanzpolitik der Regierung Blum.
+Found
+MODSMD_ARTICLE16: Der Generalsekretär der „Fidac" gestorben.
+Found
+MODSMD_ARTICLE17: 27 Todesurteile des roten „Volksgerichts" in Albacete.
+Found
+MODSMD_ARTICLE18: Keine Umbildung der rumänischen Regierung.
+Found
+MODSMD_ARTICLE19: Keine Aenderung der bulgarischen Außenpolitik.
+Found

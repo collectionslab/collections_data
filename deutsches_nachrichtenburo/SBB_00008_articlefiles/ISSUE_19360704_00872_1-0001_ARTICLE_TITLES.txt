@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Rede des Führers auf der Historischen Tagung im Deutschen Nationaltheater.
+Found
+MODSMD_ARTICLE02: Der historische Marsch in Weimar.
+Found
+MODSMD_ARTICLE03: Kundgebung auf dem Marktplatz.
+Found
+MODSMD_ARTICLE04: Ein Telegramm Oberst Reinhardts an den Führer.
+Found
+MODSMD_ARTICLE05: Hinrichtung eines Raubmörders.
+Found
+MODSMD_ARTICLE06: Unabhängigkeitskundgebuugen in Tunis.
+Found
+MODSMD_ARTICLE07: Aufhebung der Sanktionen in Genf aügen^me^?^
+Found
+MODSMD_ARTICLE08: Fortdauer des Lemberger Landarbeiterstreiks.
+Found
+MODSMD_ARTICLE09: Kommunistische Demonstration in Warschan vereitelt.
+Found
+MODSMD_ARTICLE10: Die Kennzahlen der Großhandelspreise vom 1. Juli 1936.
+Found

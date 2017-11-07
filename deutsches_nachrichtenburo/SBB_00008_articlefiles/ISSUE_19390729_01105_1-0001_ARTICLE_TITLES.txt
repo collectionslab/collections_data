@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Göring besichtigte den Kaiser-Wilhelm-Kanal.
+Found
+MODSMD_ARTICLE02: Deutscher Eisenbahnbeamter in Bentschen verhastet.
+Found
+MODSMD_ARTICLE03: Polonisierung um jeden Preis.
+Found
+MODSMD_ARTICLE04: Vernichtung des deutschen Kulturlebens.
+Found
+MODSMD_ARTICLE05: „Ein gewisser Charakterzug".
+Found
+MODSMD_ARTICLE06: England hat keine Siegeschance im Fernen Osten.
+Found
+MODSMD_ARTICLE07: „Immer noch inspirierte Hetze gegen Spanien".
+Found
+MODSMD_ARTICLE08: Verlustbilanz der Einmischung.
+Found
+MODSMD_ARTICLE09: Die Notverordnungen vor dem französischen Kabinettsrat.
+Found
+MODSMD_ARTICLE10: Die Vertreter Polens und Großbritanniens bei Bonnet.
+Found
+MODSMD_ARTICLE11: Der Kamps um das bolschewistische Kanonenfutter.
+Found
+MODSMD_ARTICLE12: Anti-Jreu-Geseb sofort angewandt.
+Found
+MODSMD_ARTICLE13: Kneift England in Tokio?
+Found
+MODSMD_ARTICLE14: Tschiangkaischek beginnt Englands Karten aufzudecken.
+Found
+MODSMD_ARTICLE15: Hungerstreik und Schießereien in Indiens Gefängnissen.
+Found
+MODSMD_ARTICLE16: Britische Provokationsflüge nach China.
+Found
+MODSMD_ARTICLE17: „News Chronicle" tadelt die britische Pressezensur.
+Found
+MODSMD_ARTICLE18: „Das Dreieck Berlin—Rom—Tokio ständig gestärkt."
+Not Found
+MODSMD_ARTICLE19: „England verstößt gegen das Abkommen von Tokio."
+Found
+MODSMD_ARTICLE20: Japanischer Kabinettsrat über Europapolitik.
+Found
+MODSMD_ARTICLE21: „Schwere Schädigung des Außenhandels! der USA".
+Found

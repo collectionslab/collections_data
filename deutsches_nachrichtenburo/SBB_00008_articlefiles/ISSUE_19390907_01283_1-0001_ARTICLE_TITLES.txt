@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Fuhrer abermals im Korridorgebiet.
+Found
+MODSMD_ARTICLE02: 18 polnische Flugzeuge vernichtet.
+Found
+MODSMD_ARTICLE03: Das weiß das französische Volk nicht.
+Found
+MODSMD_ARTICLE04: Polnische Franktireurs.
+Found
+MODSMD_ARTICLE05: 15 deutsche Männer in Myslowitz ermordet.
+Found
+MODSMD_ARTICLE06: Holland zu den deutschen Siegen.
+Found
+MODSMD_ARTICLE07: Portugiesische Neutralitätserklärung notifiziert.
+Found
+MODSMD_ARTICLE08: Größte Papierfabrik Rußlands bei Archangelsk.
+Found
+MODSMD_ARTICLE09: Argentinischer Kreuzerbesnch in Rio de Janeiro.
+Found

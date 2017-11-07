@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Präsident Hoover bei der Vereinigung Carl Schurz.
+Found
+MODSMD_ARTICLE02: Deutsch-bulgarisches Konzert im Rundfunkhaus.
+Found
+MODSMD_ARTICLE03: „Allgemeen Handelsblad" Zur Berliner Autoschau.
+Found
+MODSMD_ARTICLE04: Polen erkennt das italienische Imperium an.
+Found
+MODSMD_ARTICLE05: Der nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE06: Französisches Verständnis für Chamberlain.
+Found
+MODSMD_ARTICLE07: „Der Moskauer Prozeß ist gefälscht."
+Found
+MODSMD_ARTICLE08: „Sowjetrußland kein Vorbild."
+Found
+MODSMD_ARTICLE09: Ein Zusatzhaushalt für Palästina im Unterhaus eingebracht.
+Found
+MODSMD_ARTICLE10: Die Olympischen Spiele 1949.
+Found
+MODSMD_ARTICLE11: Scharfe Kritik an der amerikanischen Flottenvorlage.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ministerpräsident Mcrgenthaler bei den Deutschen in Lyon.
+Found
+MODSMD_ARTICLE02: Englische Blätter zum Jahrestag der Machtergreifung.
+Found
+MODSMD_ARTICLE03: Italien zu den Kundgebungen des 39. Januar.
+Found
+MODSMD_ARTICLE04: Ungarn und das neue Deutschland.
+Found
+MODSMD_ARTICLE05: Rumänien und der Nationalsozialismus.
+Found
+MODSMD_ARTICLE06: Holland in Feststimmung. Am Dienstag nationaler Festtag.
+Found
+MODSMD_ARTICLE07: Der Genfer Ausschuß für Paktreform tagte.
+Found
+MODSMD_ARTICLE08: Verlobung des albanischen Königs.
+Found
+MODSMD_ARTICLE09: Jür Reinheit des rumänischen Blutes. –
+Not Found
+MODSMD_ARTICLE10: Ständige Flottenberatungen England-Frankreich-Amerika.
+Found
+MODSMD_ARTICLE11: Bertrand: „Frankreichs Flottenpläne überholt".
+Found
+MODSMD_ARTICLE12: Fernand de Brinon gegen die Kriegsmentalität.
+Found
+MODSMD_ARTICLE13: Finanzminister Marchandeau über Frankreichs Finanzen.
+Found
+MODSMD_ARTICLE14: Neuer Protestschritt der Palästina-Araber.
+Found

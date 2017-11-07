@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Fernsehsprechverbindung Berlin—München.
+Not Found
+MODSMD_ARTICLE02: Reichsrundfunk in Verbindung mit Weltflieger Hughes.
+Found
+MODSMD_ARTICLE03: Deutschland kauft einstweilen nicht mehr in Brasilien.
+Found
+MODSMD_ARTICLE04: Strafenanpassungsverordnung für das Land Oesterreich.
+Found
+MODSMD_ARTICLE05: „Die kollektive Sicherheit ein unmöglicher Begriff."
+Found
+MODSMD_ARTICLE06: Sandys kommt nicht vor das Militärgericht.
+Found
+MODSMD_ARTICLE07: Abwehrmaßnahmen gegen Juden auch in Frankreich.
+Found
+MODSMD_ARTICLE08: /,Petit Journal" über das „gefährliche Spiel" Englands.
+Found
+MODSMD_ARTICLE09: Demonstrationen für Frieden und Brot in Valencia.
+Found
+MODSMD_ARTICLE10: Die bolschewistischen Giftmischer am Werk.
+Found
+MODSMD_ARTICLE11: Steigerung der sowjetrussischen Rüstungsausgaben.
+Found
+MODSMD_ARTICLE12: Um das Schicksal des Sandschak und Syriens.
+Found

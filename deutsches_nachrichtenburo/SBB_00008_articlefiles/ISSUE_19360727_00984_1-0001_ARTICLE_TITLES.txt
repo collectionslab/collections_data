@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Beileid des Führers an Lutze.
+Found
+MODSMD_ARTICLE02: 24 Todesopfer bei dem Autounglück des SA-Sturmse.
+Found
+MODSMD_ARTICLE03: Beileid der schweizerischen Regierung.
+Found
+MODSMD_ARTICLE04: Der Reichsverkehrsminister an Rosemeher.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Moraller über die kulturpolitische Arbeit der Presse.
+Found
+MODSMD_ARTICLE07: Weltkongreß für Freizeit und Erholung.
+Found
+MODSMD_ARTICLE09: IKK französische Jugendführer auf dem Freizeitkongreß.
+Found
+MODSMD_ARTICLE10: Henry Pichot: „Die Völker wollen Frieden".
+Found
+MODSMD_ARTICLE11: Führertagung des niederösterreichischen Heimatschuhes.
+Found
+MODSMD_ARTICLE12: „Figaro" über die Verladung von Heeresmaterial.
+Found

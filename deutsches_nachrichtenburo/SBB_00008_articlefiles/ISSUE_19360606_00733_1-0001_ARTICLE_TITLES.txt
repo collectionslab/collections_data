@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: „Geschwader General Weder".
+Found
+MODSMD_ARTICLE02: Der letzte Abschied von Generalleutnant Weder.
+Found
+MODSMD_ARTICLE03: Eine Mitteilung der italienischen Botschaft.
+Found
+MODSMD_ARTICLE04: Alfred Rosenberg auf der Handwerkstagung.
+Found
+MODSMD_ARTICLE05: IM Jahre Reichskriegerbund.
+Found
+MODSMD_ARTICLE06: Dr. Sahm überreicht sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE07: Die polnische Presse zum Besuch des Reichssportführers.
+Found
+MODSMD_ARTICLE08: Ehrung eines deutschen Gelehrten in Wilna.
+Found
+MODSMD_ARTICLE09: Neuer Schlag gegen deutschen Turner-Bund in Oesterreich.
+Found
+MODSMD_ARTICLE10: Eisenbahnunglück in Oesterreich.
+Found
+MODSMD_ARTICLE11: Blums Regierungserklärung vom Ministerrat gebilligt.
+Found
+MODSMD_ARTICLE12: Kundgebungen der Postbeamten gegen Mandel.
+Found
+MODSMD_ARTICLE13: Schuschnigg auf der Rückreise.
+Found
+MODSMD_ARTICLE14: Neue Unruhen und Schießereien in Palästina.
+Found

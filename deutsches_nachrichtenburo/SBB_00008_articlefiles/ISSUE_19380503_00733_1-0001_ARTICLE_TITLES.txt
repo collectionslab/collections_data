@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Triumphfahrt des Führers.
+Found
+MODSMD_ARTICLE02: König und Duce werden den Führer begrüßen.
+Found
+MODSMD_ARTICLE03: Aufruf des Fürsten Colonna an die Römer.
+Found
+MODSMD_ARTICLE04: Rom in Feststimmung.
+Found
+MODSMD_ARTICLE05: „Adolf Hitler, der große Kamerad Italiens."
+Found
+MODSMD_ARTICLE06: London zur Reise Hitlers nach Italien.
+Found
+MODSMD_ARTICLE07: Belgrad: Wichtigstes Ereignis des Jahres.
+Found
+MODSMD_ARTICLE08: Die polnische Presse zur Führer-Reise.
+Found
+MODSMD_ARTICLE10: Stärkste Beachtung des Führerbesuches in New Jork.
+Found
+MODSMD_ARTICLE11: Hierl 5 Jahre Staatssekretär.
+Found

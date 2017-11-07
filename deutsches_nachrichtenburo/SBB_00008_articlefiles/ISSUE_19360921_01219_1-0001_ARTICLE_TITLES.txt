@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Berliner Argentinische Gesandtschaft wird Botschaft.
+Found
+MODSMD_ARTICLE02: Die Straßensperrung bei den Großen Herbstübungen.
+Found
+MODSMD_ARTICLE03: Französische Abgeordnete in Berlin.
+Found
+MODSMD_ARTICLE04: Reichswettbewerb für Motorflugmodelle.
+Found
+MODSMD_ARTICLE05: Italienreise des Reichsjugendführers.
+Found
+MODSMD_ARTICLE06: Die Hitlerjungen am Sonntag in Rom
+Found
+MODSMD_ARTICLE07: Kommunistenverhaftungen bei einem Warschauer Juden.
+Found
+MODSMD_ARTICLE08: „Piccolo" zum Goebbels-Buch über den Faschismus.
+Found
+MODSMD_ARTICLE09: Campbell Black tödlich abgestürzt.
+Found
+MODSMD_ARTICLE10: Erzbischöflicher Hirtenbrief gegen den Kommunismus.
+Found
+MODSMD_ARTICLE11: Ein Teil der britischen Abordnung nach Genf abgereist.
+Found
+MODSMD_ARTICLE12: Die Genfer Ratssitzung.
+Found
+MODSMD_ARTICLE13: Französische Militärflugzeuge verunglückt.
+Found
+MODSMD_ARTICLE14: Am Sonntag Zusammenkunft Leon Blum-Eden.
+Found
+MODSMD_ARTICLE15: Bastid fährt auch nach Belgrad.
+Found
+MODSMD_ARTICLE16: Bulgariens Abordnung nach Genf abgereist.
+Found
+MODSMD_ARTICLE17: Scharfe französische Grenzkontrolle.
+Found
+MODSMD_ARTICLE18: Insel Jbiza wieder im Besitz der Nationalisten.
+Found
+MODSMD_ARTICLE19: Wieder über 4V Nationalisten Znm Tode verurteilt.
+Found
+MODSMD_ARTICLE20: Antikommunistische Arbeiterkundgebung in Oporto.
+Found
+MODSMD_ARTICLE21: Chinesische Offiziere bei japanischen Kaisermanövern»
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer in Kiel.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Die bisher größte Parteikundgebung der Ostmark-Gaue.
+Found
+MODSMD_ARTICLE04: General Russo im Gau Düsseldorf.
+Found
+MODSMD_ARTICLE05: „Volkszählung" der dänischen Minderheit.
+Found
+MODSMD_ARTICLE06: „Vvm englischen Königspaar war nichts zu sehen."
+Found
+MODSMD_ARTICLE07: Die Feier in Villers-Bretonneux.
+Found
+MODSMD_ARTICLE08: Das englische Königspaar auf der Heimfahrt.
+Found
+MODSMD_ARTICLE09: Botschafter von Dircksen bei Chamberlaiu.
+Found
+MODSMD_ARTICLE10: „Regime Fascista" gegen den „Osservatore Romano".
+Found
+MODSMD_ARTICLE11: Spaak zur Ausiennnnister-Konfermz der nordischen Staaten.
+Found
+MODSMD_ARTICLE12: Neuordnung des spanischen Eisenbahnwesens.
+Found
+MODSMD_ARTICLE13: Portugiesisch-italienische Freundschaft befestigt.
+Found
+MODSMD_ARTICLE14: Gottlosenkonferenz in Moskau.
+Found
+MODSMD_ARTICLE15: USA. beantragt Schiedsgerichtsverfahren.
+Found
+MODSMD_ARTICLE16: Lufthansa-Flugzeug „Nordmeer" iu New Jork.
+Found

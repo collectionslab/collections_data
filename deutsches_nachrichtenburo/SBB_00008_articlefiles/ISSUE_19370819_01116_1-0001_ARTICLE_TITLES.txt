@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Frick in Sigmaringen.
+Found
+MODSMD_ARTICLE03: Dr. Ley sprach in München.
+Found
+MODSMD_ARTICLE04: „Verlin in sieben Jahrhunderten deutscher Geschichte."
+Found
+MODSMD_ARTICLE05: Marxisten überfallen Nationaldemokraten.
+Found
+MODSMD_ARTICLE06: Hungerlöhne für Schufter in jüdischen Betrieben.
+Found
+MODSMD_ARTICLE07: Franco lehnt Zugeständnisse in der Freiwilligenfrage ab.
+Found
+MODSMD_ARTICLE08: Der französische Konsul verläßt Santander.
+Found
+MODSMD_ARTICLE09: Ein sowjetspanischer Dampfer torpediert.
+Found
+MODSMD_ARTICLE10: Der Alpdruck des Sowjetpaktes.
+Found
+MODSMD_ARTICLE11: „Eine in dieser Größe noch nicht dagewesene Seeschlauge."
+Found
+MODSMD_ARTICLE12: Genfs Vorliebe für Uebergangslösungen.
+Found
+MODSMD_ARTICLE13: Der jugoslawische Gendarmerie-Kommandant verunglückt.
+Found
+MODSMD_ARTICLE14: Neutralisierung der Schanghaier Internationalen Zone?
+Found
+MODSMD_ARTICLE15: Lebhafte Fliegertätigkeit in Schanghai.
+Found
+MODSMD_ARTICLE16: Ablehnung der Neutralitätsklausel im China-Konflikt. .
+Found
+MODSMD_ARTICLE17: Eine Hetzkampagne in USA wird erledigt.
+Found
+MODSMD_ARTICLE18: Die Verpachtungsabsicht von USA-Kriegsschiffen.
+Found
+MODSMD_ARTICLE19: Vom Nanga Parbat zurück.
+Found
+MODSMD_ARTICLE20: Ueberreste einer deutschen Polarexpedition entdeckt?
+Found

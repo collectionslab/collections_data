@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers.
+Found
+MODSMD_ARTICLE02: Auszeichnungen für Errettung aus Lebensgefahr.
+Found
+MODSMD_ARTICLE03: Begeisterte Ausländer-Urteile über Deutschland.
+Found
+MODSMD_ARTICLE04: Deutsche soziale Einrichtungen Ausstellungsvorbild in Lille.
+Found
+MODSMD_ARTICLE05: Ein deutscher Kulturvorrrag in der Budapester Akademie.
+Found
+MODSMD_ARTICLE06: Oesterreichische Ehrenpension für Schönherr.
+Found
+MODSMD_ARTICLE07: Hodscha will alle Fehler wieder gutmachen.
+Found
+MODSMD_ARTICLE08: England über den Unfall der „Llandovery Castle" erregt
+Found
+MODSMD_ARTICLE09: Gaumont-British stellt Produktion ein.
+Found
+MODSMD_ARTICLE10: Führender Vertreter der norwegischen Presse gestorben.
+Found
+MODSMD_ARTICLE11: Einberufung des französischen Ministerrats.
+Found
+MODSMD_ARTICLE12: Französische Kammer billigt Landwirtschaftsverträge.
+Found
+MODSMD_ARTICLE13: Gegen das Gewerkschaftsmonopol für die Weltausstellung.
+Found
+MODSMD_ARTICLE14: Blutige Zusammenstöße mit Kommunisten in Algerien.
+Found
+MODSMD_ARTICLE15: M Immer noch Waffenschmuggel an der französischen Grenze.
+Found
+MODSMD_ARTICLE16: Der Nachfolger Ordschonikidses.
+Found
+MODSMD_ARTICLE17: Britisches Kanonenboot im Persischen Golf verunglückt.
+Found
+MODSMD_ARTICLE18: Raubmörder Stollenwerk
+Found

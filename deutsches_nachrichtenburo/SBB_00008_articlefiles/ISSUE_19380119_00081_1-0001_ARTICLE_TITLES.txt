@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Stojadinowitsch in Jüterbog und im Fliegerhorst Damm.
+Found
+MODSMD_ARTICLE02: Die jugoslawischen Gäste in der Staatsoper.
+Found
+MODSMD_ARTICLE03: Japanische Gäste im Außenpolitischen Schulungshaus.
+Found
+MODSMD_ARTICLE04: Reichsminister Dr. Frank im Haus des Fascio di Berlins.
+Found
+MODSMD_ARTICLE05: Neues französisches Kabinett.
+Found
+MODSMD_ARTICLE06: Die neuen französischen Unterstaatssekretäre.
+Found
+MODSMD_ARTICLE07: Di-e neuen Männer im vierten Kabinett Chautemps.
+Found
+MODSMD_ARTICLE08: Die Parteizusammensehung des neuen Kabinetts.
+Found
+MODSMD_ARTICLE09: „Ein unbegreifliches Mißverständnis".
+Found
+MODSMD_ARTICLE10: Ostjuden nach Oesterreich eingeschmuggelt.
+Found
+MODSMD_ARTICLE11: Das rumänische Parlament aufgelöst. Neuwahlen im März.
+Found
+MODSMD_ARTICLE12: Keine Staatsgelder mehr für israelitische Kultusgemeinde.
+Found
+MODSMD_ARTICLE13: Die Lage bei Teruel.
+Found
+MODSMD_ARTICLE14: England plant aktivere Bevölkeruingspolitik.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Weiter vorwärts an der Spitze des Wahlkampfes.
+Found
+MODSMD_ARTICLE03: Gemeinschaftsempfang am 9. April.
+Found
+MODSMD_ARTICLE04: Die öffentlichen Gebäude flaggen Sonnabend und Sonntag.
+Found
+MODSMD_ARTICLE05: Jeder Stimmberechtigte trägt Sonntag die Wahlplakette.
+Found
+MODSMD_ARTICLE06: Ein jüdischer Schmierfink ausgewiesen.
+Found
+MODSMD_ARTICLE07: Mastnahmen zum Ausbau der Landwirtschast Oesterreichs.
+Found
+MODSMD_ARTICLE08: Millionenaufträge für Oesterreichs Wirtschaft.
+Found
+MODSMD_ARTICLE09: Beförderungen aus Anlaß der „Pegawah"-Rettungstat.
+Found
+MODSMD_ARTICLE10: Nur 29 Mehr-Stimmen für Blum in der Kammer.
+Found
+MODSMD_ARTICLE11: 45 999 Streikende in der Pariser Metallindustrie.
+Found
+MODSMD_ARTICLE12: „Jntransigeant" warnt vor übertriebener Gastfreundschaft.
+Found
+MODSMD_ARTICLE13: Der spanische Bolschewistenausschust wieder umgruppiert.
+Found
+MODSMD_ARTICLE14: Beratung zum englisch-italienischen Abkommensentwurs.
+Found

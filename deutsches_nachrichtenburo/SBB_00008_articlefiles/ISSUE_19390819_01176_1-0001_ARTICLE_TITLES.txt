@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die Jungfaschisten in Berlin.
+Found
+MODSMD_ARTICLE02: „Lieber sterben als polnisch werden!"
+Found
+MODSMD_ARTICLE03: Unterdrückung des deutschen Unterrichts.
+Found
+MODSMD_ARTICLE04: Uniformierte Terrorbanden machen Polizeidienst.
+Found
+MODSMD_ARTICLE05: Estnische Zeitung über die Danziger Frage.
+Found
+MODSMD_ARTICLE06: Kein Durchmarschrecht für Einkreiser!
+Found
+MODSMD_ARTICLE07: Auch Frankreich finanziert die polnische Aufrüstung.
+Found
+MODSMD_ARTICLE08: Staatspräsident Lebrun besuchte die Maginot-Linie.
+Found
+MODSMD_ARTICLE09: Besprechungen Zwetkowitschs mit Matschek.
+Found
+MODSMD_ARTICLE10: Spanische Militärabordnung in Italien.
+Found
+MODSMD_ARTICLE11: Knebelung der Meinungsfreiheit in Amerika.
+Found
+MODSMD_ARTICLE12: Japan über England „schwer enttäuscht".
+Found
+MODSMD_ARTICLE13: Die neue ägyptische Regierung gebildet.
+Found

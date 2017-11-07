@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Göring an die Junkerswerke.
+Found
+MODSMD_ARTICLE02: Der neue argentinische Botschafter in Berlin.
+Found
+MODSMD_ARTICLE03: Carossa erhält italienischen Schrifttumspreis.
+Found
+MODSMD_ARTICLE04: Dr. Hahler im olympischen Organisationsausschuß.
+Found
+MODSMD_ARTICLE05: Staatsbegräbnis für Minister Wolff.
+Found
+MODSMD_ARTICLE06: Neue Haßurteile polnischer Gerichte.
+Found
+MODSMD_ARTICLE07: „Irland der Feind in der Flanke."
+Found
+MODSMD_ARTICLE08: Italiens Flottenmanöver beendet»
+Found
+MODSMD_ARTICLE09: Britisch-französische Militärmission geht nach Moskau.
+Found
+MODSMD_ARTICLE10: Verlegene Antworten auf unangenehme Fragen.
+Found
+MODSMD_ARTICLE11: Polen darf weiter warten!
+Found
+MODSMD_ARTICLE12: Lord Halifax erstattete dem König Bericht.
+Found
+MODSMD_ARTICLE13: Lebrun ging in Urlaub.
+Found
+MODSMD_ARTICLE14: Fast keine austenpolitischen Kommentare.
+Found
+MODSMD_ARTICLE15: Tokio bereit, die Verhandlungen abzubrechen.
+Found
+MODSMD_ARTICLE16: Grostkampagne des „zivilen Ungehorsams" in Indien.
+Found
+MODSMD_ARTICLE17: Die Lebenshaltungskosten im Juli.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Oberstarbeitsfnhrer Erle gestorben.
+Found
+MODSMD_ARTICLE02: Das Ergebnis des Ciano-Besnches in Spanien.
+Found
+MODSMD_ARTICLE03: Spanien marschiert an der Seite der Achsenmächte.
+Found
+MODSMD_ARTICLE04: Starke Beachtung des Cianobesuches durch Jugoslawien.
+Found
+MODSMD_ARTICLE05: Bulgarisch-jugoslawische Stammesverbuudenheit.
+Found
+MODSMD_ARTICLE06: Miliiärparade und rote Fahnen.
+Found
+MODSMD_ARTICLE07: England blickt gebannt nach Ostasien.
+Found
+MODSMD_ARTICLE08: Das geht an die Nerven!
+Found
+MODSMD_ARTICLE09: Sie zogen mit Gesang aus dem zerstörten Dorf!
+Found
+MODSMD_ARTICLE10: Straßenkämpfe mit Streikenden in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE11: Eine „Sonderbotschaft" Roosevelts an den Kongreß.
+Found

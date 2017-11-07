@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Professor Achmeteli nach Berlin berufen.
+Found
+MODSMD_ARTICLE02: Das Handwerk errang 56 Preise auf der Weltausstellung.
+Found
+MODSMD_ARTICLE03: Das Wunschkonzert ergab mehr als 17 666 RM.
+Found
+MODSMD_ARTICLE04: Der Finanzausgleich zwischen Ländern und Gemeinden.
+Found
+MODSMD_ARTICLE05: Das Gesetz über drn Beirat der Deutscheu Reichspost.
+Found
+MODSMD_ARTICLE06: Verleumder des Generals Kraust verurteilt.
+Found
+MODSMD_ARTICLE07: Die Beziehungen Polen—Tschechoslowakei.
+Not Found
+MODSMD_ARTICLE08: Aufhebung der Geschworenengerichte in Polen.
+Found
+MODSMD_ARTICLE09: Bolschewistische Judenclique in Polen verurteilt.
+Found
+MODSMD_ARTICLE10: Delbos in Budapest.
+Found
+MODSMD_ARTICLE11: London und Paris zur Lage im Fernen Osten.
+Found
+MODSMD_ARTICLE12: Zum Zwischenfall auf dem Jangtfe.
+Found
+MODSMD_ARTICLE13: Die amerikanische Protestnote.
+Found
+MODSMD_ARTICLE14: Disziplinsoligkeiten auf einem USA-Haudelsschiff.
+Found

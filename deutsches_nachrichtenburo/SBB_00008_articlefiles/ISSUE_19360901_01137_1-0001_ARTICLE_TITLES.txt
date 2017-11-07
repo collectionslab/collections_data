@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer an Generalleutnant a. D. Frhr. von Watter.
+Found
+MODSMD_ARTICLE02: Untcrsccbootsflvttillc Saltzwcdcl in Dienst gestellt.
+Found
+MODSMD_ARTICLE03: Beileid Dr. Goebbels zum Bochumer Bergwerksungluck.
+Found
+MODSMD_ARTICLE04: Zum Grubenunglück in Bochum.
+Found
+MODSMD_ARTICLE05: Hilfe für die abgebrannten Bauernhöfe in Mecklenburg.
+Found
+MODSMD_ARTICLE06: Deutscher Polizeifünskampf 1930.
+Found
+MODSMD_ARTICLE07: Letzte Runde im Mimchener Schach-Olympia.
+Found
+MODSMD_ARTICLE08: Ministerpräsident Gömbös geht sechs Wochen in Urlaub.
+Found
+MODSMD_ARTICLE09: Erster Ministerrat der neuen rumänischen Regierung.
+Found
+MODSMD_ARTICLE10: Eröffnungssitzung der litauischen Volksvertretung.
+Found
+MODSMD_ARTICLE11: Tie Vermittlungsaktim: im spanischen Bürgerkrieg.
+Found
+MODSMD_ARTICLE12: Kanonade und Fliegerbomben auf Irun.
+Found
+MODSMD_ARTICLE13: Erfolgreicher Vormarsch der Nationalisten auf Mallorca.
+Found
+MODSMD_ARTICLE14: „Wo ist der französische Botschafter in Madrid?"
+Found

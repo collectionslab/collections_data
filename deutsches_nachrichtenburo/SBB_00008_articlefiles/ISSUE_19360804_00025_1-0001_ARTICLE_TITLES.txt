@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Hühnlein ehrt die Sieger der Olympia-Sternfahrt.
+Found
+MODSMD_ARTICLE02: Festaufführung im Staatlichen Schauspielhaus.
+Found
+MODSMD_ARTICLE03: Hostin-Frankreich wieder Olympiasieger.
+Found
+MODSMD_ARTICLE04: Kampfbeginn in Kiel; Tie Olympische Flamme in Kiel.
+Found
+MODSMD_ARTICLE05: Tie Stadt Kiel empfängt die Weltpresse.
+Found
+MODSMD_ARTICLE06: Die Eröffnungsfeier der Olympischen Segelwettkämpfe.
+Found
+MODSMD_ARTICLE07: Weltbestleistung im 100-Meter-Lauf für Frauen.
+Found
+MODSMD_ARTICLE08: Neue olympische Bestleistung Owens.
+Found
+MODSMD_ARTICLE09: Segler im Oelzeug.
+Found
+MODSMD_ARTICLE10: Karl Hein: „Der schönste Tag meines Lebens!"
+Found
+MODSMD_ARTICLE11: Pressestimmen zu den Olympischen Spielen.
+Found

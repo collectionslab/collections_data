@@ -1,0 +1,14 @@
+MODSMD_ARTICLE03: Freudentag der Gemeinschaft.
+Found
+MODSMD_ARTICLE04: Vorfeier bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE05: Der 1. Mai.
+Found
+MODSMD_ARTICLE06: Die Reichshauptstadt im Festschmuck.
+Found
+MODSMD_ARTICLE07: Berlin bricht ans.
+Found
+MODSMD_ARTICLE08: Der Morgengrutz an den Führer.
+Found
+MODSMD_ARTICLE09: Die Jugend vor dem Führer. 15V vvv im Olympiastadien,
+Found

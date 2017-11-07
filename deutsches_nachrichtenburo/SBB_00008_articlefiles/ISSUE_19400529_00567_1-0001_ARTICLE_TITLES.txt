@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: 50fache Vergeltung!
+Found
+MODSMD_ARTICLE02: Im Banne der Waffenstreckung Belgiens.
+Found
+MODSMD_ARTICLE03: „Ueber dm Krieg, in Frankreich wird ein Vorhang gezogen."
+Found
+MODSMD_ARTICLE04: Churchill Englands „Genius der Niederlage".
+Found
+MODSMD_ARTICLE05: Das ehrlose Verhalten Pierlots.
+Found
+MODSMD_ARTICLE06: Vollkommene Ruhe und Ordnung in Holland.
+Found
+MODSMD_ARTICLE07: „Korrektes Auftreten der deutschen Soldaten."
+Found
+MODSMD_ARTICLE08: Neuer amerikanischer Gesandter in Kanada.
+Found
+MODSMD_ARTICLE09: England preßt Chinesen zum Dienst an der Front.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Botschafter Togo empfing die japanischen Journalisten.
+Found
+MODSMD_ARTICLE02: Faschistische Jugendfiihrer beim Reichsparteitag.
+Found
+MODSMD_ARTICLE03: Internationaler Miegerbesuch in Essen»
+Found
+MODSMD_ARTICLE04: Tie deutsche Nanga-Parbat Expedition in Rom»
+Found
+MODSMD_ARTICLE05: Neue Urteile gegen Aufruhrer von Kanea»
+Found
+MODSMD_ARTICLE06: Eine bezeichnende Entschließung der Pariser Marxisten.
+Found
+MODSMD_ARTICLE07: Der französische Botschafter in Warschau bei Bonnei.
+Found
+MODSMD_ARTICLE08: Die französischen Manöver bei Besaneon beendet.
+Found
+MODSMD_ARTICLE09: Streik in 24 Jutefabriken Nordfrankreichs.
+Found
+MODSMD_ARTICLE10: Frankreich experimentiert am Ebrobogen.
+Found
+MODSMD_ARTICLE11: Portugal wehrt sich gegen die internationale jüdische Hetze.
+Found
+MODSMD_ARTICLE12: Der britische Botschafter in Warschau bei Beck.
+Found
+MODSMD_ARTICLE13: Kommunistische Hetzer hinter Schloß und Riegel.
+Found
+MODSMD_ARTICLE14: Jüdische Viehhändler verkauften ungenießbares Fleisch.
+Found
+MODSMD_ARTICLE15: Unverschämte Forderungen der Juden in Palästina.
+Found
+MODSMD_ARTICLE16: Roosevelt lehnt Stellungnahme zur internationalen Lage ab.
+Found
+MODSMD_ARTICLE17: Mexikanische Antwortnote überreicht.
+Found

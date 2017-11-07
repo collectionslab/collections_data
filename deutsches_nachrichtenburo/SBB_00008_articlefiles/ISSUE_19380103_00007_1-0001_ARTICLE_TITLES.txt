@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Treuebekenntnis der rumänischen Regierung zum König.
+Found
+MODSMD_ARTICLE02: Mussolini an Goga.
+Found
+MODSMD_ARTICLE03: Rom: „Rumäniens nationale Wiedergeburt".
+Found
+MODSMD_ARTICLE04: Wien verweigert rumänischen Juden die Einreise.
+Found
+MODSMD_ARTICLE05: Die türkische Presse zur Lage in Rumänien.
+Found
+MODSMD_ARTICLE06: Die kommunistischen Einflüsse in Paris.
+Found
+MODSMD_ARTICLE07: Französisch-rumänischer Telegrammwechsel.
+Found
+MODSMD_ARTICLE08: Daranyi und Homan in Oesterreich.
+Found
+MODSMD_ARTICLE09: Bor der Hochzeit des Kronprinzen Paul.
+Found
+MODSMD_ARTICLE10: Eine englische Stimme zur Kolonialfrage.
+Found
+MODSMD_ARTICLE11: Hollands Ministerpräsident fordert genügende Wehrkraft.
+Found
+MODSMD_ARTICLE12: Spanischer Bolschewist in Paris erschossen.
+Found
+MODSMD_ARTICLE13: Italiens Presse feiert Francas Sieg bei Teruel.
+Found
+MODSMD_ARTICLE14: Jouhaux' Reise nach Derne! ins Wasser gefallen.
+Found
+MODSMD_ARTICLE15: Französisch-sowjetrussisches Handelsabkommen verlängert.
+Found
+MODSMD_ARTICLE16: Moskaus Jahresauftakt: Neue Erschießungen.
+Found
+MODSMD_ARTICLE17: Umbildung der chinesischen Regierung.
+Found
+MODSMD_ARTICLE18: Japans Vordringen in der Provinz Schantuna.
+Found
+MODSMD_ARTICLE19: Bargas über die wirtschaftliche Erschließung Brasiliens.
+Found
+MODSMD_ARTICLE20: Das ägyptische Parlament auf einen Monat vertagt.
+Found

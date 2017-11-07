@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Umsiedlung in vollem Umfang geglückt.
+Found
+MODSMD_ARTICLE02: „Wir kämpfen für die Londoner Bankiers."
+Found
+MODSMD_ARTICLE03: Die „siegesfreudige" Stimmung in England.
+Found
+MODSMD_ARTICLE04: Englands Schwierigkeiten in Indien.
+Found
+MODSMD_ARTICLE05: Phrasen als Rechtfertigungsversuch.
+Found
+MODSMD_ARTICLE06: Herr Wirrwarr schliefst die Krankenhäuser.
+Found
+MODSMD_ARTICLE07: Die Kriegsunlust der britischen Dominien.
+Found
+MODSMD_ARTICLE08: Der organisatorische Wirrwarr in England.
+Found
+MODSMD_ARTICLE09: Notschrei im „Jour" über die Auswirkungen des Krieges.
+Found
+MODSMD_ARTICLE10: Die Familienunterstützungen in Frankreich unzulänglich.
+Found
+MODSMD_ARTICLE11: Wieder drei feindliche Flugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE12: Der schamlose englische Druck auf die Neutralen.
+Found
+MODSMD_ARTICLE13: Italien holt ausgewanderte Söhne heim.
+Found
+MODSMD_ARTICLE14: Politischer Mord in Jugoslawien.
+Found
+MODSMD_ARTICLE15: Roheiten englischer Seeleute.
+Found
+MODSMD_ARTICLE16: Qneipo de Llano: „Der Sieg Deutschlands ist sicher".
+Found

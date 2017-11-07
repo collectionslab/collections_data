@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer im Olympia-Stadion.
+Found
+MODSMD_ARTICLE02: Leutnant Schwarzmann.
+Found
+MODSMD_ARTICLE03: Neuer amerikanischer Triumph im Kunstspringen.
+Found
+MODSMD_ARTICLE04: Medica (USA) schlägt die Japaner über 4M Meter.
+Found
+MODSMD_ARTICLE05: Ein Gartenfest bei Botschafter von Nibbentrop.
+Found
+MODSMD_ARTICLE06: Staffellaufteilnehmerinnen nach Dievenow eingeladen.
+Found
+MODSMD_ARTICLE07: Tagung der „Olympiabotschafter" in Berlin.
+Found
+MODSMD_ARTICLE08: Silberne Medaille für Norwegen in der 8-Meter-U-Klasse.
+Found
+MODSMD_ARTICLE09: Am Mittwoch Schlußseier in Kiel.
+Found
+MODSMD_ARTICLE10: Baron Schimmelpenninck über seiner Berliner Eindrücke.
+Found
+MODSMD_ARTICLE11: Graf Baillet-Latour: „Tägliche Feier des Friedens".
+Found
+MODSMD_ARTICLE12: Schwedische Anerkennung für deutsche Schiedsrichter.
+Found
+MODSMD_ARTICLE13: Täglich ZsM Fluggäste in Tempelhof.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: clausus für jüdische Aerzte in der Slowakei.
+Found
+MODSMD_ARTICLE02: „Musterbeispiel für plumpe Agitationstätigkeit."
+Found
+MODSMD_ARTICLE03: Englische Bomber über Frankreich.
+Found
+MODSMD_ARTICLE04: Potain verhandelt mit Bonnet.
+Found
+MODSMD_ARTICLE05: Um die Entführung des Generals Miller.
+Found
+MODSMD_ARTICLE06: Rüstmngswahnsinn gefährdet Polems Währung.
+Found
+MODSMD_ARTICLE07: China erkennt Englands Doppelzüngigkeit.
+Found
+MODSMD_ARTICLE08: Haussuchung bei einer französischen Marxistenorganisation.
+Found
+MODSMD_ARTICLE09: Die chinesische Währung.
+Found
+MODSMD_ARTICLE10: Die englische Admiralität kauft Fischkutter.
+Found
+MODSMD_ARTICLE11: Das wahre Gesicht Großbritanniens.
+Found
+MODSMD_ARTICLE12: London registriert Enttäuschung in Polen.
+Found
+MODSMD_ARTICLE13: So sieht die „Gleichberechtigung" in Palästina aus.
+Found
+MODSMD_ARTICLE14: Das qualvolle Leben in britischen Konzentrationslagern.
+Found
+MODSMD_ARTICLE15: Erfolgloser chinesischer Osfensiv-Versuch auf Hankau.
+Found
+MODSMD_ARTICLE16: Vorläufige Einigung in Tientsin.
+Found
+MODSMD_ARTICLE17: Der USA.-Jmperialismus in der Antarktis.
+Found

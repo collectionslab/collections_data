@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Dr. Scheel Führer der NSD.-Studentenbundes.
+Found
+MODSMD_ARTICLE02: Eden zur außenpolitischen Lage.
+Found
+MODSMD_ARTICLE03: Die nationale Artillerie beschießt Madrid.
+Found
+MODSMD_ARTICLE04: Das vorläufig endgültige Wahlergebnis in Amerika.
+Found

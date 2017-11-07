@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Jahrestagung des Deutschen Rundfunks.
+Found
+MODSMD_ARTICLE02: Abschluß der Lustmanöder in Nordwestdeutschland.
+Found
+MODSMD_ARTICLE03: Reichsparteitagdorf des Auswärtigen Amtes.
+Found
+MODSMD_ARTICLE04: „Jtalienfeindliche Haltung der französischen Regierung."
+Found
+MODSMD_ARTICLE05: Kranzniederlegung der ausländischen Manövergäste.
+Found
+MODSMD_ARTICLE06: Britische Maßnahmen in Gibraltar.
+Found
+MODSMD_ARTICLE07: Streik in Nairobi.
+Found
+MODSMD_ARTICLE08: Polen darf nicht im geringsten nachgeben.
+Found
+MODSMD_ARTICLE09: Französische Militärabordnung begibt sich nach London.
+Found
+MODSMD_ARTICLE10: Wieder drei deutsche Molkereien von den Polen geschloffen.
+Found
+MODSMD_ARTICLE11: Das! chinesische Volk hat nicht vergessen.
+Found
+MODSMD_ARTICLE12: „Unüberbrückbare Meinungsverschiedenheiten."
+Found
+MODSMD_ARTICLE13: Keine Annahme englischer Verhandlungskniffe.
+Found
+MODSMD_ARTICLE14: „New Deal" in Nöten.
+Found
+MODSMD_ARTICLE15: Deutsche Luftfahrt errang wieder internationalen Rekord!
+Found

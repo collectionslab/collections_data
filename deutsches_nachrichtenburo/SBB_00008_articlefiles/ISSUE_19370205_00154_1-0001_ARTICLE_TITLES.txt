@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Leiter des Pressedienstes im Neichsverkehrsministerium.
+Found
+MODSMD_ARTICLE02: Die Verwahrung und Anschaffung von Wertpapieren.
+Found
+MODSMD_ARTICLE03: Nochmals der „Kall Schnelle".
+Found
+MODSMD_ARTICLE04: Englische und Rüstungsausgaben.
+Found
+MODSMD_ARTICLE05: Konservative Unterhausanfrage zur Spanienpolitik.
+Found
+MODSMD_ARTICLE06: Englands Antwort an den Nichteinmischungsausschuß.
+Found
+MODSMD_ARTICLE07: Englisches U-Boot unter Wasser beschädigt.
+Found
+MODSMD_ARTICLE08: Gerüchte über neue französische Paktpläne.
+Found
+MODSMD_ARTICLE09: Dr. Stojadinowitsch über Jugoslawiens Außenpolitik.
+Found
+MODSMD_ARTICLE10: Rüschtü Aras ist sehr befriedigt.
+Found
+MODSMD_ARTICLE11: Wüstes Durcheinander in Barcelona.
+Found
+MODSMD_ARTICLE12: Neue Offensive der Nationalen auf Malaga.
+Found
+MODSMD_ARTICLE13: Polen wehrt sich gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE14: Zwei Hinrichtungen.
+Found

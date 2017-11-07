@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: SS-Brigadeführer Julius Schreck f.
+Found
+MODSMD_ARTICLE02: Die Ausstellung „Das deutsche Recht" eröffnet.
+Found
+MODSMD_ARTICLE03: Die Warschauer Presse zum Regierungswechsel.
+Found
+MODSMD_ARTICLE04: Nene Verhaftungen in der Phönix-Affäre.
+Found
+MODSMD_ARTICLE05: Internationale Luftfahrtausstellung in Stockholm.
+Found
+MODSMD_ARTICLE06: Die Verletzungen der Völkerbundssatzung in Abessinien.
+Found
+MODSMD_ARTICLE07: Die Frage der Dum-Dum-Geschoß-Lieferungen.
+Found
+MODSMD_ARTICLE08: Die Kriegsschulden Frankreichs. Eine Frage an Rooseveli.
+Found
+MODSMD_ARTICLE09: Neuer Zwischenfall an 'der mandschurischen Grenze.
+Found
+MODSMD_ARTICLE10: Japans Behörden in Peking teilen Truppenverstärkung mit.
+Found

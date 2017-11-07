@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Beisetzung des Kapitäns zur See von Egidy.
+Found
+MODSMD_ARTICLE02: Eröffnung der Reichsautobahn Berlin—Hannover.
+Not Found
+MODSMD_ARTICLE03: „Tribuna" fordert erneut totale Nichteinmischung.
+Found
+MODSMD_ARTICLE04: Die Portugiesische Antwortnote an Frankreich und England.
+Found
+MODSMD_ARTICLE05: Das bolschewistische Verbrechen an Baron Borchgrave.
+Found
+MODSMD_ARTICLE06: Britische Madrider Botschaft von rotem Meger bombardiert!
+Found
+MODSMD_ARTICLE07: Unaufhaltsames Vordringen der Nationalen vor Madrid.
+Found
+MODSMD_ARTICLE08: Hilferuf „an die Bolschewisten in der Welt".
+Found
+MODSMD_ARTICLE09: Weitere englische Freiwillige nach Rotspanien unterwegs.
+Found
+MODSMD_ARTICLE10: 47 499 französische Freiwillige zu den Roten gelassen.
+Found
+MODSMD_ARTICLE11: Graf Ciano Generalkonsul der Miliz.
+Found
+MODSMD_ARTICLE12: „Gegenstreik" in Liller Metallwerken.
+Found
+MODSMD_ARTICLE13: Völkerbundsratsitzung am 21. Januar.
+Found
+MODSMD_ARTICLE14: Staschys verhaftet.
+Found
+MODSMD_ARTICLE15: Engländer sollen Schansi und Kansu verlassen.
+Found

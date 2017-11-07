@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Japanische Diplomaten bei Reichsminister Heß.
+Found
+MODSMD_ARTICLE02: Feuerschiff „Elbe I" gekentert.
+Found
+MODSMD_ARTICLE03: Erste Werkpausensendung des Deutschen Rundfunks.
+Found
+MODSMD_ARTICLE04: Führertagung der HI in Freiburg.
+Found
+MODSMD_ARTICLE05: Die Besprechungen des Staatssekretärs Schmidt in Budapest.
+Found
+MODSMD_ARTICLE06: Die deutschen Frontkämpfer an König Eduard Vlkl.
+Found
+MODSMD_ARTICLE07: „Evening Standard" begrüßt Botschafter von Ribbentrop.
+Found
+MODSMD_ARTICLE08: Französisches Parlament zum 3. November einberufen.
+Found
+MODSMD_ARTICLE09: Fünf Milliarden Franken für die französische Luftwaffe.
+Found
+MODSMD_ARTICLE10: Eine Verhaftung in der Lyoner Granaten-Affäre.
+Found
+MODSMD_ARTICLE11: Neue Ergänzungsreserve für die englische Marine.
+Found
+MODSMD_ARTICLE12: Tritt Portugal aus dem Nichteinmischungsausschuß aus?
+Found

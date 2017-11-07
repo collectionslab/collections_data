@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Durchführung des VvlkseWpfanges am 39. lanMt'. /
+Found
+MODSMD_ARTICLE02: Gemeinschaftsempfang in den öffentlichen Verwaltungen.
+Found
+MODSMD_ARTICLE03: Kein Verkauf am 30. Januar Zwischen 13 und 13 Uhr.
+Found
+MODSMD_ARTICLE04: Preis Dr. Fricks für die Internationale Wintersportwoche.
+Found
+MODSMD_ARTICLE05: Martin Wronsky 30 Jahre alt.
+Found
+MODSMD_ARTICLE06: 4M Millionen am „Tag der Deutschen Polizei" gesammelt.
+Found
+MODSMD_ARTICLE07: Neuer Chef des Presse- und Propagandamts der NIF.
+Found
+MODSMD_ARTICLE08: Der Jahrestag der deutsch-polnischen Verständigung.
+Found
+MODSMD_ARTICLE09: Der Prozeß wegen der memelländischen Wahlzwischenfälle.
+Found
+MODSMD_ARTICLE10: Zunahme der Arbeitslosigkeit in Dänemark.
+Found
+MODSMD_ARTICLE11: Englische Einsichten zum Moskauer Prozeß.
+Found
+MODSMD_ARTICLE12: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE13: Abbruch der türkisch-französischen Verhandlungen!
+Found
+MODSMD_ARTICLE14: Arabischer Aufständischenführer ans Bagdad ausgewiesen.
+Found
+MODSMD_ARTICLE15: Gewerkschaftsterror in New Hork.
+Found
+MODSMD_ARTICLE16: Hinrichtung in Dresden.
+Found

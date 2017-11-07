@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer ehrt die Antarktische Expedition.
+Found
+MODSMD_ARTICLE02: Der Nationale Feiertag des Deutschen Volkes.
+Found
+MODSMD_ARTICLE03: Die neue tschechische Regierung.
+Found
+MODSMD_ARTICLE04: Hore-Belisha treibt erneut an.
+Found
+MODSMD_ARTICLE05: Gafeneu bei Daladier und Lebrun.
+Found
+MODSMD_ARTICLE06: Madrids Universitätsviertel bleibt Erinnerungsmal.
+Found
+MODSMD_ARTICLE07: So hält Frankreich Wort!
+Found
+MODSMD_ARTICLE08: Glückwunsch des Führers zum neuen Flugrekord.
+Found
+MODSMD_ARTICLE09: Antwort auf Frankreichs Widerstand in der Hatay-Frage.
+Found
+MODSMD_ARTICLE10: Deutschland und Türkei sind Waffenbrüder des Weltkrieges.
+Found
+MODSMD_ARTICLE11: Herzlicher Empfang der deutschen Pressedelegatiou in Japan.
+Found
+MODSMD_ARTICLE12: Noosevelt läßt seine Rüstungsindustrie verdienen.
+Found

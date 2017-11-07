@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Minister Kotzias besuchte Dr. Todt.
+Found
+MODSMD_ARTICLE02: Agnes Miegel-Heim in Buckow bei Berlin.
+Found
+MODSMD_ARTICLE03: Noch eine neue Partei in Ungarn.
+Found
+MODSMD_ARTICLE04: Der Krieg der Roten in Madrid»
+Found
+MODSMD_ARTICLE05: Not-Andalusien unter Sowjetherrschaft.
+Found
+MODSMD_ARTICLE06: Lebensmittel für die Madrider Bevölkerung.
+Found
+MODSMD_ARTICLE07: Offensive Francos auf Madrid?
+Found
+MODSMD_ARTICLE08: Die französische Botschaft in Burgos.
+Found
+MODSMD_ARTICLE09: Frankreich bietet rotspanische Flüchtlinge aus.
+Found
+MODSMD_ARTICLE10: Das rote Flüchtlingsproblem vor dem Ministerrat.
+Found
+MODSMD_ARTICLE11: In Kürze 6e Mro-Anerkennung Francos durch Brüssel.
+Found
+MODSMD_ARTICLE12: England prüft die nationalspanische Küstensperre.
+Found
+MODSMD_ARTICLE13: Will England eine Palästina-Lösung aufzwingen?
+Found
+MODSMD_ARTICLE14: Italien läßt sich nicht einschüchtern!
+Found
+MODSMD_ARTICLE15: Die Juden und Palästinas Unabhängigkeit.
+Found
+MODSMD_ARTICLE16: Pretoria erwacht.
+Found
+MODSMD_ARTICLE17: Japanischer Vorstoß nach Nordwestchina?
+Found
+MODSMD_ARTICLE18: Amerikanische Neutralität.
+Found

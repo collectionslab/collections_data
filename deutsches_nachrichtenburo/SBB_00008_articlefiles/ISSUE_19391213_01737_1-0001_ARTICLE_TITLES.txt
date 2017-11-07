@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Feindlicher Stützpunkt auf französischem Gebiet ausgehoben-
+Found
+MODSMD_ARTICLE02: Neuer Rekord des Ersten Lügenlords.
+Found
+MODSMD_ARTICLE03: Die britischen Jagdflugzeuge und Gasmasken au Finnland
+Found
+MODSMD_ARTICLE04: Moskauer Absage an die Genfer Jntrigantenclique.
+Found
+MODSMD_ARTICLE05: Der sowjetrussische Heeresbericht.
+Found
+MODSMD_ARTICLE06: Moskau: „Einstellung der Kampfhandlungen unmöglich".
+Found
+MODSMD_ARTICLE07: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE08: Nußland befestigt Hogland.
+Found
+MODSMD_ARTICLE09: Hangö von russischen Fliegern angegriffen.
+Found
+MODSMD_ARTICLE10: Dänischer Kohlendampfer gestrandet.
+Found
+MODSMD_ARTICLE11: Zum Untergang der Athenia". *
+Found
+MODSMD_ARTICLE12: Ein britischer Dampfer schwer beschädigt.
+Found
+MODSMD_ARTICLE13: Dampfer „Garoufalia" versenkt.
+Found
+MODSMD_ARTICLE14: Neue schwere Unruhen in Britisch-Jndien.
+Found
+MODSMD_ARTICLE15: Britisches Flugzeug in der eigenen Schlinge.
+Found
+MODSMD_ARTICLE16: „Arriba" geißelt die englische Garantiesucht.
+Found
+MODSMD_ARTICLE17: Wieder ein türkisches Schiff durchsucht.
+Found
+MODSMD_ARTICLE18: England hat Angst vor der Wahrheit.
+Found
+MODSMD_ARTICLE19: Unwillen in Amerika über Daladiers Meinungsdiktatur.
+Found

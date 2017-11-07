@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Außenminister Munters von Berlin abgereist.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Die spanischen und die italienischen Offiziere bei Ribbentrop.
+Found
+MODSMD_ARTICLE04: Die spanischen Generäle im Haus des Rundfunks.
+Found
+MODSMD_ARTICLE05: Weitere 99 Millionen RM. für Bau von Volkswohnungen.
+Found
+MODSMD_ARTICLE06: Großadmiral Raeder in Stuttgart.
+Found
+MODSMD_ARTICLE07: Wieder 31 Polnische Zollbeamte nach DanZig.
+Found
+MODSMD_ARTICLE08: Frick stiftet der Universität Debreczin eine Büchersammlung.
+Found
+MODSMD_ARTICLE09: „Die Gefahren der Sowjetpolitik in Finnland klar erkannt."
+Found
+MODSMD_ARTICLE10: „Nichtangriffsvertrag von der Neutralität unzertrennlich."
+Found
+MODSMD_ARTICLE11: Lettisches Blatt weist demokratische Entstellungen zurück.
+Found
+MODSMD_ARTICLE12: Der Ausbau der schweizerischen Landesverteidigung.
+Found
+MODSMD_ARTICLE13: Kommunistische Obstruktion in der Pariser Kammer.
+Found
+MODSMD_ARTICLE14: Der spanische Innenminister Suner beim Papst.
+Found
+MODSMD_ARTICLE15: Dr. Malan fordert Unabhängigkeit Südafrikas.
+Found
+MODSMD_ARTICLE16: Wie Washington das britische Königspaar empfing.
+Found
+MODSMD_ARTICLE17: Russell freigelassen!
+Found

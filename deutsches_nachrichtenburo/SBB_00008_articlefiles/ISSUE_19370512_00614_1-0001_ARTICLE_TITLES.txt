@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Krönung Georgs VI. von England. Ein Fest von mittelalterlichem Glänze.
+Found
+MODSMD_ARTICLE02: Menschen über Menschen!
+Found
+MODSMD_ARTICLE03: In der Westminister-Abtei.
+Found
+MODSMD_ARTICLE04: Der Krönungszug.
+Found
+MODSMD_ARTICLE05: Die goldene Kutsche kommt.
+Found
+MODSMD_ARTICLE06: Der Einzug in die Westminsterabtei.
+Found
+MODSMD_ARTICLE07: Der Krönungsakt.
+Found
+MODSMD_ARTICLE08: Die Salbung.
+Found
+MODSMD_ARTICLE09: „Gott erhalte den König."
+Found
+MODSMD_ARTICLE10: Die Krönung der Königin.
+Found

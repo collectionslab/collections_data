@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Schmährufe auf den Führer.
+Found
+MODSMD_ARTICLE02: Durcanskh an die Slowaken.
+Found
+MODSMD_ARTICLE03: Gespannte Lage auch in Iglau.
+Found
+MODSMD_ARTICLE04: Gesecht in Preschow. R
+Found
+MODSMD_ARTICLE05: Lebt Tuka noch?
+Found
+MODSMD_ARTICLE06: Völliges Durcheinander in Preßburg.
+Found
+MODSMD_ARTICLE07: Juden begrüßen die tschechische Gendarmerie in Sillein.
+Found
+MODSMD_ARTICLE08: In Preßburg helle Empörung über die Brünner Ereignisse.
+Found
+MODSMD_ARTICLE09: Reuter: 19 Tote in den Reihen der Hlinkagarde.
+Found
+MODSMD_ARTICLE10: Madrider Kommunisten wieder im Angriff.
+Found
+MODSMD_ARTICLE11: Bolschewistische Messerstecher.
+Found
+MODSMD_ARTICLE12: Deutsche Lebensmittelspende in Barcelona eingetroffen.
+Found

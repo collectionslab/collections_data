@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: WHW.-Ergebnisse bestätigen die nationale Solidarität.
+Found
+MODSMD_ARTICLE02: Aus der Verwaltung.
+Found
+MODSMD_ARTICLE03: Schlachtschiff „Scharnhorst" in Dienst gestellt.
+Found
+MODSMD_ARTICLE04: Der Vater vom Raths im Grünspan-Prozeß vernommen.
+Found
+MODSMD_ARTICLE05: Reichswirtschaftsminister Funk in Rom.
+Found
+MODSMD_ARTICLE06: Das Memeldirektorium zurückgetreten.
+Found
+MODSMD_ARTICLE07: Tie Untersuchung des Munkacser Zwischenfalles.
+Found
+MODSMD_ARTICLE08: England durchsucht und verhastet in Palästina.
+Found
+MODSMD_ARTICLE09: Wachsende Gärung in Syrien.
+Found
+MODSMD_ARTICLE10: Prieto in Brasilien unerwünscht.
+Found
+MODSMD_ARTICLE11: Schon wieder dreiste sowfttrussische Grenzverletzung.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der belgische Wirtschaftsminister bei Ribbentrop.
+Found
+MODSMD_ARTICLE02: Anerkennung für das Personal der Deutschen Reichspost.
+Found
+MODSMD_ARTICLE03: Führende englische Kommmmlbeamte im Berliner Rathans.
+Found
+MODSMD_ARTICLE04: Schi räch über die Erziehung auf den Adolf-Hitler-Schulen.
+Found
+MODSMD_ARTICLE05: Ein Werbebüro der Reichsbahnzentrale in Kopenhagen.
+Found
+MODSMD_ARTICLE06: Dr. Dorpmüller auf der Reichswasserwirtschasts-TagUMg.
+Found
+MODSMD_ARTICLE07: Oesterreich-Hetze in Paris beschlossen.
+Found
+MODSMD_ARTICLE08: Die Frage einer Besetzung Belgiens durch Frankreich.
+Found
+MODSMD_ARTICLE09: Fran?ois-Poncet war nicht bei Bonnet.
+Found
+MODSMD_ARTICLE10: Diplomatenempfang bei Bonnet.
+Found
+MODSMD_ARTICLE11: Blum bei Ministerpräsident Daladier.
+Found
+MODSMD_ARTICLE12: „Giornale jsiJtalia" gegen die Wirtschaftspolitik der USA.
+Found
+MODSMD_ARTICLE13: Der englische Botschafter in Rom bei Graf Ciano. –
+Not Found
+MODSMD_ARTICLE14: Der Fall Duncan Sandys erneut vor dem Unterhaus.
+Found
+MODSMD_ARTICLE15: Jüdische Banden plündern in Jerusalem.
+Found

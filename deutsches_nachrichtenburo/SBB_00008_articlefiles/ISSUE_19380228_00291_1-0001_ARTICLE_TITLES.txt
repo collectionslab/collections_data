@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Moskauer Blutgericht wieder am Werk.
+Found
+MODSMD_ARTICLE02: Elf frühere Volkskommissare unter den Angeklagten.
+Found
+MODSMD_ARTICLE03: Der Führer zum Dominikanischen Unabhängigkeitstag.
+Found
+MODSMD_ARTICLE04: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE05: Ein vernichtendes englisches Urteil über Sowjetrußland.
+Found
+MODSMD_ARTICLE06: Personalveränderungen in der Vaterländischen Front.
+Found
+MODSMD_ARTICLE07: Beglaubigungsschreiben au den Kaiser von Aethiopien.
+Found
+MODSMD_ARTICLE08: Marschall Graziani in Rom freudig empfangen.
+Found
+MODSMD_ARTICLE09: Skandalöse Zustände in der Sowjetschiffahrt.
+Found
+MODSMD_ARTICLE10: Hauptschulungsamtsleiter vor New Jorks Reichsdeutschen.
+Found
+MODSMD_ARTICLE11: Die indischen Provinzregierungen wieder im Amt.
+Found

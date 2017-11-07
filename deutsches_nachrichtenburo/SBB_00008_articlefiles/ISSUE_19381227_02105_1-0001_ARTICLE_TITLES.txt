@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Rom zur Weihnachtsausprache von Rudolf Heß.
+Found
+MODSMD_ARTICLE02: Die französische Antwort in Rom überreicht.
+Found
+MODSMD_ARTICLE03: Daladiers Tunis-Reise.
+Found
+MODSMD_ARTICLE04: Frankreich seist Bogesen-Durchstich fort.
+Found
+MODSMD_ARTICLE05: Jud Blum triumphiert.
+Found
+MODSMD_ARTICLE06: „Sunday Times" über die Vorgänge im britischen Kabinett»
+Found
+MODSMD_ARTICLE07: London berät wegen des Spionagefalls in Jrun.
+Found
+MODSMD_ARTICLE08: Neue Erfolge General Francos in Katalonien.
+Found
+MODSMD_ARTICLE09: Feierliche Beisetzung des Generals Anido.
+Found
+MODSMD_ARTICLE10: Moskauer Bescherung.
+Found
+MODSMD_ARTICLE11: Auch der Chefredakteur der „Prawda" verhaftet?
+Found
+MODSMD_ARTICLE12: Aie Vaterländische Volksbewegung erneut vor Gericht.
+Found
+MODSMD_ARTICLE13: Manuerheim wieder Vorsitzender des Verteidigungsrates.
+Found
+MODSMD_ARTICLE14: Jntelmann beim lettischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE15: Jugoslawische Gesandtschaft in Bukarest wurde Botschaft.
+Found
+MODSMD_ARTICLE16: Jmredy über die Minderheitenpolitik Ungarns.
+Found
+MODSMD_ARTICLE17: Weihnacht im Heiligen Lande.
+Found

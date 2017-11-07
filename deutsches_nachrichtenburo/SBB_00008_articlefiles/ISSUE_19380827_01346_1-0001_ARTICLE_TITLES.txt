@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: WTittkgZ-AusgsöeH Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Horthy in Nürnberg.
+Found
+MODSMD_ARTICLE03: Tagung des Deutsch-Belgischen Regierungsausschusses.
+Found
+MODSMD_ARTICLE04: Vorbeugende Wirtschaftsberatungen der nordischen Länder.
+Found
+MODSMD_ARTICLE05: Volksfroniberatungen über Taladier.
+Found
+MODSMD_ARTICLE06: Marxistische Brandreden gegen Daladier.
+Found
+MODSMD_ARTICLE07: Neue Arbeitsbedingungen für den Marseiller Hafen.
+Found
+MODSMD_ARTICLE08: Nachspiel zum Rücktritt des iugöslawischeu Kriegsministers.
+Found
+MODSMD_ARTICLE09: „Diario Vasco" über das Echo der Francs-Note.
+Found
+MODSMD_ARTICLE10: Ein arabisches Dorf in die Lust gesprengt.
+Found
+MODSMD_ARTICLE11: Englische Polizei schießt in Jaffa.
+Found
+MODSMD_ARTICLE12: Japanischer Generalangriff auf Hankau.
+Found
+MODSMD_ARTICLE13: Ungewisse wahlpolitische Lage in USA.
+Found
+MODSMD_ARTICLE14: Hull-Note bietet Kompromißmöglichkeit.
+Found
+MODSMD_ARTICLE15: Ungünstige Aufnahme der Hull-Note in Mexiko.
+Found

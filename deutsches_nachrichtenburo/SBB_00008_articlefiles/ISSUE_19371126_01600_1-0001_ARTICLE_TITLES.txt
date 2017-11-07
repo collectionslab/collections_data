@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Deutsch-Italienische Kulturkundgebung.
+Found
+MODSMD_ARTICLE02: Die Deutsch-Japanische Gesellschaft ehrt Japans Botschafter.
+Found
+MODSMD_ARTICLE03: Ein Aufruf Hilgenfeldts an die deutschen Stiftungen.
+Found
+MODSMD_ARTICLE04: Budapest zum Empfang beim Führer.
+Found
+MODSMD_ARTICLE05: Immer wieder Einmischung zu Gunsten Sowjetspaniens.
+Found
+MODSMD_ARTICLE06: Internationale Brigade gegen Madrider Demonstranten.
+Found

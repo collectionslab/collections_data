@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Reichsmunster Generaloberst Görina dankt.
+Found
+MODSMD_ARTICLE02: Heß und Göring spenden für das Tankopfer.
+Found
+MODSMD_ARTICLE03: Stabschef Viktor Lutze an Rudolf Heß.
+Found
+MODSMD_ARTICLE04: Stabschef Lutze spricht zu Hamburger SA-Männern.
+Found
+MODSMD_ARTICLE05: Kulturtagung der Reichsjugendführung in Heidelberg.
+Found
+MODSMD_ARTICLE06: Reichsautobahn Halle—Leipzig dem Verkehr übergeben.
+Not Found
+MODSMD_ARTICLE07: Wiener Kundgebung gegen die jüdische Zersetzung.
+Found
+MODSMD_ARTICLE08: Ausschreitungen von Schutzkorpsleuten in Graz.
+Found
+MODSMD_ARTICLE09: Chamberlain in Budapest.
+Found
+MODSMD_ARTICLE10: Alarmzustand und Vorzensur in Spanien bleibt bestehen.
+Found
+MODSMD_ARTICLE11: Contreras Präsident von Venezuela.
+Found
+MODSMD_ARTICLE12: Das Rote Kreuz antwortet dem Dreizehner-Ausschuß.
+Found
+MODSMD_ARTICLE13: Besuch des estländischen Generalstabschefs in Moskau.
+Found
+MODSMD_ARTICLE14: Neue italienische Truppenverschiffungen.
+Found
+MODSMD_ARTICLE15: Das Befinden König Fuads weiter ernst»
+Found
+MODSMD_ARTICLE16: Aenderung paraguayischer Staatsgesetze.
+Found

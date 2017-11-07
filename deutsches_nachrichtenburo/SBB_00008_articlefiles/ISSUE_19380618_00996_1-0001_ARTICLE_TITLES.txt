@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Ungarn feiert den 70. Geburtstag des Reichsverwesers.
+Found
+MODSMD_ARTICLE02: Ungarns neues Pressegesetz in Krast.
+Found
+MODSMD_ARTICLE03: Italienische Geschenke für den Führer.
+Found
+MODSMD_ARTICLE04: Die römische Presse zur Rede Funks.
+Found
+MODSMD_ARTICLE05: Der JZK. für Unterdrückung von Falschmeldungen.
+Found
+MODSMD_ARTICLE06: Die Besprechungen Stojadinowitsch' mit Graf Ciano.
+Found
+MODSMD_ARTICLE07: Prag hält die Mobilmachung weiter ausrecht»
+Found
+MODSMD_ARTICLE08: „Slovenska Prawda" verboten.
+Found
+MODSMD_ARTICLE09: „Wieczor Warszawski" über die Lage in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE10: Arbeitsdienst für die sudeiendeutscheu Jungarbeiter.
+Found
+MODSMD_ARTICLE11: Der schwedische Kronprinz reist nach Amerika
+Found
+MODSMD_ARTICLE12: Burgin dankt für die Besichtigung der Reichsautobahn.
+Found
+MODSMD_ARTICLE13: Reiufall der Herzogin von Atholl.
+Found
+MODSMD_ARTICLE14: Nun auch Flugzeuge ans Australien?
+Found
+MODSMD_ARTICLE15: Sprengstoffanschlag ans polnischen Schriftleiter.
+Found
+MODSMD_ARTICLE16: Remfall der französischen Kommunisten.
+Found
+MODSMD_ARTICLE17: Die Eisenbahnlinie nach Castellon wiederhergestellt.
+Found
+MODSMD_ARTICLE18: Wehrsteuer iu der Schweiz.
+Found
+MODSMD_ARTICLE19: Eine verdiente Abfuhr der Sowjetunion in Tokio.
+Found
+MODSMD_ARTICLE20: Mohammedanisch-japanische Liga gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE21: Amerikanischer Dampfer von Piraten überfallen.
+Found
+MODSMD_ARTICLE22: Ekuador und Peru ziehen ihre Truppen zurück.
+Found

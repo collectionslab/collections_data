@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Das Hilfswerk für deutsche bildende Kunst.
+Found
+MODSMD_ARTICLE02: Lantims Besuch im Ruhrgebiet.
+Found
+MODSMD_ARTICLE03: Mit halben Maßnahmen wird hier nichts geschafft.
+Found
+MODSMD_ARTICLE04: Botschafter Sugimura aus Paris abgereist.
+Found
+MODSMD_ARTICLE05: Die französische Flottrupolitik vor der Kammer.
+Found
+MODSMD_ARTICLE06: Für objektive Berichterstattung des französischen Rundfunks.
+Found
+MODSMD_ARTICLE07: Bonnet vor dem Auswärtigen Ausschuß der Kammer.
+Found
+MODSMD_ARTICLE08: Zwei bretonische Separatisten vor Gericht.
+Found
+MODSMD_ARTICLE09: Die rumänische Regierung verbietet Weihnachtsbäume!
+Found
+MODSMD_ARTICLE10: „Allgemeine Panikstimmung in Siebenbürgen."
+Found
+MODSMD_ARTICLE11: 88,3 v. H. für die Memeldeutsche Lifte.
+Found
+MODSMD_ARTICLE12: Massenverhaftungen und Geldbußen in Palästina.
+Found
+MODSMD_ARTICLE13: Neuer Präsident in Chile.
+Found
+MODSMD_ARTICLE14: Die Panamerikanische Konferenz.
+Found
+MODSMD_ARTICLE15: Vereitelung eines Staatsstreiches in Ekuador.
+Found
+MODSMD_ARTICLE16: In den stau dal in der Rooseveltregierung.
+Found

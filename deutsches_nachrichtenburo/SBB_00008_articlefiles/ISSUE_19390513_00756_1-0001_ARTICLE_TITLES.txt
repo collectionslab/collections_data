@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Tagung der Meeresforscher.
+Found
+MODSMD_ARTICLE02: Deutschlands Wirtschaft bräucht jeden Mann!
+Found
+MODSMD_ARTICLE04: England versucht Aegypten gegen Deutschland aufzuhetzen.
+Found
+MODSMD_ARTICLE05: Harmonischer Verlauf der deutschen Kriegsschiffs-Besuche.
+Found
+MODSMD_ARTICLE06: Juden vergiften die Beziehungen Deutschland—England.
+Not Found
+MODSMD_ARTICLE07: Das jugoslawische Prinzregentenpaar in Florenz.
+Found
+MODSMD_ARTICLE08: Mussolini empfing den rumänischen Finanzminister.
+Found
+MODSMD_ARTICLE09: Immer neue Schikanen gegen Italiener.
+Found
+MODSMD_ARTICLE10: Deat läßt sich nicht einschüchtern.
+Found
+MODSMD_ARTICLE11: Bolschewistische Flintenweiber verhaftet.
+Found

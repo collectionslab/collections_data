@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Stabschef Lutze nach Italien eingeladen.
+Found
+MODSMD_ARTICLE02: Der Deutsche Studententag grüßt den Führer.
+Found
+MODSMD_ARTICLE03: Der Präsident des Neichslnftschutzbundes in Graz.
+Found
+MODSMD_ARTICLE04: Die norditalienische Presse zitiert Minister Frank.
+Found
+MODSMD_ARTICLE05: Der italienische llnterrichisminister auf der Reise nach Köln.
+Found
+MODSMD_ARTICLE06: Einigung über die Zurückziehung der Freiwilligen.
+Found
+MODSMD_ARTICLE07: Ter Inhalt des britischen Spanien-Planes.
+Found
+MODSMD_ARTICLE08: Englischer Geistlicher über die deutsch-englischen Beziehungen.
+Found
+MODSMD_ARTICLE09: Was kostet die englische Aufrüstung?
+Found
+MODSMD_ARTICLE10: Eine seltsame „Pilgerfahrt".
+Found
+MODSMD_ARTICLE11: Bauernschicksal im Sowjetstaat.
+Found
+MODSMD_ARTICLE12: Keine Anerkennung Francos durch Paris.
+Found
+MODSMD_ARTICLE13: Der nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE14: Die bolschewistischen Cliqueukümpfe in Barcelona.
+Found
+MODSMD_ARTICLE15: 15jährige von Valencia Zum Hilfsdienst gepreßt.
+Found
+MODSMD_ARTICLE16: Das Staatsbegräbnis des Sejmmarschalls Car.
+Found

@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Deutsch-italienische Judustriebesprechungen.
+Found
+MODSMD_ARTICLE02: Reichsstatthalter Seyß-Juquart in Innsbruck.
+Found
+MODSMD_ARTICLE03: Die Alte Garde am Rhein und in der Eisel.
+Found
+MODSMD_ARTICLE04: Die militärischen Absperrmaßnahmen in Böhmen.
+Found
+MODSMD_ARTICLE05: Vorläufig keine Paris-Reise Beneschs.
+Found
+MODSMD_ARTICLE06: Der Einspruch gegen die Preßburger Wahlschiebungen.
+Found
+MODSMD_ARTICLE07: Die oberitaliemsche Presse zur Goebbels-Rede.
+Found
+MODSMD_ARTICLE08: Der Reichssportführer in Italien.
+Found
+MODSMD_ARTICLE09: Neue sowjetrussische Obstruktionsversuche?
+Found
+MODSMD_ARTICLE10: Der Sandschak-Konflikt und Genf.
+Found
+MODSMD_ARTICLE11: Ter Trauerfall am britischen Hof.
+Found
+MODSMD_ARTICLE12: Englische Neuwahlen erst in bis 2 Jahren.
+Found
+MODSMD_ARTICLE13: „Britische Schiffe ankern auf eigene Gefahr".
+Found
+MODSMD_ARTICLE14: Holländischer Marxistenhäuptling besucht Barcelona.
+Found
+MODSMD_ARTICLE15: Anweisung an die französischen Pyrenäen-Grenzposten? –
+Not Found
+MODSMD_ARTICLE16: Hunderte von Kommandanten aus der Sowjetarmee entfernt.
+Found
+MODSMD_ARTICLE17: Fortgang der französisch-türkischen Besprechungen.
+Found
+MODSMD_ARTICLE18: Japan stoppt Einfuhr aller nicht lebenswichtigen Rohstoffe.
+Found
+MODSMD_ARTICLE19: Dr. Metzner au Max Schmeliug.
+Found
+MODSMD_ARTICLE20: Schmelmg im Krankenhaus.
+Found
+MODSMD_ARTICLE21: Französisches Militärflugzeug abgestürzt: 7 Tote.
+Found

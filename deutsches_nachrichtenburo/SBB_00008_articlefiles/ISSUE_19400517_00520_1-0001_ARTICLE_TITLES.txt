@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Dr. Dr. Wimmer Regierungspräsident in Regensburg.
+Found
+MODSMD_ARTICLE02: Italien ist „mit eiserner Willenskraft bereit".
+Found
+MODSMD_ARTICLE03: „Popolo d'Zatlia": Warum Deutschland siegt,
+Found
+MODSMD_ARTICLE04: Auch die Genfer Liga denkt an Umzug.
+Found
+MODSMD_ARTICLE05: Wachsende Verteuerung der Lebenshaltung in England.
+Found
+MODSMD_ARTICLE06: „Churchill wirkt in Paris wohltuend und ermutigend".
+Found
+MODSMD_ARTICLE07: Madrid: „England ernstlich bedroht!"
+Found
+MODSMD_ARTICLE08: Die „Ueberschwemmung" Hollands.
+Found
+MODSMD_ARTICLE09: Maginot-Linie auf einer Breite von MV Kilometern durchbrochen.
+Found
+MODSMD_ARTICLE10: Roosevelts Botschaft.
+Found

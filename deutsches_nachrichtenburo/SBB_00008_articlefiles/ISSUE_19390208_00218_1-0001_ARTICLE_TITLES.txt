@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Mittags -Aasgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Unbedingte Ueberlegenheit der deutschen Wehrmacht.
+Found
+MODSMD_ARTICLE03: Anerkennung nationalsozialistischer Großtaten.
+Found
+MODSMD_ARTICLE04: Die Zweifel an Südafrikas Hilfe für England.
+Found
+MODSMD_ARTICLE05: Neuwahlen in England?
+Found
+MODSMD_ARTICLE06: Tie Schwierigkeiten der Palästina-Konferenz.
+Found
+MODSMD_ARTICLE07: England wieder einmal Humanitär.
+Found
+MODSMD_ARTICLE08: Rest-Katalonien in zwei Teile zerschnitten.
+Found
+MODSMD_ARTICLE09: Bouzeuflucht aus Figueras.
+Found
+MODSMD_ARTICLE10: Trommelfeuer auf die Sowjetstellungen! bei Figueras.
+Found
+MODSMD_ARTICLE11: Schändliches Betragen der sowjetspanischen Milizen.
+Found
+MODSMD_ARTICLE12: Konferenz bei Negrin.
+Found
+MODSMD_ARTICLE13: Immer noch rotspanisches Gemetzel.
+Found
+MODSMD_ARTICLE14: Die Aasgeier des nationalen Sieges.
+Found
+MODSMD_ARTICLE15: Ergänzungsprogramm für die japanische Kriegsmarine.
+Found

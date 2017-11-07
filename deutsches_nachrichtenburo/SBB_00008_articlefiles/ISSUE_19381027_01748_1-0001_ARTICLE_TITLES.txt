@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Der Seedienst Ostpreußen im Jahre 1938»
+Found
+MODSMD_ARTICLE03: Der Bergbau Voraussetzung der Wehrhaftigkeit.
+Found
+MODSMD_ARTICLE04: Prag soll bei Einsparungen auch an Genf denken.
+Found
+MODSMD_ARTICLE05: Integrität der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE07: Berthod: „Nevidierung der Verpflichtungen Frankreichs."
+Found
+MODSMD_ARTICLE08: Scharfe Zurechtweisung Lloyd Georges.
+Found
+MODSMD_ARTICLE09: Sowjetspanische Angriffe gescheitert.
+Found
+MODSMD_ARTICLE10: Beantwortung der Prager Note in kürzester Zeit.
+Found
+MODSMD_ARTICLE11: Der Kraftwagenverkehr in Nordpalästina lahmgelegt.
+Found
+MODSMD_ARTICLE12: Neue Operationszentren um Hankau.
+Found
+MODSMD_ARTICLE13: Hoover rechnet mit den Kriegs- und Greuelhetzern ab.
+Found

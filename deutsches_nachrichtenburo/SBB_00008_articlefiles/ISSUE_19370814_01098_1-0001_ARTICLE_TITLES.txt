@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer in Nürnberg.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Tr. Ley an Stabschef Lutze.
+Found
+MODSMD_ARTICLE04: Ungarische Pfandfinder in Nürnberg.
+Found
+MODSMD_ARTICLE05: Hochverratsprozest gegen Kommunisten in Wien.
+Found
+MODSMD_ARTICLE06: Mussolini über die Bedeutung Siziliens für das Imperium.
+Found
+MODSMD_ARTICLE07: Werber für Sowjetspallien unschädlich gemacht.
+Found
+MODSMD_ARTICLE08: Die jüdische Landplage in Polen.
+Found
+MODSMD_ARTICLE09: Französischer Kriegsschiffbesuch in Rumänien.
+Found
+MODSMD_ARTICLE10: Kommunistische Hetze in internationalem lugendlager.
+Found
+MODSMD_ARTICLE11: Die Reichsdeutschen-Verhaftungen in der Sowjetunion.
+Found
+MODSMD_ARTICLE12: Die Japanische Botschaft zur Lage in Schanghai.
+Found
+MODSMD_ARTICLE13: Bombenangriffe auf japanische Kriegsschiffe.
+Found
+MODSMD_ARTICLE14: Zunehmende Heftigkeit der Schlacht von Schanghai.
+Found
+MODSMD_ARTICLE15: Chinesische Truppen in der Internationalen Niederlassung.
+Found
+MODSMD_ARTICLE16: Die Kennzahl der Großhandelspreise vom 11. August.
+Found

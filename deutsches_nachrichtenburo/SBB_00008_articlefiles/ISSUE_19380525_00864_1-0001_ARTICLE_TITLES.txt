@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Staatssekretär Tassmari in Bremen.
+Found
+MODSMD_ARTICLE02: Ausstellung „Entartete Musik" eröffnet.
+Found
+MODSMD_ARTICLE03: Oesterreichische Landarbeiter besuchten den Rhein.
+Found
+MODSMD_ARTICLE04: Gauleiter Büecke! im steirischen Katastrophengebiet.
+Found
+MODSMD_ARTICLE05: Tr. Ley in Vorarlberg.
+Found
+MODSMD_ARTICLE06: Der Pittsburger Vertrag ist kein Museumsstück!
+Found
+MODSMD_ARTICLE07: Ein Engländer über den Lebensweg des Führers.
+Found
+MODSMD_ARTICLE08: England im Zeichen der wirtschaftlichen Aufrüstung.
+Found
+MODSMD_ARTICLE09: Kanadas Bedeutung! im Kriegsfall.
+Found
+MODSMD_ARTICLE10: Londons Flak-Einheiten voll ausgerüstet.
+Found
+MODSMD_ARTICLE11: Abfuhr für verleumderische Hetzer.
+Found
+MODSMD_ARTICLE12: Wieder eine schwere tschechische Grenzverletzung!
+Found
+MODSMD_ARTICLE13: Neue französische 699 Millionen-Berteidignngsanleihe.
+Found
+MODSMD_ARTICLE14: Botschafterempfänge des französischen Außenministers.
+Found
+MODSMD_ARTICLE15: Das ist die Kolonialpolitik der Volksfront!
+Found
+MODSMD_ARTICLE16: Rumänien führt die Todesstrafe ein.
+Found
+MODSMD_ARTICLE17: W Sowjetspanische Anerkennung für französische Unterstützung.
+Found
+MODSMD_ARTICLE18: Sie wollten nicht für Moskau in den Krieg ziehen.
+Found

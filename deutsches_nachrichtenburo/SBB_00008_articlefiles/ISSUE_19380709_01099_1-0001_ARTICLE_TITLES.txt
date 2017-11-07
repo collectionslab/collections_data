@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Eine Erwerbung des Führers für die Glyptothek in München.
+Found
+MODSMD_ARTICLE02: Göring übernimmt Schirmherrschaft der Weltkraftkonferenz.
+Found
+MODSMD_ARTICLE03: Göring an die Lustschiffbau Zeppelin GmbH.
+Found
+MODSMD_ARTICLE04: Beileidstelegramm des Reichswirtschaftsministers.
+Found
+MODSMD_ARTICLE05: Deutschlandreise des Generals Russo.
+Found
+MODSMD_ARTICLE06: Ernennung im Reichsverkehrsministerium.
+Found
+MODSMD_ARTICLE07: Die britischen Botschafter von Berlin und Paris in London.
+Found
+MODSMD_ARTICLE08: Der britische Plan in Burgos übereicht.
+Found
+MODSMD_ARTICLE09: Englands riesige Flottenrüstungen.
+Found
+MODSMD_ARTICLE10: Die Frage der Sicherheit der britischen Handelsflotte.
+Found
+MODSMD_ARTICLE11: Kanada als Ausbildungsbasis für die britische Luftflotte.
+Found
+MODSMD_ARTICLE12: Man wird auch in Frankreich langsam hellhörig.
+Found
+MODSMD_ARTICLE13: Arabische Frauen protestieren gegen jüdische Bluttaten.
+Found
+MODSMD_ARTICLE14: Tie Kennzahl der Großhandelspreise vom 6. Juli.
+Found
+MODSMD_ARTICLE15: Vollstreckung eines Todesurteils.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Begnadigung durch den Führer.
+Found
+MODSMD_ARTICLE02: Grundsteinlegung der Adolf Hitler-Schulen am 15. Januar.
+Found
+MODSMD_ARTICLE03: Auszeichnung für den Film „Urlaub auf Ehrenwort".
+Found
+MODSMD_ARTICLE04: Die Deutsche Reichspost im Jahre 1937.
+Found
+MODSMD_ARTICLE05: Amtliches Sammelwerk für das gesamte Jugendrecht.
+Found
+MODSMD_ARTICLE06: Initiative des Ministerpräsidenten Chautemps.
+Found
+MODSMD_ARTICLE07: Tie Streiklage soll vor den Volksfrontausschust.
+Found
+MODSMD_ARTICLE08: Bestreiktes Pariser Unternehmen durch Polizei geräumt.
+Found
+MODSMD_ARTICLE09: Die Arbeitslosigkeit iu Frankreich.
+Found
+MODSMD_ARTICLE10: Französische Angestellte protestieren.
+Found
+MODSMD_ARTICLE11: Van Zeeland am Freitag bei Chamberlain.
+Found
+MODSMD_ARTICLE12: Anerkennung des italienischen Imperiums durch Rumänien.
+Found
+MODSMD_ARTICLE13: Die Italien-Reise der 1500 Rumänen.
+Found
+MODSMD_ARTICLE14: König Carol dankt für die bulgarische Hilfsbereitschaft.
+Found
+MODSMD_ARTICLE15: Griechenland jubelt dem Brautpaar zu.
+Found
+MODSMD_ARTICLE16: GPU.-Agent schmuggelt Hetzschriften.
+Found
+MODSMD_ARTICLE17: Vereidigung der Mitglieder des „Spanischen Instituts".
+Found

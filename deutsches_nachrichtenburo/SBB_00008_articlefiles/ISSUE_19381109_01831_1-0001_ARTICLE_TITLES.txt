@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Meldung des SS.-Führernachwuchses beim Führer.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Funk an Geheimrat Klöckner und Dr. Thyssen.
+Found
+MODSMD_ARTICLE04: Neuernannte Führer von SA.-Gruppen.
+Found
+MODSMD_ARTICLE05: Aus der Verwaltung.
+Found
+MODSMD_ARTICLE06: Zum Sondertreuhimder für das Graveurgewerbe bestellt.
+Found
+MODSMD_ARTICLE07: Bundesrat genehmigt 7V Millionen zur Landesverteidigung.
+Found
+MODSMD_ARTICLE08: Lebhaftes Presseecho der Münchener Führerrede in Rom.
+Found
+MODSMD_ARTICLE09: Früherer ungarischer Minister dankt dem Führer.
+Found
+MODSMD_ARTICLE10: General Francs dankt der Falange.
+Found
+MODSMD_ARTICLE11: Der Palästina-Teilungsplan aufgegeben.
+Found
+MODSMD_ARTICLE12: Mittwoch-Sitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE13: Admiral Backhouse vom König empfangen.
+Found
+MODSMD_ARTICLE14: General Grant besichtigt französische Befestigungen.
+Found
+MODSMD_ARTICLE15: Zwischenfälle auch in Nordtransjordanien.
+Found
+MODSMD_ARTICLE16: Gesandtschaftsrat vom Rath f.
+Found
+MODSMD_ARTICLE17: Die letzten Stunden im Leben vom Raths.
+Found
+MODSMD_ARTICLE18: Der türkische Ministerpräsident bei Kemal Atatürk.
+Found
+MODSMD_ARTICLE19: Sowjetrufsische Militärlieferungen an China.
+Found
+MODSMD_ARTICLE20: Japanische Erfolge gegen Jotschau.
+Found

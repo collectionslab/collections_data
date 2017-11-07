@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Das Gesetz über die Verfassung Hamburgs.
+Found
+MODSMD_ARTICLE02: Der Neuaufbau des Deutschen Rote« Kreuzes vollendet.
+Found
+MODSMD_ARTICLE03: Verlegung des Instituts für Arzneimittelforschung.
+Found
+MODSMD_ARTICLE04: Neue Reichsmittel für Umbauten und für die Grenzgebiete.
+Found
+MODSMD_ARTICLE05: Drei Fragenkomplexe standen M Rom zur Debatte.
+Found

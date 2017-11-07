@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Mussolini 55 Jahre.
+Found
+MODSMD_ARTICLE02: Glückwünsche des Führers für Gauleiter Bohle.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels mit Vittorio Mussolini in Babelsberg-Ufastadt
+Found
+MODSMD_ARTICLE04: Dr. Goebbels in Breslau.
+Found
+MODSMD_ARTICLE05: Besichtigungsfahrt Dr. Fricks durch Schlesien.
+Found
+MODSMD_ARTICLE06: Glänzender Verlauf des ersten Breslauer Großkampstages.
+Found
+MODSMD_ARTICLE07: Begrüßung der Volksdeutschen Studenten in Breslau.
+Found
+MODSMD_ARTICLE08: Der Abend des Deutschen Volkstums in Breslau.
+Found
+MODSMD_ARTICLE09: Reichserbhofgesetz in Oesterreich.
+Found
+MODSMD_ARTICLE10: Holland ernennt einen Agenten für Natioualspanieu.
+Found
+MODSMD_ARTICLE11: Tschechische Flugblätter ssrÄrn Boykott' deutscher Waren,
+Found
+MODSMD_ARTICLE12: Englands Bemühungen um den Ofsiziersnachwnchs.
+Found
+MODSMD_ARTICLE13: Französischer Kabinettsrat.
+Found
+MODSMD_ARTICLE14: Abschluß des Amsterdamer Geographischen Kongresses.
+Found
+MODSMD_ARTICLE15: Wiederum polnische Bauern über die Grenze gelockt.
+Found

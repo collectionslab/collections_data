@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Schulfrei aus Anlaß des jugoslawischen Staatsbesuches.
+Found
+MODSMD_ARTICLE02: Deutsch-mandschurisches Handelsabkommen verlängert.
+Found
+MODSMD_ARTICLE03: Mussolini empfing den Reichsjustizminister.
+Found
+MODSMD_ARTICLE04: Italienischer Orden für Reichsarbeitsführer Hierl.
+Found
+MODSMD_ARTICLE05: Italiens Gesamthaushaltsplan vom Senat genehmigt.
+Found
+MODSMD_ARTICLE06: A dschiedsfeiern für die italienischen Freiwilligen in Cadiz.
+Found
+MODSMD_ARTICLE07: Ordensverleihung in Sevilla.
+Found
+MODSMD_ARTICLE08: „Korrekte Nachbarschaft, ausdrücklichste Freundschaft".
+Found
+MODSMD_ARTICLE09: Das amtliche Ergebnis der ungarischen Wahlen.
+Found
+MODSMD_ARTICLE10: Jetzt soll eine „persönliche Versicherung" helfen.
+Found
+MODSMD_ARTICLE11: Labour-Partei erwartet Neuwahlen im Herbst.
+Found
+MODSMD_ARTICLE12: Auslieferung Ruffels an England?
+Found
+MODSMD_ARTICLE13: Englands enorme Seerüstungen.
+Found
+MODSMD_ARTICLE14: Phrasen der französischen Sozialdemokraten.
+Found
+MODSMD_ARTICLE15: Rundreise Roosevelts durch USA.
+Found
+MODSMD_ARTICLE16: Tie Ausweisungsbestimmmtgen in Südafrika.
+Found

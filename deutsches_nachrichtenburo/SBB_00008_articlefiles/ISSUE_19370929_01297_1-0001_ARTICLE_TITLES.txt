@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Kundgebungen für Duee und Führer.
+Found
+MODSMD_ARTICLE02: Italiens Vorfreude auf Mussolinis Rückkehr.
+Found
+MODSMD_ARTICLE03: Das Ausland zur VL!kerkundgebung
+Found
+MODSMD_ARTICLE04: 99. Tagung des Völkerbundsrates.
+Found
+MODSMD_ARTICLE05: Einigung der Marinesachverständigen in Paris.
+Found
+MODSMD_ARTICLE06: Spanien ehrt General Franco.
+Found
+MODSMD_ARTICLE07: Barcelonas Benzinvorräte vernichtet.
+Found
+MODSMD_ARTICLE08: Tie GPU wütet auch in Sowjetspanien.
+Found
+MODSMD_ARTICLE09: Englischer Kabinettsrat.
+Found
+MODSMD_ARTICLE10: Anklagen der „Times" gegen Sowjetrußland.
+Found
+MODSMD_ARTICLE11: Wieder blutige Unruhen in Waziristan.
+Found
+MODSMD_ARTICLE12: Neuer japanischer Großaugriff au der Schanghai-Front.
+Found
+MODSMD_ARTICLE13: Japan gegen Genfer Kritiken.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Reichsjugendführer im Heidelberger Zeltlager.
+Found
+MODSMD_ARTICLE02: Luftschiff „Hindenburg" von Lakehurst gestartet.
+Found
+MODSMD_ARTICLE03: Die deutschen Filmoperateure in Athen.
+Found
+MODSMD_ARTICLE04: Englischer ErZbischof für Verständigung mit Deutschland.
+Found
+MODSMD_ARTICLE05: Bulgarien über den aufrichtigen Friedenswillen des Führers.
+Found
+MODSMD_ARTICLE06: Großbritanniens Flottenaufrüstung.
+Found
+MODSMD_ARTICLE08: Die Verluste der britischen Truppen in Palästina.
+Found
+MODSMD_ARTICLE09: Vertagung der Brüsseler Konferenz?
+Found
+MODSMD_ARTICLE10: Paris besteht auf Abhaltung der Brüsseler Konferenz.
+Found
+MODSMD_ARTICLE11: Neue Schwierigkeiten in Montreux.
+Found
+MODSMD_ARTICLE12: Noch immer Werftarbeiterstreik in St. Nazaire.
+Found
+MODSMD_ARTICLE13: 2000 Saisonarbeiter in Lodz in den Streik getreten.
+Found
+MODSMD_ARTICLE14: Verläßt Mexiko den Völkerbund?
+Found
+MODSMD_ARTICLE15: Der schwedische Außenminister für Wehrderstärkung. ?
+Found
+MODSMD_ARTICLE16: Der Streik in der Zuckerfabrik bei Kairo beigelegt.
+Found
+MODSMD_ARTICLE17: Offene Auflehnung gegen Nanking.
+Found
+MODSMD_ARTICLE18: Aufdeckung einer Verschwörung in Paraguay.
+Found
+MODSMD_ARTICLE19: Bisher 2300 Tote infolge der amerikanischen Hitze.
+Found

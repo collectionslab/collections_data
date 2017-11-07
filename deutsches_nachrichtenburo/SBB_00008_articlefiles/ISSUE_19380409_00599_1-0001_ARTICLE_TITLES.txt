@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer verlätzt Linz.
+Found
+MODSMD_ARTICLE02: Ein 5<M Jahre altes Steinbeil deck Führer überreicht.
+Found
+MODSMD_ARTICLE03: Wahlkundgebungen am Freitag.
+Found
+MODSMD_ARTICLE04: Verabschiedung der NSKK.-Treuestafetten in München.
+Found
+MODSMD_ARTICLE05: Feierliche Beisetzung der Opfer von Heiligenhasen.
+Found
+MODSMD_ARTICLE06: Dr. Todt Ehenbürger der Technischen Hochschule Graz.
+Found
+MODSMD_ARTICLE07: Ein vollzähliges Ja bei den Ausländsdeutschen.
+Found
+MODSMD_ARTICLE08: Ministerrat in Prag.
+Found
+MODSMD_ARTICLE09: „Esti Ujsag" über die Stimmung in Wien.
+Found
+MODSMD_ARTICLE10: „Das Volk hat Taten gesehen".
+Found
+MODSMD_ARTICLE11: Neapels Vorbereitungen zum Führeremvsang.
+Found
+MODSMD_ARTICLE12: Die italienische Wirtschaftsmission nach Japan abgereist.
+Found
+MODSMD_ARTICLE13: Die Schweiz wehrt sich gegen Ueberfremdung.
+Found
+MODSMD_ARTICLE14: Deutschlands Vorbild.
+Found
+MODSMD_ARTICLE15: Der Eisenbahnanschlust Kowno—Wilna wiederhergestellt.
+Not Found
+MODSMD_ARTICLE16: Fühlungnahme Zwischen Rumänien und Nationalspanien.
+Found

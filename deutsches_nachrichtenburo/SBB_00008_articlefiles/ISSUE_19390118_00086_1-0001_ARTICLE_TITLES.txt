@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Eine stürmische Kammersitzung in Paris.
+Found
+MODSMD_ARTICLE02: Verschärfter Druck auf Daladier.
+Found
+MODSMD_ARTICLE03: Die Zweijährige Militärdienstzeit in Frankreich.
+Found
+MODSMD_ARTICLE04: Eine neue Verhaftung im Falle Jmitianow.
+Found
+MODSMD_ARTICLE05: Der nationale Vormarsch.
+Found
+MODSMD_ARTICLE06: Neuer lettischer Innenminister.
+Found
+MODSMD_ARTICLE07: Dir arabische Abordnung für die Palästina-Konferenz.
+Found
+MODSMD_ARTICLE08: Hetzkorrespondent der „New Jork Times" verliest Mexiko.
+Found
+MODSMD_ARTICLE09: Der jüdische „Richter" Frankfurter endgültig bestätigt.
+Found

@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: London zur Internationalen Automobilausstellung.
+Found
+MODSMD_ARTICLE02: Schwache Freiwilligenmeldungen Zum nationalen Hilfsdienst,
+Found
+MODSMD_ARTICLE03: Jüdisch-britische Besprechung über die Einwandernngsfrage.
+Found
+MODSMD_ARTICLE04: Die Solidarität Italiens mit Franco.
+Found
+MODSMD_ARTICLE05: Madrid bildet politische Kommissare aus.
+Found
+MODSMD_ARTICLE06: Abermaliges Bombardement Valencias.
+Found
+MODSMD_ARTICLE07: Roter Folterknecht in Barcelona verhaftet.
+Found
+MODSMD_ARTICLE08: Die Manöver del Vayos in Paris gescheitert.
+Found
+MODSMD_ARTICLE09: Der Chef der rotspanischen Truppensührung zurückgetreten.
+Found
+MODSMD_ARTICLE10: Pariser Schüler sammeln für die Rotspanier.
+Found
+MODSMD_ARTICLE11: „Ere Nouvelle" zum Urteil von Ceret.
+Found
+MODSMD_ARTICLE12: Frankreich ruft den Jahrgang 1919 ein.
+Found
+MODSMD_ARTICLE13: Wieder Kriegsmaterialtransporte nach Dschibuti.
+Found
+MODSMD_ARTICLE14: Die Bauern Sowjetrußlands wehreu sich.
+Found
+MODSMD_ARTICLE15: Um die wirtschaftliche Existenz der Slowakei.
+Found
+MODSMD_ARTICLE16: Unveränderter Kurs der jugoslawischen Außenpolitik.
+Found
+MODSMD_ARTICLE17: Eine neue Sonderanforderung Roosevelts.
+Found
+MODSMD_ARTICLE18: Roosevelts Genehmigung für Frankreichs Militärmission.
+Found
+MODSMD_ARTICLE19: Protest gegen die Besichtigung der USA.-Bomber.
+Found
+MODSMD_ARTICLE20: USA.-Flugstiitzpunkt auf Sowjet-Wrangelinsel beantragt.
+Found
+MODSMD_ARTICLE21: Uruguay erkennt Franeo an.
+Found
+MODSMD_ARTICLE22: Rotspanienrummel australischer Kommunisten.
+Found

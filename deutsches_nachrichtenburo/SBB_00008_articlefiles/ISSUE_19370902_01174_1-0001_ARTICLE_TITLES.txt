@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm Fricks an Blomberg.
+Found
+MODSMD_ARTICLE02: Nationalspanische Jugend in Hamburg eingetroffen.
+Found
+MODSMD_ARTICLE03: General Faupel wieder in der Heimat.
+Found
+MODSMD_ARTICLE04: HJ.-Abordnung bei Chautemps.
+Found
+MODSMD_ARTICLE05: Der Danziger Völkerbundskommiffar in Warschau.
+Found
+MODSMD_ARTICLE06: Ministerbesprechung über die Lage im Mittelmeer.
+Found
+MODSMD_ARTICLE07: Der Torpedo-Angriff auf den englischen Zerstörer.
+Found
+MODSMD_ARTICLE08: Sowjetspanisches Kriegsschiff nach England geflüchtet.
+Found
+MODSMD_ARTICLE09: Auslandsstimmen zur Krise der Belgischen Nationalbank.
+Found
+MODSMD_ARTICLE10: Geplante englisch-französische Zusammenarbeit in Fernost.
+Found
+MODSMD_ARTICLE11: Der chinesische Botschafter bei Hirota.
+Found
+MODSMD_ARTICLE12: 5W Millionen China-Dollar-Anleihe.
+Found
+MODSMD_ARTICLE13: Tokio für Fortsetzung des Kampfes gegen China»
+Found
+MODSMD_ARTICLE14: Syrische Abordnung fliegt nach Genf.
+Found
+MODSMD_ARTICLE15: Zwei weitere Araber Opfer des Judenterrors.
+Found
+MODSMD_ARTICLE16: USA für Verminderung der Weltrüstungen.
+Found
+MODSMD_ARTICLE17: Roosevelt erhebt Einspruch.
+Found
+MODSMD_ARTICLE18: USA-Botschafter Bingham bespricht mit Roosevelt die Lage.
+Found
+MODSMD_ARTICLE19: Taifun über Hongkong.
+Found

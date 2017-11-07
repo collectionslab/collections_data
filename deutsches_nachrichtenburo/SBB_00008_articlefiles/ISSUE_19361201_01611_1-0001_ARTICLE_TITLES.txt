@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Deutsch-argentinische Handelsdereinbarungen verlängert.
+Found
+MODSMD_ARTICLE02: Ein Aufruf des Reichsbauernführers.
+Found
+MODSMD_ARTICLE03: Hans Friedrich Blunck in Wien.
+Found
+MODSMD_ARTICLE04: Urteil im Hamburger Devisenprozeß Solomon.
+Found
+MODSMD_ARTICLE05: Reichsbankpräsident Dr. Schacht von Rhodos abgeflogen.
+Found
+MODSMD_ARTICLE06: Der ungarische Innenminister kommt nach Berlin.
+Found
+MODSMD_ARTICLE07: Pv.ener „Deutsche Nachrichten" zum Tarnowitzer Urteil.
+Found
+MODSMD_ARTICLE08: Dr. Rosche vor dem Prager Abgeordnetenhaus.
+Found
+MODSMD_ARTICLE09: Doriot verklagt Kommunisten wecken Aufreizung zum Mord«
+Found
+MODSMD_ARTICLE10: Französische Freiwillige sollen Nationalität verlieren.
+Found
+MODSMD_ARTICLE11: Nationalfeiertag in Belgrad.
+Found
+MODSMD_ARTICLE12: Der englisch-argentinische Handelsvertrag unterzeichnet.
+Found
+MODSMD_ARTICLE13: Minister Bottai Mitglied des Großen Faschistischen Rates.
+Found
+MODSMD_ARTICLE14: Neues diplomatische Vertretung in London und Kairo.
+Found
+MODSMD_ARTICLE15: Noosevelt eröffnet Konferenz von Buenos Aires.
+Found
+MODSMD_ARTICLE16: Noosevelt Ehrendoktor der Universität Buenos Aires.
+Found
+MODSMD_ARTICLE17: Der chilenische Schritt in Rom.
+Found
+MODSMD_ARTICLE18: Keine Ausländerehen im Auswärtigen Dienst der USA.
+Found

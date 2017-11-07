@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Mussolini warnt erneut!
+Found
+MODSMD_ARTICLE02: Pariser Pressestimmen zum Memorandum.
+Found
+MODSMD_ARTICLE03: Die englische Sonntagspresse zur Lage.
+Found
+MODSMD_ARTICLE04: Was die Presse Italiens sagt.
+Found
+MODSMD_ARTICLE05: Kabinettsrat in Paris.
+Found
+MODSMD_ARTICLE06: 5. Reichstaguug für Deutsche Vorgeschichte.
+Found
+MODSMD_ARTICLE07: Bolschewistische Augriffsdersuche blutig abgewiesen.
+Found
+MODSMD_ARTICLE08: Der Kleinkrieg in Palästina.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die „Exeter" schwer beschädigt auf einer Sandbank.
+Found
+MODSMD_ARTICLE02: Wieder 2 britische Flugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE03: Feindliche „Sperrflüge" im deutschen Lustraum aussichtslos.
+Found
+MODSMD_ARTICLE04: Eine Scherzfrage im englischen Unterhaus.
+Found
+MODSMD_ARTICLE05: Reichsminister Funk im Olsagebiet.
+Found
+MODSMD_ARTICLE06: Slowakische Blätter über das Theater in Genf.
+Found
+MODSMD_ARTICLE07: Sandler wird wieder Statistiker.
+Found
+MODSMD_ARTICLE08: Der russische Heeresbericht vom 14. Dezember.
+Found
+MODSMD_ARTICLE09: Neun Schiffe von 5K KW t hatte „Graf Spee" versenkt.
+Found
+MODSMD_ARTICLE10: Hull über das Seegefecht an der La Plata-Mündung.
+Found
+MODSMD_ARTICLE11: Rückgang der amerikanischen Ausfuhr.
+Found
+MODSMD_ARTICLE12: Rabbi Wise macht sich zum Sprecher der Christenheit.
+Found
+MODSMD_ARTICLE13: Ein Todesurteil vollstreckt.
+Found

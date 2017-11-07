@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer zum Tode von Gömbös.
+Found
+MODSMD_ARTICLE02: Tiefe Trauer in Ungarn.
+Found
+MODSMD_ARTICLE03: Ministerpräsident Julius von Gömbös.
+Found
+MODSMD_ARTICLE04: Goethe-Medaille für Professor Richard Haupt.
+Found
+MODSMD_ARTICLE05: Zum Senatspräsidenten beim Reichsgericht ernannt.
+Found
+MODSMD_ARTICLE06: LZ „Hindenburg" zur 10. Nordamerikafahrt gestartet.
+Found
+MODSMD_ARTICLE07: Eine Wilhelm Gustloff-Halle in Tzaneen geweiht.
+Found
+MODSMD_ARTICLE08: Früherer belgischer Minister zur Kommunistengefahr.
+Found
+MODSMD_ARTICLE09: 'des WUvlertstEKaveris.
+Found
+MODSMD_ARTICLE10: Degrelle über das flämische Problem.
+Found
+MODSMD_ARTICLE11: Madrid in Erwartung des nationalistischen Angriffs.
+Found

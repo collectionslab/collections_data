@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Hamburg zum Besuch Horthys festlich aeschmück
+Found
+MODSMD_ARTICLE02: Die Trauerfeier für Ritter Vau Rappard.
+Found
+MODSMD_ARTICLE03: Unsinnige Gerückte über Steuererhöhungen.
+Found
+MODSMD_ARTICLE04: Die Ostschau des Reichsnährstandes.
+Found
+MODSMD_ARTICLE05: Der Hafenstreik in Marseille.
+Found
+MODSMD_ARTICLE06: Zählung der Juden in Italien.
+Found
+MODSMD_ARTICLE07: Täglich etwa 20 Mordtaten im Fort Montjuich.
+Found
+MODSMD_ARTICLE08: Neue Zwangsmaßnahmen gegen Bauern in der Sowjetunion
+Found
+MODSMD_ARTICLE09: Wieder türkisches Militär in Adrianopel.
+Found
+MODSMD_ARTICLE10: Entführte Kinder wieder heimgeschickt.
+Found
+MODSMD_ARTICLE11: Aegypten will in Genf die Palästinafrage anschneiden.
+Found
+MODSMD_ARTICLE12: Eine Erklärung Roosevelts zu der Rede in Kingston.
+Found

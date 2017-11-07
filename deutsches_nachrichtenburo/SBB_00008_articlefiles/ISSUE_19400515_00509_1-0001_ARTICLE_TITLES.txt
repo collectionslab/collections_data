@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Bewunderung in aller Welt.
+Found
+MODSMD_ARTICLE02: Mit fremden Augen.
+Found
+MODSMD_ARTICLE03: Botschafter Alfieri nach Berlin abgereist.
+Found
+MODSMD_ARTICLE04: Neue Mitglieder des faschistischen Parteidirektoriums.
+Found
+MODSMD_ARTICLE05: Italiens Empörung über die englische Piraterie.
+Found
+MODSMD_ARTICLE06: Plutokratenkontrolle der bulgarischen Finanzen aufgehoben.
+Found
+MODSMD_ARTICLE07: Irland behauptet seine Neutralität.
+Found
+MODSMD_ARTICLE08: Protest gegen die Hetze in Niederländisch-Jndien.
+Found
+MODSMD_ARTICLE09: Guten Morgen!
+Found

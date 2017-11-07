@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Ulrich Graf 60 Jahre alt.
+Found
+MODSMD_ARTICLE02: 17 Millionen Juden in der Welt.
+Found
+MODSMD_ARTICLE03: Volksdeutsche Mädchen aus Ostoberschlesien in der Westmark.
+Found
+MODSMD_ARTICLE04: Beirat der Deutschen Reichsbahn tagte in Kärnten.
+Found
+MODSMD_ARTICLE05: Benzinpreissenkung im Land Oesterreich.
+Found
+MODSMD_ARTICLE07: Besuch der deutschen Marineflieger in Neval abgeschlossen.
+Found
+MODSMD_ARTICLE08: Sowjetflugzeug über Estland.
+Found
+MODSMD_ARTICLE09: Der Generaldirektor des polnischen Rundfunks gestorben.
+Found
+MODSMD_ARTICLE10: Fluglinie Warfchan—Budapest eröffnet.
+Found
+MODSMD_ARTICLE11: Auch Dimitrofs verhaftet?
+Found
+MODSMD_ARTICLE12: 75 vH. Sowjetrussen in den Internationalen Brigaden.
+Found
+MODSMD_ARTICLE13: Moskau macht wieder Schwierigkeiten.
+Found
+MODSMD_ARTICLE14: 29» Sitzung des- Nichteiumischungsausschusses.
+Found
+MODSMD_ARTICLE15: Der Fall „Stancroft" noch nicht abgeschlossen.
+Found
+MODSMD_ARTICLE16: Ständiger Passagierverkehr Holland—Australien eröffnet.
+Not Found
+MODSMD_ARTICLE17: FlugZeugsabrikep für Australien?
+Found
+MODSMD_ARTICLE18: Komnmnistenverhastungen in Saloniki.
+Found
+MODSMD_ARTICLE19: Wieder Tote und Verwundete in Palästina.
+Found
+MODSMD_ARTICLE20: Die Unwetter-Katastrophe in Japan.
+Found
+MODSMD_ARTICLE21: Bolivien lehnt Entscheidung durch die Chaco-Konferenz ab.
+Found
+MODSMD_ARTICLE22: Kmdermörderin zum Tode verurteilt.
+Found

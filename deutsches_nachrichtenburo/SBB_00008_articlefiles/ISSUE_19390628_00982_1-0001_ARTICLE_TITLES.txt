@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Adlerschild des Deutschen Reiches für Albert Pietzsch.
+Found
+MODSMD_ARTICLE02: Engstes Zusammenwirken der Luftwaffen der Achse.
+Found
+MODSMD_ARTICLE03: Wieder SIM italienische Legionäre in Neapel.
+Found
+MODSMD_ARTICLE04: Graf Ciano reist nach Spanien.
+Found
+MODSMD_ARTICLE05: General Aranda wieder in der Heimat.
+Found
+MODSMD_ARTICLE06: Autounfall des jugoslawischen Pressechefs.
+Found
+MODSMD_ARTICLE07: Das Versailler Diktat „zu milde"!
+Found
+MODSMD_ARTICLE08: Warnungen eines holländischen Blattes.
+Found
+MODSMD_ARTICLE09: Die portugiesischen Putschisten vpn 1931 verurteilt.
+Found
+MODSMD_ARTICLE10: London macht neue Zugeständnisse.
+Found
+MODSMD_ARTICLE11: Peinliche Fragen im Unterhaus.
+Found
+MODSMD_ARTICLE12: Keine Aufhebung der Blockade von Tientsin.
+Found
+MODSMD_ARTICLE13: Der englische Botschafter bat um eine Unterredung.
+Found
+MODSMD_ARTICLE14: Die Operationen gegen Wentschau und Futschau.
+Found
+MODSMD_ARTICLE15: Die Blutschuld Englands in Palästina.
+Found
+MODSMD_ARTICLE16: Den Palästina-Juden schwillt der Kamm.
+Found
+MODSMD_ARTICLE17: „Wir dürfen uns nicht auf die Seite Englands stellen!"
+Found
+MODSMD_ARTICLE18: Neuseeland soll für London bluten. "
+Found

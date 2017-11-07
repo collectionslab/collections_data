@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Vormittags -Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Neue Aufgaben für den Reichsführer
+Found
+MODSMD_ARTICLE03: Dre Blutschuld der von England aufgehetzten Polen.
+Found
+MODSMD_ARTICLE04: Die englische Landwirtschaft enttäuscht.
+Found
+MODSMD_ARTICLE05: Frankreich beschlagnahmt neutrale Schiffsladungen.
+Found
+MODSMD_ARTICLE06: Forster stiftete einen Tanziger Staatsorden.
+Found
+MODSMD_ARTICLE07: Brauchitsch dankt der Slowakei.
+Found
+MODSMD_ARTICLE08: „England allein trägt die Verantwortung für den Krieg."
+Found
+MODSMD_ARTICLE09: Die bulgarische Presse zur Rede des Reichsaußenmmisters.
+Found
+MODSMD_ARTICLE10: Britischer 7200 Tonnen-Dampfer versenkt.
+Found
+MODSMD_ARTICLE11: Lohnsteigerungswelle in England.
+Found
+MODSMD_ARTICLE12: England stiehlt jetzt auch belgisches Gold»
+Found
+MODSMD_ARTICLE13: Deutscher Dank au Argentinien.
+Found
+MODSMD_ARTICLE14: „Die Verantwortung für den Krieg liegt bei England."
+Found

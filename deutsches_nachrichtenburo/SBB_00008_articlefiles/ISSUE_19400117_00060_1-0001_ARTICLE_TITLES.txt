@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Botschafter Ritter begab sich nach Moskau zurück.
+Found
+MODSMD_ARTICLE02: Die Ohnmacht der britischen Handelspolitik.
+Found
+MODSMD_ARTICLE03: Amerikaner senden schon Lebensmittelpakete nach England!
+Found
+MODSMD_ARTICLE04: Italienische Zeitschrift über die Kriegsentwicklung.
+Found
+MODSMD_ARTICLE05: Ruhe in Palästina?
+Found
+MODSMD_ARTICLE06: Neuer englischer Gesandter in Stockholm.
+Found
+MODSMD_ARTICLE07: Gepflogenheiten der britischen! Presse.
+Found
+MODSMD_ARTICLE08: Zank zwischen England und Kanada.
+Found
+MODSMD_ARTICLE09: Torpedierungen und Minenexplosionen nehmen überhand.
+Found
+MODSMD_ARTICLE10: Für die Unabhängigkeit Südafrikas.
+Found
+MODSMD_ARTICLE11: Was W. C. für eine Woche freiwillig zugibt.
+Found
+MODSMD_ARTICLE12: Dänemarks größtes Handelsschiff verloren.
+Found
+MODSMD_ARTICLE13: Der militärische Charakter der „Fischdampfer".
+Found
+MODSMD_ARTICLE14: Sturm auf Lebensmittelgeschäfte in Indien.
+Found
+MODSMD_ARTICLE15: Beibehaltung der japanischen Außenpolitik.
+Found
+MODSMD_ARTICLE16: Roosevelts dritte Präsidentschaftskandidatur.
+Found
+MODSMD_ARTICLE17: „Die USA. benötigen größere U-Boote".
+Found
+MODSMD_ARTICLE18: Englands Antwort an die amerikanischen Regierungen.
+Found
+MODSMD_ARTICLE19: Die Brüskierung Amerikas durch England.
+Found

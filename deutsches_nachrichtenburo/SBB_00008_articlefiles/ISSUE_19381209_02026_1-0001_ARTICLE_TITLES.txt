@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Minister Lantini von Göring empfangen.
+Found
+MODSMD_ARTICLE02: Tagung der Akademie für Deutsches Recht inl Berlin.
+Found
+MODSMD_ARTICLE03: Im Heim der Langemarck-Studenten.
+Found
+MODSMD_ARTICLE04: „Juden, das zersetzende Element".
+Found
+MODSMD_ARTICLE05: Die Lösung der Judenfrage in Prag.
+Found
+MODSMD_ARTICLE06: 499 999 Tschechenkronen unter dem Verband.
+Found
+MODSMD_ARTICLE07: „Zusammenarbeit für den europäischen Frieden."
+Found
+MODSMD_ARTICLE08: Bulgarische Abgeordnete aus dem Parlament ausgeschlossen.
+Found
+MODSMD_ARTICLE09: Auch in Schottland werden Flugzeugwerke errichtet.
+Found
+MODSMD_ARTICLE10: Untersuchung gegen Mitglieder der britischen Polizeitruppe.
+Found
+MODSMD_ARTICLE11: Der Präsident der Domei-Agentur Zum Pair ernannt.
+Found
+MODSMD_ARTICLE12: Japan auf der Wacht gegen die Moskauer Weltgefahr.
+Found
+MODSMD_ARTICLE13: Führende Amerikaner gegen Roosevelts Außenpolitik.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Cianetti auf der Ordensburg Crösfinsee.
+Found
+MODSMD_ARTICLE02: Alle Slowaken in Budweis verhaftet.
+Found
+MODSMD_ARTICLE03: Neue Verhaftungen unter der deutschen Volksgruppe.
+Found
+MODSMD_ARTICLE04: Standrecht über Stangern.
+Found
+MODSMD_ARTICLE05: Irrsinniger tschechischer Terror in Jglan.
+Found
+MODSMD_ARTICLE06: Deutsche Ingenieure entlassen.
+Found
+MODSMD_ARTICLE07: Tie tschechischen Bombenanschlage in Preßburg.
+Found
+MODSMD_ARTICLE08: Geschäftigkeit in der Prager Sowjetgesandtschast.
+Found
+MODSMD_ARTICLE09: Rom zu den Vorgängen in der Slowakei.
+Found
+MODSMD_ARTICLE10: Minister Steenberghe über seinen Besuch in Deutschland.
+Found
+MODSMD_ARTICLE11: Miaja setzte sich in Madrid durch.
+Found
+MODSMD_ARTICLE12: Notspanier entwichen aus Konzentrationslagern.
+Found
+MODSMD_ARTICLE13: Sowjetspanische Bonzen im Exil.
+Found
+MODSMD_ARTICLE14: Halifax über die englische Politik.
+Found
+MODSMD_ARTICLE15: Der neueste jüdische Dreh in London.
+Found
+MODSMD_ARTICLE16: Minister Kotzias wieder in Athen.
+Found
+MODSMD_ARTICLE17: Japan gerüstet zur Durchführung des China-Konfliktes.
+Found
+MODSMD_ARTICLE18: Zuerst kritisiert dann nachgeahmt.
+Found
+MODSMD_ARTICLE19: Schweres Eisenbahnunglück in Frankreich»
+Found

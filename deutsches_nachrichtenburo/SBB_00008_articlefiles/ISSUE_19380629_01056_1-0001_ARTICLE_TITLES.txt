@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Geburtstagsglückwunsch des Führers an Seldte.
+Found
+MODSMD_ARTICLE02: Besichtigungsfahrt der italienischen Strafvollzugsbeamten.
+Found
+MODSMD_ARTICLE03: Deutsch-siamesisches Studentenlager in Kärnten.
+Found
+MODSMD_ARTICLE04: Dr. Seyß-Jnquart in Kassel.
+Found
+MODSMD_ARTICLE05: Zusammenstöße in Memel.
+Found
+MODSMD_ARTICLE06: Die Aufnahme des Olympia-Films in Paris.
+Found
+MODSMD_ARTICLE07: Vertreter der ungarischen Volksgruppe bei Hodscha.
+Found
+MODSMD_ARTICLE08: Auch Vertreter der polnischen Volksgruppe bei Hodscha.
+Found
+MODSMD_ARTICLE09: WM Barcelona seine Drohungen doch noch verwirklichen?
+Found
+MODSMD_ARTICLE10: Die Wahrheit über die Unterredung Ciano—Kerth.
+Not Found
+MODSMD_ARTICLE11: Parlamentspalaver um den Fall Duucan Sandys.
+Found
+MODSMD_ARTICLE12: Juden provozieren Krawalle.
+Found
+MODSMD_ARTICLE13: Zwei Nationalhymnen in Südafrika.
+Found

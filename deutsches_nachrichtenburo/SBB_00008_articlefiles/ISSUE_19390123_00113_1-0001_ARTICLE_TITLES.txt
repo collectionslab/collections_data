@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer Zur Hochzeit im italienischen Königshaus.
+Found
+MODSMD_ARTICLE02: Die Trauung der Prinzessin Maria von Savoyen.
+Found
+MODSMD_ARTICLE03: Unterredung Funk—Volpi.
+Not Found
+MODSMD_ARTICLE04: General Udet in Tripolis.
+Found
+MODSMD_ARTICLE05: Das Echo der Mussolini-Rede über den Antifaschismus.
+Found
+MODSMD_ARTICLE06: „Popolo d'Jtalia" zu dem Ergebnis von Belje.
+Found
+MODSMD_ARTICLE07: 300 albanische Studenten und Gymnasiasten verhaftet.
+Found
+MODSMD_ARTICLE08: Auch die englische Königefamilie wird bewacht.
+Found
+MODSMD_ARTICLE09: Die roten Machthaber ans Barcelona geflohen?
+Found
+MODSMD_ARTICLE10: Was wollte del Bayo bei Bouuet?
+Found
+MODSMD_ARTICLE11: „Tag des Kriegsdienstes" in Barcelona»
+Found
+MODSMD_ARTICLE12: Die Volkszählung in der Sowjetunion.
+Found
+MODSMD_ARTICLE13: Krach im Kreml um Sowetspanien?
+Found
+MODSMD_ARTICLE14: Moskau verschärft die Terrorisierung der Arbeiterschaft.
+Found
+MODSMD_ARTICLE15: Neues aus der jüdischen Dynastie Kaganowitsch.
+Found
+MODSMD_ARTICLE16: Roosevelt soll Waffen für Rotspanien liefern.
+Found

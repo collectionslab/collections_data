@@ -1,0 +1,48 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers an den Präsidenten Finnlands.
+Found
+MODSMD_ARTICLE02: Minister Lantini auf dem Reichssportfeld.
+Found
+MODSMD_ARTICLE03: Deutsche Buchausstellung in Antwerpen.
+Found
+MODSMD_ARTICLE04: Vertrauensvotum für Spaak.
+Found
+MODSMD_ARTICLE05: Italienische Protestkundgebungen.
+Found
+MODSMD_ARTICLE06: Der französische Heereshaushalt.
+Found
+MODSMD_ARTICLE07: Ausdehnung des Seemannsstreiks in Le Havre.
+Found
+MODSMD_ARTICLE08: Überstunden in französischen Marinewerken angeordnet.
+Found
+MODSMD_ARTICLE09: Neue Streikausschreitungen in Nantes.
+Found
+MODSMD_ARTICLE10: Moskau ramscht Sowjetspanien aus. .
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE12: Rote Flintenweiber sollen die Lücken schließen.
+Found
+MODSMD_ARTICLE13: Das Diplomatische Korps bei Präsident Dr. Hacha.
+Found
+MODSMD_ARTICLE14: Namenstag des ungarischen Neichsverwesers.
+Found
+MODSMD_ARTICLE15: Juden und Bolschewisten Hand in Hand.
+Found
+MODSMD_ARTICLE16: Vor einem neuen Schlag gegen die Eiserne Garde?
+Found
+MODSMD_ARTICLE17: Englands reguläre Armee:
+Found
+MODSMD_ARTICLE18: Bombenanschlag in Nordirland.
+Found
+MODSMD_ARTICLE19: Erhöhung des australischen Verteidigungshaushalts.
+Found
+MODSMD_ARTICLE20: Fünf Araber erschossen.
+Found
+MODSMD_ARTICLE21: Terrorakte in Palästina von Engländern angestiftet.
+Found
+MODSMD_ARTICLE22: Sowjetrußland „säubert" unentwegt.
+Found
+MODSMD_ARTICLE23: Attentat auf Schikwotschen.
+Found
+MODSMD_ARTICLE24: HJ.-Führer besuchten Kairo.
+Found

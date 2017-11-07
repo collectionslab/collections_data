@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Gefängnisstrafen für den Maggensrevel in Danzig.
+Found
+MODSMD_ARTICLE02: Saalschlacht in der französischen Kammer.
+Found
+MODSMD_ARTICLE03: Der englische Botschafter bei Delbos.
+Found
+MODSMD_ARTICLE04: Waffenschmuggel im Rhone-Departement verhindert.
+Found
+MODSMD_ARTICLE05: Ausgestaltung der französischen Kolonialpolitik.
+Found
+MODSMD_ARTICLE06: Italiens Außenminister im ungarischen Reichstag.
+Found
+MODSMD_ARTICLE07: Gegen Negermusik in den Wiener Kaffeehäusern.
+Found
+MODSMD_ARTICLE08: Wiener Paßfälscher arbeiteten auf Moskauer Geheiß.
+Found
+MODSMD_ARTICLE09: Die Moskauer Ereignisse vor dem Unterhans.
+Found
+MODSMD_ARTICLE10: Londoner Luftabwehr wird verstärkt.
+Found
+MODSMD_ARTICLE11: Der Kronprinz von Schweden in London.
+Found
+MODSMD_ARTICLE12: Ter Kontrollplan des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE13: Die Lage an den spanischen Kampffronten.
+Found
+MODSMD_ARTICLE14: Washingtoner Internationale Arbeitskonferenz.
+Found
+MODSMD_ARTICLE15: Gesandter in Athen.
+Found
+MODSMD_ARTICLE16: Südafrika wehrt sich gegen jüdische Einwanderung.
+Found
+MODSMD_ARTICLE17: Vor einer Wendung in den Beziehungen Japan—China.
+Found

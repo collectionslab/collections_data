@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Erster deutscher Reisebürotag in Frankfurt/Main.
+Found
+MODSMD_ARTICLE03: Tagung des Beirats der Deutschen Gruppe der Internationalen Handelskammer.
+Not Found
+MODSMD_ARTICLE04: Die Vollsitzung der Völkerbundsversammlung.
+Found
+MODSMD_ARTICLE05: Mordanschlag gegen Degrelle?
+Found
+MODSMD_ARTICLE06: Französische Beeinflussungsversuche in Rom.
+Found
+MODSMD_ARTICLE07: Wechsel im französischen Volksfront-Kabinett?
+Found
+MODSMD_ARTICLE08: Streik im Hafen von Ronen.
+Found
+MODSMD_ARTICLE09: „Nationaltidende" über Genf.
+Found
+MODSMD_ARTICLE10: Eine polnische Stimme zur Lage in Genf.
+Found

@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Geschenk des Führers an Prinzregent Paul.
+Found
+MODSMD_ARTICLE02: Tagung der Akademien des NSD-Dozentenbundes.
+Found
+MODSMD_ARTICLE03: Bombenanschlag auf deutsches Jugendheim.
+Found
+MODSMD_ARTICLE04: Erneute Absage Belgiens an die Einkreiser.
+Found
+MODSMD_ARTICLE05: Kommandosorgen in Paris.
+Found
+MODSMD_ARTICLE06: „Le Genevois" brandmarkt die Zersetzende Tätigkeit Nicoles.
+Found
+MODSMD_ARTICLE07: Südafrika wehrt sich gegen den Judenzustrom.
+Found

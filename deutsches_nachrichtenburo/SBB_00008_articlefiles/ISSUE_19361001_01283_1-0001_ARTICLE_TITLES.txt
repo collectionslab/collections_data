@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Deutsche Ehrung für Reichsverweser Horthy.
+Found
+MODSMD_ARTICLE02: Ausschüttung aus der Hindenburg-Spende.
+Found
+MODSMD_ARTICLE03: „Kampf dem Verderb". Rundsunkansprache von Staatssekretär Backe.
+Found
+MODSMD_ARTICLE04: Hoheitszeichen an der Richterrobe.
+Found
+MODSMD_ARTICLE05: Verschärfte Bekämpfung der Verkehrsunfälle.
+Found
+MODSMD_ARTICLE06: Die Geburtstagsglückwünsche für Neichsminister Ruft.
+Found
+MODSMD_ARTICLE07: Neue Beratung im französischen Senat.
+Found
+MODSMD_ARTICLE08: Ungarn nimmt nicht am Abrüstungsausschuß teil.
+Found
+MODSMD_ARTICLE09: Das neue jugoslawisch-italienische Handelsabkommen.
+Found

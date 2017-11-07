@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ter Reichskriegerführer besucht Nationalspanien.
+Found
+MODSMD_ARTICLE02: Die Mussolini-Rede wird übertragen.
+Found
+MODSMD_ARTICLE03: Reichsärzteführer Dr. Wagner gestorben.
+Found
+MODSMD_ARTICLE04: Nachruf Dr. Leys für Dr. Wagner.
+Found
+MODSMD_ARTICLE05: Görmg über die letzten Ereignisse.
+Found
+MODSMD_ARTICLE06: Dr. Leh bei Ciano.
+Found
+MODSMD_ARTICLE07: 14 Admirale zu Senatoren ernannt.
+Found
+MODSMD_ARTICLE08: Litauen entläßt memelländische Häftlinge.
+Found
+MODSMD_ARTICLE09: Die Wirtschaftsbeziehungen Deutschland—Finnland.
+Not Found
+MODSMD_ARTICLE10: Paris will Italien ködern.
+Found
+MODSMD_ARTICLE11: Optimistische Beurteilung der Lage in Spanien.
+Found
+MODSMD_ARTICLE12: Bücker „Student" flog Rekord.
+Found
+MODSMD_ARTICLE13: Die Kennzahl der Großhandelspreise vom-22. März.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Kameradschaftsabend im Reichsinnenministerium.
+Found
+MODSMD_ARTICLE02: Paris und London zur weltpolitischen Lage.
+Found
+MODSMD_ARTICLE03: Die Rückgabe der Kolomen eine Frage der Gerechtigkeit.
+Found
+MODSMD_ARTICLE04: Lyons für Aenderung ungerechter Verträge.
+Found
+MODSMD_ARTICLE05: Polen Zum Echo der Führerrede.
+Found
+MODSMD_ARTICLE06: Ein Jahr Regierung Franco.
+Found
+MODSMD_ARTICLE07: Der Vormarsch der Armeen Francas geht weiter.
+Found
+MODSMD_ARTICLE08: Der rumänische Außenminister in Belgrad.
+Found
+MODSMD_ARTICLE09: Die baltische Außenministerkonfereuz.
+Found
+MODSMD_ARTICLE10: Die Kommunisten fielen herein.
+Found
+MODSMD_ARTICLE11: Gründung eines nationalen Verbandes in USA.
+Found

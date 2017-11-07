@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die deutsche Antwortnote auf die Deklaration von Panama.
+Found
+MODSMD_ARTICLE02: Der Oberbefehlshaber des Heeres im Warthegau.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: 399 Millionen-Anleihe in Holland.
+Found
+MODSMD_ARTICLE05: Erhöhung der Ausgaben für den Secret Service.
+Found
+MODSMD_ARTICLE06: Wieder zwei englische Schiffe gesunken.
+Found
+MODSMD_ARTICLE07: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE08: Gegen die Charterung türkischer Schiffe.
+Found
+MODSMD_ARTICLE09: Eine bezeichnende Wirkuing englischen Drucks.
+Found
+MODSMD_ARTICLE10: Amerikas Kredite an England.
+Found
+MODSMD_ARTICLE11: Die Westmächte wollen durch Rußland gegen Deutschland?
+Found
+MODSMD_ARTICLE12: England wird von Amerika verantwortlich gemacht.
+Found
+MODSMD_ARTICLE13: Vollstreckung eines Todesurteils.
+Found

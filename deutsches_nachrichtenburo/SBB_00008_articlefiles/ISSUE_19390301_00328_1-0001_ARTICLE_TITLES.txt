@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Militärische Vorbereitung und soziale Gerechtigkeit.
+Found
+MODSMD_ARTICLE02: Neue Tribünen im Forum Mussolini»
+Found
+MODSMD_ARTICLE03: Steigende Rüstungsansgaben in England.
+Found
+MODSMD_ARTICLE04: „Labour-Party eine Arena für Postenjäger".
+Found
+MODSMD_ARTICLE05: Nationalspanische Vertretungen in Rabat und Casablanea.
+Found
+MODSMD_ARTICLE06: Die Lage in Spanien für Herrn Sandler noch „zu unklar".
+Found
+MODSMD_ARTICLE07: Parlamentarier zu Gefängnis und Geldstrafen Verurteilt.
+Found
+MODSMD_ARTICLE08: Abfuhr für den sowjetrusfischen Rundfunk.
+Found
+MODSMD_ARTICLE09: Neuer griechischer Torpedobootszerstörer in Dienst gestellt.
+Found
+MODSMD_ARTICLE10: Der Besuch des türkischen Außenministers in Athen.
+Found
+MODSMD_ARTICLE11: Inda zeigt seine wahren Absichten.
+Found
+MODSMD_ARTICLE12: Die Türkei erhöht den militärischen Etat.
+Found
+MODSMD_ARTICLE13: „Die Juden ein Staat im Staate."
+Found
+MODSMD_ARTICLE14: Die britische Polizei schoß scharf.
+Found
+MODSMD_ARTICLE15: Große Wunitionsexplosionen bei Osaka.
+Found
+MODSMD_ARTICLE16: 5 Milliarden Neu zusätzlicher japanischer Militäretat.
+Found
+MODSMD_ARTICLE17: Japan wahrt seine Rechte.
+Found
+MODSMD_ARTICLE18: Die kommunistische Hetztätigkeit in USA.
+Found
+MODSMD_ARTICLE19: Roosevelt will wieder reden.
+Found
+MODSMD_ARTICLE20: Kanadische Maßnahmen gegen den Kommunismus.
+Found

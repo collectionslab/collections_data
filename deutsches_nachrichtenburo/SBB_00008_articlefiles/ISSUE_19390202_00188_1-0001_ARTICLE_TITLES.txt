@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Hohe Ehrung für Generalfeldmarschall Göring. F
+Found
+MODSMD_ARTICLE02: Auch Danzig säubert die Rechtsanwaltschaft.
+Found
+MODSMD_ARTICLE03: Stabschef Luhe in Guidonia.
+Found
+MODSMD_ARTICLE04: Noch 35 Km von der Grenze.
+Found
+MODSMD_ARTICLE05: Verstärkung der französischen Grenzkontrolle.
+Found
+MODSMD_ARTICLE06: Paris über Roosevelts Erklärungen sehr erfreut.
+Found
+MODSMD_ARTICLE07: Ein Kunstgriff zur Bekämpfung der Jnflatwnsangst.
+Found
+MODSMD_ARTICLE08: Phantastische Rüstungsausgaben in England.
+Found
+MODSMD_ARTICLE09: „Selbstbestimmungsrecht auf Volkstumsgrundlage."
+Found
+MODSMD_ARTICLE10: „Wirtschaftskrieg ein jüdisches Vergeltungsmanöver."
+Found
+MODSMD_ARTICLE11: „Jnstruktionsdienst" der schweizerischen Wehrmacht.
+Found
+MODSMD_ARTICLE12: Roosevelts Gegner sammeln sich.
+Found
+MODSMD_ARTICLE13: „Amerikas erste Verteidigungslinie/'
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ter Staatsakt in München.
+Found
+MODSMD_ARTICLE02: Der Führer bei den Verwundeten des Attentats.
+Found
+MODSMD_ARTICLE03: Adolf Hitler an der Stätte des Attentats.
+Found
+MODSMD_ARTICLE04: Die Botschafter Italiens und der UdSSR, bei Ribbentrop.
+Found
+MODSMD_ARTICLE05: Die Anteilnahme der Regierung der Sowjetunion.
+Found
+MODSMD_ARTICLE06: Spaniens Anteilnahme.
+Found
+MODSMD_ARTICLE07: Deutsche Umsiedlungs-Treuhand-Gesellschaft m. b. H.
+Found
+MODSMD_ARTICLE08: Hinrichtung des früheren Bromberger Stadtpräsidenten.
+Found
+MODSMD_ARTICLE09: Wiederholung der Führerrede in vollem Wortlaut.
+Found
+MODSMD_ARTICLE10: Die Verbesserung des russisch-estnischen Handelsverkehrs.
+Found
+MODSMD_ARTICLE11: Norwegen erhöht seine Flugzeugproduktion.
+Found
+MODSMD_ARTICLE12: Das Organ der Rexisten verboten.
+Found
+MODSMD_ARTICLE13: Zahlreiche französische Verluste.
+Found
+MODSMD_ARTICLE14: Aegypten kennt die britischen Methoden.
+Found
+MODSMD_ARTICLE15: Afghanische Revolutionäre ausgeliefert.
+Found
+MODSMD_ARTICLE16: Französischer Hohn in Syrien.
+Found
+MODSMD_ARTICLE17: Druck auf Saudi-Arabien.
+Found
+MODSMD_ARTICLE18: Die Lage im China-Konflikt.
+Found
+MODSMD_ARTICLE19: Tie Kennzahl der Großhandelspreise im Oktober.
+Found

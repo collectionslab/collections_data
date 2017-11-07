@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Tag der Deutschen Kunst.
+Found
+MODSMD_ARTICLE02: Arbeitssitzung der Reichskammer der bildenden Künste.
+Found
+MODSMD_ARTICLE03: 4. Internationale Marine-Pokal-Segelwettfahrt.
+Found
+MODSMD_ARTICLE04: Deutsch-rumänische Besprechungen über Donauschiffahrt.
+Found
+MODSMD_ARTICLE05: Prag begreift schwer.
+Found
+MODSMD_ARTICLE06: Der „Slovak" über die Prager Verschleppungspolitik.
+Found
+MODSMD_ARTICLE07: Jüdische Staaisfeinde in Polen.
+Found
+MODSMD_ARTICLE08: Die Komintern ans Schleichwegen.
+Found
+MODSMD_ARTICLE09: Keiner will sowjetrussischer Landwirtschaftskommissar sein.
+Found
+MODSMD_ARTICLE10: 1088 Tote durch rotspanische Bombardierungen.
+Found
+MODSMD_ARTICLE11: Die Gefangenen von Hasdscheh izach drei Monaten befreit.
+Found

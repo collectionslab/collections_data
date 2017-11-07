@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Göring bei der Luftwaffe in List.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Dr. Dorpmüller dankt für die Glückwünsche.
+Found
+MODSMD_ARTICLE04: Abschluß der Londoner Walfangbesprechungen.
+Found
+MODSMD_ARTICLE05: Freigabe des Fernsehrundfugks für die Öffentlichkeit.
+Found
+MODSMD_ARTICLE06: Eindeutige Feststellungen des „Giornale tüJtalia".
+Found
+MODSMD_ARTICLE07: Das stolze England kapitulierte vor Japan.
+Found
+MODSMD_ARTICLE08: Londoner Geldsackpolitik im Fernen Osten.
+Found
+MODSMD_ARTICLE09: Koc aus England abgereist.
+Found
+MODSMD_ARTICLE10: Schwere Bombenexplosion auf Londoner Bahnhof.
+Found
+MODSMD_ARTICLE11: Lakonische Antworten Chamberlains.
+Found
+MODSMD_ARTICLE12: Attentatsplan gegen den syrischen Regierungsdirektor?
+Found
+MODSMD_ARTICLE13: Syrien unter der Fremdherrschaft.
+Found
+MODSMD_ARTICLE14: Tschungkings offizielle „Enttäuschung".
+Found
+MODSMD_ARTICLE15: Abwartende Haltung der Peking-Regierung.
+Found
+MODSMD_ARTICLE16: Neuer amerikanischer Flottenkommandant in Fernost.
+Found
+MODSMD_ARTICLE17: New Deal-Verschwender wenig gefragt.
+Found

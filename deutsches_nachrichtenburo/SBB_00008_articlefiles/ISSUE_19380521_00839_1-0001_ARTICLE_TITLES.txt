@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Einheit des deutschen Verkehrsrechtes.
+Found
+MODSMD_ARTICLE02: Sichtvermerk für Reisen nach Großbritannien notwendig.
+Found
+MODSMD_ARTICLE03: Der Präsident der Deutsch-Balten bei Ulmanis.
+Found
+MODSMD_ARTICLE04: Prag Witt die Presseaufsicht verschärfen.
+Found
+MODSMD_ARTICLE05: Diplomatensrühstück bei Dr. Stojadmowitsch.
+Found
+MODSMD_ARTICLE06: Belgrader Studenten gegen kommunistische Auslands-Hehe.
+Found
+MODSMD_ARTICLE07: Neue Staatssekretäre im ungarischen Handelsministerium.
+Found
+MODSMD_ARTICLE08: Das Judengcseb vor dem ungarischen Oberhaus.
+Found
+MODSMD_ARTICLE09: Metaxas wieder in Athen.
+Found
+MODSMD_ARTICLE10: König Viktor Emanuel 111. auf der Fahrt nach Libyen.
+Found
+MODSMD_ARTICLE11: Die Neubauten des dänischen Nationalmuseums vollendet.
+Found
+MODSMD_ARTICLE12: Die Probleme Niederländisch-Jndiens.
+Found
+MODSMD_ARTICLE13: Auch Finnland will Neutralität.
+Found
+MODSMD_ARTICLE14: Die französische Mittelmeerflotte in Biserta.
+Found
+MODSMD_ARTICLE15: Noch immer zu wenig Bluturteile.
+Found
+MODSMD_ARTICLE16: Der Fakir von Jpi wieder am Werk.
+Found
+MODSMD_ARTICLE17: Englische Truppen-Standorte im Aufstandsgebiet.
+Found
+MODSMD_ARTICLE18: Roosevelt fordert nationale Planung für Phosphat.
+Found
+MODSMD_ARTICLE19: Sechs katholische Geistliche im Staate Rio verhaftet.
+Found
+MODSMD_ARTICLE20: Riesiger Korruptionsskandal in USA.
+Found
+MODSMD_ARTICLE21: Jüdischer Sittlichkeitsverbrecher verurteilt.
+Found

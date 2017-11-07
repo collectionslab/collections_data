@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Ganz Deutschland ist aufmarschiert!
+Found
+MODSMD_ARTICLE02: „Der Traum der Väter ist Wirklichkeit", Ein aufrüttelnder Rundfunk-Appell Dr. Goebbels'.
+Found
+MODSMD_ARTICLE03: Immer wieder Kundgebungen vor dem Hotel „Imperial".
+Found
+MODSMD_ARTICLE04: Hoffnung auf Großdeutschland im Fahre 1913.
+Found
+MODSMD_ARTICLE05: Deutsch-Polnische Verhandlungen.
+Found
+MODSMD_ARTICLE06: Italienische Hochschulprofessoren in Köln.
+Found
+MODSMD_ARTICLE07: In der Sowjetunion wird weiter erschossen.
+Found

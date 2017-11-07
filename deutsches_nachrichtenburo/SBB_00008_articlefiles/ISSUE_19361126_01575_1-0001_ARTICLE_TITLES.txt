@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Erster Eindruck des deutsch-japanischen Abkommens in dec Welt.
+Found
+MODSMD_ARTICLE02: England zurückhaltend.
+Found
+MODSMD_ARTICLE03: Starke Beachtung in Paris.
+Found
+MODSMD_ARTICLE04: Italic«: „Eine defensive Vereinbarung".
+Found
+MODSMD_ARTICLE05: Großes Aufsehen in Stockholm.
+Found
+MODSMD_ARTICLE06: Verständnis in Belgrad.
+Found
+MODSMD_ARTICLE07: Washingtons Interessen nicht berührt.
+Found
+MODSMD_ARTICLE08: Darre eröffnet den 4. Reichsbauerntag.
+Found
+MODSMD_ARTICLE09: Empfang zu Ehren des ungarischen Reichsverwesers.
+Found
+MODSMD_ARTICLE10: Französischer Kreuzer nach Barcelona.
+Found
+MODSMD_ARTICLE11: Eine Erklärung der japanischen Regierung.
+Found
+MODSMD_ARTICLE12: Der deutsche Botschafter bei Marschall Rydz-Smigly.
+Found
+MODSMD_ARTICLE13: Die Sitzung des-englischen Kabinetts.
+Found
+MODSMD_ARTICLE14: Lindbergh wohlbehalten gelandet.
+Found
+MODSMD_ARTICLE15: Zwei weitere Begnadigungen in Nowosibirsk.
+Found
+MODSMD_ARTICLE16: Nationalistische Partei Transvaals schließt die Juden aus.
+Found
+MODSMD_ARTICLE17: Zwischenfall an der argentinischen Grenze.
+Found
+MODSMD_ARTICLE18: Berichtigung.
+Found

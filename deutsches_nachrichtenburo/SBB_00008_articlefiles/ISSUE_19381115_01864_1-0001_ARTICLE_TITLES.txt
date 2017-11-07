@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Nacht- AKsgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Dr. Fuchs Kommissar für den Regierungsbezirk Düsseldorf.
+Found
+MODSMD_ARTICLE03: Krebs kommissarischer Regierungspräsident in Aussig.
+Found
+MODSMD_ARTICLE04: 50M Sudetendeutsche als Gäste Dr. Leys.
+Found
+MODSMD_ARTICLE05: Ein deutsches Generalkonsulat in Preßburg.
+Found
+MODSMD_ARTICLE06: Deutsch—tschecho-slowakischer Kohlenverkehr.
+Not Found
+MODSMD_ARTICLE07: Einigung in Prag.
+Found
+MODSMD_ARTICLE08: Kampf gegen Judentum und Freimaurerei.
+Found
+MODSMD_ARTICLE09: Woloschin über die Aufbauarbeit in der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE10: Das heuchlerische Gezeter über die „armen Juden".
+Found
+MODSMD_ARTICLE11: Tie flämische Nationalpartei sür strikteste Neutralität.
+Found
+MODSMD_ARTICLE12: Rücktritt der ungarischen Regierung.
+Found
+MODSMD_ARTICLE13: „Giornale d'Jtalia" Zur Lage in Frankreich.
+Found
+MODSMD_ARTICLE14: „Festumgrenzte Aufenthaltsortes
+Found
+MODSMD_ARTICLE15: König Kar! von Rumänien in London.
+Found
+MODSMD_ARTICLE16: Die brutalen Maßnahmen der Engländer in Palästina.
+Found

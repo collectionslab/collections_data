@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Generaloberst List.
+Found
+MODSMD_ARTICLE02: Aufruf Wohles zum Geburtstag des Führers.
+Found
+MODSMD_ARTICLE03: Eine Spende von 10 W 0 deutschen Kleinempsängern.
+Found
+MODSMD_ARTICLE04: Die Sammlung Rehse zehn Jahre im Besitz der NSDAP.
+Found
+MODSMD_ARTICLE05: „Demokratischer Anschlag gegen den Frieden der Völker."
+Found
+MODSMD_ARTICLE06: Die Faschistische Miliz stets einsatzbereit.
+Found
+MODSMD_ARTICLE07: Staatssekretariat für albanische Angelegenheiten.
+Found
+MODSMD_ARTICLE08: „Enzyklika Wilsons II."
+Found
+MODSMD_ARTICLE09: Sensationelle Wirkung der Reichstagseinberufung.
+Found
+MODSMD_ARTICLE10: Mißvergnügen der englischen Presse.
+Found
+MODSMD_ARTICLE11: Flaggen heraus!
+Found
+MODSMD_ARTICLE12: Der tägliche Gast: Maisky.
+Found
+MODSMD_ARTICLE13: Das heiße Eisen.
+Found
+MODSMD_ARTICLE14: 13 französische Kriegsschiffe in Gibraltar.
+Found
+MODSMD_ARTICLE15: Die innerpolitische Lage Belgiens noch immer ungeklärt.
+Found
+MODSMD_ARTICLE16: Schwere Freiheits- und Geldstrafen für Tunesier.
+Found
+MODSMD_ARTICLE17: Viel Lärm um einen Bolschewistenhäuptling.
+Found
+MODSMD_ARTICLE18: Buren weisen antideutsche Hetze energisch zurück.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Grotze Erfolge der deutschen Truppen.
+Found
+MODSMD_ARTICLE02: Ostrowo, Krotoschin und Lissa in deutscher Hand.
+Found
+MODSMD_ARTICLE03: Ein zweites polnisches U-Boot vernichtet.
+Found
+MODSMD_ARTICLE04: Eine Lüge des britischen Jnformationsministeriums.
+Found
+MODSMD_ARTICLE05: England verletzt Hollands Neutralität!
+Found
+MODSMD_ARTICLE06: Amerika wird aufgeklärt.
+Found
+MODSMD_ARTICLE07: Deutschland respektiert die irische Neutralität.
+Found
+MODSMD_ARTICLE08: Wiederverwendung von Ruhestandsbeamten.
+Found
+MODSMD_ARTICLE09: Heimgekehrte Brüder unter der Obhut des Reiches.
+Found
+MODSMD_ARTICLE10: Italien« bewundert die Entschlossenheit Deutschlands.
+Found
+MODSMD_ARTICLE11: „Chamberlains Geist mindestens 25 Jahre zurückgeblieben."
+Found
+MODSMD_ARTICLE12: Belgrader Presse betont die Neutralität Jugoslawiens.
+Found
+MODSMD_ARTICLE13: Die deutschen Erfolge im Mittelpunkt der Sowjetpresse.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Curt Bräuer Gesandter in Oslo.
+Found
+MODSMD_ARTICLE02: Die Goethe-Medaille für Prof. Dr.-Jng. e. h. Schumacher.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: England will auch die Ausfuhr der Neutralen kontrollieren.
+Found
+MODSMD_ARTICLE05: Tr Frick in Lodz und Kattowitz.
+Found
+MODSMD_ARTICLE06: Otto von Habsburg der neue Star Londons.
+Found
+MODSMD_ARTICLE07: Große Arbeitslosigkeit in Belgien.
+Found
+MODSMD_ARTICLE08: Das „industrielle Wunder" in Teutschland.
+Found
+MODSMD_ARTICLE09: Schnelles Tempo des deutsch-russischen Warenaustausches.
+Found
+MODSMD_ARTICLE10: Keine wesentlichen Kampfhandlungen.
+Found
+MODSMD_ARTICLE11: Die kanadische Opposition wehrt.sich.
+Found
+MODSMD_ARTICLE12: Südafrika will nicht für britische Interessen kämpfen.
+Found
+MODSMD_ARTICLE13: „Der Türkenpakt ist ein Kriegsinstrument!"
+Found
+MODSMD_ARTICLE14: Der Poilu rennt nicht gegen den Westwall an.
+Found
+MODSMD_ARTICLE15: Ungarisch-slowakisches Handels- und Zahlungsabkommen.
+Found
+MODSMD_ARTICLE16: Roosevelt seht das Neutralitätsgeseh in Kraft.
+Found

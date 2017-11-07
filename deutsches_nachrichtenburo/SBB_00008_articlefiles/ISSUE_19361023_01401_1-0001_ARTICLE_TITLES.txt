@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: „Nationalsozialistische Landwirtschaftspolitik erfolgreich".
+Found
+MODSMD_ARTICLE02: „Mormng Post" über die sowjetrussischen Ulottenrüstungen.
+Found
+MODSMD_ARTICLE03: Das Kabinett Taranyi vor dem Oberhaus.
+Found
+MODSMD_ARTICLE04: Stojadiuowitsch nach Ankara gereist.
+Found
+MODSMD_ARTICLE05: Blum dementiert „irrige Informationen".
+Found
+MODSMD_ARTICLE06: Geheimnisvoller „Diebstahl" von französischer Munition.
+Found
+MODSMD_ARTICLE07: Offene Bolschewisierung Kataloniens nach Moskauer Vorbild.
+Found
+MODSMD_ARTICLE08: Maßnahmen der Burgos-Regierung gegen Waffenschmuggel.
+Found
+MODSMD_ARTICLE09: Me spanischen Falangisten an die Spanier im Ausland
+Found
+MODSMD_ARTICLE10: Neue Botschaft Stalins an Largo Caballero.
+Found
+MODSMD_ARTICLE11: Panikstimmung in Madrid. Die Roten nehmen Reißaus.
+Found
+MODSMD_ARTICLE12: Madrid für die Auflösung Spaniens.
+Found
+MODSMD_ARTICLE13: Ein roter Milizhäuptling als Bankräuber.
+Found
+MODSMD_ARTICLE14: Energische Vorstellungen Chiles in Madrid.
+Found
+MODSMD_ARTICLE15: Nur Kabinettsumbildung in Chile.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der neue Amerikanische Botschafter beim Führer.
+Found
+MODSMD_ARTICLE02: Der Führer empfing den Gesandten in Bolivien.'
+Found
+MODSMD_ARTICLE03: Reichsminister Ruft in Thüringen.
+Found
+MODSMD_ARTICLE04: Dr. Jury leitet den Verein „Deutsche Bühne".
+Found
+MODSMD_ARTICLE05: Amnestie nicht nach leeren Buchstaben.
+Found
+MODSMD_ARTICLE06: Kundgebungen in Graz.
+Found
+MODSMD_ARTICLE07: Vorerst 18 Milliarden für die englische Aufrüstung!
+Found
+MODSMD_ARTICLE08: Steigerung auch des britischen Heereshaushalts.
+Found
+MODSMD_ARTICLE09: Die englisch-irischen Besprechungen.
+Found
+MODSMD_ARTICLE10: Krach in der Labour Party.
+Found
+MODSMD_ARTICLE11: Unveränderter Hotelstreik in Nizza.
+Found
+MODSMD_ARTICLE12: Stillegung eines französischen Eisenwerkes.
+Found
+MODSMD_ARTICLE13: Forderungen der Armee für das japanische Volk.
+Found
+MODSMD_ARTICLE14: Japanischer Neuaufmarsch im Pengpu-Raum.
+Found
+MODSMD_ARTICLE15: „Die grausamste Tyrannei der Geschichte."
+Found

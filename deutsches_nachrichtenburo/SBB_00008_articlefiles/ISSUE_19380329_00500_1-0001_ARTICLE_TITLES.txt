@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Weiterer Ausbau der KdF.-Seereisen.
+Found
+MODSMD_ARTICLE02: Die Unmoral des Schuschnigg-Systems.
+Found
+MODSMD_ARTICLE03: Die Durchführung der Abstimmung in Oesterreich.
+Found
+MODSMD_ARTICLE04: Wien—München in Stunden auf der Autobahn!
+Not Found
+MODSMD_ARTICLE05: „Tschechische Diktatur über die anderen Volksteile".
+Found
+MODSMD_ARTICLE06: Erfolg der ungarischen Msscnschubbcwcgnng.
+Found
+MODSMD_ARTICLE07: Frankreichs Landarbeiter gegen Marxisteneinmischnng.
+Found
+MODSMD_ARTICLE08: Erheblicher Rückgang der französischen Kohlenprodnktion.
+Found
+MODSMD_ARTICLE09: Kampf gegen Stalin.
+Found
+MODSMD_ARTICLE10: Feststellungen des Präsidenten Roosevelt.
+Found
+MODSMD_ARTICLE11: Schlag gegen die Parlamentsherrschaft in Amerika.
+Found
+MODSMD_ARTICLE12: Oberst Edward Hause gestorben.
+Found

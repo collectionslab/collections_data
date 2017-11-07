@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Lebensretter vom Führer ausgezeichnet.
+Found
+MODSMD_ARTICLE02: Einheitliches Wechsel- und Scheckrecht.
+Found
+MODSMD_ARTICLE03: 19VV österreichische HJ.-Mhrer fahren ins Altreich.
+Found
+MODSMD_ARTICLE04: Eröffnung der Fachbuchausstellung der Reichspost.
+Found
+MODSMD_ARTICLE05: Die DWG.-Reisegruppe in Belgrad.
+Found
+MODSMD_ARTICLE06: Die Welt atmet wieder freier.
+Found
+MODSMD_ARTICLE07: Spannung und Freude in Rom.
+Found
+MODSMD_ARTICLE08: Tie Verhandlungen Paris—London.
+Found
+MODSMD_ARTICLE09: Irlands neuer Gesandter in Rom.
+Found
+MODSMD_ARTICLE10: Englisch-polnischer Flottenvertrag unterzeichnet.
+Found
+MODSMD_ARTICLE11: De Valera vor dem Dail.
+Found
+MODSMD_ARTICLE12: Das griechisch-türkische Zusatzabkommen unterzeichnet. ,
+Found
+MODSMD_ARTICLE13: Judentum ein von den Ungarn abweichendes Volkselement.
+Found
+MODSMD_ARTICLE14: Ungarn Plant Errichtung einer Külturkammer.
+Found
+MODSMD_ARTICLE15: Vergebliche bolschewistische Gegenangriffe bei Teruel.
+Found

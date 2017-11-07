@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Sahm zum Gesandten in Oslo ernannt.
+Found
+MODSMD_ARTICLE02: Der Bischof von Passau f.
+Found
+MODSMD_ARTICLE03: Die Entwicklung des Arbeitseinsatzes im April.
+Found
+MODSMD_ARTICLE04: Die Bertrauensräte im Saarland.
+Found
+MODSMD_ARTICLE05: Ländliche Reitervereine unterstehen dem Reichsnährstand.
+Found
+MODSMD_ARTICLE06: Reichstheaterfestwoche München 1336.
+Found
+MODSMD_ARTICLE08: Danzig-polnische Besprechungen.
+Found
+MODSMD_ARTICLE09: New Jork feiert die „Hindenburg"-Fahrer.
+Found
+MODSMD_ARTICLE10: 50 Frontkämpfer besuchen Sandon Hall.
+Found
+MODSMD_ARTICLE11: Major Attlee aus Paris zurück.
+Found
+MODSMD_ARTICLE12: Tie Pariser Presse zur Rede Leon Blums.
+Found
+MODSMD_ARTICLE13: Neuer Schachzug der französischen Kommunisten.
+Found
+MODSMD_ARTICLE14: Generalstreik für ganz Griechenland angedroht.
+Found
+MODSMD_ARTICLE15: Griechisch-jugoslawischer Telegrammwechsel.
+Found

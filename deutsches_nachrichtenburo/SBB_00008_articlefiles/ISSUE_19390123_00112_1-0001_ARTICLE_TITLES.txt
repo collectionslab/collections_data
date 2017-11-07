@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die ersten Reichsdomänen.
+Found
+MODSMD_ARTICLE02: Reichsminister Tr. Frank in Graz.
+Found
+MODSMD_ARTICLE03: « Wächtler übernimmt das nordliche Böhmerwaldgebiet.
+Found
+MODSMD_ARTICLE04: Graf Ciano in Belgrad.
+Found
+MODSMD_ARTICLE05: Woloschiu über den Sinn der bevorstehenden Wahlen.
+Found
+MODSMD_ARTICLE06: General Prchala wieder nach Prag zurückgekehrt.
+Found
+MODSMD_ARTICLE07: Die Grenzzwischenfälle in freundschaftlichem Geist beigelegt«
+Found
+MODSMD_ARTICLE08: Jmredy besucht oberungarische Städte.
+Found
+MODSMD_ARTICLE09: Konzentrischer Vormarsch auf Barcelona.
+Found
+MODSMD_ARTICLE10: Lebensmittelknappheit in Barcelona immer fühlbarer.
+Found
+MODSMD_ARTICLE11: Das Blutkonto der GPU. in Sowjetspanien.
+Found
+MODSMD_ARTICLE12: Der neue britische Botschafter in Moskau.
+Found
+MODSMD_ARTICLE13: Häufung der Notwehrakte in Palästina.
+Found
+MODSMD_ARTICLE14: Japan will den Antikominternpakt weiter stärken.
+Found
+MODSMD_ARTICLE15: Neue Niederlage Roosevelts.
+Found
+MODSMD_ARTICLE16: Auch Stimson hetzt.
+Found
+MODSMD_ARTICLE17: Der Präsident von El Salvador vereidigt.
+Found

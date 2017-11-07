@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Russo, der Generalstabschef der faschistischen Miliz.
+Found
+MODSMD_ARTICLE02: Reichsminister Funk an Frau Kirdorf.
+Found
+MODSMD_ARTICLE03: Tagung deutscher und holländischer Wirtschaftsführer.
+Found
+MODSMD_ARTICLE04: Arbeitsrecht auch in der Ostmark.
+Found
+MODSMD_ARTICLE05: „Der deutsche Meister Veit Vost".
+Found
+MODSMD_ARTICLE06: Der wirtschaftliche Druck gegen das Sudetendeutschtum.
+Found
+MODSMD_ARTICLE07: Eine Deutsche von Polen exmittiert.
+Found
+MODSMD_ARTICLE08: Der polnische Außenminister in Riga.
+Found
+MODSMD_ARTICLE09: Bundesrat Motta über die Lage der Schweiz.
+Found
+MODSMD_ARTICLE10: Englische Waffentransporte nach Spanien verboten.
+Found
+MODSMD_ARTICLE11: Wieder große Ernteverluste durch Sowjetmißwirtschaft.
+Found

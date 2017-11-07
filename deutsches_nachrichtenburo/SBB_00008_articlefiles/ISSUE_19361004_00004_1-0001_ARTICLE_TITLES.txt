@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Das Erntedankfest des Deutschen Volkes.
+Found
+MODSMD_ARTICLE02: Die Fahrt durch das Niedersachsenland«
+Found
+MODSMD_ARTICLE03: Der Führer in Goslar.
+Found
+MODSMD_ARTICLE04: Die Vauernabordnungcn beim Führer.
+Found
+MODSMD_ARTICLE05: Der Führer
+Found
+MODSMD_ARTICLE06: Der Führer an Reichsminister Darre.
+Found
+MODSMD_ARTICLE07: Der Erntedanktag in Berlin.
+Found
+MODSMD_ARTICLE08: Die Erntedankfeiern im Auslande.
+Found

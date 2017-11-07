@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer in Bayreuth.
+Found
+MODSMD_ARTICLE02: Dr. Frick in Bräunlingen und Konstanz.
+Found
+MODSMD_ARTICLE03: Eine Erklärung Alfred Rosenbergs.
+Found
+MODSMD_ARTICLE05: Kolbenheyer erhält den Frankfurter Goethepreis.
+Found
+MODSMD_ARTICLE06: Abschluß der Manöver auf Sizilien.
+Found
+MODSMD_ARTICLE07: Ein neues „Ordnungsschutzgesetz" in Oesterreich.
+Found
+MODSMD_ARTICLE08: Mastregelungen in der Vaterländischen Front.
+Found
+MODSMD_ARTICLE09: Jüdische schwarze Börse in Polen ausgehoben.
+Found
+MODSMD_ARTICLE10: Auflösung polnischer Konsulate in Sowjetrustland.
+Found
+MODSMD_ARTICLE11: Wie die Alten sungen .
+Found
+MODSMD_ARTICLE12: Die Flugzeuge von Paris-Toussus.
+Found
+MODSMD_ARTICLE13: Seeminan Kock seinen Verletzungen in Schanghai erlegen.
+Found
+MODSMD_ARTICLE14: Japanfreundliche Kundgebungen in Peiping.
+Found
+MODSMD_ARTICLE15: Große Brände in Putung und Tschapei.
+Found
+MODSMD_ARTICLE16: Die Vernichtung des Schanghaier Nordbahnhofes.
+Found

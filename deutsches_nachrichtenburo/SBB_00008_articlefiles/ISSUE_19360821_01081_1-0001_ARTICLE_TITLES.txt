@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Erfolg eines deutschen Films in Venedig.
+Found
+MODSMD_ARTICLE02: Beförderungen erfolgreicher Olympiakämpfer in der SS.
+Found
+MODSMD_ARTICLE03: Pariser Blätter zu dem deutschen Protest.
+Found
+MODSMD_ARTICLE04: Deutsche Schule iu Ostoberschlesien aufgelöst.
+Found
+MODSMD_ARTICLE05: Die Zustände in Madrid: Die Regierung machtlos!
+Found
+MODSMD_ARTICLE06: Vor Erklärung der Unabhängigkeit Kataloniens?
+Found
+MODSMD_ARTICLE07: Queipo de Llano über die Erschießungen in Madrid.
+Found
+MODSMD_ARTICLE08: Neue Wasfenschiebungen nach Spanien.
+Found
+MODSMD_ARTICLE09: Neue französische Eiumischuugsversuche.
+Found
+MODSMD_ARTICLE10: Der spanische Botschafter bei Eden.
+Found
+MODSMD_ARTICLE11: Für Spanien-Aussprache im Unterhaus.
+Found
+MODSMD_ARTICLE12: Die Moskauer Wühlarbeit in Frankreich.
+Found
+MODSMD_ARTICLE13: Schuschnigg bei Horthy.
+Found

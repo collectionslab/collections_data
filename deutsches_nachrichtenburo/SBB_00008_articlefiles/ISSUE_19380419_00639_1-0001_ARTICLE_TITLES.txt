@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Ruft spricht zu den Schulen am 26. April.
+Found
+MODSMD_ARTICLE03: Erste Staatsanwälte beim Volksgerichtshof.
+Found
+MODSMD_ARTICLE04: Schweres Vergwerksunglück in Nachterstedt.
+Found
+MODSMD_ARTICLE05: 599 italienische Gäste in der Hauptstadt der Bewegung.
+Found
+MODSMD_ARTICLE06: Der deutsche Botschafter bei Mussolini.
+Found
+MODSMD_ARTICLE07: Gayda zum italienisch-englischen Abkämmen.
+Found
+MODSMD_ARTICLE08: Die italienische Presse zum italienisch-englischen Abkommen.
+Found
+MODSMD_ARTICLE09: Im Zeichen der italienisch-japanischen Freundschaft.
+Found
+MODSMD_ARTICLE10: Italiens Presse weist französische Thesen zurück.
+Found
+MODSMD_ARTICLE11: Stapellauf eines italienischen Torpedobootes.
+Found
+MODSMD_ARTICLE12: „Du" und „Ihr" in Italien.
+Found
+MODSMD_ARTICLE13: Fürst Konoe bleibt im Amt.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Deutscher Autosieg in Monte Carlo.
+Found
+MODSMD_ARTICLE02: Großer Motorradpreis von Deutschland.
+Found
+MODSMD_ARTICLE03: Korpsführer Hühnlein erstattet dem Führer Meldung.
+Found
+MODSMD_ARTICLE04: Nachruf Korpsführer Hühnleins für Rennfahrer Guthrie.
+Found
+MODSMD_ARTICLE05: Großer Erfolg der 14. Berliner Ruudfunkausstellung.
+Found
+MODSMD_ARTICLE06: Reichstreffen der Deutschen Volksgesundheitsbewegung.
+Found
+MODSMD_ARTICLE07: Alpenstraßen-Eröffnung durch Stabschef Lutze.
+Found
+MODSMD_ARTICLE08: Der Klassenkampf im Volksfront-Frainkreich.
+Found
+MODSMD_ARTICLE09: Neuer rotspanischer Bombenangriff auf ein Schiff.
+Found
+MODSMD_ARTICLE10: „Die Wirtschaftslage Frankreichs ist beunruhigend."
+Found
+MODSMD_ARTICLE11: Im britischen Weltreich nur noch Flugpost.
+Found
+MODSMD_ARTICLE12: GPU verhaftet Bischof und Priester.
+Found
+MODSMD_ARTICLE13: Amerikaner bluteten für die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE14: Abschluß der WelterzieherkonferenZ in Tokio.
+Found
+MODSMD_ARTICLE15: Der japanische Reichstag bewilligt alle Sonderbudgets.
+Found

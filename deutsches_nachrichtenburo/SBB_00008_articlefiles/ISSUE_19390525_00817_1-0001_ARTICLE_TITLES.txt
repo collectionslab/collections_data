@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Bayrhoffer zum Ministerialdirigenten ernannt.
+Found
+MODSMD_ARTICLE02: Graf Ciano an Ribbentrop.
+Found
+MODSMD_ARTICLE03: Die Methoden der Warschauer Lügenzentrale.
+Found
+MODSMD_ARTICLE04: Ausschreitungen gegen Deutsche bei Lodz.
+Found
+MODSMD_ARTICLE05: Die italienischen Arbeiter in Tunis an Mussolini.
+Found
+MODSMD_ARTICLE06: Kühler Wind aus Genf.
+Found
+MODSMD_ARTICLE08: Zapfenstreich der deutschen Freiwilligen.
+Found
+MODSMD_ARTICLE09: Kinderraub „staatlich konzessioniert".
+Found
+MODSMD_ARTICLE10: Deutsche Lebensmittelspende für Cartagena.
+Found
+MODSMD_ARTICLE11: Das Universitätsjubiläum in Sofia.
+Found
+MODSMD_ARTICLE12: Tie Geschäfte in Frankreich weiter flau.
+Found
+MODSMD_ARTICLE13: Der Fall Kulangsu.
+Found
+MODSMD_ARTICLE14: Kommandant der Kremlwache stillschweigend beseitigt.
+Found
+MODSMD_ARTICLE15: Sowjetrussische Stellungnahme zur Alandfrage.
+Found
+MODSMD_ARTICLE16: „Freundschaft mit USA. führt in die Sklaverei."
+Found
+MODSMD_ARTICLE17: „Roosevelt steuert Amerika auf einen Sowjetstaat zu."
+Found
+MODSMD_ARTICLE18: Südafrika gegen Empirepropaganda.
+Found

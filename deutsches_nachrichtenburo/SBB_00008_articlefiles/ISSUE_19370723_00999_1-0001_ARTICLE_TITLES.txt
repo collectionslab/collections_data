@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Frühstück Zu Ehren Calonders und Kaeckenbeecks.
+Found
+MODSMD_ARTICLE02: 15V Sowjet-Kampfflugzeuge bei den Valencia-Bolschewisten.
+Found
+MODSMD_ARTICLE03: Das größte spanische Tankschiff in Francas Besitz gebracht.
+Found
+MODSMD_ARTICLE04: Torres eingenommen.
+Found
+MODSMD_ARTICLE05: Die französisch-sowjetrussischen Manöver.
+Found
+MODSMD_ARTICLE06: Der englische Bergarbeiterverband gegen Kommunisten.
+Found
+MODSMD_ARTICLE07: Scharfes Vorgehen gegen die Kommunisten in Polen.
+Found
+MODSMD_ARTICLE08: Mord an einem Mitglied einer nationalen Organisation.
+Found
+MODSMD_ARTICLE09: Amtlicher Schlußstrich unter den Fall Seba.
+Found
+MODSMD_ARTICLE10: Bolschewistische Luftpropaganda über Ungarn.
+Found
+MODSMD_ARTICLE11: Sowjetrussische „Säuberungsaktionen" ohne Ende.
+Found
+MODSMD_ARTICLE12: Spanisch-bolschewistischer Besuch in Moskau.
+Found
+MODSMD_ARTICLE13: Roosevelts Justizreform vorläufig erledigt.
+Found
+MODSMD_ARTICLE14: Amerikanische Vorsichtsmaßnahmen in Peiping.
+Found

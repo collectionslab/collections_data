@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Im Zeichen deutsch-ungarischer Freundschaft.
+Found
+MODSMD_ARTICLE02: Kameradschaftsfeier des Reichserziehungsministeriums.
+Found
+MODSMD_ARTICLE03: „Phönix"-Durchstechereien auch in Bulgarien?
+Found
+MODSMD_ARTICLE04: Generalstreik in Oviedo.
+Found
+MODSMD_ARTICLE05: Verstärkte Kommunistentätigkeit in Palästina.
+Found
+MODSMD_ARTICLE06: Brasiliens Kampf gegen den Kommunismus.
+Found

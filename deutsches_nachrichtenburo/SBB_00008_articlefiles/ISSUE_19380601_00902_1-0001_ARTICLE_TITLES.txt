@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Einweisung der neuen österreichischen Landesregierung.
+Not Found
+MODSMD_ARTICLE02: Der neue schweizerische Gesandte in Berlin.
+Found
+MODSMD_ARTICLE03: Rudolf Heß lädt M 9 ostmärkische Hitlerjungen ein.
+Found
+MODSMD_ARTICLE04: Tie stellvertretenden Gauleiter für Tirol und Nieder-Donau.
+Found
+MODSMD_ARTICLE05: Nach der Jnskip-Erklärung über die allgemeine Wehrpflicht.
+Found
+MODSMD_ARTICLE06: Neues Flugzeugwerk in der Nähe von Birmingham.
+Found
+MODSMD_ARTICLE07: Zwei Bulgarinnen im Dienst der Sowjets.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Abreise der Gräfin Ciano-Mussolini.
+Found
+MODSMD_ARTICLE02: Ter Kührer am Krankenlager von Reichsminister Kerrl.
+Found
+MODSMD_ARTICLE03: Der Führer Pate beim 17. Kind.
+Found
+MODSMD_ARTICLE04: Tagung des Reichspresseamtes der DAF. in Heilbronn.
+Found
+MODSMD_ARTICLE05: Für den Zusammenschluß der Völker nordischer Art.
+Found
+MODSMD_ARTICLE06: Belgische Kammer für die 49-Stunden-Woche.
+Found
+MODSMD_ARTICLE07: Erneute Senkung des niederländischen Diskontsatzes.
+Found
+MODSMD_ARTICLE08: Zur Einstellung des polnischen Zinsen-Transfers.
+Found
+MODSMD_ARTICLE09: Prozeß gegen ukrainische Geheimorgauisation.
+Found
+MODSMD_ARTICLE10: Die Arbeitsstreitigkeiten in Frankreich.
+Found
+MODSMD_ARTICLE11: Streikzwischenfälle in Oran.
+Found
+MODSMD_ARTICLE12: Eine Eingabe französischer Gläubiger Rußlands.
+Found
+MODSMD_ARTICLE13: „Paris Midi" zu den französisch-englischen Besprechungen.
+Found
+MODSMD_ARTICLE14: Der Negus will in Genf sprechen.
+Found
+MODSMD_ARTICLE15: Nene italienische Denkschrift in Gens eingetroffen.
+Found
+MODSMD_ARTICLE16: Der ungarische Handelsminister in Rom.
+Found
+MODSMD_ARTICLE17: Für die Selbstverwaltung spanischer Provinzen.
+Found

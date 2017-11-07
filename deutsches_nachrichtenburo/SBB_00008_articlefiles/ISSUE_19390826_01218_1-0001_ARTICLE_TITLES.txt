@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Lutze zur Ermordung des SA -Mannes Rusch.
+Found
+MODSMD_ARTICLE02: Schreckensnacht für die Deutschen Ostoberschlesiens.
+Found
+MODSMD_ARTICLE03: Neue polnische Verhaftungswelle in Ostoberschlesien.
+Found
+MODSMD_ARTICLE04: Berschleppungslager für 36 666 Volksdeutsche.
+Found
+MODSMD_ARTICLE05: Die Opposition in Polen rührt sich.
+Found
+MODSMD_ARTICLE06: Heerlager Ostoberschlesien.
+Found
+MODSMD_ARTICLE07: Die felsenfeste Entschlossenheit der Achse.
+Found
+MODSMD_ARTICLE08: „Dramatischer Mißerfolg der Einkreisungspolitik."
+Found
+MODSMD_ARTICLE09: Oslo fordert die Beseitigung des Versailler Unrechts.
+Found
+MODSMD_ARTICLE10: „Telegraaf": „Auf die Dauer unhaltbar!"
+Found
+MODSMD_ARTICLE11: Ministerrat in Burgos.
+Found
+MODSMD_ARTICLE12: Auch „Ce Soir" muß sein Erscheinen einstelle^.
+Found
+MODSMD_ARTICLE13: Botschafter Naggiar nach Paris berufen.
+Found
+MODSMD_ARTICLE14: England will in Palästina beschleunigt „Ordnung" schaffen.
+Found
+MODSMD_ARTICLE15: Zwei Todesurteile vollstreckt.
+Found

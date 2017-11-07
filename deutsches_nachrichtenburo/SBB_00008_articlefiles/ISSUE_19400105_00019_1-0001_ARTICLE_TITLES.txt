@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Straffste Lenkung der Kriegswirtschaft.
+Found
+MODSMD_ARTICLE02: Neuer Regierungspräsident für Liegnitz.
+Found
+MODSMD_ARTICLE03: Schiffsverlufte durch Minentreffer werden verheimlicht.
+Found
+MODSMD_ARTICLE04: Englische Wunschträume.
+Found
+MODSMD_ARTICLE05: Das weltoffene Paris wird „autark".
+Found
+MODSMD_ARTICLE06: Tonnageraub statt abgemessener Risikoprämie.
+Found
+MODSMD_ARTICLE07: Verurteilung des Krieges der Citymagnaten.
+Found
+MODSMD_ARTICLE08: Gemeinderatswahlen in Palästina vertagt.
+Found

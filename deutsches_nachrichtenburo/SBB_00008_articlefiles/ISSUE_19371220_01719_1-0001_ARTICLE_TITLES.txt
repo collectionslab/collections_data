@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Kührer besuchte des Reichskriegsministers Mutter.
+Found
+MODSMD_ARTICLE02: Der Führer bei der Weihnachtsfeier seiner Kanzlei.
+Found
+MODSMD_ARTICLE03: freudiges Ereignis im Hause Ciano.
+Found
+MODSMD_ARTICLE04: Der Führer beglückwünscht Außenminister und Gräfin Ciano-
+Found
+MODSMD_ARTICLE05: Weihnachtsfeiern der Reichsautobahner.
+Found
+MODSMD_ARTICLE06: Deutsch niederländische Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE07: Scapini und Schirach wünschen Verständigung.
+Found
+MODSMD_ARTICLE08: Weitere Erleichterungen im Handelsverkehr mit Italien.
+Found
+MODSMD_ARTICLE09: Stabile Preise auch in Italien.
+Found
+MODSMD_ARTICLE10: Empfang der polnischen Legionäre bei Graf Ciano.
+Found
+MODSMD_ARTICLE11: Absolute Mehrheit des Lagers der nationalen Einigung.
+Found
+MODSMD_ARTICLE12: Seyß-Jnquart im Einklang mit der Vaterländischen Front.
+Found
+MODSMD_ARTICLE13: Schuschuigg nimmt an Budapester RWpakt-Konferenz teil.
+Found
+MODSMD_ARTICLE14: Weihe eines Heims der Reichsdeutschen in Bukarest.
+Found
+MODSMD_ARTICLE15: Pariser Kraftwagenfahrer gegen Benzinpreiserhöhung.
+Found
+MODSMD_ARTICLE16: Pariser Kabinettsrat. Stärkere Ausländerüberwachung.
+Found

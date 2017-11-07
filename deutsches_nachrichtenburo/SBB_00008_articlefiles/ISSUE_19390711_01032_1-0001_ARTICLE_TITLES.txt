@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Göring regelt Arbeitseinkommen der Dienstverpflichteten.
+Found
+MODSMD_ARTICLE02: Beschränkung des Arbeitsplatzwechsels im Kohlenbergbau.
+Found
+MODSMD_ARTICLE03: Neue Erleichterunigen für den Volkswohnungsbau.
+Found
+MODSMD_ARTICLE04: Neuseeländischer Minister weilt in Württemberg.
+Found
+MODSMD_ARTICLE05: Tie Tanziger Antwort an den britischen Premier.
+Found
+MODSMD_ARTICLE06: Warschauer Chauvinisten sind von Chamberlain entzückt.
+Found
+MODSMD_ARTICLE07: „Das Maschinengewehr hinter dem Regenschirm."
+Found
+MODSMD_ARTICLE08: Die Heuchelei der Londoner Politik.
+Found
+MODSMD_ARTICLE09: Graf Ciano in Tarragona.
+Found
+MODSMD_ARTICLE10: Kjosseimanoff passierte Belgrad»
+Found
+MODSMD_ARTICLE11: Dr. Homan Ehrenmitglied der Akademie der Wissenschaften.
+Found
+MODSMD_ARTICLE12: Der ägyptische Außenminister in Athen.
+Found
+MODSMD_ARTICLE13: Rumänien wünscht keine Einmischung Sowjetrußlands.
+Found
+MODSMD_ARTICLE14: Zur ersten Einkreisungsdemonstration gestartet.
+Found
+MODSMD_ARTICLE15: Frankreichs Minister bleiben bis auf weiteres in Paris.
+Found
+MODSMD_ARTICLE16: Große antibritische Kundgebungen in Tsingtau.
+Found
+MODSMD_ARTICLE17: Rnosevelts „zügellose, korrupte, verschwenderische
+Found
+MODSMD_ARTICLE18: So arbeitet Roosevelt für den Frieden.
+Found
+MODSMD_ARTICLE19: Deutsche Fernsehausstellung in Chile.
+Found

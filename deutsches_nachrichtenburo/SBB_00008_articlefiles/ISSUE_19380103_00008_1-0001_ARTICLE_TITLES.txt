@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Telegrammwechsel zwischen Funk und Görina.
+Found
+MODSMD_ARTICLE02: Stabschef Lutze dankt.
+Found
+MODSMD_ARTICLE03: Aufruf der Reichsfraueuführerin.
+Found
+MODSMD_ARTICLE04: London und Brüssel zur Neujahrsbotschast des Führers.
+Found
+MODSMD_ARTICLE05: Die amtliche Mitteilung über die Ernennung Vansittarts.
+Found
+MODSMD_ARTICLE07: Die Londoner Presse zur Ernennung Vansittarts.
+Found
+MODSMD_ARTICLE08: Der frühere Unterstaatssekretär Davis f.
+Found
+MODSMD_ARTICLE09: Noch ein Opfer unter den Pressevertretern vor Teruel.
+Found
+MODSMD_ARTICLE10: Der letzte feindliche Widerstand bei Teruel gebrochen.
+Found
+MODSMD_ARTICLE11: Barcelona von nationalen Flugzeugen bombardiert.
+Found
+MODSMD_ARTICLE12: Annahme des französischen Haushalts.
+Found
+MODSMD_ARTICLE13: „Epoque" zur Regierungsbildung in Bukarest.
+Found
+MODSMD_ARTICLE14: Die neue Verfassung Estlands in Kraft getreten.
+Found
+MODSMD_ARTICLE15: Die Ernennung Mechlis zum Stellv. Kriegskommissar.
+Found
+MODSMD_ARTICLE16: Die GPU wütet weiter.
+Found
+MODSMD_ARTICLE17: Admiral Hilary Jones f.
+Found
+MODSMD_ARTICLE18: Neue Zwischenfälle in Schanghai.
+Found
+MODSMD_ARTICLE19: furchtbares Unglück in einem japanischen Kino.
+Found

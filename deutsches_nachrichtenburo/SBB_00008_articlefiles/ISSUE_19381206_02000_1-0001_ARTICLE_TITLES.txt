@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Paris in Erwartung des Neichsaußenministers.
+Found
+MODSMD_ARTICLE03: London zum Besuch Ribbentrops in Paris.
+Found
+MODSMD_ARTICLE04: Austausch militärischer Informationen.
+Found
+MODSMD_ARTICLE05: Ueber 1,8 Millionen Erwerbslose in England.
+Found
+MODSMD_ARTICLE06: Britischer Kommandowechsel in Palästina.
+Found
+MODSMD_ARTICLE07: „Verschmelzung der Geister und des Willens."
+Found
+MODSMD_ARTICLE08: „Die Achse ein natürlicher Block."
+Found
+MODSMD_ARTICLE09: Deutsch-slowakische Freundschaftskuudgebung.
+Found
+MODSMD_ARTICLE10: Neuordnung der slowakischen Armee.
+Found
+MODSMD_ARTICLE11: Kundt an Ministerpräsident Beran.
+Found
+MODSMD_ARTICLE12: Ein Walfänger in der Antarktis gesunken.
+Found
+MODSMD_ARTICLE13: „Condor" startete zum Rückflug nach Deutschland.
+Found

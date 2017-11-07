@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: 1. Opfersonntag: 11263 971,66 Mark.
+Found
+MODSMD_ARTICLE02: Vertreter Belgiens und Hollands beim Reichsaußenminister.
+Found
+MODSMD_ARTICLE03: „Mehr Zurückhaltung in der Zivilbevölkerung!"
+Found
+MODSMD_ARTICLE04: 59 Jahre Vereinigte Staaten von Brasilien.
+Found
+MODSMD_ARTICLE05: „Stellt dem Buch Wohl sichtbar das Gewehr Zur Seite!"
+Found
+MODSMD_ARTICLE06: Das Kriegsziel der Westmächte: Klnechtung für ewige Zeiten.
+Found
+MODSMD_ARTICLE07: Churchills Kriegsflotte stark „belästigt".
+Found
+MODSMD_ARTICLE08: Übereinkunft Indien—England unmöglich.
+Not Found
+MODSMD_ARTICLE09: 'Tie englischen Arbeiter müssen Lohnerhöhung fordern.
+Found
+MODSMD_ARTICLE10: England treibt Schindluder mit den Neutralen.
+Found
+MODSMD_ARTICLE11: Auf deutsches Gebiet verirrt und festgenommen.
+Found
+MODSMD_ARTICLE12: Ein Wrack Zerstörte drei Schiffe.
+Found
+MODSMD_ARTICLE13: Brutale Aufrechterhaltung der Weltherrschaft.
+Found
+MODSMD_ARTICLE14: So läßt sich der Krieg aushalten!
+Found
+MODSMD_ARTICLE15: Frankreich muß die Tabakpreise um 36 vH. erhöhen.
+Found
+MODSMD_ARTICLE16: Wiederwahl der belgischen Parlamentsprüsidenten.
+Found
+MODSMD_ARTICLE17: Frankreich zählt den Jahrgang 1940.
+Found
+MODSMD_ARTICLE18: Beobachtungen eines spanischen Berichterstatters.
+Found
+MODSMD_ARTICLE19: Die Neutralen unter der Hungerfuchtel Englands.
+Found
+MODSMD_ARTICLE20: Hungersnot in Casablanca.
+Found
+MODSMD_ARTICLE21: Neuer japanischer Angriff auf Pakhoi.
+Found

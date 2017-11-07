@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der französische Geschäftsträger hat Berlin verlassen.
+Found
+MODSMD_ARTICLE02: Die portugiesischen Journalisten im Auslandshaus der HJ.
+Found
+MODSMD_ARTICLE03: Eingliederung des Memellandes in den Gau Ostpreußen.
+Found
+MODSMD_ARTICLE04: Dr. Neumann dankt für Glückwünsche aus dem Reich.
+Found
+MODSMD_ARTICLE05: Gesandter Newton von Prag abgereist.
+Found
+MODSMD_ARTICLE06: Zum Leiter der Wirtschaftssektion ernannt.
+Found
+MODSMD_ARTICLE07: „Deutschland ist nicht gewillt, Moralpredigten anzuhören."
+Found
+MODSMD_ARTICLE08: „Tevere": „Italien wartet auf seine Stunde."
+Found
+MODSMD_ARTICLE09: Italiens Rolle im Mittelmeer.
+Found
+MODSMD_ARTICLE10: Tirana weist Lügenmeldungen Zurück.
+Found
+MODSMD_ARTICLE11: Lebrun kandidiert für die Präsidentschaft.
+Found
+MODSMD_ARTICLE12: Man versucht Zu leugnen!
+Found
+MODSMD_ARTICLE13: Notspanische Häuptlinge von England ausgenommen.
+Found
+MODSMD_ARTICLE14: Beck in London eingetroffen.
+Found
+MODSMD_ARTICLE15: Das amtliche Ergebnis der belgischen Kammerwahlen.
+Found
+MODSMD_ARTICLE16: Englands Moral in Palästina.
+Found
+MODSMD_ARTICLE17: Syrien durchschaut Frankreich.
+Found
+MODSMD_ARTICLE18: Schädigung der brasilianischen Volkswirtschaft.
+Found
+MODSMD_ARTICLE19: Vollstreckung zweier Todesurteile.
+Found

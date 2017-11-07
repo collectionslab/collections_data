@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Deutsches Waffenembargo gegenüber Spanien.
+Found
+MODSMD_ARTICLE02: Hühnlein meldet dem Führer den Anto-Sieg.
+Found
+MODSMD_ARTICLE03: Auszeichnung für Tschapraschikoff.
+Found
+MODSMD_ARTICLE04: Landesverräter hingerichtet.
+Found
+MODSMD_ARTICLE05: Eröffnung der 24. Deutschen Ostmesse.
+Found
+MODSMD_ARTICLE06: Abschlußkundgebung der Auslandslehrertagung.
+Found
+MODSMD_ARTICLE07: Schacholympia München 1936.
+Found
+MODSMD_ARTICLE08: Erster Reichsgartenbautag.
+Found
+MODSMD_ARTICLE09: Rekordflug mit Schwerölflugmotoren.
+Found
+MODSMD_ARTICLE10: „Humanite" beschwert sich.
+Found
+MODSMD_ARTICLE11: Claude Farrere zum „Kamerun"-Fall.
+Found
+MODSMD_ARTICLE12: Ter Dampfer „Gibel Zerjon" in Melilla.
+Found
+MODSMD_ARTICLE13: Eine Warnung der „Daily Mail" an Frankreich.
+Found
+MODSMD_ARTICLE14: Die Lage in Merida und Caceres.
+Found

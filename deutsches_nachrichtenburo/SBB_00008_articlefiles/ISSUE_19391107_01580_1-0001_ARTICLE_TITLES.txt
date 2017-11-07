@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Rede Molotows am Jahrestag der Revolution
+Found
+MODSMD_ARTICLE03: Parade der Sowjettruppen.
+Found
+MODSMD_ARTICLE04: „Bruch zwischen den indischen Nationalisten und London."
+Found
+MODSMD_ARTICLE05: Erdrutsche am Comersee.
+Found
+MODSMD_ARTICLE06: Gandhi verlangt sofortige Wahlen in Indien.
+Found
+MODSMD_ARTICLE07: Ausdehnung des Teilbelagerungszustandes in Holland.
+Found
+MODSMD_ARTICLE08: Mißklänge der Mißwirtschaft.
+Found
+MODSMD_ARTICLE09: Am 9. November Flaggen heraus!
+Found
+MODSMD_ARTICLE10: England kämpft auch bis zum letzten Franc.
+Found
+MODSMD_ARTICLE11: „Man kann Deutschland nicht aushungern."
+Found
+MODSMD_ARTICLE12: Die schottische Spinnindustrie in Schwierigkeiten.
+Found
+MODSMD_ARTICLE13: Dänemarks Bevölkerungszahl und Arbeitslosigkeit wachsen.
+Found
+MODSMD_ARTICLE14: Vollstreckung eines Todesurteils.
+Found

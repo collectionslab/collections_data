@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Das Ausland zu den Wiener Kundgebungen.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Die Neuorganisation der Polizei in Oesterreich.
+Found
+MODSMD_ARTICLE04: Wiener Reportage des polnischen Rundfunks.
+Found
+MODSMD_ARTICLE05: Die Sudetendeutschen wünschen korrekte Behandlung.
+Found
+MODSMD_ARTICLE06: Danktelegramm Becks an Graf Ciancm
+Found
+MODSMD_ARTICLE07: Umfangreiche öffentliche Arbeiten in Jugoslawien.
+Found
+MODSMD_ARTICLE08: Beratung über Schutz der Franzosen in Sowjetspanien.
+Found
+MODSMD_ARTICLE09: Verbindung Valencia—Barcelona in Gefahr.
+Not Found
+MODSMD_ARTICLE10: Panikstimmung in Sowjetspanien löst Blutrausch aus.
+Found
+MODSMD_ARTICLE11: Neuer nationaler Geländegewinn an der Aragonfront.
+Found
+MODSMD_ARTICLE12: Massenflucht aus Barcelona.
+Found
+MODSMD_ARTICLE13: Francos Sieg für Paris „keineswegs gleichgültig"!
+Found
+MODSMD_ARTICLE14: Englands Lufthaushalt vor dem Unterhaus.
+Found
+MODSMD_ARTICLE15: Bolschewismus und Judentum sind eins!
+Found
+MODSMD_ARTICLE16: Japans Generalmobilisierungsgesetz vor der Annahme.
+Found

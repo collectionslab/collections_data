@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Tagung der Vorstände des Deutschen Gemeindetages.
+Found
+MODSMD_ARTICLE02: Eröffnung der Tagung des Deutschen Handwerks.
+Found
+MODSMD_ARTICLE03: Der Kattowitzer Hochverrats-Prozeß.
+Found
+MODSMD_ARTICLE04: Blum über die gesetzgeberischen Absichten seiner Regierung.
+Found
+MODSMD_ARTICLE05: Stellungnahme der Baumwollspinnereien in Lille.
+Found

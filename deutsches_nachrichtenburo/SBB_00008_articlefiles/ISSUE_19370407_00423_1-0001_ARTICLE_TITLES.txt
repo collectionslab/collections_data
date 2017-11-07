@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Reichssinanzminister vor dem Deutschen Gemeindetag.
+Found
+MODSMD_ARTICLE02: Reform des wirtschaftswissenschaftlichen Studiums.
+Found
+MODSMD_ARTICLE03: Ueberwachuug der Eierkennzeichnung.
+Found
+MODSMD_ARTICLE04: Eröffnung einer deutschen Bauausstellung in Wien.
+Found
+MODSMD_ARTICLE05: Der spanische Heeresbericht.
+Found
+MODSMD_ARTICLE06: Der Besuch des dänischen Ministerpräsidenten in London.
+Found
+MODSMD_ARTICLE07: Indien-Sitzung, des englischen Kabinetts.
+Found
+MODSMD_ARTICLE08: Diamantenschntz im Geheimschrank des GWI-Häuptlings.
+Found
+MODSMD_ARTICLE09: Norwegische Seeleute an sowjetrussischer Grenze verhaftet.
+Found
+MODSMD_ARTICLE10: Die Verhandlungen Dr. Beneschs in Belgrad.
+Found
+MODSMD_ARTICLE11: Benesch von Belgrad abgereist.
+Found
+MODSMD_ARTICLE12: Condor-Syndikat erschließt Südamerikas Luftverkehr.
+Found

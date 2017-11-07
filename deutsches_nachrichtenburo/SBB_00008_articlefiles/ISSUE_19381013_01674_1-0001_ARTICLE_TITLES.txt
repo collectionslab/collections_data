@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer an Dr. Horch.
+Found
+MODSMD_ARTICLE02: Hilgenfeldt zum Winterhilfswerk.
+Found
+MODSMD_ARTICLE03: Die Mitglieder der Handelskammer Paris in Berlin.
+Found
+MODSMD_ARTICLE04: Regelung des Warenverkehrs mit dem Sudetenland.
+Found
+MODSMD_ARTICLE05: Der Oberbefehlshaber des Heeres in Karlsbad.
+Found
+MODSMD_ARTICLE06: Flandin über die Zukunft Frankreichs.
+Found
+MODSMD_ARTICLE07: Nächste Woche Ministerrat in London.
+Found
+MODSMD_ARTICLE08: Nationalspanische Presse gegen die Vermittlungsversuche.
+Found
+MODSMD_ARTICLE09: Umfangreiche Preisstützungsaktion in USA.
+Found
+MODSMD_ARTICLE10: Auch Costa Rica verzichtet aus jüdische Emigranten.
+Found
+MODSMD_ARTICLE11: Das kochende Palästina.
+Found
+MODSMD_ARTICLE12: Die japanischen Operationen gegen Hankau.
+Found
+MODSMD_ARTICLE13: Schutzmaßnahmen für die Japaner in Hongkong.
+Found
+MODSMD_ARTICLE14: Ntzdz-Smigly an Japans Kriegsminister.
+Found
+MODSMD_ARTICLE15: Mandschukuo führt die allgemeine Wehrpflicht ein.
+Found

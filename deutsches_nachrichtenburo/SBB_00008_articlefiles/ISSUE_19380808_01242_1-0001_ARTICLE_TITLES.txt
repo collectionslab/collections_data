@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Die englischen Luftmanöver beendet.
+Found
+MODSMD_ARTICLE02: Ueberraschender Besuch MacDoualds iu Palästina»
+Found
+MODSMD_ARTICLE03: Ueber Köll verwundete SPanieufreiwillige gelandet.
+Found
+MODSMD_ARTICLE04: Die römische Sonntagspresse zur nationalen Ebro-Offensive.
+Found
+MODSMD_ARTICLE05: V. Internationaler Kongreß für Zellforschung eröffnet.
+Found
+MODSMD_ARTICLE06: Dienstvorschriften für die Minderheiten in Rumänien.
+Found
+MODSMD_ARTICLE07: Ungarn begrüßt die Minderheiten-Dienstvorschrift»
+Found
+MODSMD_ARTICLE08: König Boris nach Italien abgereist.
+Found
+MODSMD_ARTICLE09: Ausfuhrverbot für landwirtschaftliche Produkte in Bulgarien.
+Found
+MODSMD_ARTICLE10: Weitere Fortschritte an der Ebro-Frout.
+Found
+MODSMD_ARTICLE11: Wieder lebhafte Gefechtstätigkeit im Schangfeng-Abschuitt.
+Found
+MODSMD_ARTICLE12: Neuer Protest in Moskau.
+Found
+MODSMD_ARTICLE13: Der neue Grenzzwischenfall bei Snisenho.
+Found
+MODSMD_ARTICLE14: „Sunday Times" zum Schangseng-Zwischenfall.
+Found
+MODSMD_ARTICLE15: Eifrige Agitation der Kommunisten Chinas.
+Found
+MODSMD_ARTICLE16: Immer wieder Schießereien in Palästina.
+Found
+MODSMD_ARTICLE17: Britische Polizeipatrouille von Freischärlern beschossen.
+Found
+MODSMD_ARTICLE18: Das Chaco-Abkommen vor dem bolivianischen Parlament.
+Found
+MODSMD_ARTICLE19: Im Zeichen der Demokratie.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: 13. Jahresfeier des 8./9. November.
+Found
+MODSMD_ARTICLE02: Danktelegramm Kanyas an Ribbentrop.
+Found
+MODSMD_ARTICLE03: Ein Gau Zeigt seine Dankbarkeit.
+Found
+MODSMD_ARTICLE04: Das Servitenkloster in Innsbruck geschlossen.
+Found
+MODSMD_ARTICLE05: Tagesbefehl Horthys au die Honved.
+Found
+MODSMD_ARTICLE06: Chamberlain und Halifax vom 23. bis 25. November in Paris.
+Found
+MODSMD_ARTICLE07: Italien feiert 20. Jahrestag des Sieges über Habsburg.
+Found
+MODSMD_ARTICLE08: Prinzregent Paul von Jugoslawien in Bukarest.
+Found
+MODSMD_ARTICLE09: Militärische Anlagen von Culera bombardiert.
+Found
+MODSMD_ARTICLE10: Kolens Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE11: Der französische Lnftsahrtminister in Algerien und Marokko.
+Found
+MODSMD_ARTICLE12: Rasches Vordringen der Japaner.
+Found

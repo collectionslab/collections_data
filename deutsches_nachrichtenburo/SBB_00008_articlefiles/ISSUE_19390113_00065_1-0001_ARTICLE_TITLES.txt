@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Duce an die Akademie für deutsches Recht.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Die Parteiführerschaft in Berlin.
+Found
+MODSMD_ARTICLE04: Die deutschfeindlichen Anschläge in Holland.
+Found
+MODSMD_ARTICLE05: Gedenktafel für Nikola Paschitsch.
+Found
+MODSMD_ARTICLE06: Chamberlain empfängt die Gesandten Aegyptens und Iraks.
+Found
+MODSMD_ARTICLE07: Englische Journalisten bei Minister Alsieri.
+Found
+MODSMD_ARTICLE08: Entrüstung über Beschimpfung des italienischen Soldaten.
+Found
+MODSMD_ARTICLE09: Mussolini und Francs ermöglichen Pilgerfahrten nach Mekka.
+Found
+MODSMD_ARTICLE10: Jugoslawiens Juteresse an den römischen Besprechungen.
+Found
+MODSMD_ARTICLE11: Tumultszenen im Bndapester Abgeordnetenhaus.
+Found
+MODSMD_ARTICLE12: Absage Francos an die British Airways.
+Found
+MODSMD_ARTICLE13: Nach der Eroberung Tortosas.
+Found
+MODSMD_ARTICLE14: Ministerkonferenz in Paris.
+Found
+MODSMD_ARTICLE15: Um die Auslösung der Kommunistischen Partei Frankreichs.
+Found
+MODSMD_ARTICLE16: „Schutzmaßnahmen seitens Englands."
+Found
+MODSMD_ARTICLE17: Ter Galgen für Freiheitskämpfer.
+Found
+MODSMD_ARTICLE18: Die Presse faselt wieder von einer Bedrohung der USA.
+Found
+MODSMD_ARTICLE19: Keine Errichtung von RegierungsslngZeugwerken in USA.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Französischer Wortbruch unter englischer Einwirkung.
+Found
+MODSMD_ARTICLE02: Abschiedsbesuch des Grafen Magistrats bei Ribbentrop.
+Found
+MODSMD_ARTICLE03: Kommissarischer Regierungsvizepräsident.
+Found
+MODSMD_ARTICLE04: Englisches Vorpostenschiff vernichtet.
+Found
+MODSMD_ARTICLE05: Sehr hoher englischer Haushalt und neue Steuern.
+Found
+MODSMD_ARTICLE06: Holländisches Motorschiff in der Biscaya gesunken.
+Found
+MODSMD_ARTICLE07: Schwedischer und norwegischer Protest in Moskau.
+Found
+MODSMD_ARTICLE08: Fluglinie Moskau—Sofia.
+Found
+MODSMD_ARTICLE09: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE10: „Indiens Grenze liegt am Rhein!"
+Found
+MODSMD_ARTICLE11: Das neue japanische Kabinett.
+Found
+MODSMD_ARTICLE12: Drei britische U-Boote versenkt.
+Found
+MODSMD_ARTICLE13: Die Neuordnung Ostasiens unverrückbares Ziel Japans.
+Found
+MODSMD_ARTICLE14: „Japans Rußland-Politik unverändert."
+Found
+MODSMD_ARTICLE15: Hull wies englischen Protest zurück.
+Found

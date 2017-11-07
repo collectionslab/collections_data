@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Biilow-Schwante geht nach Brüssel.
+Found
+MODSMD_ARTICLE02: Genesungswünsche des Führers an Mutschmann.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Eröffnung des 15. Geographischen Kongresses.
+Found
+MODSMD_ARTICLE05: Ministerpräsident Spaak: Reform der Demokratie notwendig.
+Found
+MODSMD_ARTICLE06: Drei Tschecho-Slowakei legt eiserum Getreidevorrat au»
+Found
+MODSMD_ARTICLE07: Tie Erörterungen über die tschechische Militärdienstzeit.
+Found
+MODSMD_ARTICLE08: Unterhausfrassen wessen der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE09: General Franco zum Jahrestag der Nationalen Erhebung.
+Found
+MODSMD_ARTICLE10: Francs, Oberbefehlshaber des Heeres und der Marme.
+Found
+MODSMD_ARTICLE11: Einheitliche Regelung der Lohnsrage in Nationalspanien.
+Found
+MODSMD_ARTICLE12: Die Noten Planen Sprengung der Sagunter Eisenhütten.
+Found
+MODSMD_ARTICLE13: Dimitroff zum Jahrestass des Bürsserkriesses in Spanien.
+Found
+MODSMD_ARTICLE14: Erneuter japanischer Protest in Moskau.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Neue Botschafter Deutschlands und Brasiliens.
+Found
+MODSMD_ARTICLE02: Empfang der süddeutschen Presse beim Reichspresscchef.
+Found
+MODSMD_ARTICLE03: Unterredung der Agenzia Stefani mit Suner.
+Found
+MODSMD_ARTICLE04: Das ungarische Regierungsprogramm.
+Found
+MODSMD_ARTICLE05: Tie deutschen Nationalsozialisten in der Schweiz.
+Found
+MODSMD_ARTICLE06: Abschluß der außenpolitischen Aussprache im Oberhaus.
+Found
+MODSMD_ARTICLE07: Strang wurde nur „unterrichtet".
+Found
+MODSMD_ARTICLE08: England bezahlt den polnischen Rüstungsrummel.
+Found
+MODSMD_ARTICLE09: So sieht Amerikas Sozialpolitik aus.
+Found
+MODSMD_ARTICLE10: Bilanz des Königsbesuches in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE11: Die jüdischen! Terroraktionen in Palästina dauern an.
+Found
+MODSMD_ARTICLE12: Schärfere Maßnahmen in Tientsin gefordert.
+Found
+MODSMD_ARTICLE13: Japan rechnet mit längerer Kriegsdaner in China.
+Found
+MODSMD_ARTICLE14: Wangtschingwei rät zu ehrenhaftem Frieden.
+Found

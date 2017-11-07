@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Einführung der gewerbsmäßigen Bühnenvermittlung.
+Found
+MODSMD_ARTICLE02: Millionen besuchten Ausstellung „Weltseind Nr. 1".
+Found
+MODSMD_ARTICLE03: Die letzten Verurteilten aus dem Kensau-Prozrsi frei.
+Found
+MODSMD_ARTICLE04: Die polnische „Nationalsoziale Partei" genehmigt.
+Found
+MODSMD_ARTICLE05: Der Arierparagraph des polnischen Aerzteverbandes.
+Found
+MODSMD_ARTICLE06: Bolschewistische Willkür in einer Grenzstadt.
+Found
+MODSMD_ARTICLE07: General von Miller nach Leningrad gebracht.
+Found
+MODSMD_ARTICLE08: Sowjet-Werbuing für Rotspanien.
+Found
+MODSMD_ARTICLE09: Großangriff der Nationalen vor Teruel.
+Found
+MODSMD_ARTICLE10: Das Ergebnis der rumänischen Wahlen.
+Found
+MODSMD_ARTICLE11: Jüdische Blätter verboten.
+Found
+MODSMD_ARTICLE12: „Keinerlei demokratische Illusionen."
+Found
+MODSMD_ARTICLE13: Rundfunkansprache de Valeras.
+Found
+MODSMD_ARTICLE14: Die japanische Antwortnote wird geprüft.
+Found
+MODSMD_ARTICLE15: „Epoque" über die Erklärung Chautemps'.
+Found
+MODSMD_ARTICLE16: Das ägyptische Kabinett entlassen.
+Found
+MODSMD_ARTICLE17: Japanisches Ultimatum an General Jensischan.
+Found
+MODSMD_ARTICLE18: Das Bauprogramm des Washingtoner Marineministeriums.
+Found

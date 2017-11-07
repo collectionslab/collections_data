@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Ruft eröffnet französische Kunstausstellung in Berlin.
+Found
+MODSMD_ARTICLE02: Der Oberbefehlshaber der Kriegsmarine in Kiel.
+Found
+MODSMD_ARTICLE03: Naeder dankt dem Gouverneur von Gibraltar.
+Found
+MODSMD_ARTICLE04: Der dänische Außenminister bei Neurath.
+Found
+MODSMD_ARTICLE05: Deutsch-polnischer Polizeioffizieraustausch.
+Found
+MODSMD_ARTICLE06: „Popolo d'Jtalia" über den italienischen Soldaten.
+Found
+MODSMD_ARTICLE07: Die „Deutsche Zeitung in Frankreich" wöchentlich.
+Found
+MODSMD_ARTICLE08: „Politica" über die Bedeutung des Besuches Neuraths.
+Found
+MODSMD_ARTICLE09: Wieder drei englische Schiffe in Bilbao.
+Found
+MODSMD_ARTICLE10: Weltretchskonserenz und Bölkerbundsreform.
+Found
+MODSMD_ARTICLE11: Marxistenblatt sagt die Wahrheit über die Sowjetunion.
+Found
+MODSMD_ARTICLE12: Toter Manu am Autobus-Steuer! 9 Todesopfer.
+Found

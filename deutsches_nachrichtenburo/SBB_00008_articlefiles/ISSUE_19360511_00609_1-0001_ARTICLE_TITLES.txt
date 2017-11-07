@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Großer deutscher Autosieg in Tripolis.
+Found
+MODSMD_ARTICLE02: Korpsführer Hühnlein an die Auto-Union.
+Found
+MODSMD_ARTICLE03: Eine ungarische Stimme über Deutschland.
+Found
+MODSMD_ARTICLE04: FlugZeugubergabe in Warschau.
+Found
+MODSMD_ARTICLE05: „Tuuday DisPatch" Zum Fragebogen.
+Found
+MODSMD_ARTICLE06: Frankreich und der englische Fragebogen.
+Found
+MODSMD_ARTICLE07: Außenpolitische Rede Flandins im Ministerrat.
+Found
+MODSMD_ARTICLE08: Französische Stimmen zur Einverleibung Abessiniens.
+Found
+MODSMD_ARTICLE09: Imune d'Arc-Feicr in Paris.
+Found
+MODSMD_ARTICLE10: Dekrete Italiens über die Zukunft Abessiniens.
+Found
+MODSMD_ARTICLE11: Die Lage in Abessinien.
+Found

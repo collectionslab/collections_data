@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Telegrammwechsel mit dem Führer.
+Found
+MODSMD_ARTICLE02: 10 Jahre Gau Berlin der NSDAP.
+Found
+MODSMD_ARTICLE03: Hohe Auszeichnung für einen Mm.
+Found
+MODSMD_ARTICLE04: Zum Mitglied der Akademie für deutsches Recht ernannt
+Found
+MODSMD_ARTICLE05: Nationalsozialistische Finanz- und Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE06: Landesverräter vom Volksgericht abgeurteilt.
+Found
+MODSMD_ARTICLE07: Das deutsche Winterhilfswerk „ein leuchtendes Beispiel".
+Found
+MODSMD_ARTICLE08: Mosleh bleibt standhaft.
+Found
+MODSMD_ARTICLE09: Rundfunkansprache König Eduards am Krönungstage.
+Found
+MODSMD_ARTICLE10: Englands Regierung: „Hungermärsche unerwünscht".
+Found
+MODSMD_ARTICLE11: Eden über die außenpolitische Lage.
+Found
+MODSMD_ARTICLE12: Moskaus Hilfe für die Roten in Spanien.
+Found
+MODSMD_ARTICLE13: Tie Streikepidemie in Frankreich.
+Found

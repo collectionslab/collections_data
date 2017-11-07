@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Ratifizierung deutsch-polnischer Verträge.
+Found
+MODSMD_ARTICLE02: Ergebnis der Untersuchung auf Zeche „Nordstern".
+Found
+MODSMD_ARTICLE03: Polnische Winterhilfe.
+Found
+MODSMD_ARTICLE04: Die Ausschußsitzung in London.
+Found
+MODSMD_ARTICLE05: Englische Sorgen um Palästina.
+Found
+MODSMD_ARTICLE06: Sowjetspamens Horden als „Vorbild" für England!
+Found
+MODSMD_ARTICLE07: Stojadinowitsch auf der Rückreise in Paris.
+Found
+MODSMD_ARTICLE08: Kantonalstichwahlen verzögern Schiffsausreise.
+Found
+MODSMD_ARTICLE09: Französischer Senator über Sowjetrußland.
+Found
+MODSMD_ARTICLE10: Frankreich stiftet Forschungspreise.
+Found
+MODSMD_ARTICLE11: Die „Mystik der Volksfront" schwindet.
+Found
+MODSMD_ARTICLE12: Die libyschen Stammeshäuptlinge an Mussolini.
+Found
+MODSMD_ARTICLE13: Die albanische Kammer eröffnet.
+Found
+MODSMD_ARTICLE14: Neuer Volkskommissar für Sowjetrußlands Kriegsindustrie.
+Found
+MODSMD_ARTICLE15: Amerika mit Brüssel als Tagungsort einverstanden.
+Found
+MODSMD_ARTICLE16: Der Mufti von Jerusalem in Beirut?
+Found
+MODSMD_ARTICLE17: Brandstiftung auf dem größten Flughafen Palästinas.
+Found
+MODSMD_ARTICLE18: Japanische Truppen rücken in Schansi vor.
+Found
+MODSMD_ARTICLE19: Tokio stellt Giftgas-Verwendung durch Chinesen fest.
+Found
+MODSMD_ARTICLE20: KolonialkonferenZ gefordert.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: 12K Jahre Friedrich-Wilhelms-Universität zu Berlin.
+Found
+MODSMD_ARTICLE02: Große Handwerkstagung unter Dr. Ley.
+Found
+MODSMD_ARTICLE03: General Daluege ehrt die polnischen Helden.
+Found
+MODSMD_ARTICLE04: Nichteinmischungsausschuß prüft sowjetrussische Antworten.
+Found
+MODSMD_ARTICLE05: Eden über den Staatsstreich im Irak.
+Found
+MODSMD_ARTICLE06: Getafe von den nationalen Truppen besetzt.
+Found
+MODSMD_ARTICLE07: Wechsel auf dem englischen Botschafterposten in Paris?
+Found
+MODSMD_ARTICLE08: Ergebnis aus Amerika. ,
+Found
+MODSMD_ARTICLE09: Außenpolitisches Programm Amerikas bleibt unverändert.
+Found
+MODSMD_ARTICLE10: England und Frankreich zu RoosevekW Wahlsieg.
+Found
+MODSMD_ARTICLE11: Schuschnigg über die Aufgaben der neuen Regierung.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Wehrmacht am Geburtstag des Führers.
+Found
+MODSMD_ARTICLE02: Die Veveidigungsfeier in der Hauptstadt der Bewegung.
+Found
+MODSMD_ARTICLE03: Italienische Spende für das Winterhilfswerk.
+Found
+MODSMD_ARTICLE04: Weitere Reichsbürgschaften für den Kleinwohnungsbau.
+Found
+MODSMD_ARTICLE05: Richtlinien für den Volksschul-Unterricht.
+Found
+MODSMD_ARTICLE06: Nachruf Bohles für Blockleiter Riedle.
+Found
+MODSMD_ARTICLE07: Weitere Beileidskundgebungen Zum Tode Riedles.
+Found
+MODSMD_ARTICLE08: Kommissarischer Bürgermeister von Bremen.
+Found
+MODSMD_ARTICLE09: Dr. Ley in Sorrent.
+Found
+MODSMD_ARTICLE10: Ruft in der Athener Pädagogischen Akademie.
+Found
+MODSMD_ARTICLE11: Pariser Weltausstellung erst am 16. Mai?
+Found
+MODSMD_ARTICLE12: Gerüchte über eine Vermittlungsaktion in Spanien.
+Found
+MODSMD_ARTICLE13: Ueble „Nekrutierungs"-Methoden spamscher Bolschewisten.
+Found
+MODSMD_ARTICLE14: Die Konferenz in Montreux.
+Found

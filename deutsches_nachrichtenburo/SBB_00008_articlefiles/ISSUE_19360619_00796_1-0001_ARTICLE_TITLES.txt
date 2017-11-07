@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Zum Tode von Heinrich Lersch.
+Found
+MODSMD_ARTICLE02: Verleihung der Humboldt-Medaille.
+Found
+MODSMD_ARTICLE03: Beisetzung der gefallenen Danziger SS Männer.
+Found
+MODSMD_ARTICLE04: Die Streikwelle in Belgien.
+Found
+MODSMD_ARTICLE05: Die Auflösung der nationalen Verbände in Frankreich.
+Found
+MODSMD_ARTICLE06: Der Mißtrauensantrag der Labour Party.
+Found
+MODSMD_ARTICLE07: Nicht auf diplomatischem Weg.
+Found
+MODSMD_ARTICLE08: Aegypten-Konferenz im englischen Außenamt.
+Found
+MODSMD_ARTICLE09: Herbe Kritik de Valeras am Völkerbund.
+Found
+MODSMD_ARTICLE10: 490 Verhaftungen in Kowno.
+Found
+MODSMD_ARTICLE11: Fünf Jahre Gefängnis gegen Primo de Rivera beantragt.
+Found
+MODSMD_ARTICLE12: 800 Millionen neue Stenern in den Vereinigten Staaten.
+Found

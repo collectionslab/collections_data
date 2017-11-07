@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Mussolini und Hitler in Hannover.
+Found
+MODSMD_ARTICLE02: Im Flugzeug über die Feststratze. Dr. Goebbels fliegt nach Berlin.
+Found
+MODSMD_ARTICLE03: Das Ausland zum Staatsbesuch des Duee.
+Found
+MODSMD_ARTICLE04: Aufhebung des Verbots des „Kurjer Valticki".
+Found
+MODSMD_ARTICLE05: Neue Kundgebungen in Marrakesch.
+Found

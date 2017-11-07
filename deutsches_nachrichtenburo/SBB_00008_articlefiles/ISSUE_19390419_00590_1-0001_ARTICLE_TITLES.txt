@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Goethe-Medaille für August Hinrichs.
+Found
+MODSMD_ARTICLE02: Gafencu beim Neichsaußemnmister.
+Found
+MODSMD_ARTICLE03: Professor Riidin-München 65 Jahre.
+Found
+MODSMD_ARTICLE04: Brauch lisch empfängt Ehrengäste.
+Found
+MODSMD_ARTICLE05: Freundschaft der Völker wird gefördert.
+Found
+MODSMD_ARTICLE06: Dankschreiben des Generals Blaskowitz an Henlein.
+Found
+MODSMD_ARTICLE07: Die Regierungspräsidenten des Sudetengaues bei Henlein.
+Found
+MODSMD_ARTICLE08: Enge Verbundenheit mit der Achsenpolitik.
+Found
+MODSMD_ARTICLE09: Kalte Dusche für Roosevelt.
+Found
+MODSMD_ARTICLE10: Ungarns Judengesetz vom Oberhaus angenommen.
+Found
+MODSMD_ARTICLE11: Jugoslawische Kritik an Roosevelts Manöver.
+Found
+MODSMD_ARTICLE12: Portugal: „Amerikanischer Bluff."
+Found
+MODSMD_ARTICLE13: Kombinationen der Pariser Presse.
+Found
+MODSMD_ARTICLE14: Hetzer und Lügner erneut am Pranger.
+Found
+MODSMD_ARTICLE15: Ein strategischer Kanal durch Südfraukreich?
+Found
+MODSMD_ARTICLE16: Die teuere Mobilmachung.
+Found
+MODSMD_ARTICLE17: Die französischen Bemühungen um Moskau.
+Found
+MODSMD_ARTICLE18: Die Schweiz gibt England eine Lehre.
+Found
+MODSMD_ARTICLE19: Die englische Negierung will freien Handel unterbinden.
+Found

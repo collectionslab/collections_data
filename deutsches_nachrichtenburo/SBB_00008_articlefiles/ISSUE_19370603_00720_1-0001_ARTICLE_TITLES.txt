@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Dr. Lippert empfängt die Teilnehmer des Reisekongresses.
+Found
+MODSMD_ARTICLE02: Weitere Auslandsstimmen zu den Vorgängen in Spanien.
+Found
+MODSMD_ARTICLE03: Aussprache zwischen Dr. Schmidt und Rüschtü Aras.
+Found
+MODSMD_ARTICLE04: Italien zieht seine Kriegsschiffe nicht zurück.
+Found
+MODSMD_ARTICLE05: Für Entfernung Moskaus aus dem Mittelmeer.
+Found
+MODSMD_ARTICLE06: Die Fürsorge für die verwundeten deutschen Matrosen.
+Found
+MODSMD_ARTICLE07: Sowjetrußland schon wieder Störenfried.
+Found
+MODSMD_ARTICLE08: London von dem Pazifik-Plan Australiens nicht begeistert.
+Found
+MODSMD_ARTICLE09: Das Amnestiegefeh in der belgischen Kammer angenommen.
+Found
+MODSMD_ARTICLE10: Der nationalspanische Heeresbericht vom Mittwoch.
+Found
+MODSMD_ARTICLE11: Arabische politische Häftlinge im Hungerstreik.
+Found
+MODSMD_ARTICLE12: Wieder blutige Streikausschreitungen in USA.
+Found
+MODSMD_ARTICLE13: Der mexikanische Petroleumstreik.
+Found

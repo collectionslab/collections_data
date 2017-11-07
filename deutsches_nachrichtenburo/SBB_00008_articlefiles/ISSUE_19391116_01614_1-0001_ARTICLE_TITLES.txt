@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ter Wehrmachtsbericht.
+Found
+MODSMD_ARTICLE02: Slowakisches Parlament gedenkt der Errettung des Führers.
+Found
+MODSMD_ARTICLE03: Dr. Josef Buday verschieden.
+Found
+MODSMD_ARTICLE04: Das 35 660 t Schlachtschiff „Jmpero" vom Stapel gelaufen.
+Found
+MODSMD_ARTICLE05: Die Folgen der britischen Seeräubermethoden.
+Found
+MODSMD_ARTICLE06: Doppelter Reinfall Hore-Belishas.
+Found
+MODSMD_ARTICLE07: Südafrikas Presse schwankt zwischen Krieg und Frieden.
+Found
+MODSMD_ARTICLE08: Frankreich präsentiert seine erste Rechnung.
+Found
+MODSMD_ARTICLE09: Frankreich sucht weitere Soldaten für den englischen Krieg.
+Found
+MODSMD_ARTICLE10: Das Kriegsziel der Westmächte: Ueber Versailles hinaus!
+Found
+MODSMD_ARTICLE11: Englische Sperrballons treiben nach Norwegen.
+Found
+MODSMD_ARTICLE12: Fliegeralarm in Lille.
+Found
+MODSMD_ARTICLE13: Zehnjahresplau für den Wiederaufbau Spaniens.
+Found
+MODSMD_ARTICLE14: Griechischer Dampfer gesunken.
+Found
+MODSMD_ARTICLE15: So wirken Teutschlands Maßnahmen gegen England.
+Found
+MODSMD_ARTICLE16: Der Kohlenmangel in Französisch-Marokko.
+Found
+MODSMD_ARTICLE17: Neue englische Zwangsmaßnahmen angekündigt.
+Found

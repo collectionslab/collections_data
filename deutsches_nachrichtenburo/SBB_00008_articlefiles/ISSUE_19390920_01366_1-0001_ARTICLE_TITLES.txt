@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Deutschland kapituliert nicht!
+Found
+MODSMD_ARTICLE03: Die Welt hört Adolf Hitler.
+Found
+MODSMD_ARTICLE04: Raeder begrüßt zurückgekehrte U-Boote.
+Found
+MODSMD_ARTICLE05: Teilweise Wiederaufnahme des planmäßigen Luftverkehrs.
+Found
+MODSMD_ARTICLE06: Englisch-Polnische Lügen um die Grenzstadt Kuty.
+Found
+MODSMD_ARTICLE07: Rudolf Heß im Westen.
+Found
+MODSMD_ARTICLE08: Das achte englische Fliegergrab in Wilhelmshaven.
+Found
+MODSMD_ARTICLE09: Deutsches Elend unter polnischer Herrschaft.
+Found
+MODSMD_ARTICLE10: Indem versuchten Unruhe Zu stiften.
+Found
+MODSMD_ARTICLE11: Mach über das panslawistische Geschwätz Warschaus.
+Found
+MODSMD_ARTICLE12: Marschall Caviglia berichtet Mussolini.
+Found
+MODSMD_ARTICLE13: Italien hörte den Führer.
+Found
+MODSMD_ARTICLE14: Starker Eindruck der Führerrede in Holland.
+Found
+MODSMD_ARTICLE15: Einheitsbrot in der Schweiz.
+Found
+MODSMD_ARTICLE16: Erklärung Hulls zum Poleneinmarsch der Sowjettruppen.
+Found
+MODSMD_ARTICLE17: Brasilien wehrt sich gegen die Seeräuberpolitik.
+Found

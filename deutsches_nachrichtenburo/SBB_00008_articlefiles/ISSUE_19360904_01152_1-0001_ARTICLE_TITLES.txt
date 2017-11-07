@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Glückwunsch des Reichsderkehrsministers.
+Found
+MODSMD_ARTICLE02: Tie Judenfrage in der praktischen Kulturpolitik.
+Found
+MODSMD_ARTICLE03: LZ „Hindenburg" in Rio zum Rückflug gestartet.
+Found
+MODSMD_ARTICLE04: Nene Landemeldung vom Gordon-Bennett-Flug.
+Found
+MODSMD_ARTICLE05: « Gedächtnisschwäche des „Figaro".
+Found
+MODSMD_ARTICLE06: Ilmbau des Hauses der Großen Gilde in Riga.
+Found
+MODSMD_ARTICLE07: Entschiedenes Vorgehen gegen polnische Oppositionelle.
+Found
+MODSMD_ARTICLE08: 4. Internationaler Anatomiekongreß in Mailand.
+Found
+MODSMD_ARTICLE09: Der Streit um Trotzki.
+Found
+MODSMD_ARTICLE10: Früherer spanischer Jnnenmniister in Madrid erschossen.
+Found
+MODSMD_ARTICLE11: Bombenabwürfe auf Madrid und Malaga.
+Found
+MODSMD_ARTICLE12: Heldenhafter Widerstand im Alcazar von Toledo.
+Found
+MODSMD_ARTICLE13: Nadiosender Bnrgos meldet nationalistische Erfolge.
+Found
+MODSMD_ARTICLE14: Tie anarchischen Zustände in Spanien.
+Found
+MODSMD_ARTICLE15: Marxistische Einmischung in englische Interessen.
+Found
+MODSMD_ARTICLE16: Neuer Ueberfall auf britische Truppen in Palästina.
+Found
+MODSMD_ARTICLE17: Bengalen sagt dem Kommunismus energischen Kamps an.
+Found

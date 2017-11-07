@@ -1,0 +1,24 @@
+MODSMD_ARTICLE02: Hauptmann Weis; über Probleme der deutschen Presse.
+Found
+MODSMD_ARTICLE03: Die Danziger NSDAP, reicht früheren Gegnern die Hand.
+Found
+MODSMD_ARTICLE04: Schuschnigg fährt nach Budapest.
+Found
+MODSMD_ARTICLE05: Schuh für Oesterreichs Bauern.
+Found
+MODSMD_ARTICLE06: Deutschfeindliche Propaganda des polnischen Westverbandes.
+Found
+MODSMD_ARTICLE07: Diplomatenempsänge bei Delbos.
+Found
+MODSMD_ARTICLE08: Besserung der französischen Wirtschaftslage.
+Found
+MODSMD_ARTICLE09: Der schwedische Außenminister in London.
+Found
+MODSMD_ARTICLE10: Die leitenden internationalen Beobachter in London.
+Found
+MODSMD_ARTICLE11: Wieder harte Kämpfe an der Guadalajara-Hront.
+Found
+MODSMD_ARTICLE12: Die Sondermarke zum Geburtstage des Führers.
+Found
+MODSMD_ARTICLE13: Ministerialdirektor Willy Ernst f.
+Found

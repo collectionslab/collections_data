@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Ministerpräsident Göring über den 2. Vierjahresplan.
+Not Found
+MODSMD_ARTICLE02: Das Entscheidende ist das klare Ziel!
+Found
+MODSMD_ARTICLE03: „Nun erst recht an die Arbeit!"
+Found
+MODSMD_ARTICLE04: „Deutschland kapituliert nicht!"
+Found

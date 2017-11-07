@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Deutsch-japanisches Kulturfilmaustausch-AbkvmMen.
+Found
+MODSMD_ARTICLE02: Ernennung im Forstdienst.
+Found
+MODSMD_ARTICLE03: Verantwortungsbewußte Kulturführung.
+Found
+MODSMD_ARTICLE04: Die NeunmächtekonferenZ in Brüssel eröffnet.
+Found
+MODSMD_ARTICLE05: Die Zurückweisung der Eden-Rede durch Italien.
+Found
+MODSMD_ARTICLE06: Neue Streiks in Frankreich.
+Found
+MODSMD_ARTICLE07: Französisches Sndatlantikflugzeug ins Meer gestürzt.
+Found
+MODSMD_ARTICLE08: Das Kriegsmaterial für die Bolschewiften in Spanien.
+Found
+MODSMD_ARTICLE09: Englische Warnung an Frankreich.
+Found
+MODSMD_ARTICLE10: Die Eintragungen in das britische Schiffsregister.
+Found
+MODSMD_ARTICLE11: Um die diplomatische Anerkennung Francos.
+Found
+MODSMD_ARTICLE12: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE13: Nationales Zentralamt für Sicherheit und Ordnung.
+Found
+MODSMD_ARTICLE14: Personalveränderungen in der Sowjetunion.
+Found
+MODSMD_ARTICLE15: Weiterer Vormarsch der Japaner in der Provinz Schansi.
+Found

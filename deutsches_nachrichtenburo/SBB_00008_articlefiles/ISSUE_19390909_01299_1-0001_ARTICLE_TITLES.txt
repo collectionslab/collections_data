@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Deutsche Ostgrenze endgültig und für alle Zeiten gesichert.
+Found
+MODSMD_ARTICLE02: Stärkung der deutschen kriegswirtschaftlichen Kraft.
+Found
+MODSMD_ARTICLE03: Wichtige Rüstungsindustrien, Polens in deutscher Hand.
+Found
+MODSMD_ARTICLE04: Ungehinderter Schiffsverkehr nach Südosteuropa.
+Found
+MODSMD_ARTICLE05: Bromberg und Graudenz zwei Wirtschaftszentren Polens.
+Found
+MODSMD_ARTICLE06: Dänemarks Neutralität ist ernst gemeint.
+Found
+MODSMD_ARTICLE07: Klare Erkenntnisse der tschechischen! Presse.
+Found
+MODSMD_ARTICLE08: „Erzwungener Rückzug der Polen!"
+Found
+MODSMD_ARTICLE09: Polens Regierung flüchtet von Ort zu Ort.
+Found
+MODSMD_ARTICLE10: Das Blutbad von Bromberg in der schwedischen Presse.
+Found
+MODSMD_ARTICLE11: Scharfe Maßnahmen gegen Rundfunkhörer in Polen.
+Found
+MODSMD_ARTICLE12: Tokio verteidigt sein international verbürgtes Recht.
+Found
+MODSMD_ARTICLE13: Kennzahl der Großhandelspreise vom K. September.
+Found

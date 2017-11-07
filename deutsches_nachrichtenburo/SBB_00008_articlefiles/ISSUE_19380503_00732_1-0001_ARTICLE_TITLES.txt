@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Glückwünsche der Staatsoberhäupter zum 1. Mai.
+Found
+MODSMD_ARTICLE02: Der Führer zum polnischen Konstitutionsfest.
+Found
+MODSMD_ARTICLE03: Der Führer an den Präsidenten von Columbien.
+Found
+MODSMD_ARTICLE04: Staatschauspielerin Hedwig Bleibtreu.
+Found
+MODSMD_ARTICLE05: Minister Miletitsch Gast des Reichsjugendführers.
+Found
+MODSMD_ARTICLE06: Deutsch-italienische Studienstiftung gegründet.
+Found
+MODSMD_ARTICLE07: Jankowitsch über seine Eindrücke in Deutschland.
+Found
+MODSMD_ARTICLE08: Hilgenfeldt über die neuen Aufgaben der NSV.
+Found
+MODSMD_ARTICLE09: Namensänderung von Glaubensgruppen.
+Found
+MODSMD_ARTICLE10: Ein Sicherheitsdirektor Schuschniggs als Betrüger.
+Found
+MODSMD_ARTICLE11: Der Nationalfeiertag des Deutschen Volkes in England»
+Found
+MODSMD_ARTICLE12: Der tschechoslawakische Gesandte bei Halifax.
+Found
+MODSMD_ARTICLE13: Offene Worte der „Times".
+Found
+MODSMD_ARTICLE14: Italien dem Meerengenabkommen von Montreux beigetreten.
+Found

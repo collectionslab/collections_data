@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Presseempfang bei Gauleiter Bohle.
+Found
+MODSMD_ARTICLE02: Auslandsdeutsche und Seefahrer berichten.
+Found
+MODSMD_ARTICLE03: Schlag gegen das Deutschtum in Ostoberschlesien.
+Found
+MODSMD_ARTICLE04: Die Forderung des Sudetendeutschtums.
+Found
+MODSMD_ARTICLE05: Die Verstaatlichung der französischen Eisenbahnen.
+Found
+MODSMD_ARTICLE06: Streik in den Waffenwerken von St. Etienne.
+Found
+MODSMD_ARTICLE07: Das nationale Spanien lindert die Not in Santander.
+Found
+MODSMD_ARTICLE08: „Hoch die Sowjetrepublik!"
+Found
+MODSMD_ARTICLE09: Scharfer amerikanischer Protest in Nanking.
+Found
+MODSMD_ARTICLE10: Japanischer Vormarsch bei Tientsin.
+Found
+MODSMD_ARTICLE11: Chinesische Note an den Völkerbund.
+Found
+MODSMD_ARTICLE12: Ungeordneter Rückzug der Chinesen.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Molf-Hitler-Flachs-Spende.
+Found
+MODSMD_ARTICLE02: Generalprobe auf dem Bückeberg.
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Goebbels in Hannover eingetroffen.
+Found
+MODSMD_ARTICLE04: Abschluß des Internationalen Autoren-Kongresses.
+Found
+MODSMD_ARTICLE05: Abschluß der deutsch-ungarischen Besuchsfahrt.
+Found
+MODSMD_ARTICLE06: Feh antwortet Starhemberg.
+Found
+MODSMD_ARTICLE08: Die Genfer Verhandlungen Blums.
+Found
+MODSMD_ARTICLE09: Der bulgarische Nationalfeiertag.
+Found
+MODSMD_ARTICLE10: Für einen panamerikanischen Neutralitätspakt.
+Found
+MODSMD_ARTICLE11: Chinas Antwort auf die Bedingungen Japans.
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Tag der nationalen Solidarität in Verlin.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels sammelt mit seinem Töchterchen.
+Found
+MODSMD_ARTICLE03: Die „Sammelbüchsen" Hermann Görings.
+Found
+MODSMD_ARTICLE04: Rudolf Heß bei den Neuköllner Arbeitern.
+Found
+MODSMD_ARTICLE05: Und so überall alle führenden Männer sammelten.
+Found
+MODSMD_ARTICLE06: Die „Lese" der Presse.
+Found
+MODSMD_ARTICLE07: Bei Bühne und Film war es lebensgefährlich.
+Found
+MODSMD_ARTICLE08: Wie in Berlin war's im ganzen Reich.
+Found

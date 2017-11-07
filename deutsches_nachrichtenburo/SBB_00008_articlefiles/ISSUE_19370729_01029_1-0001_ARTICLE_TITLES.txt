@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Geburtstagsglückwunsch des Führers an Mussolini.
+Found
+MODSMD_ARTICLE02: Englische Reichsautobahn-Studien in Deutschland.
+Found
+MODSMD_ARTICLE03: England baut Autostraße nach deutschem Muster.
+Found
+MODSMD_ARTICLE04: Englands Flottcnbauprogramm.
+Found
+MODSMD_ARTICLE05: Genfer Regelung der Abessinienfrage im September?
+Found
+MODSMD_ARTICLE06: Neuer englischer Oberbefehlshaber in Palästina.
+Found
+MODSMD_ARTICLE07: Eden gegen Völkerbunds-Einschaltung im Fernost-Konflikt.
+Found
+MODSMD_ARTICLE08: Die Lage in China. Besprechungen bei Eden.
+Found
+MODSMD_ARTICLE09: Luftabwebrmanöver in Südfrankreich.
+Found
+MODSMD_ARTICLE10: Verschmelzungsverhandlungen der Marxisten Frankreichs.
+Found
+MODSMD_ARTICLE11: Ausländer-Ferien auf Kosten der französischen Steuerzahler.
+Found
+MODSMD_ARTICLE12: Frankreich als Umschlageplatz geheimen Waffenhandels.
+Found
+MODSMD_ARTICLE13: Erfolgreicher Kampf gegen die Arbeitslosigkeit.
+Found
+MODSMD_ARTICLE14: Neue bolschewistische Flugzeuge ausländischer Herkunft.
+Found
+MODSMD_ARTICLE15: Der nationale Heeresbericht vom Mittwoch.
+Found
+MODSMD_ARTICLE16: Französischer Protest gegen unwahre Berichterstattung.
+Found
+MODSMD_ARTICLE17: Amerika soll Luftschiffe bauen.
+Found
+MODSMD_ARTICLE18: Streik der Hotelangestellten in San Francisco beendet.
+Found
+MODSMD_ARTICLE19: Aufklärung des Verschwindens des japanischen Matrosen.
+Found
+MODSMD_ARTICLE20: Schwerer Zugunfall. 4 Opfer der Arbeit.
+Found
+MODSMD_ARTICLE21: Absturz eines Förderkorbs in einem englischen Bergwerk.
+Found
+MODSMD_ARTICLE22: Schweres Eisenbahnunglück in Japan.
+Found

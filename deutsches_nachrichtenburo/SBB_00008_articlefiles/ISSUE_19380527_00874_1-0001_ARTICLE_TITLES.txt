@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht den König von Afghanistan.
+Found
+MODSMD_ARTICLE02: Staatssekretär Tassinari im Rheinland.
+Found
+MODSMD_ARTICLE03: Ruft über die Verantwortung der deutschen Erzieher.
+Found
+MODSMD_ARTICLE04: Rothermere für deutsch-englisch-italienische Zusammenarbeit.
+Found
+MODSMD_ARTICLE05: Judengesetze auch in Polen?
+Found
+MODSMD_ARTICLE06: Sitzung des Nichteinmischnngsansschnsses.
+Found
+MODSMD_ARTICLE07: Aussprache Chambcrlams mit Gewerkschaftsvertretern.
+Found
+MODSMD_ARTICLE08: Mitteleuropareise William Strangs.
+Found
+MODSMD_ARTICLE09: Bonnet empfing den polnischen Botschafter.
+Found
+MODSMD_ARTICLE10: Verlobung des iranischen Kronprinzen.
+Found
+MODSMD_ARTICLE11: Manöver der gesamten amerikanischen Flotte.
+Found
+MODSMD_ARTICLE12: Roosevelt für Liquidierung des Chacostreites.
+Found
+MODSMD_ARTICLE13: Hüll verteidigt seine Außenhandelspolitik.
+Found

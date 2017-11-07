@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Dr. Goebbels vor den Berliner Studenten.
+Found
+MODSMD_ARTICLE02: Göring gratuliert zur 75jährigen Ehejubelfeier.
+Found
+MODSMD_ARTICLE03: Italienische und spanische Offiziere bei den Pionieren.
+Found
+MODSMD_ARTICLE04: Englische Besorgnis über die Lage in Tientsin.
+Found

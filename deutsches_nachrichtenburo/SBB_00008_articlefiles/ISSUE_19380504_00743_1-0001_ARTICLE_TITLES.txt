@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Ä. Tag des Führerbesuchs.
+Found
+MODSMD_ARTICLE02: Die Welt über des Führers Empfang. Italien«
+Found
+MODSMD_ARTICLE03: Holland.
+Found
+MODSMD_ARTICLE04: Jugoslawien.
+Found
+MODSMD_ARTICLE05: Griechenland.
+Found
+MODSMD_ARTICLE06: Nationalspanien.
+Found
+MODSMD_ARTICLE07: Eröffnung der Breslauer Messe.
+Found
+MODSMD_ARTICLE08: Ihre Namen werden der Geschichte angehören!
+Found
+MODSMD_ARTICLE09: Tie Steuererhöhung! in Frankreich.
+Found
+MODSMD_ARTICLE10: Die Unterredung zwischen dem Führer und dem Duce.
+Found
+MODSMD_ARTICLE11: Ueberraschender Ministerrat in Paris.
+Found
+MODSMD_ARTICLE12: Wochensitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE13: Dr. Heyde Staatspräsident von Eire.
+Found
+MODSMD_ARTICLE14: Dr. Ley beim griechischen König.
+Found
+MODSMD_ARTICLE15: Die Tagung der Kleinen Entente in Sinaia eröffnet.
+Found
+MODSMD_ARTICLE16: 14 Mitglieder der Destur-Partei verurteilt.
+Found

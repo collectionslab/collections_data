@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Zweite Mittags-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Admiral Kobayaschi aus Berlin abgeflogen.
+Found
+MODSMD_ARTICLE03: Nosenberg im Reichsführerlager der Hitler-Jugend.
+Found
+MODSMD_ARTICLE04: Besatzungsmitglieder des „Hindenburg" in Frankfurt.
+Found
+MODSMD_ARTICLE05: Denkmal für verunglückte Marine-SA.-Männer.
+Found
+MODSMD_ARTICLE06: Schacht zum Rückflug gestartet.
+Found
+MODSMD_ARTICLE07: Bastld über den Schacht-Besuch.
+Found
+MODSMD_ARTICLE08: Beisetzung Birger Brincks in Stockholm.
+Found
+MODSMD_ARTICLE09: Alles unter der Flagge der „Nichteinmischung"!
+Found
+MODSMD_ARTICLE10: Der EGT bringt Arbeiter aus Lohn und Brot.
+Found
+MODSMD_ARTICLE11: Die Vorfalle in der Pariser Kriegsschule.
+Found
+MODSMD_ARTICLE12: Weitere Enthüllungen des „Jour".
+Found
+MODSMD_ARTICLE13: „Air Pyrenees"-Linie Bayonne—Bilbao eingestellt.
+Found
+MODSMD_ARTICLE14: Schießereien in Bilbao.
+Found
+MODSMD_ARTICLE15: Der Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE16: Der Spanien-Bolschewift del Vayo und sein Sprachschatz.
+Found
+MODSMD_ARTICLE17: Vernehmung der Verletzten des „Hindenburg".
+Found
+MODSMD_ARTICLE18: Echo der Rede des Botschafters Dieckhoff.
+Found
+MODSMD_ARTICLE19: Streik der mexikanischen Petroleumarbeiter.
+Found
+MODSMD_ARTICLE20: 1W Tote bei dem mexikanischen Bergrutsch.
+Found

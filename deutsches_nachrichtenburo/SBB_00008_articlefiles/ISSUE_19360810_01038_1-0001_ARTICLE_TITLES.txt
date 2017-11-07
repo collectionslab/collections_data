@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ter Standort der deutschen Kriegschiffe.
+Found
+MODSMD_ARTICLE02: Abbeförderung weiterer deutscher Flüchtlinge.
+Found
+MODSMD_ARTICLE03: Auch die „Schleswig" geht als Hilfsschiff nach Spanien.
+Found
+MODSMD_ARTICLE04: Die deutschen Opfer des Bürgerkrieges in Spanien.
+Found
+MODSMD_ARTICLE05: Treuhänder der Arbeit für Schlesien und Niedersachsen.
+Found
+MODSMD_ARTICLE06: Wolf-Hitler Marsch der HJ.
+Found
+MODSMD_ARTICLE07: „Graf Zeppelin" zurück.
+Found
+MODSMD_ARTICLE08: Beisetzung der Asche Dr. Ammendes.
+Found
+MODSMD_ARTICLE09: Gömbös zur Politik Ungarns. Spanien eine Warnung.
+Found
+MODSMD_ARTICLE10: 5. Landtag der Dinaso-Bewegung in Brügge.
+Found
+MODSMD_ARTICLE11: Die Ermordung des Mufti von Algier.
+Found
+MODSMD_ARTICLE12: Die Regierung Giral zurückgetreten?
+Found
+MODSMD_ARTICLE13: Streitigkeiten unter den Marxisten in Barcelona?
+Found
+MODSMD_ARTICLE14: Vor der Einnahme von Badajoz durch die Nationalisten?
+Found
+MODSMD_ARTICLE15: „Temps" meldet weitere Erfolge der Nationalisten.
+Found
+MODSMD_ARTICLE16: Sanktionsgedenktafeln in Italien.
+Found
+MODSMD_ARTICLE17: 14KK Araber huldigen dem Vizekönig in Addis Abeba»
+Found
+MODSMD_ARTICLE18: Verschwörung gegen den japanischen Kriegsminister.
+Found
+MODSMD_ARTICLE19: Blutiger Kampf mit Schmugglern: 25 Tote.
+Found

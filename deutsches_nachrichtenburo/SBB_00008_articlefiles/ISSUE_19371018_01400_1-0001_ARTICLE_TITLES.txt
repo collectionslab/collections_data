@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Baldur von Schirach weiht Jugendherbergen.
+Found
+MODSMD_ARTICLE02: Sudetendeutsche Veranstaltung aufgelöst.
+Found
+MODSMD_ARTICLE03: Weihe einer Feierstätte durch Alfred Rosenberg.
+Found
+MODSMD_ARTICLE04: Uebungsfahrt des französischen Mittelmeergeschwaders.
+Found
+MODSMD_ARTICLE05: Italienischer Vorschlag als Verhandlungsgrundlage?
+Found
+MODSMD_ARTICLE06: Ausdehnung des Lodzer Textilstreiks.
+Found
+MODSMD_ARTICLE07: Die Bluturteile werden fortgesetzt.
+Found
+MODSMD_ARTICLE08: Der Großmufti von Jerusalem in Syrien.
+Found
+MODSMD_ARTICLE09: Schweres Grubenunglück in Amerika.
+Found

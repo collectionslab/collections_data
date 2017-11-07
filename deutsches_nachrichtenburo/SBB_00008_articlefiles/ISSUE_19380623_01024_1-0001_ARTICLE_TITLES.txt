@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Rudolf Heß bei der Alten Garde.
+Found
+MODSMD_ARTICLE02: Der Chef der bulgarischen Luftwaffe besucht Deutschland.
+Found
+MODSMD_ARTICLE03: Ministerialrat Ziaja zum Ministerialdirigenten ernannt.
+Found
+MODSMD_ARTICLE04: Die Internationale Verkehrsansstellung Köln 194 V.
+Found
+MODSMD_ARTICLE05: Reichscrzielinngsininister Ruft in Köln.
+Found
+MODSMD_ARTICLE06: Der 12. Internationale Verlegerkongrest.
+Found
+MODSMD_ARTICLE07: Lammers eröffnet die Junsbrucker Verwaltungsakadrune.
+Found
+MODSMD_ARTICLE08: Neichsführer SS. Himmler in Graz.
+Found
+MODSMD_ARTICLE09: Verheerende Folgen der Prager militärischen Maßnahmen.
+Found
+MODSMD_ARTICLE10: Todesstrafe für Autoräuber!
+Found
+MODSMD_ARTICLE11: Drei tschechische Militärapparate abgestürzt.
+Found
+MODSMD_ARTICLE12: Rücktritt der Internationalen Sandschakkommission?
+Found
+MODSMD_ARTICLE13: Schwerer Zusammenstoß im Sandschak.
+Found
+MODSMD_ARTICLE14: Verschärfte Kontrolle der japanischen Kriegswirtschaft.
+Found
+MODSMD_ARTICLE15: Schmelmg doch ernstlicher verletzt.
+Found

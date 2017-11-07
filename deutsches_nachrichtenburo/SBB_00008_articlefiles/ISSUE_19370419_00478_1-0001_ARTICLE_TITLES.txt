@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: General der Artillerie von Gallwitz f.
+Found
+MODSMD_ARTICLE02: Beileid Streichers zur Ermordung Riedles.
+Found
+MODSMD_ARTICLE03: Wiener Reichsdeutsche feiern Geburtstag des Führers.
+Found
+MODSMD_ARTICLE04: Sudetendeutsche Partei und „Ausgleichs"-Verhandlungeu.
+Found
+MODSMD_ARTICLE05: Der Nachfolger Sebas ernannt.
+Found
+MODSMD_ARTICLE06: Prinz Nikolaus Nikolaus Braua.
+Found
+MODSMD_ARTICLE07: Amery über die Folgen des Bevölkerungsrückganges.
+Found
+MODSMD_ARTICLE08: Der Dekan von Canterbury für den Bolschewismus!
+Found
+MODSMD_ARTICLE09: Katholische Sozialpartei in Belgien gegründet.
+Found
+MODSMD_ARTICLE10: Polnisches Schriftleitergesetz in Vorbereitung.
+Found
+MODSMD_ARTICLE11: Polnischer Reservistenverband gegen die Kommunisten.
+Found
+MODSMD_ARTICLE12: Der nationale Heeresbericht vom Sonntag.
+Found
+MODSMD_ARTICLE13: Unteredung Francas mit Großwesir Abd el Kader.
+Found
+MODSMD_ARTICLE14: Die nationale Blockade bewährt sich.
+Found
+MODSMD_ARTICLE15: Bolschewistischer Dampfer auf Grund gelaufen.
+Found
+MODSMD_ARTICLE16: Zusammenfassung aller nationalen Freiwilligenverbände.
+Found
+MODSMD_ARTICLE17: Immer neue Sowjetminen in türkischen Gewässern.
+Found
+MODSMD_ARTICLE18: Ansprache Dr. Luthers in Washington.
+Found
+MODSMD_ARTICLE19: Noch keine Gewißheit über das Schicksal Filchners.
+Found
+MODSMD_ARTICLE20: Syrien hofft auf Frankreichs Hilfe in der Sandschak-Frage.
+Found

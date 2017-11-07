@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Auch eine karpatho-ukrainische Regierung.
+Found
+MODSMD_ARTICLE02: Tie Geschäftsbereiche der slowakischen Minister.
+Found
+MODSMD_ARTICLE03: Eine Proklamation der slowakischen Regierung.
+Found
+MODSMD_ARTICLE04: Belgrad über die Zukunft Prags.
+Found
+MODSMD_ARTICLE05: Italiens Außenpolitik vor dem Großen Rat des Faschismus.
+Found
+MODSMD_ARTICLE06: Rom zur Heimschaffung der italienischen Freiwilligen.
+Found
+MODSMD_ARTICLE07: Die Znriickbeförderung der italienischen Freiwilligen.
+Found
+MODSMD_ARTICLE08: Wieder Krach bei den spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE09: Das englische Königspaar besucht Kanada.
+Found
+MODSMD_ARTICLE10: Londoner Ballonsperre praktisch vorgeführt.
+Found
+MODSMD_ARTICLE11: Der nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE12: Jüdische Devisenschieber in Lettland verurteilt.
+Found
+MODSMD_ARTICLE13: Funk beim türkischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE14: Dr. Ley vor der Presse in Sofia.
+Found
+MODSMD_ARTICLE15: Belgrader „Prawda" erscheint wieder.
+Found
+MODSMD_ARTICLE16: Diplomatenempfang bei Stojadinowitsch.
+Found
+MODSMD_ARTICLE17: Japanische Offiziere an Bord des „Wilhelm Gnstlofs".
+Found

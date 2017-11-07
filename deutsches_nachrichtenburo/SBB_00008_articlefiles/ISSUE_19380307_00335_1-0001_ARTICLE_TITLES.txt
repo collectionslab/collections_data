@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Filmball in Berlin.
+Found
+MODSMD_ARTICLE02: Dr. Frank vor den Führern der deutschen Anwaltschaft. –
+Not Found
+MODSMD_ARTICLE03: Die erste Tagung der Polen in Deutschland.
+Found
+MODSMD_ARTICLE04: Auftakt der Werbung für das deutsche Fachbuch.
+Found
+MODSMD_ARTICLE05: Wörterbuch des Schnupfens.
+Found
+MODSMD_ARTICLE06: Sowjetische Beruhigungpillen für die Nationalitäten.
+Found
+MODSMD_ARTICLE07: Die „verirrten" Sowjetflieger in Estland.
+Found
+MODSMD_ARTICLE08: Der Kreuzer „Baleares" in Nammen.
+Found
+MODSMD_ARTICLE09: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE10: Mexiko leistet Rotspanien jede Hilfe.
+Found
+MODSMD_ARTICLE11: Granatexplosion enthüllt Munitionsverschiebung.
+Found
+MODSMD_ARTICLE12: Besuch italienischer Kriegsschiffe in Lissabon.
+Found

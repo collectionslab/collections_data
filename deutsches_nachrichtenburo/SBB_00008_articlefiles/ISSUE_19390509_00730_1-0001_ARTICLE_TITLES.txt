@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Schweden lernen Deutschland kennen.
+Found
+MODSMD_ARTICLE02: Ernennung in der Reichsstelle für Raumordnung.
+Found
+MODSMD_ARTICLE03: Dr. Ley über das Verhältnis von Partei und Staat.
+Found
+MODSMD_ARTICLE04: Die Jugendorganisation in Prag.
+Found
+MODSMD_ARTICLE05: Der Reichsaußenminister auf der Rückreise.
+Found
+MODSMD_ARTICLE06: Schicksalsgemeinschaft der Achsenmächte.
+Found
+MODSMD_ARTICLE07: „Pester Lloyd" zu den Mailänder Beschlüssen.
+Found
+MODSMD_ARTICLE08: Londons „Gegenvorschlag".
+Found
+MODSMD_ARTICLE09: „Der britische Generalstab gehört in ein Irrenhaus."
+Found
+MODSMD_ARTICLE10: Reservisteuentlassungen in Belgien.
+Found
+MODSMD_ARTICLE11: Die Befestigung der Alandsinseln.
+Found
+MODSMD_ARTICLE12: Japanische Offensive bei Hankau.
+Found

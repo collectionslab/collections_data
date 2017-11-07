@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Ley zur ersten Reichsstraßensammlung des WHW.
+Found
+MODSMD_ARTICLE02: Neichsstette für Garten- und Weinbauerzeugnisse.
+Found
+MODSMD_ARTICLE03: Staatssekretär Milch in Rom.
+Found
+MODSMD_ARTICLE04: Deutscher Gesandter überreicht sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE05: Der KanUer der deutschen Gesandtschaft in Kopenhagen 1a
+Found
+MODSMD_ARTICLE06: Tegrelle fordert erneut den Rücktritt Jaspars.
+Found
+MODSMD_ARTICLE07: Frühstück bei Delbos zu Ehren des Oberst Beck.
+Found
+MODSMD_ARTICLE08: Pariser Diskontsenkung um v. H. auf 2v. H.
+Found
+MODSMD_ARTICLE09: Gegen den Preiswucher in Frankreich.
+Found
+MODSMD_ARTICLE10: Ein englisches Dementi gegen die Pariser Anklagen.
+Found
+MODSMD_ARTICLE11: England und der neue belgische Kurs.
+Found
+MODSMD_ARTICLE12: General Francs fordert bedingungslose Uebergabe Madrids.
+Found
+MODSMD_ARTICLE13: Tie roten Greueltaten in Spanien.
+Found
+MODSMD_ARTICLE14: Religiöse Unruhen in Bombay.
+Found

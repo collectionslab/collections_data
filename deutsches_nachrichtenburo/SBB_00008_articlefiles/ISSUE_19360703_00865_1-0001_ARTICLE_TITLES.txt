@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Zehuzahrfeier des Neichsparteitages in Weimar.
+Found
+MODSMD_ARTICLE02: Die Ankunft des Führers.
+Found
+MODSMD_ARTICLE03: Der Fahrer des Führers.
+Found
+MODSMD_ARTICLE04: „Letzter Appell" vorolympische Rundfunksendung.
+Found
+MODSMD_ARTICLE05: Gcbietsführer Schulze in Polen.
+Found
+MODSMD_ARTICLE06: Der Prozeß gegen die Franziskauerbrüder.
+Found
+MODSMD_ARTICLE07: Sudetendeutsche Antwort an Hodscha.
+Found
+MODSMD_ARTICLE08: Der Danziger Senatspräsident nach Genf abgereist.
+Found
+MODSMD_ARTICLE09: Vor einer Vollsitzung in Montreux.
+Found
+MODSMD_ARTICLE10: Die Genfer Rede des französischen Außenministers.
+Found
+MODSMD_ARTICLE11: Die organisatorische Umbildung des Pariser Kabinetts.
+Found
+MODSMD_ARTICLE12: Kommunistischer Antrag im spanischen Parlament.
+Found
+MODSMD_ARTICLE13: Spanische Landarbeiter im Streik.
+Found
+MODSMD_ARTICLE14: Streik auf einem weiteren spanischen Ozeandampfer.
+Found
+MODSMD_ARTICLE15: Die Entscheidung im Tennis-Spiel in Wimbledon.
+Found

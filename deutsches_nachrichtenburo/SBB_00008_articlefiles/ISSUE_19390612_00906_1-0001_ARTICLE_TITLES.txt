@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Dr. Todt über die Stärke des Westwalls.
+Found
+MODSMD_ARTICLE02: Abreise Dr. Fricks aus Budapest.
+Found
+MODSMD_ARTICLE03: Polen stürzten ein deutsches Denkmal.
+Found
+MODSMD_ARTICLE04: Deutsche sind in Polen rechtlos.
+Found
+MODSMD_ARTICLE05: Wer dem Terror entrinnen will, wird erschossen.
+Found
+MODSMD_ARTICLE06: Spaniens Freundschaft zu Deutschland und Italien.
+Found
+MODSMD_ARTICLE07: Hollands Presse rechnet mit Kabinettskrise.
+Found

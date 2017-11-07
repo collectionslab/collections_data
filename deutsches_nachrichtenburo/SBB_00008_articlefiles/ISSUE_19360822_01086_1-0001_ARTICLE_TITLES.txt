@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Das bulgarische Königspaar aus Berlin abgereist.
+Found
+MODSMD_ARTICLE02: Gisela Mauermayer Studienrätin in München.
+Found
+MODSMD_ARTICLE03: Statistik über die Grnndbesitzvertcilung.
+Found
+MODSMD_ARTICLE04: Hundert Hitler Jungen im „Campo Mussolini".
+Found
+MODSMD_ARTICLE05: Abschluß der Filmkammer-Tagung in Venedig.
+Found
+MODSMD_ARTICLE06: Der französische Botschafter in London bei Delbos.
+Found
+MODSMD_ARTICLE07: „Echo de Paris" stellt Bruch der Neutralitätserklärung fest.
+Found
+MODSMD_ARTICLE09: Spanisches Flugzeug in Nizza beschlagnahmt.
+Found
+MODSMD_ARTICLE10: Nationalistische Verstärkungen für die Guadarrama-Front.
+Found
+MODSMD_ARTICLE11: Verzweifelte Lage der Roten in Gijon.
+Found
+MODSMD_ARTICLE12: Madrider Kriegsminister gegen Etappen-Helden.
+Found
+MODSMD_ARTICLE13: Protestnote der Regierung von Burgos.
+Found
+MODSMD_ARTICLE14: Kinder als Geiseln der Marxisten.
+Found
+MODSMD_ARTICLE15: Marxisten-Beratungen in Paris.
+Found
+MODSMD_ARTICLE16: Englische Stimmen zur Antwort Italiens.
+Found
+MODSMD_ARTICLE17: Portes Gil zurückgetreten.
+Found
+MODSMD_ARTICLE18: Fortdauer der Moskauer lustizkomödie.
+Found
+MODSMD_ARTICLE19: „Gazeta Polska" über den Moskauer Prozeß.
+Found

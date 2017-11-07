@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Gronau in Kairo gelandet.
+Found
+MODSMD_ARTICLE02: Jüdischer Emigrant Professor für Kindererziehung.
+Found
+MODSMD_ARTICLE03: Italiens Presse vom Irontkämpferkongreß befriedigt.
+Found
+MODSMD_ARTICLE04: „Giornale d'ltalia" gegen neuen „Wetilauf zur See".
+Found
+MODSMD_ARTICLE05: Unhaltbares Vorgehen lokaler Behörden in Oesterreich.
+Found
+MODSMD_ARTICLE06: Freiwilligenverbot soll am Montag in Kraft treten.
+Found
+MODSMD_ARTICLE07: Die Freitag-Sitzung des Londoner Unterausschusses.
+Found
+MODSMD_ARTICLE08: Freiwilligen-Verbote.
+Found
+MODSMD_ARTICLE09: Wiederaufbau im befreiten Malaga.
+Found
+MODSMD_ARTICLE10: Noch 89 bis Almena.
+Found
+MODSMD_ARTICLE11: Moses Rosenberg aus Valencia zurückgerufen. ,
+Found
+MODSMD_ARTICLE12: Bolschewisten beschießen Flugzeug mit Rotkreuzvertreter.
+Found
+MODSMD_ARTICLE13: Bäckerstreik in Besau?on.
+Found
+MODSMD_ARTICLE14: Der französische Nachrichten- und Propaganda-Apparat.
+Found
+MODSMD_ARTICLE15: Vincent-Auriol denkt nicht an Rücktritt.
+Found
+MODSMD_ARTICLE16: Wahlzuwachs der Kongreß-Partei in Britifch-Andien.
+Found

@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Deutsche Erklärung zum Fall Weigel.
+Found
+MODSMD_ARTICLE02: Die Errichtung der Reichstierärztekammer.
+Found
+MODSMD_ARTICLE03: Devisenschiebungen und Meineide hoher Ordensgeistlicher.
+Found
+MODSMD_ARTICLE04: Klosterschullehrer als Jugendverderber.
+Found
+MODSMD_ARTICLE05: Die Fahrt der Alten Garde durch Masuren.
+Found
+MODSMD_ARTICLE06: Dr. Schacht bei der Deutschen Handelskammer in Wien.
+Found

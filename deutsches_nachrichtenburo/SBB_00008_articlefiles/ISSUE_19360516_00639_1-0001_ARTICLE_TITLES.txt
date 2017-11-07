@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Kührer bei dem erkrankten SS-Brigadesührer Schreck.
+Found
+MODSMD_ARTICLE02: Neugliederung des Auswärtigen Amtes.
+Found
+MODSMD_ARTICLE03: Amerikaner und Deutsche feiern den Nordatlantikflug.
+Found
+MODSMD_ARTICLE04: Das „Kärntner Kreuz" wird nicht mehr verliehen.
+Found
+MODSMD_ARTICLE05: Neues Dornier-Nugboot für den Transozeanpostverkehr.
+Found
+MODSMD_ARTICLE06: Deutsche Zeitschriftenverleger in Ungarn.
+Found
+MODSMD_ARTICLE07: Das voraussichtliche neue Kabinett in Polen.
+Found
+MODSMD_ARTICLE08: Tie Gründe für den Kabinettswechsel in Polen.
+Found
+MODSMD_ARTICLE09: Britischer Protestschritt in Wien.
+Found
+MODSMD_ARTICLE10: Der Versicherungsskandal in England.
+Found
+MODSMD_ARTICLE11: Die Erwerbslosigkeit in Großbritannien.
+Found
+MODSMD_ARTICLE12: Amtlicher Besuch des britischen Gesandten bei Badoglio.
+Found
+MODSMD_ARTICLE13: Abessinische Heerführer ans dem Wege nach Palästina.
+Found
+MODSMD_ARTICLE14: Mifsionarinnen in den Händen abessinischer Banditen.
+Found
+MODSMD_ARTICLE15: Die englisch-sowjetischen Flottenverhandlungen.
+Found
+MODSMD_ARTICLE16: Tiplomatenempfänge bei Mussolini.
+Found
+MODSMD_ARTICLE17: Notifizierung über die Annexion Abessiniens.
+Found
+MODSMD_ARTICLE18: Eine außenpolitische Rede Leon Blums.
+Found
+MODSMD_ARTICLE19: Der Austritt Guatemalas aus dem Völkerbund.
+Found

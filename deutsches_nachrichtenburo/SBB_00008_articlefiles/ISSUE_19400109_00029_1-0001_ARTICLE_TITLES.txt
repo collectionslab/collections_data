@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Auslandswissenschaftliche Fakultät in Berlin.
+Found
+MODSMD_ARTICLE02: Diesmal muß der Franzose selbst bezahlen.
+Found
+MODSMD_ARTICLE03: Geheimsitzung des Storting.
+Found
+MODSMD_ARTICLE04: Die Lebensmittelteuerung in Norwegen.
+Found
+MODSMD_ARTICLE05: „Zahlreiche Unsicherheiten."
+Found
+MODSMD_ARTICLE06: Futtermiktelpreise in England um 59 pH. gestiegen.
+Found
+MODSMD_ARTICLE07: Peinliche Fragen an Mr. Chamberlain.
+Found
+MODSMD_ARTICLE08: Die Todeszone um England.
+Found
+MODSMD_ARTICLE09: Jetzt hat er eine Idee, der ausgebootete britische Zensor.
+Found
+MODSMD_ARTICLE10: Englischer Dampfer gesunken.
+Found
+MODSMD_ARTICLE11: „Englands Luftschutz muß auf der Hut sein."
+Found
+MODSMD_ARTICLE12: Rohstoffmangel in der französischen Papierindustrie.
+Found
+MODSMD_ARTICLE13: Russischer Bombenangriff auf den Hasen von Abo.
+Found
+MODSMD_ARTICLE14: England soll die alten Kriegsschulden zahlen.
+Found
+MODSMD_ARTICLE15: „USA. sollen Englands Kastanien aus dem Feuer holen."
+Found
+MODSMD_ARTICLE16: Amerika erstrebt die Herrschaft über die Meere.
+Found

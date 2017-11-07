@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die Haupttagungen des Reichsbauerntages.
+Found
+MODSMD_ARTICLE02: Schaffendes Volk treibt Leibesübungen.
+Found
+MODSMD_ARTICLE03: Prinz Johann Georg von Sachsen gestorben.
+Found
+MODSMD_ARTICLE04: 60 000 Arbeiter streiken in Paris.
+Found
+MODSMD_ARTICLE05: Reinigung des Anwaltsstandes in der Slowakei.
+Found
+MODSMD_ARTICLE06: Nationale Flieger bombardieren Barcelona.
+Found
+MODSMD_ARTICLE07: Das Soziale Hilfswerk in Nationalspanien.
+Found
+MODSMD_ARTICLE08: Nationalspamsche Presse gegen die Feinde des Weltfriedens.
+Found
+MODSMD_ARTICLE09: Roosevelt für Vermehrung der Einwanderung nach Palästina.
+Found

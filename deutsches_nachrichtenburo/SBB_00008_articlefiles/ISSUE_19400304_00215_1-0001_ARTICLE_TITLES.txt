@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Sumner Melles aus Berlin abgereist.
+Found
+MODSMD_ARTICLE02: Abschied Sano Muchs von Berlin.
+Found
+MODSMD_ARTICLE03: Großer Eindruck der Kriegsbilanz in Italien.
+Found
+MODSMD_ARTICLE04: Mailand: „Der Geist wird über das Geld siegen".
+Found
+MODSMD_ARTICLE06: Die italienische Protestnote überreicht.
+Found
+MODSMD_ARTICLE07: „Tevere" über das plutokratische Hazardspiel.
+Found
+MODSMD_ARTICLE08: „Prawda" betont den Mißerfolg der Westmächte.
+Found
+MODSMD_ARTICLE09: Veränderungen in den Kommandostellen der Honved.
+Found
+MODSMD_ARTICLE10: Katastrophaler Rückgang des Amsterdamer Hafenverkehrs.
+Found
+MODSMD_ARTICLE11: MacDonald und die Menschenfresser.
+Found
+MODSMD_ARTICLE12: Jrenaufstand in einem englischen Gefängnis.
+Found
+MODSMD_ARTICLE13: Auf der Suche nach neuem Kanonenfutter.
+Found
+MODSMD_ARTICLE14: Englischer Dampfer gesunken.
+Found
+MODSMD_ARTICLE15: Keine Todeskandidaten mehr für die Englandfahrt.
+Found
+MODSMD_ARTICLE16: Der finnische Heeresbericht.»
+Found
+MODSMD_ARTICLE17: Rückzug der Finueu auf die dritte Verteidigungslinie.
+Found
+MODSMD_ARTICLE18: Jugoslawische Arbeiter als Opfer der Plutokratenclique.
+Found
+MODSMD_ARTICLE19: Politisches Attentat in Havanna.
+Found

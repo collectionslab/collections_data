@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Aga Khan besichtigt das Reichssportfeld.
+Found
+MODSMD_ARTICLE03: Beileid des Reichsministers Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: Hilfsmaßnahmen für die Opfer auf Zeche „Nordstern".
+Found
+MODSMD_ARTICLE05: Fast sieben Millionen Besucher!
+Found
+MODSMD_ARTICLE06: Abschied der KdF.-Urlauber von Florenz.
+Found
+MODSMD_ARTICLE07: Weitere italienische Truppen nach Libyen.
+Found
+MODSMD_ARTICLE08: Bundespräsident Miklas 65 Jahre alt.
+Found
+MODSMD_ARTICLE09: Ministerrat in Brüssel.
+Found
+MODSMD_ARTICLE10: Die Rajndstaaten-Reise des Handelsministers Roman beendet»
+Found
+MODSMD_ARTICLE11: Polen zum deutsch-belgischen Notenaustausch.
+Found
+MODSMD_ARTICLE12: Polens Jugend und der Staat.
+Found
+MODSMD_ARTICLE13: Der „Sitzstreik" der jüdischen Studenten in Warschau.
+Found
+MODSMD_ARTICLE14: Rydz-Smigly fährt nach Bukarest.
+Found
+MODSMD_ARTICLE15: Textilarbeiterstreik in Lodz.
+Found
+MODSMD_ARTICLE16: Sofortige Zurückziehung eines Teiles der Freiwilligen?
+Found
+MODSMD_ARTICLE17: Straßenbahn enteignet, weil sie Streik nicht beenden konnte.
+Found
+MODSMD_ARTICLE18: Ueble Tendenzmache Tibor von Eckhardts.
+Found
+MODSMD_ARTICLE19: Sowjetspanisch-chinesische Verbrüderung in Valencia!
+Found
+MODSMD_ARTICLE20: Amerikanische Anerkennung für die Reichsautobahnen.
+Found
+MODSMD_ARTICLE21: „Austerordentlicher Beraterstab" in Japan eingesetzt.
+Found

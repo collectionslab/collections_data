@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers für Seldte.
+Found
+MODSMD_ARTICLE02: Der neue Oberreichsanwalt am Volksgerichtshof.
+Found
+MODSMD_ARTICLE03: Beileidstelegramm Görings.
+Found
+MODSMD_ARTICLE04: Der neuseeländische Minister Langstone in Berlin.
+Found
+MODSMD_ARTICLE05: Besuch des Gesundheitsministers von Neu-Süd-Wales.
+Found
+MODSMD_ARTICLE06: Funk über den deutschen Finanz- und Wirtschaftskurs.
+Found
+MODSMD_ARTICLE07: Prof. Bahlen Präsident der Preußischen Akademie.
+Found
+MODSMD_ARTICLE08: General Halder beim finnischen Außenminister.
+Found
+MODSMD_ARTICLE09: Die Einkreisungspolitik gefährdet auch den Norden.
+Found
+MODSMD_ARTICLE10: Umbildung der norwegischen Regierung.
+Found
+MODSMD_ARTICLE11: Englands Spiel längst durchschaut.
+Found
+MODSMD_ARTICLE12: Paris schiebt Warschau vor.
+Found
+MODSMD_ARTICLE13: Butler muß Hetzmeldungen dementieren.
+Found
+MODSMD_ARTICLE14: Kolonisiert wie wir in Indien und Palästina. . .!
+Found
+MODSMD_ARTICLE15: Bombenanschlag auf ein arabisches Cafe in Jerusalem.
+Found
+MODSMD_ARTICLE16: Gegen die Verschacherung des Sandschaks.
+Found
+MODSMD_ARTICLE17: Erfolgreiche japanische Säuberungsaktionen.
+Found
+MODSMD_ARTICLE18: „Versailles der Inbegriff von Brutalität."
+Found
+MODSMD_ARTICLE19: Die Reichskennzahl für die Lebenshaltungskosten im Juni.
+Found

@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Mit Bekämpfung der Maul- und Klauenseuche beauftragt.
+Found
+MODSMD_ARTICLE02: Der Internationale Flug Zum Hoggar-Gebirge.
+Found
+MODSMD_ARTICLE03: Auch Prag gegen Zuwanderung von Juden ans Rumänien?
+Found
+MODSMD_ARTICLE04: Litauen siedelt Litauer an Polens Grenze an.
+Found
+MODSMD_ARTICLE05: Litauischer Verein in Wilna aufgelöst.
+Found
+MODSMD_ARTICLE06: Der schwedische Gesandte Boheman verläßt Warschau.
+Found
+MODSMD_ARTICLE07: Die Motorisierung der englischen Armee.
+Found
+MODSMD_ARTICLE08: Das Herzogspaar von Kent nach Athen abgereist.
+Found
+MODSMD_ARTICLE09: Brand auf einem englischen Kreuzer.
+Found
+MODSMD_ARTICLE10: Diskontermäßigung in Norwegen.
+Found
+MODSMD_ARTICLE11: Französischer General gestorben.
+Found
+MODSMD_ARTICLE12: Der kommunistische Streikterror in Paris.
+Found
+MODSMD_ARTICLE13: Zunehmende Streikbewegung im Hafen von Ronen.
+Found
+MODSMD_ARTICLE14: Matin über „Bedrohung Ostsibiriens durch Japan".
+Found
+MODSMD_ARTICLE15: „Gazzetta del Popolo" kritisiert Roosevelts Rede.
+Found
+MODSMD_ARTICLE16: Elf bolschewistische Flugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE17: Verbundenheit Spanisch-Marokkos mit Nationalspanien.
+Found
+MODSMD_ARTICLE18: Moskau erzieht seine Jugend zu GPU-Spürhunden.
+Found
+MODSMD_ARTICLE19: Wieder 17 Todesurteile in Sowjetrußland.
+Found
+MODSMD_ARTICLE20: Scharfe Sprache Moskaus gegen Polen.
+Found
+MODSMD_ARTICLE21: Ein Schritt gegen die Arbeitslosigkeit in USA.
+Found
+MODSMD_ARTICLE22: Die amerikanische Staatsschuld.
+Found
+MODSMD_ARTICLE23: Kufau besetzt.
+Found

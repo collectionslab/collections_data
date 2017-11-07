@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Das Urteil im deutsch-litauischen Schiedsverfahren.
+Found
+MODSMD_ARTICLE02: Ministerialrat Dr. Seeger 's.
+Found
+MODSMD_ARTICLE03: Neue Volksdeutsche Preise.
+Found
+MODSMD_ARTICLE04: Beisammensein deutscher und japanischer Jugejndführer.
+Found
+MODSMD_ARTICLE05: Die japanischen Jugendführer in Düsseldorf.
+Found
+MODSMD_ARTICLE06: Dr. Leys Dank.
+Found
+MODSMD_ARTICLE07: Die deutschen Kriegsschiffe aus Livorno ausgelaufen.
+Found
+MODSMD_ARTICLE08: Admiral Carls in Gibraltar.
+Found
+MODSMD_ARTICLE09: Die Londoner Presse zu den Ministerbeschlüssen.
+Found
+MODSMD_ARTICLE10: Mißbrauchte Gastfreundschaft.
+Found
+MODSMD_ARTICLE11: Geraubte spanische Kunstgegenstände gefunden.
+Found
+MODSMD_ARTICLE12: Noch keine Aufklärung des Ilstaschi-Attentats in Paris.
+Found
+MODSMD_ARTICLE13: General Francs ernennt Militärgouverneur für Biscaya.
+Found
+MODSMD_ARTICLE14: Botschaft des Bundesrates über die Verfassungsgesetze.
+Found
+MODSMD_ARTICLE15: Die Lage auf Mauritius.
+Found
+MODSMD_ARTICLE16: Zahlreiche Japaner getötet.
+Found
+MODSMD_ARTICLE17: Chinesische Truppenkonzentration bei Tsingtau.
+Found
+MODSMD_ARTICLE18: Glückwunsch zum Freundschastsvertrag des Orients.
+Found
+MODSMD_ARTICLE19: Die Reorganisation des Washingtoner Statedepartments.
+Found
+MODSMD_ARTICLE20: Neuer Landwirtschastsminister in Mexiko.
+Found

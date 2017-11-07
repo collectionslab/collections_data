@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Bundeskanzler Dr. Schuschnigg wieder in Wien.
+Found
+MODSMD_ARTICLE02: Abreise Dr. Pfundtjners aus Budapest.
+Found
+MODSMD_ARTICLE03: Gegenbesuch des polnischen Staatspräsidenten in Budapest.
+Found
+MODSMD_ARTICLE04: Polens Wehrmacht soll von Juden gesäubert werden.
+Found
+MODSMD_ARTICLE05: Schläge „unter Brüdern" im Warschauer Judenviertel.
+Found
+MODSMD_ARTICLE06: Der Kownoer Sowjetgesandte Podolski erschossen.
+Found
+MODSMD_ARTICLE07: Konferenz der belgischen Diplomaten.
+Found
+MODSMD_ARTICLE08: Französische Rechtsparteien gegen den Weltfeind.
+Found
+MODSMD_ARTICLE09: Bildung einer Splittergruppe in Paris.
+Found
+MODSMD_ARTICLE10: Bolschewistenflugzeuge mit nationalspanischen Zeichen.
+Found
+MODSMD_ARTICLE11: „Gesellschaft der Freunde Japans" in Italien gegründet.
+Found
+MODSMD_ARTICLE12: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE13: Nationalspanische Erfolge an der Estremadura-Front.
+Found
+MODSMD_ARTICLE14: Barcelona gegen die bolschewistischen Machthaber.
+Found
+MODSMD_ARTICLE15: Aufforstung in Nationalspanien.
+Found
+MODSMD_ARTICLE16: Tagung der Balkan-Entente Ende Februar.
+Found
+MODSMD_ARTICLE17: Beschlüsse des rumänischen Mimsterrats.
+Found
+MODSMD_ARTICLE18: London dementiert Gerüchte über Kabinettskrise.
+Found
+MODSMD_ARTICLE19: London verschließt sich japanischem Entgegenkommen.
+Found
+MODSMD_ARTICLE20: Zusatzantrag zum amerikanischen Aufrüstungsgesetz.
+Found
+MODSMD_ARTICLE21: Fährboot vor Sydney gekentert. 15 Personen ertrunken.
+Found

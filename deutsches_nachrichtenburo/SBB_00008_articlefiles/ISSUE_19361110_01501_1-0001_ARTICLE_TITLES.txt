@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht König und Kaiser Viktor Emanuel.
+Found
+MODSMD_ARTICLE02: W Jahre Verein Mitteleuropäischer Eisenbahnverwaltungen.
+Found
+MODSMD_ARTICLE03: Himmlers Lob für den Polizeisport.
+Found
+MODSMD_ARTICLE04: Beileidstelegramm Bohles an die Hapag.
+Found
+MODSMD_ARTICLE05: Neichsappell des Bergbaues zur Uusallverhütungswoche.
+Found
+MODSMD_ARTICLE06: Tie Entwicklung des Arbeitseinsatzes im Oktober 193 k.
+Found
+MODSMD_ARTICLE07: Wieder spanisches Generalkonsulat in Hamburg.
+Found
+MODSMD_ARTICLE08: Wieder polnische Deutschenhetze.
+Found
+MODSMD_ARTICLE09: Die Möglichkeit einer englisch-italienischen Vereinbarung.
+Found
+MODSMD_ARTICLE10: Englands Geschäftsträger soll in Madrid bleiben.
+Found
+MODSMD_ARTICLE11: Prozeh gegen den Mörder Gustloffs am 9. Dezember, v
+Found
+MODSMD_ARTICLE12: Mucht der Bonzen aus Madrid.
+Found
+MODSMD_ARTICLE13: „Gazeta Polska" zu den Unterredungen Becks in London«
+Found
+MODSMD_ARTICLE14: Katastrophale Dürre in Sowjetrusiland.
+Found

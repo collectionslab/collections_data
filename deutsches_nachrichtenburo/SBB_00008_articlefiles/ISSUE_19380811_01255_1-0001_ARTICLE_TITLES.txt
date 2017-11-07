@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Tschechische Aufrüstung auf Kosten der Arbeitslosen.
+Found
+MODSMD_ARTICLE02: Der Pittsburger Vertrag wieder unterwegs nach Amerika.
+Found
+MODSMD_ARTICLE03: Polenseindliche Kundgebungen in Kowno.
+Found
+MODSMD_ARTICLE04: Kollektiv-Bauern vernichten ihre Ernte.
+Found
+MODSMD_ARTICLE05: Sowjetrussischer Staatshaushalt im Zeichen der Ausrüstung.
+Found
+MODSMD_ARTICLE06: Em Glückwunsch Moskaus an Barcelona.
+Found
+MODSMD_ARTICLE07: Glänzende Operationen an der Estremadurafront.
+Found
+MODSMD_ARTICLE08: Zunehmende innere Kämpfe in Rotspanien«
+Found
+MODSMD_ARTICLE09: Neue sowjetrussische Kriegsmateriallieferung für Barcelona.
+Found
+MODSMD_ARTICLE10: Empfänge bei Außenminister Bonnet.
+Found
+MODSMD_ARTICLE11: Die französischen Sparer befürchten neue Abwertung.
+Found
+MODSMD_ARTICLE12: Londoner Presse würdigt die Friedensbereitschaft Japans.
+Found
+MODSMD_ARTICLE13: Sollstärke der britischen Heimatarmee nicht erreicht.
+Found
+MODSMD_ARTICLE14: Britische Flugzeugausträge an Kanada jetzt Persekt.
+Found
+MODSMD_ARTICLE15: Englisches LuftsahrtMmisterium wird verlegt.
+Found
+MODSMD_ARTICLE16: Der jüdische Bürgermeister von Trieft legt sein Amt nieder.
+Found
+MODSMD_ARTICLE17: Reform der jugoslawischen Landwirtschaft.
+Found
+MODSMD_ARTICLE18: Verstärkte Aktivität kommunistischer Banden in Nordchina.
+Found
+MODSMD_ARTICLE19: Amerikanisch-englische Einigung über südpazisische Inseln.
+Found
+MODSMD_ARTICLE20: Dr. Borrero provisorischer Präsident von Ecuador.
+Found
+MODSMD_ARTICLE21: Brasilien weist Komintern-Agenten aus.
+Found

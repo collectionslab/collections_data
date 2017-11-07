@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: ZweiteNachmittags-Ausgabe Deutsches Nachrichtenbüro M
+Found
+MODSMD_ARTICLE02: Der Bischof von Speyer des Konkordatsbruchs überführt.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Das Kommando des Panzerschiffs „Deutschland" dankt.
+Found
+MODSMD_ARTICLE05: Verletzte der „Deutschland" kehren zurück.
+Found
+MODSMD_ARTICLE06: Der Generaldirektor des MER Präsident des AGOT.
+Found
+MODSMD_ARTICLE07: Ein Interview mit Herbert F. Houston.
+Found
+MODSMD_ARTICLE08: Aufforderung zum Ungehorsam gegen staatliche Anordnungen
+Found
+MODSMD_ARTICLE09: Beileid des englischen Innenministers an Notar Bauer.
+Found
+MODSMD_ARTICLE10: Simon begründet Erhöhung des Währungsausgleichsfonds.
+Found
+MODSMD_ARTICLE11: Der neue Vorsitzende des Imperial Airways.
+Found
+MODSMD_ARTICLE12: Chautemps und Elsaß-Lothringen.
+Found
+MODSMD_ARTICLE13: Abkommen zwischen Rex und V. N. V. außer Kraft.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ein Bild des Führers für deutsche Arbeitskameraden in Rio.
+Found
+MODSMD_ARTICLE02: Dr. Frick übernimmt oldenburgischen Landesteil Lübeck.
+Found
+MODSMD_ARTICLE03: Ernennungen in der Reichsfinanzverwaltung.
+Found
+MODSMD_ARTICLE04: Ungarns Philharmoniker aus deutschem Boden.
+Found
+MODSMD_ARTICLE05: Kommunistische Revolte in den Brnnner Waffenwerken.
+Found
+MODSMD_ARTICLE06: Judenskandal vor der Britischen Botschaft in Marschall.
+Found
+MODSMD_ARTICLE07: Die Außenminister-Besprechungen der Kleinen Entente.
+Found
+MODSMD_ARTICLE08: Fortdauer der Kämpfe an der baskischen Front.
+Found
+MODSMD_ARTICLE09: Englands Luftwaffe braucht Rekruten.
+Found
+MODSMD_ARTICLE10: 100 000 amerikanische Automobilarbeiter im Streik»
+Found
+MODSMD_ARTICLE11: Brasilien im Zeichen der Präsidentenwahl.
+Found
+MODSMD_ARTICLE12: Anteilnahme Brasiliens am spanischen Freiheitskampf.
+Found
+MODSMD_ARTICLE13: Presseverordnung gegen Wahlkorrnpiivn in Japan.
+Found

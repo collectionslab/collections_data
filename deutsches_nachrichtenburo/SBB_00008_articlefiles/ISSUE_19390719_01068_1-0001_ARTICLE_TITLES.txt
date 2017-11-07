@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Reichsarbeitssührer Hierl in Ostpreußen.
+Found
+MODSMD_ARTICLE02: 899 neue Bauerndörfer seit 1933 geschaffen.
+Found
+MODSMD_ARTICLE03: „Falsche Schachzüge" Englands.
+Found
+MODSMD_ARTICLE04: Graf Ciano erstattete dem Duce Bericht.
+Found
+MODSMD_ARTICLE05: Minister Alfieri wieder in Rom.
+Found
+MODSMD_ARTICLE06: Lebrnn auf der Internationalen Wasserausstellung in Lüttich
+Found
+MODSMD_ARTICLE07: „Schwache Argumente".
+Found
+MODSMD_ARTICLE08: Polenfeindliche Haltung der Ukrainer wächst.
+Found
+MODSMD_ARTICLE09: Polnischer Haß gegen deutsche Kinder.
+Found
+MODSMD_ARTICLE10: Wieder 199 Britenbomber über Frankreich.
+Found
+MODSMD_ARTICLE11: Bomben und diplomatische Sorgen.
+Found
+MODSMD_ARTICLE12: Oelleitung bei Haifa in Flammen.
+Found
+MODSMD_ARTICLE13: Auf dem Wege zu einer neuen chinesischen Währung.
+Found
+MODSMD_ARTICLE14: Die japanisch-englischen Verhandlungen.
+Found
+MODSMD_ARTICLE15: Vandenberg reist ins „kriegsbedrohte Europa".
+Found
+MODSMD_ARTICLE16: Mißglückter Theatercoup Roosevelts.
+Found

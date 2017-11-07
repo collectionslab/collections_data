@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Veränderungen innerhalb der Luftwaffe.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Die Rechtslage in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE04: I: dttstne- und Handelskammer Ester eröffnet.
+Found
+MODSMD_ARTICLE05: Betätigung in der Deutschen Partei erlaubt.
+Found
+MODSMD_ARTICLE06: Ungarischer Protest in Prag.
+Found
+MODSMD_ARTICLE07: Eine Rede Lord Halifax' in Hull.
+Found
+MODSMD_ARTICLE08: Der englische Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE09: Abschnürung der Noten im Montsenygebirge.
+Found
+MODSMD_ARTICLE10: SA.- und Milizboxer Gäste der Deutschen Botschaft in Rom.
+Found
+MODSMD_ARTICLE11: Naschaschibi eine Kreatur der Juden.
+Found
+MODSMD_ARTICLE12: Englische Touristen an kritischen Plätzen.
+Found
+MODSMD_ARTICLE13: Roosevelt operiert weiter mit Hirngespinsten.
+Found
+MODSMD_ARTICLE14: Brasilien: Roosevelt brach die traditionelle Neutralität.
+Found

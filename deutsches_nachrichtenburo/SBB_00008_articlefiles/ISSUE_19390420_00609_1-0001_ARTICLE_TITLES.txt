@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Begeisterungsstürme auf dem Wilhelmplatz.
+Found
+MODSMD_ARTICLE02: München am Geburtstag des Führers.
+Found
+MODSMD_ARTICLE03: Die deutschen Seeleute gedenken des Führers»
+Found
+MODSMD_ARTICLE04: Prag feiert den Geburtstag Adolf Hitlers.
+Found
+MODSMD_ARTICLE05: Danzig im Flaggenschmuck.
+Found
+MODSMD_ARTICLE06: Ein Frendentag für Italien.
+Found
+MODSMD_ARTICLE07: Paris Zu den Berliner Feierlichkeiten.
+Found
+MODSMD_ARTICLE08: Die norwegische Presse zum Geburtstag des Führers.
+Found
+MODSMD_ARTICLE09: „Ein wahrer Staatsmann, ein außerordentlicher Mensch."
+Found
+MODSMD_ARTICLE10: „Der Schmied Großdeutschlands."
+Found
+MODSMD_ARTICLE11: Deutsche in Japan feierten den Geburtstag des Führers.
+Found
+MODSMD_ARTICLE12: Die japanische Presse gedenkt des Führers.
+Found
+MODSMD_ARTICLE13: Griechenland ist unabhängig!
+Found

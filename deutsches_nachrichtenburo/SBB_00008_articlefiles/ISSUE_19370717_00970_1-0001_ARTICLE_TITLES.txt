@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Ein weiteres deutsch-englisches Flottenabkommen.
+Found
+MODSMD_ARTICLE03: Der englisch-sowjetrussische Flottenvertrag.
+Found
+MODSMD_ARTICLE04: Londons Presse zur Nichteinmischungsfrage.
+Found
+MODSMD_ARTICLE05: Neuer Schlag gegen Polens jüdische Hetzer.
+Found
+MODSMD_ARTICLE06: Streit um Frankreichs Verkehrstarife.
+Found
+MODSMD_ARTICLE07: Panamerikaabkommen von Roosevelt unterzeichnet.
+Found
+MODSMD_ARTICLE08: Vulkanausbruch auf Neu-Pommern forderte 466 Opfer.
+Found
+MODSMD_ARTICLE09: Deutschtumstagung in Brasilien.
+Found
+MODSMD_ARTICLE10: Die Kennzahl der Großhandelspreise.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ein schwedisches Kiistenpanzerschiff in Kiel.
+Found
+MODSMD_ARTICLE02: Der Reichssportführer im Reichsführerlager der HJ.
+Found
+MODSMD_ARTICLE03: Ein Opfer der Luftschiffkatastrophe in Halle beigesetzt.
+Found
+MODSMD_ARTICLE04: Vier Jahre Zuchthaus für geistlichen Jugendverderber.
+Found
+MODSMD_ARTICLE05: Ein Geistlicher, der bei der Morallehre „gefehlt" hat.
+Found
+MODSMD_ARTICLE06: Weiterer Zerfall der sozialdemokratischen Volkstagssraktion.
+Found
+MODSMD_ARTICLE07: Der» nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE08: Tominionpläne der Königlichen Kommission für Palästina?
+Found
+MODSMD_ARTICLE09: Der türkische Ministerpräsident in Belgrad.
+Found
+MODSMD_ARTICLE10: Erfolg der Chaco-Friedenskonferenz.
+Found
+MODSMD_ARTICLE11: John Rockefeller l'.
+Found

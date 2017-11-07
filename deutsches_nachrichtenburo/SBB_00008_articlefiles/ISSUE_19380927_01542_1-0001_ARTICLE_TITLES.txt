@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Eindruck der Führer rede.
+Found
+MODSMD_ARTICLE02: Brüssel: Der Weg zur friedlichen Lösung offen.
+Found
+MODSMD_ARTICLE03: Holland zur Führer-Rede.
+Found
+MODSMD_ARTICLE04: USA.: „Hitler hält die Friedenstür offen."
+Found
+MODSMD_ARTICLE05: Burlos: „Hitler bewahrte Europa vor dem blutigsten Krieg".
+Found
+MODSMD_ARTICLE06: Selbstbestimmungsrecht für die Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE07: Die Note Prags an Warschau.
+Found
+MODSMD_ARTICLE08: Slowaken und Ungarn wehren sich.
+Found
+MODSMD_ARTICLE09: Zum letzten Einsatz bereit.
+Found
+MODSMD_ARTICLE10: Wieder eine Hetzlüge zusammengebrochen.
+Found
+MODSMD_ARTICLE11: Plünderungen im sudetendeutschen Rand. .
+Found
+MODSMD_ARTICLE12: Standrecht im sudetendeutschen Gebiet erweitert.
+Found
+MODSMD_ARTICLE13: Rote Sympathie für Prag.
+Found
+MODSMD_ARTICLE14: Die englischen Oberkommissare bei Chamberlain.
+Found
+MODSMD_ARTICLE15: Daladier und Bonnct wieder in Paris.
+Found
+MODSMD_ARTICLE16: Räumungsbewegungen in Paris.
+Found
+MODSMD_ARTICLE17: Frankreich hamstert Banknoten.
+Found
+MODSMD_ARTICLE18: Ministerberatungen in Rumänien.
+Found
+MODSMD_ARTICLE19: Vigo feiert Panzerschiff „Deutschland".
+Found
+MODSMD_ARTICLE20: Ter neue japanische Staatshaushalt.
+Found

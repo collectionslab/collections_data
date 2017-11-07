@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ritterkreuz des E. K. für Kapitänleutnant Herbert Schnitze.
+Found
+MODSMD_ARTICLE02: Kapitänleutnant Herbert Schnitze.
+Found
+MODSMD_ARTICLE03: Su inner Weltes in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE04: Ungarn feiert Horthy.
+Found
+MODSMD_ARTICLE05: Die Ungarische Armee huldigt dem Reichsverweser Horthy.
+Found
+MODSMD_ARTICLE07: Auch Birma will seine Freiheit!
+Found
+MODSMD_ARTICLE08: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE09: „Libre Belgigue" zur Lage.
+Found
+MODSMD_ARTICLE10: Typisch für die Plutokratien.
+Found
+MODSMD_ARTICLE11: Chamberlains Eisenbahnaktien stehen prima.
+Found
+MODSMD_ARTICLE12: Aufklärungsflüge über Ostfrankreich und der Nordsee.
+Found
+MODSMD_ARTICLE13: Erfolgreiche Angriffe der Lustwaffe gegen England.
+Found
+MODSMD_ARTICLE14: Englands koloniale Mißwirtschaft soll vertuscht werden.
+Found
+MODSMD_ARTICLE15: Die Politik der Türkei.
+Found
+MODSMD_ARTICLE16: Gesandter Eitel überreicht sein Beglaubigungsschreiben.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Generalsekretär Menemencioglu bei Reichsminister Frank.
+Found
+MODSMD_ARTICLE03: Zentralansschuß für Versicherungsrechtsfragen.
+Found
+MODSMD_ARTICLE04: Eine Stadt gedenkt ihres größten Sohnes.
+Found
+MODSMD_ARTICLE05: Heimstätte der Beethoven-Erinnerungen.
+Found
+MODSMD_ARTICLE06: Tagung der Eisenbahnvereine Großdeutschlands.
+Found
+MODSMD_ARTICLE07: Grundsteinlegung zum Holzverzuckerungswerk Regensburg.
+Found
+MODSMD_ARTICLE08: Geschwindigkeitsrekord eines deutschen Leichtflugzeuges.
+Found
+MODSMD_ARTICLE09: Die Notlage englischer Arbeitsloser.
+Found
+MODSMD_ARTICLE10: Aenderungsantrag zum Kohlengesetz abgelehnt.
+Found
+MODSMD_ARTICLE11: Kennedy Ehrendoktor der Universität Dublin.
+Found
+MODSMD_ARTICLE12: Englische Firmen wollen Rotspanien weiter beliefern.
+Found
+MODSMD_ARTICLE13: Nationalspanischer Heeresbericht.
+Found
+MODSMD_ARTICLE14: Barcelona sabotiert die Schaffung eines neutralen Hafens.
+Found
+MODSMD_ARTICLE15: Die nationalspanische Presse zum Pariser Urteil.
+Found
+MODSMD_ARTICLE16: Die italienisch-japanische Freundschaft.
+Found
+MODSMD_ARTICLE17: Unterschlagungen von Pariser Sowjet-Handelsvertretern.
+Found
+MODSMD_ARTICLE18: Umfangreiche Wirtschaftspläne in Jugoslawien.
+Found
+MODSMD_ARTICLE19: Warnung vor übertriebenen Hoffnungen auf Kredite.
+Found
+MODSMD_ARTICLE20: Vollstreckung eines Todesurteils.
+Found

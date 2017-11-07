@@ -1,0 +1,28 @@
+MODSMD_ARTICLE02: Beck weicht aus.
+Found
+MODSMD_ARTICLE05: Polen überfallen Volksdeutschen.
+Found
+MODSMD_ARTICLE06: Polnische „Kulturträger".
+Found
+MODSMD_ARTICLE07: Warschau kämpft gegen reichsdeutsche Zeitungen.
+Found
+MODSMD_ARTICLE08: „Danzig keine polnische Lebensfrage."
+Found
+MODSMD_ARTICLE09: Staatsrat vertritt König Georg während der Amerikareise.
+Found
+MODSMD_ARTICLE10: Neynaud über die finanzielle Lage Frankreichs.
+Found
+MODSMD_ARTICLE11: Griechenland auf der Wacht.
+Found
+MODSMD_ARTICLE12: Litauische Bauern empören sich gegen jüdische Ausbeuter.
+Found
+MODSMD_ARTICLE13: Roosevelt sucht Ablenkung.
+Found
+MODSMD_ARTICLE14: Die britischen Kriegsschulden au USA.
+Found
+MODSMD_ARTICLE15: Der Streik in der Braunkohlenindustrie in USA.
+Found
+MODSMD_ARTICLE16: Japan steht unerschütterlich zum Antikominternpakt.
+Found
+MODSMD_ARTICLE17: Italien vor Deutschland im Nationen-Preis in Rom.
+Found

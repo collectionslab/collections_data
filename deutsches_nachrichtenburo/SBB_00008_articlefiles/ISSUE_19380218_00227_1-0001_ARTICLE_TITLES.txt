@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Deutsch-englische kulturelle Zusammenarbeit.
+Found
+MODSMD_ARTICLE02: Portugals Kolvmalarbeit ein großes kulturelles Werk.
+Found
+MODSMD_ARTICLE03: Polens Deutschtum ein Opfer des Karzellierungsplanes.
+Found
+MODSMD_ARTICLE04: Amnestie auch für alle Hochschüler in Oesterreich.
+Found
+MODSMD_ARTICLE05: Marxist schlügt sudetendeutschen Abgeordneten nieder.
+Found
+MODSMD_ARTICLE06: Deutsch-italienische wissenschaftliche Gemeinschaftsarbeit.
+Found
+MODSMD_ARTICLE07: Schwedens Presse zu den sowjetrussischen „Mietsabsichten".
+Found
+MODSMD_ARTICLE08: Besprechung Delbos—Berenger.
+Not Found
+MODSMD_ARTICLE09: Trotzkis Sohn gerichtsärztlich obduziert.
+Found
+MODSMD_ARTICLE10: Offene Worte im Londoner Oberhaus.
+Found
+MODSMD_ARTICLE11: Die Auslaudspresse beim nationalspanischen Innenminister.
+Found
+MODSMD_ARTICLE12: Berichtigung.
+Found

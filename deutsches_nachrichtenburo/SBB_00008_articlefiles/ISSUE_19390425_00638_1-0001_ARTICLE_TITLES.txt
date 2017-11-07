@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Ehrung durch den Führer.
+Found
+MODSMD_ARTICLE02: Dr. von Bnrgsdorsf Unterstaatssekretär.
+Found
+MODSMD_ARTICLE03: Walter Richter-Stuttgart Staatsschauspieler.
+Found
+MODSMD_ARTICLE04: Litauische Abordnung in Berlin.
+Found
+MODSMD_ARTICLE05: Kultusminister Hauuula beim Reichsaustenminister.
+Found
+MODSMD_ARTICLE06: Bernhard Köhler gestorben.
+Found
+MODSMD_ARTICLE07: Italienisches Studentenorchester in München.
+Found
+MODSMD_ARTICLE08: Der Reichsprotektor besichtigte mährische Gobelinarbeiten.
+Found
+MODSMD_ARTICLE09: Parade der 140 000 am 15. Mai in Madrid.
+Found
+MODSMD_ARTICLE10: Restloses Bekenntnis Zu General Franco.
+Found
+MODSMD_ARTICLE11: Paris sabotiert den Vertrag von Burgos.
+Found
+MODSMD_ARTICLE12: Ein Appell an die spanische Bevölkerung.
+Found
+MODSMD_ARTICLE13: Eoulondre von Daladier empfangen.
+Found
+MODSMD_ARTICLE14: Frankreichs Verhandlungen mit Moskau und Washington.
+Found
+MODSMD_ARTICLE15: „Erfolgreicher Kampf gegen Englands Paktomame."
+Found
+MODSMD_ARTICLE16: Der neugewählte dänische Reichstag zusammengetreten.
+Found
+MODSMD_ARTICLE17: „Für individuelle Bedürfnisse."
+Found
+MODSMD_ARTICLE18: Jugoslawiens Außenminister verließ Belgrad.
+Found
+MODSMD_ARTICLE19: Daranyi und Jlnredy über ihren Besuch in Berlin.
+Found
+MODSMD_ARTICLE20: „Legt den Brunnenvergiftern das Handwerk!"
+Found

@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Telegrammwechsel zwischen dem Führer und Franco.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels' Rede in Worms.
+Found
+MODSMD_ARTICLE03: Regierung Blum beschließt Rücktritt.
+Found

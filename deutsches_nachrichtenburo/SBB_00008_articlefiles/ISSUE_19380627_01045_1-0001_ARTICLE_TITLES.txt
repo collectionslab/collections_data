@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer und Göring danken der Kölner Universität»
+Found
+MODSMD_ARTICLE02: U-Boot-Flottille „Bernd Wegener".
+Found
+MODSMD_ARTICLE03: Wie sie lügen.
+Found
+MODSMD_ARTICLE04: Die Mutter der englischen Königin beigesetzt.
+Found
+MODSMD_ARTICLE05: England mißbilligt Barcelonas Drohungen.
+Found
+MODSMD_ARTICLE06: „GioMale d'Jtalia" zur letzten Moskauer Friedensstörung.
+Found
+MODSMD_ARTICLE07: Die Häfen von Valencia und Alicante mit Bomben belegt«
+Found
+MODSMD_ARTICLE08: Kommunistischer Stimmenzuwachs im Pariser Randgebiet.
+Found
+MODSMD_ARTICLE09: Kairo-Flug des „Condor" erfolgreich.
+Found
+MODSMD_ARTICLE10: Einschreibungen im Sandschak beendet.
+Found
+MODSMD_ARTICLE11: Schwere Schießereien in Palästina.
+Found
+MODSMD_ARTICLE12: Die Paktdokumente von Saadabad in Teheran niedergelegt.
+Found
+MODSMD_ARTICLE13: Britische Vergeltungsmaßnahmen in Waziristan.
+Found

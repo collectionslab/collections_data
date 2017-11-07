@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Frau von Schroeder.
+Found
+MODSMD_ARTICLE02: Die Deutschlandfahrt portugiesischer Journalisten.
+Found
+MODSMD_ARTICLE03: Sitzung des französischen Kabinetts.
+Found
+MODSMD_ARTICLE04: Sitzung des britischen Kabinetts.
+Found
+MODSMD_ARTICLE05: Valencia in Erwartung der nationalen Truppen.
+Found
+MODSMD_ARTICLE06: Madrid nach der Befreiung.
+Found
+MODSMD_ARTICLE07: Nationale Zeitungen in Madrid.
+Found
+MODSMD_ARTICLE08: Rom zum Zusammenbruch Rotspaniens.
+Found
+MODSMD_ARTICLE09: Die oberitalienische Presse zum Falle Madrids.
+Found
+MODSMD_ARTICLE10: Ganz Spanien in Francas Hand.
+Found
+MODSMD_ARTICLE11: Brasilien: „Grausamer Egoismus der Sowjetunion".
+Found
+MODSMD_ARTICLE12: Tie amerikanische Despotie auf Puerto Nico.
+Found
+MODSMD_ARTICLE13: Wie sag ichs meinem Leser?
+Found
+MODSMD_ARTICLE14: Jsak sorgt sich um den Panamakanal.
+Found

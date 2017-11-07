@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ehrungen verdienter Kriegsteilnehmer.
+Found
+MODSMD_ARTICLE02: Krimiualpolizeiliche Tagung verschoben.
+Found
+MODSMD_ARTICLE03: Der Führer sprach zu den Abgeordneten.
+Found
+MODSMD_ARTICLE04: Feuerüberfall auf Hlinka-Gardisten.
+Found
+MODSMD_ARTICLE05: Westfälische Marine-HI. beim Honivedminister.
+Found
+MODSMD_ARTICLE06: Bombenexplosion vor einem Warenhaus in Liverpool.
+Found
+MODSMD_ARTICLE07: Weitere Reservisteneinberufungen in Frankreich.
+Found
+MODSMD_ARTICLE08: Abwartende Haltung der Schweiz.
+Found
+MODSMD_ARTICLE09: Jugoslawiens neue Regierung.
+Found
+MODSMD_ARTICLE10: Britische Offiziere von Bombe zerrissen.
+Found

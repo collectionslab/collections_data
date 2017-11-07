@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ter Sittlichkeitsprozeß gegen die Franziskanerbrüder.
+Found
+MODSMD_ARTICLE02: Abschluß der Danzig-Polnischen Verhandlungen in Zoppot.
+Found
+MODSMD_ARTICLE03: Auch in Gdingen Zusammenstöße mit Arbeitern.
+Found
+MODSMD_ARTICLE04: Die Streiklage in Frankreich unverändert.
+Found
+MODSMD_ARTICLE05: „Le Journal" zur Aenderung in Italiens Außenministerium.
+Found
+MODSMD_ARTICLE06: Italienische Pressestimmen zur Regierungsumbildung.
+Found
+MODSMD_ARTICLE07: Eisenbahnunglück in Italien.
+Found
+MODSMD_ARTICLE08: Einführung einer ostafrikanischen Normalzeit.
+Found
+MODSMD_ARTICLE09: Japan für wirtschaftliche Zusammenarbeit mit England.
+Found
+MODSMD_ARTICLE10: Japan gibt die Exterritorialität in der Mandschurei auf.
+Found
+MODSMD_ARTICLE11: Der republikanische Parteitag in Cleveland eröffnet.
+Found

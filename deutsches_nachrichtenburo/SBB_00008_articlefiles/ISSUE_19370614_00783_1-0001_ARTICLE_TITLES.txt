@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die Beisetzungsfeierlichkeiten für die „Deutschland"-Opfer.
+Found
+MODSMD_ARTICLE02: Trauerfeier für die Opfer von Halle.
+Found
+MODSMD_ARTICLE03: Die Lufthansa im Geschäftsjahr 1336.
+Found
+MODSMD_ARTICLE04: Dr. Goebbels in Rheydt.
+Found
+MODSMD_ARTICLE05: Baldur von Schirach Ehrenbürger von Weimar.
+Found
+MODSMD_ARTICLE06: Der Reichsführer-SS in Mitteldeutschland.
+Found
+MODSMD_ARTICLE07: „Stalin, der Schlächter, baut eine Toten-Pyramide".
+Found
+MODSMD_ARTICLE08: „WeltkonferenZen ohne gründliche Vorbereitung erfolglos."
+Found
+MODSMD_ARTICLE09: Mussolini in Riccione.
+Found
+MODSMD_ARTICLE10: Kämpfe in Begöna.
+Found
+MODSMD_ARTICLE11: Reif zum „Einzug in das Sowjetparadies".
+Found
+MODSMD_ARTICLE12: Sowjetrussische Monstre-Prozesse im Fernen Osten.
+Found
+MODSMD_ARTICLE13: Bakulin stellvertretender Volkskommissar.
+Found
+MODSMD_ARTICLE14: Außenminister Munters nach Moskau abgereist.
+Found
+MODSMD_ARTICLE15: Deutsche Museen auf de 4 Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE16: 175 lM ebin Gestein nördlich von Bergamo abgestürzt.
+Found
+MODSMD_ARTICLE17: Kampfmaßnahmen Japans gegen den Rauschgifthandel.
+Found

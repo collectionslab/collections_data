@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Der Reichsparteitag MZB.
+Found
+MODSMD_ARTICLE02: Tie Anmarschbewegung beginnt.
+Found
+MODSMD_ARTICLE03: Die Auslandspresse zum Auftakt.
+Found
+MODSMD_ARTICLE04: Vorbeimarsch der HJ. bor dem Führer.
+Found
+MODSMD_ARTICLE05: Eröffnung des Kongresses. Der Höhepunkt des deutschen politischen Lebens. -- Im Zeichen der Heimkehr der Ostmark.
+Found

@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die ersten deutschen Truppen in Warschau.
+Found
+MODSMD_ARTICLE02: Deutschland hat die Wahrheit nicht zu scheuen.
+Found
+MODSMD_ARTICLE03: Hindenburgehrungen des NS.-Reichskriegerbundes.
+Found
+MODSMD_ARTICLE04: Prag zu den deutsch-russischen Abmachungen.
+Found
+MODSMD_ARTICLE05: „Libre Beigigue": Die Bilanz für Deutschland günstig.
+Found
+MODSMD_ARTICLE06: Italien: „Eine geschichtliche Woche für Europa."
+Found
+MODSMD_ARTICLE07: Die Aufgaben der faschistischen Partei und der Miliz.
+Found
+MODSMD_ARTICLE08: Außenminister Munters reist nach Moskau.
+Found
+MODSMD_ARTICLE09: Irland: „Jede Verlautbarung eine Lüge!"
+Found

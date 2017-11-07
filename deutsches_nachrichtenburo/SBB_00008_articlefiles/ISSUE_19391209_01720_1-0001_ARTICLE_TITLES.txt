@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Gedenken an die Schlacht bei den Falklandinseln.
+Found
+MODSMD_ARTICLE02: England will Jugoslawien mit Krediten „beglücken".
+Found
+MODSMD_ARTICLE03: Die City in tausend Aengsten.
+Found
+MODSMD_ARTICLE04: Deutsche Aufklärer über Ostsrankreich.
+Found
+MODSMD_ARTICLE05: „Italien Gewehr bei Fuß".
+Found
+MODSMD_ARTICLE06: Beispiellose Kulturschande in Indien!
+Found
+MODSMD_ARTICLE07: Englandfahrt Todesfahrt!
+Found
+MODSMD_ARTICLE08: Englands ärmste Kolonie wird noch mehr ausgepreßt.
+Found
+MODSMD_ARTICLE09: Tie Konserenz der baltischen Staaten abgeschlossen.
+Found
+MODSMD_ARTICLE10: Preissteigerungen auch in Indien.
+Found
+MODSMD_ARTICLE11: England buhlt um Indien.
+Found
+MODSMD_ARTICLE12: Australiens Grenze liegt am Rhein?
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Maharadscha von Dewas im Braunen Haus.
+Found
+MODSMD_ARTICLE02: Abschluß der Frontkämpfertagung in Coburg.
+Found
+MODSMD_ARTICLE03: NS.-Rechtswahrer waren Gäste der Stadt München.
+Found
+MODSMD_ARTICLE04: Beileidstelegramm Henleius an die Slowakische Volkspartei.
+Found
+MODSMD_ARTICLE05: FreihafenZoue für die Sowjetunion in Preßburg.
+Found
+MODSMD_ARTICLE06: Gesetzesaukrag für die Autonomie der Slowakei.
+Found
+MODSMD_ARTICLE07: Lord Runciman fährt ins Wochenende.
+Found
+MODSMD_ARTICLE08: Runciman informiert sich über die Ausschreitungen in Brüx.
+Found
+MODSMD_ARTICLE09: Sudetendeutsche von betrunkeneu Tschechen überfallen.
+Found
+MODSMD_ARTICLE10: Paul Bastide in Prag.
+Found
+MODSMD_ARTICLE11: Tschechische Polizei vertreibt einen polnischen Priester.
+Found
+MODSMD_ARTICLE12: London zu den englandfeindlicheu Demonstrationen in Brüx.
+Found
+MODSMD_ARTICLE13: König Leopold in Malmedy.
+Found
+MODSMD_ARTICLE14: Litauen errichtet ein Propagandaamt.
+Found
+MODSMD_ARTICLE15: Neue bolschewistische Niederlage an der Ebro-Front.
+Found
+MODSMD_ARTICLE16: 15. Kongreß für Fortschritt und Wissenschaften eröffnet.
+Found
+MODSMD_ARTICLE17: Feuergefecht zwischen Juden und arabischen Freischärlern.
+Found
+MODSMD_ARTICLE18: Unglnckssahrt des Donkosaken-Chors.
+Found

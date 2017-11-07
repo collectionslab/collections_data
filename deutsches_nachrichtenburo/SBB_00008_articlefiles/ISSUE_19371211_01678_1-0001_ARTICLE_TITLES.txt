@@ -1,0 +1,4 @@
+MODSMD_ARTICLE01: Dr. Goebbels spricht in Königsberg.
+Found
+MODSMD_ARTICLE02: „Stojadinowitsch hat die Zeichen der Zeit verstanden."
+Found

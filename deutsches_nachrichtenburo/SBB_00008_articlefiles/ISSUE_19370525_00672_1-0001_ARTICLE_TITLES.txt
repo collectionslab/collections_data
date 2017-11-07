@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Hauptversammlung der Sudetendeutschen Kulturgesellschaft.
+Found
+MODSMD_ARTICLE02: Technik und Wirtschaft im Dienste der Politik.
+Found
+MODSMD_ARTICLE03: „Eine Reise des guten Willens".
+Found
+MODSMD_ARTICLE04: Besuch des ungarischen Gesandten in Bremen.
+Found
+MODSMD_ARTICLE05: Reichsminister Dr. Schacht in Paris.
+Found
+MODSMD_ARTICLE06: Streikverhandlungen anstelle des Atlantik-Touristenverkehrs.
+Found
+MODSMD_ARTICLE07: Die „Liberts" Blatt der Französischen Volkspartei.
+Found
+MODSMD_ARTICLE08: Mussolini über aktuelle politische Fragen.
+Found
+MODSMD_ARTICLE09: Die Dominien verlangen Abschaffung des Sanktionsartikels.
+Found
+MODSMD_ARTICLE10: Das englische Königspaar Gast des Ministerpräsihenten.
+Found
+MODSMD_ARTICLE11: Die Genfer Ratssitzung.
+Found
+MODSMD_ARTICLE12: Der türkische Ministerpräsident in Athen.
+Found
+MODSMD_ARTICLE13: Die Kampfhandlungen an der Biscaya-Front.
+Found
+MODSMD_ARTICLE14: Amerikanische Söldner für Sowjetspanien.
+Found
+MODSMD_ARTICLE15: Der kommunistische Einfluß in der Lewis-Gewerkschaft.
+Found
+MODSMD_ARTICLE16: Jüdische Kampfansage an Shakespeare.
+Found
+MODSMD_ARTICLE17: Die Regierung von Columbien zurückgetreten.
+Found

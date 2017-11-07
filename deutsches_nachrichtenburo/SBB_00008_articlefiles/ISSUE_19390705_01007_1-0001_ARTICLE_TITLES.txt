@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Persönliches Geschenk Francos für den Führer.
+Found
+MODSMD_ARTICLE02: Der bulgarische Ministerpräsident auf deutschem Boden.
+Found
+MODSMD_ARTICLE03: Tie bulgarische Presse MM Besuch Kjosseiwanosss.
+Found
+MODSMD_ARTICLE04: Lugen am laufenden Band.
+Found
+MODSMD_ARTICLE05: „Tie baltischen Staaten wollen nicht Schacherobjekt werden."
+Found
+MODSMD_ARTICLE06: Hysterische polnische Empfindlichkeit.
+Found
+MODSMD_ARTICLE07: Italiens gute Ernte zerstört törichte Hoffnungen.
+Found
+MODSMD_ARTICLE08: Man spricht sich gegenseitig Mut Zu.
+Found
+MODSMD_ARTICLE09: Aeghptische Militärmissiou in Paris.
+Found
+MODSMD_ARTICLE10: Wieder einmal grundloser Zweckoptimismus in London.
+Found
+MODSMD_ARTICLE11: Botschafter Sir Neville Henderson in London.
+Found
+MODSMD_ARTICLE12: Das englische Königspar besucht Brüssel.
+Found
+MODSMD_ARTICLE13: Täglich werden Araber von Juden ermordet.
+Found
+MODSMD_ARTICLE14: Bürgerkriegsatmosphäre im USA.-Kohlenrevier.
+Found

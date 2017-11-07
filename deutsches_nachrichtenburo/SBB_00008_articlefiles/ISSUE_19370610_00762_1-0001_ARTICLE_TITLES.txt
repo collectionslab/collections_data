@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Gegenbesuch Dr. Schachts in Wien.
+Found
+MODSMD_ARTICLE02: Dr. Ley Zur Reichstagung „Kraft durch Freude".
+Found
+MODSMD_ARTICLE03: Dae schwedische Regierungskommission in Bayreuth.
+Found
+MODSMD_ARTICLE04: Sittlichkeitsvergehen eines 67-jährigen katholischen Pfarrers.
+Found
+MODSMD_ARTICLE05: Blomberg über die Aufgaben der Auslandsdeutschen.
+Found
+MODSMD_ARTICLE07: „Antideutsche Provokation".
+Found
+MODSMD_ARTICLE08: Der Reichsaußenmmister über seinen Besuch in Sofia.
+Found
+MODSMD_ARTICLE09: Budapest in Erwartung Neuraths.
+Found
+MODSMD_ARTICLE10: Besuch van Zeelands in Paris.
+Found
+MODSMD_ARTICLE11: Doriot bedauert die Entscheidung der Sozialpartei.
+Found
+MODSMD_ARTICLE12: Die Krise im Sowjetparadies.
+Found
+MODSMD_ARTICLE13: Weitere Blutopfer der amerikanischen Streikterroristen.
+Found

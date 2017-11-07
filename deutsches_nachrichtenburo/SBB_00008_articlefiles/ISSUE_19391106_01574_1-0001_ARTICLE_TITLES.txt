@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Amerikanischer Dampfer von den Franzosen aufgebracht.
+Found
+MODSMD_ARTICLE02: Abschluß der Besichtigungsreise Dr. Fricks.
+Found
+MODSMD_ARTICLE03: Einreihung in die Deutsche Arbeitsfront.
+Found
+MODSMD_ARTICLE04: Der „Tag der Freiheit" im Warthegau.
+Found
+MODSMD_ARTICLE05: Reichsminister Ruft im Prager Altstädter Rathaus.
+Found
+MODSMD_ARTICLE06: „Die Wahrheit über das Baltikum".
+Found
+MODSMD_ARTICLE07: Neuer italienischer Unterstaatssekretär.
+Found
+MODSMD_ARTICLE08: Militärische Besprechungen bei Mussolini.
+Found
+MODSMD_ARTICLE09: Ter Generalstabschef der italienischen Wehrmacht.
+Found
+MODSMD_ARTICLE10: „Popolo di Roma" über die Ruhe in Deutschland.
+Found
+MODSMD_ARTICLE11: Unablässiges Schikanieren der neutralen Schiffahrt.
+Found
+MODSMD_ARTICLE12: Wieder irische Attentate in London.
+Found
+MODSMD_ARTICLE13: Ohne den geringsten Erfolg!
+Found
+MODSMD_ARTICLE14: Lastkraftwagen mit belgischen Soldaten verunglückt.
+Found
+MODSMD_ARTICLE15: Einer der größten dänischen Dampfer gesunken.
+Found

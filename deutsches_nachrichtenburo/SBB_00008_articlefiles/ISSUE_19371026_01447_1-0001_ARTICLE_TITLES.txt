@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Abschied von Roland E. Strunk.
+Found
+MODSMD_ARTICLE02: Ab 1. April Buchführungspflicht im Handwerk.
+Found
+MODSMD_ARTICLE03: Reichspostdirektionspräsident Domizlaff f.
+Found
+MODSMD_ARTICLE04: Amerikanische Frontkämpfer zum neuen Deutschland.
+Found
+MODSMD_ARTICLE05: Finnlands Außenminister über seinen Berliner Besuch.
+Found
+MODSMD_ARTICLE06: Die Jugend Frankreichs bekennt sich zur Verständigung.
+Found
+MODSMD_ARTICLE07: Weitere Flüchtlinge in Frankreich.
+Found
+MODSMD_ARTICLE08: Die landwirtschaftliche Produktion in Rotspanien.
+Found
+MODSMD_ARTICLE09: Die englische Militärmission für Portugal.
+Found
+MODSMD_ARTICLE10: Die Thronrede des Königs von England.
+Found
+MODSMD_ARTICLE12: Staatssekretär Dr. Schmidt in Warschau.
+Found
+MODSMD_ARTICLE13: Der Dean von Canterbury als Sowjetagitator.
+Found
+MODSMD_ARTICLE14: Der Kampf um Tatschang eine „entscheidende Wendung".
+Found
+MODSMD_ARTICLE15: Rigoroses Vorgehen der Polizei in Palästina.
+Found
+MODSMD_ARTICLE16: Studentendemonstration in Kairo.
+Found

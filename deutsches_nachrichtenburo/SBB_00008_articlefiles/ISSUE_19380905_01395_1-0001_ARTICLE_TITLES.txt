@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Begnadigung durch den Führer.
+Found
+MODSMD_ARTICLE02: Ein sudetendeutsches „Amt für Völksgesundheit".
+Found
+MODSMD_ARTICLE03: Polnischer Ministerrat.
+Found
+MODSMD_ARTICLE04: Polens Kommunistenzentrale zersetzt sich selbst.
+Found
+MODSMD_ARTICLE05: Neue Osfiziersverhaftungeu in Kiew und Charkow?
+Found
+MODSMD_ARTICLE06: London: Kein Friede ohne Lösung der tschechischen Frage.
+Found
+MODSMD_ARTICLE07: Wichtige Stellungen im Ebro-Bogen besetzt.
+Found
+MODSMD_ARTICLE08: Völlig im Fahrwasser Moskaus.
+Found
+MODSMD_ARTICLE09: Stärkstes Interesse am Reichsparteitag in USA.
+Found
+MODSMD_ARTICLE10: Beifallsstürme für die deutschen Flieger in Cleveland.
+Found
+MODSMD_ARTICLE11: Präsident Vargas auf amerikanischem Kriegsschiff.
+Found
+MODSMD_ARTICLE12: Protestaktion arabischer Verleger.
+Found
+MODSMD_ARTICLE13: Seltsames Abenteuer deutscher Journalisten in Palästina.
+Found
+MODSMD_ARTICLE14: Iluruhiges Palästina.
+Found
+MODSMD_ARTICLE15: Neue blutige Unruhen in Nangun.
+Found
+MODSMD_ARTICLE16: Die Haltung Englands im Fernost-Konflikt.
+Found
+MODSMD_ARTICLE17: Japanischer Sieg am Luschanberg.
+Found
+MODSMD_ARTICLE18: Mißglückter Anschlag auf den König von Aegypten?
+Found

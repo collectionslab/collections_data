@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Moskau zu den ungeheuren deutschen Erfolgen.
+Found
+MODSMD_ARTICLE02: Auch Inder dürfen für England sterben.
+Found
+MODSMD_ARTICLE03: Polens Vorgehen gegen die weißrussische Bevölkerung.
+Found
+MODSMD_ARTICLE04: Die Leistungen der deutschen Truppen in Polen.
+Found
+MODSMD_ARTICLE05: Norwegen bangt um die Achtung seiner Neutralität.
+Found
+MODSMD_ARTICLE06: Scharfe Maßnahmen gegen Volksschädlinge in Italien.
+Found
+MODSMD_ARTICLE07: Warschau im Strudel des polnischen Bankrotts.
+Found
+MODSMD_ARTICLE08: Chaotische Zustände in Nordost-Polen.
+Found
+MODSMD_ARTICLE09: Englands Hungerblockade gegen die Neutralen.
+Found
+MODSMD_ARTICLE10: Portugals Präsident wieder in der Heimat.
+Found
+MODSMD_ARTICLE11: Amerika hat das größte Interesse an der Neutralität.
+Found
+MODSMD_ARTICLE12: Rundfunkrede des Senators Borah.
+Found
+MODSMD_ARTICLE13: „Dem englischen Imperialismus muß Halt geboten werden!"
+Found
+MODSMD_ARTICLE14: „Makelloses Verhalten deutscher U-Boot-Kommandanten."
+Found
+MODSMD_ARTICLE15: Amerikanischer Stimmungsbericht aus Dublin.
+Found
+MODSMD_ARTICLE16: Englands Schwierigkeiten in Waziristan.
+Found
+MODSMD_ARTICLE17: Lustsperrzone im Gebiet des Panama-Kanals.
+Found
+MODSMD_ARTICLE18: Coney Island in Mammen.
+Found

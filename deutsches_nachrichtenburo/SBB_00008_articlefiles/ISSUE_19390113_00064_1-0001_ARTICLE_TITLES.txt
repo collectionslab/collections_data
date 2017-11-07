@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ein Generalbevollmächtigter für die Energiewirtschaft.
+Found
+MODSMD_ARTICLE02: Nosenberg dankt für die Glückwünsche.
+Found
+MODSMD_ARTICLE03: 11,5 Millionen Rundfunkteilnehmer!
+Found
+MODSMD_ARTICLE04: Die Entwicklung des Arbeitseinsatzes im Dezember.
+Found
+MODSMD_ARTICLE06: Ungarn tritt dem Antikomintern-Abkommen bei.
+Found
+MODSMD_ARTICLE07: Ungarischer Besuch im Braunen Haus.
+Found
+MODSMD_ARTICLE08: Botschafter Oschima in Köln.
+Found
+MODSMD_ARTICLE09: Bertuleit mit Bildung des Memeldirektoriums beauftragt.
+Found
+MODSMD_ARTICLE10: Chamberlain und Halifax im Vatikan.
+Found
+MODSMD_ARTICLE11: Chamberlain besichtigte die Autarkieausstellung.
+Found
+MODSMD_ARTICLE12: Botschafter von Mackensen wieder bei Graf Ciano.
+Found
+MODSMD_ARTICLE13: Die italienische Presse weist Phantasiemeldungen zurück.
+Found
+MODSMD_ARTICLE14: Tortosa erobert.
+Found
+MODSMD_ARTICLE15: „Journal" warnt vor englischen Falschmeldungen.
+Found
+MODSMD_ARTICLE16: Beirut französischer Kriegshasen?
+Found
+MODSMD_ARTICLE17: Arado 73 auf Java.
+Found

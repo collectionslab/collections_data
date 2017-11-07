@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Tagung der Kommission für Wirtschaftspolitik der NSDAP.
+Found
+MODSMD_ARTICLE02: Baubeginn am „Haus des Deutschen Rechts".
+Found
+MODSMD_ARTICLE03: Eine tschechische „Sensationsmeldung".
+Found
+MODSMD_ARTICLE04: Das Deutschtum in Polen Zur Mitarbeit am Staat bereit.
+Found
+MODSMD_ARTICLE05: Danzig-Polnisches Abkommen über Einfuhrkontingente.
+Found
+MODSMD_ARTICLE06: Zurückweisung demokratischer Friedensideologien. –
+Not Found
+MODSMD_ARTICLE07: Der „schweigsame Agitator" Leo lakobsohn-Gaikis.
+Found
+MODSMD_ARTICLE08: Englische Blätter über bolschewistische
+Found
+MODSMD_ARTICLE09: Kommunistische Hetzer in Oesterreich verurteilt.
+Found
+MODSMD_ARTICLE10: Sowjetgeneral Jegorow wieder in Moskau.
+Found
+MODSMD_ARTICLE11: Streikhetze auch unter amerikanischen Verkäuferinnen.
+Found
+MODSMD_ARTICLE12: Amerikas Anspruch auf die „Freiheit der Meere".
+Found
+MODSMD_ARTICLE13: Streik japanischer Handelsschiffsoffiziere.
+Found
+MODSMD_ARTICLE14: Aden wird englische Kolonie.
+Found
+MODSMD_ARTICLE15: Australisches Verkehrsflugzeug zerstört aufgefunden.
+Found

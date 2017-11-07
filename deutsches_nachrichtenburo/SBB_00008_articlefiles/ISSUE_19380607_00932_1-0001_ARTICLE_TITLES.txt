@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Tie große Stärke der deutschen Fliegerei!
+Found
+MODSMD_ARTICLE02: Blum vor dem sozialdemokratischm Parteitag.
+Found
+MODSMD_ARTICLE03: Italien weist die französische Hetzpresse zurecht.
+Found
+MODSMD_ARTICLE04: Polen zu den Preßburger Kundgebungen.
+Found
+MODSMD_ARTICLE05: Umfassendes Arbeitsprogramm der Schweiz.
+Found
+MODSMD_ARTICLE06: Vermehrtem britisch-deutscher Frontkämpferaustausch.
+Found
+MODSMD_ARTICLE07: Zunahme der Arbeitslosigkeit in England.
+Found
+MODSMD_ARTICLE08: Sowjetsender Barcelona hetzt offen zum Kriege.
+Found
+MODSMD_ARTICLE09: „Barcelona wollte in letzter Minute provozieren."
+Found
+MODSMD_ARTICLE10: Aufschlußreiche sowjetspanische „Dankesbeweise".
+Found
+MODSMD_ARTICLE11: Ein neuer Beweis für Moskaus Einmischung in Spanien.
+Found
+MODSMD_ARTICLE12: Tolle Betrügereien von Sowjetfunktionären in Moskau.
+Found
+MODSMD_ARTICLE13: Nordamerikanisches Liebeswerben um Lateinamerika.
+Found

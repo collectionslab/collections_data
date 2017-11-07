@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Die deutsch-französischen Wirtschaftsabkommen.
+Found
+MODSMD_ARTICLE02: Der Generalstreik im Pariser Gasthausgewerbe.
+Found
+MODSMD_ARTICLE03: London verhandelt in der Nichteinmischungsfrage.
+Found
+MODSMD_ARTICLE04: Die belgische Regierungskrise.
+Found
+MODSMD_ARTICLE05: Vollstreckung eines Todesurteils.
+Found

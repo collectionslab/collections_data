@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Antal von Dr. Goebbels empfangen.
+Found
+MODSMD_ARTICLE02: Schlußsitzung des Internationalen Gartenbaukongresses.
+Found
+MODSMD_ARTICLE03: Für eine deutsch-amerikanische Wirtschaftsverständigung.
+Found
+MODSMD_ARTICLE05: Tiroler Kreis Feldkirch frei von Arbeitslosen.
+Found
+MODSMD_ARTICLE06: Dr. Georg Heim gestorben.
+Found
+MODSMD_ARTICLE07: 56 666 zu Hlinkas Begräbnis erwartet.
+Found
+MODSMD_ARTICLE08: „Ein Beitrag zur Verständigung Frankreich—Deutschlands
+Found
+MODSMD_ARTICLE09: Beginn der belgischen Armeemanöver.
+Found
+MODSMD_ARTICLE10: Französische Werft liefert Barcelona drei Schnellboote.
+Found
+MODSMD_ARTICLE11: Verhandlungen zwischen Frankreich und Nationalspanien?
+Found
+MODSMD_ARTICLE12: Spanische Kommunisten beklagen sich beim Sowjetbotschaster.
+Found
+MODSMD_ARTICLE13: Ein rotspanischer „Gerichtspräsident".
+Found
+MODSMD_ARTICLE14: Rotspanischer Tankdampfer versenkt.
+Found
+MODSMD_ARTICLE15: Die Wahlen zum Sandschak-Parlament verschoben.
+Found
+MODSMD_ARTICLE16: Japanischer Vorstost westlich Kiukiang.
+Found
+MODSMD_ARTICLE17: Japanische Regierungsanleihe.
+Found

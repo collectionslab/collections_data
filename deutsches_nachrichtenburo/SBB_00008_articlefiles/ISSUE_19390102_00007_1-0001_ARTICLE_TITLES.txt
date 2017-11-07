@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Francos Pläne für den Aufbau Spaniens.
+Found
+MODSMD_ARTICLE02: Francas Offensive dauert an.
+Found
+MODSMD_ARTICLE03: Zwei englische Journalisten zur Jahreswende.
+Found
+MODSMD_ARTICLE04: Wieder ein irisches Zollhaus in die Luft gesprengt.
+Found
+MODSMD_ARTICLE05: Verabschiedung des Staatshaushalts in Frankreich.
+Found
+MODSMD_ARTICLE06: Pariser Pressestimmen zum Kammcrabschluß.
+Found
+MODSMD_ARTICLE07: Neujahrsempsang beim König der Hellenen.
+Found
+MODSMD_ARTICLE08: Starke Zunahme der Judentaufen in Italien.
+Found
+MODSMD_ARTICLE09: Die sozialreaktionären Gesetze in der Sowjetunion.
+Found
+MODSMD_ARTICLE10: Sowjetrussischer Verfolgungswahn.
+Found
+MODSMD_ARTICLE11: Tie Oelleituug nach Haifa in Brand.
+Found
+MODSMD_ARTICLE12: Das britische Schreckensregiment in Palästina.
+Found
+MODSMD_ARTICLE13: Der Araberangriff galt Tegart.
+Found
+MODSMD_ARTICLE14: Fortsetzung der Besprechungen in Tokio.
+Found
+MODSMD_ARTICLE15: Tschnngking zum Vorgehen Wangtschingweis.
+Found

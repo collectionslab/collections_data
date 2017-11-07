@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Reichsdeutsche Auslandslchrlinge bei Rudolf Heß.
+Found
+MODSMD_ARTICLE02: Dr. Ley spendet für das Tankopser der SA.
+Found
+MODSMD_ARTICLE03: Weihe des ersten Feierabendhauses der TAF.
+Found
+MODSMD_ARTICLE04: Gemeinschaftsliste für Memelcr Stadtverordnetenwahl.
+Found
+MODSMD_ARTICLE05: Weitere französische Wahlergebnisse.
+Found
+MODSMD_ARTICLE06: Englischer Politiker zur Völkerbundspolitik.
+Found
+MODSMD_ARTICLE07: Oesterreich will Jnvestitionskredit aufnehmen.
+Found
+MODSMD_ARTICLE08: „Gazeta Polska" zur Ungarnreise Koscialkowskis.
+Found
+MODSMD_ARTICLE09: Eine Tagung des polnischen Schützenverbandes.
+Found
+MODSMD_ARTICLE10: Woroschilow droht Japan.
+Found
+MODSMD_ARTICLE11: Die sowjetrussisch-japanischen Grenzverhandlungen.
+Found
+MODSMD_ARTICLE12: Die Frage des Fischerei-Abkommens mit Japan.
+Found
+MODSMD_ARTICLE13: Marschall Badoglio an das abessinische Volk.
+Found
+MODSMD_ARTICLE14: 3666 Lastautos im Anmarsch auf Addis Abeba.
+Found
+MODSMD_ARTICLE15: Französischer Flieger narrt die Luftpolizei.
+Found
+MODSMD_ARTICLE16: Der arabische Generalstreik.
+Found
+MODSMD_ARTICLE17: Eine Wahlrede Roosevelts.
+Found
+MODSMD_ARTICLE18: Professor Abendroth dirigierte in Warschau.
+Found

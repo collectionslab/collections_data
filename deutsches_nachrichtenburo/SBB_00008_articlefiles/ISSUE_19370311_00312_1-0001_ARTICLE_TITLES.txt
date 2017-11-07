@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Pfundtner: Das Werk und die Arbeit Dr. Fricks.
+Found
+MODSMD_ARTICLE03: Professor Manacorda bei Reichsunnister Dr. Frank.
+Found
+MODSMD_ARTICLE04: Vierjahresplan und berufsbildendes Schulwesen.
+Found
+MODSMD_ARTICLE05: Indische Rettungsmedaille für Kreuzer „Emden".
+Found
+MODSMD_ARTICLE06: Neue Polizeikuranstalt im Schwarzwald.
+Found
+MODSMD_ARTICLE07: Deutsch-schweizerische Reiseverkehrsbesprechungen.
+Found
+MODSMD_ARTICLE08: 95 v. H. der Autobusschaffner in Schottland streiken.
+Found
+MODSMD_ARTICLE09: Englands prüft belgische Westpakt-NqN
+Found
+MODSMD_ARTICLE10: Der neue ägyptische Botschafter in London.
+Found
+MODSMD_ARTICLE11: Spanienreisen britischer Staatsangehöriger erschwert.
+Found
+MODSMD_ARTICLE12: Kampftätigkeit im Südosten von Madrid.
+Found
+MODSMD_ARTICLE13: Starke Verluste der Bolschewisten.
+Found
+MODSMD_ARTICLE14: Lagerhäuser durch tunesische Eingeborene gestürmt.
+Found
+MODSMD_ARTICLE15: Sonderheft des Arbeitsausschusses Deutscher Verbände.
+Found

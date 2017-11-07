@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Auch Uruguay nimmt keine Juden.
+Found
+MODSMD_ARTICLE02: „Graf Zeppelins" Nachtflug.
+Found
+MODSMD_ARTICLE03: Deutsch schweizerische Wirtschaftsvereinbarungen.
+Found
+MODSMD_ARTICLE04: Begrüßung Ribbentrops in der Pariser Presse..
+Found
+MODSMD_ARTICLE06: Deutscher Volksrat in der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE07: Der Abschluß der slowakisch-polnischen Verhandlungen.
+Found
+MODSMD_ARTICLE08: Amnestieerlaß des tschechischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE09: Die Korruption im Sowjetstaat.
+Found
+MODSMD_ARTICLE10: Warschauer Juden versteckten kommunistische Kuriere.
+Found
+MODSMD_ARTICLE11: Ein neuer Jnvestierungsplan Polens.
+Found
+MODSMD_ARTICLE12: „Giornale dsFialia": Ein hartes Erwachen in Frankreich.
+Found
+MODSMD_ARTICLE13: Das Durcheinander in Rotspanien.
+Found

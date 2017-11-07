@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Luftflottenkommando 4 in Wien gebildet.
+Found
+MODSMD_ARTICLE02: „Tag der Wehrmacht" auch in Prag.
+Found
+MODSMD_ARTICLE03: Prag beeindruckt von der Stärke der deutschen Wehrmacht.
+Found
+MODSMD_ARTICLE04: Die Prager Presse Zur Neuordnung in Böhmen und Mähren
+Found
+MODSMD_ARTICLE05: „Lidove Noviny" über Brünns größten Tag. –
+Not Found
+MODSMD_ARTICLE06: Mjähriges Militärjubiläum von General Liebmann.
+Found
+MODSMD_ARTICLE07: Dr. Goebbels Schirmherr des Beethoven-Festes.
+Found
+MODSMD_ARTICLE08: Neue Wege im geistigen Austausch zweier Völker.
+Found
+MODSMD_ARTICLE09: Um die Lösung der kroatischen Frage.
+Found
+MODSMD_ARTICLE10: Die Ermächtigungsgesetze vor der Kammer.
+Found
+MODSMD_ARTICLE11: Tie dänischen Nationalsozialisten als Partei angemeldet.
+Found
+MODSMD_ARTICLE12: Madrider Einzelhandel völlig lahmgelegt»
+Found
+MODSMD_ARTICLE13: Die Sowjet-Presse verschweigt Protektorat.
+Found
+MODSMD_ARTICLE14: Gefährliche jüdische Stimmungsmache in Südafrika.
+Found
+MODSMD_ARTICLE15: Die Kennzahl der Großhandelspreise vom 15. März.
+Found
+MODSMD_ARTICLE16: Vollstreckung eines Todesurteils.
+Found

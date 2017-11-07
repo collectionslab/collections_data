@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer an Rosenberg und Ganleiter Josef Wagner.
+Found
+MODSMD_ARTICLE02: Urlaubsreise des Ministerpräsidenten Görina.
+Found
+MODSMD_ARTICLE03: Stärkster Eindruck der Friedenserklärung des Führers.
+Found
+MODSMD_ARTICLE04: Neujahrsempfang bei Bundespräsident Miklas.
+Found
+MODSMD_ARTICLE05: Die Verhetzung der Roten in Frankreich.
+Found
+MODSMD_ARTICLE06: Der roten Hölle Sowjetrußlands entronnen!
+Found
+MODSMD_ARTICLE07: Blackburn stellt wöchentlich 14 Million Gasmasken fertig.
+Found
+MODSMD_ARTICLE08: Lampson überreicht Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE09: Engste Freimaurer-Verbindung zwischen Moskau und Paris.
+Found
+MODSMD_ARTICLE10: Sowjetdebatten mit der üblichen Hetzpropaganda.
+Found
+MODSMD_ARTICLE11: Eine kommunistische Armee bei Sianfu.
+Found
+MODSMD_ARTICLE12: Zwei Schiffskatastrophen in Schottland und Japan.
+Found
+MODSMD_ARTICLE13: Neues Flugzeugunglück in Amerika.
+Found

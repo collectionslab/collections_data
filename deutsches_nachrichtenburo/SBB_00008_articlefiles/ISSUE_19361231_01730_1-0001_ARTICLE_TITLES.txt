@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer nach Berchtesgaden zurückgekehrt.
+Found
+MODSMD_ARTICLE02: Deutsch-Argentinisches Handelsabkommen.
+Found
+MODSMD_ARTICLE03: Eine Neujahrsbotschaft Baldwins.
+Found
+MODSMD_ARTICLE04: Millionenbetrug mit gefälschten Goldbarren.
+Found
+MODSMD_ARTICLE05: Die Sowjetregierung stellt Bedingungen.
+Found
+MODSMD_ARTICLE06: Ml Schotten für die Bolschewisten in Spanien angeworben.
+Found
+MODSMD_ARTICLE07: Kilotti überreicht sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE08: Neue Bolschewisten Anwerbungen in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE09: Wie die Freimaurer arbeiten.
+Found
+MODSMD_ARTICLE10: Handel mit den spanischen Bolschewisten Landesverrat.
+Found
+MODSMD_ARTICLE11: Der Direktor der Gasanstalt von Varese verhaftet.
+Found
+MODSMD_ARTICLE12: Amtlicher Bericht über die Athener Besprechungen.
+Found
+MODSMD_ARTICLE13: Der Ausbau der ägyptischen Armee.
+Found
+MODSMD_ARTICLE14: Waffenstillstand in Waziristan.
+Found
+MODSMD_ARTICLE15: England für Status quo im Stillen Ozean.
+Found
+MODSMD_ARTICLE16: Eine Erklärung des amerikanischen Kriegsamtes.
+Found
+MODSMD_ARTICLE17: Die amerikanischen Flugzeugmotoren für Rot-Spanien.
+Found
+MODSMD_ARTICLE18: Die Folgen des amerikanische Seemannsstreikes.
+Found
+MODSMD_ARTICLE19: Gesetz über die Verfassungsänderung in Uruguay.
+Found

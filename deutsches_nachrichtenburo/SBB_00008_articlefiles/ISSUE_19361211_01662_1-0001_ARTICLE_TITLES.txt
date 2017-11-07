@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Neuer deutscher Schritt in Moskau.
+Found
+MODSMD_ARTICLE02: Zum kommissarischen Regierungspräsidenten ernannt.
+Found
+MODSMD_ARTICLE03: Am Sonnabend Eidesleistung des Unterhauses.
+Found
+MODSMD_ARTICLE04: Unterhansanfragen zu Gencralstabsbesprechungen.
+Found
+MODSMD_ARTICLE05: Eine „Französische Radikale Partei" gegründet.
+Found
+MODSMD_ARTICLE06: Verstärkung der sowjeirussischen Waffentransporte.
+Found
+MODSMD_ARTICLE07: Polen verbietet Waffenausfuhr nach Spanien.
+Found
+MODSMD_ARTICLE08: Ramon Franco Militärkommandant der Balearen.
+Found
+MODSMD_ARTICLE09: Die Erschließung des italienischen Imperiums.
+Found
+MODSMD_ARTICLE10: Ein jüdisch-bolschewistisches Entlastungsmanöver.
+Found
+MODSMD_ARTICLE11: Ungarische Pressestimmen über die jüdische Hetze.
+Found
+MODSMD_ARTICLE12: Hollands Befremden über den Sachverständigen in Chnr.
+Found
+MODSMD_ARTICLE13: Kommunistische Geheimorganisation in Wien aufgedeckt.
+Found
+MODSMD_ARTICLE14: Verhaftungen an der Schweizer Grenze.
+Found
+MODSMD_ARTICLE15: Ueberreichung der Nobelpreise in Stockholm.
+Found
+MODSMD_ARTICLE16: Neue Sowjet-Jndustriekommissare.
+Found
+MODSMD_ARTICLE17: Der neue japanische Botschafter in Moskau.
+Found
+MODSMD_ARTICLE18: Der Streitfall von Tsingtau beigelegt.
+Found
+MODSMD_ARTICLE19: Vollstreckung eines Todesurteils.
+Found

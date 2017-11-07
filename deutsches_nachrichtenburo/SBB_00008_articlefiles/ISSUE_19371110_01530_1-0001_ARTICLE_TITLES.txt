@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die Presse Zur Rede des Führers im Bürgerbräukeller.
+Found
+MODSMD_ARTICLE02: Prinz Zu Schaumburg-Lippe beim dänischen König.
+Found
+MODSMD_ARTICLE03: „Woche des Deutschen Buches" in Stockholm.
+Found
+MODSMD_ARTICLE04: Warschauer Sowjetbotschafter abberufen.
+Found
+MODSMD_ARTICLE05: Polen in seinen Entscheidungen selbständig.
+Found
+MODSMD_ARTICLE07: Die Universitäten Warschau und Lemberg geschlossen.
+Found
+MODSMD_ARTICLE08: Kanya vor dem Oberhausausschuß.
+Found
+MODSMD_ARTICLE09: Der rumänische Luftfahrt- und Marineminister in Mailand.
+Found
+MODSMD_ARTICLE10: London und Paris zur Rede Ehamberlaitts.
+Found
+MODSMD_ARTICLE11: Neue Besprechungen Eden Delbos Norman Davis.
+Found
+MODSMD_ARTICLE12: Vor der Antwort Japans an Brüssel.
+Found
+MODSMD_ARTICLE13: Japanische Säuberungsaktion in Nantao.
+Found
+MODSMD_ARTICLE14: Die Krise der syrischen Regierung einstweilen behoben.
+Found
+MODSMD_ARTICLE15: Türkischer Freundschaftsbesuch in Syrien.
+Found
+MODSMD_ARTICLE16: Katastrophale Lage im syrischen Unwettergebiet.
+Found
+MODSMD_ARTICLE17: Der Außenminister von Haiti in Washington.
+Found
+MODSMD_ARTICLE18: Remarque-Film in Chile verboten.
+Found

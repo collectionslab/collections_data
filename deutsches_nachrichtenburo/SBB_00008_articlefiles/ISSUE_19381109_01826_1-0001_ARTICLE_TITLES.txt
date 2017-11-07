@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Rom: Lebhafte Genugtuung über die Rede Ribbentrops.
+Found
+MODSMD_ARTICLE02: Nichtarier von italienischen Regatten ausgeschlossen.
+Found
+MODSMD_ARTICLE03: Marschall Balbo über die Kolonisierung Libyens.
+Found
+MODSMD_ARTICLE04: Parlamentseröffnung in Belgien.
+Found
+MODSMD_ARTICLE05: Positive Aufnahme der Rede Ribbentrops in Prag.
+Found
+MODSMD_ARTICLE06: Amtsniederlegung bei den Skodawerken.
+Found
+MODSMD_ARTICLE07: Slowakische Aktion gegen das Schächten.
+Found
+MODSMD_ARTICLE08: Zusammenschluß aller Karteien in der Slowakei.
+Found
+MODSMD_ARTICLE09: Namenstag des rumänischen Kronprinzen Michael.
+Found
+MODSMD_ARTICLE10: Fahndungsaktion nach jüdischem Gesindel.
+Found
+MODSMD_ARTICLE11: Lord Rothermere und Ward Price in Budapest.
+Found
+MODSMD_ARTICLE12: „Este Ujsag" zum 9. November.
+Found
+MODSMD_ARTICLE13: „Liberte" enthüllt jüdischen Paßschmuggel.
+Found
+MODSMD_ARTICLE14: Tie Verwandten Grynfzpans im Gefängnis.
+Found
+MODSMD_ARTICLE15: Verbot einer kommunistischen Versammlung in Zürich.
+Found
+MODSMD_ARTICLE16: Aussprache über die Thronrede im Oberhaus.
+Found
+MODSMD_ARTICLE17: Judentum und Kommunismus in Südafrika.
+Found
+MODSMD_ARTICLE18: Die Wahlen in USA. ruhig verlaufen.
+Found

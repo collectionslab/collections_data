@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Goebbels in Babelsberg.
+Found
+MODSMD_ARTICLE02: Aufbau der DAF. im Sudetengau.
+Found
+MODSMD_ARTICLE03: Wieder Fernsprechdienst mit der Tschechen
+Found
+MODSMD_ARTICLE04: Die Elbeschiffahrt wieder voll im Betrieb.
+Found
+MODSMD_ARTICLE05: Arbeitstagung des Reichsheimstättenamtes der DAF.
+Found
+MODSMD_ARTICLE06: Erwin Bälz-Gedächtmsfeier in Stuttgart.
+Found
+MODSMD_ARTICLE07: Reichsminister Ruft im Egerland.
+Found
+MODSMD_ARTICLE08: Sammlung aller nationalen Parteien.
+Found
+MODSMD_ARTICLE09: Verteidigungsfragen vor dem britischen Ministerrat.
+Found
+MODSMD_ARTICLE10: Botschafter Sir Nevile Henderson beim König.
+Found
+MODSMD_ARTICLE11: „Sandpiper"-Zwischensall beigelegt.
+Found
+MODSMD_ARTICLE12: Die ungarische Note vor dem Prager Ministerrat.
+Found
+MODSMD_ARTICLE13: Schweizer Haushaltsplan für 1939.
+Found
+MODSMD_ARTICLE14: Keine handelspolitische Bevorzugung Rotspaniens.
+Found
+MODSMD_ARTICLE15: Der Fall Hankaus amtlich bestätigt.
+Found
+MODSMD_ARTICLE16: Rascher Vormarsch auch in Sndchina.
+Found
+MODSMD_ARTICLE17: Die kommunistische Wühlarbeit in Südamerika.
+Found

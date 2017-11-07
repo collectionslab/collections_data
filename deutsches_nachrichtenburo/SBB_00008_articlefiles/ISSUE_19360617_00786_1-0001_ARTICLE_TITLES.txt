@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Empfänge beim Führer. Feierlicher Empfang des neuen Brasilianischen Botschafters.
+Found
+MODSMD_ARTICLE02: Empfang des neuen Dominikanischen Gesandten.
+Found
+MODSMD_ARTICLE03: Abschiedsbesuch des Estnischen Gesandten.
+Found
+MODSMD_ARTICLE04: Besuch griechischer Eisenbahner bei der Reichsbahn.
+Found
+MODSMD_ARTICLE05: Dr. Schacht in Budapest.
+Found
+MODSMD_ARTICLE06: Generalkonsul Dr. Thomas Gesandter in Bangkok.
+Found
+MODSMD_ARTICLE07: Schwere Streikausschreitungen.
+Found
+MODSMD_ARTICLE08: Das englische Kabinett zusammengetreten.
+Found
+MODSMD_ARTICLE09: Die englisch-sowjetrussischen Flotterbesprechungen.
+Found
+MODSMD_ARTICLE10: Wiederaufnahme der internationalen Zusammenarbeit?
+Found
+MODSMD_ARTICLE11: Neue italienische Verordnungen für Abessinien.
+Found
+MODSMD_ARTICLE12: Berlin im Juli—August ohne Polizeistunde.
+Not Found
+MODSMD_ARTICLE13: Der Sittlichkeitsprozest gegen die Franziskanerbrüder.
+Found
+MODSMD_ARTICLE14: Verurteilung des ehemaligen Vizekanzlers Hartleb.
+Found
+MODSMD_ARTICLE15: 60 Tote des Explosionsunglücks bei Reval.
+Found

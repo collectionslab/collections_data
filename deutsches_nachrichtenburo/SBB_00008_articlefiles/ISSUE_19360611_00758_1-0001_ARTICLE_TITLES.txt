@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Dr. Goebbels' Aussage im Baugrubenunglücksprozeß^
+Found
+MODSMD_ARTICLE02: Wehrvorlage vom Schweizerischen Ständerat angenommen.
+Found
+MODSMD_ARTICLE03: Dampfer zerschellt an der Wiener Reichsbrücke.
+Found
+MODSMD_ARTICLE04: Schwere Lage der spanischen Landwirte. .
+Found

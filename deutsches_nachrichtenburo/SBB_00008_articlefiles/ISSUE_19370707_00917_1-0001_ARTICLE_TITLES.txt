@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Regelung der Auslandsreisen von HJ.-Angehörigen.
+Found
+MODSMD_ARTICLE02: Schaffung einer neuen Kulturlandschaft.
+Found
+MODSMD_ARTICLE03: Der Historikertag in Erfurt.
+Found
+MODSMD_ARTICLE04: Abschluß der deutsch-franZösischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE05: Van Zeelands Mission verlängert.
+Found
+MODSMD_ARTICLE06: „Schonungsloser Kampf gegen die Staatsfeinde."
+Found
+MODSMD_ARTICLE07: Durcheinander in der sowjetrussischen Metallindustrie.
+Found
+MODSMD_ARTICLE08: Ernste Beurteilung des neuen mandschurischen Konflikts.
+Found
+MODSMD_ARTICLE09: Scharfer mandschurischer Protest.
+Found
+MODSMD_ARTICLE10: Die USA. bestellen 210 neue Kriegsflngzenge.
+Found

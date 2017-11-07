@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Vesetzungsplan bis 10. Oktober.
+Found
+MODSMD_ARTICLE02: Grüße der befreiten sudetendeutschen Gemeinden.
+Found
+MODSMD_ARTICLE03: Festliche Rückkehr in die befreite Heimat.
+Found
+MODSMD_ARTICLE04: Die Gulaschkanonen der NSV. fahren mit.
+Found
+MODSMD_ARTICLE05: Die Lebensmittelversorgung sichergestellt.
+Found
+MODSMD_ARTICLE06: Tie Regierungsbildung in Preßburg.
+Found
+MODSMD_ARTICLE07: Noch keine Klarheit über die Slowakei.
+Found
+MODSMD_ARTICLE08: Das Tagesziel des Vormarsches im Abschnitt IV erreicht.
+Found
+MODSMD_ARTICLE09: Ungarn nimmt Rücksicht auf Prager Regierungskrise.
+Found
+MODSMD_ARTICLE10: Schreckenstage im ungarischen Siedlungsgebiet.
+Found
+MODSMD_ARTICLE11: Ungarisch-polnische Besprechung in Warschau.
+Found
+MODSMD_ARTICLE12: „Sendboten der Völker."
+Found

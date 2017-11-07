@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Dreifacher deutscher Sieg im Acerbo-Pokal-Reuueu.
+Found
+MODSMD_ARTICLE03: Korpsführer Hühnlein beglückwünscht die Autouniou.
+Found
+MODSMD_ARTICLE04: LZ „Hittdenburg" zur 7. Nordamerika-Fahrt gestartet.
+Found
+MODSMD_ARTICLE05: Zwei schwedische Segelschulschiffe in Kiel.
+Found
+MODSMD_ARTICLE06: Internationale Marine-Pokal-Segelwettfahrten in Kiel.
+Found
+MODSMD_ARTICLE07: Erinnerungsplaketten für Engländer.
+Found
+MODSMD_ARTICLE08: Das deutsch-litauische Handelsabkommen in Kraft.
+Found
+MODSMD_ARTICLE09: Spanien-Deutsche aus Madrid berichten.
+Found
+MODSMD_ARTICLE10: Der britische Geschäftsträger erneut bei Delbos.
+Found
+MODSMD_ARTICLE11: 19 französische Militärflugzeuge iu Barcelona.
+Found
+MODSMD_ARTICLE12: Unversehrt in Huelva eingetroffen.
+Found
+MODSMD_ARTICLE13: Nationalistische Rundfunksender melden neue Erfolge.
+Found
+MODSMD_ARTICLE14: Marxistischer Massenmord in Gijon.
+Found
+MODSMD_ARTICLE15: Erfolgreicher Bormarsch auf Malaga.
+Found
+MODSMD_ARTICLE16: Die Kämpfe um San Sebastian.
+Found
+MODSMD_ARTICLE17: Sieben englische Flugzeuge für Spanien gestartet.
+Found
+MODSMD_ARTICLE18: Ankunft der „valenzianischen Gespenstertruppe".
+Found
+MODSMD_ARTICLE19: Feierliche Hissung der alten spanischen Nationalfahue.
+Found
+MODSMD_ARTICLE20: Neue französische Geschwaderchefs.
+Found

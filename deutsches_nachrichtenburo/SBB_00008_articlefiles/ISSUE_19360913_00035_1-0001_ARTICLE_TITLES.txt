@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Parteitag der Ehre.
+Found
+MODSMD_ARTICLE02: Der Kongreß nimmt seinen Fortgang.
+Found
+MODSMD_ARTICLE03: .Reichsleiter Dr.
+Found

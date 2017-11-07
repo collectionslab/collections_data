@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Umwandlung diplomatischer Vertretungen in Wien.
+Found
+MODSMD_ARTICLE02: Kranzniederlegung der Oesterreicher im Berliner Ehrenmal.
+Found
+MODSMD_ARTICLE03: slMhriges Militärjubilinim Oberst Reinhards.
+Found
+MODSMD_ARTICLE04: Zgjähriaes Dienstjubiläum von Generalmajor v. Hanneken.
+Found
+MODSMD_ARTICLE05: Neuer Leiter des österreichischen Roten Kreuzes.
+Found
+MODSMD_ARTICLE06: Rechtsanwalt Dr. Sutter iu Hallein gestorben.
+Found
+MODSMD_ARTICLE07: Ungarns Kultusminister Zur Sprachenregelung in Schulen.
+Found
+MODSMD_ARTICLE08: Die Laufbahn eines bolschewistischen Priestermörders.
+Found
+MODSMD_ARTICLE09: Die „Schleswig-Holstein" in Messina.
+Found
+MODSMD_ARTICLE10: Marxistische Wahlniederlage in Zürich.
+Found
+MODSMD_ARTICLE11: Die Zwecklosigkeit der Genfer Liga.
+Found
+MODSMD_ARTICLE12: Der Erste Seelord auf der Heimfahrt nach London.
+Found
+MODSMD_ARTICLE13: Eröffnung der Internationalen Lepra-Tagung in Kairo.
+Found
+MODSMD_ARTICLE14: Rücktrittsgesuch des ägyptischen Gesandten in London.
+Found
+MODSMD_ARTICLE15: Der syrische Finanzminister zurückgetreten.
+Found
+MODSMD_ARTICLE16: Mordanschlag in Jerusalem.
+Found
+MODSMD_ARTICLE17: Saudisch-Arabien errichtet Propagandabüros.
+Found
+MODSMD_ARTICLE18: Verschärfung der Unruhen in Allahabad.
+Found

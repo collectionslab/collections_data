@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Vierter Opfersonntag: 12,8 Mill. Mark.
+Found
+MODSMD_ARTICLE02: Ernüchterung über die Aussichten der britischen Blockade.
+Found
+MODSMD_ARTICLE03: Starke Beachtung der Führerrede in Belgien.
+Found
+MODSMD_ARTICLE04: Ein gefährliches Mißverhältnis.
+Found
+MODSMD_ARTICLE05: Rückgang der französischen Eisen- und Stahlindustrie.
+Found
+MODSMD_ARTICLE06: Norwegischer Dampfer gesunken.
+Found
+MODSMD_ARTICLE07: Staunen über den Erzbischos von Canterbury.
+Found
+MODSMD_ARTICLE08: Großkampftag der russischen Luftwaffe.
+Found
+MODSMD_ARTICLE09: „Regime Fascista" prangert die britische Heuchelei an.
+Found
+MODSMD_ARTICLE10: Der finnische Heeresbericht vom 3V. Januar.
+Found
+MODSMD_ARTICLE11: Die Dominien müssen Englands Kriegskosten aufbringen.
+Found
+MODSMD_ARTICLE12: Vollstreckung eines Todesurteils.
+Found

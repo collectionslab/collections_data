@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Nachmittags-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Der Eindruck der Führerrede im Ausland.
+Found
+MODSMD_ARTICLE03: Gestörter Rundfunkempfang auch in Rumänien.
+Found
+MODSMD_ARTICLE04: Sowjetsender störten auch in Finnland.
+Found
+MODSMD_ARTICLE05: Der Führer an Generaloberstabsarzt Dr. Waldmann.
+Found
+MODSMD_ARTICLE06: Wirtschaftspolitische Rede Henleins.
+Found
+MODSMD_ARTICLE07: Der Gründungstag des Lagers der nationalen Einigung.
+Found
+MODSMD_ARTICLE08: Die Spionageaugelegenheit von Fagersta.
+Found
+MODSMD_ARTICLE09: Halifax mit der Leitung des Foreign Office beauftragt.
+Found
+MODSMD_ARTICLE10: Für ein Verbot der Kommunistischen Partei!
+Found
+MODSMD_ARTICLE11: „Sojusfoto" bestätigt die Identität Budenkos.
+Found
+MODSMD_ARTICLE12: „Admiral Scheer" i>n Bilba.
+Found
+MODSMD_ARTICLE13: Sowjetspanien gesteht die Niederlage bei Teruel ein.
+Found
+MODSMD_ARTICLE14: Bombenanschlag in Philadelphia.
+Found

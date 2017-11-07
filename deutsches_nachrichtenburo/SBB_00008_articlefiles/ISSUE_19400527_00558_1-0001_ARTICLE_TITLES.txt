@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Zum Ministerialdirigenten ernannt.
+Found
+MODSMD_ARTICLE02: Botschafter Alfieri sprach zu seinen Landsleuten.
+Found
+MODSMD_ARTICLE03: Erneute deutsche Warnung.
+Found
+MODSMD_ARTICLE04: Graf Ciano aus Albanien zurückgekehrt.
+Found
+MODSMD_ARTICLE05: Plutokraten in Sorge um ihr kostbares Leben.
+Found
+MODSMD_ARTICLE06: Rom: „Aussichtslos für die Westmächte".
+Found
+MODSMD_ARTICLE07: „Ungarn an der Seite der jungen Völker."
+Found
+MODSMD_ARTICLE08: Rom: „Auch diese Kampferspritze hilft Wcht".
+Found
+MODSMD_ARTICLE09: Emigrantenlüge richtig gestellt.
+Found
+MODSMD_ARTICLE10: Trübselige Betrachtungen in London.
+Found
+MODSMD_ARTICLE11: Englischer Flugzeugträger versenkt.
+Found
+MODSMD_ARTICLE12: Das ist englische „Logik".
+Found
+MODSMD_ARTICLE13: Das Heldenlied von Narvik.
+Found
+MODSMD_ARTICLE14: 86 666 Iren in England ihres Broterwerbs beraubt.
+Found
+MODSMD_ARTICLE15: Angst vor der Wahrheit.
+Found
+MODSMD_ARTICLE16: Secret Service auch in Japan am Werk.
+Found

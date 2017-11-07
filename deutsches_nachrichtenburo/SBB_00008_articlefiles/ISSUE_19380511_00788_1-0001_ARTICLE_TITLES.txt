@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Viktor Emanuel M. an den Führer.
+Found
+MODSMD_ARTICLE02: Em Rückblick des „Regime Fascista".
+Found
+MODSMD_ARTICLE03: Paris zum Einzug des Führers in Berlin.
+Found
+MODSMD_ARTICLE04: Polnische Berichte über die Rückkehr des Führers.
+Found
+MODSMD_ARTICLE05: Deutsch-polnische Luftverkehrsverhandlungen.
+Found
+MODSMD_ARTICLE06: Zwischenstaatliche Golfstrom-Untersuchungen beschlossen.
+Found
+MODSMD_ARTICLE07: Keine Zollpassierscheine mehr nach Oesterreich.
+Found
+MODSMD_ARTICLE08: Das Aufbauprogramm der Reichsbahn in Oesterreich.
+Found
+MODSMD_ARTICLE09: Die Berliner Philharmoniker in Paris.
+Found
+MODSMD_ARTICLE10: sudetendeutsche Postbeamte stoßen Zu Henlein.
+Found
+MODSMD_ARTICLE11: Hoher japanischer Orden für Außenminister Beck.
+Found
+MODSMD_ARTICLE12: Wieder Postverkehr Zwischen Polen und Litauen.
+Found
+MODSMD_ARTICLE13: Nur Einzelaktionen in Spanien.
+Found
+MODSMD_ARTICLE14: k Destonr-Mitglieder verurteilt.
+Found
+MODSMD_ARTICLE15: Verbindung Hongkong—Amoy abgeschnitten.
+Found
+MODSMD_ARTICLE16: Deutsche Lehrmittel-Ausstellung in Santiago.
+Found

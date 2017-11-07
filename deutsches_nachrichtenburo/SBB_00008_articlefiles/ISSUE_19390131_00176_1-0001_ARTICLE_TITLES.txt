@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Die ausländischen Reiter beim Führer.
+Found
+MODSMD_ARTICLE02: Beförderungen in der Reichskanzlei.
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Frank empfing japanischen Juristen.
+Found
+MODSMD_ARTICLE04: Ernennung im Reichsernährungsministerium.
+Found
+MODSMD_ARTICLE05: Wintertagung des Reichsnährstandes»
+Found
+MODSMD_ARTICLE06: „Deutsches Bauerntum im Wandel, der Zeiten."
+Found
+MODSMD_ARTICLE07: Gründung einer Slowakisch-Deutschen Gesellschaft.
+Found
+MODSMD_ARTICLE08: Frankreich ernennt einen Militärattache für Prag.
+Found
+MODSMD_ARTICLE09: Die nationalfpanische Gesandtschaft in Prag.
+Found
+MODSMD_ARTICLE10: Vertrauen zur Führung des Großdeutschen Reiches.
+Found
+MODSMD_ARTICLE11: England beteiligt sich an der Weltausstellung 1942 in Rom.
+Found
+MODSMD_ARTICLE12: „Peuple Algerien" auf der Anklagebank.
+Found
+MODSMD_ARTICLE13: Amnestieanträge vor der Kammer.
+Found
+MODSMD_ARTICLE14: So dankt die geflüchtete rote Miliz.
+Found
+MODSMD_ARTICLE15: Weiterer Vormarsch auf Bich.
+Found
+MODSMD_ARTICLE16: Der Aufbauwille in Barcelona.
+Found
+MODSMD_ARTICLE17: Die Faschistische Partei grüßt das nationale Spanien.
+Found
+MODSMD_ARTICLE18: Eine Lüge des „Eveuing Standard".
+Found
+MODSMD_ARTICLE19: Keine zentralistische Zusammenfassung Chinas.
+Found
+MODSMD_ARTICLE20: Japanische Erfolge in Südschansi.
+Found
+MODSMD_ARTICLE21: Todesstrafe und dauernder Ehrverlust als Sühne.
+Found

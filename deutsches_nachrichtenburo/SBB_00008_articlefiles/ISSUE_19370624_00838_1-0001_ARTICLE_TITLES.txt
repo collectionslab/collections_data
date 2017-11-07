@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Beileidstelegramm zum Nanga-Parbat-Unglück.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Amerikanischer Marinebesuch beim Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE04: Ein Ordensbruder vergreift sich an 10jährigen Mädchen.
+Found
+MODSMD_ARTICLE06: „Solidarität gegenüber dem befreundeten Deutschland".
+Found
+MODSMD_ARTICLE07: Italienische Skepsis gegenüber Chautemps.
+Found
+MODSMD_ARTICLE08: Beschlüsse des italienischen Ministerrats.
+Found
+MODSMD_ARTICLE09: Kabinettsrat in London.
+Found
+MODSMD_ARTICLE10: Am Freitag außenpolitische Aussprache im Unterhaus.
+Found
+MODSMD_ARTICLE11: Kammeranfragen über die neue Regierung.
+Found
+MODSMD_ARTICLE12: Unruhen in CZenstochau.
+Found
+MODSMD_ARTICLE13: Sämtliche Zuckerfabriken auf Trinidad bestreikt.
+Found
+MODSMD_ARTICLE14: Auslandsdeutsche sammeln für die Nanga-Parbat-Expedition.
+Found

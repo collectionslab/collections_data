@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Reichskriegerbund und SS. grüßen gemeinsam den Führer.
+Found
+MODSMD_ARTICLE02: Dr. Ley kündigt neue große Maßnahmen an.
+Found
+MODSMD_ARTICLE03: Um die Verstaatlichung der Wawel-Kathedrale.
+Found
+MODSMD_ARTICLE04: Frankreich zieht sich vom Währungsabkommen Zurück?
+Found
+MODSMD_ARTICLE05: Die neuen englischen Schlachtschiffe.
+Found
+MODSMD_ARTICLE06: „Die bisherige Nichteinmischnngspolitik gefährdet."
+Found
+MODSMD_ARTICLE07: Die italienische Presse zur Frage der Seekontrolle.
+Found
+MODSMD_ARTICLE08: Paris registriert in London „kühle Atmosphäre".
+Found
+MODSMD_ARTICLE09: Sowjetspanischer Dampfer festgehalten.
+Found
+MODSMD_ARTICLE10: Die Kommunisten dürfen sich an Wahlen nicht beteiligen.
+Found

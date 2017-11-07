@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Dr. Frank auf einer Großkundgebung der Kartei in Hamburg.
+Found
+MODSMD_ARTICLE02: Moskauer Knechtung und Genfer Pflichtverletzungen.
+Found
+MODSMD_ARTICLE03: Neue Musikhochschule in Dresden eröffnet.
+Found
+MODSMD_ARTICLE04: SA.-Obersturmführer Roscndurg gestorben.
+Found
+MODSMD_ARTICLE05: Deutsche Zeitungsverleger in Paris eingetroffen.
+Found
+MODSMD_ARTICLE06: Besprechungen Delbos—Chautemps und Delbos—Phipps.
+Not Found
+MODSMD_ARTICLE07: Ungewolltes Eingeständnis eines Engländers.
+Found
+MODSMD_ARTICLE08: Internationaler Bäderverband gegründet.
+Found

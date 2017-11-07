@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Hilfsmaßnahmen für die Chinadeutschen.
+Found
+MODSMD_ARTICLE02: Der Milchwirtschaftliche Weltkongreß.
+Found
+MODSMD_ARTICLE03: Führertagung der Hitler-Jugend in Trier.
+Found
+MODSMD_ARTICLE04: Hohe Anerkennung für den Farbenfilm „Deutschland".
+Found
+MODSMD_ARTICLE05: Ein dreistes Ablenkungsmanöver der Valencia-Bolschewisten.
+Found
+MODSMD_ARTICLE06: „Freiwillige Spenden" für die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE07: Ununterbrochener Bormarsch der Nationalspanier
+Found
+MODSMD_ARTICLE08: Die angegriffene „Naomi Julia" unbeschädigt.
+Found
+MODSMD_ARTICLE09: In London rechnet man mit baldigem Fall Santanders.
+Found
+MODSMD_ARTICLE10: England bereitet Wiedereinfuhr spanischer Eisenerze vor.
+Found
+MODSMD_ARTICLE11: ~Keine Anzeichen für eine kritische Entwicklung".
+Found
+MODSMD_ARTICLE12: Japan will die ausländischen Interessen in Schanghai achten.
+Found
+MODSMD_ARTICLE13: Das indische Abgeordnetenhaus zusammengetreten.
+Found
+MODSMD_ARTICLE14: Eine formelle Erklärung Hulls.
+Found
+MODSMD_ARTICLE15: Entrüstung reisender Amerikaner über Sowjetbrüskierungen
+Found
+MODSMD_ARTICLE16: Vor Nationalisierung der mexikanischen Erdölindustrie?
+Found

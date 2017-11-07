@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Aegyptens Ministerpräsident bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Tr. Ley in Rostock.
+Found
+MODSMD_ARTICLE03: Briefwechsel Avenol—Greiser.
+Not Found
+MODSMD_ARTICLE04: Verschlechterung im Befinden von Gömbös.
+Found
+MODSMD_ARTICLE05: Buddes!"'s Bndnvest.
+Found
+MODSMD_ARTICLE06: Lord Allan of Hurtwood gegen Sowjeteinmischungen.
+Found
+MODSMD_ARTICLE07: Abwertungs- und Rohstoffragen vor dem Völkerbund.
+Found
+MODSMD_ARTICLE09: Tie neuen italienischen Wirtschaftsgesetze.
+Found
+MODSMD_ARTICLE10: Tagung des Internationalen Landwirtschaftsinstituts.
+Found
+MODSMD_ARTICLE11: Die Unterbringung der spanischen Rotfrontler in Frankreich.
+Found
+MODSMD_ARTICLE12: Erfolgreiches Borgeheu der nationalen Truppen.
+Found
+MODSMD_ARTICLE13: „EI Socialista" über die Lage in Madrid.
+Found

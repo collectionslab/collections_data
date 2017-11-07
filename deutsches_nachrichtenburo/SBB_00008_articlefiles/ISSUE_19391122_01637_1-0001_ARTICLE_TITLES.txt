@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Regierungserklärung Tukas vor dem Parlament.
+Found
+MODSMD_ARTICLE03: Genugtuung in der Slowakei.
+Found
+MODSMD_ARTICLE04: Die deutschen Flieger beunruhigen England.
+Found
+MODSMD_ARTICLE05: Die englische Niederlage vor Kronstadt.
+Found
+MODSMD_ARTICLE06: Nach Verfolgung und Warnung in Brand geschossen.
+Found
+MODSMD_ARTICLE07: „Defaitisten" wandern ins Gefängnis.
+Found
+MODSMD_ARTICLE08: Aus La Guardias Verwaltung^
+Found
+MODSMD_ARTICLE09: Englische „Vorkontrolle" amerikanischer Ausfuhrgüter.
+Found
+MODSMD_ARTICLE10: Gibt der Fakir von Jpi das Signal Zum Losschlagen?
+Found

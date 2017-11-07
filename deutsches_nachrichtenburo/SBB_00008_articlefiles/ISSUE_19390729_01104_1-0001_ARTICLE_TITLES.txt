@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ernennungen im Reichsministerium des Innern.
+Found
+MODSMD_ARTICLE02: Giiring beglückwünscht den Reichssportführer zum Erfolg.
+Found
+MODSMD_ARTICLE03: Enteignung tschechischen Grundbesitzes im Olsa-Gebiet.
+Found
+MODSMD_ARTICLE04: Billige Freuden der Pariser Presse.
+Found
+MODSMD_ARTICLE05: Rückgabe des spanischen Goldes.
+Found
+MODSMD_ARTICLE06: Jagd auf Jrexr in England.
+Found
+MODSMD_ARTICLE07: Ministerium für Einkreisungspropaganda.
+Found
+MODSMD_ARTICLE08: „Musterhafte Lügenschlag Zeilen."
+Found
+MODSMD_ARTICLE09: Der Krieg der JRA gegen England.
+Found
+MODSMD_ARTICLE10: Zweiter Condor-Flug nach Südamerika.
+Found

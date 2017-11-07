@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Göring am Grabmal seines Ersten Generalstabschefs.
+Found
+MODSMD_ARTICLE02: Die rmchsgesetzliche Unfallversicherung im Jahre 1936.
+Found
+MODSMD_ARTICLE03: Werkfilm vom Olympia-Film für Paris.
+Found
+MODSMD_ARTICLE04: Danzig-Ausstellung in Breslau eröffnet.
+Found
+MODSMD_ARTICLE05: Deutsch-Polnischer Eisenbahngrenzverkehr neu geregelt.
+Found
+MODSMD_ARTICLE06: 309 Polizisten schützen 16 Arbeiter vor Marxisten.
+Found
+MODSMD_ARTICLE07: Tagung des Republikanischen Verbandes in Paris.
+Found
+MODSMD_ARTICLE08: Minister Kung in Le Bourget.
+Found
+MODSMD_ARTICLE09: 27 italienische Freiwillige bei Malaga beigesetzt.
+Found
+MODSMD_ARTICLE10: General Mola tödlich abgestürzt.
+Found
+MODSMD_ARTICLE11: Schmeling zur Stelle Braddock fehlte.
+Found

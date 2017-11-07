@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Personalberänderungen im Bereich der Luftwaffe.
+Found
+MODSMD_ARTICLE02: Tr. Goebbels empfing japanischen Gelehrten.
+Found
+MODSMD_ARTICLE03: Am Sonnabend Luftschutz-Rede Görings!
+Found
+MODSMD_ARTICLE04: Arbeitstagung der Gaufunkhauptstellenleiter.
+Found
+MODSMD_ARTICLE05: Tagung der Gaurichter der NSDAP, in Stuttgart.
+Found
+MODSMD_ARTICLE06: Stapellauf holländischen Motorschiffes in Hamburg.
+Found
+MODSMD_ARTICLE07: Bulgariens Presse Zur Südostreise des Reichsaußenministers.
+Found
+MODSMD_ARTICLE08: Blomberg in Furbara und Guidonia.
+Found
+MODSMD_ARTICLE09: London steht mit Berlin, Rom und Paris in Fühlung.
+Found
+MODSMD_ARTICLE10: Die englische Regierung unterbreitet Vorschläge.
+Found
+MODSMD_ARTICLE11: Guatemalas Vertreter bei General Franca.
+Found
+MODSMD_ARTICLE12: Syrischer Proteststreik gegen das Sandschak-Abkommen.
+Found

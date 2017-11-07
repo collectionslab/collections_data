@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der erste Tag des Staatsbesuches.
+Found
+MODSMD_ARTICLE02: Regierungssieg im dänischen Folketing.
+Found
+MODSMD_ARTICLE03: Deutsch-polnisches Zusatzabkommen ratifiziert.
+Found
+MODSMD_ARTICLE04: Ergänzungen zum italienischen Judengesetz.
+Found
+MODSMD_ARTICLE05: Abfahrt der italienischen Freiwilligen.
+Found
+MODSMD_ARTICLE06: Personelle Veränderungen der höheren Sowjetverwaltung.
+Found
+MODSMD_ARTICLE07: Britische „Strafmaßnahmen" gegen Juden.
+Found
+MODSMD_ARTICLE08: Englische Foltermethoden in Palästina.
+Found
+MODSMD_ARTICLE09: Kaufleute desi Todes.
+Found
+MODSMD_ARTICLE11: General Moseley schlägt mit der Faust auf den Tisch!
+Found
+MODSMD_ARTICLE12: Mexiko zahlt an die Vereinigten Staaten Entschädigung.
+Found

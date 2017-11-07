@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Reichsminister Ruft in Wilhelmshaven.
+Found
+MODSMD_ARTICLE02: Berliner Professor erhält den Nobelpreis für Chemie.
+Found
+MODSMD_ARTICLE03: Wieder Rüstmlgsfrage bor dem Unterhaus.
+Found
+MODSMD_ARTICLE04: Ein Dementi Sir Oswald Möslohs.
+Found
+MODSMD_ARTICLE05: „Giornale d'Jtalia" über die Wiener Konferenz.
+Found
+MODSMD_ARTICLE06: Bottai italienischer Erziehungsminister.
+Found
+MODSMD_ARTICLE07: 2V Tote bei einem Flugzeugabsturz.
+Found
+MODSMD_ARTICLE08: Neue amerikanische Niesenbrücke dem Verkehr übergeben.
+Found
+MODSMD_ARTICLE09: Zwangsstillegung japanischer Baumwollfabrik in Schanghai.
+Found
+MODSMD_ARTICLE10: Italien stellt die Sowjetunion an den Pranger. f »
+Found

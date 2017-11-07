@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Schwedens Generalzolldirektor in Berlin.
+Found
+MODSMD_ARTICLE03: Spende für Angehörige verunglückter Autobahnarbeiter.
+Found
+MODSMD_ARTICLE04: Filmtheater am 24. Dezember geschlossen.
+Found
+MODSMD_ARTICLE05: Freie Weihnachtsfahrt.
+Found
+MODSMD_ARTICLE06: Landesbauernschaft Kurmark nach Frankfurt/Oder verlegt.
+Found
+MODSMD_ARTICLE07: Neichsminister Dr. Frick in Schwarzenberg.
+Found
+MODSMD_ARTICLE08: Die Neuordnung der Polizei in München.
+Found
+MODSMD_ARTICLE09: Der sowjetrussische Wahlschwindel.
+Found
+MODSMD_ARTICLE10: Delbos in Prag.
+Found
+MODSMD_ARTICLE11: Merkwürdige Ansicht eines französischen Gerichts.
+Found
+MODSMD_ARTICLE12: Wieder Waffenfunde in Paris.
+Found
+MODSMD_ARTICLE13: Der französische Kolonialhaushalt vor der Kammer.
+Found
+MODSMD_ARTICLE14: Eine halbe Milliarde Franken Weltausstellungsdefizit.
+Found
+MODSMD_ARTICLE15: Amsterdamer Gericht für Auslieferung Barmats an Belgien.
+Found
+MODSMD_ARTICLE16: Das neue Dienstpflichtgesetz in Holland.
+Found
+MODSMD_ARTICLE17: Maul- und Klauenseuche auch in Südafrika.
+Found
+MODSMD_ARTICLE18: Deutsch-amerikanische Sportverständigung.
+Found
+MODSMD_ARTICLE19: Die Deutschen in Nanking wohlauf.
+Found
+MODSMD_ARTICLE20: Kriegsschiffe Japans geleiten die überlebenden der „Panay".
+Found
+MODSMD_ARTICLE21: Italienischer Journalist unter den Toten der „Panay".
+Found
+MODSMD_ARTICLE22: Chinesische Befestigungen bei Hongkong bombardiert.
+Found

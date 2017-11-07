@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Schwerwiegender Beschluß der Reichsregierung.
+Found
+MODSMD_ARTICLE02: Ehrenpreis des Neichsministers.
+Found
+MODSMD_ARTICLE03: Erhöhter Anleihebetrag voll gezeichnet.
+Found
+MODSMD_ARTICLE04: Sechs deutsche Segelflieger überqueren die Alpen.
+Found
+MODSMD_ARTICLE05: Der Skagerrak-Gedenktag in Kiel.
+Found
+MODSMD_ARTICLE06: Vom Obersten Ehren- und Disziplinarhof der DAF.
+Found
+MODSMD_ARTICLE07: Einweihung der Gedenkstätte „Stedingsehre".
+Found
+MODSMD_ARTICLE08: Der Reichsnährstand Gast der Stadt München.
+Found
+MODSMD_ARTICLE09: Zweigstelle der Deutsch-Französischen Gesellschaft in KöÜn
+Found
+MODSMD_ARTICLE10: Besuch polnischer Beamter in Danzig.
+Found
+MODSMD_ARTICLE11: Einweihung des Heldenfriedhofs Smederewo.
+Found
+MODSMD_ARTICLE12: Verhaftungs- und Terrorwelle steigt.
+Found
+MODSMD_ARTICLE13: Henker Agranow in die Verbannung geschickt.
+Found

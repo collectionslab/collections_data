@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Stapellauf des Schweren Kreuzers „Ltttzow".
+Found
+MODSMD_ARTICLE02: Göring besichtigte das Müncheberger Institut.
+Found
+MODSMD_ARTICLE03: Ehrung eines verdienten Pioniers der deutschen Luftwaffe.
+Found
+MODSMD_ARTICLE04: Die italienischen Frontkämpfer auf der Heimfahrt.
+Found
+MODSMD_ARTICLE05: Macht England auch diesen Schwindel mit?
+Found
+MODSMD_ARTICLE06: Das deutsch-französische Handelsabkommen verlängert.
+Found
+MODSMD_ARTICLE07: Die Aussprache Strang—Molotow.
+Found
+MODSMD_ARTICLE08: Die Kennzahl der Großhandelspreise vom 28. Juni.
+Found

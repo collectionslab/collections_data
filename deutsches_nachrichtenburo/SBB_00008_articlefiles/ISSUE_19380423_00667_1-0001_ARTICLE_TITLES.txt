@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Berufung in den Reichsbanernrat.
+Found
+MODSMD_ARTICLE02: Ein Schwerverletzter von Zeche Concordia in Lebensgefahr.
+Found
+MODSMD_ARTICLE03: Deutsche Plastik-Ausstellung in Warschau.
+Found
+MODSMD_ARTICLE04: Die Behandlung der Deutschen in Ostoberschlesien.
+Found
+MODSMD_ARTICLE05: Die Hauptaufgabe der tschechoslowakischen Politik.
+Found
+MODSMD_ARTICLE06: So entstand die Tschechoslowakei!
+Found
+MODSMD_ARTICLE07: Tie Steuervorlage vor dem belgischen Kabinett.
+Found
+MODSMD_ARTICLE08: Wechsel im Amt des britischen Lordkämmerers.
+Found
+MODSMD_ARTICLE09: Zusammenarbeit in ärztlichen Fortbildungswesen.
+Found
+MODSMD_ARTICLE10: Metaxas zum englisch-italienischen Abkommen.
+Found
+MODSMD_ARTICLE11: Paets als einziger Präsidentschaftskandidat bestätigt.
+Found
+MODSMD_ARTICLE12: 5V km „tote Zone" sollen Sowjetrußland schützen.
+Found
+MODSMD_ARTICLE13: Flucht des Sofioter Sowjetgesandten?
+Found
+MODSMD_ARTICLE14: Weil sich der Viehbestand verminderte!
+Found

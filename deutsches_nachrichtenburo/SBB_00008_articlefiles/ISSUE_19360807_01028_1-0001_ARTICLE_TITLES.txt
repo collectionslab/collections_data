@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Neuer deutscher Protest in Spanien.
+Found
+MODSMD_ARTICLE02: Madrid meldet Einzelerfolge.
+Found
+MODSMD_ARTICLE03: Madrid ernennt neuen Kriegsminister.
+Found
+MODSMD_ARTICLE04: Franca an den Internationalen Tanger Ausschuß.
+Found
+MODSMD_ARTICLE05: Heldentod nationalistischer Soldaten in Albaeete.
+Found
+MODSMD_ARTICLE06: Rücktritt des spanischen Geschäftsträgers in Ankara.
+Found
+MODSMD_ARTICLE07: „Der Sieg der Nationalisten vollkommen sicher".
+Found
+MODSMD_ARTICLE08: Kriegsschiff der Linksregierung beschießt Aigeciras.
+Found
+MODSMD_ARTICLE09: Volksfrontler gegen spanisches Königshaus.
+Found
+MODSMD_ARTICLE10: „Action über die Waffenlieferungen.
+Found
+MODSMD_ARTICLE11: Der Text des Nichteinmischungsabkommens fertiggestellt.
+Found
+MODSMD_ARTICLE12: Belgien stimmt dem französischen Vorschlag zu.
+Found
+MODSMD_ARTICLE13: „Große Offensive der Dritten Internationale."
+Found
+MODSMD_ARTICLE14: Erzherzog Josef Franz über die kommunistische Weltgefahr.
+Found
+MODSMD_ARTICLE15: Aktion der „Nasjonal Sämling" gegen Trotzki.
+Found
+MODSMD_ARTICLE16: Auszenministerkonferenz der nordischen Länder.
+Found
+MODSMD_ARTICLE17: Montagne Norman wieder in England.
+Found
+MODSMD_ARTICLE18: Die Bergbauverstaatlichung in England.
+Found
+MODSMD_ARTICLE19: Ein Marxist Nachfolger de Martels?
+Found
+MODSMD_ARTICLE20: Der Generalstreik in Palästina.
+Found
+MODSMD_ARTICLE21: Die Bergwerkskatastrophe von Wharncliffe.
+Found

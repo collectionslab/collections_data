@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die japanischen Journalisten am Ehrenmal.
+Found
+MODSMD_ARTICLE02: Dankschreiben Teyß-Jnquarts an lelusich.
+Found
+MODSMD_ARTICLE03: Henlein wieder in Asch.
+Found
+MODSMD_ARTICLE04: Unerhörter tschechischer Eingriff in die Selbstverwaltung.
+Found
+MODSMD_ARTICLE05: Tie Pariser Presse zur sudetendeutschen Frage.
+Found
+MODSMD_ARTICLE06: Neuen Lohnkämpfen entgegen.
+Found
+MODSMD_ARTICLE07: Die Textilarbeiter von Roubaix wollen streiken.
+Found
+MODSMD_ARTICLE08: Große Rede des ungarischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE09: „Az Est" vom ungarischen Innenminister verboten.
+Found
+MODSMD_ARTICLE10: Rachowitsch zu sechs Monaten Gefängnis verurteilt.
+Found
+MODSMD_ARTICLE11: Zwei nationale rumänische Zeitungen eingegangen.
+Found
+MODSMD_ARTICLE12: Der Jude fühlt sich durchschaut.
+Found
+MODSMD_ARTICLE13: Marseiller Hafenstreik stört die Mittelmeer-Schiffahrt.
+Found
+MODSMD_ARTICLE14: Die Erfolge der nationalspanischen Luftwaffe.
+Found
+MODSMD_ARTICLE15: Der Fehlbetrag im amerikanischen Staatshaushalt.
+Found
+MODSMD_ARTICLE16: Kriegsschuldenerlast gegen Gebietsabtretungen.
+Found

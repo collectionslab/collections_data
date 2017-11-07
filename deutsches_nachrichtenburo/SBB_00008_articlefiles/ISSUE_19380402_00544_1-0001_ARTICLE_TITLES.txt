@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: München erwartet den Führer
+Found
+MODSMD_ARTICLE02: Der Führer an Ministerialdirektor Gans.
+Found
+MODSMD_ARTICLE03: Verleihung von Auszeichnungen für Lebensretter.
+Found
+MODSMD_ARTICLE04: Verschiebung der Volks-, Berufs- und Betriebszählung.
+Found
+MODSMD_ARTICLE05: Die Berufsausübung von Rechtsanwälten in Oesterreich.
+Found
+MODSMD_ARTICLE06: Treuekundgebung der bildenden Künstler Oesterreichs.
+Found
+MODSMD_ARTICLE07: Deutscher Schulbau in Wollstein genehmigt.
+Found
+MODSMD_ARTICLE08: Schauübung der italienischen Luftwaffe für den Führer.
+Found

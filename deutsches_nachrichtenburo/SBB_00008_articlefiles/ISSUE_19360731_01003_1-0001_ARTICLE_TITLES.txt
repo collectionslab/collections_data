@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: IIM Deutsche in Genua eingetroffen.
+Found
+MODSMD_ARTICLE02: Kein Staatsrat während der Urlaubsreise Eduards VIII.
+Found
+MODSMD_ARTICLE03: Die Besprechung Edens mit Portugals Außenminister.
+Found
+MODSMD_ARTICLE04: Londoner Stimmen zu den Neubesetzungen.
+Found
+MODSMD_ARTICLE05: Ueber die englisch-italienischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE06: Ein cnglisch-sowjetrussisches Wirtschaftsabkommen.
+Found
+MODSMD_ARTICLE07: Dänemark und das Londoner Flottenabkommen.
+Found
+MODSMD_ARTICLE08: Mussolini in Forli.
+Found
+MODSMD_ARTICLE09: Lebrun geht in Ferien.
+Found
+MODSMD_ARTICLE10: Pariser Kammer nimmt das Frauenstimmrecht an.
+Found
+MODSMD_ARTICLE11: Weitere französische Geheimpläne für die Sowjets?
+Found
+MODSMD_ARTICLE12: Cabanellas teilt die Bildung der Burgos-Regierung mit.
+Found
+MODSMD_ARTICLE13: Diplomatenschub durch die Burgos-Regierung.
+Found
+MODSMD_ARTICLE14: Die Krise in der spanischen Diplomatie.
+Found
+MODSMD_ARTICLE15: Erklärungen des Generals Queipo de Llano.
+Found
+MODSMD_ARTICLE16: Vormarsch der Nationalisten auf Madrid.
+Found
+MODSMD_ARTICLE17: Italienische Flugzeug-Abstürze in Nordafrika?
+Found
+MODSMD_ARTICLE18: Knox republikanischer Vizepräsidentschaftskandidat.
+Found

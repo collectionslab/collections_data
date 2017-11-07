@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr. Goebbels an die Zeche „General Blumenthal".
+Found
+MODSMD_ARTICLE02: Hauptschulungsleiter Suchy verhaftet.
+Found
+MODSMD_ARTICLE03: Eden vor dem Unterhaus.
+Found
+MODSMD_ARTICLE04: Eden berichtet dem Kabinett.
+Found
+MODSMD_ARTICLE05: Van Zeeland in England eingetroffen.
+Found
+MODSMD_ARTICLE06: Die britischen Handelsschiffe werden gewarnt.
+Found
+MODSMD_ARTICLE07: Volksbewegung gegen den Bolschewismus in Portugal.
+Found
+MODSMD_ARTICLE08: Internationale Strafrechtstagung in Bern.
+Found
+MODSMD_ARTICLE09: Die sportliche Ausbildung der Jungfaschisten.
+Found
+MODSMD_ARTICLE10: Die italienische Presse Zur Nichteinmischungsfrage.
+Found
+MODSMD_ARTICLE11: Die Pariser Presse schlägt einen versöhnlicheren Ton an.
+Found

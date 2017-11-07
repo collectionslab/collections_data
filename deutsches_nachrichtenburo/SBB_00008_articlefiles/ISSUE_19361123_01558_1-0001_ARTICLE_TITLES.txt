@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Abschluß der Deutschandreise der Londoner Philharmoniker.
+Found
+MODSMD_ARTICLE02: Tie Beisetzungsfeierlichkeiten in Athen.
+Found
+MODSMD_ARTICLE03: Tranerfeicr der griechischen Kolonie in Berlin.
+Found
+MODSMD_ARTICLE04: Kritik an der Haltung der französischen Behörden.
+Found
+MODSMD_ARTICLE05: Krach bei der Pariser Sulengro-Gedenkfeier.
+Found
+MODSMD_ARTICLE06: Frankreich zieht Truppen aus Aethiopien zurück.
+Found
+MODSMD_ARTICLE07: Die französischen Schiffe in Barcelona.
+Found
+MODSMD_ARTICLE08: Der italienische Kolonialminister wieder in Rom.
+Found
+MODSMD_ARTICLE09: Tie Rekrutierung in England.
+Found
+MODSMD_ARTICLE10: „Observer" gegen die „Friedensverträge".
+Found
+MODSMD_ARTICLE11: Britische Sicherheitsmaßnahmen in Barcelona.
+Found
+MODSMD_ARTICLE12: Franzosen sollen Barcelona verlassen.
+Found
+MODSMD_ARTICLE13: Plünderung deutscher Wohnungen in Barcelona?
+Found
+MODSMD_ARTICLE14: Tie Sowjetisieruna des Baskenlandes.
+Found
+MODSMD_ARTICLE15: Zur Ermordung des österreichischen Konsuls in Bilbao.
+Found
+MODSMD_ARTICLE16: Der Heeresbericht vom Sonnabend.
+Found
+MODSMD_ARTICLE17: Antirevisionistische Kundgebungen in Rumänien.
+Found
+MODSMD_ARTICLE18: Moskau verschiebt Unterzeichnung des Fischereivertrages.
+Found
+MODSMD_ARTICLE19: Schwere Niederlage einer roten Armee in China.
+Found

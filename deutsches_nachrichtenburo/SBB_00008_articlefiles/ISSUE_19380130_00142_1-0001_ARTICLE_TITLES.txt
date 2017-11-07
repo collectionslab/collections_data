@@ -1,0 +1,32 @@
+MODSMD_ARTICLE03: Der Führer zum Geburtstag des Königs der Bulgaren.
+Found
+MODSMD_ARTICLE04: T>ar Sonntagnachmittag auf dem Wilhelmplah.
+Found
+MODSMD_ARTICLE05: Adolf Hitler ein Vorbild für Ungarn.
+Found
+MODSMD_ARTICLE06: Das nationale Spanien grüßt das neue Deutschland.
+Found
+MODSMD_ARTICLE07: Bernd Nosemeyer kehrte heim.
+Found
+MODSMD_ARTICLE08: Neuer Vorstand des Vereins der Ausländischen Presse.
+Found
+MODSMD_ARTICLE09: Deutsche Schüler besuchen Amerika.
+Found
+MODSMD_ARTICLE10: Die französischen Jungakademiker beim Reichstudentenführer.
+Found
+MODSMD_ARTICLE11: Die italienischen Gäste der DAF. in München.
+Found
+MODSMD_ARTICLE12: Spanische Falaugisten in Lissabon.
+Found
+MODSMD_ARTICLE13: Deutscher und englischer Marinebesuch in Listabon.^p.
+Found
+MODSMD_ARTICLE14: 9 Tote und 299 Verwundete in Segni.
+Found
+MODSMD_ARTICLE15: Genfs ganze Kunst: Vertagungen!
+Found
+MODSMD_ARTICLE16: Schmeling Punktsieger über Ben Foord.
+Found
+MODSMD_ARTICLE17: Thorwald Heggen gewinnt den Ehrenpreis des Führers.
+Found
+MODSMD_ARTICLE18: Herber-Baier zum vierten Male Europameister.
+Found

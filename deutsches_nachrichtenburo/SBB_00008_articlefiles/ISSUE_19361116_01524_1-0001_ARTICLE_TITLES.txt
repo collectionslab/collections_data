@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Dr. Ley vor den Gauamtsleitern auf Burg Vogelsang.
+Found
+MODSMD_ARTICLE02: Die Londoner Philharmoniker in Dresden und Leipzig.
+Found
+MODSMD_ARTICLE03: Tr. Schacht in Istanbul.
+Found
+MODSMD_ARTICLE04: Das Ausland zu den Reichswasserstraßen-Maßnahmen.
+Found
+MODSMD_ARTICLE05: Budapest im Zeichen des Besuches von Graf Ciano.
+Found
+MODSMD_ARTICLE06: Fußballänderspiel Deutschland—Italien unentschieden.
+Not Found

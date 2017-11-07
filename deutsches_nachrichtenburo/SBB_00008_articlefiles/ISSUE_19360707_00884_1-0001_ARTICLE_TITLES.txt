@@ -1,0 +1,48 @@
+MODSMD_ARTICLE01: Reichslcrter Dr. Ley in Hannover.
+Found
+MODSMD_ARTICLE02: Ehrenpreis für die Transatlantik-Regatta.
+Found
+MODSMD_ARTICLE03: Präsident Tai Chi-Tao in Berlin.
+Found
+MODSMD_ARTICLE04: Neichsnährstandsbesuch in England.
+Found
+MODSMD_ARTICLE05: München ehrt Franz von Lenüach.
+Found
+MODSMD_ARTICLE06: Grenzmarkschau in Saarbrücken.
+Found
+MODSMD_ARTICLE07: Senatspräsident Greiser wieder in Danzig.
+Found
+MODSMD_ARTICLE08: Vorbeugungsmaßnahmen gegen Unruhen in Paris.
+Found
+MODSMD_ARTICLE09: Unstimmigkeiten unter Feuerkreuzlern?
+Found
+MODSMD_ARTICLE10: Auflösung der Nationalen Partei gefordert.
+Found
+MODSMD_ARTICLE11: Im Zeichen der Volksfronten.
+Found
+MODSMD_ARTICLE12: Die Untersuchung des Landarbeiterstreiks bei Lemberg.
+Found
+MODSMD_ARTICLE13: Rom bleibt zurückhaltend.
+Found
+MODSMD_ARTICLE14: Nach französischem Muster.
+Found
+MODSMD_ARTICLE15: Die spanische Streikwelle.
+Found
+MODSMD_ARTICLE16: Ein spanischer Faschist bestialisch ermordet.
+Found
+MODSMD_ARTICLE17: Ausschreitung streikender Tabakarbeiter in Cavalla.
+Found
+MODSMD_ARTICLE18: Belgrad zur bulgarischen Regierungsumbildung.
+Found
+MODSMD_ARTICLE19: Streikuuruhen in Alexandrien.
+Found
+MODSMD_ARTICLE20: Senator Borah für den republikanischen Kandidaten.
+Found
+MODSMD_ARTICLE21: Hitzewelle in den USA-Getreidestaaten.
+Found
+MODSMD_ARTICLE22: Steuersteckbrief und Vermögeusbeschlagnahme.
+Found
+MODSMD_ARTICLE23: Erdbeben in Iran.
+Found
+MODSMD_ARTICLE24: 15 Jahre Gefängnis im amerikanischen Spionageprozeß»
+Found

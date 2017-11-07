@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Dr. .Ohnesorge dankt den österreichischen Postbeamten.
+Found
+MODSMD_ARTICLE02: Neue Bürgermeister in Chemnitz.
+Found
+MODSMD_ARTICLE03: Der Maibaum für die Reichshauptstadt gefällt.
+Found
+MODSMD_ARTICLE04: Schließung einer deutschen Schule m Wolhynien.
+Found
+MODSMD_ARTICLE05: Polens Kampf gegen den Weltfeind.
+Found
+MODSMD_ARTICLE06: Polen wehrt sich gegen den Kominternschmuggel.
+Found
+MODSMD_ARTICLE07: Die polnisch-litauischen Beziehungen normalisieren sich.
+Found
+MODSMD_ARTICLE08: Eine Erklärung des litauischen Innenministers.
+Found
+MODSMD_ARTICLE09: Zwischenfall im dänischen Folketing.
+Found
+MODSMD_ARTICLE10: Zusammenkunft Mussolini—Hore-Belisha.
+Not Found
+MODSMD_ARTICLE11: Der Besuch Hore-Belishas eine „Begegnung".
+Found
+MODSMD_ARTICLE12: Auch Florenz rüstet sich zum Empfang des Führers.
+Found
+MODSMD_ARTICLE13: Krach bei den französischen Marxisten.
+Found
+MODSMD_ARTICLE14: Ein Unfall brachte es an den Tag.
+Found
+MODSMD_ARTICLE15: Jugoslawische Marineabordnung reist durch Italien.
+Found
+MODSMD_ARTICLE16: König Faruk zu einem Besuch der Türkei eingeladen/
+Found
+MODSMD_ARTICLE17: „Japan braucht keine Vermittlung".
+Found
+MODSMD_ARTICLE18: Kriegsmateriallieferungen an die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE19: Die Oelgesellschaften werden abgefunden.
+Found

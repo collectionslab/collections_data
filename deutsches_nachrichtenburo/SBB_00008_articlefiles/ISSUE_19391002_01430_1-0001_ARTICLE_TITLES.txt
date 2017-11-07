@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Lügner schweigt.
+Found
+MODSMD_ARTICLE02: Tiso zum Nachfolger Hlinkas gewählt.
+Found
+MODSMD_ARTICLE03: Colijn übernahm politische Leitung des „Standaard".
+Found
+MODSMD_ARTICLE04: Sowjetrussische Kommission in Reval.
+Found
+MODSMD_ARTICLE05: „Samuprawa" begrüßt Friedensbemühungen Mussolinis.
+Found
+MODSMD_ARTICLE06: Die britische Filmindustrie Opfer des Krieges.
+Found
+MODSMD_ARTICLE07: Wirtschaftliche Beschlüsse der Panama-Konferenz.
+Found
+MODSMD_ARTICLE08: „Sehr ungünstige Wendung für die Westmächte".
+Found

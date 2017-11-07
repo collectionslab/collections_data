@@ -1,0 +1,32 @@
+MODSMD_ARTICLE02: Zweite Morgen-Ausgabe. deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE03: Der Führer beglückwünscht eine Hundertjährige.
+Found
+MODSMD_ARTICLE04: Geburtstagsglückwunsch Oberlindobers an Rudolf Heß.
+Found
+MODSMD_ARTICLE05: Honvedminister Noeder beim Führer.
+Found
+MODSMD_ARTICLE06: Deutschland-Reise italienischer Industrieller»
+Found
+MODSMD_ARTICLE07: Westfalens Jugend begrüßt die italienischen Gäste.
+Found
+MODSMD_ARTICLE08: Reichsstudentenführung wird Hauptamt der NSDAP.
+Found
+MODSMD_ARTICLE09: „Gioruale d'Jtalia" zur politischen Entwicklung Oesterreichs.
+Found
+MODSMD_ARTICLE10: Konserenz der Oslo-Staaten am 24. Mai.
+Found
+MODSMD_ARTICLE11: Ein bezeichnender Streikvorfall in Frankreich.
+Found
+MODSMD_ARTICLE12: Neue Zeugnisse bolschewistischer Gottlosigkeit.
+Found
+MODSMD_ARTICLE13: Sowjet-Kriegsgerät für Spanien passiert Dardanellen^
+Found
+MODSMD_ARTICLE14: Abkommen über gute Beziehungen des Irak mit Syrien.
+Found
+MODSMD_ARTICLE15: Blutiger Zusammenstoß mit Streikenden in Bengalen.
+Found
+MODSMD_ARTICLE16: Kriegsschiffumbau und -neubau in Australien.
+Found
+MODSMD_ARTICLE17: Widerliche Zustände in einem Kloster vor Gericht.
+Found

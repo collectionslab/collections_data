@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Erweiterung des Kaiser Wilhelm-Kanals.
+Found
+MODSMD_ARTICLE02: Die Einheit der Erziehung.
+Found
+MODSMD_ARTICLE03: Konrad Henlein in Breslau.
+Found
+MODSMD_ARTICLE04: Besuch des japanischen Botschafters in Hamburg.
+Found
+MODSMD_ARTICLE05: Französische Konzentrationslager als Seuchenherde.
+Found
+MODSMD_ARTICLE07: Ehn roter Hetzer reist nach Tunis.
+Found
+MODSMD_ARTICLE08: Das britische Kabinett beriet über Anerkennung Francas.
+Found
+MODSMD_ARTICLE09: Die holländische Königin fährt am 23. Mai nach Brüssel.
+Found
+MODSMD_ARTICLE10: Die Verfolgung der Eisemen Garde geht weiter.
+Found
+MODSMD_ARTICLE11: Jüdisches Gezeter zur Londoner Konferenz.
+Found

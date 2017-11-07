@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Deutsche Jugendherbergen Vorbild für Japan.
+Found
+MODSMD_ARTICLE02: Dr. Ley vor der deutschen Kolonie in Mailand.
+Found
+MODSMD_ARTICLE03: Das schaffende Italien umjubelt Dr. Ley.
+Found
+MODSMD_ARTICLE04: Flaggenskandal auf der Pariser Ausstellung.
+Found
+MODSMD_ARTICLE05: Französische Sozialpartei verklagt die Hetzer von Clichy.
+Found
+MODSMD_ARTICLE06: Blum verteidigt die Volksfront-Politik.
+Found
+MODSMD_ARTICLE07: Die Schraube ohne Ende in Frankreich.
+Found
+MODSMD_ARTICLE08: Tic Verständigung zwischen Rex und den Flamen.
+Found
+MODSMD_ARTICLE09: Chamberlain und Simon beim König.
+Found
+MODSMD_ARTICLE10: Veränderungen im britischen Kolonialministerium.
+Found
+MODSMD_ARTICLE11: Labour-Party gegen marxistische „Einheitsfront".
+Found
+MODSMD_ARTICLE12: Verschärftes Opiumgesetz in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE13: Türkischer Ministerbesuch in Belgrad.
+Found
+MODSMD_ARTICLE14: Absage des Kongresipräsidentcn Nehru an England.
+Found
+MODSMD_ARTICLE15: Blutige Streikunruhen in Mexiko.
+Found
+MODSMD_ARTICLE16: Kanadische Truppen gegen Streikhetzer.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Gründgens zum preußischen Staatsrat ernannt.
+Found
+MODSMD_ARTICLE02: Nachruf des Reichskriegsnnnisters.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: W Jahre „Düsseldorfer Nachrichten".
+Found
+MODSMD_ARTICLE05: Deutsche Militärabordnung zum Reitturnier in Rom.
+Found
+MODSMD_ARTICLE06: Siegesjubel in Italien.
+Found
+MODSMD_ARTICLE07: Aufruf Badoglios an die Abessinier.
+Found
+MODSMD_ARTICLE08: Entschließungen britischer Arbeiter gegen Italien.
+Found
+MODSMD_ARTICLE09: Die außenpolitische Aussprache im Unterhaus.
+Found
+MODSMD_ARTICLE10: Besprechungen über den Franken.
+Found

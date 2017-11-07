@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: General Milch besucht die britische Luftwaffe.
+Found
+MODSMD_ARTICLE03: Neichspostminister Dr. Ohnesorge in Dortmund.
+Found
+MODSMD_ARTICLE04: Dr. Ley bei der Richtfeier einer Bergarbeitersiedlung.
+Found
+MODSMD_ARTICLE05: Oberbürgermeister Fiehler in Mailand.
+Found
+MODSMD_ARTICLE06: „Reichsautobahnen ein Beispiel für die Welt".
+Found
+MODSMD_ARTICLE07: Wirtschaftspolitischje Referenten der HJ. in Belgrad.
+Found
+MODSMD_ARTICLE08: Stojadinowitsch zur Konkordatsfrage.
+Found
+MODSMD_ARTICLE09: Der dritte Jahrestag der Mordtat von Marseille.
+Found
+MODSMD_ARTICLE10: Erntedankfest der Sudetendeutschen.
+Found
+MODSMD_ARTICLE12: Konservativer Abgeordneter über Francos Erfolgsaussicht.
+Found
+MODSMD_ARTICLE13: Mitarbeiter Primo de Riveras den Bolschewisten entronnen.
+Found
+MODSMD_ARTICLE14: Riesige Rüstungsküufe der Sowjets in Amerika.
+Found
+MODSMD_ARTICLE15: Kämpfe um einen wichtigen Knotenpunkt in China.
+Found

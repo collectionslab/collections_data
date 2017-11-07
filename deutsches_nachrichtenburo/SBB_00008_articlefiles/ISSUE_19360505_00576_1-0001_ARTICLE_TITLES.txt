@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Stabschef Lutze über das „Tankopfer der Nation".
+Found
+MODSMD_ARTICLE02: Dr. Lippert verteilt den Musikpreis der Stadt Berlin.
+Found
+MODSMD_ARTICLE03: Finnische Gäste bei der NSKOV in Essen.
+Found
+MODSMD_ARTICLE04: Landarbeiierunruhen im jugoslawischen Banal.
+Found
+MODSMD_ARTICLE05: Ter jugoslawische Ministerpräsident über den Balkanpakt.
+Found
+MODSMD_ARTICLE06: Tie Lage in Addis Abeba immer noch ernst.
+Found
+MODSMD_ARTICLE07: Tie englische Presse über die abessinische Frage.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Nachmittags-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Des Führers Geburtstag.
+Found
+MODSMD_ARTICLE03: Der Führer wieder in der Reichskanzlei.
+Found
+MODSMD_ARTICLE04: Der Führer auf dem Balkon.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Die japanischen Nekordflieger nach Paris gestartet.
+Found
+MODSMD_ARTICLE07: „Morning Post" gegen Dekan von Canterbury.
+Found
+MODSMD_ARTICLE08: Frankreichs Kleinhandel wehrt sich.
+Found
+MODSMD_ARTICLE09: Ein Departement ohne Hotels und Restaurants.
+Found
+MODSMD_ARTICLE10: Die Gottlosenpropaganda in Frankreich.
+Found
+MODSMD_ARTICLE11: Rückkehr bolschewistischer Flieger nach Spanien.
+Found
+MODSMD_ARTICLE12: Valencia ist die Seekontrolle unbequem.
+Found
+MODSMD_ARTICLE13: Kontrollplan in Kraft gesetzt.
+Found
+MODSMD_ARTICLE14: Die Aufgaben der spanischen nationalen Organisation.
+Found
+MODSMD_ARTICLE15: Die Konferenz von Montreux.
+Found
+MODSMD_ARTICLE16: Anschlag auf Stalin?
+Found

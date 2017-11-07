@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Glückwunsch Görings an Dr. Schacht.
+Found
+MODSMD_ARTICLE02: Dr. Hjalmar-Schacht-Studiensonds.
+Found
+MODSMD_ARTICLE03: Empfang für Generalkonsul Renzetti.
+Found
+MODSMD_ARTICLE04: Irische Anteilnahme am Tode des Gesandten von Kuhlmann.
+Found
+MODSMD_ARTICLE05: Zentrale der Kärntner Kommunisten ausgehoben.
+Found
+MODSMD_ARTICLE06: Kammergruppe Französische Sozial-Partei.
+Found
+MODSMD_ARTICLE07: » M Neue Grenzüberschreiiungen franzi^W?r
+Found
+MODSMD_ARTICLE08: Vereitelte Flugzeugschiebung nach Sowjetspanien?
+Found
+MODSMD_ARTICLE09: Bombenangriffe nationaler Flugzeuge.
+Found
+MODSMD_ARTICLE10: Bolschewistisches Munitionslager in die Luft geflogen.
+Found
+MODSMD_ARTICLE11: Festigung der Malaga-Front.
+Found
+MODSMD_ARTICLE12: Kavallerie-Attacke der Nationalen vor Malaga.
+Found
+MODSMD_ARTICLE13: Tie kommunistischen Terrorakte in Portugal.
+Found
+MODSMD_ARTICLE14: Annäherung Italien—Türkei.
+Not Found
+MODSMD_ARTICLE16: Die Demokratie als Nährboden des Bolschewismus.
+Found
+MODSMD_ARTICLE17: Wechsel im griechischen Finanzministerium.
+Found
+MODSMD_ARTICLE18: Zypern Stutzpunkt der britischen Luftstreitkräfte.
+Found
+MODSMD_ARTICLE19: Der japanische Reichstag aufgelöst.
+Found
+MODSMD_ARTICLE20: Die Bollmachten für Roosevelt.
+Found
+MODSMD_ARTICLE21: Der Streik in der amerikanischen Automobilindustrie.
+Found
+MODSMD_ARTICLE22: Die Überschwemmungskatastrophe in USA.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Deutsche Truppen in Antwerpen eingedrungen.
+Found
+MODSMD_ARTICLE02: Der Durchbruch durch die Maginotliule.
+Found
+MODSMD_ARTICLE03: Schweden: „Einmalig in der Geschichte!"
+Found
+MODSMD_ARTICLE04: Rumänien unter dem Eindruck der Erfolge.
+Found
+MODSMD_ARTICLE05: „Die Westmächte in eine äußerst kritische Lage gedrängt/'
+Found
+MODSMD_ARTICLE06: Uneingeschränkte Bewunderung in Budapest.
+Found
+MODSMD_ARTICLE07: „Der Krieg nähert sich der englischen Küste."
+Found
+MODSMD_ARTICLE08: „Das sind noch nicht die schwersten Niederlagen!"
+Found
+MODSMD_ARTICLE09: Italien zum Empfang Alfieris im Reich.
+Found
+MODSMD_ARTICLE10: Bestürzung in französischen Marinekreisen.
+Found
+MODSMD_ARTICLE11: Der französische Rundfunk verheimlicht den Durchbruch.
+Found
+MODSMD_ARTICLE12: Wie Drontheim besetzt wurde.
+Found
+MODSMD_ARTICLE13: Verfolgung nach dem Durchbruch.
+Found
+MODSMD_ARTICLE14: Tie Verleumduugshetze des Secret Service.
+Found

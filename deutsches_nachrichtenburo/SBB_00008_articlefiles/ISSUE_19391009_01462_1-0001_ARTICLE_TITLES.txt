@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die deutsche Wirtschaftsabordnung von Molotow empfangen.
+Found
+MODSMD_ARTICLE02: Die wahren Absichten der sogenannten Demokratien.
+Found
+MODSMD_ARTICLE04: Weitere ermordete Volksdeutsche gefunden.
+Found
+MODSMD_ARTICLE05: Tie Voraussetzungen für den deutschen Sieg in Polen.
+Found
+MODSMD_ARTICLE06: Die Schubmaßnahmen an der rumänisch-ungarischen Grenze.
+Found
+MODSMD_ARTICLE07: Friedliche Zusammenarbeit auf dem Balkan.
+Found
+MODSMD_ARTICLE08: Gedächtnis an König Alexander I.
+Found
+MODSMD_ARTICLE09: Mangel an Verbrauchsgütern in Norwegen.
+Found
+MODSMD_ARTICLE10: Der Bericht des Oberkommandos der Wehrmacht.
+Found
+MODSMD_ARTICLE11: „Smuts würde bei Neuwahlen unterliegen."
+Found
+MODSMD_ARTICLE12: England sabotiert die Beschlüsse Panamerikas.
+Found
+MODSMD_ARTICLE13: Holländischer Dampfer auf englische Mine gelaufen.
+Found
+MODSMD_ARTICLE14: Finnlands Sonderbeauftragter für Moskau.
+Found
+MODSMD_ARTICLE15: Zehnjahresplan für den Wiederaufbau Spaniens.
+Found
+MODSMD_ARTICLE16: Gegen parteiische Haltung Schweizer Zeitungen.
+Found
+MODSMD_ARTICLE17: Die Mohammedaner Indiens rühren sich.
+Found

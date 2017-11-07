@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Führer verlieh Professor Bauer die Goethe-Medaille.
+Found
+MODSMD_ARTICLE02: Der neue luxemburgische Geschäftsträger bei Ribbeutrop.
+Found
+MODSMD_ARTICLE03: Professor Wirz bei Reichsnnmster Darrö.
+Found
+MODSMD_ARTICLE04: Staatssekretär Dr. Schlegelberger wieder hergestellt.
+Found
+MODSMD_ARTICLE05: Fünf Jahre Gemeinschaftslager Hanns Kerrl in Jüterbog.
+Found
+MODSMD_ARTICLE06: 14 823 Schmuggelsälle im Jahre 1937.
+Found
+MODSMD_ARTICLE07: Der Haß der Inden gegen die Nichtjuden.
+Found
+MODSMD_ARTICLE08: München fördert die bildende Kunst.
+Found
+MODSMD_ARTICLE09: Als Gummiknüppel und Ochsenziemer in Oesterreich regierten.
+Found

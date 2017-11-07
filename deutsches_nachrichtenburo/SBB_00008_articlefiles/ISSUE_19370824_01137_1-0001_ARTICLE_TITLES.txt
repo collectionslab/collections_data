@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Empfangsabend bei der Deutsch-Französischen Gesellschaft.
+Found
+MODSMD_ARTICLE02: Tkutsch-belgisch-luxemburgische Wirtschaftsbesprechungen.
+Found
+MODSMD_ARTICLE03: Riesiger Bestechungsskandal in Polen.
+Found
+MODSMD_ARTICLE04: Zusammenkunft Zwischen Tatarescu und Hodscha.
+Found
+MODSMD_ARTICLE05: Titulescu nach Moskau eingeladen.
+Found
+MODSMD_ARTICLE06: Mißbrauch der britischen Flagge im Mittelmeer.
+Found
+MODSMD_ARTICLE07: Keine Verringerung der britischen Mittelmeerflotte.
+Found
+MODSMD_ARTICLE08: Mandatsausschust gegen sofortige Teilung Palästinas.
+Found
+MODSMD_ARTICLE10: Japan will nunmehr entschlossen vorgehen.
+Found
+MODSMD_ARTICLE11: Die japanischen Truppenlandungen bei Schanghai.
+Found
+MODSMD_ARTICLE12: Der Nainkau-Paß von Japanern besetzt.
+Found
+MODSMD_ARTICLE13: Dir Japaner bei Kaigan und Tientsin auf dem Vormarsch.
+Found
+MODSMD_ARTICLE14: Chinesische Fliegerbombe fiel auf Schanghaier Warenhaus.
+Found
+MODSMD_ARTICLE15: Neue Brände in Schanghai.
+Found
+MODSMD_ARTICLE16: Flak-Granate auf der „Augusta" war unbekannter Herkunft.
+Found
+MODSMD_ARTICLE17: Wüste Ausschreitungen streikender Lewis-Gewerkschaftler.
+Found

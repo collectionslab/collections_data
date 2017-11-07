@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ter Führer empfängt die Spitzen des VI. Internationalen Gemeindekongresses.
+Found
+MODSMD_ARTICLE02: 200 französische Automobilhändler in Berlin.
+Found
+MODSMD_ARTICLE03: Neue Richtlinien über die Neuausleihung der Rückflüsse aus den Hauszinssteuerhypotheken in Preußen.
+Found
+MODSMD_ARTICLE04: Die Entwicklung des Arbeitseinsatzes im Mai 1936.
+Found
+MODSMD_ARTICLE05: Beschlüsse des französischen Kabinettsrats.
+Found
+MODSMD_ARTICLE06: Die Gesetzesvorlagen in der Kammer eingebracht.
+Found
+MODSMD_ARTICLE07: Die Streiklage in Frankreich.
+Found
+MODSMD_ARTICLE08: Vergleich in der französischen Textilindustrie.
+Found
+MODSMD_ARTICLE09: Umbildung der italienischen Regierung.
+Found
+MODSMD_ARTICLE10: Errichtung einer spanischen Botschaft in Moskau.
+Found
+MODSMD_ARTICLE11: Neue Streikausschreitungen in Madrid.
+Found
+MODSMD_ARTICLE12: Fernsprechverkehr Palästinas mit dem Ausland untersagt.
+Found
+MODSMD_ARTICLE13: Mageres Ergebnis englisch-japanischer Verhandlungen.
+Found
+MODSMD_ARTICLE14: Chile gegen einen amerikanischen Völkerbund.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer in Memel.
+Found
+MODSMD_ARTICLE02: Die Slowakei unter dem Schuhe Grosideutschlands.
+Found
+MODSMD_ARTICLE03: Uebernahme des Memelgebiets planmäßig vollzogen.
+Found
+MODSMD_ARTICLE04: Uebergabe der litauischen Kaserne in Memel.
+Found
+MODSMD_ARTICLE05: Londons Werbung wurde erhört.
+Found
+MODSMD_ARTICLE06: Lebruu in Schloß Windsor.
+Found
+MODSMD_ARTICLE07: Amsterdam: „Ein Fehler von Versailles ist korrigiert."
+Found
+MODSMD_ARTICLE08: „Deutliche Abfuhr für London und Paris."
+Found
+MODSMD_ARTICLE09: Tie Kabinettsberatungen in Tokio.
+Found
+MODSMD_ARTICLE10: „Vergeltungsmaßnahmen" gegen arabische Kaufleute.
+Found
+MODSMD_ARTICLE11: Die „Front der Demokratien" sucht Mitglieder.
+Found
+MODSMD_ARTICLE12: Südafrika glaubt nicht an den Kinderschreck.
+Found

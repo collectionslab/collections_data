@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Beginn der Reichsfestspiele in Heidelberg.
+Found
+MODSMD_ARTICLE02: „Deutschland will in Frieden mit Frankreich leben."
+Found
+MODSMD_ARTICLE03: Staatssekretär Koenigs in Düsseldorf.
+Found
+MODSMD_ARTICLE04: Russo und Lutze in Kiel.
+Found
+MODSMD_ARTICLE05: Jmredy und Karcha nach Rom abgereist.
+Found
+MODSMD_ARTICLE06: Ungarns Presse zur Romreise Jmredys.
+Found
+MODSMD_ARTICLE07: Francos Kampf gegen die bolschewistische Tyrannei.
+Found
+MODSMD_ARTICLE08: Stimmen der Vernunft.
+Found
+MODSMD_ARTICLE09: Funkstörungen aus Angst.
+Found
+MODSMD_ARTICLE10: Neue Befestigungsanlagen in Singapur.
+Found
+MODSMD_ARTICLE11: Heliumdorkommen in Brasilien festgestellt.
+Found

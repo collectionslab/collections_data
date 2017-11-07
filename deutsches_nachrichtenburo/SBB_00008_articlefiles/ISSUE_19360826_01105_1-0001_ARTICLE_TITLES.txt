@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Auszeichnungen für Errettung aus Lebensgefahr.
+Found
+MODSMD_ARTICLE02: Generaladmiral Naeder dankt.
+Found
+MODSMD_ARTICLE03: Reichsbankpräsident Dr. Schacht bei Gouverneur Labeyrie.
+Found
+MODSMD_ARTICLE04: Rücktrittsabsichten des Memelland-Gouverneurs.
+Found
+MODSMD_ARTICLE05: Für Gleichberechtigung der deutschen Sprache.
+Found
+MODSMD_ARTICLE06: Mimcheuer Schacholympia.
+Found
+MODSMD_ARTICLE07: Rumänischer Parteiführer über Deutschland.
+Found
+MODSMD_ARTICLE08: Von der IV. Internationalen Filmkunstschau.
+Found
+MODSMD_ARTICLE09: Italienische Warnungen an Frankreich.
+Found
+MODSMD_ARTICLE10: Abd el Krim soll die Mauren gegen Franca aufwiegeln.
+Found
+MODSMD_ARTICLE11: Neue Offizierserschiesmugen in Barcelona.
+Found
+MODSMD_ARTICLE12: Chaotische Zustände in Madrid.
+Found
+MODSMD_ARTICLE13: Galicien eine friedliche Insel im spanischen Bürgerkrieg.
+Found
+MODSMD_ARTICLE14: Frankreich und der Nichteinmischungsvorschlag.
+Found
+MODSMD_ARTICLE15: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found
+MODSMD_ARTICLE16: Hinrichtung in Zweibrücken.
+Found
+MODSMD_ARTICLE17: Hinrichtung in Halle.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Staatsrat Dr. Jury im österreichischen Rundfunk.
+Found
+MODSMD_ARTICLE02: Mussolini in Beesem.
+Found
+MODSMD_ARTICLE03: Krestinskis Verhalten die Sensation des Prozesses.
+Found
+MODSMD_ARTICLE04: Die Pariser Linkspresse zum Moskauer Prozeß.
+Found
+MODSMD_ARTICLE05: Um eine „Vergleichslösung" in Paris.
+Found
+MODSMD_ARTICLE06: Delbos vor dem Auswärtigen Ausschuß des Senats.
+Found
+MODSMD_ARTICLE07: Sowjetspanische Oberbonzen unter der Knute der GPU.
+Found
+MODSMD_ARTICLE08: Ein Geständnis des Bolschewistenhäuptlings Negrin.
+Found
+MODSMD_ARTICLE09: Der notionalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE10: Franco besucht Verwundete.
+Found
+MODSMD_ARTICLE11: Nationalspanischer Ministerrat.
+Found
+MODSMD_ARTICLE12: Die Aussichten in der Nichteinmischungsfrage.
+Found
+MODSMD_ARTICLE13: Ins lettische Außenministerium berufen.
+Found
+MODSMD_ARTICLE14: Das amerikanische Flottenaufrüstuugsprogramm.
+Found

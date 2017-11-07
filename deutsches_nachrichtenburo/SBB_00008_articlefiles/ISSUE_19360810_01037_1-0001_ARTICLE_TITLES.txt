@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Nachmittags-Ausgabe. Deutsches Nachrichtenbüro ?
+Found
+MODSMD_ARTICLE02: Gedenkfeier für Otto Lilienthal.
+Found
+MODSMD_ARTICLE03: Bisher 4130 Deutsche aus Spanien abtransportiert.
+Found
+MODSMD_ARTICLE04: 550 Spanien-Flüchtlinge nach Genua unterwegs.
+Found
+MODSMD_ARTICLE05: Ter Kommandant des brasilianischen Schulschiffes dankt.
+Found
+MODSMD_ARTICLE06: Botschafter v. Hassel! besucht die Universität Perugia.
+Found
+MODSMD_ARTICLE07: LZ „Hindenburg" zur Heimreise gestartet.
+Found
+MODSMD_ARTICLE08: Produktionsstreik der dänischen Landwirtschaft?
+Found
+MODSMD_ARTICLE09: „Das alte Locarno ist tot".
+Found
+MODSMD_ARTICLE10: Kampfmaßnahmen englischer Bergarbeiter.
+Found
+MODSMD_ARTICLE11: Salazar über die Erfolge der Diktatur.
+Found
+MODSMD_ARTICLE12: Der König von England in Dalmatien.
+Found
+MODSMD_ARTICLE13: Die Londoner Presse über die Lage in Spanien.
+Found
+MODSMD_ARTICLE14: Britischer Protest bei den Nationalisten.
+Found
+MODSMD_ARTICLE15: Der Internationale Lehrerverband in Genf.
+Found
+MODSMD_ARTICLE16: Stimmen zum französischen Nentralitätsvorschlag.
+Found
+MODSMD_ARTICLE17: „Echo de Paris" über die bedingte Neutralität.
+Found
+MODSMD_ARTICLE18: Bolschewistischer Sonderberichterstatter in Spanien.
+Found
+MODSMD_ARTICLE19: Englisch-ägyptische Einigung über die Kapitulationen.
+Found

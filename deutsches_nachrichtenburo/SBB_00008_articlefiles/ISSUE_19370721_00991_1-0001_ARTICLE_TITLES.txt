@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der neue Botschafter der Sowjetunion überreicht dem Führer sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE02: Rezitatoren-Arbeitsausschuß in der Reichstheaterkammer.
+Found
+MODSMD_ARTICLE03: Auslandsjournalisten in Hamburg.
+Found
+MODSMD_ARTICLE04: Deutschlands Vertreter auf Pariser Architektenkongreß.
+Found
+MODSMD_ARTICLE05: Rüstungskredite von K auf 11 Milliarden Franken erhöht.
+Found
+MODSMD_ARTICLE06: Der Nichteinmischungsausschuß „in der Sackgasse".
+Found
+MODSMD_ARTICLE07: Londons Presse zu den Nichteinmischungsverhandlungen.
+Found
+MODSMD_ARTICLE08: Bolschewistische Artillerie schießt auf Kinder.
+Found
+MODSMD_ARTICLE09: Japan zu weiteren Verhandlungen mit China bereit.
+Found
+MODSMD_ARTICLE10: Roosevelt betrachtet Kämpfe bei Peiping als örtliche Gefechte.
+Found
+MODSMD_ARTICLE11: Ein neuer Helfer des amerikanischen Außenministers.
+Found
+MODSMD_ARTICLE12: Gegen Einmischung Amerikas in Palästinastreit.
+Found

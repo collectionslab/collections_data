@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer ehrte das Gedenken der toten Königim
+Found
+MODSMD_ARTICLE02: Ministerialdirektor Neumann zum Staatssekretär ernannt.
+Found
+MODSMD_ARTICLE03: Dr. Frick besuchte die Bayrische Ostmark.
+Found
+MODSMD_ARTICLE04: General Russo auf der Heimreise.
+Found
+MODSMD_ARTICLE05: Türkisches U-Boot lief in Kiel vom Stapel.
+Found
+MODSMD_ARTICLE06: Der deutsche Gesandte bei König Leopold.
+Found
+MODSMD_ARTICLE07: Kuudt und Rosche bei Ministerpräsident Hodscha.
+Found
+MODSMD_ARTICLE08: Englischer Ratschlag in Prag.
+Found
+MODSMD_ARTICLE09: Sudetendeutscher Bürgermeister in Friedland gewählt.
+Found
+MODSMD_ARTICLE10: Die ersten Besprechungen in Kopenhagen.
+Found
+MODSMD_ARTICLE11: Englischer Flottenbesuch in Italien.
+Found
+MODSMD_ARTICLE12: Nach dem Königsbesuch.
+Found
+MODSMD_ARTICLE13: Im Zeichen der Volksfront.
+Found
+MODSMD_ARTICLE14: Marxistische Gewerkschaftsinternationale verspricht Hilfe.
+Found
+MODSMD_ARTICLE15: Wiederaufnahme der Wahlvorbereitungen im Sandschak.
+Found
+MODSMD_ARTICLE16: Kiukiang im Mittelpunkt der Kämpfe.
+Found
+MODSMD_ARTICLE17: Neuer Grenzzwischenfall in Fernost.
+Found
+MODSMD_ARTICLE18: Mexiko ist befremdet.
+Found
+MODSMD_ARTICLE19: Die Kennziffer der Großhandelspreise vom M. Juli 1338.
+Found

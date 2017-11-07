@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Empfang für die internationale Milchwirtschaft.
+Found
+MODSMD_ARTICLE02: Die Erneuerung des Strasversahrensrechts.
+Found
+MODSMD_ARTICLE03: Der Herder-Preis erstmalig an Agnes Miegel verliehen.
+Found
+MODSMD_ARTICLE04: Amery über die deutsche Kolonialfrage.
+Found
+MODSMD_ARTICLE05: Staatshaushalt vom Prager Senat angenommen.
+Found
+MODSMD_ARTICLE06: Der Chefredakteur des „Popolo dlJtalia" zurückgetreten.
+Found
+MODSMD_ARTICLE07: „Daily Mail" meldet Einigung zwischen London und Rom.
+Found
+MODSMD_ARTICLE08: Moskau das Arsenal der Weltrevolution.
+Found
+MODSMD_ARTICLE09: Immer noch Spannung in der Volksfront.
+Found
+MODSMD_ARTICLE10: Die Goldausfuhr aus Spanien.
+Found
+MODSMD_ARTICLE11: General Queipo de Llano über die Lage.
+Found
+MODSMD_ARTICLE12: Der Vormarsch der Nationalen an der Nordfront.
+Found
+MODSMD_ARTICLE13: In Valencias bekämpfen sich Kommunisten und Anarchisten.
+Found
+MODSMD_ARTICLE14: „American Zeppelin Transport Inc.".
+Found

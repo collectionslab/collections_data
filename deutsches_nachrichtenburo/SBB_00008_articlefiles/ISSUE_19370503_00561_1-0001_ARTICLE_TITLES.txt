@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer dankt.
+Found
+MODSMD_ARTICLE02: Der Führer an den polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE03: Der Führer zum Spanischen Nationaltag.
+Found
+MODSMD_ARTICLE04: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE05: Reichsaußenminister von Neurath nach Rom abgereist.
+Found
+MODSMD_ARTICLE06: Die italienischen Industriellen in Berlin.
+Found
+MODSMD_ARTICLE07: Ricci bei der Leibstcmdarte Adolf Hitler.
+Found
+MODSMD_ARTICLE08: Abschied der italienischen Journalisten von Berlin.
+Found
+MODSMD_ARTICLE09: Vor 4 Jahren wurden die Gewerkschaften übernommen.
+Found
+MODSMD_ARTICLE10: Die Posener Messe eröffnet.
+Found
+MODSMD_ARTICLE11: Nationale Heeresberichte.
+Found
+MODSMD_ARTICLE12: Neutrale Zone für die Zivilbevölkerung Bilbaos?
+Found

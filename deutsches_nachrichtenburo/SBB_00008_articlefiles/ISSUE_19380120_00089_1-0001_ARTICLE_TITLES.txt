@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: „BdM. Werk Glaube und Schönheit" gegründet.
+Found
+MODSMD_ARTICLE02: Ministerpräsident Stojadinowitsch in Essen.
+Found
+MODSMD_ARTICLE03: Der Besuch der deutschen Militärabordnung in Warschau.
+Found
+MODSMD_ARTICLE04: Der lettische Finanzminister bei Moscicki.
+Found
+MODSMD_ARTICLE05: Eine britische Marinemission für Kolumbien.
+Found
+MODSMD_ARTICLE06: De Valera verließ London.
+Found
+MODSMD_ARTICLE07: Neuwahlen in England nicht vor dem nächsten Jahr.
+Found
+MODSMD_ARTICLE08: Am Donnerstag erster Kabinettsrat in Paris.
+Found
+MODSMD_ARTICLE09: Auch Valencia wurde bombardiert.
+Found
+MODSMD_ARTICLE10: Vor Beginn der großen Manöver bei Singapur.
+Found
+MODSMD_ARTICLE11: Britische Blutjustiz in Palästina.
+Found
+MODSMD_ARTICLE12: USA.-Marine bestellt 58 neue Bomber.
+Found

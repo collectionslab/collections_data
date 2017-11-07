@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Kardinal Faulhaber beim Führer.
+Found
+MODSMD_ARTICLE02: Die Leitung des Neichsbundes der Freien Schwestern.
+Found
+MODSMD_ARTICLE03: Trauerfeier für Sanitntsführer Dr. Dr. Strecker.
+Found
+MODSMD_ARTICLE04: Dänische Spende.
+Found
+MODSMD_ARTICLE05: Der „Dorfkrach in Schöneberg".
+Found
+MODSMD_ARTICLE06: Jüdische Paszfälscherzentrale in Danzig ausgehoben.
+Found
+MODSMD_ARTICLE07: Die Wiener Presse zur Umbildung des Kabinetts.
+Found
+MODSMD_ARTICLE08: Vorträge Professor Moedes in Warschau und Posen.
+Found
+MODSMD_ARTICLE09: Sowjethetze gegen Polen.
+Found
+MODSMD_ARTICLE10: Polnische Gedenkfeier in Polnisch-Teschen.
+Found
+MODSMD_ARTICLE11: Das britische Kabinett berät Edens Unterhauserklärung.
+Found
+MODSMD_ARTICLE12: Schändung spanischer Königsgräber.
+Found
+MODSMD_ARTICLE13: Fortschreitende Einkreisung Madrids.
+Found
+MODSMD_ARTICLE15: Die nationalen Truppen vor den Toren Madrids.
+Found
+MODSMD_ARTICLE16: Stojadinowitsch über seinen Besuch bei König Boris.
+Found
+MODSMD_ARTICLE17: Der Tag des Waffenstillstands in Frankreich.
+Found
+MODSMD_ARTICLE18: Die Klage der Anleihezeichner gegen Blum.
+Found
+MODSMD_ARTICLE19: Spannung zwischen Libanon und Syrien.
+Found
+MODSMD_ARTICLE20: Aufhebung britischer Gesandtschaft in Addis Abeba geplant.
+Found
+MODSMD_ARTICLE21: Wahlergebnisse in Amerika.
+Found

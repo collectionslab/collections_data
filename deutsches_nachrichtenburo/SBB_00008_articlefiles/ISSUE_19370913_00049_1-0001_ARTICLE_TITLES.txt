@@ -1,0 +1,20 @@
+MODSMD_ARTICLE02: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE03: Ml kill Sei Wehrmacht
+Found
+MODSMD_ARTICLE04: Generalfeldmarschall von Blomberg
+Found
+MODSMD_ARTICLE05: Die Borführungen der Wehrmacht
+Found
+MODSMD_ARTICLE06: Der Führer bei der Wehrmacht.
+Found
+MODSMD_ARTICLE07: Der Einmarsch der Truppen.
+Found
+MODSMD_ARTICLE08: Der Führer trifft ein
+Found
+MODSMD_ARTICLE09: der Führer
+Found
+MODSMD_ARTICLE10: „Deutschland Sieg-Heil!"
+Found
+MODSMD_ARTICLE11: Die Militärischen Vorführungrtl
+Found

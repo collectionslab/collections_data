@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: 12 000 NSKK Männer in Nürnberg.
+Found
+MODSMD_ARTICLE02: Prof. Dr. Lehnich über den deutschen Erfolg in Venedig.
+Found
+MODSMD_ARTICLE03: Die deutschen Kriegsschiffe in Spanien.
+Found
+MODSMD_ARTICLE04: Ein Spanienflüchtling in Rosenheim gestorben.
+Found
+MODSMD_ARTICLE05: Das Ergebnis des Zeitungskiosk-Wettbewerbs.
+Found
+MODSMD_ARTICLE06: Beileidstelegramm des Reichsjugendführers.
+Found
+MODSMD_ARTICLE07: General Schmidt von Knobelsdorf f.
+Found
+MODSMD_ARTICLE08: Deutscher Buchhändler in Buenos Aires ermordet.
+Found
+MODSMD_ARTICLE09: Die Kämpfe vor Jrun.
+Found
+MODSMD_ARTICLE10: Nationalistische Flieger bombardieren Jrun.
+Found
+MODSMD_ARTICLE11: Fünf nationalistische Offiziere verurteilt.
+Found
+MODSMD_ARTICLE12: Wird die „Passionaria" in Paris öffentlich Hetzen?
+Found
+MODSMD_ARTICLE13: König Carol von Rumänien kommt nach Prag.
+Found
+MODSMD_ARTICLE14: Japanische Note in London überreicht.
+Found
+MODSMD_ARTICLE15: Verschärfung der Streiklage in Südwales.
+Found
+MODSMD_ARTICLE16: Malta verliert seine Selbstverwaltung.
+Found
+MODSMD_ARTICLE17: Luftfahrtausschuß der französischen Kammer zurückgekehrt.
+Found
+MODSMD_ARTICLE18: Französische Manöver im Zeichen der Motorisierung.
+Found
+MODSMD_ARTICLE19: König Boris bei Mussolini.
+Found

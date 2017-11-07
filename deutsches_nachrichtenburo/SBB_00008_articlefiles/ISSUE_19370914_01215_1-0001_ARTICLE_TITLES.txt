@@ -1,0 +1,50 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Der Text der Nyoncr Beschlüsse informatorisch übergeben.
+Found
+MODSMD_ARTICLE03: Deutsch-portugiesische Marine-Kameradschaft.
+Found
+MODSMD_ARTICLE04: Internationaler Kongreß für Ersatztreibstoffe 1338 in Berlin.
+Found
+MODSMD_ARTICLE05: Erfolgreiche deutsche Flieger beim Plattenseer-Flngtreffen.
+Found
+MODSMD_ARTICLE06: Altpräsident Masayk gestorben.
+Found
+MODSMD_ARTICLE07: Horthy bei den Herbstmanövern der Honved.
+Found
+MODSMD_ARTICLE08: 2. Weltkongreß für Freizeitbewegung 1938 in Rom.
+Found
+MODSMD_ARTICLE09: Einladung zur Teilnahme an der Mittelmeerkontrolle.
+Found
+MODSMD_ARTICLE10: Die Bombenanschläge in Paris.
+Found
+MODSMD_ARTICLE11: Das übliche Bild in Genf.
+Found
+MODSMD_ARTICLE12: Aga Khan Präsident der Völkerbundsversammlung.
+Found
+MODSMD_ARTICLE13: Englands Lordkanzler von seiner Auslandsreise zurück.
+Found
+MODSMD_ARTICLE14: Ein Engländer lernt die spanischen Bolschewisten kennen.
+Found
+MODSMD_ARTICLE15: Die Bolschewisten verjagen die Madrider Zivilbevölkerung.
+Found
+MODSMD_ARTICLE16: Vorzeichen beginnender Selbstzerfleischung.
+Found
+MODSMD_ARTICLE17: Aufmarschverbot im Londoner Ostende verlängert.
+Found
+MODSMD_ARTICLE18: Hore-Belisha zu den französischen Manövern unterwegs.
+Found
+MODSMD_ARTICLE19: Der indische Vizekönig vor dem Parlament.
+Found
+MODSMD_ARTICLE20: Das Morden geht weiter.
+Found
+MODSMD_ARTICLE21: Stinkbomben in New Aorker Lichtspielhäusern.
+Found
+MODSMD_ARTICLE22: Der mexikanische Petroleumarbeiter-Streik.
+Found
+MODSMD_ARTICLE23: Wieder japanische Beschießung der chinesischen Südküste.
+Found
+MODSMD_ARTICLE24: Japanischer Vorstoß in Nord-Schansi.
+Found
+MODSMD_ARTICLE25: Der Rückzug der Chinesen.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Reise des Reichskriegsministers nach Hamburg.
+Found
+MODSMD_ARTICLE02: Zum Besuch der italienischen Flieger in Berlin.
+Found
+MODSMD_ARTICLE03: Italienischer Besuch der Olympischen Spiele.
+Found
+MODSMD_ARTICLE04: Der Reichsärzteführer in Budapest.
+Found
+MODSMD_ARTICLE05: Kreuzer „Leipzig" in Danzig.
+Found
+MODSMD_ARTICLE06: Spanische Stimme Zum deutschen Wiederaufstieg.
+Found
+MODSMD_ARTICLE07: Ein spanisches Blatt über die Schacht-Reise.
+Found
+MODSMD_ARTICLE08: Diplomatenempfänge bei Delbos.
+Found
+MODSMD_ARTICLE09: Große Ausrüstungsrede Hoares.
+Found
+MODSMD_ARTICLE10: Ein neugieriges Unterhausmitglied.
+Found
+MODSMD_ARTICLE11: Eden Ehrendoktor von Oxford.
+Found
+MODSMD_ARTICLE12: Irland schafft das Amt eines Generalgouverneurs ab.
+Found
+MODSMD_ARTICLE13: Japans neuer Botschafter in London.
+Found
+MODSMD_ARTICLE14: Internationale Arbeitskonferenz beendet.
+Found
+MODSMD_ARTICLE15: Beratungen des Technischen Ausschusses in Montreux.
+Found
+MODSMD_ARTICLE16: Japanische Stellungnahme zu Montreux.
+Found
+MODSMD_ARTICLE17: Die Juden als Wegbereiter des Bolschewismus.
+Found
+MODSMD_ARTICLE18: Generalstreik in Huelva.
+Found
+MODSMD_ARTICLE19: Auch Bulgarien gegen die Fortsetzung der Sanktionen.
+Found
+MODSMD_ARTICLE20: Strafexpeditionen in Palästina.
+Found

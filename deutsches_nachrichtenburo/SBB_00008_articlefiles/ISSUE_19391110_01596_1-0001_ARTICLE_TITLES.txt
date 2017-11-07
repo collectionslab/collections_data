@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Victor Emanuel 111. und Benito Mussolini an den Führer.
+Found
+MODSMD_ARTICLE02: Freiherr von Neurath und Dr. Hacha an den Führer.
+Found
+MODSMD_ARTICLE03: Staatsakt für die Opfer des Münchener Attentats.
+Found
+MODSMD_ARTICLE04: Auf frischer Tat ertappt.
+Found
+MODSMD_ARTICLE05: Der Regierungspräsident in Kattowitz eingeführt.
+Found
+MODSMD_ARTICLE06: Der Chef der neuen deutschen Heeresmission bei Dr. Tiso.
+Found
+MODSMD_ARTICLE07: Vermehrung der Truppenoffiziere und Unteroffiziere.
+Found
+MODSMD_ARTICLE08: Der Führer zeigte der Welt den wahren Kriegsschuldigen.
+Found
+MODSMD_ARTICLE09: Die Heimat des Kapitalismus!
+Found
+MODSMD_ARTICLE10: Selbst Reuter muß von neuen Schwindeleien abrücken.
+Found
+MODSMD_ARTICLE11: Beschleunigte Abwärtsbewegung des englischen Pfundes.
+Found
+MODSMD_ARTICLE12: Beschämende Zustände.
+Found
+MODSMD_ARTICLE13: Rüstungskonjunktur in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE14: Gegen eine dritte Amtszeit Roosevelts.
+Found
+MODSMD_ARTICLE15: Amerikas Rüstung.
+Found
+MODSMD_ARTICLE16: Der Flaggenwechsel ein Trick.
+Found
+MODSMD_ARTICLE17: Etwa 59 amerikanische Schiffe unter fremder Flagge.
+Found

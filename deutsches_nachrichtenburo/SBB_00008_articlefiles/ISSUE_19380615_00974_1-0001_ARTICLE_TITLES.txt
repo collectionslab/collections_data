@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Empfang der südafrikanischen Frontkämpfer.
+Found
+MODSMD_ARTICLE02: Die Uebergabe des Schlosses Buderose.
+Found
+MODSMD_ARTICLE03: 2500 Fähnriche auf den ostpreußischen Schlachtfeldern.
+Found
+MODSMD_ARTICLE04: Ein Prediger in der Wüste.
+Found
+MODSMD_ARTICLE05: „Das britische Empire ein bankrotter Konzern."
+Found
+MODSMD_ARTICLE06: Die Londoner Presse zur Chamberlain-Erklärung.
+Found
+MODSMD_ARTICLE07: Dir Jdev des Arbeitsdienstes macht Schule.
+Found
+MODSMD_ARTICLE08: Das Ausland zur Grundsteinlegung zum neuen Berlin.
+Found
+MODSMD_ARTICLE09: Weiter vorwärts an der Eastellonfront.
+Found
+MODSMD_ARTICLE10: Für jüdische Hetzer in Palästina Hausarrest.
+Found

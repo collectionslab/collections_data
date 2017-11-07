@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Großzügige und zentrale Ordnung der Umschulung.
+Found
+MODSMD_ARTICLE02: Italienische Stimmen zu dem Ergebnis von Rom.
+Found
+MODSMD_ARTICLE03: Schneller Vormarsch der Nationalen»
+Found
+MODSMD_ARTICLE04: Wildes Durcheinander in Barcelona.
+Found
+MODSMD_ARTICLE05: Paris: „Katalonien geht der Atem aus."
+Found
+MODSMD_ARTICLE06: Eine bemerkenswerte Abstimmung der Marseiller Seelente.
+Found
+MODSMD_ARTICLE07: Jüdischer Offizier als illegaler Agitator in Polen.
+Found
+MODSMD_ARTICLE08: Mindestalter für Arbeiter in der Schweiz 15 Jahre.
+Found
+MODSMD_ARTICLE09: Transjordanische Minister in London.
+Found
+MODSMD_ARTICLE10: Hiranuma vor dem Oberhaus.
+Found
+MODSMD_ARTICLE11: „Durchsuchungen", Zusammenstöße, Verhaftungen.
+Found
+MODSMD_ARTICLE12: Streik in Rangun.
+Found
+MODSMD_ARTICLE13: Störenfriede in Mexiko unerwünscht.
+Found
+MODSMD_ARTICLE14: Neue Enthüllungen im Fall Coster-Musica.
+Found
+MODSMD_ARTICLE15: Beibehaltung der Wassensperre gefordert.
+Found

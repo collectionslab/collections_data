@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Deutsche Arbeiter als Sendboten der Freundschaft.
+Found
+MODSMD_ARTICLE02: Commander Rosendahl besucht Deutschland.
+Found
+MODSMD_ARTICLE03: Generalmajor Schweinle Polizeipräsident von Stuttgart.
+Found
+MODSMD_ARTICLE04: Holland gegen den Zuzug von Emigrauten.
+Found
+MODSMD_ARTICLE05: Gegen den Sanktionsartikel.
+Found
+MODSMD_ARTICLE06: „Es lebe das tschechische Wien!"
+Found
+MODSMD_ARTICLE07: Aufschlußreiche Worte des tschechischen Legionärblattes.
+Found
+MODSMD_ARTICLE08: Das polnisch-litauische Abkommen ratifiziert.
+Found
+MODSMD_ARTICLE09: Engländer aus Sowjetrußland ausgewiesen.
+Found
+MODSMD_ARTICLE10: Ständige Grenzverletzungen Sowjetrnßlands.
+Found
+MODSMD_ARTICLE11: Halbamtliche Note der Regierung in Bnrgos.
+Found
+MODSMD_ARTICLE12: Das Durcheinander in Sowjetspanien.
+Found
+MODSMD_ARTICLE13: Drei Araber gehängt.
+Found
+MODSMD_ARTICLE14: Dämme des Kaiser-Kanals von den Chinesen durchstochen.
+Found
+MODSMD_ARTICLE15: Lohn- und Arbeitszeitgesetz von Roosevelt unterzeichnet.
+Found
+MODSMD_ARTICLE16: 10,3 Millionen Arbeitslose in USA.
+Found

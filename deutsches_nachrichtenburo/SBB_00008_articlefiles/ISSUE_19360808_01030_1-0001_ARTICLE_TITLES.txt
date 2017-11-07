@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: König Boris von Bulgarien bei Generaloberst Gering.
+Found
+MODSMD_ARTICLE02: Geheimrat Zimmermann Direktor bei den Staatlichen Museen.
+Found
+MODSMD_ARTICLE03: Pg. Stürtz Gauleiter der Kurmark.
+Found
+MODSMD_ARTICLE04: Sitzung des Zentralbüros „Freude und Arbeit".
+Found
+MODSMD_ARTICLE05: Der deutsche Bergbau zum Grubenunglück in England.
+Found
+MODSMD_ARTICLE06: Fast alle Opfer des Bergwerksunglücks geborgen.
+Found
+MODSMD_ARTICLE07: Deutschlandreise des polnischen Metropoliten.
+Found
+MODSMD_ARTICLE08: Die Urlaubsunterbrechung des Außenministers Beck.
+Found
+MODSMD_ARTICLE09: Japanischer Sportflieger tödlich abgestürzt.
+Found
+MODSMD_ARTICLE10: Volltreffer in das britische Konsulat von Algeciras.
+Found
+MODSMD_ARTICLE11: General Franco in Spanien?
+Found
+MODSMD_ARTICLE12: Lohnerhöhung in der italienischen Industrie.
+Found
+MODSMD_ARTICLE13: Unruhen auf Madeira.
+Found
+MODSMD_ARTICLE14: Rücktritt diplomatischer Vertreter Spaniens.
+Found
+MODSMD_ARTICLE15: Die Verstaatlichung der französischen Rüstungsindustrie.
+Found
+MODSMD_ARTICLE16: Freiwillige Erntehelfer im französischen Streikgebiet.
+Found
+MODSMD_ARTICLE17: Wachsende belgische Besorgnis vor Kommunistenwnhlerei.
+Found

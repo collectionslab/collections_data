@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Goethe-Medaille für Professor Bahlen.
+Found
+MODSMD_ARTICLE02: Ruft beglückwünscht Prof. Dr. Bahlen.
+Found
+MODSMD_ARTICLE03: Friedliche Aufbauarbeit in Ostpreußen.
+Found
+MODSMD_ARTICLE04: Aufbahrung des Generals Knochenhauer.
+Found
+MODSMD_ARTICLE05: Die italienischen Frontkämpfer im Rheingau.
+Found
+MODSMD_ARTICLE06: Das Urteil im Honomichl-Prozeß.
+Found
+MODSMD_ARTICLE07: Geheimfonds des Quai d'Orsay für Belgien.
+Found
+MODSMD_ARTICLE08: Generalstabsbesprechungen oder nicht?
+Found
+MODSMD_ARTICLE09: Das ungarische Parlament begrüßt die neuen Abgeordneten.
+Found
+MODSMD_ARTICLE10: Das neue italienische Personen- und Familienrecht.
+Found
+MODSMD_ARTICLE11: Besuch General Halders bei hohen finnischen Militärs.
+Found
+MODSMD_ARTICLE12: Araber fordern Abstellung der britischen Grausamkeiten.
+Found
+MODSMD_ARTICLE13: Argentinien bewundert den „Condor"-Flug.
+Found
+MODSMD_ARTICLE14: 40 Milliarden Dollar Staatsschulden der NSA.
+Found
+MODSMD_ARTICLE15: Eine Lotterie zum Abbruch des Chikagoer Elendsviertels.
+Found
+MODSMD_ARTICLE16: Ford brandmarkt erneut die Kriegshetzer.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: MM Arbeiter Gäste des Führers.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Goebbels in Salzburg.
+Found
+MODSMD_ARTICLE03: 80 0W Besucher auf der fünften Neichskleiniierfchau.
+Found
+MODSMD_ARTICLE04: München empfing Auslandsjugend.
+Found
+MODSMD_ARTICLE05: Reichswirtschaftsminlster Funk in Tivoli.
+Found
+MODSMD_ARTICLE06: Rom in Erwartung des Chamöerlain Besuches.
+Found
+MODSMD_ARTICLE07: Der ungarische Gesandte bei Graf Ciano.
+Found
+MODSMD_ARTICLE08: Bertuschungsversuche im Amsterdamer Grundstücksskandal.
+Found
+MODSMD_ARTICLE09: Neujnhrsempsang in Warschau.
+Found
+MODSMD_ARTICLE10: Tie Pariser Presse gegen englische Bermittlertätigkeit.
+Found
+MODSMD_ARTICLE11: Neue Einbruchsstelle bei Balaguer.
+Found
+MODSMD_ARTICLE12: Der frühere lettische Präsident Zemgals f.
+Found
+MODSMD_ARTICLE13: Internationale Waffenschiebung nach Rotspanien.
+Found
+MODSMD_ARTICLE14: Wieder Durchsuchungsaktionen in Palästina.
+Found
+MODSMD_ARTICLE15: Hungermarsch tausend birmanischer Arbeiter nach Ranguu.
+Found

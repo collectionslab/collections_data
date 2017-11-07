@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Gesellschaftsabend der Vereinigung Carl Schurz.
+Found
+MODSMD_ARTICLE02: Niederländische Verkehrsfachleute tagen in Hamburg.
+Found
+MODSMD_ARTICLE03: Die erste Gauheimmütterschule eingeweiht.
+Found
+MODSMD_ARTICLE04: Polen bekennt sich zur körperlichen Erziehung seiner Jugend.
+Found
+MODSMD_ARTICLE05: Polens Kampf gegen die rote Pest.
+Found
+MODSMD_ARTICLE06: Erregte Debatte im polnischen Seim.
+Found
+MODSMD_ARTICLE07: Kommunistische Geheimorganisation in Lettland.
+Found
+MODSMD_ARTICLE08: „Frankreich muß für die Scherben zahlen".
+Found
+MODSMD_ARTICLE09: Pariser Rechtsblätter gegen sowjethörige Volksfrontler.
+Found
+MODSMD_ARTICLE10: Jouhaux droht.
+Found
+MODSMD_ARTICLE11: Gegen das französische Staatsbürgerrecht für Algerier.
+Found
+MODSMD_ARTICLE12: Der Direktor der belgischen Staatsdruckerei verhaftet.
+Found
+MODSMD_ARTICLE13: Neuer belgischer Wirtschaftsmiuister.
+Found
+MODSMD_ARTICLE14: Bolschewistischer Gegenangriff abgewiesen.
+Found
+MODSMD_ARTICLE15: Englands Politik im Fernost-Konflikt.
+Found
+MODSMD_ARTICLE16: Die Kadetten der „Schlesien" in Santiago de Chile.
+Found

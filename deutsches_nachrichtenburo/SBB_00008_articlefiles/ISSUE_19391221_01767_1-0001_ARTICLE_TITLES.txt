@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm des Führers an Stalin.
+Found
+MODSMD_ARTICLE02: Deutscher Protest gegen Jntermerung der „Spee"-Besatzung.
+Found
+MODSMD_ARTICLE03: Bon Minen und aus der Luft zugleich gefährdet.
+Found
+MODSMD_ARTICLE04: Zauberkünstler Churchill!
+Found
+MODSMD_ARTICLE05: Glückliche Weihnachten im Generalgouvernement.
+Found
+MODSMD_ARTICLE06: „Deutschlands Organismus überlegen."
+Found
+MODSMD_ARTICLE07: Englands wirtschaftliche Eroberungspläne.
+Found
+MODSMD_ARTICLE08: Lebhaftere örtliche Artillerietätigkeit im Westen.
+Found
+MODSMD_ARTICLE09: Admiral Darlan zu Churchill zitiert.
+Found
+MODSMD_ARTICLE10: Bei Terfchelling auf eine Mine gelaufen und gesunken.
+Found
+MODSMD_ARTICLE11: Rückzug der Finnen an der Petsamo-Front.
+Found
+MODSMD_ARTICLE12: Belgrad zum deutschen« Luftsiege.
+Found
+MODSMD_ARTICLE13: Dampfer „Columbus" von der eigenen Besatzung versenkt.
+Found
+MODSMD_ARTICLE14: Amerika will sich vom Kriege fernhalten.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Vormittags – Ausgabe. Deutsches Nachrichtenbüro
+Not Found
+MODSMD_ARTICLE02: Prinzessin Olga besuchte die Reichsmütterschule am Wedding.
+Found
+MODSMD_ARTICLE03: Goethe-Medaille für Prof. Eugen Fischer.
+Found
+MODSMD_ARTICLE04: Göring und Raeder danken den Freiwilligen.
+Found
+MODSMD_ARTICLE05: Minister Alfieri auf der Rückreise nach Rom.
+Found
+MODSMD_ARTICLE06: Unterzeichnung der Nichtangriffsverträge.
+Found
+MODSMD_ARTICLE07: Professor Dr. Reiter und General Rossi in Kassel.
+Found
+MODSMD_ARTICLE08: Die italienischen Freiwilligen in Neapel.
+Found
+MODSMD_ARTICLE09: Italienisch-bulgarisches Kulturabkommen.
+Found
+MODSMD_ARTICLE10: Chamberlain vertröstet das Unterhaus.
+Found
+MODSMD_ARTICLE11: Verbot der Araberzeitung „El Dschihad".
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: 338 deutsch? Flüchtlinge in Genua eingetroffen.
+Found
+MODSMD_ARTICLE02: Zur Heimbeförderung der Italiener aus Spanien.
+Found
+MODSMD_ARTICLE03: Marxistenführer in Barcelona ermordet.
+Found
+MODSMD_ARTICLE04: Französische Freiwillige in Barcelona eingetroffen.
+Found
+MODSMD_ARTICLE05: Londoner Blätter zur Beschießung von Algeciras.
+Found
+MODSMD_ARTICLE06: England erwägt Gegenmaßnahmen in Gibraltar»
+Found
+MODSMD_ARTICLE07: General Franca in Sevilla.
+Found
+MODSMD_ARTICLE08: London und der französische Nichteinmischungsvorschlag.
+Found
+MODSMD_ARTICLE09: England dementiert Waffenlieferungsgerüchte.
+Found
+MODSMD_ARTICLE10: Beschlagnahme des Kirchenvermögens in Katalonien.
+Found
+MODSMD_ARTICLE11: Das Pariser Kabinett und die Neutralitätsfrage.
+Found
+MODSMD_ARTICLE13: Pariser Senatsausschuß für strenge Neutralität.
+Found
+MODSMD_ARTICLE14: Oel aus den Vorräten der französischen Luftwaffe?
+Found
+MODSMD_ARTICLE15: Kammer-Niederlage der französischen Regierung.
+Found
+MODSMD_ARTICLE16: Versicherung für Transporte nach Spanien verteuert.
+Found
+MODSMD_ARTICLE17: Besprechungen Grazianis mit den Gouverneuren.
+Found
+MODSMD_ARTICLE18: Japanischer Schriftsteller unter Spionageverdacht.
+Found

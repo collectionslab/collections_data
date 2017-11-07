@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Das erste Weihnachtsfest in der Heimat.
+Found
+MODSMD_ARTICLE02: Britanniens Willkür kennt keine Grenzen.
+Found
+MODSMD_ARTICLE03: Verlust der englischen Luftwaffe.
+Found
+MODSMD_ARTICLE04: Holland und der britische Wirtschaftskrieg.
+Found
+MODSMD_ARTICLE05: Der italienische Dampfer „Comitas" verloren gegeben.
+Found
+MODSMD_ARTICLE06: Holland verbietet den Verkauf eines Dampfers.
+Found
+MODSMD_ARTICLE07: Die Inder fordern endgültige Antwort.
+Found
+MODSMD_ARTICLE08: Englisches Feuerschiff durch eine Mine vernichtet.
+Found
+MODSMD_ARTICLE09: Englische Minister genießen wenig Vertrauen.
+Found
+MODSMD_ARTICLE10: Daladier für die Erweiterung des Krieges.
+Found
+MODSMD_ARTICLE11: Das „Finanzabkommen mit England wird bedrohlich."
+Found
+MODSMD_ARTICLE12: Französisches Kriegsschiff in Antwerpen.
+Found
+MODSMD_ARTICLE13: Norwegens Schiffahrt wird teuer.
+Found
+MODSMD_ARTICLE14: Finnische Meldungen über die Lage.
+Found
+MODSMD_ARTICLE15: Keine besonderen Ergebnisse in Finnland.
+Found
+MODSMD_ARTICLE16: Die russischen Fortschritte.
+Found
+MODSMD_ARTICLE17: Englische Blutverluste unzweckmäßig.
+Found
+MODSMD_ARTICLE18: Die erste kanadische Kriegsanleihe.
+Found
+MODSMD_ARTICLE19: Flugzeugkonstrukteur Fokker gestorben.
+Found

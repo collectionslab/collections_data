@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Englische Jugend verbringt Ostern am Rhein.
+Found
+MODSMD_ARTICLE02: Daranyi zu den Reisen Schuschniggs und Graf Cianos.
+Found
+MODSMD_ARTICLE03: Positive Rassenpolitik auch für Italien notwendig!
+Found
+MODSMD_ARTICLE04: Die Straßenbauten in Aethiopien.
+Found
+MODSMD_ARTICLE05: Stauning gegen die kommunistischen „Phrasenhelden".
+Found
+MODSMD_ARTICLE06: Besprechung Delbos—Beck in Cannes.
+Not Found
+MODSMD_ARTICLE07: „Frankreich als Soldat des sowjetrussischen Imperialismus".
+Found
+MODSMD_ARTICLE08: Gesesselt und lebendig ins Meer geworfen.
+Found
+MODSMD_ARTICLE09: Drei bolschewistische Angriffe am Ostermontag abgewiesen.
+Found
+MODSMD_ARTICLE10: Zwei-Sowjettanks bei Cordoba erbeutet.
+Found
+MODSMD_ARTICLE11: Der Sohn Jouhaux' als Waffenschieber verurteilt.
+Found
+MODSMD_ARTICLE12: Litauische Privatschulen von polnischen Behörden geschlossen.
+Found
+MODSMD_ARTICLE13: Stets sind es Juden?
+Found
+MODSMD_ARTICLE14: Hodscha zu außenpolitischen Fragen.
+Found
+MODSMD_ARTICLE15: Krestinski Stellvertretender Justizkommissar.
+Found
+MODSMD_ARTICLE16: Ein Jude Leiter der sowjetrussischen Jndustriebank.
+Found
+MODSMD_ARTICLE17: Die Frage der syrischen Unabhängigkeit.
+Found
+MODSMD_ARTICLE18: 299 Todes- und Zuchthausurteile in Mandschukuo.
+Found
+MODSMD_ARTICLE19: Roosevelt bespricht die Streiklage.
+Found
+MODSMD_ARTICLE20: Deutsche Ehrung für argentinische Generäle.
+Found

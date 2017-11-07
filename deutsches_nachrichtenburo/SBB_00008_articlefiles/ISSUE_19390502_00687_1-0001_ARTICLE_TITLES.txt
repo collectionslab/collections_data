@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Deutsches Nachrichtenbüro dK
+Found
+MODSMD_ARTICLE02: Der Nusklann des sfestes.
+Found
+MODSMD_ARTICLE03: Dr. Seyß-Jnquart Reichsminister.
+Found
+MODSMD_ARTICLE04: Konrad Henlein zum Reichsstatthalter ernannt.
+Found
+MODSMD_ARTICLE05: Glückwünsche des Führers an General Franco.
+Found
+MODSMD_ARTICLE06: Ungarische und deutsche Journalisten trafen sich.
+Found
+MODSMD_ARTICLE07: Reichsarbeitsminister Seldte in Rom.
+Found
+MODSMD_ARTICLE08: Budapester Interesse für den Staatsbesuch.
+Found
+MODSMD_ARTICLE09: Gafencu über die herzliche Aufnahme in Deutschland.
+Found
+MODSMD_ARTICLE10: England im Kampfe gegen die Wahrheit.
+Found
+MODSMD_ARTICLE11: „Mein Kampf" für den Sprecher des Außenamtes in Tokio.
+Found

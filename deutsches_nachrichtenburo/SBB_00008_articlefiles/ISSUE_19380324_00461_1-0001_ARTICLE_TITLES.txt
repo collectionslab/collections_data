@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Generalappell der politischen Soldaten.
+Found
+MODSMD_ARTICLE02: Der Generalappell iu der Hauptstadt der Bewegung.
+Found
+MODSMD_ARTICLE03: Wiens SA. marschiert.
+Found
+MODSMD_ARTICLE04: Reichsführer SS. Himmler gibt in Wien die Parole.
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE02: Der Führer bei den Kampfspielen.
+Found
+MODSMD_ARTICLE03: Die Siegerehrung.
+Found
+MODSMD_ARTICLE04: Der Stabschef
+Found
+MODSMD_ARTICLE05: Die Diplomaten ans der Burg.
+Found
+MODSMD_ARTICLE06: Riesenfeuerwerk am Dutzendteich
+Found
+MODSMD_ARTICLE07: Fröhliche Biwakfeiern.
+Found
+MODSMD_ARTICLE08: Das Ausland zu Nürnberg.
+Found

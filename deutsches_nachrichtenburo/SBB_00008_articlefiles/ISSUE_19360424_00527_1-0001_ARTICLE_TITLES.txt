@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Aufruf des Neichspropagandaministers zum 1. Mai 193 V.
+Found
+MODSMD_ARTICLE02: Der Führer weiht die Ordensburgen.
+Found
+MODSMD_ARTICLE03: Rede Dr. Leys bei dem Weiheakt in Crössinsee.
+Found
+MODSMD_ARTICLE04: „Graf Zeppelin" in Friedrichshofen gelandet.
+Found
+MODSMD_ARTICLE05: Deutschlands Dank für Stohrers Errettung.
+Found
+MODSMD_ARTICLE06: lluiversitätsprosessor von Gaza tödlich verunglückt.
+Found
+MODSMD_ARTICLE07: Die deutschen Blaujacken in Washington.
+Found
+MODSMD_ARTICLE08: Eine österreichische Stimme zum „Phönix"-Skandal.
+Found
+MODSMD_ARTICLE09: Französische Wünsche an England.
+Found
+MODSMD_ARTICLE10: Arabische Erklärung zu den Vorgängen in Palästina.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer feiert mit den Bauarbeitern der Reichskanzlei.
+Found
+MODSMD_ARTICLE02: Behebung des Lehrernachwuchsmangels.
+Found
+MODSMD_ARTICLE03: Vermögensveränderungen bei der Judenvermögensabgabe.
+Found
+MODSMD_ARTICLE04: Der neue deutsche Gesandte in Lettland.
+Found
+MODSMD_ARTICLE05: Brand im Pariser Jnvalidendom.
+Found
+MODSMD_ARTICLE06: 7 Jahre Zwangsarbeit für kommunistischen Mordschützen.
+Found
+MODSMD_ARTICLE07: Bolschewistischer Beutezug in Taschkent.
+Found
+MODSMD_ARTICLE08: Traurige Weihnachten im Laude Christi.
+Found
+MODSMD_ARTICLE09: England soll sich mit dem Mufti auseinandersetzen.
+Found
+MODSMD_ARTICLE10: Abberufung des japanischen Botschafters in Moskau?
+Found
+MODSMD_ARTICLE11: Washington verstärkt die Unterstützung Sowjetspaniens.
+Found

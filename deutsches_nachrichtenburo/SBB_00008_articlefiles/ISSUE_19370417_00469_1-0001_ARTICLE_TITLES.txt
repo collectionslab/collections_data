@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Dr. Goebbels über Aufgaben der Berliner Stadtverwaltung.
+Found
+MODSMD_ARTICLE02: Eröffnung der ersten Klassen der Adolf Hitler-Schulen.
+Found
+MODSMD_ARTICLE03: Berlin begrüßt Japans Rekordflieger.
+Found
+MODSMD_ARTICLE04: Japanische Botschaft an das deutsche Volk.
+Found
+MODSMD_ARTICLE05: Kameradschaftsabend der Presse in München.
+Found
+MODSMD_ARTICLE06: Herzlicher Empfang der Schlesien" in Torquay.
+Found
+MODSMD_ARTICLE07: Ter Reiseverkehr zur Pariser Ausstellung 1937.
+Found
+MODSMD_ARTICLE08: Gemeiner Marxistenüberfall auf Sudetendeutsche.
+Found
+MODSMD_ARTICLE09: Verband polnischer Landmesser beschließt Arierparagraphen.
+Found
+MODSMD_ARTICLE10: Jüdisch-kommunistische Hetzer in Warschau verhaftet.
+Found

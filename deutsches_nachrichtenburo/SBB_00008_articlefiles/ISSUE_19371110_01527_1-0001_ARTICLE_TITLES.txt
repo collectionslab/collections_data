@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der 9. November 1937. Der Führer bei der Vereidigung der SS.-Rekruten.
+Found
+MODSMD_ARTICLE02: Der Führer spricht.
+Found
+MODSMD_ARTICLE03: Der Führer im Kreise der Parteiführer.
+Found
+MODSMD_ARTICLE04: Ludendorff an den Führer.
+Found
+MODSMD_ARTICLE05: Die Ausländsdeutschen ehren die Toten des 9. November.
+Found
+MODSMD_ARTICLE06: Die 300 Adolf-Hitler-Schüler im Bürgerbräukeller.
+Found
+MODSMD_ARTICLE07: 2 Milliarden Kronen für die nationale Verteidigung.
+Found
+MODSMD_ARTICLE08: Abreise Daranyis und von Kanyas nach Berlin am 20.11.
+Found
+MODSMD_ARTICLE09: Ein Staatsschutzgesetz in Ungarn.
+Found
+MODSMD_ARTICLE10: Ramsay MacDonald gestorben.
+Found
+MODSMD_ARTICLE11: König Boris verlängert seinen Londoner Aufenthalt.
+Found
+MODSMD_ARTICLE12: Litwinow-Finkelstein will Brüssel verlassen.
+Found
+MODSMD_ARTICLE13: Japan plant neue Gesetze.
+Found

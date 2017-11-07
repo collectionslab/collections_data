@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ernennungen im Reichsfinanzministerium.
+Found
+MODSMD_ARTICLE02: Feierstunde der Berliner Universität.
+Found
+MODSMD_ARTICLE03: Freundschaftskundgebung HJ. und Jugend von Nippon.
+Found
+MODSMD_ARTICLE04: Italiens bester Skiläufer einem Sportunfall erlegen.
+Found
+MODSMD_ARTICLE05: Staatssekretär Schlegelberger in Zakopane.
+Found
+MODSMD_ARTICLE06: Würdigung des deutschen Aufstiegs durch Italiens Presse.
+Found
+MODSMD_ARTICLE07: Amtliche Mitteilung über die Pulverexplosion in Segni.
+Found
+MODSMD_ARTICLE08: Die Nichte des Duce hat sich vermählt.
+Found
+MODSMD_ARTICLE09: Einbruch in eine französische Gerichtsschreiberei.
+Found
+MODSMD_ARTICLE10: General Astray über den Aufbau im nationalen Spanien.
+Found
+MODSMD_ARTICLE11: Sowjetspanisches Waffelnlager von Nationalen entdeckt.
+Found
+MODSMD_ARTICLE12: Luftverteidigung Niederländisch-Jndiens wird ausgebaut.
+Found
+MODSMD_ARTICLE13: Wechsel auch im bulgarischen Justizministerium.
+Found
+MODSMD_ARTICLE14: Die Stärke der zukünftigen amerikanischen Flotte.
+Found

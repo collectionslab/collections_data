@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die Festvorstellung im Weimarer Nationaltheater.
+Found
+MODSMD_ARTICLE02: Fürstin-Witwe Luise zu Waldeck und Pyrmont gestorben.
+Found
+MODSMD_ARTICLE03: LZ „Hindenburg" zum Rückslug gestartet.
+Found
+MODSMD_ARTICLE04: Das „Heidelberg eines neuen Geschlechts".
+Found
+MODSMD_ARTICLE05: „Rex-Bewegung und Deutschland".
+Found
+MODSMD_ARTICLE06: Neue Richtlinien der Komintern für Oesterreich.
+Found
+MODSMD_ARTICLE07: Ein Entschließungsentwurf für Sanktionsaufhebung.
+Found
+MODSMD_ARTICLE08: Schweizerischer Bundesrat billigt Genfer Maßnahmen.
+Found
+MODSMD_ARTICLE09: Die neue Leitung der englischen Meerengen-Abordnung.
+Found
+MODSMD_ARTICLE10: Die englisch-ägyptischen Verhandlungen.
+Found
+MODSMD_ARTICLE11: Neville Chamberlain kündigt HaushalkSfehlbeirag an.
+Found
+MODSMD_ARTICLE12: Der ungarische Finanzminister in London.
+Found
+MODSMD_ARTICLE13: Der „Seekrieg" in Fernost.
+Found

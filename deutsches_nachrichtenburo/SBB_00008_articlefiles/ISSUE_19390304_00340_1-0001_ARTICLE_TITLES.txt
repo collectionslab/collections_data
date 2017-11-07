@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Kampfansage gegen gewissenlose Preissteigerungen.
+Found
+MODSMD_ARTICLE02: Gedenkfeiern an die Abwehrkämpfe gegen die Bolschewiken.
+Found
+MODSMD_ARTICLE03: Der deutsche Gesandte in Lissabon bor der Studentenschaft.
+Found
+MODSMD_ARTICLE04: Der Prager Optionsvertrag mit Ungarn.
+Found
+MODSMD_ARTICLE05: Die Militarisierung der französischen Kolonien.
+Found
+MODSMD_ARTICLE06: Französischer Abgeordneter feiert Francas Sieg.
+Found
+MODSMD_ARTICLE07: Gibt Moskau das spanische Spiel verloren?
+Found
+MODSMD_ARTICLE08: Die belgische Regierungskrise.
+Found
+MODSMD_ARTICLE09: Eine neue Werberede Andersons.
+Found
+MODSMD_ARTICLE10: Der Briefwechsel zwischen McMahon und Scherls Hussein.
+Found
+MODSMD_ARTICLE11: Der Vizekönig zu Gandhis Hungerstreik.
+Found
+MODSMD_ARTICLE12: Die Unruhen in Burma dauern an.
+Found
+MODSMD_ARTICLE13: Ernste Unruhen auf den Philippinen.
+Found
+MODSMD_ARTICLE14: Verstärkung desjapanischEinffusses in Schanghai.
+Found
+MODSMD_ARTICLE15: Attentat auf das französische Konsulat in Jaffa.
+Found
+MODSMD_ARTICLE16: Das friedlose Palästina.
+Found
+MODSMD_ARTICLE17: Ter Kronprinz des Iran in Kairo eingetroffen.
+Found
+MODSMD_ARTICLE18: Roosevelts Schuldkonto.
+Found
+MODSMD_ARTICLE19: Der Haushalt des USA.-Kriegsministermms angenommen.
+Found
+MODSMD_ARTICLE20: Moloch Sowjetunion.
+Found

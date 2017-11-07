@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: 43 KW Arbeitsdienstmänner ziehen in Nürnberg ein.
+Found
+MODSMD_ARTICLE02: Die Reichstagung der Auslandsdeutschen in Erlangen.
+Found
+MODSMD_ARTICLE03: Paketnnchscndung für „Admiral Graf Spee", „Nürnberg", „Falke" und „Greif".
+Found
+MODSMD_ARTICLE04: Jugoslawische Eisenbahner auf Dentschlandreise.
+Found
+MODSMD_ARTICLE05: Schweizer Manöverballon in Deutschland gelandet.
+Found
+MODSMD_ARTICLE06: Frankreichs Ilnterrichtsminister in Wien.
+Found
+MODSMD_ARTICLE07: Kommunistische Bluttat in Wien.
+Found
+MODSMD_ARTICLE08: Verhaftung eines jüdischen Schriftstellers.
+Found
+MODSMD_ARTICLE09: Der König von England in Bulgarien.
+Found
+MODSMD_ARTICLE10: Belgrader Ministerpräsident nach Bukarest gereist.
+Found
+MODSMD_ARTICLE11: Jugoslawisch-italienische Handelsvertragsverhandlungen.
+Found
+MODSMD_ARTICLE12: Besserung im Befinden Edens.
+Found
+MODSMD_ARTICLE13: Eröffnung der südafrikanischen Verkehrskonferenz.
+Found
+MODSMD_ARTICLE14: Bauarbeiterstreik im Departement Niedre.
+Found
+MODSMD_ARTICLE15: Feuerüberfall auf Regierungsbeamte in Jerusalem.
+Found
+MODSMD_ARTICLE16: Mexikanisch-kommunistische Lärmkundgebung für Madrid.
+Found
+MODSMD_ARTICLE17: Rücktritt eines spanischen Botschaftssekretärs.
+Found
+MODSMD_ARTICLE18: Die 3. Weltkraftkonferenz in Washington eröffnet.
+Found
+MODSMD_ARTICLE19: Volksfront-Bestrebungen in Japan.
+Found

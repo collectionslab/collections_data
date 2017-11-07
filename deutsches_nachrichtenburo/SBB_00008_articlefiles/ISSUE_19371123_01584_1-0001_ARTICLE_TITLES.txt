@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die ungarischen Gäste im Hause des Reichspräsidenten.
+Found
+MODSMD_ARTICLE02: Die Berliner Besuche der ungarischen Gäste.
+Found
+MODSMD_ARTICLE03: Heinkelflugzeug erobert drei neue Weltrekorde.
+Found
+MODSMD_ARTICLE04: Personalveränderungen in der Luftwaffe.
+Found
+MODSMD_ARTICLE05: Die spanischen Falangistenführerinnen bei Schirach.
+Found
+MODSMD_ARTICLE06: Rudolf Heß beim Obersten Parteirichter Buch.
+Found
+MODSMD_ARTICLE07: Weitere Vorträge auf Burg Sonthofen.
+Found
+MODSMD_ARTICLE08: Neugestaltung des deutsch-dänischen Warenverkehrs.
+Found
+MODSMD_ARTICLE09: Straferlasse für politische Gefangene in Litauen.
+Found

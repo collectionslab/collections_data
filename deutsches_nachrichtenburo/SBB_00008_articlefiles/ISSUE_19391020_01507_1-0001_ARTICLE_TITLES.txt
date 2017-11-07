@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Keine besonderen Ereignisse an der Front.
+Found
+MODSMD_ARTICLE02: Die ersten Hochöfen der Reichswerke Hermann Göring.
+Found
+MODSMD_ARTICLE03: „Die Blockade kann Deutschland nicht treffen."
+Found
+MODSMD_ARTICLE04: Die Konferenz der nordischen Staaten.
+Found
+MODSMD_ARTICLE06: London über die Taten deutscher U-Boote.
+Found
+MODSMD_ARTICLE07: Schwere Schädigung der belgischen Wirtschaft.
+Found
+MODSMD_ARTICLE08: „Alcazar" Zur Heldentat von Sapa Flow.
+Found
+MODSMD_ARTICLE09: Klagerufe aus dem englischen Volk.
+Found
+MODSMD_ARTICLE10: Gewaltige Zunahme der Verkehrsunfälle in England.
+Found
+MODSMD_ARTICLE11: Eingeständnisse auf UmwegM.
+Found
+MODSMD_ARTICLE12: Englisch-sranzösisch-türkischer Pakt unterzeichnet.
+Found
+MODSMD_ARTICLE13: Gemischte Gefühle in Ankara.
+Found
+MODSMD_ARTICLE14: Telegrammwechsel Zwischen Saraeoglu und Molotow.
+Found
+MODSMD_ARTICLE15: Zum sowjetrussischen Gesandten in Litauen ernannt.
+Found
+MODSMD_ARTICLE16: Indiens Widerstand gegen Englands Kriegspolitik.
+Found
+MODSMD_ARTICLE17: Die sowjetrussischen Truppen in Estland.
+Found
+MODSMD_ARTICLE18: Freundschaftsvertrag zwischen Japan und Iran.
+Found

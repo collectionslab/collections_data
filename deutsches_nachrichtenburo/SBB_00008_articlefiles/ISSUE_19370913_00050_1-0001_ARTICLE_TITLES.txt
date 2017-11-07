@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE02: Die grosze Parade.
+Found
+MODSMD_ARTICLE03: Der Führer an die Luftwaffe.
+Found
+MODSMD_ARTICLE04: Der Führer empfing Prinz Tschitschibu.
+Found
+MODSMD_ARTICLE05: Weitere Empfänge.
+Found
+MODSMD_ARTICLE06: Sondertagungen in Nürnberg. Kommission für Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE07: Hauptamt für Technik.
+Found
+MODSMD_ARTICLE08: Hauptamtsleiter Dr. Todt.
+Found
+MODSMD_ARTICLE09: Dr. Goebbels vor den Propagandisten.
+Found

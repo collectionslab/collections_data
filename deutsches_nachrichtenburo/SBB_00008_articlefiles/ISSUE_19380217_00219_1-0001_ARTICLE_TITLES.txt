@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Auslandsecho der Borgänge in Oesterreich.
+Found
+MODSMD_ARTICLE02: Frühjahrsreise des dänischen Königspaares.
+Found
+MODSMD_ARTICLE03: Sowjethandelsvertretung im Hause des Marinestabes!
+Found
+MODSMD_ARTICLE04: Die Kolonialforderung Kolens.
+Found
+MODSMD_ARTICLE05: Zwanzig Jahre unabhängiges Litauen.
+Found
+MODSMD_ARTICLE06: Rumäniens Außenminister zur Außenpolitik Rumäniens.
+Found
+MODSMD_ARTICLE07: Vorgehen gegen Gerüchte-Verbreiter in Bukarest.
+Found

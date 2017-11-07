@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Empfang beim Führier Zu Ehren des Reichssportführers.
+Found
+MODSMD_ARTICLE02: Danktelegramm des Herzogs von Windsor an den Führer.
+Found
+MODSMD_ARTICLE03: Erste Tagung für luftfahrtmedizinische Forschung.
+Found
+MODSMD_ARTICLE04: Tagung der deutsch-französischen Regierungsausschüsse.
+Found
+MODSMD_ARTICLE05: Das Landjahr ebnet begabten Jungen den Weg.
+Found
+MODSMD_ARTICLE06: Italien erwartet den Stellvertreter des Führers.
+Found
+MODSMD_ARTICLE07: Roms Presse über die englisch-französische! Verantwortung.
+Found
+MODSMD_ARTICLE08: Skepsis „Aeußerst geringe Erfolgsaussichten"
+Found
+MODSMD_ARTICLE09: Ungarns Nationaltheater feierte sein IWähriges Bestehen.
+Found
+MODSMD_ARTICLE10: Ungarns Presse zur Budapester Massenkundgebung.
+Found
+MODSMD_ARTICLE11: Warschau-Besuch des Staatssekretärs Dr. Schmidt.
+Found
+MODSMD_ARTICLE12: Die Warschauer Tischler streiken.
+Found
+MODSMD_ARTICLE13: Vor der neuen Tagung des englischen Parlaments.
+Found
+MODSMD_ARTICLE14: Duff Cooper wieder in London.
+Found
+MODSMD_ARTICLE15: Moskau will zur offenen Einmischung schreiten.
+Found
+MODSMD_ARTICLE16: „Die Mitarbeit der Sowjets nicht unerläßlich".
+Found
+MODSMD_ARTICLE17: Telephonverbindung Palästina—Aegypten unterbrochen.
+Not Found

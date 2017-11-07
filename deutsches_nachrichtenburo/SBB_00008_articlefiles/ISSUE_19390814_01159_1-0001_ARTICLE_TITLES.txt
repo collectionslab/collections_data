@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Aws der Diplomatie.
+Found
+MODSMD_ARTICLE02: Gauleiter Forster sprach in Fürth.
+Found
+MODSMD_ARTICLE03: Italiens Presse warnt vor falschen Hoffnungen.
+Found
+MODSMD_ARTICLE04: Eine lehrreiche Gegenüberstellung der „Tribnna".
+Found
+MODSMD_ARTICLE05: Auch der Zweite deutsche Spielfilm ein Erfolg.
+Found
+MODSMD_ARTICLE06: Die neue spanische Regierung wurde vereidigt.
+Found
+MODSMD_ARTICLE07: Der englische Geschäftsträger bei Bonnet.
+Found
+MODSMD_ARTICLE08: 131 Ukrainern die polnische Staatsbürgerschaft entzogen.
+Found
+MODSMD_ARTICLE09: „Gemeinsamer Wille zu unerschütterlicher Neutralität."
+Found
+MODSMD_ARTICLE10: Protest gegen Londons Verzögerungstaktik.
+Found
+MODSMD_ARTICLE11: Zwei Araber niedergeknallt.
+Found
+MODSMD_ARTICLE12: Argentinien feiert den „Tag der Rückeroberung".
+Found

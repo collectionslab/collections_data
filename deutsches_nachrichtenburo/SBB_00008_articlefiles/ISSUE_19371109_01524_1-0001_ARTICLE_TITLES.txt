@@ -1,0 +1,16 @@
+MODSMD_ARTICLE02: Der 9. November in München Vom Opfergang zum Siegeszug
+Found
+MODSMD_ARTICLE03: Gedenkakt im Generalkommando
+Found
+MODSMD_ARTICLE04: In Erwartung des historischen Zuges
+Found
+MODSMD_ARTICLE05: Standarten halten die Ehrenwache
+Found
+MODSMD_ARTICLE06: Der Erinnerungsmarsch
+Found
+MODSMD_ARTICLE07: Der Zug vor dem Mahnmal
+Found
+MODSMD_ARTICLE08: Der Appell auf dem Königlichen Platz
+Found
+MODSMD_ARTICLE09: Der Führer ehrt die ersten Märtyrer
+Found

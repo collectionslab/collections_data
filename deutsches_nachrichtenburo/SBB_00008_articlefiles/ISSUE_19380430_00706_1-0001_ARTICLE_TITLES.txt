@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: „Hitler baut Großdeutschland".
+Found
+MODSMD_ARTICLE02: Die Anteilnahme des Duce an den Empfangsvorbereitungen.
+Found
+MODSMD_ARTICLE03: Roms größte Prachtentfaltung.
+Found
+MODSMD_ARTICLE04: Italienische Bauern ziehen! in die neue Heimat.
+Found
+MODSMD_ARTICLE05: Eine Erklärung Daladiers.
+Found
+MODSMD_ARTICLE06: Keine neuen Verpflichtungen gegenüber Frankreich?
+Found
+MODSMD_ARTICLE07: Großbritannien erhöht Eigenproduktion von Flugzeugen.
+Found
+MODSMD_ARTICLE08: Das englisch-irische Abkommen im Dail angenommen.
+Found
+MODSMD_ARTICLE09: England will die ungarische Schuheinfuhr drosseln.
+Found
+MODSMD_ARTICLE10: Meinungsverschiedenheiten um die belgische Sondersteuer.
+Found
+MODSMD_ARTICLE11: „Jüdisches Problem" auch in Belgien.
+Found
+MODSMD_ARTICLE12: 120 K>v-Riesensender für Litauen.
+Found
+MODSMD_ARTICLE13: Polnisch-litauische Verkehrsverhandlungen.
+Found
+MODSMD_ARTICLE14: Weitere Austritte aus dem Lager der Nationalen Einigung.
+Found
+MODSMD_ARTICLE15: Ernennung Raczynskis bestätigt.
+Found
+MODSMD_ARTICLE16: Prieto ist Privatmann geworden.
+Found
+MODSMD_ARTICLE17: Die Ziele des neuen Bundes ungarischer Rassenschützler.
+Found
+MODSMD_ARTICLE18: Streik der Araber gegen die Tcilungokommisswn.
+Found

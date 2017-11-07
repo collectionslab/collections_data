@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Rettung abgeschossener englischer Flieger.
+Found
+MODSMD_ARTICLE02: Fehlanzeige!
+Found
+MODSMD_ARTICLE03: Kapitän z. S. Hans Langsdorfs f.
+Found
+MODSMD_ARTICLE04: Das deutsche Volk läßt sich nicht hereinlegen.
+Found
+MODSMD_ARTICLE05: Wachsender Araber-Aufstand in Palästina.
+Found
+MODSMD_ARTICLE06: London und die Luftniederlage bei Helgoland.
+Found
+MODSMD_ARTICLE07: Neue Erfolge der deutschen Luftwaffe.
+Found
+MODSMD_ARTICLE08: Erfolgreicher Vorstoß nördlich der Shetland-Jnseln.
+Found
+MODSMD_ARTICLE09: Ein Lügner ging, ein neuer kam.
+Found
+MODSMD_ARTICLE10: Zusammenstoß eines englischen 29 999-t-Dampfers.
+Found
+MODSMD_ARTICLE11: Unfreiwilliges englisches Eingeständnis.
+Found
+MODSMD_ARTICLE12: Wieder eine Bombenexplosion in Birmingham.
+Found
+MODSMD_ARTICLE13: Echt englischer Kapitalismus!
+Found
+MODSMD_ARTICLE14: Madrid zum Abschuß der 34 Engländer.
+Found
+MODSMD_ARTICLE15: Chamberlains Besuch beendet.
+Found
+MODSMD_ARTICLE16: Englische Flugzeuge nach Finnland unterwegs.
+Found
+MODSMD_ARTICLE17: Italienisch-griechische Trinksprüche in Athen.
+Found
+MODSMD_ARTICLE18: Der britische Botschafter bei Nomura.
+Found
+MODSMD_ARTICLE19: Die Interessen fremder Mächte beim Neuaufbau Chinas.
+Found
+MODSMD_ARTICLE20: Alle Stämme in Nordwestindien im Aufruhr.
+Found
+MODSMD_ARTICLE21: Neue Kämpfe zwischen Arabern und Juden in Jerusalem.
+Found

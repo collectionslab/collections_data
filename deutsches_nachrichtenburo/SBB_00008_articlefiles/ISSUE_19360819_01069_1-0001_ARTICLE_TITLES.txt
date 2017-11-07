@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Braddock wünscht Verlegung des Weltmeisterschaftskampfes.
+Found
+MODSMD_ARTICLE02: Die italienische Olympia-Mannschaft in Kassel.
+Found
+MODSMD_ARTICLE03: Internationale Tagung der Zoo-Direktoren.
+Found
+MODSMD_ARTICLE04: Wiederbeginn der Bühnenfestspiele in Bayreuth»
+Found
+MODSMD_ARTICLE05: Schach-Olympia 1936.
+Found
+MODSMD_ARTICLE06: Neuer Weltrekord im Höhenflug?
+Found
+MODSMD_ARTICLE07: Tie Ausfuhrbestimmungen für Kriegsmaterial in Belgien.
+Found
+MODSMD_ARTICLE08: Prager Polizei verbietet Sammlung für rote Miliz.
+Found
+MODSMD_ARTICLE09: Der Großangriff auf San Sebastian und Jrun.
+Found
+MODSMD_ARTICLE10: Das Giftgas im spanischen Bürgerkrieg.
+Found
+MODSMD_ARTICLE11: Lagebericht der Militärgruppe.
+Found
+MODSMD_ARTICLE12: Im eroberten Badajoz.
+Found
+MODSMD_ARTICLE13: Tie Nationalisten 26 km vor Malaga.
+Found

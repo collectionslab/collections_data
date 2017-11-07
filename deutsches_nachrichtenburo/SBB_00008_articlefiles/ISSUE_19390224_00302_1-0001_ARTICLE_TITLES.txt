@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Finnlands Stellung im Ostseeraum.
+Found
+MODSMD_ARTICLE02: Uugarische Gäste bei Ministerpräsident Siebert.
+Found
+MODSMD_ARTICLE03: Nationalspanien von Holland 6e jure anerkannt.
+Found
+MODSMD_ARTICLE04: Eisige Atmosphäre um Berard.
+Found
+MODSMD_ARTICLE05: Im entscheidenden Stadium.
+Found
+MODSMD_ARTICLE06: Plötzlich sehr höfliche Tonart gegenüber Nationalspanien.
+Found
+MODSMD_ARTICLE07: Londons rotspanische „Botschaft" packt die Koffer.
+Found
+MODSMD_ARTICLE08: Halifax gab eine außenpolitische „Erläuterung".
+Found
+MODSMD_ARTICLE09: Die Rote Armee neu vereidigt.
+Found
+MODSMD_ARTICLE10: Bombardement auf sowjetrussische Zufahrtstrasieu.
+Found
+MODSMD_ARTICLE11: Pfandleihjuden in Brasilien wollen weiter wuchern.
+Found
+MODSMD_ARTICLE12: Ein großzügiges Angebot!
+Found
+MODSMD_ARTICLE13: Amerikas Sorgen um den Baumwollmarkt.
+Found

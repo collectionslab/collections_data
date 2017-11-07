@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Bischof von Speyer des Konkordatsbruchs überführt.
+Found
+MODSMD_ARTICLE02: Die wahrheitswidrigen Behauptungen.
+Found
+MODSMD_ARTICLE03: Die Zeugenvernehmung des Bischofs von Speyer.
+Found
+MODSMD_ARTICLE04: Drei klare Fragen des Gauleiters.
+Found
+MODSMD_ARTICLE05: „Du sollst nicht lügen
+Found
+MODSMD_ARTICLE06: Hoapmt anonymer Schreiben aus Speyer.
+Found
+MODSMD_ARTICLE07: Die Greuelmärchen des Dr. Sebastian.
+Found
+MODSMD_ARTICLE08: Der Sinn des Konkordats.
+Found

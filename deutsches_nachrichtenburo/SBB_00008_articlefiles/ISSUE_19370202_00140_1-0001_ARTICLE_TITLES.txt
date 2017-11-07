@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Weitere Auslandsstimmen zur Fiihrerrede. Rom.
+Found
+MODSMD_ARTICLE02: Salamanca.
+Found
+MODSMD_ARTICLE03: Bukarest.
+Found
+MODSMD_ARTICLE04: Sofia.
+Found
+MODSMD_ARTICLE05: Das Deutsche Beamtengesetz im Reichsgesetzblatt.
+Found
+MODSMD_ARTICLE06: Einweihung neuen Generalkommando-Gebäudes.
+Found
+MODSMD_ARTICLE07: Generalmusikdirektor Schuricht in Athen.
+Found
+MODSMD_ARTICLE08: Jubeluder Empfang für Kreuzer „Emden" in Schanghai.
+Found
+MODSMD_ARTICLE09: Herde fordert Rückgabe der Kolonien.
+Found
+MODSMD_ARTICLE10: Weitere Verletzungen der Nichteinmischungspflicht.
+Found
+MODSMD_ARTICLE11: Pariser Reklamevortrag für Spaniens Bolschewisten.
+Found
+MODSMD_ARTICLE12: Brand auf einem spanischen Bolschewistenschiff.
+Found
+MODSMD_ARTICLE13: Erhöhter Brotpreis in Paris.
+Found
+MODSMD_ARTICLE14: Der Mord an de Borchgrave. Schadensersatz Valencias.
+Found
+MODSMD_ARTICLE15: Das neue japanische Kabinett. Parteien nicht vertreten.
+Found

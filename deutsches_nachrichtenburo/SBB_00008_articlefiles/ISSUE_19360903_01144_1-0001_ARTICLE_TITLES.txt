@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Daluege beglückwünscht Generalseidmarschall v. Blomberg.
+Found
+MODSMD_ARTICLE02: Direktor Heinrich Dorpmuller f.
+Found
+MODSMD_ARTICLE03: Die Uniform und Fahne "des NSD-Studentenbundes.
+Found
+MODSMD_ARTICLE04: Der letzte Tote auf Zeche „Vereinigte Präsident" geborgen.
+Found
+MODSMD_ARTICLE05: „Deutschland Europas Wall gegen die rote Gefahr!"
+Found
+MODSMD_ARTICLE06: Lloyd George nach Deutschland abgereist.
+Found
+MODSMD_ARTICLE07: Die Erkrankung Edens.
+Found
+MODSMD_ARTICLE08: Palästinafragen vor dem englischen Kabinett.
+Found
+MODSMD_ARTICLE09: Englischer Protest gegen Japans U-Boot-Forderung?
+Found
+MODSMD_ARTICLE10: Der Boykott britischer Walfangschiffe fallen gelassen.
+Found
+MODSMD_ARTICLE11: Gömbös legt das Amt des Honved-Ministers nieder.
+Found
+MODSMD_ARTICLE12: Staatspräsident Benesch in Topolcianky.
+Found
+MODSMD_ARTICLE13: Der Sturm auf Jrun geht weiter.
+Found
+MODSMD_ARTICLE14: Sowjetrussen unter den Gefangenen von Irun.
+Found
+MODSMD_ARTICLE15: Rote Mordbestien wüten in Spanien.
+Found
+MODSMD_ARTICLE16: Malaga erneut mit Bomben belegt.
+Found
+MODSMD_ARTICLE17: Kommunistisches Waffenlager bei Sofia ausgedeckt.
+Found
+MODSMD_ARTICLE18: Amtsentsetzung eines sowjetrussischen Bankleiters.
+Found

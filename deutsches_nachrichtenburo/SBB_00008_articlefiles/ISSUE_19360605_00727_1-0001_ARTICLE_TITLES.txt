@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ernennung zum Professor.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Frick in Dresden.
+Found
+MODSMD_ARTICLE03: Ncichshandwerkertag in Frankfurt a. Main.
+Found
+MODSMD_ARTICLE04: „LZ Hindenburg" wieder in Friedrichshasen.
+Found
+MODSMD_ARTICLE05: Der Sittlichkeitsprozeß gegen die Franziskanerbrüder.
+Found
+MODSMD_ARTICLE06: G Zuchthaus und Sicherungsverwahrung für Joannis.
+Found
+MODSMD_ARTICLE07: Die Zloty-Zuteilung in Danzig einstweilig geregelt.
+Found
+MODSMD_ARTICLE08: Völkerbundsversammlung am 39. Juni.
+Found
+MODSMD_ARTICLE09: Zwei nengewählte Vizepräsidenten zurückgetreten.
+Found
+MODSMD_ARTICLE10: Unveränderte Streiklage in Frankreich.
+Found
+MODSMD_ARTICLE11: Dr. Friedrich Akel estländischer Außenminister.
+Found
+MODSMD_ARTICLE12: Unterredung Mussolini—Schuschnigg.
+Not Found
+MODSMD_ARTICLE13: Ausbau des PostWesens in Jtalienisch-Ostafrika.
+Found
+MODSMD_ARTICLE14: Vandervelde mit der Regierungsbildung beauftragt.
+Found
+MODSMD_ARTICLE15: Wird die Meerengenkonserenz in Montreux vertagt?
+Found
+MODSMD_ARTICLE16: Kirn Gottsried von Cramms.
+Found

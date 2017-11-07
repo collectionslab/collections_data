@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Reichspostminisier Dr. Wilhelm Ohnesorge.
+Found
+MODSMD_ARTICLE02: Reichsverkehrsminister Dr. Julius Dorpmuller.
+Found
+MODSMD_ARTICLE04: Ausschuß für Rechtsfragen des Wirtschaftsaufbaues.
+Found
+MODSMD_ARTICLE05: Kameradschaftsabend des Neichsfinanzministeriums.
+Found
+MODSMD_ARTICLE06: Von Nibbentrop nach London abgereist.
+Found
+MODSMD_ARTICLE07: Generalstreik auf den elsässischen Kaligruben.
+Found
+MODSMD_ARTICLE08: Kauton Zürich warnt die Regierung vor Preissteigerungen.
+Found
+MODSMD_ARTICLE09: Neichsleiter Rosenberg vor der sächsischen SA.
+Found
+MODSMD_ARTICLE10: Kommunistischer „Generalstab" für Paris!
+Found

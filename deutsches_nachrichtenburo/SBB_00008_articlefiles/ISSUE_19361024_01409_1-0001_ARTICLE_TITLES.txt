@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: .Gauleiter Bohle bei Staatssekretär Schmidt.
+Found
+MODSMD_ARTICLE02: Deutsche Frontkämpferabordnung in England eingetroffen.
+Found
+MODSMD_ARTICLE03: Die römische Presse über die Aufnahme Cianos in Berlin.
+Found
+MODSMD_ARTICLE04: Der österreichische Staatssekretär Schmidt in Budapest.
+Found
+MODSMD_ARTICLE05: Die italienische Note an den Ueberwachungs-Ausschuß.
+Found
+MODSMD_ARTICLE06: Ter Bruch des Nichteinmischungspaktes durch Sowjetrußland.
+Found
+MODSMD_ARTICLE07: „Eine Gefahr für das britische Reich".
+Found
+MODSMD_ARTICLE08: Seegefecht auf der Höhe von Malaga.
+Found
+MODSMD_ARTICLE09: Sieben Offiziere vom „Volksgericht" in Barcelona verurteilt.
+Found
+MODSMD_ARTICLE10: Madrid muntert seine „Kämpfer" auf.
+Found
+MODSMD_ARTICLE11: Madrider Eingeständnis: „Lage nicht sehr günstig".
+Found
+MODSMD_ARTICLE12: 5V sowjetrussische Flugzeuge siir Madrid.
+Found
+MODSMD_ARTICLE13: Pariser Marxistenkundgebung für die spanischen Roten.
+Found
+MODSMD_ARTICLE14: Pacelli in Washington.
+Found
+MODSMD_ARTICLE15: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found

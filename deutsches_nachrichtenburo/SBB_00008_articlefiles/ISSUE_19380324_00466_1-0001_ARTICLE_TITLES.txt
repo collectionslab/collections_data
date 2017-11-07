@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ostpreußen erwartet den Führer.
+Found
+MODSMD_ARTICLE02: Das Diplomatische Korps spielte für das WHW.
+Found
+MODSMD_ARTICLE03: IIM österreichische Arbeiter danken dem Führer.
+Found
+MODSMD_ARTICLE04: Aufruf des RLB. Zur Volksabstimmung.
+Found
+MODSMD_ARTICLE05: Sportruhe am 10. April.
+Found
+MODSMD_ARTICLE06: Die Studentenhöchstziffern für Sommer 1938.
+Found
+MODSMD_ARTICLE07: Umwandlung diplomatischer Vertretungen in Wien.
+Found
+MODSMD_ARTICLE08: Die große Sozialbetreuimg der Bühnenschaffenden.
+Found
+MODSMD_ARTICLE09: Gegen das Bielitzer deutsche Mmderheitengymnasimn.
+Found
+MODSMD_ARTICLE10: Die Heeresdienstpflicht der französischen Abgeordneten»
+Found
+MODSMD_ARTICLE11: Streiks und immer wieder Streiks in Frankreich.
+Found
+MODSMD_ARTICLE12: Verzweislungsschritte der Häuptlinge in Barcelona.
+Found
+MODSMD_ARTICLE13: Ansprache Fürst Konoes an die italienische Mission.
+Found
+MODSMD_ARTICLE14: Neues Rüstuugsprogramm für Australien.
+Found

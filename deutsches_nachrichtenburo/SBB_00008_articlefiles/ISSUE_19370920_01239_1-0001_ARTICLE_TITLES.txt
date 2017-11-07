@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Abend-Ausgabe. Deutsches Nachrichtenbüro v H
+Found
+MODSMD_ARTICLE02: Der Auftakt der Berliner Lustschutzwoche»
+Found
+MODSMD_ARTICLE03: Leere Straßen.
+Found
+MODSMD_ARTICLE04: Sicherheitsmaßnahmen auf den Bahnhöfen.
+Found
+MODSMD_ARTICLE05: Die Abwehr zerschlug den Angriff.
+Found
+MODSMD_ARTICLE06: „Tiefenangriff" auf Berlins Regierungsviertel.
+Found
+MODSMD_ARTICLE07: Auf dem Wilhelmsplatz.
+Found
+MODSMD_ARTICLE08: Eingreifen des Selbstschutzes und Sicherheitsdienstes.
+Found
+MODSMD_ARTICLE09: Wehrmacht, Bahn und Post helfen sich selbst.
+Found
+MODSMD_ARTICLE10: Wechsel in der Leitung der Reichspostdirektion Köslin.
+Found
+MODSMD_ARTICLE11: Stapellanf des italienischen Zerstörers „Aviera".
+Found
+MODSMD_ARTICLE12: „Kolonial-Geologenkorps".
+Found
+MODSMD_ARTICLE13: Fortsetzung der Aussprache in Gens.
+Found

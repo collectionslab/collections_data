@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Neue Neichsminister. Walther Funk Neichswirtschaftsminister.
+Found
+MODSMD_ARTICLE02: Der Führer an Dr. Schacht.
+Found
+MODSMD_ARTICLE03: Hanke und Dr. Dietrich Staatssekretäre.
+Found
+MODSMD_ARTICLE04: Dr. Lammers zum Reichsminister ernannt.
+Found
+MODSMD_ARTICLE05: Sicherstellung der Altersversorgung der Bühnenschaffenden.
+Found
+MODSMD_ARTICLE06: GPU-Terror gegen Japaner in Nordsachalin.
+Found

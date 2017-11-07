@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Barcelona gesteht seinejNiederlagen ein.
+Found
+MODSMD_ARTICLE02: Ein verbrecherischer Anschlag.
+Found
+MODSMD_ARTICLE03: Londons Presse zu den Vorgängen in Kairo.
+Found
+MODSMD_ARTICLE04: Die Zusammensetzung des neuen ägyptischen Kabinetts.
+Found
+MODSMD_ARTICLE05: Mittags-Ausgabe. Weitsches Nachrichtenbüro V
+Found
+MODSMD_ARTICLE06: Sitzung des faschistischen Parteidirektor»"
+Found
+MODSMD_ARTICLE07: Besuch einer japanischen Mission im faschistischen Parteihaus.
+Found
+MODSMD_ARTICLE08: Bulgarien gegen Einwanderung rumänischer Juden.
+Found
+MODSMD_ARTICLE09: Die Vorteile einer Politik wirtschaftlicher Unabhängigkeit.
+Found
+MODSMD_ARTICLE11: Vereidigung des neuen ägyptischen Kabinetts.-
+Found
+MODSMD_ARTICLE12: Englands Antwort in Tokio überreicht.
+Found
+MODSMD_ARTICLE13: Neuer Vorstoß gegen die Monopolstellung der ,M Familien".
+Found
+MODSMD_ARTICLE14: Die neue rumänische Regierung eine Sensation für Amerika.
+Found
+MODSMD_ARTICLE15: Neuer mexrkanischer Verteidigungsminister.
+Found
+MODSMD_ARTICLE16: 86 Jntegralisten vergastet.
+Found

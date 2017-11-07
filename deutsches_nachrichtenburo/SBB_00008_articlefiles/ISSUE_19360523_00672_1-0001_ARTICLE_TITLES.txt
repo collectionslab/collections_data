@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Goebbels an die Carl Schurz-Vereinigung.
+Found
+MODSMD_ARTICLE02: Dr. Reick gratuliert.
+Found
+MODSMD_ARTICLE03: Japans Botschafter wird Robert-Koch-Plakette verliehen.
+Found
+MODSMD_ARTICLE04: Italienische Universitätsprofessoren in Teutschland.
+Found
+MODSMD_ARTICLE05: Frühstück zu Ehren der italienischen Gelehrten.
+Found
+MODSMD_ARTICLE06: Carl Schurz-Feier in Liblar.
+Found
+MODSMD_ARTICLE07: Eröffnung der deutschen Volkssenderaktion 1936.
+Found
+MODSMD_ARTICLE08: Beginn der Danzig-polnischen Wirtschaftsbesprechungen.
+Found
+MODSMD_ARTICLE09: Griechenlands Kommunisten von Moskau unterstützt.
+Found
+MODSMD_ARTICLE10: Griechenland dementiert Abwertungsgerüchte.
+Found
+MODSMD_ARTICLE11: Der Negus nach London abgereist.
+Found
+MODSMD_ARTICLE12: Arabischer Polizist in Palästina erschossen.
+Found
+MODSMD_ARTICLE13: Eröffnung des ägyptischen Parlaments.
+Found
+MODSMD_ARTICLE14: Ein albanisches Dementi.
+Found
+MODSMD_ARTICLE15: Erfolgreiche Konzertreise Kempffs in Japan.
+Found
+MODSMD_ARTICLE16: Die Kennzahl der Großhandelspreise vom 2V. Mai.
+Found

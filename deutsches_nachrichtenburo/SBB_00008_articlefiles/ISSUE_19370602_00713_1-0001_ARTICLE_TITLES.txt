@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Tie Gauleiter in Berlin.
+Found
+MODSMD_ARTICLE02: Amtsantritt Dr. Köchers in Bern.
+Found
+MODSMD_ARTICLE03: Ein weiterer Toter der „Deutschland"-Besatzung.
+Found
+MODSMD_ARTICLE04: Ribbentrop besprach mit Eden Lage nach Bombenabwurf.
+Found
+MODSMD_ARTICLE05: „Giornale d'Jtalia" begrüßt den Reichskriegsminister.
+Found
+MODSMD_ARTICLE06: Mussolini wieder in Rom.
+Found
+MODSMD_ARTICLE07: Die Achse Rom—Berlin ein Friedensinstrument.
+Not Found
+MODSMD_ARTICLE09: Moskau will den Krieg!
+Found
+MODSMD_ARTICLE10: Portugals Presse Zu den Ereignissen in Spanien.
+Found
+MODSMD_ARTICLE11: Außerordentlicher Kronrat in Budapest.
+Found
+MODSMD_ARTICLE12: Ungarn geht gegen Unruhestifter vor.
+Found
+MODSMD_ARTICLE13: Besuch König Carols in Warschau noch im Juni?
+Found
+MODSMD_ARTICLE14: Friedensangebot in Waziristan?
+Found
+MODSMD_ARTICLE15: Prinz Konoe übernimmt japanische Kabinettsbildung.
+Found
+MODSMD_ARTICLE16: Amerika ehrt deutschen Gelehrten.
+Found
+MODSMD_ARTICLE17: Deutsche Kirchenkunst auf der Pariser Weltausstellung.
+Found

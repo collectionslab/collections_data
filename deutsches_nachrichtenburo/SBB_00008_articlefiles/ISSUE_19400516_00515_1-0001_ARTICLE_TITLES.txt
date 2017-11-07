@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: 1. DRK.-Spendetag: 17,5 Millionen RM.
+Found
+MODSMD_ARTICLE02: Botschafter Alfieri in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE03: Die Kriegspropaganda-Reise der englischen Bischöfe.
+Found
+MODSMD_ARTICLE04: Die Welt zu den deutschen Erfolgen.
+Found
+MODSMD_ARTICLE05: Englisch-französische Flotte ans Alexandrien ausgelaufen»
+Found
+MODSMD_ARTICLE06: Haag und Amsterdam besetzt.
+Found
+MODSMD_ARTICLE07: Britischer Zerstörer durch Fliegerbomben beschädigt.
+Found
+MODSMD_ARTICLE08: Protest der Stockholmer Regierung.
+Found
+MODSMD_ARTICLE09: Paris wird nervös.
+Found

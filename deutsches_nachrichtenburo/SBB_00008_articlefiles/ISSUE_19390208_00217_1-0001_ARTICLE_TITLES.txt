@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Vertrauensvotum für die französische Außenpolitik.
+Found
+MODSMD_ARTICLE02: Hore-Belisha über die Verteidigung Londons.
+Found
+MODSMD_ARTICLE03: De Valera will nichts von Gewalt wissen.
+Found
+MODSMD_ARTICLE04: Gemeinsame englisch-ägyptische Manöver.
+Found
+MODSMD_ARTICLE05: Weiße Fahnen in Madrid!
+Found
+MODSMD_ARTICLE06: Nationalspanische Presse verlangt offene Anerkennung.
+Found
+MODSMD_ARTICLE07: Trümmerhaufen statt Kirchen.
+Found
+MODSMD_ARTICLE08: Auch die Kreisstadt Ripoll besetzt.
+Found
+MODSMD_ARTICLE10: Polnische Handelsabordnung nach Vurgos abgereist.
+Found
+MODSMD_ARTICLE11: Sprengstosfanschlag auf eine jüdische Apotheke.
+Found
+MODSMD_ARTICLE12: Tolles Durcheinander im Moskauer Handel.
+Found
+MODSMD_ARTICLE13: Anerkennung der nationalspanischen Justiz durch Brasilien.
+Found
+MODSMD_ARTICLE14: Mohammedanische Moschee als britische Kaserne.
+Found
+MODSMD_ARTICLE15: Möglichst realistische USA-Flottenmanöver.
+Found

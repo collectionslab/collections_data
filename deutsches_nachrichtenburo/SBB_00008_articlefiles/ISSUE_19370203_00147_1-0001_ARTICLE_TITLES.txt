@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Diplomatenempfang beim Führer.
+Found
+MODSMD_ARTICLE02: 15 000 Eisenbahner marschieren vor dem Führer auf.
+Found
+MODSMD_ARTICLE03: Glückwünsche der SA. an Ohnesorge und Dorpmüller.
+Found
+MODSMD_ARTICLE04: Stabschef Lutze besichtigte SA.-Künstler-Lehrgang.
+Found
+MODSMD_ARTICLE05: Schwerin gedenkt Wilhelm Gustlosfs.
+Found
+MODSMD_ARTICLE06: Ein Ausruf Gauleiter Bohles.
+Found
+MODSMD_ARTICLE07: Frau Scholtz-Klink und Heißmeyer in Stockholm.
+Found
+MODSMD_ARTICLE08: Diplomatenempfang bei König Georg.
+Found
+MODSMD_ARTICLE09: Ribbentrop wieder in London.
+Found
+MODSMD_ARTICLE10: Peinliche Rundfunk-Anfragen im Unterhaus.
+Found
+MODSMD_ARTICLE11: Die Außenminister-Zusammenkunft in Mailand. – –
+Not Found
+MODSMD_ARTICLE12: Verkürzung der Militärdienstleistung in Oesterreich.
+Found
+MODSMD_ARTICLE13: Zum Rücktritt Kozmas.
+Found
+MODSMD_ARTICLE14: Holländische Kraftwagen in Frankreich angehalten.
+Found
+MODSMD_ARTICLE15: Wieder normaler Zugverkehr Irun—Avila.
+Found
+MODSMD_ARTICLE16: Die Moskauer Verhastuugs-Lawiue.rollt weiter.
+Found
+MODSMD_ARTICLE17: Wangtfchingwei zum Heidelberger Ehrendoktor ernannt.
+Found
+MODSMD_ARTICLE18: Nanking zu den neuen Unruhen in Siansu.
+Found
+MODSMD_ARTICLE19: Drei Jahre Luftpostdienst Deutschland—Südamerika.
+Not Found

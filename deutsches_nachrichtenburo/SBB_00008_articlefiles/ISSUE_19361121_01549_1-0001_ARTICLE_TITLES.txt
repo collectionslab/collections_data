@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: U-Boot „U 18" gesunken. Acht Mann vermißt.
+Found
+MODSMD_ARTICLE02: Abendempfang für Staatssekretär Dr. Schmidt.
+Found
+MODSMD_ARTICLE03: Kriegsopfcrführer Pichot vor deutschen Frontkämpfern.
+Found
+MODSMD_ARTICLE04: Ueberreichung einer Bahreuthier Liszt-Büste in Budapest. <
+Found
+MODSMD_ARTICLE05: Reichsverweser Horthy besucht den König von Italien.
+Found
+MODSMD_ARTICLE06: Die belgische Militärvorlage.
+Found
+MODSMD_ARTICLE07: Feierliche Beisetzung der 51 Verunglückten in St. Chamas.
+Found
+MODSMD_ARTICLE08: Generalstreik in der Liller Metallindustrie. ' –
+Not Found
+MODSMD_ARTICLE09: Zwischenfalle beim Streik in Roubaix.
+Found
+MODSMD_ARTICLE10: Neue Lnftabwchrdivision für Mittel- und Nordengland.
+Found
+MODSMD_ARTICLE11: England bleibt bei seiner Spanien-Entscheidung.
+Found
+MODSMD_ARTICLE12: Die englische Auffassung des Blockade-Problems.
+Found
+MODSMD_ARTICLE13: Antonio Primo de Rivera erschossen?
+Found
+MODSMD_ARTICLE14: 2KKK französische Marxisten in Barcelona eingetroffen.
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: 12 909 Gefangene, 89 Geschütze bei Siedlee.
+Found
+MODSMD_ARTICLE02: Abwehr von Hungerblockade und Franktireurkrieg.
+Found
+MODSMD_ARTICLE03: Deutsche Diplomaten in Polen verhaftet und verschleppt.
+Found
+MODSMD_ARTICLE04: Würdigung des sowjetrussisch-japanischen Abkommens.
+Found
+MODSMD_ARTICLE05: Wo steckt die polnische Regierung?
+Found
+MODSMD_ARTICLE06: Englands wackelnde Stellung in Fern-Ost.
+Found
+MODSMD_ARTICLE07: Gegen Englands Aushungerungsmethoden.
+Found
+MODSMD_ARTICLE08: Das Moskauer Abkommen mit Japan.
+Found

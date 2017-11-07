@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Spendenliste Nr. 105 vom 23. März 1937. (Schluß.)
+Found
+MODSMD_ARTICLE02: Spendenliste Nr. 106 vom 24. März 1937.
+Found
+MODSMD_ARTICLE03: Spendenliste Nr. 107 vom 25. März 1937.
+Found

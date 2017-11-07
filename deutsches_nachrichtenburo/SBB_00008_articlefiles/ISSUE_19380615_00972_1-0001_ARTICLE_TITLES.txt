@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Hebungen der Luftwaffe in Anwesenheit des Führers.
+Found
+MODSMD_ARTICLE02: Dr. Ley stiftet neues Leistungsabzeichen.
+Found
+MODSMD_ARTICLE03: Ministerialdirektor Höpfner gestorben.
+Found
+MODSMD_ARTICLE04: Die Zulassung von Rechtsanwälten in Oesterreich.
+Found
+MODSMD_ARTICLE05: Neues Mitglied des Beirats der Deutschen Reichspost.
+Found
+MODSMD_ARTICLE06: Internationale Donaukommission ab 1. August in Belgrad.
+Found
+MODSMD_ARTICLE07: General Keitel in Budapest.
+Found
+MODSMD_ARTICLE09: Tie 3W deutschen Eisenbahner in Rom.
+Found
+MODSMD_ARTICLE10: „Tevere" über das Marxisteugeschrei zugunsten Prags.
+Found
+MODSMD_ARTICLE11: Zeitungsverleger gegen Greuelhetzer.
+Found
+MODSMD_ARTICLE12: Die französische Luftaufrüstung vor dem Ministerrat.
+Found
+MODSMD_ARTICLE13: Nationaler Luftangriff auf Valencia.
+Found
+MODSMD_ARTICLE14: Der Vormarsch geht weiter.
+Found
+MODSMD_ARTICLE15: Unruhen in Madrid und Panik in Valencia.
+Found
+MODSMD_ARTICLE16: Eine kleine Ueberraschung.
+Found
+MODSMD_ARTICLE17: Sowjetspanien bittet bei „befreundeten Nationen" um Hilfe.
+Found
+MODSMD_ARTICLE18: Der Konflikt zwischen Ekuador und Peru.
+Found
+MODSMD_ARTICLE19: Vermittlungsversuche im Chaco-Konflikt.
+Found
+MODSMD_ARTICLE20: Besuch des französischen Botschafters in Hankau.
+Found

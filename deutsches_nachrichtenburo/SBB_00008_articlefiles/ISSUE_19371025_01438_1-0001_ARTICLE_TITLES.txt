@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Zum Gesandten in Pretoria ernannt.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Der neue iranische Gesandte in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE04: Der italienische Justizminister kommt nach Deutschland.
+Found
+MODSMD_ARTICLE05: Botschafter von Ribbentrop von Rom abgereist.
+Found
+MODSMD_ARTICLE06: Italien erwartet nun die Zahlen der Gegenseite.
+Found
+MODSMD_ARTICLE07: Der Herzog von Windsor in Paris.
+Found
+MODSMD_ARTICLE08: Angst vor der „Ehe" mit dem Bolschewismus?
+Found
+MODSMD_ARTICLE09: Die französischen Gehaltsaufbesserungen „unannehmbar".
+Found
+MODSMD_ARTICLE10: Eine Rundsunkrede Chautemps'.
+Found
+MODSMD_ARTICLE11: Ein Verband von Mördern in Paris?
+Found
+MODSMD_ARTICLE12: Gefährliche Gäste aus Rotspanien suchen Frankreich heim.
+Found
+MODSMD_ARTICLE13: Marristen gegen Marxisten.
+Found
+MODSMD_ARTICLE14: Motorisierte Abteilungen säubern Asturien.
+Found
+MODSMD_ARTICLE15: Marschall Rydz-Smigly nach Bukarest gereist.
+Found
+MODSMD_ARTICLE16: Englischer Posten von Japanern beschossen.
+Found
+MODSMD_ARTICLE17: Krach bei den Palästina-Juden.
+Found
+MODSMD_ARTICLE18: Kommunistische Verschwörung in Venezuela aufgedeckt.
+Found
+MODSMD_ARTICLE19: Auflösung sämtlicher Freimaurerlogen in Brasilien.
+Found
+MODSMD_ARTICLE20: Militärregierung in Ecuador.
+Found
+MODSMD_ARTICLE21: Roosevelt will neue Steuern erheben.
+Found
+MODSMD_ARTICLE22: Deutscher Fußballsieg. Deutschland—Norwegen 3 : 0.
+Not Found

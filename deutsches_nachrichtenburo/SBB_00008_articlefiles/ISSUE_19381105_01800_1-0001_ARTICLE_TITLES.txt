@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer im „Wintergarten".
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Tie Rekordstrecke bei Dessau.
+Found
+MODSMD_ARTICLE04: Das Winterhilfswerk im Sudetengau eröffnet.
+Found
+MODSMD_ARTICLE05: Großer Erfolg der deutschen Amateurphotographie.
+Found
+MODSMD_ARTICLE06: Die Jugendabteilung der Demokratischen Allianz tagte.
+Found
+MODSMD_ARTICLE07: Botschafterbesuche bei Bonnet.
+Found
+MODSMD_ARTICLE08: Sitzung des Prager Gesamtkabinetts.
+Found
+MODSMD_ARTICLE09: Tie ungarische Besetzung endgültig geregelt.
+Found
+MODSMD_ARTICLE10: Natioualspanifche Ehrung für Botschafter Takoaka.
+Found
+MODSMD_ARTICLE11: Neue Feueräbersälle und Bombenwürfe in Palästina.
+Found
+MODSMD_ARTICLE12: Mexiko soll aus der Genfer Liga austreten.
+Found

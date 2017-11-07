@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Alfred Rosenberg über deutsche Geschichte.
+Found
+MODSMD_ARTICLE02: Der amerikanische Militärattache in München.
+Found
+MODSMD_ARTICLE03: Die ungarischen Philharmoniker in Köln.
+Found
+MODSMD_ARTICLE04: Ungarische Auszeichnung für den Gesandten von Mackensen.
+Found
+MODSMD_ARTICLE05: Die Bedeutung der deutschen Schule in Südafrika.
+Found
+MODSMD_ARTICLE06: Die polnischen Aerzte fordern den ArierparaMaphen.
+Found
+MODSMD_ARTICLE07: Die polnische Polizei greift durch.
+Found
+MODSMD_ARTICLE08: Aegyptens Abordnung für Montreux in Venedig.
+Found
+MODSMD_ARTICLE09: Fortschreitender Verfall der Politik kollektiver Gicherhein
+Found
+MODSMD_ARTICLE10: Der Auftrag an van Zeeland vor dem Ministerrat.
+Found
+MODSMD_ARTICLE11: Wiederzusammentritt des englischen Parlaments.
+Found
+MODSMD_ARTICLE12: Interpellation Taittinger: Gleichheit vor dem Gesetz?
+Found

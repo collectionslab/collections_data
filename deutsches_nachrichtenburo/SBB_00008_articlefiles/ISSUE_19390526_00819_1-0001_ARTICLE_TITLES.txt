@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ernennungen in der Reichsschrifttumskammer.
+Found
+MODSMD_ARTICLE02: Besuch spanischer Juristen in München.
+Found
+MODSMD_ARTICLE03: Empfang der ausländischen Studentenabordnungen.
+Found
+MODSMD_ARTICLE04: Der 16. Todestag Schlageters.
+Found
+MODSMD_ARTICLE05: Jugoslawisches Generalkonsulat in Prag.
+Found
+MODSMD_ARTICLE06: Errichtung einer slowakischen Gesandtschaft in Belgrad.
+Found
+MODSMD_ARTICLE07: Polnische Agenten in der Slowakei.
+Found
+MODSMD_ARTICLE08: Führende Ukrainer tragen ihre Beschwerden bor.
+Found
+MODSMD_ARTICLE09: Besorgte Stimmen aus Schweden.
+Found
+MODSMD_ARTICLE10: Wahlpflichtverordnung in Ungarn.
+Found
+MODSMD_ARTICLE11: Deutsch-italienische Feier in London.
+Found
+MODSMD_ARTICLE12: Polnilche Antwort an London.
+Found
+MODSMD_ARTICLE13: Kriegsminister Hore-Belisha fährt nach Moskau.
+Found
+MODSMD_ARTICLE14: Japans Botschafter protestierte in Moskau.
+Found
+MODSMD_ARTICLE15: Die Entwertung des amerikanischen Neutralitätsgesetzes.
+Found
+MODSMD_ARTICLE16: Wachsende Judenherrschaft in Polen.
+Found
+MODSMD_ARTICLE17: Ans diese „Justiz" kann sich die Demokratie verlassen!
+Found

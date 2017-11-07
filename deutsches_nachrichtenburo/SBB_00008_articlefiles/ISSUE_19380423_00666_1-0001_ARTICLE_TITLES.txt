@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers für Admiral von Lans.
+Found
+MODSMD_ARTICLE02: Der Maler Ferdinand Staeger zum Professor ernannt.
+Found
+MODSMD_ARTICLE03: Botschafter Wilson bei Reichsleiter Hierl.
+Found
+MODSMD_ARTICLE04: Amann stiftet IW lM RM für das Jugendherbergswerk.
+Found
+MODSMD_ARTICLE05: Das gemeinnützige Wohnungswesen neu organisiert.
+Found
+MODSMD_ARTICLE06: Heimkehr der deutschem Walfänger.
+Found
+MODSMD_ARTICLE07: Grubenunglück auf Zeche Concordia 11/111.
+Found
+MODSMD_ARTICLE08: Sicherstellung der Rothschildschen Güter.
+Found
+MODSMD_ARTICLE09: Degrelles Eindruck von einer Deutschlandfahrt.
+Found
+MODSMD_ARTICLE10: Zwei deutsche Zeitungen in Polen beschlagnahmt.
+Found
+MODSMD_ARTICLE11: Besuch Graf Ciauos in Warschau.
+Found
+MODSMD_ARTICLE12: Die italienischen Verluste in Katalonien.
+Found
+MODSMD_ARTICLE13: Verstaatlichung von Schulen in Nationalspanien.
+Found
+MODSMD_ARTICLE14: Bolschewistische Zerstörungswut!
+Found
+MODSMD_ARTICLE15: „Lebensmittel" für die Spanienbolschewistejn.
+Found
+MODSMD_ARTICLE16: Um die Judengesetzgebung in Ungarn.
+Found
+MODSMD_ARTICLE17: Die künftige Politik Brasiliens.
+Found
+MODSMD_ARTICLE18: Die Kejnnzahl der Großhandelspreise vom 20. April.
+Found

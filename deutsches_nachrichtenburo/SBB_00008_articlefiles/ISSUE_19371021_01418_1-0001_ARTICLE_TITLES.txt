@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die Zellstoff- und Papierwirtschaft.
+Found
+MODSMD_ARTICLE02: Der Herzog von Windsor in Nürnberg und Stuttgart.
+Found
+MODSMD_ARTICLE03: Ein Vertreter reichsdeutscher Zeitungen in Wien verhaftet.
+Found
+MODSMD_ARTICLE04: Die deutsche Jugend Estlands ehrt Walter Flex.
+Found
+MODSMD_ARTICLE05: Herbsttagung der tschechoslowakischen Kammern verschoben.
+Found
+MODSMD_ARTICLE06: „Kein Strafantrag gegen Karl Hermann Frank."
+Found
+MODSMD_ARTICLE07: Beunruhigung in Ungarn nur bei den Juden.
+Found
+MODSMD_ARTICLE08: Italiens Kampf gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE09: Grundsätzliche Einigung in London.
+Found
+MODSMD_ARTICLE10: Der Staatsbesuch Metaxas' in Ankara.
+Found
+MODSMD_ARTICLE11: Deutschfeindliche Hetze der türkischen Presse.
+Found
+MODSMD_ARTICLE12: Um den Großmufti.
+Found
+MODSMD_ARTICLE13: Was geht an der ägyptischen Westgrenze vor?
+Found

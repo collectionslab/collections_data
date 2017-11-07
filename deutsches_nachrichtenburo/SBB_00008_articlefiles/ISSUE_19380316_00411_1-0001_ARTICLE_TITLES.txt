@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Berlin in Erwartung des Führers.
+Found
+MODSMD_ARTICLE02: Die deutsche Uebertragung der Mussolim-Redr.
+Found
+MODSMD_ARTICLE03: Telegrammwechsel Rust-Menghin.
+Found
+MODSMD_ARTICLE04: Ruft entließ 366 Reifeprüflinke.
+Found
+MODSMD_ARTICLE05: Glückwunsch Epps an Sehß-Jnquart.
+Found
+MODSMD_ARTICLE06: Die Wiener Presse zn den Feiern am Dienstag.
+Found
+MODSMD_ARTICLE07: Nächtliche Feierstunde in Innsbruck.
+Found
+MODSMD_ARTICLE08: Die ersten Emigranten in Holland.
+Found
+MODSMD_ARTICLE09: Die polnisch-litauischen Beziehungen.
+Found
+MODSMD_ARTICLE11: Polen ist kein jüdisches Absteigequartier.
+Found
+MODSMD_ARTICLE12: Sowjetspanischc Häuptlinge betteln! in Paris um Hilfe.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Rudolf Heß beim Furtwängler-Konzert der Hitlerjugend.
+Found
+MODSMD_ARTICLE02: Oberbürgermeister Dr. Lippert in London.
+Found
+MODSMD_ARTICLE03: Ein Dämpfer für die »englische Linkspresse.
+Found
+MODSMD_ARTICLE04: Das umstrittene Kohlengesetz.
+Found
+MODSMD_ARTICLE05: Die Kostenfrage' der Freiwilligenzurückzichung.
+Found
+MODSMD_ARTICLE06: Neuer Pressechef im finnischen Außenministerium.
+Found
+MODSMD_ARTICLE07: Rüschtü Aras bei Staatssekretär Dr. Schmidt.
+Found
+MODSMD_ARTICLE08: Außenminister Micescu erstattet Bericht.
+Found
+MODSMD_ARTICLE09: Deutsche Volksratsabordnung bei Goga.
+Found
+MODSMD_ARTICLE10: Die polnischen Schulverhältnisse.
+Found
+MODSMD_ARTICLE11: Schwedisches Blatt fordert Austritt aus Genfer Entente.
+Found
+MODSMD_ARTICLE12: Haussuchungen bei bulgarischen Kommunisten.
+Found
+MODSMD_ARTICLE13: Handelsabkommen mit Prag in Paris unterzeichnet.
+Found
+MODSMD_ARTICLE14: Das Diplomatische Korps beglückwünscht König Zogu.
+Found
+MODSMD_ARTICLE15: Die deutschen und britischen Kriegsschiffe in Lissabon.
+Found
+MODSMD_ARTICLE16: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE17: Tschifu im japanischen Besitz.
+Found
+MODSMD_ARTICLE18: Die chinesische Front zurückverlegt.
+Found
+MODSMD_ARTICLE19: Leahy über amerikanische Flottenfragen.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der finnische Kultusminister in Potsdam.
+Found
+MODSMD_ARTICLE02: Der Rektor der Universität Sofia in München.
+Found
+MODSMD_ARTICLE03: Reichsorganisationsleiter Dr. Ley bei den Wettkämpfern.
+Found
+MODSMD_ARTICLE04: Neue Steuern in Belgien.
+Found
+MODSMD_ARTICLE05: Urble Machenschaften im Rahmen des Tangerstatuts.
+Found
+MODSMD_ARTICLE06: London verstärkt seine Truppen in Gibraltar.
+Found
+MODSMD_ARTICLE07: Die Bombenanschläge gehen weiter.
+Found
+MODSMD_ARTICLE08: Wehrpflicht „ein glatter Vertrauensbruch", sagt Mander.
+Found
+MODSMD_ARTICLE09: Was England für Rüstungen bezahlen muß.
+Found
+MODSMD_ARTICLE10: London versucht Eindruck zu machen.
+Found
+MODSMD_ARTICLE11: So ergeht es den von England „Beschützten".
+Found
+MODSMD_ARTICLE12: Roosevelt verstärkt seinen Verwaltungseinflust.
+Found
+MODSMD_ARTICLE13: Roosevelts Juden.
+Found
+MODSMD_ARTICLE14: Ein amerikanischer Bischof warnt Roosevelt.
+Found
+MODSMD_ARTICLE15: Amerikanischer Kohlenbergbau von Generalstreik bedroht.
+Found
+MODSMD_ARTICLE16: Im Dollarrausch.
+Found
+MODSMD_ARTICLE17: Argentinien Zum Umschwung in Bolivien.
+Found

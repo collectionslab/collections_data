@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die Bilanz des Seekrieges.
+Found
+MODSMD_ARTICLE02: Englische Flugzeuge über der Deutschen Bucht.
+Found
+MODSMD_ARTICLE03: Neichsminister Ruft über „Die Kriege".
+Found
+MODSMD_ARTICLE04: Auch diese 77, Tote klagen Chamberlain an.
+Found
+MODSMD_ARTICLE05: Der russische Heeresbericht vom IK. Dezember.
+Found
+MODSMD_ARTICLE06: „Nur ein ironisches Lächeln."
+Found
+MODSMD_ARTICLE07: Die Finnen Zur militärischen Lage.
+Found
+MODSMD_ARTICLE08: 666 666 Finnen unter Waffen.
+Found
+MODSMD_ARTICLE09: Erfolgreiches Stoßtruppunternehmen im Moselgebiet.
+Found
+MODSMD_ARTICLE10: 80 Todesopfer in Helsinki.
+Found
+MODSMD_ARTICLE11: Rundfunkrede des Generals Laidoner.
+Found
+MODSMD_ARTICLE12: Washington bringt seine Marine auf Kriegsstärke.
+Found
+MODSMD_ARTICLE13: Japan Zum Seegefecht vor der La Plata-Mündung.
+Found

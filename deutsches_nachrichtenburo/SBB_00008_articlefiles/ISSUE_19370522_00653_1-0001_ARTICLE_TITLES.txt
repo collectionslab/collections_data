@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Goethe-Medaille für Professor Dr. Lexer.
+Found
+MODSMD_ARTICLE02: Die Staatstrauerfeier in Cuxhaven.
+Found
+MODSMD_ARTICLE03: Ein Lorbeerkranz Adolf Hitlers.
+Found
+MODSMD_ARTICLE05: Die Aufgaben des deutschen Journalisten.
+Found
+MODSMD_ARTICLE06: „Die Familie ist die Ur- und Keimzelle des Staates".
+Found
+MODSMD_ARTICLE07: Ter Budapester Aufenthalt des italienischen Herrscherpaares.
+Found
+MODSMD_ARTICLE08: Fortsetzung der politischen Besprechungen in Budapest.
+Found
+MODSMD_ARTICLE09: Gesandter von Erdmannsdorfs bei Graf Ciano.
+Found
+MODSMD_ARTICLE10: Neue religiöse Auseinandersetzungen in Indien.
+Found
+MODSMD_ARTICLE11: Chefkonstrukteur Dürr vor dem Untersuchungsausschuß.
+Found
+MODSMD_ARTICLE12: Roosevelt lehnt Gesetz über Weltausstellung ab.
+Found
+MODSMD_ARTICLE13: Auch Roosevelt gegen baldige Wirtschaftskonferenz.
+Found

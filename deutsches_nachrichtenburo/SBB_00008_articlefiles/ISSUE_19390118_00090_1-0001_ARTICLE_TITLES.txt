@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der jüngste Ofsizicrs-Lehrgang beim Führer.
+Found
+MODSMD_ARTICLE02: Chvalkovsky am Sonnabend in Berlin.
+Found
+MODSMD_ARTICLE03: Graf Csaky über seinen Berliner Besuch.
+Found
+MODSMD_ARTICLE04: Telegrammwechsel zwischen Göring und von Schleich.
+Found
+MODSMD_ARTICLE05: Deutscher Bauer kämpft um Deutschlands Nahrungsfreiheit.
+Found
+MODSMD_ARTICLE06: Ehrung der italienischen Kriegsgefallenen.
+Found
+MODSMD_ARTICLE07: „Ein Frieden der Gerechtigkeit."
+Found
+MODSMD_ARTICLE08: „Italien zu jeder Abwehr- und Angriffsaktion bereit."
+Found
+MODSMD_ARTICLE09: „Graf Csakys Berliner Mission ein voller Erfolg»"
+Found
+MODSMD_ARTICLE10: Ungarns Verhältnis Zu Jugoslawien uind zu Rumänien.
+Found
+MODSMD_ARTICLE11: Auch die Westminsteralitei wird streng bewacht.
+Found
+MODSMD_ARTICLE12: Londons Abendpresse im Zeichen der Bombenanschläge.
+Found
+MODSMD_ARTICLE13: Sofortige Einberufung des Parlaments unwahrscheinlich.
+Found
+MODSMD_ARTICLE14: „Paris-Soir": „Die französische Regierung bleibt neutral?"
+Found
+MODSMD_ARTICLE15: Diario Vasco: „Wendepunkt in der Haltung des Auslands".
+Found
+MODSMD_ARTICLE16: Immer noch Generalstreikgesahr in Rangun.
+Found

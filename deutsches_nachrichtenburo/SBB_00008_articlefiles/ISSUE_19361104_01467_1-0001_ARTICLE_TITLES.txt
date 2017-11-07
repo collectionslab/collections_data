@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Deutsche Volksgenossen am Grab der Eltern des Führers.
+Found
+MODSMD_ARTICLE02: „Kampf dem Unfall".
+Found
+MODSMD_ARTICLE03: Aufrufe zur Unfallvcrhiitungsaktion.
+Found
+MODSMD_ARTICLE04: Außenpolitische Aussprache im Oberhaus.
+Found
+MODSMD_ARTICLE05: Humanisierung des U-Boot-Krieges.
+Found
+MODSMD_ARTICLE06: Krofta zur Rede Mussolinis.
+Found
+MODSMD_ARTICLE07: Volksfrontler erzwingen Freilassung von Kommunisten.
+Found
+MODSMD_ARTICLE08: Wieder Brotpreiserhöhung in Paris.
+Found
+MODSMD_ARTICLE09: Schwedens Marxisten sammeln für Spaniens Rotfront.
+Found
+MODSMD_ARTICLE10: Der Vormarsch der Nationalisten. V
+Found
+MODSMD_ARTICLE11: 4W Sowjetrussen nach Katalonien befördert.
+Found
+MODSMD_ARTICLE12: „Der größte Wahlsieg der Geschichte Amerikas".
+Found
+MODSMD_ARTICLE13: Programmatische Bedeutung der amerikanischen Wahl.
+Found
+MODSMD_ARTICLE14: Die Streikbewegung in USA dehnt sich aus.
+Found
+MODSMD_ARTICLE15: Blutige Wahlunruhen auf Porto Nico.
+Found

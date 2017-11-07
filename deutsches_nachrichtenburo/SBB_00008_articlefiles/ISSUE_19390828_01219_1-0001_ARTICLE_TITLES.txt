@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Respektierung der Neutralität durch Teutschland.
+Found
+MODSMD_ARTICLE02: Bezugsscheinpflicht für lebenswichtige Verbrauchsgüter.
+Found
+MODSMD_ARTICLE03: Empfang für Kultusminister Filoff.
+Found
+MODSMD_ARTICLE04: Herbert Seehofer gestorben.
+Found
+MODSMD_ARTICLE05: Drohende Inflation in Polen.
+Found
+MODSMD_ARTICLE06: „Die Terror-Meldungen sind leider nur zu wahr".
+Found
+MODSMD_ARTICLE07: Wieder kämpft ein Volksdeutscher mit dem Tode.
+Found
+MODSMD_ARTICLE08: Unvorstellbare Leiden der Bevölkerung in Ostoberschlesien.
+Found
+MODSMD_ARTICLE09: Erschütternde Flüchtlingsschicksale.
+Found
+MODSMD_ARTICLE10: Eisernes Notgeld in Polen.
+Found
+MODSMD_ARTICLE11: Probealarm in Warschau abgesagt.
+Found
+MODSMD_ARTICLE12: Der Reichsparteitag abgesagt.
+Found
+MODSMD_ARTICLE13: Bombenanschläge gegen deutsche Geschäfte in Posen.
+Found
+MODSMD_ARTICLE14: Polens Bevölkerung im Zeichen starker Erschütterung.
+Found
+MODSMD_ARTICLE15: Kranzniederlegung in Danzig.
+Found
+MODSMD_ARTICLE16: Henderson weilte vier Stunden bei Chamberlain.
+Found
+MODSMD_ARTICLE17: Generalstabsbesprechungen Balbos in Tripolis.
+Found
+MODSMD_ARTICLE18: Die türkische Nationalversammlung wird einberufen.
+Found
+MODSMD_ARTICLE19: Merkwürdige französische Truppenbewegungen in Syrien.
+Found

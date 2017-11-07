@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Reichsjugendführer in Essen.
+Found
+MODSMD_ARTICLE02: Vortrag Bluncks in Prag verboten.
+Found
+MODSMD_ARTICLE03: Polnische Beamte fordern Arierparagraphen.
+Found
+MODSMD_ARTICLE04: Nationalkomitee für „Weißrußland" aufgelöst.
+Found
+MODSMD_ARTICLE05: Belgrad Zum Empfang Stojadinowitschs in Berlin.
+Found
+MODSMD_ARTICLE06: Japan bricht die Beziehungen zu China ab.
+Found
+MODSMD_ARTICLE07: Auch jetzt keine offizielle Kriegserklärung.
+Found
+MODSMD_ARTICLE08: Roosevelts Mehrheit im Obersten Bundesgericht 6 :3.
+Found
+MODSMD_ARTICLE09: Washingtoner Parlamentsansschuß für Aufrüstung.
+Found
+MODSMD_ARTICLE10: Amerikanische Pressefreiheit so oder so.
+Found
+MODSMD_ARTICLE11: Stapellauf eines neuen Hapag-Motorschiffes.
+Found
+MODSMD_ARTICLE12: Sturm über England.
+Found

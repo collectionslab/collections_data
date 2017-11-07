@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ernste Erkrankung des Königs von Aegypten.
+Found
+MODSMD_ARTICLE02: Ucbcrwältigende Mehrheit für die Deutsche Volksschule.
+Found
+MODSMD_ARTICLE03: 25 KW Protestschreiben in der „Phönix"-Assäre.
+Found
+MODSMD_ARTICLE04: Ungarn und der Phönix-Skandal.
+Found
+MODSMD_ARTICLE05: Budapcstcr Besprechungen des polnischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE06: „Gazeta Polska" über das polnisch-ungarische Verhältnis.
+Found
+MODSMD_ARTICLE07: Der Spekulationsskandal in London.
+Found
+MODSMD_ARTICLE08: Englischer Völkerbundsverband fordert SueFanalschliestung.
+Found
+MODSMD_ARTICLE09: Italienische Deutung der Genfer Sanktionsbilanz.
+Found
+MODSMD_ARTICLE10: Die italienischen Verluste in Abessinien.
+Found
+MODSMD_ARTICLE11: Schwedischer Millionenkredit an Sowjetrnstland?
+Found
+MODSMD_ARTICLE12: Propaganda der ägyptischen Nationalisten.
+Found
+MODSMD_ARTICLE13: Amnestie in Tunis.
+Found
+MODSMD_ARTICLE14: Die spanischen Journalisten wieder in Madrid eingetroffen.
+Found
+MODSMD_ARTICLE15: Alarmzustand in Spanien aufgehoben.
+Found
+MODSMD_ARTICLE16: Rückkehr spanischer Marxisten aus der Sowjetunion.
+Found
+MODSMD_ARTICLE17: Keine Revolution in Honduras.
+Found

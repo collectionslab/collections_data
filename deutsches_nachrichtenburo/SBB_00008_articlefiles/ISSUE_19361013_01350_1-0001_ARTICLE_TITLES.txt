@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: NSKK-Führertagung in Döberitz.
+Found
+MODSMD_ARTICLE02: Die Hauptversammlung der Deutschen Akademie.
+Found
+MODSMD_ARTICLE03: Neue Partei in Polen. Programm: „Volk in Waffen".
+Found
+MODSMD_ARTICLE04: Kopfzerbrechen um eine diplomatische Beglaubigungsform.
+Found
+MODSMD_ARTICLE05: Hasenarbeiterstreik in Manchester.
+Found
+MODSMD_ARTICLE06: Jüdische Marxistenrohlinge in London.
+Found
+MODSMD_ARTICLE07: Aussuhrkreditplan zwischen England und China vereinbart.
+Found
+MODSMD_ARTICLE08: 3W Opfer von Rotmord.
+Found
+MODSMD_ARTICLE09: Largo Caballero zum „Ehrengottlosen" ernannt.
+Found
+MODSMD_ARTICLE10: Das Verfahren gegen die Tropkisten Radek und Genossen.
+Found
+MODSMD_ARTICLE11: Politischer Mordanschlag in Kalkutta.
+Found
+MODSMD_ARTICLE12: 400-Jahr-Feieru und „Tag der Rasse" in Buenos Aires.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Kein deutsches Militär in Spamsch-Marroko!
+Found
+MODSMD_ARTICLE02: London begrüßt den neuen deutschen Friedensbeitrag.
+Found
+MODSMD_ARTICLE03: Die französische Presse widerlegt sich selbst.
+Found
+MODSMD_ARTICLE04: Pariser Morgenblätter im Zeichen der „Entspannung".
+Found
+MODSMD_ARTICLE05: Wiener Blätter gegen die verbrecherische Lügenpropaganda»
+Found
+MODSMD_ARTICLE06: Ungarn wehrt sich gegen jüdischen Einfluß.
+Found
+MODSMD_ARTICLE07: Potemkin bei Delbos.
+Found
+MODSMD_ARTICLE08: Marschall Rhdz-Smigly auf Erholungsurlaub.
+Found
+MODSMD_ARTICLE09: Beck über Polens Hauptfragen.
+Found
+MODSMD_ARTICLE10: Wieder Vorlesungen an der Warschauer Universität.
+Found
+MODSMD_ARTICLE11: Polen und das italienische Imperium.
+Found
+MODSMD_ARTICLE12: Die spanische Nationalregierung gegen die Lügenmeldungen.
+Found
+MODSMD_ARTICLE13: Acht englische Bataillone in Palästina.
+Found
+MODSMD_ARTICLE14: Amnestie-Erlaß in Jugoslawien.
+Found
+MODSMD_ARTICLE15: Die Kämpfe an der indischen Nordwestgrenze.
+Found
+MODSMD_ARTICLE16: Neue amerikanische Warnung vor Spanien-Kriegsdiensten.
+Found
+MODSMD_ARTICLE17: Auch die Ilmerikauer sollen Scheust verlassen.
+Found
+MODSMD_ARTICLE18: 199 909 Arbeiter der General Motors im Ausstand.
+Found

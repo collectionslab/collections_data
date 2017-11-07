@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Ministerpräsident Gering wieder in Berlin.
+Found
+MODSMD_ARTICLE02: Große Rede Leon Blums in Lyon.
+Found
+MODSMD_ARTICLE04: Chiappe gegen die Volksfront-Regierung.
+Found
+MODSMD_ARTICLE05: Britische „Freiwillige" wieder nach Hause geschickt.
+Found
+MODSMD_ARTICLE06: Erfolgreiche Säuberungsaktionen der nationalen Südarmee»
+Found
+MODSMD_ARTICLE07: Britisches Konsulat in Malaga geschlossen.
+Found
+MODSMD_ARTICLE08: Noch keine Entscheidung in Eching.
+Found
+MODSMD_ARTICLE09: Um die Bildung des japanischen Kabinetts.
+Found

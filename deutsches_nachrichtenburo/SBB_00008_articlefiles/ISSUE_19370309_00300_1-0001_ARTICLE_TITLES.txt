@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Deutsch-tschechoslowakische Lustverkehrsverhandlungen.
+Found
+MODSMD_ARTICLE02: Eden verteidigt die britische Aufrüstung.
+Found
+MODSMD_ARTICLE03: Die Vorlage über die Elendsgebiete vor dem Unterhaus.
+Found
+MODSMD_ARTICLE04: Ernennungen in der britischen Admiralität.
+Found
+MODSMD_ARTICLE05: Wühlarbeit in der englischen Rüstungsindustrie.
+Found
+MODSMD_ARTICLE06: Der Streik der Elektriker in Dublin.
+Found
+MODSMD_ARTICLE07: Der Jude Wallburg in Wien nicht erwünscht.
+Found
+MODSMD_ARTICLE08: Belgrader Besuch Cianos noch unbestimmt.
+Found
+MODSMD_ARTICLE09: Die vierte März-Sitzung des Faschistischen Großrates.
+Found
+MODSMD_ARTICLE10: Wiederaufnahme der Genfer Sandschak-Besprechungen.
+Found
+MODSMD_ARTICLE11: Französische Torpedofabrik verstaatlicht.
+Found
+MODSMD_ARTICLE12: Immer neue Lohnforderungen in Frankreich.
+Found
+MODSMD_ARTICLE13: Hitzige Aussprache in der Kammer erwartet.
+Found
+MODSMD_ARTICLE15: Immer noch Schlupflöcher an französisch-spanischer Grenze.
+Found
+MODSMD_ARTICLE16: Nun doch vom Schicksal ereilt.
+Found
+MODSMD_ARTICLE17: Ein portugiesisches Dementi.
+Found
+MODSMD_ARTICLE18: Völlige Desorganisation in der Sowjetautoindnstrie.
+Found
+MODSMD_ARTICLE19: Französische Anleihewünsche in Amerika nicht erfüllt.
+Found

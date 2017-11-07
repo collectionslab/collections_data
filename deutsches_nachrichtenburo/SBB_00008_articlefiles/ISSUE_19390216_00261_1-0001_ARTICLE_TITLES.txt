@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Keitel weihte Fahnen der DAF.-Abteilung Wehrmacht.
+Found
+MODSMD_ARTICLE02: Die Sudeten-Journalisten iiw Verlin herzlich empfangen.
+Found
+MODSMD_ARTICLE03: Glückwünsche für Dr. Lep.
+Found
+MODSMD_ARTICLE04: Polen teilt den deutschen Großgrundbesitz weiter auf.
+Found
+MODSMD_ARTICLE05: Bolschewistische Verbrechen an Kindern«
+Found
+MODSMD_ARTICLE06: Die Prager Polizei verhaftet 100 Judengegner.
+Found
+MODSMD_ARTICLE07: Bisher passierten 38 000 Flüchtlinge Jrun.
+Found
+MODSMD_ARTICLE08: 340 000 rotspanische Flüchtlinge in Frankreich.
+Found
+MODSMD_ARTICLE09: Faschistische „Magna Charta" der Schulreform.
+Found
+MODSMD_ARTICLE10: Englisch-arabischer Sonderausschuß gebildet.
+Found
+MODSMD_ARTICLE11: Generalstreik auf Jamaica.
+Found
+MODSMD_ARTICLE12: Minenexplosion unter einem Güterzug in Palästina.
+Found
+MODSMD_ARTICLE13: 200 Millionen Jen für den China-Feldzug.
+Found
+MODSMD_ARTICLE14: Die Besetzung Hainaus.
+Found
+MODSMD_ARTICLE15: Brasiliens Außenminister bei Roosevelt.
+Found
+MODSMD_ARTICLE16: Tie USA.-Flugzeugverkäufe vor dem Parlament.
+Found

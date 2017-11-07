@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Auszeichnungen durch den Führer.
+Found
+MODSMD_ARTICLE02: Der Führer an die Kaiserswerther Diakonissenanstalt.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels bei den Balkanischen Sportspielen.
+Found
+MODSMD_ARTICLE04: Reichsmimster Ruft in der Lüueburger Heide.
+Found
+MODSMD_ARTICLE05: Einweihung der Ludwig-Siebert Festhalle in Bayreuth.
+Found
+MODSMD_ARTICLE06: Die Grabbe-Festwoche in Detmold.
+Found
+MODSMD_ARTICLE07: Einberufung des Zentralausschusses der Reichsbank.
+Found
+MODSMD_ARTICLE08: Koalitionsregierung in Schweden gebildet.
+Found
+MODSMD_ARTICLE09: Die Drachme hängt sich an das Pfund.
+Found
+MODSMD_ARTICLE10: Colijn über die Guldenabwertung.
+Found
+MODSMD_ARTICLE11: Bundespräsident Meyer begründet den Nbwertungsentschluß.
+Found
+MODSMD_ARTICLE12: Die Verteidiger des Alcazar befreit!
+Found

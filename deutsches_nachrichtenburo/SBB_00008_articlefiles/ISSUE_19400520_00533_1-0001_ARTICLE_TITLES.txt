@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Botschafter Alfieri bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Die Heldentat eines Jnfanterieleutnants.
+Found
+MODSMD_ARTICLE03: Griechische Seeleute verweigern die Englandfahrt.
+Found
+MODSMD_ARTICLE04: Die Schatten der Vergangenheit tauchen auf.
+Found
+MODSMD_ARTICLE05: Ein feiner Bundesgenosse!
+Found
+MODSMD_ARTICLE06: Wie England die Abschneidung von Skandinavien fühlt.
+Found
+MODSMD_ARTICLE07: Daladier der Sündenbock.
+Found
+MODSMD_ARTICLE08: Churchill gesteht wieder einen Zerstörer-Verlust.
+Found
+MODSMD_ARTICLE09: „Dem Zugriff der deutschen Luftwaffe ausgesetzt."
+Found
+MODSMD_ARTICLE10: Der 85jährige Petain soll dem Kabinett neues Leben geben.
+Found
+MODSMD_ARTICLE11: Pariser Zeitungen ziehen die Notleine.
+Found
+MODSMD_ARTICLE12: Frankreichs Ausfuhrsorgen und Kohlmmangel.
+Found
+MODSMD_ARTICLE13: Gewitterwolken um Gibraltar.
+Found
+MODSMD_ARTICLE14: „Wie eine Lawine durch die Maginotlinie."
+Found
+MODSMD_ARTICLE15: Brasilien: Strengste Beachtung der Neutralitätsregeln.
+Found

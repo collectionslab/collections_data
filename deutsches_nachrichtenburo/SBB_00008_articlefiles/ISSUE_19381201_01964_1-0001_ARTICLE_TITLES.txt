@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Frontkämpfer beim Herzog von Coburg.
+Found
+MODSMD_ARTICLE02: Rudolf Heß im Kreise der alten Kämpfer.
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Frick sprach im Schönhengstgau.
+Found
+MODSMD_ARTICLE04: Dr. Loy in Mährisch-Schönbergi und Freudenthal.
+Found
+MODSMD_ARTICLE05: Henterns Ruf an die Sudetendeutschen.
+Found
+MODSMD_ARTICLE06: Der Athener Gastspielerfolg der Frankfurter Oper.
+Found
+MODSMD_ARTICLE07: Schießbefehl an die rumänische Gendarmerie.
+Found
+MODSMD_ARTICLE08: Borau mit der Bildung einer neuen Regierung beauftragt.
+Found
+MODSMD_ARTICLE09: Woloschius Gesundheitszustand gebessert.
+Found
+MODSMD_ARTICLE10: Das Ende des mißglückten „Generalstreiks".
+Found
+MODSMD_ARTICLE11: Die Radikalsozialen konstatieren Erfolg der Regierung.
+Found

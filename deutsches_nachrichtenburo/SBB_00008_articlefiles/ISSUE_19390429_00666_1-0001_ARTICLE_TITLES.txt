@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der erste Eindruck der Führerrede.
+Found
+MODSMD_ARTICLE02: „Vernichtende Abrechnung mit dem falschen Pazifismus."
+Found
+MODSMD_ARTICLE03: Mailand: „Historische Worte."
+Found
+MODSMD_ARTICLE04: Für England eine Sensation.
+Found
+MODSMD_ARTICLE05: Das Tagesgespräch in Frankreich.
+Found
+MODSMD_ARTICLE06: Spanien: Das entscheidende Ereignis.
+Found
+MODSMD_ARTICLE07: Moskau störte den Empfang der Führerrede.
+Found
+MODSMD_ARTICLE08: Millionen Amerikaner hörten den Führer.
+Found

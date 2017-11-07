@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers an Kemal Atatürk.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Der 9. November erstmals im Großdeutschen Reich.
+Found
+MODSMD_ARTICLE04: General Melchiori bei den italienischen Arbeitskameraden.
+Found
+MODSMD_ARTICLE05: Zweistündige Unterredung Ribbentrops mit dem Duce.
+Found
+MODSMD_ARTICLE06: Viktor Emanuel an den Duce.
+Found
+MODSMD_ARTICLE07: Neuer Staatssekretär im ungarischen Ministerpräsidium.
+Found
+MODSMD_ARTICLE08: Prags neue Antwort an Ungarn.
+Found
+MODSMD_ARTICLE09: Scharfe Abrechnung mit Benesch»
+Found
+MODSMD_ARTICLE10: Freundschaft zwischen Slowaken und Karpaiho-Ukrainern.
+Found
+MODSMD_ARTICLE11: Neue deutsche Volksschulen in der Slowakei.
+Found
+MODSMD_ARTICLE12: Botschafter Lipski Zur Berichterstattung in Warschau.
+Found
+MODSMD_ARTICLE13: Ter Marseiller Brand dauert noch immer an.
+Found
+MODSMD_ARTICLE14: Die Polizei untersucht die Ursache der Braudkatastrophe.
+Found
+MODSMD_ARTICLE15: Vorzeitiger Abbruch des RadikalsoZialen Parteikongresses.
+Found
+MODSMD_ARTICLE16: Luftschutzvorbereitungen in England.
+Found

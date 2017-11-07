@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Verleihung des Prosessorentitels.
+Found
+MODSMD_ARTICLE02: Staatssekretär Tassinari besichtigt Arbeitsdienstlager.
+Found
+MODSMD_ARTICLE03: Wächtler dankt den nationalsozialistischen Lehrern.
+Found
+MODSMD_ARTICLE04: Abschluß der Tiroler Reise Dr. tricks.
+Found
+MODSMD_ARTICLE05: Vor der Fahrt Viktor Emanuels 111. nach Libyen.
+Found
+MODSMD_ARTICLE06: Frankreichs spanische Schuld.
+Found
+MODSMD_ARTICLE07: Die Hetzarbeit der marxistischen Internationale.
+Found
+MODSMD_ARTICLE08: Vormarsch der Nationalen im Schneegestöber.
+Found
+MODSMD_ARTICLE09: Die Roten werfen ihre letzten Reserven an die Front.
+Found
+MODSMD_ARTICLE10: 78 Rachemorde in Madrid innerhalb von 14 Tagen.
+Found
+MODSMD_ARTICLE11: Sowjetspanische Rangliste.
+Found
+MODSMD_ARTICLE12: Besprechungen über den Walfischsang in Oslo.
+Found
+MODSMD_ARTICLE13: Wahlen zum Memellandtag im Herbst?
+Found
+MODSMD_ARTICLE14: Unverschämte Beschimpfung der Sudetendeutschen.
+Found
+MODSMD_ARTICLE15: Polen droht mit Gegenmaßnahmen.
+Found
+MODSMD_ARTICLE16: Vorräte für Polens Ernährung und Wehrkraft.
+Found
+MODSMD_ARTICLE17: Vertrauensvotum für die belgische Regierung im Senat.
+Found
+MODSMD_ARTICLE18: Präsident Cardenas über Ausstandsabsichten in Mexiko.
+Found

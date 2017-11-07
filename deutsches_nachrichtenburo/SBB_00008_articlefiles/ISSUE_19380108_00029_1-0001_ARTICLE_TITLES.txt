@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Gauleiter Bohle nach Budapest eingeladen.
+Found
+MODSMD_ARTICLE02: Die Stellung der Schwester im Dritten Reich.
+Found
+MODSMD_ARTICLE03: Die Weltreisen unserer Schulschiffe.
+Found
+MODSMD_ARTICLE04: Rücktritt des Direktors des Weltpostvereins.
+Found
+MODSMD_ARTICLE05: Reichskommissar Ziegler in der Hauptstadt Maliens.
+Found
+MODSMD_ARTICLE06: Die Kennzahl der Großhandelspreise vom 5. Januar und im Monatsdurchschnitt Dezember.
+Found

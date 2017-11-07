@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Abend-Ausgabe. Deutsches Nachrichtenbüro b
+Found
+MODSMD_ARTICLE02: Zum Oberverwaltungsgerichtsrat ernannt.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels vor den Leitern der Neichspropagandaämter.
+Found
+MODSMD_ARTICLE04: Beratung des Gesetzentwurfs über das Arbeitsverhältnis.
+Found
+MODSMD_ARTICLE05: Trauerfeier für Thilo von Trotha und Helmuth Ade.
+Found
+MODSMD_ARTICLE06: Graf Ciano über Sinn und Bedeutung der Achse Berlin-Rom.
+Found
+MODSMD_ARTICLE07: „Adolf Hitler wird offene Herzen in Italien finden."
+Found
+MODSMD_ARTICLE08: Italienische Blätter begrüßen die Balkanbundbeschlüsse.
+Found
+MODSMD_ARTICLE09: Inoffizieller Besuch Kanyas in Wien.
+Found
+MODSMD_ARTICLE10: Jugoslawische Aerzte gegen Kurpfuscherei.
+Found
+MODSMD_ARTICLE11: Dinichert Schweizer Gesandter für Skandinavien.
+Found
+MODSMD_ARTICLE12: Ministerbesprechung mit Lord Perth.
+Found
+MODSMD_ARTICLE13: Die „Metropole" zum deutschen Kolonialanspruch.
+Found
+MODSMD_ARTICLE14: „Von jeher Untermenschen!"
+Found
+MODSMD_ARTICLE15: Japanischer Zusahkredit für den Chinakonflikt.
+Found
+MODSMD_ARTICLE16: Bahnlinie in Palästina durch Bomben beschädigt.
+Found

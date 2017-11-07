@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer empfing den Belgrader Bürgermeister.
+Found
+MODSMD_ARTICLE02: Beileid des Führers zum Unglück in New London.
+Found
+MODSMD_ARTICLE03: Bannführer Lapper bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: Reichskabinett genehmigt Reichsetat.
+Found
+MODSMD_ARTICLE05: Die neuen Polizeigesetze.
+Found
+MODSMD_ARTICLE06: Amtszeit des Reichsbankpräsidenten verlängert.
+Found
+MODSMD_ARTICLE07: Die Besprechungen Schuschniggs in Budapest.
+Found
+MODSMD_ARTICLE08: Italien und die Londoner Krönungsfeierlichkeiten.
+Found
+MODSMD_ARTICLE09: Der belgische Königsbesuch in London.
+Found
+MODSMD_ARTICLE10: Neues Minendepot der englischen Flotte.
+Found
+MODSMD_ARTICLE11: Englands Bauern wünschen andere Agrarpolitik.
+Found
+MODSMD_ARTICLE12: Unterhausaussprache über die Cripps-Rede beantragt.
+Found
+MODSMD_ARTICLE13: Blum will am Dienstag antworten.
+Found
+MODSMD_ARTICLE14: Kammeraussprache über den Generalstreik.
+Found
+MODSMD_ARTICLE15: Waffendiebstahl in einer französischen Kaserne.
+Found
+MODSMD_ARTICLE16: Streik beim Gaswerk in Aix-en-Provence.
+Found
+MODSMD_ARTICLE17: Wieder Zwangsverschickungen nach Sibirien.
+Found
+MODSMD_ARTICLE18: Brand bei Chrysler.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Englischer Minister besichtigt Reichsautobahn.
+Found
+MODSMD_ARTICLE02: Schirach empfängt englische Jugendliche.
+Found
+MODSMD_ARTICLE03: „Das wirkliche Gesicht Frankreichs."
+Found
+MODSMD_ARTICLE04: Milchner auf deutschem Boden.
+Found
+MODSMD_ARTICLE05: Arbeitstagung auf der Ordensburg Sonthofen.
+Found
+MODSMD_ARTICLE07: Oberst Koc zurückgetreten.
+Found
+MODSMD_ARTICLE08: Die Belgrader „Politica" zur Reise Micescus.
+Found
+MODSMD_ARTICLE09: Die Beratungen in Budapest.
+Found
+MODSMD_ARTICLE10: Sowjetspanische Sender faseln von Revolution in Portugal.
+Found
+MODSMD_ARTICLE11: Empfänge bei Chamberlain.
+Found
+MODSMD_ARTICLE12: Die Stärke der britischen Luftstreitkräfte.
+Found
+MODSMD_ARTICLE13: „Manchester Guardian" über das Palästina-Weißbuch.
+Found
+MODSMD_ARTICLE14: Der Führer der Indischen Kongreßpartei in London.
+Found
+MODSMD_ARTICLE15: Bombenanschlag gegen Jtalienerpatrouille in Schanghai.
+Found
+MODSMD_ARTICLE16: Die argentinisch-brasilianische Freundschaft.
+Found
+MODSMD_ARTICLE17: Handelsabkommen Chile—Vereinigte Staaten.
+Not Found
+MODSMD_ARTICLE18: Marinetechnische Besprechung bei Roosevelt.
+Found
+MODSMD_ARTICLE19: Ein zweites schweres Flugzeugunglück.
+Found

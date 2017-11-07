@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Frankfurt in Erwartung des Führers-
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Mauterndorf erwartet Generalfeldmarschall Göring.
+Found
+MODSMD_ARTICLE04: Großeinsatz des Arbeitsdienstes in Oesterreich.
+Found
+MODSMD_ARTICLE05: Die österreichische Legion auf der Fahrt durch die Heimat.
+Found
+MODSMD_ARTICLE06: Parade der Tiroler Truppen vor Generaloberst Bock.
+Found
+MODSMD_ARTICLE07: Aufruf von Reichsstatthalter Kaufmann.
+Found
+MODSMD_ARTICLE08: Die Schweizer Presse über die sudetendeutsche Fxage.
+Found
+MODSMD_ARTICLE09: Neue Weltrekorde Sioppanis.
+Found
+MODSMD_ARTICLE10: Ununterbrochener Vormarsch auf der ganzen Front.
+Found
+MODSMD_ARTICLE11: Was die „Volksfront" unter Minderheiten versteht.
+Found
+MODSMD_ARTICLE12: Der mexikanische Oclkoiislikt vor dem Oberhaus.
+Found
+MODSMD_ARTICLE13: Reform des Staatswesens in Rumänien.
+Found
+MODSMD_ARTICLE14: Verstärkung der norwegischen Landesverteidigung.
+Found

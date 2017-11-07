@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Deutsche Auszeichnungen für italienische Persönlichkeiten.
+Found
+MODSMD_ARTICLE02: Begnadigung durch den Führer.
+Found
+MODSMD_ARTICLE03: Justizminister Solmi bei Dr. Giirtner.
+Found
+MODSMD_ARTICLE04: Beileid des Reichsarbeitsministers.
+Found
+MODSMD_ARTICLE05: Ans der Diplomatie.
+Found
+MODSMD_ARTICLE06: Italienische Fachleute bei deutschen Kolonialstellen.
+Found
+MODSMD_ARTICLE07: Die Polizei wieder im Dienst des WHW.
+Found
+MODSMD_ARTICLE08: Italienischer Handwerksführer in Deutschland.
+Found
+MODSMD_ARTICLE09: Stabschef Lutze aus Italien Zurückgekehrt.
+Found
+MODSMD_ARTICLE10: Aufnahme in die Partei nur im Rahmen der Bestimmungen.
+Found
+MODSMD_ARTICLE11: Kranzniederlegung am Grabe der Eltern des Führers.
+Found
+MODSMD_ARTICLE12: Freispruch im Prozeß wegen der zionistischen Protokolle.
+Found
+MODSMD_ARTICLE13: „Deutschlands Verständigungswunsch zweifellos aufrichtig".
+Found
+MODSMD_ARTICLE14: Die neue Libanon-Regierung gebildet.
+Found
+MODSMD_ARTICLE15: Auch Transjordanien in Unruhe.
+Found
+MODSMD_ARTICLE16: Zustrom ausländischer „Freiwilliger in Albacete.
+Found
+MODSMD_ARTICLE17: „Sowjetspanien Hinterland Sowjetrnßlands".
+Found
+MODSMD_ARTICLE18: Maisky bei Lord Plymouth.
+Found
+MODSMD_ARTICLE19: Japan betreibt schnelleres Ende des Feldzuges.
+Found

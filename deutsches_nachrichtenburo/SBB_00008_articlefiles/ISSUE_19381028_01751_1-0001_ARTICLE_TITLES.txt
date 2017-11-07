@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Wehrdienst in der SA.-Standarte „Feldherrnhalle".
+Found
+MODSMD_ARTICLE02: Tagung der Gesellschaft für Deutsches Strafrecht.
+Found
+MODSMD_ARTICLE03: Englands Botschafter bei Graf Ciano.
+Found
+MODSMD_ARTICLE04: Anerkennung des italienischen Imperiums durch England?
+Found
+MODSMD_ARTICLE05: Noch eine Abfuhr für Lloyd George.
+Found
+MODSMD_ARTICLE06: Kühle Aufnahme der neuen Minister in London.
+Found
+MODSMD_ARTICLE07: Schmährufe für Pierre Cot.
+Found
+MODSMD_ARTICLE08: Das französische Kriegsmarine-Bauprogramm.
+Found
+MODSMD_ARTICLE09: Prag löscht sudetendeutsche Mandate.
+Found
+MODSMD_ARTICLE10: Die jüdische Hetze gegen die deutschen Kliniken in Prag.
+Found
+MODSMD_ARTICLE11: Regieruugskomunssare für slowakische Zeitungen.
+Found
+MODSMD_ARTICLE12: Sowjeifilme in der Slowakei verboten.
+Found
+MODSMD_ARTICLE13: Auflösung der Parteien in der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE14: Einführung der vier Abgeordneten des Olsa-Gebiets.
+Found
+MODSMD_ARTICLE15: Winterhilfe in Nationalspanien.
+Found
+MODSMD_ARTICLE16: Minister Pirow in Lissabon.
+Found
+MODSMD_ARTICLE17: Ausnahmezustand in Tiberias.
+Found
+MODSMD_ARTICLE18: Amerikas Handelsinteressen in China.
+Found

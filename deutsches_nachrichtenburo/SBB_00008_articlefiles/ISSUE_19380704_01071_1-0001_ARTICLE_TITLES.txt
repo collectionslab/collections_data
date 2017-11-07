@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Empfang der japanischen Jugendabordnung in Köln.
+Found
+MODSMD_ARTICLE02: Italienische Arbeiterurlauber in Nürnberg.
+Found
+MODSMD_ARTICLE03: Für saubere Geschäftsführung.
+Found
+MODSMD_ARTICLE04: Hansetagung in Antwerpen beendet.
+Found
+MODSMD_ARTICLE05: Die deutsche Frontkämpferabordnung in Warschau.
+Found
+MODSMD_ARTICLE06: Deutsche Schuellbootflotille besucht Schweden.
+Found
+MODSMD_ARTICLE07: Stabschef Lutze besichtigte Pompeji.
+Found
+MODSMD_ARTICLE08: Schulungstagung des sudetendeutschen Bauerntums.
+Found
+MODSMD_ARTICLE09: Prag verbietet weiter.
+Found
+MODSMD_ARTICLE10: Tschechische Schikanen gegen sudetendeutschen Turnverein.
+Found
+MODSMD_ARTICLE11: Neuer tschechischer Roheitsakt.
+Found
+MODSMD_ARTICLE12: Simon! begrüßt deutsch-englisches Wirtschaftsabkommen.
+Found
+MODSMD_ARTICLE13: Große außenpolitische Rede Chamberlains. ' – / n- l .a- – -z
+Not Found

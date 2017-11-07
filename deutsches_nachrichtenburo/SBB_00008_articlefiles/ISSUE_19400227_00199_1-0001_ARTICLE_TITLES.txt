@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Führer an de» dominikanischen Präsidenten.
+Found
+MODSMD_ARTICLE02: Die Fahrt auf England bringt den Tod.
+Found
+MODSMD_ARTICLE03: Englischer SIM Tonnen-Dampfer gesunken.
+Found
+MODSMD_ARTICLE04: So wirkt die Versenkung eines Schiffes!
+Found
+MODSMD_ARTICLE05: Englands schlechte Kriegswirtschaft»
+Found
+MODSMD_ARTICLE06: Die Hauptsache sind die Diäten?
+Found
+MODSMD_ARTICLE07: Starkes Echo der Führer-Rede in der portugiesischen Presse.
+Found
+MODSMD_ARTICLE08: Britischer Tankdampfer untergegangen.
+Found
+MODSMD_ARTICLE09: Portugal bekennt sich erneut zur Neutralität.
+Found
+MODSMD_ARTICLE10: Ein IKjähriger Ire vor Gericht.
+Found
+MODSMD_ARTICLE11: Dänischer Fischkutter explodiert.
+Found
+MODSMD_ARTICLE12: Hansson über Neutralität und Finnland-Unterstützung.
+Found
+MODSMD_ARTICLE13: „Die Zeit arbeitet nur für Deutschland."
+Found
+MODSMD_ARTICLE14: Keine besonderen Ereignisse.
+Found
+MODSMD_ARTICLE15: „Regime Fascista" über die Juden in England.
+Found
+MODSMD_ARTICLE16: Neuer Höchststand der amerikanischen Staatsschulden.
+Found
+MODSMD_ARTICLE17: Das Hilfeversprechen der Westmächte an Finnland.
+Found
+MODSMD_ARTICLE18: Kennedy fordert Heraushaltung aus dem Kriege.
+Found
+MODSMD_ARTICLE19: De Valera fordert erneut den Anschluß Nordirlands.
+Found
+MODSMD_ARTICLE20: Keine Zwischenlandung in Bermuda.
+Found

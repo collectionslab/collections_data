@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr. Goebbels verabschiedet Funk.
+Found
+MODSMD_ARTICLE02: Berliner Ehrenzeichenträger bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Ehrung eines chilenischen Arztes.
+Found
+MODSMD_ARTICLE04: Ungarischer Besuch in Siemensstadt.
+Found
+MODSMD_ARTICLE05: Der amerikanische Botschafter bei Delbos.
+Found
+MODSMD_ARTICLE06: Sondermaßnahmen Englands in der Antipiratenkontrolle.
+Found
+MODSMD_ARTICLE07: Britischer Frachtdampfer von den Bolschewisten versenkt.
+Found
+MODSMD_ARTICLE08: Japanische Ehrengabe für den Führer.
+Found
+MODSMD_ARTICLE09: Neue Untat des rotspanischen Flugzeugstützpunkts Murcia.
+Found
+MODSMD_ARTICLE10: Jüdischer „Hilfspolizist" beschoß Araber-Omnibus.
+Found
+MODSMD_ARTICLE11: Kriegsrecht über Kanton verhängt.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Tcutsch-italienische Wirtschaftsabkommen unterzeichnet.
+Found
+MODSMD_ARTICLE02: Jahrestaguna der deutschen Landesgruppe der I. L. A.
+Found
+MODSMD_ARTICLE03: Der Besuch der deutschen Luftwaffe in Jugoslawien.
+Found
+MODSMD_ARTICLE04: Der 15» Deutsche Weltwirtschaftstag.
+Found
+MODSMD_ARTICLE05: Einsegnung der Leiche des Leutnants Günther in Graz.
+Found
+MODSMD_ARTICLE06: Fortsetzung der Besprechungen in Prag.
+Found
+MODSMD_ARTICLE07: Einheitliche Bolkstumsarbeit des Sudetendeutschtums.
+Found
+MODSMD_ARTICLE08: Professor Otto Rektor der Deutschen Universität in Prag.
+Found
+MODSMD_ARTICLE09: Italien und Benesch.
+Found
+MODSMD_ARTICLE10: Ungarischer Staatssekretär zurückgetreten-
+Found
+MODSMD_ARTICLE11: „Unerfreuliche Begleitmusik".
+Found
+MODSMD_ARTICLE12: Jour: „Französische Cliquen wünschen Krieg."
+Found
+MODSMD_ARTICLE13: Rotspanische Bomben auf französische Grenzstadt.
+Found
+MODSMD_ARTICLE14: Neue blutige Zusammenstöße im Sandschak.
+Found
+MODSMD_ARTICLE15: Die Sandschakfrage vor dem türkischen Parlament.
+Found
+MODSMD_ARTICLE16: Monopolverschwörung der amerikanischen Auto firmen.
+Found
+MODSMD_ARTICLE17: Neuer Außenminister von Uruguay.
+Found
+MODSMD_ARTICLE18: Schifssunglück iu der Kieler Uhrde.
+Found

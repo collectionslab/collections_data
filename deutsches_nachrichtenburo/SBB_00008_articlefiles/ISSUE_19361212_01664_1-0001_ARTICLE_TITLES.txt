@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Empfang zu Ehren des ungarischen Innenministers.
+Found
+MODSMD_ARTICLE02: Abschiedsansprache des scheidenden englischen Königs.
+Found
+MODSMD_ARTICLE03: Eine Erklärung der Königinmutter Mary.
+Found
+MODSMD_ARTICLE04: Irland erkennt Thronwechsel an.
+Found
+MODSMD_ARTICLE05: Richtigstellung unbegründeter Gerüchte.
+Found
+MODSMD_ARTICLE06: Italien zu den Enthüllungen des „Messaggero".
+Found
+MODSMD_ARTICLE07: Vor Beginn der Verhandlungen zwischen Danzig und Polen.
+Found
+MODSMD_ARTICLE08: Tie „Zyrardow-Frage" beigelegt.
+Found

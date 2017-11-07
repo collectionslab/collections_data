@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die deutsch ungarischen Wirtschaftsbeziehungen.
+Found
+MODSMD_ARTICLE02: Kundgebung der NSKOB> in Hamburg.
+Found
+MODSMD_ARTICLE03: Tie Wiener Presse zum Staatsbesuch in Berlin.
+Found
+MODSMD_ARTICLE04: Dr. Dietrich bei der Faschistischen Partei.
+Found
+MODSMD_ARTICLE05: Die Ansprache des Präsidenten Ulmanis.
+Found
+MODSMD_ARTICLE06: Neue englische Note zur Westpaktsrage überreicht.
+Found
+MODSMD_ARTICLE07: Dnff Cooper über Englands Rekrutierungsschwierigkeiten.
+Found
+MODSMD_ARTICLE09: Die Moskauer Wühlereien bei der Oberhaus-Wehrdebatte
+Found
+MODSMD_ARTICLE10: Eine Spanien-Erklärung Edens im Unterhaus.
+Found
+MODSMD_ARTICLE11: London und die beabsichtigte Blockade Barcelonas.
+Found
+MODSMD_ARTICLE12: London nimmt Fühlung mit der Regierung in Bnrgos.
+Found
+MODSMD_ARTICLE13: England und die angekündigte Blockade.
+Found
+MODSMD_ARTICLE14: Sohn Largo Caballeros zum Tode verurteilt.
+Found

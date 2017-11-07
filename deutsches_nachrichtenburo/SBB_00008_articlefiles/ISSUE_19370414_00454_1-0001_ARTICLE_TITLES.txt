@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ausstellung „Gebt mir 4 Jahre Zeit" am 30. April.
+Found
+MODSMD_ARTICLE02: Aufruf Dr. Leys zum Dankopfer der Nation.
+Found
+MODSMD_ARTICLE03: Dienststellen der Reichsleitung am 20. April geschlossen.
+Found
+MODSMD_ARTICLE04: Schulbeginn im Zeichen der Volksgemeinschaft.
+Found
+MODSMD_ARTICLE05: Dr. Lry bei den Reichsdeutschen in Rom.
+Found
+MODSMD_ARTICLE06: Dr. Schacht beim belgischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE07: Zur Rede des Reichsfinanzministers.
+Found
+MODSMD_ARTICLE08: Ein Gesetz gegen die Abtreibeseuche in Oesterreich.
+Found
+MODSMD_ARTICLE09: Verleumder de la Rocques verurteilt.
+Found
+MODSMD_ARTICLE10: Erfolgreicher Massenflug Kalifornien—Hawai.
+Not Found
+MODSMD_ARTICLE11: New Aorker Kirche als Schauplatz wüster jüdischer Hetze.
+Found

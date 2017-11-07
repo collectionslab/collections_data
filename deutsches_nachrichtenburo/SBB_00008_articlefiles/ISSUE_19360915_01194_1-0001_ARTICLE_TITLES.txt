@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Ter Führer hat Nürnberg verlassen.
+Found
+MODSMD_ARTICLE02: Handelsminister Bastid in Berlin.
+Found
+MODSMD_ARTICLE03: Tie deutsche Abordnung für den Brüsseler Krebs-Kongreß.
+Found
+MODSMD_ARTICLE04: Vcrkehrsbeschränkung im Gebiet der Großen Herbstübungen.
+Found
+MODSMD_ARTICLE05: Meteorologische ErgänZungsprüfung.
+Found
+MODSMD_ARTICLE06: Staatssekretär Schmidt über seinen Aufenthalt in Rom.
+Found
+MODSMD_ARTICLE07: Erfolgreiche deutsch-dänische Verhandlungen.
+Found
+MODSMD_ARTICLE08: Der österreichische Staatssekretär des Aeußern in Rom.
+Found
+MODSMD_ARTICLE09: Prag als Wirtschaftszentrale der Kleinen Entente.
+Found
+MODSMD_ARTICLE10: Ein Bericht des Wirtschaftsausschusses des Völkerbundes.
+Found
+MODSMD_ARTICLE11: MacMahon zu 12 Monaten Zuchthaus verurteilt.
+Found
+MODSMD_ARTICLE12: Eden fährt zur Völkerbundsversammlung nach Genf.
+Found
+MODSMD_ARTICLE13: Portugal erneut nach London eingeladen.
+Found
+MODSMD_ARTICLE14: Empfang eines heimkehrenden italienischen Regiments.
+Found
+MODSMD_ARTICLE15: Polnische Presse fordert regelrechten Arbeitsdienst.
+Found
+MODSMD_ARTICLE16: Die polnisch-französischen Handelsbesprechungen.
+Found
+MODSMD_ARTICLE17: Vor dem Bombardement Bilbaos.
+Found
+MODSMD_ARTICLE18: Eine politische Rede des Generals Hertzog.
+Found
+MODSMD_ARTICLE19: Ueble jüdische Tendenzmeldung aus Palästina.
+Found
+MODSMD_ARTICLE20: Notlandung der amerikanischen Transatlantikslieger.
+Found
+MODSMD_ARTICLE21: Teilwahlen in Amerika.
+Found
+MODSMD_ARTICLE22: Das Brandunglißk in Ostoberschlesien.
+Found

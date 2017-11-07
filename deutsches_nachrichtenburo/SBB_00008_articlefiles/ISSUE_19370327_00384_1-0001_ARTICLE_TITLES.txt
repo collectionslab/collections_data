@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Botschafter von Hassell bei Mussolini.
+Found
+MODSMD_ARTICLE02: Ueberwachung der Industriepreise in Polen.
+Found
+MODSMD_ARTICLE03: Polnische Kommunisten verurteilt.
+Found
+MODSMD_ARTICLE04: Geldpreise für antireligiöse Propaganda!
+Found
+MODSMD_ARTICLE05: Tatarescu aus Prag abgereist.
+Found
+MODSMD_ARTICLE06: Bericht über Tatarescus Besuch in PraK
+Found
+MODSMD_ARTICLE07: Haussuchungen bei der Karpathendeutschen Partei.
+Found
+MODSMD_ARTICLE08: Ministerpräsident Hodscha in Wien.
+Found
+MODSMD_ARTICLE09: Schatzkanzler Chamberlain wiederhergestellt.
+Found
+MODSMD_ARTICLE10: Das Zusammenspiel Zwischen 2. und 3. Internationale.
+Found
+MODSMD_ARTICLE11: Marxistisches Kesseltreiben gegen Toriot.
+Found
+MODSMD_ARTICLE12: Antisowjetbewegung in Frankreich unbequem.
+Found
+MODSMD_ARTICLE13: Der englische Kriegsminister in Paris eingetroffen.
+Found
+MODSMD_ARTICLE14: Oberst Beck in Toulon.
+Found
+MODSMD_ARTICLE15: Bolschewistenangriff an Cordoba-Frout abgewiesen.
+Found
+MODSMD_ARTICLE16: Franco nimmt spanische Karfreitagßsitte wieder auf.
+Found
+MODSMD_ARTICLE17: Spaniens Bolschewisten fordern von Mexiko mehr Waffen.
+Found
+MODSMD_ARTICLE18: Morata de Tajuna im Sturmangriff genommen.
+Found
+MODSMD_ARTICLE19: Spanische Flüchtlinge in Holland interniert»
+Found
+MODSMD_ARTICLE20: Die Tagung des Wirtschaftsrates der Balkan-Entente.
+Found
+MODSMD_ARTICLE21: Eine Erklärung Senator Pittmanns.
+Found
+MODSMD_ARTICLE22: Die Chrysler-Werke geräumt.
+Found

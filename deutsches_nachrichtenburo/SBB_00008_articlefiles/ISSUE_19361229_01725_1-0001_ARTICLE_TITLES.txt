@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: kirchliche Trancrfeier für Generaloberst von Seeckt.
+Found
+MODSMD_ARTICLE02: Tschiangkaischeks Beileid Zum Tode Seeckts.
+Found
+MODSMD_ARTICLE03: Beileid des Reichsarbeitsrnmisters.
+Found
+MODSMD_ARTICLE04: Die Tanziger auf der Ratstagung.
+Found
+MODSMD_ARTICLE05: Abschiedsesseu für Dr. Papee.
+Found
+MODSMD_ARTICLE06: Berühmter polnischer Maler gestorben.
+Found
+MODSMD_ARTICLE07: Eine „teuftische Verschwörung gegen die Menschheit".
+Found
+MODSMD_ARTICLE08: Exploswnsunglück in einer norditaliemschen Stadt.
+Found
+MODSMD_ARTICLE09: Ein Komplize des Sowjetjuden Rosenseld verhaftet.
+Found
+MODSMD_ARTICLE10: 25 Sowjet-U-Boote auf dem Wege nach Spanien.
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE12: Schwere Verluste der Bolschewisten im Biskaya-Gebiet.
+Found
+MODSMD_ARTICLE13: Hungerrevolten im roten Spanien.
+Found
+MODSMD_ARTICLE14: Amerikanische Flugzeuge für die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE15: Tschiangkaischek erneut in seinen Aemtern bestätigt.
+Found
+MODSMD_ARTICLE16: Um die Beibehaltung der überzähligen Kriegsschifftonnage.
+Found
+MODSMD_ARTICLE17: Brasilien schützt sich vor dem Kommunismus.
+Found
+MODSMD_ARTICLE18: Neujahrsbotschasten der japanischen Staatsminister.
+Found
+MODSMD_ARTICLE19: Kwantungarmee warnt Nanking vor den Bolschewisten.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer noch einmal auf der Autoschau.
+Found
+MODSMD_ARTICLE02: Dr. Frank empfing den italienischen Justizminister.
+Found
+MODSMD_ARTICLE03: Göring in San Nemo eingetroffen.
+Found
+MODSMD_ARTICLE04: England stellt Zunahme des internationalen Vertrauens fest.
+Found
+MODSMD_ARTICLE05: Londoner Sonntagspresse über Palästina-Konferenz.
+Found
+MODSMD_ARTICLE06: Francs klärt England auf.
+Found
+MODSMD_ARTICLE07: Ruhe an den spanischen Fronten.
+Found
+MODSMD_ARTICLE08: Negrin abgesetzt.
+Found
+MODSMD_ARTICLE09: Gärung im roten Cartagena.
+Found
+MODSMD_ARTICLE10: Nationalspanien baut aus!
+Found
+MODSMD_ARTICLE11: Verstärkter roter Terror in Spanien.
+Found
+MODSMD_ARTICLE13: Fürchtet Blum Diskussionen?
+Found
+MODSMD_ARTICLE14: Eine Wahlrede des ungarischen Außenministers.
+Found
+MODSMD_ARTICLE15: Moskau zur Ernennung des Marschalls Petain.
+Found
+MODSMD_ARTICLE16: Starke Beachtung der GoÄbels-Rede in New Jork.
+Found
+MODSMD_ARTICLE17: Amerikas Botschafter verläßt Sowjetspanien.
+Found
+MODSMD_ARTICLE18: Roosevelts Beunruhigungspolitik.
+Found

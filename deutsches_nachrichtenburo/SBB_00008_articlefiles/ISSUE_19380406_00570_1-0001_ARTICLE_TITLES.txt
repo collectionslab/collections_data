@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Dr. Goebbels in Hannover.
+Found
+MODSMD_ARTICLE03: Wahlkundgebungen am Dienstag.
+Found
+MODSMD_ARTICLE04: Geschenk des Führers an den Fascio in Berlin.
+Found
+MODSMD_ARTICLE05: SA.-Dnnkvpfcrsiedlungen in Wien.
+Found
+MODSMD_ARTICLE06: Arbeitsbeginn auf 346 Baustellen.
+Found

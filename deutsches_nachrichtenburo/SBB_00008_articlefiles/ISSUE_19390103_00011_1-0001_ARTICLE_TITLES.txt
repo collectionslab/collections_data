@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Rauschning DanZiger Staatsangehörigkeit entzogen.
+Found
+MODSMD_ARTICLE02: Sir Percy Loraine wird britischer Botschafter in Rom.
+Found
+MODSMD_ARTICLE03: Fiasko der Londoner Kabinetts-„Nevolte".
+Found
+MODSMD_ARTICLE04: Taladier in Tunesien.
+Found
+MODSMD_ARTICLE05: Vor Schließung der Pariser Lichtspielhäuser?
+Found
+MODSMD_ARTICLE06: Scharse Sparmaßnahmen in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE07: Für jeden Zwischenfall 133 Ausweisungen.
+Found
+MODSMD_ARTICLE08: 59 vH. aller Warschauer Rechtsanwälte sind Juden.
+Found
+MODSMD_ARTICLE09: Rumänien streicht weitere jüdische Schanklizenzen.
+Found
+MODSMD_ARTICLE10: Juden in aller Welt am Werk.
+Found
+MODSMD_ARTICLE11: Wieder ein Volkskommissar „verschwunden".
+Found
+MODSMD_ARTICLE12: Nene Antreibermethoden in Sowjetrußland.
+Found
+MODSMD_ARTICLE13: Aegyptische Militärmission für London.
+Found
+MODSMD_ARTICLE14: Die arabischen Führer dürfen Syrien aufsuchen.
+Found
+MODSMD_ARTICLE15: Um die Palästina-Konferenz.
+Found
+MODSMD_ARTICLE16: Errichtung eines Verbandes der türkischen Jugend.
+Found
+MODSMD_ARTICLE17: Neuer japanischer Oberkommandierender in Mittelchina.
+Found
+MODSMD_ARTICLE18: Attentat in der französischen Niederlassung von Tientsin.
+Found
+MODSMD_ARTICLE19: Das Ehepaar Schönewald hingerichtet.
+Found

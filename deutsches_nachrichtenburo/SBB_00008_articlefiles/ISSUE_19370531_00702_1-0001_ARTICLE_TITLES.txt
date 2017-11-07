@@ -1,0 +1,30 @@
+MODSMD_ARTICLE02: Im Kampf um die Nahrungsfreiheit. Eröffnung der vierten Reichsnährstandsausstellung.
+Found
+MODSMD_ARTICLE03: Der Führer kommt.
+Found
+MODSMD_ARTICLE04: Reichsminister Darre
+Found
+MODSMD_ARTICLE05: Liberalistische Ichsucht verhindert Gemeinschaftsleistung.
+Found
+MODSMD_ARTICLE06: Ueberangebot und doch Entschluß zur Mehrproduktion.
+Found
+MODSMD_ARTICLE07: Marktordnung auch heute Schutz des Verbrauchers.
+Found
+MODSMD_ARTICLE08: Die Frage der Arbeitskräfte in der Landwirtschaft.
+Found
+MODSMD_ARTICLE09: Ziel: modernster Bauernbetrieb der Welt.
+Found
+MODSMD_ARTICLE10: Möglichst hohe Durchschnittsleistung!
+Found
+MODSMD_ARTICLE11: Die Erzeugungsschlacht bisher ohne Beispiel in der Welt.
+Found
+MODSMD_ARTICLE12: Dem Gesetz treu, nach dem angetreten wurde.
+Found
+MODSMD_ARTICLE13: Dr. Kramarsch beigesetzt.
+Found
+MODSMD_ARTICLE14: Rumäniens Außenminister in Paris.
+Found
+MODSMD_ARTICLE15: 23 Engländer kehrten Zurück: Franco hat sie freigelassen.
+Found
+MODSMD_ARTICLE16: Der Fakir von Jpi aus Waziristan geflohen.
+Found

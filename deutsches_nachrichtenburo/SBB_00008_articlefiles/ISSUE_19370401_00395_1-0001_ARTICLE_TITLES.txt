@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: ll g Z sÄuS Z ilö E» Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Der Führer an Reichsstatthalter Kaufmann.
+Found
+MODSMD_ARTICLE03: Die deutsch-französischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE04: Die „Deutsche Gemeinschaft" in Frankreich.
+Found
+MODSMD_ARTICLE05: Arbeitskonflikte im Gastwirtsgewerbe während der Pariser Weltausstellung nicht ausgeschlossen.
+Found
+MODSMD_ARTICLE06: Frankreich sieht seine Donauraumpolitik in Gefahr.
+Found
+MODSMD_ARTICLE07: Frankreichs Kriegsminister fährt nach Marokko.
+Found
+MODSMD_ARTICLE08: Antonescu und Krofta in Belgrad.
+Found
+MODSMD_ARTICLE09: Der englische Haushaltsabschluß.
+Found
+MODSMD_ARTICLE10: Ständig steigender Brotpreis in England.
+Found
+MODSMD_ARTICLE11: Zwölf neue englische Großflugzeuge.
+Found
+MODSMD_ARTICLE12: Italien nicht auf der Flottenschau in Spithead.
+Found
+MODSMD_ARTICLE13: Italienisch-tschechoslowakische Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE14: Waffen gegen geraubte Edelsteine!
+Found
+MODSMD_ARTICLE15: Marschall Achmet JZzet Pascha f.
+Found
+MODSMD_ARTICLE16: Auch Neuseeland rüstet auf.
+Found

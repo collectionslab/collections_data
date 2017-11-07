@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: General Vuillemin vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Ministerialdirektor Dr. Suren 50 Jahre alt.
+Found
+MODSMD_ARTICLE03: Graf von Bismarck-Schönhausen nach Potsdam versetzt.
+Found
+MODSMD_ARTICLE04: Gesetz über eine Bereinigung alter Schuldem
+Found
+MODSMD_ARTICLE05: Der Internationale Kongreß der Gartengestalter in Essen.
+Found
+MODSMD_ARTICLE06: SS.-Oberführer Burghardt gestorben.
+Found
+MODSMD_ARTICLE07: Die internationale Frontkämpfertagung in Coburg.
+Found
+MODSMD_ARTICLE08: Reichsminister Dr. Frick in Salzburg.
+Found
+MODSMD_ARTICLE09: Dr. Frick beglückwünscht den Reichsärzteführer.
+Found
+MODSMD_ARTICLE10: Um die Beilegung des Schangfeng-Konfliktes.
+Found
+MODSMD_ARTICLE11: Japanische Verdunkelungsvorkehrungen aufgehoben.
+Found
+MODSMD_ARTICLE12: Der englisch-japanische Flaggenzwischenfall in Tsingtau.
+Found
+MODSMD_ARTICLE13: Chinesischer Polizeichef in Schanghai erschossen.
+Found
+MODSMD_ARTICLE14: Ministerwechsel in Teheran.
+Found

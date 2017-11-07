@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die italienische Königin an die Deutsche Aerzteschaft.
+Found
+MODSMD_ARTICLE02: Frauen ausländischer Diplomaten bei Frau Scholtz-Klink.
+Found
+MODSMD_ARTICLE03: 56. Geburtstag von Staatssekretär Zschinhsch.
+Found
+MODSMD_ARTICLE04: Die italienische Arbeiterabordnung in Hamburg.
+Found
+MODSMD_ARTICLE05: Rom feierte die Südamerika-Flieger.
+Found
+MODSMD_ARTICLE06: Londoner Zweckgerüchte.
+Found
+MODSMD_ARTICLE07: Ungarn charakterisiert die Genfer Entente.
+Found
+MODSMD_ARTICLE08: „Von einer Besserung keine Rede."
+Found
+MODSMD_ARTICLE09: Säuberung der Bukarester Rechtsanwaltskammer.
+Found
+MODSMD_ARTICLE10: Bolschewistische Tankangriffe dei Teruel abgewiesen.
+Found
+MODSMD_ARTICLE11: Zustrom schwedischer „Freiwilliger" nach Sowjetspanien.
+Found
+MODSMD_ARTICLE12: Das tägliche Moskauer Blutgericht.
+Found
+MODSMD_ARTICLE13: Tie Korruption bei den Sowjets.
+Found
+MODSMD_ARTICLE14: Verhandlungen Sunfo—Litwinow-Finkelstein in Moskau.
+Not Found
+MODSMD_ARTICLE15: Der neue Sowjet-Gesandte in Finnland.
+Found
+MODSMD_ARTICLE16: Gewerkschaftsbonze Lewis gegen Roosevelt.
+Found
+MODSMD_ARTICLE17: Mißtönende Ouvertüre für die Genfer Komödie.
+Found
+MODSMD_ARTICLE18: König Faruk eröffnet Internationalen Baumwollkongreß.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Göring beauftragt Bouhler.
+Found
+MODSMD_ARTICLE02: Max Fiedler gestorben.
+Found
+MODSMD_ARTICLE03: Die Umsiedlungsaktion aus dem Baltikum.
+Found
+MODSMD_ARTICLE04: „Englands Blockademaßnahmen widersprechen dem Recht."
+Found
+MODSMD_ARTICLE05: Italien weist englische Phrasen zurück.
+Found
+MODSMD_ARTICLE06: Wechsel in der dänischen. Heeresleitung.
+Found
+MODSMD_ARTICLE07: Erklärungen des Außenministers Csaky.
+Found
+MODSMD_ARTICLE08: „Die englischen Bürger sind tief bedrückt".
+Found
+MODSMD_ARTICLE09: Tagesbefehl des Generalfeldmarschalls Mannerheim.
+Found
+MODSMD_ARTICLE10: Der englische Dampfer „Stanbrook" überfällig.
+Found
+MODSMD_ARTICLE11: Amerika baut Kreuzer nach deutschem Muster.
+Found
+MODSMD_ARTICLE12: Die Engländer fördern das Rauschgiftlaster bei Kindern.
+Found
+MODSMD_ARTICLE13: Vollstreckung eines Todesurteils.
+Found

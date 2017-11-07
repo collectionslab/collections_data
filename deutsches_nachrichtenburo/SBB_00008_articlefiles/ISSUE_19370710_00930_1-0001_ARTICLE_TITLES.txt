@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Empfang für die türkischen Wirtschaftsführer.
+Found
+MODSMD_ARTICLE02: Die Reise Senators Sorondo durch Deutschland.
+Found
+MODSMD_ARTICLE03: Das Ergebnis der Sitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE04: Keine Einigung im Pariser Gaststättengewerbe.
+Found
+MODSMD_ARTICLE05: Pacelli bei Delbos.
+Found
+MODSMD_ARTICLE06: Pacelli besichtigte den Pavillon des Vatikans.
+Found
+MODSMD_ARTICLE07: Neichsverwefergesetz im Oberhaus angenommen.
+Found
+MODSMD_ARTICLE08: Neue Besprechung zwischen Beck und dem Nuntius.
+Found
+MODSMD_ARTICLE09: Sitzstreik polnischer Arbeiter und Angestellter.
+Found
+MODSMD_ARTICLE10: Schwere Explosion im Hafen von Helsinki.
+Found
+MODSMD_ARTICLE11: Lansbury bei Mussolini.
+Found
+MODSMD_ARTICLE12: Akulow ausgeschieden.
+Found
+MODSMD_ARTICLE13: Tie englischen Truppenunterkünfte in Aegypten.
+Found
+MODSMD_ARTICLE14: Scharfe arabische Zurückweisung des Peel-Berichtes.
+Found
+MODSMD_ARTICLE15: „Verrat an Inda!"
+Found
+MODSMD_ARTICLE16: Blutige Streikausschreitungen in New Nork.
+Found
+MODSMD_ARTICLE17: Eine Niederlage Lewis'.
+Found
+MODSMD_ARTICLE18: Deutsche Segelflugdauerweltbestleistung für Frauen.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: „Graf Zeppelin" in Friedrichshafen gelandet.
+Found
+MODSMD_ARTICLE02: Volksfront-Entschließung für Blum.
+Found
+MODSMD_ARTICLE03: Außenpolitische Rede Daladiers.
+Found
+MODSMD_ARTICLE04: 4 Millionen Franken für die spanischen Marxisten!
+Found
+MODSMD_ARTICLE05: Das Rathaus von Boulogne-sur-Mer besetzt.
+Found
+MODSMD_ARTICLE06: Neue kommunistische Waffenlieferung für Madrid.
+Found
+MODSMD_ARTICLE07: Augenzeugen über die Morde der Roten in Spanien.
+Found
+MODSMD_ARTICLE08: Rote Angriffe auf den Alcazar blutig abgeschlagen.
+Found
+MODSMD_ARTICLE09: Die Beschießung des Alcazar geht weiter.
+Found
+MODSMD_ARTICLE10: Ultimatum der Anarchisten in Madrid an Caballero.
+Found
+MODSMD_ARTICLE11: Brasilianische Ehrung für die Helden des Alcazar.
+Found
+MODSMD_ARTICLE12: Madrid ernennt einen neuen Botschafter für Paris.
+Found
+MODSMD_ARTICLE13: Uebersall auf den Palast des Präsidenten AZana?
+Found
+MODSMD_ARTICLE14: Lagebericht des Senders Sevilla.
+Found
+MODSMD_ARTICLE15: Das griechische Gesetz gegen den Kommunismus.
+Found
+MODSMD_ARTICLE16: König Eduard VIII. in Balmoral.
+Found
+MODSMD_ARTICLE17: Die Araber setzen ihren Widerstand fort.
+Found
+MODSMD_ARTICLE18: Großfeuer in Hankau. Mehr als 1000 Häuser zerstört.
+Found

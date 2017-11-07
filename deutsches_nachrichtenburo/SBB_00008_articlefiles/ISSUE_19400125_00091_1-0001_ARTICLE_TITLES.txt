@@ -1,0 +1,28 @@
+MODSMD_ARTICLE02: Frei erfunden!
+Found
+MODSMD_ARTICLE03: England wünscht Neutrale am Gängelband zu führen.
+Found
+MODSMD_ARTICLE04: Aufschlußreicher Artikel im „Regime Fascista".
+Found
+MODSMD_ARTICLE05: Moskau: Aufklärungstätigkeit und Jufanteriekämpfe.
+Found
+MODSMD_ARTICLE07: Helsinki: Heftige örtliche Kämpfe in Finnland.
+Found
+MODSMD_ARTICLE08: Englands „Hilfe" für Finnland.
+Found
+MODSMD_ARTICLE09: Der Wunsch aller Iren: „Englands Stunde ist gekommen!"
+Found
+MODSMD_ARTICLE10: Weiteres Ansteigen der Lebensmittelpreise in England.
+Found
+MODSMD_ARTICLE11: Norwegische Vorstellungen in Londons.
+Found
+MODSMD_ARTICLE12: „Grobe Mißachtung der amerikanischen Interessen."
+Found
+MODSMD_ARTICLE13: Argentinisch-brasilianischer Handelsvertrag unterzeichnet.
+Found
+MODSMD_ARTICLE14: Nur die Westmächte wollten den Krieg.
+Found
+MODSMD_ARTICLE15: Schwerer Reinfall des britischen Botschafters in Tokio.
+Found
+MODSMD_ARTICLE16: Erklärung des japanischen Marineministeriums.
+Found

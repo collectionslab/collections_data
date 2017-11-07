@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Generalleutnant a. D. Heinemann f.
+Found
+MODSMD_ARTICLE02: Das Berliner Staatsschauspielhaus in Elbing.
+Found
+MODSMD_ARTICLE03: Die Beziehungen zwischen Belgrad und Sofia.
+Found
+MODSMD_ARTICLE04: Gegen Nebertreibungen „moderner" Architektur in England.
+Found
+MODSMD_ARTICLE05: Konkursverwalter Eden, Chautemps, Delbos.
+Found
+MODSMD_ARTICLE06: Frankreich schafft sich ein neues Arbeitsgesetz.
+Found
+MODSMD_ARTICLE07: Schweizer Nationalfront unter neuer Führung.
+Found
+MODSMD_ARTICLE08: Fliegerkämpfe an der Teruelfront.
+Found
+MODSMD_ARTICLE09: Ministerpräsident Skladkowski über die Minderheiten.
+Found
+MODSMD_ARTICLE10: Weitere 15 Todesurteile in Sowjetrußland.
+Found
+MODSMD_ARTICLE11: Stalins chronisches Mißtrauen.
+Found
+MODSMD_ARTICLE12: Der Administrator von Deutsch-Südwest im Amt bestätigt.
+Found
+MODSMD_ARTICLE13: Beginnende Selbständigkeit Syriens.
+Found
+MODSMD_ARTICLE14: Die Hinrichtung Hanfutschus.
+Found
+MODSMD_ARTICLE15: Chinas Dank für die deutschen Friedensbemühungen.
+Found

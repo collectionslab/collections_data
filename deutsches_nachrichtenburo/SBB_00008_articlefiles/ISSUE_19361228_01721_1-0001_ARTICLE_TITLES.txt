@@ -1,0 +1,58 @@
+MODSMD_ARTICLE01: Der Kührer gratuliert Stabschef Lutze.
+Found
+MODSMD_ARTICLE02: Leichte Erkrankung der Königin-Mutter Mary.
+Found
+MODSMD_ARTICLE03: Englands Rekrutierungsschwierigkeiten.
+Found
+MODSMD_ARTICLE04: England baut das größte Schlachtschiff der Welt.
+Found
+MODSMD_ARTICLE05: Ausschreitungen englischer Soldaten in Indien.
+Found
+MODSMD_ARTICLE06: Nedeüerbot für Nicole.
+Found
+MODSMD_ARTICLE07: Arbeitsgerichts-Vorlagc von. Senat augeuommeu.
+Found
+MODSMD_ARTICLE08: Die internationale Hilfe für die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE09: Flugzeuge.
+Found
+MODSMD_ARTICLE10: Tanks.
+Found
+MODSMD_ARTICLE11: Artillerie.
+Found
+MODSMD_ARTICLE12: Maschinengewehre.
+Found
+MODSMD_ARTICLE13: Tankabwehrkauonen.
+Found
+MODSMD_ARTICLE14: Kleinfeuerwafsen.
+Found
+MODSMD_ARTICLE15: Transportmittel.
+Found
+MODSMD_ARTICLE16: Kommandant der bolschewistischen Südarmee gemaßregelt.
+Found
+MODSMD_ARTICLE17: Sechs Engländer bei Madrid gefallen.
+Found
+MODSMD_ARTICLE18: Zwangsarbeitsiager im bolschewistischen Teil Spaniens.
+Found
+MODSMD_ARTICLE20: Beschlagnahme von Rundfunkgeräten in Madrid.
+Found
+MODSMD_ARTICLE21: General Llano über die „Internationale Brigade".
+Found
+MODSMD_ARTICLE22: Auf der Flucht von Bolschewisten verhaftet.
+Found
+MODSMD_ARTICLE23: Beschlagnahme eines Bolschewistenblattes in Madrid.
+Found
+MODSMD_ARTICLE24: Der griechische Innenminister zurückgetreten.
+Found
+MODSMD_ARTICLE25: Ein rumänisches Generalkonsulat in Addis Abeba.
+Found
+MODSMD_ARTICLE26: Emir Abdullah in Bagdad.
+Found
+MODSMD_ARTICLE27: Der franko-syrische Vertrag in Damaskus ratifiziert.
+Found
+MODSMD_ARTICLE28: Hohe Sowjetbeamte verurteilt.
+Found
+MODSMD_ARTICLE29: Der brasilianische Außenminister in Chile.
+Found
+MODSMD_ARTICLE30: Weihnachtsruhe auf der panamerikanischen Konferenz.
+Found

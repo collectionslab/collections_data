@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Tagung der Deutschen Verwaltungs-Akademien.
+Found
+MODSMD_ARTICLE02: Fernbleiben der deutschen Ruderer von Regatta in Henley.
+Found
+MODSMD_ARTICLE03: 97 Mann in der „Thetis" eingeschlossen.
+Found
+MODSMD_ARTICLE04: Die Kennzahl der Großhandelspreise vom 31. Mai.
+Found

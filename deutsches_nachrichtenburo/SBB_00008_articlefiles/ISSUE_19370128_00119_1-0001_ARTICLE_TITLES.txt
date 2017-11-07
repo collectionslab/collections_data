@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Lübeck grüßt Göring.
+Found
+MODSMD_ARTICLE02: 29 kommunistische Hetzer in Danzig verurteilt.
+Found
+MODSMD_ARTICLE03: Englands Kriegsminister über Moskauer „Geständnisse".
+Found
+MODSMD_ARTICLE04: Absage an die englischen „Volksfront"-Akteure.
+Found
+MODSMD_ARTICLE05: Rücktritt des belgischen Gesundheitsministers.
+Found
+MODSMD_ARTICLE06: Schicksal der Gesandtschaftsflüchtlinge weiterhin ungewiß.
+Found
+MODSMD_ARTICLE07: „Tribuna" über den Moskauer Theaterprozest.
+Found
+MODSMD_ARTICLE08: Schwedens Haltung in der Nichteinmischungsfrage.
+Found
+MODSMD_ARTICLE09: Neue estnische Verfassung in Vorbereitung.
+Found
+MODSMD_ARTICLE10: Kommunistischer Gewaltstreichsplan in Rumänien aufgedeckt.
+Found
+MODSMD_ARTICLE11: Wer zahlt die Differenz?
+Found
+MODSMD_ARTICLE12: Kampf der Bauern gegen ihre bolschewistischen Peiniger.
+Found
+MODSMD_ARTICLE13: Massenmord wegen Verweigerung von Gotteslästerungen.
+Found
+MODSMD_ARTICLE14: Vormarsch trotz starker Regengüsse an der Malaga-Front.
+Found
+MODSMD_ARTICLE15: Ein bemerkenswertes Wiener Gerichtsurteil.
+Found
+MODSMD_ARTICLE16: Südafrika wehrt sich gegen Judeneinwanderung.
+Found
+MODSMD_ARTICLE17: Soziales Sicherheitsgesetz in Amerika verfassungsmäßig.
+Found
+MODSMD_ARTICLE18: Räumungsbereitschaft für das untere Mississippi-Tal.
+Found

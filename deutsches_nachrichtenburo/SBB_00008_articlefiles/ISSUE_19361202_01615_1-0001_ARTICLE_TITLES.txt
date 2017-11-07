@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Verbot von Preiserhöhungen.
+Found
+MODSMD_ARTICLE02: Direkte Flugverbindung Berlin—Athen eröffnet.
+Not Found
+MODSMD_ARTICLE03: Zur Verhaftung des Holländers de Wit in Moskau.
+Found
+MODSMD_ARTICLE04: Professor Coppala appelliert an Europa.
+Found
+MODSMD_ARTICLE05: Geheimpapiere in London gestohlen.
+Found
+MODSMD_ARTICLE06: Das Wühlen der Bolschewisten.
+Found
+MODSMD_ARTICLE07: Milchpreis in Paris steigt.
+Found
+MODSMD_ARTICLE08: Gesetz über Schlichtungsverfahren bei Arbeitskonflikten.
+Found
+MODSMD_ARTICLE09: Die Kämpfe in Spanien am Dienstag.
+Found
+MODSMD_ARTICLE11: Parlamentskomödie in Valencia.
+Found
+MODSMD_ARTICLE12: Daranyi im Rundfunk über die Auslandsreise Horthys.
+Found
+MODSMD_ARTICLE13: Kein Eintritt der USA in den Völkerbund.
+Found
+MODSMD_ARTICLE14: Amerikanische Erklärung Zu den französischen Kriegsschulden»
+Found

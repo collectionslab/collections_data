@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Bericht des Oberkommandos der Wehrmacht,
+Found
+MODSMD_ARTICLE02: Die ruhige und stolze Siegeszuversicht des Führers.
+Found
+MODSMD_ARTICLE03: Dänemark begrüßt die Erklärung des Führers.
+Found
+MODSMD_ARTICLE04: Große Beachtung der Führerrede auch in Litauen.
+Found
+MODSMD_ARTICLE05: Litauische Delegation nach Moskau unterwegs.
+Found
+MODSMD_ARTICLE06: Estnisch-sowjetrussische Trinksprüche in Reval.
+Found
+MODSMD_ARTICLE07: Neuer Chef des lettischen Armeestabes.
+Found
+MODSMD_ARTICLE08: Die Führerrede in der „Prawda".
+Found
+MODSMD_ARTICLE09: Rumäniens Minderheitenpolitik.
+Found
+MODSMD_ARTICLE10: Kabinettsausschuß für wirtschaftliche Fragen.
+Found
+MODSMD_ARTICLE11: Belgischer Berichterstatter über, seine Eindrücke in Warschau.
+Found
+MODSMD_ARTICLE12: „Durch falsche Siegesnachrichten irregeführt."
+Found
+MODSMD_ARTICLE13: Englischer Student über den deutschen Handelskrieg.
+Found
+MODSMD_ARTICLE14: Deutsches U-Boot und britische Flugzeuge.
+Found
+MODSMD_ARTICLE15: Um die Aufhebung des Waffenembargos.
+Found
+MODSMD_ARTICLE16: Meinungsverschiedenheiten in Quebec.
+Found

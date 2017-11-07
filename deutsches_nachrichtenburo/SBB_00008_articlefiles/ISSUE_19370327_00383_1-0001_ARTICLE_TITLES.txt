@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ministerpräsident Gering empfängt schwedische Gäste.
+Found
+MODSMD_ARTICLE02: Deutsch-schweizerisches Verrechmmgsabkommeu verlängert.
+Found
+MODSMD_ARTICLE03: Reichstagung der DAF.-Walter.
+Found
+MODSMD_ARTICLE04: Gauleiter Sauckel sprach in der Schweiz.
+Found
+MODSMD_ARTICLE05: HDtlWsf „Deutschland" wieder in der Heimat.
+Found
+MODSMD_ARTICLE06: Telegrammwechsel Stojadinowitsch—Mussolini.
+Found
+MODSMD_ARTICLE07: Graf Ciano am Grabe König Alexanders I.
+Found
+MODSMD_ARTICLE08: Trinksprüche in Belgrad.
+Found
+MODSMD_ARTICLE09: Stojadinowitsch reist nach Rom.
+Found
+MODSMD_ARTICLE10: Weitere Pressestimmen Zum Pakt Rom—Belgrad.
+Not Found
+MODSMD_ARTICLE11: Französisches Schiss für Alicante beschossen.
+Found
+MODSMD_ARTICLE12: Pariser Kammer und Senat bis 27. April vertagt.
+Found
+MODSMD_ARTICLE13: Amerikanisches Großflugzeug abgestürzt. 13 Tote.
+Found

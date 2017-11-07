@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Parteigemäße Gebietsgliederung im Sudetengebiet.
+Found
+MODSMD_ARTICLE02: „Deutschland hält sich stets korrekt an die Bestimmungen."
+Found
+MODSMD_ARTICLE03: Der Ageutenaustausch Brüssel—Burgos.
+Not Found
+MODSMD_ARTICLE04: Jüdischer Betrüger in der Mönchskutte.
+Found
+MODSMD_ARTICLE05: Die englische Erwerbslosenzahl steigt weiter.
+Found
+MODSMD_ARTICLE06: Die Tunis-Reise Daladiers beendet.
+Found
+MODSMD_ARTICLE07: Botschaft Roosevelts an Mussolini.
+Found
+MODSMD_ARTICLE08: Juda regiert in Amerika.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE03: Zum Einzug der Legion Condor in Mrlin.
+Found
+MODSMD_ARTICLE04: Großadmiral Raeder im Lager der Legion Condor.
+Found
+MODSMD_ARTICLE05: Neichsmimster Dr. Frick in Budapest.
+Found
+MODSMD_ARTICLE06: HJ.-Führer-Abordnung in Italien.
+Found
+MODSMD_ARTICLE07: Die albanische Abordnung vom Duce empfangen.
+Found
+MODSMD_ARTICLE08: Eine schlimme Bilanz.
+Found
+MODSMD_ARTICLE09: Hetzblatt in der Schweiz drei Monate verboten.
+Found
+MODSMD_ARTICLE11: Woroschilow kommt nicht nach London.
+Found
+MODSMD_ARTICLE12: Abschiedsparade portugiesischer Freiwilliger in Salamanca.
+Found
+MODSMD_ARTICLE13: Der jüdische Mordterror in Palästina.
+Found
+MODSMD_ARTICLE14: 1400 illegale jüdische Einwanderer freigelassen.
+Found
+MODSMD_ARTICLE15: Manion schuldig, aber weiter auf freiem Fuß.
+Found
+MODSMD_ARTICLE16: Vollstreckung eines Todesurteils.
+Found

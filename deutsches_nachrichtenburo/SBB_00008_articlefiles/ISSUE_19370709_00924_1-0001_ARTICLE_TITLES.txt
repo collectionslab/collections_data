@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Empfang beim Reichsverkehrsminister.
+Found
+MODSMD_ARTICLE02: Deutsch-dänische Warenverkehrsverhandlungen.
+Found
+MODSMD_ARTICLE03: Kongreß für Verwaltungswissenschaft in Paris.
+Found
+MODSMD_ARTICLE04: Schwedische Kriegsmarine in Kiel.
+Found
+MODSMD_ARTICLE05: Deutsch-finnische Gastfreundschaft.
+Found
+MODSMD_ARTICLE06: Eden über die Sitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE07: „Giornale d'Jtalia" zur Freitag-Sitzung.
+Found
+MODSMD_ARTICLE08: Bekämpfung der Arbeitslosigkeit in Ungarn.
+Found
+MODSMD_ARTICLE09: Keine Ruhe im französischen Hotelgewerbe.
+Found
+MODSMD_ARTICLE10: Krönungsamnestie in Aegypten.
+Found
+MODSMD_ARTICLE11: Chinesische Darstellung des Zwischenfalles von Peiping.
+Found
+MODSMD_ARTICLE12: Eine japanische Darstellung über das Gefecht bei Peiping.
+Found
+MODSMD_ARTICLE13: Die Stellungnahme des japanischen Kriegsministeriums.
+Found

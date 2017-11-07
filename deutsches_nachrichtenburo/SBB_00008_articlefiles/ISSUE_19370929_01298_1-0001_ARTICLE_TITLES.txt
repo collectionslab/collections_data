@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Mussolini verließ Berlin.
+Found
+MODSMD_ARTICLE02: Die Abschiedsstunde
+Found
+MODSMD_ARTICLE03: Die Fahrt zum Bahnhof.
+Found
+MODSMD_ARTICLE04: Bewegter Abschied Mussolinis.
+Found
+MODSMD_ARTICLE06: Der Zug verläht die Halle.
+Found
+MODSMD_ARTICLE07: Der Führer Wieder in der Reichskanzlei.
+Found
+MODSMD_ARTICLE08: Das Ausland zur Völkerkundgebung
+Found
+MODSMD_ARTICLE09: Ostpreußens Erntekrone für den Führer.
+Found
+MODSMD_ARTICLE10: Politische Aussprache Hitler—Mussolini.
+Found
+MODSMD_ARTICLE11: Auszeichnungen für Errettung aus Lebensgefahr.
+Found
+MODSMD_ARTICLE12: Ehrenabend für die deutsche Filmindustrie in Paris.
+Found
+MODSMD_ARTICLE13: Die assyrische Frage vor dem Bölkerbundsrat.
+Found

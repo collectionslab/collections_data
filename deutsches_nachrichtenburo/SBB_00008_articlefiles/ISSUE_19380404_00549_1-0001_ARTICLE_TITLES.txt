@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Zwei neue Rheinbrücken eingeweiht.
+Found
+MODSMD_ARTICLE03: Horthy begrüßt den Anschluß Oesterreichs.
+Found
+MODSMD_ARTICLE04: Lerida genommen?
+Found
+MODSMD_ARTICLE05: Aufrechterhaltung des Preisniveaus in Ungarn.
+Found
+MODSMD_ARTICLE06: Antal zum Staatssekretär ernannt.
+Found
+MODSMD_ARTICLE07: Presse- und Propagandastelle in Ungarn.
+Found
+MODSMD_ARTICLE08: Vier rote Brigaden aufgerieben.
+Found
+MODSMD_ARTICLE09: Bolschewisten wollen nach Nationalspanien.
+Found

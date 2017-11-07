@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Dr. Goebbels eröffnet eine Reichsautobahnstrecke.
+Found
+MODSMD_ARTICLE02: Die Einweihung der Reichsautobahn Dibbersen—Sittensen.
+Not Found
+MODSMD_ARTICLE03: Wilhelm Gustloffs letzte Fahrt.
+Found
+MODSMD_ARTICLE04: Die Sturmfahrt des LZ. „Hindenburg".
+Found
+MODSMD_ARTICLE05: Das Bundesgesetz über die Vaterländische Front.
+Found
+MODSMD_ARTICLE07: Kerker wegen Unterstützung von Nationalsozialisten.
+Found
+MODSMD_ARTICLE08: Beantwortung außenpolitischer Fragen im Unterhaus.
+Found

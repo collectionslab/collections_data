@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Dr. Frank eröffnet die Ausstellung „Das Recht".
+Found
+MODSMD_ARTICLE03: Die Lusthansa-Flieger beim Gesandten in Lissabon.
+Found
+MODSMD_ARTICLE04: Größte Beachtung des Besuches Ciauos in Italien.
+Found
+MODSMD_ARTICLE05: Die Bolschewisierungsbestrebungen in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE06: Sowjetrußland und das Nichteinmischungsabkommen.
+Found
+MODSMD_ARTICLE07: Ein persönlicher Freund Litwinows verhaftet.
+Found
+MODSMD_ARTICLE08: Ein Belgier über das Eingreifen Moskaus in Spanien.
+Found
+MODSMD_ARTICLE09: Die sowjetrussische Einmischung in Spanien.
+Found
+MODSMD_ARTICLE10: Die Bedeutung der Eroberung von Navalcarnero.
+Found
+MODSMD_ARTICLE11: Portugiesischer Protest gegen die marxistischen Greuel.
+Found
+MODSMD_ARTICLE12: Ananas Familie bereits in Frankreich.
+Found
+MODSMD_ARTICLE13: Neue Anklagen gegen Luftfahrtminister Cot.
+Found
+MODSMD_ARTICLE14: Neue Forderungen Streikender in Lille.
+Found
+MODSMD_ARTICLE15: Drei chilenische Minister zurückgetreten.
+Found

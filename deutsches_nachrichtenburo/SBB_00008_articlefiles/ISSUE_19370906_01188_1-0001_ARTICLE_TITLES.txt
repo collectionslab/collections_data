@@ -1,0 +1,10 @@
+MODSMD_ARTICLE03: Dr. Goebbels in Stuttgart.
+Found
+MODSMD_ARTICLE04: Gauleiter Bohle spricht.
+Found
+MODSMD_ARTICLE05: Reichsstatthalter Murr spricht.
+Found
+MODSMD_ARTICLE07: Ansprache des Oberbürgermeisters Dr. Strölin.
+Found
+MODSMD_ARTICLE08: Die Rede des Reichspropagandaministers.
+Found

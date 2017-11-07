@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Generaloberst von Feilsch.
+Found
+MODSMD_ARTICLE02: Ehrenpreis des Führers.
+Found
+MODSMD_ARTICLE03: Dreiste Lügenmanöver der tschechischen Presse.
+Found
+MODSMD_ARTICLE04: Hitler-Jungen in Begleitung polnischer Pfadfinder.
+Found
+MODSMD_ARTICLE05: London zum Briefwechsel Chamberlain-Mussolini.
+Found
+MODSMD_ARTICLE06: Die nationalspanische Regierung vom Vatikan anerkannt.
+Found
+MODSMD_ARTICLE07: Französische Stimmen zur Annäherung Rom—London.
+Not Found
+MODSMD_ARTICLE08: Balbo zur Berichterstattung von Mussolini empfangen.
+Found
+MODSMD_ARTICLE09: Straße Addis Abeba—Massaua dem Verkehr übergeben.
+Found
+MODSMD_ARTICLE10: Eröffnung einer „Welterziehungs-Konferenz" in Tokio.
+Found
+MODSMD_ARTICLE11: Sowjetrussischer Protest in Tokio.
+Found

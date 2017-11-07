@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Der Dank des Reichsjägermeisters.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Frist nach Stockholm abgereist.
+Found
+MODSMD_ARTICLE03: Hausmusik bei Reichsminister Ruft.
+Found
+MODSMD_ARTICLE04: Aufruf von Reichsminister Ruft an die Studenten.
+Found
+MODSMD_ARTICLE05: Besuch bei der Auslandsorganisation der NSDAP.
+Found
+MODSMD_ARTICLE07: Befinden Ludendorffs unverändert.
+Found
+MODSMD_ARTICLE08: Spaak gegen Gerüchtemacherei um das Kolonialproblem.
+Found
+MODSMD_ARTICLE09: Starkes Vertrauensvotum für das Kabinett Janson.
+Found
+MODSMD_ARTICLE10: Wieder Munitionsfunde in der Umgebung von Paris.
+Found
+MODSMD_ARTICLE11: Gesetz über Ausfuhrverbot für französische Zeitungen.
+Found
+MODSMD_ARTICLE12: Delbos nach Warschau abgereist.
+Found
+MODSMD_ARTICLE13: Ein Denkmal für Marschall Pilsudski.
+Found
+MODSMD_ARTICLE14: Der mißglückte Vorstoß Tibor von Eckhardts.
+Found
+MODSMD_ARTICLE15: Jüdische Deviseügeier in Ungarn gefaßt.
+Found
+MODSMD_ARTICLE16: Verbreiterung der jugoslawischen Regierungsgrundlage.
+Found
+MODSMD_ARTICLE17: Bei Sevilla wird eine Arbeitersiedlung gebaut.
+Found
+MODSMD_ARTICLE18: Feier in der Spanischen Gesandtschaft in Tokio.
+Found
+MODSMD_ARTICLE19: Baldur von Schirach in der Hauptstadt des Irak.
+Found
+MODSMD_ARTICLE20: Atatürk erklärt französische Haltung für bedauerlich.
+Found
+MODSMD_ARTICLE21: Argentinien weist New Yorker Chefkorrespoudenten aus.
+Found
+MODSMD_ARTICLE22: ZW sowjetrussische Bomber für China!
+Found

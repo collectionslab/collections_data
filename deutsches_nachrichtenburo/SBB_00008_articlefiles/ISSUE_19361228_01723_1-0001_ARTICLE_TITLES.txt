@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Staatsbegräbnis für Generaloberst von Seeckt.
+Found
+MODSMD_ARTICLE02: Gorma an Krau von Seeckt.
+Found
+MODSMD_ARTICLE03: Von Blomberg und Krhr. v. Gritsch sprechen ihr Beileid aus.
+Found
+MODSMD_ARTICLE04: Die Trauer bei der Wehrmacht.
+Found
+MODSMD_ARTICLE05: Rachrufe für Generaloberst von Seeckt.
+Found
+MODSMD_ARTICLE06: Zum Flaggenerlaß von: 7. Dezember.
+Found
+MODSMD_ARTICLE07: Ernennung.
+Found
+MODSMD_ARTICLE08: „Hilfswerk für deutsche bildende Kunst".
+Found
+MODSMD_ARTICLE09: Der deutsche Botschafter beim Außenminister Chinas.
+Found
+MODSMD_ARTICLE10: Boykott gegen Danzig. Polnische Erklärung.
+Found
+MODSMD_ARTICLE11: Warschauer Polizei verhaftet jüdische Kommunisten.
+Found
+MODSMD_ARTICLE12: Bewegte Haushaltsaussprache im Pariser Senat.
+Found
+MODSMD_ARTICLE13: Gefesselt vom Lenchturm ins Meer gestürzt.
+Found
+MODSMD_ARTICLE14: Britische Botschaft wird nach Valencia verlegt.
+Found
+MODSMD_ARTICLE15: Erzbischof von Cauterbury warnt vor Gottlosigkeit.
+Found
+MODSMD_ARTICLE16: Riischtü Avas in Athen.
+Found
+MODSMD_ARTICLE17: Argentinischer Journalist von einem Juden ermordet.
+Found
+MODSMD_ARTICLE18: Wirtschaftsabkommen zwischen Japan und Australien.
+Found

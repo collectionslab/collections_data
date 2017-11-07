@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Maßnahmen Zur Sicherung der landwirtschaftlichen Erzeugung. (Fortsetzung).
+Found
+MODSMD_ARTICLE02: Ausbau der Wirtschaftsberatuug.
+Found
+MODSMD_ARTICLE03: Hofkarte.
+Found
+MODSMD_ARTICLE04: Landarbeitersrage.
+Found
+MODSMD_ARTICLE06: Neichsmittel für arbeitsparende Maschinen.
+Found
+MODSMD_ARTICLE07: Erntehilfe.
+Found
+MODSMD_ARTICLE08: „Leistungswettbewerb des deutschen Landvolkes".
+Found
+MODSMD_ARTICLE09: Ein filmkünstlerisches Ereignis.
+Found
+MODSMD_ARTICLE10: Sportfahrt nationalpolitischer Anstalt nach Schweden.
+Found
+MODSMD_ARTICLE11: Jüdischer Frauenschänder verurteilt.
+Found
+MODSMD_ARTICLE12: Deutsch-Amerikanischer Abend zu Gunsten des WHW.
+Found

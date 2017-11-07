@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Frick beglückwünscht Dr. von Finck.
+Found
+MODSMD_ARTICLE02: Der Arbeitsminister der Philippinen besucht die DAF.
+Found
+MODSMD_ARTICLE03: Italienische Jagdstaffel begeisterte in Staaken.
+Found
+MODSMD_ARTICLE04: Uebersührung des von Polen ermordeten Reichsdeutschen.
+Found
+MODSMD_ARTICLE05: Die vom Führer geschenkten serbischen Kanonen in Belgrad.
+Found
+MODSMD_ARTICLE06: Reichsminister Dr. Frank in Sofia eingetroffen.
+Found
+MODSMD_ARTICLE07: Der polnische Appetit wird immer größer.
+Found
+MODSMD_ARTICLE08: Englische Erpressermethoden.
+Found
+MODSMD_ARTICLE09: Terror gegen nationalbewußte Auslandsitaliener.
+Found
+MODSMD_ARTICLE10: „Politik der verpaßten Gelegenheiten."
+Found
+MODSMD_ARTICLE11: London vom Taß-Communique peinlichst beeindruckt.
+Found
+MODSMD_ARTICLE12: Die englisch-französischen Unterhändler wieder bei Molotow.
+Found

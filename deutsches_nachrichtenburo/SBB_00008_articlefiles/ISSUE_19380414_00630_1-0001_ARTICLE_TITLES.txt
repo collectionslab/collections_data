@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Norwegen hebt diplomatische Vertretung in Wien auf.
+Found
+MODSMD_ARTICLE02: Aenderung familienrechtlicher Vorschriften.
+Found
+MODSMD_ARTICLE03: Sitzung der österreichischen Landesregierung.
+Found
+MODSMD_ARTICLE04: Lord Perth bei Graf Ciano.
+Found
+MODSMD_ARTICLE05: Die Rohstoffverteilungsfrage vor dem Oberhaus.
+Found
+MODSMD_ARTICLE06: Tie mexikanische Antwortnote in London.
+Found
+MODSMD_ARTICLE07: Tuff Cooper tritt für die Schnellboote ein.
+Found
+MODSMD_ARTICLE08: Kein Paktieren mit dem Bolschewismus?
+Found
+MODSMD_ARTICLE09: Das Ermächtigungsgesetz auch vom Senat angenommen.
+Found
+MODSMD_ARTICLE10: Aktive französische Diplomatie gefordert.
+Found
+MODSMD_ARTICLE11: Der Vormarsch geht weiter.
+Found
+MODSMD_ARTICLE12: Vereinigung der nichtmarxistischen Gewerkschaften in Polen.
+Found
+MODSMD_ARTICLE13: Bulgariens Jugend gegen volksfremde Theorien.
+Found
+MODSMD_ARTICLE14: Sowjetkonsulat in Dairen geschlossen.
+Found
+MODSMD_ARTICLE15: Neuer Zusammenstoß zwischen Hindus und Moslems.
+Found
+MODSMD_ARTICLE16: Polizeiabkommen zwischen den ABC.-Staaten.
+Found
+MODSMD_ARTICLE17: Walfangboot gestrandet und gekentert.
+Found

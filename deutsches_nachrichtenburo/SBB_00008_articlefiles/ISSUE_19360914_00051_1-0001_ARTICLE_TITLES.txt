@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Parteitag der Ehre. Die Rede Dr. Fricks vor den Kommunalpolitikern.
+Found
+MODSMD_ARTICLE02: Verhältnis von Aufsicht und Gemeinden.
+Found
+MODSMD_ARTICLE03: Hauptamt für Beamte.
+Found
+MODSMD_ARTICLE04: Amt für Technik.
+Found
+MODSMD_ARTICLE05: Agrarpolitisches Amt.
+Found
+MODSMD_ARTICLE06: Kommission für Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE07: Schluszivettbewerb der SA.
+Found
+MODSMD_ARTICLE08: Das Ausland zum Parteitag.
+Found

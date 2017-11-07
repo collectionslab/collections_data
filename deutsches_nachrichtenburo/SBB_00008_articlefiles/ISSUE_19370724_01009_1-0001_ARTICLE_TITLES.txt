@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ankauf Mzogener Auslosungsrechte der Anleiheablösungsschuld des Deutschen Reichs vor dem Fälligkeitstermin.
+Not Found
+MODSMD_ARTICLE02: Aaldur von Schirach in Danzig.
+Found
+MODSMD_ARTICLE03: Empfang Zu Ehren der deutschen Flieger in Zürich.
+Found
+MODSMD_ARTICLE04: Deutscher Sieg in Zürich.
+Found
+MODSMD_ARTICLE05: Die Stenographen der Welt kommen 1941 nach Deutschland.
+Found
+MODSMD_ARTICLE06: Gäste aus den Hansestädten in Paris.
+Found
+MODSMD_ARTICLE07: Die deutsche Schau im internationalen Haus für Erziehung.
+Found
+MODSMD_ARTICLE08: Der König der Belgier in Paris.
+Found
+MODSMD_ARTICLE09: Abschaffung englischer Kapitulationsvorrechte.
+Found
+MODSMD_ARTICLE10: Corbin berichtet Delbos.
+Found
+MODSMD_ARTICLE11: Henry Simond 's.
+Found
+MODSMD_ARTICLE12: Patriarch Barnabas f.
+Found
+MODSMD_ARTICLE13: Jnspektionsflug Mussolinis nach Florenz und Pisa.
+Found
+MODSMD_ARTICLE14: „Popolo d'Jtalia" über Realität und Fiktionen.
+Found
+MODSMD_ARTICLE15: Neuer Zwischenfall auf dem Amur.
+Found
+MODSMD_ARTICLE16: Die römische Presse zur Nichteinmischungsfrage.
+Found
+MODSMD_ARTICLE17: Brunete in den Händen der Nationalen.
+Found
+MODSMD_ARTICLE18: Schwarzer „Bataillonschef" aus USA. bei Madrid gefallen.
+Found
+MODSMD_ARTICLE19: Ein Abgeordnetenmandat zurückgegeben.
+Found

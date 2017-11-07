@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Werlbetrieb der Wilhelm Gustloff-Stistung übergeben.
+Found
+MODSMD_ARTICLE03: Gauleiter Bohle in Rom.
+Found
+MODSMD_ARTICLE04: Italiens Presse zum Jahrestag des „Marsches auf RomT
+Found
+MODSMD_ARTICLE05: England und Acthiopicn.
+Found
+MODSMD_ARTICLE06: Ehreuverfahrcu gegen laspar niedergeschlagen.
+Found
+MODSMD_ARTICLE07: Tie Steuerpläne der Regierung Blum.
+Found
+MODSMD_ARTICLE08: El Escorial und Aranjuez völlig eingeschlossen.
+Found
+MODSMD_ARTICLE09: Die nationalen Truppen 18 üm vor Madrid.
+Found
+MODSMD_ARTICLE10: Sowjetrussische Munitionsdampser erfolgreich bekämpft.
+Found
+MODSMD_ARTICLE11: Moses Rosenberg in großer Sorge.
+Found
+MODSMD_ARTICLE12: Madrid braucht erneut Geld.
+Found
+MODSMD_ARTICLE13: Sowjetrussische „Nichteinmischung".
+Found
+MODSMD_ARTICLE14: Zwei spanische Marxisten-Dampfer in Malta.
+Found
+MODSMD_ARTICLE15: Kundgebung gegen jüdische Einwanderung in Kapstadt.
+Found
+MODSMD_ARTICLE16: Die Beziehungen zwischen Aegypten und dem Hedschas.
+Found
+MODSMD_ARTICLE17: Japan beharrt auf seinen Forderungen.
+Found
+MODSMD_ARTICLE18: Die Wirkung des Franco-Sowjetpaktes im Fernen Osten.
+Found

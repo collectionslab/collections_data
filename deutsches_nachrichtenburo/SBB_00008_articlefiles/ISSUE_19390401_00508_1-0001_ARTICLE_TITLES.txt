@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der Führer warnt!
+Found
+MODSMD_ARTICLE02: Der Führer besichtigte das Hafenneubaugelände.
+Found
+MODSMD_ARTICLE03: Beileid des Führers zum Tode Moreaus.
+Found
+MODSMD_ARTICLE04: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE05: Der Duce wieder in Rom.
+Found
+MODSMD_ARTICLE06: „Keine andere Sicherung für Polen als die eigene Kraft."
+Found

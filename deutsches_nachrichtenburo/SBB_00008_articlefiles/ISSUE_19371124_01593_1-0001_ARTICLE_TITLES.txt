@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die ungarischen Staatsmänner bei Dr. Arick.
+Found
+MODSMD_ARTICLE02: 1800 kin Reichsautobahnen im Betrieb.
+Found
+MODSMD_ARTICLE03: Rekordergebnis der Binnenschiffahrt im Jahre 1336.
+Found
+MODSMD_ARTICLE04: Oesterreich und die Haager Friedenskonferenzen.
+Found
+MODSMD_ARTICLE05: Die Wiener Studenten geben nicht nach.
+Found
+MODSMD_ARTICLE06: Tupout fordert Verlängerung der Sondervollmachten.
+Found
+MODSMD_ARTICLE07: Die litauische Haushaltsplan für 1938 vor dem Sejm.
+Found
+MODSMD_ARTICLE08: Verzweifelte Lage der Bevölkerung von Madrid.
+Found
+MODSMD_ARTICLE09: Empörung im nationalen Spanien.
+Found
+MODSMD_ARTICLE10: „Eine Verletzung des Völkerrechts".
+Found
+MODSMD_ARTICLE11: Brüsseler Ostasienkonferenz ohne Ergebnis.
+Found
+MODSMD_ARTICLE12: „Deutschland besitzt die schnellsten Flugzeuge Europas".
+Found
+MODSMD_ARTICLE13: Pariser Polizei hat viel zu tun.
+Found
+MODSMD_ARTICLE14: Auch die französischen Zeitschriften werden teurer.
+Found
+MODSMD_ARTICLE15: Zentrale Verwaltungsstelle für die französische Luftfahrt.
+Found
+MODSMD_ARTICLE16: Währiger Araberscheich Zum Tode verurteilt.
+Found

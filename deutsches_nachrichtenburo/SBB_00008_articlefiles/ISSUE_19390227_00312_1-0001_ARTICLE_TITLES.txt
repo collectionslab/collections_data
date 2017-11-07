@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Parteiempfajng beim Führer.
+Found
+MODSMD_ARTICLE02: Auszeichnung für den Dirigenten Erich Klos;.
+Found
+MODSMD_ARTICLE03: Glückwunsch Hermajnn Göriugs. .
+Found
+MODSMD_ARTICLE04: Glückwünsche an Frau Scholtz-Klink.
+Found
+MODSMD_ARTICLE05: Personalveränderung in der Kriegsmarine.
+Found
+MODSMD_ARTICLE06: Deutschlandreise türkischer Studenten.
+Found
+MODSMD_ARTICLE07: Brasilianischer Besuch bei Focke-Wulf.
+Found
+MODSMD_ARTICLE08: Schirach beschloß die Winterspiele der HJ.
+Found
+MODSMD_ARTICLE09: Prag: Kein Militärdienst für die Deutsche Volksgruppe.
+Found
+MODSMD_ARTICLE10: Des Führers Worte waren unzweideutig.
+Found
+MODSMD_ARTICLE11: Die Bedeutung der Warschauer Reise Cianos.
+Found
+MODSMD_ARTICLE12: Der Warschauer Aufenthalt Graf Ciauos.
+Found
+MODSMD_ARTICLE13: London ist sehr bescheiden geworden.
+Found
+MODSMD_ARTICLE14: Abschluß der spanisch-französischen Besprechungen.
+Found
+MODSMD_ARTICLE15: Berard nach Paris Zurückgekehrt.
+Found
+MODSMD_ARTICLE16: Azana verließ Paris.
+Found
+MODSMD_ARTICLE17: Rundfunkrede Telekis.
+Found
+MODSMD_ARTICLE18: Wieder ein Volkskommissar abgesägt.
+Found
+MODSMD_ARTICLE19: Der Kanzler der Deutscheu Botschaft in Ankara gestorben.
+Found
+MODSMD_ARTICLE20: Der chilenische Außenminister auf der „Bremen".
+Found

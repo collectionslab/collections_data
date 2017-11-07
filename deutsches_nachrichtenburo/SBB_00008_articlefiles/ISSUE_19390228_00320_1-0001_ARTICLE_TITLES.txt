@@ -1,0 +1,32 @@
+MODSMD_ARTICLE02: Nachmittags-Ausgabe. Deutsches Nachrichtenbüro ?ff
+Found
+MODSMD_ARTICLE03: Diplomatenempfänge beim Führer.
+Found
+MODSMD_ARTICLE04: Deutsch—tschecho-slowakische Verhandlungen.
+Not Found
+MODSMD_ARTICLE05: Tschechische Aerzte fordern numerus clausus für Juden.
+Found
+MODSMD_ARTICLE06: AerZtliche Untersuchung im Grünspan-Prozeß abgeschlossen.
+Found
+MODSMD_ARTICLE07: Azaüa zurückgetreten.
+Found
+MODSMD_ARTICLE08: Ter spanisch-französische Eisenbahnverkehr.
+Found
+MODSMD_ARTICLE09: Italienische Pressestimmen zur Anerkennung Francos.
+Found
+MODSMD_ARTICLE10: Was geht in Tunis vor?
+Found
+MODSMD_ARTICLE11: Badoglio hat seine Inspektionsreise durch Libyen beendet.
+Found
+MODSMD_ARTICLE12: Tie Regierungsneubildung in Belgien.
+Found
+MODSMD_ARTICLE13: Gin spätes Eingeständnis?
+Found
+MODSMD_ARTICLE14: Ukrainer-Verhaftungen in Polen.
+Found
+MODSMD_ARTICLE15: Die Demokratien als Vortrupp des Bolschewismus.
+Found
+MODSMD_ARTICLE16: Jüdisches Wutgeheul in USA.
+Found
+MODSMD_ARTICLE17: Vollstreckung von Todesurteilen.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Reichsleiter Amann beglückwünschte den Führer.
+Found
+MODSMD_ARTICLE02: Graf Csaky Ehrengast von Dr. Frick.
+Found
+MODSMD_ARTICLE03: Rudolf Heß bei den heimgekehrten Ausländsdeutschen.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Ernennung im Reichsverkehrsministerium.
+Found
+MODSMD_ARTICLE06: Englands Botschafter bei Graf Ciano.
+Found
+MODSMD_ARTICLE07: Fran?ois-Poncet nach Rom zurückgekehrt.
+Found
+MODSMD_ARTICLE08: Wie die Polen in der Ukraine wüten.
+Found
+MODSMD_ARTICLE09: Bedrückung des Deutschtums In« Polen ohne Ende.
+Found
+MODSMD_ARTICLE10: Neue Blüten des polnischen „Siegestaumels".
+Found
+MODSMD_ARTICLE11: Oberschlesisches Deutschtum unter dem polnischen Knüppel.
+Found
+MODSMD_ARTICLE12: Krampfanfälle der polnischen Presse.
+Found
+MODSMD_ARTICLE13: Polen ernennt schon Bürgermeister für deutsche Städte!
+Found
+MODSMD_ARTICLE14: Polnisches Notgeld in Edingen.
+Found
+MODSMD_ARTICLE15: Jüdische Bombenwerkstatt in Tel Aviv entdeckt.
+Found
+MODSMD_ARTICLE16: Nhe über die Ablehnung der Rooseveltschen Pläne.
+Found
+MODSMD_ARTICLE17: Internationale Vereinigung der Filmarchive.
+Found

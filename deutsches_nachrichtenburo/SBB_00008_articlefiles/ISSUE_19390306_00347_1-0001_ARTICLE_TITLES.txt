@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Die Berliner Antoschau 1939 geschlossen.
+Found
+MODSMD_ARTICLE03: Dr. Ley sprach in Frankfurt a. M.
+Found
+MODSMD_ARTICLE04: Bekenntnis der Memelländer Zum Deutschtum.
+Found
+MODSMD_ARTICLE05: Die Juden wollen abreisen.
+Found
+MODSMD_ARTICLE06: Heldengedenkfeiern im Ausland.
+Found
+MODSMD_ARTICLE07: Visumzwang zwischen Estland und der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE08: Die Kriegspolitik der Demokratien.
+Found
+MODSMD_ARTICLE09: Gasencus Besuch in Warschau.
+Found
+MODSMD_ARTICLE11: Jüdisch-sozialdemokratische Bonzen prellen die Arbeiterschaft.
+Found
+MODSMD_ARTICLE12: Jeschow fällt immer mehr in Ungnade.
+Found
+MODSMD_ARTICLE13: Freie Hand für die Bolschewisten in Amerika.
+Found
+MODSMD_ARTICLE14: Immer neue Todesurteile gegen Araber.
+Found
+MODSMD_ARTICLE15: Neue maudschurisch-sowejtrussische Zwischenfälle.
+Found
+MODSMD_ARTICLE16: Schwere Unruhen in Benares.
+Found

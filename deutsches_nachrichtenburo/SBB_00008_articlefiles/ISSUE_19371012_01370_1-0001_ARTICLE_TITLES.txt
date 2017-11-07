@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Herzog von Windior besichtigt Berliner Großbetrieb.
+Found
+MODSMD_ARTICLE02: Stiftung zur Förderung der Luftfahrtforschung.
+Found
+MODSMD_ARTICLE03: Horthy über die Berliner Zusammenkunft.
+Found
+MODSMD_ARTICLE04: Die deutschen Elektrofachleute in Venedig.
+Found
+MODSMD_ARTICLE05: „Wer Kriegspsychose schafft, bereitet den Krieg vor."
+Found
+MODSMD_ARTICLE06: Italienische Infanterie-Regimenter nach Libyen abgefahren.
+Found
+MODSMD_ARTICLE07: Deutsche Austauschschüler in England.
+Found
+MODSMD_ARTICLE08: Baldwin wieder in London.
+Found
+MODSMD_ARTICLE09: Englands Luftfahrtminister über die britische Luftrüstnng.
+Found
+MODSMD_ARTICLE10: Lord Allen of Hurtwood für Prüfung der Kolonialfrage.
+Found
+MODSMD_ARTICLE11: Brüssel vermutlich Tagungsort der Neunmächtekonferenz.
+Found
+MODSMD_ARTICLE12: Der nationalspanische Heeresbericht vom Montag.
+Found
+MODSMD_ARTICLE13: Die Versenkung der „Cabo San Thome".
+Found
+MODSMD_ARTICLE14: Herzliche Begrüßung Stojadinowitschs in Paris.
+Found
+MODSMD_ARTICLE15: Noch immer Angriffe auf Bundesrichter Black.
+Found
+MODSMD_ARTICLE16: Zwei Todesurteile vollstreckt.
+Found

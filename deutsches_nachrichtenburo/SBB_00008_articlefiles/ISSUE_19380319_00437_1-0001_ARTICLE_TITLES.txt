@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Dank Görings an den Führer.
+Found
+MODSMD_ARTICLE02: Anordnungen zur Sicherung der österreichischen Wirtschaft.
+Found
+MODSMD_ARTICLE03: Auszeichnung für Reichsminister Seldte.
+Found
+MODSMD_ARTICLE04: 39jähriges Dienstjubiläum des Generalmajors v. Hannecken.
+Found
+MODSMD_ARTICLE05: Der Londoner siamesische Botschafter besuchte Bremen.
+Found
+MODSMD_ARTICLE06: Die tschechische Minderheit in Oesterreich.
+Found
+MODSMD_ARTICLE07: Litauen nimmt das polnische Ultimatum an.
+Found
+MODSMD_ARTICLE08: Warschauer Befriedigung über den Ausgleich mit Litauen.
+Found
+MODSMD_ARTICLE09: Peru bricht seine Beziehungen zu Sowjetspanien ab.
+Found

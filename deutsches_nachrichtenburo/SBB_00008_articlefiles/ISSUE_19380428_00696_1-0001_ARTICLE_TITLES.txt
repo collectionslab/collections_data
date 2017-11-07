@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Rudolf Heß spricht vor der Reichsarbeitskammer.
+Found
+MODSMD_ARTICLE02: Minister Jankowitsch bei Reichsminister Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Der König von Schweden in Berlin.
+Found
+MODSMD_ARTICLE04: Tagung des Grenzwirtschaftsausschusses.
+Found
+MODSMD_ARTICLE05: Frauenhilfsdienst für Wohlfahrts- und Krankenpflege.
+Found
+MODSMD_ARTICLE06: Italien grüßt den Schöpfer des« größeren Deutschland,
+Found
+MODSMD_ARTICLE07: Der Aufschwung der italienischen Kriegsmarine.
+Found
+MODSMD_ARTICLE08: Sozialversicherungsabkommen Danzig—Polen.
+Found
+MODSMD_ARTICLE09: Volle englisch-französische Uebereinstimmung.
+Found
+MODSMD_ARTICLE10: „Die Entente geht an die Arbeit."
+Found
+MODSMD_ARTICLE11: Daladier Freitag Abend in Paris zurückerwartet.
+Found
+MODSMD_ARTICLE12: Der französische Finanzmiiiistcr warnt vor Gerüchten.
+Found

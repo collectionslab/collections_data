@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Thüringen dankt Reichsminister Dr. Frick
+Found
+MODSMD_ARTICLE03: Führende Italiener bewundern den Westwallsilm.
+Found
+MODSMD_ARTICLE04: Die Einweihung des Passagierdienstes Berlin—Moskau.
+Not Found
+MODSMD_ARTICLE05: Tokio verlangt Auslieferung der 21 verhafteten Deutschen.
+Found
+MODSMD_ARTICLE06: Der Fall „Asama Maru" spitzt sich zu.
+Found

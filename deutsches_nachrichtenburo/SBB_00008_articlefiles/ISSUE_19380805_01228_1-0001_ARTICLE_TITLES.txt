@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Augenzeugen über die Frechheit der tschechischen Flieger.
+Found
+MODSMD_ARTICLE02: Tschechische Ausreden.
+Found
+MODSMD_ARTICLE03: Die polnische Presse zur letzten tschechischen Provokation.
+Found
+MODSMD_ARTICLE04: Englische Frontkämpfer in Berlin.
+Found
+MODSMD_ARTICLE05: Auszeichnungen für Polizridieust.
+Found
+MODSMD_ARTICLE06: Die französischen Lehrer rücken von der Volksfront ab.
+Found
+MODSMD_ARTICLE07: Schwunghafter Waffenhandel nach Rotspanien aufgedeckt.
+Found
+MODSMD_ARTICLE08: Das englisch-ägyptische Abkommen.
+Found
+MODSMD_ARTICLE09: Der Vizekömg von Aethiopien kehrt nach Afrika zurück.
+Found
+MODSMD_ARTICLE10: „Resto del Carlino" über die Rassenfrage.
+Found
+MODSMD_ARTICLE12: Großzügiger Bau von Arbeiterwohnuugen in Italien.
+Found
+MODSMD_ARTICLE13: Beck über Polens Verhältnis zu Deutschland und Danzig.
+Found
+MODSMD_ARTICLE14: Unruhiges Palästina.
+Found
+MODSMD_ARTICLE15: Waffeneinfuhr nach Palästina vervierfacht.
+Found
+MODSMD_ARTICLE16: Klare japanische Vorschläge an Moskau.
+Found

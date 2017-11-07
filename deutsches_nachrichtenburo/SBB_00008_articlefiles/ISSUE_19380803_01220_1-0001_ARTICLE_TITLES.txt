@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Reichssportsührer dankt Schlesien.
+Found
+MODSMD_ARTICLE02: Rätselraten um Blondels Reise nach Paris.
+Found
+MODSMD_ARTICLE03: Frankreichs Wache am Tiber.
+Found
+MODSMD_ARTICLE04: Times zur Lage in Palästina.
+Found
+MODSMD_ARTICLE05: Polnisch-norwegische Trinksprüche in Oslo.
+Found
+MODSMD_ARTICLE06: Die polnische Presse zum Besuch Becks in Oslo.
+Found
+MODSMD_ARTICLE07: Gegen Verfolgungen von Polen in Brasilien.
+Found
+MODSMD_ARTICLE08: Sowjetspauische Angriffe an der Ebro-Front abgewiesen.
+Found
+MODSMD_ARTICLE09: Theaterprozeß in Madrid.
+Found
+MODSMD_ARTICLE10: Neuer Patriarch der serbisch-orthodoxen Kirche.
+Found
+MODSMD_ARTICLE11: Wachseuder Fehlbetrag im USA.-Haushalt.
+Found
+MODSMD_ARTICLE12: Scharfe japanische Protestnote in Moskau.
+Found
+MODSMD_ARTICLE13: Tokio noch immer zuversichtlich.
+Found
+MODSMD_ARTICLE14: Zwei sowjetrussische Angriffe auf Schangfeng abgewiesen.
+Found
+MODSMD_ARTICLE15: Ermächtigungsgesetz für die ägyptische Regierung.
+Found
+MODSMD_ARTICLE16: Presseverbot in Burma.
+Found
+MODSMD_ARTICLE17: Deutsche Forschertragödie nach M Fahren aufgeklärt.
+Found

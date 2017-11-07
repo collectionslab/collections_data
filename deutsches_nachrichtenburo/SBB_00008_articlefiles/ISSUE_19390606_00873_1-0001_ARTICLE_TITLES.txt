@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Kundgebung der Reichstheaterkammer m Wien.
+Found
+MODSMD_ARTICLE02: Meinungsaustausch zwischen Dr. Goebbels und Alfieri.
+Found
+MODSMD_ARTICLE03: Der Abschied des Prinzregenten Paul.
+Found
+MODSMD_ARTICLE04: Das Beileid der deutschen Kriegsmarine.
+Found
+MODSMD_ARTICLE05: General Aranda bei Generaloberst von Brauchitsch.
+Found
+MODSMD_ARTICLE06: Deutsche Gesandtschaft m Tirana wird Generalkonsulat.
+Found
+MODSMD_ARTICLE07: Tagesbefehl des Duce an die heimkehrenden Freiwilligen.
+Found
+MODSMD_ARTICLE08: Carabinieri-Parade vor dem Duce.
+Found
+MODSMD_ARTICLE09: Marschall Badoglio in Tripolis.
+Found
+MODSMD_ARTICLE10: Chamberlain lehnt Moskaubesuch ab.
+Found
+MODSMD_ARTICLE11: Chamberlain zur Katastrophe der „Thetis".
+Found
+MODSMD_ARTICLE12: Ministerpräsident Hiranuma berichtet dem Kaiser.
+Found

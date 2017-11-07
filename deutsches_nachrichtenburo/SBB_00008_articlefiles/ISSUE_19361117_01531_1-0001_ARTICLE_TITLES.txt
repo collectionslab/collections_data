@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Weitere Pressestimmen zur Wasserstraßen-Erklärung.
+Found
+MODSMD_ARTICLE02: Verstärkung der englischen Marineluftwaffe.
+Found
+MODSMD_ARTICLE03: Englisch-Holländische Verständigung über Fernost-Interessen?
+Found
+MODSMD_ARTICLE04: Rücktrittsabsichben Labeyries?
+Found
+MODSMD_ARTICLE05: Marxistische Niederlage bei einer Gemeinderatswahl.
+Found
+MODSMD_ARTICLE06: 45 Todesopfer des Explosionsunglücks von St. Chamas?
+Found
+MODSMD_ARTICLE07: Das Pariser Hotel Ritz von Streikenden besetzt.
+Found
+MODSMD_ARTICLE08: Rote Flugschüler aus Spanien in Frankreich verunglückt.
+Found
+MODSMD_ARTICLE09: Graf Ciano aus Budapest abgereist.
+Found
+MODSMD_ARTICLE10: Außenminister Beck berichtet.
+Found
+MODSMD_ARTICLE11: Athen im Trauerschmuck.
+Found
+MODSMD_ARTICLE12: Straßenkämpfe und Plünderungen in Beirut.
+Found
+MODSMD_ARTICLE13: Anschlag auf den Zug des Vizekönigs von Indien aufgedeckt.
+Found
+MODSMD_ARTICLE14: Waffenlieferungen für mexikanische Aufständische aufgedeckt.
+Found
+MODSMD_ARTICLE15: Die Nationalen bis zum Modiell-Geföngnis vorgerückt
+Found
+MODSMD_ARTICLE16: Vier höhere Beamte in Rio amtsenthoben.
+Found
+MODSMD_ARTICLE17: Neuer Schritt zur Beilegung des amerikanischen Seemannsstreiks.
+Not Found
+MODSMD_ARTICLE18: Roosevelts Reise nach Buenos Aires.
+Found

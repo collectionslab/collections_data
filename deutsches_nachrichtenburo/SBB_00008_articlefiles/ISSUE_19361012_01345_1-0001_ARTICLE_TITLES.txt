@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Rudolf Hess Rede in Hof. (Schluß-)
+Found
+MODSMD_ARTICLE02: Feier des „Dia de la Raza" in Berlin.
+Found
+MODSMD_ARTICLE03: Deutsche Linieuschfife zur Auslandsreise ausgelaufen.
+Found
+MODSMD_ARTICLE04: Zusammenarbeit der Sozialdemokratie und KPD. in Tanzig.
+Found
+MODSMD_ARTICLE05: Die Wiener Kresse zur Auflösung der Wehrverbände.
+Found
+MODSMD_ARTICLE06: Starhemberg in Ungarn.
+Found
+MODSMD_ARTICLE07: Tie BIZ für Stabilität der internationalen Wechselkurse.
+Found
+MODSMD_ARTICLE08: Reform der belgischen Katholischen Partei. Z
+Found
+MODSMD_ARTICLE09: Beilegung der englisch-italienischen Spannung?
+Found
+MODSMD_ARTICLE10: Neue Erfolge der Nationalisten an der Cordoba-Front.
+Found
+MODSMD_ARTICLE11: Kommunistischer Versammlungsterror in Mexiko.
+Found
+MODSMD_ARTICLE12: Schweres Eisenbahnunglück in Kolumbien. KV Tote.
+Found

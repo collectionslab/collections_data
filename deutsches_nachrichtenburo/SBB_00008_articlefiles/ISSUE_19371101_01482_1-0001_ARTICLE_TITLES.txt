@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Dr. Goebbels spricht im Berliner Sportpalast.
+Found
+MODSMD_ARTICLE02: Der italienische Justizminister in Berlin.
+Found
+MODSMD_ARTICLE03: Der lettische Reiters-Chor sang in Berlin.
+Found
+MODSMD_ARTICLE04: Ruft auf dem Appell der ostmärkischen SA.-Führer.
+Found
+MODSMD_ARTICLE05: Senatspräsident Greiser beglückwünscht Oberst Beck.
+Found
+MODSMD_ARTICLE06: Einführung des neuen Oberbürgermeisters voM Hannover.
+Found
+MODSMD_ARTICLE07: „Manchester Guardian" über Teutschlands Kolonialanspruch.
+Found
+MODSMD_ARTICLE08: Skeptische Stimmen in Wien.
+Found
+MODSMD_ARTICLE09: Italienische Delegation nach Brüssel abgereist.
+Found
+MODSMD_ARTICLE10: Der König von Griechenland in Rom.
+Found
+MODSMD_ARTICLE11: Obelisk von Alsum in Rom aufgestellt.
+Found
+MODSMD_ARTICLE13: Gedenktafeln Italiens für die Spanienkämpfer.
+Found
+MODSMD_ARTICLE14: Auch in Wilna besondere Plätze für Juden.
+Found
+MODSMD_ARTICLE15: Genfer Konferenz zur Bekämpfung des Terrorismus.
+Found
+MODSMD_ARTICLE16: England stellt in Barcelona Erhebungen an.
+Found
+MODSMD_ARTICLE17: Präsident Lebrun ehrt die Gefallenen des Weltkrieges.
+Found
+MODSMD_ARTICLE18: Metaxas gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE19: Dimitroff Kandidat für den Obersten Rat der Sowjetunion'
+Found
+MODSMD_ARTICLE20: Falsche Gerüchte über den Großmufti.
+Found
+MODSMD_ARTICLE21: Neuer japanisch-britischer Zwischenfall.
+Found

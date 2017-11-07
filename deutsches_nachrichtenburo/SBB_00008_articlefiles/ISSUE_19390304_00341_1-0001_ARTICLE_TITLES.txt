@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Zum Ministerialdirigenten ernannt.
+Found
+MODSMD_ARTICLE02: Wann wird geflaggt?
+Found
+MODSMD_ARTICLE03: Das Kronprinzenpaar von Griechenland in Berlin.
+Found
+MODSMD_ARTICLE04: Norwegen sichert sich vor jüdischem Zuzug.
+Found
+MODSMD_ARTICLE05: Im Gedenken an die Ermordung der 52 Sudetendeutschen.
+Found
+MODSMD_ARTICLE06: Gafencu in Warschau.
+Found
+MODSMD_ARTICLE07: Francos kompromißloser Erfolg.
+Found
+MODSMD_ARTICLE08: Spanischer Wirtschaftsaufbaw aus eigener Kraft.
+Found
+MODSMD_ARTICLE09: Wieder ein Bersteck bolschewistischer Kirchenräuber entdeckt.
+Found
+MODSMD_ARTICLE10: Jordana über die Haltung Frankreichs.
+Found
+MODSMD_ARTICLE11: Bankett des deutschen Gesandten in Coimbra.
+Found
+MODSMD_ARTICLE12: Die belgische Kabinettskrise.
+Found
+MODSMD_ARTICLE13: Eine Erklärung Gafencus.
+Found
+MODSMD_ARTICLE14: Zw etko witsch läßt kroatische Häftlinge frei.
+Found
+MODSMD_ARTICLE15: Der „Daily Herald" klagt Frankreich an.
+Found
+MODSMD_ARTICLE16: „Times": Rettet die armen unschuldigen Araberkinder!
+Found
+MODSMD_ARTICLE17: Prag rechnet mit der Rehabilitierung Gajdas.
+Found
+MODSMD_ARTICLE18: Sowjetrnssische Nebergrisfe im Weißen Meer.
+Found
+MODSMD_ARTICLE19: Die Opfer des japanischen Explosionsunglücks.
+Found
+MODSMD_ARTICLE20: Haitschau von den Japanern genommen.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Böllerschiesten auf dem Obersalzberg.
+Found
+MODSMD_ARTICLE02: Die ausländischen Pressevertreter an den Führer
+Found
+MODSMD_ARTICLE03: Begnadigung durch den Führer.
+Found
+MODSMD_ARTICLE04: „Der Großdeutsche Rundfunk".
+Found
+MODSMD_ARTICLE05: Abschluß der deutsch-englischen Flottenbesprechungen.
+Found
+MODSMD_ARTICLE06: Das Echo der Botschaft des Führers.
+Found
+MODSMD_ARTICLE08: Dr. Hacha wieder in Prag.
+Found
+MODSMD_ARTICLE09: Ein Neujahrsaufruf des Staatssekretärs Karmasiu.
+Found
+MODSMD_ARTICLE10: Neujahrsansprache Sidors an die Hlinka-Garde.
+Found
+MODSMD_ARTICLE11: Nrujahrsempfang beim Staatspräsidenten Lebrun.
+Found
+MODSMD_ARTICLE12: Hore-Belisha in Paris.
+Found
+MODSMD_ARTICLE13: „Kein weiterer Platz für Juden in Palästina."
+Found
+MODSMD_ARTICLE14: Kennzahl der Großhandelspreise vom 28. Dezember 1938.
+Found

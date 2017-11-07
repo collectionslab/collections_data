@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Schirach stiftet eine HJ.-Heim-Plakette.
+Found
+MODSMD_ARTICLE02: Die Tagung für luftfahrtmedizinische Forschung.
+Found
+MODSMD_ARTICLE03: Bestellung eines Sondertreuhänders im Baugewerbe.
+Found
+MODSMD_ARTICLE04: Empfangsabend Graf Cianos zu Ehren von Rudolf Heß.
+Found
+MODSMD_ARTICLE05: „Mussolinis Rede weist die Wege in Europas Zukunft".
+Found
+MODSMD_ARTICLE06: Frankreich und die Rede des Duce.
+Found
+MODSMD_ARTICLE07: Tagung des Führerrates der Vaterländischen Front.
+Found
+MODSMD_ARTICLE08: Japan stellt Tendenzmeldungen richtig.
+Found
+MODSMD_ARTICLE09: Polens Jugend nimmt am Unabhängigkeitstag teil.
+Found
+MODSMD_ARTICLE10: Eröffnung der polnischen Winterhilfe.
+Found
+MODSMD_ARTICLE11: Stojadinowitsch besichtigt neues Dornier-Flugzeug.
+Found
+MODSMD_ARTICLE12: Die Unruhen in Französisch-Nordafrika dauern an.
+Found
+MODSMD_ARTICLE13: Tatarescu in Ankara.
+Found
+MODSMD_ARTICLE14: Eine deutsche Himalaya-Expedition in Delhi.
+Found

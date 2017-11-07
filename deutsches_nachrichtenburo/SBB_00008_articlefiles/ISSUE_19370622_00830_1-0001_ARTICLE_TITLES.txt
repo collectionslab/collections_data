@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertfünfjährigen.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Zu den Torpedierungsversuchen auf die „Leipzig".
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Promenadenkonzert im Garten des Auswärtigen Amts.
+Found
+MODSMD_ARTICLE06: Eine Ehrengabe der italienischen Jugend für Himmler.
+Found
+MODSMD_ARTICLE07: Deutsche Wissenschaftler im Dienste des Vierjahresplanes.
+Found
+MODSMD_ARTICLE08: Der Bericht der Palästina-Komimssion unterzeichnet.
+Found
+MODSMD_ARTICLE09: Keine Neuregelung der Kriegsschuldensrage.
+Found
+MODSMD_ARTICLE10: Franco gibt Sicherheitsgarantien für Ueberwachungsschiffe.
+Found
+MODSMD_ARTICLE11: Benachteiligung der Minderheiten in Estland?
+Found
+MODSMD_ARTICLE12: Keine Einigung in London.
+Found
+MODSMD_ARTICLE13: 129 Verhaftungen in Uoungstown.
+Found
+MODSMD_ARTICLE14: Ein Suchkommando nach dem Nanga-Parbat aufgebrochen.
+Found
+MODSMD_ARTICLE15: Paul Bauer begibt sich nach Indien.
+Found
+MODSMD_ARTICLE16: München trauert um die Opfer des Nanga Parbat.
+Found

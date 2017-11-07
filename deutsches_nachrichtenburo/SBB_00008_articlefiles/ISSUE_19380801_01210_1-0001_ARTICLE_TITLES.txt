@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Frick aus Schlesien abgereist.
+Found
+MODSMD_ARTICLE02: Frankreich siegt im „Braunen Band von Deutschland".
+Found
+MODSMD_ARTICLE03: Erstes Internationales Luftrennen in Frankfurt.
+Found
+MODSMD_ARTICLE04: Lebrun und Daladier sprachen in Avignon.
+Found
+MODSMD_ARTICLE05: Frankreich baut unterirdische Kraftstoff-Leitung.
+Found
+MODSMD_ARTICLE06: Die neue Verfassung für Malta.
+Found
+MODSMD_ARTICLE07: Freude in Bulgarien über das neue Abkommen.
+Found
+MODSMD_ARTICLE08: Neue Uebergriffe der Sowjets gegen Finnland.
+Found
+MODSMD_ARTICLE09: Neue Partei in Ungarn.
+Found
+MODSMD_ARTICLE10: Temnssieg Deutschlands.
+Found
+MODSMD_ARTICLE11: Schweres Unglück iu einem Kalibergwerk.
+Found

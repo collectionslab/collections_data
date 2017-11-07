@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Tr. Reischle zum SS.-Gruppenführer befördert.
+Found
+MODSMD_ARTICLE02: Generalfeldmarfchall Gering leicht erkrankt.
+Found
+MODSMD_ARTICLE03: Ernennung im Reichspostministerium.
+Found
+MODSMD_ARTICLE04: Vier Luftsperrgebiete an der WestgrenZe.
+Found
+MODSMD_ARTICLE05: Warschau über die Friedensliebe des Führers.
+Found
+MODSMD_ARTICLE06: Zurück zum Pittsburger Vertrag!
+Found
+MODSMD_ARTICLE07: Prag hält an dreijähriger Militärdienstzeit fest.
+Found
+MODSMD_ARTICLE08: „Die Zeit" erneut scharf zensiert.
+Found
+MODSMD_ARTICLE09: Neuer tschechischer Roheitsakt!
+Found
+MODSMD_ARTICLE10: Die Polizeiattacken in Reichenberg.
+Found
+MODSMD_ARTICLE11: Tschechische Staatspolizei provoziert überall.
+Found
+MODSMD_ARTICLE12: Der Friedenswille der Sudetendeutschen.
+Found
+MODSMD_ARTICLE13: Belgrad und die tschechische Frage.
+Found
+MODSMD_ARTICLE14: Jüdische Einwanderer in Jugoslawien unerwünscht.
+Found
+MODSMD_ARTICLE15: Sitzung des britischen Kabinetts.
+Found
+MODSMD_ARTICLE16: Bonnets rege Tätigkeit in Genf.
+Found
+MODSMD_ARTICLE17: Die Flamen gegen Durchmarschrecht für fremde Truppen.
+Found

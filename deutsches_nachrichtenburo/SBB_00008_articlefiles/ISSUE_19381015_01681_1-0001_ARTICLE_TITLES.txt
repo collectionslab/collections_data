@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer an den König von Afghanistan.
+Found
+MODSMD_ARTICLE02: Der Neichspostminister vor den bayerischen Postbeamten.
+Found
+MODSMD_ARTICLE03: Graf Csaky bei Ciano.
+Found
+MODSMD_ARTICLE04: Neue italienisch-britische Unterredung in Rom.
+Found
+MODSMD_ARTICLE05: Werk-Flak die neue Nüstungsparole in England.
+Found
+MODSMD_ARTICLE06: Wozu rüstet England?
+Found
+MODSMD_ARTICLE07: Ein Fehler wurde gutgemacht, den Versailles verschuldete.
+Found
+MODSMD_ARTICLE08: Frankreich verhaftet Gewerkschaftssekretäre.
+Found
+MODSMD_ARTICLE09: Tie Pariser Presse zum Verhältnis Berlin—Prag.
+Not Found
+MODSMD_ARTICLE10: Elsässischer Abgeordneter protestiert gegen Pressehetze.
+Found
+MODSMD_ARTICLE11: Will Paris vermitteln?
+Found
+MODSMD_ARTICLE12: Die Spannung Prag—Budapest.
+Found
+MODSMD_ARTICLE13: Wachsende Ungeduld in Ungarn.
+Found
+MODSMD_ARTICLE14: „Mein Kampf" in der Slowakei wieder frei.
+Found
+MODSMD_ARTICLE15: Ein Staatssekretariat für Volksdeutsche in Preßburg.
+Found
+MODSMD_ARTICLE16: Reichsminister Funk beim bulgarischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE17: Englisches Gesetz verbietet jeden Protest auf Zypern.
+Found
+MODSMD_ARTICLE18: Zusammenschluß aller Zypernverbände.
+Found
+MODSMD_ARTICLE19: Nationalspanien fordert die Anerkennung.
+Found

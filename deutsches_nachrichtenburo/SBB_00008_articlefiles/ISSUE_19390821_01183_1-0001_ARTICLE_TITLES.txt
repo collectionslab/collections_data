@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Mißglücktes englisches Lügenmanöver.
+Found
+MODSMD_ARTICLE02: Handels- und Kreditabkommen mit der Sowjetunion.
+Found
+MODSMD_ARTICLE03: Das deutsch-südafrikanische Zahlungsabkommen.
+Found
+MODSMD_ARTICLE04: In treuer Erinnerung an die Waffenbrüderschaft.
+Found
+MODSMD_ARTICLE05: Gauleiter Wächtler in Rom.
+Found
+MODSMD_ARTICLE06: Nochmalige Warnung an Polen.
+Found
+MODSMD_ARTICLE07: Deutsche Bankbeamte in Pommerellen verhastet.
+Found
+MODSMD_ARTICLE08: Aufständischenverband wütet in Lipine.
+Found
+MODSMD_ARTICLE09: Polen morden fünf Monate alten Säugling.
+Found
+MODSMD_ARTICLE10: Nervosität auch an der Polnisch-rumänischen Grenze.
+Found
+MODSMD_ARTICLE11: Erkko unterstreicht Finnlands Neutralität.
+Found
+MODSMD_ARTICLE12: „Dem schwedischen Kaufmann löst Millionen gestohlen."
+Found
+MODSMD_ARTICLE13: Glückwunschtelegramm des Stellvertreters des Führers.
+Found
+MODSMD_ARTICLE14: Die Kennzahl der Großhandelspreise vom 16. August 1939.
+Found

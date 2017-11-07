@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Oberamtmann Schmeidl seinen Verletzungen erlegen.
+Found
+MODSMD_ARTICLE02: Britische Seeräuber, die auf den Geschmack gekommen sind«
+Found
+MODSMD_ARTICLE03: Der deutsch-schwedische Waren- und Zahlungsverkehr.
+Found
+MODSMD_ARTICLE04: Reichswirtschaftsminister Funk in Posen.
+Found
+MODSMD_ARTICLE05: Wieder ermordete Deutsche gefunden.
+Found
+MODSMD_ARTICLE06: Auch für die Goralen ist die Unterdrückung Zu Ende.
+Found
+MODSMD_ARTICLE07: Die Sowjetvertreter für die Konferenz von Tschita.
+Found
+MODSMD_ARTICLE08: Russische Truppen in Litauen.
+Found
+MODSMD_ARTICLE09: Aufenthaltsbeschränkung in Lettland.
+Found
+MODSMD_ARTICLE10: Benzinpreiserhöhung in England.
+Found
+MODSMD_ARTICLE11: Entlassung bulgarischer Reservistenjahrgänge.
+Found
+MODSMD_ARTICLE12: Französischer Divisionsgeneral gefallen.
+Found
+MODSMD_ARTICLE13: Treibminen auch an der nordspanischen Küste.
+Found
+MODSMD_ARTICLE14: Drei weitere führende Elsässer verhaftet.
+Found
+MODSMD_ARTICLE15: Verstärkte Rekrutierung in Südafrika.
+Found

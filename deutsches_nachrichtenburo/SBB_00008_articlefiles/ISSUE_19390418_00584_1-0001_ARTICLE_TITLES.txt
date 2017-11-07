@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Tagesbefehl des Führers an die Heeresgruppe 3
+Found
+MODSMD_ARTICLE02: Hollands Gesandter wieder in Berlin.
+Found
+MODSMD_ARTICLE03: Neichsminister Ruft auf der Reichsschule Plassenburg.
+Found
+MODSMD_ARTICLE04: Abschiedsabend für Oberstleutnant von Gronau.
+Found
+MODSMD_ARTICLE05: Der Reichsprotektor besuchte Dr. Hacha.
+Found
+MODSMD_ARTICLE06: Die Stärke der Achse die beste Waffe gegen Einkreisung.
+Found
+MODSMD_ARTICLE07: Warschauer Presse: Wir wollen keine Sowjettruppen.
+Found
+MODSMD_ARTICLE08: Polnische Blätter ahmen westliche Scharfmacher nach.
+Found
+MODSMD_ARTICLE09: Estnischer Besuch in Warschau.
+Found
+MODSMD_ARTICLE10: Verlängerung der militärischen Dienstzeit in Holland.
+Found
+MODSMD_ARTICLE11: Besprechungen Taladiers und Bonnets.
+Found
+MODSMD_ARTICLE12: „Spekulationen?"
+Found
+MODSMD_ARTICLE13: London bemüht sich um Kanada.
+Found
+MODSMD_ARTICLE14: Zwetkowitsch wieder auf dem Weg nach Belgrad.
+Found
+MODSMD_ARTICLE15: Liebeswerben der Einkreisungshetzer in Ankara.
+Found
+MODSMD_ARTICLE16: Vernichtende Kritik an Roosevelt im USA.-Senat.
+Found
+MODSMD_ARTICLE17: Alles im Zeichen des „Friedensplanes".
+Found
+MODSMD_ARTICLE18: Mister Hnll lobt seinen Chef.
+Found

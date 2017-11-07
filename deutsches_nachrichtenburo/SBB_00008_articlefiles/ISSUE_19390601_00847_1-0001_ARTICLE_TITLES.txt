@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Abendtafel beim Führer.
+Found
+MODSMD_ARTICLE02: Das Großkreuz des Karadjordje-Ordens für Göring.
+Found
+MODSMD_ARTICLE03: Freiherr von Neurath beim Führer.
+Found
+MODSMD_ARTICLE04: Reichsminister Funk grüßt die Textilindustrie.
+Found
+MODSMD_ARTICLE05: Die „Legion Condor" nahm Abschied von Hamburg.
+Found
+MODSMD_ARTICLE06: Einberufung des slowakischen Parlaments.
+Found
+MODSMD_ARTICLE07: Die amerikanischen Slowaken gegen Benesch^
+Found
+MODSMD_ARTICLE08: Veränderungen im litauischen Außenministerium.
+Found
+MODSMD_ARTICLE09: Freiwilliger Arbeitsdienst in Litauen.
+Found
+MODSMD_ARTICLE10: Abschiedsfeiern für die portugiesischen Freiwilligen.
+Found
+MODSMD_ARTICLE11: Paris „enttäuscht, aber nicht hoffnungslos".
+Found
+MODSMD_ARTICLE12: Die Labour-Partei gegen Volksfrontpläne.
+Found
+MODSMD_ARTICLE13: London wartet immer noch auf die Antwort Moskaus.
+Found
+MODSMD_ARTICLE14: Britische Rache-Politik gegen Inder.
+Found
+MODSMD_ARTICLE15: Der britisch-jüdische Korruptionsskandal in Jerusalem.
+Found
+MODSMD_ARTICLE16: Jndenschmuggel nach Palästina.
+Found
+MODSMD_ARTICLE17: Verabschiedung der deutschen Pressedelegation in Tokio.
+Found
+MODSMD_ARTICLE18: Schweres V-Zug-Unglück in England.
+Found

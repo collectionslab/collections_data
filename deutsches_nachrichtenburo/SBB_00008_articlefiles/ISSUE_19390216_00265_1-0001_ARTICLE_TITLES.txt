@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Neue ehrenamtliche Mitglieder des Volksgerichtshofs.
+Found
+MODSMD_ARTICLE02: Die Sudeten-Journalistenl von Rudolf Heß empfangen.
+Found
+MODSMD_ARTICLE03: Reichsminister Funk vor den Wehrwirtschaftsführern.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Kabinett Gras Teleki gebildet.
+Found
+MODSMD_ARTICLE06: Kamps gegen den Kommunismus in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE07: Verbot von 36 Druckschriften aus Deutschland aufgehoben.
+Found
+MODSMD_ARTICLE08: Die deutsche Volksgruppe und die Prager Regierung.
+Found
+MODSMD_ARTICLE09: Ministerpräsident Zwetkowitsch vor det Skupschtina.
+Found
+MODSMD_ARTICLE10: Die Bedeutung der faschistischen Schulreform.
+Found
+MODSMD_ARTICLE11: Verkehrsstraste Addis Abeba— Assab nahezu fertig.
+Not Found
+MODSMD_ARTICLE12: Neue italienfeindliche Kundgebungen auf Korsika.
+Found
+MODSMD_ARTICLE13: Azana macht nicht mehr mit.
+Found
+MODSMD_ARTICLE14: Der Kuhhandel zwischen AZaüa und del Vayo.
+Found
+MODSMD_ARTICLE15: Die Palästina-Konferenz.
+Found
+MODSMD_ARTICLE16: Bombenexplosion auf einem Londoner Bahnhof.
+Found
+MODSMD_ARTICLE17: Frankreich will englische Flugzeuglizenzen erwerben.
+Found
+MODSMD_ARTICLE18: Deutsche Bücher als Geschenk für Nationalspanien.
+Found
+MODSMD_ARTICLE19: Syriens Opposition gegen die Mandatsregierung.
+Found
+MODSMD_ARTICLE20: Deutschlands größter Skierfolg.
+Found

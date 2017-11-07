@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an Major von Stephani.
+Found
+MODSMD_ARTICLE02: Diplomaten besichtigen das Reichssportfeld.
+Found
+MODSMD_ARTICLE03: Der Reichsfinanzminister spricht in Rostock.
+Found
+MODSMD_ARTICLE04: Der Besuch Dr. Schachts in Belgrad.
+Found
+MODSMD_ARTICLE05: Sieben Todesopfer des Wiener Dampfer-Unglücks.
+Found
+MODSMD_ARTICLE06: Schwierige Regierungsbildung in Belgien.
+Found
+MODSMD_ARTICLE07: Empfänge beim französischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE08: Die sozialen Gesetzesvorlagen vor der französischen Kammer.
+Found
+MODSMD_ARTICLE09: Immer noch Streik im nordfranzösischen Industriegebiet.
+Found
+MODSMD_ARTICLE10: Jnflationspropaganda in Frankreich.
+Found
+MODSMD_ARTICLE11: Streikdrohung der kaufmännischen Angestellten Barcelonas.
+Found
+MODSMD_ARTICLE12: London Präsidentschaftskandidat der Republikaner.
+Found

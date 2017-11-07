@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm des Führers.
+Found
+MODSMD_ARTICLE02: Vom Führer begnadigt.
+Found
+MODSMD_ARTICLE03: Neun Sonneberger Kinder besuchten Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: Neue Leitung der Fachgruppe Alt- und Abfallstoffe.
+Found
+MODSMD_ARTICLE05: Finnland gedenkt der Verdienste des Generals Ludendorff.
+Found
+MODSMD_ARTICLE06: Deutsches Geschwader in Neapel.
+Found
+MODSMD_ARTICLE07: Um die Anerkennung des italienischen Imperiums.
+Found
+MODSMD_ARTICLE08: Norwegen sagt ab.
+Found
+MODSMD_ARTICLE09: Entschließung polnischer Rechtsanwälte.
+Found
+MODSMD_ARTICLE10: Um die Wiedereröffnung der Weltausstellung.
+Found
+MODSMD_ARTICLE11: Volksfronthetze um die „Cagoulards".
+Found
+MODSMD_ARTICLE12: Delbos berichtete im Ministerrat über seine Reise..
+Found
+MODSMD_ARTICLE13: Der Metropolit von Nischnij-Nowgorod verhaftet.
+Found
+MODSMD_ARTICLE14: Irsch ow, der „Liebling des Volkes". * Äß
+Found
+MODSMD_ARTICLE15: Neuer britischer Botschafter in China.
+Found
+MODSMD_ARTICLE16: Japanischer Kabinettsrat.
+Found
+MODSMD_ARTICLE17: Regierung und Gegenregierung.
+Found
+MODSMD_ARTICLE18: 19 999 Japaner in der Bias-Bucht gelandet.
+Found
+MODSMD_ARTICLE19: Japanische Kriegsschisse beschossen Amoy.
+Found
+MODSMD_ARTICLE20: 80 Todesopfer des Schulhausbrandes iu Japan.
+Found
+MODSMD_ARTICLE21: Zurückweisung sowjetrussischer Hetzmeldungen.
+Found

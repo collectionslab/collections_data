@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Beförderungen im Heer.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: 45k Avanguardisten in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE04: Empfang des Kongresses für gärungslose Früchteverwertung.
+Found
+MODSMD_ARTICLE05: Arbeitssitzung der „Stiftung für Opfer der Arbeit".
+Found
+MODSMD_ARTICLE06: Gegen Panikmacher und Gespensterseher.
+Found
+MODSMD_ARTICLE07: „Staatsfeinde" auch in der Wurstfabrik.
+Found
+MODSMD_ARTICLE08: Moskaus Werber in der Tschechoslowakei an der Arbeit.
+Found
+MODSMD_ARTICLE09: Weitere italienische Stimmen zum Ciano-Jnterview.
+Found
+MODSMD_ARTICLE10: Spanische kirchliche Würdenträger klagen an.
+Found
+MODSMD_ARTICLE11: Nahas Pascha vor der Wafd-Partei.
+Found
+MODSMD_ARTICLE12: Unwetter über Korea. Bisher 131 l Tote.
+Found

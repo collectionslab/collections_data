@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Abschluß der Tagung der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE04: Höhepunkt der Züricher Festspiele.
+Found
+MODSMD_ARTICLE05: „Frauen schassen für Deutschland".
+Found
+MODSMD_ARTICLE06: Massenbesuch aus der Hamburger KdF.-Leistuugsschau.
+Found
+MODSMD_ARTICLE07: Ausstellung „Entartete Kunst" in Düsseldorf.
+Found
+MODSMD_ARTICLE08: Die dänische Landwirtschaftsausstellung eröffnet.
+Found
+MODSMD_ARTICLE09: Die Schulnot der Volksdeutschen in Wolhynien.
+Found
+MODSMD_ARTICLE10: Sowjetrussen beschießen polnisches Segelslugzeug.
+Found
+MODSMD_ARTICLE11: Gegen den Zweckoptinnsmus der Genfer Arbeitskonferenz.
+Found
+MODSMD_ARTICLE12: Abschluß der Besprechungen Ciauo-Stojadiuowitsch.
+Found
+MODSMD_ARTICLE13: Der französische Kaufmann denkt realer.
+Found
+MODSMD_ARTICLE14: Französische Beruhigungspille in Syrien.
+Found
+MODSMD_ARTICLE15: Großrazzia in Berlin.
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Alle Jugend dem Führer! Appell des Reichsjugendführers an die deutsche Elternschaft.
+Found
+MODSMD_ARTICLE02: „Jugend muß von Jugend geführt werden".
+Found
+MODSMD_ARTICLE03: Erbhofbauern auch in Oesterreich.
+Found
+MODSMD_ARTICLE04: Eingeborene verlangen französische Bürgerrechte.
+Found
+MODSMD_ARTICLE05: Pariser Luftschutz dem Verteidigungsministerium unterstellt.
+Found
+MODSMD_ARTICLE06: Eden beim König.
+Found
+MODSMD_ARTICLE07: Ausdehnung der Streikwelle im Mittelwesten von USA.
+Found
+MODSMD_ARTICLE08: Rücktritt des australischen Handelsministers.
+Found

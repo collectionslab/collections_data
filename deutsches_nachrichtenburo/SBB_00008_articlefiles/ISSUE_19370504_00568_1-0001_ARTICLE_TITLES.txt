@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Vormittags-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Grundsteinlegung für 549 Hitlerjugend-Heime.
+Found
+MODSMD_ARTICLE03: Graf Volpi über seine Eindrücke in Deutschland.
+Found
+MODSMD_ARTICLE04: Die italienischen Journalisten im Berchtesgadener Land.
+Found
+MODSMD_ARTICLE05: Gegen böswillige Gerüchtemacher und Phantasten!
+Found
+MODSMD_ARTICLE06: Streikultimatum der Angestellten des Gastwirtsgewerbes.
+Found
+MODSMD_ARTICLE07: Herren im eigenen Haus?
+Found
+MODSMD_ARTICLE08: Britische Staatsaugehörige aus Bilbao abgereist.
+Found
+MODSMD_ARTICLE09: Untersuchungsausschuß für den Londoner Omnibusstreik.
+Found
+MODSMD_ARTICLE10: Belgien-Debatte im Unterhaus.
+Found
+MODSMD_ARTICLE11: Der unheilvolle Einfluß des Freimaurertums.
+Found
+MODSMD_ARTICLE12: Der Sexualmord im Kloster von Manage vor der Kammer.
+Found
+MODSMD_ARTICLE13: Parade vor Portugals Staatspräsidenten.
+Found

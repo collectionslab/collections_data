@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ungarns Dank an den Führer.
+Found
+MODSMD_ARTICLE02: Ehrenmitglieder des Reichsinstituts für altere Geschichte.
+Found
+MODSMD_ARTICLE03: Abt Schachleiter dankt.
+Found
+MODSMD_ARTICLE04: Die Dritte Weltkraftkonferenz 1936.
+Found
+MODSMD_ARTICLE05: Empfang zu Ehren der schwedischen Kriegsmarine in Kiel.
+Found
+MODSMD_ARTICLE06: Das Dementi des französischen Innenministers.
+Found
+MODSMD_ARTICLE07: Die Kämpfe um San Sebastian.
+Found
+MODSMD_ARTICLE08: Die Lage in Madrid.
+Found
+MODSMD_ARTICLE09: Spanischer Oberbefehlshaber zurückgetreten.
+Found
+MODSMD_ARTICLE10: Niederlage der roten Miliz vor Albacete.
+Found
+MODSMD_ARTICLE11: Generalstabschef Gamelin in Wien.
+Found
+MODSMD_ARTICLE12: Rücktritt des Ministerpräsidenten von Westaustralien.
+Found
+MODSMD_ARTICLE13: Nationaler Wahlsieg in Quebec.
+Found

@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Die öffentlichen Verwaltungen flaggen.
+Found
+MODSMD_ARTICLE02: Der Eisenbahnbetrieb in Böhmen und Mähren.
+Found
+MODSMD_ARTICLE03: Die vollziehende Gewalt in Böhmen und Mähren.
+Found
+MODSMD_ARTICLE04: NS.-Schwestern betreuen die Zivilbevölkerung.
+Found
+MODSMD_ARTICLE05: Ungarn stützt die Slowakei.
+Found
+MODSMD_ARTICLE06: Freude im Sudetenland.
+Found
+MODSMD_ARTICLE07: Der Vormarsch der ungarischen Truppen.
+Found
+MODSMD_ARTICLE08: Woloschin übergibt die Staatsgewalt nicht an die Ungarn.
+Found
+MODSMD_ARTICLE09: Die Slowakei bleibt ungeteilt!
+Found
+MODSMD_ARTICLE10: Das tschechische Volk und die deutsche Armee.
+Found
+MODSMD_ARTICLE11: England: „Das mußte früher oder später kommen."
+Found
+MODSMD_ARTICLE12: Polen: „Europa vor einer neuen Wirklichkeit".
+Found
+MODSMD_ARTICLE13: Spanien: Eine neue Friedenstat des Führers.
+Found
+MODSMD_ARTICLE14: Die griechische Presse zu den Ereignissen in Mitteleuropa.
+Found
+MODSMD_ARTICLE15: Konteradmiral von Seebach Inspekteur der Marineartillerie
+Found
+MODSMD_ARTICLE16: Cianetti in Deutschlands Waffenschmiede.
+Found
+MODSMD_ARTICLE17: „Alldeutscher Verband" aufgelöst.
+Found
+MODSMD_ARTICLE18: Dr. David Oberlandesgerichtspräsident in Leitmeritz.
+Found
+MODSMD_ARTICLE19: Unabhängigkeit Palästinas nach „Probezeit".
+Found
+MODSMD_ARTICLE20: »Auszeichnung für den portugiesischen Handelsminister.
+Found
+MODSMD_ARTICLE21: Gago Continho fährt nach Brasilien.
+Found

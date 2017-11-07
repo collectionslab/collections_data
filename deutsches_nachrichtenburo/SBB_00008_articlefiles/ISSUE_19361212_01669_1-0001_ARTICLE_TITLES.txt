@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Rudolf Heß dankt Frau Gustloff.
+Found
+MODSMD_ARTICLE02: Ein deutsches Memorandum.
+Found
+MODSMD_ARTICLE03: Deutsch-tschechoslowakische Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE04: Siidwestafrika und die Südafrikanische Union.
+Found
+MODSMD_ARTICLE05: Das Recht des geistigen Schaffens.
+Found
+MODSMD_ARTICLE06: Korvettenkapitän a. T. Weyer f.
+Found
+MODSMD_ARTICLE07: Der Aufenthalt der ungarischen Regierungsgäste in Berlin.
+Found
+MODSMD_ARTICLE08: Freude in Budapest über die Berliner Aufnahme Kozmas.
+Found
+MODSMD_ARTICLE09: Das irische Parlament beschließt Verfassungsänderung.
+Found
+MODSMD_ARTICLE10: Sowjetrussische El-Boote tarnen sich mit der Nationalflagge.
+Found
+MODSMD_ARTICLE11: Durchschaute Manöver Alvarez del Vayos.
+Found
+MODSMD_ARTICLE12: Die kommunistische Wühlarbeit in Oesterreich.
+Found
+MODSMD_ARTICLE13: Reuter über die sowjetrussischen Waffenlieferungen.
+Found
+MODSMD_ARTICLE14: Schmiergelder für das „Journal des Nations".
+Found
+MODSMD_ARTICLE15: Ein Toter und 40 Verletzte bei Streikunruhen in Amerika.
+Found
+MODSMD_ARTICLE16: Kundgebung in Tokio zum Abkommen Berlin—Tokio.
+Not Found
+MODSMD_ARTICLE17: 200 planmäßige Ozeanfliige der Lufthansa.
+Found
+MODSMD_ARTICLE18: 10 Jahre Zuchthaus für jüdischen Sittlichkeitsverbrecher.
+Found

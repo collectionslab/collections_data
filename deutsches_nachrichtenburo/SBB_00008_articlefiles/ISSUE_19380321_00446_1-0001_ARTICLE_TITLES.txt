@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Spende für bedürftige österreichische Postbeamte.
+Found
+MODSMD_ARTICLE03: Oesterreicher die ersten „Wilhelm Gustloff"-Passagiere.
+Found
+MODSMD_ARTICLE04: Dr. Leys Dank an den Olympischen Kongreß.
+Found
+MODSMD_ARTICLE05: Ein neues Waffmgesetz.
+Found
+MODSMD_ARTICLE06: Wir fahren zu unseren Brüdern! M>» Wiener Arbeiter fahren mit KdF. nach Berlin.
+Found
+MODSMD_ARTICLE07: Die Vorbereitungen zum Führerbesuch in Italien.
+Found
+MODSMD_ARTICLE08: Vereidigung der Oesterreichischen Nationalbankbeamten.
+Found
+MODSMD_ARTICLE09: Dr. Ley in Tripolis.
+Found
+MODSMD_ARTICLE10: Fortschritte der englisch-italienischen Besprechungen.
+Found
+MODSMD_ARTICLE11: Die Engländer sollen Barcelona verlassen.
+Found

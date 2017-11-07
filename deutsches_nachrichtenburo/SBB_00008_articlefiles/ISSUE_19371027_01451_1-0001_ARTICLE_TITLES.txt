@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Das faschistische Italien grüßt Rudolf Heß.
+Found
+MODSMD_ARTICLE02: Verordnung über den Schutz von Feiertagen.
+Found
+MODSMD_ARTICLE03: Deutsch-dänischer Ausschuß Zusammengetreten.
+Found
+MODSMD_ARTICLE04: Unglaubliches Salzburger Urteil.
+Found
+MODSMD_ARTICLE05: Bulgariens Königspaar bei Italiens Herrscherpaar.
+Found
+MODSMD_ARTICLE06: Italienische Stimmen zur Londoner Ausschußsitzung.
+Found
+MODSMD_ARTICLE07: Programmatische Rede Daranyis.
+Found
+MODSMD_ARTICLE08: Neuer Staatssekretär im ungarischen! Innenministerium.
+Found
+MODSMD_ARTICLE09: Oesterreich-Polnisches Kulturabkommen unterzeichnet.
+Found
+MODSMD_ARTICLE10: Die jüdischen Studenten in Lemberg provozieren weiter.
+Found
+MODSMD_ARTICLE11: Norman Davis über die Neun-Mächte-Konferenz.
+Found
+MODSMD_ARTICLE12: Staatsgelder für de la Rocque?
+Found
+MODSMD_ARTICLE13: Jüdischer Mittäter au der Ermordung Riedles verhaftet.
+Found
+MODSMD_ARTICLE14: Neuer japanischer Botschafter für Berlin.
+Found

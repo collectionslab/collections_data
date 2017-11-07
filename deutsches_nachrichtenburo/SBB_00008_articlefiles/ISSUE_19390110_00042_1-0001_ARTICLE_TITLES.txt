@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Neue Schnlverfügungen im Memelgebiet.
+Found
+MODSMD_ARTICLE02: Estnische Anerkennung für deutsche Seeleute.
+Found
+MODSMD_ARTICLE03: Das deutsche Gastspiel in Rom.
+Found
+MODSMD_ARTICLE04: 837 bolschewistische Flugzeuge zur Strecke gebracht.
+Found
+MODSMD_ARTICLE05: 23 Orte zwischen Lerida und Cervera erobert.
+Found
+MODSMD_ARTICLE06: Einberufung des slowakischen Landtages.
+Found
+MODSMD_ARTICLE07: Botschafter Phipps bei Bonnet.
+Found
+MODSMD_ARTICLE08: Paris erwartet Chamberlain.
+Found
+MODSMD_ARTICLE09: Sir John Anderson über Englands Zivilen Luftschutz.
+Found
+MODSMD_ARTICLE10: Erschießungen und Terrormaßnahmen gegen die Araber.
+Found
+MODSMD_ARTICLE11: Verstärkte kommunistische Agitation in USA.
+Found
+MODSMD_ARTICLE12: „Kommunismus ist Erzfeind von Kultur, Gesetz, Ordnung."
+Found

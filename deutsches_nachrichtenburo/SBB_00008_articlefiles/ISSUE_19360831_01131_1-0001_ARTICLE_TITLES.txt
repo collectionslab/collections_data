@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Dank des Reichsverkehrsministers an die Handelsschiffahrt.
+Found
+MODSMD_ARTICLE02: Die Tätigkeit der deutschen Kriegschiffe vor Spanien.
+Found
+MODSMD_ARTICLE03: Generalleutnant Freiherr von Watter 75 Jahre.
+Found
+MODSMD_ARTICLE04: Deutsch-polnisches Abkommen.
+Found
+MODSMD_ARTICLE05: Der Wachtmeister-Ersatz der Schutzpolizei.
+Found
+MODSMD_ARTICLE06: Reichsminister Dr. Goebbels von Venedig abgeflogen.
+Found
+MODSMD_ARTICLE07: Mussolinis Rede im Mittelpunkt der römischen Presse.
+Found
+MODSMD_ARTICLE08: Französische Blätterstimmen zur Rede Mussolinis.
+Found
+MODSMD_ARTICLE09: Die Pariser Presse Zum rumänischen Kabinettswechsel.
+Found
+MODSMD_ARTICLE10: Schweres Grubenunglück in Bochum. 20 Todesopfer.
+Found
+MODSMD_ARTICLE11: „Passionaria" reist nach Paris.
+Found
+MODSMD_ARTICLE12: Paris fragt: „Was geht in Sowjetrußland vor?"
+Found
+MODSMD_ARTICLE13: „Trotzkisten"-Berhaftungen auch in der Krim.
+Found
+MODSMD_ARTICLE14: Der spanische Gesandte in Tokio zurückgetreten.
+Found
+MODSMD_ARTICLE15: Japan fordert Erhöhung seiner U-Bootstonnage.
+Found

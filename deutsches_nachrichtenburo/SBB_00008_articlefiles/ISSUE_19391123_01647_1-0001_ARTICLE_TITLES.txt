@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Reichssinan,Minister über den Ausbau des Warthegaues,
+Found
+MODSMD_ARTICLE02: Die Folgen der Blockade treffen vornehmlich England.
+Found
+MODSMD_ARTICLE03: Das ist der Organisator des Münchener Attentats.
+Found
+MODSMD_ARTICLE04: Die dänische Presse: „Deutschland hat recht!"
+Found
+MODSMD_ARTICLE05: „Freudeinbotschaft" für die britischen Steuerzahler.
+Found
+MODSMD_ARTICLE06: Echt englische Anregung eines Ministers von morgen.
+Found
+MODSMD_ARTICLE07: Griechischer Dampfer vor Englands Küste gesunken.
+Found
+MODSMD_ARTICLE08: Englische Giftgasindustrie in Palästina.
+Found
+MODSMD_ARTICLE09: Der Araber-Aufstand in Palästina geht weiter.
+Found
+MODSMD_ARTICLE10: Die Inder schauen nach Rußland.
+Found
+MODSMD_ARTICLE11: Ganz Indien nimmt den Kampf um seine Freiheit auf.
+Found
+MODSMD_ARTICLE12: „Ein vernichtendes Urteil für die britische Flotte."
+Found

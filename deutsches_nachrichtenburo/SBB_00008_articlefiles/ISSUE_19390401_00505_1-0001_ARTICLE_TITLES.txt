@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Raeder zum Großadmiral befördert.
+Found
+MODSMD_ARTICLE02: Hamburg ehrt Großadmiral Raeder.
+Found
+MODSMD_ARTICLE03: Mastny beim Reichsaußenminister.
+Found
+MODSMD_ARTICLE04: Hauptmann von Moreau tödlich abgestürzt.
+Found
+MODSMD_ARTICLE05: Tie Verwaltung der NSDAP.
+Found
+MODSMD_ARTICLE06: Mussolini in der Umgebung von Neapel.
+Found
+MODSMD_ARTICLE07: Graf Ciano empfing den englischen Geschäftsträger.
+Found
+MODSMD_ARTICLE08: Italien: „Ausfluß der englischen Kriegspsychose."
+Found
+MODSMD_ARTICLE09: Madrids Bürgermeister wieder im Rathaus.
+Found
+MODSMD_ARTICLE10: Mißglückter Anschlag auf einen Engländer in Akko.
+Found
+MODSMD_ARTICLE11: Brasilien und das nordamerikanische Baumwolldumping.
+Found
+MODSMD_ARTICLE12: Francs endlich auch von Roosevelt anerkannt.
+Found
+MODSMD_ARTICLE13: Die Kennzahl für die Lebenshaltungskosten.
+Found

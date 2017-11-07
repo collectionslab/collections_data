@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Weitere Reichsmittel für die Kleinsiedlung.
+Found
+MODSMD_ARTICLE02: Der Petrusheiin-Prozest in Kleve.
+Found
+MODSMD_ARTICLE03: Kommunistenverhaftungen in Oesterreich.
+Found
+MODSMD_ARTICLE04: Die Haudelsvertragsverhandlungen Prag—Wien.
+Found
+MODSMD_ARTICLE05: Gömbös auf dem Wege der Genesung.
+Found
+MODSMD_ARTICLE06: Der Besuch des österreichischen Vizekanzlers.
+Found
+MODSMD_ARTICLE07: Das Blatt Bethlens verboten.
+Found
+MODSMD_ARTICLE08: Außenpolitische Erklärungen van Zeelands.
+Found
+MODSMD_ARTICLE09: Aufhebung der Sanktionen durch die Schweiz.
+Found
+MODSMD_ARTICLE10: Beschleunigter Ausbau der britischen Flotte.
+Found
+MODSMD_ARTICLE11: Prägung von Goldmünzen Zur Krönung Eduards VIII.
+Found
+MODSMD_ARTICLE12: Aenderung der j^DMM
+Found
+MODSMD_ARTICLE13: Zeitschriftenverleger in Irland verhaftet.
+Found
+MODSMD_ARTICLE14: Paris zur Zurückziehung englischer Kriegsschiffe.
+Found
+MODSMD_ARTICLE15: Französische Militärs weihen chemische Werke ein.
+Found
+MODSMD_ARTICLE16: Schleppender Verlauf der Beratungen in Montreux.
+Found
+MODSMD_ARTICLE17: Verhaftung eines spanischen Generals.
+Found
+MODSMD_ARTICLE18: Ueber 209 Todesopfer der Gluthitze in Amerika.
+Found

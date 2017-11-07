@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Tie neue Gliederung Oesterreichs.
+Found
+MODSMD_ARTICLE02: HJ. gegen die Landflucht.
+Found
+MODSMD_ARTICLE03: Skagerrakfeier auf Kreuzer „Köln" in Riga.
+Found
+MODSMD_ARTICLE04: Schweden und die Genfer Liga.
+Found
+MODSMD_ARTICLE05: Norwegen wünscht unbedingte Neutralität.
+Found
+MODSMD_ARTICLE06: Der rumänische Botschafter beim Staatspräsidenten.
+Found
+MODSMD_ARTICLE07: Das polnisch-rumänische Bündnis abseits von Genf.
+Found
+MODSMD_ARTICLE08: Empfang Zu Ehren General Jonescus.
+Found
+MODSMD_ARTICLE09: Moskau Plaut eine neue Fernost-Armee.
+Found
+MODSMD_ARTICLE10: Prag leugnet Wahlterror«
+Found
+MODSMD_ARTICLE11: Neuer Unterstaatssekretär im englischen Außenamt.
+Found
+MODSMD_ARTICLE12: Erster englischer Wehrpflicht-Kommentar.
+Found
+MODSMD_ARTICLE14: Beunruhigung in England wegen der Wehrpflicht.
+Found
+MODSMD_ARTICLE15: Fünftausend Gefangene in drei Tagen.
+Found
+MODSMD_ARTICLE16: Francs plant den Bau einer mächtigen spanischen Flotte.
+Found
+MODSMD_ARTICLE17: Die Schweiz will eine Gesandtschaft in Helsinki errichten.
+Found
+MODSMD_ARTICLE18: Freundschastsvertrag Litauen—Mexiko.
+Not Found
+MODSMD_ARTICLE19: Ein übles Kapitel jüdischer Lebensmittelfälschung.
+Found

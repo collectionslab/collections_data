@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Dr. Goebbels spricht auf Buchhändler-Festversammlung.
+Found
+MODSMD_ARTICLE02: Luftschiff „Hindenburg" über dem Nordatlantik.
+Found
+MODSMD_ARTICLE03: Englisch erste Fremdsprache.
+Found
+MODSMD_ARTICLE04: Erleichterung der Filmberichterstattung.
+Found
+MODSMD_ARTICLE05: Abschied des Gesandten Christofs von Berlin.
+Found
+MODSMD_ARTICLE06: Eröffnung der Breslauer Sudostausstellung.
+Found
+MODSMD_ARTICLE07: Konzertreise der Philharmoniker in die Schweiz.
+Found
+MODSMD_ARTICLE08: Der deutsche Emigrant Dr. Wesemann verurteilt.
+Found
+MODSMD_ARTICLE09: Konservative Niederlage bei einer Unterhaus-Nachwahl.
+Found
+MODSMD_ARTICLE10: Attlee will sich mit Blum besprechen.
+Found
+MODSMD_ARTICLE11: Zusammentritt des französischen Ministerrats.
+Found
+MODSMD_ARTICLE12: Die Konferenz der Kleinen Entente.
+Found
+MODSMD_ARTICLE13: Der König der Belgier empfängt den deutschen Gesandten.
+Found
+MODSMD_ARTICLE14: Kennzahl der Großhandelspreise Monatsdurchschnitt April.
+Found
+MODSMD_ARTICLE15: Steuersteckbrief und Vermögensbeschlagnahme.
+Found

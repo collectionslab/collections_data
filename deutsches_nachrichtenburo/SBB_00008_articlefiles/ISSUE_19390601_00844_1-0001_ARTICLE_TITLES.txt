@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Tie Belgrader Presse zum Staatsbesuch des Prinzregenten.
+Found
+MODSMD_ARTICLE02: Reue Behördenwillkür in Ostoberschlesien.
+Found
+MODSMD_ARTICLE03: Senator Wiesner an Polens Ministerpräsidenten.
+Found
+MODSMD_ARTICLE04: Auch die Warschauer Presse von Moloiow enttäuscht.
+Found
+MODSMD_ARTICLE05: „Englische „Friedensfront" will den Krieg!"
+Found
+MODSMD_ARTICLE06: Der türkische Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE07: Anerkennung der Slowakei durch Japan.
+Found
+MODSMD_ARTICLE08: Schwere Verluste der Außenmongolen.
+Found
+MODSMD_ARTICLE09: Palästina ist die Heimat der Araber.
+Found
+MODSMD_ARTICLE10: Erschütternde Elendszahlen aus Roosevelts Staat.
+Found
+MODSMD_ARTICLE11: Ausdehnung des amerikanischen Hafenarbeiterstreiks.
+Found
+MODSMD_ARTICLE12: USA. bestätigt mexikanische Entschädigungsraie.
+Found
+MODSMD_ARTICLE13: BWsiliens Innenminister besichtigt die Fernseh-Ausstellung.
+Found
+MODSMD_ARTICLE14: Japanischer Kulturabend in Magdeburg.
+Found

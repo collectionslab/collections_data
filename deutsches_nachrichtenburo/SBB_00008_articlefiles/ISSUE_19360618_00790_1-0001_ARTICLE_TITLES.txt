@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Fachschaftslager der deutschen Forststudenten.
+Found
+MODSMD_ARTICLE02: Reichsarbeitsdienstabteilung „Hans Maikowski".
+Found
+MODSMD_ARTICLE03: Die Bautätigkeit im Deutschen Reich im Jahre 1935.
+Found
+MODSMD_ARTICLE04: Senatsaussprache über die Sozialgesetze.
+Found
+MODSMD_ARTICLE05: Die Streikbewegung in Frankreich.
+Found
+MODSMD_ARTICLE06: Vereinbarung zur Beendigung des belgischen Streiks.
+Found
+MODSMD_ARTICLE07: Eine arabische Abordnung aus Palästina in London.
+Found
+MODSMD_ARTICLE08: Palästina-Fragen vor dem Unterhaus.
+Found
+MODSMD_ARTICLE09: Neue schwere Zwischenfälle in Palästina.
+Found
+MODSMD_ARTICLE10: Neuordnung der britischen Luftwaffe.
+Found
+MODSMD_ARTICLE11: Neuer polnischer Botschafter für Moskau.
+Found
+MODSMD_ARTICLE12: Ein polnisches Grenzzonengesetz.
+Found
+MODSMD_ARTICLE13: Kurzer Besuch des türkischen Außenministers in Belgrad.
+Found
+MODSMD_ARTICLE14: Minenarbeiterstreik in Asturien beigelegt.
+Found
+MODSMD_ARTICLE15: Streikausschreitungen in Barcelona
+Found
+MODSMD_ARTICLE16: Die Forderungen Kantons.
+Found
+MODSMD_ARTICLE17: 2 379 Millionen Dollar bewilligt.'
+Found
+MODSMD_ARTICLE18: Senator Duncan Fletscher f.
+Found
+MODSMD_ARTICLE19: Heinrich Lorsch f.
+Found

@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Der Führer eröffnet am Dienstag das WHW.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Minister Ruft an die Hochschulen.
+Found
+MODSMD_ARTICLE04: Gedächtnisfeier für Hans Schemm.
+Found
+MODSMD_ARTICLE05: „Reichsbund der Freien Schwestern und Pflegerinnen".
+Found
+MODSMD_ARTICLE06: Ter Regierende Bürgermeister von Lübeck in Oslo.
+Found
+MODSMD_ARTICLE07: Sndetendeutsches Erntedankfest in Leitmeritz.
+Found
+MODSMD_ARTICLE08: Auch Italien wertet ab.
+Found
+MODSMD_ARTICLE10: Die Spaltung in der österreichischen Heimwehrbewegung.
+Found
+MODSMD_ARTICLE11: Kundgebung der „Legion der Jugend" für Nydz-Snngly.
+Found
+MODSMD_ARTICLE12: Spannung unter den englischen Marxisten.
+Found
+MODSMD_ARTICLE13: Die englische Arbeiterpartei für Nichteinmischung»
+Found
+MODSMD_ARTICLE14: Daladier kündigt Organisation des „Volkes in Waffen" an.
+Found
+MODSMD_ARTICLE15: Der französische Wirtschaftsminister im Rundfunk.
+Found
+MODSMD_ARTICLE16: Warnung Vor der Emigrantenhetze.
+Found
+MODSMD_ARTICLE17: Autuu„mli führt zur Entdeckung von Wnffcnsck,...,mmi
+Found
+MODSMD_ARTICLE18: „Echo de Paris" über die Goldausplünderung Spaniens.
+Found
+MODSMD_ARTICLE19: General Queipo de Llano über die roten Kampsmethoden.
+Found
+MODSMD_ARTICLE20: Lebensmittelmangel in Madrid wird fühlbar.
+Found
+MODSMD_ARTICLE21: Nationalistische Warnung an die Seefahrer.
+Found
+MODSMD_ARTICLE22: Tokio weist jede Einmischung zurück.
+Found

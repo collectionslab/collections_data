@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Hungerstreik auf einer Zinkhütte in Ostoberschlesien.
+Found
+MODSMD_ARTICLE02: „Die Juden rufen die demokratischen Staaten zu Hilfe".
+Found
+MODSMD_ARTICLE03: Ungarns Judenzeitungen wollen Panik erregen.
+Found
+MODSMD_ARTICLE04: „Kollektive Sicherheit in Südosteuropa endgültig vorbei."
+Found
+MODSMD_ARTICLE05: Visumzwang Zwischen der Tschechoslowakei und Rumänien.
+Found
+MODSMD_ARTICLE06: Micescu über die Wirtschaftsbeziehungen zu Deutschland.
+Found
+MODSMD_ARTICLE07: Der Rumänen-Besuch in Rom.
+Found
+MODSMD_ARTICLE08: Der britische Botschafter bei Graf Ciano.
+Found
+MODSMD_ARTICLE09: Englischer Schritt in Bukarest.
+Found
+MODSMD_ARTICLE10: Van Zeeland reist erst Donnerstag nach London.
+Found
+MODSMD_ARTICLE11: Wieder Feuer auf englischem Kriegsschiff.
+Found
+MODSMD_ARTICLE12: „Evening Standard" zum britischen Weißbuch.
+Found
+MODSMD_ARTICLE13: Steigende Arbeitslosenzifsern in Großbritannien.
+Found
+MODSMD_ARTICLE14: Genefa, der größte Militärflughafen im Nahen Orient.
+Found
+MODSMD_ARTICLE15: Kronprinz Michael von Rumänien in Seenot?
+Found
+MODSMD_ARTICLE16: Unruhiges Palästina.
+Found
+MODSMD_ARTICLE17: Israel macht die ganze Welt mobil.
+Found
+MODSMD_ARTICLE18: Sutherland tritt aus dem Obersten Bumdesgericht aus.
+Found
+MODSMD_ARTICLE19: Budgetbotschaft Roosevelts. 959 Millionen Dollar Defizit.
+Found
+MODSMD_ARTICLE20: Wiederaufnahme des japanischen Vormarsches.
+Found
+MODSMD_ARTICLE21: Neuer japanischer Erfolg in Schantung.
+Found

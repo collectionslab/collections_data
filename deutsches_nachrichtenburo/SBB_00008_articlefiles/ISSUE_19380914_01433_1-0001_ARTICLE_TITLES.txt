@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Staatssekretär Brinkmann auf der Wiener Messe.
+Found
+MODSMD_ARTICLE02: Sutton-Pratt erneut von Tschechen beschossen»
+Found
+MODSMD_ARTICLE03: Nur die Prager Regierung verantwortlich.
+Found
+MODSMD_ARTICLE04: Eszterhazy: Ungarn bestehen auf Wiedergutmachung.
+Found
+MODSMD_ARTICLE05: Holland verwirft die Sanktionspolitik!
+Found
+MODSMD_ARTICLE06: Vorstoß in Genf gegen die Sanktionsverpflichtungen.
+Found
+MODSMD_ARTICLE07: Der erste Wahlaufruf an die Polen.
+Found
+MODSMD_ARTICLE08: Chamberlain am Donnerstag auf dem Obersalzberg
+Found
+MODSMD_ARTICLE09: Vergebliche Waffensuche bei Rexisten.
+Found
+MODSMD_ARTICLE10: Auch die Araber fordern ihr Recht.
+Found
+MODSMD_ARTICLE11: Fortgesetzte sowjetrussische Grenzverletzungen auf Sachalin.
+Found
+MODSMD_ARTICLE12: Die Abordnung der HJ. wieder in Tokio.
+Found
+MODSMD_ARTICLE13: „Graf Zeppelin" in Friedrichshafen gelandet.
+Found
+MODSMD_ARTICLE14: Vollstreckung eines Todesurteils.
+Found

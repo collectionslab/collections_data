@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Beileid des Führers zum Tode des Generals von Watter.
+Found
+MODSMD_ARTICLE02: Forschungsinstitut für den Fremdenverkehr eröffnet.
+Found
+MODSMD_ARTICLE03: Die polnische Mordwelle immer wüster.
+Found
+MODSMD_ARTICLE04: Die „Kattowitzer Zeitung" stellt ihr Erscheinen ein.
+Found
+MODSMD_ARTICLE05: Ostoberschlesien ein Heerlager.
+Found
+MODSMD_ARTICLE06: Panikstimmung in Ostoberschlesien.
+Found
+MODSMD_ARTICLE07: Brutalster Terror gegen Deutsche in Lodz.
+Found
+MODSMD_ARTICLE08: Die englische Kabinettssitzung.
+Found
+MODSMD_ARTICLE09: Londoner Börse: Geschäfte nur gegen Barzahlung.
+Found
+MODSMD_ARTICLE10: London droht.
+Found
+MODSMD_ARTICLE11: Die norwegische Presse zum Moskauer Abkommen.
+Found
+MODSMD_ARTICLE12: Polen riegelt die Grenze nach Danzig ab.
+Found
+MODSMD_ARTICLE13: Aufnahme des Paktes in Belgrad überaus positiv.
+Found
+MODSMD_ARTICLE14: „Nicht nur Macht, sondern auch diplomatische Weisheit".
+Found
+MODSMD_ARTICLE15: Anwachsen des arabischen Widerstandes in Palästina.
+Found
+MODSMD_ARTICLE16: Japan zur neuen Lage.
+Found

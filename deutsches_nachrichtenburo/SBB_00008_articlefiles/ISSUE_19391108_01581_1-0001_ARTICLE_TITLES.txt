@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ernennung im Reichsverkehrsministerium.
+Found
+MODSMD_ARTICLE02: Göring und Ribüentrop in der russischen Botschaft.
+Found
+MODSMD_ARTICLE03: Der Reichsjugendführer in Braunschweig und Magdeburg»
+Found
+MODSMD_ARTICLE04: Forschungsstelle für die Frühgeschichte des Zeitungswesens.
+Found
+MODSMD_ARTICLE05: Wegen Widerstandes gegen die Staatsgewalt ereschossen.
+Found
+MODSMD_ARTICLE06: Amerikanische Reederei unter der Flagge Panamas.
+Found
+MODSMD_ARTICLE07: Die Dominien sollen für Englands Krieg zahlen.
+Found
+MODSMD_ARTICLE08: Gustaf Adolf Gedenkfeier.
+Found
+MODSMD_ARTICLE09: Japanische Ausstellung in Magdeburg eröffnet.
+Found
+MODSMD_ARTICLE10: Neues faschistisches Parteidirektorium vom Duce gebildet.
+Found
+MODSMD_ARTICLE11: Woroschilow über den Freundfchastsvertrag mit Deutschland.
+Found
+MODSMD_ARTICLE12: Tagesbefehl an die russische Kriegsmarine.
+Found
+MODSMD_ARTICLE13: Die Sowjetunion bereitet sich aus alle Ueberraschungen vor.
+Found
+MODSMD_ARTICLE14: London über Moskau aufgebracht.
+Found
+MODSMD_ARTICLE15: „Rotterdam schwer betroffen."
+Found
+MODSMD_ARTICLE16: Norwegischer Dampfer auf Grund gelaufen.
+Found
+MODSMD_ARTICLE17: Feierliche Beisetzung Koloman von Taranyis.
+Found
+MODSMD_ARTICLE18: Unterredung Mazzolinis mit dem ägyptischen Thronfolger.
+Found

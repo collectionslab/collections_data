@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Die Londoner Presse Zur Oberhausaussprache.
+Found
+MODSMD_ARTICLE02: Starkes Echo der Rede König Leopolds in London.
+Found
+MODSMD_ARTICLE03: Scharfe Kritik an der englischen Zivillustfahrt.
+Found
+MODSMD_ARTICLE04: Graf Bolpi in London.
+Found
+MODSMD_ARTICLE05: Tschechisches Auftrittsverbot für Prof. Raabe.
+Found
+MODSMD_ARTICLE06: Gegen Mißbrauch des Bersammlungsverbotes.
+Found
+MODSMD_ARTICLE08: Ungarn und Nationalspanien.
+Found
+MODSMD_ARTICLE09: Neue judenfeindliche Studentenkundgebung in Budapest.
+Found
+MODSMD_ARTICLE10: Das neue rumänische Kabinett.
+Found
+MODSMD_ARTICLE11: Der Universitätsrektor in Lemberg wehrt sich.
+Found
+MODSMD_ARTICLE12: Kommunistische Parteileiter in der Schweiz verhaftet.
+Found
+MODSMD_ARTICLE13: 459 Haussuchungen in Paris und Umgebung.
+Found
+MODSMD_ARTICLE14: Ter Generalresident von Tunis warnt.
+Found
+MODSMD_ARTICLE15: Valencia kann Reparatur für U-Boot S 2 nicht bezahlen.
+Found
+MODSMD_ARTICLE16: Nationalspanische Abfuhr für die Havas-Lügenmeldung.
+Found
+MODSMD_ARTICLE17: Ruhe an den spanischen Fronten.
+Found
+MODSMD_ARTICLE18: Verbot aller politischen Straßenkundgebungen in Aegypten.
+Found
+MODSMD_ARTICLE19: USA sieht Kriegsgespenster.
+Found
+MODSMD_ARTICLE20: Das „Kaiserliche Hauptquartier" vom Tenno genehmigt.
+Found

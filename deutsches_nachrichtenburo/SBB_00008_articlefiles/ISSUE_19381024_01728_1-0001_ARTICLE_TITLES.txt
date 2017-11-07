@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Mustert für gute Beziehungen zu Deutschland.
+Found
+MODSMD_ARTICLE02: Minister de Monzie für Realpolitik.
+Found
+MODSMD_ARTICLE03: Die Senatswahlen im Spiegel der Pariser Presse.
+Found
+MODSMD_ARTICLE04: Tie französische Grenzkontrolle gegen Unerwünschte.
+Found
+MODSMD_ARTICLE05: London MM Rechtsruck in Frankreich.
+Found
+MODSMD_ARTICLE06: Vor japanisch-englischen Verhandlungen?
+Found
+MODSMD_ARTICLE07: Londons Interesse an den Ereignissen in China.
+Found
+MODSMD_ARTICLE08: Deutsche Jugendführerinnen in Burgos.
+Found
+MODSMD_ARTICLE09: Zwei Jahre soziales Hilfswerk der Falange.
+Found
+MODSMD_ARTICLE10: 756 bolschewistische Morde in der Provinz Lerida.
+Found
+MODSMD_ARTICLE11: Nordirland bekräftigt den Trennungsstrich.
+Found
+MODSMD_ARTICLE12: Tie amerikanischen Kanonenboote in China.
+Found
+MODSMD_ARTICLE13: Noosevelt und die englische Palästina Politik.
+Found
+MODSMD_ARTICLE14: „Jmparcial" gegen die bolschewistische Wühlarbeit.
+Found
+MODSMD_ARTICLE15: Anhaltende Unsicherheit in Palästina.
+Found
+MODSMD_ARTICLE16: Die japanische Presse widerlegt Gerüchte.
+Found

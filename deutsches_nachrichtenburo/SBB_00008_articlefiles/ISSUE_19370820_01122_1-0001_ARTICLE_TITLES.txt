@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Reichsfinanzminister Graf Schwerin von Krosigk 50 Jahre.
+Found
+MODSMD_ARTICLE02: Die deutsche und die internationale Bauernpresse.
+Found
+MODSMD_ARTICLE03: Vereinheitlichung des Handelsregisters.
+Found
+MODSMD_ARTICLE04: SS.-Führer auf dem Kyffhäuser.
+Found
+MODSMD_ARTICLE05: Die erste Reichsschießschule der HJ. eröffnet.
+Found
+MODSMD_ARTICLE06: Herbstmanöver in Bulgarien.
+Found
+MODSMD_ARTICLE07: Die deutsche Studenten-Mannschaft in Paris.
+Found
+MODSMD_ARTICLE08: Sowjetspanischer Verwundetentransport in Bayonne.
+Found
+MODSMD_ARTICLE09: Lissaboner Handelskammer bricht Beziehungen zu Prag ab.
+Found
+MODSMD_ARTICLE10: Prags Moskau-Hörigkeit.
+Found
+MODSMD_ARTICLE11: Wieder ein Dampfer von U-Boot angegriffen.
+Found
+MODSMD_ARTICLE12: England gibt die Hoffnung nicht auf.
+Found
+MODSMD_ARTICLE13: Fortgang des Streiks in Kanada und auf Mauritius.
+Found

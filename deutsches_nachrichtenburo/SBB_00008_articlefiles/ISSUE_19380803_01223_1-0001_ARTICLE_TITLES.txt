@@ -1,0 +1,50 @@
+MODSMD_ARTICLE01: Eröffnung eines neuen Museums in Bamberg.
+Found
+MODSMD_ARTICLE02: Britisches Konsulat in Innsbruck aufgelöst.
+Found
+MODSMD_ARTICLE03: Sudetendeutsche Abgeordnete bei Hodscha.
+Found
+MODSMD_ARTICLE04: Lord Runciman in Prag.
+Found
+MODSMD_ARTICLE05: Matte Begrüßung der tschechischen Presse für Runciman.
+Found
+MODSMD_ARTICLE06: Ruucimans erstes Interview.
+Found
+MODSMD_ARTICLE07: Slowakische und ungarische Broschüren für Runciman.
+Found
+MODSMD_ARTICLE08: Norwegische Auszeichnung für Beck.
+Found
+MODSMD_ARTICLE09: Erhöhung der Schlagkraft der italienischen Wehrmacht.
+Found
+MODSMD_ARTICLE10: Die „Tribuna" zu Mussolinis Wehrprogramm.
+Found
+MODSMD_ARTICLE11: Kirchenblatt m Italien verboten.
+Found
+MODSMD_ARTICLE12: Studium für ausländische Juden in Italien gesperrt.
+Found
+MODSMD_ARTICLE13: Spanische Jugendführerinnen nach Deutschland unterwegs.
+Found
+MODSMD_ARTICLE14: Blutige Verluste der roten Ausländer-Soldateska.
+Found
+MODSMD_ARTICLE15: Frankreich plant den Bau einer militärischen Oelleitung.
+Found
+MODSMD_ARTICLE16: Die landwirtschaftlichen Genossenschaften in Griechenland.
+Found
+MODSMD_ARTICLE17: Moskauer Spionage in London.
+Found
+MODSMD_ARTICLE18: Sowjetrussische Drohungen gegen Japan.
+Found
+MODSMD_ARTICLE19: Neue Opferaktion des japanischen! Volkes.
+Found
+MODSMD_ARTICLE20: Luftschlacht südlich von Hankau.
+Found
+MODSMD_ARTICLE21: Tie englische Teilungskommission verläßt Palästina.
+Found
+MODSMD_ARTICLE22: Wieder Truppeneinsatz an der indischen Grenze.
+Found
+MODSMD_ARTICLE23: 8V Tote in Burma.
+Found
+MODSMD_ARTICLE24: 12prozentige Erportsteuer in Mexiko.
+Found
+MODSMD_ARTICLE25: Zuchthaus- und Geldstrafen für jüdische Devisenverbrecher.
+Found

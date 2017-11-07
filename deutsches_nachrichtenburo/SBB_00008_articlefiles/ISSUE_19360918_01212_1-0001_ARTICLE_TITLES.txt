@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Vom Führer begnadigt.
+Found
+MODSMD_ARTICLE02: Dr. Groß über die Rassepolitik der NSDAP.
+Found
+MODSMD_ARTICLE03: Tie Notwendigkeit einer Deutschen Gesellschaft für Hygiene.
+Found
+MODSMD_ARTICLE04: Auswirkungen der letzten Amnestie.
+Found
+MODSMD_ARTICLE05: ,> Zuweisung von Patentstreitsachen an die Landgerichte.
+Found
+MODSMD_ARTICLE06: Der Unfall des Musikzuges der SS-Leibstandarte.
+Found
+MODSMD_ARTICLE07: Kommunistische Rowdies schlagen Sudeteudeutsche nieder.
+Found
+MODSMD_ARTICLE08: Delbos will Portugal warnen.
+Found
+MODSMD_ARTICLE09: 1500 spanische Flüchtlinge nach Iran zurückgekehrt.
+Found
+MODSMD_ARTICLE10: Tie kommunistische Blutherrschaft in Malaga.
+Found
+MODSMD_ARTICLE11: Neuer nationalistischer Erfolg an der Guadarrama-Front.
+Found
+MODSMD_ARTICLE12: Der Bombenangriff auf das Madrider Kriegsministerium.
+Found
+MODSMD_ARTICLE13: Der Kalif von Spanisch-Marokko für Burgos.
+Found
+MODSMD_ARTICLE14: Besorgnis über die kommunistische Gefahr in Indien.
+Found

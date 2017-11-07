@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Reichshauptamtsleiter Hederich.
+Found
+MODSMD_ARTICLE02: Die Wiener Sänger im Hamburger Rathaus.
+Found
+MODSMD_ARTICLE03: Englische Gäste im HJ.-Zeltlager Sahlenburg.
+Found
+MODSMD_ARTICLE04: Französische Sportsleute begeistert von München.
+Found
+MODSMD_ARTICLE05: Der Goethepreis von Malcesine.
+Found
+MODSMD_ARTICLE06: Mussolini nach Sizilien unterwegs.
+Found
+MODSMD_ARTICLE07: Dreimotoriger roter Fokker bombardierte die „Mongioia".
+Found
+MODSMD_ARTICLE08: „Kaltblütig vorbedachter Piratenüberfall".
+Found
+MODSMD_ARTICLE09: „Religionsfreiheit in Sowjetspanien".
+Found
+MODSMD_ARTICLE10: Schwere Reibereien im spanischen Bolschewistenlager.
+Found
+MODSMD_ARTICLE11: Zwischenfall auf einem Flugplatz bei Schanghai.
+Found
+MODSMD_ARTICLE12: Hulls 14 Punkte zur „internationalen Selbstbeherrschung".
+Found
+MODSMD_ARTICLE13: Das Kattegat durchschwömmen! Eine Rekordleistung.
+Found

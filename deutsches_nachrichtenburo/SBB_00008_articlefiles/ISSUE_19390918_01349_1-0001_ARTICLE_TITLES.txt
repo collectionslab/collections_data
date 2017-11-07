@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Grawitz erstattete dem Führer Meldung.
+Found
+MODSMD_ARTICLE02: Warschau bittet um Annahme eines Parlamentärs.
+Found
+MODSMD_ARTICLE03: Der Handelskrieg gegen England.
+Found
+MODSMD_ARTICLE04: Eintreffen einer japanischen Militärabordnung in Berlin.
+Found
+MODSMD_ARTICLE05: Deutsches U-Boot schießt zwei englische Flugzeuge ab.
+Found
+MODSMD_ARTICLE06: Ein Hohn auf das Genfer Statut.
+Found
+MODSMD_ARTICLE07: Kurze Auslandsnachrichten.
+Found
+MODSMD_ARTICLE08: Die Sowjetnote an die ausländischen Missionen.
+Found
+MODSMD_ARTICLE09: Ansprache Molotows über alle Sowjetsender.
+Found
+MODSMD_ARTICLE10: Englische Minen in belgischen Küstengewässern.
+Found
+MODSMD_ARTICLE11: „Slowo" über die Ursache des polnischen Zusammenbruchs.
+Found

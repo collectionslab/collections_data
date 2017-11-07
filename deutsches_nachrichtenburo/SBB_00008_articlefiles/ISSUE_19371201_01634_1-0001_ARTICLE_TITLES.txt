@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Meißner zum Staatsminister ernannt.
+Found
+MODSMD_ARTICLE02: Graf Mushakoji verabschiedet sich beim Kührer.
+Found
+MODSMD_ARTICLE03: Japanischer Besuch beim Führer.
+Found
+MODSMD_ARTICLE04: Personalverändernng in der Heeresverwaltung.
+Found
+MODSMD_ARTICLE05: Reichsdauernführer Darre in der Kurmark.
+Found
+MODSMD_ARTICLE06: Darre spricht am 12. Dezember zum deutschen Landvolk.
+Found
+MODSMD_ARTICLE07: Neue leitende Justizbeamte in Ostpreußen.
+Found
+MODSMD_ARTICLE08: Ausstellung „Entartete Kunst" geschlossen.
+Found
+MODSMD_ARTICLE09: Jugoslawien feiert den Jahrestag seiner Staatsgründwng.
+Found
+MODSMD_ARTICLE10: Stojadinowitsch kommt am Sonntag nach Rom.
+Found
+MODSMD_ARTICLE11: Polens Finanz- und Wirtschaftslage.
+Found
+MODSMD_ARTICLE12: Valencia beantwortet die Freiwilligenfrage.
+Found
+MODSMD_ARTICLE13: Englands Geschäftsträger geht von Hankan nach Schanghai.
+Found
+MODSMD_ARTICLE14: Japaner gegen Umtriebe chinesischer Regierungsmitglieder.
+Found
+MODSMD_ARTICLE15: Unaufhaltsamer Vormarsch auf Nanking.
+Found
+MODSMD_ARTICLE16: Neuguinea-Mandatsgebiet soll neue Hauptstadt erhalten.
+Found

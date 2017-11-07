@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Rudolf Heß fährt am Dienstag nach Italien.
+Found
+MODSMD_ARTICLE02: Gendarmerie auf Truppen-Uebungsplätzen.
+Found
+MODSMD_ARTICLE03: „Freude und Arbeit" auf dem Balkan.
+Found
+MODSMD_ARTICLE04: „Aufartung durch Familienpflege".
+Found
+MODSMD_ARTICLE06: Gegen die Tschechen an einer Slowakischen Universität.
+Found
+MODSMD_ARTICLE07: Internationaler Straßenbaukongreß in Budapest.
+Found
+MODSMD_ARTICLE08: Der finnische Außenminister in Riga.
+Found
+MODSMD_ARTICLE09: Besprechung über die nächste Nichteinmischungs-Sitzung.
+Found
+MODSMD_ARTICLE10: Die Regierung van Zeeland Zurückgetreten.
+Found
+MODSMD_ARTICLE11: Die bisherigen Regierungsmitglieder für van Zeeland.
+Found
+MODSMD_ARTICLE12: Neues Opfer des jüdischen Millionenschwindlers Barmat.
+Found
+MODSMD_ARTICLE13: Gemeinderatswahlen in Portugal.
+Found
+MODSMD_ARTICLE14: Valencia-Bolschewisten bombardieren französischen Dampfer.
+Found
+MODSMD_ARTICLE15: Die Säuberungsaktion in Asturien.
+Found
+MODSMD_ARTICLE16: 223 Todesurteile und Erschießungen in einer Woche.
+Found

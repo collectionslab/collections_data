@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Goethe-Medaille für Prof. Dr. Heinrich Wolf.
+Found
+MODSMD_ARTICLE02: Ueberreichung des nationalen Mm- und Buchpreises.
+Found
+MODSMD_ARTICLE03: Der ungarische Kultusminister bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: Ein Förderer der deutsch-japanischen Freundschaft f.
+Found
+MODSMD_ARTICLE05: 200 Franziskanerpatres vor Gericht.
+Found
+MODSMD_ARTICLE06: Furchtbares Fährunglück in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE07: Delbos oder Paul-Boncour?
+Found
+MODSMD_ARTICLE08: Spaltung in der katalanischen Linkspartei.
+Found
+MODSMD_ARTICLE09: Todesstrafe gegen spanischen Offizier beantragt.
+Found
+MODSMD_ARTICLE10: Finnlands Verhältnis zu den Ostsee-Staaten.
+Found

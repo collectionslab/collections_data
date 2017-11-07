@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer auf dem Kyffhäuser.
+Found
+MODSMD_ARTICLE02: Außenminister Munters in Potsdam.
+Found
+MODSMD_ARTICLE03: Spanische Marineoffiziere bei Großadmiral Raeder.
+Found
+MODSMD_ARTICLE04: Die italienisch-spanischen Freundschaftskundgebungen.
+Found
+MODSMD_ARTICLE05: Unangenehme Wahrheiten für die Plutokratien.
+Found
+MODSMD_ARTICLE06: Die Syndikate Spaniens.
+Found
+MODSMD_ARTICLE07: Moskau weiter unzufrieden und enttäuscht.
+Found
+MODSMD_ARTICLE08: Die Feier des 9. Jahrestages der Rückkehr König Karls.
+Found
+MODSMD_ARTICLE09: „Roosevelt leistet kommunistischen Einflüssen Vorschub."
+Found
+MODSMD_ARTICLE10: Unerträglicher Gewerkschaftsterror in Amerika.
+Found
+MODSMD_ARTICLE11: Die lästige KMurrenz der Rassegepossen.
+Found
+MODSMD_ARTICLE12: Unmenschliche britische Grausamkeiten!
+Found
+MODSMD_ARTICLE13: Ordensauszeichnung für Admiral Förster.
+Found
+MODSMD_ARTICLE14: Flugzeugunfall in Gelnhausen.
+Found

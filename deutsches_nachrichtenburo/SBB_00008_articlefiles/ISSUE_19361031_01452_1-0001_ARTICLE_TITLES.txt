@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Führer-Worte zum GaujubUäum.
+Found
+MODSMD_ARTICLE02: Erste Begegnung deutscher Luftschiffe über dem Atlantik.
+Found
+MODSMD_ARTICLE03: Deutsche Meistbegünstigung in Syrien-Libanon verlängert.
+Found
+MODSMD_ARTICLE04: Italienische Ordensauszeichnung für Gauleiter Bohle.
+Found
+MODSMD_ARTICLE05: Mussolinis Besuch in Mailand.
+Found
+MODSMD_ARTICLE06: Das Bauprogramm für Sie französische Kriegsmarine.
+Found
+MODSMD_ARTICLE07: Bombenangriff auf Madrid und Getafe.
+Found
+MODSMD_ARTICLE08: Außenpolitische Aussprache in Prag.
+Found
+MODSMD_ARTICLE09: Chinesische Proteste bei der japanischen Botschaft.
+Found

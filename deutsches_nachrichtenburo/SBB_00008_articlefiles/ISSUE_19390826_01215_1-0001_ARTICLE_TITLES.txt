@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der neue brasilianische Botschafter in Berlin
+Found
+MODSMD_ARTICLE02: Die Rcichsregierung empfing den Kongreß für Archäologie.
+Found
+MODSMD_ARTICLE03: Der Pfund Sturz hält an.
+Found
+MODSMD_ARTICLE04: Abreise Minister Bottais aus Wipn.
+Found
+MODSMD_ARTICLE05: Volksdeutscher Führer nach Mittelpolen verschleppt.
+Found
+MODSMD_ARTICLE06: Ein drittes deutsches Verkehrsflugzeug beschossen.
+Found
+MODSMD_ARTICLE07: Polnische Soldaten verletzen Danziger Grenze.
+Found
+MODSMD_ARTICLE08: Auf jeden deutschen Flüchtling wird geschossen.
+Found
+MODSMD_ARTICLE09: Polnische Flugzeuge über slowakischem Gebiet.
+Found
+MODSMD_ARTICLE10: Ueberstürzte Maßnahmen in Polen.
+Found
+MODSMD_ARTICLE11: Botschafter Corbin im Foreign Office.
+Found
+MODSMD_ARTICLE12: Stadthalle von Blackpool schwer beschädigt.
+Found
+MODSMD_ARTICLE13: Englische Stellungnahme zum Pfund-Sturz.
+Found
+MODSMD_ARTICLE14: Englisch-Polnisches Abkommen unterzeichnet.
+Found
+MODSMD_ARTICLE15: Jugoslawien im Banne des deutsch-russischen Abkommens.
+Found
+MODSMD_ARTICLE16: Aus der rumänischen Diplomatie.
+Found
+MODSMD_ARTICLE17: „Ein siegreicher Kampf gegen die Achse aussichtslos."
+Found
+MODSMD_ARTICLE18: Zionistenkongreß in Genf bereits beendet."
+Found

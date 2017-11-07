@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Reichsminister Ruft besichtigt Epidauros und Mykene.
+Found
+MODSMD_ARTICLE03: Jahresversammlung der Gesellschaft der Freunde des Jbero-Amerikanischen Instituts in Hamburg.
+Not Found
+MODSMD_ARTICLE04: Lord Plymonth besucht Finnland und Baltikum.
+Found
+MODSMD_ARTICLE05: Ueberraschender Zusammentritt des englischen Kabinetts.
+Found
+MODSMD_ARTICLE06: Die Rekordflieger Japans melden Tokio ihren Erfolg.
+Found
+MODSMD_ARTICLE07: Ein Vermittlungsvorschlag Gandhis.
+Found
+MODSMD_ARTICLE08: Ministerpräsident Nahas Pascha in Montreux.
+Found
+MODSMD_ARTICLE09: Schlachtschiff „Hood" vor der baskischen Küste.
+Found
+MODSMD_ARTICLE10: Vau Zeelaud dankt seinen Wählern.
+Found
+MODSMD_ARTICLE11: Pariser Stimmen zur Brüsseler Wahl.
+Found
+MODSMD_ARTICLE12: Rumäniens Marine- und Luftfahrtminister in Paris.
+Found
+MODSMD_ARTICLE13: Die Trikolore auf der Weltausstellung erneut verhöhnt.
+Found
+MODSMD_ARTICLE14: Delbos und Potemkin über „gemeinsame Friedensarbeit".
+Found
+MODSMD_ARTICLE15: Vom kommunistischen Wahn geheilt.
+Found
+MODSMD_ARTICLE16: Parteitag der Sozialpartei M der Bretagne.
+Found
+MODSMD_ARTICLE17: Holländischer Ozeandampfer von Stapel gelaufen.
+Found
+MODSMD_ARTICLE18: Paraguay erkennt das italienische Imperium an.
+Found
+MODSMD_ARTICLE19: Auch der Schwager Jagodas verhaftet.
+Found
+MODSMD_ARTICLE20: Blutiges Wochenende in Palästina.
+Found

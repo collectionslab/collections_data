@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Immer wieder Schüsse ans deutsches Gebiet. Maschinengewehrseuer auf Flüchtlinge.
+Found
+MODSMD_ARTICLE02: Kommunistische Kundgebungen in Prag. Demonstration gegen die dentsche Gesandtschaft.
+Found
+MODSMD_ARTICLE03: Der wirtschaftliche Zusammenbruch in Prag. Schließung der Effektenbörse.
+Found
+MODSMD_ARTICLE04: Marxisten wüten nach Hussitenart.
+Found
+MODSMD_ARTICLE05: Tschechische Ingenieure der Skoda-Werke verhaftet.
+Found
+MODSMD_ARTICLE06: Der Zerfall des Mosaikstaates.
+Found
+MODSMD_ARTICLE07: Der Freiheitskampf der Ukrainer.
+Found
+MODSMD_ARTICLE08: Polen verstärkt seine Grenzwachen.
+Found
+MODSMD_ARTICLE09: Prag ergibt sich. Energischer Druck Englands und Frankreich?»
+Found
+MODSMD_ARTICLE10: Mussolini wiederholt seine Forderung.
+Found
+MODSMD_ARTICLE11: Donnerstag 10 Uhr Abflug Chamberlains nach Godesberg.
+Found
+MODSMD_ARTICLE12: Litwinow-Finkelstein trauert um Benesch.
+Found
+MODSMD_ARTICLE13: Moskaus Einmischung im Fernen Osten.
+Found
+MODSMD_ARTICLE14: HJ.Führer bei Jtagaki und Ugaki.
+Found
+MODSMD_ARTICLE15: Ein Wahlerfolg Roosevelts.
+Found

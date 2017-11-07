@@ -1,0 +1,4 @@
+MODSMD_ARTICLE01: Das Erntedankfest des Deutschen Volkes.
+Found
+MODSMD_ARTICLE02: Die Rede des Führers.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer und Dr. Goebbels an den Autorenkongreß.
+Found
+MODSMD_ARTICLE02: Vom Führer begnadigt.
+Found
+MODSMD_ARTICLE03: Blutuntersuchungen für das ganze Reich angeordnet.
+Found
+MODSMD_ARTICLE04: Griechische Ordensauszcichuung für Dr. Karl Bvmer.
+Found
+MODSMD_ARTICLE05: Deutschlands Recht auf Kolonien.
+Found
+MODSMD_ARTICLE06: Senat zusammengetreten und vertagt.
+Found
+MODSMD_ARTICLE07: Widerstände im Senat gegen die Abwertung des Franken.
+Found
+MODSMD_ARTICLE08: General Krejci besichtigt französische Grenzbefestigungen.
+Found
+MODSMD_ARTICLE09: Notmaßnahmen vom Ständerat angenommen.
+Found
+MODSMD_ARTICLE10: Abwertungsverordnung vor dem Schweizer Nationalrat.
+Found
+MODSMD_ARTICLE11: Abessiuieus Delegation an die Völkerbundsmitglieder.
+Found
+MODSMD_ARTICLE12: Reuter dementiert türkischen Ministerbesuch.
+Found
+MODSMD_ARTICLE13: Der neue Londoner Lordmajor. i
+Found
+MODSMD_ARTICLE14: Sir Philipp Sassoon in Aegypten.
+Found
+MODSMD_ARTICLE15: Aegypten wehrt jüdische Einwanderer aus Palästina ab.
+Found
+MODSMD_ARTICLE16: Ausweisung und Verhaftung von Kommunisten in Palästina.
+Found
+MODSMD_ARTICLE17: Vor der Beendigung des Streiks in Palästina?
+Found
+MODSMD_ARTICLE18: Regierungserklärung des neuen schwedischen Kabinetts.
+Found
+MODSMD_ARTICLE19: Anarchisten-Regierung in Madrid?
+Found

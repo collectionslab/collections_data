@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Falschmeldung des Krakauer Illustrierten Kuriers.
+Found
+MODSMD_ARTICLE02: Polnisch-französische Anleihe-Verhandlungen.
+Found
+MODSMD_ARTICLE03: Polens Interesse für Mandatsfragen.
+Found
+MODSMD_ARTICLE04: Englische Glaubensliga kämpft gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE05: „Der Internationalismus hat Schiffbruch erlitten."
+Found
+MODSMD_ARTICLE06: Bolschewistische Geldsammlungen für spanische Marxisten.
+Found
+MODSMD_ARTICLE07: Richtlinien für die spanischen Flüchtlinge in Frankreich.
+Found
+MODSMD_ARTICLE08: Rascher Vormarsch der Nationalisten auf Bilbao.
+Found
+MODSMD_ARTICLE09: Wieder vier Todesurteile in Barcelona.
+Found
+MODSMD_ARTICLE10: Weitere Spanienfliichtlinge in Lissabon eingetroffen.
+Found
+MODSMD_ARTICLE11: Der spanische Botschafter bei Lebrun.
+Found
+MODSMD_ARTICLE12: Gescheiterte Verhandlungen in Roubaix-Tourcoing.
+Found
+MODSMD_ARTICLE13: Die Vorbereitungen der Präsidentenwahl in Uruguay.
+Found
+MODSMD_ARTICLE14: Südamerika wehrt sich gegen die kommunistische Gefahr.
+Found
+MODSMD_ARTICLE15: Auch in Mexiko Feldzug gegen die bolschewistische Pest.
+Found
+MODSMD_ARTICLE16: Vierhundertjahrfeier von Valparaiso.
+Found
+MODSMD_ARTICLE17: Chilenische Gesandte nach Santiago berufen.
+Found
+MODSMD_ARTICLE18: Ein eigenartiger Zwischenfall.
+Found
+MODSMD_ARTICLE19: Nene Vermitilungsaktion in Palästina?
+Found
+MODSMD_ARTICLE20: Palästina in Erwartung der britischen Truppenverstärkungen.
+Found

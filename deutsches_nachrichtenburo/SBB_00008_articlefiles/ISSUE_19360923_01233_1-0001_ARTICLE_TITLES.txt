@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der deutsche Reichsaußenminister wieder in Budapest.
+Found
+MODSMD_ARTICLE02: Der Reichssportführer vor BDM-Reichssühreriuucu.
+Found
+MODSMD_ARTICLE03: HI-Führer reisen nach Lissabon.
+Found
+MODSMD_ARTICLE04: Englands Mittelmeerpolitik.
+Found
+MODSMD_ARTICLE05: Englische Kriegsschiffe nach dem östlichen Mittelmeer.
+Found
+MODSMD_ARTICLE06: Allgemeine Wehrpflicht in Australien gefordert.
+Found
+MODSMD_ARTICLE07: Englische Militärabordnung bereist Sowjetrußland.
+Found
+MODSMD_ARTICLE08: Kabinettsrat in Brüssel.
+Found
+MODSMD_ARTICLE09: Die Zusammensetzung des neuen Landsting.
+Found
+MODSMD_ARTICLE10: Herbstmanöver in Dänemark.
+Found
+MODSMD_ARTICLE11: Zweitägiger Ministerrat in Budapest.
+Found
+MODSMD_ARTICLE12: Lohnforderungen der Müllkutscher in Lille»
+Found

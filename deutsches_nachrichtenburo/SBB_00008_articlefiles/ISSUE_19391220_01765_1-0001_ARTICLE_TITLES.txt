@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Ehreuausschuß der „Stiftung für Opfer der Arbeit".
+Found
+MODSMD_ARTICLE02: Frankreich will Versailles noch übertrumpfen.
+Found
+MODSMD_ARTICLE03: „Wirtschaftlicher Selbstmord Englands".
+Found
+MODSMD_ARTICLE04: Der britische Dampfer „Darino" torpediert.
+Found
+MODSMD_ARTICLE05: Vetternwirtschaft in Whitehall.
+Found
+MODSMD_ARTICLE06: Neue deutsche Angriffe auf britische Schiffe.
+Found
+MODSMD_ARTICLE07: Die Arbeiter opfern die Kapitalisten verdienen.
+Found
+MODSMD_ARTICLE08: Russische Bomber griffen den Flugplatz Helsinki am
+Found
+MODSMD_ARTICLE09: Der russische Vormarsch geht unaufhaltsam vorwärts.
+Found
+MODSMD_ARTICLE10: Die Russen rücken unaufhaltsam vor.
+Found
+MODSMD_ARTICLE11: Außenpolitische Erklärung Spaaks.
+Found
+MODSMD_ARTICLE12: Frankreich spürt den Wirtschaftskrieg.
+Found
+MODSMD_ARTICLE13: Belgrad zu der Luftschlacht.
+Found
+MODSMD_ARTICLE14: Die deutsche Wirtschatfsabordnung wieder in Moskau.
+Found
+MODSMD_ARTICLE15: Große Angriffserfolge unserer Lustwaffe in der Nordsee.
+Found
+MODSMD_ARTICLE16: Der russische Heeresbericht.
+Found
+MODSMD_ARTICLE17: Heftige Kämpfe auf der Karelischen Landenge.
+Found
+MODSMD_ARTICLE18: Vollstreckung von Todesurteilen.
+Found

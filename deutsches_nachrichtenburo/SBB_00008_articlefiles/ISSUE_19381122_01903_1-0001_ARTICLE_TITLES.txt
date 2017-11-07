@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die Verhandlungen über die „Südbahn" abgeschlossen.
+Found
+MODSMD_ARTICLE02: Die neue deutsch-tschechische Grenze.
+Found
+MODSMD_ARTICLE03: Die tschechische Presse begrüßt die Grenzregelung.
+Found
+MODSMD_ARTICLE04: Die Prager Verhandlungen über die Präsidentenwahl.
+Found
+MODSMD_ARTICLE05: In Zukunft nur noch eine Partei in der Slowakei.
+Found
+MODSMD_ARTICLE06: Die Beziehungen zwischen Polen und Litauen.
+Found
+MODSMD_ARTICLE07: Wie das polnische Heer verseucht werden sollte.
+Found
+MODSMD_ARTICLE08: Tie „Vaterländische Volksbewegung" in Finnland verboten.
+Found
+MODSMD_ARTICLE09: Ausdehnung der Wehrpflicht in der Schweiz.
+Found
+MODSMD_ARTICLE10: Kabinettssitzung in London.
+Found
+MODSMD_ARTICLE11: Die internationale Jndensrage vor dem Unterhaus.
+Found
+MODSMD_ARTICLE12: Austritt aus der Liberalen Partei.
+Found
+MODSMD_ARTICLE13: Gedenkfeier in Sevilla für den Falangegründer.
+Found
+MODSMD_ARTICLE14: Umfangreiche Beute au der Segre-Front.
+Found
+MODSMD_ARTICLE15: Stalin bereitet neue Ilmtriebe vor.
+Found
+MODSMD_ARTICLE16: Eine Botschaft des türkischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE17: Ein neuer Fall von Lynchjustiz in Amerika.
+Found

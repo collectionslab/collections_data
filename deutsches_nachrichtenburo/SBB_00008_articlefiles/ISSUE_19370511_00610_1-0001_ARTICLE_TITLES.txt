@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Polens Justizminister beim Führer.
+Found
+MODSMD_ARTICLE02: Der polnische Justizminister bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Deutsch-Polnische Arbeitsgemeinschaft gegründet.
+Found
+MODSMD_ARTICLE04: Frühstück zu Ehren des polnischen Justizministers.
+Found
+MODSMD_ARTICLE05: Senator Laue aus Bremer Landesdienst ausgeschieden.
+Found
+MODSMD_ARTICLE06: Lügenhetze englischer Propagandastellen.
+Found
+MODSMD_ARTICLE08: Der „Seeteufel" in Oslo.
+Found
+MODSMD_ARTICLE09: Der ehemalige Ministerpräsident Portugals Costa st.
+Found
+MODSMD_ARTICLE10: Die jugoslawischen Journalisten bei Mussolini. !
+Found
+MODSMD_ARTICLE11: Neue Luftverbindung Rom—Prag.
+Not Found
+MODSMD_ARTICLE12: Addis Abeba künftig nicht mehr Hauptstadt.
+Found
+MODSMD_ARTICLE13: Kaplan wegen Sittlichkeitsverbrechens verurteilt.
+Found
+MODSMD_ARTICLE14: Deutscher Sieg im Preis der Nationen.
+Found
+MODSMD_ARTICLE15: 2 Todesurteile gegen die Mörder Ingrid Wiengreens.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Vizeadmiral a. D. von Reuter.
+Found
+MODSMD_ARTICLE02: Neuerliche Sitzung des Verteidigungsrates in Rom.
+Found
+MODSMD_ARTICLE03: Todesurteil gegen kommunistischen Mordgesellen in Polen.
+Found
+MODSMD_ARTICLE04: Kommunistenrazzia der Warschauer Polizei.
+Found
+MODSMD_ARTICLE05: Marokkos Küstenschutz wird verstärkt.
+Found
+MODSMD_ARTICLE06: Der Gibraltar-Gouverneur besucht Frauzösisch-Maroko.
+Found
+MODSMD_ARTICLE07: Keine Waffenhilfe Sowjetrußlauds für Frankreich.
+Found
+MODSMD_ARTICLE08: Verstärkung der Wachtposten in Argeles.
+Found
+MODSMD_ARTICLE09: Briickensprengungen sollen Franca aufhalten.
+Found
+MODSMD_ARTICLE10: Installierung der Negrin-„Regierung" in Perthus?
+Found
+MODSMD_ARTICLE11: Reichlich verfrühter Optimismus in Paris.
+Found
+MODSMD_ARTICLE12: Bolschewistisches Kriegsmaterial kehrt heim.
+Found
+MODSMD_ARTICLE13: Versprengte der roten Gangsterarmee in Paris.
+Found
+MODSMD_ARTICLE14: Englischer Kreuzer für den Abgesandten Francas.
+Found
+MODSMD_ARTICLE15: Die „Flüchtlinge" sind Verschleppte!
+Found
+MODSMD_ARTICLE16: Gibraltar erhält einen neuen Flugplatz.
+Found
+MODSMD_ARTICLE17: Das kostspielige Palästina-Abenteuer.
+Found
+MODSMD_ARTICLE18: Großhaudelskenuzahl für Januar.
+Found

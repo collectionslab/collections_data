@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Göring spricht zu den Forstmännern.
+Found
+MODSMD_ARTICLE02: Eine typisch englische Verdrehung.
+Found
+MODSMD_ARTICLE03: General Balle aus einer Erprobungsstelle der Luftwaffe.
+Found
+MODSMD_ARTICLE04: Die Sonderbesteuerung der britischen Rüstungsgewinne.
+Found

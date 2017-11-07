@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Aussprache zwischen dem Führer und dem österreichischen Bundeskanzler. Eine amtliche Verlautbarung.
+Found
+MODSMD_ARTICLE02: Deutsch österreichischer Steuerausgleichungsvertrag.
+Found
+MODSMD_ARTICLE03: Die Eröffnung der Automobil-Ausstellung im Rundfunk.
+Found
+MODSMD_ARTICLE04: Richtfest auf der Ordensburg Crössinsee.
+Found
+MODSMD_ARTICLE05: „Lavoro Fascista" über das Abkommen Starace—Ley.
+Not Found
+MODSMD_ARTICLE06: Die Komplizen Moskaus.
+Found
+MODSMD_ARTICLE07: Ein Flugzeug der Ala Littoria untergegangen.
+Found
+MODSMD_ARTICLE08: Sir Eric Phipps von Telbos empfangen.
+Found
+MODSMD_ARTICLE09: Neue Lohnausgleichsforderungen in Frankreich.
+Found
+MODSMD_ARTICLE10: Empfang des Diplomatischen Führer
+Found
+MODSMD_ARTICLE11: Die Lage in den französischen Kolonien.
+Found
+MODSMD_ARTICLE12: Die englisch-amerikanischen Handelsvertragsverhandlungen.
+Found
+MODSMD_ARTICLE13: Sowjetspanien läßt sich weiter aushalten.
+Found
+MODSMD_ARTICLE14: Kommunistische Zellen in Polen aufgedeckt.
+Found
+MODSMD_ARTICLE15: Stalins Erklärungen ein Alarmruf für die Kulturwelt.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der jugoslawische Staatsbesuch iu Berlin
+Found
+MODSMD_ARTICLE03: Marine begrützt Spanienlegionäre.
+Found
+MODSMD_ARTICLE04: Ausschaltung des Judentums in der Slowakei.
+Found
+MODSMD_ARTICLE05: Der Reichsarbeitsführer in Littoria.
+Found
+MODSMD_ARTICLE06: Freundschaftspolitik gegenüber den Achsenwächten.
+Found
+MODSMD_ARTICLE07: Tie ungarischen Wahlen im Spiegel der Presse.
+Found
+MODSMD_ARTICLE08: Wie Polen Danzig „fördert".
+Found
+MODSMD_ARTICLE09: Moskauer Auftrag für polnische Textilindustrie.
+Found
+MODSMD_ARTICLE10: Verfassungsreform in Syrien—Libanon?
+Found
+MODSMD_ARTICLE11: Der türkische Haushalt angenommen.
+Found
+MODSMD_ARTICLE12: Jüdische Emigranten völlig unerwünscht.
+Found

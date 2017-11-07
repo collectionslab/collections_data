@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Amtseinführung des Reichsführers SS Himmler.
+Found
+MODSMD_ARTICLE03: Glückwunsch des Reichsverkehrsministers.
+Found
+MODSMD_ARTICLE04: Generalmusikdirektor Schulz-Dornburg verpflichtet.
+Found
+MODSMD_ARTICLE05: Reichstagung der NS-Kulturgemeinde.
+Found
+MODSMD_ARTICLE06: Jmmelmann-Gedächtnisfeier in Dresden.
+Found
+MODSMD_ARTICLE07: Boxkampf Schmeling—Louis um 24 Stunden verlegt.
+Found
+MODSMD_ARTICLE08: Schwere Ausschreitungen in Kowno.
+Found
+MODSMD_ARTICLE09: Der französische Finanzminister spricht erst am Freitag.
+Found
+MODSMD_ARTICLE10: Botschafterempfänge beim französischen Außenminister.
+Found
+MODSMD_ARTICLE11: Bulgariens Abordnung für die Meerengen-Konferenz.
+Found
+MODSMD_ARTICLE12: Weiterer Ausbau der japanischen Landesverteidigung.
+Found
+MODSMD_ARTICLE13: Einlenken der chinesischen Südwest-Führer.
+Found
+MODSMD_ARTICLE14: Zum Anschlag auf den Flughafen von Lvdda.
+Found
+MODSMD_ARTICLE15: Maxim Gorki f.
+Found

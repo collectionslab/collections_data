@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Des Führers Beileid zum Tode Kemal Atatürks.
+Found
+MODSMD_ARTICLE02: Der Führer im Hause Rudolf Heß.
+Found
+MODSMD_ARTICLE03: Ehrung einer Hundertjährigen durch den Führer.
+Found
+MODSMD_ARTICLE04: König Georg empfing neuen argentinischen Botschafter.
+Found
+MODSMD_ARTICLE05: Horthy zieht am Freitag in Kaschau ein.
+Found
+MODSMD_ARTICLE06: Graf Bethlen beim Reichsverweser.
+Found
+MODSMD_ARTICLE07: Rothermere: „Ungarns Vertrauen gerechtfertigt."
+Found
+MODSMD_ARTICLE08: Versetzung tschechischer Lehrkräfte aus der Slowakei.
+Found
+MODSMD_ARTICLE09: Bonnet verteidigt das Münchener Abkommen.
+Found
+MODSMD_ARTICLE10: Politika: Wirtschaftsbelebung nur von Deutschland her.
+Found
+MODSMD_ARTICLE11: Tiefe Anteilnahme auch in Jugoslawien zum Tode Atatürks.
+Found
+MODSMD_ARTICLE12: Das türkische Volk trauert um feinen Netter.
+Found
+MODSMD_ARTICLE13: Sonnabend offizielle Trauerfeier in Paris»
+Found
+MODSMD_ARTICLE14: Entrüstung in Italien über das jüdische Verbrechen.
+Found
+MODSMD_ARTICLE15: Heuchler kann man nicht überzeugen.
+Found
+MODSMD_ARTICLE16: „Corres Espanol: Der 9. November rettete Europa.
+Found
+MODSMD_ARTICLE17: Neue Welle von Strafmaßnahmen in Palästina.
+Found
+MODSMD_ARTICLE18: Neue Verwaltung in Kanton. –
+Not Found
+MODSMD_ARTICLE19: Das japanische Parlament zum 24. Dezember einberufen.
+Found
+MODSMD_ARTICLE20: Japanischer Vormarsch auf Tschaugtscha.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ehrenpreis und Wanderpreis des Führers.
+Found
+MODSMD_ARTICLE02: Reichssonderzuschuß für Kleinrentner.
+Found
+MODSMD_ARTICLE03: Reichskennzahl für die Lebenshaltungskosten im November.
+Found
+MODSMD_ARTICLE04: Trauerfeier für die Mutter des Reichswirtschaftsministers.
+Found
+MODSMD_ARTICLE05: Dänen erhalten deutsche Ordensaus Zeichnungen.
+Found
+MODSMD_ARTICLE06: Die Entdeutschung der evangelischen Kirche in Polen.
+Found
+MODSMD_ARTICLE07: Ministerpräsident von Daranyi beim Reichsverweser.
+Found
+MODSMD_ARTICLE08: „Függetlenseg" zur deutsch-ungarischen Aussprache.
+Found
+MODSMD_ARTICLE09: Ungarisches Dementi.
+Found
+MODSMD_ARTICLE10: Die Haussuchung der GPU. in Warschaus Sowjetbotschaft»
+Found
+MODSMD_ARTICLE11: Tie französischen Minister Gäste König Georgs.
+Found
+MODSMD_ARTICLE12: Die Londoner Besprechungen abgeschlossen.
+Found
+MODSMD_ARTICLE13: Die Presse bei Ministerpräsident Chautemps in London.
+Found
+MODSMD_ARTICLE14: Ernennungen im schweizerischen Bundesheer.
+Found
+MODSMD_ARTICLE15: Die Schweiz geht gegen bolschewistische Werber vor.
+Found
+MODSMD_ARTICLE16: Zeitverschleppungs- und Tarnungsmanöver.
+Found
+MODSMD_ARTICLE17: Starke Artillerietätigkeit vor Madrid.
+Found
+MODSMD_ARTICLE18: Baldur von Schirach in Damaskus.
+Found
+MODSMD_ARTICLE19: Die Japaner rücken auf Nanking vor.
+Found

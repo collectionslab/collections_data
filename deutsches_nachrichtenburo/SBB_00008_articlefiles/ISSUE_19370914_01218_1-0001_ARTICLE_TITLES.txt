@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Abreise des Führers von Nürnberg.
+Found
+MODSMD_ARTICLE02: Danktclegramm des Prinzen Chichibu an den Führer.
+Found
+MODSMD_ARTICLE03: Empfang zu Ehren des Prinzen Chichibu bei Rudolf Heß.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Ungarische Aerzte in der Hauptstadt der Bewegung.
+Found
+MODSMD_ARTICLE06: Die Jungfalangisten in München.
+Found
+MODSMD_ARTICLE07: Panzerschiff „Admiral Scheer" verließ Lissabon.
+Found
+MODSMD_ARTICLE08: Italien behält sich seine Entscheidung vor.
+Found
+MODSMD_ARTICLE09: Polnischer Beobachtungsbeamter verschwunden.
+Found
+MODSMD_ARTICLE10: Die englische Flotte im Mittelmeer.
+Found
+MODSMD_ARTICLE11: Te Water befürwortet Aufrollung der Kolonialfrage.
+Found
+MODSMD_ARTICLE12: Völliges Durcheinander in Asturien.
+Found
+MODSMD_ARTICLE13: Das Fiasko der Bolschewisteu in Katalonien.
+Found
+MODSMD_ARTICLE14: Eine Spur von den Pariser Bombenattentätern?
+Found
+MODSMD_ARTICLE15: Die ersten Tranerfeiern für Masaryk.
+Found
+MODSMD_ARTICLE16: Das Beileid des Prager Diplomatischen Korps.
+Found
+MODSMD_ARTICLE17: Paris betrauert den Bundesgenossen.
+Found
+MODSMD_ARTICLE18: Oesterreichische Stimme zum Tode Masaryks.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Besuch der „Schleswig-Holstein" in Dublin.
+Found
+MODSMD_ARTICLE02: Bauarbeiterstreik in Dublin.
+Found
+MODSMD_ARTICLE03: Zwischenfall ans einem englischen Schießplatz.
+Found
+MODSMD_ARTICLE04: Krönungsferien des britischen Parlaments.
+Found
+MODSMD_ARTICLE05: Stauning aus London abgreift.
+Found
+MODSMD_ARTICLE06: ArbeitsstreiL am Clyde-Fluß.
+Found
+MODSMD_ARTICLE07: Baldwin über die englischen Notstandsgebiete.
+Found
+MODSMD_ARTICLE08: Englische Politiker rollen erneut Völkerbundsreform auf.
+Found
+MODSMD_ARTICLE09: Zollschmuggel mit Perser-Teppichen in Warschau.
+Found
+MODSMD_ARTICLE10: Verhaftungen kommunistischer Hetzer in Polen.
+Found
+MODSMD_ARTICLE11: Frankreichs Spiel mit der „Nichteinmischung".
+Found
+MODSMD_ARTICLE12: Sprengstoffe für Valencia.
+Found
+MODSMD_ARTICLE13: Verschiebung der Pariser Weltausstellung beantragt.
+Found
+MODSMD_ARTICLE14: Die verschandelten Trikoloren über dem Ausstellungsgelände.
+Found
+MODSMD_ARTICLE15: Besprechungen der Außenminister Leitlands und Finnlands.
+Found
+MODSMD_ARTICLE16: Marxistenterror Zwingt Arbeiter Zum Streik.
+Found
+MODSMD_ARTICLE17: Roosevelt hält am Plan der Bundesgerichtsform fest.
+Found
+MODSMD_ARTICLE18: Ministerpräsident von Ontario warnt den Kommunismus.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Dr. Goebbels ruft zur Beflaggung auf.
+Found
+MODSMD_ARTICLE02: Rudolf Heß an Stabschef Lutze.
+Found
+MODSMD_ARTICLE03: Himmler besucht die verletzten SA-Männer.
+Found
+MODSMD_ARTICLE04: Zu dem SA-Kraftwagenunfall: 11l iM RM-Spende.
+Found
+MODSMD_ARTICLE05: „Aufbau der Leibeserziehung der deutschen Jugend."
+Found
+MODSMD_ARTICLE07: Tschammer auf dem Kongreß für körperliche Erziehung.
+Found
+MODSMD_ARTICLE08: 800 Italiener in der KdF-Stadt.
+Found
+MODSMD_ARTICLE09: Der Internationale Sport Aerztekongresi.
+Found
+MODSMD_ARTICLE10: Generalversammlung der Internationalen Landwirtschaftlichen Kommission.
+Not Found
+MODSMD_ARTICLE11: Hinrichtung in Bamberg.
+Found

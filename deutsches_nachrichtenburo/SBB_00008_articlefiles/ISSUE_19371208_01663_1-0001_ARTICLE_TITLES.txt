@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Gau Berlin nahm Abschied von seinem Gauhaus.
+Found
+MODSMD_ARTICLE02: Darre bei der Landesbauernschaft Hannover.
+Found
+MODSMD_ARTICLE03: Ludendorffs Befinden erfreulich gebessert.
+Found
+MODSMD_ARTICLE04: Die Antwortnoten an den Nichteinmischungsausschust.
+Found
+MODSMD_ARTICLE05: Die Sitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE06: Ministerpräsident Stojadinowitsch kommt nach Mxrlin.
+Found
+MODSMD_ARTICLE07: Spaniens Nationalregierung besteht auf ihrem Blockaderecht.
+Found
+MODSMD_ARTICLE08: Straßenbauten in Nationalspanien.
+Found
+MODSMD_ARTICLE09: Das Festessen des Sowjetbonzen.
+Found
+MODSMD_ARTICLE10: Begeisterte Kundgebungen für Nationalspanien in Tetuan.
+Found
+MODSMD_ARTICLE11: Wirtschaftliche Zusammenarbeit zwischen Rom und Belgrad.
+Found
+MODSMD_ARTICLE12: Auswanderung aus Kanada größer als Einwanderung.
+Found

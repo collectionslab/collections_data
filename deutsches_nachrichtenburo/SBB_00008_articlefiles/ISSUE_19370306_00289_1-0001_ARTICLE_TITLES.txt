@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Die Jahrestagung der Reichsfilmkammer.
+Found
+MODSMD_ARTICLE02: Der Bankrott der Volksfrontpolitik.
+Found
+MODSMD_ARTICLE03: Volksfrontterror in Frankreich.
+Found
+MODSMD_ARTICLE04: Scharfe Ablehnung der bolschewistischen Lehre in Polen.
+Found
+MODSMD_ARTICLE05: Das Gesicht der sowjeirussischen Diplomatie.
+Found
+MODSMD_ARTICLE06: Gestohleue Flugzeuge für die Valeucia-Bolschewisteu.
+Found
+MODSMD_ARTICLE07: „Mutige" Seefahrer.
+Found
+MODSMD_ARTICLE08: Aegypten baut Rüstungssabriken.
+Found

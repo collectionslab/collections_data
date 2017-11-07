@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Führer an die Donaumontstürmer.
+Found
+MODSMD_ARTICLE02: Tie auslandsdeutschen Dichter bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Valdur von Schirach vor der Wehrmacht.
+Found
+MODSMD_ARTICLE04: Wächtler Zum Jahrestage des Todes Hans Schemms.
+Found
+MODSMD_ARTICLE05: „Fridericus"-Film in gekürzter Fassung zugelassen.
+Found
+MODSMD_ARTICLE06: „Bund Jüdischer Frontsoldaten" in der frontmiliz.
+Found
+MODSMD_ARTICLE07: Das „Problem der Probleme" in Italien.
+Found
+MODSMD_ARTICLE08: Früherer italienischer Minister Finanzberater Nankings.
+Found
+MODSMD_ARTICLE09: Scharfe Stellungnahme Kolens zum Fall Seba.
+Found
+MODSMD_ARTICLE10: Sechs litauische Kommunisten zu Zuchthaus verurteilt.
+Found
+MODSMD_ARTICLE11: Kommunistische Gottlosenpropaganda vor dem Unterhaus.
+Found
+MODSMD_ARTICLE12: Sabotage in einer englischen Flugzeugfabrik.
+Found
+MODSMD_ARTICLE13: Die Kosten der Palästina Unruhen für England.
+Found
+MODSMD_ARTICLE14: Der Generalresident von Französisch-Marokko in Paris.
+Found
+MODSMD_ARTICLE15: Interpellation wegen der Zwischenfälle bei Sedan.
+Found
+MODSMD_ARTICLE16: Eine Note der spanischen Nationalregierung.
+Found
+MODSMD_ARTICLE17: Amtlicher deutscher Protest gegen La Guardias RüMeien.' a
+Found
+MODSMD_ARTICLE18: Der König von Aegypten in St. Moritz.
+Found
+MODSMD_ARTICLE19: Neue Rationierung des Brotverkaufs in Sowjetrußlaud.
+Found
+MODSMD_ARTICLE20: Aegyptische Forderungen für Montreux.
+Found

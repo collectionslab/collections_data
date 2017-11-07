@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Eindrücke eines jugoslawischen Ministers in Berlin.
+Found
+MODSMD_ARTICLE02: Das Programm für die olympische Schlußfeier.
+Found
+MODSMD_ARTICLE03: Die Goldene Medaille für Deutschland im Handball.
+Found
+MODSMD_ARTICLE04: USA siegt im Baskettball-Turnier.
+Found
+MODSMD_ARTICLE05: Holland gewinnt Frauenschwimmstaffel vor Deutschland.
+Found
+MODSMD_ARTICLE06: Belgien erringt die Bronzene Medaille im Wasserball.
+Found
+MODSMD_ARTICLE07: Holland erkämpft sich die Bronzene im Hockey.
+Found
+MODSMD_ARTICLE08: Grünaus größter Tag.
+Found
+MODSMD_ARTICLE09: England siegt im Doppelzweier. Deutschland Zweiter.
+Found
+MODSMD_ARTICLE10: USA gewinnt Achter-Rennen. Für Deutschland die Bronzene.
+Found
+MODSMD_ARTICLE11: Welches Land gewann die Medaillen?
+Found
+MODSMD_ARTICLE12: Englische Anerkennung für die Berliner Olympiade.
+Found
+MODSMD_ARTICLE13: Ungarns Finanzminister über die Olympischen Spiele.
+Found
+MODSMD_ARTICLE14: Empfang für die italienischen Gäste im Kieler Rathaus.
+Found
+MODSMD_ARTICLE15: Schäfer zum Verwaltungssekretär ernannt.
+Found

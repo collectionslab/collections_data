@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: MW Hitler-Jungen ziehen zur Zelle des Führers.
+Found
+MODSMD_ARTICLE02: Sudeteudeutsche Staatsbeamte zur Weiterarbeit gezwungen.
+Found
+MODSMD_ARTICLE03: Grabesruhe in Eger.
+Found
+MODSMD_ARTICLE04: Sudetendeutsche Mutter von ihrem Kinde getrennt.
+Found
+MODSMD_ARTICLE05: Höhere tschechische Beamte Zur Lage in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE06: Kommune und Hussiten Hand in Hand.
+Found
+MODSMD_ARTICLE07: Bata-Direktor zum Minister ernannt.
+Found
+MODSMD_ARTICLE08: Wachsende Erregung in Preßburg.
+Found
+MODSMD_ARTICLE09: Die Kabinettssitzung in London.
+Found
+MODSMD_ARTICLE10: Belgrad: „Lächerliche und phantastische Angaben".
+Found
+MODSMD_ARTICLE11: Das Ausland zur Lage.
+Found

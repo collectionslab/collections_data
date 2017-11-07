@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Das Volk war des Führers würdig!
+Found
+MODSMD_ARTICLE02: „Zwanzig Jahre Kampf."
+Found
+MODSMD_ARTICLE03: Staatsrat Börger zum Sondertreuhänder ernannt.
+Found
+MODSMD_ARTICLE04: Frühstück zu Ehren Dr. Franks.
+Found
+MODSMD_ARTICLE05: Reichsführer SS. Himmler in Benevent.
+Found
+MODSMD_ARTICLE06: Weiterer Ausbau der Hlinka-Garde.
+Found
+MODSMD_ARTICLE07: Fortsetzung der Komorner Verhandlungen nächste Woche.
+Found
+MODSMD_ARTICLE08: Beschränkter Postverkehr mit der Tschechen
+Found
+MODSMD_ARTICLE09: Tiplomatenempfang bei Bonnet.
+Found
+MODSMD_ARTICLE10: Starker Eindruck des Falles von Kanton.
+Found
+MODSMD_ARTICLE11: Der Kleinkrieg iu Palästina dauert an.
+Found
+MODSMD_ARTICLE12: Tie Japaner 20 Kilometer vor Hankau.
+Found
+MODSMD_ARTICLE13: Der schwierige englisch-amerikanische Handelsvertrag.
+Found
+MODSMD_ARTICLE14: Neueinteilung der ostsibirischen Verwaltungsbezirke.
+Found

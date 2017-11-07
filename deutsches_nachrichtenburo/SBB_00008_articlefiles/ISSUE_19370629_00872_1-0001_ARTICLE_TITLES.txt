@@ -1,0 +1,18 @@
+MODSMD_ARTICLE03: Glückwunsch des Führers am den Reichsarbeitsminister.
+Found
+MODSMD_ARTICLE04: Der Führer an die Göttinger Universität.
+Found
+MODSMD_ARTICLE05: Die amerikanischen Kriegsschiffe haben Kiel verlassen.
+Found
+MODSMD_ARTICLE06: Blomberg ehrt die ungarischen Helden.
+Found
+MODSMD_ARTICLE07: Deutsch-Polnische Gesellschaft in Warschau.
+Found
+MODSMD_ARTICLE08: Die italienische Presse zur Göring-Rede.
+Found
+MODSMD_ARTICLE09: Gegen ein englisch-französisches Kontroll-Monopol.
+Found
+MODSMD_ARTICLE11: Der Nichteinmischungsausschuß zusammengetreten.
+Found
+MODSMD_ARTICLE12: Van Zeeland über die internationale Wirtschaftspolitik.
+Found

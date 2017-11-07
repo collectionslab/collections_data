@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ueberreichung des Adlerschildes an Geheimrat v. Krehl.
+Found
+MODSMD_ARTICLE02: LZ „Hindenburg" nach Nordamerika gestartet.
+Found
+MODSMD_ARTICLE03: „Graf Zeppelin" in Rio de Janeiro.
+Found
+MODSMD_ARTICLE04: Schwedische Auszeichnungen für deutsche Seeoffiziere.
+Found
+MODSMD_ARTICLE05: Die Forderungen des Sudetendeutschtums.
+Found
+MODSMD_ARTICLE06: Die Sondersitzung des Unterhauses.
+Found
+MODSMD_ARTICLE07: Der Rückgriff auf die Londoner Gleitklausel.
+Found
+MODSMD_ARTICLE08: Verlegung der britischen Gesandtschaft in China.
+Found
+MODSMD_ARTICLE09: Verschiebung der September-Sitzung des Völkerbundsrates?
+Found
+MODSMD_ARTICLE10: Benesch nicht mehr Präsident der Völkerbundsversammlung.
+Found
+MODSMD_ARTICLE11: Van Zeeland nach Genf abgereist.
+Found
+MODSMD_ARTICLE12: Noch immer 199 999 Streikende in Frankreich.
+Found
+MODSMD_ARTICLE13: Putschgerüchte in Madrid.
+Found
+MODSMD_ARTICLE14: „Jswestija" über den Warenmangel in der Sowjetunion.
+Found
+MODSMD_ARTICLE15: Japan tritt dem Flottenvertrag von 1936 nicht bei.
+Found
+MODSMD_ARTICLE16: Der Kampf um die Verstärkung des japanischen Heeres.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Fritz Rigele zu Grabe getragen.
+Found
+MODSMD_ARTICLE02: Deutscher Besuch in Stockholm.
+Found
+MODSMD_ARTICLE03: Kopenhagen zum deutsch-belgischen Notenaustausch.
+Found
+MODSMD_ARTICLE04: Abmiral Pachner f.
+Found
+MODSMD_ARTICLE05: Marxistisches Hetzblatt in Wien beschlagnahmt.
+Found
+MODSMD_ARTICLE06: „Die französische Armee, die Polizei Europas."
+Found
+MODSMD_ARTICLE07: Zuchthaus gegen Kommunisten in Italien.
+Found
+MODSMD_ARTICLE08: Besetzung Minorcas würde den Mittelmeer-Status verletzen.
+Found
+MODSMD_ARTICLE09: Lord Plymouth will den Unterausschuß einberufen.
+Found
+MODSMD_ARTICLE10: Stojadmowitsch bei Eden.
+Found
+MODSMD_ARTICLE11: Englands bittere Erfahrungen mit Boykottmaßnahmen.
+Found
+MODSMD_ARTICLE12: Die rumänischen Manöver beendet.
+Found
+MODSMD_ARTICLE13: Tagung des Interalliierten Frontkämpferverbandes.
+Found
+MODSMD_ARTICLE14: Eine teure Freundschaft.
+Found
+MODSMD_ARTICLE15: Furchtbares Blutbad unter spajnischen Flüchtlingsgruppen.
+Found
+MODSMD_ARTICLE16: Moskaus tägliche Schreckensliste.
+Found
+MODSMD_ARTICLE17: Ein Aufruf amerikanischer Katholiken.
+Found
+MODSMD_ARTICLE18: Schweres Verkehrsunglück in Indien.
+Found
+MODSMD_ARTICLE19: Vollstreckung eines Todesurteils.
+Found

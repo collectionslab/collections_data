@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Englisches Beileid zum Bochumer Grubenunglück.
+Found
+MODSMD_ARTICLE02: Die Gesamtleistung der Reichsbahn beim Reichsparteitag.
+Found
+MODSMD_ARTICLE03: „Tribuna" über den Aufmarsch des Arbeitsdienstes«
+Found
+MODSMD_ARTICLE04: Bastid über seinen Berliner Besuch.
+Found
+MODSMD_ARTICLE05: Lloyd George über das neue Deutschland.
+Found
+MODSMD_ARTICLE06: Leon Daudet gegen den Sowjetpakt.
+Found
+MODSMD_ARTICLE07: Kommunistische Verhetzung polnischer Bauern.
+Found
+MODSMD_ARTICLE08: „Volksfront-Bestrebungen nun auch in Litauen.
+Found
+MODSMD_ARTICLE09: „Irischer Kreuzzug gegen den Kommunismus".
+Found
+MODSMD_ARTICLE10: Um die Rückkehr des Diplomatischen Korps nach Madrid.
+Found
+MODSMD_ARTICLE11: Die rote spanische Motte kampfmüde?
+Found
+MODSMD_ARTICLE12: Japan fordert erneut Truppenzurückziehung aus Pakhoi.
+Found
+MODSMD_ARTICLE13: General Herpog empfängt Vertreter aus Südwest.
+Found

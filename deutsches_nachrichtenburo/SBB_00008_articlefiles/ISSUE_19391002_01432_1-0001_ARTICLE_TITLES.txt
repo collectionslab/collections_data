@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: „Weltwandlung zu Englands Ungunsten."
+Found
+MODSMD_ARTICLE02: Moskau betont: Der Friede im Osten gesichert.
+Found
+MODSMD_ARTICLE03: Telegrammwechsel zwischen Setter und Molotow.
+Found
+MODSMD_ARTICLE04: Der lettische Außenminister in Moskau.
+Found
+MODSMD_ARTICLE05: Auch Litauens Außenminister fliegt nach Moskau.
+Found
+MODSMD_ARTICLE06: „Giornale d'Jtalia" erläutert die Aufgaben Italiens.
+Found
+MODSMD_ARTICLE07: Zusammentreffen Gafencu—Saracoglu.
+Not Found
+MODSMD_ARTICLE08: Das englische Volk zahlt die Zeche für Churchill.
+Found
+MODSMD_ARTICLE09: Scharfer Protest gegen englische Behörden..
+Found
+MODSMD_ARTICLE10: Vollstreckung eines Todesurteils.
+Found

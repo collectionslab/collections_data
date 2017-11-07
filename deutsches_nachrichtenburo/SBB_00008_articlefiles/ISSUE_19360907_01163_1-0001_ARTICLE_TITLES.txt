@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Dr. Ley vor den Auslandsdeutschen.
+Found
+MODSMD_ARTICLE02: Erste Hilfe für Bochumer Hinterbliebene.
+Found
+MODSMD_ARTICLE03: Der neue Honvedminister über seine Aufgaben.
+Found
+MODSMD_ARTICLE04: Truppenparade dar Präsident Benesch.
+Found
+MODSMD_ARTICLE05: Von der Gordon-Bennett-Wettfahrt.
+Found
+MODSMD_ARTICLE06: Sprengstoffanschläge auf jüdische Geschäfte in Kattowitz.
+Found
+MODSMD_ARTICLE07: König Boris nach Sofia zurückgekehrt.
+Found
+MODSMD_ARTICLE08: Auflösung eines Arbeitslagers der „Eisernen Garde".
+Found
+MODSMD_ARTICLE09: Vorläufiges schwedisch-italienisches Handelsabkommen.
+Found
+MODSMD_ARTICLE10: Ras Gugsa bei Mussolini.
+Found
+MODSMD_ARTICLE11: Sir Thomas Jnskip warnt vor dem Kommunismus.
+Found
+MODSMD_ARTICLE12: Empfänge bei Austenminister Delbos.
+Found
+MODSMD_ARTICLE13: Fuenterrabia von den Nationalisten eingenommen.
+Found
+MODSMD_ARTICLE14: Angriff auf San Sebastian in vollem Gange.
+Found
+MODSMD_ARTICLE15: Schießereien zwischen Anarchisten und Volksfrontlern.
+Found
+MODSMD_ARTICLE16: Unmenschliche Grausamkeiten spanischer Marxisten.
+Found
+MODSMD_ARTICLE17: 300 Todesopfer der Regierungstruppen bei Pamplona.
+Found
+MODSMD_ARTICLE18: 20 Millionen Peseten Kredit für Madrid?
+Found
+MODSMD_ARTICLE19: Ungarn erläßt Waffenausfuhrverbot nach Spanien.
+Found
+MODSMD_ARTICLE20: Portugals Bedenken gegen den Nichteinmischungsausschuß.
+Found
+MODSMD_ARTICLE21: Rennwagen rast in Zuschauermenge. 8 Tote, 29 Verletzte.
+Found

@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Vertrauensvotum für Daladier.
+Found
+MODSMD_ARTICLE02: Der Führer spricht am Mittwoch im Sportpalast.
+Found
+MODSMD_ARTICLE03: Auch im Senat starker Beifall für Daladier.
+Found
+MODSMD_ARTICLE04: Baldwin unterstreicht die Friedenstat von München.
+Found
+MODSMD_ARTICLE05: Amerikanische Berichte aus dem befreiten Sudetenland.
+Found
+MODSMD_ARTICLE06: Gerichtssitzungen nicht mehr möglich.
+Found

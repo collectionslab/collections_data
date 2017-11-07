@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die Walhalla bei Negcnsburg ein deutscher Ehrentempel.
+Found
+MODSMD_ARTICLE02: Nofenberg weiht die Kulturhalle in Hersfeld.
+Found
+MODSMD_ARTICLE03: Kardinal Lepicier f.
+Found
+MODSMD_ARTICLE04: Die Unterhausaussprache über Englands Verteidigung.
+Found
+MODSMD_ARTICLE05: Oberhausdebatte über den Völkerbund.
+Found
+MODSMD_ARTICLE06: Beweisaufnahme über Versicherungsskandal abgeschlossen.
+Found
+MODSMD_ARTICLE07: Vizekönig Badoglio nach Asmara abgeflogen.
+Found
+MODSMD_ARTICLE08: Arabische Erbitterung über den Konkurrenzhafen Tel Aviv.
+Found
+MODSMD_ARTICLE09: Eine Entschließung des japanischen Reichstages.
+Found

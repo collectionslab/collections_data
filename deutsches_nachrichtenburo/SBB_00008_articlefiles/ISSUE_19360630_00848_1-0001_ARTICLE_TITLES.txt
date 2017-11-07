@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Amtliche Auskunftsstelle der 11. Olympiade.
+Found
+MODSMD_ARTICLE02: Keine Steuern bei Eingliederung in Reichsnährstand.
+Found
+MODSMD_ARTICLE03: Quedlinburg zwei Tage vor der Staatsfeier.
+Found
+MODSMD_ARTICLE04: Ehrenbürgerbries an Mackensen überreicht.
+Found
+MODSMD_ARTICLE05: Deutsch-schweizerisches Abkommen verlängert.
+Found
+MODSMD_ARTICLE06: Reichskennziffer für Lebenshaltungskosten Juni 1936. *
+Found
+MODSMD_ARTICLE07: Ehrung eines deutschen Segelfliegers durch dänische Zeitung.
+Found
+MODSMD_ARTICLE08: Marxistische Vereinigungen in Oesterreich aufgelöst.
+Found
+MODSMD_ARTICLE09: Beginn der Völkerbundsversammlung. Der Negus spricht.
+Found
+MODSMD_ARTICLE10: Italienische Kritik am Erscheinen des Negus.
+Found
+MODSMD_ARTICLE11: Italiener besetzen abesfinische Grenzstation.
+Found
+MODSMD_ARTICLE12: Kammeraussprache zur Auflösung der Kampfbünde.
+Found
+MODSMD_ARTICLE13: Neville Chamberlain verneint Beamtenstreikrecht.
+Found
+MODSMD_ARTICLE14: Lohnkämpfe und Streikgefahr in Alexandria.
+Found

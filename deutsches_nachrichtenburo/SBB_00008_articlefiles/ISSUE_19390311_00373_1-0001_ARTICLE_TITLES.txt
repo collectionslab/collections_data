@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer spricht heute zu den Kriegsakademien.
+Found
+MODSMD_ARTICLE02: Minister Kotzias beim Führer.
+Found
+MODSMD_ARTICLE03: Die Aufgaben der deutschen Hochschule.
+Found
+MODSMD_ARTICLE04: Tie deutsch-französischen Wirtschaftsverträge.
+Found
+MODSMD_ARTICLE05: Maglione Kardinalstaatssekretär.
+Found
+MODSMD_ARTICLE06: Sidor Herr seines Willens?
+Found
+MODSMD_ARTICLE07: Hochspannung in Preßburg.
+Found
+MODSMD_ARTICLE08: Budapest: „Chaotische Zustände".
+Found
+MODSMD_ARTICLE09: Noch immer Straßenschlachten in Madrid.
+Found
+MODSMD_ARTICLE10: Ministerrat in Burgos.
+Found
+MODSMD_ARTICLE11: Englischer Dampfer angehalten.
+Found
+MODSMD_ARTICLE12: Gut gespielte „verspätete Erkenntnisse".
+Found
+MODSMD_ARTICLE13: Entmenschte Briganten.
+Found
+MODSMD_ARTICLE14: Holland bestellt Heeresflugzeuge in Amerika.
+Found

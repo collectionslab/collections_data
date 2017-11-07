@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Trauerparade für die Toten der „Deutschland". In Erwartung des Staatsaktes.
+Found
+MODSMD_ARTICLE02: Der Führer trifft ein.
+Found
+MODSMD_ARTICLE03: Der Führer auf dem Ehrenfriedhof.
+Found
+MODSMD_ARTICLE04: Der Staatsakt.
+Found
+MODSMD_ARTICLE05: Generaladmiral Dr. h. c. Raeder:
+Found
+MODSMD_ARTICLE06: Der Führer empfing den iranischen Parlamentspräsidenten.
+Found
+MODSMD_ARTICLE07: Die italienischen Jugendführer in der Deutschlandhalle.
+Found
+MODSMD_ARTICLE08: Bulgarien bejubelt seinen Thronfolger.
+Found

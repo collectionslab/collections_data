@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE02: Der Führer empfängt die Diplomaten.
+Found
+MODSMD_ARTICLE03: Das Ausland zu Nürnberg.
+Found
+MODSMD_ARTICLE04: Ausländsdeutsche Ehrengäste des Führers.
+Found
+MODSMD_ARTICLE05: Der Führer an die Frauen
+Found
+MODSMD_ARTICLE06: Säuglingspflege und Gesundheitsführung.
+Found

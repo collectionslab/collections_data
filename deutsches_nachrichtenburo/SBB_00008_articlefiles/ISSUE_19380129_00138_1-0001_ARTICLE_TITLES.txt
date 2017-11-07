@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Führer und Rcichsregierung zum Unglück in Segni.
+Found
+MODSMD_ARTICLE02: Ter Braud in Segni eingedämmt. Bisher 15 Tote.
+Found
+MODSMD_ARTICLE03: Der Umzug der Kanzlei des Führers.
+Found
+MODSMD_ARTICLE04: Das Beileid Dr. Torpmiillers zum Ableben Rosemeyers.
+Found
+MODSMD_ARTICLE05: Reichsinnenminister Dr. Frick an Geheimrat Dr. Bier.
+Found
+MODSMD_ARTICLE06: Beförderungen bei der Polizei.
+Found
+MODSMD_ARTICLE07: Ministerialrat Pucks tritt in den Ruhestand.
+Found
+MODSMD_ARTICLE08: Die Leiche Rosemeyers nach dem Bahnhof übergeführt.
+Found
+MODSMD_ARTICLE09: Ausstellung „Italienische Presse" in München.
+Found
+MODSMD_ARTICLE10: Der Lehrgang der Kommission für Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE11: Beisetzung des Pressebeirats Hack in Freiburg.
+Found
+MODSMD_ARTICLE12: Panzerschiff „Deutschland" in Lissabon.
+Found
+MODSMD_ARTICLE13: „Adolf Hitler, der Wiedererwecker deutscher TNMKUL»»Ks^
+Found
+MODSMD_ARTICLE14: Berühmter Cellist aus Rotspanien geflohen.
+Found
+MODSMD_ARTICLE15: Vor einem Memorandum der Schweiz zur Neutralitätsfrage.
+Found
+MODSMD_ARTICLE16: Kein Namenswechsel der griechischen Kronprinzessin.
+Found
+MODSMD_ARTICLE17: Protest Japans gegen rechtswidrige Schritte Moskaus.
+Found
+MODSMD_ARTICLE18: Hirota für Ausdehnung des Pekinger Regimes auf China.
+Found

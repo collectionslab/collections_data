@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Furtwänglers weitere Tätigkeit.
+Found
+MODSMD_ARTICLE02: Reichstheaterfestwoche in München.
+Found
+MODSMD_ARTICLE03: Die Feiern der Auslandsdeutschen.
+Found
+MODSMD_ARTICLE04: Das Ausland Zu den deutschen Maifeiern.
+Found
+MODSMD_ARTICLE05: Griechische Blätter zum Stapellauf der „Athen".
+Found
+MODSMD_ARTICLE06: Eden nach fünfstündigen Beratungen aus London abgereist.
+Found
+MODSMD_ARTICLE07: Auch Paris meldet Flucht des Negus nach Dschibuti.
+Found
+MODSMD_ARTICLE08: Tie englische Presse über die Lage in Abessinien.
+Found
+MODSMD_ARTICLE09: „Giornale d'Jtalia" über die Genfer Sanktionsstatistiken.
+Found
+MODSMD_ARTICLE10: Oesterreichisches Memorandum über die Dienstpflicht.
+Found
+MODSMD_ARTICLE11: „Manchester Guardian,, über die Lage in Oesterreich.
+Found
+MODSMD_ARTICLE12: Italienische Presse gegen Gerüchtemachere/I über Oesterreich.
+Found

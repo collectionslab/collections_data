@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Reichsminister Frick vor dem Gautag Ost-Hannover.
+Found
+MODSMD_ARTICLE02: Mitteldeutscher Rechtswahrertag.
+Found
+MODSMD_ARTICLE03: Dr. Frank vor den Ehrenrichtern der Rechtsfront.
+Found
+MODSMD_ARTICLE04: Noch ein Opfer des Ueberfalls auf die „Deutschland".
+Found
+MODSMD_ARTICLE05: Der Reichskriegsminister in Neapel.
+Found
+MODSMD_ARTICLE06: Geheimrat Frobenius bei Mussolini.
+Found
+MODSMD_ARTICLE07: Deutscher Erfolg im Warschauer Reitturnier.
+Found
+MODSMD_ARTICLE08: Der schwedische Außenminister Sandler in Kowno.
+Found
+MODSMD_ARTICLE09: „Moskau diktiert Pariser Vorbehalte".
+Found
+MODSMD_ARTICLE10: Daladier warnt vor der Wirtschaftspolitik der Volksfront.
+Found
+MODSMD_ARTICLE11: Jugoslawische Ehrung für Marschall Rydz-Smigly.
+Found
+MODSMD_ARTICLE12: 5 Kommunisten davon 4 Juden in Warschau verhaftet.
+Found
+MODSMD_ARTICLE13: Dank der britischen Regierung an Francs.
+Found
+MODSMD_ARTICLE14: Ein Denkmal für General Mola.
+Found
+MODSMD_ARTICLE15: Schweres Bootsunglück bei einem Schulansflug.
+Found
+MODSMD_ARTICLE16: Neue britische Vergeltungsmaßnahmen in Nordwestindien.
+Found

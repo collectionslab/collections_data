@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Abschluß der Tagung der Kanzlei des Führers.
+Found
+MODSMD_ARTICLE02: Italienisches Operngastspiel in Berlin.
+Found
+MODSMD_ARTICLE03: Eröffnung des Internationalen Musikfestes in Stuttgart.
+Found
+MODSMD_ARTICLE04: Der Staatsbesuch des Duce iu Genua.
+Found
+MODSMD_ARTICLE05: „Die Stimme der Führer ist die Stimme der Völker."
+Found
+MODSMD_ARTICLE06: Hermann Lang zum zweiten Mal Sieger von Tripolis.
+Found
+MODSMD_ARTICLE07: Neue deutsche Weltbestleistung im Segelfug.
+Found

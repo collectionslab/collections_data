@@ -1,0 +1,32 @@
+MODSMD_ARTICLE02: Dr. Dorpmüller 19 Jahre Generaldirektor der Reichsbahn.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Antrittsbesuch des Geschäftsträgers von Ecuador.
+Found
+MODSMD_ARTICLE05: Dr. Ley zum Reichshandwerkertag 193 K.
+Found
+MODSMD_ARTICLE06: Südostenropa Reise des Reichsbankpräsidenten Dr. Schacht.
+Found
+MODSMD_ARTICLE07: Empfang in der polnischen Botschaft.
+Found
+MODSMD_ARTICLE08: Staatspräsident Moscicki verteilt Spenden.
+Found
+MODSMD_ARTICLE09: Warschauer Zeitung Zu den jüdischen Untaten in Polen.
+Found
+MODSMD_ARTICLE10: Zusammentritt der Völkerbundsversammlung am 29. Juni?
+Found
+MODSMD_ARTICLE11: 29. Internationale Arbeitskonferenz in Genf.
+Found
+MODSMD_ARTICLE12: Benesch über den Pakt der Kleinen Entente.
+Found
+MODSMD_ARTICLE13: Britische Truppen gegen ein arabisches Dorf.
+Found
+MODSMD_ARTICLE14: Washington und der argentinische Schritt in Genf.
+Found
+MODSMD_ARTICLE15: Gouverneur Landau republikanischer Gegenkandidat?
+Found
+MODSMD_ARTICLE16: Paraguays Offizierkorps gegen den Kommunismus.
+Found
+MODSMD_ARTICLE17: 175 Jahre Deutsche Evangelische Gemeinde in Lissabon.
+Found

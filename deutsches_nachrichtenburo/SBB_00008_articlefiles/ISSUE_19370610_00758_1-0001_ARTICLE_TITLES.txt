@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Kranzniederlegungen Neuraths in Sofia.
+Found
+MODSMD_ARTICLE02: König Carol Ende Juni in Warschau.
+Found
+MODSMD_ARTICLE03: Der nationale Heeresbericht vom Mittwoch.
+Found
+MODSMD_ARTICLE04: Die Lebensmittelknappheit in Madrid.
+Found
+MODSMD_ARTICLE05: Die Ladung war falsch adressiert!
+Found
+MODSMD_ARTICLE06: Besuch des schwedischen Kultusministers in Paris.
+Found
+MODSMD_ARTICLE07: Sozialpartei lehnt Eintritt in die Einheitsfront ab.
+Found
+MODSMD_ARTICLE08: Festmahl Zu Ehren des syrischen Außenministers.
+Found
+MODSMD_ARTICLE09: Die Internationale Boxvereinigung für Schmeling.
+Found
+MODSMD_ARTICLE10: Lord Baldwin im Oberhaus eingeführt.
+Found
+MODSMD_ARTICLE11: Festbankett im englischen Außenamt.
+Found
+MODSMD_ARTICLE12: Londoner Presse erhofft baldiges Sicherheitsabkommen.
+Found
+MODSMD_ARTICLE13: Wieder ein Sowjetflugzeug über Finnland.
+Found
+MODSMD_ARTICLE14: Cerruti bei Delbos.
+Found
+MODSMD_ARTICLE15: Kritik an der belgischen Militärluftfahrt im Senat.
+Found
+MODSMD_ARTICLE16: Widerstand gegen Entwurf über Rechte des Reichsverwesers.
+Found
+MODSMD_ARTICLE17: Textilftreik löst in Mexiko Petroleumstreik ab.
+Found
+MODSMD_ARTICLE18: Dem Streikterror in USA zum Opfer gefallen.
+Found
+MODSMD_ARTICLE19: Neuer Streik in Michigan.
+Found
+MODSMD_ARTICLE20: Deutsche Ehrung chilenischer AerZte.
+Found
+MODSMD_ARTICLE21: Chinas Presse zum Besuch Dr. Knngs in Berlin.
+Found

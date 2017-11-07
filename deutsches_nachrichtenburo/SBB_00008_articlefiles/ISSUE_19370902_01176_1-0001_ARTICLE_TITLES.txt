@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Trauerfeier für Adele Sandrock.
+Found
+MODSMD_ARTICLE02: Spanische Jugendführer erzählen ihre Erlebnisse.
+Found
+MODSMD_ARTICLE03: Deutscher Junge von spanischen Bolschewismen verschleppt.
+Found
+MODSMD_ARTICLE04: Es waren bolschewistische U-Boote!
+Found
+MODSMD_ARTICLE05: Wie die Bolschewisten die „Woodford" torpedierten.
+Found
+MODSMD_ARTICLE06: Die Beschlüsse des englischen Ministerrats.
+Found
+MODSMD_ARTICLE07: Mittelmeeraussprache im Genf
+Found
+MODSMD_ARTICLE08: Eine bemerkenswerte Zuschrift an die „Times".
+Found
+MODSMD_ARTICLE09: Diskontermäßigung in Frankreich.
+Found
+MODSMD_ARTICLE10: Die Hintergründe des chinesisch-sowjetrnssischen Paktes.
+Found
+MODSMD_ARTICLE11: Auto einer deutschen Firma in Schanghai beschossen.
+Found
+MODSMD_ARTICLE12: Die Lage in Schanghai.
+Found
+MODSMD_ARTICLE13: Geschlossener Vormarsch auf Schanghai—Nanking-Eisenbahn.
+Found
+MODSMD_ARTICLE14: Die japanische Untersuchung abgeschlossen.
+Found
+MODSMD_ARTICLE15: Anschlag auf den Leiter der ägyptischen Blauhemden.
+Found
+MODSMD_ARTICLE16: Roosevelt unterzeichnete die Zuckerkontingent-Vorlage.
+Found

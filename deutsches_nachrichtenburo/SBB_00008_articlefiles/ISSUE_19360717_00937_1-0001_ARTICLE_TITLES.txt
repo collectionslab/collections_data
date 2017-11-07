@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Fürst Bism arck beim Privatsekretär König Eduards VIII.
+Found
+MODSMD_ARTICLE02: Göring zum Fliegertod von Generalmajor Orlicz-Dreszer.
+Found
+MODSMD_ARTICLE03: Südafrikanische Olympia-Kämpfer im Ehrenmal.
+Found
+MODSMD_ARTICLE04: Wertvoller Preis für den Sieger im Marathonlauf.
+Found
+MODSMD_ARTICLE05: Arbeitstagung des Reichsverbandes der Deutschen Presse.
+Found
+MODSMD_ARTICLE06: Aufruf der Reichsreferentin des BdM Zur Erntehilfe»
+Found
+MODSMD_ARTICLE07: Anklageerhebnng wegen der Marwitzer Bluttat.
+Found
+MODSMD_ARTICLE08: Meldung zum Studium für das künstlerische Lehramt.
+Found
+MODSMD_ARTICLE09: LZ „Hindenburg" gelandet.
+Found
+MODSMD_ARTICLE10: Gedenkfeier für die verunglückten litauischen Ozeanflieger.
+Found
+MODSMD_ARTICLE11: Pariser Kammer für Verstaatlichung der Rüstungsindustrie.
+Found
+MODSMD_ARTICLE12: De la Rocque spricht in Lyon.
+Found
+MODSMD_ARTICLE13: Streik in den Peugeot-Werken von Sochaux beigelegt.
+Found
+MODSMD_ARTICLE14: Die militärische Besetzung Abessiniens.
+Found
+MODSMD_ARTICLE15: Außenpolitische Erklärungen Titulescus.
+Found
+MODSMD_ARTICLE16: Japan billigt das neue Meerengen-Abkommen.
+Found

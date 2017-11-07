@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Telegramm Cianettis und Dr. Leys an Mussolini.
+Found
+MODSMD_ARTICLE02: Die Deutschen im Ausland feiern den Heldengedenktag.
+Found
+MODSMD_ARTICLE03: Eindämmung der Fluktuation unter den Arbeitskräften.
+Found
+MODSMD_ARTICLE04: Der IX. Internationale Straßenkongreß in Italien.
+Found
+MODSMD_ARTICLE05: Starke Beachtung der Rede Dr. Raeders in London.
+Found
+MODSMD_ARTICLE06: Särge als Brennholz.
+Found
+MODSMD_ARTICLE07: Militärdiktatur in der Zips.
+Found
+MODSMD_ARTICLE08: Wieder Deutsche von Tschechen verschleppt.
+Found
+MODSMD_ARTICLE09: Tie Wahrheit soll unterdrückt werden.
+Found
+MODSMD_ARTICLE10: Die Madrider Sowjetfrout von Truppen entblößt?
+Found
+MODSMD_ARTICLE11: Schießereien in den roten Schützengräben.
+Found
+MODSMD_ARTICLE12: Ter dänische Reichstag für Abschaffung des Landtags.
+Found

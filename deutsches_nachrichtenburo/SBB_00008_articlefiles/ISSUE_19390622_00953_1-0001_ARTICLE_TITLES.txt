@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Zum Intendanten ernannt.
+Found
+MODSMD_ARTICLE02: Im Zeichen der Kameradschaft zwischen SA. und Miliz.
+Found
+MODSMD_ARTICLE03: Neichsminister Dr. Frank in Budapest.
+Found
+MODSMD_ARTICLE04: Das Präsidium der ungarischen Pressekammer gewählt.
+Found
+MODSMD_ARTICLE05: Paris zur Sonnwendrede von Dr. Goebbels.
+Found
+MODSMD_ARTICLE06: London finanziert die polnischen Rüstungen.
+Found
+MODSMD_ARTICLE07: Großbritanniens Ohnmacht immer offensichtlicher.
+Found
+MODSMD_ARTICLE08: Italienischer Kriegsschiffbesuch in Spanien.
+Found
+MODSMD_ARTICLE09: Enttäuschungen für die Hegemonie-Staaten.
+Found
+MODSMD_ARTICLE10: „Erhöhung der Schlagkraft der beiden Flotten."
+Found
+MODSMD_ARTICLE11: Nichts zu machen!
+Found
+MODSMD_ARTICLE12: Befehlshaber der britischen Mittelmeerflotte in Jerusalem.
+Found
+MODSMD_ARTICLE13: Wie der Judenschmuggel nach Palästina „geahndet" wird.
+Found
+MODSMD_ARTICLE14: Ein Amerikaner in Haifa erschossen.
+Found
+MODSMD_ARTICLE15: Der Kriegsrat in Singapur.
+Found
+MODSMD_ARTICLE16: Notspajnische „Bauern" in Mexiko.
+Found
+MODSMD_ARTICLE17: Versicherungsmörder töteten über 100 Menschen.
+Found
+MODSMD_ARTICLE18: Roosevelts Sympathie für die Kommunisten.
+Found
+MODSMD_ARTICLE19: Kriegsschuldendebatte im Washingtoner Senat.
+Found

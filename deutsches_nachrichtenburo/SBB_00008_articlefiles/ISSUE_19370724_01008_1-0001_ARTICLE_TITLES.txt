@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: „Aufrichtige Bewunderung für das neue Deutschland".
+Found
+MODSMD_ARTICLE02: Senator Sorondo an den Reichsaußenminister.
+Found
+MODSMD_ARTICLE03: Neuer Polizeivizepräsident in Berlin.
+Found
+MODSMD_ARTICLE04: Einzelheiten zur Wehrsteuer.
+Found
+MODSMD_ARTICLE05: Kranzniederlegung der deutschen Gäste in Danzig.
+Found
+MODSMD_ARTICLE06: Weitere internationale Kongresse in Paris.
+Found
+MODSMD_ARTICLE07: Unter der Volksfront: Verdoppelung des Defizits.
+Found
+MODSMD_ARTICLE08: Wieder politische Zusammenstöße in Frankreich.
+Found
+MODSMD_ARTICLE09: Waffen, Munition und Freiwillige gehen nach Spanien.
+Found
+MODSMD_ARTICLE10: Englische Denkschrift zur Nichteinmischungsfrage.
+Found
+MODSMD_ARTICLE11: Bolschewistischer Widerstand am Guadarrama-Fluß gebrochen.
+Found
+MODSMD_ARTICLE12: Neuer englischer Gesandter für die baltischen Staaten.
+Found
+MODSMD_ARTICLE13: Eine Erklärung des syrischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE14: Hingerichtet! Der Weg zweier Landesverräter.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Inflationistische Lohnerhöhungen in England.
+Found
+MODSMD_ARTICLE02: Der Welt größtes Kanal-Motorschiff gesunken.
+Found
+MODSMD_ARTICLE03: „Die britische Regierung ist des Mordes schuldig."
+Found
+MODSMD_ARTICLE04: Schwedens Landesverteidigung.
+Found
+MODSMD_ARTICLE05: „Trauerzug der Handelsschiffe."
+Found
+MODSMD_ARTICLE06: 100 000 BRT Schiffsverluste Griechenlands.
+Found
+MODSMD_ARTICLE07: Metaxas: Für Sicherung und Unabhängigkeit.
+Found
+MODSMD_ARTICLE08: Haussuchung in der Pariser Sowjet-Handelsvertretung.
+Found
+MODSMD_ARTICLE09: Mit Zuckerbrot und Peitsche gegen die Neutralen.
+Found
+MODSMD_ARTICLE10: 354 Schiffe mit 607 881 BRT. eingebracht.
+Found
+MODSMD_ARTICLE11: Washington Post: „England selber sehr ernst belagert."
+Found

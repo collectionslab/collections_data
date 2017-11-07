@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Präsident del Giudice-Rom in Düsseldorf.
+Found
+MODSMD_ARTICLE03: Rudolf Heß fuhr von München nach Rom ab.
+Found
+MODSMD_ARTICLE04: Rom in Erwartung des Stellvertreters des Führers.
+Found
+MODSMD_ARTICLE05: Evangelische Kirche unter polnischer Führung.
+Found
+MODSMD_ARTICLE06: Tolle Zustünde in einem polnischen Krankenhaus.
+Found
+MODSMD_ARTICLE07: Prag-Reise des österreichischen Erziehungsministers.
+Found
+MODSMD_ARTICLE08: Fünfstündige Sitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE09: Die Unterhaus-Aussprache über die Thronrede.
+Found
+MODSMD_ARTICLE10: Die Aussprache über die Thronrede im Oberhaus.
+Found
+MODSMD_ARTICLE11: Die Kostenfrage im englischen Luftschutz.
+Found
+MODSMD_ARTICLE12: Araberkundgebungen in Französisch-Marokko.
+Found
+MODSMD_ARTICLE13: Rotspanisches Flüchtlingsboot gestrandet.
+Found
+MODSMD_ARTICLE14: Französisches Torpedoboot nach Minorca beordert.
+Found
+MODSMD_ARTICLE15: Der nationale Heeresbericht vom Dienstag.
+Found
+MODSMD_ARTICLE16: Besuch Tatarescus in Ankara.
+Found
+MODSMD_ARTICLE17: Vereinigung Carl Schurz-Berlin in New Jork..
+Found

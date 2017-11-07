@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Führertagung des Gebiets Sudetenland der HJ.
+Found
+MODSMD_ARTICLE02: Frankreichs Handelsflotte jetzt au achter Stelle.
+Found
+MODSMD_ARTICLE03: Matter Rechtfertigungsversuch des „Temps".
+Found
+MODSMD_ARTICLE04: Französischer Abgeordneter interpelliert gegen Azana.
+Found
+MODSMD_ARTICLE05: Sowjetspanische Plünderer festgenommen.
+Found
+MODSMD_ARTICLE06: Der sowjetspanische Vertreter mnst Bern verlassen.
+Found
+MODSMD_ARTICLE07: Alicante und Cartagena erneut bombardiert.
+Found
+MODSMD_ARTICLE08: Tee englischen Marxisten sind wieder einmal beunruhigt!
+Found
+MODSMD_ARTICLE09: Auch Anderson wurde niedergeschrien. .
+Found
+MODSMD_ARTICLE10: Maßnahmen gegen Teuerung in der Slowakei.
+Found
+MODSMD_ARTICLE11: Bolivien entledigt sich eines jüdischen Betrügers.
+Found
+MODSMD_ARTICLE12: Die Frage der kulturellen! Autonomie Flanderns.
+Found
+MODSMD_ARTICLE13: Innenpolitische Hochspannung in Budapest.
+Found
+MODSMD_ARTICLE14: Schwarzmeerpakt für bolschewistische Interessen geplant?
+Found
+MODSMD_ARTICLE15: Rumänische Judenabordnung sährt nach London.
+Found
+MODSMD_ARTICLE16: Die Roten warten auf neues Kriegsmaterial.
+Found
+MODSMD_ARTICLE17: Die Lage in Palästina nicht gebessert.
+Found
+MODSMD_ARTICLE18: Unhaltbare Verkehrsverhältnisse in Palästina.
+Found
+MODSMD_ARTICLE19: Alkoholverbot für Bombay geplant.
+Found
+MODSMD_ARTICLE20: Beginn der Aussprache über Roosevelts Wehrprogramm.
+Found
+MODSMD_ARTICLE21: Roosevelt schickt immer mehr Offiziere nach Südamerika.
+Found
+MODSMD_ARTICLE22: Waffengroßlieferaut Amerika.
+Found

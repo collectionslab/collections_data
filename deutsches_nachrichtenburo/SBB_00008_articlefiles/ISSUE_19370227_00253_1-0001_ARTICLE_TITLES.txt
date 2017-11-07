@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Bouhlex über „Die Aufgaben der Kanzlei des Führers".
+Found
+MODSMD_ARTICLE02: Der Streit um die Einladung Haile Selassies.
+Found
+MODSMD_ARTICLE03: Nun auch Sabotagefälle in englischen Rüstungsbetrieben.
+Found
+MODSMD_ARTICLE04: Gastgeschenk Greisers für Polens Staatspräsidenten.
+Found
+MODSMD_ARTICLE05: Polnische Kaufleute von spanischen Bolschewisten verhaftet.
+Found
+MODSMD_ARTICLE06: Die Verhandlungen über die neue estnische Verfassung.
+Found
+MODSMD_ARTICLE07: Haushaltsüberschnst in Dänemark.
+Found
+MODSMD_ARTICLE08: Der neue Tanziger Völkerbundskommissar bei Delbos.
+Found
+MODSMD_ARTICLE09: Hochwasser verzögert Arbeiten an der Weltausstellung.
+Found
+MODSMD_ARTICLE10: Noch Schmuggelmöglichkeiten an Frankreichs Südgrenze.
+Found
+MODSMD_ARTICLE11: Erhöhung der Eisenbahntarife in Belgien.
+Found
+MODSMD_ARTICLE12: Botschafter v. Hasseil über Deutschlands u. Italiens Mission.
+Found
+MODSMD_ARTICLE13: Für den Eintritt Aegyptens in den Völkerbund.
+Found
+MODSMD_ARTICLE14: Die frühere spanische Hymne wird wieder Nationalhymne.
+Found
+MODSMD_ARTICLE15: Der Ozeanflug. Von Gronau erster in Kairo.
+Found
+MODSMD_ARTICLE16: Ausbau des britischen Luftverkehrs nach Afrika.
+Found
+MODSMD_ARTICLE17: Verrat von Etatgeheimnissen in Indien.
+Found
+MODSMD_ARTICLE18: Amerikas höchste Richter können sich pensionieren lassen.
+Found
+MODSMD_ARTICLE19: Bonnet überreicht Roosevelt sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE20: Kapitänleutnant Farnworth erhielt 12 Jahre Gefängnis.
+Found

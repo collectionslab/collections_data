@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Erlaß über den Bau der Elbehochbrücke in Hamburg.
+Found
+MODSMD_ARTICLE02: In das Reichspropagaudammisterium berufen.
+Found
+MODSMD_ARTICLE03: „Times": Tschechoslowakei das dringendste Problem.
+Found
+MODSMD_ARTICLE04: Merkwürdige Betrachtungen in Prag.
+Found
+MODSMD_ARTICLE05: Norditalienische Blätter zur italienischen Außenpolitik.
+Found
+MODSMD_ARTICLE06: Die polnische Presse zur Ciano-Rede.
+Found
+MODSMD_ARTICLE07: Paris zur Mailänder Rede Cianos.
+Found
+MODSMD_ARTICLE08: Frankreich baut 2KOO Flugzeuge.
+Found
+MODSMD_ARTICLE09: Die Sandschak-Frage.
+Found
+MODSMD_ARTICLE10: Ein türkisch-französisches Abkommen über den Sandschak?
+Found
+MODSMD_ARTICLE11: Der Vormarsch der nationalspanischen Truppen.
+Found
+MODSMD_ARTICLE12: Generalleutnant Jtagaki japanischer Kriegsminister.
+Found

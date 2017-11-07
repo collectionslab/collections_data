@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Generaloberst von Brauchitsch bei Ciano.
+Found
+MODSMD_ARTICLE02: Das neue Gebäude des römischen Senats.
+Found
+MODSMD_ARTICLE03: „Das Märchen vom armen mittellosen Italien."
+Found
+MODSMD_ARTICLE04: Kriegshetzerkonferenzen in London.
+Found
+MODSMD_ARTICLE05: Das polnische Ermächtigungsgesetz im Sejm angenommen.
+Found
+MODSMD_ARTICLE06: Ungarischer Protest gegen Polen.
+Found
+MODSMD_ARTICLE07: Moskau widerlegt Reuter!
+Found
+MODSMD_ARTICLE08: Das namenlose Elend der arabischen Zivilbevölkerung.
+Found
+MODSMD_ARTICLE09: Abrechnung mit Roosevelts Panamerikanismus.
+Found
+MODSMD_ARTICLE10: Vargas über die brasilianische Handelspolitik.
+Found

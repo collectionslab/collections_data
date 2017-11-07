@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Göring ehrt die gefallenen Helden.
+Found
+MODSMD_ARTICLE02: Autofallenräuber Gase hingerichtet.
+Found
+MODSMD_ARTICLE03: Graf Ciano auf der Durchreise in Wien. »>
+Found
+MODSMD_ARTICLE04: Festigung der Freundschaft Polens—ltalien.
+Found
+MODSMD_ARTICLE05: Abschied der Reichsfrauenführerin aus Rom.
+Found
+MODSMD_ARTICLE06: Die Papstwahl bisher ergebnislos.
+Found
+MODSMD_ARTICLE07: „Gazeta Polska" über den Ciano-Besuch.
+Found
+MODSMD_ARTICLE08: Englische Bemühungen um Polen.
+Found
+MODSMD_ARTICLE09: Weitere Ukrainer Verhaftungen in Polen.
+Found
+MODSMD_ARTICLE10: Vor Madrid häufen sich die Lebensmlttelspenden Francas.
+Found
+MODSMD_ARTICLE11: Botschaften auf dem Balkan.
+Found
+MODSMD_ARTICLE12: General Boerman-Fletscher in Belgrad.
+Found
+MODSMD_ARTICLE13: Ducoureau aus der Haft in Jrun entlassen.
+Found
+MODSMD_ARTICLE14: Die Blätter zur außenpolitischen Rede Bonnets.
+Found
+MODSMD_ARTICLE15: Guatemala -- für Juden »venia verlockend!
+Found
+MODSMD_ARTICLE16: Alauitischer Gouverneur in Latakije.
+Found
+MODSMD_ARTICLE17: Uebersiedlung Tschiangkaischeks nach Kunming?
+Found
+MODSMD_ARTICLE18: Furchtbare Wirkung der Munitionsexplosion bei Osaka.
+Found

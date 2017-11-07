@@ -1,0 +1,8 @@
+MODSMD_ARTICLE02: Die ersten Glückwünsche-
+Found
+MODSMD_ARTICLE03: Berlin gratuliert.
+Found
+MODSMD_ARTICLE04: Der Glückwunsch der Jugend.
+Found
+MODSMD_ARTICLE05: Reichsminister Ruft an die Schüler.
+Found

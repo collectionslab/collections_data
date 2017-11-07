@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer im Münchener Gärtnerplatz-Theater.
+Found
+MODSMD_ARTICLE02: Schulungsburg des Sudetengaus von Henlein eröffnet.
+Found
+MODSMD_ARTICLE03: Memelland und Litauen.
+Found
+MODSMD_ARTICLE04: Empfang in der deutschen Botschaft in Warschau.
+Found
+MODSMD_ARTICLE05: Neue Sowjet-Rüstungen im Fernen Ost^n.
+Found
+MODSMD_ARTICLE06: „Friede inmitten der Kanonen."
+Found
+MODSMD_ARTICLE07: „Frankreichs neue Devise: Besser spät als garnichi".
+Found
+MODSMD_ARTICLE08: Das neue belgische Kabinett vereidigt.
+Found
+MODSMD_ARTICLE09: Berard über seine Verhandlungen in Burgos.
+Found
+MODSMD_ARTICLE10: Spanische Flottenschau im Hasen von Tarragona.
+Found
+MODSMD_ARTICLE11: Mexiko soll 100 000 Marxisten ans Spanien aufnehmen.
+Found
+MODSMD_ARTICLE12: Eine Rede Chamberlains in Blackburn.
+Found
+MODSMD_ARTICLE13: Britische Handelsbilanz zeigt 55 Millionen Pfund Unterschuß
+Found
+MODSMD_ARTICLE14: London schlägt Dreiteilung Palästinas vor.
+Found
+MODSMD_ARTICLE15: Die Kabinettskrise in Syrien.
+Found

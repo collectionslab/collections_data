@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Ehrenpreis des Reichsinnenministers.
+Found
+MODSMD_ARTICLE02: Französische Marineoffiziere bei Raeder.
+Found
+MODSMD_ARTICLE03: Die Fortschritte des deutschen Luftverkehrs.
+Found
+MODSMD_ARTICLE04: 1. Deutscher Reichstierärztetag.
+Found
+MODSMD_ARTICLE05: Die Reichstheaterfestwoche in Düsseldorf.
+Found
+MODSMD_ARTICLE06: Ein Kriegsblinden-Erholungsheim.
+Found
+MODSMD_ARTICLE07: Gauleiter Kaufmann an die Reichstagung KdF.
+Found
+MODSMD_ARTICLE08: Katholischer Jugendführer in Tanzig verurteilt.
+Found
+MODSMD_ARTICLE09: Der König von Aegypten in Paris.
+Found
+MODSMD_ARTICLE10: Keine Anerkennung Sowjetrußlands durch die Schweiz.
+Found
+MODSMD_ARTICLE11: Ein neuer Ableger des Völkerbundes?
+Found
+MODSMD_ARTICLE12: Vollstreckung eines Todesurteils.
+Found

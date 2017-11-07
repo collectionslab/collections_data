@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Das neue deutsche Strafrecht. (Fortsetzung und Schluß.)
+Found
+MODSMD_ARTICLE02: Jubiläumsausstellung der Akademie der Künste.
+Found
+MODSMD_ARTICLE03: Beschleunigte Durchführung des Leipziger Abkommens.
+Found
+MODSMD_ARTICLE04: Die Landeshandwerksmeister bei Schacht.
+Found
+MODSMD_ARTICLE05: Auslandsinteresse für die Straßen Adolf Hitlers.
+Found
+MODSMD_ARTICLE06: Luftschiff „Hindenburg" nach Südamerika gestartet.
+Found
+MODSMD_ARTICLE07: Dank Mussolinis an Ungarns Ministerpräsidenten.'
+Found
+MODSMD_ARTICLE08: Pariser Kammer und Senat tagen.
+Found
+MODSMD_ARTICLE09: Konferenz der französischen Kolonialgouverneure.
+Found
+MODSMD_ARTICLE10: Offene Denkschrift an den rumänischen König.
+Found

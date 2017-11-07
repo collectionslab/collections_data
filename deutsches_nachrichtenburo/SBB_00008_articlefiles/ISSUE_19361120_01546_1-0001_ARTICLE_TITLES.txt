@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ter Führer besichtigt die Ordensburg Vogelsang.
+Found
+MODSMD_ARTICLE02: Die erste Tagung der Forschungsabteilung Judenfrage.
+Found
+MODSMD_ARTICLE03: Unberechtigte polnische „Vergeltungsmaßnahme".
+Found
+MODSMD_ARTICLE04: Fünf Jahre deutsch-italienisches Kulturinstitut.
+Found
+MODSMD_ARTICLE05: Das Londoner Philharmonische Orchester in Ludwigshasen.
+Found
+MODSMD_ARTICLE06: Der französische Frontkämpferbesuch in Lübeck.
+Found
+MODSMD_ARTICLE07: Neue Streikwelle im nordfranzösischen Industriegebiet.
+Found
+MODSMD_ARTICLE08: Ehautemps bricht Londoner Besuch ab.
+Found
+MODSMD_ARTICLE09: Beginn eines Schauprozesses in Nowo-Sibirsk.
+Found
+MODSMD_ARTICLE10: Mutige Nächte in Madrid.
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht meldet weitere Fortschritte.
+Found
+MODSMD_ARTICLE12: Begeisterung der spanischen nationalen Jugend.
+Found
+MODSMD_ARTICLE13: Nationalspanien zum Schritt Deutschlands und Italiens.
+Found
+MODSMD_ARTICLE14: Hull über seine „Pilgerfahrt" nach Buenos Aires.
+Found

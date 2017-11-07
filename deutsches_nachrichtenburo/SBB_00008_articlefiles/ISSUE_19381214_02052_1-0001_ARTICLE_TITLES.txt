@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Ruhcgehaltsbeschränkung für ehemalige jüdische Beamte.
+Found
+MODSMD_ARTICLE03: Hühnlein weiht die Motorsportschule Niedersachsen.
+Found
+MODSMD_ARTICLE04: Kundt beim tschecho-slowakischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE05: „Stark und aufmunternd durch Arbeits-Optimismus."
+Found
+MODSMD_ARTICLE06: Die Lösung der Beamtenfrage freudig begrüßt.
+Found
+MODSMD_ARTICLE07: Protest gegen die Sammlung für Juden. .
+Found
+MODSMD_ARTICLE08: Auch Niederländisch-Indien wehrt sich.
+Found
+MODSMD_ARTICLE09: Polens Kampf gegen jüdische Frechheit.
+Found
+MODSMD_ARTICLE10: Senatstagung in Warschau.
+Found
+MODSMD_ARTICLE11: Die Londoner Presse zur Rede Chamberlains.
+Found
+MODSMD_ARTICLE12: Der lettische Außenminister aus London abgereist.
+Found
+MODSMD_ARTICLE13: Verantwortung für die Bombenabwürfe liegt bei den Roten.
+Found
+MODSMD_ARTICLE14: Artillerie im Königsschloß in Madrid.
+Found
+MODSMD_ARTICLE15: Schwere Mißhandlungen von 5l) Arabern.
+Found
+MODSMD_ARTICLE16: Die riesige Aufrüstung der Vereinigten Staaten.
+Found
+MODSMD_ARTICLE17: Wieder ein Troschkenchanffeur niedergeschossen.
+Found
+MODSMD_ARTICLE18: Das verbrecherische Judentum.
+Found

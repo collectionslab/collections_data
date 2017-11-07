@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der deutsche Rundfunk wiederholt die Führer-Rede.
+Found
+MODSMD_ARTICLE02: Sitzung des Kuratoriums der Hindenbura-Spende.
+Found
+MODSMD_ARTICLE03: Der Reichsjugendführer über die Adolf Hitler-Schulen.
+Found
+MODSMD_ARTICLE04: Bayreuth aus Schallplatten.
+Found
+MODSMD_ARTICLE05: Tie Entwicklung der Sozialversicherung 1935/36.
+Found
+MODSMD_ARTICLE06: Reichstagung der Reichsstudentenführung in Braunschwelg,
+Found
+MODSMD_ARTICLE07: „Tribuna" gegen italienfeindliche Borfälle in Paris.
+Found
+MODSMD_ARTICLE08: Stalin wütet weiter.
+Found
+MODSMD_ARTICLE09: Gegen die kommunistischen Streikschürer in Amerika.
+Found

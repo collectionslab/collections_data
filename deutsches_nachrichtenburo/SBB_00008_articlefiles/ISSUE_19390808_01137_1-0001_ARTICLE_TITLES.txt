@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Goebbels und Dr. Dietrich in Venedig.
+Found
+MODSMD_ARTICLE02: Der Besuch der litauischen Journalisten in Berlin.
+Found
+MODSMD_ARTICLE03: Die Rundfunkgenehmigungen am 1. August.
+Found
+MODSMD_ARTICLE04: Dr. Ley vor den KdF.-Warten in Bayreuth.
+Found
+MODSMD_ARTICLE05: Wieder ein Sturz aus einem polnischen Zug!
+Found
+MODSMD_ARTICLE06: Capoferri Präsident des Jndustriearbeiterverbandes.
+Found
+MODSMD_ARTICLE07: De Geers Aussichten ungüstig.
+Found
+MODSMD_ARTICLE08: Englands Kolonien sollen „internationalisiert" werden.
+Found
+MODSMD_ARTICLE09: Kriegsvorbereitungen in Singapur.
+Found
+MODSMD_ARTICLE10: Noch keine neuen Instruktionen für Tokio.
+Found
+MODSMD_ARTICLE11: Marschall Potain bei Bonnet.
+Found
+MODSMD_ARTICLE12: König Ibn Saud vergibt Oelkonzessionen.
+Found
+MODSMD_ARTICLE13: Wieder Luftkämpfe an der mandschurischen Grenze.
+Found
+MODSMD_ARTICLE14: Britische Missionsstation als Spionage-Stützpunkt.
+Found
+MODSMD_ARTICLE15: Kriegstreiberei aber ohne Südafrika.
+Found
+MODSMD_ARTICLE16: Vollstreckung eines Todesurteils.
+Found

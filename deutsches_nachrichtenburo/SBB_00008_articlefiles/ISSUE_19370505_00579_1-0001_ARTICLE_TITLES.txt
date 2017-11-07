@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr. Casini und Ricci an den Führer.
+Found
+MODSMD_ARTICLE02: Dr. Casini über die Deutschlandreise.
+Found
+MODSMD_ARTICLE03: Italiens Industrielle an die Reichsgruppe Industrie.
+Found
+MODSMD_ARTICLE04: Der Reichsführer SS. vor dem Polizeioffizier-Korps.
+Found
+MODSMD_ARTICLE05: Tagung des Beirats der Deutschen Reichsbahn.
+Found
+MODSMD_ARTICLE06: Tagung des Reichsautobahn-Verwaltungsrates.
+Found
+MODSMD_ARTICLE07: Der Nehring-Gedächtuis-Preis 193 k für Werner Blech.
+Found
+MODSMD_ARTICLE08: Ohne Paß durch Deutschland Zu Spaniens Kriegsschauplatz.
+Found
+MODSMD_ARTICLE09: Staatssekretär Reinhardt über den Vierjahresplan. '
+Found
+MODSMD_ARTICLE10: Fran?ois-Poncet in Paris.
+Found
+MODSMD_ARTICLE11: Englische Kriegsschiffe nach Barcelona entsandt.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: „Erfolgreicher Bombenabwurf bei Deblin."
+Found
+MODSMD_ARTICLE02: Kurze Auslandsnachrichten.
+Found
+MODSMD_ARTICLE03: In Helsinki melden Extrablätter Eindringen in Warschau.
+Found
+MODSMD_ARTICLE04: Englands Blufftaktik stürzte Polen ins Verderben.
+Found
+MODSMD_ARTICLE05: Englands Skrupellosigkeit ein internationaler Skandal.
+Found
+MODSMD_ARTICLE06: „Sonderzüge mit Kohle aus Deutschland".
+Found
+MODSMD_ARTICLE07: Das Esbjerger Opfer der englischen Bombe.
+Found
+MODSMD_ARTICLE08: Die polnische Luftwaffe in vier Tagen ausgeschaltet!
+Found
+MODSMD_ARTICLE09: Bulgarien sichert seine Lebensgrundlagen.
+Found
+MODSMD_ARTICLE10: Das Chaos auf Polens Straßen.
+Found
+MODSMD_ARTICLE11: Die deutschen Flieger befolgen die Befehle des Führers.
+Found
+MODSMD_ARTICLE12: Sicherung des lebenswichtigen Bedarfs in Italien.
+Found
+MODSMD_ARTICLE13: Waffengang zur Verewigung des Versailler Unrechts.
+Found
+MODSMD_ARTICLE14: Französische Konzession in Schanghai neutrales Territorium
+Found
+MODSMD_ARTICLE15: USA-Neutralitätserklärung auf Südafrika ausgedehnt.
+Found
+MODSMD_ARTICLE16: Vollstreckung eines Todesurteils.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Spende des Führers am Tage der Nationalen Solidarität.
+Found
+MODSMD_ARTICLE02: Das Sammlungsergebnis am „Tag der nationalen Solidarität".
+Found
+MODSMD_ARTICLE03: „Tag der nationalen Solidarität" 1936.
+Found
+MODSMD_ARTICLE04: IMJahrfeier des Staatlichen Schauspielhauses.
+Found
+MODSMD_ARTICLE05: Ter frühere Stellvertreter Gustlofss gestorben.
+Found
+MODSMD_ARTICLE06: 87. Geburtstag Mackensens.
+Found
+MODSMD_ARTICLE07: Besserung im Befinden des Papstes.
+Found
+MODSMD_ARTICLE08: Frankreichs Kommunisten vermeiden Regierungskrise.
+Found
+MODSMD_ARTICLE09: Diskonterhöhung der Norwegischen Staatsbank.
+Found
+MODSMD_ARTICLE10: Spionageprozeß vor dem Honvedgerichtshof.
+Found
+MODSMD_ARTICLE11: Rücktritt des brasilianischen Kriegsministers.
+Found

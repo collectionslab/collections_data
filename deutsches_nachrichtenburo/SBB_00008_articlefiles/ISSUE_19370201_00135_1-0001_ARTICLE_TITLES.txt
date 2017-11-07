@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Weitere Pressestimmen. Polen.
+Found
+MODSMD_ARTICLE02: Tschechoslowakei.
+Found
+MODSMD_ARTICLE03: Jugoslawien
+Found
+MODSMD_ARTICLE04: Portugal.
+Found
+MODSMD_ARTICLE05: Lord Londonderry zur Führerrede.
+Found
+MODSMD_ARTICLE06: Es gärt bei den spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE07: Ruhiger Sonntag an den spanischen Fronten.
+Found
+MODSMD_ARTICLE08: Lohnanglelchung in Paris.
+Found
+MODSMD_ARTICLE09: Parlamentswahlen in Albanien.
+Found
+MODSMD_ARTICLE10: Klärung in Japan.
+Found

@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Keine Abwertung der Mark. Die deutsche Stellungnahme zur Währungsfrage.
+Found
+MODSMD_ARTICLE02: Der Internationale Autorenkongreß bei Dr. Frank.
+Found
+MODSMD_ARTICLE03: General Francs Chef der Negierung.
+Found
+MODSMD_ARTICLE04: Die Sitzung des französischen Senats.
+Found
+MODSMD_ARTICLE05: Botschafter Bullitt in Paris eingetroffen.
+Found
+MODSMD_ARTICLE06: Die Verstärkung des Schweizer Heeres.
+Found
+MODSMD_ARTICLE07: Die Ehe Starhembergs für ungültig erklärt.
+Found

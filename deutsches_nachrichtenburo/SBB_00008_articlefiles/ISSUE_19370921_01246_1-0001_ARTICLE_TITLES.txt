@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Beginn der großen Wehrmachtsmanöver. Die Ausgangslage und der erste Tag.
+Found
+MODSMD_ARTICLE02: Der Hanna Reitsch-Weltrekord anerkannt.
+Found
+MODSMD_ARTICLE03: Englische Laienspielerschar spielt vor Hamburger HJ.
+Found
+MODSMD_ARTICLE04: Englands Presse über die Berliner Lustschutzübung.
+Found
+MODSMD_ARTICLE05: Herriot von seiner Deutschlandreise beeindruckt.
+Found
+MODSMD_ARTICLE06: Jüdische Geldschrankknacker in Danzig festgenommen.
+Found
+MODSMD_ARTICLE07: Deutsche Industrielle besuchen Oesterreich.
+Found
+MODSMD_ARTICLE08: Pariser Besprechungen mit Italiens Marinesachverständigen.
+Found
+MODSMD_ARTICLE09: Eine neue Genfer HehMe MtzlinowMnkelsteins.
+Found
+MODSMD_ARTICLE10: Japans Antwort betr. Knatchbull an England überreicht.
+Found
+MODSMD_ARTICLE11: Britische Vorstellungen wegen der Lustangriffe auf Nanking,
+Found
+MODSMD_ARTICLE12: Der Deutsche Jakoby in Schanghai gestorben.
+Found
+MODSMD_ARTICLE13: Bolschewistische Agitation im Moshi-Gebiet.
+Found

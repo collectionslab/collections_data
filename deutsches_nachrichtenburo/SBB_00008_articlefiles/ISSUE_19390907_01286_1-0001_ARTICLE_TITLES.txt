@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Kümmerliches Rettungsmanöver des englischen Rundfunks.
+Found
+MODSMD_ARTICLE02: England erklärt Flottenverträge für ungültig.
+Found
+MODSMD_ARTICLE03: England bereitet Kriegshaushalt vor.
+Found
+MODSMD_ARTICLE04: Polen mißachtet das Kriegsrecht.
+Found
+MODSMD_ARTICLE05: Ehrung des deutschen Volksgruppenführers in der Slowakei.
+Found
+MODSMD_ARTICLE06: Jugoslawien meldet Panik in Warschau.
+Found
+MODSMD_ARTICLE07: Das deutsche Weißbuch in Jugoslawien.
+Found
+MODSMD_ARTICLE08: Deutsches Weißbuch in Athen stark beachtet.
+Found
+MODSMD_ARTICLE09: Zusammenarbeit zur Sicherung der Neutralität.
+Found
+MODSMD_ARTICLE10: Spanien bewundert die Erfolge des deutschen Heeres.
+Found
+MODSMD_ARTICLE11: Italiens Bewunderung für die deutschen Erfolge.
+Found
+MODSMD_ARTICLE12: Italien: Diesmal ziehen die Lügen nicht?
+Found
+MODSMD_ARTICLE13: Gewaltiger Eindruck der Einnahme Krakaus in Finnland.
+Found
+MODSMD_ARTICLE14: England beleidigt die japanische Armee.
+Found
+MODSMD_ARTICLE15: Die Presse Brasiliens neutral.
+Found
+MODSMD_ARTICLE16: „Der Führer der erste Soldat des Reiches" .
+Found
+MODSMD_ARTICLE17: Verzögerung des Auslaufens des „President Roosevelt".
+Found

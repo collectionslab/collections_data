@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Ehrungen für Ritter von Epp, Siebert und Fiehler.
+Found
+MODSMD_ARTICLE02: Empfang beim deutschen Gesandten in Montevideo.
+Found
+MODSMD_ARTICLE03: Die englisch-italienischen Verhandlungen.
+Found
+MODSMD_ARTICLE04: Der deutsche Rundfunk nachahmenswert.
+Found
+MODSMD_ARTICLE05: Tie fünf nicht abgewrackten britischen Kreuzer.
+Found
+MODSMD_ARTICLE06: Luftrüstungsfragen vor dem Oberhaus.
+Found
+MODSMD_ARTICLE07: Französisch-sowjetrussisches Handelsabkommen verlängert.
+Found
+MODSMD_ARTICLE08: Borschläge Blums zur Beilegung des Streiks in Lille.
+Found
+MODSMD_ARTICLE09: Blutige Ausschreitungen in Lyon.
+Found
+MODSMD_ARTICLE10: Der französische Bauernführer Dorgeres verhaftet.
+Found
+MODSMD_ARTICLE11: Die Besprechungen Antonescus in Paris.
+Found
+MODSMD_ARTICLE12: Erfolge der Nationalen an der Baskischen front.
+Found
+MODSMD_ARTICLE13: Britische Votschaftsautos für Lebensmitteltransporte.
+Found
+MODSMD_ARTICLE14: Nationaler Sender für die Madrider Bevölkerung.
+Found
+MODSMD_ARTICLE15: Erfolglose bolschewistische Angriffe.
+Found
+MODSMD_ARTICLE16: Vor neuen Unruhen in Palästina? –
+Not Found
+MODSMD_ARTICLE17: Grauenhafte Zustände in den Madrider GefängnWM^
+Found
+MODSMD_ARTICLE18: Neue Verstärkungen für die „Internationale Brigade".
+Found
+MODSMD_ARTICLE19: Tschiangkaischek wohlauf.
+Found
+MODSMD_ARTICLE20: Besuch des chilenischen Außenministers in Uruguay.
+Found
+MODSMD_ARTICLE21: 31 Milliarden Dollar Staatsschuld in USA.
+Found

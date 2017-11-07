@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Goebbels besichtigte Warschau.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Englands Piratentum.
+Found
+MODSMD_ARTICLE04: Dr. Frick in Posen.
+Found
+MODSMD_ARTICLE05: Bremen 42V VVV Einwohner.
+Found
+MODSMD_ARTICLE06: Das Echo der Molotow-Rede. Sowjetunion.
+Found
+MODSMD_ARTICLE07: Schweiz.
+Found
+MODSMD_ARTICLE08: Griechenland.
+Found
+MODSMD_ARTICLE09: Japan.
+Found
+MODSMD_ARTICLE10: England verletzt Luxemburgs Neutralität.
+Found
+MODSMD_ARTICLE11: Geringe Gefechtstätigkeit im Westen.
+Found
+MODSMD_ARTICLE12: Englische Schisfahrtsagenturen müssen schließen.
+Found
+MODSMD_ARTICLE13: Senator Nye über die Bedeutung des Waffenembargos.
+Found
+MODSMD_ARTICLE14: Unangebrachte Entrüstung über die „City of Flint".
+Found
+MODSMD_ARTICLE15: Pittman-Vorlage geht an einen .Konferenzausschuß.
+Found
+MODSMD_ARTICLE16: Kennzahl für die Lebenshaltungskosten im Oktober.
+Found

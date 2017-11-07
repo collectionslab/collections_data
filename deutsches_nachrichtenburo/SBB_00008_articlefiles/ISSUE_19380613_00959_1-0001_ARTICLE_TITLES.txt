@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Neichstheaterfestwoche 1938 eröffnet;
+Found
+MODSMD_ARTICLE02: Internationaler Kinderschutzkongreß.
+Found
+MODSMD_ARTICLE03: Der Führer an den Kongreß für Kinderschutz.
+Found
+MODSMD_ARTICLE04: Dr. Goebbels an die Reichstagung „Kraft durch Freude".
+Found
+MODSMD_ARTICLE05: Tiplomatenempfang anläßlich der KdF.-Reichstagung.
+Found
+MODSMD_ARTICLE06: 300 deutsche Eisenbahner in Florenz eingetroffen.
+Found
+MODSMD_ARTICLE07: Mussolini vereidigt Schwarzhemden.
+Found
+MODSMD_ARTICLE08: 91,44 v. H. für die Sudetendeutsche Partei.
+Found
+MODSMD_ARTICLE09: London nach dem neuen Sieg Henleins.
+Found
+MODSMD_ARTICLE10: Paris zum Erfolg der Sudetendeutschen.
+Found
+MODSMD_ARTICLE11: Paris dementiert Waffenliefernngsabkommen mit China.
+Found

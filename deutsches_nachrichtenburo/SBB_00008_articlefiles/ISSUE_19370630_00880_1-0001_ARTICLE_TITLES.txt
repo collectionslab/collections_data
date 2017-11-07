@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ter Führer aus der Ausstellung französischer Kunst.
+Found
+MODSMD_ARTICLE02: Beförderung in der Schutzpolizei.
+Found
+MODSMD_ARTICLE03: MackenZie King bei Minister von Neurath.
+Found
+MODSMD_ARTICLE04: Ernennung im Reichsernährungsministerium.
+Found
+MODSMD_ARTICLE05: Eine Klarstellung.
+Found
+MODSMD_ARTICLE06: Einsatz des Reichsarbeitsdienstes für die Erntenothilfe.
+Found
+MODSMD_ARTICLE07: Beschleunigte Durchführung des Ernährungshilfswerks.
+Found
+MODSMD_ARTICLE08: Hochwasserschutz im Straubinger Becken.
+Found
+MODSMD_ARTICLE09: Die Teilnehmer der VdJ-Tagung im Kieler Rathaus.
+Found
+MODSMD_ARTICLE10: „Scherze" eines politisierenden katholischen Vikars.
+Found
+MODSMD_ARTICLE11: Abschied amerikanischer Studenten von München.
+Found
+MODSMD_ARTICLE12: Ermächtigungsgesetz im Senat angenommen.
+Found
+MODSMD_ARTICLE13: Die französische Finanzkrise in englischer Beleuchtung.
+Found
+MODSMD_ARTICLE14: Konservativer Erfolg bei einer Nachwahl.
+Found
+MODSMD_ARTICLE15: Neue sowjetrussische Uebergriffe im Amur-Gebiet.
+Found

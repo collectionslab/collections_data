@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Kanya an Freiherrn von Neurath.
+Found
+MODSMD_ARTICLE02: Gesandter Wiehl Zum Ministerialdirektor ernannt.
+Found
+MODSMD_ARTICLE03: „Verfassung und Verwaltung im Dritten Reich".
+Found
+MODSMD_ARTICLE04: Die ungarischen Staatsmänner wieder daheim.
+Found
+MODSMD_ARTICLE05: Deutsch-Akademischer Austauschdienst tagte in Neapel.
+Found
+MODSMD_ARTICLE06: Italien erkennt Mandschukuo an.
+Found
+MODSMD_ARTICLE07: Ein Essen Chamberlains für Frankreichs Staatsmänner.
+Found
+MODSMD_ARTICLE08: Die Zusammensetzung der Parteileitung in Nationalspanien.
+Found
+MODSMD_ARTICLE09: Syrische Kundgebungen gegen die Türkei.
+Found
+MODSMD_ARTICLE10: Kiangyin von den Japanern eingenommen.
+Found
+MODSMD_ARTICLE11: Tokio erklärt: Zollkontrolle der ersth. Schritt.
+Found
+MODSMD_ARTICLE12: Das Verwaltnngssystem der chinesischen Seie'zölle.
+Found

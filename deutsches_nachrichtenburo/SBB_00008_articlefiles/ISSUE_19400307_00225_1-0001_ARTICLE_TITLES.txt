@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Rom weist die Londoner Erpressungsversuche zurück.
+Found
+MODSMD_ARTICLE02: Tertilarbeiterstreik in Bombay.
+Found
+MODSMD_ARTICLE03: „Unkenntnis, Frivolität, Beschränktheit."'
+Found
+MODSMD_ARTICLE04: „Frankreich, das gelobte Land aller Feinde Spaniens."
+Found
+MODSMD_ARTICLE05: Enthüllungen eines englischen Blattes.
+Found
+MODSMD_ARTICLE06: Noch immer nicht die Taschen voll.
+Found
+MODSMD_ARTICLE07: 16 italienische Schiffe aufgebracht.
+Found
+MODSMD_ARTICLE08: Sowjetrussischer Protest in London.
+Found
+MODSMD_ARTICLE09: Ungarische Warnung an die Westmächte.
+Found
+MODSMD_ARTICLE10: Belgrad zur Aufbringung der italienischen Kohlenschiffe.
+Found
+MODSMD_ARTICLE11: „Demokratische" Versprechungen Ziehen nicht mehr.
+Found
+MODSMD_ARTICLE12: Luftaufklärung gegen England fortgesetzt.
+Found
+MODSMD_ARTICLE13: Großes Schiffsbauprogramm für den Dnjepr—Bug-Kanal.
+Found
+MODSMD_ARTICLE14: Unruhen auch in Britisch-Westindien.
+Found
+MODSMD_ARTICLE15: Japan verurteilt die englische Willkür.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Oesterreich-Fahrt des Reichspostministers.
+Found
+MODSMD_ARTICLE02: Befreiung von der Rundfunkgebühr im Lande Oesterreich.
+Found
+MODSMD_ARTICLE03: Italienische Abordnung besucht Heldensriedhöfe.
+Found
+MODSMD_ARTICLE04: Jüdische Betrüger schädigten österreichische Arbeiter.
+Found
+MODSMD_ARTICLE05: Prags Zwangsrekrutierungen.
+Found
+MODSMD_ARTICLE06: „Uederholte Mittel gefährden den Frieden."
+Found
+MODSMD_ARTICLE07: London immer noch nicht objektiv.
+Found
+MODSMD_ARTICLE08: Tie Englandreise des Generalstabschefs Buillemin.
+Found
+MODSMD_ARTICLE09: Das irische Parlament aufgelöst.
+Found
+MODSMD_ARTICLE10: Barcelona muß italienischen Beobachter freilassen. >
+Found
+MODSMD_ARTICLE11: Die Rolle Sowjetrußlands im Nichteinmischungsausschuß.
+Found
+MODSMD_ARTICLE12: Neue krampfhafte Offensivversuche der Noten in Katalonien
+Found
+MODSMD_ARTICLE13: Munition für Sowjetspanien in die Luft geflogen.
+Found
+MODSMD_ARTICLE14: Reitergeneral Goriatschew erschossen?
+Found
+MODSMD_ARTICLE15: Sitzstreik in der Memeler Zellulosefabrik.
+Found
+MODSMD_ARTICLE16: Außenminister Beck vor der schwedischen Presse.
+Found
+MODSMD_ARTICLE17: Ausdehnung der Unruhen in Jamaica auf Britifch-Guayancr
+Found
+MODSMD_ARTICLE18: Cedillos Lager eingenommen.
+Found

@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Diplomaten Empfänge beim Führer.
+Found
+MODSMD_ARTICLE03: Die endgültige deutsch—tschechische Grenze.
+Found
+MODSMD_ARTICLE04: Die Präsidenteusrage noch nicht geklärt.
+Found
+MODSMD_ARTICLE05: Mandschukuo zahlt nicht.
+Found

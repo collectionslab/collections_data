@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Das Ausland zur Rückkehr des Duee.
+Found
+MODSMD_ARTICLE02: Die Ergebnisse des Duce-Besuches.
+Found
+MODSMD_ARTICLE03: Die englischen Verkehrsfachleute bei Dr. Dorpmüller.
+Found
+MODSMD_ARTICLE04: Dr. Lüer über das Märchen von der deutschen Autarkie.
+Found
+MODSMD_ARTICLE05: Außenminister Beck wieder in Warschau.
+Found
+MODSMD_ARTICLE06: Werbezentrale für Rotspanien in Oesterreich.
+Found
+MODSMD_ARTICLE07: Unterredung Eden—Grandi.
+Not Found
+MODSMD_ARTICLE08: Seltsame „Gemüseausfuhr" aus Frankreich.
+Found
+MODSMD_ARTICLE09: Frankreich schiebt die teuren Spanienbolschewisten ab.
+Found
+MODSMD_ARTICLE10: Lebrun wieder in Paris. Auch die Minister kehren zurück.
+Found
+MODSMD_ARTICLE11: Der Genfer Entschließungsvorschlag über Spanien.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der jüdische Mordanschlag in Paris.
+Found
+MODSMD_ARTICLE02: Die Anteilnahme der französischen Regierung.
+Found
+MODSMD_ARTICLE03: Die erste Vernehmung des jüdischen Attentäters.
+Found
+MODSMD_ARTICLE04: Der Zustand des Legationssekretärs vom Rath sehr ernst.
+Found
+MODSMD_ARTICLE05: Größtes Aussehen der jüdischen Bluttat in Paris.
+Found
+MODSMD_ARTICLE06: Tiefer Eindruck in London.
+Found
+MODSMD_ARTICLE07: Schärfste Verurteilung in Rom.
+Found
+MODSMD_ARTICLE08: Tie zwischenstaatlichen Verbände als kulturelle Mittler.
+Found
+MODSMD_ARTICLE09: München schmückt sich Zum 9. November.
+Found
+MODSMD_ARTICLE10: Nibbentrop vor der Presse.
+Found

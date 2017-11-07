@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Göring an das Landvolk
+Found
+MODSMD_ARTICLE02: Der Führer gratulierte Dr. Ley Zum Geburtstag.
+Found
+MODSMD_ARTICLE03: Weitere Glückwünsche für Dr. Ley.
+Found
+MODSMD_ARTICLE04: Tagung des Zentralbüros „Freude und Arbeit".
+Found
+MODSMD_ARTICLE05: Erklärung von Nordseeinseln Zu Sicherungsbereichen.
+Found
+MODSMD_ARTICLE06: Altersversorgung des deutschen Volkes.
+Found
+MODSMD_ARTICLE07: Italienischer Dampfer an der Küste Englands gesunken.
+Found
+MODSMD_ARTICLE08: Argentinien von England enttäuscht?
+Found
+MODSMD_ARTICLE09: „Totale Vorbereitung für den totalen Krieg".
+Found
+MODSMD_ARTICLE10: Starker Eindruck der Polengreuel in Italien.
+Found
+MODSMD_ARTICLE11: Schirmherr der Juden und Neger.
+Found

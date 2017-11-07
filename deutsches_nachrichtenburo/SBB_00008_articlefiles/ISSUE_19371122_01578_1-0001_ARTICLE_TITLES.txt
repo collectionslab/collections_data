@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer bei seinen alten Mitkämpfern.
+Found
+MODSMD_ARTICLE02: Abschluß der 15-Jahr-Feier.
+Found
+MODSMD_ARTICLE03: Der Führer im Augsburger Stadttheater.
+Found
+MODSMD_ARTICLE04: Der Führer beglückwünscht Professor Dr. Stark.
+Found
+MODSMD_ARTICLE05: Der ungarische Staatsbesuch in der Reichshauptstadt.
+Found
+MODSMD_ARTICLE06: Ungarns Staatsmänner in der Jagdausstellung.
+Found
+MODSMD_ARTICLE07: Budapest zum Besuch der ungarischen Staatsmänner.
+Found
+MODSMD_ARTICLE08: Deutsch? Aerzteabordnung bei Ungarns Kultusminister.
+Found
+MODSMD_ARTICLE09: Abschied der deutschen KdF.-Abordnung von Rom.
+Found
+MODSMD_ARTICLE10: Keinerlei Anleiheabsichten Italiens in England.
+Found
+MODSMD_ARTICLE11: Gewerkschaftsleiter Jouhaux fährt nach Moskau.
+Found
+MODSMD_ARTICLE12: Freche Ausfälle amerikanischer Juden gegen Polen.
+Found

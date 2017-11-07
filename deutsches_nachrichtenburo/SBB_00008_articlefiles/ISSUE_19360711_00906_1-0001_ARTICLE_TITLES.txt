@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Die körperliche Ertüchtigung des Deutschen Jungvolkes.
+Found
+MODSMD_ARTICLE03: Der Reichskriegsminister empfängt Professor Frank.
+Found
+MODSMD_ARTICLE04: Frankreichs Kommunisten gegen das Vorgehen Streikender.
+Found
+MODSMD_ARTICLE05: Olympischer Kongreß für Körperliche Erziehung.
+Found
+MODSMD_ARTICLE06: König Boris von Bulgarien in Italien.
+Found
+MODSMD_ARTICLE07: Die Kennzahlen der Großhandelspreise vom 8. Juli 1936.
+Found

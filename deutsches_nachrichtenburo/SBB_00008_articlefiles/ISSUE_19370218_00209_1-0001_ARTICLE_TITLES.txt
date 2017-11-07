@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Musikabend zu Ehren des Prinzregenten Paul.
+Found
+MODSMD_ARTICLE02: Die Konferenz der Balkan-Entente beendet.
+Found
+MODSMD_ARTICLE03: Pappstiicke als bolschewistisches Notgeld.
+Found
+MODSMD_ARTICLE04: Londoner Blätter zur Rüstungsdebatte im Unterhaus.
+Found
+MODSMD_ARTICLE05: Aussprache über das Mandatssystem im Oberhaus.
+Found
+MODSMD_ARTICLE06: Juden aus Krakauer juristischer Gesellschaft entfernt.
+Found
+MODSMD_ARTICLE07: Amerika nimmt an der Kapitulationskonferenz teil.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht den König vom Irak.
+Found
+MODSMD_ARTICLE02: Der Führer empfing den deutschen Adelsmarschall.
+Found
+MODSMD_ARTICLE03: Hier! verabschiedet 100 000 Arbeitsmänner.
+Found
+MODSMD_ARTICLE04: Umbildung der „Gezuvor" durch Kerrl.
+Found
+MODSMD_ARTICLE05: Empfang für die schwedischen Reichstagsabgeordneten.
+Found
+MODSMD_ARTICLE06: Trauerfeier für Generalmusikdirektor Scheinpflug.
+Found
+MODSMD_ARTICLE07: Großkundgebung des deutschen Baugewerbes.
+Found
+MODSMD_ARTICLE08: Beisetzung eines Blutzeugen der Bewegung.
+Found
+MODSMD_ARTICLE09: Jüdischer Hochverräter Zum Tode verurteilt.
+Found
+MODSMD_ARTICLE10: Neichssportsührer besichtigt Leistuugs-Ehreumal.
+Found
+MODSMD_ARTICLE11: Neustädtcr-Stürmer seines Amtes enthoben.
+Found
+MODSMD_ARTICLE12: Deutscher Sieg im Fusiballkampf Deutschland-Frankreich.
+Found

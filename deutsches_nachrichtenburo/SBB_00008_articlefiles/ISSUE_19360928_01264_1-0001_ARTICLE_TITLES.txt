@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Rudolf Heß beglückwünscht die Helden des Alcazar.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels empfing die Presse.
+Found
+MODSMD_ARTICLE03: Eröffnung weiterer Teilstrecken der Reichsautobahn.
+Found
+MODSMD_ARTICLE04: Holland will doch abwerten.
+Found
+MODSMD_ARTICLE05: Polen behält den gegenwärtigen Zlotykurs bei.
+Found
+MODSMD_ARTICLE06: Wieder belgische Waffen nach Spanien verschoben.
+Found
+MODSMD_ARTICLE07: Französische Polizei gegen spanische Nationalisten.
+Found
+MODSMD_ARTICLE08: Freude über die Befreiung Toledos.
+Found
+MODSMD_ARTICLE09: Weitere Fortschritte der Nationalisten.
+Found
+MODSMD_ARTICLE10: GPU-Chef Jagoda und Rykow abgesetzt.
+Found
+MODSMD_ARTICLE11: Führender Araber in Haifa erschossen.
+Found

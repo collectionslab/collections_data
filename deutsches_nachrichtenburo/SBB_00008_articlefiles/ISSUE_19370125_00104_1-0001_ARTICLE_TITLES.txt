@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Der Wortlaut der deutschen Antwortnote an England.
+Found
+MODSMD_ARTICLE02: Die Antwort Italiens.
+Found
+MODSMD_ARTICLE03: Der Theaterprozeß und die Verhaftung Reichsdeutscher.
+Found
+MODSMD_ARTICLE04: Weitere Verhaftungen in Moskau?
+Found
+MODSMD_ARTICLE05: Eindringlicher Warnruf Gaydas.
+Found
+MODSMD_ARTICLE06: Unerhörte kommunistische Hetze im USA-Autonrbeiterstreik.
+Found
+MODSMD_ARTICLE07: Vollstreckung eines Todesurteils.
+Found

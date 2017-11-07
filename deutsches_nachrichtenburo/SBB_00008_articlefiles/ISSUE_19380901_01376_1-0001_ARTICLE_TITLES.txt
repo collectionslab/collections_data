@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ein! neues deutsches Antlantik-Flugboot.
+Found
+MODSMD_ARTICLE02: Die Studienfahrt der japanischen Jugendherbergskommission.
+Found
+MODSMD_ARTICLE03: Korpsführer Hühnlein zum Tode Fritz von Opels.
+Found
+MODSMD_ARTICLE04: Deutsch-niederländisches Transferabkommen verlängert.
+Found
+MODSMD_ARTICLE05: Lord Runciman bei Benesch.
+Found
+MODSMD_ARTICLE06: Gegen haltlose Gerüchtemacherei.
+Found
+MODSMD_ARTICLE07: Roms Presse im Zeichen der neuen Judengesetze.
+Found
+MODSMD_ARTICLE08: Streikdrohung der nordfranzösischen Textilindustrie.
+Found
+MODSMD_ARTICLE09: Der deutsche Botschafter bei Außenminister Bonnet.
+Found
+MODSMD_ARTICLE10: Basels neuer Ratspräsident ein Kommunist.
+Found
+MODSMD_ARTICLE11: Amerikas Gesindel nach Rotspanien!
+Found
+MODSMD_ARTICLE12: Großer ungarischer Ministerrat.
+Found
+MODSMD_ARTICLE13: Englands Borgeheu in Palästina.
+Found
+MODSMD_ARTICLE14: Großer japanischer Sieg am Luschanberg.
+Found
+MODSMD_ARTICLE15: Neue Enthüllungen im Hines-Prozeß.
+Found
+MODSMD_ARTICLE16: Kommunistische Generalstreikhetze in Mexiko.
+Found

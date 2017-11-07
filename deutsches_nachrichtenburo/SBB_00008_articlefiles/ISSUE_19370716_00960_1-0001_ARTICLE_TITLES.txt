@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Dr. Popitz besichtigt die Westküste Schleswig-Holsteins.
+Found
+MODSMD_ARTICLE02: Studienreise des Amtes für Berufserziehung der DM.
+Found
+MODSMD_ARTICLE03: Unterhaus-Aussprache über Spanien.
+Found
+MODSMD_ARTICLE04: Bolschewistische Menschenschmuggler in Belgien am Werk.
+Found
+MODSMD_ARTICLE05: Der französische Kellnerstreik.
+Found

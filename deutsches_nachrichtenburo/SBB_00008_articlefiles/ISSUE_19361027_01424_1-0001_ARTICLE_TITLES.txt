@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Empfang der Nordatlantikslieger durch die Lufthansa.
+Found
+MODSMD_ARTICLE02: Gauleiter Bohle in Venedia.
+Found
+MODSMD_ARTICLE03: Nibbentrop an die englische Presse.
+Found
+MODSMD_ARTICLE04: Der Herzog von Coburg im Dorf der British Legion.
+Found
+MODSMD_ARTICLE05: Woche des deutschen Buches in Chile.
+Found
+MODSMD_ARTICLE06: Ciano berichtet Mussolini.
+Found
+MODSMD_ARTICLE07: Lord Londonderry in Wien.
+Found
+MODSMD_ARTICLE08: Kommunistische Geheimorganisation in Oesterreich.
+Found
+MODSMD_ARTICLE09: Strafverfahren gegen Degrelle eingeleitet.
+Found
+MODSMD_ARTICLE10: Französischer Kohlentransportstreik dehnt sich aus.
+Found
+MODSMD_ARTICLE11: Erneute Vernehmung de la Rocques.
+Found
+MODSMD_ARTICLE12: Tagung der katholischen Rechtsberater in Paris.
+Found
+MODSMD_ARTICLE13: Mit der Feuerspritze gegen Streikende.
+Found
+MODSMD_ARTICLE14: Die Hölle Madrid.
+Found
+MODSMD_ARTICLE15: Schonung des Klosters El Escorial.
+Found
+MODSMD_ARTICLE16: Spanische Anarchisten erschießen roten Zivilgonverneur.
+Found
+MODSMD_ARTICLE17: Weitere Freiwillige aus Frankreich für Barcelona.
+Found
+MODSMD_ARTICLE18: Sowjetdampfer aus Ostasien nach Spanien unterwegs.
+Found
+MODSMD_ARTICLE19: Riesensummen als Sowjetköder für griechische Reeder.
+Found
+MODSMD_ARTICLE20: Stojadinowitsch auf der Reise nackf Ankara.
+Found

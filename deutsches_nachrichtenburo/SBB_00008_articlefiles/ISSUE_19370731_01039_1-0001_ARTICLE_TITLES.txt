@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Abschluß des Ersten Bayreuther Festspiel-Zyklus.
+Found
+MODSMD_ARTICLE02: Die Ausführung der „Götterdämmerung" in Bayreuth.
+Found
+MODSMD_ARTICLE03: Ablösung in die spanischen Gewässer ausgelaufen.
+Found
+MODSMD_ARTICLE04: Minister Cetinkaya in Hamburg.
+Found
+MODSMD_ARTICLE05: Reichssportführer von Tschammer und Osten in Paris.
+Found
+MODSMD_ARTICLE06: Letzte außenpolitische Aussprache im Unterhaus.
+Found
+MODSMD_ARTICLE07: Nichteinmischungsausschuß ohne Ergebnis vertagt.
+Found
+MODSMD_ARTICLE08: Tagung von Sejm und Senat beendet.
+Found

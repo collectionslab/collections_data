@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Dr. Goebbels bor den Leitern der Reichspropagandaämter.
+Found
+MODSMD_ARTICLE02: Reichsinne?nmimster Dr. Frick in Wien eingetroffen.
+Found
+MODSMD_ARTICLE03: Der Reichssportführer am Wörther See.
+Found
+MODSMD_ARTICLE04: Einweihung der neuen Rostocker Universitätszahnklinik.
+Found
+MODSMD_ARTICLE05: Staaisakademie! des öffentlichen Gesundheitsdienstes.
+Found
+MODSMD_ARTICLE06: Die Ostmark spendete IWK 248,55 RM. für die NSV.
+Found
+MODSMD_ARTICLE07: Sudetendentsche Schüler gemaßregelt.
+Found
+MODSMD_ARTICLE08: Pariser Journalist aus Prag ausgewiesen.
+Found
+MODSMD_ARTICLE09: Allgemeine Wehrpflicht im Kriegsfall in England.
+Found
+MODSMD_ARTICLE10: Zwanzig Minuten französische Kammersitzung.
+Found
+MODSMD_ARTICLE11: Seltsame Verirrungen der französischen Marxisten.
+Found
+MODSMD_ARTICLE12: Die Verteidigungsstellungen von Castellon umgangen.
+Found
+MODSMD_ARTICLE13: Nachschub für die Roten über die Pyrenäen wie noch nie.
+Found
+MODSMD_ARTICLE14: Der Besuch der Natioualspanier in Italien beendet.
+Found
+MODSMD_ARTICLE15: Sitzung des Zeutralausschusses der Korporationen.
+Found
+MODSMD_ARTICLE16: Die endlose „Säuberung" unter den Spitzen der Sowjets.
+Found
+MODSMD_ARTICLE17: Japanischer Vormarsch an der Lunghai-Bahn.
+Found

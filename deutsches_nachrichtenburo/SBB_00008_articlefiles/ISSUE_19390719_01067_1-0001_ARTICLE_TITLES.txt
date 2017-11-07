@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Göring bei der KdF.-Reichstagung.
+Found
+MODSMD_ARTICLE02: Der Adolf Hitler-Marsch begann in Danzig.
+Found
+MODSMD_ARTICLE03: Der „Condor" besuchte die belgische Hauptstadt.
+Found
+MODSMD_ARTICLE04: Die slowakische Erneuerungsanleihe ein voller Erfolg.
+Found
+MODSMD_ARTICLE05: Phantasien über das „Sicherheitsdreieck Europas".
+Found
+MODSMD_ARTICLE06: Spanien feierte den Jahrestag der nationalen Erhebung.
+Found
+MODSMD_ARTICLE07: Guayana als Preis für Kriegsmaterial-Lieferungen?
+Found
+MODSMD_ARTICLE08: Lloyd George etwas durcheinander.
+Found
+MODSMD_ARTICLE09: „Als Rohstofflieferant empfiehlt sich. .
+Found
+MODSMD_ARTICLE10: Das wahre Gesicht der britischen Kolonialpolitik.
+Found
+MODSMD_ARTICLE11: „Die Lage im Fernen Osten sehr gefährlich."
+Found
+MODSMD_ARTICLE12: Neuer Oberkommissar für die Südafrikanische Union.
+Found
+MODSMD_ARTICLE13: Japan lehnt Kompromisse ab.
+Found
+MODSMD_ARTICLE14: Durch Roosevelts Machtgelüste 659 999 Arbeiter brotlos.
+Found
+MODSMD_ARTICLE15: Roosevelt bringt die Baumwollsarmer an den Bettelstab.
+Found
+MODSMD_ARTICLE16: Wahlmanager Roosevelts wegen Betruges angeklagt.
+Found

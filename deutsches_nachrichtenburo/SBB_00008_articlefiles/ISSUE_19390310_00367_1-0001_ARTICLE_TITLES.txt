@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Die deutschen Marineattaches vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Minister Kotzias am Ehrenmal.
+Found
+MODSMD_ARTICLE03: Die Besprechungen Darre-Rossoni erfolgreich beiendet.
+Found
+MODSMD_ARTICLE04: Deutsch ungarische Rechtsverhandlungen.
+Found
+MODSMD_ARTICLE05: Schulfeierstunden am 13. März.
+Found
+MODSMD_ARTICLE06: Die Forderungen an den deutschen Film.
+Found
+MODSMD_ARTICLE07: Einheitliche Staatsgrundbesitzverwaltung.
+Found
+MODSMD_ARTICLE08: Stapellauf des Zollkreuzers „Freiherr vom Stein".
+Found
+MODSMD_ARTICLE09: „Kroaten formal und tatsächlich gleichberechtigt."
+Found
+MODSMD_ARTICLE10: Ungarn begrüßt die Rede Cincar-Markowitschs.
+Found
+MODSMD_ARTICLE11: Wahl des französischen Staatspräsidenten am 5. April.
+Found
+MODSMD_ARTICLE12: „Plumpe Einschüchterungsmethoden."
+Found
+MODSMD_ARTICLE13: 43 Millionen Pfund für den englischen Luftschutz.
+Found
+MODSMD_ARTICLE14: In Madrid weiterhin heftige Kämpfe.
+Found
+MODSMD_ARTICLE15: Erschossen, erschossen . . .
+Found
+MODSMD_ARTICLE16: Drei neue Todesurteile gegen Araber.
+Found
+MODSMD_ARTICLE17: Die Besprechungen Aranhas in Washington.
+Found
+MODSMD_ARTICLE18: Amerikanische Staatsbeamte unter Anklage der Erpressung.
+Found
+MODSMD_ARTICLE19: Konferenz von Miliiärsachverständigen auf Neuseeland.
+Found

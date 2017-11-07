@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Dr. Ley vor den Führerauwärtern der westdeutschen Gaue.
+Found
+MODSMD_ARTICLE03: Die Grundsähe des Strafvollzuges im Dritten Reich.
+Found
+MODSMD_ARTICLE04: Zusammenkunft Lord Runeimans mit Konrad Heulein.
+Found
+MODSMD_ARTICLE05: Wieder ein Fall tschechischer Halsabschneiderei.
+Found
+MODSMD_ARTICLE06: Im Solde Prags.
+Found
+MODSMD_ARTICLE07: Brutale Ausrottung der ungarischen Volksgruppe.
+Found
+MODSMD_ARTICLE08: Die Antwort Francas wird noch geprüft.
+Found
+MODSMD_ARTICLE09: Eine Zeitung in Barcelona verboten.
+Found
+MODSMD_ARTICLE10: Internationaler Kongreß in Nationalspamen.
+Found
+MODSMD_ARTICLE11: Der nationale Vormarsch an der Ebrofront.
+Found
+MODSMD_ARTICLE12: Das Judentum im Berufsleben Italiens.
+Found
+MODSMD_ARTICLE13: Einberufung des Nichteinmischungsausschuffes?
+Found
+MODSMD_ARTICLE14: Morgeuthau in Montreux.
+Found
+MODSMD_ARTICLE15: Neuwahl des Obersten Sowjet-Tribunals.
+Found

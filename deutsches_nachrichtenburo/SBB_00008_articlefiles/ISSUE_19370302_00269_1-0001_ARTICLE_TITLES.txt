@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Frühstück zu Ehren des spanischen Geschäftsträgers.
+Found
+MODSMD_ARTICLE02: Der zivile Luftschutz auf der Leipziger Messe.
+Found
+MODSMD_ARTICLE03: Verlängerung der Einlösungsfrist für WHW.-Gutscheiue.
+Found
+MODSMD_ARTICLE04: Verleihung des Leubach-Preises.
+Found
+MODSMD_ARTICLE05: Neuer Streik in Nantes.
+Found
+MODSMD_ARTICLE06: Zu den Beschlüssen des Faschistischen Großrates.
+Found
+MODSMD_ARTICLE07: Krofta vor den Außenausschüssen der beiden Kammern.
+Found
+MODSMD_ARTICLE08: Kapitalmarkt durch Rüstungsanleihe nicht übersättigt.
+Found
+MODSMD_ARTICLE09: Umfangreiche Luftschutzbauten in der Schweiz.
+Found
+MODSMD_ARTICLE10: König Leopold nach Brüssel zurückgekehrt.
+Found
+MODSMD_ARTICLE11: Neuer nationaler Erfolg an der Teruel-Front.
+Found
+MODSMD_ARTICLE12: Bischof von Gibraltar brandmarkt Kommunisten.
+Found
+MODSMD_ARTICLE13: 50 Verhaftungen nach dem Anschlag in Jassy.
+Found
+MODSMD_ARTICLE14: Logen und Geheimverbände in Rumänien aufgehoben.
+Found
+MODSMD_ARTICLE15: Der türkische Staatshaushalt 1937.
+Found
+MODSMD_ARTICLE16: Ausdehnung des Ausstandes bei Woolworth.
+Found

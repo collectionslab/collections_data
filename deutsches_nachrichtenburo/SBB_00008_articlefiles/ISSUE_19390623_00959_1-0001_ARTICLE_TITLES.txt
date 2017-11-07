@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Das deutsche Volk ist eins mit seiner Führung.
+Found
+MODSMD_ARTICLE02: Die spanischen Offiziere kehren in die Heimat zurück.
+Found
+MODSMD_ARTICLE03: Reichsminister Frank beim bulgarischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE04: London knausert und Warschau feilscht.
+Found
+MODSMD_ARTICLE05: Französisches Eingeständnis.
+Found
+MODSMD_ARTICLE06: Frankreich widerspricht sich abermals.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Reichsverkehrsminister erhält Otto von Guericke-Plakette.
+Found
+MODSMD_ARTICLE02: Einführung der Mitglieder des Volksgerichtshofs.
+Found
+MODSMD_ARTICLE03: Lilienthal-Gesellschaft für Luftfahrtforschung.
+Found
+MODSMD_ARTICLE04: Prozeß gegen katholischen Pfarrer.
+Found
+MODSMD_ARTICLE05: Rücktritt des Statthalters von Vorarlberg.
+Found
+MODSMD_ARTICLE06: Noch immer ernste Streiklage in Frankreich.
+Found
+MODSMD_ARTICLE07: Kundgebung gegen die Volksfront in Frankreich.
+Found
+MODSMD_ARTICLE08: Kommunistischer Hafenarbeiterstreik in Antwerpen.
+Found
+MODSMD_ARTICLE09: Finnland-Reise des Königs von Schweden.
+Found
+MODSMD_ARTICLE10: Lloyd Georges außenpolitisches Programm.
+Found
+MODSMD_ARTICLE11: Primo de Rivera das Mandat aberkannt.
+Found
+MODSMD_ARTICLE12: Die Schienen der Eisenbahn Jerusalem—Lydda zerstört.
+Not Found
+MODSMD_ARTICLE13: Weitere scharfe Maßnahmen in Palästina.
+Found
+MODSMD_ARTICLE14: Einladung zur Weltausstellung New Aork 1939.
+Found
+MODSMD_ARTICLE15: Gespannte Lage in Nicaragua.
+Found

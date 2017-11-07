@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Italiens Dank für die Anteilnahme des Führers.
+Found
+MODSMD_ARTICLE02: Ernennung im Reichsernährungsministerium.
+Found
+MODSMD_ARTICLE03: Die Schaffenden gedachten des Führers.
+Found
+MODSMD_ARTICLE04: Die Feiern des 30. Januar im Ausland.
+Found
+MODSMD_ARTICLE05: Ungarn bewundert Adolf Hitler.
+Found
+MODSMD_ARTICLE06: Die Pariser Presse zum Jahrestag der Machtergreifung.
+Found
+MODSMD_ARTICLE07: Staatssekretär Dr. Schlegelberger wieder in Deutschland.
+Found
+MODSMD_ARTICLE08: 18 Tote des Explosionsunglücks in Segui identifiziert.
+Found
+MODSMD_ARTICLE09: Großer Erfolg der nationalen Südarmee.
+Found
+MODSMD_ARTICLE10: Eine niederländische Prinzessin geboren.
+Found
+MODSMD_ARTICLE11: Grigg zur Frage der englischen Jugenderziehung.
+Found
+MODSMD_ARTICLE12: Bukarest läßt sich nicht einschüchtern.
+Found
+MODSMD_ARTICLE13: Kreuzer „Emden" in Massaua.
+Found

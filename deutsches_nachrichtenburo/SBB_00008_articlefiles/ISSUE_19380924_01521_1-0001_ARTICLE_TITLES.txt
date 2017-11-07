@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Prag sperrt Telephon- und Telegraphenvsrkehr.
+Found
+MODSMD_ARTICLE02: Bezirk Asch unter der Hakenkreuzfahne.
+Found
+MODSMD_ARTICLE03: Panzerwagenangrifs auf Jauernig»
+Found
+MODSMD_ARTICLE04: Sowjetfahueu auf tschechischen Staatsgebäuden.
+Found
+MODSMD_ARTICLE05: Tschechische Soldaten und Grenzbeamten in Glatz interniert.
+Found
+MODSMD_ARTICLE06: Vorder- und Hinter-Zinnwald von der Bevölkerung geräumt.
+Found
+MODSMD_ARTICLE07: Kundgebungen in ganz Polen.
+Found
+MODSMD_ARTICLE08: Reichsausstellung „Gesundes Leben Frohes Schaffen".
+Found
+MODSMD_ARTICLE10: König Boris von Bulgarien bei Göring.
+Found
+MODSMD_ARTICLE11: 30 .bolivianische Jugendführer in Hamburg.
+Found
+MODSMD_ARTICLE12: Mussolini in Padua.
+Found
+MODSMD_ARTICLE13: Chamberlain unterrichtet seine Mitarbeiter.
+Found
+MODSMD_ARTICLE14: Einberufung des englischen Parlaments für nächste Woche?
+Found
+MODSMD_ARTICLE15: Sowjetflieger verletzen erneut die finnische Grenze.
+Found

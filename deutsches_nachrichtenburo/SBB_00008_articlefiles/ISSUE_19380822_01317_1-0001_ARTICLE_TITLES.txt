@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Deutschland Zeigt seine Wehe zur See.
+Found
+MODSMD_ARTICLE02: Hamburg erwartet den ungarischen Reichsderweser.
+Found
+MODSMD_ARTICLE03: Ministerialrat Dr. Benze Nachfolger von Geh. Rat Dr. Pallat.
+Found
+MODSMD_ARTICLE04: In die Äeichsstudentenführuug berufen.
+Found
+MODSMD_ARTICLE05: Die deutsche Abordnung zum Rechtskongreß in Amsterdam.
+Found
+MODSMD_ARTICLE06: 14 deutsche Flugzeuge beim Sternflug nach Dmard.
+Found
+MODSMD_ARTICLE07: Tschechischer Hast geht über das Grab hinaus.
+Found
+MODSMD_ARTICLE08: Lord Halifax am Dienstag in London.
+Found
+MODSMD_ARTICLE09: Wochenschrift der Falange wird Tageszeitung.
+Found
+MODSMD_ARTICLE10: IWihriger Araber zu lebenslänglicher Haft verurteilt.
+Found
+MODSMD_ARTICLE11: Krach auf dem „Weltjugend-Kongreß" in Poughkupsie.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Deutsch-ungarischer Telegrammwechsel.
+Found
+MODSMD_ARTICLE02: Die olympische Fackel in Ungarn.
+Found
+MODSMD_ARTICLE03: Die Olympiafeier in Budapest.
+Found
+MODSMD_ARTICLE04: Berlin ist geschmückt.
+Found
+MODSMD_ARTICLE05: Coubertin für den Friedensnobelpreis vorgeschlagen.
+Found
+MODSMD_ARTICLE06: Die ethische Bedeutung der Olympischen Spiele.
+Found
+MODSMD_ARTICLE07: Ein Telegramm des Reichssportführers.
+Found
+MODSMD_ARTICLE08: Weitere Olympiamannschaften eingetroffen.
+Found
+MODSMD_ARTICLE09: Die deutschen Olympia-Sternflieger unterwegs.
+Found
+MODSMD_ARTICLE10: 669 Deutschamerikaner in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE11: Rudolf Jsmayr spricht den Olympischen Eid.
+Found
+MODSMD_ARTICLE12: Uniform-Bestimmung für Olympia-Auslandsteilnehmer.
+Found

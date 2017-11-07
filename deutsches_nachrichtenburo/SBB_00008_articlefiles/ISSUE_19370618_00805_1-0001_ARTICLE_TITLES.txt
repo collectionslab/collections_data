@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer auf dem Panzerschiff „Deutschland".
+Found
+MODSMD_ARTICLE02: Französische Verkehrskommission bei Dr. Dvrpmüllcr.
+Found
+MODSMD_ARTICLE03: Italienischer Besuch auf der Berliner Ausstellung.
+Found
+MODSMD_ARTICLE04: Deutsche Sportzeitschriften ins Lokomotivfeuer geworfen.
+Found
+MODSMD_ARTICLE05: Dr. Schacht empfing Vertreter der Presse.
+Found
+MODSMD_ARTICLE06: Bauern aller Welt gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE07: Die Arbeitslosigkeit der Deutschen in Ostoberschlesien.
+Found
+MODSMD_ARTICLE08: Italien ist stolz auf seine Jugend.
+Found
+MODSMD_ARTICLE09: Polnisch-italienisches Zahlungsabkommen unterzeichnet.
+Found
+MODSMD_ARTICLE10: Die französischen Ausnahme-Vollmachten vor dem Senat.
+Found
+MODSMD_ARTICLE11: Der Polnische Pavillon in Paris eröffnet.
+Found
+MODSMD_ARTICLE12: Der Pavillon der baltischen Staaten eröffnet.
+Found
+MODSMD_ARTICLE13: Der Admiral der britischen Mittelmeerflotte in Barcelona.
+Found
+MODSMD_ARTICLE14: Neue „Säuberungsaktion" in Sowjetrußland.
+Found

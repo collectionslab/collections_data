@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Neue Flugstrecke Stuttgart—Lissabon der Lufthansa.
+Found
+MODSMD_ARTICLE02: Essen des Harvard-Clubs mit Botschafter Dodd.
+Found
+MODSMD_ARTICLE03: Starker Widerhall der Goebbels-Rede in der Presse Italiens.
+Found
+MODSMD_ARTICLE04: Die römische Presse Zu Blums Ausstellungs-Aeußerung.
+Found
+MODSMD_ARTICLE05: Präger Regierung wünscht Vollmacht zur Heeresverstärkung.
+Found
+MODSMD_ARTICLE06: Englische Journalisten zum Thema Sensationsprcsse.
+Found
+MODSMD_ARTICLE07: Englands Königspaar besucht den Londoner Osten.
+Found
+MODSMD_ARTICLE08: Brand auf der „Queen Mary".
+Found
+MODSMD_ARTICLE09: Brand auf einem französischen Kreuzer- Neubau.
+Found
+MODSMD_ARTICLE10: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE11: Das dänische Königspaar auf der Durchreise in Paris.
+Found
+MODSMD_ARTICLE12: Aegypten Zum Eintritt in den Völkerbund aufgefordert.
+Found
+MODSMD_ARTICLE13: Tagungsabschuiit des Landtages Portugals verlängert.
+Found
+MODSMD_ARTICLE14: Valencia von Kriegsschiffen beschossen.
+Found
+MODSMD_ARTICLE15: Bilbao kündigt neue Priestermorde an.
+Found
+MODSMD_ARTICLE16: Bombenangriff auf bolschewistische Truppen bei Madrid.
+Found
+MODSMD_ARTICLE17: Freundliche Aufnahme Faupels im nationalen Spanien.
+Found
+MODSMD_ARTICLE18: Beisetzung zweier Spanien-Kämpfer in Bukarest.
+Found
+MODSMD_ARTICLE19: Der König von Aegypten besucht Europa.
+Found
+MODSMD_ARTICLE20: Regelmäßiger Flugdienst Amerika—Bermudas.
+Not Found
+MODSMD_ARTICLE21: Arbeiterunruhen im Staate Indiana.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Ernennung.
+Found
+MODSMD_ARTICLE02: Glückwunschtelegramm Rusts.
+Found
+MODSMD_ARTICLE03: Das WHW. ein stolzer Erfolg.
+Found
+MODSMD_ARTICLE04: Deutsch-italienische Jndustriebesprechungen.
+Found
+MODSMD_ARTICLE05: Neue Aufgaben des Grenzlandsenders Breslau.
+Found
+MODSMD_ARTICLE06: „Schlacht bei Berlin."
+Found
+MODSMD_ARTICLE07: Wüste Hetzversammlung in Posen schmäht den Führer.
+Found
+MODSMD_ARTICLE08: „Die Deutschen können sogar totgeschlagen werden!"
+Found
+MODSMD_ARTICLE09: Eine deutsche Bücherei in Ostoberschlesien vernichtet.
+Found
+MODSMD_ARTICLE10: Die deutsch-niederländischen Wirtschaftsbeziehungen.
+Found
+MODSMD_ARTICLE11: Lügen französischer Juden-Blätter.
+Found
+MODSMD_ARTICLE12: Spanische Militärmision bei Graf Ciano.
+Found
+MODSMD_ARTICLE13: „Moskau ließ die Westmächte mit langen! Gesichtern stehen."
+Found
+MODSMD_ARTICLE14: Oberster Sowjet am 25. Mai.
+Found
+MODSMD_ARTICLE15: Revolutionsfeiern in Versailles.
+Found
+MODSMD_ARTICLE16: KWWO Pfund Militärausgaben in Süd-Rhodesien.
+Found
+MODSMD_ARTICLE17: Einberufungen in Deutsch-Ostafrika.
+Found
+MODSMD_ARTICLE18: Südafrikaner fallen nicht unter das Wehrpflichtgesetz.
+Found
+MODSMD_ARTICLE19: Chinesischer Sturm auf Nantschaug blutig abgeschlagen.
+Found
+MODSMD_ARTICLE20: „Roosevelts Handlungsfreiheit bereits gefährlich groß."
+Found

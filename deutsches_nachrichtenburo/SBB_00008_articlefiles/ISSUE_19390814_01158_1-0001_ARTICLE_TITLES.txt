@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Hauptversammlung des NS. Deutschen Marinebundes.
+Found
+MODSMD_ARTICLE02: Der Gartenbau und die Ernährungssicherung.
+Found
+MODSMD_ARTICLE03: Polnische Phantasien um den Hartgeldmangel.
+Found
+MODSMD_ARTICLE04: Die Zusammenkunft von Salzburg beendet.
+Found
+MODSMD_ARTICLE05: Spionenfurcht in Pommerellen.
+Found
+MODSMD_ARTICLE06: Interesse Sofias an den Salzburger Besprechungen.
+Found
+MODSMD_ARTICLE07: König Karl beendete seine Seereise.
+Found
+MODSMD_ARTICLE08: Daladier wieder in Paris.
+Found
+MODSMD_ARTICLE09: Bonnet gibt Instruktionen an Botschafter.
+Found
+MODSMD_ARTICLE10: Jüdischer Ueberfall auf ein Araberdorf.
+Found

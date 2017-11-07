@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Historische Reichstagssitzung.
+Found
+MODSMD_ARTICLE02: Beförderungen im Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE03: Ernennungen in der spanischen Wehrmacht.
+Found
+MODSMD_ARTICLE04: „Deutschlands Mastnahmen gegen Luftangriffe vollkommen."
+Found
+MODSMD_ARTICLE05: Amerikanisches Urteil zur Molotow-Rede.
+Found

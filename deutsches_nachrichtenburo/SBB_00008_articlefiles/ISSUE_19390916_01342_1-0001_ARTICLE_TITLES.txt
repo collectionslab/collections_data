@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Auch Göring an der Front in Galizien.
+Found
+MODSMD_ARTICLE02: Glänzende Erfolge der deutschen Luftwaffe.
+Found
+MODSMD_ARTICLE03: Schwere Verluste der polnischen Kriegsflotte.
+Found
+MODSMD_ARTICLE04: Sie Hetzen unentwegt Zum Heckenschützenkrieg.
+Found
+MODSMD_ARTICLE05: Den Mund verbrannt.
+Found
+MODSMD_ARTICLE06: Kurze Auslandsnachrichten»
+Found
+MODSMD_ARTICLE07: Italien über die britische Kriegführung.
+Found
+MODSMD_ARTICLE08: Minister Draganoff bei König Boris.
+Found
+MODSMD_ARTICLE09: Ein pflichtvergessener Diplomat.
+Found

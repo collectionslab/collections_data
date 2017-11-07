@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dr. Filchner im Berliner Rathaus.
+Found
+MODSMD_ARTICLE02: Das Echo des Budapester Konferenzergebnisses.
+Found
+MODSMD_ARTICLE03: Der neue britische Botschafter für China beim König.
+Found
+MODSMD_ARTICLE04: Der Versöhnungsversuch Chautemps' mißlungen.
+Found
+MODSMD_ARTICLE05: Dornwy verhaftet weiter.
+Found
+MODSMD_ARTICLE06: Auch ein rumänischer Jude in die Bombenassäre verwickelt.
+Found
+MODSMD_ARTICLE07: Für eine nationale Einigung in
+Found
+MODSMD_ARTICLE08: Der Generalresident über die Zwischenfälle in Bizerte.
+Found
+MODSMD_ARTICLE09: Port Bon von den Nationalspaniern bombardiert.
+Found
+MODSMD_ARTICLE10: 42 Kommune-Juden auf der Warschauer Anklagebank.
+Found
+MODSMD_ARTICLE11: Das Moskauer Parlamentstheater.
+Found
+MODSMD_ARTICLE12: Wieder ein erbittertes Fcuergrsecht in Palästina.
+Found

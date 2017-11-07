@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Von Mackensen Chef des Reiter-Regiments Nr. 5.
+Found
+MODSMD_ARTICLE02: Dr. Merensky-Johannesburg beim Führer.
+Found
+MODSMD_ARTICLE03: Kronprinz Umberto in München.
+Found
+MODSMD_ARTICLE04: LZ „Hindenburg" in Lakehurst gelandet.
+Found
+MODSMD_ARTICLE05: Die amtliche Mitteilung über den französischen Ministerrat.
+Found
+MODSMD_ARTICLE06: Senat nimmt an.
+Found
+MODSMD_ARTICLE07: Der spanische Botschafter bei Delbos.
+Found
+MODSMD_ARTICLE08: „Ruhig Blut". Eine Mahnung des „Temps".
+Found
+MODSMD_ARTICLE09: Offensive General Francas auf Madrid.
+Found
+MODSMD_ARTICLE10: Der Vormarsch der Nationalisten im Süden Spaniens.
+Found
+MODSMD_ARTICLE11: Erfolge der Militärerhebung in Aragonien.
+Found
+MODSMD_ARTICLE12: Britischer Staatsangehöriger in Spanien ermordet.
+Found
+MODSMD_ARTICLE13: Moskau verkauft Edelsteine zur Unterstützung Spaniens.
+Found
+MODSMD_ARTICLE15: Die Grundlagen für eine englisch-japanische Freundschaft.
+Found
+MODSMD_ARTICLE16: Tie japanische Presse zur Politik Tschiangkaischeks.
+Found

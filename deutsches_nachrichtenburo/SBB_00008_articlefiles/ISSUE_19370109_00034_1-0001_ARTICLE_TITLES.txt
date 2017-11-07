@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Vorläufiges Ergebnis der 3. Eintopfsammlung des WHW.
+Found
+MODSMD_ARTICLE02: London und Paris zu den Antwortnoten.
+Found
+MODSMD_ARTICLE03: Englands Erziehungsminister über Ertüchtigung.
+Found
+MODSMD_ARTICLE04: in Paris.
+Found
+MODSMD_ARTICLE05: Neue Große Erfolge der Nationaltruppen.
+Found
+MODSMD_ARTICLE06: Bestürzung bei den Bolschewisten in Madrid.
+Found
+MODSMD_ARTICLE07: Anarchie und Rechtlosigkeit in Rotspanien.
+Found
+MODSMD_ARTICLE08: Englands Botschaft in Madrid von Bomben getroffen.
+Found
+MODSMD_ARTICLE09: Die Türkei macht Vorschläge zur Alexandrette-Frage.
+Found
+MODSMD_ARTICLE10: Judenhetze gegen den Boxkampf Schmeling-Braddock.
+Found

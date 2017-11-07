@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Anerkennung für deutsche Spanien-Schiffe.
+Found
+MODSMD_ARTICLE03: Das Studium deutscher Studenten im Ausland.
+Found
+MODSMD_ARTICLE04: Reichsjustizminister lobt staatsanwaltliche Entschlossenheit.
+Found
+MODSMD_ARTICLE05: Dr. Goebbels in Düsseldorf und Köln.
+Found
+MODSMD_ARTICLE06: Auszeichnung deutscher Kultur- und Werbefilme.
+Found
+MODSMD_ARTICLE07: Scharfe Maßnahmen gegen Danzigs SPD. gefordert.
+Found
+MODSMD_ARTICLE08: Wilna-Kundgebungen in Litauen.
+Found
+MODSMD_ARTICLE09: Der neue Goldwert der tschechoslowakischen Krone.
+Found
+MODSMD_ARTICLE10: „Nation Belge" über weitere Waffenschiebungen.
+Found
+MODSMD_ARTICLE11: Der „Standaard" über den Moskauer
+Found
+MODSMD_ARTICLE12: Genfer Studienausschuß für die Paktresorm.
+Found
+MODSMD_ARTICLE13: Die Besprechungen Eden-Blum.
+Found
+MODSMD_ARTICLE14: Eine Erklärung des japanischen Außenamtes.
+Found

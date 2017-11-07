@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Nationalfeiertag im Ausland.
+Found
+MODSMD_ARTICLE02: Erhebende Maifeier des griechischen Volkes.
+Found
+MODSMD_ARTICLE03: Der Staatsfeiertag in Bukarest.
+Found
+MODSMD_ARTICLE04: Schweizer Maifeiern mit „nationalem Charakter".
+Found
+MODSMD_ARTICLE05: 1. Mai im Zeichen des Klassenkampfes.
+Found
+MODSMD_ARTICLE06: Auch eine Maifeier.
+Found
+MODSMD_ARTICLE07: Moskauer Kriegshetze am 1. Mai.
+Found
+MODSMD_ARTICLE08: Der Gouverneur von Rom aus Berlin abgereist.
+Found
+MODSMD_ARTICLE09: Generalkonsul Marschall von Biberstein verunglückt.
+Found
+MODSMD_ARTICLE10: Die spanische Abordnung wieder in Burgos.
+Found
+MODSMD_ARTICLE11: Roosevelt macht weiter in Kriegspsychose!
+Found

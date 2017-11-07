@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Gedenktafel für Ernst vom Rath im Auswärtigen Amt.
+Found
+MODSMD_ARTICLE02: Die Stabsoffiziere der Legion Condor bei Gauleiter Bohle.
+Found
+MODSMD_ARTICLE03: Darre eröffnete die 5. Reichsnährstandsschau.
+Found
+MODSMD_ARTICLE04: Seldte kündigt einheitliches Reichsbaurecht an.
+Found
+MODSMD_ARTICLE05: Korpsführer Hühnlein verletzt.
+Found
+MODSMD_ARTICLE06: Hier! beim Danziger Arbeitsdienst.
+Found
+MODSMD_ARTICLE07: Beileid des englischen Königspaares.
+Found
+MODSMD_ARTICLE08: Die englische Presse fordert scharfe Untersuchung.
+Found
+MODSMD_ARTICLE09: Eine türkische Militärmission in London.
+Found
+MODSMD_ARTICLE10: Bonnet empfängt Botschafter.
+Found
+MODSMD_ARTICLE11: Keine Notspanier für das mexikanische Heer.
+Found

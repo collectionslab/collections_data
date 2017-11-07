@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Empfang im Jbero-Amerikanischen Institut.
+Found
+MODSMD_ARTICLE02: Abschluß der Tagung des China-Instituts.
+Found
+MODSMD_ARTICLE03: Glückwunsch des Reichsverkehrsministers an Rosemeyer.
+Found
+MODSMD_ARTICLE04: Eröffnung der Ausstellung „Heroische Kunst" in München.
+Found
+MODSMD_ARTICLE05: Neue Regierung in Schweden nicht vor Mittwoch.
+Found
+MODSMD_ARTICLE06: Sitzung der Kleinen Wirtschaftsentente am 18. Juni.
+Found
+MODSMD_ARTICLE07: Selbstmord eines schweizerischen Offiziers.
+Found
+MODSMD_ARTICLE08: Der Streik in Belgien.
+Found
+MODSMD_ARTICLE09: Die Lage in Brüssel.
+Found
+MODSMD_ARTICLE10: Presseempfang bei Delbos.
+Found
+MODSMD_ARTICLE11: Einigung mit den Versicherungsangestellten.
+Found
+MODSMD_ARTICLE12: Für Abwertung des Franken.
+Found
+MODSMD_ARTICLE13: Britische Reichskonferenz im Mai 1937.
+Found
+MODSMD_ARTICLE14: Am Donnerstag Aussprache über die Sanktionen.
+Found
+MODSMD_ARTICLE15: England erwartet die Aufhebung der Sanktionen.
+Found
+MODSMD_ARTICLE16: Verhaftung eines sowjetrussischen BiZekonsuls in Japan.
+Found
+MODSMD_ARTICLE17: Die Republikaner für Eintreibung der Kriegsschulden.
+Found

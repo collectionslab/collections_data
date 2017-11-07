@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ehrenvolle Ernennung für Prof. Martineck.
+Found
+MODSMD_ARTICLE02: Polnische Kommission besichtigt deutsches Flugzeugwerk.
+Found
+MODSMD_ARTICLE03: Deutsch—tschechoslowakisches Postabkommeu.
+Not Found
+MODSMD_ARTICLE04: Abschub unerwünschter polnischer Staatsangehöriger.
+Found
+MODSMD_ARTICLE05: Hlinka-Garde einzige Wehrformation der Slowakei.
+Found
+MODSMD_ARTICLE06: Tie Schreckensbilanz von Marseille.
+Found
+MODSMD_ARTICLE07: Blum ruft erneut zur Volksfront auf.
+Found
+MODSMD_ARTICLE08: Pariser Stimmen zum Marseiller Kongreß.
+Found
+MODSMD_ARTICLE09: Der südafrikanische Generalstabschef in London.
+Found
+MODSMD_ARTICLE10: Versteifung des arabischen Widerstandes in Palästina.
+Found
+MODSMD_ARTICLE11: Deutsch-schwedische Regelung von Transferfragen.
+Found
+MODSMD_ARTICLE12: Keine Aeuderuug in der japanischen Außenpolitik.
+Found
+MODSMD_ARTICLE13: Die deutsche Luftfahrt führend in der Welt.
+Found
+MODSMD_ARTICLE14: Internationale Bereinigung der Filmarchive.
+Found
+MODSMD_ARTICLE15: Hohe Zuchthausstrafen für kommunistische Drahtzieher.
+Found
+MODSMD_ARTICLE16: Ein Landesverräter hingerichtet.
+Found

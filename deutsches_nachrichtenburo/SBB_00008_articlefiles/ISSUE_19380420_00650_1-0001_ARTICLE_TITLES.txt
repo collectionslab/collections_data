@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer in der Reichskanzlei. Ter Strom der Gratulanten nimmt kein Ende.
+Found
+MODSMD_ARTICLE02: Dr. Trapp Zum Ministerialdirigenten ernannt.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Amtliche Bekanntmachungen in den Anzeigenteil.
+Found
+MODSMD_ARTICLE05: Trauerfeier für die Nachterstedter Opfer.
+Found
+MODSMD_ARTICLE06: Paris für Verständigung außerhalb Genfs?
+Found
+MODSMD_ARTICLE07: Mimsterausfprache bei Daladier.
+Found
+MODSMD_ARTICLE08: Frantzois-Poncet beim französischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE09: Oberst Picot f.
+Found
+MODSMD_ARTICLE10: Vor Toresschluß!
+Found
+MODSMD_ARTICLE11: Die Massenflucht aus Sowjetspanien dauert an.
+Found
+MODSMD_ARTICLE12: Die Feiern des Gründungstags der Falange.
+Found
+MODSMD_ARTICLE13: Zum Botschafter Rumäniens in Warschau ernannt.
+Found
+MODSMD_ARTICLE14: Die Deutsche Weltwirtschaftliche Gesellschaft in Rumänien.
+Found

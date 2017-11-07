@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Das deutsche Volk wird siegen!
+Found
+MODSMD_ARTICLE02: Der Führer beglückwünscht das italienische Kronprinzenpaar.
+Found
+MODSMD_ARTICLE03: Der finnische Heerebericht vom Freitag.
+Found

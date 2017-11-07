@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Der Festtag der Nation.
+Found
+MODSMD_ARTICLE02: Generalbauinspekto c für Berlin.
+Found
+MODSMD_ARTICLE03: Der Eindruck der Führerrede.
+Found
+MODSMD_ARTICLE04: Hitler stiftet Deutschen Nationalpreis.
+Found
+MODSMD_ARTICLE05: Schluszansprache Görmgs.
+Found

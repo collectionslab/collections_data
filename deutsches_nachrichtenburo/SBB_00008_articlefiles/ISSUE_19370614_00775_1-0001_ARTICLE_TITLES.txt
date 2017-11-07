@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: „Der Parteipresse wertvolle Dienste geleistet."
+Found
+MODSMD_ARTICLE02: Französische Kulturveranstaltung.
+Found
+MODSMD_ARTICLE03: Dr. Ley spricht zu Hamburgs Jugend.
+Found
+MODSMD_ARTICLE04: „Mit Ehrfurcht stehe ich vor diesem Volk".
+Found
+MODSMD_ARTICLE05: Französische Seekadetten besuchen die Flensburger Förde.
+Found
+MODSMD_ARTICLE06: Reichstagung des Zeitungswissenschaftlichen Verbandes.
+Found
+MODSMD_ARTICLE07: Der Reichskriegsminister in Florenz.
+Found
+MODSMD_ARTICLE08: Eine Unterredung mit Reichsaußenminister von Neurath.
+Found
+MODSMD_ARTICLE09: 35 politische Gefangene begnadigt.
+Found
+MODSMD_ARTICLE10: Auflösung des irischen Parlaments am 14. Juni.
+Found
+MODSMD_ARTICLE11: Eröffnung des Luxemburgischen Pavillons.
+Found
+MODSMD_ARTICLE12: Südafrikanische Fragen vor dem Mandatsausschuß.
+Found

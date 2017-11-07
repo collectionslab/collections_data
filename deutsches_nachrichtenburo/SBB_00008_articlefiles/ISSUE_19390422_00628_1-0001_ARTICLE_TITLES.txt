@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Sowjetbotschafter hat Berlin verlassen.
+Found
+MODSMD_ARTICLE02: Schwedische Gäste in Berlin.
+Found
+MODSMD_ARTICLE03: Zwei Vorkämpfer der Volksgesundheit: Conti und Blome.
+Found
+MODSMD_ARTICLE04: „Soir": Belgien fühlt sich nicht bedroht!
+Found
+MODSMD_ARTICLE05: „Die Weltgeschichte hielt dm Atem an."
+Found
+MODSMD_ARTICLE06: „Im Geiste ausrichtigen Vertrauens."
+Found
+MODSMD_ARTICLE07: Die Demokratie nicht mehr hoch im Kurs.
+Found
+MODSMD_ARTICLE08: Londoner Kriegshetzer in Sorge.
+Found
+MODSMD_ARTICLE09: Noosevelts Dank an die Bolschewisten.
+Found
+MODSMD_ARTICLE10: Maisky soll die Einkreisung beschleunigen.
+Found
+MODSMD_ARTICLE11: Tie Araber lehnen die britischen Borschläge ab.
+Found
+MODSMD_ARTICLE12: Die Vereinigten Staaten verlängern den China-Konflikt.
+Found
+MODSMD_ARTICLE13: „Nicht so naiv, Herr Roosevelt!"
+Found
+MODSMD_ARTICLE14: Salinacruz wird zum Petroleumhafen ausgebaut.
+Found
+MODSMD_ARTICLE15: „Die Schemheiligkeit Roosevelts."
+Found
+MODSMD_ARTICLE16: Skandalöse Umtriebe eines französischen Finanzmannes.
+Found
+MODSMD_ARTICLE17: Neuer deutscher Weltrekord in Fern-Zielsegelflug.
+Found
+MODSMD_ARTICLE18: Tokio-Flugzeug Du 52 „Hans in Beirut gelandet.
+Found

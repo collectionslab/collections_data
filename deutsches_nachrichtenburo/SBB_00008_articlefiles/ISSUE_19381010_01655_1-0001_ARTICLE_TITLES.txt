@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Führer in der Westmark.
+Found
+MODSMD_ARTICLE02: Das Reichsfürsorgericht der Wehrmacht.
+Found
+MODSMD_ARTICLE03: Neuer Präsident des Reichs-Kraftwagen-Betriebsverbandes.
+Found
+MODSMD_ARTICLE04: Generaloberst von Brauchusch im Sudetenland»
+Found
+MODSMD_ARTICLE05: Fortsetzung der Verhandlungen in Komorn.
+Found
+MODSMD_ARTICLE06: Ungarns Verhandlungen mit der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE07: „Giornale d'Jtalia" gegen Pariser Schmähungen.
+Found
+MODSMD_ARTICLE08: Die englisch-italienischen Verhandlungen.
+Found
+MODSMD_ARTICLE09: Tschechisch-englische Anleihebesprechungen.
+Found
+MODSMD_ARTICLE10: Neue Unterredung MacDonalds mit MacMichael.
+Found
+MODSMD_ARTICLE11: Auflösung der Skupschtina.
+Found
+MODSMD_ARTICLE12: Umbildung des Kabinetts Stojadinowitsch.
+Found
+MODSMD_ARTICLE13: Das litauische Tabaksyndikat geschlossen.
+Found
+MODSMD_ARTICLE14: Dr. Lev besichtigt bulgarische Sozialeinrichtungen.
+Found
+MODSMD_ARTICLE15: Die Besetzung planmäßig beendet
+Found
+MODSMD_ARTICLE16: Enthüllung eines Standbildes des Königs Konstantin.
+Found
+MODSMD_ARTICLE17: Der Generalstabschef der britischen Luftwaffe in Paris.
+Found
+MODSMD_ARTICLE18: Französische Sozialdemokraten gegen Moskau-Kurs»
+Found
+MODSMD_ARTICLE19: Sieben Todesurteile in der Sowjetunion»
+Found
+MODSMD_ARTICLE20: Ausländisches Verkehrsflugzeug in Westfalen verunglückt.
+Found

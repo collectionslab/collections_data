@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: 15>< ständige Unterhausaussprache über die Elendsgebiete.
+Found
+MODSMD_ARTICLE02: Englands Truppenzurückziehung aus Palästina.
+Found
+MODSMD_ARTICLE03: Das Echo drr Anerkennung der Franco-Regierung.
+Found
+MODSMD_ARTICLE04: Ncusel Punktsieger in London.
+Found
+MODSMD_ARTICLE05: Staatssekretär Dr. Schmidt über seinen Berliner Besuch.
+Found
+MODSMD_ARTICLE06: Stürmische Spanien-Aussprache im belgischen Senat.
+Found
+MODSMD_ARTICLE07: Graf Ciano wieder in Rom.
+Found
+MODSMD_ARTICLE08: Marxistische Bollwerke in Flammen. T
+Found
+MODSMD_ARTICLE09: Nationaler Kreuzer beschießt katalanische Häfen.
+Found
+MODSMD_ARTICLE10: Kerkerstrafen für sowjetrussische Agenten in Belgrad.
+Found
+MODSMD_ARTICLE11: Goldbarren im Reservereifen.
+Found
+MODSMD_ARTICLE12: Englisch-ägyptischer Vertrag von Aegypten ratifiziert.
+Found
+MODSMD_ARTICLE13: Lebensmittelknappheit auf Hawai.
+Found

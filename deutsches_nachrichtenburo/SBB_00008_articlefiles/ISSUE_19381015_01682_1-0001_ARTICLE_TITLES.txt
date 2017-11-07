@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: „Als wahre Soldaten der Arbeit gefallen".
+Found
+MODSMD_ARTICLE02: Der Oberbefehlshaber des Heeres in Südböhmen.
+Found
+MODSMD_ARTICLE03: Gauleiter a. D. Krebs zum SS.-Oberführer befördert»
+Found
+MODSMD_ARTICLE04: Von Bülow-Schwante am Grabe des Unbekannten Soldaten.
+Found
+MODSMD_ARTICLE05: Spaak vor dem Außenpolitischen Ausschuß.
+Found
+MODSMD_ARTICLE06: Dänemarks neuer Weg Zur Sicherheit.
+Found
+MODSMD_ARTICLE07: Internationaler Studieuausschust für Sanitätsmaterial.
+Found
+MODSMD_ARTICLE08: Umbau auch des tschecho-flowakischeu Parteisystems.
+Found
+MODSMD_ARTICLE09: Zunehmende Polenfeindlichkeit in Frankreich.
+Found
+MODSMD_ARTICLE10: Polens Jugend wehrt sich gegen Hochs ch ulv erj ud un g.
+Found
+MODSMD_ARTICLE11: Reichsmimster Fuuk vor der bulgarischen Presse.
+Found
+MODSMD_ARTICLE12: In ganz Palästina krachen die Bomben.
+Found

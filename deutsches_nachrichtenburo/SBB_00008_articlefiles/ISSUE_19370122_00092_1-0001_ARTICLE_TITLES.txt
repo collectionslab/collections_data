@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer will Eden antworten.
+Found
+MODSMD_ARTICLE02: Der Glückwunsch des Führers an Dr. Schacht.
+Found
+MODSMD_ARTICLE03: Hjalmar-Schacht-Stiftungen des Reichsbankdirektoriums.
+Found
+MODSMD_ARTICLE04: Beileid Rudolf Heß' zum Untergang der „Welle".
+Found
+MODSMD_ARTICLE05: Kuratorium zur ständigen Betreuung des Fachschrifttums.
+Found
+MODSMD_ARTICLE06: Brasilianische Professoren in Berlin.
+Found
+MODSMD_ARTICLE07: Deutsche Hilfsbereitschaft auf
+Found
+MODSMD_ARTICLE08: Die Berliner Philharmoniker in Reval.
+Found
+MODSMD_ARTICLE09: Freiwilligen-Ermächtigung auch vom Senat angenommen.
+Found
+MODSMD_ARTICLE10: Ein trauriger Borstoß der Bolschewisten in Genf.
+Found
+MODSMD_ARTICLE12: Kommunistische Bombenattentate greifen auf Portugal über.
+Found
+MODSMD_ARTICLE13: Der ehemalige Ministerpräsident des Irak f.
+Found
+MODSMD_ARTICLE14: Das japanische Parlament durch kaiserlichen Erlaß vertagt.
+Found
+MODSMD_ARTICLE15: Wichtige Kabinettssitzung in Tokio.
+Found

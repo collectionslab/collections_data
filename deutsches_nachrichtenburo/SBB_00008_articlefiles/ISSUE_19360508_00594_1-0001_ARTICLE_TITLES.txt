@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Münchener Fnhrertagung der NSDAP.
+Found
+MODSMD_ARTICLE02: Empfang bei Ministerpräsident Siebert.
+Found
+MODSMD_ARTICLE03: Besuch finnischer Gäste in Köln.
+Found
+MODSMD_ARTICLE04: Beisetzung des Generalobersten von Falkenhausen.
+Found
+MODSMD_ARTICLE05: Verhaftungen in österreichischen Künstlerkreisen.
+Found
+MODSMD_ARTICLE06: Beginn des Freiheitskämpferprozesses in Nepal.
+Found
+MODSMD_ARTICLE07: Wirksame polnische Wareneinfuhrkontrolle.
+Found
+MODSMD_ARTICLE08: Kursrückgänge an der Pariser Börse.
+Found
+MODSMD_ARTICLE09: Schlußverlautbarung der Konferenz der Kleinen Entente.
+Found
+MODSMD_ARTICLE10: Metaxas wieder in Athen.
+Found
+MODSMD_ARTICLE11: Kommunistische Abfuhr durch Athener Gericht.
+Found
+MODSMD_ARTICLE12: Senatswahlen in Aegypten.
+Found
+MODSMD_ARTICLE13: Maßnahmen Aegyptens gegen unliebsame Flüchtlinge.
+Found
+MODSMD_ARTICLE14: Ein ehrenamtlicher Vizekonsul von Uruguay im Wuppertal.
+Found
+MODSMD_ARTICLE15: Der argentinische Kongreß eröffnet. /
+Found
+MODSMD_ARTICLE16: „Befriedungskommissar" Jensischan will zurücktreten.
+Found

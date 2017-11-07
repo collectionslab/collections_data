@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Ereignisse an der Westfront seit Kriegsbeginn.
+Found
+MODSMD_ARTICLE02: Ungarn feiert die Heldentat von Scapa Flow.
+Found
+MODSMD_ARTICLE03: Belgrad: „Teutschlands Antwort an Chamberlain."
+Found
+MODSMD_ARTICLE04: Rom: „Unerhört schwerer Schlag für England."
+Found
+MODSMD_ARTICLE05: „England um 35 Jahre zurückgefallen."
+Found
+MODSMD_ARTICLE06: Neutrale Reisende waren über drei Wochen gefangen.
+Found
+MODSMD_ARTICLE07: Kranke und Invaliden einfach auf die Straße gesetzt.
+Found
+MODSMD_ARTICLE08: Eine Peinliche Frage für Daladier.
+Found
+MODSMD_ARTICLE09: Indien läßt sich nicht mehr betrügen.
+Found
+MODSMD_ARTICLE10: General Franca verließ Burgos.
+Found
+MODSMD_ARTICLE11: Neuer japanischer Gesandter in Lissabon.
+Found
+MODSMD_ARTICLE12: Der türkische Landwirtschaftsminister in Moskau.
+Found
+MODSMD_ARTICLE13: Deutsche Waffentaten erschlagen englische Lügen.
+Found
+MODSMD_ARTICLE14: Weitere Maßnahmen Mexikos zum Schutze der Neutralität.
+Found

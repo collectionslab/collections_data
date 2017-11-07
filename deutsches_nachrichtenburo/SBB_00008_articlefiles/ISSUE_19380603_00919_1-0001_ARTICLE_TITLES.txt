@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Empfänge beim Führer.
+Found
+MODSMD_ARTICLE02: Verordnung über die Neugestaltung Nürnbergs.
+Found
+MODSMD_ARTICLE03: Einziehung von Erzeugnissen entarteter Kunst.
+Found
+MODSMD_ARTICLE04: 32 Pfmgstlager der sudetendeutschen Jugend verboten.
+Found
+MODSMD_ARTICLE05: Immer nervöser. . . .
+Found
+MODSMD_ARTICLE06: Dir Tschechen „uniersuchen".
+Found
+MODSMD_ARTICLE07: Tschechischer Polizist schießt blindlings um sich!
+Found
+MODSMD_ARTICLE08: Die „Sudetendeutschen Pressebriefe" fordern Staatsumbau.
+Found
+MODSMD_ARTICLE09: Moseicki 12 Jahre polnisches Staatsoberhaupt.
+Found
+MODSMD_ARTICLE10: Die polnischen Gastwirte gegen das Judentum.
+Found
+MODSMD_ARTICLE11: König Viktor Emanuel in Rom.
+Found
+MODSMD_ARTICLE12: Mussolini empfing äthiopische Stammeshäupter.
+Found
+MODSMD_ARTICLE13: Die römische Presse zum Auslandsecho der Ciano-Rede.
+Found
+MODSMD_ARTICLE14: Sie wollen für Nationalspanien kämpfen.
+Found
+MODSMD_ARTICLE15: Blutiges Gefecht in Waziristan.
+Found
+MODSMD_ARTICLE16: Chinesischer Major hingerichtet.
+Found
+MODSMD_ARTICLE17: General Sugiyama Mitglied des Obersten Kriegsrates.
+Found
+MODSMD_ARTICLE18: Blutiger Zusammenstoß an der Grenze Peru—Ekuador.
+Not Found
+MODSMD_ARTICLE19: Beruhigung auf Jamaica.
+Found

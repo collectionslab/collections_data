@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Dank des Reichsarbeitsfiihrers Hierl.
+Found
+MODSMD_ARTICLE02: Staatssekretär Backe auf der Rückreise.
+Found
+MODSMD_ARTICLE03: Konzertreise der Londoner Philharmoniker.
+Found
+MODSMD_ARTICLE04: Der Besuch des Kreuzers „Emden" in Istanbul»
+Found
+MODSMD_ARTICLE05: Englische Anerkennung des deutschen Kolonialanspruchs.
+Found
+MODSMD_ARTICLE06: Vor einem Verbot der politischen Uniformen in England.
+Found
+MODSMD_ARTICLE07: Die englische Presse zur Parlamentseröffnung.
+Found
+MODSMD_ARTICLE08: De Valera kündigt neue irische Verfassung an.
+Found
+MODSMD_ARTICLE09: Begeisterungsstürme für die Dresdener Oper in London.
+Found
+MODSMD_ARTICLE10: Mussolini in Pavia.
+Found
+MODSMD_ARTICLE11: Ungarische Studenten ehren Mussolini.
+Found
+MODSMD_ARTICLE12: Moses Rosenberg fordert spanische Sowjetrepublik.
+Found
+MODSMD_ARTICLE13: Ueberwältigende Stimmenmehrheit für Roosevelt 523 : 8-l
+Found
+MODSMD_ARTICLE14: Landon beglückwünscht den Sieger.
+Found
+MODSMD_ARTICLE15: Bestechungsskandal in Japan.
+Found
+MODSMD_ARTICLE16: Japanischer Schritt in Moskau.
+Found
+MODSMD_ARTICLE17: Jüdischer Großbetrüger und Volksschädling entlarvt.
+Found

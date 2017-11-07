@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Neichstagung des Gustav Adolf Vereins.
+Found
+MODSMD_ARTICLE02: Schach-Olympia 1936.
+Found
+MODSMD_ARTICLE03: Die argentinische Note zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE04: Wegen „beleidigender Äußerungen gegen Juden" verurteilt.
+Found
+MODSMD_ARTICLE05: Rätselraten um das Schicksal OZerskys und Maiskys.
+Found
+MODSMD_ARTICLE06: Zum Rücktritt des spanischen Botschafters in London.
+Found
+MODSMD_ARTICLE07: Reichsverweser von Horthy bei Bundespräsident Miklas.
+Found
+MODSMD_ARTICLE08: Wachsende Judengegnerschaft in Marokko.
+Found
+MODSMD_ARTICLE09: Droht ein Eingeborenen-Aufstand in Spanisch-Marokko?
+Found
+MODSMD_ARTICLE10: Arbeitslvsenunruhen in Tunis.
+Found
+MODSMD_ARTICLE11: Frankreich zur rumänischen Kabinettsumbildung.
+Found
+MODSMD_ARTICLE12: Ungeklärte Lage in Palästina.
+Found

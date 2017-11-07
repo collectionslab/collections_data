@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Eröffnung einer Verwaltungsakademie in Frankfurt/Oder.
+Found
+MODSMD_ARTICLE02: Staatssekretär Reinhardt eröffnet die Zollschule Bautzen.
+Found
+MODSMD_ARTICLE03: Der deutsch-dänische Warenverkehr.
+Found
+MODSMD_ARTICLE04: KdF.-Urlauber bei Generalsekretär Starace.
+Found
+MODSMD_ARTICLE05: Mussolini: „Die Nation muß „autarkisch" denken lernen".
+Found
+MODSMD_ARTICLE06: Deutsche Wirtschaftsschriftleiter in Athen.
+Found
+MODSMD_ARTICLE07: Konrad Henlein fährt nach London.
+Found
+MODSMD_ARTICLE08: Dr. Stojadinowitsch auf dem Wege nach Paris.
+Found
+MODSMD_ARTICLE09: Französische Wahlarithmetik.
+Found
+MODSMD_ARTICLE10: Große Erfolge an der Asturien- und der Leon-Front.
+Found
+MODSMD_ARTICLE11: Bolschewistische Bomben auf friedliche Dörfer.
+Found
+MODSMD_ARTICLE12: Planmäßige Brandstiftungen der geschlagenen Bolschewistcn.
+Found
+MODSMD_ARTICLE13: Moskau wacht scharf.
+Found
+MODSMD_ARTICLE14: 36 neue Erschießungen in der Sowjetunion.
+Found
+MODSMD_ARTICLE15: Der ägyptische Außenminister bleibt im Amt.
+Found

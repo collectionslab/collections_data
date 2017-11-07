@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Großangriff auf britische Transporter.
+Found
+MODSMD_ARTICLE02: Der Führer beglückwünscht Hermann Stegemann.
+Found
+MODSMD_ARTICLE03: Uebergabe der militärischen Hoheitsrechte und der vollziehenden Befehlsgewalt in den Niederlanden.
+Not Found
+MODSMD_ARTICLE04: Rom stellt Entspannung im Balkanraum fest.
+Found
+MODSMD_ARTICLE05: Französische Schikanen gegen italienische Fischer.
+Found
+MODSMD_ARTICLE06: Moskau: „Die Einkreisung nunmehr vollständig".
+Found
+MODSMD_ARTICLE07: Die Schlacht in Flandern geht zu Ende.
+Found
+MODSMD_ARTICLE08: Stockholm: „Weniger Theater wäre passender gewesen."
+Found
+MODSMD_ARTICLE09: Spanien zur belgischen Kapitulation.
+Found

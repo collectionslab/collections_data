@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Gesetz zur Förderung der HJ.-Heimbeschassung.
+Found
+MODSMD_ARTICLE03: Die Kant-Medaille für Alfred Rosenbera.
+Found
+MODSMD_ARTICLE04: Bekenntnis zum Deutschtum kein Entlassungsgrund.
+Found
+MODSMD_ARTICLE05: Sicherung der Neutralität des Nordens.
+Found
+MODSMD_ARTICLE06: Parade der karpatlw ukrainischen Sicz.
+Found
+MODSMD_ARTICLE07: Im Kampf gegen den Bolschewismus gefallen.
+Found
+MODSMD_ARTICLE08: Marschall Badoglio in Tripolis.
+Found
+MODSMD_ARTICLE09: „Berards Mission ist einfach widerlich."
+Found
+MODSMD_ARTICLE10: Vor Anerkennung Nationalspanielnis durch den Balkanbund.
+Found
+MODSMD_ARTICLE11: Warum hat Roosevelt den Urlaub abgebrochen?
+Found
+MODSMD_ARTICLE12: Protest gegen Roosevelts Kurs.
+Found
+MODSMD_ARTICLE13: Aufregeudes Wochenende in Peru.
+Found

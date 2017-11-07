@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Francos Truppen bereits 15 km über Tarragona hinaus.
+Found
+MODSMD_ARTICLE02: Italien würdigt den Fall Tarragonas.
+Found
+MODSMD_ARTICLE03: Paris und London Zur Einnahme TarrMonas.
+Found
+MODSMD_ARTICLE04: Warschau zu den nationalspanischen Siegen.
+Found
+MODSMD_ARTICLE05: Die Verlautbarung der „JnformaZione Diplomatica".
+Found
+MODSMD_ARTICLE06: Die Jugoslawien-Reise des Grafen Ciano.
+Found
+MODSMD_ARTICLE07: Londoner Nachklänge zum Rom-Besuch.
+Found
+MODSMD_ARTICLE08: Erneute irische Freiheitsbestrebungen.
+Found
+MODSMD_ARTICLE09: Kein neuer Vertreter Belgiens für Barcelona.
+Found
+MODSMD_ARTICLE10: Bonnet und Lord Halifax trafen sich in Genf.
+Found
+MODSMD_ARTICLE11: „Loyale Mitarbeit bei Achtung des Volkstums."
+Found
+MODSMD_ARTICLE12: Auch Mandschukuo tritt dem Antikomintern Abkonlmen bei«
+Found
+MODSMD_ARTICLE13: Urteil im Lissaboner Kommunisten-Prozeß.
+Found
+MODSMD_ARTICLE14: „Wreme" über judenfeindliche Kundgebungen in London.
+Found
+MODSMD_ARTICLE15: Wieder zwei arabische Freischärler erschossen.
+Found
+MODSMD_ARTICLE16: Die Besprechungen mit dem Mufti beendet.
+Found
+MODSMD_ARTICLE17: Roosevelt lädt Brasiliens Außenminister ein.
+Found
+MODSMD_ARTICLE18: 1300 Juden in Montevideo hängen geblieben.
+Found
+MODSMD_ARTICLE19: Das deutsche Aradoflugzeug in Sydney.
+Found

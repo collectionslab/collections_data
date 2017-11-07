@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht General a. D. von Bomhard.
+Found
+MODSMD_ARTICLE02: Tiefer Eindruck des Präger Staatsaktes.
+Found
+MODSMD_ARTICLE03: Staatsschutzgesetz in Estland.
+Found
+MODSMD_ARTICLE04: Ausbau der estnischen Laudesverteidigung.
+Found
+MODSMD_ARTICLE05: Besuch General Laidoners in Polen.
+Found
+MODSMD_ARTICLE06: Eine erneute Absage an England.
+Found
+MODSMD_ARTICLE07: Ernennungen im spanischen Diplomatischen Korps»
+Found
+MODSMD_ARTICLE08: Pariser Sorgen um die rotspanischen Verbrecher.
+Found
+MODSMD_ARTICLE09: Rotspanische Flüchtlinge als Einbrecher in Paris.
+Found
+MODSMD_ARTICLE10: Guy la Chambre mit Londoner Besprechungen zufrieden.
+Found
+MODSMD_ARTICLE11: Englische Luftschutzsorgen.
+Found
+MODSMD_ARTICLE12: Der Stanhope-Fall zieht weitere Kreise.
+Found
+MODSMD_ARTICLE13: Von Hentig in Abschiedsaudienz bei König Faruk.
+Found
+MODSMD_ARTICLE14: Neuregelung der Wehrpflicht in Brasilien.
+Found
+MODSMD_ARTICLE15: Stimson übertrumpft Roosevelt.
+Found

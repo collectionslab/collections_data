@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Oberreichsanwalt Laust beim Reichsjustizminister.
+Found
+MODSMD_ARTICLE02: Hilfeleistung für die Opfer des Münchener Attentats.
+Found
+MODSMD_ARTICLE03: Immer wieder Verdrehung der Tatsachen.
+Found
+MODSMD_ARTICLE04: Reichsmirtschaftsmi nister Funk in Memel.
+Found
+MODSMD_ARTICLE05: „Regime Fascista": Der Täter heißt England!
+Found
+MODSMD_ARTICLE06: „Die Irrtümer von Versailles waren noch zu gering."
+Found
+MODSMD_ARTICLE07: „Jüdischer Lügenfunk für den jüdischen Krieg".
+Found
+MODSMD_ARTICLE08: Treibminen an der dänischen Küste.
+Found
+MODSMD_ARTICLE09: Die russisch-japanische Fühlungnahme.
+Found
+MODSMD_ARTICLE10: Der litauische Finanzminister zurückgetreten.
+Found
+MODSMD_ARTICLE11: Gnadenakt des litauischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE12: Tankdampfer in die Luft geflogen.
+Found
+MODSMD_ARTICLE13: 04 Leichen aus dem U-Boot „Thetis" geborgen.
+Found
+MODSMD_ARTICLE14: Frankreichs Kriegsziele.
+Found
+MODSMD_ARTICLE15: Betrogene Betrüger.
+Found
+MODSMD_ARTICLE16: England aus der Nähe gesehen.
+Found
+MODSMD_ARTICLE17: Prinzregent Paul empfing slowakischen, Gesandten.
+Found
+MODSMD_ARTICLE18: Rußlands Bedeutung als Rohstofflieferant.
+Found
+MODSMD_ARTICLE19: Aussichtsreiche Verhandlungen Moskau—Tokio.
+Found
+MODSMD_ARTICLE20: Washington dementiert Minenauslegen.
+Found
+MODSMD_ARTICLE21: Schweres Eisenbahnunglück in Oberschlesien.
+Found

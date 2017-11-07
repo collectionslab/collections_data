@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Dr. Frick in Troppau.
+Found
+MODSMD_ARTICLE02: Gauleiter Büecke! sprach in Eger.
+Found
+MODSMD_ARTICLE03: „Graf Zeppelin" nach dem Sndetenland gestartet.
+Found
+MODSMD_ARTICLE04: Taladier zieht die Moskaujünger zur Rechenschaft.
+Found
+MODSMD_ARTICLE05: Wie die Marxisten lügen!
+Found
+MODSMD_ARTICLE06: De la Rocque wieder Vorsitzender der Sozialpartei.
+Found
+MODSMD_ARTICLE07: Die Rückkehr der italienischen Freiwilligen ans Spanien.
+Found
+MODSMD_ARTICLE08: Wie Sowjetspaniens Vertreter Brüssel verlieh.
+Found
+MODSMD_ARTICLE09: 82 rotspanische Flieger im November abgeschossen.
+Found
+MODSMD_ARTICLE10: Francs bietet Notleidenden aus Rotspanien ein Asyl.
+Found
+MODSMD_ARTICLE11: Sitzung des neuen tschecho-slowakischen Kabinetts.
+Found
+MODSMD_ARTICLE12: Tschecho-Slowakei mit Bindestrich!
+Found
+MODSMD_ARTICLE13: Beseitigung der jüdischen Machtstellung in der Slowakei.
+Found
+MODSMD_ARTICLE14: Die November-Bilanz des Palästina-Krieges.
+Found
+MODSMD_ARTICLE15: Moskau für verstärkte Bolschewisierung Chinas.
+Found

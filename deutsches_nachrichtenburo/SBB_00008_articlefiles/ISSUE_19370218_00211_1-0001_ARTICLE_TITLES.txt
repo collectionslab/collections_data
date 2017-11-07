@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Führer wird die Automobilausstellung eröffnen.
+Found
+MODSMD_ARTICLE02: Abschiedsempfang für den Frontkämpferkongreß.
+Found
+MODSMD_ARTICLE03: Erste Arbeitstagung des Kulturkreises der SA.
+Found
+MODSMD_ARTICLE04: Deutscher Filmvolkstag 1937.
+Found
+MODSMD_ARTICLE05: Vortrag vor der Anglo-German Fellowship.
+Found
+MODSMD_ARTICLE06: Portugiesische Anregungen zum Ueberwachungsplan.
+Found
+MODSMD_ARTICLE07: Die französischen Maßnamen gegen Anwerbungen.
+Found
+MODSMD_ARTICLE08: Hinrichtungen in USSR wegen Lebensmittel iebstahls.
+Found
+MODSMD_ARTICLE09: Aegypten will in den Völkerbund.
+Found
+MODSMD_ARTICLE10: Noch keine Lösung der südafrikanischen Kabinettskrise.
+Found

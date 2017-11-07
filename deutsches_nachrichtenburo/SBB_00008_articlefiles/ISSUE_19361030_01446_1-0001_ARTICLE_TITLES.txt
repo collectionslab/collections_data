@@ -1,0 +1,36 @@
+MODSMD_ARTICLE02: Tie Befugnisse des Preisüberwachungskommissars.
+Found
+MODSMD_ARTICLE03: Das 12. Deutsche Sängerbundesfest „reichswichtig".
+Found
+MODSMD_ARTICLE04: Das deutsch-ungarische Kulturabkommen.
+Found
+MODSMD_ARTICLE05: Gauleiter Bohle besichtigt faschistische Bauten.
+Found
+MODSMD_ARTICLE06: Klarstellungen der italienischen Presse.
+Found
+MODSMD_ARTICLE08: „Popolo d'Jtalia" zur Göring-Rede.
+Found
+MODSMD_ARTICLE09: Verurteilung wegen Beleidigung des Führers.
+Found
+MODSMD_ARTICLE10: Kammeransrage wegen der Postlieferungen nach Barcelona.
+Found
+MODSMD_ARTICLE11: Neuer Streik in Paris.
+Found
+MODSMD_ARTICLE12: Kommunistische Uebersalle auf Rechtsversammlung.
+Found
+MODSMD_ARTICLE13: Weitere Waffentransporte für die spanischen Marxisten.
+Found
+MODSMD_ARTICLE14: Knnya über die Außenpolitik Ungarns.
+Found
+MODSMD_ARTICLE15: Ribbentrop überreicht sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE16: Am Montag Unterausschuß des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE17: Für Auslösung der Kommunistischen Partei in der Schweiz.
+Found
+MODSMD_ARTICLE18: Skladkowski über die Bedeutung der Arbeiter.
+Found
+MODSMD_ARTICLE19: Polnisch-griechischer Briefwechsel.
+Found
+MODSMD_ARTICLE20: Englische Kompromißpolitik in Palästina.
+Found

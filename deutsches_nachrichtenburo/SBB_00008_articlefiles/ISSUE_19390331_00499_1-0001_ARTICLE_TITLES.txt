@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dr. Frick beim Frontkämpferbund bildender Künstler.
+Found
+MODSMD_ARTICLE02: Kulturelle Zusammenarbeit Deutschland—Portugal.
+Not Found
+MODSMD_ARTICLE03: Wilhelmshaven am Borabend des großen Ereignisses.
+Found
+MODSMD_ARTICLE04: Finnland erkennt die nationalspanische Regierung an.
+Found
+MODSMD_ARTICLE05: Neues Lügenmanöoer gegen Deutschland.
+Found
+MODSMD_ARTICLE06: Eine unverständliche Londoner Erklärung.
+Found
+MODSMD_ARTICLE07: „Juristisch im Unrecht und politisch verstockt."
+Found
+MODSMD_ARTICLE08: Reichsminister Dr. Goebbels auf der Akropolis.
+Found
+MODSMD_ARTICLE09: Auf Befehl Englands?
+Found
+MODSMD_ARTICLE10: Die syrische Polizeileitung in Aleppo kaltgestellt.
+Found
+MODSMD_ARTICLE11: Aegypten leidet unter Roosevelts Baumwoll-Dumping.
+Found
+MODSMD_ARTICLE12: Mexiko-Stadt ohne Brot.
+Found

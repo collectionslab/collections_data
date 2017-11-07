@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Das Memorandum der Sudetendeutschen Partei«
+Found
+MODSMD_ARTICLE02: Aus der Verwaltung.
+Found
+MODSMD_ARTICLE03: Internationaler Schifsahrtskongreß 1940 in Deutschland.
+Found
+MODSMD_ARTICLE04: Alte Goldmünzen außer Kurs.
+Found
+MODSMD_ARTICLE05: General Russo im Reichsehrenmal Tannenberg.
+Found
+MODSMD_ARTICLE06: Helsinki übernimmt Durchführung der Olympischen Spiele.
+Found
+MODSMD_ARTICLE07: Tokio will die Olympiade 1944 durchführen.
+Found
+MODSMD_ARTICLE08: Der Besuch des britischen Kömgspaares in Paris.
+Found
+MODSMD_ARTICLE09: Die Einweihung des Denkmals „Britannisch
+Found
+MODSMD_ARTICLE10: Paris im Zeichen des Königsbesuches.
+Found
+MODSMD_ARTICLE11: Neuer Protest Tokios in Moskau.
+Found
+MODSMD_ARTICLE12: Landesverräter hingerichtet.
+Found

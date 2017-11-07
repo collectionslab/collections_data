@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Planmäßige Besetzung der Demarkationslinie.
+Found
+MODSMD_ARTICLE02: Ausländische Diplomaten aus Warschau in deutscher Obhut.
+Found
+MODSMD_ARTICLE03: Neutrale Staaten zu den Goebbels-Erklärungen.
+Found
+MODSMD_ARTICLE04: Der Fernsprechdienst mit dem Ausland.
+Found
+MODSMD_ARTICLE05: Pinsk von Sowjettruppen besetzt.
+Found
+MODSMD_ARTICLE06: Moskau zum deutschen Sieg im Weichselbogen.
+Found
+MODSMD_ARTICLE07: Italien: „Sinnlose Halsstarrigkeit der Westdemokratien."
+Found
+MODSMD_ARTICLE08: Die Knebelung des holländischen Wirtschaftslebens.
+Found
+MODSMD_ARTICLE09: Die Demarkationslinie festgelegt.
+Found
+MODSMD_ARTICLE10: Das Ende einer Tragödie.
+Found
+MODSMD_ARTICLE11: Jugoslawische Amnestie für Volksdeutsche.
+Found
+MODSMD_ARTICLE12: Japan wehrt sich gegen das englische Seeräubertum.
+Found
+MODSMD_ARTICLE13: Noosevelt verlangt Abänderung des Neutralitätsgefetzes.
+Found

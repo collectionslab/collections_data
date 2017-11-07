@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer auf der Fahrt nach Rom
+Found
+MODSMD_ARTICLE02: DerßeichsaußenMmister dankt für Geburtstagsglückwünsche^
+Not Found
+MODSMD_ARTICLE03: Ehrenpreis des Reichsministers Dr. Frick.
+Found
+MODSMD_ARTICLE04: Die neue Arbeilszeitordnung.
+Found
+MODSMD_ARTICLE06: 99.1 vH. Ja-Stimmen der Ausländsdeutschen und Seefahrer.
+Found
+MODSMD_ARTICLE07: Der Reichsbauernführer empfing Reichssieger.
+Found
+MODSMD_ARTICLE08: Zum stellvertretenden Honvcdobcrkom Mandanten ernannt.
+Found
+MODSMD_ARTICLE09: Minister Alfter: empfing die deutsche Presseabordnung.
+Found
+MODSMD_ARTICLE10: Italiens Presse Presse zum deutschen Nationalfeiertag.
+Found
+MODSMD_ARTICLE11: Florentiner Musikfestspiele.
+Found
+MODSMD_ARTICLE12: Vefreiungsseiern in Nationalspanien.
+Found

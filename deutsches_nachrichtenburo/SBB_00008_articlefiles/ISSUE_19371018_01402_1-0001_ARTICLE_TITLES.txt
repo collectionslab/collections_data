@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Das Endergebnis der Kantonalwahlen.
+Found
+MODSMD_ARTICLE02: Blutige Zusammenstöße im französischen Wahlkampf.
+Found
+MODSMD_ARTICLE03: Stojadinowitsch von Paris nach Belgrad abgereist.
+Found
+MODSMD_ARTICLE04: Bargeton zum Botschafter in Brüssel ernannt.
+Found
+MODSMD_ARTICLE05: Paris und London über die Ausschußsitzung.
+Found
+MODSMD_ARTICLE06: O Der Vormarsch in Asturien fortgesetzt.
+Found
+MODSMD_ARTICLE07: Unglaublicher sowjetrussischer Terror in Madrid.
+Found
+MODSMD_ARTICLE08: „Giornale d'Jtalia" über die Zurückziehung der Freiwilligen.
+Found
+MODSMD_ARTICLE09: Reichsführer SS. Himmler Gast des Polizeichefs Italiens.
+Found
+MODSMD_ARTICLE10: Polizei löst sndetendeutsche Versammlung auf.
+Found
+MODSMD_ARTICLE11: Das Winterhilfswerk der Deutschen in Brasilien.
+Found
+MODSMD_ARTICLE12: Berichtigung.
+Found

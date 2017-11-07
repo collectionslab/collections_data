@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Provinz Posen wird frei.
+Found
+MODSMD_ARTICLE02: Rawa—Mazowiecka erreicht.
+Not Found
+MODSMD_ARTICLE03: Weichselbrücken südlich Warschau zerstört.
+Found
+MODSMD_ARTICLE04: Die blutigen Spuren der Polnischen Herrschaft.
+Found
+MODSMD_ARTICLE05: Grauenhafte Menschenschlächtereien in Bromberg.
+Found
+MODSMD_ARTICLE07: „In Deutschland gibt es Arbeit und Brot."
+Found
+MODSMD_ARTICLE08: Keine Bombe siel auf litauischen Boden.
+Found
+MODSMD_ARTICLE09: Der slowakische Heeresbericht.
+Found
+MODSMD_ARTICLE10: Besuch des Botschafters Hasfell in Helsinki.
+Found
+MODSMD_ARTICLE11: Kurze Auslandsnachrichten.
+Found
+MODSMD_ARTICLE12: Britischer Militärattache und Spion.
+Found

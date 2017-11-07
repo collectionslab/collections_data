@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Mittags -Ausgabe. deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Neue polnische Uebergriffe.
+Found
+MODSMD_ARTICLE03: „Stettin, Königsberg, Breslau!"
+Found
+MODSMD_ARTICLE04: Tie holländische Regierung zurückgetreten.
+Found
+MODSMD_ARTICLE05: Die römische Presse Zur Halifax-Rede.
+Found
+MODSMD_ARTICLE06: Eindrucksloses Londoner Presseecho.
+Found
+MODSMD_ARTICLE07: Hetze, nichts als Hetze.
+Found
+MODSMD_ARTICLE08: Scharfe Kritik der „Wreme" an der Halifax-Rede.
+Found
+MODSMD_ARTICLE09: Admiral Backhouse zurückgetreten.
+Found
+MODSMD_ARTICLE10: Das Neutralitätsgesetz sollte ganz fallen.
+Found
+MODSMD_ARTICLE11: Roosevelts Bollmachten eingeschränkt.
+Found
+MODSMD_ARTICLE12: Weitere 223 Millionen für Militärausgaben.
+Found
+MODSMD_ARTICLE13: General Craig fordert Vermehrung der Armee.
+Found
+MODSMD_ARTICLE14: 2,5 Millionen Notstandsarbeiter brotlos.
+Found
+MODSMD_ARTICLE15: Die Rehabilitierung des Lamdesgruppenleiters Müller.
+Found
+MODSMD_ARTICLE16: Gegen die Drahtzieher an Hudson und Themse.
+Found
+MODSMD_ARTICLE17: Die Judeneinwanderung in Palästina nimmt weiter zu.
+Found
+MODSMD_ARTICLE18: Motorboot-Weltrekord Hans Stucks.
+Found

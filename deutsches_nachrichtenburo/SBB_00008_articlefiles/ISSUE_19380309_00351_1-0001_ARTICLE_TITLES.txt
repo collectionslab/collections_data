@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die Arbeitslosigkeit unter den Deutschen in Polen.
+Found
+MODSMD_ARTICLE02: Die Kommunistenseuche in Polen.
+Found
+MODSMD_ARTICLE03: Stürmische Sitzung in der belgischen Kammer.
+Found
+MODSMD_ARTICLE05: Der belgische Finanzminister erkrankt.
+Found
+MODSMD_ARTICLE06: Die Moskauer Prozeßhölle schließt ihre Pforten.
+Found
+MODSMD_ARTICLE07: „Einstudierte Aussagen" sagt „ABC".
+Found
+MODSMD_ARTICLE08: „Kampf der Raubtiere" in Moskau.
+Found
+MODSMD_ARTICLE09: Ernüchterung in der schweizerischen Sozialdemokratie.
+Found
+MODSMD_ARTICLE10: Der Präsident von Guatemala an General Franca.
+Found

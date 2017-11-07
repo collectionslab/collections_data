@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ter Internationale Hebammen-Kongreß beendet.
+Found
+MODSMD_ARTICLE02: Finnische Austauschschüler in München.
+Found
+MODSMD_ARTICLE03: „Budapesti Hirlap" zum deutsch-ungarischen Kulturabkommen.
+Not Found
+MODSMD_ARTICLE04: Ministerpräsident Göurbös wiederhergestellt.
+Found
+MODSMD_ARTICLE05: „Uj Magyarsag" gegen die rote Seuche.
+Found
+MODSMD_ARTICLE06: Diplomatische Besprechungen bei Delbos.
+Found
+MODSMD_ARTICLE07: Streikunruhen auch in Jugoslawien.
+Found
+MODSMD_ARTICLE08: Genfer Aussprache über 49-Stunden-Woche.
+Found
+MODSMD_ARTICLE09: Hoare über das Britische Reich als Weltmacht.
+Found
+MODSMD_ARTICLE10: Teezollerhöhungen vom Unterhaus angenommen.
+Found
+MODSMD_ARTICLE11: Abessinien und China vor dem Unterhaus.
+Found
+MODSMD_ARTICLE12: Kolonialminister Ormsby-Gore Zur Lage in Palästina.
+Found
+MODSMD_ARTICLE13: Katholikenfeindliche Ausschreitungen in Nordirland.
+Found
+MODSMD_ARTICLE14: Die Unruhen in Palästina.
+Found
+MODSMD_ARTICLE15: Chilenische Denkschrift zur Reform des Völkerbundes.
+Found

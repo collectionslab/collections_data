@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Beileidstelegramm Dr. Fricks an Frau Rigele.
+Found
+MODSMD_ARTICLE02: Danziger Patronatsrechte verletzt.
+Found
+MODSMD_ARTICLE03: Staatssekretär Milch trifft sich mit General Balle.
+Found
+MODSMD_ARTICLE04: General Ternzzi bei Mussolini.
+Found
+MODSMD_ARTICLE05: Italien begrüßt die deutsche Erklärung an Belgien.
+Found
+MODSMD_ARTICLE06: Die Jtalienfahrt deutscher Arbeiter.
+Found
+MODSMD_ARTICLE07: Prag zögert bei Ausmerzung der Manes-Schmutzereien.
+Found
+MODSMD_ARTICLE08: Bundesgerichtsentscheidung hebt ein Verbot auf.
+Found
+MODSMD_ARTICLE09: „Die Kultur Oesterreichs ist problemlos deutsch."
+Found
+MODSMD_ARTICLE10: Der Fleet Street-Choir wieder in London.
+Found
+MODSMD_ARTICLE11: Die Kabinettssitzung in London beendet.
+Found
+MODSMD_ARTICLE12: Fortsetzung der Debatte über deutsche Kolonialansprüche.
+Found
+MODSMD_ARTICLE13: Steigende Lebenshaltungskosten in England.
+Found
+MODSMD_ARTICLE14: Die „Liquidierungs"-Welle geht weiter.
+Found

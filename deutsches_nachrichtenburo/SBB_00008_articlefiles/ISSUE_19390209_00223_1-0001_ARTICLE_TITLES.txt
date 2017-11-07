@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Stürmische Kundgebungen für den Stabschef in Catania.
+Found
+MODSMD_ARTICLE02: Rexistische Interpellation zum Jmitianow-Skandal.
+Found
+MODSMD_ARTICLE03: Staatsbesuch der holländischen Königin in Belgien Ende Mai
+Found
+MODSMD_ARTICLE04: Die Oppositionsparteien zur Regierung Zwetkowitsch.
+Found
+MODSMD_ARTICLE05: Keine Verbindung zwischen Polen und Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE06: Kundgebungen der tschechischen Jugendorganisation.
+Found
+MODSMD_ARTICLE07: Die Judensrage in Polen.
+Found
+MODSMD_ARTICLE08: Zusammenstöße mit Sowjettruppen.
+Found
+MODSMD_ARTICLE09: Moskauer Kriegsphantasien.
+Found
+MODSMD_ARTICLE10: Ein Gesetz gegen die Irische Republikanische Armee.
+Found
+MODSMD_ARTICLE11: Dem Tode entrissen.
+Found
+MODSMD_ARTICLE12: Auch Figueras bietet das gewohnte Bild der Zerstörung.
+Found
+MODSMD_ARTICLE13: Abenteuerliches Schicksal eines Komponisten.
+Found
+MODSMD_ARTICLE14: Kriegsrat in Ciudad Real.
+Found
+MODSMD_ARTICLE15: Blutige Szenen an der französischen Grenze.
+Found
+MODSMD_ARTICLE16: Aus der roten Gefangenschast befreit.
+Found
+MODSMD_ARTICLE17: Anerkennung Francas Voraussetzung weiterer Verhandlung.
+Found
+MODSMD_ARTICLE18: Fieberhafte britische Aktivität in Palästina.
+Found

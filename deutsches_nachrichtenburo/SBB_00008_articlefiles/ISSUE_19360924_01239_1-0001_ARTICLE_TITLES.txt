@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Von Neurath in der Budapester reichsdeutschen Schule.
+Found
+MODSMD_ARTICLE02: Englische Ehrung für Geheimrat Bosch.
+Found
+MODSMD_ARTICLE03: Volksfront in Belgien vorläufig abgelehnt.
+Found
+MODSMD_ARTICLE04: Die Schweiz duldet keine Fabrikbesetzungen.
+Found
+MODSMD_ARTICLE05: Die bürgerlichen Parteien der Schweiz gegen Nicole.
+Found
+MODSMD_ARTICLE06: Protestschritt des Rektors der Universität Dorpat.
+Found
+MODSMD_ARTICLE07: Estland wehrt sich gegen Bolschewisierungsversuche
+Found
+MODSMD_ARTICLE08: Ungarn wehrt sich gegen jüdisch-marxistische Hetze.
+Found
+MODSMD_ARTICLE09: General Zamorski in Budapest.
+Found
+MODSMD_ARTICLE10: Jugoslawischer Hirtenbrief gegen den Kommunismus.
+Found
+MODSMD_ARTICLE11: Siedlung- und Kultivierungsprogramm für Mazedonien.
+Found
+MODSMD_ARTICLE12: Englische Ordensauszeichnung für den griechischen König.
+Found
+MODSMD_ARTICLE13: „Tribuna" über die Entwicklung im Mittelmeer.
+Found
+MODSMD_ARTICLE14: In Erwartung des Kabinetts Hansson.
+Found
+MODSMD_ARTICLE15: Hochspannung in Schanghai.
+Found

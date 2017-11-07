@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Aegyptische Minister beim Führer.
+Found
+MODSMD_ARTICLE02: Diplomatenempfänge. –
+Not Found
+MODSMD_ARTICLE03: Beileidstelegramme zum Tode von Gömbös.
+Found
+MODSMD_ARTICLE04: Gedächtnisfeier für Hans Schemm.
+Found
+MODSMD_ARTICLE05: Restborstellung für den Brückenbau-Kongreß.
+Found
+MODSMD_ARTICLE06: Gesamtrücktritt der ungarischen Regierung.
+Found
+MODSMD_ARTICLE07: Die Nachwirkungen des Londoner Demonstrationssonntags.
+Found
+MODSMD_ARTICLE08: London im Zeichen politischer Kundgebungen.
+Found
+MODSMD_ARTICLE09: Gegensätze auf dem Edinburger Parteitag.
+Found
+MODSMD_ARTICLE10: Zum Nichteinmischungsbeschluß der englischen Arbeiterpartei.
+Found
+MODSMD_ARTICLE11: Wegen Kritik an der Regierung Blum verurteilt.
+Found
+MODSMD_ARTICLE12: Vcnt^-Nc^e»
+Found
+MODSMD_ARTICLE13: Auflösung der Partei de la Rocgucs?
+Found
+MODSMD_ARTICLE14: Tie Rückwirkungen der Pariser Streiks in England.
+Found
+MODSMD_ARTICLE15: Seit 79 Tagen von roter Uebermacht belagert.
+Found
+MODSMD_ARTICLE16: Landtagspräsident Barrio in Madrid überfallen.
+Found
+MODSMD_ARTICLE17: Heeresbericht Nr. 68 der nationalistischen Nordarmee.
+Found
+MODSMD_ARTICLE18: Neue Mitglieder der spanischen nationalen Negierung.
+Found
+MODSMD_ARTICLE19: Madrider Kabinettsmitglied geflohen?
+Found
+MODSMD_ARTICLE20: Senator Borah verteidigt Roosevelts Newdeal-Maßnahmen.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ausslug des Kronprinzen Humbert mit Dr. Schuschnigg.
+Found
+MODSMD_ARTICLE02: Eröffnung der 4. Internationalen Filmkunstschau in Venedig
+Found
+MODSMD_ARTICLE03: Eine neues Wahrzeichen des italienischen Faschismus.
+Found
+MODSMD_ARTICLE04: 217 deutsche Flüchtlinge in Lissabon eingetroffen.
+Found
+MODSMD_ARTICLE05: Deutsche und Italiener Freiwild der roten Meute in Spanien
+Found
+MODSMD_ARTICLE06: Italien will „viel Ruhe" bewahren.
+Found
+MODSMD_ARTICLE07: lDas Wüten der Kommune in Spanien.
+Found
+MODSMD_ARTICLE08: Die Lage der Nationalisten täglich besser.
+Found
+MODSMD_ARTICLE09: Erbitterte Kämpfe um Huesca.
+Found
+MODSMD_ARTICLE10: Nationalistischer Luftangriff auf Badajoz.
+Found
+MODSMD_ARTICLE11: Ter Präsident der Bank von Spanien zurückgetreten.
+Found
+MODSMD_ARTICLE12: lü ststst Mann von Ceuta nach Algeciras übergesetzt.
+Found
+MODSMD_ARTICLE13: Bericht des amerikanischen Geschäftsträgers in Madrid. .
+Found
+MODSMD_ARTICLE14: Portugal zu dem geplanten Nichteinmischungsabkommen.
+Found
+MODSMD_ARTICLE15: London wieder zuversichtlich.
+Found
+MODSMD_ARTICLE16: Sowjetunion stimmt dem Nichteinmischungsvorschlag zu.
+Found
+MODSMD_ARTICLE17: Wie Trotzki wühlt.
+Found
+MODSMD_ARTICLE18: Die Lage in Palästina.
+Found

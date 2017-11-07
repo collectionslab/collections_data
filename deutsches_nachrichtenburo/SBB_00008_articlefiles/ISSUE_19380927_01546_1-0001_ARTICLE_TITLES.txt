@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: 4 Millionen Sudetendeutsche.
+Found
+MODSMD_ARTICLE02: Die Ausplünderung des Sudetenlandes geht weiter.
+Found
+MODSMD_ARTICLE03: Brücke zwischen den Kontinenten.
+Found
+MODSMD_ARTICLE04: Der englische Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE05: Japan fordert Unterstützung Deutschlands.
+Found

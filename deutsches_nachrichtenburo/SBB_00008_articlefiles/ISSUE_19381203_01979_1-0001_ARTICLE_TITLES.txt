@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Der Schlußappell des Führers an den Sudetengau.
+Found
+MODSMD_ARTICLE02: Ribbentrop führt am Montag nach Paris.
+Found
+MODSMD_ARTICLE03: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE04: Frau Skoblin am Montag vor Gericht.
+Found

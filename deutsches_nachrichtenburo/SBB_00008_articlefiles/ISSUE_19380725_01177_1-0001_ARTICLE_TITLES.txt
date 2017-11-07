@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Aufruf Schirachs an die HJ. der Ostmark.
+Found
+MODSMD_ARTICLE02: Deutsche Frontkämpfer auf französischen Kriegerfriedhöfen.
+Found
+MODSMD_ARTICLE03: Staatssekretär Morgenthau in Paris.
+Found
+MODSMD_ARTICLE04: Bonnet über seine Besprechungen mit Lord Halifax.
+Found
+MODSMD_ARTICLE05: Sozialdemokratisches Kampfprogramm gegen den Senat.
+Found
+MODSMD_ARTICLE06: Hafeupersonal verweigert Nacht- und Sonntagsarbeit.
+Found
+MODSMD_ARTICLE07: Die Kopenhagener Außenminister-Konferenz abgeschlossen.
+Found
+MODSMD_ARTICLE08: Polnische Bauern über die Grenze gelockt.
+Found
+MODSMD_ARTICLE09: Die Absichten Polens im Ostseeraum.
+Found
+MODSMD_ARTICLE10: Notwendige Maßnahmen gegen Warschauer Sowjetbotschaft.
+Found
+MODSMD_ARTICLE11: Ljuschkows Nachfolger ernannt.
+Found
+MODSMD_ARTICLE12: Schweres Unglück bei einer Drtzppenparadp M Dolumbien»
+Found
+MODSMD_ARTICLE13: Leningrad wird gesäubert.
+Found
+MODSMD_ARTICLE14: Die Heukersarbeit in der Sowjetunion.
+Found
+MODSMD_ARTICLE15: „Tribuna" zur Lage auf Malta»
+Found
+MODSMD_ARTICLE16: General Russo wieder in Rom.
+Found
+MODSMD_ARTICLE17: Königin-Mutter Maria von Rumänien beigesetzt.
+Found
+MODSMD_ARTICLE18: Keine Auslandsreise des Königs von Bulgarien.
+Found
+MODSMD_ARTICLE19: Welzins stecken eine Stadt iu Brand.
+Found

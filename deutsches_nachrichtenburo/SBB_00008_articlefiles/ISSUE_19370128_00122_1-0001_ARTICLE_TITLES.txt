@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr. Goebbels Schirmherr des 12. Sängerbundesfestes
+Found
+MODSMD_ARTICLE02: Dr. Goebbels bei der Reichsarbeitsdienst-Leitung.
+Found
+MODSMD_ARTICLE03: „Grüne Woche Berlin 1937".
+Found
+MODSMD_ARTICLE05: Eine Waffe im Kampf gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE06: Kreuzer „Emden" in Nanking.
+Found
+MODSMD_ARTICLE07: Befriedigung in Tanzig über das Genfer Ergebnis.
+Found
+MODSMD_ARTICLE08: England über die Antworten Zur Nichteinnnschungsfrage.
+Found
+MODSMD_ARTICLE09: Erkalten der Beziehungen Zwischen Wien und Prag.
+Found
+MODSMD_ARTICLE10: Der Rücktritt Banderveldes angenommen.
+Found
+MODSMD_ARTICLE11: Wer hat Borchgraves Tod verschuldet?
+Found
+MODSMD_ARTICLE12: Steuerstcckbrief und Vermögensbeschlagnahme.
+Found

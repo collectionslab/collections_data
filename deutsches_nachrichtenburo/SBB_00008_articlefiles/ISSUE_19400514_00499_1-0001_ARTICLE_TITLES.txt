@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Starke englische Verluste.
+Found
+MODSMD_ARTICLE02: Britischer Kreuzer neuester Bauart versenkt.
+Found
+MODSMD_ARTICLE03: England greift nach dem niederländischen Oel.
+Found
+MODSMD_ARTICLE04: Ein neuer Beweis: Genaue Weisungen von England.
+Found
+MODSMD_ARTICLE05: Die italienische Flotte steht bereit!
+Found
+MODSMD_ARTICLE07: „England erlebt seine kritischste Stunde."
+Found
+MODSMD_ARTICLE08: „Evviva Hitler! Evviva La Germania!"
+Found
+MODSMD_ARTICLE09: Der kanadische Premierminister verspricht Hilfe.
+Found
+MODSMD_ARTICLE10: Das neue rumänische Kabinett.
+Found
+MODSMD_ARTICLE11: Neue Großangriffe gegen die feindliche Luftwaffe.
+Found
+MODSMD_ARTICLE12: Frankreich spürt den wirklichen Krieg.
+Found
+MODSMD_ARTICLE13: „Die Lage Deutschlands ist günstig."
+Found

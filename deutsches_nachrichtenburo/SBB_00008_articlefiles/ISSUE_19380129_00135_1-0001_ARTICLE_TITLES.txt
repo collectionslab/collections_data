@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Beförderungen zum 311. Januar.
+Found
+MODSMD_ARTICLE02: Gauleiter Bohle wieder in Berlin.
+Found
+MODSMD_ARTICLE03: Professor Panegrossi in der Elena-Klinik in Kassel.
+Found
+MODSMD_ARTICLE04: Italien würdigt fünf Jahre deutschen Aufbaues.
+Found
+MODSMD_ARTICLE05: Der deutsche Juristenbesuch in Polen.
+Found
+MODSMD_ARTICLE06: Polens Interesse! an Abschiebung der Juden.
+Found
+MODSMD_ARTICLE07: Erfolgreiche ungarische Ausgabenwirtschaft.
+Found
+MODSMD_ARTICLE08: Klubsitzung der sudetendentschen Parlamentarier.
+Found
+MODSMD_ARTICLE09: Niedergang des Parlamentarismus.
+Found
+MODSMD_ARTICLE11: „Keine automatische Sicherheit durch Genf".
+Found
+MODSMD_ARTICLE12: Bolchewistische Waffenfabrik im Madrider Königsschloß.
+Found
+MODSMD_ARTICLE13: Frankreichs Hilfe für Spaniens Bolschewisten.
+Found
+MODSMD_ARTICLE14: Konsulatsverlegungen aus Valencia.
+Found
+MODSMD_ARTICLE15: Das Echo der Roosevelt-Botschaft.
+Found
+MODSMD_ARTICLE16: Raubüberfall mit Maschinengewehren in New Jork.
+Found

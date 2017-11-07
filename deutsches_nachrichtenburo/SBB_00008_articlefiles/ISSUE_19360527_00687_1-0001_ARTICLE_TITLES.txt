@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ter Besuch des ungarischen Kultusministers in Berlin.
+Found
+MODSMD_ARTICLE02: Zwei Jahre Reichsschrifttumsstelle.
+Found
+MODSMD_ARTICLE03: Die englischen Eisenbahner aus München abgereist.
+Found
+MODSMD_ARTICLE04: Die Berliner Philharmoniker in Belgrad.
+Found
+MODSMD_ARTICLE05: Blum Hegen das „Spiel widerspruchsvoller Kommentare".
+Found
+MODSMD_ARTICLE06: Beschlüsse der kommunistischen Kammerfraktion.
+Found
+MODSMD_ARTICLE07: Polnische Absage an die tschechoslowakischen Hochschulen.
+Found
+MODSMD_ARTICLE08: Erklärung des tschechoslowakischen Finanzministers.
+Found
+MODSMD_ARTICLE09: Frontmiliz und Heimatschutz.
+Found
+MODSMD_ARTICLE10: Besuch des finnnischen Außenministers in Riga.
+Found
+MODSMD_ARTICLE11: Politische Amnestie in Portugal.
+Found
+MODSMD_ARTICLE12: Italien zur London-Reise des Negus.
+Found
+MODSMD_ARTICLE13: „Times" über die italienische Propaganda im Orient.
+Found
+MODSMD_ARTICLE14: Gefährliche Lage in Palästina.
+Found
+MODSMD_ARTICLE15: Das Fährunglück auf der Thaya.
+Found

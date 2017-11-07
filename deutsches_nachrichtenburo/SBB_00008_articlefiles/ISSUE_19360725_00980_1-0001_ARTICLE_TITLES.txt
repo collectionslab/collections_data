@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Lindbergh bei der Deutschen Versuchsanstalt für Luftfahrt.
+Found
+MODSMD_ARTICLE02: Autounfall des Stabschef Lutze.
+Found
+MODSMD_ARTICLE03: Ter Weltkongreß für Freizeit und Erholung.
+Found
+MODSMD_ARTICLE04: Botschafter von Ribbentrop an den Freizeitkongreß.
+Found
+MODSMD_ARTICLE05: Luftschiff „Hindenburg" zur Rückreise gestartet.
+Found
+MODSMD_ARTICLE06: Deutsche Gesandtschaft in Addis Abeba wird Generalkonsulat
+Found
+MODSMD_ARTICLE07: Eine verstärkte italienische Mahnung an Paris.
+Found
+MODSMD_ARTICLE08: „Jour" über die französischen Kriegsmateriallieferungen.
+Found
+MODSMD_ARTICLE09: Hapag-Vertretung in Brand gesteckt.
+Found
+MODSMD_ARTICLE10: Der Kampf um Sau Sebastian.
+Found
+MODSMD_ARTICLE11: Madrid meldet Einnahme von Albacete.
+Found
+MODSMD_ARTICLE12: Der Sender Sevilla über die Lage.
+Found
+MODSMD_ARTICLE13: Der Vormarsch des Generals Mola.
+Found
+MODSMD_ARTICLE14: Marokkotruppen der Militärerhebung landen bei Algeciras.
+Found
+MODSMD_ARTICLE15: Hearst: „Der Kommunismus eine Weltverschwörung!"
+Found
+MODSMD_ARTICLE16: Das klägliche Ende der Marxisten-Spiele in Barcelona.
+Found
+MODSMD_ARTICLE17: Erklärung der englischen Arbeiterpartei.
+Found
+MODSMD_ARTICLE18: Kranzniederlegung auf Kriegerfriedhöfen in Gallipoli.
+Found
+MODSMD_ARTICLE19: Eröffnung der lettischen Arbeitskammer.
+Found

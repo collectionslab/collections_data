@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Prinzregent Paul in Magdeburg.
+Found
+MODSMD_ARTICLE02: „Die Presse als Schrittmacher des Friedens»"
+Found
+MODSMD_ARTICLE03: „Prawda" zur deutsch-jugoslawischen Freundschaft.
+Found
+MODSMD_ARTICLE04: Ter Nichtangriffsvertrag Deutschland—Dänemark.
+Not Found
+MODSMD_ARTICLE05: Die jugoslawischen Gäste in Berlin.
+Found
+MODSMD_ARTICLE06: Außenminister Dr. Münch zum Berliner Abkommen.
+Found
+MODSMD_ARTICLE07: „Molotows kalte Dusche für die Demokratien."
+Found
+MODSMD_ARTICLE08: Rückkehr des englischen Königspaares am 22. Juni.
+Found
+MODSMD_ARTICLE09: Anerkennung der Slowakei auch durch Mandschukuo.
+Found

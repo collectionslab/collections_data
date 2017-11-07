@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Graf Ciano beim Reichsaußenminister.
+Found
+MODSMD_ARTICLE02: Deutsch-polnischer Wirtschaftsvertrag verlängert.
+Found
+MODSMD_ARTICLE03: „Bereinigung der Deutschen Frontkämpfer-Verbände."
+Found
+MODSMD_ARTICLE04: Prof. Wackerle-Mimchen in den Reichskultursenat berufen.
+Found
+MODSMD_ARTICLE05: Die Tagung der Gesellschaft für Arbeitsschutz.
+Found
+MODSMD_ARTICLE06: Gcncral wird Polen.
+Found
+MODSMD_ARTICLE07: Antijüdische Kundgebungen an der Warschauer Universität«
+Found
+MODSMD_ARTICLE08: Interpellation in der belgischen Kammer.
+Found
+MODSMD_ARTICLE09: Die Herbsttagung des ungarischen Parlaments eröffnet. <
+Found
+MODSMD_ARTICLE10: Schlag gegen die Hetzpresse in Bulgarien.
+Found
+MODSMD_ARTICLE11: Keine Kabinettskrise in Bulgarien.
+Found
+MODSMD_ARTICLE12: Ter künftige Kurs der bulgarischen Innenpolitik.
+Found
+MODSMD_ARTICLE13: Innenminister Simon zu marxistischen Beschwerden.
+Found
+MODSMD_ARTICLE14: Streit über die britischen Luftrüstungsmaßnahmen.
+Found
+MODSMD_ARTICLE15: Ein britischer Schritt Zur Rettung der spanischen Geiseln.
+Found
+MODSMD_ARTICLE16: Moskau und die Ereignisse in Spanien.
+Found
+MODSMD_ARTICLE17: Erfolg der jugoslawischen Regierungspartei.
+Found

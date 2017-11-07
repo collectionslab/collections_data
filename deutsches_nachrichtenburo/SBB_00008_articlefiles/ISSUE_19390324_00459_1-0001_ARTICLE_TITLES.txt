@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Meistbegünstigung Deutsches Reich—Mandschukuo.
+Not Found
+MODSMD_ARTICLE02: Wieder deutsch-holländische Sportbeziehungen.
+Found
+MODSMD_ARTICLE03: Unsere Kolomalforderuug bleibt bestehen.
+Found
+MODSMD_ARTICLE04: Die NS.-Volkswohlsahrt hilft im Memelland.
+Found
+MODSMD_ARTICLE05: Der Zollgrenzschutz an der deutsch-litauischen Grenze.
+Found
+MODSMD_ARTICLE06: Die verwaltungsmäßige Rückgliederung des Memellandes.
+Found
+MODSMD_ARTICLE07: Die litauische Abordnung wieder in Kowno.
+Found
+MODSMD_ARTICLE08: Verlegung der litauischen Hochschulen aus Memel.
+Found
+MODSMD_ARTICLE09: „Polen für eine deutschfeindliche Politik nicht Zu haben."
+Found
+MODSMD_ARTICLE10: Belgrad: England verlangt viel und bietet wenig.
+Found
+MODSMD_ARTICLE11: Klare Stellungnahme der „Politiken".
+Found
+MODSMD_ARTICLE12: Bukarest: „Em Dokument von größter Bedeutung."
+Found
+MODSMD_ARTICLE13: Judeugeseh vom Abgeordnetenhaus angenommen.
+Found
+MODSMD_ARTICLE14: Der Herzog von Coburg in Athen.
+Found
+MODSMD_ARTICLE15: Lebrun aus London abgereift.
+Found
+MODSMD_ARTICLE16: Rom zum Auslandsecho der Thronrede.
+Found
+MODSMD_ARTICLE17: Ausschaltung Frankreichs im Hatah-Gebiet.
+Found
+MODSMD_ARTICLE18: Der Hintergrund der englischen Palästina-Politik.
+Found
+MODSMD_ARTICLE19: Verstärkung der Antikominternachse gefordert.
+Found
+MODSMD_ARTICLE20: Japan protestiert gegen sowjetrussische Beleidigungen.
+Found

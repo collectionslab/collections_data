@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Tie griechische Presse zum Besuch Dr. Goebbels'.
+Found
+MODSMD_ARTICLE02: „Prophetische Worte!"
+Found
+MODSMD_ARTICLE03: Die katholisch-slowakische Volkspartei warnt.
+Found
+MODSMD_ARTICLE04: Portugal und der spanische Bürgerkrieg.
+Found
+MODSMD_ARTICLE05: Neue Erfolge der Nationalisten an der baskischen Front.
+Found
+MODSMD_ARTICLE06: Eisenbahnverkehr zwischen Jrun und Sevilla hergestellt.
+Found
+MODSMD_ARTICLE07: Salazar Alonso zum Tode verurteilt.
+Found
+MODSMD_ARTICLE08: Neuer Waffenschmuggel nach Spanien verhindert.
+Found
+MODSMD_ARTICLE09: Dritte Sitzung des Ueberwachungsausschusses.
+Found
+MODSMD_ARTICLE10: Autounfall des italienischen Botschafters in Paris.
+Found
+MODSMD_ARTICLE11: Komintern untergräbt französische Regierung.
+Found
+MODSMD_ARTICLE12: Kommunistische Umtriebe in Ungarn.
+Found
+MODSMD_ARTICLE13: Religionsverfolgungen in Sowjetrußland.
+Found
+MODSMD_ARTICLE14: Die Manöver der Roten Armee.
+Found
+MODSMD_ARTICLE15: Schwere Folgen des Zwischenfalles von Fengtai.
+Found

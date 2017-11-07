@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm Francas an den Führer»
+Found
+MODSMD_ARTICLE02: Zweckbewußter Lügenfeldzug.
+Found
+MODSMD_ARTICLE03: Rückkehr der deutschen Teilnehmer am Oasenflug.
+Found
+MODSMD_ARTICLE04: Der neue japanische Marineattache besuchte Kiel.
+Found
+MODSMD_ARTICLE05: Neue Uniform für die Politischen Leiter.
+Found
+MODSMD_ARTICLE06: Aufruf zum „Tag der Deutschen Kunst."
+Found
+MODSMD_ARTICLE07: „Inda und Albion Arm in Arm!"
+Found
+MODSMD_ARTICLE08: Ter tschechische Getreidehandel judenrein.
+Found
+MODSMD_ARTICLE09: Belgien erkennt Burgos 6s jure an.
+Found
+MODSMD_ARTICLE10: Die unverantwortlichen Hetzer auch in Brüssel am Werk.
+Found
+MODSMD_ARTICLE11: Wahlen in Zürich und St. Gallen.
+Found
+MODSMD_ARTICLE12: Die Japaner beschossen die Forts von Ningpo.
+Found

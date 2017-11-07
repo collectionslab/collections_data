@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Räumung französischer Bunker am Rhein wegen Hochwasser.
+Found
+MODSMD_ARTICLE02: Volksdeutscher Opfer polnischer Messerstecher.
+Found
+MODSMD_ARTICLE03: Von polnischen Banditen schwer verletzt.
+Found
+MODSMD_ARTICLE04: Aus der polnischen Hölle entkommen.
+Found
+MODSMD_ARTICLE05: Bei den Flüchtlingen im Lager Strehlen.
+Found
+MODSMD_ARTICLE06: Der Aufständischen-Verband in seinem Element.
+Found
+MODSMD_ARTICLE07: Militärische Vorbereitungen der Polen im Grenzgebiet.
+Found
+MODSMD_ARTICLE08: Grausames Martyrium der verhafteten Deutschen.
+Found
+MODSMD_ARTICLE09: Kulturelle Deutschtumsorganisation von den Polen vernichtet
+Found
+MODSMD_ARTICLE10: Höchste italienische Auszeichnung für Graf Ciano.
+Found
+MODSMD_ARTICLE11: Graf Csaky bei Mussolini.
+Found
+MODSMD_ARTICLE12: Morgenthau beim schwedischen Finanzminister.
+Found
+MODSMD_ARTICLE13: Britischer Skandal in Argentinien.
+Found
+MODSMD_ARTICLE14: Schwere Krise der japanisch-englischen Verhandlungen.
+Found

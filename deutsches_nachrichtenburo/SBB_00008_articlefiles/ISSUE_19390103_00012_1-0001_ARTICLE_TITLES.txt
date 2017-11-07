@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Flick beglückwünscht.
+Found
+MODSMD_ARTICLE02: Katholischer Pfarrer als Sittlichkeitsperbrecher.
+Found
+MODSMD_ARTICLE03: Daladier in Tunis eingetroffen.
+Found
+MODSMD_ARTICLE04: Abrechnung mit den marxistischen Streikhetzern.
+Found
+MODSMD_ARTICLE05: Schließung sämtlicher Pariser Lichtspielhäuser beschlossen.
+Found
+MODSMD_ARTICLE06: Rätselraten über die Flottejnverhandluugen.
+Found
+MODSMD_ARTICLE07: Der britische Konsul in San Sebastian festgenommen.
+Found
+MODSMD_ARTICLE08: „Jose Luis Diaz" in Gibraltar interniert.
+Found
+MODSMD_ARTICLE09: Wehrlose Gefangene abgeschlachtet.
+Found
+MODSMD_ARTICLE10: „Rassmpolitik Gruudelement der nationalen Einheit".
+Found
+MODSMD_ARTICLE11: Das faschistische Italien als Schutzmacht des Islam.
+Found
+MODSMD_ARTICLE12: Schwere Anklage gegen Engländer in Palästina.
+Found
+MODSMD_ARTICLE13: Der Mufti „Symbol des arabischen Willens".
+Found
+MODSMD_ARTICLE14: Ein japanischer Konsularbeamter in Hanoi verschleppt.
+Found
+MODSMD_ARTICLE15: Washington führt Kollektivwirtschaft ein.
+Found

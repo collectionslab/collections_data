@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Rudolf Heß irr Kreise der Alten Garde.
+Found
+MODSMD_ARTICLE02: Der Besuch des Führers in Italien.
+Found
+MODSMD_ARTICLE03: Finnische Zeitung über den llmschwnng in Oesterreich.
+Found
+MODSMD_ARTICLE04: „Wien ist kaum wiederzuerkennen."
+Found
+MODSMD_ARTICLE05: Der rumänische Außenminister vor der Auslandspresse.
+Found
+MODSMD_ARTICLE06: „Cuvantul" über die Lage der Sudetendeutschen.
+Found
+MODSMD_ARTICLE07: Protestaktion der Sudetendeutschen im Abgeordnetenhaus.
+Found
+MODSMD_ARTICLE08: Ostoberschlesien wehrt sich gegen die jüdische Ueberfremdung.
+Found
+MODSMD_ARTICLE09: 2 Milliarden Fehlbetrag im belgischen Haushalt.
+Found
+MODSMD_ARTICLE10: Einschränkung des jüdischen Einflusses in Ungarn.
+Found
+MODSMD_ARTICLE11: Aras in Athen.
+Found
+MODSMD_ARTICLE12: Von den Bolschewisten von Haus und Hof Vertrieben.
+Found
+MODSMD_ARTICLE13: Sie wollen nicht ins „Sowjetparadies" zurück!
+Found
+MODSMD_ARTICLE14: Rette sich, wer kann.
+Found
+MODSMD_ARTICLE15: Zwei Juden in Palästina getötet.
+Found

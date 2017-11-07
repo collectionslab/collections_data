@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Immer neue Verfolgungen der SudeteudeutschM.
+Found
+MODSMD_ARTICLE02: Ein ueues unsinniAs Gerücht über die SdP.
+Found
+MODSMD_ARTICLE03: Kommunistische Hetze verursacht Bauarbeiterstreik.
+Found
+MODSMD_ARTICLE04: Zuchthaus für Verbreitung, kommunistischer Hetzschriften.
+Found
+MODSMD_ARTICLE05: Starker Mangel an ländlichen Aerzten in Polen.
+Found
+MODSMD_ARTICLE06: Die Völker lernen sich durch die Jugend kennen!
+Found
+MODSMD_ARTICLE07: Italienisch-rumänisches Handelsabkommen verlängert.
+Found
+MODSMD_ARTICLE08: Privates Schreiben Daladiers an Chamberlain.
+Found
+MODSMD_ARTICLE09: 14. Juli im Zeichen der englisch-französischen Freundschaft.
+Found
+MODSMD_ARTICLE10: Kommunisten randalierten in Ajaccio.
+Found
+MODSMD_ARTICLE11: Fall Sandys erneut vor dem Unterhaus.
+Found
+MODSMD_ARTICLE12: Englands Außenhandelsbilanz beunruhigt Industriekapitäne.
+Found
+MODSMD_ARTICLE13: Gesetz über bezahlten Urlaub im Unterhaus angenommen.
+Found
+MODSMD_ARTICLE14: Die nationale Offensive weiter vorgetragen.
+Found
+MODSMD_ARTICLE15: Rumänischer Ministerrat über Minderheitenfragen.
+Found
+MODSMD_ARTICLE16: Die syrische Regierung bleibt im Amt.
+Found
+MODSMD_ARTICLE17: Sowjettruppe noch immer auf mandschurischem Boden.
+Found
+MODSMD_ARTICLE18: Helsinki statt Tokio.
+Found
+MODSMD_ARTICLE19: Absage der Olympischen Spiel vom Kabinett bestätigt.
+Found
+MODSMD_ARTICLE20: Die Tokioter Presse zur Absage der Olympiade.
+Found

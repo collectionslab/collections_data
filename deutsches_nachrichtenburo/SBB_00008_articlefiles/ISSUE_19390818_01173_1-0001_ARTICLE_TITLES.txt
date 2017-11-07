@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Goebbels an Graf Reventlow.
+Found
+MODSMD_ARTICLE02: Pariser Lüge soll die Polen reinwaschen.
+Found
+MODSMD_ARTICLE03: Terror auch im Teschener Gebiet.
+Found
+MODSMD_ARTICLE04: Klare Sprache der norditalienischen Presse.
+Found
+MODSMD_ARTICLE05: Der „Temps" beklagt sich über sich selbst.
+Found
+MODSMD_ARTICLE06: England deckt die polnischen Menschenschinder.
+Found
+MODSMD_ARTICLE07: London macht neue Schwierigkeiten.
+Found
+MODSMD_ARTICLE08: England ohnmächtig gegenüber der Abschnürung Hongkongs.
+Found
+MODSMD_ARTICLE09: „Times" droht Japan mit Moskau!
+Found
+MODSMD_ARTICLE10: Polen noch nicht garantiert genug?
+Found
+MODSMD_ARTICLE11: Besuch Mergenthaus in Stockholm und Helsinki.
+Found
+MODSMD_ARTICLE12: Selbstmord eines rumänischen Regierungskuriers in Sofia.
+Found
+MODSMD_ARTICLE13: Belgrad zu den polnischen Gewalttaten.
+Found
+MODSMD_ARTICLE14: Der jugoslawische Rundfunk wird verstaatlicht.
+Found
+MODSMD_ARTICLE15: „Militärgouverneur für das Gebiet von Gibraltar."
+Found
+MODSMD_ARTICLE16: Ein Däne in Schanghai erschossen.
+Found

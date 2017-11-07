@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an Großadmiral Dr. Raeder.
+Found
+MODSMD_ARTICLE02: Zum Ministerialrat ernannt.
+Found
+MODSMD_ARTICLE03: Dr. Neumann in den Reichsbauernrat berufen.
+Found
+MODSMD_ARTICLE04: Hohe spanische Marineoffiziere besuchen Kiel.
+Found
+MODSMD_ARTICLE05: Das Ergebnis von Venedig.
+Found
+MODSMD_ARTICLE06: Die Erfolge der italienischen Friedenspolitik.
+Found
+MODSMD_ARTICLE07: „Ein schwerer Schlag für die Einkreisungspolitik."
+Found
+MODSMD_ARTICLE08: Belgrad: „Zusammenarbeit mit Italien und Deutschland."
+Found
+MODSMD_ARTICLE09: Die dentsch-rumänischew Beziehungen.
+Found
+MODSMD_ARTICLE10: „Frankreich will nicht allein sein Blut vergießen."
+Found
+MODSMD_ARTICLE11: Polens zwei Möglichkeiten.
+Found
+MODSMD_ARTICLE12: Norwegen verstärkt seine Kriegsmarine.
+Found
+MODSMD_ARTICLE13: Andauernde Goldverschiffungen nach USA.
+Found
+MODSMD_ARTICLE14: Gafencus Besprechungen in London.
+Found
+MODSMD_ARTICLE15: Sowjetspanischer Massenmörder dingfest gemacht.
+Found
+MODSMD_ARTICLE16: Maisky kehrt nach London zurück.
+Found
+MODSMD_ARTICLE17: Potemkin beglückt die Türkei.
+Found
+MODSMD_ARTICLE18: Mit Gewehrkolben und Reitpeitsche gegen arabische Frauen.
+Found
+MODSMD_ARTICLE19: Brutalster Terror gegen Araber.
+Found
+MODSMD_ARTICLE20: „Die britische Agitation in USA. eine Kriegsgefahr."
+Found

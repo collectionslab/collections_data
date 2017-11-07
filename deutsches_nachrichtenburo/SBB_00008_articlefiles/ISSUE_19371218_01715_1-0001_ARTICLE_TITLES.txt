@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: 'Diplomatie.
+Found
+MODSMD_ARTICLE02: Scapini vor der Deutsch französischen Gesellschaft.
+Found
+MODSMD_ARTICLE03: Weitere Autobahnstreckm eröffnet.
+Found
+MODSMD_ARTICLE04: Tagung der NSV.-Jugendhilfe.
+Found
+MODSMD_ARTICLE05: Pflege der deutsch-schwedischen Freundschaft.
+Found
+MODSMD_ARTICLE06: Schwedische Auszeichnung für deutsche Seeleute.
+Found
+MODSMD_ARTICLE07: Diner für Delbos in Prag.
+Found
+MODSMD_ARTICLE08: Polnische Legionärsabordnung in Rom.
+Found
+MODSMD_ARTICLE09: Roeder über die Wehrmacht und die Jugend Italiens.
+Found
+MODSMD_ARTICLE10: Italienisch-amerikanische Handelsabmachungen.
+Found
+MODSMD_ARTICLE11: Der griechische König auf der Heimreise.
+Found
+MODSMD_ARTICLE12: Maßnahmen gegen die Maul- und Klauenseuche in Ungarn.
+Found
+MODSMD_ARTICLE13: Riesiger jüdischer Bestechungsskandal in Wien.
+Found
+MODSMD_ARTICLE14: Typisch jüdische Frechheit im Gerichtssaal.
+Found
+MODSMD_ARTICLE15: Dr. Roth dankt Tatarescu.
+Found
+MODSMD_ARTICLE16: Jüdische Verbrecherbande unschädlich gemacht.
+Found

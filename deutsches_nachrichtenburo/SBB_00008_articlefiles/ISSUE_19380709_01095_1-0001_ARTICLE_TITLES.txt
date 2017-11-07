@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Neues großdeutsches Eherecht.
+Found
+MODSMD_ARTICLE02: Planvolle Betreuung des studentischen Nachwuchses.
+Found
+MODSMD_ARTICLE03: Eine Abteilung Oesterreich des Amtes für Gnadensachen.
+Found
+MODSMD_ARTICLE04: Gauhauptstadt Krems.
+Found

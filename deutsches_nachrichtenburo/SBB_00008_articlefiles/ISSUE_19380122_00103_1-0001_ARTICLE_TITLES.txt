@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Die Chefs der fremden Missionen Gäste Neuraths.
+Found
+MODSMD_ARTICLE02: Wechsel in der Leitung des deutschen Handwerks.
+Found
+MODSMD_ARTICLE03: Die Neuregelung der laufenden Kinderbeihilfen.
+Found
+MODSMD_ARTICLE04: Italienische Gäste bei der Deutschen Arbeitsfront.
+Found
+MODSMD_ARTICLE05: Mussolini stiftet Pokal für Hannovers beste Pferdezuchter.
+Found
+MODSMD_ARTICLE06: Stojadinowitschs Besuch in der Hauptstadt der Bewegung.
+Found
+MODSMD_ARTICLE07: „Vreme" über nationalsozialistische Landwirtschaftspolitik.
+Found
+MODSMD_ARTICLE08: Bemerkenswerte innerpolitische Erklärung Skladkowskis.
+Found
+MODSMD_ARTICLE09: Die kommunistische Hetze in Polen.
+Found
+MODSMD_ARTICLE10: Kirchliche Einigungsbestrebungen in England.
+Found
+MODSMD_ARTICLE11: Die Londoner Blätter zur Kammer-Abstimmung.
+Found
+MODSMD_ARTICLE12: Krach bei den Schweizer Marxisten.
+Found
+MODSMD_ARTICLE13: Luremburg erschwert Einbürgerung fremder Volkselemente.
+Found
+MODSMD_ARTICLE14: Großaktion gegen portugiesische KommunistM i
+Found
+MODSMD_ARTICLE15: Moskau schließt diplomatische Vertretungen.
+Found
+MODSMD_ARTICLE16: Sowjetrußlands Hinrichtungen am laufenden Band.
+Found
+MODSMD_ARTICLE17: Die Engländer hängen zwei arabische Freischärler.
+Found
+MODSMD_ARTICLE18: Japan will China nicht erobern.
+Found
+MODSMD_ARTICLE19: Grundsätzliches Urteil eines Bundesgerichts.
+Found
+MODSMD_ARTICLE20: Rekordrückgang der amerikanischen Beschäftigtenzahl.
+Found

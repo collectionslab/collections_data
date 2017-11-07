@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Das Eiserne Kreuz erneuert.
+Found
+MODSMD_ARTICLE02: Dex neue Botschafter der UdSSR, in Berlin.
+Found
+MODSMD_ARTICLE03: Die deutsch-dänischen Wirtschaftsbeziehungen.
+Found
+MODSMD_ARTICLE04: Die Fischerei in der Ostsee freigegeben.
+Found
+MODSMD_ARTICLE05: Ab sofort wieder Sendungen an alle Soldaten.
+Found
+MODSMD_ARTICLE06: Tagesbefehl des slowakischen Verteidigungsministers.
+Found
+MODSMD_ARTICLE07: Jubel in den befreiten slowakischen Gebieten.
+Found
+MODSMD_ARTICLE09: Unerhörte jüdische Herausforderung.
+Found
+MODSMD_ARTICLE10: Begeisterte Freudenkundgebungen in Beuthen.
+Found
+MODSMD_ARTICLE11: Die italienische Presse zu den deutschen Erfolgen.
+Found
+MODSMD_ARTICLE12: Das neue Wehrpflichtgesetz im Unterhaus.
+Found
+MODSMD_ARTICLE13: Clark: „Hitler verhindert europäisches Chaos".
+Found
+MODSMD_ARTICLE14: Irak bleibt neutral.
+Found

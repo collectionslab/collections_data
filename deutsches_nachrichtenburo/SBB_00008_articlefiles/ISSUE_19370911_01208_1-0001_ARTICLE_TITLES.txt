@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Filchners augenblicklicher Ausenthalt unbekannt.
+Found
+MODSMD_ARTICLE02: Die estnischen Journalisten in München.
+Found
+MODSMD_ARTICLE03: Der Deutschland-Besuch der polnischen Verkehrsbeamten.
+Found
+MODSMD_ARTICLE05: Die Jungvolkführer in Rom.
+Found
+MODSMD_ARTICLE06: Internationaler Kongreß für Ersatzbrennstoffe.
+Found
+MODSMD_ARTICLE07: Internationaler Kongreß für öffentliche Arbeiten.
+Found
+MODSMD_ARTICLE08: Empfang zu Ehren der deutschen Künstler in Paris.
+Found
+MODSMD_ARTICLE09: Französischer Franc erneut geschwächt.
+Found
+MODSMD_ARTICLE10: „Genfer Organismus ernstlich gefährdet."
+Found
+MODSMD_ARTICLE11: „Neue Austritte aus dem Völkerbund zu befürchten."
+Found
+MODSMD_ARTICLE12: Ministerrat in Budapest.
+Found
+MODSMD_ARTICLE13: Englischer Gewerkschaftskongreß für Aufrüstung.
+Found
+MODSMD_ARTICLE14: Warenboykott bei Teilung Palästinas.
+Found

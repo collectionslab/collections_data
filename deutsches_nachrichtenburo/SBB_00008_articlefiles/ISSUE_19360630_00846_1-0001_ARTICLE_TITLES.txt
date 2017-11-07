@@ -1,0 +1,12 @@
+MODSMD_ARTICLE03: Die Ehrenpromotionen in Heidelberg.
+Found
+MODSMD_ARTICLE04: Philosophische Fakultät.
+Found
+MODSMD_ARTICLE05: Theologische Fakultät.
+Found
+MODSMD_ARTICLE06: Medizinische Fakultät.
+Found
+MODSMD_ARTICLE08: Juristische Fakultät.
+Found
+MODSMD_ARTICLE09: Naturwissenschaftlich-Mathematische Fakultät.
+Found

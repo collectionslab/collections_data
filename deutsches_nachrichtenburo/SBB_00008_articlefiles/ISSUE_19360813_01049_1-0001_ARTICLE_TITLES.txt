@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Adnüral Behncke.
+Found
+MODSMD_ARTICLE02: „Graf Zeppelin" zur 9. Südamerikafahrt gestartet.
+Found
+MODSMD_ARTICLE03: Tie römische Presse zur Ernennung Ribbentrops.
+Found
+MODSMD_ARTICLE04: Ungarische Stimmen zur Ernennung Ribbentrops.
+Found
+MODSMD_ARTICLE05: Deutsche Rechtswahrer in Warschau.
+Found
+MODSMD_ARTICLE06: Vaterländische Front begrüßt das Abkommen vom 11. Juli.
+Found
+MODSMD_ARTICLE07: Frankreich soll auf die Probe gestellt werden.
+Found
+MODSMD_ARTICLE08: Die englisch-ägyptischen Kapitulationsklauseln paraphiert.
+Found
+MODSMD_ARTICLE09: Londoner Wertung des englisch-ägyptischen Vertrages.
+Found
+MODSMD_ARTICLE10: Attlee in Moskau.
+Found
+MODSMD_ARTICLE11: Zusammenarbeit tschechisch-rumänischer Rüstungsindustrie.
+Found
+MODSMD_ARTICLE12: Schweizerische Verluste in Spanien.
+Found
+MODSMD_ARTICLE13: Vor der Einnahme Malagas?
+Found
+MODSMD_ARTICLE14: Roosevelt gegen amerikanische Einmischung in Spanien.
+Found
+MODSMD_ARTICLE15: Panamerikanische Friedenskonferenz am 1. Dezember.
+Found
+MODSMD_ARTICLE16: Eine Frau diplomatische Vertreterin Mexikos in Brüssel.
+Found
+MODSMD_ARTICLE17: Die französisch-syrischen Verhandlungen.
+Found
+MODSMD_ARTICLE18: Araber überfallen englische Soldaten.
+Found

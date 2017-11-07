@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Nicht erst uon heute!
+Found
+MODSMD_ARTICLE02: Holland zum deutscheu Ozeanflug.
+Found
+MODSMD_ARTICLE03: Französische Anerkennung für die deutsche Handelslustfahrt.
+Found
+MODSMD_ARTICLE04: Wieder französischer Vifumzwang für Reisen nach Italien.
+Found
+MODSMD_ARTICLE05: Der amerikanische Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE06: Jbn Saud in Marseille.
+Found
+MODSMD_ARTICLE07: Verschärfte. Ausländerkontrolle in Frankreich.
+Found
+MODSMD_ARTICLE08: Spanisches Eigentum nach Frankreich verschleppt.
+Found
+MODSMD_ARTICLE09: Barcelona dankt Prag für Unterstützung.
+Found
+MODSMD_ARTICLE10: Nationalspanische Säuberungsaktion in Schulblbliotheken.
+Found
+MODSMD_ARTICLE11: Rumänische Gesandtschaften werden Botschaften.
+Found
+MODSMD_ARTICLE12: Woodhouse nach London abgereist.
+Found
+MODSMD_ARTICLE13: Jagdausflug General Carmonas in Mossamedes.
+Found
+MODSMD_ARTICLE14: Neue japanische Luftangriffe auf Wutschaug und Hankau.
+Found

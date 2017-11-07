@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die dänische Einfuhr im dritten Vierteljahr.
+Found
+MODSMD_ARTICLE02: Der Besuch der ungarischen Eisenbahner in Deutschland.
+Found
+MODSMD_ARTICLE03: Gras Ciano besucht Tarragona.
+Found
+MODSMD_ARTICLE04: „Danzig keine Prestigefrage des britischen Imperiums."
+Found
+MODSMD_ARTICLE05: Schließung deutscher Molkereien.
+Found
+MODSMD_ARTICLE06: Nun schreien sie vergeblich.
+Found
+MODSMD_ARTICLE07: Polnisches Hasiurteil gegen Reichsdeutschen.
+Found
+MODSMD_ARTICLE08: Volksdeutsche in Polen rechtlos.
+Found
+MODSMD_ARTICLE09: Polnische Zuchthäuser füllen sich mit Ukrainern.
+Found
+MODSMD_ARTICLE10: Duff Cooper will Taten sehen.
+Found
+MODSMD_ARTICLE11: Zunahme der antibritischen Stimmung im Fernen Osten.
+Found
+MODSMD_ARTICLE12: „Soldaten Zweiter Klasse" in Frankreich.
+Found
+MODSMD_ARTICLE13: Das undankbare Thema der Moskauer Verhandlungen.
+Found
+MODSMD_ARTICLE14: Deutsche Disziplin als Borbild für Australien.
+Found
+MODSMD_ARTICLE15: Die Kämpfe an der mongolisch-mandschurischen Front.
+Found
+MODSMD_ARTICLE16: Roosevelt will nicht nachgeben.
+Found

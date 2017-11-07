@@ -1,0 +1,30 @@
+MODSMD_ARTICLE02: Die ungarische Kresse zur Jtalienreise des Führers.
+Found
+MODSMD_ARTICLE03: Belgiens Presse warnt vor oberflächlicher Beurteilung.
+Found
+MODSMD_ARTICLE04: Polnische Stimmen zum Abschluß des Fiihrerbesuch.es.
+Found
+MODSMD_ARTICLE05: Förderung der erbgesunden kinderreichen Familien.
+Found
+MODSMD_ARTICLE06: Norwegens größtes Fahrgastschiff in Deutschland erbaut.
+Found
+MODSMD_ARTICLE07: Die deutschen Reiter in Brüssel.
+Found
+MODSMD_ARTICLE09: Irland-Gesetz auch in dritter Lesung angenommen.
+Found
+MODSMD_ARTICLE10: 499 Millionen für Arbeitsbeschaffung in der Schweiz.
+Found
+MODSMD_ARTICLE11: Unnachgiebiger Kampf um völlige Autonomie der Slowakei.
+Found
+MODSMD_ARTICLE12: Der Besuch der türkischen Staatsmänner in Belgrad.
+Found
+MODSMD_ARTICLE13: Der katastrophale Brand im Badeort Polangen.
+Found
+MODSMD_ARTICLE14: Der kommunistische Terror in Wolhynien.
+Found
+MODSMD_ARTICLE15: Die Schlüsselstellung für Indien in Moskaus Hand.
+Found
+MODSMD_ARTICLE16: New Aorker Pslizeirichter fälscht Gerichtsakten.
+Found
+MODSMD_ARTICLE17: Maßnahme zur Wahrung des arabischen Kulturkrcises.
+Found

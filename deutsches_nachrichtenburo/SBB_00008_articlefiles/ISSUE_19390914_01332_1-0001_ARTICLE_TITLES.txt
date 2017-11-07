@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Gewaltige Leistungen unserer Truppen am Narew.
+Found
+MODSMD_ARTICLE02: Ein deutscher Soldat verrät sein Vaterland nicht!
+Found
+MODSMD_ARTICLE03: Furchtbare Erlebnisse der Deutschen in Westpolen.
+Found
+MODSMD_ARTICLE04: So hausten die von England aufgehetzten Polen.
+Found
+MODSMD_ARTICLE05: Gemeinschaftshilfe gegen „Papierkrieg".
+Found
+MODSMD_ARTICLE06: Bedauerlicher Zwischenfall.
+Found
+MODSMD_ARTICLE07: Für Juden und Saboteure ist kein Platz in der Slowakei.
+Found
+MODSMD_ARTICLE08: Erbitterte Proteste gegen England.
+Found
+MODSMD_ARTICLE09: Telegrammverkehr Paris—London nur über New Jork.
+Not Found
+MODSMD_ARTICLE10: Polen verletzt die sowjetrnssische Grenze.
+Found
+MODSMD_ARTICLE11: Scharfes Dementi der Taß.
+Found
+MODSMD_ARTICLE12: Völliges Durcheinander in Warschau.
+Found
+MODSMD_ARTICLE13: Argentinien für freien Handel der Neutralen.
+Found

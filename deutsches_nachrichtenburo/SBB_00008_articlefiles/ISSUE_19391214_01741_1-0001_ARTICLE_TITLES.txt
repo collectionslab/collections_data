@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Seegefecht au der La Plata-Mundung.
+Found
+MODSMD_ARTICLE02: Grenz- und Freundschaftvertrag mit Rußland ratifiziert.
+Found
+MODSMD_ARTICLE03: Der Aufbau im Warthegau.
+Found
+MODSMD_ARTICLE04: Verpflichtung der Hitlerjugend im Osten.
+Found
+MODSMD_ARTICLE05: „Sierra Cordoba" in Gotenhafen eingetroffen.
+Found
+MODSMD_ARTICLE06: Spanische Militärmission in Rom.
+Found
+MODSMD_ARTICLE07: „Bremen"-Heimkehr Lieblingsthema römischer Abendblätter.
+Found
+MODSMD_ARTICLE08: Die Russen weiter im Angriff.
+Found
+MODSMD_ARTICLE09: Ter finnische Heeresbericht.
+Found
+MODSMD_ARTICLE10: „Die Engländer hätten gern einen Sieg gefeiert."
+Found
+MODSMD_ARTICLE11: England, der Brandstifter Europas.
+Found
+MODSMD_ARTICLE12: England spürt die Folgen des Handelskrieges.
+Found
+MODSMD_ARTICLE13: „Der Fall Finnland dient allen Neutralen zur Warnung."
+Found
+MODSMD_ARTICLE14: Neues ruchloses Verbrechen der Engländer.
+Found
+MODSMD_ARTICLE15: Amerikas Marinekreise bewundern! die Tat der „Bremen".
+Found

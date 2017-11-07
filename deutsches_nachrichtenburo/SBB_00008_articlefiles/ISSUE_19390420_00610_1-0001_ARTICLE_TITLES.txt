@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer ehrt Reichspräsidialrat Kiewitz.
+Found
+MODSMD_ARTICLE02: Ernennungen im Reichsjustizministerium.
+Found
+MODSMD_ARTICLE03: //-Gruppenführer Pohl zum Ministerialdirektor ernannt.
+Found
+MODSMD_ARTICLE04: Beileid des Führers zum Tode Heinrich Ungers.
+Found
+MODSMD_ARTICLE05: Mussolini über die Hetze gegen die Achsenmächte.
+Found
+MODSMD_ARTICLE06: Die Arbeit des Volksbunds der Deutschen in Ungarn.
+Found
+MODSMD_ARTICLE07: Polnische Gerüchte über Putschpläne in Litauen.
+Found
+MODSMD_ARTICLE08: Franca besuchte Malaga.
+Found
+MODSMD_ARTICLE09: Ein soziales Gesetz Francos.
+Found
+MODSMD_ARTICLE10: Leslie Burgin Munitionsminister.
+Found
+MODSMD_ARTICLE11: Vansittart in Paris.
+Found
+MODSMD_ARTICLE12: Bonnet lobt Roosevelt.
+Found
+MODSMD_ARTICLE13: Für Deutschland gibt es keine Patagonien-Frage.
+Found
+MODSMD_ARTICLE14: Washington Daily News: Die 14 Punkte wurden gebrochen!
+Found
+MODSMD_ARTICLE15: Roosevelt bricht den Philippinen sein Versprechen.
+Found
+MODSMD_ARTICLE16: Senator Nye verteidigt das Neutralitätsgesetz.
+Found
+MODSMD_ARTICLE17: Ein weißer Rabe in den Vereinigten Staaten.
+Found

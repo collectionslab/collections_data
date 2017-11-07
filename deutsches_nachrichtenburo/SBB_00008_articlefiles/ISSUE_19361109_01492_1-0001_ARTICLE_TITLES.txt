@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Empfang für den Vorstand des konnte Frauce-Allemagne.
+Found
+MODSMD_ARTICLE02: Deutsch-serbische Gedenkfeier bei Belgrad.
+Found
+MODSMD_ARTICLE03: Englischer Besuch in Berlin.
+Found
+MODSMD_ARTICLE04: Lloyd George über die englisch-deutschen Beziehungen.
+Found
+MODSMD_ARTICLE05: Kundgebung gegen die englische Arbeitspolitik.
+Found
+MODSMD_ARTICLE06: Italienische Genugtuung über die Abkommen mit England.
+Found
+MODSMD_ARTICLE07: Reue Wirtschaftsabkommen Italiens.
+Found
+MODSMD_ARTICLE08: Eine Ansprache Daladiers.
+Found
+MODSMD_ARTICLE09: Wird die Regierung Franco von Frankreich anerkannt?
+Found
+MODSMD_ARTICLE10: Die französischen Militärflugzeug-Lieferungen.
+Found
+MODSMD_ARTICLE11: Neuer Aufruf Francos an die Madrider.
+Found
+MODSMD_ARTICLE12: Zur Uebersiedlung der roten „Regierung" nach Valencia.
+Found
+MODSMD_ARTICLE13: Madrids Innenstadt unter Feuer.
+Found
+MODSMD_ARTICLE14: Bolschewistische Geständnisse in Barcelona.
+Found
+MODSMD_ARTICLE15: Kundgebung der Natioualchristlicheu Partei in Bukarests
+Found
+MODSMD_ARTICLE16: Die Gründe des Staatsstreichs in Irak.
+Found
+MODSMD_ARTICLE17: Rlwdfunkansprache des argentinischen Präsidenten.
+Found

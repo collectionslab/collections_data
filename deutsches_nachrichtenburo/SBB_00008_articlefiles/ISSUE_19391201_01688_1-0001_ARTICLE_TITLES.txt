@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Londoner Rundfunk muß Tampferversenkungen zugeben.
+Found
+MODSMD_ARTICLE02: Englands Handel soll lahmgelegt werden.
+Found
+MODSMD_ARTICLE03: Dr. Ehrich Landesgruppcnleiter in Italien.
+Found
+MODSMD_ARTICLE04: Aufstand in der Südafrikanischen Union?
+Found
+MODSMD_ARTICLE05: „Aufrichtige Zuneigung für die Sache der Falange."
+Found
+MODSMD_ARTICLE06: – Beisetzung des Begründers der Anlange im Escorial.
+Not Found
+MODSMD_ARTICLE08: Neue finnische Regierung.
+Found
+MODSMD_ARTICLE09: Angstschrei der Londoner Krämer.
+Found
+MODSMD_ARTICLE10: London: Die Wirtschaftslage zwingt zur Betriebseinstellung.
+Found
+MODSMD_ARTICLE11: Englischer Dampfer „Theas Crest" gesunken.
+Found
+MODSMD_ARTICLE12: Der Blockadekricg ein Schnitt ins eigene Fleisch.
+Found
+MODSMD_ARTICLE13: England macht 3W jugoslawische Arbeiter brotlos.
+Found
+MODSMD_ARTICLE14: Piratenkreuzer kapert jugoslawisches Schiff.
+Found
+MODSMD_ARTICLE15: Wie der englische Krieg in Frankreich wirkt.
+Found
+MODSMD_ARTICLE16: Die Anklagen gegen die Defaitisten schwellen an.
+Found
+MODSMD_ARTICLE17: Das Joch des rechtswidrigen britischen Seekrieges.
+Found
+MODSMD_ARTICLE18: Bombenexplosionen in Southampton.
+Found
+MODSMD_ARTICLE19: Japanischer Protest gegen Frankreich.
+Found

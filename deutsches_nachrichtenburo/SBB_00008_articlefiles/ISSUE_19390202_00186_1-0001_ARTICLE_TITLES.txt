@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Reichstagung der Auslandsdeutschen in Graz.
+Found
+MODSMD_ARTICLE02: Tie deutsche Pferdezucht ebenbürtig der des Auslandes.
+Found
+MODSMD_ARTICLE03: „Ein neuer Akt indirekter Einmischung."
+Found
+MODSMD_ARTICLE04: Rotspaniens Luftwaffe vollständig sowjetrussisch.
+Found
+MODSMD_ARTICLE05: 55 Sowjetflugzeuge vernichtet.
+Found
+MODSMD_ARTICLE06: Geheimtaguug des rotspanischeu Rumpfparlaments.
+Found
+MODSMD_ARTICLE07: Anerkennung Nationalspaniens durch Frankreich?
+Found
+MODSMD_ARTICLE08: Roosevelt gab das Stichwort zu neuer Hetzkampagne.
+Found
+MODSMD_ARTICLE09: „Sind wir auf dem Wege Zum Krieg?"
+Found
+MODSMD_ARTICLE10: Die Japaner besetzten Waichow.
+Found

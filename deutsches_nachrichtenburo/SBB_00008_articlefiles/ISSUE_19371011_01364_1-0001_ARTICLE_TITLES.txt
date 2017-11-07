@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Herzog von Windsor in Berlin.
+Found
+MODSMD_ARTICLE02: Dr. Ley spricht in Danzig.
+Found
+MODSMD_ARTICLE03: Danzig ist deutsch und bleibt deutsch!
+Found
+MODSMD_ARTICLE04: Beisetzung des ermordeten Blocklciters Riedle.
+Found
+MODSMD_ARTICLE05: Antwort an die Weltkirchenkonferenz in Oxford.
+Found
+MODSMD_ARTICLE06: General von Epp in Schweden.
+Found
+MODSMD_ARTICLE07: Der Besuch des Münchener Oberbürgermeisters in Mailand.
+Found
+MODSMD_ARTICLE08: Die deutschen Arbeiter in Rom.
+Found
+MODSMD_ARTICLE09: Irische Stimme für die deutsche Kolonialforderung.
+Found
+MODSMD_ARTICLE10: Ein Engländer über die Reichsautobahnen.
+Found
+MODSMD_ARTICLE11: Sir Oswald Mosleh schwer verletzt.
+Found
+MODSMD_ARTICLE12: Verschärfte polnisch-tschechische Spannungen.
+Found
+MODSMD_ARTICLE13: 119 Erschießungen in einer Woche.
+Found
+MODSMD_ARTICLE14: Der nationale Heeresbericht vom Sonnabend.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Das Befinden Ludendorffs.
+Found
+MODSMD_ARTICLE02: Mussolini empfing japanische Fliegermission.
+Found
+MODSMD_ARTICLE03: Italien zum Besuch Stojadinowitschs.
+Found
+MODSMD_ARTICLE04: Die Kameradschaft der Frontkämpfer.
+Found
+MODSMD_ARTICLE05: Frankreichs ungeheure Aufrüstung.
+Found
+MODSMD_ARTICLE06: Immer neue „Waffenfunde".
+Found
+MODSMD_ARTICLE07: Aktive Einmischung zugunsten Sowjetspaniens?
+Found
+MODSMD_ARTICLE08: In sieben Monaten über 100 000 Morde in Madrid.
+Found
+MODSMD_ARTICLE09: Unter Brüdern in Valencia.
+Found
+MODSMD_ARTICLE10: Bolschewistenschiffe können nicht auslaufen.
+Found
+MODSMD_ARTICLE11: Franco legt Sümpfe trocken.
+Found
+MODSMD_ARTICLE12: Glückwunschtelegramm Hirotas an Franco.
+Found
+MODSMD_ARTICLE13: Der portugiesische Staatsfeiertag.
+Found
+MODSMD_ARTICLE14: Ein abgelehntes Rücktrittsgesuch.
+Found
+MODSMD_ARTICLE15: Protest gegen den verjudeten Warschauer Advokatenrat.
+Found
+MODSMD_ARTICLE16: Der Kommunismus und das Judentum.
+Found
+MODSMD_ARTICLE17: Giftmordversuch an Marschall Blücher.
+Found
+MODSMD_ARTICLE18: Der Volkskommissarenrat der RSFSR. „gesäubert".
+Found
+MODSMD_ARTICLE19: K,5 Millionen Arbeitslose in USA.
+Found
+MODSMD_ARTICLE20: Amerikanische Kommunisten für Rotspanien.
+Found

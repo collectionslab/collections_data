@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Adolf Hitler sprach auf der Führertagung der Partei.
+Found
+MODSMD_ARTICLE02: Ter Führer zur Bedeutung internationalen Reiseverkehrs.
+Found
+MODSMD_ARTICLE03: Beileidskundgebungen der fremden Missionschefs.
+Found
+MODSMD_ARTICLE04: Deckung von Schullasten durch Länder und Gemeinden.
+Found
+MODSMD_ARTICLE05: Vier deutsche U-Boote nach Spanien ausgelaufen.
+Found
+MODSMD_ARTICLE06: Schwedische Studenten auf Besuch in Hamburg.
+Found
+MODSMD_ARTICLE07: Privataudienz von Blombergs bei Viktor Emanuel.
+Found
+MODSMD_ARTICLE08: Von Blomberg ehrt die Gefallenen Italiens.
+Found
+MODSMD_ARTICLE09: Die italienische Presse begrüßt den Reichskriegsminister.
+Found
+MODSMD_ARTICLE10: K 2 italienische Freiwillige vor Malaga gefallen.
+Found
+MODSMD_ARTICLE11: Addis Abeba bleibt die Hauptstadt Aethiopiens.
+Found
+MODSMD_ARTICLE12: Tie Bilbao-Piraten beugen vor!
+Found
+MODSMD_ARTICLE13: Wieder Bolschewistenbomben auf Mallorca. 20 Tote.
+Found
+MODSMD_ARTICLE14: Unterhausanfrage über japanische Schlachtschiffbestückung.
+Found
+MODSMD_ARTICLE15: Die Verhandlungen der britischen Reichskonferenz.
+Found

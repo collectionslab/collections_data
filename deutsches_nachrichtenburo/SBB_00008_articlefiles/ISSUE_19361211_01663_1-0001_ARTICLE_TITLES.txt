@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Ungarns Innenminister besuchte den Arbeitsdienst.
+Found
+MODSMD_ARTICLE02: Die Unterhausaussprache über das Abdankungsgesetz.
+Found
+MODSMD_ARTICLE03: Das Abdankungsgesetz im Oberhaus.
+Found
+MODSMD_ARTICLE04: Baldwin bei König Georg VI.
+Found
+MODSMD_ARTICLE05: Der Mordprozes; Frankfurter.
+Found
+MODSMD_ARTICLE06: Tie Rechtskraft der Abdankung im Britischen Weltreich.
+Found
+MODSMD_ARTICLE07: Wieder ein sowjetrussischer Munitionsdampfer gekapert.
+Found

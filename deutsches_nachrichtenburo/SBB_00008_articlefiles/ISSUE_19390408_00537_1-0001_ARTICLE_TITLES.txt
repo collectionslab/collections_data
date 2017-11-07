@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Vollstes Verständnis Deutschlands.
+Found
+MODSMD_ARTICLE02: Auslandsreise des rumänischen Außenministers.
+Found
+MODSMD_ARTICLE03: Göring nach Tripolis abgereist.
+Found
+MODSMD_ARTICLE04: Die Albanicnflüchtlinge in Bari herzlich aufgenommen.
+Found
+MODSMD_ARTICLE05: Die Panikmacher schon wieder am Werke!
+Found
+MODSMD_ARTICLE06: Italien lehnte Intrigen gegen Jugoslawien ab.
+Found
+MODSMD_ARTICLE07: Beck wieder bei Halifax.
+Found
+MODSMD_ARTICLE08: Oberst Beck von London abgereist.
+Found
+MODSMD_ARTICLE09: Diplomatische Vorsprachen im Foreign Office.
+Found
+MODSMD_ARTICLE10: Auch England wartet ab.
+Found
+MODSMD_ARTICLE11: Die Pariser Presse spintisiert weiter.
+Found
+MODSMD_ARTICLE12: . /-ij s i Der rotspanische Massenmörder Lister.
+Found
+MODSMD_ARTICLE13: Seltsame Andeutungen in Warschau.
+Found
+MODSMD_ARTICLE14: Jugoslawien treu zur italienischen Freundschaft.
+Found
+MODSMD_ARTICLE15: Umbesetzung jugoslawischer Diplomatenposten.
+Found
+MODSMD_ARTICLE16: Tumulte in Buenos Aires.
+Found

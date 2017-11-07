@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Präsident Kienböck bei Dr. Schacht.
+Found
+MODSMD_ARTICLE02: Delcroix au Botschafter von Ribbentrop. .
+Found
+MODSMD_ARTICLE03: Generaladmiral Raeder in Pillau.
+Found
+MODSMD_ARTICLE04: Die „Welle" eingedockt.
+Found
+MODSMD_ARTICLE05: „Polonia" von den polnischen Behörden beschlagnahmt.
+Found
+MODSMD_ARTICLE06: Neugliederung polnischer Wojewodschaften.
+Found
+MODSMD_ARTICLE07: „Narodni Lisch" zum Doppelspiel der Sowjets.
+Found
+MODSMD_ARTICLE08: Oberlindober in Wien.
+Found
+MODSMD_ARTICLE09: Stojadinowitsch und Antonescu in Belgrad.
+Found
+MODSMD_ARTICLE10: Metaxas berichtet über die Athener Konferenz.
+Found
+MODSMD_ARTICLE11: Um das Vetorecht des Oberhauses.
+Found
+MODSMD_ARTICLE12: Die „Caballeros" und die Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE13: Madrid leidet Hunger.
+Found
+MODSMD_ARTICLE14: „Schufte und Feiglinge!" Bolschewisten unter sich.
+Found
+MODSMD_ARTICLE15: Südafrika gegen jüdische Mimikry.
+Found
+MODSMD_ARTICLE16: Die Kennzahl der Großhandelspreise vom 17. Februar.
+Found

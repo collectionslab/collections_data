@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Nachruf Neuraths für Staatssekretär von Bülow.
+Found
+MODSMD_ARTICLE02: Trauerfeier für Staatssekretär von Bülow.
+Found
+MODSMD_ARTICLE03: Gesetz gegen erpresserischen Kindesraub.
+Found
+MODSMD_ARTICLE04: Das kommende deutsche Strafrecht.
+Found
+MODSMD_ARTICLE05: Reichssonnenwendfeier des Arbeitsdienstes in Lübeck.
+Found
+MODSMD_ARTICLE06: Die deutsche Jugend am Sonnenwendfeuer.
+Found
+MODSMD_ARTICLE07: Ein Argentinier über die Bauten des neuen Deutichtand.
+Found
+MODSMD_ARTICLE08: Einigung über den Vorsitz der Meerengen-Konferenz.
+Found
+MODSMD_ARTICLE09: Kundgebungen in Paris: „Frankreich den Franzosen!"
+Found
+MODSMD_ARTICLE10: Wiederausnahme der Arbeit in den Pariser Warenhäusern.
+Found
+MODSMD_ARTICLE11: Die Schlichtungsverhandlungen in Brüssel.
+Found
+MODSMD_ARTICLE12: Ausschreitungen in Dublin.
+Found
+MODSMD_ARTICLE13: Noch kein Abflauen des Streiks in Spanien.
+Found
+MODSMD_ARTICLE14: Unruhiges Palästina.
+Found
+MODSMD_ARTICLE15: 52 Menschen in Bulgarien vom Blitz erschlagen.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Italienische Postbeamte beim Reichspostminister.
+Found
+MODSMD_ARTICLE02: Ruft an Heißmeyer.
+Found
+MODSMD_ARTICLE03: Ministerpräsident Siebert über die Judenfrage.
+Found
+MODSMD_ARTICLE04: Regierungspräsident Krebs in Aussig.
+Found
+MODSMD_ARTICLE05: Schweden plant Großausbau seiner Flugzeugindustrie.
+Found
+MODSMD_ARTICLE06: Coulondre nach Berlin abgereist.
+Found
+MODSMD_ARTICLE07: „Ich übernehme ganz allein die Verantwortung."
+Found
+MODSMD_ARTICLE08: Ausführlicher Bericht Bonnets vor dem Ministerrat.
+Found
+MODSMD_ARTICLE09: „Unverzüglich alles auskehren!"
+Found
+MODSMD_ARTICLE10: Die CGT.-Gewerkschaft protestiert.
+Found
+MODSMD_ARTICLE11: König Karl in Brüssel.
+Found
+MODSMD_ARTICLE12: Kreuzer „Emden" nach Istanbul ausgelaufen.
+Found
+MODSMD_ARTICLE13: Ungarns Judengesetze werden verschärft.
+Found
+MODSMD_ARTICLE14: Rotspanischcr Dampfer gekapert.
+Found
+MODSMD_ARTICLE15: Nachgesecht südwestlich von Bethlehem.
+Found

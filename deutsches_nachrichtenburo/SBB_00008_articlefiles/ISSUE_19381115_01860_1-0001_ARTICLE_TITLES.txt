@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: „Das heilige Reicht jedes Staates".
+Found
+MODSMD_ARTICLE02: Unterzeichnung des französisch-syrischen Vertrages.
+Found
+MODSMD_ARTICLE03: „Das Rätsel von morgen-"
+Found
+MODSMD_ARTICLE04: 133,5 Millionen Nachtragskredite für die Kriegsmarine.
+Found
+MODSMD_ARTICLE05: Einsparungen und neue Steuern in Frankreich.
+Found
+MODSMD_ARTICLE06: Erneutes Verhör des Juden Grünspan.
+Found
+MODSMD_ARTICLE07: Die neue Regierung in Sofia.
+Found
+MODSMD_ARTICLE08: Volksfront führte Frankreich an den Rand des Abgrundes.
+Found
+MODSMD_ARTICLE09: Nur noch Hlinka-Partei in der Slowakei.
+Found
+MODSMD_ARTICLE10: Inden ans der Slowakei abgeschoben.
+Found
+MODSMD_ARTICLE11: Polens Staatspräsident wieder-in Warschan.
+Found
+MODSMD_ARTICLE12: Die Slowaken fordern 20 Milliarden Entschädigung.
+Found
+MODSMD_ARTICLE13: „Politische Neuformimg des Volkes."
+Found
+MODSMD_ARTICLE14: 89 Juden unter 81 tschechischen Textilsachverständigen.
+Found
+MODSMD_ARTICLE15: Chamberlain geht nicht nach Kanada.
+Found
+MODSMD_ARTICLE16: Soziale Fragen vor dem Unterhans.
+Found
+MODSMD_ARTICLE17: Erheblicher Geländegewinn der Nationalen am Ebro.
+Found
+MODSMD_ARTICLE18: Die Deutschen in der Türkei beglückwünschten Jsmet Jnönü
+Found
+MODSMD_ARTICLE19: Andauernd schwere Zusammenstöße in Palästina.
+Found
+MODSMD_ARTICLE20: HJ.-Führer in Schanghai.
+Found

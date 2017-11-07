@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Versicherungs-Selbstbeteiligung der Kraftfahrer.
+Found
+MODSMD_ARTICLE02: „Graf Zeppelin" in Rio de Janeiro gelandet.
+Found
+MODSMD_ARTICLE03: Deutsch-jugoslawisches Protokoll unterzeichnet.
+Found
+MODSMD_ARTICLE04: Kreuzer „Königsberg" in Helsingfors.
+Found
+MODSMD_ARTICLE05: Pirow beim englischen König.
+Found
+MODSMD_ARTICLE06: Zeugenverhör im Kattowitzer Hochverratsprozeß.
+Found
+MODSMD_ARTICLE07: Juden als Streikhetzer in Thorn und Gdiugen»
+Found
+MODSMD_ARTICLE08: Pressekammer in Oesterreich geplant.
+Found
+MODSMD_ARTICLE09: Van Zeeland erneut beauftragt.
+Found
+MODSMD_ARTICLE10: Diplomaten bei Außenminister Delbos.
+Found
+MODSMD_ARTICLE11: Außenausschuß ersucht Delbos um Berichterstattung.
+Found
+MODSMD_ARTICLE12: Unruhen in Spanisch-Guinea.
+Found
+MODSMD_ARTICLE13: Deutsche Apotheke in Addis Abeba wiedereröffnet.
+Found
+MODSMD_ARTICLE14: Englands Gesandter in Addis Abeba auf Heimreise.
+Found
+MODSMD_ARTICLE15: Kommunistenverhaftungen in Szegedin.
+Found
+MODSMD_ARTICLE16: Der spastische Außenminister geht nach Genf.
+Found
+MODSMD_ARTICLE17: Der republikanische Parteitag in Cleveland beendet.
+Found
+MODSMD_ARTICLE18: Feier des ersten Jahrestages des Chaco-Friedens.
+Found
+MODSMD_ARTICLE19: Tschiangkaischek über die Lage in China.
+Found
+MODSMD_ARTICLE20: Rückzugsbefehl an die chinesischen Südtruppen.
+Found

@@ -1,0 +1,4 @@
+MODSMD_ARTICLE01: Spendenliste Nr. 21 vom K. November 1337.
+Found
+MODSMD_ARTICLE02: Spendenliste Nr. 26 vom 15. November 1937.
+Found

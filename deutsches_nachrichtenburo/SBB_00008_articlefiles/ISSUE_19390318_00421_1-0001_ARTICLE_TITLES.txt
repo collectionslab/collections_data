@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Empfang des Führers in der Reichshauptstadt.
+Found
+MODSMD_ARTICLE02: Die italienische Gesandtschaft in Prag geschlossen.
+Found
+MODSMD_ARTICLE03: Praxisverbot für Juden in Böhmen gefordert.
+Found
+MODSMD_ARTICLE04: Hetzpsychose dominierte über Grundsätze.
+Found
+MODSMD_ARTICLE05: Predigt von einer stark belasteten Kanzel!
+Found
+MODSMD_ARTICLE06: Goethe-Medaille für Emil Jannings.
+Found
+MODSMD_ARTICLE07: Staatssekretär Landfried vertritt Brinkmann.
+Found
+MODSMD_ARTICLE08: Glückwunsch Hermann Görings zum 65jährigen Ehejubiläum
+Found
+MODSMD_ARTICLE09: Der Einsatz italienischer Arbeiter.
+Found
+MODSMD_ARTICLE10: Parlamentarier unter sich.
+Found
+MODSMD_ARTICLE11: Belgien hält sich einen Hetzer fern.
+Found
+MODSMD_ARTICLE12: Freundschaftsvertrag zwischen Spanien und Portugal.
+Found
+MODSMD_ARTICLE13: Redefreiheit in USA. mit Maschinengewehren unterdrückt.
+Found
+MODSMD_ARTICLE14: Die Folgen der Roosevelt-Politik.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Göring zum Megertod Generalleutnants Weder.
+Found
+MODSMD_ARTICLE02: Generalleutnant Weder. Ein Lebensbild.
+Found
+MODSMD_ARTICLE03: Empfang des Weltkongresses für gewerblichen Rechtsschutz durch die Reichsregierung.
+Found
+MODSMD_ARTICLE04: Abschied der italienischen Gäste von Berlin.
+Found
+MODSMD_ARTICLE05: Streichung von Kandidaten für die litauischen Wahlen.
+Found
+MODSMD_ARTICLE06: Eine Mitteilung der Litauischen Telegramm-Agentur.
+Found
+MODSMD_ARTICLE07: Erklärungen über die Reise Schuschniggs.
+Found
+MODSMD_ARTICLE08: Bölkerbundsversammlung Ende Juni?
+Found
+MODSMD_ARTICLE09: Bates zahlt Versicherungsgewinne zurück.
+Found
+MODSMD_ARTICLE10: Neue Zwischenfälle in Spanien.
+Found
+MODSMD_ARTICLE11: Der Streik in Volo beendet.
+Found
+MODSMD_ARTICLE12: Das unruhige Palästina.
+Found
+MODSMD_ARTICLE13: Amerika und die britischen Flottenpläne.
+Found

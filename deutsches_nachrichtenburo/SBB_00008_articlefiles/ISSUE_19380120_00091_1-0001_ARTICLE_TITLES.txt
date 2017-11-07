@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Fernand de Brinon bei Göring.
+Found
+MODSMD_ARTICLE02: Alfred Huggenberger bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Reichsfilmkammer-Jahrestagung 1938.
+Found
+MODSMD_ARTICLE04: Arbeitsgemeinschaft des deutschen Kunsthandwerks gegründet.
+Found
+MODSMD_ARTICLE05: Stojadinowitsch am Freitag in München.
+Found
+MODSMD_ARTICLE06: Bulgarien und der Stojadinowitsch-Besuch in Deutschland.
+Found
+MODSMD_ARTICLE07: Bulgarien erkennt das italienische Imperium äe kacto an.
+Found
+MODSMD_ARTICLE08: Verbot einer rumänischen Rechtszeitung aufgehoben.
+Found
+MODSMD_ARTICLE09: Rumänien wehrt sich gegen die Juden.
+Found
+MODSMD_ARTICLE10: Rumäniens Landwirtschafts- und Handelskammern aufgelöst.
+Found
+MODSMD_ARTICLE11: Der Achtstundentag in Jugoslawien.
+Found
+MODSMD_ARTICLE12: Tumult im belgischen Senat.
+Found
+MODSMD_ARTICLE13: „Die Händler Europas" werden eindringlich gewarnt.
+Found
+MODSMD_ARTICLE14: Neue französische Einmischung in Rotspanien.
+Found
+MODSMD_ARTICLE15: Die französische Presse verzeichnet günstiges Auslandsecho.
+Found
+MODSMD_ARTICLE16: Moskau sorgt sich um Paris. ,
+Found
+MODSMD_ARTICLE17: Führende chinesische Politiker in Moskau.
+Found
+MODSMD_ARTICLE18: Wieder 16 „Saboteure" hingerichtet.
+Found
+MODSMD_ARTICLE19: 21 Kominternagenten in Wolhynien verhastet.
+Found
+MODSMD_ARTICLE20: Sowjetrußland provozierte einen neuen Grenzzwischenfall.
+Found
+MODSMD_ARTICLE21: Kairo feiert die Königshochzeit.
+Found
+MODSMD_ARTICLE22: Die Flottenbaupläne Amerikas, Englands und Moskaus.
+Found
+MODSMD_ARTICLE23: Das Brandunglück in St. Hyanzinthe.
+Found

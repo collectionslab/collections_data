@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: London an der Frankfurter KolomalansstelluM! interessiert.
+Found
+MODSMD_ARTICLE02: „Deutschland und Italien haben Recht!"
+Found
+MODSMD_ARTICLE03: Baldwin svll den Earl-Titel erhalten.
+Found
+MODSMD_ARTICLE04: Oliver Baldwin kandidiert für die Labourpartei.
+Found
+MODSMD_ARTICLE05: Sir John Henry Luscomüe f.
+Found
+MODSMD_ARTICLE06: Studienreise englischer Offiziere in Frankreich.
+Found
+MODSMD_ARTICLE07: Verschärfte Streiklage in den Beardmore-Rnstungswerken.
+Found
+MODSMD_ARTICLE08: „Weltfrieden durch Wirtschaftspakte".
+Found
+MODSMD_ARTICLE09: Der nationale Heeresbericht vom Sonntag.
+Found
+MODSMD_ARTICLE10: Oberst de la Rocque kündigt eine Versammlungswelle an.
+Found
+MODSMD_ARTICLE11: Paris ist über die Kleine Entente bitter enttäuWta^H
+Found
+MODSMD_ARTICLE12: „Frankreich hat die Schlacht auf dem Nordatlantik verloren".
+Found
+MODSMD_ARTICLE13: Dormoy bittet die Arbeiterschaft um Geduld und Disziplin.
+Found
+MODSMD_ARTICLE14: 22 Amerikaner in Südfrankreich festgehalten.
+Found
+MODSMD_ARTICLE15: Gewerkschaften, Inden und Kommunisten Hand in Hand.
+Found

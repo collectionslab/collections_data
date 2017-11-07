@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der deutsche Getreidebedarf völlig gedeckt!
+Found
+MODSMD_ARTICLE02: Sehr gute Hackfruchternte zu erwarten.
+Found
+MODSMD_ARTICLE03: Fraueneinsatz in der Kriegswirtschaft.
+Found
+MODSMD_ARTICLE04: Strenge Ueberwachung des Verkehrs mit Pferden.
+Found
+MODSMD_ARTICLE05: Jeder blamiert sich, so gut ee kann.
+Found
+MODSMD_ARTICLE06: Die „Basler Nachrichten" über die Niederlage Polens.
+Found
+MODSMD_ARTICLE07: „Der stärkere Siegeswille brachte die Entscheidung."
+Found
+MODSMD_ARTICLE08: Schwedische Zeitung über die neue Machtlage.
+Found
+MODSMD_ARTICLE09: Britischer Frachtdampfer nach Warnung torpediert.
+Found
+MODSMD_ARTICLE10: Maßnahme zum Schutz der belgischen Neutralität.
+Found
+MODSMD_ARTICLE11: Umfangreiche Flugzeugbauaufträge für die Ver. Staaten.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Generalfeldmarschall Göring in Schwechat.
+Found
+MODSMD_ARTICLE02: Besichtigungsreise Dr. Fricks nach Oesterreich.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Reichsminister Dr. Frank ehrt Theodor von der Pfordten.
+Found
+MODSMD_ARTICLE05: Einweihung der Heeresunteroffizierschule Potsdam.
+Found
+MODSMD_ARTICLE07: Hunderste Fahrt des KdF.-Schiffes „Der Deutsche".
+Found
+MODSMD_ARTICLE08: Stabschef Lutze beim Fliegergeschwader „Horst Wessel".
+Found
+MODSMD_ARTICLE09: Symbolischer Akt auf dem Schlachtfeld von Tannenberg.
+Found
+MODSMD_ARTICLE10: Oesterreichs Geistlichkeit dankt den Bischöfen.
+Found
+MODSMD_ARTICLE11: Danktelegramm des Königs von England an den Führer.
+Found
+MODSMD_ARTICLE12: Der sudetendeutsche Wahlkampf eröffnet.
+Found
+MODSMD_ARTICLE13: Spaaks Bemühungen um die Regierungsbildung.
+Found
+MODSMD_ARTICLE14: Reorganisation der Falange geplant.
+Found
+MODSMD_ARTICLE15: General Cabanellas f.
+Found
+MODSMD_ARTICLE16: Jugoslawische Bestürzung über die Frankeuabwertung.
+Found
+MODSMD_ARTICLE17: Die üblichen Entschließungen der alten Tante in Genf.
+Found
+MODSMD_ARTICLE18: Präsident Vargas über den Aufstandsversuch.
+Found
+MODSMD_ARTICLE19: Die Lunghai-Bahn unterbrochen.
+Found
+MODSMD_ARTICLE20: Tramm zu einem Jahr Gefängnis verurteilt.
+Found

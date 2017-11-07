@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Duce bei Göring in Karinhall.
+Found
+MODSMD_ARTICLE02: Mussolini wieder im Haus des Reichspräsidenten
+Found
+MODSMD_ARTICLE03: Italienische Gaste bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: Im Zeichen herzlicher Kameradschaft.
+Found
+MODSMD_ARTICLE05: „Giornale d'Jtalia" zu den Trinksprüchen.
+Found
+MODSMD_ARTICLE06: Spanien zum Staatsbesuch des Duee.
+Found
+MODSMD_ARTICLE07: Moscardo Oberbefehlshaber an der Aragon-Front.
+Found
+MODSMD_ARTICLE08: Eine vielsagende bolschewistische Anordnung.
+Found
+MODSMD_ARTICLE09: Grausame Foltermethoden der Tscheka in Madrid.
+Found
+MODSMD_ARTICLE10: Del Vayo versichert China der Solidarität Valencias.
+Found
+MODSMD_ARTICLE11: Der Protest des britischen Botschafters in Tokio.
+Found
+MODSMD_ARTICLE12: Cholera in Taku eingeschleppt.
+Found
+MODSMD_ARTICLE13: Die Bersolgnngspsychose in Sowjet-Armenien.
+Found
+MODSMD_ARTICLE14: Schwere Explosion in Basel.
+Found

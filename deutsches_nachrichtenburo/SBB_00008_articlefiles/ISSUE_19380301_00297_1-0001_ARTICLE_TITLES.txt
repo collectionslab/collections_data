@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Chefarzt des Paulun-Krankenhauses überfallen.
+Found
+MODSMD_ARTICLE02: Die Mittelmeerfahrt des Kreuzers „Emden".
+Found
+MODSMD_ARTICLE03: Staatssekretär Dr. Schlegelberger sprach in Kopenhagen.
+Found
+MODSMD_ARTICLE04: Hlinka gegen Eintritt der Slowaken in die Regierung.
+Found
+MODSMD_ARTICLE05: Die Minderheitenführer für Autonomie der Slowakei.
+Found
+MODSMD_ARTICLE06: Mitglieder einer verbotenen Partei in Ungarn verhaftet.
+Found
+MODSMD_ARTICLE07: Das „Statut der Arbeit" immer noch auf Wanderschaft. –
+Not Found
+MODSMD_ARTICLE08: Die Beschlüsse des Balkanbundes auch in Paris beachtet.
+Found
+MODSMD_ARTICLE09: Französischer Abgeordneter rügt Innenpolitik Frankreichs.
+Found
+MODSMD_ARTICLE10: Französische MarMen-,,Spende" für Rot-Spanien.
+Not Found
+MODSMD_ARTICLE11: Sabotage an neuen britischen Bombenflugzeugen!
+Found
+MODSMD_ARTICLE12: Lord Perth verhandelt noch die ganze Woche.
+Found
+MODSMD_ARTICLE13: Grandi nach Rom abgereist.
+Found
+MODSMD_ARTICLE14: Chamberlain fordert die Presse zur Zurückhaltung auf.
+Found
+MODSMD_ARTICLE15: Lord Arnold aus der Labour Party ausgetreten.
+Found
+MODSMD_ARTICLE16: Mussolini empfing faschistischen Ausschuß.
+Found
+MODSMD_ARTICLE17: Neuer Vizegouverneur der Belgischen, Nationalbank.
+Found
+MODSMD_ARTICLE18: ExPräsident Hoover besucht Ggnf.
+Found
+MODSMD_ARTICLE19: Begegnung Kjosseiwanoffs mit Stojadinowitsch.
+Found
+MODSMD_ARTICLE20: Die Konsulate in Sowjetrußland schwinden dahin.
+Found

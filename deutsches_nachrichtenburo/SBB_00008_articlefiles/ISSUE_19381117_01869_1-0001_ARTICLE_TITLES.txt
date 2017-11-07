@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Das deutsche Volk nimmt Abschied von Ernst vom Rath.
+Found
+MODSMD_ARTICLE02: „Vom Rath-Straße" in Stuttgart.
+Found
+MODSMD_ARTICLE03: Bürckel über Wirtschafts- und Sozialpolitik.
+Found
+MODSMD_ARTICLE04: Ter gesamte Ebro Bogen wieder in nationaler Hand.
+Found
+MODSMD_ARTICLE05: Ein belgischer Handelsagent geht nach Burgos.
+Found
+MODSMD_ARTICLE06: Der nationalspanische Kaperkrieg in der Nordsee legal.
+Found
+MODSMD_ARTICLE07: Istanbul nimmt Abschied von Atatürk.
+Found
+MODSMD_ARTICLE08: Wo blieb Volkskommissar Eiche?
+Found
+MODSMD_ARTICLE09: Die Araber Palästinas bestehen auf ihrem Recht.
+Found
+MODSMD_ARTICLE10: Wieder drei arabische Freiheitskämpfer gefallen.
+Found

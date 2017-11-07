@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Beileid des Führers.
+Found
+MODSMD_ARTICLE02: Die Delegierten der FAJ. Gäste Görings.
+Found
+MODSMD_ARTICLE03: Vertreter des Bundes der Polen bei Dr. Frick.
+Found
+MODSMD_ARTICLE04: Führungswechsel in der Landesbauernschast Mecklenburg.
+Found
+MODSMD_ARTICLE05: Drei Jahre Regierung Stojadinowitsch.
+Found
+MODSMD_ARTICLE06: Stojadinowitsch wieder in Belgrad.
+Found
+MODSMD_ARTICLE07: Staatssekretär Kleinmann in Belgrad.
+Found
+MODSMD_ARTICLE08: Begeisterte Aufnahme des Olympiafilms in Belgrad.
+Found
+MODSMD_ARTICLE09: Die belgische Presse zum Olympia-Film.
+Found
+MODSMD_ARTICLE10: Prozeh gegen Kreisleiter Clausen in Hadersleben.
+Found
+MODSMD_ARTICLE11: Der Kriegskommandant des Memelgebietes abberufen.
+Found
+MODSMD_ARTICLE12: Der Sudetendeutsche Nährstand gegründet.
+Found
+MODSMD_ARTICLE13: Gefallenenehrung durch den Reichssportführer m Rom.
+Found
+MODSMD_ARTICLE14: Schweizerische Fiuanzreform im Parlament gescheitert.
+Found
+MODSMD_ARTICLE15: Die Frage der Finanzierung der Freiwilligenzurückziehnng.
+Found
+MODSMD_ARTICLE16: Deichbruchgefahr im Jaugtfetal.
+Found

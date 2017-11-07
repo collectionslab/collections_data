@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ein Aufruf von Dr. Reick.
+Found
+MODSMD_ARTICLE02: Dr. Ley an seine Mitarbeiter.
+Found
+MODSMD_ARTICLE03: Die Wehrmacht ehrte Generaloberst von Seeckt.
+Found
+MODSMD_ARTICLE04: Die Friedenspolitik Deutschlands und Ungarns.
+Found
+MODSMD_ARTICLE05: „Journal" über das Leben in Deutschland.
+Found
+MODSMD_ARTICLE06: Die Orientierung der französischen Politik.
+Found
+MODSMD_ARTICLE07: Schwere Wahlniederlage der Volksfront in Andorra.
+Found
+MODSMD_ARTICLE08: Arbeitsdienst in Griechenland gegründet.
+Found
+MODSMD_ARTICLE09: Weihnachtsansprache de Valeras. 'X,
+Found
+MODSMD_ARTICLE10: Spannungen zwischen Litauern und Polen in Kowno.
+Found
+MODSMD_ARTICLE11: Noch immer ungeklärte Lage in Rumänien.
+Found
+MODSMD_ARTICLE12: Das sowjetrussische Diplomatensterben.
+Found
+MODSMD_ARTICLE13: Stalins dritte Garnitur.
+Found
+MODSMD_ARTICLE14: Der Herzog von Aosta in Addis Abeba.
+Found
+MODSMD_ARTICLE15: Keine neuen Gefechte in Palästina.
+Found
+MODSMD_ARTICLE16: Japanische Blockade für die gesamte chinesische Küste.
+Found
+MODSMD_ARTICLE17: Die japanische Offensive auf Schantung.
+Found

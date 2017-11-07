@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dr. Goebbels auf der Großkundgebung des Gaues Berlin. (Schluß von Nr. 183.)
+Found
+MODSMD_ARTICLE02: Der Führer zur Geburt des italienischen Prinzen.
+Found
+MODSMD_ARTICLE03: Große Freude in ganz Italien.
+Found
+MODSMD_ARTICLE04: Kongreß der Internationalen Frontkämpfer-Kommission.
+Found
+MODSMD_ARTICLE05: Die sowjetrussische Lnftspionage über Nordschweden.
+Found
+MODSMD_ARTICLE06: Ueber Motril hinaus!
+Found
+MODSMD_ARTICLE07: Steigende Nervosität im spanischen Bolschewistenlager.
+Found
+MODSMD_ARTICLE08: Nationale Offensive vor Madrid.
+Found
+MODSMD_ARTICLE09: Noch keine Erörterung der portugiesischen Stellungnahme.
+Found
+MODSMD_ARTICLE10: Neuer Seemannsstreik in USA?
+Found
+MODSMD_ARTICLE11: Widerstand gegen Noosevelts Gerichtsresormvorschlag.
+Found
+MODSMD_ARTICLE12: Japans neues Kabinett kürzt den Staatshaushalt.
+Found

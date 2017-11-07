@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Skagerrak-Gedenkseier des NS-Deutschen Marinebundes.
+Found
+MODSMD_ARTICLE02: Kranzniederlegungen am Marine-Ehrenmal.
+Found
+MODSMD_ARTICLE03: Gedenkfeier am Grabe des Admirals von Hipper.
+Found
+MODSMD_ARTICLE04: Skagerrakfeier des Deutschen Marinevereins in New Jork.
+Found
+MODSMD_ARTICLE05: Starker Eindruck des Tages von Laboe in England.
+Found
+MODSMD_ARTICLE06: Die Danzig-Polnischen Verhandlungen in Warschau.
+Found
+MODSMD_ARTICLE07: Die neue französische Kammer zusammengetreten.
+Found
+MODSMD_ARTICLE08: Ostafrika-Gesetz vom italienischen Ministerrat verabschiedet.
+Found
+MODSMD_ARTICLE09: Die Kennzahl der Großhandelspreise vom 27. Mai.
+Found

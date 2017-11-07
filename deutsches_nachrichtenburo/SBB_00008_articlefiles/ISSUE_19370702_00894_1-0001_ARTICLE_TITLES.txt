@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Polizeipräsident von Rappard Regierungsdirektor in Oppeln.
+Found
+MODSMD_ARTICLE03: Präsident Kriegler zur Rundfunkausstellung.
+Found
+MODSMD_ARTICLE04: Der „Deutsche Olympia-Koffer 1937".
+Found
+MODSMD_ARTICLE06: Eingekerkerte Nationalsozialisten im Hungerstreik.
+Found
+MODSMD_ARTICLE07: Bulgarische Auslandsstudenten tagen in München.
+Found
+MODSMD_ARTICLE08: Das neue deutsch-schweizerische Verrechnungsabkommen.
+Found
+MODSMD_ARTICLE09: Abschluß des Kongresses der Straßen- und Kleinbahnen.
+Found
+MODSMD_ARTICLE10: Mackenzie King weihte den kanadischen Pavillon.
+Found
+MODSMD_ARTICLE11: Amnestiegesetz in der Kammer angenommen.
+Found
+MODSMD_ARTICLE12: Für die Freiheit Spaniens gefallen.
+Found
+MODSMD_ARTICLE13: Kirchen als kommunistische Parteilokale.
+Found
+MODSMD_ARTICLE14: Iranisch-irakische Einigung am Schatt-el-Arab.
+Found
+MODSMD_ARTICLE15: Neue Protestkundgebungen entlassener Notstandsarbeiter.
+Found
+MODSMD_ARTICLE16: Explosion in einem englischen Kohlenbergwerk.
+Found

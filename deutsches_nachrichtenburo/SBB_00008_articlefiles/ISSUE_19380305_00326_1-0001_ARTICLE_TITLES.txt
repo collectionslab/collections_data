@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ein englischer General über den Kampf Francas.
+Found
+MODSMD_ARTICLE02: Außenminister Beck nach Rom abgereist.
+Found
+MODSMD_ARTICLE03: Eine Forderung des Warschauer „ABC".
+Found
+MODSMD_ARTICLE04: Zehn Jahre Zuchthaus für Komintern-Juden.
+Found
+MODSMD_ARTICLE05: Warschau: „Sowjetrussische Wirklichkeit".
+Found
+MODSMD_ARTICLE06: Die liberalen Blätter Jugoslawiens zum Schauprozeß.
+Found
+MODSMD_ARTICLE07: „Popolo d'Jtalia": „Irrenhaus Sowjetrußland"!
+Found
+MODSMD_ARTICLE08: Hoare begrüßt Chamberlains neue Politik.
+Found
+MODSMD_ARTICLE09: Die englisch-irischen Verhandlungen gefährdet.
+Found
+MODSMD_ARTICLE10: „Daily Expreß" zur Rede Hodschas.
+Found
+MODSMD_ARTICLE11: Neue Verhaftungen in Moskau.
+Found
+MODSMD_ARTICLE12: Komintern-Hetze gegen Bulgarien.
+Found
+MODSMD_ARTICLE13: Vorläufig keine Aenderung der Palästinapolitik.
+Found
+MODSMD_ARTICLE14: Japan Herr der Provinz Schansi.
+Found

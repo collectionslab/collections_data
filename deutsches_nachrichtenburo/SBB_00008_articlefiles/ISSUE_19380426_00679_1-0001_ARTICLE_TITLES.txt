@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Rudolf Heß 44 Jahre.
+Found
+MODSMD_ARTICLE02: England kündigt Abkommen über Sichtvermerksbefreiung.
+Found
+MODSMD_ARTICLE03: Professor Rudolf Stammler f.
+Found
+MODSMD_ARTICLE04: Schüleraustausch in Schweden.
+Found
+MODSMD_ARTICLE05: Henleins neue Verständigungsbasis.
+Found
+MODSMD_ARTICLE06: Der Ausweg: ein nationaler Staat.
+Found
+MODSMD_ARTICLE07: Entgleisungen der englischen Provinzpresse.
+Found
+MODSMD_ARTICLE08: Der Nichteinmischungsausschust kann weiter arbeiten.
+Found
+MODSMD_ARTICLE09: Das englisch-irische Abkommen.
+Found
+MODSMD_ARTICLE10: Schweizer Parlament zusammengetreten.
+Found
+MODSMD_ARTICLE11: Ein Landesverteidigungsfonds in Estland.
+Found
+MODSMD_ARTICLE12: Eisenbahnlinie Kowno—Wilna in Litauen zerstört.
+Not Found
+MODSMD_ARTICLE13: Csik tritt der Ungarischen Nationalsozialistischen Partei bei.
+Found
+MODSMD_ARTICLE14: Nationale Offensive nördlich Teruel.
+Found
+MODSMD_ARTICLE15: Neuer rotspanischer Bittgang nach Moskau.
+Found
+MODSMD_ARTICLE16: Erneute religiöse Zusammenstöße in Indien.
+Found

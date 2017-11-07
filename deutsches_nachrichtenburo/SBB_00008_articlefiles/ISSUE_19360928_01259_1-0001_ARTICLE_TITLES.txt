@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Letzter Standort der der deutschen Kriegsschiffe in Spanien.
+Found
+MODSMD_ARTICLE02: Beabsichtigte Kricgsschiffablvsung in Spanien.
+Found
+MODSMD_ARTICLE03: Arbeitstagung der Führerschaft des Landjahres.
+Found
+MODSMD_ARTICLE04: Schulungstagung der DAF. in Marienburg.
+Found
+MODSMD_ARTICLE05: Die Pariser Abendpresse zur Abwertung.
+Found
+MODSMD_ARTICLE06: Das Ausland zum Pariser Währungsabkommen.
+Found
+MODSMD_ARTICLE07: Keine Aenderung der belgischen Währungspolitik.
+Found
+MODSMD_ARTICLE08: Tschechoslowakei und Pariser Währungsabkommen.
+Found
+MODSMD_ARTICLE09: Ansturm auf Sachwerte erste Folge der Frankenabwertung.
+Found
+MODSMD_ARTICLE10: Die Begründung der französischen Wiihrungsvorlagc.
+Found
+MODSMD_ARTICLE11: Toledo von den Nationalisten eingenommen.
+Found
+MODSMD_ARTICLE12: Die Madrider Regierung „säubert" das Beamtentum.
+Found
+MODSMD_ARTICLE13: Falsches Gerücht um den früheren König Alfons.
+Found
+MODSMD_ARTICLE14: Schnp für die Chinesen in Japan.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Japans Jugendführer als Gast Baldur von Schirachs.
+Found
+MODSMD_ARTICLE02: Reichsbahn zeichnet Berufswettkampfteilnehmer aus.
+Found
+MODSMD_ARTICLE03: Die Jahrestagung des DAJ.
+Found
+MODSMD_ARTICLE05: Zwei Engländer lernen die Tschechen kennen.
+Found
+MODSMD_ARTICLE06: Sturmkorps in Oesterreich.
+Found
+MODSMD_ARTICLE07: Blutige Kämpfe in Valencia und Barcelona.
+Found
+MODSMD_ARTICLE08: Neue „Lieferfirma" für bolschewistische Kriegsflugzeuge.
+Found
+MODSMD_ARTICLE09: Deutsche Ausführungen auf Pariser Kongreß.
+Found
+MODSMD_ARTICLE10: Völkerbundssekretär besucht Finnland und Baltikum.
+Found
+MODSMD_ARTICLE11: „Times" fordert Erschließung unausgenutzter Erzlager.
+Found
+MODSMD_ARTICLE12: Englands großer Reeder Lord Runciman gestorben.
+Found
+MODSMD_ARTICLE13: USA-Schuld 3K,8 Milliarden Dollar.
+Found
+MODSMD_ARTICLE14: Najnking beschließt militärisches Vorgehen.
+Found
+MODSMD_ARTICLE15: Kriegsbereitschaft der japanischen Schanghai-Truppen.
+Found
+MODSMD_ARTICLE16: Die Flußschiffahrt auf dem Jangtse eingestellt.
+Found

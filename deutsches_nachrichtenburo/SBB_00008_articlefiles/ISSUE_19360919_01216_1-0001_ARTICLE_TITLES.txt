@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Die 45V Hitlerjungen in Florenz.
+Found
+MODSMD_ARTICLE02: Die Strafanträge im Bauunglücksprozeß.
+Found
+MODSMD_ARTICLE03: Bor einer Umbildung der Regierung Blum?
+Found
+MODSMD_ARTICLE04: Der geplante Diplomatenschub in Frankreich.
+Found
+MODSMD_ARTICLE05: Besprechung Eden-Blum.
+Found
+MODSMD_ARTICLE06: König Eduard nach Schottland abgereist.
+Found
+MODSMD_ARTICLE07: Weiterer Truppentransport nach Palästina abgegangen.
+Found
+MODSMD_ARTICLE08: Polnisches Interesse an der Offenen Tür in Palästina.
+Found
+MODSMD_ARTICLE09: Untcrausschußsitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE10: Streik in Singapur.
+Found
+MODSMD_ARTICLE11: Kein polnischer Vorschlag zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE12: Der schwedische Außenminister nach Genf abgereist.
+Found
+MODSMD_ARTICLE13: Schwedisches Provinzblatt warnt vor dem Kommunismus.
+Found
+MODSMD_ARTICLE14: Die römische Presse zur Rede Blums.
+Found
+MODSMD_ARTICLE15: Mussolini weiht einen neuen italienischen Flughafen.
+Found
+MODSMD_ARTICLE16: Großer Waffenschmuggel aus Frankreich nach Spanien?
+Found
+MODSMD_ARTICLE17: Das rote Schlachtschiff „Jaime I" zur Unterwerfung bereit?
+Found
+MODSMD_ARTICLE18: Lebensmittelknappheit in Santander.
+Found
+MODSMD_ARTICLE19: Burgos meldet große Aufregung in Madrid.
+Found
+MODSMD_ARTICLE20: Marxistischer Druck auf Portugal in Genf?
+Found
+MODSMD_ARTICLE21: Der Herzog von Canalejas in Madrid verhaftet.
+Found

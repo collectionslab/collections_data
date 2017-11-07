@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: 'Der Führer gratuliert Mussolini.
+Found
+MODSMD_ARTICLE02: Die Regensburger Domspatzen beim Führer.
+Found
+MODSMD_ARTICLE03: Ehrennadel des Aero-Clubs für Oberst Lindbergh.
+Found
+MODSMD_ARTICLE04: Amerikaner-Empfang in der Carl Schurz-Vereinigung.
+Found
+MODSMD_ARTICLE05: Landesgrupenleiter Spanien der NSDAP in Berlin.
+Found
+MODSMD_ARTICLE06: Stuttgart hilft den geschädigten Spanien-Deutschen.
+Found
+MODSMD_ARTICLE07: 25 Deutsche aus Spanien in Paris eingetroffen.
+Found
+MODSMD_ARTICLE08: Deutscher Flüchtlingstransport aus Bilbao.
+Found
+MODSMD_ARTICLE10: Das Schicksal der Deutschen in Malaga.
+Found
+MODSMD_ARTICLE11: Notquartier der diplomatischen Vertretungen in Jrun.
+Found
+MODSMD_ARTICLE12: Ruhe in Madrid.
+Found
+MODSMD_ARTICLE13: Saragossa die Schlüsselstellung.
+Found
+MODSMD_ARTICLE14: General Queipo de Llano droht Paris.
+Found
+MODSMD_ARTICLE15: Gil Nobles in Lissabon.
+Found
+MODSMD_ARTICLE16: Spanisches Flugzeug mit Goldsendung in Le Bourget.
+Found
+MODSMD_ARTICLE17: Rückkehr des Gouverneurs von Gibraltar.
+Found
+MODSMD_ARTICLE18: Außenminister Eden beim König.
+Found
+MODSMD_ARTICLE19: Französische Zufriedenheit über die Eden-Rede.
+Found
+MODSMD_ARTICLE20: Italien wartet aus den Wortlaut der Eden-Rede.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Landesbauernschaft Hannover-Braunschweig.
+Found
+MODSMD_ARTICLE02: Warschauer Staatskommissar verbietet Hetze gegen Tan.',ig.
+Found
+MODSMD_ARTICLE03: Telbos von Krakau nach Bukarest weitergereist.
+Found
+MODSMD_ARTICLE04: Die römische Presse Zur ersten Etappe der Delbos-Reise.
+Found
+MODSMD_ARTICLE05: Stojadinowitsch im Forum Mussolini.
+Found
+MODSMD_ARTICLE06: Telegrammwechsel zwischen Kangteh und Viktor Emanuel.
+Found
+MODSMD_ARTICLE07: Das Hindernis einer Verständigung Warschau-Prag.
+Found
+MODSMD_ARTICLE08: Pariser Befremden über die polnische Kolonialforderung.
+Found
+MODSMD_ARTICLE09: Van Zeeland arbeitet noch an seinem Bericht.
+Found
+MODSMD_ARTICLE10: Die Londoner Presse über die japanischen Erfolge.
+Found
+MODSMD_ARTICLE11: Eine weibliche Staatsjugend in Portugal.
+Found
+MODSMD_ARTICLE12: Rompakt-Konferenz in Budapest. ' k
+Found
+MODSMD_ARTICLE13: Denkschrift der polnischen Volksgruppe an Hodscha.
+Found
+MODSMD_ARTICLE14: Die nationale Luftwaffe greift an der katalanischen Küste an.
+Found
+MODSMD_ARTICLE15: Paris zur Kündigung des syrischen Freundschaftsvertrages.
+Found
+MODSMD_ARTICLE16: Sowjetrussische „Wahlvorbereitungen".
+Found
+MODSMD_ARTICLE17: Der Endkampf um Nanking.
+Found

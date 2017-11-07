@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Generalmajor Christiansen an den Führer.
+Found
+MODSMD_ARTICLE02: Das Bekenntnis zur Gemeinschaftsschule.
+Found
+MODSMD_ARTICLE03: Graf Cicmo dankt der Reichsgruppe Industrie.
+Found
+MODSMD_ARTICLE04: Graf Ciano nach Tirana abgeflogen.
+Found
+MODSMD_ARTICLE05: Ministerpräsident Göring von Rom abgereist.
+Found
+MODSMD_ARTICLE06: Jüdische Schmugglerbande hinter Schloß und Riegel.
+Found
+MODSMD_ARTICLE07: Vorlesungen an zwei Warschauer Hochschulen eingestellt.
+Found
+MODSMD_ARTICLE08: Hetzagentur in Warschau verboten.
+Found
+MODSMD_ARTICLE09: „Gazeta Polska" über die Ergebnisse der Beck-Reise.
+Found
+MODSMD_ARTICLE10: Ueberraschendes Urteil im Ulitz-Prozeß.
+Found
+MODSMD_ARTICLE11: Im Zeichen des deutsch-tschechoslowakischen „Ausgleiches".
+Found
+MODSMD_ARTICLE12: Ernste Lage in Bilbao.
+Found
+MODSMD_ARTICLE14: Kommunisten kontrollieren das New Jorker Fürsorgewesen.
+Found
+MODSMD_ARTICLE15: Einigung über das amerikanische Neutralitätsgesetz.
+Found
+MODSMD_ARTICLE16: Hilfsaktion für amerikanische Überschwemmungsgebiete.
+Found
+MODSMD_ARTICLE17: Neuer japanischer Gesandter in Bsern.
+Found
+MODSMD_ARTICLE18: Regelmäßiger Luftpostverkehr Amerika—China.
+Not Found

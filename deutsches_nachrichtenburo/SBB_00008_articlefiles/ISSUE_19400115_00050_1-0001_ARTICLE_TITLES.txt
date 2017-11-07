@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Dr. Frick auf dem Lippetreffeu in Lemgo.
+Found
+MODSMD_ARTICLE03: Explosion in einer englischen Marine-Werft.
+Found
+MODSMD_ARTICLE04: Der Londoner Korruptionsausschuß.
+Found
+MODSMD_ARTICLE05: „Daily Telegraph" bereitet auf weitere Rationierung vor.
+Found
+MODSMD_ARTICLE06: Der englische Steuerzahler blutet.
+Found
+MODSMD_ARTICLE07: Der Tod an Englands Küsten.
+Found
+MODSMD_ARTICLE08: Auf der Flucht vor deutschem U-Boot gestrandet.
+Found
+MODSMD_ARTICLE09: Die türkisch-bulgarischen Beziehungen.
+Found
+MODSMD_ARTICLE10: Der schwedische Dampfer „Svartön" sank in 54 Minute.
+Found
+MODSMD_ARTICLE11: Verlängerung des Fischereiabkommens mit Rußland.
+Found

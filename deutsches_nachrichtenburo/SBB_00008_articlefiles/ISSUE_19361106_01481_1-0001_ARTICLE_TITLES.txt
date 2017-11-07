@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Das offizielle Programm für den 8. und 9. November.
+Found
+MODSMD_ARTICLE02: Dr. von Renteln Präsident des Genossenschaftsverbandes.
+Found
+MODSMD_ARTICLE03: Journalisten über die deutschen Betriebsverhältnisse.
+Found
+MODSMD_ARTICLE04: Verbesserung der Erwerbslosen-Fürsorge im Saarland.
+Found
+MODSMD_ARTICLE05: Frontkämpfer ehren den Unbekannten Soldaten in Rom.
+Found
+MODSMD_ARTICLE06: Die „Stampa" mißtraut der englischen MittelmeerpHitik.
+Found
+MODSMD_ARTICLE07: Appell an die Burgos-Regierung.
+Found
+MODSMD_ARTICLE08: London dementiert Vermittlungsschritt in Madrid.
+Found
+MODSMD_ARTICLE09: Die Humanisierung des U-Boot-Krieges.
+Found
+MODSMD_ARTICLE10: Bildung einer Lustinfantcrie in Frankreich.
+Found
+MODSMD_ARTICLE11: Der Vormarsch der nationalen Südarmee.
+Found
+MODSMD_ARTICLE12: Finanzabkommen zwischen England, Aegypten und Sudan.
+Found
+MODSMD_ARTICLE13: Erstes großes Werkpausen-KonZert.
+Found

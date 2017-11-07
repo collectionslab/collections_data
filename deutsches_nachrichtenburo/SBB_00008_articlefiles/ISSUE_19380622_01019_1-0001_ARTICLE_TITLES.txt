@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Zum ägyptischen Gesandten in Berlin ernannt.
+Found
+MODSMD_ARTICLE02: Die Jubelfahrt der Alten Garde durch die Westmark.
+Found
+MODSMD_ARTICLE03: Sitzung des Rates der Nordischen Gesellschaft.
+Found
+MODSMD_ARTICLE04: Reichsminister Dr. Lammers in Innsbruck.
+Found
+MODSMD_ARTICLE05: Immer wieder tschechische Gewaltakte gegen Sudetendeutsche.
+Found
+MODSMD_ARTICLE06: Neues realistisches Völkerrecht gefordert.
+Found
+MODSMD_ARTICLE07: Empfang bei Justizminister Solmi.
+Found
+MODSMD_ARTICLE08: Chamberlain empfing den deutschen Botschafter.
+Found
+MODSMD_ARTICLE09: Jnskip über die Aufgabe Großbritanniens.
+Found
+MODSMD_ARTICLE10: England vor Neuwahlen?
+Found
+MODSMD_ARTICLE11: Giftmord auf Anweisung Stalins?
+Found
+MODSMD_ARTICLE12: Oberst Slawek zum Sejmmarschall gewählt.
+Found
+MODSMD_ARTICLE13: Die Lage im Sandschak.
+Found
+MODSMD_ARTICLE14: Alauiten-Miliz im Hungerstreik.
+Found
+MODSMD_ARTICLE15: Palästina ehrt die gefalleneu arabischen Freischärler.
+Found
+MODSMD_ARTICLE16: Umgruppierung auf dem chinesischen Kriegsschauplatz.
+Found
+MODSMD_ARTICLE17: Roosevelt erwartet Besserung der Geschäftslage.
+Found

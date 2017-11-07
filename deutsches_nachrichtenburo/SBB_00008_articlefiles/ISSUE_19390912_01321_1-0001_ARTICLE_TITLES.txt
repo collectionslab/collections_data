@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Eine hinreißende Kundgebung unüberwindlicher Einigkeit.
+Found
+MODSMD_ARTICLE02: Warschau soll ein Trümmerhaufen werden!
+Found
+MODSMD_ARTICLE03: Neue bestalische Grausamkeiten gegen Deutsche.
+Found
+MODSMD_ARTICLE04: Tie polnische Regierung findet keine Ruhe.
+Found
+MODSMD_ARTICLE05: Englands Neutralitätsbrüche am Pranger.
+Found
+MODSMD_ARTICLE06: England vergewaltigt die Neutralen.
+Found
+MODSMD_ARTICLE07: „Nation Belge" würdigt die deutschen Erfolge.
+Found
+MODSMD_ARTICLE08: Rückkehr der Belgier aus Frankreich.
+Found
+MODSMD_ARTICLE09: Es geht nichts über gute Formen.
+Found
+MODSMD_ARTICLE10: Wachsende Unzufriedenheit in Ostgalizien und Weißrußland.
+Found
+MODSMD_ARTICLE11: Verhaftung von JRA-Mitgliedern in Dublin.
+Found
+MODSMD_ARTICLE12: Intelligente Service und polnischer Spionagedienst.
+Found
+MODSMD_ARTICLE13: Ultimatum an die Araberzeitungen in Palästina.
+Found
+MODSMD_ARTICLE14: Frauen und Kinder sollen hungern.
+Found
+MODSMD_ARTICLE15: Der Oberbefehl der japanischen Truppen in China.
+Found
+MODSMD_ARTICLE16: Der argentinische Peso vom englischen Pfund gelöst.
+Found
+MODSMD_ARTICLE17: Englands Gewaltpolitik zur See untragbar.
+Found
+MODSMD_ARTICLE18: Uruguay streng neutral.
+Found
+MODSMD_ARTICLE19: Das englische Volk gewaltsam gegen Deutschland aufgehetzt.
+Found

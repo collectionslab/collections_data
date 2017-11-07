@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Luftsperrgebiet über Nürnberg.
+Found
+MODSMD_ARTICLE02: Eine Rede Mussolinis in Potenza.
+Found
+MODSMD_ARTICLE03: Neuer tschechoslowakischer Gesandter in Wien.
+Found
+MODSMD_ARTICLE04: Metaxas und Kotzias bei König Eduard VIII.
+Found
+MODSMD_ARTICLE05: Neue Verwaltungsmaßnahmen in Griechenland.
+Found
+MODSMD_ARTICLE06: Scharfe Absuhr des „Temps" für Thorez.
+Found
+MODSMD_ARTICLE07: Die englische Presse zum englisch-ägyptischen Vertrag.
+Found
+MODSMD_ARTICLE08: Eden für humanere Kriegführung in Spanien.
+Found
+MODSMD_ARTICLE09: franco Oberbefehlshaber der nationalen Streitkräfte.
+Found
+MODSMD_ARTICLE10: Optimistische Ansprache Queipo de Llanos.
+Found
+MODSMD_ARTICLE11: Neuer Luftangriff auf die Flugplätze von Madrid.
+Found
+MODSMD_ARTICLE12: Blutiger Kampf bei Oviedo.
+Found
+MODSMD_ARTICLE13: Der Kampf um Jrun.
+Found
+MODSMD_ARTICLE14: Moskau ernennt einen Botschafter für Madrid.
+Found
+MODSMD_ARTICLE15: Kommunistische Propagandazentrale aufgelöst.
+Found

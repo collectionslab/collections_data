@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Reichsfinanzminister eröffnet Fachwissenschaftliche Zolltagung.
+Found
+MODSMD_ARTICLE02: Exzellenz Tai-Chi-Tao im Ehrenmal.
+Found
+MODSMD_ARTICLE03: Argentinischer Dank für deutsche Hilfeleistung.
+Found
+MODSMD_ARTICLE04: Tanziger Firma an Flugzeugtransport nicht beteiligt.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Gedenkstätte für Hosfmann von Fallersleben.
+Found
+MODSMD_ARTICLE07: Eigenartige Begleitumstände des Falles „Gibel Zerjon".
+Found
+MODSMD_ARTICLE08: Tie Bedeutung des englisch-ägyptischen Vertrages.
+Found
+MODSMD_ARTICLE09: Das Programm der neuen Bauerngruppe in Polen.
+Found
+MODSMD_ARTICLE10: Kundgebung der Nex-Beweguug verboten.
+Found
+MODSMD_ARTICLE11: Pariser Polizei verhindert kommunistische Straßensammlung.
+Found
+MODSMD_ARTICLE12: Der Luftangriff auf die Flugplätze von Madrid.
+Found
+MODSMD_ARTICLE13: Spanischer Waffentransport mit unbekannter Bestimmung.
+Found
+MODSMD_ARTICLE14: Vorsichtsmaßnahmen der amerikanischen Negierung.
+Found
+MODSMD_ARTICLE15: Eine Erklärung Roosevelts.
+Found
+MODSMD_ARTICLE16: Zusammenkunft der baltischen Außenminister in Lettland.
+Found
+MODSMD_ARTICLE17: Botschafter Ohta kehrt nicht nach Moskau zurück?
+Found
+MODSMD_ARTICLE18: Sowjetdampser von Japanern beschlagnahmt.
+Found
+MODSMD_ARTICLE19: Vorgehen der Kwautuug-Rrmee gegen Kommunisten.
+Found

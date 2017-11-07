@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Führer in Frankfurt.
+Found
+MODSMD_ARTICLE02: Glückwunschtelegramm des Führers.
+Found
+MODSMD_ARTICLE03: Bildwerke über den Triumph des Führers.
+Found
+MODSMD_ARTICLE04: Pcrsonalverändcrungrn im Bereich der Luftwaffe.
+Found
+MODSMD_ARTICLE05: Aufruf des Gauleiters Hofer.
+Found
+MODSMD_ARTICLE06: Der Führer Mi Mussolini.
+Found
+MODSMD_ARTICLE07: Ein soziales Unrecht wieder gutgemacht.
+Found
+MODSMD_ARTICLE08: Großer Flüchtlingsstrom aus Katalonien nach Frankreich.
+Found
+MODSMD_ARTICLE09: Kommumstische Betätigung im Kauton Gens verboten.
+Found
+MODSMD_ARTICLE10: Reichskennziffer für Lebenshaltungskosten im März.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Rudolf Hetz besucht Mussolini.
+Found
+MODSMD_ARTICLE02: Hohe Auszeichnung Himmlers.
+Found
+MODSMD_ARTICLE03: Aga Khan bei der Teutsch-Englischen Gesellschaft.
+Found
+MODSMD_ARTICLE04: Bestätigungen im Reichsnährstand.
+Found
+MODSMD_ARTICLE05: Graf Grote kommissarischer Landesobmann in Mecklenburg.
+Found
+MODSMD_ARTICLE06: Der Herzog von Windsor in Nürnberg.
+Found
+MODSMD_ARTICLE07: Die Londoner Sitzung ohne Ergebnis.
+Found
+MODSMD_ARTICLE08: Die deutschen Flieger im Flughafen Mildenhall.
+Found
+MODSMD_ARTICLE09: Panzerschiff „Deutschland" verläßt Gibraltar.
+Found
+MODSMD_ARTICLE10: „Die deutsche.Belgien-Erklärung ist unzweideutig".
+Not Found
+MODSMD_ARTICLE11: Staatssekretär Dr. Schmidt reist nach Warschau.
+Found
+MODSMD_ARTICLE12: Roosevelt mahnt zur Sparsamkeit.
+Found
+MODSMD_ARTICLE13: Das Heier und die Polizei sichern die Ordnung in Brasilien.
+Found

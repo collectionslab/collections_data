@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der lettische Außenminister besucht Berlin.
+Found
+MODSMD_ARTICLE02: Lebrun empfängt den neuen spanischen Botschafter.
+Found
+MODSMD_ARTICLE03: Blums Presse-Pläne.
+Found
+MODSMD_ARTICLE04: De la Rocque: „Ihr werdet uns nicht aufhalten".
+Found
+MODSMD_ARTICLE05: Blum fordert Vertrauen für die Volksfrontregierung.
+Found
+MODSMD_ARTICLE06: Studienausschuß für Reform des Völkerbundspaktes.
+Found
+MODSMD_ARTICLE07: Vorläufig keine Siimng des Ueberwachungsausschusses.
+Found
+MODSMD_ARTICLE08: Der Präger Finanzminister zur Kronenabwertung.
+Found
+MODSMD_ARTICLE09: Tie rumänische Regierung zur Währungslage.
+Found
+MODSMD_ARTICLE10: Konununistenfühver Jacguemotte gestorben.
+Found
+MODSMD_ARTICLE11: Grandis Anklage gegen die Sowjetregierung.
+Found
+MODSMD_ARTICLE12: Italien steht „Gewehr bei Fuß".
+Found
+MODSMD_ARTICLE13: Polnischer Schüler an tschechoslowakischer Grenze erschossen.
+Found
+MODSMD_ARTICLE15: Neue belgische Waffenschmuggel-Enthüllungen.
+Found
+MODSMD_ARTICLE16: Wünsche für die Freundschaft Sowjetrußland-Rotspanien.
+Found
+MODSMD_ARTICLE17: Katalanisches „Volksgericht" fällt Todesurteile.
+Found
+MODSMD_ARTICLE18: Moskau richtet Funkverbindung mit Madrid ein.
+Found
+MODSMD_ARTICLE19: Führerkrise in der Labour-Party?
+Found

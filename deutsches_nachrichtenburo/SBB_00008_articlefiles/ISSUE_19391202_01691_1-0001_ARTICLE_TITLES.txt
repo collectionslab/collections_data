@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Deutsche hungern in Rhodesien im Internierungslager.
+Found
+MODSMD_ARTICLE02: Finnischer Dampfer durch eine Mine gesunken.
+Found
+MODSMD_ARTICLE03: Agenten des englischen Geheimdienstes verhaftet.
+Found
+MODSMD_ARTICLE04: Daladier nur noch durch die Maginot-Linie geschützt.
+Found
+MODSMD_ARTICLE05: Schwedens Protest in London uns Paris.
+Found
+MODSMD_ARTICLE06: Die finnischen Interessen in Moskau.
+Found
+MODSMD_ARTICLE07: Norwegischer Tankdampfer auf eine Mine gelaufen.
+Found
+MODSMD_ARTICLE08: Bombenabwürfe auf militärische Ziele in Helsinki.
+Found
+MODSMD_ARTICLE09: Eigenwillige Opposition.
+Found
+MODSMD_ARTICLE10: „Merkwürdige Unterstützung der englischen Zensur."
+Found
+MODSMD_ARTICLE11: Englands Handelsflotte bereits entscheidend geschwächt.
+Found
+MODSMD_ARTICLE12: Vereinheitlichung des Lügensystems.
+Found
+MODSMD_ARTICLE13: In Frankreich: Kluft Zwischen Kabinett und Parlament.
+Found
+MODSMD_ARTICLE14: „Zu schön, um geglaubt zu werden."
+Found
+MODSMD_ARTICLE15: Deutsch-rumänischer Transit durch das neue Rußland.
+Found
+MODSMD_ARTICLE16: Immer wieder die bösen „Defaitisten".
+Found
+MODSMD_ARTICLE17: Britischer 4558 t-DamPser durch eine Mine gesunken.
+Found
+MODSMD_ARTICLE18: Scharfe Angriffe gegen Smuts.
+Found

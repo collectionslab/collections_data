@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Scharfe deutsche Verwahrung beim Vatikan.
+Found
+MODSMD_ARTICLE02: Aufruf für den Opfertag für Jugendherbergen.
+Found
+MODSMD_ARTICLE03: Tr. Frick hilft den Geschädigten von Krenzebra.
+Found
+MODSMD_ARTICLE04: Ehrenvolle Berufung des Professors Bittner-Wien.
+Found
+MODSMD_ARTICLE05: Rossaint als Mittelsmann emigrierter KPD-Funktionäre.
+Found
+MODSMD_ARTICLE06: Betriebsunfall auf den Deutschen Werken in Kiel.
+Found
+MODSMD_ARTICLE07: Generalinspektor Dr. Todt in Oslo.
+Found
+MODSMD_ARTICLE08: Ruft erhielt das Großkreuz des Phönixordens.
+Found
+MODSMD_ARTICLE09: Weitere Besichtigungen durch Dr. Ley in Rom.
+Found
+MODSMD_ARTICLE10: Die Schweiz gegen kommunistische Zersetzung.
+Found
+MODSMD_ARTICLE11: Englisches Kabinett erörtert die Entwicklung in Spanien.
+Found
+MODSMD_ARTICLE12: Die Konferenz in Montreux.
+Found
+MODSMD_ARTICLE13: Weitere Teuerung und Arbeitslosigkeit.
+Found
+MODSMD_ARTICLE14: Die Frage des Zwischenlandungsrechtes auf den Azoren.
+Found
+MODSMD_ARTICLE15: Sitzung des JHK.-Ausschusses für die Zusammenarbeit im Luft- und Eisenbahnverkehr.
+Found
+MODSMD_ARTICLE16: Sittlichkeitsverbrecher im Priesterrock.
+Found

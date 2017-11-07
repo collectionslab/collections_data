@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Verlobung der Kronprinzessin der Niederlande.
+Found
+MODSMD_ARTICLE02: König Eduard in Budapest.
+Found
+MODSMD_ARTICLE03: Lloyd George in Stuttgart.
+Found
+MODSMD_ARTICLE04: Ein Polnisches Dementi.
+Found
+MODSMD_ARTICLE05: Der Konflikt Polen—Tschechoslowakei.
+Not Found
+MODSMD_ARTICLE06: Italiens Bedingungen für Beteiligung an der Ratstagung.
+Found
+MODSMD_ARTICLE07: Peru und Irak zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE08: Thorez fordert erneut Aufhebung des Waffenausfuhrverbot.
+Found
+MODSMD_ARTICLE09: Die Michelin-Werke von Streikenden besetzt.
+Found
+MODSMD_ARTICLE10: Note Fahnen auf der Kathedrale von Nancy.
+Found
+MODSMD_ARTICLE11: Abd el Krim nicht freigelassen.
+Found
+MODSMD_ARTICLE12: Der französisch-syrische Bertrag.
+Found
+MODSMD_ARTICLE13: Englisches Einreiseverbot für französischen Marxisten.
+Found
+MODSMD_ARTICLE14: Moskau zum französisch-polnischen Abkommen.
+Found
+MODSMD_ARTICLE15: Weitere Fortschritte der Nationalisten bei San Sebastian.
+Found
+MODSMD_ARTICLE16: Fort Guadalupe geräumt.
+Found
+MODSMD_ARTICLE17: Protest des nationalistischen Verteidigungsausschusses.
+Found
+MODSMD_ARTICLE18: Ter spanische Botschafter in Brasilien zurückgetreten.
+Found
+MODSMD_ARTICLE19: Die Ratifizierung des englisch-ägyptischen Vertrages.
+Found
+MODSMD_ARTICLE20: Ein Neger gelyncht.
+Found

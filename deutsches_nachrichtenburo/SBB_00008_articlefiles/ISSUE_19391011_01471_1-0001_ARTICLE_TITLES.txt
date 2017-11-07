@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Bericht des Oberkommandos der Wehrmacht.
+Found
+MODSMD_ARTICLE02: Deutsche Operationen in der Nordsee.
+Found
+MODSMD_ARTICLE03: Jugoslawien zum Opferwillen des deutschen Volkes.
+Found
+MODSMD_ARTICLE04: „Die Führerrede entschlossen und verantwortungsbewußt".
+Found
+MODSMD_ARTICLE05: „Ausdruck der Entschlossenheit Deutschlands".
+Found
+MODSMD_ARTICLE06: „Tie deutsche Bereitwilligkeit zum Frieden."
+Found
+MODSMD_ARTICLE07: Die jugoslawische Presse zur Neuordnung in Nordosteuropa.
+Found
+MODSMD_ARTICLE08: Ermutigung der Friedensmöglichkeiten.
+Found
+MODSMD_ARTICLE09: Entscheidender Umbruch für die baltischen Staaten.
+Found
+MODSMD_ARTICLE10: „Jüdische Rache an Deutschland".
+Found
+MODSMD_ARTICLE11: Litauen erhält das Wilnagebiet.
+Found
+MODSMD_ARTICLE12: Der Sekretär des Grostmufti in Spanien.
+Found
+MODSMD_ARTICLE13: Britische Seeräuberei auch gegen Japan.
+Found
+MODSMD_ARTICLE14: Hull über die Beschlüsse von Panama.
+Found
+MODSMD_ARTICLE15: Landesverräter hingerichtet.
+Found

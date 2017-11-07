@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Gering, Dr. Goebbels und Dr. Frick Ehrenbürger.
+Found
+MODSMD_ARTICLE02: Journalistisches Gangstertum.
+Found
+MODSMD_ARTICLE03: Der neue Völkerbundskommissar in Danzig.
+Found
+MODSMD_ARTICLE04: Ausgewiesene Reichsdeutsche an der sowjetrussischen Grenze.
+Found
+MODSMD_ARTICLE05: Eine Richtigstellung.
+Found
+MODSMD_ARTICLE06: Der Kampf Polens gegen die Sowjetlehren.
+Found
+MODSMD_ARTICLE07: Vor den Londoner Stadtratswahlen.
+Found
+MODSMD_ARTICLE08: Lloyd George für die walisische Sprache.
+Found
+MODSMD_ARTICLE09: Abänderungsantrag zum Rüstungsgesetz abgelehnt.
+Found
+MODSMD_ARTICLE10: Radikalsozialisten warnen Blum vor Bolschewismus.
+Found
+MODSMD_ARTICLE11: Umgehung des Freiwilligenverbots.
+Found
+MODSMD_ARTICLE12: Francos Sieg eine Notwendigkeit.
+Found
+MODSMD_ARTICLE13: Cantalupo überreichte sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE14: Ter Leiter der Landkontrolle in Portugal.
+Found
+MODSMD_ARTICLE15: Stete Besserung im Befinden Grazianis.
+Found
+MODSMD_ARTICLE16: Das Ergebnis des Oasenflugs.
+Found

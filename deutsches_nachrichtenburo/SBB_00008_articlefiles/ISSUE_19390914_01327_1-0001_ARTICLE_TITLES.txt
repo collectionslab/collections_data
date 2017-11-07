@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Feldmarschall Göring an der Weichsel.
+Found
+MODSMD_ARTICLE02: Die Finanzierung des Krieges ist gesichert.
+Found
+MODSMD_ARTICLE03: Prag: „Die Maske abgelegt."
+Found
+MODSMD_ARTICLE04: Organisiertes Bandenunwesen in Warschau.
+Found
+MODSMD_ARTICLE05: Englische Minen machen Hollands Fischer brotlos.
+Found
+MODSMD_ARTICLE06: Londoner Lügenpannen.
+Found
+MODSMD_ARTICLE07: Der englischen Piraterie muß das Handwerk gelegt werden.
+Found
+MODSMD_ARTICLE08: Deutschland liefert Flugzeuge.
+Found
+MODSMD_ARTICLE09: Reuterlügen haben kurze Beine.
+Found
+MODSMD_ARTICLE10: Darre an alle Volksgenossen.
+Found
+MODSMD_ARTICLE11: Die Unbesiegbarkeit des Westwalls.
+Found
+MODSMD_ARTICLE12: Die Sowjetpresse zu den deutschen Erfolgen in Polen.
+Found
+MODSMD_ARTICLE13: Weitere Einberufungen in der Sowjetunion.
+Found
+MODSMD_ARTICLE14: Die Vereinigten Staaten fühlen sich angelogen.
+Found

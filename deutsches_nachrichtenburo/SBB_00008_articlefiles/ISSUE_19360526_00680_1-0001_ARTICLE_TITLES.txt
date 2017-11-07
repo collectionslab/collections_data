@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Frau Scholtz-Klink auf der Frauenschafts-Kundgebung.
+Found
+MODSMD_ARTICLE02: Ausklang des Reichsjugendführerlagers der HI.
+Found
+MODSMD_ARTICLE03: „LZ. Hindenbnrg" nach Südamerika gestartet.
+Found
+MODSMD_ARTICLE04: Gemeindewahlen im Memelgebiet. Ruhiger Wahlverlauf.
+Found
+MODSMD_ARTICLE05: Das Beispiel Adolf Hitlers für Ungarn.
+Found
+MODSMD_ARTICLE06: Der Ueberfall auf Schloß Waxenberg.
+Found
+MODSMD_ARTICLE07: England plant „Nationales Verteidigungskorps".
+Found
+MODSMD_ARTICLE08: Kein Rücktritt MacDonalds.
+Found
+MODSMD_ARTICLE09: Saalschlacht in Oxford.
+Found
+MODSMD_ARTICLE10: Aus der britischen Diplomatie.
+Found
+MODSMD_ARTICLE11: Ter Negus inkognito.
+Found
+MODSMD_ARTICLE12: Italienische Erbitterung über die Reise des Negus.
+Found
+MODSMD_ARTICLE13: Spaltung der Sozialdemokratischen Partei Spaniens.
+Found

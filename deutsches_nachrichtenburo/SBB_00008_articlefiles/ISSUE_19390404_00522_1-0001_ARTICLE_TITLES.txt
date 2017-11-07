@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Wehrmachtsbevollmächtigter beim Reichsprotektor.
+Found
+MODSMD_ARTICLE02: Zum Mitglied der bremischen Landesregierung ernannt.
+Found
+MODSMD_ARTICLE03: Neugestaltung Stettins.
+Found
+MODSMD_ARTICLE04: Minister Ramos vom Führer empfangen.
+Found
+MODSMD_ARTICLE05: Empfang des Jbero Amerikanischen Instituts.
+Found
+MODSMD_ARTICLE06: Aufhebung der Studentenhöchstziffern.
+Found
+MODSMD_ARTICLE07: Großadmiral Raeder dankt der Stadt Hamburg.
+Found
+MODSMD_ARTICLE08: General Blaskowitz in der deutschen Universität Prag.
+Found
+MODSMD_ARTICLE09: Neue politische deutsche Tageszeitung in Prag.
+Found
+MODSMD_ARTICLE10: Feier am Ehrenmal des Unbekannten Soldatem
+Found
+MODSMD_ARTICLE11: Die erste deutsche Truppenparade in Brünn.
+Found
+MODSMD_ARTICLE12: Der wahre Grund für die Einkreisungspolitik.
+Found
+MODSMD_ARTICLE13: Rom: Frankreich hat die Abkommen von 1935 gebrochen!
+Found
+MODSMD_ARTICLE14: Die Wahlmännerwahl für das Landsting.
+Found
+MODSMD_ARTICLE15: Beginn der Besprechungen Becks in London.
+Found
+MODSMD_ARTICLE16: Mitläufersuche Londons jetzt streng geheim.
+Found
+MODSMD_ARTICLE17: Das waren die Schützlinge Englands?
+Found
+MODSMD_ARTICLE18: Bombenanschlag aus die Deutsche Botschaft in Chile.
+Found
+MODSMD_ARTICLE19: Ermordung des englischen Konsuls in Mvssul.
+Found
+MODSMD_ARTICLE20: Mandschukuo baut eine eigene Flotte.
+Found

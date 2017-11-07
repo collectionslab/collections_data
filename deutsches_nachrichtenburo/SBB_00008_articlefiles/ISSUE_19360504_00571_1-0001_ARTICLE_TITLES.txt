@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Internationale Tagung des Hotelgewerbes.
+Found
+MODSMD_ARTICLE02: Dr. Ley auf der Ordensburg Vogelfang.
+Found
+MODSMD_ARTICLE03: Der Besuch der finnischen Frontkämpfer in Hamburg.
+Found
+MODSMD_ARTICLE04: Gauleiter Sauckel spricht in Stockholm.
+Found
+MODSMD_ARTICLE05: Die Wiener „Reichspost" gegen Gerüchtemacherei.
+Found
+MODSMD_ARTICLE06: Die italienische Vorhut in Addis Abeba.
+Found
+MODSMD_ARTICLE07: Keine Verluste unter den Deutschen in Addis Abeba.
+Found
+MODSMD_ARTICLE08: Abesfinien und Genf.
+Found
+MODSMD_ARTICLE09: Englischer Schutz für Amerikaner in Abessinien.
+Found
+MODSMD_ARTICLE10: Einwanderungsbewilligung für Japaner in Paraguay.
+Found

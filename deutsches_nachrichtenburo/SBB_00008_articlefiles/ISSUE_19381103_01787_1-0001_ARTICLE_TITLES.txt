@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Führer auf der neuen Neichsautobahnftrecke.
+Found
+MODSMD_ARTICLE02: Der Führer verleiht Geheimrat Kitt die Goethe-Medaille.
+Found
+MODSMD_ARTICLE03: Korpsführer Hühnlein in Reichenberg.
+Found
+MODSMD_ARTICLE04: Neichsminister Ruft beglückwünscht Prof. Krell.
+Found
+MODSMD_ARTICLE05: Graf Ciano im Wiener italienischen Generalkonsulat.
+Found
+MODSMD_ARTICLE06: Kundgebungen der Memeldeutschen auch in Pogegen.
+Found
+MODSMD_ARTICLE07: Jmredy verkündet den Wiener Schiedsspruch.
+Found
+MODSMD_ARTICLE08: Butler schloß die Unterhausaussprache.
+Found
+MODSMD_ARTICLE09: „Daily Mail" begrüßt den Wiener Schiedsspruch.
+Found
+MODSMD_ARTICLE10: Zentraler Lufthafen für London unzweckmäßig.
+Found
+MODSMD_ARTICLE11: Eine Tochter des griechischen Kronprinzenpaares.
+Found
+MODSMD_ARTICLE12: Französisch-italienische Wirtschastsbesprechung.
+Found
+MODSMD_ARTICLE13: Tie italienische Siedlerslotte im Hasen von Tripolis.
+Found
+MODSMD_ARTICLE14: Erfolgreicher Fortgang der Schlacht am Ebro.
+Found
+MODSMD_ARTICLE15: Das Unterhaus ratifiziert das englisch-italienische Abkommen
+Found
+MODSMD_ARTICLE16: Ein mexikanischer Minister gestorben.
+Found
+MODSMD_ARTICLE17: Stürmische Kundgebungen in Beirut.
+Found
+MODSMD_ARTICLE18: Arabische Frauen protestieren.
+Found
+MODSMD_ARTICLE19: Weitere Hinrichtungen und Verhaftungen in Palästina.
+Found
+MODSMD_ARTICLE20: Neue Bundesregierng für China geplant.
+Found

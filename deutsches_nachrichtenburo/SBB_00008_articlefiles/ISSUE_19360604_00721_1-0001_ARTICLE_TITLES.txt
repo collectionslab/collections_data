@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Das Beileid des Führers.
+Found
+MODSMD_ARTICLE02: Weiteres Beileid Zum Tode des Generalleutnants Weder.
+Found
+MODSMD_ARTICLE03: Der Reichsverkehrsminister an Dr. Dorpmüller.
+Found
+MODSMD_ARTICLE04: Hinrichtung eines Mörders.
+Found
+MODSMD_ARTICLE05: Ein Beschluß des Memeler Kriegskommandanten.
+Found
+MODSMD_ARTICLE06: Beginn eines Hochverratsprozesses in Kattowitz.
+Found
+MODSMD_ARTICLE07: 15 000 streiken in Antwerpen.
+Found
+MODSMD_ARTICLE08: Führertagung des Kärntener Heimatschutzes.
+Found
+MODSMD_ARTICLE09: Jüdischer Marxistenfrennd Presseadjutant Schuschniggs?
+Found
+MODSMD_ARTICLE10: Sir Miles Lampson zur Berichterstattung in London.
+Found
+MODSMD_ARTICLE11: Aegyptische Diplomaten dürfen Ausländerinnen ehelichen.
+Found
+MODSMD_ARTICLE12: Die Streiklage in Frankreich.
+Found
+MODSMD_ARTICLE13: Die Begegnung Mussolini—Schuschnigg.
+Not Found
+MODSMD_ARTICLE14: Neue italienische Truppentransporte nach Ostafrika.
+Found
+MODSMD_ARTICLE15: Rote Hetzer in Saloniki am Werk.
+Found
+MODSMD_ARTICLE16: Patriotische Spende eines Griechen.
+Found

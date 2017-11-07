@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Luftschiff „Hindenburg" über New Nork.
+Found
+MODSMD_ARTICLE02: „Hindenburg" in Lakehurst gelandet.
+Found
+MODSMD_ARTICLE03: Hohe japanische Auszeichnung für Admiral Behncke.
+Found
+MODSMD_ARTICLE04: Tie Aufnahme des englischen Fragebogens in Paris.
+Found
+MODSMD_ARTICLE05: Em SOS-Ruf Herriots für den Völkerbund.
+Found
+MODSMD_ARTICLE06: Marschall Trauchet d'Esperey in Bukarest.
+Found
+MODSMD_ARTICLE07: Reservistenausschreitungen in der Bretagne.
+Found
+MODSMD_ARTICLE08: Der tschechoslowakische Minanzminister über die Staatsschuld.
+Found
+MODSMD_ARTICLE09: „Pester Lloyd" über die Entschließung der Kleinen Entente.
+Found
+MODSMD_ARTICLE10: Buch- und Zeitungsdruckerstreik in Ostoberschlesien beendet.
+Found
+MODSMD_ARTICLE11: Weitere Parteien für Azaua.
+Found
+MODSMD_ARTICLE12: Kommunistische Unruhen in Saloniki.
+Found
+MODSMD_ARTICLE13: Englische Truppenverstärkungen für Palästina.
+Found
+MODSMD_ARTICLE14: Der Regentschaftsrat in Aegypten.
+Found
+MODSMD_ARTICLE15: Marinevorlage vom Senat angenommen.
+Found

@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Leen! tnch des Lebens! Der Nationale Feiertag des deutschen Volkes 193 K.
+Found
+MODSMD_ARTICLE02: Freudvoller Auftakt.
+Found
+MODSMD_ARTICLE03: Der Nationale Feiertag.
+Found
+MODSMD_ARTICLE04: Der Aufmarsch der Massen.
+Found
+MODSMD_ARTICLE05: Der Führer bei seiner Jugend.
+Found

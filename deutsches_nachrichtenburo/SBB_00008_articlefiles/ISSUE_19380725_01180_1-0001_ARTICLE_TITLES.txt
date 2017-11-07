@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Feier für die Königinmutter Maria in Berlin.
+Found
+MODSMD_ARTICLE02: Die Turner aus dem Egerland und Nordböhmen in Breslau.
+Found
+MODSMD_ARTICLE03: Der Reichssportführer an die Bezwinger der Eigernordwand.
+Found
+MODSMD_ARTICLE04: Generalfeldmarschall Göring in Helsingör.
+Found
+MODSMD_ARTICLE05: Hörings Besuch in Helsingör findet größte Beachtung.
+Found
+MODSMD_ARTICLE06: Mussolinis Dank an Stabschef Lutze.
+Found
+MODSMD_ARTICLE07: Am Grabe der Genfer Liga.
+Found
+MODSMD_ARTICLE08: „Standaard": Die Prager Regierung muß ihre Pflicht tun.
+Found
+MODSMD_ARTICLE09: Die polnische katholische Kirche in Moskau geschlossen.
+Found
+MODSMD_ARTICLE10: Libanon-Parlament überraschend einberufen.
+Found
+MODSMD_ARTICLE11: Aeuß erste Spannung in Palgstinä.
+Found
+MODSMD_ARTICLE12: 39 Todesopfer in Haifa.
+Found
+MODSMD_ARTICLE13: Massenverhaftungen von Arabern.
+Found
+MODSMD_ARTICLE14: Beruhigung au der mandschurisch-sowjetrussischen Grenze.
+Found
+MODSMD_ARTICLE15: Starke japanische Truppenlandungen am Pojangsee.
+Found
+MODSMD_ARTICLE16: Deutscher Erfolg beim Internationalen Jtalien-Rundslug.
+Found

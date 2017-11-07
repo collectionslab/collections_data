@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Abschiedsbankett für dm Aegyptischen Gesandten.
+Found
+MODSMD_ARTICLE02: Die italienischen Landarbeiter in Deutschland.
+Found
+MODSMD_ARTICLE03: Die Jtalienreise der deutschen Abordnung für Rassenpolitik.
+Found
+MODSMD_ARTICLE04: Ueble Hetze des „Petit Journal".
+Found
+MODSMD_ARTICLE05: Das englische Interesse an der tschechischen Frage.
+Found
+MODSMD_ARTICLE06: Dreijährige Dienstzeit in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE07: Tagung der Internationalen Handwerkszentrale in Oslo.
+Found
+MODSMD_ARTICLE08: Die Schweizer Neutralität vor dem Parlament.
+Found
+MODSMD_ARTICLE09: Regieruugserlasie vom bulgarischen Parlament genehmigt.
+Found
+MODSMD_ARTICLE10: Starke bolschewistische Gebirgsftellungen erobert.
+Found
+MODSMD_ARTICLE11: 33 lettische „Donnerkrenzler" verurteilt.
+Found
+MODSMD_ARTICLE12: Zwei jüdische Wegelagerer zum Tode verurteilt.
+Found
+MODSMD_ARTICLE13: Zunehmender Guerillakrieg in den chinesischen Gewässern.
+Found

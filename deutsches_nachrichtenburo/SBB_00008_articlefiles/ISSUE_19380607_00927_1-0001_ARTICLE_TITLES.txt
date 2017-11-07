@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Begeisterter Empfang Cianettis in Nürnberg.
+Found
+MODSMD_ARTICLE02: Beisetzung des Generals von KötzschenVach.
+Found
+MODSMD_ARTICLE03: Weihe einer Ehrentafel im Reichsehrenmal Dannenberg.
+Found
+MODSMD_ARTICLE04: Deutschlandreise amerikanischer Austauschstudenten beendet.
+Found
+MODSMD_ARTICLE05: Tagung deutscher und ausländischer Flughafenverwaltungen.
+Found
+MODSMD_ARTICLE06: Mussolini nach Rocca abgeflogen.
+Found
+MODSMD_ARTICLE07: Minister Alfieri an Reichsminister Dr. Goebbels.
+Found
+MODSMD_ARTICLE08: 125 Jahre Carabinieri.
+Found
+MODSMD_ARTICLE09: Der neue polnische Botschafter bei Victor Emannel 111.
+Found
+MODSMD_ARTICLE10: Staatssekretär Fliegergeneral Balle besucht Bukarest.
+Found
+MODSMD_ARTICLE11: Abermals neun sowietspanische Maschinen über Frankreich.
+Found
+MODSMD_ARTICLE12: Daladier an der sowjetspanischen Grenze.
+Found
+MODSMD_ARTICLE13: Prager „Gegenkundgebung" gegen die Slowaken.
+Found
+MODSMD_ARTICLE15: Der Gesetzentwurf für die Slowakische Autonomie.
+Found
+MODSMD_ARTICLE16: Jugoslawien baut sein Eisenbahnnetz aus.
+Found
+MODSMD_ARTICLE17: Auslösuug der chinesischen Botschaft in Tokio.
+Found

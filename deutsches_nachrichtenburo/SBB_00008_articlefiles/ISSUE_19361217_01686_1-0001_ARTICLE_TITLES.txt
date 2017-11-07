@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer beim Großkonzert in der Deutschlandhalle.
+Found
+MODSMD_ARTICLE02: Generaloberst Gritsch besucht Reichsstelle für Raumordnung.
+Found
+MODSMD_ARTICLE03: Ungarns Innenminister von Berlin abgereist.
+Found
+MODSMD_ARTICLE04: Kozma über seine Eindrücke in Deutschland.
+Found
+MODSMD_ARTICLE05: Ein Buch Sven Hedins über das neue Deutschland.
+Found
+MODSMD_ARTICLE06: Kabinettssitzung in London.
+Found
+MODSMD_ARTICLE07: Eden rechnet mit Gefangenenaustausch in Spanien.
+Found
+MODSMD_ARTICLE08: Pariser Besuch des rumänischen Austenministers.
+Found
+MODSMD_ARTICLE09: Keine Paktreform ohne Mitwirkung der Nichtmiiglieder.
+Found
+MODSMD_ARTICLE10: Bolschewistische Gegenangriffe zurückgeschlagen.
+Found
+MODSMD_ARTICLE11: Zur rechten Zeit erkrankt.
+Found
+MODSMD_ARTICLE12: Japan und die kommunistische Gefahr in Nordchina.
+Found
+MODSMD_ARTICLE13: Zwei schwere Unglücksfälle in Aegypten.
+Found
+MODSMD_ARTICLE14: Immer neue Streiks in Amerika.
+Found
+MODSMD_ARTICLE15: Steuersteckbriefe und Vermögensbeschlagnahme.
+Found

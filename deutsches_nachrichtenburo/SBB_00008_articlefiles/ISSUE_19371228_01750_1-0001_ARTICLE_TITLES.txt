@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Glückwünsche für Stabschef Lutze.
+Found
+MODSMD_ARTICLE02: Neujahrsgruß des Führers an die KdF.-Flotte.
+Found
+MODSMD_ARTICLE03: Zum Negierungsvizcpräsidenten in Köln ernannt.
+Found
+MODSMD_ARTICLE04: Aus der Verwaltung.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Der Korpsführer des NSFK. zum Jahreswechsel.
+Found
+MODSMD_ARTICLE07: Der Chef der Technischen Nothilfe zum neuen Jahre.
+Found
+MODSMD_ARTICLE08: Stellvertreter des Reichstreuhänders der Arbeit für Hessen.
+Found
+MODSMD_ARTICLE09: „Der ewige Jude". Bisher 329 999 Besucher.
+Found
+MODSMD_ARTICLE10: 42 Preise für deutsche Filme auf der Weltausstellung.
+Found
+MODSMD_ARTICLE11: Rücktritt der Regierung Tatarescu. /
+Found
+MODSMD_ARTICLE12: Wieder Kominternagenten in Polen dingfest gemacht.
+Found
+MODSMD_ARTICLE13: Der „Lady Bird"-Zwischensall.
+Found
+MODSMD_ARTICLE14: Neuer Handgrauateuanschlag auf Japaner in Schanghai.
+Found

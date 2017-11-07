@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Aufdeckung des Münchener Attentats! Der Attentäter verhaftet!
+Found
+MODSMD_ARTICLE02: „SA -Standarte 2 Michael Schmeidl."
+Found
+MODSMD_ARTICLE03: Das Geschäft mit dem Tode beginnt.
+Found
+MODSMD_ARTICLE04: Das Warschauer Sondergericht beginnt seine Arbeit.
+Found
+MODSMD_ARTICLE05: Französische Bestechungsreise in Belgiern.
+Found
+MODSMD_ARTICLE06: Amerikanische Flugzeuge rollen über die kanadische Grenze.
+Found
+MODSMD_ARTICLE07: Britischer Minenfuchdampfer gesunken.
+Found
+MODSMD_ARTICLE08: Die indische Rebellion marschiert!
+Found
+MODSMD_ARTICLE09: Der Chef des britische« Intelligente Ser vice für Westeuropa und seine Komplizen von der Staatspolizei verhastet.
+Found
+MODSMD_ARTICLE10: Frankreich in wirtschaftlichen Nöten.
+Found

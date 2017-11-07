@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Reichsminister Nüst empfing auslandsdeutsche Dichter.
+Found
+MODSMD_ARTICLE02: Deutscher Ohnehaltflug Dessau—Bathurst.
+Not Found
+MODSMD_ARTICLE03: „Times" seht sich mit der Ribbentrop-Rede auseinander.
+Found
+MODSMD_ARTICLE04: Der englische Historiker Prof. Dawson zur Kolonialfrage.
+Found
+MODSMD_ARTICLE05: „Times" zu den Forderungen der Sudetendeutschen.
+Found
+MODSMD_ARTICLE06: SachverständigenkonferenZ der Oslo-Gruppe eröffnet.
+Found
+MODSMD_ARTICLE07: Belgien weist französische Angriffe zurück.
+Found
+MODSMD_ARTICLE08: „London gab das Signa! Zum "
+Found
+MODSMD_ARTICLE09: Volksfront-Niederlage bei Rundfunk-Wahlen in Frankreich.
+Found
+MODSMD_ARTICLE10: Eine Sumpfblüte eingegangen.
+Found
+MODSMD_ARTICLE11: Bulgarien feiert den Jahrestag der Befreiung.
+Found
+MODSMD_ARTICLE12: Kriegswichtige Werke von nationalen Fliegern zerstört.
+Found

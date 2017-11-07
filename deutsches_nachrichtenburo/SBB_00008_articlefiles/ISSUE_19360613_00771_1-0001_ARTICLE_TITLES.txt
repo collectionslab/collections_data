@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Das Haus der Deutsch-Französischen Gesellschaft eröffnet.
+Found
+MODSMD_ARTICLE03: Wir fragen wiederum „Daily Telegraph".
+Found
+MODSMD_ARTICLE04: Deutsch-italienische Besprechungen in Rom.
+Found
+MODSMD_ARTICLE05: Erneute deutsch-schweizerische Verhandlungen.
+Found
+MODSMD_ARTICLE06: Deutschland besiegt Irland.
+Found
+MODSMD_ARTICLE07: Tagung des Reichsdnndes für Gemeinschaftstanz.
+Found
+MODSMD_ARTICLE08: Schacht beim griechischen König.
+Found
+MODSMD_ARTICLE09: Wird London sich zu den Sanktionen äußern?
+Found
+MODSMD_ARTICLE10: Die Streiklage in Frankreich.
+Found
+MODSMD_ARTICLE11: Französische Blätter zur 40 Stunden-Woche.
+Found
+MODSMD_ARTICLE12: Forderungen der Pariser Bürgermeister.
+Found
+MODSMD_ARTICLE13: Einberufung des italienischen Ministerrates.
+Found
+MODSMD_ARTICLE14: Juden als rote Streikbrecher.
+Found

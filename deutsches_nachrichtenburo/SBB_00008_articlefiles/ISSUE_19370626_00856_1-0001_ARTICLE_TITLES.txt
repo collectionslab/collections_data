@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Der Führer an die Frontsoldaten in Kassel.
+Found
+MODSMD_ARTICLE02: Die Reichstagung der Gauwirtschaftsberater.
+Found
+MODSMD_ARTICLE03: Die bestialischen Kampfmethoden der Bolschewistem
+Found
+MODSMD_ARTICLE04: Pressestimmen Zur Unterhausaussprache.
+Found
+MODSMD_ARTICLE05: Die Kennzahl der Großhandelspreise vom 23. Juni.
+Found

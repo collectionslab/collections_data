@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die Eröffnung der Olympischen Spiele.
+Found
+MODSMD_ARTICLE02: Vor den Toren Olympias.
+Found
+MODSMD_ARTICLE03: Die Olympiakampfee kommen!
+Found
+MODSMD_ARTICLE04: Auf der Via Triumphalis.
+Found
+MODSMD_ARTICLE05: Vor dem Reichssportfeld;
+Found
+MODSMD_ARTICLE06: Die Abfahrt des Führers zum Neichssportfeld.
+Found
+MODSMD_ARTICLE07: Am Brandenburger Tor.
+Found
+MODSMD_ARTICLE08: Die Fackel kommt!
+Found
+MODSMD_ARTICLE09: Der Führer betritt das Reichssportfeld:
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Baldwin schließt die Rüstungsaussprache im Unterhaus.
+Found
+MODSMD_ARTICLE02: Der sowjetrussische Generalstabschef in Riga.
+Found
+MODSMD_ARTICLE03: Volksfront-Dämmerung in Frankreich?
+Found
+MODSMD_ARTICLE04: Ist die französische Volksfrontregierung ruhebedürftig?^
+Found
+MODSMD_ARTICLE05: Blancho wirbt um Vertrauen für die Regierung Blum.
+Found
+MODSMD_ARTICLE06: Neuer Leichenfund an der französischen Westküste.
+Found
+MODSMD_ARTICLE07: Polnische Aerzte gegen jüdische Ueberfremdung.
+Found
+MODSMD_ARTICLE08: Neef sprach vor lettischen Beamten.
+Found
+MODSMD_ARTICLE09: Große Erfolge der nationalen Luftwaffe.
+Found
+MODSMD_ARTICLE10: Marokko bekennt sich zu Franco.
+Found
+MODSMD_ARTICLE11: Verhaftungen wegen politischer Umtriebe in Bulgarien.
+Found

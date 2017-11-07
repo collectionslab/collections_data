@@ -1,0 +1,12 @@
+MODSMD_ARTICLE03: Parteitag der Ehre.
+Found
+MODSMD_ARTICLE04: Nürnberg umjubelt den Arbeitsdienst.
+Found
+MODSMD_ARTICLE05: Der Führer grüßt die Kolonnen.
+Found
+MODSMD_ARTICLE07: Dr. Goebbels an Professor Lenard und Anacker.
+Found
+MODSMD_ARTICLE08: Die Leistung der Reichsbahn.
+Found
+MODSMD_ARTICLE09: Das Ausland zur Proklamation.
+Found

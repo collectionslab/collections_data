@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Goebbels weiht die „Admiral Graf Spee-Briicke" ein.
+Found
+MODSMD_ARTICLE02: Reichsführer SS Himmler vor der HI-Führerschaft.
+Found
+MODSMD_ARTICLE03: Neuordnung der Nationalgalerie.
+Found
+MODSMD_ARTICLE04: Eine brasilianische Erklärung.
+Found
+MODSMD_ARTICLE05: Estlands Gesandter wieder in Berlin.
+Found
+MODSMD_ARTICLE06: Der neue dominikanische Gesandte in Hamburg.
+Found
+MODSMD_ARTICLE07: Deutscher Botschafter überreicht Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE08: Propagandafahrt der Danziger SA durch Deutschland.
+Found
+MODSMD_ARTICLE09: Gömbös auf dem Wege der Besserung.
+Found
+MODSMD_ARTICLE10: Die Stellung des englischen Gesandten in Addis Abeba.
+Found
+MODSMD_ARTICLE11: Kolonialminister Thomas zurückgetreten.
+Found
+MODSMD_ARTICLE12: Innerpolitische Rede Baldwins.
+Found
+MODSMD_ARTICLE13: Die britischen Truppen bleiben noch in Addis Abeba.
+Found
+MODSMD_ARTICLE14: Titulescu bei Leon Blum.
+Found
+MODSMD_ARTICLE15: 814 Araber und 53 Juden in Palästina verhastet.
+Found
+MODSMD_ARTICLE16: Marxistenrohlinge in einem norwegischen Städtchen.
+Found

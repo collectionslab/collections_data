@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Kommodore Dönitz zum Konteradmiral befördert.
+Found
+MODSMD_ARTICLE02: Hohe Auszeichnung für das siegreiche U-Boot.
+Found
+MODSMD_ARTICLE03: Der deutsche Angriff im Firth of Förth.
+Found
+MODSMD_ARTICLE04: Zum Ministerialrat ernannt.
+Found
+MODSMD_ARTICLE05: 33 neue Minensucher der italienischen Flotte.
+Found
+MODSMD_ARTICLE06: Der deutsche Luftangriff in Belgien stark beachtet.
+Found
+MODSMD_ARTICLE07: Jugoslawien bewundert den deutschen Schneid.
+Found
+MODSMD_ARTICLE08: Schnelles und großzügiges Aufbauwerk in Posen.
+Found
+MODSMD_ARTICLE09: „Der Nimbus der Unbesiegbarkeit Englands ist dahin."
+Found
+MODSMD_ARTICLE10: Spanien bewundert Deutschlands Erfolge.
+Found
+MODSMD_ARTICLE11: Niemals war ein Krieg unpopulärer als jetzt.
+Found
+MODSMD_ARTICLE12: Kl Millionen Kronen für Schwedens Luftrüstungen.
+Found
+MODSMD_ARTICLE13: England ruiniert Antwerpen.
+Found
+MODSMD_ARTICLE14: England läßt Indien hungern.
+Found
+MODSMD_ARTICLE15: „Der Krieg ist Europas Angelegenheit".
+Found
+MODSMD_ARTICLE16: Scapa Flow!
+Found
+MODSMD_ARTICLE17: Washingtoner Beschwerden gegen England und Frankreich.
+Found
+MODSMD_ARTICLE18: Amerikanische Legion gegen Kriegsbeteiligung.
+Found
+MODSMD_ARTICLE19: Der Großmufti von Jerusalem in Bagdad eingetroffen.
+Found
+MODSMD_ARTICLE20: Südafrika sendet keine Truppen.
+Found

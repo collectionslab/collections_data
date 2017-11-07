@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Admiral von Levetzow gestorben.
+Found
+MODSMD_ARTICLE02: Der Besuch des mandschurischen Gesandten in Hamburg.
+Found
+MODSMD_ARTICLE03: Brutaler tschechischer Vertragsbruch.
+Found
+MODSMD_ARTICLE04: Moskaus Söldner wittern Morgenluft.
+Found
+MODSMD_ARTICLE05: Tschechische Truppen marschieren gegen die Slowakei.
+Found
+MODSMD_ARTICLE06: Tschechisch-kommunistischer Mob regiert.
+Found
+MODSMD_ARTICLE07: Selbständigkeitserklärung einstimmig angenommen.
+Found
+MODSMD_ARTICLE08: Gewaltmaßnahmen gegen Slowaken und Deutsche.
+Found
+MODSMD_ARTICLE09: Ungarn vor der Mobilisation
+Found
+MODSMD_ARTICLE10: Ungarns Forderungen an Prag.
+Found
+MODSMD_ARTICLE11: Entscheidende Stunden in Preßburg.
+Found
+MODSMD_ARTICLE12: Der neue Rückstrom der spanischen Flüchtlinge.
+Found
+MODSMD_ARTICLE13: Die Gesandten Polens und der Schweiz bei Franco.
+Found
+MODSMD_ARTICLE14: Moskaus Hand in China.
+Found
+MODSMD_ARTICLE15: Das chinesische Hauptquartier zurückverlegt.
+Found
+MODSMD_ARTICLE16: Japaner dringen nordwestlich Hankau vor.
+Found
+MODSMD_ARTICLE17: Scharfe Kritik am Abkommen mit Brasilien.
+Found
+MODSMD_ARTICLE18: Antikommunistische Gesetzesvorlage des New Yorker Senats.
+Found

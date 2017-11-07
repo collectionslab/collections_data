@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Vom 1W W 9 Mann-Heer zur Großdeutschen Wehrmacht.
+Found
+MODSMD_ARTICLE02: Geschichtsforschung zur Judenfrage.
+Found
+MODSMD_ARTICLE03: Bischof Heckel bei Reichsminister Kerrl.
+Found
+MODSMD_ARTICLE04: Japanischer Besuch bei der Reichsfrauenführung.
+Found
+MODSMD_ARTICLE05: Künftig jedes Jahr KdF.-Reisen aus Südamerika.
+Found
+MODSMD_ARTICLE06: Sitzung der Akademie der Wissenschaften in Wien.
+Found
+MODSMD_ARTICLE07: Die Präger Staatspräsidentenwahl voraussichtlich Montag.
+Found
+MODSMD_ARTICLE08: Protestkundgebungen in Prager Postämtern.
+Found
+MODSMD_ARTICLE09: Mobilisierung der britischen Flotte kostete 1 Million Pfund.
+Found
+MODSMD_ARTICLE10: Der englische Luftsahrtminister fährt nach Paris.
+Found
+MODSMD_ARTICLE11: Chamberlain und Lord Halifax in Paris.
+Found
+MODSMD_ARTICLE12: Die Streikwelle in Frankreich.
+Found
+MODSMD_ARTICLE13: Belgrader Zeitung fordert Kriegsführungsrecht für Franco.
+Found
+MODSMD_ARTICLE14: „Peinliches" Nachspiel einer jüdischen Demonstration.
+Found

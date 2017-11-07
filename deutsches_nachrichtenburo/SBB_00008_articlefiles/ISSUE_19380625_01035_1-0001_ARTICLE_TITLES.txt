@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Nelchsminister Ruft über das Wesen der deutschen Wissenschast.
+Found
+MODSMD_ARTICLE02: Volksdeutsche Kundgebung auf dem Studententag.
+Found
+MODSMD_ARTICLE03: Solmi und Dr. Frank beim Duce.
+Found
+MODSMD_ARTICLE04: Der Stabschef der SA. in Rom.
+Found
+MODSMD_ARTICLE05: 480 Legionäre in Neapel eingetroffen.
+Found
+MODSMD_ARTICLE06: Internationale Walfang-Konferenz in London beendet.
+Found
+MODSMD_ARTICLE07: Ein Engländer über die Greuel der Rotspanier.
+Found
+MODSMD_ARTICLE08: Eine unverständliche Entscheidung in Gibraltar.
+Found
+MODSMD_ARTICLE09: Der amerikanische Botschafter bei Bonnet. .
+Found
+MODSMD_ARTICLE10: Nnrnhefaktor Tschechoslowakei.
+Found
+MODSMD_ARTICLE11: Wieder polnisch-litauischer Eisenbahnverkehr.
+Found
+MODSMD_ARTICLE12: Ausbau der ungarischen Sozialgesetzgebung.
+Found
+MODSMD_ARTICLE13: Kein englisch-amerikanisches Währungsabwertungsabkommnr
+Found
+MODSMD_ARTICLE14: Hankau unter dem Druck der japanischen Erfolge.
+Found

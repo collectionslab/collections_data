@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Rechtswahrer aus Ostmark und Sudetenland beim Führer.
+Found
+MODSMD_ARTICLE02: Reichssiihrer U Himmler in Stuttgart.
+Found
+MODSMD_ARTICLE03: Die ungarische Presse begrüßt Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: „Außenpolitik auf eigene Faust ist landesgefährlich."
+Found
+MODSMD_ARTICLE05: Auch der Kriegshafen Cartagena in nationaler Hand.
+Found
+MODSMD_ARTICLE06: Auch in Alieante ergriffen die Falangiften die Macht.
+Found
+MODSMD_ARTICLE07: Die Anteilnahme Portugals.
+Found
+MODSMD_ARTICLE08: Moskau zum Fall Madrids.
+Found
+MODSMD_ARTICLE09: Das Beileid der Reichsregierung.
+Found
+MODSMD_ARTICLE10: „Keine Spur von Verständnis oder Einsicht."
+Found
+MODSMD_ARTICLE11: Petersen reist nach Burgos ab.
+Found
+MODSMD_ARTICLE12: Hudson in Helsinki eingetroffen.
+Found
+MODSMD_ARTICLE13: Entwicklung der japanischen Nationalbewegung Tohokai.
+Found
+MODSMD_ARTICLE14: Hiranuma kündigt Erklärung zur Antikominternpolitik an.
+Found
+MODSMD_ARTICLE15: Die Negertumulte vor dem Kapstadter Parlament.
+Found

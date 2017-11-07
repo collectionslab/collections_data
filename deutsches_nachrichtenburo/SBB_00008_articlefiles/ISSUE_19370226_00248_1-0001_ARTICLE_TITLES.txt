@@ -1,0 +1,50 @@
+MODSMD_ARTICLE01: Bundespräsident a. D. Schultheß beim Führer.
+Found
+MODSMD_ARTICLE02: Der britische Staatshaushalt 1937/38.
+Found
+MODSMD_ARTICLE03: Krönungszulage für die englischen Arbeitslosen.
+Found
+MODSMD_ARTICLE04: Tie neuen englischen Kriegsschiffbauten.
+Found
+MODSMD_ARTICLE05: Die Arbeitsbedingungen in englischen Fabriken.
+Found
+MODSMD_ARTICLE06: Englisch-kanadischer Handelsvertrag in Kraft getreten.
+Found
+MODSMD_ARTICLE07: Schifsahrtkammer will Sondersteuer für ausländische Schiffe.
+Found
+MODSMD_ARTICLE08: Die gewaltige sowietrussische U-Boot-Flotte.
+Found
+MODSMD_ARTICLE09: Katholiken Nordirlands gegen neue Throneidfassung.
+Found
+MODSMD_ARTICLE10: Englische Kriegsschiffe in Gibraltar.
+Found
+MODSMD_ARTICLE11: Telbos für Zurückziehung der Freiwilligen aus Spanien.
+Found
+MODSMD_ARTICLE12: Französische Regierungsvorlage vom Senat abgewiesen.
+Found
+MODSMD_ARTICLE13: Frankreich vor einem Wiederaufleben der Streikwelle?
+Found
+MODSMD_ARTICLE14: Benesch über den bewaffneten „Frieden".
+Found
+MODSMD_ARTICLE15: Der Staatshaushalt vom Sejm verabschiedet.
+Found
+MODSMD_ARTICLE16: Polnische Kommunisten verurteilt. M T
+Found
+MODSMD_ARTICLE17: Die katholische Kirche Polens zum Koc-Programm.
+Found
+MODSMD_ARTICLE18: Beratungen über das Statut des Sandschak.
+Found
+MODSMD_ARTICLE19: Freiwilligenverbote in Jugoslawien und Dänemark.
+Found
+MODSMD_ARTICLE20: Verwundete sind der Madrider Bevölkerung fernzuhalten.
+Found
+MODSMD_ARTICLE21: Englischer Dampfer lief im Mittelmeer auf eine Mine.
+Found
+MODSMD_ARTICLE22: Weiterhin starker Sowjetschiffverkehr durch die Dardanellen.
+Found
+MODSMD_ARTICLE23: Zusammenstöße in Beirut.
+Found
+MODSMD_ARTICLE24: Gesetz gegenseitiger Handelsverträge im Senat verlängert.
+Found
+MODSMD_ARTICLE25: Sitzstreiker der Donglas-Flugzeugwerke kapitulieren.
+Found

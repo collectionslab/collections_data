@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Generaladmiral Dr. h. c. Raeder in Kiel.
+Found
+MODSMD_ARTICLE02: Trunkenheit am Steuer kriminelles Verbrechen!
+Found
+MODSMD_ARTICLE03: Korpsführer Hühnlein in Rom.
+Found
+MODSMD_ARTICLE04: Alfieri über das italienische Propagandaministerium.
+Found
+MODSMD_ARTICLE05: Italienisch-Polnische Wirtschaftsabkommen unterzeichnet.
+Found
+MODSMD_ARTICLE06: Das Frontkämpfertreffen in Aix-les-Bains.
+Found
+MODSMD_ARTICLE07: Deutsche Frontkämpfer in Reims.
+Found
+MODSMD_ARTICLE08: Litwinow-Finkelstein beim französischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE09: Was geschieht mit den „verirrten" Bolschewisten-Fliegern?
+Found
+MODSMD_ARTICLE10: Eden besucht Prinzregent Paul.
+Found
+MODSMD_ARTICLE11: Sitzung des Nichteinmischungs-Unterausschusses.
+Found
+MODSMD_ARTICLE12: Oefterrjeichisches Gesetz gegen die Landflucht.
+Found
+MODSMD_ARTICLE13: Neuer Waffenschmuggel für die Spanien-Bolschewisten.
+Found
+MODSMD_ARTICLE14: Der norwegische Außenminister in Holland.
+Found
+MODSMD_ARTICLE15: Zunehmende Frechheit der Juden in Polen.
+Found
+MODSMD_ARTICLE16: Die arabische Sprache in der Sandschak-Frage.
+Found
+MODSMD_ARTICLE17: Wieder zwei Sowjetgrößen abgesetzt.
+Found
+MODSMD_ARTICLE18: Steuermann Lau vor dem Untersuchungsausschuß.
+Found
+MODSMD_ARTICLE19: Roosevelts Justizreform vom Justizausschuß abgelehnt.
+Found

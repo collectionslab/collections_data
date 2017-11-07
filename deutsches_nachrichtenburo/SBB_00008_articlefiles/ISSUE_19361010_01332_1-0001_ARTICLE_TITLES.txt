@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Auflösung aller Wehrverbände in Oesterreich.
+Found
+MODSMD_ARTICLE02: Kommunistische Geheimsender in Wien entdeckt.
+Found
+MODSMD_ARTICLE03: Wiener Jude versucht Zeugenbeeinflussung.
+Found
+MODSMD_ARTICLE04: Lord Londonderry in Budapest.
+Found
+MODSMD_ARTICLE05: Die Sitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE06: Studienkomitee zur Beratung der Völkerbundsreform.
+Found
+MODSMD_ARTICLE07: Die Aussprache im Genfer Wirtschaftsausschuß.
+Found
+MODSMD_ARTICLE08: Anarchistensührer gegen Mißstände im Roten Lager.
+Found
+MODSMD_ARTICLE09: Ein Rotgelbrot-Buch der spanischen Nationalregierung.
+Found
+MODSMD_ARTICLE10: Führende Abessinier unterwerfen sich Italien.
+Found
+MODSMD_ARTICLE11: Britische Säubernngsaktion in Palästina.
+Found
+MODSMD_ARTICLE12: Antijapanischer Bombenanschlag in Hankau.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer bei der Aufführung der „Götterdämmerung".
+Found
+MODSMD_ARTICLE02: Nürnberg ehrt das Andenken an Katharina Grünewald.
+Found
+MODSMD_ARTICLE03: „Deutsche Seegeltung ist IIM Jahre alt!"
+Found
+MODSMD_ARTICLE04: Polnische Hastausbrüche.
+Found
+MODSMD_ARTICLE05: Die italienischen Msmöver.
+Found
+MODSMD_ARTICLE06: PrinZregent Paul in Calais.
+Found
+MODSMD_ARTICLE07: Traurige Bilanz der britischen Kolonisationsarbeit.
+Found
+MODSMD_ARTICLE08: Das Oberhaus will die U-Boote abschaffen.
+Found
+MODSMD_ARTICLE09: Weitere Ausweisungsbefehle gegen verdächtige Iren.
+Found
+MODSMD_ARTICLE10: Um die englische Währungspolitik in China.
+Found
+MODSMD_ARTICLE11: Die englisch-japanischen Verhajndlungen.
+Found
+MODSMD_ARTICLE12: Einkreisung aus „moralischen" Gründen.
+Found
+MODSMD_ARTICLE13: Amerikanische Vorstellungen in Tokio.
+Found
+MODSMD_ARTICLE14: Die amerikanische Staatsschuld steigt weiter.
+Found
+MODSMD_ARTICLE15: Die Bolivianische Zentralbank verstaatlicht.
+Found
+MODSMD_ARTICLE16: Ein Greuelfabrikant als Verbrecher verhaftet.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Reichssportführer Staatssekretär.
+Found
+MODSMD_ARTICLE02: Gauamtsleiter Dr. Kummer zum Ministerialdirektor ernannt.
+Found
+MODSMD_ARTICLE03: Zum Oberverwaltungsgerichtsrat ernannt.
+Found
+MODSMD_ARTICLE04: Geschenk des Konsularkorps an Hamburgs Reichsstatthalter.
+Found
+MODSMD_ARTICLE05: Deutsch-griechische Verhandlungen abgeschlossen.
+Found
+MODSMD_ARTICLE06: Ein Jahr NS.-Fliegerkorps.
+Found
+MODSMD_ARTICLE07: Belgische Maßnahmen gegen Heimattreue Stadtverordnete.
+Found
+MODSMD_ARTICLE08: Schweizer Schmutzblatt verwarnt.
+Found
+MODSMD_ARTICLE09: Hore-Belisha unterwegs nach Malta.
+Found
+MODSMD_ARTICLE10: Französischer Ministerbesuch in London nach dem 2<i. April?
+Found
+MODSMD_ARTICLE11: Kleiner Kabinettsrat in Paris.
+Found
+MODSMD_ARTICLE12: Ausdehnung der Pariser Streiks.
+Found
+MODSMD_ARTICLE13: Frankreichs unentwegte Einmischung in Spanien.
+Found
+MODSMD_ARTICLE14: Die Begründung des ungarischen Judengesetzes.
+Found
+MODSMD_ARTICLE15: Der lettische Austenminister in Kowno.
+Found
+MODSMD_ARTICLE16: Neue Zuspitzung im Chaco-Streitsall.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE02: Parteitag der Ehre.
+Found
+MODSMD_ARTICLE03: Orkan des Jubels.
+Found
+MODSMD_ARTICLE04: Die Sondertagungen.
+Found
+MODSMD_ARTICLE05: Tagung der Parteipresfe.
+Found
+MODSMD_ARTICLE06: Das Reichsrechtsamt der NSDAP.
+Found
+MODSMD_ARTICLE07: Die Tagung des Hauptpersonalamtes.
+Found
+MODSMD_ARTICLE08: Sondertagung der Parteigerichtsvorsitzenden.
+Found
+MODSMD_ARTICLE09: Das Hauptamt für Kriegsopfer.
+Found
+MODSMD_ARTICLE10: Das Hauptamt für Volksgcsundheit.
+Found
+MODSMD_ARTICLE11: Hauptschulungsamt der NSDAP.
+Found
+MODSMD_ARTICLE12: Ward Price über seine Eindrücke vom Reichsparteitag.
+Found
+MODSMD_ARTICLE13: Eine Prager Stimme zum Reichsparteitag.
+Found

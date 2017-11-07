@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Fackelzug am 39. Januar.
+Found
+MODSMD_ARTICLE02: Neuer Auftrag für Bürckel.
+Found
+MODSMD_ARTICLE04: „Gau Mark Brandenburg der NSDAP."
+Found
+MODSMD_ARTICLE05: Die Goethe-Medaille für Prof. Golther-Rostock.
+Found
+MODSMD_ARTICLE06: Moskau hatte wieder Angst.
+Found
+MODSMD_ARTICLE07: Reval: „Mächtig und bis Zur Unglaublichkeit aktiv."
+Found
+MODSMD_ARTICLE08: Polnische Gesetze Zur Landesverteidigung.
+Found
+MODSMD_ARTICLE09: Umfangreiche Kriegsmaterialsunde in Barcelona.
+Found
+MODSMD_ARTICLE10: Nur noch 49 km von der französischen Grenze.
+Found
+MODSMD_ARTICLE11: Mussolini an den Führer.
+Found
+MODSMD_ARTICLE12: Britische Geheimdokumente verschwunden.
+Found
+MODSMD_ARTICLE13: Neue Sensation im Hines-Prozeß.
+Found
+MODSMD_ARTICLE14: Brasilianische Hilfsaktion für das chilenische Erdbeben.
+Found
+MODSMD_ARTICLE15: Siegesfeier der Falangisten in Buenos Aires.
+Found
+MODSMD_ARTICLE16: Italienischer Kreuzerbesuch in Ekuador.
+Found

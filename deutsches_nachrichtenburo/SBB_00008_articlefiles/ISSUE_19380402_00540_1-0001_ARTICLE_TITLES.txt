@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Vortrag in der Deutsch-Spanischen Gesellschaft.
+Found
+MODSMD_ARTICLE03: Kreuzer „Emden" läuft Amsterdam an.
+Found
+MODSMD_ARTICLE04: 5000 italienische Laudarbeiter in Mimchen.
+Found
+MODSMD_ARTICLE05: Glückwunschtelegramm Tarauyis an Mussolini.
+Found
+MODSMD_ARTICLE06: Die wirtschaftlichen Folgen des Anschlusses.
+Found
+MODSMD_ARTICLE07: „Emigranten die ihr Vaterland verleumden".
+Found
+MODSMD_ARTICLE08: Sudetendeutsche Abgeordnete bei Hodscha.
+Found
+MODSMD_ARTICLE09: Das Sudetendeutschtum für volle Selbstverwaltung.
+Found
+MODSMD_ARTICLE10: Unterstützung der Polen in der Tschechoslowakei»
+Found
+MODSMD_ARTICLE11: „Slowak" zum Bankrott der Minderheitenpolitik.
+Found
+MODSMD_ARTICLE12: Lettischer Staatsverteidigungssouds beschlossen.
+Found
+MODSMD_ARTICLE13: Auch in Lettland suchten Moskaus Söldlinge zu putschen.
+Found
+MODSMD_ARTICLE14: England zum Aufruf der Bischöfe Oesterreichs.
+Found
+MODSMD_ARTICLE15: Rückbeförderung nach Frankreich geflohener Bolschewisten!
+Found
+MODSMD_ARTICLE16: Pariser Blätter zur Entwicklung in Spanien.
+Found
+MODSMD_ARTICLE17: 279 gefangene Engländer auf dem Wege nach Saragossa.
+Found
+MODSMD_ARTICLE18: Saragossa feiert die Befreiung der Provinz.
+Found
+MODSMD_ARTICLE19: „Neue Aussichten für die Ozeanfliegerei".
+Found
+MODSMD_ARTICLE20: Rücktritt des Oberkommissars für Kanada.
+Found
+MODSMD_ARTICLE21: Hoovers Eindrücke vom Dritten Reich.
+Found

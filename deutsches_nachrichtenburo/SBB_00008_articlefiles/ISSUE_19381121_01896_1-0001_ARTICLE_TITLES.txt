@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Das vom Führer dem Duce gestiftete Observatorium.
+Found
+MODSMD_ARTICLE02: Jüdische Paßfälscherbande in Mailand ausgehoben.
+Found
+MODSMD_ARTICLE03: Königin Mand von Norwegen gestorben.
+Found
+MODSMD_ARTICLE04: Paris zur Beglaubigung von Franeois-Poncet.
+Found
+MODSMD_ARTICLE05: Konzentrationslager nun auch in Frankreich!
+Found
+MODSMD_ARTICLE06: Frontkämpferprotest gegen die Absage Pichots an Daladier.
+Found
+MODSMD_ARTICLE07: RotspanUM'M'Unitionsfabrik in die Lust geflogen.
+Found
+MODSMD_ARTICLE08: Ter nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE09: Ein britischer Flieger in Sowjetrnßland verhaftet.
+Found
+MODSMD_ARTICLE10: Nach der Bildung der Einheitspartei in Prag.
+Found
+MODSMD_ARTICLE11: Dr. Diso über den Neuaufbau des slowakischen Staates.
+Found
+MODSMD_ARTICLE12: Untersuchung gegen Politiker des Benesch-Systems.
+Found
+MODSMD_ARTICLE13: Das Aufbauprogramm der karpatho-ukrainischen Regierung.
+Found
+MODSMD_ARTICLE14: Die Leiche Atatürks in Ankara feierlich aufgebahrt.
+Found
+MODSMD_ARTICLE15: Verschiebung der Konserenz der baltischen Außenminister.
+Found
+MODSMD_ARTICLE16: Swanson fordert starke Vermehrung der Flotte.
+Found
+MODSMD_ARTICLE17: Sühne für bolschewistische Umtriebe in Iran.
+Found
+MODSMD_ARTICLE18: Mandschukuo und die Antikominternstaaten.
+Found

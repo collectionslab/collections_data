@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Die deutschen Ozeanflieger beim Führer.
+Found
+MODSMD_ARTICLE02: Reichspostminister beglückwünscht „Condor^-Besatzung.
+Found
+MODSMD_ARTICLE03: Deutsche Wehrmachtsabordnung bei den Stephansfeiern.
+Found
+MODSMD_ARTICLE04: Die großen Ziele des Leistungskampfes.
+Found
+MODSMD_ARTICLE05: Stapellauf eines türkischen Handelsschiffes in Rostock.
+Found
+MODSMD_ARTICLE06: Der ungarische Staatssekretär Dr. Antal besucht Berlin.
+Found
+MODSMD_ARTICLE07: Auch italienische Militärabordnimg kommt nach Ungarn.
+Found
+MODSMD_ARTICLE08: „Expreß Poranny": „Unbequemer Sessel" in Genf.
+Found
+MODSMD_ARTICLE09: „Giornale d'Jtalia" zum englisch-italienischen Handel.
+Found
+MODSMD_ARTICLE10: Admiral Woodhouse erstattet Bericht.
+Found
+MODSMD_ARTICLE11: Französischer Dampfer bei Gibraltar gesunken.
+Found
+MODSMD_ARTICLE12: Abordnung für den Austausch von spanischen Gefangenen.
+Found
+MODSMD_ARTICLE13: Barcelona bombardiert.
+Found
+MODSMD_ARTICLE14: Nationalspanische Südarmee dringt siegreich vor.
+Found
+MODSMD_ARTICLE15: Der rote Massenmörder von Villanueva de la Serena.
+Found
+MODSMD_ARTICLE16: Kriegsmariwekommisiar Smirnow gestürzt?
+Found
+MODSMD_ARTICLE17: Wieder ein Feuergefecht in Palästina.
+Found
+MODSMD_ARTICLE18: Das unruhige Palästina: Güterzug auf Mine gefahren.
+Found
+MODSMD_ARTICLE19: Der Kaiser von Japan dankt den Truppenabteilungen.
+Found
+MODSMD_ARTICLE20: Die letzten Diplomaten haben Hankau verlassen.
+Found
+MODSMD_ARTICLE21: Neuer Zwischenfall in Schanghai. ' l
+Found
+MODSMD_ARTICLE22: Negeraufstand auf Jamaica?
+Found

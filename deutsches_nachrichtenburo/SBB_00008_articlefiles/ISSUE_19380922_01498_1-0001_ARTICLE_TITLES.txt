@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Frank empfing die internationalen Treuhänder.
+Found
+MODSMD_ARTICLE02: Sudetendeutsche entführen tschechisches Patrouillenboot.
+Found
+MODSMD_ARTICLE03: Völliges Durcheinander in Prag.
+Found
+MODSMD_ARTICLE04: Ungarn erhebt seine Stimme.
+Found
+MODSMD_ARTICLE05: Chamberlain beim König.
+Found
+MODSMD_ARTICLE06: Prags Annahmeerklärung in London eingetroffen.
+Found
+MODSMD_ARTICLE07: Polen und Ungarn unterstreichen ihre Ansprüche.
+Found
+MODSMD_ARTICLE08: Beck erstattet dem Staatspräsidenten Bericht.
+Found
+MODSMD_ARTICLE09: Polen bereitet sich vor.
+Found
+MODSMD_ARTICLE10: Polnische Noten in Prag, Paris und London überreicht
+Found
+MODSMD_ARTICLE11: Polens Kresse über Prags späte Erkenntnis.
+Found
+MODSMD_ARTICLE12: Kundgebungen in Warschau.
+Found
+MODSMD_ARTICLE13: AuslandsstlMmen zur Annahme durch Krag. i
+Found
+MODSMD_ARTICLE14: Entjudung des italienischen Rundfunks.
+Found
+MODSMD_ARTICLE15: Genf bleibt sich gleich.
+Found
+MODSMD_ARTICLE16: Nationalspanischer Vormarsch an der Ebrofront.
+Found

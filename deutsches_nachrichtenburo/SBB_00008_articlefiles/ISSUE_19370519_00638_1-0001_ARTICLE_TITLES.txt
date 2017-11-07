@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Spende der Wehrmacht zum Winterhilfswerk.
+Found
+MODSMD_ARTICLE02: Kein Trauerfall in der Familie Horthys.
+Found
+MODSMD_ARTICLE03: Das italienische Königspaar in Budapest.
+Found
+MODSMD_ARTICLE04: Blomberg besuchte die englische Tankwaffe.
+Found
+MODSMD_ARTICLE05: Baldwin sprach vor der Empire-Jugend.
+Found
+MODSMD_ARTICLE06: Lebensmittelpreise in England um 44 v. H. gestiegen.
+Found
+MODSMD_ARTICLE07: Die Angst vor der Wahrheit.
+Found
+MODSMD_ARTICLE08: Die Besprechungen Blum-Litwinow.
+Found
+MODSMD_ARTICLE09: Französische Kriegsschiffe sollen Spanientransporte schützen.
+Found
+MODSMD_ARTICLE10: Enthüllungen über die 17 Bolschewistenflugzeuge.
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht vom Dienstag.
+Found
+MODSMD_ARTICLE12: RydZ-Smigly bei der polnischen Studentenschaft.
+Found
+MODSMD_ARTICLE13: Deutschlands neuer Botschafter bei Präsident Roosevelt.
+Found
+MODSMD_ARTICLE14: Ungeheurer jüdischer Versicherungsbetrug aufgedeckt.
+Found

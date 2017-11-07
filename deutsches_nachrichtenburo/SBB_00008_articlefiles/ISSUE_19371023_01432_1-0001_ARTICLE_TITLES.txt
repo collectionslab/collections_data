@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Reichstaguug „Deutsche Werbung".
+Found
+MODSMD_ARTICLE02: Aga Khan über Deutschland.
+Found
+MODSMD_ARTICLE03: Vor einem dauernden Verbot der „Kattowitzer Zeitung"?
+Found
+MODSMD_ARTICLE04: Marschall Rydz-Smigly fährt nach Rumänien.
+Found
+MODSMD_ARTICLE05: Neue jüdische Frechheiten in Warschau.
+Found
+MODSMD_ARTICLE06: Die deutsche Polizeidelegation in Italien.
+Found
+MODSMD_ARTICLE07: Ministerbesprechung in Paris.
+Found
+MODSMD_ARTICLE08: Paris zur sowjetrussischen Obstruktionspolitik.
+Found
+MODSMD_ARTICLE09: Folgen der Teuerungswelle in Frankreich.
+Found
+MODSMD_ARTICLE10: Streikende sperren den Fabriksdirekior aus.
+Found
+MODSMD_ARTICLE11: Verbrüderung Pariser Kreise mit Moskau—Valencia.
+Not Found
+MODSMD_ARTICLE12: Bolschewistische Massenflucht nach Frankreich.
+Found
+MODSMD_ARTICLE13: Versenktes rotes Kriegsschiff wird gehoben.
+Found
+MODSMD_ARTICLE14: Die Beziehungen zwischen Italien und Aegypten.
+Found

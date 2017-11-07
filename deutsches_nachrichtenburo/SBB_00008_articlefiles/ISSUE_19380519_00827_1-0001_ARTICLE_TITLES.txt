@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Das Internationale Musikfest in Stuttgart.
+Found
+MODSMD_ARTICLE02: Jugoslawische Kriegsgesallcne in die Heimat übergeführt.
+Found
+MODSMD_ARTICLE03: 199 999 RM Strafe wegen unberechtigter Preiserhöhung.
+Found
+MODSMD_ARTICLE04: Mit Messern und Gummiknüppeln amen Sudetendeutsche.
+Found
+MODSMD_ARTICLE05: lii. Internationaler Chemie-Ko<ngreß in Rom.
+Found
+MODSMD_ARTICLE06: Klare Sprache im britischen Oberhaus.
+Found
+MODSMD_ARTICLE07: Ungarns Nationalsozialisten für die Sicherheitsgesetze.
+Found
+MODSMD_ARTICLE08: Fortdauer der Kämpfe an der Front von Teruel.
+Found
+MODSMD_ARTICLE09: Neue scharfe englische Maßnahmen in Palästina.
+Found
+MODSMD_ARTICLE10: Londoner 16 Millionen Pfund-Kredit für die Türkei.
+Found
+MODSMD_ARTICLE11: Tie Japaner an der Stadtmauer von Hsütschan.
+Found
+MODSMD_ARTICLE12: Roosevelts Ermächtigung zur Somufrüstung.
+Found
+MODSMD_ARTICLE13: Amerikanische Jnstruktionsoffiziere für Argentinien.
+Found

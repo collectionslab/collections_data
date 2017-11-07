@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Freiherr von Neurath Ehrenbürger von Stuttgart.
+Found
+MODSMD_ARTICLE02: Frontkämpfer Frankreichs bei deutschen Frontkämpfern.
+Found
+MODSMD_ARTICLE03: Die Entwicklung des Arbeitseinsatzes im Januar 1938.
+Found
+MODSMD_ARTICLE04: Der Menschenschmugggel nach Sowjetspanien.
+Found
+MODSMD_ARTICLE05: Schweizer Bundesbahnen bleiben unter Bundesverwaltung.
+Found
+MODSMD_ARTICLE06: Der Internationale Werberat.
+Found
+MODSMD_ARTICLE07: Erklärungen griechischer Minister zur Lage in Griechenland.
+Found
+MODSMD_ARTICLE08: Moskauer „Protest" bei der rumänischen Regierung.
+Found
+MODSMD_ARTICLE09: Anerkennung des Römischen Imperiums durch Holland.
+Found
+MODSMD_ARTICLE10: Kommunisten aus aller Welt bei der chinesischen Luftwaffe.
+Found
+MODSMD_ARTICLE11: Schweres Unwetter über Rio de Janeiro: 15 Tote.
+Found
+MODSMD_ARTICLE12: Fünf Todesopfer eines Orkans in Nordkalifornien.
+Found

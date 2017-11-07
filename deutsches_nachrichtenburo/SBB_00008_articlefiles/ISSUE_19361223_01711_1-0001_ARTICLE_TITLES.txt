@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Wolhuachtsfeier der Dienststellen des Reichsleiters Bouhler.
+Found
+MODSMD_ARTICLE02: Der Probst gegen den Juden Arthur Simson.
+Found
+MODSMD_ARTICLE03: Noch keine Verständigung in der Sandschak-Urage.
+Found
+MODSMD_ARTICLE04: Streik bei französischer Taöal'MKNufakiur.
+Found
+MODSMD_ARTICLE05: Die französische Eisenbahnanleihe an Polen.
+Found
+MODSMD_ARTICLE06: Britische Kohle für Irland.
+Found
+MODSMD_ARTICLE07: Kommunistische Metzelei in Barcelona.
+Found
+MODSMD_ARTICLE08: 50 000 „Freiwillige" aus Frankreich.
+Found
+MODSMD_ARTICLE09: Neues Eingeständnis der spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE10: In 0 Tagen 2100 Personen in Madrid umgebracht.
+Found
+MODSMD_ARTICLE11: Die Schreckensherrschaft in Madrid.
+Found
+MODSMD_ARTICLE12: Erfolgreicher Vormarsch M nationalen Truppen.
+Found
+MODSMD_ARTICLE13: Spanische Bolschewisten vernichten Gerichtsakten.
+Found
+MODSMD_ARTICLE14: General de Llano über Bolschewistentricks.
+Found
+MODSMD_ARTICLE15: Sowjetrussische Arbeiter müssen wieder „spenden".
+Found
+MODSMD_ARTICLE16: Lampson britischer Botschafter in Kairo.
+Found
+MODSMD_ARTICLE17: Paraguays Außenminister reist zur Chacostreit-Schlichtung.
+Found
+MODSMD_ARTICLE18: Amerika zur Gesandtschaftsumwandlung in Aethiopien.
+Found
+MODSMD_ARTICLE19: Die Vorgänge in Sianfu.
+Found

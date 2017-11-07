@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Zu Ministerialdirigenten ernannt.
+Found
+MODSMD_ARTICLE02: Durchführungsderordnung zur Sicherung der Reichsgrenze.
+Found
+MODSMD_ARTICLE03: Silberplakette für Paul Lincke.
+Found
+MODSMD_ARTICLE04: Der „Times"-Korrespondent Ebbutt ausgewiesen.
+Found
+MODSMD_ARTICLE05: Die Beseitigung der Unfruchtbarkeit bei Frauen.
+Found
+MODSMD_ARTICLE06: Errichtung einer Reichspostbaudirektion in Berlin.
+Found
+MODSMD_ARTICLE07: Fünf NSFK.-Mannschaften beim italienischen Rundflug.
+Found
+MODSMD_ARTICLE08: 2 848 599 Kraftfahrzeuge am 1. Juli 1937.
+Found
+MODSMD_ARTICLE09: Der ungarische Reichsverweser an Influenza erkrankt.
+Found
+MODSMD_ARTICLE10: Starke kommunistische Aktivität in der Steiermark.
+Found
+MODSMD_ARTICLE11: Prag Zu dem portugiesischen Schritt.
+Found
+MODSMD_ARTICLE12: Große Beachtung des portugiesischen Schrittes.
+Found
+MODSMD_ARTICLE13: Deutsche Ehrungen für Gibraltars Gouverneur und Merzte.
+Found
+MODSMD_ARTICLE14: Der chinesische Finanzminister über seine Europareife.
+Found
+MODSMD_ARTICLE15: Wie man den Fernost-Konflikt in Paris sieht.
+Found
+MODSMD_ARTICLE16: „Echo de Paris" zur Lage im Fernen Osten.
+Found
+MODSMD_ARTICLE17: Neue Kämpfe vor Wusung.
+Found
+MODSMD_ARTICLE18: Die Garnisonen Brasiliens in Alarmbereitschaft.
+Found

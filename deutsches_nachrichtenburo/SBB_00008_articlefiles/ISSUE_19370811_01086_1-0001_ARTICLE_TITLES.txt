@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Dr. Kung Gast Dr. Schachts.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: 40-jährigcs Dienstjubiläum des Ministerpräsidenten Siebert.
+Found
+MODSMD_ARTICLE04: Neichsmittel zur Erhaltung von Landarbeiterwohnungen.
+Found
+MODSMD_ARTICLE05: „Taifun" in Mailand.
+Found
+MODSMD_ARTICLE06: Für Verständigung Deutschland—England.
+Not Found
+MODSMD_ARTICLE07: Der Rekrutemnangel in England.
+Found
+MODSMD_ARTICLE08: Fünf neue englische Flugzeugträger.
+Found
+MODSMD_ARTICLE09: Der zweite Abschnitt der Londoner Luftmanöver verschoben.
+Found
+MODSMD_ARTICLE10: Streikunruhen in einer kanadischen Stadt.
+Found
+MODSMD_ARTICLE11: Kommunismus eine mosaische Angelegenheit.
+Found
+MODSMD_ARTICLE12: Schließung litauischer Schulen im Wilnagebiet.
+Found
+MODSMD_ARTICLE13: Bedeutende Verstärkung der Roten Armee.
+Found
+MODSMD_ARTICLE14: Anschlag auf Companys.
+Found
+MODSMD_ARTICLE15: Der Kardinal-Erzbischof von Sevilla f.
+Found
+MODSMD_ARTICLE16: Schließung des japanischen Generalkonsulats in Hankau.
+Found
+MODSMD_ARTICLE17: Gegen Kundgebungen vor Auslandsmissioncn.
+Found

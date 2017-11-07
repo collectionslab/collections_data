@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Dr. Goebbels spricht Zum Geburtstag des Führers.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Aufrichtiges Bedauern Argentiniens.
+Found
+MODSMD_ARTICLE04: Besuch der japanischen Flieger im Reichsluftfahrtministerium.
+Found
+MODSMD_ARTICLE05: Deutschlandreise des italienischen Jugendführers.
+Found
+MODSMD_ARTICLE06: Entgelt an Heimarbeiter am 1. Mai.
+Found
+MODSMD_ARTICLE07: Neuordnung der studentischen Arbeit an den Fachschulen.
+Found
+MODSMD_ARTICLE08: Von Hassel! über die deutsch-italienische Freundschaft.
+Found
+MODSMD_ARTICLE09: Ruft von König Georg empfangen.
+Found
+MODSMD_ARTICLE10: Baldwin über die Pflichten der Glieder des Empire.
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE12: Paris zu Grandis Freiwilligen-Erklärungen.
+Found
+MODSMD_ARTICLE13: Die Kennzahl der Großhandelspreise vom 14. April.
+Found

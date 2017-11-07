@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Faschistische Arbeiter aus Genua zu Besuch in München.
+Found
+MODSMD_ARTICLE02: Die deutschen Rundsunkintendanten in Düsseldorf.
+Found
+MODSMD_ARTICLE03: Der Pariser Besuch der Gäste aus den Hansestädten.
+Found
+MODSMD_ARTICLE04: Der Bruder des Bieganek verhaftet.
+Found
+MODSMD_ARTICLE05: Die römische Presse zu den Nichteinmischungsverhandlungen.
+Found
+MODSMD_ARTICLE06: Die Labour-Partei gegen die englische Regierung.
+Found
+MODSMD_ARTICLE07: Unterredung Grandi—Chamberlain.
+Not Found
+MODSMD_ARTICLE08: Rekrutenwerbungsmaßnahmen der englischen Luftwaffe.
+Found
+MODSMD_ARTICLE09: Der nationale Heeresbericht vom Dienstag.
+Found
+MODSMD_ARTICLE10: Meuterei in rumänischer Strafanstalt.
+Found
+MODSMD_ARTICLE11: Wieder ein Jude als Volkskommissar.
+Found
+MODSMD_ARTICLE12: Neuer sowjetrussischer Botschafter in Tokio.
+Found
+MODSMD_ARTICLE13: 4,5 Millionen Arbeitstage Verlust im Juni.
+Found
+MODSMD_ARTICLE14: Amerika mischt sich nicht ein.
+Found
+MODSMD_ARTICLE15: Eine Erklärung der Chinesischen Regierung.
+Found
+MODSMD_ARTICLE16: Die Internationale Züricher Flugwoche.
+Found

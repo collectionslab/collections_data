@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Beileidstelegramm des Führers.
+Found
+MODSMD_ARTICLE02: Roter spanischer Dampfer vorläufig aufgebracht.
+Found
+MODSMD_ARTICLE03: Deutsch-siamesischer Handelsvertrag gekündigt.
+Found
+MODSMD_ARTICLE04: Der Landesstatthalter von Steiermark zurückgetreten.
+Found
+MODSMD_ARTICLE05: Haushaltsplan und Steuerreform verabschiedet.
+Found
+MODSMD_ARTICLE06: Lord Plymouth übergibt Eden den Kontrollplan.
+Found
+MODSMD_ARTICLE07: Kiellegung von zwei englischen Schlachtschiffen.
+Found
+MODSMD_ARTICLE08: Türkei droht mit Austritt aus dem Völkerbund.
+Found
+MODSMD_ARTICLE09: Das wahre Gesicht der Moskauer Spauienpolitik.
+Found
+MODSMD_ARTICLE10: Es war doch ein Bolschewisten-Flugzeug!
+Found
+MODSMD_ARTICLE11: Der Mord an dem belgischen Botschaftssekretär in Madrid.
+Found
+MODSMD_ARTICLE12: Neujahrsansprache General Francos.
+Found
+MODSMD_ARTICLE13: Flugzeugabsturz fordert zwei Tote.
+Found
+MODSMD_ARTICLE14: Die Deutschen in Lantschau wohlauf.
+Found
+MODSMD_ARTICLE15: Ausbreitung des Streiks in der USA-Autoindustrie.
+Found

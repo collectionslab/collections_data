@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Die erste Gaufeierstunde des Sängerbundesfestes.
+Found
+MODSMD_ARTICLE02: v. Ribbentrop im Nichteinmischungsauschuß.
+Found
+MODSMD_ARTICLE03: China begrüßt die Erklärung Tschiangkaischeks.
+Found
+MODSMD_ARTICLE04: Weitere Zwischenfälle bei Besuchen der Sowjetunion.
+Found

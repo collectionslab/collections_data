@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die NSDAP zum Tode von Julius Schreck.
+Found
+MODSMD_ARTICLE02: Das Beileid der Hauptstadt der Bewegung.
+Found
+MODSMD_ARTICLE03: Görina nimmt an der Beisetzung Schrecks teil.
+Found
+MODSMD_ARTICLE04: Minister Görings Beileid Zum Tode von Tsaldaris.
+Found
+MODSMD_ARTICLE05: Reichsbauernführer Darre in Mainz.
+Found
+MODSMD_ARTICLE06: Neues deutsches Mitglied der Gemischten Kommission.
+Found
+MODSMD_ARTICLE07: Der Deutsche Juristentag 1936 in Leipzig. Arbeitstagung der Reichsgruppen.
+Found
+MODSMD_ARTICLE08: Wieder deutsch-litauische Verhandlungen.
+Found
+MODSMD_ARTICLE09: Dr. Hans Wesemann legt Berufung ein.
+Found

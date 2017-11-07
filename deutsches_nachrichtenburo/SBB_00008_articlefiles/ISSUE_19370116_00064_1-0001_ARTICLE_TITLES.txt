@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Empfang für Göring beim Gouverneur von Rom.
+Found
+MODSMD_ARTICLE02: Ansprache des Chefs der Deutschen Polizei Himmler.
+Found
+MODSMD_ARTICLE03: Freiwilligen-Vorlage in der Kammer angenommen.
+Found
+MODSMD_ARTICLE04: Bolschewist Caballero sitzt die Angst in den Knochen!
+Found
+MODSMD_ARTICLE05: Neue Gesetzentwürfe in Oesterreich genehmigt.
+Found
+MODSMD_ARTICLE06: Sechs Tote bei dem Myslowitzer Eisenbahnunglück.
+Found

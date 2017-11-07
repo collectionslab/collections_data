@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Reichsrechtsführer an die deutschen Rechtswahrer.
+Found
+MODSMD_ARTICLE02: Beschränkte Manövrierfähigkeit der schwedischen Flotte.
+Found
+MODSMD_ARTICLE03: Die Eidesleistung des rumänischen Kabinetts.
+Found
+MODSMD_ARTICLE04: Paris zur neuen rumänischen Regierung.
+Found
+MODSMD_ARTICLE05: Allgemeiner Streik der Pariser öffentlichen Betriebe.
+Found
+MODSMD_ARTICLE06: Der Katzenzammer beginnt.
+Found
+MODSMD_ARTICLE07: Das Bauprogramm der französischen Kriegsmarine.
+Found
+MODSMD_ARTICLE08: Bankghetto auch in Mittelschulen gefordert.
+Found
+MODSMD_ARTICLE09: Jakubowitsch will nicht nach Moskau.
+Found
+MODSMD_ARTICLE10: Roosevelt denkt an neue Verstärkung der Kriegsflotte.
+Found
+MODSMD_ARTICLE11: Der Palästina-Kommissar verfügt Freilassungen.
+Found

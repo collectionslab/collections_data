@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Die italienischen OZeanflieger in Rom begeistert empfangen.
+Found
+MODSMD_ARTICLE02: Sudetendeutsche Forderungen an die Regierung.
+Found
+MODSMD_ARTICLE03: Rote Hetzorgane in der Tschechoslowakei beschlagnahmt.
+Found
+MODSMD_ARTICLE04: Große Fortschritte im deutsch-belgischen Handelsverkehr.
+Found
+MODSMD_ARTICLE05: Kolonialdebatte im belgischen Kammerausschuß.
+Found
+MODSMD_ARTICLE06: Umbesetzungen bei den französischen Luftstreitkräften.
+Found
+MODSMD_ARTICLE07: Neuer französischer Landesverteidigungskredit.
+Found
+MODSMD_ARTICLE08: Paris zur Montagaussprache im Unterhaus.
+Found
+MODSMD_ARTICLE09: „Manchester Guardian": „Triumph der Diktatoren."
+Found
+MODSMD_ARTICLE10: Metaxas nach Ankara abgereist.
+Found
+MODSMD_ARTICLE11: Eine Belgrader Stimme zum Rücktritt Edens.
+Found
+MODSMD_ARTICLE12: Der höchste jugoslawische Orden für Patriarch Gawrilo.
+Found
+MODSMD_ARTICLE13: Portugal begrüßt den Rücktritt Edens.
+Found
+MODSMD_ARTICLE14: Vor dem Volksentscheid in Rumänien.
+Found
+MODSMD_ARTICLE15: Rumäniens Heilige Synode tagte.
+Found
+MODSMD_ARTICLE16: Dr. Roth zum Senator erklärt.
+Found
+MODSMD_ARTICLE17: Barcelona „erklärt" die Niederlage von Teruel.
+Found
+MODSMD_ARTICLE18: „Wir wollen Frieden!"
+Found
+MODSMD_ARTICLE19: Chinesischer Zeitungsmrleger in Schanghai verhaftet.
+Found
+MODSMD_ARTICLE20: Japan geht gegen Verleumder vor.
+Found

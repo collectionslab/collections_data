@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Dr. Ley über das „Kraft-durch-Freude"-Werk.
+Found
+MODSMD_ARTICLE02: Die Arbeitslosenzahl in der Ostmark bereits halbiert!
+Found
+MODSMD_ARTICLE03: Minister Homan vom Amt entbunden.
+Found
+MODSMD_ARTICLE04: Ungarn errichtet ein Presse- und Propagandaamt.
+Found
+MODSMD_ARTICLE05: Vor dem ungarischen Ministerbesuch in Italien.
+Found
+MODSMD_ARTICLE06: „Giornale tüJtalia": „Die Maske des Kommunismus".
+Found
+MODSMD_ARTICLE07: Andrasunas Kriegskommandant im Memelgebiet.
+Found
+MODSMD_ARTICLE08: Die nationalspanische Luftwaffe fordert zur Uebergabe auf.
+Found
+MODSMD_ARTICLE09: Der französisch-türkische Freundschaftsvertrag.
+Found
+MODSMD_ARTICLE11: Vor dem Eintreffen der britischen Truppen in Palästina.
+Found
+MODSMD_ARTICLE12: Abermals Bombenattentat bei Haifa.
+Found
+MODSMD_ARTICLE13: Nationale Japaner fordern energisches Vorgehen in China.
+Found
+MODSMD_ARTICLE14: Deutsche Segelflieger in Amerika siegreich.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Argentinische Marineoffiziere beim Führer.
+Found
+MODSMD_ARTICLE02: Trauerfeier im Reichsluftfahrtministerium.
+Found
+MODSMD_ARTICLE03: Die deutsch-japanisäM Kulturbeziehungen.
+Found
+MODSMD_ARTICLE04: Keine Erhöhung der türkischen Zollsätze.
+Found
+MODSMD_ARTICLE05: Stabschef Lutze im Reichsführerlager der HJ.
+Found
+MODSMD_ARTICLE06: Sudetendeutsche Beschwerde „erledigt".
+Found
+MODSMD_ARTICLE07: Abschluß der außerordentlichen Genfer Tagung.
+Found
+MODSMD_ARTICLE08: MaeDonald lehnt Erhebung in den Adelsstand ab.
+Found
+MODSMD_ARTICLE09: Wirtschaftsfragen vor der Reichskonferenz.
+Found
+MODSMD_ARTICLE10: Gewerkschaftsterror in Amerika.
+Found
+MODSMD_ARTICLE11: Ford-Arbeiter verprügeln Lewis-Hetzer.
+Found
+MODSMD_ARTICLE12: Jüdisch-kommunistische Zersetzungstätigkeit aufgedeckt.
+Found
+MODSMD_ARTICLE13: Erhöhung der Salzsteuer in China.
+Found

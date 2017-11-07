@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Grotz-Hamburgs Dank an den Führer.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Frick spricht zu Lübecks Bevölkerung.
+Found
+MODSMD_ARTICLE03: Vier Gemeinden nach Stuttgart eingemeindet.
+Found
+MODSMD_ARTICLE04: Die Sorge um die Weltausstellung. X
+Found
+MODSMD_ARTICLE05: Immer wieder Juden als Wegbereiter des Bolschewismus.
+Found
+MODSMD_ARTICLE06: Starke Beachtung der Belgrader Besprechungen in Wien.
+Found
+MODSMD_ARTICLE07: Amerikanische „Ratschläge" für Europa.
+Found
+MODSMD_ARTICLE08: Scharfes Vorgehen der britischen Behörden in Indien.
+Found
+MODSMD_ARTICLE09: Osthopei-Regierung in Mandschnkuo diplomatisch vertreten.
+Found

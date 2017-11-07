@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die abschließende Besprechung in Godesberg»
+Found
+MODSMD_ARTICLE02: Sir Nevile Henderson bei Ribbentrop.
+Found
+MODSMD_ARTICLE03: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE04: Heirat des Oberbefehlshabers des Heeres.
+Found
+MODSMD_ARTICLE05: Deutsche Zeitungen jenseits der Grenze.
+Found
+MODSMD_ARTICLE06: Sprengaufträge auch auf reichsdeutschem Gebiet!
+Found
+MODSMD_ARTICLE07: Soldateska schießt auf arbeitende Bauern.
+Found
+MODSMD_ARTICLE08: Die Prager Mordsalle aufgedeckt.
+Found
+MODSMD_ARTICLE09: Sudetendeutsche Notwehr gegen Tschechen-Horden.
+Found
+MODSMD_ARTICLE10: KW Tschechen als Geiseln verhaftet.
+Found
+MODSMD_ARTICLE11: Benesch gibt Mobilmachungsorder.
+Found
+MODSMD_ARTICLE12: Tschechische Soldaten flüchteten über die Grenze.
+Found
+MODSMD_ARTICLE13: Polnischer Schritt in Prag.
+Found
+MODSMD_ARTICLE14: Diplomatenempsänge bei Außenminister Beck.
+Found
+MODSMD_ARTICLE15: Anhaltende Kundgebungen in ganz Polen.
+Found
+MODSMD_ARTICLE16: Der englische Botschafter bei Außenminister Bonnet.
+Found
+MODSMD_ARTICLE17: Mussolini weiht Friedensaltar.
+Found
+MODSMD_ARTICLE18: Reform des Schulwesens in Nationalspanien.
+Found

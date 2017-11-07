@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Udet begrüßt die Sieger des Italienrundfluges.
+Found
+MODSMD_ARTICLE02: Dr. Ley im Siegerland.
+Found
+MODSMD_ARTICLE03: Das dänische Königspaar beim deutschen „Hamlet"-Gastspiel.
+Found
+MODSMD_ARTICLE04: Pittsburger Vertrag kommt nicht in die Verfassung.
+Found
+MODSMD_ARTICLE05: Runciman fährt am Montag nach Prag»
+Found
+MODSMD_ARTICLE06: Die britische Abordnung für Spanien.
+Found
+MODSMD_ARTICLE07: Barcelonas Antwort in London eingetroffen.
+Found
+MODSMD_ARTICLE08: 21 000 englische Rekruten in sechs Monaten eingestellt.
+Found
+MODSMD_ARTICLE09: Französischer Kriegsschiffbau zu langsam und zu teuer.
+Found
+MODSMD_ARTICLE10: Neue Streikgefahr in Frankreich.
+Found
+MODSMD_ARTICLE11: Der Kongreß der Auslandsfranzosen.
+Found
+MODSMD_ARTICLE12: Campinchi besichtigt die „Metropolis der Luft".
+Found
+MODSMD_ARTICLE13: 200 000 Peseten für das nationalspanische Hilfswerk.
+Found
+MODSMD_ARTICLE14: Das Märchen von den „ungeschützten rotspanischen Städten".
+Found
+MODSMD_ARTICLE15: Moskauer Störfeuer überall.
+Found
+MODSMD_ARTICLE16: Regelung der Baukosten der Suezkanal-Kafernen.
+Found
+MODSMD_ARTICLE17: Der erste Oberkomnnssar für Neuseeland ernannt.
+Found

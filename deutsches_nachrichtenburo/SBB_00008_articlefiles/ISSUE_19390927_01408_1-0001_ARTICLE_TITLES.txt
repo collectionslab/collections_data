@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Mit den Augen der Anderem
+Found
+MODSMD_ARTICLE02: Englands Blockade zwingt auch Schweiz zur Rationierung.
+Found
+MODSMD_ARTICLE03: Schweiz: „Schlechte Stimmungsmache."
+Found
+MODSMD_ARTICLE04: Völliges Versagen des Plans der Fischversorgung Englands.
+Found
+MODSMD_ARTICLE05: Empfindlicher Aerztemangel in London.
+Found
+MODSMD_ARTICLE06: „Sehr ernste Rückwirkungen auf das Wirtschaftsleben."
+Found
+MODSMD_ARTICLE07: Warschau kapituliert!
+Found
+MODSMD_ARTICLE08: Auch im konservativen Lager ist man unzufrieden.
+Found
+MODSMD_ARTICLE09: Norwegen leidet unter Britanniens Willkür.
+Found
+MODSMD_ARTICLE10: Woldemaras in Kowno eingetroffen.
+Found
+MODSMD_ARTICLE11: „Dunkle Wolken über England."
+Found

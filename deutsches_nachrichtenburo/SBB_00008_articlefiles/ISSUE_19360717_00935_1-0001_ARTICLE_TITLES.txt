@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Glückwunsch des Reichsverkehrsministers.
+Found
+MODSMD_ARTICLE02: Gesaudtschaftssekretär von Bibra verabschiedet sich.
+Found
+MODSMD_ARTICLE03: Berlin hat auch ein Olympisches Dorf ohne Männer.
+Found
+MODSMD_ARTICLE04: Leni Riefenstahl nach Griechenland gestartet.
+Found
+MODSMD_ARTICLE05: Beleuchtungsproben auf dem Reichsparteitaggelände.
+Found
+MODSMD_ARTICLE06: Studienreise türkischer Lehrer nach Deutschland.
+Found
+MODSMD_ARTICLE07: Appelle der Vaterländischen Front.
+Found
+MODSMD_ARTICLE08: Polnische Stimme zum deutsch-österreichischen Abkommen.
+Found
+MODSMD_ARTICLE09: England, Frankreich und die Locarno-Besprechungen.
+Found
+MODSMD_ARTICLE10: Keine englische Aufrüstungsanleihe. '
+Found
+MODSMD_ARTICLE11: Verbot politischer Uniformen in England?
+Found
+MODSMD_ARTICLE12: Zum Warenaustausch Frankreich-Italien.
+Found
+MODSMD_ARTICLE13: Die elsässischen Industriellen und Landwirte protestieren.
+Found
+MODSMD_ARTICLE14: Die Beratungen der Meerengenkonferenz beendet.
+Found
+MODSMD_ARTICLE15: Ausdehnung der polnischen Agrarreform.
+Found
+MODSMD_ARTICLE16: Trauer in Polen um General Orlicz-Dreszer.
+Found
+MODSMD_ARTICLE17: Gil Nobles klagt an.
+Found
+MODSMD_ARTICLE18: 50 Bombenflugzeuge in USA in Auftrag gegeben.
+Found

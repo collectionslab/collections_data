@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Alte Parteigenossen bei Reichsminister Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Polens Außenminister in Berlin.
+Found
+MODSMD_ARTICLE03: Zum Inspekteur der Adolf Hitler-Schulen ernannt.
+Found
+MODSMD_ARTICLE04: Mitglieder des Stadtrates von Blackpool in Verlin.
+Found
+MODSMD_ARTICLE05: Empfang an Bord der „Pretoria" in Kapstadt»
+Found
+MODSMD_ARTICLE06: Sitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE07: Mißtrauensantrag der oppositionellen Labonr Party.
+Found
+MODSMD_ARTICLE08: Ein übler Hetzer bekam den Orden der Ehrenlegion.
+Found
+MODSMD_ARTICLE10: Eine Regelung im belgischen Grubenstreik.
+Found
+MODSMD_ARTICLE11: Neuer Propagandafeldzug der Rex-Bewegung.
+Found
+MODSMD_ARTICLE12: Die Bolschewisten holen sich wieder blutige Köpfe.
+Found
+MODSMD_ARTICLE13: Weiterer Bormarsch der Nationalen auf Malaga.
+Found
+MODSMD_ARTICLE14: Sowjet-Lieferungen an die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE15: Wirtschastlicher Raubzug der Bolschewisten in Katalonien. –
+Not Found
+MODSMD_ARTICLE16: Der neue große Theaterprozeß in Moskau.
+Found
+MODSMD_ARTICLE17: Trostlose Verhältnisse in einer Sowjetstadt.
+Found
+MODSMD_ARTICLE18: Japans Aufrüstung als Folge der bolschewistischen Gefahr.
+Found
+MODSMD_ARTICLE19: Fährunglück in China. 200 Tote und Vermißte.
+Found

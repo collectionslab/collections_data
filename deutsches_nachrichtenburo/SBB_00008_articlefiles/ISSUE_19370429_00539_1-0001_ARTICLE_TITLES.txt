@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Verantwortung der katholischen Kirche.
+Found
+MODSMD_ARTICLE03: Ein Wort an die Eltern!
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: König Gustaf von Schweden in Berlin.
+Found
+MODSMD_ARTICLE06: Jagdgeschenk des italienischen Königs an Göring.
+Found
+MODSMD_ARTICLE07: Herzoge von Aosta Ehrenmitglied der Deutschen Jäglerschaft.
+Found
+MODSMD_ARTICLE08: Abschluß des Wiener Besuches des Generals Röder.
+Found
+MODSMD_ARTICLE09: Die „Times" über Brüssel.
+Found
+MODSMD_ARTICLE10: Bevorstehender amerikanischer Flottenbesuch in Kiel.
+Found
+MODSMD_ARTICLE11: Chile und die Durchsuchung von Diplomatengepäck.
+Found

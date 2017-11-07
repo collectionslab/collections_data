@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Glückwunsch Dr. Schmidts an Reichsminister von Neurath.
+Found
+MODSMD_ARTICLE03: Kundgebung für eine starke polnische Kriegsflotte.
+Found
+MODSMD_ARTICLE04: Illegale Druckschristen in Wilna beschlagnahmt.
+Found
+MODSMD_ARTICLE05: Dauktelegramm König Zogus an Ungarns Reichsverweser.
+Found
+MODSMD_ARTICLE06: Außenminister Micescu wieder in Bukarest.
+Found
+MODSMD_ARTICLE07: Micescu baut auf die nationale Haltung der Rumänen.
+Found
+MODSMD_ARTICLE08: Nationalzaranisten nehmen an Gemeindewahlen nicht teil.
+Found
+MODSMD_ARTICLE09: Bukarester Aerztekammer verhängt Sperre gegen Juden.
+Found
+MODSMD_ARTICLE10: Werbezentrale für Rotspanien in> Stockholm ausgehoben.
+Found
+MODSMD_ARTICLE11: Schwedisches Uniformverbot verlängert.
+Found
+MODSMD_ARTICLE12: Kein Stillstand der französischen Streikwelle.
+Found
+MODSMD_ARTICLE13: Vorbehalte des französischen Arbeitgeberverbandes.
+Found
+MODSMD_ARTICLE14: Der neue rotspanische Uedersali im Mittelmoer.
+Found
+MODSMD_ARTICLE15: Italiens Presse brandmarkt die sowjetspanische Hetze.
+Found
+MODSMD_ARTICLE16: Verstärkung der Patrouillen im Mittelmeer?
+Found
+MODSMD_ARTICLE17: Deutsches Flugboot rettet den Rekordflieger SwunanU-.«^
+Found
+MODSMD_ARTICLE18: Zurückweisung der dreisten Lügeunmuöver Valencias.
+Found
+MODSMD_ARTICLE19: Franco vereidigt die Nationalregierung.
+Found
+MODSMD_ARTICLE20: Pengpu von den Japanern besetzt.
+Found

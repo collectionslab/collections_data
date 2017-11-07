@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Dr. Milchner berichtet dem Reichsaußenminister.
+Found
+MODSMD_ARTICLE02: Iranische Prinzessin besuchte die Reichsfranenführung.
+Found
+MODSMD_ARTICLE03: Rechenschaftsbericht der Hindenburg-Spende für 1937.
+Found
+MODSMD_ARTICLE04: Tie italienischen Gäste der DAF. in Köln und Stuttgart.
+Found
+MODSMD_ARTICLE05: „Emilia Galotti" auch in Beuthen und Kattowitz.
+Found
+MODSMD_ARTICLE06: Der neue van Zeeland-Plan.
+Found
+MODSMD_ARTICLE07: Demnächst Probefahrt des KdF.-Schiffes „Wilhelm Gustloff".
+Found
+MODSMD_ARTICLE08: Tagung der Reichsjugendführung in Hamburg.
+Found
+MODSMD_ARTICLE09: Deutsche Siege in Garmisch-Partenkirchen.
+Found
+MODSMD_ARTICLE10: Deutsch-österreichisches Abkommen über Konkurse.
+Found
+MODSMD_ARTICLE11: Gauleiter Bohle von Budapest abgereist.
+Found
+MODSMD_ARTICLE12: Lügen über das deutsch-polnische Abkommen.
+Found
+MODSMD_ARTICLE13: Staatsbegräbnis für die Opfer von Villejuif.
+Found
+MODSMD_ARTICLE14: Weitere Millionen für die Ausrüstung Englands.
+Found
+MODSMD_ARTICLE15: Amerikanische Handelsschiffe als Hilfskreuzer gebaut.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Spenden aus Anlaß des Unglücks bei Freudenstadt.
+Found
+MODSMD_ARTICLE03: Weitere Beileidstelegramme an Stabschef Lutze.
+Found
+MODSMD_ARTICLE04: Weitere Spenden für die geschädigten Spaniendeutschen.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Richtlinien zum Abbau der privaten Vorschulen.
+Found
+MODSMD_ARTICLE07: Die Eichung der Elektrizitätszähler.
+Found
+MODSMD_ARTICLE08: Auszeichnung des Komponisten Heinrich Kaminski.
+Found
+MODSMD_ARTICLE09: Die toten SA-Männer in ihrer Heimatstadt.
+Found
+MODSMD_ARTICLE10: Kommissionssitzungen des Freizeit-Welkongresses.
+Found
+MODSMD_ARTICLE11: MS „Fulda" nach Barcelona unterwegs.
+Found
+MODSMD_ARTICLE12: Hans Friedrich Blunck las in Oslo.
+Found
+MODSMD_ARTICLE13: Venesch über die Organisierung des Friedens.
+Found
+MODSMD_ARTICLE14: Neuer Schweizer Generalstabschef.
+Found
+MODSMD_ARTICLE15: Bau eines Schwesterschiffes der „Queen Mary".
+Found
+MODSMD_ARTICLE16: Neue Teilerfolge der Nationalisten.
+Found
+MODSMD_ARTICLE17: Vormarsch der Nationalisten auf Malaga.
+Found

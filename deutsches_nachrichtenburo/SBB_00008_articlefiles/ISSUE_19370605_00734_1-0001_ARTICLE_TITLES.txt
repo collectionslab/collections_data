@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Der Führer an die Tagung der Verwaltungsakademien.
+Found
+MODSMD_ARTICLE03: Freiherr von Neurath fliegt Montag nach Belgrad.
+Found
+MODSMD_ARTICLE04: Beileid der spanischen Falangiften für die „Deutschland".
+Found
+MODSMD_ARTICLE05: Dr. Goebbels auf der Reichsnährstandsschau.
+Found
+MODSMD_ARTICLE06: Württembergs Bekenntnis Zur deutschen Schule.
+Found
+MODSMD_ARTICLE07: Botschafter von Ribbentrop nach Berlin unterwegs.
+Found
+MODSMD_ARTICLE08: Blomberg in Neapel begeistert begrüßt.
+Found
+MODSMD_ARTICLE09: Belgrader Blatt über die Prozesse gegen katholische Geistliche.
+Found
+MODSMD_ARTICLE10: Deutsche Kranzniederlegung am Bukarester Ehrenmal.
+Found
+MODSMD_ARTICLE11: Englischer Torpedobomber überfällig.
+Found
+MODSMD_ARTICLE12: Bomben nationaler Flieger auf die EI Gallo-Linie.
+Found
+MODSMD_ARTICLE13: Internationaler Theaterkougreß in Paris.
+Found
+MODSMD_ARTICLE14: Frühstück am Quai d'Orsay zu Ehren Minister Kungs.
+Found
+MODSMD_ARTICLE15: „Patriarch von Antiochien und ganz Syrien" in Paris.
+Found
+MODSMD_ARTICLE16: Was geht in Moskau vor?
+Found
+MODSMD_ARTICLE17: Moskau bestreitet neue Verhaftungen.
+Found
+MODSMD_ARTICLE18: Die „Prawda" im Kampf gegen die „inneren Feinde".
+Found
+MODSMD_ARTICLE19: „Herald Tribüne" deckt Dimitroffs Machenschaften auf.
+Found

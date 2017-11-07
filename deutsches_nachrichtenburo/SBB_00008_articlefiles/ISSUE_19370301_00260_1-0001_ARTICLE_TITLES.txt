@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Grundsteinlegung zum „Haus der Deutschen Arbeitsfront".
+Found
+MODSMD_ARTICLE02: Armann eröffnet den Reichsberusswcttkampf des Bergbaus.
+Found
+MODSMD_ARTICLE03: Garvin gegen neue englische Verpflichtungen.
+Found
+MODSMD_ARTICLE04: „Popolo di Roma" über den Widersinn der Tschechoslowakei.
+Found
+MODSMD_ARTICLE05: Polens Weg Zur nationalen Einigung.
+Found
+MODSMD_ARTICLE06: Polnische Lehrer gegen Prags Minderheiten-Pmitik.
+Found
+MODSMD_ARTICLE07: Marxistenüberfall auf eine Versammlung de la Rocgues.
+Found
+MODSMD_ARTICLE08: Neue kommunistische Gewaltakte in Tunis.
+Found
+MODSMD_ARTICLE09: Bolschewisten beschießen das Lazarett in Oviedo.
+Found
+MODSMD_ARTICLE10: Die Fünfkirchener Bergarbeiter erneut in Streik getreten.
+Found
+MODSMD_ARTICLE11: Hayaschi über friedliche Entwicklung Japans nach Süden.
+Found

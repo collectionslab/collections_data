@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Tagesbefehl des Oberbefehlshabers der Luftwaffe.
+Found
+MODSMD_ARTICLE02: Kapitulation der Westerplatte.
+Found
+MODSMD_ARTICLE03: Verordnung über die Behandlung von Ausländern.
+Found
+MODSMD_ARTICLE04: Der erste slowakische Heeresbericht.
+Found
+MODSMD_ARTICLE05: Die Flucht aus Warschau nimmt zu.
+Found
+MODSMD_ARTICLE06: Die britische Entschuldigung in Kopenhagen.
+Found
+MODSMD_ARTICLE07: Holland empört über Englands Neutralitätsbrüche.
+Found
+MODSMD_ARTICLE08: Lebensmittelkarten auch in Holland.
+Found
+MODSMD_ARTICLE09: Das deutsche Weißbuch in der sinnischen Presse.
+Found
+MODSMD_ARTICLE10: Starke Beachtung des deutschen Weißbuchs in Ungarn.
+Found
+MODSMD_ARTICLE11: „Der Westwall ein Wunderwerk in Stahl und Beton".
+Found
+MODSMD_ARTICLE12: Polen ist London völlig gleichgültig!
+Found
+MODSMD_ARTICLE13: Irische Schiffe sollen W der Heimat bleiben.
+Found
+MODSMD_ARTICLE14: Die Einnahme Krakaus in Moskau stark beachtet.
+Found
+MODSMD_ARTICLE15: Englische Lügen laufen sich tot.
+Found

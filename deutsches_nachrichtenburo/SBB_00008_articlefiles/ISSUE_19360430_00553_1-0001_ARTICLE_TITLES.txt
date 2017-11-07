@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Aufruf von Dr. Ley zum 1. Mai.
+Found
+MODSMD_ARTICLE02: Reichsminister Tr. Goebbels begrüßt die Arbeiterabordnung und die Reichsberufswettkampf-Sieger.
+Not Found
+MODSMD_ARTICLE03: Ter deutsche Arbeiter braucht heute nicht mehr ein gleichberechtigtes Glied des Volkes zu werden er ist es bereits!"
+Not Found
+MODSMD_ARTICLE04: Der chinesische Regierungsvertreter für die Olympiade.
+Found
+MODSMD_ARTICLE05: Regelung für den deutsch-manschurischen Handel.
+Found
+MODSMD_ARTICLE06: König Faruks Abreise aus England.
+Found
+MODSMD_ARTICLE07: Mittwoch Unterhausanssprache.
+Found
+MODSMD_ARTICLE08: Der Ministerpräsident von Neu-Süd-Wales in London.
+Found
+MODSMD_ARTICLE09: Wellington Koo bei Lebrun.
+Found
+MODSMD_ARTICLE10: Unterrichtsminister Guernut kandidiert in Westfrankreich.
+Found
+MODSMD_ARTICLE11: Keine Volksfront-Negierung in Frankreich?
+Found
+MODSMD_ARTICLE12: Spaniens Hotelgewerbe unter rotem Terror.
+Found

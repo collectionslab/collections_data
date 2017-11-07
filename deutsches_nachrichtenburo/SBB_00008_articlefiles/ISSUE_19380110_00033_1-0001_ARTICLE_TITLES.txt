@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer im Nationaltheater in München.
+Found
+MODSMD_ARTICLE02: Neichsminister Darre bei der Deutschen Kolonie.
+Found
+MODSMD_ARTICLE03: Tie italienische Presse über das Wirken Darres.
+Found
+MODSMD_ARTICLE04: Graf Ciano nach Budapest abgereist.
+Found
+MODSMD_ARTICLE05: Stärkere Vertretung der japanischen Presse in Italien.
+Found
+MODSMD_ARTICLE06: Aussprache zwischen Dr. Lep und Präsident Cianetti.
+Found
+MODSMD_ARTICLE07: Zusammenarbeit „Oesterreichisches" Jungvolk' Bundesheer.
+Found
+MODSMD_ARTICLE08: Tie Prinzenhochzeit in Athen.
+Found
+MODSMD_ARTICLE09: Rumäniens Außenminister in Prag.
+Found
+MODSMD_ARTICLE10: Neuer kommunistischer Putschplan in Frankreich.
+Found
+MODSMD_ARTICLE11: Knatchbull-Hugessen nach London zurückgekehrt.
+Found
+MODSMD_ARTICLE12: Die Königin von Dänemark erkrankt.
+Found
+MODSMD_ARTICLE13: Zwischenfälle auf dem Schwabenberg bei Budapest.
+Found
+MODSMD_ARTICLE14: Schweden und der Kampf in Spanien.
+Found
+MODSMD_ARTICLE15: Begegnung der Präsidenten Argentiniens und Brasiliens.
+Found
+MODSMD_ARTICLE16: Bedeutsamer Beschluß des japanischen Kabinetts.
+Found
+MODSMD_ARTICLE17: Die Schantung-Halbinsel von chinesischen Truppen frei.
+Found
+MODSMD_ARTICLE18: General Herhog tritt in den Ruhestand.
+Found

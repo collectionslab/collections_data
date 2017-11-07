@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Genesungswünsche des Führers für Dänemarks Königin.
+Found
+MODSMD_ARTICLE02: Der Führer an General Daluege.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Die spanischen Jugendführer Gäste der Stadt München.
+Found
+MODSMD_ARTICLE05: Das Ausland über die Tage von Nürnberg.
+Found
+MODSMD_ARTICLE06: Polnische Stellungnahme zur tschechischen Schulpolitik.
+Found
+MODSMD_ARTICLE07: Das freche Treiben der Pariser Emigrantenklüngel.
+Found
+MODSMD_ARTICLE08: Der italienische Emigrant Tamburini verhaftet.
+Found
+MODSMD_ARTICLE09: Die Taschen voll geraubten Schmucks.
+Found
+MODSMD_ARTICLE10: Kundgebung der Syrischen Volkspartei in Beirut.
+Found
+MODSMD_ARTICLE11: Unabhängigkeitstag in Mexiko und Mittelamerika.
+Found
+MODSMD_ARTICLE12: „Die größte Schlacht seit dem russisch-japanischen Krieg".
+Found

@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Die deutsche Getreidewirtschaft 1936/37.
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Frick auf dem Gautag Hessen-Nassau.
+Found
+MODSMD_ARTICLE04: Die Weltpresse zur deutsch-österreichischen Vereinbarung.
+Found
+MODSMD_ARTICLE05: Italien geht nicht nach Brüssel.
+Found
+MODSMD_ARTICLE06: Aufhebung der Sanktionen.
+Found

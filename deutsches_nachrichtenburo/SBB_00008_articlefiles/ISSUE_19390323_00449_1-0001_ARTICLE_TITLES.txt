@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Ein isländischer Dichter spendet für das WHW.
+Found
+MODSMD_ARTICLE02: König Viktor Emanuel ernennt 23 Senatoren.
+Found
+MODSMD_ARTICLE03: Landesgruppenleiter Eitel bei Minister Starace.
+Found
+MODSMD_ARTICLE04: Ein Falangistenführer wird in Rom geehrt.
+Found
+MODSMD_ARTICLE05: Die dänische Presse zur Heimkehr des Memellandes.
+Found
+MODSMD_ARTICLE06: London würdigt die Begeisterung der Memeldeutschen.
+Found
+MODSMD_ARTICLE07: Die „Times" wird naiv!
+Found
+MODSMD_ARTICLE08: Londoner Halluzinationen.
+Found
+MODSMD_ARTICLE09: Paris: „Die Einkreisungspläne machen keine Fortschritte".
+Found
+MODSMD_ARTICLE10: Das ganze Theater war umsonst.
+Found
+MODSMD_ARTICLE11: Wie wird Frankreich sein Ungeziefer los?
+Found
+MODSMD_ARTICLE12: Daladier öffnet der Komintern die Tür.
+Found
+MODSMD_ARTICLE13: Verbindung der Westmächte mit den Sowjets unfaßbar.
+Found
+MODSMD_ARTICLE14: Der Herzog von Coburg in Saloniki.
+Found
+MODSMD_ARTICLE15: Von elf bleiben zwei.
+Found
+MODSMD_ARTICLE16: Hudsons Geschäfte in Europa.
+Found
+MODSMD_ARTICLE17: Ausschußwahlen bei den Sowjets.
+Found
+MODSMD_ARTICLE18: Südafrikas Opposition verlangt Aufklärung.
+Found
+MODSMD_ARTICLE19: Neue Todesurteile in Palästina.
+Found
+MODSMD_ARTICLE20: Verhaftung eines Araberführers in Damaskus.
+Found
+MODSMD_ARTICLE21: Nur die Juden für die Rooseveltsche Jnterventionspolitik.
+Found
+MODSMD_ARTICLE22: Roosevelt bleibt Roosevelt.
+Found
+MODSMD_ARTICLE23: Ohne Amerika! sagt „New Jork Sun".
+Found

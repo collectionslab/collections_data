@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Dänemark gegen kommunistische Rechtsverdrehung.
+Found
+MODSMD_ARTICLE02: Strafandrohung für staatsfeindliche Umtriebe.
+Found
+MODSMD_ARTICLE03: Pariser Presse über die Schlacht in Clichy.
+Found
+MODSMD_ARTICLE04: Sitzung des Binuenschisfahrtsausschufses in Paris.
+Found
+MODSMD_ARTICLE05: Straßenschlacht in Oran.
+Found
+MODSMD_ARTICLE06: Sture Haltung der Pariser Presse in der Westpaktfrage.
+Found
+MODSMD_ARTICLE07: Eröffnung der Pariser Weltausstellung verschoben?
+Found
+MODSMD_ARTICLE08: Aufruhr gegen Valencia. Sowjettanks gegen Anarchisten.
+Found
+MODSMD_ARTICLE09: Der Großwesir von Spanisch-Marokko in Salamanca.
+Found
+MODSMD_ARTICLE10: Der nationale Vormarsch im Jarama-Abschnitt.
+Found
+MODSMD_ARTICLE11: Nachrufe für Sir Austen Chamberlain.
+Found
+MODSMD_ARTICLE12: Vertretung der Sowjetunion bei Londoner Krönungsfeier.
+Found
+MODSMD_ARTICLE13: Aussperrung in Wolkenkratzer Hotels.
+Found

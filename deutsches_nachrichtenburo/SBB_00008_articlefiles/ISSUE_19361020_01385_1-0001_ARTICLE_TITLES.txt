@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Führer an die Reichstagung für Vorgeschichte.
+Found
+MODSMD_ARTICLE02: Das Ausland zum Besuch Cianos in Berlin.
+Found
+MODSMD_ARTICLE03: Schwere politische Zusammenstöße in Nantes.
+Found
+MODSMD_ARTICLE04: Protestkundgebung französischer Bauern.
+Found
+MODSMD_ARTICLE05: Französische Flugzeuge auf dem Wege nach Spanien.
+Found
+MODSMD_ARTICLE06: Nationalistischer General telephoniert mit Madrid.
+Found
+MODSMD_ARTICLE07: Graf Ciano in München.
+Found
+MODSMD_ARTICLE08: Befriedigende Ergebnisse der Hangtschauer Konferenz.
+Found
+MODSMD_ARTICLE09: Landon über seine Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE10: Woodring über Rooscvelts Regierungsmaßnahmen.
+Found

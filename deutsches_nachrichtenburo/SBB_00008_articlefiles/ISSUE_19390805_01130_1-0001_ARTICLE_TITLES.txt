@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer gratuliert.
+Found
+MODSMD_ARTICLE02: Die Leistungssteigerung im Kohlenbergbau.
+Found
+MODSMD_ARTICLE03: Der Dank an die Erntehelfer.
+Found
+MODSMD_ARTICLE04: Französische Festungswerke überschwemmt.
+Found
+MODSMD_ARTICLE05: Campinchi übernimmt das Handelsmarineministerium.
+Found
+MODSMD_ARTICLE06: Die Sitzung der französischen Generalräte verschoben.
+Found
+MODSMD_ARTICLE07: Der Ausklang der Feiern in Griechenland.
+Found
+MODSMD_ARTICLE08: Polnischer Terror gegen Tschechen.
+Found
+MODSMD_ARTICLE09: Vier' Monate Gefängnis wegen eines bloßen Verdachtes!
+Found
+MODSMD_ARTICLE10: Neue Methode im Vernichtungsfeldzug gegen das Deutschtum
+Found
+MODSMD_ARTICLE11: Keine öffentlichen Hinrichtungen mehr in der Türkei.
+Found
+MODSMD_ARTICLE12: Die Kennzahl der Großhandelspreise vom 2. August 1339.
+Found

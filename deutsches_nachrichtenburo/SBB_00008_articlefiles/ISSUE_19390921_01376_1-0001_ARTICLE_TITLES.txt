@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Schon 176 666 Gefangene im Weichselbogen;
+Found
+MODSMD_ARTICLE02: Besetzung von Grodno, Kowel und Lemberg durch die Russen.
+Found
+MODSMD_ARTICLE03: „Scharfe Abrechnung mit den Londoner Kriegshetzern."
+Found
+MODSMD_ARTICLE04: „Wreme" über das deutsch-russische Zusammengehen.
+Found
+MODSMD_ARTICLE05: Vergebliche Lügen.
+Found
+MODSMD_ARTICLE06: Das schnelle Ende des Feldzuges beeindruckt Holland.
+Found
+MODSMD_ARTICLE07: Bürgerkrieg in Warschau.
+Found
+MODSMD_ARTICLE08: Rom: „Adolf Hitler hat den Weg klar aufgezeigt."
+Found
+MODSMD_ARTICLE09: Die oberitalienische Presse zur Lage.
+Found
+MODSMD_ARTICLE10: „Durch Eingreifen Rußlands neue Lage entstanden".
+Found
+MODSMD_ARTICLE11: „Aftenposten" nagelt die britische Kriegsschuld fest.
+Found
+MODSMD_ARTICLE12: Em Finne über seine Eindrücke in England.
+Found
+MODSMD_ARTICLE13: Japan: Die Verantwortung bei den Westmächten.
+Found
+MODSMD_ARTICLE14: England und Frankreich sollen ihre Truppen zurMziehen.
+Found

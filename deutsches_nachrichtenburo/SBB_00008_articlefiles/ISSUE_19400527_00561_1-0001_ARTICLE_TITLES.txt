@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Großer Erfolg deutscher Schnellboote.
+Found
+MODSMD_ARTICLE02: Britannien tritt das Völkerrecht mit Füßen.
+Found
+MODSMD_ARTICLE03: Jud Mandel setzt ab und verhaftet weiter.
+Found
+MODSMD_ARTICLE04: Opfer der Fallschirmpsychose.
+Found
+MODSMD_ARTICLE05: Wachsende Ausfuhrschwierigkeiten Frankreichs.
+Found
+MODSMD_ARTICLE06: Bekenntnis Farinaceis zur Politik der Achse.
+Found
+MODSMD_ARTICLE07: Treueschwur der faschistischen Studenten.
+Found
+MODSMD_ARTICLE08: Finnland bewundert den deutschen Vormarsch.
+Found
+MODSMD_ARTICLE09: „Prawda" über das „Kriegsfieber" in Amerika.
+Found
+MODSMD_ARTICLE10: Geflüchtete Norweger kehren heim.
+Found
+MODSMD_ARTICLE11: MacDonald stöhnt: Todernste Phase.
+Found
+MODSMD_ARTICLE12: Fliegeralarm an der Ostküste von Kent.
+Found
+MODSMD_ARTICLE13: Wie „Times" die katastrophale Lage umschreibt.
+Found
+MODSMD_ARTICLE14: Die Nanking-Abordnung wieder von Tokio abgereist.
+Found
+MODSMD_ARTICLE15: Kontrolle der Ausländer in USA.
+Found
+MODSMD_ARTICLE16: W. C. übt blutige Rachejustiz.
+Found
+MODSMD_ARTICLE17: Wird Churchill das Attentat wagen?
+Found

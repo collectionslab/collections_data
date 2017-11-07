@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm des Führers an den Schah von Iran.
+Found
+MODSMD_ARTICLE02: Beförderungen im Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE03: Ernennungen im Reichsernährungsministerium.
+Found
+MODSMD_ARTICLE04: In Erinnerung an die Schlacht am Skagerrak.
+Found
+MODSMD_ARTICLE05: 27. Hauptversammlung der Kaiser-Wilhelm-Gesellschaft.
+Found
+MODSMD_ARTICLE07: Planmäßige Tschechisierungsversuche.
+Found
+MODSMD_ARTICLE08: „Das Land gleicht einem Feldlager."
+Found
+MODSMD_ARTICLE09: Estlands Außenminister in Helsinki.
+Found
+MODSMD_ARTICLE10: Fortsetzung der Luftangriffe auf Kanton.
+Found
+MODSMD_ARTICLE11: Beschaffung von Finanzmitteln im Kriegsfalle in USA.
+Found
+MODSMD_ARTICLE12: Prafidentenwechsel in der Dominikanischen Republik.
+Found

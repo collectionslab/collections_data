@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: 25. Deutsche Ostmesse Königsberg.
+Found
+MODSMD_ARTICLE02: Kommunistische Umtriebe in Mittelindien aufgedeckt.
+Found
+MODSMD_ARTICLE03: Kabinettsrat in Tokio.
+Found
+MODSMD_ARTICLE04: Sechs chinesische Flugzeuge vermißt.
+Found
+MODSMD_ARTICLE05: USA gegen Einbeziehung Schanghais in das Kampfgebiet.
+Found

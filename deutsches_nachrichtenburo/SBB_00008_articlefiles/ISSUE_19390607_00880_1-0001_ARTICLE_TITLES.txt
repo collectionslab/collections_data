@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer verlieh Erinnerungsband „Legion Condor".
+Found
+MODSMD_ARTICLE02: Ehrung, Manfreds von Richthofen.
+Found
+MODSMD_ARTICLE03: Großes Freudenbiwak bei den Condor-Legionären.
+Found
+MODSMD_ARTICLE04: Italien zum Empfang der Legion Condor.
+Found
+MODSMD_ARTICLE05: Neapel, K. Juni. Den Höhepunkt der Kundgebungen bei der Ankunft der italienischen Spanien-Legionäre bildete die große Parade vor dem König auf der Piazza Plebiscito.
+Not Found
+MODSMD_ARTICLE06: Waffenbrüderschaft begründete Schicksalsgemeinschaft.
+Found
+MODSMD_ARTICLE07: Grußtelegramm Suners an Mussolini.
+Found
+MODSMD_ARTICLE08: Der spanische Innenminister in Rom.
+Found
+MODSMD_ARTICLE09: Wer bedroht den Frieden?
+Found
+MODSMD_ARTICLE10: Die spanische Presse zu Tuners Empfang in Neapel.
+Found
+MODSMD_ARTICLE11: Tie soziale Neuordnung Spaniens.
+Found
+MODSMD_ARTICLE12: Gamelin in London.
+Found
+MODSMD_ARTICLE13: Schwedens Gesandter in Moskau heimgerufen.
+Found
+MODSMD_ARTICLE14: Jüdischer Kommunist putscht die Neger auf.
+Found
+MODSMD_ARTICLE15: Vollstreckung eines Todesurteils.
+Found
+MODSMD_ARTICLE16: Deutsche Mannschaften siegten im Sternflug.
+Found

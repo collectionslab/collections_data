@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Reichsmmisier Dr. Goebbels erkrankt.
+Found
+MODSMD_ARTICLE02: Die Altersversorgung des deutschen! Handwerkers.
+Found
+MODSMD_ARTICLE03: Weihnachtsfeier im Reichsfinanzministerium.
+Found
+MODSMD_ARTICLE04: Ehrenzeichen des Deutschen Roten Kreuzes verliehen.
+Found
+MODSMD_ARTICLE05: Die Deutsche Reichslotterie kommt.
+Found
+MODSMD_ARTICLE06: Verschärfung der Schweizer Einbürgerungsbestunmungen.
+Found
+MODSMD_ARTICLE07: Dr. Diso im Obersten Rat der Staatsverteidigung.
+Found
+MODSMD_ARTICLE08: Die Judenfrage in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE09: Stetiges Vertrauen zu Stojadinowitschs Regierung.
+Found
+MODSMD_ARTICLE10: Das Unterhans vertagt sich bis 31. Januar.
+Found
+MODSMD_ARTICLE11: Um die Gewährung der Kriegführendenrechte an Franco.
+Found
+MODSMD_ARTICLE12: Erst die Augen ausgestochen, dann getötet.
+Found
+MODSMD_ARTICLE13: Aus der Hölle Palästinas.
+Found
+MODSMD_ARTICLE14: lebendigem Leibe verbrannten.
+Found
+MODSMD_ARTICLE15: Irak und Jemen zur Palästina-Frage.
+Found
+MODSMD_ARTICLE16: Die Irak-Regierung verbannt Oppositionsführer.
+Found

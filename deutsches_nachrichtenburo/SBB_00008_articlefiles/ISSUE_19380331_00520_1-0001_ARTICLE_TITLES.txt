@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ter Führer am Rhein.
+Found
+MODSMD_ARTICLE02: 3 Millionen Portionen Erbswurst für Oesterreich.
+Found
+MODSMD_ARTICLE03: Vorerst keine Einbürgerungen in Oesterreich.
+Found
+MODSMD_ARTICLE04: Ungarischer Staatskommissar zur Lösung der Judenfrage?
+Found
+MODSMD_ARTICLE05: Auflösung aller Parteien Rumäniens?
+Found
+MODSMD_ARTICLE06: Keime Aenderung der Haltung Londons gegenüber Nanking.
+Found
+MODSMD_ARTICLE07: „Weltsender Paris".
+Found
+MODSMD_ARTICLE08: Weitere nationale Erfolge an der Aragonfront.
+Found
+MODSMD_ARTICLE09: Die deutschen Rekordflieger in Rio de Janeiro.
+Found
+MODSMD_ARTICLE10: Abschluß einer Strafexpedition auf den Philippinen.
+Found

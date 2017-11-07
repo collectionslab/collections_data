@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer nach Berlin abgeflogen.
+Found
+MODSMD_ARTICLE02: Ein Interview des Führers»
+Found
+MODSMD_ARTICLE03: Einladungen zum Empfang des Führers.
+Found
+MODSMD_ARTICLE04: Göring an Reichsstatthalter Seyß-Jnquart.
+Found
+MODSMD_ARTICLE05: Eingliederung der österreichischen Kraftfahrer.
+Found
+MODSMD_ARTICLE06: Dr. Frick aus Wien abgeflogen.
+Found
+MODSMD_ARTICLE07: Ein verdienter Kämpfer rehabilitiert.
+Found
+MODSMD_ARTICLE08: „Schuschnigg, der Mann im luftleeren Raum".
+Found
+MODSMD_ARTICLE09: Großes Durcheinander in Katalonien.
+Found
+MODSMD_ARTICLE10: „Sowjetspaniens Widerstand anscheinend gebrochen."
+Found
+MODSMD_ARTICLE11: Das britische Kabinett zusammengetreten.
+Found
+MODSMD_ARTICLE12: Moskau: „Ein neuer Sieg des Sowjetvolkes".
+Found
+MODSMD_ARTICLE13: Außenminister Beck in Warschau eingetroffen.
+Found
+MODSMD_ARTICLE14: Der Hafenverkehr von Los Angeles lahmgelegt. .
+Found

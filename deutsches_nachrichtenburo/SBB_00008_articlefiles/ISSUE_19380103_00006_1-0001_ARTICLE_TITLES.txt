@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Goebbels in seiner Heimatstadt.
+Found
+MODSMD_ARTICLE02: Forschungsstelle für forstwirtschaftliche Marktordnung.
+Found
+MODSMD_ARTICLE03: Neujahrsempfang beim Danziger Senatspräsidejnten.
+Found
+MODSMD_ARTICLE04: Keine Wiedereröffnung der Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE05: Polens Presse zum Jahreswechsel.
+Found
+MODSMD_ARTICLE06: Der Warschauer Neujahrsempfang abgesagt.
+Found
+MODSMD_ARTICLE07: Wie Moskau die Kirchen zerschlug.
+Found
+MODSMD_ARTICLE08: Die neue Taktik der Komintern.
+Found
+MODSMD_ARTICLE09: Stalin beschränkt die Machtbefugnis Woroschilows.
+Found
+MODSMD_ARTICLE10: „Prawda" kündigt neue Hinrichtungen für 1338 an.
+Found
+MODSMD_ARTICLE11: „Wallstreet und Genf Brutstätten des Bolschewismus". M
+Found
+MODSMD_ARTICLE12: Neujahrsansprache Francos an seine Truppen.
+Found
+MODSMD_ARTICLE13: Ter neue japanische Botschafter in Salamanca.
+Found
+MODSMD_ARTICLE14: Verfolgung der Bolschewismen an der Teruel-Front.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Eröffnungssitzung der Lilienthal-Gesellschast.
+Found
+MODSMD_ARTICLE02: Die Neichssteuereinnahmen im Rechnungsjahr 1935.
+Found
+MODSMD_ARTICLE03: NSV hilft Hochwassergeschädigten.
+Found
+MODSMD_ARTICLE04: Davispokal-Kampf Deutschland—Irland.
+Not Found
+MODSMD_ARTICLE05: Genfer Erinnerungsfeiern zur Reformations-Einführung.
+Found
+MODSMD_ARTICLE06: Klage Danziger jüdischer Kaufleute abgewiesen.
+Found
+MODSMD_ARTICLE07: Das Hin und Her der Streiklage in Frankreich.
+Found
+MODSMD_ARTICLE08: De Peppo Kabinettschef im Außenministerium Italiens.
+Found
+MODSMD_ARTICLE09: Neue Bluttaten der spanischen Radikalsten.
+Found
+MODSMD_ARTICLE10: Ein griechisches Dementi.
+Found
+MODSMD_ARTICLE11: Frank Knox republikanischer Vizepräsidentschastskandidat.
+Found

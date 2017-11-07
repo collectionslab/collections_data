@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ein Antischwatz-Feldzug in England.
+Found
+MODSMD_ARTICLE02: Erbärmliche Lüge richtiggestellt.
+Found
+MODSMD_ARTICLE03: Alte englische Rezepte neu bestätigt.
+Found
+MODSMD_ARTICLE04: Erst hatte die reiche Insel nicht daran gedacht.
+Found
+MODSMD_ARTICLE05: Giornale d'Jtalia: Mehr Raum für Italien!
+Found
+MODSMD_ARTICLE06: Der französische Steuerzahler merkt etwas.
+Found
+MODSMD_ARTICLE07: Britische Kontrollschikanen verteuern Hollands Export.
+Found
+MODSMD_ARTICLE08: Nochmals: Intensive Bombenangriffe auf deutsche Städte".
+Found
+MODSMD_ARTICLE09: Ein Taß-Kommentar Zur Balkankonferenz.
+Found
+MODSMD_ARTICLE10: Zufriedenheit mit den Balkanergebnissen.
+Found
+MODSMD_ARTICLE11: Britische Seeräuberei in griechischen Gewässern.
+Found
+MODSMD_ARTICLE12: Noch ein englischer Verlust.
+Found
+MODSMD_ARTICLE13: Abfuhr für den britischen Botschafter in Washington.
+Found

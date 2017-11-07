@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Die Bayreuther Künstler beim Führer.
+Found
+MODSMD_ARTICLE02: Die Salzburger Festspiele 1939 eröffnet.
+Found
+MODSMD_ARTICLE03: Der 5. Todestag Hindenburgs.
+Found
+MODSMD_ARTICLE04: Anerkennung der Slowakischen Republik durch Schweden.
+Found
+MODSMD_ARTICLE05: Der kalte Terror der polnischen Behörden.
+Found
+MODSMD_ARTICLE06: Massenverhaftungen unter den Ukrainern.
+Found
+MODSMD_ARTICLE07: Der deutsche Flugrekord bereits übertroffen!
+Found
+MODSMD_ARTICLE08: Törichte Gerüchte um General Queipo de Llano.
+Found
+MODSMD_ARTICLE09: Amerikanische Geldgeber der JRA.
+Found
+MODSMD_ARTICLE10: Der britische Bürgerkrieg.
+Found
+MODSMD_ARTICLE11: Tie zivile Verteidigung in England unzureichend.
+Found
+MODSMD_ARTICLE12: Scharfe Desavouierung Londons durch Moskau.
+Found
+MODSMD_ARTICLE13: Blutige Zusammenstöße in Bombay.
+Found
+MODSMD_ARTICLE14: Was ist Juda ohne Englands Schutz?
+Found
+MODSMD_ARTICLE15: Washington mischt sich in Tokio ein.
+Found
+MODSMD_ARTICLE16: Die antibritische Bewegung dehnt sich weiter aus.
+Found
+MODSMD_ARTICLE17: Neue schwere Niederlage Roosevelts.
+Found
+MODSMD_ARTICLE18: Neuer Flottenchef in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE19: Um den beschlagnahmten amerikanischen Oelbesitz.
+Found

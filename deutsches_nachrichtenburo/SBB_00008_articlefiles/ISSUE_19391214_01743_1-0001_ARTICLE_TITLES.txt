@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: „Graf Spee" im Kampf vor dem La Plata.
+Found
+MODSMD_ARTICLE02: Verstärkung des Arbeitsschutzes.
+Found
+MODSMD_ARTICLE03: Die Vesichtigungsreise des Reichswirtschaftsministers.
+Found
+MODSMD_ARTICLE04: Wieder Secret Service-Agenten in der Slowakei verhaftet.
+Found
+MODSMD_ARTICLE05: Die letzte Nummer der „Rigaischen Rundschau".
+Found
+MODSMD_ARTICLE06: „Mit den rücksichtslosesten Methoden".
+Found
+MODSMD_ARTICLE07: Wieder ein britischer Dampfer torpediert.
+Found
+MODSMD_ARTICLE08: Halifax betont erneut den britischen Vernichtungswillem
+Found
+MODSMD_ARTICLE09: Vollstreckung eines Todesurteils.
+Found

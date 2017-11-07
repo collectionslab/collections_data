@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: General Russo beim Führer.
+Found
+MODSMD_ARTICLE02: Ehren-Patenschaft des Führers für ein Steirerkind.
+Found
+MODSMD_ARTICLE03: Göring sprach Frau Kirdorf sein Beileid aus.
+Found
+MODSMD_ARTICLE04: Generalmajor Fellgiebel bei der SA.
+Found
+MODSMD_ARTICLE05: 117 Märtyrer der Ostmark am Rhein.
+Found
+MODSMD_ARTICLE06: Faschismus und Rassenfrage.
+Found
+MODSMD_ARTICLE07: Zunächst keine gesetzlichen Mastnahmen zur Rassenfrage.
+Found
+MODSMD_ARTICLE08: Englische Regierung lästt dumme Fragen unbeantwortet.
+Found
+MODSMD_ARTICLE09: 26 Tote bei einem italienischen Flugzeugunglück.
+Found
+MODSMD_ARTICLE10: „News Chronicle" weiß nichts zu antworten.
+Found
+MODSMD_ARTICLE11: Warum China keine englische Anleihe bekommt.
+Found
+MODSMD_ARTICLE12: Neue Aufruhrakte in Haifa.
+Found

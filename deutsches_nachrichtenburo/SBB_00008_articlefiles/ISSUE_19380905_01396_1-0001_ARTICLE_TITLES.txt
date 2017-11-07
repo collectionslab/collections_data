@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Das Ausland zu Nürnberg.
+Found
+MODSMD_ARTICLE02: Die faschistische Parteitag-Abordnung in München.
+Found
+MODSMD_ARTICLE03: Deutsche Spitzbergen-Expedition zurückgekehrt.
+Found
+MODSMD_ARTICLE04: Denkmal für König Albert I. auf französischem Boden.
+Found
+MODSMD_ARTICLE05: Um die Entsendung eines Beauftragten nach Spanien.
+Found
+MODSMD_ARTICLE06: Zum 85. Mal!
+Found
+MODSMD_ARTICLE07: Abschluß des Internationalen Geschichts-Kongresses.
+Found
+MODSMD_ARTICLE08: Politische Amnestie in Albanien.
+Found
+MODSMD_ARTICLE09: Sechs Kilometer Vormarsch an der Ebro-Frout.
+Found
+MODSMD_ARTICLE10: Beginn des japanischen Großangriffes auf Hankau.
+Found
+MODSMD_ARTICLE11: Mexiko antwortet den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE12: Die amerikanischen Kommunisten für Roosedelt.
+Found

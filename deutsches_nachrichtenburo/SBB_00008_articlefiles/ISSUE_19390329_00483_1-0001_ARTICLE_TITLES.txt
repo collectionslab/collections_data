@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Glückwunschtelegramme an Dr. Neumann.
+Found
+MODSMD_ARTICLE02: „Giornale d'Jtalia" über die italienische Luftwaffe.
+Found
+MODSMD_ARTICLE03: Frankreich hat sein Wort gebrochen!
+Found
+MODSMD_ARTICLE04: Mussolini: „So werden alle Feinde des Faschismus enden!"
+Found
+MODSMD_ARTICLE05: Falange-Ergebungen in der roten Etappe.
+Found
+MODSMD_ARTICLE07: Begeisterte Kundgebungen in Burgos.
+Found
+MODSMD_ARTICLE08: Das unrühmliche Ende der roten „Front von Madrid".
+Found
+MODSMD_ARTICLE09: Die Madrider Anlange gedenkt ihrer Toten.
+Found
+MODSMD_ARTICLE10: Die Lebensmittelversorgung Madrids wieder sichergestellt.
+Found
+MODSMD_ARTICLE11: Franca durch Rumänien seit 23. Februar anerkannt.
+Found
+MODSMD_ARTICLE12: Belgrader Presseecho zur Rede des Duce.
+Found
+MODSMD_ARTICLE13: „Organisierter Feldzug gegen den Frieden."
+Found
+MODSMD_ARTICLE14: Grundsätzliche Neuordnung der litauischen Innenpolitik?
+Found
+MODSMD_ARTICLE15: Die Arbeit der ungarisch-slowakischen Grenzkommission.
+Found
+MODSMD_ARTICLE16: Besuch des italienischen Ackerbauministers in Ungarn.
+Found
+MODSMD_ARTICLE17: Noch eine polnische Absage an England.
+Found
+MODSMD_ARTICLE18: Griechenland beteiligt sich nicht an den Umtrieben!
+Found
+MODSMD_ARTICLE19: Der neue Reinfall der Demokratien.
+Found
+MODSMD_ARTICLE20: Noch immer erhebliche Verwirrung in Frankreich.
+Found
+MODSMD_ARTICLE21: Stärkezahlen der englischen Armee.
+Found

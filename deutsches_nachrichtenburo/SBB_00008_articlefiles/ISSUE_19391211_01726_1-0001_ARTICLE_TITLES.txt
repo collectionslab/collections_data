@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Eine deutsche Klarstellung.
+Found
+MODSMD_ARTICLE02: In Berlin 113 l) lM Reichsmark gesammelt.
+Found
+MODSMD_ARTICLE03: England will Amerika nicht sofort antworten.
+Found
+MODSMD_ARTICLE04: „Das italienische Volk duldet keine Ueüergrisfe Englands."
+Found
+MODSMD_ARTICLE05: „Sie wollen die Neutralen für sich arbeiten lassen."
+Found
+MODSMD_ARTICLE06: Die italienischen Verteidigungsanlagen.
+Found
+MODSMD_ARTICLE07: Baumwoll-Sorgen in Großbritannien.
+Found
+MODSMD_ARTICLE08: Britische Tyrannei im Militärlager bei Pretoria.
+Found
+MODSMD_ARTICLE09: Auch in Kenya fehlen Devisen.
+Found
+MODSMD_ARTICLE10: Der englische Export klappt nicht.
+Found
+MODSMD_ARTICLE11: England liefert Flugzeuge und Gasmasken nach Finnland.
+Found
+MODSMD_ARTICLE12: Wie im Burenkrieg!
+Found
+MODSMD_ARTICLE13: „39999 Tonnen an einem einzigen Tag!"
+Found
+MODSMD_ARTICLE14: Innerhalb acht Minuten gesunken.
+Found
+MODSMD_ARTICLE15: Militärische Bewachung der rumänischen Oelguellen.
+Found
+MODSMD_ARTICLE16: Die Russen rücken weiter vor.
+Found
+MODSMD_ARTICLE17: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE18: Vor dem Abschluß der lettischen Umsiedlung.
+Found
+MODSMD_ARTICLE19: Zwei Verbrecher erhängt.
+Found

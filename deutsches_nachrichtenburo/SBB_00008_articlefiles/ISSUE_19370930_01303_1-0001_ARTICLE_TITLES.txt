@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Dr. Frick dankt Reichsführer SS. Himmler.
+Found
+MODSMD_ARTICLE02: Luftraumsperre anläßlich des Erntedanktages.
+Found
+MODSMD_ARTICLE03: Finnischer Großauftrag für Siemens-Schuckert.
+Found
+MODSMD_ARTICLE04: Tie englischen Verkehrsfachleute in München.
+Found
+MODSMD_ARTICLE05: Erleichterung der Danziger Steuerlast.
+Found
+MODSMD_ARTICLE06: Die jüdisch-kommunistischen Unruhestifter in Polen.
+Found
+MODSMD_ARTICLE07: Lord Peel I°.
+Found
+MODSMD_ARTICLE08: Die Kabinettssitzung in London.
+Found
+MODSMD_ARTICLE09: Englands Presse über die britisch-französische Note an Rom.
+Found
+MODSMD_ARTICLE10: Um das Ergebnis der Pariser Marinekonferenz.
+Found
+MODSMD_ARTICLE11: „Die dunkle Spanienpolitik des Quai d'Orsay".
+Found
+MODSMD_ARTICLE12: Keine Spur von den Entführern General Millers.
+Found
+MODSMD_ARTICLE13: Frankreich stoppt den Zustrom spanischer Bolschewisten.
+Found
+MODSMD_ARTICLE14: Ein guter Fang in La Rochelle.
+Found
+MODSMD_ARTICLE15: Neue Massenverhaftungen in Madrid.
+Found
+MODSMD_ARTICLE16: Verhaftungswelle in Nordpalästina.
+Found
+MODSMD_ARTICLE17: 3999 Moskau-Agitatoren in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE18: Black und der Ku-Klux-Klan.
+Found

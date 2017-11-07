@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ehrung der gefallenen Angehörigen der Kaiserlichen Marine.
+Found
+MODSMD_ARTICLE02: Personalveränderungen in der Kriegsmarine.
+Found
+MODSMD_ARTICLE03: Legationsrat Dr. von Erdmannsdorfs Gesandter I. Klasse.
+Found
+MODSMD_ARTICLE04: Privater Besuch des Botschafters v. Nibbentrop in England.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Marinebesuch in Orten an der deutschen Ostseeküste.
+Found
+MODSMD_ARTICLE07: Der neue Kommandant des Olympischen Dorfes.
+Found
+MODSMD_ARTICLE08: Deutscher Binnenschiffahrtstag 1936.
+Found
+MODSMD_ARTICLE09: Hundertjahrfeier der Technischen Hochschule Darmstadt.
+Found
+MODSMD_ARTICLE10: Durchführung des österreichischen Bundesdienstpslichtgesetzes.
+Found
+MODSMD_ARTICLE11: Krönungstag der 12. Mai 1937.
+Found
+MODSMD_ARTICLE12: Ormsby-Gore zum englischen Kolonialminister ernannt.
+Found
+MODSMD_ARTICLE13: Protest des Erzbischofs von Jork.
+Found
+MODSMD_ARTICLE14: „Daily Telegraph" zur Mussolini-Unterredung.
+Found
+MODSMD_ARTICLE15: Vor der Regierungsneubildung in Belgien.
+Found
+MODSMD_ARTICLE16: Weitere Ausdehnung des Pariser Streiks.
+Found
+MODSMD_ARTICLE17: Rückkehr Titulescus nach Bukarest.
+Found
+MODSMD_ARTICLE18: Japanischer Protest und Verhaftungen in Peiping.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer empfängt Amerikadeutsche.
+Found
+MODSMD_ARTICLE02: Der Gouverneur der Bank von Frankreich in Berlin.
+Found
+MODSMD_ARTICLE03: Beförderungen in der Wehrmacht.
+Found
+MODSMD_ARTICLE04: „Helft den Flüchtlingen aus Spanien!"
+Found
+MODSMD_ARTICLE05: Deutsche Filmnennungen für Venedig.
+Found
+MODSMD_ARTICLE06: Parforcejagden verboten.
+Found
+MODSMD_ARTICLE07: Der britische Kreuzer „Netztune" im Kieler Hafen.
+Found
+MODSMD_ARTICLE08: 3. Internationaler Zahnärztekongreß eröffnet.
+Found
+MODSMD_ARTICLE09: Jubiläum deutsch-schwäbischer Batschka-Gemeinden.
+Found
+MODSMD_ARTICLE10: Ministerrat in Madrid.
+Found
+MODSMD_ARTICLE11: Die dritte Woche des spanischen Bürgerkrieges beginnt.
+Found
+MODSMD_ARTICLE12: Gesteigerter Einsatz der Luftwaffe der Madrider Regierung.
+Found
+MODSMD_ARTICLE13: Moskaus Skandinavieninteressen.
+Found
+MODSMD_ARTICLE14: Ultimatum Tschiangkaischecks an die Kwangsi-Generale?
+Found
+MODSMD_ARTICLE15: Die Lage in Kwantung.
+Found

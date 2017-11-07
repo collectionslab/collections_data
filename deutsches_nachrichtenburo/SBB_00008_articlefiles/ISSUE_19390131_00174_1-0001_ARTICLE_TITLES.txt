@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Die Welt zur Fuhrerrede
+Found
+MODSMD_ARTICLE02: Dänemark
+Found
+MODSMD_ARTICLE03: Vereinigte Staaten
+Found
+MODSMD_ARTICLE04: Zwei Tonnen Explosivstoffe beschlagnahmt.
+Found
+MODSMD_ARTICLE05: London schickt neue Polizeitruppen nach Palästina.
+Found
+MODSMD_ARTICLE06: USAe-Abgeordneter fordert Anerkennung Francos.
+Found

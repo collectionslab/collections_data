@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Mussolini an den Führer.
+Found
+MODSMD_ARTICLE02: Telegrammwechsel des Führers mit Dr. Ley und Cianetti.
+Found
+MODSMD_ARTICLE03: Rudolf Heß von Rom abgereist.
+Found
+MODSMD_ARTICLE04: Rudolf Heß und die NSDAP.-Abordnung wieder daheim.
+Found
+MODSMD_ARTICLE05: Der Stellvertreter des Führers dankt Mussolini.
+Found
+MODSMD_ARTICLE06: Dr. Leys Abschied von Neapel
+Found
+MODSMD_ARTICLE07: Unterredung Mussolinis mit Ribbentrop.
+Found
+MODSMD_ARTICLE08: Festbankett im Palazzo Venezia.
+Found
+MODSMD_ARTICLE09: Auslandsdeutsche gedenken der Totm der Feldherrnhalle.
+Found
+MODSMD_ARTICLE10: Brüsseler Text zur Ueberreichumg an Japan fertig.
+Found
+MODSMD_ARTICLE11: Eine Mitteilung der Brüsseler Konferenz an Japan.
+Found
+MODSMD_ARTICLE12: Bei wem sich die Sowjetspanier zu bedanken haben.
+Found
+MODSMD_ARTICLE13: Eine aufschlußreiche Ausstellung in Salamanca.
+Found
+MODSMD_ARTICLE14: Die baskische Eisenindustrie wieder voll in Arbeit.
+Found
+MODSMD_ARTICLE15: Nationale Stellungen an der Aragon-Front verbessert.
+Found
+MODSMD_ARTICLE16: Woroschilow zum Jahrestag der Bolschewistenrevolntion.
+Found
+MODSMD_ARTICLE17: Amerika und die Absage des Herzogs von Windsor.
+Found
+MODSMD_ARTICLE18: Zwangskontrolle der USA.-Baumwollproduktion in Sicht.
+Found
+MODSMD_ARTICLE19: Vormarsch der Japaner an der Hangtschau-Bucht.
+Found

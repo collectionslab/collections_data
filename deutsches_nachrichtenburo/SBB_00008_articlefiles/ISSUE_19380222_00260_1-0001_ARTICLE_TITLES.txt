@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Neuer Amtschef im Meichserziiehungsministerium.
+Found
+MODSMD_ARTICLE02: Reichswirtschaftsminister Funk bei der DAF.
+Found
+MODSMD_ARTICLE03: Englische Studienkommission für Luftschutzfragen in Berlin.
+Found
+MODSMD_ARTICLE04: Dr. Schuschnigg spricht am Donnerstag um 19 Uhr.
+Found
+MODSMD_ARTICLE05: Neue Jubelkuudgebuugen in Wien.
+Found
+MODSMD_ARTICLE06: Vierwöchige Versammlungssperre in Oesterreich.
+Found
+MODSMD_ARTICLE07: Hauptversammlung der Jnngdentschen Partei in Polen.
+Found
+MODSMD_ARTICLE08: „Eden ein Hirt ohne Herde."
+Found
+MODSMD_ARTICLE09: Paris zum Rücktritt Edens.
+Found
+MODSMD_ARTICLE10: „Edens Politik führte Europa vor Abgründe!"
+Found
+MODSMD_ARTICLE11: Brüssel vom Rücktritt Edens stark beeindruckt.
+Found
+MODSMD_ARTICLE12: 20 Hetzer Zwingen 14 KM Arbeiter Zum Feiern.
+Found

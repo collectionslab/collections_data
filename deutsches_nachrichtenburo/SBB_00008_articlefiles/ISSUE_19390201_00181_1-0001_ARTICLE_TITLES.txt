@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Beileid Funks zum Tode des Staatsrat Eberhardt.
+Found
+MODSMD_ARTICLE02: Neuer Präsident des Werberates der deutscheu Wirtschaft.
+Found
+MODSMD_ARTICLE03: Italiens Führungsanspruch im Mittelmeer.
+Found
+MODSMD_ARTICLE04: Der Ehrentast der Faschistischen Miliz.
+Found
+MODSMD_ARTICLE05: Die Zwischenfälle in Brüssel.
+Found
+MODSMD_ARTICLE06: Das Gesetz über die zweijährige Dienstzeit verlängert.
+Found
+MODSMD_ARTICLE07: Großangelegter jüdischer Börsencoup in London?
+Found
+MODSMD_ARTICLE08: Neue englische Anleihe für Cbina?
+Found
+MODSMD_ARTICLE09: Rede des englischen Luftfahrtministers mit Hindernissen.
+Found
+MODSMD_ARTICLE10: Zeugnisse englischer Kolonialverwaltung.
+Found
+MODSMD_ARTICLE11: Sowjetspanische Flüchtlinge eine Landplage.
+Found
+MODSMD_ARTICLE12: Blutige Bilanz.
+Found

@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: 75 Jahre Höchster Farbwerke. Beträchtliche Stiftungen.
+Found
+MODSMD_ARTICLE02: Italien wird den Führer mit Begeisterung empfangen.
+Found
+MODSMD_ARTICLE03: Die rumänischen Gäste in Florenz eingetroffen.
+Found
+MODSMD_ARTICLE04: Zahlungsverkehrsabkommen zwischen Rom und Belgrad.
+Found
+MODSMD_ARTICLE05: Getrennte Plätze für jüdische Hörer in Lemberg.
+Found
+MODSMD_ARTICLE06: Die nationale Presse Ungarns entlarvt Judenschliche.
+Found
+MODSMD_ARTICLE07: Micescu auf dem Wege nach Prag.
+Found
+MODSMD_ARTICLE08: Der jüdische Marxist Adler als Paßfälscher.
+Found
+MODSMD_ARTICLE09: Zwei italienische Zeitungen in Frankreich verboten.
+Found
+MODSMD_ARTICLE10: Streikhebe in den Erdölwerken von Ronen.
+Found
+MODSMD_ARTICLE11: Warnung de la Rocques vor der Kommunistengefahr.
+Found
+MODSMD_ARTICLE12: Frankreichs Arbeitsminister wird bestürmt.
+Found
+MODSMD_ARTICLE13: Frankreichs Arbeitgeber erörtern Chautemps' Vorschläge.
+Found
+MODSMD_ARTICLE14: Der Gewerkschaftsverband antwortet Chautemps.
+Found
+MODSMD_ARTICLE15: Englands Industrie gegen das Luftsahrtministerium.
+Found
+MODSMD_ARTICLE16: Einladung König Jbn Sauds an den Earl of Athlone.
+Found
+MODSMD_ARTICLE17: Eire vor der Wahl eines Präsidenten.
+Found
+MODSMD_ARTICLE18: Die nationalen Operationen an der Teruel-Front.
+Found
+MODSMD_ARTICLE19: Moskaus Hoffnungen in China.
+Found
+MODSMD_ARTICLE20: Eine Zweckgründung im Sandschak Alcxandrette.
+Found
+MODSMD_ARTICLE21: Die amerikanisch-englischen Handelsvertragsverhandlungen.
+Found
+MODSMD_ARTICLE22: Die Suche nach dem vermißten Marineflugzeug der USA.
+Found
+MODSMD_ARTICLE23: Keine neuen Vereinbarungen Brasiliens mit Argentinien.
+Found

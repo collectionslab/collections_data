@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Große Staatspreis für Bildhauer und Architekten.
+Found
+MODSMD_ARTICLE02: Alfred Huggenberger im Reich.
+Found
+MODSMD_ARTICLE03: Belgrad zum Empfang Stojadinowitschs durch den Führer.
+Found
+MODSMD_ARTICLE04: Keijne Begegnung Zwischen Schuschnigg und Hodscha.
+Found
+MODSMD_ARTICLE05: Die Slowaken berufen sich auf den Pittsburger Vertrag.
+Found
+MODSMD_ARTICLE06: Schwedische Reichstagskritik an Genf.
+Found
+MODSMD_ARTICLE07: Blum über die Gründe seines Scheiterns.
+Found
+MODSMD_ARTICLE08: Chautemps über seine Absichten.
+Found
+MODSMD_ARTICLE09: Erneute Beratung in Bern über die Neutralitätsfrage.
+Found
+MODSMD_ARTICLE10: Wie die Juden Rumänien aussaugten.
+Found
+MODSMD_ARTICLE11: Fürst Hohenberg Zerschlägt Hoheitszeichen des Reiches?
+Found
+MODSMD_ARTICLE12: Rumänien gegen betrügerisch erworbene Staatsbürgerschaft.
+Found
+MODSMD_ARTICLE13: Schächtverbot in Bukarest.
+Found
+MODSMD_ARTICLE14: Der erste Tag der «englisch-irischen Besprechungen.
+Found
+MODSMD_ARTICLE15: Generalstreik in Veracruz.
+Found

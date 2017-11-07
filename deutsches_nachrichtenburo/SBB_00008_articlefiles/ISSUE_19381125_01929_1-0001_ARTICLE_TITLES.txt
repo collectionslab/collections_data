@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Göring führt Oberst von Schell in sein Amt ein.
+Found
+MODSMD_ARTICLE02: Die deutschen Schulsorderungen für Nordschleswig.
+Found
+MODSMD_ARTICLE03: Wieder ein Memeldeutscher überfallen.
+Found
+MODSMD_ARTICLE04: Rom zu den französisch-englischen Besprechungen.
+Found
+MODSMD_ARTICLE05: „Keine überraschenden Ergebnisse."
+Found
+MODSMD_ARTICLE06: Generalstreik oder „Warnungsstreik"?
+Found
+MODSMD_ARTICLE07: Auch die Minister und die Parlamentarier sollen sparen.
+Found
+MODSMD_ARTICLE08: Ministerrat in Burgos. >
+Found
+MODSMD_ARTICLE09: Tie Bolschewisierung Chinas.
+Found
+MODSMD_ARTICLE10: Empfang in der Deutschen Botschaft in Tokio.
+Found
+MODSMD_ARTICLE11: Ueberfall auf einen Offizier in Schanghai.
+Found
+MODSMD_ARTICLE12: Amerikanische Minister schüren den Klassenhast.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Glückwunsch und Gaöe des Führers für älteste Berlinerin.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Rumänischer Staatssekretär in Berlin.
+Found
+MODSMD_ARTICLE04: Rosenberg vor Offizieren der Wehrmacht.
+Found
+MODSMD_ARTICLE05: Urkunde für ehemalige Freikorpskämpser.
+Found
+MODSMD_ARTICLE06: Tie faschistische Jugend grüßt Generaloberst Göring.
+Found
+MODSMD_ARTICLE07: Deutsch-italienische Abwehr bolschewistischer Umklammerung.
+Found
+MODSMD_ARTICLE08: Italien für Begrenzung der Schiffsgeschütz-Kaliber.
+Found
+MODSMD_ARTICLE09: Empfang in der Deutschen Gesandtschaft in Wien.
+Found
+MODSMD_ARTICLE10: Das Urteil gegen den Juden Frankfurter rechtskräftig.
+Found
+MODSMD_ARTICLE11: Verschwörungen gegen Prieto und die „Pasionaria".
+Found
+MODSMD_ARTICLE12: Feier für deutschen Hochschulgründer in Athen.
+Found
+MODSMD_ARTICLE13: Die Bildung eines mittelöstlichen Staatenbundes gescheitert.
+Found
+MODSMD_ARTICLE14: Illegale Kommunistenorganisation in Brasilien aufgedeckt.
+Found

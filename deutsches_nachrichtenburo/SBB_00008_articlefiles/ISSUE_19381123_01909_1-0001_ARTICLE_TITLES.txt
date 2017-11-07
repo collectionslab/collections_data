@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Deutsche Auszeichnung für Professor Dr. Pende.
+Found
+MODSMD_ARTICLE02: Die Einziehung der Juden Kontribution.
+Found
+MODSMD_ARTICLE03: Die Dominikanische Republik lehnt die Juden ab.
+Found
+MODSMD_ARTICLE04: Bata auf Geschäftsreise in den Niederlanden.
+Found
+MODSMD_ARTICLE05: Der zweite Reichsfilmtag der HJ. eröffnet.
+Found
+MODSMD_ARTICLE06: Wiederaufnahme des Verfahrens gegen Sigi Bösel.
+Found
+MODSMD_ARTICLE07: Die Entjudung des polnischen Staates gefordert.
+Found
+MODSMD_ARTICLE08: „Polska Zbrojna": „Man muß offen reden".
+Found
+MODSMD_ARTICLE09: Das deutsch-französische Verhältnis.
+Found
+MODSMD_ARTICLE10: „Die Juden keineswegs unschuldige Opfer."
+Found
+MODSMD_ARTICLE11: Die schmachvolle Lage der Indianer in den USA.
+Found
+MODSMD_ARTICLE12: Vulkan-Katastrophe auf St. Lucia.
+Found

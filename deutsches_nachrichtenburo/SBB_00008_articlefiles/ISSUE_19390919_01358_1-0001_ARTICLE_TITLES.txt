@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Fortschreitende Kapitulation des polnischen Heeres.
+Found
+MODSMD_ARTICLE02: Generalfeldmarfchall v. Mackensen an General Heitz.
+Found
+MODSMD_ARTICLE03: Bastianini italienischer Botschafter in London.
+Found
+MODSMD_ARTICLE04: Rom: „Polen existiert nicht mehr".
+Found
+MODSMD_ARTICLE05: Madrid: „England schuld an Polens Unglück."
+Found
+MODSMD_ARTICLE06: Spanische Zeitung über deutsche und britische Kriegsziele.
+Found
+MODSMD_ARTICLE07: Wie die Seeräuberei Belgien schädigt.
+Found
+MODSMD_ARTICLE08: Die holländische Presse im Banne der großen Ereignisse.
+Found
+MODSMD_ARTICLE09: Polnische Flüchtlinge auch über die ungarische Grenze.
+Found
+MODSMD_ARTICLE10: 28 Hetzer in Budapest verhaftet.
+Found
+MODSMD_ARTICLE11: Ungarische Gesandtschaft in Tokio errichtet.
+Found
+MODSMD_ARTICLE12: Zufrieden mit ihrem Schicksal.
+Found
+MODSMD_ARTICLE13: Reval: „Die dritte Kriegswoche bringt Polens Ende."
+Found
+MODSMD_ARTICLE14: Der Führer spricht um 17 Uhr über alle deutschen Sender.
+Found
+MODSMD_ARTICLE15: Der Wojewode von Nowogrodek in Lettland.
+Found
+MODSMD_ARTICLE16: Folgenschwerer Zusammenstoß Autobus—Eisenbahn.
+Not Found
+MODSMD_ARTICLE17: Tokio: „Entscheidende Wendung der internationalen Lage."
+Found
+MODSMD_ARTICLE18: Heftiger Unwille Japans über Amerikas Fernostpolitik.
+Found

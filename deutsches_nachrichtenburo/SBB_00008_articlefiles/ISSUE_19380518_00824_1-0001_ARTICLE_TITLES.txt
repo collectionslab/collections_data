@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers an den Präsidenten von Euba.
+Found
+MODSMD_ARTICLE02: Der Führer an den Präsidenten von Peru.
+Found
+MODSMD_ARTICLE03: Der italienische Dichter Ginocchio bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: Staatssekretär Tassinari bei Darre.
+Found
+MODSMD_ARTICLE05: TassilMri besucht den Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE06: Staatsrat Schmeer vor den DAF.-Richtern.
+Found
+MODSMD_ARTICLE07: 111. Kongreß der Sozialversicherungsfachleute.
+Found
+MODSMD_ARTICLE08: Dr. Ley in Kärnten.
+Found
+MODSMD_ARTICLE09: Hilfsmaßnahmen für die österreichische Landwirtschaft.
+Found
+MODSMD_ARTICLE10: London dementiert Anerkennung»
+Found
+MODSMD_ARTICLE11: Weitere Anerkennungen des Imperiums.
+Found
+MODSMD_ARTICLE12: Die Polizei in Troppau war schuldig.
+Found
+MODSMD_ARTICLE13: Nationaler Vormarsch in K 0 Breite.
+Found
+MODSMD_ARTICLE14: Miaja soll die Castellou-Offeusive hemmen.
+Found
+MODSMD_ARTICLE15: Volkszählung im Sandschak.
+Found
+MODSMD_ARTICLE16: Französische Persönlichkeiten hinter dem Putsch in Beirut?
+Found
+MODSMD_ARTICLE17: Hsütschau unter schwerstem Feuer.
+Found

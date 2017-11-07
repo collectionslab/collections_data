@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Konzert an Bord der„Patria" zu Ehren Horthys
+Found
+MODSMD_ARTICLE02: Zunahme der Eheschließungen in Wien.
+Found
+MODSMD_ARTICLE03: Lebhafte diplomatische Tätigkeit in London.
+Found
+MODSMD_ARTICLE04: Lord Plymouth will die Schwierigkeiten beseitigen.
+Found
+MODSMD_ARTICLE05: Lord Stanley in Kanada.
+Found
+MODSMD_ARTICLE06: Kanadische Riesenbomber für England.
+Found
+MODSMD_ARTICLE07: Läßt Frankreich in Kanada Kriegsflugzeuge bauen?
+Found
+MODSMD_ARTICLE08: Gespannte Lage in Frankreich.
+Found
+MODSMD_ARTICLE09: Nach dem Urlaub in den Streik.
+Found
+MODSMD_ARTICLE10: Französische Manöver bei Besaneon.
+Found
+MODSMD_ARTICLE11: Der belgische Gesandte in Berlin bei König Leopold.
+Found
+MODSMD_ARTICLE12: Polen geht gegen jüdische Wirtschaftsschädlinge vor.
+Found
+MODSMD_ARTICLE13: Tschechische Offiziere helfen kommunistischen Agitatoren.
+Found
+MODSMD_ARTICLE14: Die militärische Gleichberechtigung Ungarns anerkannt.
+Found
+MODSMD_ARTICLE15: Horthy und der Führer in Hamburg-
+Found
+MODSMD_ARTICLE16: 758 an der Toledo-Front erobert.
+Found

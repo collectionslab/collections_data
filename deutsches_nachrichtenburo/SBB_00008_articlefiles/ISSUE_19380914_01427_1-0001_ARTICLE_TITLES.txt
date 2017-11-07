@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Welt zur Rede Adolf Hitlers.
+Found
+MODSMD_ARTICLE02: Wie eine rein deutsche Stadt tschechisch verseucht wurde.
+Found
+MODSMD_ARTICLE03: „Jetzt werdet ihr alle ausgerottet!"
+Found
+MODSMD_ARTICLE04: „Die Zeit" an ihre Leser.
+Found
+MODSMD_ARTICLE05: Slowakische Autonomie-Forderung nachdrücklich erneuert.
+Found
+MODSMD_ARTICLE06: Tschechenflieger verletzten Ungarns Grenze.
+Found
+MODSMD_ARTICLE07: Beratungen bei Chamberlain.
+Found
+MODSMD_ARTICLE08: Der Pariser Ministerrat tagte.
+Found
+MODSMD_ARTICLE09: Auswärtiger Kammerausschutz tagt nicht.
+Found
+MODSMD_ARTICLE10: Katastrophale Mißstände in der sowjetrussischen Wirtschaft.
+Found

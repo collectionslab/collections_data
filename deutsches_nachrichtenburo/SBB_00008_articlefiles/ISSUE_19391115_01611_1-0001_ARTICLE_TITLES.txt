@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Schamloser britischer Liigenfeldzug gescheitert.
+Found
+MODSMD_ARTICLE02: „Es gibt keine Inseln mehr."
+Found
+MODSMD_ARTICLE03: 25 Jahre „Popolo d'Jtalia".
+Found
+MODSMD_ARTICLE04: Sie pfeifen auf die Neutralen!
+Found
+MODSMD_ARTICLE05: Französische Zeitungen in Belgien beschlagnahmt.
+Found
+MODSMD_ARTICLE06: Neuer Geineralstabschef des portugiesischen Heeres.
+Found
+MODSMD_ARTICLE07: Kein Vertrauen mehr Zum englischen Pfund.
+Found
+MODSMD_ARTICLE08: Britischer Handelsdampfer auf eine Mine gelaufen.
+Found
+MODSMD_ARTICLE09: Petroleumfeld in Venezuela in Flammen.
+Found
+MODSMD_ARTICLE10: Englische Kohlen werden noch teurer.
+Found
+MODSMD_ARTICLE11: Lüge und Hetze sind Englands Waffe.
+Found
+MODSMD_ARTICLE12: Unverschämte Mißhandlung Jugoslawiens.
+Found
+MODSMD_ARTICLE13: Wieder jugoslawische Bauxitausfuhr nach Deutschland.
+Found
+MODSMD_ARTICLE14: Die ritterlichen deutschen U-Boot-Männer.
+Found
+MODSMD_ARTICLE15: Ein „See-Verteidigungskorps" in Kapstadt.
+Found
+MODSMD_ARTICLE16: Englands infamste Lüge.
+Found
+MODSMD_ARTICLE17: 26 666 t durch ein deutsches U-Boot versenkt.
+Found
+MODSMD_ARTICLE18: Die Oelbrandkatastrophe in Venezuela.
+Found
+MODSMD_ARTICLE19: Erfolgreich torpediert trotz Geleit Zug.
+Found
+MODSMD_ARTICLE20: Streiks in Kalkutta.
+Found

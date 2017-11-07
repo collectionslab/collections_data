@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Hochherziges Geschenk eures japanischen Industriellen.
+Found
+MODSMD_ARTICLE02: Schiffsunglück bei Liverpool.
+Found
+MODSMD_ARTICLE03: Eine rührende Geschichte des Londoner Rundfunks.
+Found
+MODSMD_ARTICLE04: Russisch-finnischer Grenzzwischenfall.
+Found
+MODSMD_ARTICLE06: Indien in Gärung!
+Found
+MODSMD_ARTICLE07: Flaggenstreit in Indien.
+Found
+MODSMD_ARTICLE08: Auch Iran protestiert in London.
+Found
+MODSMD_ARTICLE09: Die iranische Presse gegen Englands Piratenmethoden.
+Found
+MODSMD_ARTICLE10: Die wichtigste Aufgabe der japanischen Marine.
+Found
+MODSMD_ARTICLE11: Samoa wünscht die Deutschen zurück.
+Found

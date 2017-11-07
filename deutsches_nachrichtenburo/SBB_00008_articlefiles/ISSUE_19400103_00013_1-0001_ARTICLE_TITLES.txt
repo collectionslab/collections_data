@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Stärkste Beachtung der Funk-Rede in Italien.
+Found
+MODSMD_ARTICLE02: Mussolini weiht eine Führerschule der Partei.
+Found
+MODSMD_ARTICLE03: Gegen die Vorherrschaft der Plutokratien.
+Found
+MODSMD_ARTICLE04: Ständiger Rückgang dre Amsterdamer Hafenzahlen.
+Found
+MODSMD_ARTICLE05: Belgischer Ministerbesuch im Haag.
+Found
+MODSMD_ARTICLE06: Das gewissenlose Treiben der Plutokratien.
+Found
+MODSMD_ARTICLE07: Erkundungsflüge der russischen Luftwaffe.
+Found
+MODSMD_ARTICLE08: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE09: „Klare englische Verletzung der Haager Konvention".
+Found
+MODSMD_ARTICLE10: Geringe Artillerie- und Spähtrupptätigkeit.
+Found
+MODSMD_ARTICLE11: Ein Amerikaner bereiste Polen.
+Found
+MODSMD_ARTICLE12: Für Einschränkung der Machtbefugnisse Roofevelts.
+Found
+MODSMD_ARTICLE13: Der englische Hungerkrieg trifft die Neutralen.
+Found
+MODSMD_ARTICLE14: Die Lebenshaltungskosten im Dezember.
+Found

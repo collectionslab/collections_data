@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Heß bei der „Don Giovannis-Ausführung in Salzburg.
+Found
+MODSMD_ARTICLE02: Himmler ehrt die Freiheitskämpfer der Ostmark.
+Found
+MODSMD_ARTICLE03: „Und ihr habt doch gesiegt!"
+Found
+MODSMD_ARTICLE04: Deutsch-türkische Wirtschaftsverhandlnngen abgeschlossen.
+Found
+MODSMD_ARTICLE05: Englischer „Beobachter" in Prag.
+Found
+MODSMD_ARTICLE06: Der britische Gesandte bei HodschA M
+Found
+MODSMD_ARTICLE07: Reiche nationalspanische Kriegsbeute.
+Found
+MODSMD_ARTICLE08: Belgische Alkoholgesetzgebung soll gelockert werden.
+Found
+MODSMD_ARTICLE09: Rücktritt des syrischen Austen- und Innenministers.
+Found
+MODSMD_ARTICLE10: Der Bericht des britischen Oberkommissars für Palästina.
+Found
+MODSMD_ARTICLE11: Die japanischen Truppen in Kiukiang.
+Found
+MODSMD_ARTICLE12: Zweiter deutscher Nordatlantikflug geglückt»
+Found
+MODSMD_ARTICLE13: Auftakt zur ersten deutschen Ostsee-Regatta.
+Found

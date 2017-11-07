@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Ehrentag des Reichskriegsministers.
+Found
+MODSMD_ARTICLE02: Der Glückwunsch des Führers.
+Found
+MODSMD_ARTICLE03: Die Parade vor dem Reichskriegsministerium.
+Found
+MODSMD_ARTICLE04: Der Kührer beglückwünscht Dr. Moosauer.
+Found
+MODSMD_ARTICLE05: Görings Glückwünsche an Dr. Frick.
+Found
+MODSMD_ARTICLE06: Reichsb rufswettkampf der Landjugend eröffnet.
+Found
+MODSMD_ARTICLE07: Mussolini über die libysche Küstenstraße.
+Found
+MODSMD_ARTICLE08: Die Schuld am Zusammenbruch des Locarno-Paktes.
+Found
+MODSMD_ARTICLE09: Das Programm der neuen finnischen Regierung.
+Found
+MODSMD_ARTICLE10: Blomberg Chef des Infanterie-Regiments Nr. 73.
+Found
+MODSMD_ARTICLE11: Staatshaushalt 1937/38 vom polnischen Senat angenommen.
+Found
+MODSMD_ARTICLE12: Gleiche Brüder, gleiche Kappen!
+Found
+MODSMD_ARTICLE13: Der nationale Heeresbericht vom Freitag.
+Found

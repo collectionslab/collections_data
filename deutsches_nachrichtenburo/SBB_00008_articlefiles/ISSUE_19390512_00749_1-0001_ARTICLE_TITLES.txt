@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Chef des Oberkommandos der Wehrmacht dankt dem DDAC.
+Found
+MODSMD_ARTICLE02: Die Arbeit der Internationalen Forstzentrale.
+Found
+MODSMD_ARTICLE03: Der Reichsfinanzminister in Karlsbad.
+Found
+MODSMD_ARTICLE04: Schwerer Uebergriff polnischen Grenzbeamter.
+Found
+MODSMD_ARTICLE05: Daladiers widerspruchsvolle Rede.
+Found
+MODSMD_ARTICLE06: Deutsche Verkehrsausstellung in Bukarest eröffnet.
+Found
+MODSMD_ARTICLE07: Der Volksdeutsche Abgeordnete Hamm bei Zwetkowitsch.
+Found
+MODSMD_ARTICLE08: Aufgaben des größeren Ungarn.
+Found
+MODSMD_ARTICLE09: Der deutsche Kredit an die Türkei.
+Found
+MODSMD_ARTICLE10: Das Flugzeug „Hans Loeb" nach Hsingking unterwegs.
+Found
+MODSMD_ARTICLE11: Internationale Niederlassung Kulangsu besetzt.
+Found
+MODSMD_ARTICLE12: „Aehnliche Schritte in Schanghai möglich".
+Found
+MODSMD_ARTICLE13: Die Kommunisten unterstützen Roosevelt.
+Found
+MODSMD_ARTICLE14: Die Wahlmache für Roosevelt in Fluß.
+Found
+MODSMD_ARTICLE15: Senator Borah fordert: Finger weg von Europa.
+Found
+MODSMD_ARTICLE16: Weitere Verstärkung der amerikanischen Flotte im Pazifik.
+Found
+MODSMD_ARTICLE17: Gattenmörder hingerichtet.
+Found

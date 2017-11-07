@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: H^» Deutsches Nachrichtenbüro ?
+Found
+MODSMD_ARTICLE02: Schiffsraumvermehrung in der Werkschiffahrt.
+Found
+MODSMD_ARTICLE03: Abteilung Karlsruhe des Reichsrechnungshofes eröffnet.
+Found
+MODSMD_ARTICLE04: Ein Jahrhundert deutsch-griechischen Kulturaustausches.
+Found
+MODSMD_ARTICLE05: Hauptdienstleiter Schmeer auf Burg Vogelsang.
+Found
+MODSMD_ARTICLE06: „Contra-Komintern" neue antibolschewistische Zeitschrift.
+Found
+MODSMD_ARTICLE07: Konferenz der baltischen Außenminister erst im Juni.
+Found
+MODSMD_ARTICLE08: „Hood" nach St. Jean de Luz Zurückgekehrt.
+Found
+MODSMD_ARTICLE09: Schlachtkreuzer „Royal Oak" löst „Hood" ab.
+Found
+MODSMD_ARTICLE10: Daladier nach.Paris zurückgekehrt.
+Found
+MODSMD_ARTICLE11: Belgien frei vom Locarno-Abkommen.
+Found
+MODSMD_ARTICLE12: Der Austausch der Urkunden in Brüssel.
+Found
+MODSMD_ARTICLE13: Ende des Streiks bei General Motors.
+Found

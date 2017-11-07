@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Käthe Kraust Sportreferentin der Stadt Dresden.
+Found
+MODSMD_ARTICLE02: Schacholympia München 1936.
+Found
+MODSMD_ARTICLE03: Kreisparteitag der Sudetendeutschen Partei verboten.
+Found
+MODSMD_ARTICLE04: „Der Weg zum Herzen Mitteleuropas".
+Found
+MODSMD_ARTICLE05: Keine Weniselisten-Verfolgung in Griechenland.
+Found
+MODSMD_ARTICLE06: Mavrudis Ständiger Unterstaatssekretär.
+Found
+MODSMD_ARTICLE07: Streik in einer Grube in Südwales.
+Found
+MODSMD_ARTICLE08: Englische Arbeiterpartei für Madrider Regierung.
+Found
+MODSMD_ARTICLE09: Sowjetrussische Note zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE10: Jugoslawische Stimme über die bolschewistische Gefahr.
+Found
+MODSMD_ARTICLE11: Französische Parlamentarier über russische Luftrüstungen.
+Found
+MODSMD_ARTICLE12: Tie Morde wegen des Gefängnisbrandes in Madrid.
+Found
+MODSMD_ARTICLE13: Strommangel in San Sebastian.
+Found
+MODSMD_ARTICLE14: Grubenarbeiterstreik in Frankreich.
+Found

@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Ein Aufsatz des Führers über die Reichskanzlei.
+Found
+MODSMD_ARTICLE02: Der Führer in der Münchener Staatsoper.
+Found
+MODSMD_ARTICLE03: Ter Führer am Grabe von Prof. Troosü
+Found
+MODSMD_ARTICLE04: England besteht auf Status quo in Fernost»
+Found
+MODSMD_ARTICLE05: Roosevelis Kongrestbotschaft macht wenig Eindruck.
+Found

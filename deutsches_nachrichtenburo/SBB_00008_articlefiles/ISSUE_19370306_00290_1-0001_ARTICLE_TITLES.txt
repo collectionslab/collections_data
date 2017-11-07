@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ruft eröffnet Ausstellung „Schule und Luftfahrt".
+Found
+MODSMD_ARTICLE02: Abschluß der Konferenz der Oslo-Staaten.
+Found
+MODSMD_ARTICLE03: Politische Amnestie in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE04: Londoner Hanptausschuß am Montag.
+Found
+MODSMD_ARTICLE05: Lozoraitis antwortet Beck.
+Found
+MODSMD_ARTICLE06: Erlebnisse eines belgischen „Freiwilligen" in Spanien/
+Found
+MODSMD_ARTICLE07: Generalstreik im Hafen von Bordeaux.
+Found
+MODSMD_ARTICLE08: Zum zweiten Mal Streik bei Tobler.
+Found
+MODSMD_ARTICLE09: Die Washingtoner Blätter zur Entschuldigung Hulls.
+Found
+MODSMD_ARTICLE10: Mir Beitritt Kanadas zur Panamerikanischen Union.
+Found
+MODSMD_ARTICLE11: Streikende Eingeborene belagern europäische Arbeiter.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die Erfolge am Südflügel.
+Found
+MODSMD_ARTICLE02: Die Versenkung des Flugzeugträgers „Courageous".
+Found
+MODSMD_ARTICLE03: Eine besonders bösartige Brunnenvergistuug.
+Found
+MODSMD_ARTICLE04: Zuschüsse für Neubauern der Grenzgebiete.
+Found
+MODSMD_ARTICLE05: Kurze Auslundsnachrichten.
+Found
+MODSMD_ARTICLE06: Wieder eine jüdische Lügenzentrale ausgehoben.
+Found
+MODSMD_ARTICLE07: Bulgarien von Führerrede stark beeindruckt.
+Found
+MODSMD_ARTICLE08: Bulgariens Bevölkerung gegen jüdische Hamsterer.
+Found
+MODSMD_ARTICLE09: Streik der Seeleute in Rotterdam.
+Found
+MODSMD_ARTICLE10: Englands Handelskrieg gegen die Neutralen.
+Found
+MODSMD_ARTICLE11: Die Zerschlagung Polens eine ungewöhnliche Waffentat.
+Found
+MODSMD_ARTICLE12: Roms Presse über die Verantwortung der Westmächte.
+Found

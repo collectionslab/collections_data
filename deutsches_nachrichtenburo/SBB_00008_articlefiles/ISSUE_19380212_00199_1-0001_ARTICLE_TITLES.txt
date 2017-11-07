@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer ehrt Lebensretter.
+Found
+MODSMD_ARTICLE02: Rosenberg: Grundlagen nationalsozialistischer Erziehung.
+Found
+MODSMD_ARTICLE03: Empfang des Reichsarbeitsführers im Hause der Flieger.
+Found
+MODSMD_ARTICLE04: Deutsch-jugoslawische Verhandlungen.
+Found
+MODSMD_ARTICLE05: Das Versorgungsproblem in Rotspanien ungelöst.
+Found
+MODSMD_ARTICLE06: Die Aufbauarbeit des nationalen Spanien.
+Found
+MODSMD_ARTICLE07: Der nationale Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE08: Sowjetflieger mit nationalen Kennzeichen getarnt.
+Found
+MODSMD_ARTICLE09: Wichtige Gesetze in Lettland angenommen.
+Found
+MODSMD_ARTICLE10: General Balodis stellv. lettischer Ministerpräsident.
+Found
+MODSMD_ARTICLE11: Die Durchführung der polnischen Agrarreform.
+Found
+MODSMD_ARTICLE12: Ergänzungscmtrag zur amerikanischen Flotteuvorlage.
+Found

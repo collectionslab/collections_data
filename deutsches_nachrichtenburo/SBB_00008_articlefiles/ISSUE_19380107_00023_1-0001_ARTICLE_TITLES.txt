@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Hauswirtschaftliche Arbeitspflicht des BdM.
+Found
+MODSMD_ARTICLE02: Drei Landesverräter hingerichtet.
+Found
+MODSMD_ARTICLE03: Deutsche Studienkommission besucht Italien.
+Found
+MODSMD_ARTICLE04: Italien zur Jmperiums-Anerkennung durch Rumänien.
+Found
+MODSMD_ARTICLE05: Jugoslawiens Prinzregentenpaar unterwegs nach Athen.
+Found
+MODSMD_ARTICLE06: Empfang bei General Francs.
+Found
+MODSMD_ARTICLE07: Die ersten Antworten auf Chautemps' Aufruf.
+Found
+MODSMD_ARTICLE08: Der Papst verleiht französischen Ministern Orden»
+Found
+MODSMD_ARTICLE09: Frankreich erhöht Benzinstener für Lastkraftwagen.
+Found
+MODSMD_ARTICLE10: Ein Engländer schaut der Sowjetunion hinter die Kulissen.
+Found
+MODSMD_ARTICLE11: Die Ziomsten melden sich.
+Found
+MODSMD_ARTICLE12: Ein unterirdisches Benzinlager in England.
+Found
+MODSMD_ARTICLE13: Protest gegen Genfer Haltung in der Sandschak-Frage.
+Found
+MODSMD_ARTICLE14: Chinesische Wafsenkäufe in Moskau.
+Found
+MODSMD_ARTICLE15: Japanischer Vormarsch auf Hsutschau.
+Found

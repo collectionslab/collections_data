@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Jubel um den Führer in Nürnberg.
+Found
+MODSMD_ARTICLE02: Ausländische Gesandte bei Baldur von Schwach.
+Found
+MODSMD_ARTICLE03: Generaladmiral Raeder besucht Budapest.
+Found
+MODSMD_ARTICLE04: Dr. Loy von Wien noch Berlin zurückgekehrt.
+Found
+MODSMD_ARTICLE05: Fünfjähriges Dienstjubiläum General Dalueges.
+Found
+MODSMD_ARTICLE06: Danktelegramm Mussolinis an den Verkehrsminister.
+Found
+MODSMD_ARTICLE07: „Auf Wiedersehen" sagt die Florentiner „Nazione".
+Found
+MODSMD_ARTICLE08: Die Lira bleibt fest.
+Found
+MODSMD_ARTICLE09: Die Belgische Nationalbank erhöht Diskontsatz.
+Found
+MODSMD_ARTICLE10: Konununistenttberfall auf den Rexistenführer Degrelle.
+Found
+MODSMD_ARTICLE11: Noch immer Streiks auf französischen Ozeandampfern.
+Found
+MODSMD_ARTICLE12: Gibbs kritisiert Englands Haltung gegenüber Prag.
+Found
+MODSMD_ARTICLE13: Fortschreitende japanische Offensive.
+Found
+MODSMD_ARTICLE14: Japanische Truppen auf Amol) gelandet.
+Found
+MODSMD_ARTICLE15: Das Rncktrittsgesuchk Alp Mähers abgelehnt.
+Found
+MODSMD_ARTICLE16: Einigung über die amerikanische Flottenvorlage.
+Found
+MODSMD_ARTICLE17: 1W Jahre Deutscher Berein in Valparaiso.
+Found
+MODSMD_ARTICLE18: 7k Tote in Dnckmanton.
+Found
+MODSMD_ARTICLE19: Riesenfener in Polangen.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Neue deutsche Liebesgabensendung in Barcelona.
+Found
+MODSMD_ARTICLE02: Metaxas dankt Mussolini.
+Found
+MODSMD_ARTICLE03: Die Mailänder Messe feierlich eröffnet.
+Found
+MODSMD_ARTICLE04: Graf Ciano wieder in Tirana.
+Found
+MODSMD_ARTICLE05: Die politischen Gefangenen in Albanien werden amnestiert.
+Found
+MODSMD_ARTICLE06: Griechenland ist stark genug, sich selbst zu schützen.
+Found
+MODSMD_ARTICLE07: Was sie sich alles aus den Fingern sogen.
+Found
+MODSMD_ARTICLE08: Französischer Ministerrat billigt Erklärung zur Lage.
+Found
+MODSMD_ARTICLE09: 14 Sowjet-Kreuzer im Mittelmeer?
+Found
+MODSMD_ARTICLE10: Der bulgarische Arbeitsminister Zurückgetreten.
+Found
+MODSMD_ARTICLE11: Hilferufe der gepeinigten Araber.
+Found
+MODSMD_ARTICLE12: Großbritannien verbietet Kindergewehre für Araber!
+Found
+MODSMD_ARTICLE13: Allzu durchsichtiges Spiel Englands.
+Found
+MODSMD_ARTICLE14: Japans Truppen bleiben für längere Zeit in China.
+Found
+MODSMD_ARTICLE15: Japan muß seine Kräfte verdoppeln.
+Found
+MODSMD_ARTICLE16: Chinesischer Angriff auf Kaifeng.
+Found
+MODSMD_ARTICLE17: „Segnung" der Demokratie.
+Found
+MODSMD_ARTICLE18: Ein Wahnsinniger im amerikanischen Parlament.
+Found
+MODSMD_ARTICLE19: „Roosevelt züchtet konsequent eine Alarmstimmung heran."
+Found

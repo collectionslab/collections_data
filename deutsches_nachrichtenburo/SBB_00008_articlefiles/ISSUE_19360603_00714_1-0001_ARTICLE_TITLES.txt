@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Das Staatsbegräbnis für General Litzmann.
+Found
+MODSMD_ARTICLE02: Die Trauerparade der Wehrmacht.
+Found
+MODSMD_ARTICLE03: Der Führer an den polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE04: Ausländische Gemeindevertreter in Köln.
+Found
+MODSMD_ARTICLE05: „Kurjer Czerwonny" warnt vor der Komintern.
+Found
+MODSMD_ARTICLE06: Zeitungsbeschlagnahme in Litauen.
+Found
+MODSMD_ARTICLE07: Fortsetzung der englisch-polnischen Flottenbesprechungen.
+Found
+MODSMD_ARTICLE08: „Gruppe der Volksaktion" in der Kammer.
+Found
+MODSMD_ARTICLE09: Versammlungsverbot in Oesterreich.
+Found
+MODSMD_ARTICLE10: Reise des ägyptischen Außenministers nach London.
+Found
+MODSMD_ARTICLE11: Nene englische Verstärkungen für Palästina.
+Found
+MODSMD_ARTICLE12: Landfrauen-Kongreß in Washington.
+Found
+MODSMD_ARTICLE13: Eine Sozialermächtigung für Roosevelt.
+Found

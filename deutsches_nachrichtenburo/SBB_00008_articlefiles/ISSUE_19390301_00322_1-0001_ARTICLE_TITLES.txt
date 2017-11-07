@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Göring spricht über alle deutschen Sender.
+Found
+MODSMD_ARTICLE02: Nosenberg vor den Schulungsleitern der Bewegung.
+Found
+MODSMD_ARTICLE03: Ins Rcichsinnenministerium berufen.
+Found
+MODSMD_ARTICLE04: Brasilianische Merzte in München.
+Found
+MODSMD_ARTICLE05: Dr. Stuckart in Reichenberg.
+Found
+MODSMD_ARTICLE06: Die Reichsfrauenführerin vom Duce empfangen.
+Found
+MODSMD_ARTICLE07: Chamberlain über die Anerkennung Franeos.
+Found
+MODSMD_ARTICLE08: Marineluftwaffe Sorgenkind der britischen Flottenleitung.
+Found
+MODSMD_ARTICLE09: Informelle englisch-jüdische Besprechung.
+Found
+MODSMD_ARTICLE10: Negrin und del Vayo.
+Found
+MODSMD_ARTICLE11: Jugoslawien erkennt Francs cke gurS an.
+Found
+MODSMD_ARTICLE12: Francos Flagge auf der Pariser spanischen Botschaft.
+Found
+MODSMD_ARTICLE13: Der Besuch des Grafen Ciano in Polen.
+Found
+MODSMD_ARTICLE14: Gefecht auf transjordanischem Gebiet.
+Found
+MODSMD_ARTICLE15: Entscheidung in der Palästinakonferenz in drei Tagen.
+Found
+MODSMD_ARTICLE16: Starke Verluste chinesischer Guerillabanden in Mittelchina.
+Found
+MODSMD_ARTICLE17: Sowjetspaniens Washingtoner Vertreter will nicht gehen.
+Found
+MODSMD_ARTICLE18: Wahrungsstabilisterung oder neue Waffmschiebungen?
+Found

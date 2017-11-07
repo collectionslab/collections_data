@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer zeichnet zum „Dankopfer der Nation".
+Found
+MODSMD_ARTICLE02: „Der Neichsbote" verboten.
+Found
+MODSMD_ARTICLE03: Der Berliner Aufenthalt des ungarischen Kultusministers.
+Found
+MODSMD_ARTICLE04: Eröffnung einer Marine-Gemälde-Ausstellung in Gegenwart des Oberbefehlshabers der Kriegsmarine.
+Not Found
+MODSMD_ARTICLE05: Internationaler Farb-Chemiker-Kongreß in Stuttgart.
+Found
+MODSMD_ARTICLE06: Die Hauptversammlung des BDI.
+Found
+MODSMD_ARTICLE07: Eine Jubiläumsspende für die Darmstädter Hochschule.
+Found
+MODSMD_ARTICLE08: Großer Erfolg der Berliner Philharmoniker in Belgrad.
+Found
+MODSMD_ARTICLE09: Ein Vortrag Oberlindobers in Oslo.
+Found
+MODSMD_ARTICLE10: Herriot doch Kammervorsitzender?
+Found
+MODSMD_ARTICLE11: Der Nuntius in Bukarest geht nach Paris.
+Found
+MODSMD_ARTICLE12: Unterredung Mussolinis mit „Daily Telegraph"-Vertreter.
+Found
+MODSMD_ARTICLE13: Zu den Sabotageakten auf britischen Kriegsschiffen.
+Found
+MODSMD_ARTICLE14: Aufnahme der Flottenbesprechungen Großbritannien-Polen.
+Found
+MODSMD_ARTICLE15: Zuchthausstrafen für litauische Kommunisten.
+Found

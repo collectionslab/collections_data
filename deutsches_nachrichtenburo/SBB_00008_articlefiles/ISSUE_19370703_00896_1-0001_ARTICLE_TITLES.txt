@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Die Schließung der Gaststätten abgeblasen.
+Found
+MODSMD_ARTICLE02: VollMachteu-Gesetz vom französischen Senat angenommen.
+Found
+MODSMD_ARTICLE03: 4W Streikende überfallen einen Arbeitskameraden.
+Found
+MODSMD_ARTICLE04: „Nichtanerkennung Fraucos ist offene Parteilichkeit."
+Found
+MODSMD_ARTICLE05: Die Blockade der nordspanischen Küste bleibt.
+Found
+MODSMD_ARTICLE06: Ter nationale Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE07: Spanische Tennismeisterin eingekerkert.
+Found
+MODSMD_ARTICLE08: 27 Tote und 3 Schwerverletzte in Chesterton.
+Found
+MODSMD_ARTICLE09: Schiffsentseudungen nach dem Mittellnesr.
+Found
+MODSMD_ARTICLE10: Teilergebnisse der irischen Wahlen.
+Found
+MODSMD_ARTICLE11: Ausnahmebeschlüsse des polnischen Ministerrates.
+Found
+MODSMD_ARTICLE12: Neue jüdische Bluttaten in Polen.
+Found
+MODSMD_ARTICLE13: Juden plünderten die jüdischen Geschäfte.
+Found
+MODSMD_ARTICLE14: Die rumänische Presse über den Besuch König Carols.
+Found
+MODSMD_ARTICLE15: „Systematische antisowjetische Kampagne".
+Found
+MODSMD_ARTICLE16: Anschlag auf den arabischen Bürgermeister von Bethlehem.
+Found
+MODSMD_ARTICLE17: Die ttmbesebungcn in der amerikanischen Diplomatie.
+Found
+MODSMD_ARTICLE18: 36 425 Millionen Dollar Staatsschulden.
+Found
+MODSMD_ARTICLE19: Amerika zur Berliner Tagung der IHK.
+Found

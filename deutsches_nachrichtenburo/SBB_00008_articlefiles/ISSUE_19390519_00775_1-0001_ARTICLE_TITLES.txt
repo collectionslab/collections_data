@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Staatsbesuch des italienischen Außenministers.
+Found
+MODSMD_ARTICLE02: Nichtangriffspakte mit Estland, Lettland und Dänemark.
+Found
+MODSMD_ARTICLE03: Dr. Frick gratuliert Sanitätsrat Kreglinger.
+Found
+MODSMD_ARTICLE04: Kranzniederlegung am Grabe der Eltern des Führers.
+Found
+MODSMD_ARTICLE05: Ehrung General Ritter von Epps.
+Found
+MODSMD_ARTICLE06: Ein Weißbuch über die künstige Palästina-Politik.
+Found
+MODSMD_ARTICLE07: Die Ausweisung des Mufti von Jerusalem.
+Found
+MODSMD_ARTICLE08: Der englische Kriegsminister verlangt Geld.
+Found
+MODSMD_ARTICLE09: Der Königsbesuch in Quebeck.
+Found
+MODSMD_ARTICLE10: Personalveräuderungen in der britischen Marine.
+Found
+MODSMD_ARTICLE11: Keine Teilmobilisation in Griechenland.
+Found
+MODSMD_ARTICLE12: Jnde verbreitete Hetzsendungen.
+Found
+MODSMD_ARTICLE13: Spanien im Zeichen des Wiederaufbaues.
+Found
+MODSMD_ARTICLE14: Syrische Parteien für neue Verhandlungen mit Frankreich.
+Found
+MODSMD_ARTICLE15: „Die Sndwestfrage muß freundschaftlich geregelt werden."
+Found
+MODSMD_ARTICLE16: Juden nehmen burische Namen an.
+Found
+MODSMD_ARTICLE17: Die Wühlarbeit englischer Agenten in Südamerika.
+Found
+MODSMD_ARTICLE18: Die Streiklage im Harlan-Bezirk.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ernennungen und Uebernahme in den Reichsdienst.
+Found
+MODSMD_ARTICLE02: Die deutschen Seestreitkräfte in spanischen Gewässern.
+Found
+MODSMD_ARTICLE03: Die deutsche Frau als Bollwerk gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE04: Der englisch-ägyptische Vertrag unterzeichnet.
+Found
+MODSMD_ARTICLE05: Verstärkung der niederländischen Flotte und Luftmacht.
+Found
+MODSMD_ARTICLE06: Rom weiter Zurückhaltend.
+Found
+MODSMD_ARTICLE07: Neue Verhaftungswelle in Sowjetrußland.
+Found
+MODSMD_ARTICLE08: Die bulgarische Presse zum Moskauer Schauprozest.
+Found
+MODSMD_ARTICLE09: Australisch-japanische Handelsvertragsverhandlungen.
+Found
+MODSMD_ARTICLE10: Präsident Azana hat Madrid verlassen.
+Found
+MODSMD_ARTICLE11: Schaffung eines Goldfonds in Burgos.
+Found
+MODSMD_ARTICLE12: Ceuta beschossen.
+Found
+MODSMD_ARTICLE13: Tie Stärke der spanischen Marokkotruppen.
+Found
+MODSMD_ARTICLE14: Einmischung englischer Marxisten in Spanien.
+Found
+MODSMD_ARTICLE15: Vorschläge zu einer humaneren Kriegführung in Spanien.
+Found
+MODSMD_ARTICLE16: Bomben auf Regierungsschiffe in Malaga.
+Found
+MODSMD_ARTICLE17: Mexikanische Arbeiter müssen spenden.
+Found
+MODSMD_ARTICLE18: Munitionsdepot in Madrid in die Luft geflogen?
+Found
+MODSMD_ARTICLE19: General Rydz-Smigly bei den französischen Manövern.
+Found

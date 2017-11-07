@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Englische Frontkämpfer im Berliner Kriegervereinshaus.
+Found
+MODSMD_ARTICLE02: London zur Aufnahme Hamiltons in Deutschland.
+Found
+MODSMD_ARTICLE03: Englische Anerkennung für die deutsche Fernsehtechnik.
+Found
+MODSMD_ARTICLE04: Der Fall Sandys.
+Found
+MODSMD_ARTICLE05: Englands Konservative fordern Stammrolle.
+Found
+MODSMD_ARTICLE06: Englands Handelsvertragsverhandlungen mit Amerika.
+Found
+MODSMD_ARTICLE07: Handelsabkommen zwischen Großbritannien und Marokko.
+Found
+MODSMD_ARTICLE08: 2WV neue Offiziere in der englischen Wehrmacht.
+Found
+MODSMD_ARTICLE09: Die größten Hebungen der englischen Luftwaffe.
+Found
+MODSMD_ARTICLE10: Bischof von Gloucester gegen deutschfeindliche Kritik.
+Found
+MODSMD_ARTICLE11: Besuch Morgeuthaus bei Simou?
+Found
+MODSMD_ARTICLE12: Italiens Kampf gegen die Lehren des Talmud.
+Found
+MODSMD_ARTICLE13: Ungarn plant die Einführung des Pflichtarbeitsdienstes.
+Found
+MODSMD_ARTICLE14: Die Verhandlungen der deutschen Volksgruppe in Rumänien.
+Found
+MODSMD_ARTICLE15: Glückwünsche zum Abschluß des Vertrages von Saloniki.
+Found
+MODSMD_ARTICLE16: Natioualspauischer Heeresbericht.
+Found
+MODSMD_ARTICLE17: Nationalspanischer Ministerrat.
+Found
+MODSMD_ARTICLE18: Der Hunschun-Bertrag als Verhandlungsgrundlage.
+Found

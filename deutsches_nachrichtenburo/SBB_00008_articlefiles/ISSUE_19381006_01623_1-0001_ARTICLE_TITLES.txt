@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Deutsche Truppen in Zone IV.
+Found
+MODSMD_ARTICLE02: Das Ausland zur Führerrede.
+Found
+MODSMD_ARTICLE03: Italienische Berichte über die Besetzung des Sudetenlandes.
+Found
+MODSMD_ARTICLE04: „Korrektes Verhalten der deutschen Aremee".
+Found
+MODSMD_ARTICLE05: Dr. Chwalkowsky bei Mussolini.
+Found
+MODSMD_ARTICLE06: Die Kammer bis November vertagt.
+Found
+MODSMD_ARTICLE07: Volles Vertrauen für Daladier.
+Found
+MODSMD_ARTICLE08: Fortsetzung der Oberhansaussprache.
+Found
+MODSMD_ARTICLE09: Tie Unterhausaussprache auf Donnerstag vertagt.
+Found
+MODSMD_ARTICLE10: Revisionsentwurf der dänischen Staatsverfassung.
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE12: Der Reichswirtschaftsminister in Ankara.
+Found
+MODSMD_ARTICLE13: Verschwunden, getötet, liquidiert!
+Found
+MODSMD_ARTICLE14: „Ernste Verschlechterung der Palästina-Lage".
+Found
+MODSMD_ARTICLE15: Schwere Unruhen in Dakar.
+Found

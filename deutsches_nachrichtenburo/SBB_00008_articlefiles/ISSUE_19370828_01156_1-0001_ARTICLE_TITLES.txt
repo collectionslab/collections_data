@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Abend- und Nacht-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Generalkonsul Tr. Wendler Gesandter in La Paz.
+Found
+MODSMD_ARTICLE03: Hinke! über die Planungen der Reichsknlturkammer.
+Found
+MODSMD_ARTICLE04: Die Lüge von Gnernica widerlegt.
+Found
+MODSMD_ARTICLE05: Trauerfeier für Konteradmiral Waßner.
+Found
+MODSMD_ARTICLE06: Große Antibolschewistische Ausstellung in Nürnberg.
+Found
+MODSMD_ARTICLE07: Der Bolschewismus in aller Welt!
+Found
+MODSMD_ARTICLE08: Das Judentum als Keimzelle des Bolschewismus.
+Found
+MODSMD_ARTICLE09: Wir rufen die Völker der Erde!
+Found
+MODSMD_ARTICLE10: Wie es heute in Deutschland aussieht.
+Found
+MODSMD_ARTICLE11: Der Bericht des belgischen Finanzministers.
+Found
+MODSMD_ARTICLE12: Englands Kriegsminister bei den französischen Manövern.
+Found
+MODSMD_ARTICLE13: Französischer Ministerrat.
+Found
+MODSMD_ARTICLE14: Weitere Besserung im Befinden Knatchbulls.
+Found
+MODSMD_ARTICLE15: 1299 USA-Seesoldaten nach China unterwegs.
+Found
+MODSMD_ARTICLE16: Trennung der Zolleinnahmen zwischen Syrien und Libanon.
+Found

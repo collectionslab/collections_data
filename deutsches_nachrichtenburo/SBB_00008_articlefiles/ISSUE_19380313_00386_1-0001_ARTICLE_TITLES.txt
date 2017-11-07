@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Frick in Breslau.
+Found
+MODSMD_ARTICLE02: Telegrammwechsel Reinthaler—Darre.
+Found
+MODSMD_ARTICLE03: Der Reichssportführer an Dr. Tehß-Inauart.
+Found
+MODSMD_ARTICLE04: Kundgebung der Oesterreichischen Evangelischen Kirche.
+Found
+MODSMD_ARTICLE05: Das Vermögen der „B. F." bleibt gesperrt.
+Found
+MODSMD_ARTICLE06: Rumänien kontrolliert Flüchtlinge aus Oesterreich.
+Found
+MODSMD_ARTICLE07: Das Ende der jüdischen Asphaltpresse in Wien.
+Found
+MODSMD_ARTICLE08: China-Deutsche erleben dm Empfang des Führers in Linz.
+Found
+MODSMD_ARTICLE09: Amerika hörte die Linzer Führer-Rede.
+Found
+MODSMD_ARTICLE10: Brasilien spricht von einer vollzogenen Tatsache.
+Found
+MODSMD_ARTICLE11: Der Eindruck im Orient.
+Found
+MODSMD_ARTICLE12: Polens Studenten fordern judenfreie Universitäten»
+Found
+MODSMD_ARTICLE13: Juden zetern über „drangsalierte Katholiken".
+Found
+MODSMD_ARTICLE14: Neue Zwischenfälle Zwischen Flamen und Wallonen.
+Found
+MODSMD_ARTICLE15: Englische Frontkämpfer empfehlen Deutschland-Besuch.
+Found
+MODSMD_ARTICLE16: Nach dem Moskauer Bluturteil.
+Found

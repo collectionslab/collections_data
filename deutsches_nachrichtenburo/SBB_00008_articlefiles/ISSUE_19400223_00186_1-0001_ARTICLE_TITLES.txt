@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Kranz des Führers am Grabe Horst Wessels.
+Found
+MODSMD_ARTICLE02: Ernennung im Neichspost Ministerium.
+Found
+MODSMD_ARTICLE03: Beförderung in der Luftwaffe.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Reichsarbeitsführer Konstantin Hierl 65 Jahre alt.
+Found
+MODSMD_ARTICLE06: Tag der Deutschen Polizei: 15 Millionen Reichsmark.
+Found
+MODSMD_ARTICLE07: Englands Kriegsziel: Vernichtung des deutschen Volkes.
+Found
+MODSMD_ARTICLE08: Finnischer Heeresbericht.
+Found
+MODSMD_ARTICLE09: Der russische Heeresbericht.
+Found
+MODSMD_ARTICLE10: „Die britischen Kontrollhäfen sind Fallen."
+Found
+MODSMD_ARTICLE11: Französischer Spionagedienst in Litauen.
+Found
+MODSMD_ARTICLE12: Deutschland-Besuch von Oberst Bodini.
+Found
+MODSMD_ARTICLE13: General Teruzzi in Addis Abeba.
+Found
+MODSMD_ARTICLE14: „Systematische Grausamkeiten".
+Found
+MODSMD_ARTICLE15: Englische Erkenntnisse.
+Found
+MODSMD_ARTICLE16: Britische Bajonettattacken erregen die USA.
+Found

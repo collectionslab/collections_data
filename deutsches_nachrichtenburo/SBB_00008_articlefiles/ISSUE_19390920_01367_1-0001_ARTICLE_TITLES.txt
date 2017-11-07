@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Stärkster Eindruck der Führerrede im Ausland.
+Found
+MODSMD_ARTICLE02: Kurze Auslandsnachrichten.
+Found
+MODSMD_ARTICLE03: Dreitausend Volksdeutsche Geiseln gerettet.
+Found
+MODSMD_ARTICLE04: Das polnische Grauen über Posen.
+Found
+MODSMD_ARTICLE05: Francos Staatsbesuch in Rom verschoben.
+Found
+MODSMD_ARTICLE06: Portugal lehnt Londoner Wunschträume ab.
+Found
+MODSMD_ARTICLE07: Tschungking: „Polen hat sein Schicksal verdient".
+Found

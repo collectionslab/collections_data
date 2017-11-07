@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer auf der Odensburg Vogelsang.
+Found
+MODSMD_ARTICLE02: Die Besprechungen zwischen Neurath und Dr. Schmidt.
+Found
+MODSMD_ARTICLE03: Tagung der Reichsstelle zur Förderung des Schrifttums.
+Found
+MODSMD_ARTICLE04: 125 Jahre Krupp.
+Found
+MODSMD_ARTICLE05: Staatsstraßen in England?
+Found
+MODSMD_ARTICLE06: Der König von England in den Elendsgebieten.
+Found
+MODSMD_ARTICLE07: Marxistische Sabotage beim „Gringoire".
+Found
+MODSMD_ARTICLE08: Kein Rücktritt des Gouverneurs der Bank von Frankreich.
+Found
+MODSMD_ARTICLE09: Der italienische Geschäftsträger in Burgos.
+Found
+MODSMD_ARTICLE10: Nationale Truppen besetzen Madrider Straßen.
+Found
+MODSMD_ARTICLE11: Franca warnt Vvr Waffenlieferungen. !
+Found
+MODSMD_ARTICLE12: Zwei rote Flugzeuge über Madrid abgeschossen.
+Found
+MODSMD_ARTICLE13: Außenminister Hull Gast der Negierung Brasiliens.
+Found
+MODSMD_ARTICLE14: 129 neue Beobachtungsflugzeuge für USA.-Lustflotte.
+Found
+MODSMD_ARTICLE15: „Tag der Nationalflagge" in Brasilien.
+Found
+MODSMD_ARTICLE16: Zuchthaus für Rassenschänder.
+Found

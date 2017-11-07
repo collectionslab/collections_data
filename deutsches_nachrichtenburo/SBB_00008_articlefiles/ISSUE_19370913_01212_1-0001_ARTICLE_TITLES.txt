@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Filchner auf dem Wege nach Kaschmir.
+Found
+MODSMD_ARTICLE02: Pariser Bilanz der Verhandlungen in Nyon.
+Found
+MODSMD_ARTICLE03: Ter Kongreß der Internationalen Zeitschriftenpresse.
+Found
+MODSMD_ARTICLE04: Sowjetspanische Abordnung nach Paris unterwegs.
+Found
+MODSMD_ARTICLE05: Fischkutter mit Bolschewistenflüchtlingen überfällig.
+Found
+MODSMD_ARTICLE06: Internationaler Amatenrfilmkongreß in Paris.
+Found
+MODSMD_ARTICLE07: Der nationalspanische Heeresbericht vom Sonnabend.
+Found
+MODSMD_ARTICLE08: Ein Schritt Portugals in London.
+Found
+MODSMD_ARTICLE09: Masaryks Zustand verschlimmert.
+Found
+MODSMD_ARTICLE10: Schändliche Mittel der Tschechen.
+Found
+MODSMD_ARTICLE11: Bombenanschläge auf Lemberger Kirchen.
+Found
+MODSMD_ARTICLE12: Die antireligiöse Agitation in Sowjetrußland.
+Found
+MODSMD_ARTICLE13: Eine Aeußerung Roosevelts zur Lage.
+Found
+MODSMD_ARTICLE14: Einschränkung der australischen Eisenerzausfuhr.
+Found
+MODSMD_ARTICLE15: Olympische Spiele 1940 doch in Tokio.
+Found
+MODSMD_ARTICLE16: Konoe für chinesisch-japanische Zusammenarbeit.
+Found
+MODSMD_ARTICLE17: Die Japaner über Matschang vorgerückt.
+Found
+MODSMD_ARTICLE18: Beginn eines großen japanischen Durchbruchsversuchs.
+Found
+MODSMD_ARTICLE19: Carracciola siegte im Großen Preis von Italien.
+Found

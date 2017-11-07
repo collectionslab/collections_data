@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer an Professor Fröhner.
+Found
+MODSMD_ARTICLE02: Personalveränderungen im Heer.
+Found
+MODSMD_ARTICLE03: Wahlkundgebungen am Mittwoch.
+Found
+MODSMD_ARTICLE04: Herzog besichtigt die österreichische SA.
+Found
+MODSMD_ARTICLE05: Regentschaft in Liechtenstein.
+Found
+MODSMD_ARTICLE06: Englische Schützen danken für Gastfreundschaft Deutschlands.
+Found
+MODSMD_ARTICLE07: Die Kabinettsbildung in Rumänien.
+Found
+MODSMD_ARTICLE08: Pariser Kabinettsrat überraschend verschoben.
+Found
+MODSMD_ARTICLE09: Zusätzliches Flottrnbauprogramm Frankreichs.
+Found
+MODSMD_ARTICLE10: Der Flaggenzwischenfall in Nancy.
+Found
+MODSMD_ARTICLE11: General Baldomir Präsident von Uruguay.
+Found
+MODSMD_ARTICLE12: Amerikanische Note an London.
+Found
+MODSMD_ARTICLE13: USA-Druck auf mexikanischen Silberkurs?
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Südafrikanischer Minister bei Darre.
+Found
+MODSMD_ARTICLE02: Weitere Teilstrecken der Reichsautobahn eröffnet.
+Found
+MODSMD_ARTICLE03: Gedenkfeier der Stadt Potsdam in der Garnisonkirche.
+Found
+MODSMD_ARTICLE04: Schach-Olympia München 1936.
+Found
+MODSMD_ARTICLE05: Salcngro weist früheren spanischen Militärattache aus.
+Found
+MODSMD_ARTICLE06: „Ami du Peuple" über die Rede Saleugros in Lille.
+Found
+MODSMD_ARTICLE07: Blum überraschend nach Paris zurückgekehrt.
+Found
+MODSMD_ARTICLE08: Englischer Hilfsausschuß für Spanien»
+Found
+MODSMD_ARTICLE09: Sicherheitsvorkehrungen der britischen Botschaft in Madrid.
+Found
+MODSMD_ARTICLE10: Zum panamerikanischen Vermittlungsschritt in Spanien.
+Found
+MODSMD_ARTICLE11: Angriff auf Mallorca blutig zurückgeschlagen.
+Found
+MODSMD_ARTICLE12: Rote Greueltaten in Almeria und Malaga.
+Found
+MODSMD_ARTICLE13: Madrider Hinrichtungen.
+Found
+MODSMD_ARTICLE14: Die Geiseln von Fuenterrabia.
+Found
+MODSMD_ARTICLE15: Tie Schriftstellerin Grazia Deledda f.
+Found
+MODSMD_ARTICLE16: Gamelin am Grabmale Pilsudskis.
+Found
+MODSMD_ARTICLE17: Polnische Vorstellungen in London.
+Found
+MODSMD_ARTICLE18: Ultimatum Tschiangkaischeks an die Kwangsi-Generäle.
+Found
+MODSMD_ARTICLE19: 15 Koreaner unter Spionageverdacht verhaftet.
+Found
+MODSMD_ARTICLE20: Der australisch-japanische Zollkrieg.
+Found

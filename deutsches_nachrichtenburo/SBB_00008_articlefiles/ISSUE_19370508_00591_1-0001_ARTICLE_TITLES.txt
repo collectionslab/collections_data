@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Erlaß der Durchführungsverordnungen zum Luftschutzgesetz.
+Found
+MODSMD_ARTICLE02: Jahresversammlung des Deutschen Museums.
+Found
+MODSMD_ARTICLE03: Halle für Kraftfahrwesen im Deutschen Museum! eingeweiht.
+Found
+MODSMD_ARTICLE04: Tagung der Hafenbautechnischen Gesellschaft. .
+Found
+MODSMD_ARTICLE05: Bolschewistische Bücher in Warschau beschlagnahmt.
+Found
+MODSMD_ARTICLE06: Mehlmangel in Lodz. ?
+Found
+MODSMD_ARTICLE07: Kammeraussprache über die Volksfrontpolitik.
+Found
+MODSMD_ARTICLE08: Ungeklärte Lage in Katalonien.
+Found

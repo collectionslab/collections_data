@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Frank zum Tode von Geheimrat Oetker.
+Found
+MODSMD_ARTICLE02: Der Reichskampf hat begonnen.
+Found
+MODSMD_ARTICLE03: Die italienischen Industriellen in Friedrichshafen.
+Found
+MODSMD_ARTICLE04: Das deutsch-ungarische Kultur-Abkommen.
+Found
+MODSMD_ARTICLE05: Die deutschen Zeitschriftenverleger ans dem Capitol.
+Found
+MODSMD_ARTICLE06: Tie Pariser Heuchelei um Oesterreichs „Sicherheit".
+Found
+MODSMD_ARTICLE07: Gegen das ostjüdische Schiebertum in Wien.
+Found
+MODSMD_ARTICLE08: Kauton Neuenburg bestätigt Kommuuistenverbot.
+Found
+MODSMD_ARTICLE09: Moskaus Revolutionspläne für Polen.
+Found
+MODSMD_ARTICLE10: Degrelle Zur englisch-französischen Note.
+Found
+MODSMD_ARTICLE11: London zur englisch-französischen Erklärung.
+Found
+MODSMD_ARTICLE12: Auch England protestiert.
+Found
+MODSMD_ARTICLE13: Weitere drei englische Dampfer in baskischen Häfen.
+Found
+MODSMD_ARTICLE14: Neuer Grenzzwischenfall in Ostasien.
+Found

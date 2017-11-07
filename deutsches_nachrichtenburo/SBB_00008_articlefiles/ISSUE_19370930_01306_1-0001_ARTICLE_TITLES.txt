@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Geschenk des Duee an den Führer
+Found
+MODSMD_ARTICLE02: Mussolini in Rom.
+Found
+MODSMD_ARTICLE03: „Abschluß eines weltbewegenden Geschehens."
+Found
+MODSMD_ARTICLE04: Glückwunsch des Führers.
+Found
+MODSMD_ARTICLE05: Tie Vorarbeiten für die nächste Rundfunkausstellung.
+Found
+MODSMD_ARTICLE06: General der Flieger Milch besucht Paris.
+Found
+MODSMD_ARTICLE07: „Jntransigeant" Zum Besuch Generals Milch in Paris.
+Found
+MODSMD_ARTICLE08: Der französische Haushaltsporschlag.
+Found
+MODSMD_ARTICLE09: Das Ergebnis der Pariser Mittelmeerbesprechungen.
+Found
+MODSMD_ARTICLE10: Was eine Genfer Entschließung erhofft.
+Found
+MODSMD_ARTICLE11: General Franco Ehrenbürgermeister von Burgos.
+Found
+MODSMD_ARTICLE12: Valencia requiriert Betten und Matratzen für die Front.
+Found
+MODSMD_ARTICLE13: In den Plakaten sehen sie sich wieder.
+Found
+MODSMD_ARTICLE14: Unbefriedigende Erklärung der litauischen Regierung.
+Found
+MODSMD_ARTICLE15: Eine Million für Rüstungserweiterungen in Aegypten.
+Found
+MODSMD_ARTICLE16: Fortdauer des Kleinkriegs in Waziristan.
+Found
+MODSMD_ARTICLE17: Moskau plante Oktoberevolution in Brasilien.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Pressestimmen zur Berliner Führerrede.
+Found
+MODSMD_ARTICLE02: Wien in Erwartung von Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Zurückweisung einer Lüge.
+Found
+MODSMD_ARTICLE04: Dr. Frick zum 89. Geburtstag Prof. Pfeiffers^
+Found
+MODSMD_ARTICLE05: Jugendherberge in Linz.
+Found
+MODSMD_ARTICLE06: Abschied der 2099 Wiener von Berlin.
+Found
+MODSMD_ARTICLE07: Oesterreichische Kinder in der Pfalz.
+Found
+MODSMD_ARTICLE08: Alfieri an den nationalen Gedenkstätten Jugoslawiens.
+Found
+MODSMD_ARTICLE09: Polnisch-litauisches Verkehrsabkommen.
+Found
+MODSMD_ARTICLE10: Schon wieder ein Bombenanschlag in Belfast.
+Found
+MODSMD_ARTICLE11: Verdächtige Geschäftstätigkeit auf französischem Flugplatz.
+Found
+MODSMD_ARTICLE12: Der Siegeszug General Francas.
+Found
+MODSMD_ARTICLE13: Vollstreckung eines Todesurteils.
+Found

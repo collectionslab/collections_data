@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: König Fuad von Aegypten f.
+Found
+MODSMD_ARTICLE02: Der uruguayjche Finauzminister Gast der Reichsregierung.
+Found
+MODSMD_ARTICLE03: Minister Rossoni im Kameradschaftshaus der R. I. F.
+Found
+MODSMD_ARTICLE04: Dritte Tagung der Reichsarbeitskammer.
+Found
+MODSMD_ARTICLE05: Gemeinsame Flagge für den Seedienst Ostpreußen.
+Found
+MODSMD_ARTICLE06: Tagung der „Sudetendeutschen Kulturgesellschaft.".
+Found
+MODSMD_ARTICLE07: Tödlicher Jagdunfall eines sudetendeutschen Politikers.
+Found
+MODSMD_ARTICLE08: Die Lage in Frankreich nach dem ersten Wahlgang.
+Found
+MODSMD_ARTICLE09: Besichtigungsreise Denains in Marokko.
+Found
+MODSMD_ARTICLE10: Streik in der Pariser Bekleidungsindustrie.
+Found
+MODSMD_ARTICLE11: Der lcttlättdifche Generalstabschef besucht Sowjetrußland.
+Found
+MODSMD_ARTICLE12: Vertrauensvotum für die griechische Regierung.
+Found
+MODSMD_ARTICLE13: Das Ergebnis der Wahl der Vertrauensleute in Madrid.
+Found
+MODSMD_ARTICLE14: Für eine Selbstverwaltung Valencias.
+Found
+MODSMD_ARTICLE15: Generalstreik in Cordoba.
+Found
+MODSMD_ARTICLE16: Finanzierung des amerikanischen Kriegsteilnehmer-Bonus«
+Found
+MODSMD_ARTICLE17: Arbeitslosenkundgebungen im Staate New Jersey.
+Found
+MODSMD_ARTICLE18: Erfolge der Aufständischen in Honduras?
+Found
+MODSMD_ARTICLE19: Straßenbahnerstreik in Montevideo.
+Found

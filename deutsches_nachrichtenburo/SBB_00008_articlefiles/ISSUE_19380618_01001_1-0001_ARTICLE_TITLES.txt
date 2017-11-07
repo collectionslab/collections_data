@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dnrchführungsstelle für die Neugestaltung Berlins.
+Found
+MODSMD_ARTICLE02: Oberbürgermeister Zörner Leiter der Durchführungsstelle.
+Found
+MODSMD_ARTICLE03: Italienische Beamte studieren deutschen Strafvollzug.
+Found
+MODSMD_ARTICLE04: Dr. Frick, Dr. Ley und Buch sprachen in Königsberg.
+Found
+MODSMD_ARTICLE05: Raeder ehrt gefallene österreichische Kameraden.
+Found
+MODSMD_ARTICLE06: Der Präsident des Reichsluftschutzbundes in Linz.
+Found
+MODSMD_ARTICLE07: Der Minister für Volksbildung beim Duce.
+Found
+MODSMD_ARTICLE08: Wieder eine Verleumdung Deutschlands Zusammengebrochen.
+Found
+MODSMD_ARTICLE09: Nur 70 v. H. Wahlbeteiligung in Irland.
+Found
+MODSMD_ARTICLE10: Entmutigte Milizen sinnlos ins Feuer getrieben.
+Found
+MODSMD_ARTICLE11: Blamierte Spionenriecherei in USA.
+Found
+MODSMD_ARTICLE12: Vorverlegung der amerikanischen Flottenmanöver geplant.
+Found

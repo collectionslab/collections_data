@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ciano wieder in Rom.
+Found
+MODSMD_ARTICLE02: Die Danziger Regierung weist Polen energisch zurück.
+Found
+MODSMD_ARTICLE03: Der jammervolle Zustand der Weichsel.
+Found
+MODSMD_ARTICLE04: „Das bedeutungsvollste Militärbündnis der Geschichte."
+Found
+MODSMD_ARTICLE05: Spanien verbittet sich englische „RaFchläge".
+Found
+MODSMD_ARTICLE06: Furchtbares Schiffsunglück vor Santander.
+Found
+MODSMD_ARTICLE07: Der Besuch der holländischen Königin in Brüssel.
+Found
+MODSMD_ARTICLE08: Kabinettsumbildung in England?
+Found
+MODSMD_ARTICLE09: Zu den geheimnisvollen Anschlägen kommen jetzt Drohbriefe.
+Found
+MODSMD_ARTICLE10: Lloyd George als Fürsprecher der Juden.
+Found
+MODSMD_ARTICLE11: Treibt London die Frechheit auf die Spitze?
+Found
+MODSMD_ARTICLE12: Verfassungsrevision in Dänemark abgelehnt.
+Found
+MODSMD_ARTICLE13: Die jüdischen Beziehungen von USA.-Politikern.
+Found
+MODSMD_ARTICLE14: „Roosevelt steuert in die Inflation!"
+Found
+MODSMD_ARTICLE15: Unaufhörliche Schießereien in Palästina.
+Found
+MODSMD_ARTICLE16: Australien und der geplante Sowjetpakt.
+Found

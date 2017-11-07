@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die französische Presse dementiert englische Blätter.
+Found
+MODSMD_ARTICLE02: Die Behandlung deutscher Zeitungen in der Schweiz.
+Found
+MODSMD_ARTICLE03: Die Auflösung der Kommunistischen Partei in Böhmen.
+Found
+MODSMD_ARTICLE04: Untersuchung der Vorfälle in Szurany.
+Found
+MODSMD_ARTICLE05: Der Memeler Kistenjude Jtzigsohn ins Ausland gefluchtet.
+Found
+MODSMD_ARTICLE06: Vergeblicher Emsatz roter „Eliten-Truppen.
+Found
+MODSMD_ARTICLE07: Lebensmittelversorgung Madrids wird immer schwieriger.
+Found
+MODSMD_ARTICLE08: Raoul Labrh über den srainzösisch-sowjetrussischen Pakt.
+Found
+MODSMD_ARTICLE09: Französischer Aviso von Beirut nach Dschibuti.
+Found

@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Die Jahrestagung der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE02: Dr. Frick vor der „Akademie für Deutsches Recht".
+Found
+MODSMD_ARTICLE03: Der Führergrundsatz in der Verwaltung.
+Found
+MODSMD_ARTICLE04: Der Grundsatz der Rechtmäßigkeit in der Verwaltung.
+Found
+MODSMD_ARTICLE05: Die Verwaltungsgerichtsbarkeit im nationalsozialistischen Führerstaat.
+Found

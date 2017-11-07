@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Das Feuerschiff „Elbe I".
+Found
+MODSMD_ARTICLE02: Beileidstelegramme zum Untergang des Feuerschiffes.
+Found
+MODSMD_ARTICLE03: Die Aufgaben der Frau im Rahmen des Vierjahresplanes.
+Found
+MODSMD_ARTICLE04: Staatsschauspielerin Käte Gold.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Bohle ans einer Kundgebung der Faschistischen Partei.
+Found
+MODSMD_ARTICLE07: Deutsch-italienische Trinkspriiche.
+Found
+MODSMD_ARTICLE08: Besuch der „Emden" in Warna.
+Found
+MODSMD_ARTICLE09: Der Londoner Unterausschuß zusammengetreten.
+Found
+MODSMD_ARTICLE10: Nachprüfung der Vorwürfe gegen Salengro.
+Found
+MODSMD_ARTICLE11: Gegen die Einmischung Moskaus in Spanien.
+Found
+MODSMD_ARTICLE12: Madrid in Sicht!
+Found
+MODSMD_ARTICLE13: Madrids Verteidiger verliert eine Schlacht.
+Found
+MODSMD_ARTICLE14: Sowjetrussischer Munitionstrausport gekapert.
+Found
+MODSMD_ARTICLE15: König Carol in Prag.
+Found
+MODSMD_ARTICLE16: Oberlandesgerichtspräsident Dr. Karge f.
+Found

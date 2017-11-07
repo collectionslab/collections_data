@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Jtalienreife des Generalstabschefs Halder.
+Found
+MODSMD_ARTICLE02: Reichsstatthalter Murr empfing die deutschen Jäger.
+Found
+MODSMD_ARTICLE03: Polnischer Zynismus.
+Found
+MODSMD_ARTICLE04: Haßurteile gegen deutsche Landwirte.
+Found
+MODSMD_ARTICLE05: General Jronside bei König Georg.
+Found
+MODSMD_ARTICLE06: England hat kein Geld für Alterspensionen.
+Found
+MODSMD_ARTICLE07: Bombenfurcht über England.
+Found
+MODSMD_ARTICLE08: Englands Luftschutz noch sehr im Argen.
+Found
+MODSMD_ARTICLE09: Ein Fehlschuß des „Manchester Guardian"!
+Found
+MODSMD_ARTICLE10: Der Pariser Zweckoptimismus wieder verflogen.
+Found
+MODSMD_ARTICLE11: Vorbereitung der siziliantschen Bodenreform.
+Found
+MODSMD_ARTICLE12: Sowjetische Ordensauszeichnungen wieder aberkannt.
+Found
+MODSMD_ARTICLE13: Der dritte Tag der Bayreuther Festspiele.
+Found
+MODSMD_ARTICLE14: Lord und Lady Kemsley in Bayreuth.
+Found
+MODSMD_ARTICLE15: Kommandeur der Ersten Fernöstlichen Sowjet-Armee ersetzt.
+Found
+MODSMD_ARTICLE16: Die übliche lakonische Taß-Meldung.
+Found
+MODSMD_ARTICLE17: Jüdische Zeitbombe im Jerusalemer Araberviertel.
+Found
+MODSMD_ARTICLE18: Die englischen Gewaltmethoden in Palästina.
+Found

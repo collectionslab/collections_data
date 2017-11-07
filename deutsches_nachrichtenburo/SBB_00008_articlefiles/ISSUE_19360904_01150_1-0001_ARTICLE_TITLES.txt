@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Diplomaten als Gäste des Führers auf dem Parteitag.
+Found
+MODSMD_ARTICLE02: IV. Reichstagung der Auslandsdeutschen in Erlangen 193 k.
+Found
+MODSMD_ARTICLE03: Presseempfang beim Gauleiter Bohle.
+Found
+MODSMD_ARTICLE04: Die Untersuchung des Bochumer Grubenunglücks.
+Found
+MODSMD_ARTICLE05: Tie Minderheitenprozesse in Mährisch-Ostrau.
+Found
+MODSMD_ARTICLE06: Italienischer Arbeiter in Barcelona ermordet.
+Found
+MODSMD_ARTICLE07: Italienischer Kreuzer nach Barcelona unterwegs.
+Found
+MODSMD_ARTICLE08: Italiens Teilnahme am Londoner Kontrollausschuß.
+Found
+MODSMD_ARTICLE09: Neue Palästina-Besprechungen in London.
+Found

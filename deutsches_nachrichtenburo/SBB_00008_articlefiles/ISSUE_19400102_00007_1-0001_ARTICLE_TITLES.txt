@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Das Ausland zu den Aufrufen des Führers.
+Found
+MODSMD_ARTICLE02: Rußland
+Found
+MODSMD_ARTICLE03: Schweden
+Found
+MODSMD_ARTICLE04: Dänemark
+Found
+MODSMD_ARTICLE05: Belgien
+Found
+MODSMD_ARTICLE06: Jugolawien
+Found
+MODSMD_ARTICLE07: Griechenland
+Found
+MODSMD_ARTICLE08: Vereinigte Staaten
+Found
+MODSMD_ARTICLE09: Lügen-Churchill peinlichst berührt.
+Found
+MODSMD_ARTICLE10: Keine Abschwächung der Rassengesetze in Italien.
+Found
+MODSMD_ARTICLE11: Die Errungenschaften der deutschen Industrie.
+Found
+MODSMD_ARTICLE12: Sowjetrussisch-japanifche Vereinbarung.
+Found
+MODSMD_ARTICLE13: Deutsch-russisches Handelsabkommen.
+Found
+MODSMD_ARTICLE14: Der russische Heeresbericht.
+Found
+MODSMD_ARTICLE15: Finnische Berichte über die Kampfhandlungen.
+Found
+MODSMD_ARTICLE16: Deutsche Flieger wieder über den Shetland-Jnseln.
+Found
+MODSMD_ARTICLE17: Der Tod an den Küsten Englands.
+Found
+MODSMD_ARTICLE18: „Englands Preis für wohlwollende Neutralität".
+Found
+MODSMD_ARTICLE19: Telegrammwechsel Göring—Zwetkowitsch.
+Found
+MODSMD_ARTICLE20: Indien kämpft um seine Freiheit.
+Found
+MODSMD_ARTICLE21: Japans Ziel: der Neuaufbau Ostasiens.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Empfänge beim Führer.
+Found
+MODSMD_ARTICLE02: Der Kampf gegen die Arbeitslosigkeit.
+Found
+MODSMD_ARTICLE03: Die Vernehmung von Angehörigen der NSDAP.
+Found
+MODSMD_ARTICLE04: Landesverräter zu lebenslänglichem Zuchthaus verurteilt.
+Found
+MODSMD_ARTICLE05: Italienisch-Deutsche Kulturvereinigung tagt in Mailand.
+Found
+MODSMD_ARTICLE06: Katholische Ungarn zum Kampf gegen den Bolschewismus«
+Found
+MODSMD_ARTICLE07: Deutsche Antwort auf chinesische Rückfragen.
+Found
+MODSMD_ARTICLE08: Nene Gesandtschaften der Schweiz.
+Found
+MODSMD_ARTICLE09: Der „Temps" kritisiert die belgische Neutralitätspolitik.
+Found
+MODSMD_ARTICLE10: Dmniroff in Paris?
+Found
+MODSMD_ARTICLE11: Tie Folgen des französischen Hafenarbeiterstreiks.
+Found
+MODSMD_ARTICLE12: Französische Ausfuhrindustrie gegen die Hafenarbeiterstreiks.
+Found
+MODSMD_ARTICLE13: Tie Kammeraussprache über das Pressegesetz.
+Found
+MODSMD_ARTICLE14: Um das verschobene spanische Gold.
+Found
+MODSMD_ARTICLE15: Kampffähige Marxisten dürfen Madrid verlassen.
+Found
+MODSMD_ARTICLE16: Bolschewistischer Terror in Tarragona.
+Found
+MODSMD_ARTICLE17: Die griechische Regierung gegen falsche Gerüchte.
+Found
+MODSMD_ARTICLE18: Trohki will nach Mexiko.
+Found
+MODSMD_ARTICLE19: Rücktritt eines hohen japanischen Beamten.
+Found

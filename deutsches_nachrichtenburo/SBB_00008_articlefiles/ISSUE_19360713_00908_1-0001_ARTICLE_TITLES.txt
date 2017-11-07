@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Telegrammwechsel Zwischen dem Führer und Schuschnigg.
+Found
+MODSMD_ARTICLE02: Eine Rundsunkrede des Bundeskanzlers Schuschnigg.
+Found
+MODSMD_ARTICLE03: Erweiterung der österreichischen Regierung.
+Found
+MODSMD_ARTICLE04: Telegrammwechsel zwischen Mussolini und Schuschnigg.
+Found
+MODSMD_ARTICLE05: Telegrammwechsel Schuschnigg-Gömbös.
+Found
+MODSMD_ARTICLE06: Prof. Dr. Gray bei Reichsminister Ruft.
+Found
+MODSMD_ARTICLE07: Olympia-Sondermaßnahmen des Seedienst Ostpreußen.
+Found
+MODSMD_ARTICLE08: Reichstagung des NSLB in Bayreuth.
+Found
+MODSMD_ARTICLE09: Außenminister Barcia über Madariagas Rücktritt.
+Found
+MODSMD_ARTICLE10: Bedeutsame Schwenkung in Süd-China.
+Found
+MODSMD_ARTICLE11: Ein neuer chinesisch-japanischer Zwischenfall.
+Found
+MODSMD_ARTICLE12: Fortdauer der Hitze in USA. 500 Todesopfer.
+Found

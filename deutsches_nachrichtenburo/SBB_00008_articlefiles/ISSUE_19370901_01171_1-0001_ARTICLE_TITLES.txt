@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Das Beileid des Führers zum Tode Adele Sandrocks.
+Found
+MODSMD_ARTICLE02: Kanzlei des Führers während Reichsparteitages geschlossen.
+Found
+MODSMD_ARTICLE03: Karl Weinrich 19 Jahre Gauleiter von Kurhessen.
+Found
+MODSMD_ARTICLE04: Staatssekretär Liautey-Paris in Freiburg.
+Found
+MODSMD_ARTICLE05: Herzlicher Telegrammwechsel Parini—Bohle.
+Not Found
+MODSMD_ARTICLE06: 30 KW deutsche Arbeiter durch KdF. alljährlich nach Italien.
+Found
+MODSMD_ARTICLE07: „Agenzia Stefani" begrüßt KdF.-Fahrt deutscher Arbeiter.
+Found
+MODSMD_ARTICLE08: Deutsch-finnischer Auslieferungs-Vertrag ratifiziert.
+Found
+MODSMD_ARTICLE09: Lettlands Generalstabschef bei den polnischen Manövern.
+Found
+MODSMD_ARTICLE10: Errichtung einer Privatvolksschule untersagt.
+Found
+MODSMD_ARTICLE11: Rohes Verhalten tschechischer Grenzorgane.
+Found
+MODSMD_ARTICLE12: Britischer Zerstörer vor Valencia beschossen.
+Found
+MODSMD_ARTICLE13: Der britische Zerstörer „Havoc" erwiderte den Angriff.
+Found
+MODSMD_ARTICLE14: „Mißlungenes Ablenkungs-Manöver".
+Found
+MODSMD_ARTICLE15: Die neue französische Nationale Eisenbahngesellschast.
+Found
+MODSMD_ARTICLE16: Weitere französische Wirtschaftsverordnungen veröffentlicht.
+Found
+MODSMD_ARTICLE17: Moskau will England vor Italien schützen.
+Found
+MODSMD_ARTICLE18: Moskau bevormundet die Türkei.
+Found
+MODSMD_ARTICLE19: Knatchbulls Befinden weiter gebessert.
+Found
+MODSMD_ARTICLE20: Schrapnells auf britische Schiffe vor Schanghai.
+Found
+MODSMD_ARTICLE21: Japanische Truppen in der Internationalen Niederlassung.
+Found

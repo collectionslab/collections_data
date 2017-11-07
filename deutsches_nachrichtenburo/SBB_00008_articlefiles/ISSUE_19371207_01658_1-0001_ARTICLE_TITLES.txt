@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Großkundgebung des Reichskolonialbundes.
+Found
+MODSMD_ARTICLE02: Ungarn begreift Deutschlands Kolonialforderung.
+Found
+MODSMD_ARTICLE03: Gründung einer ungarischen Luftschutzliga.
+Found
+MODSMD_ARTICLE04: 20. Jahrestag der Selbständigkeitserklärung Finnlands.
+Found
+MODSMD_ARTICLE05: Pilsudski-Erinnerungsstiitte in -5^..^
+Found
+MODSMD_ARTICLE06: Uri beantragt Verbot kommunistischer Organisationen.
+Found
+MODSMD_ARTICLE07: Scharfe Kritik an der französischen Außenpolitik.
+Found
+MODSMD_ARTICLE08: Die Pariser Kammer nimmt den Finanzhaushalt an.
+Found
+MODSMD_ARTICLE09: Attlee läßt sich von den Bolschewisten feiern.
+Found
+MODSMD_ARTICLE10: In Rotspanien wütet die Tscheka Sowjetrußlands.
+Found
+MODSMD_ARTICLE11: Heliumgas für die Deutsche Zeppelin-Reederei.
+Found

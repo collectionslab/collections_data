@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ehrenvolle Berufung Dr. Stengels.
+Found
+MODSMD_ARTICLE02: Der ungarische Ministerpräsident in Müncheverg.
+Found
+MODSMD_ARTICLE03: Staatssekretär von Patuky bei der A. O.
+Found
+MODSMD_ARTICLE04: Alpers Leiter der Fachschaft Forstbeamte.
+Found
+MODSMD_ARTICLE05: Eickhoff provisorischer Regierungspräsident.
+Found
+MODSMD_ARTICLE06: Unterredung mit Außenminister von Kanya.
+Found
+MODSMD_ARTICLE07: Staatssekretär Dr. Kleinmann in Wien.
+Found
+MODSMD_ARTICLE08: Aufhören der Studentendemonstrationen in Oesterreich.
+Found
+MODSMD_ARTICLE09: Deutsch-dänisches Abkommen über den Warenverkehr 1938.
+Found
+MODSMD_ARTICLE10: Ter Reichsjugelndführer in Sofia eingetroffen.
+Found
+MODSMD_ARTICLE11: Das Memeldeutschtum gegen litauische Uebergriffe.
+Found
+MODSMD_ARTICLE12: Der Eindruck der Hinrichtung Farhan Saudis.
+Found
+MODSMD_ARTICLE13: Weiterer japanischer Vormarsch am Tai-See.
+Found
+MODSMD_ARTICLE14: Die Kennzahl der Großhandelspreise vom 24. November.
+Found

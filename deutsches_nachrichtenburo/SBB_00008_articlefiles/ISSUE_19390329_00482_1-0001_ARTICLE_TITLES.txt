@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Deutsche Schriftleiter besuchen Japan»
+Found
+MODSMD_ARTICLE02: Zollgrenzschutz an den Protektoratsgrenzem
+Found
+MODSMD_ARTICLE03: Prag verbietet die Hetzblätter.
+Found
+MODSMD_ARTICLE04: Auszeichnung Dr. Leys durch Viktor Emanuel 111.
+Found
+MODSMD_ARTICLE05: Dr. Leys Besuch in Rom beendet.
+Found
+MODSMD_ARTICLE06: Francos Sien auch ein Sieg Italiens.
+Found
+MODSMD_ARTICLE07: Anarchisten wollten noch Madrid „verteidigen".
+Found
+MODSMD_ARTICLE08: Madrids großer Freudentag.
+Found
+MODSMD_ARTICLE09: Spanien feiert die Einnahme Madrids.
+Found
+MODSMD_ARTICLE10: Gewaltmärsche der nationalen Truppen.
+Found
+MODSMD_ARTICLE11: Chamberlain konnte keine Erfolgsmeldung erstatten.
+Found
+MODSMD_ARTICLE12: Hilfsmaßnahmen' für die britische Schiffahrt.
+Found
+MODSMD_ARTICLE13: Stimmungsmache mit einer Militär-Entente.
+Found
+MODSMD_ARTICLE14: Die Unterdrückung der Iren.
+Found
+MODSMD_ARTICLE15: Ablehnung des englisch-indischen Handelsvertrags.
+Found
+MODSMD_ARTICLE16: Freude über den Fall Madrids in Mexiko.
+Found
+MODSMD_ARTICLE17: Roosevelt läßt 45 000-Tonnen-Schlachtschiffe bauen.
+Found

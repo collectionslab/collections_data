@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Deutsche Bolksweihnucht 1936.
+Found
+MODSMD_ARTICLE02: Ernennungen im Reichsjustizministerium.
+Found
+MODSMD_ARTICLE03: In die Akademie für Deutsches Recht berufen.
+Found
+MODSMD_ARTICLE04: Ministerialrat Scholz Oberverwaltungsgerichtsrat.
+Found
+MODSMD_ARTICLE05: Der Abschied Admiral Foersters von der Kriegsmarine.
+Found
+MODSMD_ARTICLE06: Nzana gefangengesetzt?
+Found
+MODSMD_ARTICLE07: Pariser Besprechungen über Alexandrette.
+Found
+MODSMD_ARTICLE08: Bulgarisches Konsulat in Addis Abeba.
+Found
+MODSMD_ARTICLE09: Hoffnung auf Freilassung Tschiangkaischeks.
+Found
+MODSMD_ARTICLE10: Noch Unklarheit über das Ergebnis der Verhandlungen.
+Found

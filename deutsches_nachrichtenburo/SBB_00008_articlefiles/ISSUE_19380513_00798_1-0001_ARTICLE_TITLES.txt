@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Hermann Göring in Linz.
+Found
+MODSMD_ARTICLE02: Dr. Ley zur Reichstagung „Kraft durch Freude".
+Found
+MODSMD_ARTICLE03: Genua in Erwartung des Duce.
+Found
+MODSMD_ARTICLE04: Die abessinische Angelegenheit liquidiert. «
+Found
+MODSMD_ARTICLE05: Londoner Stimmen zum britischen Vorschlag in Genf.
+Found
+MODSMD_ARTICLE06: Annahme des ungarischen Jnvestitionsprogrammes.
+Found
+MODSMD_ARTICLE07: Neubildung der ungarischen Regierung?
+Found
+MODSMD_ARTICLE08: Die türkischen Staatsmänner in Sofia.
+Found
+MODSMD_ARTICLE09: Sowjetspanische Söldlinge nach Frankreich übergetreten.
+Found
+MODSMD_ARTICLE10: Die neue litauische Verfassung in Kraft getreten.
+Found
+MODSMD_ARTICLE11: Der Führer zum Opfertag für hie Jugendherbergen.
+Found
+MODSMD_ARTICLE12: Das 13 Millionen-Heer der amerikanischen Arbeitslosen.
+Found
+MODSMD_ARTICLE13: 3179 Millionen Dollar für öffentliche Bauvorhaben.
+Found
+MODSMD_ARTICLE14: K 99 Verhaftungen in Brasilien.
+Found
+MODSMD_ARTICLE15: Die Aufrüstung Aegyptens.
+Found
+MODSMD_ARTICLE16: Vor der Entscheidungsschlacht in Mittelchina?
+Found

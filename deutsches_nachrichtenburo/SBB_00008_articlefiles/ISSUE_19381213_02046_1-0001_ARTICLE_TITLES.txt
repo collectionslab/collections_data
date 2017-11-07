@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Minister Lantini in Hamburg eingetroffen.
+Found
+MODSMD_ARTICLE02: Das deutsche Schulwesen in Lettland.
+Found
+MODSMD_ARTICLE03: »Ein deutscher Erfolg in vorbildlicher Disziplin."
+Found
+MODSMD_ARTICLE04: Massenverhastungcn von Angehörigen der Eisertckn Garde.
+Found
+MODSMD_ARTICLE05: Wieder riesige Unterschlagungen in Sowjetrußland.
+Found
+MODSMD_ARTICLE06: Berija „Generalkommissar für die Staatssicherheit".
+Found
+MODSMD_ARTICLE07: Memel-Wahlen in Ungarn sehr stark beachtet.
+Found
+MODSMD_ARTICLE08: „Tunis und das neue Europa."
+Found
+MODSMD_ARTICLE09: Mussolini aus einem Empfang im Palazzo Venezia.
+Found
+MODSMD_ARTICLE10: Kundgebungen für Mussolini und Ciano.
+Found
+MODSMD_ARTICLE11: Arbeitstagung der Landesgruppe Italien der DAF.
+Found
+MODSMD_ARTICLE12: General Hadjipetkosf zum Ches des Stabes ernannt.
+Found
+MODSMD_ARTICLE13: Bulgarien zum Wahlerfolg Stojadinowitschs.
+Found
+MODSMD_ARTICLE14: Chrysanthos zum Erzüischof von Athen ernannt.
+Found
+MODSMD_ARTICLE15: Rotspanien furchtet eine neue Offensive.
+Found
+MODSMD_ARTICLE16: Der „Sieger" von Malaga Militärgouverneur von Madrid.
+Found
+MODSMD_ARTICLE17: Geringe Tätigkeit an den spanischen Fronten.
+Found
+MODSMD_ARTICLE18: Die Jahrhundertfeier der Besiedlung Südafrikas.
+Found
+MODSMD_ARTICLE19: „Geldbußen" für die Araber Palästinas.
+Found
+MODSMD_ARTICLE20: Wieder Zwei arabische Dörfer „durchsucht".
+Found
+MODSMD_ARTICLE21: Eine Abfuhr für Kardinal Mundelein.
+Found

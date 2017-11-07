@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Trinksprüche zwischen Dr. Dietrich und Minister Nikoludis.
+Found
+MODSMD_ARTICLE02: Eine Million für die Studenten der deutschen Ostmark.
+Found
+MODSMD_ARTICLE03: Böhmcker in der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE04: Der Oesterreichische Generalstab übernommen»
+Found
+MODSMD_ARTICLE05: Telegrammwechsel mit österreichischen Berufskameraden.
+Found
+MODSMD_ARTICLE06: Die Pariser Kammer billigt die Vertagung der Aussprache.
+Found
+MODSMD_ARTICLE07: Erneuter Bombenangriff auf Barcelona.^
+Found
+MODSMD_ARTICLE08: Chamberlain lehnt Labourfragen im Unterhaus ab.
+Found
+MODSMD_ARTICLE09: De Valera: Die irische Einigungsfrage eine offene Wunde.
+Found
+MODSMD_ARTICLE10: Polnischer Kominternagent stellt sich der Polizei.
+Found
+MODSMD_ARTICLE11: Jude bildet Verbrecher Zu Bolschewistenagitatoren aus.
+Found
+MODSMD_ARTICLE12: Außenminister Hull im Washingtoner Presseklub.
+Found

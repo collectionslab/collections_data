@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ter Besuch des Führers auf Burg Vogelsang.
+Found
+MODSMD_ARTICLE02: 85W Todesopfer des Verkehrs in 12 Monaten.
+Found
+MODSMD_ARTICLE03: Französische Frontkämpfer ehren deutsche Helden.
+Found
+MODSMD_ARTICLE04: Muschakoji bei der Auslands-Organisntion der NSDAP.
+Found
+MODSMD_ARTICLE05: Errichtung berufsständischer Ausschüsse in Oesterreich.
+Found
+MODSMD_ARTICLE06: Starker Eindruck der Eden-Erklärung.
+Found
+MODSMD_ARTICLE07: Protest der französischen Arbeitgeber.
+Found
+MODSMD_ARTICLE08: Eden über die geplante Blockade Barcelonas.
+Found
+MODSMD_ARTICLE09: Der Duce empfängt die deutschen Schriftleiter.
+Found
+MODSMD_ARTICLE10: -Finnland rüstet znr Präsidentenwahl.
+Found

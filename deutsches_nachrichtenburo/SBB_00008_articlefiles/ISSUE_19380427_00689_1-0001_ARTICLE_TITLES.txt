@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die Anmeldung des Vermögens von Juden.
+Found
+MODSMD_ARTICLE02: Die Berliner Ordnungspolizei aus Oesterreich zurück.
+Found
+MODSMD_ARTICLE03: Reichsleiter Rosenberg über „Gestalt und Leben".
+Found
+MODSMD_ARTICLE04: Begeisterte Zustimmung des österreichischen Klerus.
+Found
+MODSMD_ARTICLE05: Der katastrophale Geburtenrückgang im Wien der Systemzeit.
+Found
+MODSMD_ARTICLE06: Ende der Bettlerplage in Wien.
+Found
+MODSMD_ARTICLE07: Portugiesische Gäste auf dem „Wilhelm Gustlosf".
+Found
+MODSMD_ARTICLE08: Der erste Gesandte von Mandschukuo in Rom.
+Found
+MODSMD_ARTICLE09: Kabinettssitzung in London.
+Found
+MODSMD_ARTICLE10: Daranyi gegen Aenderung der Judenvorlage.
+Found
+MODSMD_ARTICLE11: Schwere flämische Vorwürfe gegen die Regierung.
+Found
+MODSMD_ARTICLE12: Außenpolitische Forderungen der Tokioter Presse.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers zur Hochzeit König Faruks.
+Found
+MODSMD_ARTICLE02: Ein großer Tag des deutschen Films.
+Found
+MODSMD_ARTICLE03: Überreichung des Werkes „Unsterbliches Hellas".
+Found
+MODSMD_ARTICLE04: Liebrun empfing das Diplomatische Korps.
+Found
+MODSMD_ARTICLE05: Wirtschaftsverhandlungen Paris—Rom auf März vertagt.
+Not Found
+MODSMD_ARTICLE06: Antijapanische Hetze in Frankreich.
+Found
+MODSMD_ARTICLE07: Bonnet fordert Vertrauen.
+Found
+MODSMD_ARTICLE08: Oesterreichs Maßnahmen gegen die Maul- und Klauenseuche.
+Found
+MODSMD_ARTICLE09: Jüdische Schieber schädigen Oesterreichs Währung.
+Found
+MODSMD_ARTICLE10: Neue nationale Erfolge in der Schlacht von Teruel.
+Found
+MODSMD_ARTICLE11: Barcelona und Madrid unter nationalem Feuer
+Found
+MODSMD_ARTICLE12: Das Parlament von Ulster wird aufgelöst.
+Found
+MODSMD_ARTICLE13: Das Ergebnis der «glisch-irischen Verhandlungen.
+Found
+MODSMD_ARTICLE15: Die englische Aufrüstung in der Luft.
+Found
+MODSMD_ARTICLE16: Neuer Listenname der rumänischen Regierungspartei.
+Found
+MODSMD_ARTICLE17: Jüdische Geheimversammlung in Czernowitz gesprengt.
+Found
+MODSMD_ARTICLE18: Die neuen Moskauer Volkskommissare.
+Found
+MODSMD_ARTICLE19: Wichtige Konferenz in Tokio.
+Found

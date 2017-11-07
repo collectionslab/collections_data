@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Hugo Bruckmann.
+Found
+MODSMD_ARTICLE02: Beileidstelegramm des Führers an die Firma Rheinmetall.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Der Parteiaufbau im Sudetenland.
+Found
+MODSMD_ARTICLE05: Schaffung von Groß-Wien..
+Found
+MODSMD_ARTICLE06: „Gegen den Block Rom—Berlin ist nichts mehr zu machen".
+Found
+MODSMD_ARTICLE07: Starkes Echo des Vorstoßes Pichots.
+Found
+MODSMD_ARTICLE08: Die Enthüllung des Standbildes für Albert I.
+Found
+MODSMD_ARTICLE09: Britischer Schritt wegen der japanischen Angrisfspläne»
+Found
+MODSMD_ARTICLE10: Nationalspanien begeht den „Feiertag der Rasse".
+Found
+MODSMD_ARTICLE11: Zypern will zu Griechenland.
+Found
+MODSMD_ARTICLE12: Die Opfer des Sofioter Attentats beigesetzt.
+Found
+MODSMD_ARTICLE13: Das Feuergefecht in Nablus.
+Found
+MODSMD_ARTICLE14: Botschafter Togo geht nach Moskau.
+Found
+MODSMD_ARTICLE15: Japan gegen jede Einmischung Zugunsten Chinas.
+Found
+MODSMD_ARTICLE16: Der Vormarsch der Japaner an der Südsront.
+Found

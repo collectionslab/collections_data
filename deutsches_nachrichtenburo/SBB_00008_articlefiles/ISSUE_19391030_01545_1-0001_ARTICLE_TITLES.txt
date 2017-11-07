@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Herzog Albrecht von Württemberg verstorben.
+Found
+MODSMD_ARTICLE02: Generalleutnant a. D. Reinhardt gestorben.
+Found
+MODSMD_ARTICLE03: „Casa del Fascio" in Hamburg eingeweiht.
+Found
+MODSMD_ARTICLE04: Abschluß einer gewaltigen Großtat des Faschismus.
+Found
+MODSMD_ARTICLE05: Neues Phantasieprodukt des britischen Lügenministeriums.
+Found
+MODSMD_ARTICLE06: Deutsch-russische Zentralkommission wieder in Moskau.
+Found
+MODSMD_ARTICLE07: Deutsche Blockade schlägt die englische bei weitem.
+Found
+MODSMD_ARTICLE08: Wilna von der litauischen Armee besetzt.
+Found
+MODSMD_ARTICLE09: Der Schaden durch den englischen Bombenabwurf.
+Found
+MODSMD_ARTICLE10: Keine Veränderung der Lage.
+Found
+MODSMD_ARTICLE11: Anklage gegen kriegshetzerische Kreise in Belgien.
+Found
+MODSMD_ARTICLE12: Entschlossene Haltung der indischen Kongreßpartei.
+Found
+MODSMD_ARTICLE13: England verweigert Lieferung bezahlter Schiffe.
+Found
+MODSMD_ARTICLE14: Chamberlaiu erneut Lügen gestraft.
+Found

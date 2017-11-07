@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die neue Gliederung Oesterreichs.
+Found
+MODSMD_ARTICLE02: Hauptmann a. D. Leopold im Stabe von Rudolf Heß.
+Found
+MODSMD_ARTICLE03: Verleihung von Treudienstehrenzeichen.
+Found
+MODSMD_ARTICLE04: Die Grundsteinlegung zum Volkswagenwerk im Rundfunk.
+Found
+MODSMD_ARTICLE05: Eröffnung des dritten Reichsführerlagers der HI.
+Found
+MODSMD_ARTICLE07: Italienische Studienkommission in Hamburg.
+Found
+MODSMD_ARTICLE08: Reichskolonialtagung in Bremen.
+Found
+MODSMD_ARTICLE09: Das Nationalitätenstatnt Henlein nicht vorgelegt.
+Found
+MODSMD_ARTICLE10: Der tschechische Pariser Gesandte nach Prag abgereist.
+Found
+MODSMD_ARTICLE11: Die neuen französischen Wirtschaftsmaßnahmen.
+Found
+MODSMD_ARTICLE12: Chamberlain beim König.
+Found
+MODSMD_ARTICLE13: Die Reihen der „Sauberer" werden gesäubert.
+Found
+MODSMD_ARTICLE14: Das Arabertum einmütig in der Ablehnung.
+Found
+MODSMD_ARTICLE15: Amerikanische Nachschubstellen für Sowjetspanien.
+Found
+MODSMD_ARTICLE16: Der Aufstand in Mexiko.
+Found

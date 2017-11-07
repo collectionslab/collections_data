@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Treuefahrt zum Führer.
+Found
+MODSMD_ARTICLE02: Tirol erwartet den Führer-
+Found
+MODSMD_ARTICLE03: Ehrenpreis des Reichsinnenministers.
+Found
+MODSMD_ARTICLE04: 4 SA.-Männer starben im Dienst für Volk Wd Reich.
+Found
+MODSMD_ARTICLE05: 8W Hitlerjungen aus Mitteldeutschland in Wien.
+Found
+MODSMD_ARTICLE06: Deutsche Ehrenurkunde für König Christian X.
+Found
+MODSMD_ARTICLE07: Deutscher Orden für den dänischen Kronprinzen.
+Found
+MODSMD_ARTICLE08: General Oestermann über seinen Deutschlandbesuch.
+Found
+MODSMD_ARTICLE09: Die Lage der Minderheiten in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE10: Hoffnungslose Lage des Professors Schmidt.
+Found
+MODSMD_ARTICLE11: Das Ende mit Schrecken in Katalonien.
+Found
+MODSMD_ARTICLE12: Siegesfeiern in Nat'lmlalspameu.
+Found
+MODSMD_ARTICLE13: Nun auf Tarragona zu.
+Found
+MODSMD_ARTICLE14: Moskau wollte Frankreich in den Bürgerkrieg treiben.
+Found
+MODSMD_ARTICLE15: Die Pariser Presse zu Blums Programm.
+Found
+MODSMD_ARTICLE16: Zwischenfälle in Tunesien.
+Found
+MODSMD_ARTICLE17: Die japanische Presse zu dem Protest in Moskau.
+Found

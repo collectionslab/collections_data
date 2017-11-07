@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Reichsverteidigungskommissare eingesetzt.
+Found
+MODSMD_ARTICLE02: Ausdehnung des Mieterschutzes.
+Found
+MODSMD_ARTICLE03: Viele Universitäten und Hochschulen im Reich geschlossen.
+Found
+MODSMD_ARTICLE04: Dr. Letz: „Wir kapitulieren nie"..
+Found
+MODSMD_ARTICLE05: Schwere Verluste der englischen Bomber.
+Found
+MODSMD_ARTICLE06: Die polnische Regierung kämpft gegen die Panik.
+Found
+MODSMD_ARTICLE07: Neuer Neutralitätsbruch Englands.
+Found
+MODSMD_ARTICLE08: Polen muß deutsche Erfolge zugeben.
+Found
+MODSMD_ARTICLE09: Dänischer Schiffsdienst nach Harwich eingestellt.
+Found
+MODSMD_ARTICLE10: Jüdische Emigranten glauben ihre Zeit gekommen.
+Found
+MODSMD_ARTICLE11: Amerika durchschaut die englischen „Athenia"-Lügen.
+Found
+MODSMD_ARTICLE12: Verhandlungen zwischen Tokio und Moskau?
+Found
+MODSMD_ARTICLE13: Das alte Lied des britischen Neides.
+Found
+MODSMD_ARTICLE14: Unterliegt Südafrika doch Londons Zwang?
+Found

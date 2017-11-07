@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE02: Begeisterte Huldigungen.
+Found
+MODSMD_ARTICLE03: Rudolf Hetz
+Found
+MODSMD_ARTICLE04: Großen Zapfenstreich
+Found
+MODSMD_ARTICLE05: Der Führer empfängt Generale der Wehrmacht.
+Found

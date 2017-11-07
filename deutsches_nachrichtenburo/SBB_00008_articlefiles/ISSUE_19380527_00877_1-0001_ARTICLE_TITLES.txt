@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Lammers 59 Jahre alt.
+Found
+MODSMD_ARTICLE02: Prinzessin Ingeborg von Schweden in Berlin.
+Found
+MODSMD_ARTICLE03: Austakt zur Internationalen Handwerksausstellung.
+Found
+MODSMD_ARTICLE04: Eröffnung der Rcichskolomaltaguug in Bremen.
+Found
+MODSMD_ARTICLE05: Der Verein Deutscher Ingenieure tagt.
+Found
+MODSMD_ARTICLE06: Das Ausmaß der tschechischen Befestigungsanlagen.
+Found
+MODSMD_ARTICLE07: Deutscher Greußbauer von Tschechen schwer verletzt.
+Found
+MODSMD_ARTICLE08: Krager Parlameutssitzung schon wieder verschoben.
+Found
+MODSMD_ARTICLE09: Italienische Quittung für Geschichtsfälscher.
+Found
+MODSMD_ARTICLE10: „Daily Mail" zur Lage.
+Found
+MODSMD_ARTICLE11: Jugoslawien würdigt die deutsche Haltung.
+Found
+MODSMD_ARTICLE12: Die griechische Presse zur sudetendeutschen Frage.
+Found
+MODSMD_ARTICLE13: Ein unmögliches „Durcheinander von Nationalitäten".
+Found
+MODSMD_ARTICLE14: 12 999 Deutsche feierten ein Volksfest in Riga.
+Found
+MODSMD_ARTICLE15: Der erste Botschafter Rumäniens in Warschau.
+Found
+MODSMD_ARTICLE16: „Gazeta Polska" zur Judenfrage.
+Found
+MODSMD_ARTICLE17: Immer neue verzweifelte Vorstöße der Roten! in Katalonien.
+Found
+MODSMD_ARTICLE18: Neue schwere Streikunruhen in Amerika.
+Found
+MODSMD_ARTICLE19: Stmßenschlacht in Detroit.
+Found

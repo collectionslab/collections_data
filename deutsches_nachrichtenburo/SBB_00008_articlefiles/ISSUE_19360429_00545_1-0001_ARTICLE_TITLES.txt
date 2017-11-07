@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Frühstück zu Ehren des Königs von Schweden.
+Found
+MODSMD_ARTICLE02: Frühstück zu Ehren des scheidenden bulgarischen Gesandten.
+Found
+MODSMD_ARTICLE03: Tie Gattin des Finanzministers Popitz
+Found
+MODSMD_ARTICLE04: Ter Rundfunk am 1. Mai.
+Found
+MODSMD_ARTICLE05: Arbeitsregelung für den 1. Mai.
+Found
+MODSMD_ARTICLE06: Einreise-Erleichterungen während der Olympischen Spiele.
+Found
+MODSMD_ARTICLE07: Der Bürgermeister von Athen in Hamburg.
+Found
+MODSMD_ARTICLE08: Feierstunde der deutschen Jugend im Reichsehrenmal Tannenberg.
+Found
+MODSMD_ARTICLE09: Danziger Note an Polen.
+Found
+MODSMD_ARTICLE10: Gegen Kommunismus und Judentum.
+Found
+MODSMD_ARTICLE11: Neue Zusammensetzung des Völkerbundsrates?
+Found
+MODSMD_ARTICLE12: Zehntägige Hoftrauer in Italien.
+Found
+MODSMD_ARTICLE13: Der Tod König Funds in der italienischen Presse.
+Found
+MODSMD_ARTICLE14: Verzweifelter Widerstand des Ras Nassibu.
+Found

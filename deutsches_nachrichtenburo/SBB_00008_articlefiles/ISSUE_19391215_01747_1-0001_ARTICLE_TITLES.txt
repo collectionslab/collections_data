@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Breitseiten donnerten über das Meer.
+Found
+MODSMD_ARTICLE02: Rudolf Heß eröffnete die Ausstellung „Frau und Mutter".
+Found
+MODSMD_ARTICLE03: Das deutsch-russische Einvernehmen immer fester!
+Found
+MODSMD_ARTICLE04: Moskau zu dem Beschluß der Genfer Liga.
+Found
+MODSMD_ARTICLE05: Rapide Verschlechterung der türkischen Wirtschaftslage.
+Found
+MODSMD_ARTICLE06: Verstärkter russischer Druck an der Petsamo-Front.
+Found

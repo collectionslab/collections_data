@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ein Wehrsteuergesetz.
+Found
+MODSMD_ARTICLE02: 2 Kapläne verführten ein Mädchen unter 14 Jahren.
+Found
+MODSMD_ARTICLE03: Besprechung mit Emir Saud.
+Found
+MODSMD_ARTICLE04: Deutschlands Beiträge zur Internationalen Rechtswoche.
+Found
+MODSMD_ARTICLE05: Der Schiffsverkehr auf der Seine gesperrt.
+Found
+MODSMD_ARTICLE06: Botschafter Dr. Trautmann kehrt nach Nanking zurück.
+Found
+MODSMD_ARTICLE07: Auch England trifft Vorsichtsmaßnahmen in Peiping.
+Found
+MODSMD_ARTICLE08: Japan fordert Zurückziehung der Division aus Swatau.
+Found
+MODSMD_ARTICLE09: Marco Polo-Brücke noch nicht geräumt.
+Found
+MODSMD_ARTICLE10: Erdbeben in Alaska.
+Found

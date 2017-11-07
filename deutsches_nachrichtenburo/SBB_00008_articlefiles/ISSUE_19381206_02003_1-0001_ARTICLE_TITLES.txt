@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die deutsch-französische Erklärung.
+Found
+MODSMD_ARTICLE02: Frühstück zu Ehren Ribbentrops im Palais Matignon.
+Found
+MODSMD_ARTICLE03: Ribbentrop bei Lebrun.
+Found
+MODSMD_ARTICLE04: Elbel bei Reichswirtschaftsminister Funk.
+Found
+MODSMD_ARTICLE05: Ausführungen Dr. Stuckarts über Verfassungsfragen.
+Found
+MODSMD_ARTICLE06: Die neueste jüdische Frechheit: das „Zettelgeld".
+Found
+MODSMD_ARTICLE07: Die Juden au der Warschauer Technischen Hochschule.
+Found
+MODSMD_ARTICLE08: Schweizer Blätter gegen Vergiftung und Verhetzung.
+Found
+MODSMD_ARTICLE09: Ghetto und Unterwelt gegen italienische Geschäfte.
+Found
+MODSMD_ARTICLE10: 39 weitere Rabbiner sollen Palästina beglücken.
+Found
+MODSMD_ARTICLE11: Die „Condor"-Besatzujng unversehrt.
+Found
+MODSMD_ARTICLE12: Martha Marek hingerichtet.
+Found

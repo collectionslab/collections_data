@@ -1,0 +1,48 @@
+MODSMD_ARTICLE01: Einigung in deutsch niederländischen Verhandlungen.
+Found
+MODSMD_ARTICLE02: Tie Wehrmacht beim Winterhilfswerk 1935/36.
+Found
+MODSMD_ARTICLE03: Das Vortragswesen in der Reichsschrifttumskammer.
+Found
+MODSMD_ARTICLE04: Ungarns Kultusminister auf dem Wege nach Berlin.
+Found
+MODSMD_ARTICLE05: Ungarische Abgeordnete besuchen Deutschland.
+Found
+MODSMD_ARTICLE06: Reise des Außenministers Beck nach Belgrad.
+Found
+MODSMD_ARTICLE07: Zweites Todesopfer des Ueberfalls aus Schloß Waxenberg.
+Found
+MODSMD_ARTICLE08: Hinrichtungen wegen Bauernausschreitungen in Litauen.
+Found
+MODSMD_ARTICLE09: Wahlkrawall iu Antwerpen. Zwei Marxisten erschossen.
+Found
+MODSMD_ARTICLE10: Politisches Sondergericht für spanische Richter.
+Found
+MODSMD_ARTICLE11: Keine Aendernng der italienischen Verfassung.
+Found
+MODSMD_ARTICLE12: Papst weiht neuen Palast der Kongregationen ein.
+Found
+MODSMD_ARTICLE13: „Kampf dem Bolschewismus bis zur letzten Brustwehr."
+Found
+MODSMD_ARTICLE14: Nach dem Rücktritt des Kolonialministers Thomas.
+Found
+MODSMD_ARTICLE16: Britischer Reichslufthafen bei Portsmouth.
+Found
+MODSMD_ARTICLE17: Verhandlungen über die Dardanellen-Befestigung.
+Found
+MODSMD_ARTICLE18: Der Antrag Chiles auf Aufhebung der Sanktionen.
+Found
+MODSMD_ARTICLE19: Drei englische Kriegsschiffe nach Malta unterwegs.
+Found
+MODSMD_ARTICLE20: Der Negus auf der Reise nach London.
+Found
+MODSMD_ARTICLE21: Wird England auf Denkschrift Italiens antworten?
+Found
+MODSMD_ARTICLE22: Kommunist Vorsitzender der Bergarbeiter von Südwales.
+Found
+MODSMD_ARTICLE23: Unterredungen Paul-Boncour—Sarraut—Chautemps.
+Not Found
+MODSMD_ARTICLE24: Die australischen Ausienhandelsmasznahmen und Japan.
+Found
+MODSMD_ARTICLE25: 526 Millionen Dollar für die amerikanische Marine.
+Found

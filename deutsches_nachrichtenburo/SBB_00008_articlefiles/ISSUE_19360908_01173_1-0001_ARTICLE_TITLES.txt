@@ -1,0 +1,40 @@
+MODSMD_ARTICLE03: Die Zahl der Rundsunkteilnehmer am 1. September.
+Found
+MODSMD_ARTICLE04: 50 Jahre internationale Zusammenarbeit zum Schutz von Werken der Literatur und Kunst.
+Found
+MODSMD_ARTICLE05: Der Dresdener Sozialversicherungs-Kongreß beendet.
+Found
+MODSMD_ARTICLE06: Der König von England in Wien.
+Found
+MODSMD_ARTICLE07: Mißglückte Meuterei auf Kriegsschiffen Portugals.
+Found
+MODSMD_ARTICLE08: Reuter über den Lissaboner Putschversuch.
+Found
+MODSMD_ARTICLE09: Frankreich verbietet Wafsentransit nach Spanien.
+Found
+MODSMD_ARTICLE11: Zusammentritt des Mittelmeerausschusses.
+Found
+MODSMD_ARTICLE12: General Franco besichtigt die Front.
+Found
+MODSMD_ARTICLE13: Marxistische Massenflucht aus San Sebastian.
+Found
+MODSMD_ARTICLE14: Rote Regierung verhindert menschlicheren Bürgerkrieg.
+Found
+MODSMD_ARTICLE15: Japan zieht die Botschaft in Madrid zurück
+Found
+MODSMD_ARTICLE16: Generalstreik in den Marseiller Metallwarenfabriken.
+Found
+MODSMD_ARTICLE17: Der Abtransport der britischen Truppen nach Palästina.
+Found
+MODSMD_ARTICLE18: Generalleutnant Dill nach Palästina abgereist.
+Found
+MODSMD_ARTICLE19: Molotow soll Gesandter werden.
+Found
+MODSMD_ARTICLE20: Große Herbstmanöver der Noten Armee in Weißrußland.
+Found
+MODSMD_ARTICLE21: Eröffnung der Herbstmesse in Saloniki.
+Found
+MODSMD_ARTICLE22: Die Weltkraftkonferenz in Washington.
+Found
+MODSMD_ARTICLE23: Die Beilegung der Kwangsi-Krise.
+Found

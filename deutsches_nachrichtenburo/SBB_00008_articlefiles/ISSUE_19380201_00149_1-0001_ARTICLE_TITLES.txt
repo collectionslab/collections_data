@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Wintersportwoche der HJ. in Garmisch-Partenkirchen.
+Found
+MODSMD_ARTICLE02: Weitere Feiern im Ausland.
+Found
+MODSMD_ARTICLE03: „Ennlia Galotti" in Kattowitz.
+Found
+MODSMD_ARTICLE04: Litauens neue Verfassung vor dem Sejm.
+Found
+MODSMD_ARTICLE05: Englands neuer Botschafter nach China abgereist.
+Found
+MODSMD_ARTICLE06: Besprechungen bei Chamberlain.
+Found
+MODSMD_ARTICLE07: „Politik" im Hafen.
+Found
+MODSMD_ARTICLE08: Wie Genf Streitfragen „löst".
+Found
+MODSMD_ARTICLE09: Unterredung Micescu-Stojadinowitsch.
+Found
+MODSMD_ARTICLE10: Freude in Albanien über die Verlobung des Königs.
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE12: Der diplomatische Vertreter Portugals bei Franca.
+Found
+MODSMD_ARTICLE13: Neue Personalveränderungen in der GPN^
+Found
+MODSMD_ARTICLE14: Schauprozeß in Tiflis: Todesstrafe gegen 5 Gelehrte.
+Found
+MODSMD_ARTICLE15: Postyschew endgültig in Ungnade gefallen.
+Found
+MODSMD_ARTICLE16: Großeinsatz britischer Truppen in Nordpalästina.
+Found
+MODSMD_ARTICLE17: Syrische Militärmission fährt nach Frankreich.
+Found
+MODSMD_ARTICLE18: Zusammenstöße in Alexandrien.
+Found
+MODSMD_ARTICLE19: Flottenchef Leahy begründet die NSA.-Ausrüstung.
+Found

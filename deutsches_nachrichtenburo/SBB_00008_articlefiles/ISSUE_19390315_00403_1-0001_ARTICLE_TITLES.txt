@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Der Führer in Prag eingetroffen.
+Found
+MODSMD_ARTICLE02: Tschechen sprenge» Munitionslager in Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE03: Tie Hlinka-Garde beherrscht die Lage.
+Found
+MODSMD_ARTICLE04: Tschechisches Militär von Sic-Leuten entwaffnet.
+Found
+MODSMD_ARTICLE05: Ungarn zum Ende des Prager Staatengebildes.
+Found
+MODSMD_ARTICLE06: „Pester Lloyd": „Ein grosses geschichtliches Ereignis".
+Found
+MODSMD_ARTICLE07: Das schlechte Gewissen.
+Found
+MODSMD_ARTICLE08: Verdächtige Geschäftigkeit.
+Found
+MODSMD_ARTICLE09: Errichtung einer polnischen Gesandtschaft in Preßburg.
+Found
+MODSMD_ARTICLE10: Arabische Extrablätter zur Lösung der tschechischen Frage.
+Found
+MODSMD_ARTICLE11: Brasilien über das Geheimnis der deutschen Erfolge.
+Found
+MODSMD_ARTICLE12: Argentinien zur Lösung der tschechischen Frage.
+Found
+MODSMD_ARTICLE13: Botschaft Tisos an die Slowaken in Amerika.
+Found
+MODSMD_ARTICLE14: Der erste große Judenschub aus Italien.
+Found
+MODSMD_ARTICLE15: „Muselmanischer Verband des Liktorenbündels."
+Found
+MODSMD_ARTICLE16: Heimkehr Miguel Primo de Riveras aus der Gefangenschaft.
+Found
+MODSMD_ARTICLE17: Der bulgarische Regierungschef in die Türkei abgereist.
+Found
+MODSMD_ARTICLE18: Der Palästina-Plan vom Kabinett genehmigt.
+Found
+MODSMD_ARTICLE19: Syrien demonstriert.
+Found
+MODSMD_ARTICLE20: Flughafen Lhdda beschossen.
+Found
+MODSMD_ARTICLE21: Japan: „Die Sowjetunion trägt die Verantwortung."
+Found
+MODSMD_ARTICLE22: Verstärkung der Panamakanal-Befestigungen.
+Found

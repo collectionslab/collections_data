@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die Feier des 39. Januar.
+Found
+MODSMD_ARTICLE02: WHW.-Sonderspende am 3V. Januar.
+Found
+MODSMD_ARTICLE03: Flaggen heraus!
+Found
+MODSMD_ARTICLE04: Eine Anordnung des Reichsministers des Innern.
+Found
+MODSMD_ARTICLE05: Rom zu den Erklärungen Daladiers und Bonnets.
+Found
+MODSMD_ARTICLE06: „Popolo di Roma" über die antifaschistische Wühlarbeit.
+Found
+MODSMD_ARTICLE07: „Die Hoffnungen der Gegner Italiens zuschanden geworden."
+Found
+MODSMD_ARTICLE08: „Ter spanische Krieg ein Prüfstein."
+Found
+MODSMD_ARTICLE09: Sowjetbotschafter Sürth bei Bonnet.
+Found
+MODSMD_ARTICLE10: Freudentaumel im freien Barcelona.
+Found
+MODSMD_ARTICLE11: Veränderungen im britischen Kabinett?
+Found
+MODSMD_ARTICLE12: Glückwunsch des Führers an Franca.
+Found
+MODSMD_ARTICLE13: Sondersitzung des englischen Kabinetts. '
+Found
+MODSMD_ARTICLE14: Rexisten-Führer Degrelle von König Leopold empfangem
+Found
+MODSMD_ARTICLE15: Griechenlands Außenpolitik.
+Found
+MODSMD_ARTICLE16: Gute Zusammenarbeit Tschecho-Slowakei—Ungarn.
+Not Found
+MODSMD_ARTICLE17: Ausgehverbot in zahlreichen großes Städten Palästinas.
+Found
+MODSMD_ARTICLE18: Prrow über seine Europareise.
+Found

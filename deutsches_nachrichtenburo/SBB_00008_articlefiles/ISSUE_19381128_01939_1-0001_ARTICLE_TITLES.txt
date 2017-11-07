@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der große Appell der deutschen Bauernschaft.
+Found
+MODSMD_ARTICLE02: Empfang der Ehrenabordnungen des deutschen Landvolkes.
+Found
+MODSMD_ARTICLE03: Festlicher Abend „Deutsches Bauerntum".
+Found
+MODSMD_ARTICLE04: Deutsche Kulturschaffende als Gäste Dr. Goebbels'.
+Found
+MODSMD_ARTICLE05: Puccetti und Dr. Ley am Grabe Horst Wessels.
+Found
+MODSMD_ARTICLE06: Abschluß der Deutschlandreise Pirows.
+Found
+MODSMD_ARTICLE07: Die Autikomiutern-Mächte die Wahrer des Friedens.
+Found
+MODSMD_ARTICLE08: „Evening Standard" über die Gefahren in Frankreich.
+Found
+MODSMD_ARTICLE09: Der erste Streik-Prozeß in Paris.
+Found
+MODSMD_ARTICLE10: Warschau zur Auslösung des litauischen Wilna-Verbandes.
+Found

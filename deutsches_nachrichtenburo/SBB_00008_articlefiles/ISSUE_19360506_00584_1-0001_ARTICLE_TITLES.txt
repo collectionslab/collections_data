@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Reichsleiter Rosenberg auf der Ordensburg Sonthofen.
+Found
+MODSMD_ARTICLE02: Dr. Lippert empfängt das Athener Stadtoberhaupt.
+Found
+MODSMD_ARTICLE03: Minister Rossoni in Hamburg.
+Found
+MODSMD_ARTICLE04: Ermäßigung für Arbeitsmänner in Filmtheatern.
+Found
+MODSMD_ARTICLE05: Warschauer Hochschulen unter jüdischem Terror.
+Found
+MODSMD_ARTICLE06: Verhaftung eines kommunistischen Agenten in Warschau.
+Found
+MODSMD_ARTICLE07: Das britische Kabinett zusammengetreten.
+Found
+MODSMD_ARTICLE08: Eden übernimmt den Vorsitz der Genfer Ratstagung.
+Found
+MODSMD_ARTICLE09: Annahme der englischen Sondergerichtsvorlage.
+Found
+MODSMD_ARTICLE10: Eine Aeußerung Baldwins über die Sühnemaßnahmen»
+Found
+MODSMD_ARTICLE11: Vor Überreichung des englischen Fragebogens.
+Found
+MODSMD_ARTICLE12: Gerüchte über die Neubildung des französischen Kabinetts.
+Found
+MODSMD_ARTICLE13: Leon Blum gegen eine „Finanz- und Währungspanik".
+Found
+MODSMD_ARTICLE15: Politische Unruhen in Marseille.
+Found
+MODSMD_ARTICLE16: Die künftige Politik Frankreichs gegenüber Italien.
+Found
+MODSMD_ARTICLE17: Bottai Zivilgouverneur von Addis Abeba.
+Found
+MODSMD_ARTICLE18: Die Stimmen der norditalienischen Presse.
+Found

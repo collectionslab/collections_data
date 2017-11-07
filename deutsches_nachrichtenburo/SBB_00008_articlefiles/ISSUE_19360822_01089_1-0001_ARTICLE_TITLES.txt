@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der ungarische Reichsverweser beim Führer.
+Found
+MODSMD_ARTICLE02: Generaladmiral Raeder besichtigt Marinestandorte.
+Found
+MODSMD_ARTICLE03: Für besondere Leistungen befördert.
+Found
+MODSMD_ARTICLE04: Ein Ehrenpreis für das Aachener Reiterturnier. «
+Found
+MODSMD_ARTICLE05: Interview des Reichssendeleiters im Straßburger Sender.
+Found
+MODSMD_ARTICLE06: Die Neichspost während der Olympischen Spiele.
+Found
+MODSMD_ARTICLE07: Deutsche Schiffe in spanischen Gewässern.
+Found
+MODSMD_ARTICLE08: Die Aufgaben der nationalistischen Bewegung in Spanien.
+Found
+MODSMD_ARTICLE09: Madrid sperrt die diplomatische Laufbahn.
+Found
+MODSMD_ARTICLE10: Madrid zur Frage der Dampfer-Durchsuchung.
+Found
+MODSMD_ARTICLE11: Belgische Marxisten in der spanischen Roten Armee.
+Found
+MODSMD_ARTICLE12: Amerika und die Frage der Waffenausfuhr nach Spanien.
+Found
+MODSMD_ARTICLE13: Tie oberitalienischen Blätter zur Antwortnote.
+Found
+MODSMD_ARTICLE14: Französische Vertretung in Dinant unerwünscht.
+Found
+MODSMD_ARTICLE15: Hungerdemoustrationeu in der Ukraine.
+Found

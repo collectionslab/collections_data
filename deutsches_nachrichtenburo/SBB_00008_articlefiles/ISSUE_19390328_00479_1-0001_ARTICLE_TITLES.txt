@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Neugestaltung der Stadt Linz.
+Found
+MODSMD_ARTICLE02: Prof. Fick zum Reichsbaurat für Linz ernannt.
+Found
+MODSMD_ARTICLE03: Marquis Jnonye verließ Berlin.
+Found
+MODSMD_ARTICLE04: Dr. Scherl dankt dem Reichserziehungsminister.
+Found
+MODSMD_ARTICLE05: Siapellaus eines Unterseebootes für die Türkei in Kiel.
+Found
+MODSMD_ARTICLE06: Dr. Goebbels in Budapest.
+Found
+MODSMD_ARTICLE07: Der Prager Ausschuß der nationalen Gemeinschaft tagte.
+Found
+MODSMD_ARTICLE08: Das tschechische Filmwesen juden- und sowjetsrei.
+Found
+MODSMD_ARTICLE09: Italienische Fliegergeneräle zu Senatoren ernannt.
+Found
+MODSMD_ARTICLE10: „Tag der Luftwaffe" in Rom.
+Found
+MODSMD_ARTICLE11: „Italien schützt seine Rechte mit 1k Millionen Bajonetten".
+Found
+MODSMD_ARTICLE12: Madrid ergibt sich.
+Found
+MODSMD_ARTICLE13: Koalitionskabinett in Litauen.
+Found
+MODSMD_ARTICLE14: Skwarczynski Zur Lustabwehranleihe.
+Found
+MODSMD_ARTICLE15: Judas Beherrschungsziel durchschaut.
+Found
+MODSMD_ARTICLE16: Chamberlain berichtet.
+Found
+MODSMD_ARTICLE17: Hundefutter für Arme in den Vereinigten Staaten.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Mordprszetz Frankfurter.
+Found
+MODSMD_ARTICLE02: Ein neuer Hinweis auf die Austraggeber Frankfurters.
+Found
+MODSMD_ARTICLE03: Scharfe Kritik an dem Plädoyer Dr. Cnrtis.
+Found
+MODSMD_ARTICLE04: Vorbereitung der Königsproklamaiwn in London.
+Found
+MODSMD_ARTICLE05: Die feierliche Königs-Proklamation.
+Found
+MODSMD_ARTICLE06: Großer Zug durch Londons Straßen.
+Found
+MODSMD_ARTICLE07: Baldwin leistet als Erster den Treue-Eid.
+Found
+MODSMD_ARTICLE08: Das SA.- und HJ.-Führerkorps beim Führer. '
+Found
+MODSMD_ARTICLE09: Georg VI. nimmt die Huldigung der Dominien entgegen.
+Found
+MODSMD_ARTICLE10: Abschaffung des Generalgouverneurpostens in Irland.
+Found
+MODSMD_ARTICLE11: Neun Tote und sechs Gasvergiftete in München.
+Found
+MODSMD_ARTICLE12: Tie Kennzahl der Großhandelspreise vom 9. Dezember.
+Found

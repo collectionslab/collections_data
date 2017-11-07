@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Kanzlei des Führers am 29. Mai geschlossen.
+Found
+MODSMD_ARTICLE02: Im Zeichen deutsch-argentinischer Verbundenheit
+Found
+MODSMD_ARTICLE03: Generalarbeitsführer Dr. Decker vor den HJ.-Führern.
+Found
+MODSMD_ARTICLE04: Empfang bei Reichskommissar Dr. Ruppel.
+Found
+MODSMD_ARTICLE05: Moch Zum Staatssekretär der Ministerpräsidentschaft ernannt.
+Found
+MODSMD_ARTICLE06: Ministerpräsident Blum bei Prinz Paul von Jugoslawien.
+Found
+MODSMD_ARTICLE07: Internationale Luftfahrtausstellung in Brüssel eröffnet.
+Found
+MODSMD_ARTICLE08: Vollsitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE09: Letzte Kabinettssitzung unter dem Vorsitz Waldmins.
+Found
+MODSMD_ARTICLE10: England und die China-Verträge.
+Found
+MODSMD_ARTICLE11: Aegypten in den Völkerbund aufgenommen.
+Found
+MODSMD_ARTICLE12: Drangsalierung der deutschen Volksgruppe auf Umwegen.
+Found
+MODSMD_ARTICLE13: Kanya über die Außenpolitik Ungarns.
+Found
+MODSMD_ARTICLE14: Weitere Verschärfung der Lage in Swatau.
+Found

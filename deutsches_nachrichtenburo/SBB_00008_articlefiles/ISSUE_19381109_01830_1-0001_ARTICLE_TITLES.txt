@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: „Und Ihr habt doch gesiegt!"
+Found
+MODSMD_ARTICLE02: Beförderungen bei der Polizei.
+Found
+MODSMD_ARTICLE03: Schwere Sorge um Rath.
+Found
+MODSMD_ARTICLE04: 73 Todesopfer in Marseille.
+Found
+MODSMD_ARTICLE05: Kranzniederlegungen in Warschau.
+Found
+MODSMD_ARTICLE06: Jud Rädel von Stalin amnestiert.
+Found
+MODSMD_ARTICLE07: Der ungarische Gesandte bei Beck.
+Found
+MODSMD_ARTICLE08: Verbot kommunistischer Organisationen im Kanton Waadt.
+Found
+MODSMD_ARTICLE09: Südafrika anerkennt das italienische Aethiopiem
+Found
+MODSMD_ARTICLE10: Gouverneur Lehmann mit knapper Mehrheit wiedergewählt.
+Found

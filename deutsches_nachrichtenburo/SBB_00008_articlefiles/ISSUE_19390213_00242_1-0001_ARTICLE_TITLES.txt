@@ -1,0 +1,48 @@
+MODSMD_ARTICLE01: Die neuen Landesgruppenleiter der AO. bei Heß.
+Found
+MODSMD_ARTICLE02: Deutsch-norwegische Warenverkehrs-Berhandlungen.
+Found
+MODSMD_ARTICLE03: Der Stapellauf des Schlachtschiffes am Dienstag.
+Found
+MODSMD_ARTICLE04: Nachruf Bürckels für Gauleiter Klausner.
+Found
+MODSMD_ARTICLE05: Augriff Boraus aus die Beneschleute.
+Found
+MODSMD_ARTICLE06: „Nepszava" auf acht Tatze verboten.
+Found
+MODSMD_ARTICLE07: Neue Skandal-Affäre in Belgien.
+Found
+MODSMD_ARTICLE08: Cu car-Markowitsch in Belgrad eingetroffen.
+Found
+MODSMD_ARTICLE09: Bombenanschlag auf eine Eisenbahnbrücke vereitelt.
+Found
+MODSMD_ARTICLE10: London und die Anerkennung Francas.
+Found
+MODSMD_ARTICLE11: Sie wollen nicht nach Rotspanien zurück.
+Found
+MODSMD_ARTICLE12: Negrin und del Vayo in Madrid.
+Found
+MODSMD_ARTICLE13: Französischer Generalkonsul in Barcelona nicht anerkannt.
+Found
+MODSMD_ARTICLE14: Dem Bolschewismus den Rücken gekehrt.
+Found
+MODSMD_ARTICLE15: Vor der Anerkennung Francos durch Paris.
+Found
+MODSMD_ARTICLE16: Französische und englische Kriegsschiffe in Bone.
+Found
+MODSMD_ARTICLE17: Volksfrontkrawall in Paris.
+Found
+MODSMD_ARTICLE18: Zwei Anhänger Doriots durch Schüsse verletzt.
+Found
+MODSMD_ARTICLE19: Metaxas fährt zur Sitzung der Balkainentente nach Bukarest.
+Found
+MODSMD_ARTICLE20: Herausforderung Italiens durch ein Istanbuler Blatt.
+Found
+MODSMD_ARTICLE21: Keine Verschwörung in Uruguay.
+Found
+MODSMD_ARTICLE22: Fehlkonstruktionen verzögern Flotkenbanprogran:m.
+Not Found
+MODSMD_ARTICLE23: Wieder Zwischenfälle in Palästina.
+Found
+MODSMD_ARTICLE24: Polizeisalven in indischen Städten.
+Found

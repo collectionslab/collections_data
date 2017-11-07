@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Deutsch-chilenischer Handelsvertrag verlängert.
+Found
+MODSMD_ARTICLE02: Ausklang der Haager Hochzeitsfeierlichkeiten.
+Found
+MODSMD_ARTICLE03: „Die Achse Berlin—Rom hat sich bewährt".
+Not Found
+MODSMD_ARTICLE04: Gegen Degrelles Rede im italienischen Rundfunk.
+Found
+MODSMD_ARTICLE05: Große Devisenschiebungen in Warschau aufgedeckt.
+Found
+MODSMD_ARTICLE06: Die Streikverluste der französischen Metallindustrie.
+Found
+MODSMD_ARTICLE07: Englische Blätter zur Alexandrettc-Frage.
+Found
+MODSMD_ARTICLE08: Englands größtes U-Uoot muß verschrottet werden.
+Found
+MODSMD_ARTICLE09: Bolschewistenfreiwillige als Kanonenfutter.
+Found
+MODSMD_ARTICLE10: Starkes Fernbeben in Asien.
+Found
+MODSMD_ARTICLE11: Amerikanischer Aufruf gegen den Weltbolschewismus.
+Found
+MODSMD_ARTICLE12: Unterzeichnung der Notstaudseutschließuug verzögert.
+Found
+MODSMD_ARTICLE13: Der Streik in der Automobilindustrie der USA.
+Found
+MODSMD_ARTICLE14: Grippe-Epidemie auch in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE15: Zwei Minister in Chile treten zurück.
+Found
+MODSMD_ARTICLE16: Die Kennzahl der Großhandelspreise im Monatsdurchschnitt Dezember.
+Found

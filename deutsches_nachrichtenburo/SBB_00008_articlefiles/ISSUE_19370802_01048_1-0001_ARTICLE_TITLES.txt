@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ueberwältigende Kundgebung des deutschen
+Found
+MODSMD_ARTICLE02: Dritte Gaufeierstunde in Breslau.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels wird Breslauer Ehrenbürger.
+Found
+MODSMD_ARTICLE04: Heldenehrung am Ehrenmal.
+Found
+MODSMD_ARTICLE05: Zusammenarbeit Deutsche Lufthansa—Air France.
+Not Found
+MODSMD_ARTICLE06: Studienfahrt belgischer Studentenführer durch Deutschland.
+Found
+MODSMD_ARTICLE07: Kunstflugtag bei der Internationalen Flugwoche.
+Found
+MODSMD_ARTICLE08: Die römische Presse über die Londoner Vertagung.
+Found
+MODSMD_ARTICLE09: Handelsabmachungen zwischen Frankreich und Kanada.
+Found
+MODSMD_ARTICLE10: Nanking sieht keine Möglichkeit für Verhandlungen.
+Found

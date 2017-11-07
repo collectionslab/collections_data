@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: KK. Geburtstag des Präsidenten des Reichskriegsgerichts.
+Found
+MODSMD_ARTICLE02: Keine jüdischen Wirtschaftsprüfer mehr.
+Found
+MODSMD_ARTICLE03: Vertiefung der deutsch-belgischen Wirtschaftsbeziehungen.
+Found
+MODSMD_ARTICLE04: Kein Verzicht auf Meistbegünstigungsklausel.
+Found
+MODSMD_ARTICLE05: England im Zeichen der Aufrüstung.
+Found
+MODSMD_ARTICLE06: Aussprache Chamberlain—Pirow.
+Not Found
+MODSMD_ARTICLE07: Unterhausanfragen zum Fernostmarkt.
+Found
+MODSMD_ARTICLE08: Die Entgleisung Lord de la Warrs vor dem Unterhaus.
+Found
+MODSMD_ARTICLE09: Protestkundgebungen wegen der Tunis-Zwischenfälle.
+Found
+MODSMD_ARTICLE10: Die Achse Rom—Berlin Mittelpunkt der Politik in Europa«
+Not Found
+MODSMD_ARTICLE11: Die Reform des Nationalrates der Korporationen.
+Found
+MODSMD_ARTICLE12: Abfuhr für die Kommunisten!
+Found
+MODSMD_ARTICLE13: Verbot eines jüdischen Hetzblattes in der Schweiz.
+Found
+MODSMD_ARTICLE14: Schwere Verluste der Engländer bei Nablus.
+Found
+MODSMD_ARTICLE15: Aegyptische Aerzte für Palästina?
+Found
+MODSMD_ARTICLE16: Aegypten und die Palästinakonferenz.
+Found

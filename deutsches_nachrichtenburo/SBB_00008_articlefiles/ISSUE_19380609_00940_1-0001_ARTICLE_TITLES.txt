@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die Reichstheaterfcstwoche in Wien.
+Found
+MODSMD_ARTICLE02: Die österreichischen Waffenstudenten im NSDStB.
+Found
+MODSMD_ARTICLE03: Die große KdF.-Reichstagung in Hamburg.
+Found
+MODSMD_ARTICLE04: Die Wehrpflichtbestimmungeu für Ostpreußen.
+Found
+MODSMD_ARTICLE05: Die Tagung der Aerzte des öffentlichen Gesundheitsdienstes.
+Found
+MODSMD_ARTICLE06: Eine tschechische Hetzlüge entlarvt.
+Found
+MODSMD_ARTICLE07: Lügennachrichten und falsche Informationen!
+Found
+MODSMD_ARTICLE08: „Le Jour" zu den Bombenwürfen.
+Found
+MODSMD_ARTICLE09: Ausschlußreiche Mitteilungen des „Gringoire".
+Found
+MODSMD_ARTICLE10: Churchill für Aufstellung von Stammrollen. " "
+Found
+MODSMD_ARTICLE11: Judeusreie Hochschulen in Polen gefordert.
+Found
+MODSMD_ARTICLE12: Ahndung kommunistischer Wühlarbeit in Polen.
+Found
+MODSMD_ARTICLE13: Moskau „säubert" weiter.
+Found
+MODSMD_ARTICLE14: Der englische Rüstungskredit an die Türkei.
+Found
+MODSMD_ARTICLE15: Französische Kriegsschiffe in Beirut.
+Found
+MODSMD_ARTICLE16: Die tunesische! Eingeborenenbewegung.
+Found
+MODSMD_ARTICLE17: USA. baut Riesenslugboote.
+Found

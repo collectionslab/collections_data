@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Graf Csaky in Berlin.
+Found
+MODSMD_ARTICLE02: Die Freundschaft mit Japan.
+Found
+MODSMD_ARTICLE03: Freister über die Gestaltung des Jugendstrasrechts.
+Found
+MODSMD_ARTICLE04: Englisch-italienischer Telegrammwechsel.
+Found
+MODSMD_ARTICLE05: Neue jüdische Partei in Polen.
+Found
+MODSMD_ARTICLE06: Wieder Hochspannung in Jerusalem.
+Found
+MODSMD_ARTICLE07: Der Ministerpräsident von Irak in Amman.
+Found
+MODSMD_ARTICLE08: Rücktritt des ägyptischen Kriegsministers.
+Found
+MODSMD_ARTICLE09: Keine japanische Einheitspartei.
+Found
+MODSMD_ARTICLE10: Die englische Note an Japan.
+Found
+MODSMD_ARTICLE11: Japan begrüßt Ungarns Veitritt zum Antikominternpakt
+Found

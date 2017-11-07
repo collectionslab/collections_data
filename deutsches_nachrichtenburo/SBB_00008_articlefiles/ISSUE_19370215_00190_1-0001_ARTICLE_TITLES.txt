@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Eröffnung des Reichsberufswettkampfes.
+Found
+MODSMD_ARTICLE02: Deutsch-Polnisches Wirtschaftsabkommen verlängert.
+Found
+MODSMD_ARTICLE03: Eine Erklärung des holländischen Außenministers de Graeff.
+Found
+MODSMD_ARTICLE04: Unterredung Hanshofens mit „Stockholms Tidningen".
+Found
+MODSMD_ARTICLE05: Sprengstoffanschlag auf deutsche Versammlung in Polen.
+Found
+MODSMD_ARTICLE06: „Deutschland muß Kolonien haben!"
+Found
+MODSMD_ARTICLE07: Große politische Rede Dr. Schuschniggs.
+Found
+MODSMD_ARTICLE08: Bolschewistische Flugzeuge bei Malaga abgeschossen»
+Found
+MODSMD_ARTICLE09: Handelsverkehr Italien—Rumänien wiederaufgenommen..
+Not Found

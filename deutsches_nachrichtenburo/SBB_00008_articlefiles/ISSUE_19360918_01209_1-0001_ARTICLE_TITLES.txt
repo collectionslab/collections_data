@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die 450 Hitlerjungen in Venedig.
+Found
+MODSMD_ARTICLE02: Lustschiff „Hindendurg" zur 8. Nordatlautikfahrt gestartet.
+Found
+MODSMD_ARTICLE03: „Ergebnis eines Boykotts".
+Found
+MODSMD_ARTICLE04: Tagung des Führerrates der Vaterländischen Front.
+Found
+MODSMD_ARTICLE05: Zum Besuch des Staatssekretärs Schmidt in Rom.
+Found
+MODSMD_ARTICLE06: Außenminister Beck nach Genf abgereist.
+Found
+MODSMD_ARTICLE07: Keine Kabinettsumbildung in Polen.
+Found
+MODSMD_ARTICLE08: Ausbau des Arbeitsdienstes in Polen.
+Found
+MODSMD_ARTICLE09: Eden wieder im Amt.
+Found
+MODSMD_ARTICLE10: Die Rundfunkrede Leon Blums.
+Found
+MODSMD_ARTICLE11: Politische Zusammenstöße in Paris.
+Found
+MODSMD_ARTICLE12: Tie Grundlagen der Einigung im Textilstreit.
+Found
+MODSMD_ARTICLE13: Genfer Reiseabsichten Blums.
+Found
+MODSMD_ARTICLE14: Belgische Gewerkschaften lehnen „Volksfront" ab.
+Found
+MODSMD_ARTICLE15: Matuschka wird an Ungarn ausgeliefert.
+Found

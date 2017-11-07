@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Hains Fischböck aus seinem Amt verabschiedet.
+Found
+MODSMD_ARTICLE02: Eingeständnis des Londoner Rundfunks.
+Found
+MODSMD_ARTICLE03: Kriegsweihuacht der Alten Garde.
+Found
+MODSMD_ARTICLE04: 30 000 belgische Bergarbeiter streiken.
+Found
+MODSMD_ARTICLE05: Vor einer Umbildung der belgischen Regierung.
+Found
+MODSMD_ARTICLE06: Von britischem Kriegschiff gerammt.
+Found
+MODSMD_ARTICLE07: Wachsende Teuerung in Dänemark.
+Found
+MODSMD_ARTICLE08: Vereisung behindert die Operationen zur See.
+Found
+MODSMD_ARTICLE09: Rege russische Flugtätigkeit.
+Found
+MODSMD_ARTICLE10: Unmittelbarer deutsch-russischer Eisenbahngüterverkehr.
+Found
+MODSMD_ARTICLE11: Der Wehrmachtsbericht.
+Found
+MODSMD_ARTICLE12: Vor der Westküste Englands versenkt.
+Found
+MODSMD_ARTICLE13: Im Schneesturm ertrunken.
+Found
+MODSMD_ARTICLE14: Kapitäu zur See Langsdorfs zu Grabe getragen.
+Found

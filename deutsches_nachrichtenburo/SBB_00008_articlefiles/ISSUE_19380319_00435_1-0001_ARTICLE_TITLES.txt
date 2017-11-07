@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Aufnahme der Fiihrerrede im Anstand.
+Found
+MODSMD_ARTICLE02: Gesetz über die Reichstagswahl.
+Found
+MODSMD_ARTICLE03: Deutschösterreichischer KameradsckMftsabend in München.
+Found
+MODSMD_ARTICLE04: Gute Nachbarschaft Deutschland—Jugoslawien.
+Not Found
+MODSMD_ARTICLE05: Unaufhörliche sowjetspanische Hilferufe.
+Found
+MODSMD_ARTICLE06: Eine Unterredung mit General Franco.
+Found
+MODSMD_ARTICLE07: Litauens Gesandter beim französischen Außenminister.
+Found
+MODSMD_ARTICLE08: Hoover in London.
+Found
+MODSMD_ARTICLE09: Portugals Staatschef unternimmt Kolonialreise.
+Found
+MODSMD_ARTICLE10: Mindestzahl von 3VOO USA.-Marineflugzeugen beantragt.
+Found
+MODSMD_ARTICLE11: Allgemeine Dienstpflicht in Australien.
+Found

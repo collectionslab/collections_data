@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ausländische Presse bei Sittlichkeitsprozessen in Koblenz.
+Found
+MODSMD_ARTICLE02: Der Verführte wird zum Verführer.
+Found
+MODSMD_ARTICLE04: Die Liebesverhältnisse des Bruders Ephraim.
+Found
+MODSMD_ARTICLE05: Magnus Hirschfeld als Verführungsmittel.
+Found
+MODSMD_ARTICLE06: Das Kind verführt der Mutter einen Rosenstrauß.
+Found
+MODSMD_ARTICLE07: Generalfeldmarschall von Blomberg nach Rom abgeflogen.
+Found
+MODSMD_ARTICLE08: Sittlichkeitsverbrechen selbst an hilflosen Kranken.
+Found
+MODSMD_ARTICLE09: Der Kammerausschuß gegen deutsche Kolonialforderungen.
+Found
+MODSMD_ARTICLE10: Besprechungen bei Delbos.
+Found
+MODSMD_ARTICLE11: Vulkan-Ausbrüche auf Neu-Pommern.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Eröffnung des neuen China-Instituts in Frankfurt a. M.
+Found
+MODSMD_ARTICLE02: Jahrestresfen der deutschen Borkriegsflieger in München.
+Found
+MODSMD_ARTICLE03: Budapests Bürgermeister von Berlin begeistert.
+Found
+MODSMD_ARTICLE04: Mißglückte Streikbestrebnugen in holländischen Häfen.
+Found
+MODSMD_ARTICLE05: Baldige Aushebung der Nihnemasmahmen?
+Found
+MODSMD_ARTICLE06: Der belgische Arbeitsminister kündigt Sozialprogramm an.
+Found
+MODSMD_ARTICLE07: Zyperns Bedeutung für das britische Weltreich.
+Found
+MODSMD_ARTICLE08: Französischer Senatsausschuß billigt Sozialgesetze»
+Found
+MODSMD_ARTICLE09: Bolkssrontregierung und Landwirtschaft.
+Found
+MODSMD_ARTICLE10: Begegnung spanischer und französischer Bolksfrontjugend?
+Found
+MODSMD_ARTICLE11: Viehischer Mord an einem spanischen Polizeibeamten.
+Found
+MODSMD_ARTICLE12: Wallonische Besorgnis wegen Vordringjens des Flamentums.
+Found
+MODSMD_ARTICLE13: Jüdische kommunistische Agitatoren in Jerusalem verhaftet.
+Found
+MODSMD_ARTICLE14: Die englisch-japanischen Flottenbesprechungen.
+Found
+MODSMD_ARTICLE15: Die Kwangsi-Generäle im Dienste Japans?
+Found

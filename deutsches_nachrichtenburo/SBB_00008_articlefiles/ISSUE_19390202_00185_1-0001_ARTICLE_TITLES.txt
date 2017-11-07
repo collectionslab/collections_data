@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer beim Reit- und Fahrturnier.
+Found
+MODSMD_ARTICLE02: Ausdehnung deutsch-türkischer Handelsabkommen.
+Found
+MODSMD_ARTICLE03: Fünf neue Statthalter in Rumänien.
+Found
+MODSMD_ARTICLE04: Umbesetzungen in der rumänischen Generalität.
+Found
+MODSMD_ARTICLE05: Die Spanische Gesandtschaft in Prag ausgeplündert.
+Found
+MODSMD_ARTICLE06: Schnellerer Flugzeugbau in Frankreich.
+Found
+MODSMD_ARTICLE07: Frankreichs Kommunisten lernen nichts hinzu.
+Found
+MODSMD_ARTICLE08: „Palästina Politik" auf Cypern?
+Found
+MODSMD_ARTICLE09: Weitere Fortschritte iu Nordkatalouien.
+Found
+MODSMD_ARTICLE10: „Gegen die jüdische Hegemonie in Südafrika."
+Found
+MODSMD_ARTICLE11: Hoover geißelt Roosevelt.
+Found
+MODSMD_ARTICLE12: „New Jork Sun" brandmarkt Roosevelts Heuchelei.
+Found
+MODSMD_ARTICLE13: Die Weltaufrüstung ein Großgeschäft für USA.
+Found

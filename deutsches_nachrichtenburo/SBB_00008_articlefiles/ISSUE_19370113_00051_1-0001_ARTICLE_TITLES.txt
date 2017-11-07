@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die Grippe wütet in England.
+Found
+MODSMD_ARTICLE02: Kurswechsel bei der „Saturday Review".
+Found
+MODSMD_ARTICLE03: Skandinavien-Reise holländischer Wirtschaftsminister.
+Found
+MODSMD_ARTICLE04: Die Pariser Presse widerlegt sich selbst.
+Found
+MODSMD_ARTICLE05: Die Pariser Presse Zur Entspannung.
+Found
+MODSMD_ARTICLE06: Entspannung auch bei der Warschauer Presse.
+Found
+MODSMD_ARTICLE07: Nichts Neues am Dienstag an der spanischen Front.
+Found
+MODSMD_ARTICLE08: Nationaler Bombenangriff auf Valencia.
+Found
+MODSMD_ARTICLE09: Wie Ausländer in die rote Miliz gepreßt werden.
+Found
+MODSMD_ARTICLE10: Grosnnufti gegen jüdische Palästina-Bestrebungen.
+Found
+MODSMD_ARTICLE11: Neue Werkschließungen in der amerikanischen Autoindustrie.
+Found
+MODSMD_ARTICLE12: Hohe Belohnung für Festnahme eines Kindesmörders.
+Found

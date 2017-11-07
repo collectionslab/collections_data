@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Unermeßlicher Jubel von Millionen Des Führers Fahrt ein Weg der Liebe, em Weg des Vertrauens, ein Weg der Freude Der Führer spricht zu den Wienern
+Found
+MODSMD_ARTICLE02: Von St. Polten nach Wien.
+Found
+MODSMD_ARTICLE03: Arbeiter grüßen den Führer.
+Found
+MODSMD_ARTICLE04: Einfahrt in die Stadt.
+Found
+MODSMD_ARTICLE05: Empfang durch Seytz-Jnquart.
+Found
+MODSMD_ARTICLE06: Das Programm des Dienstag.
+Found
+MODSMD_ARTICLE07: Der Führer auf dem Balkon.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Reichsdeutschen im Ausland gedenken des 9. November.
+Found
+MODSMD_ARTICLE02: Mit Bedauern zurückgenommen.
+Found
+MODSMD_ARTICLE03: Der Reichsjägermeister im Deutschen Jagdmuseum.
+Found
+MODSMD_ARTICLE04: Zum Oberbannführer befördert.
+Found
+MODSMD_ARTICLE05: Spaak setzt seine Bemühungen fort.
+Found
+MODSMD_ARTICLE06: „Sowjetrußland ein schwer kranker StaatsorganismusN
+Found
+MODSMD_ARTICLE07: Antisemitische Studentenkundgebung in Warschau.
+Found
+MODSMD_ARTICLE08: Einstündige Unterredung Graf Ciano—Fran^ois-Poncet.
+Not Found
+MODSMD_ARTICLE09: Rothermere bei Horthy.
+Found
+MODSMD_ARTICLE10: Ter ungarisch-italienische Fremdenverkehr.
+Found
+MODSMD_ARTICLE11: Ueberall stiften sie Unruhe!
+Found
+MODSMD_ARTICLE12: Der Generalrat von Aisne für Daladiers Politik.
+Found
+MODSMD_ARTICLE13: Coulondre beim Vorsitzenden des Auswärtigen Ausschusses.
+Found
+MODSMD_ARTICLE14: Die Araber vom Palästina-Weißbuch schwer enttäuscht.
+Found
+MODSMD_ARTICLE15: Großer Wahlsieg der Republikaner in USA.
+Found
+MODSMD_ARTICLE16: Methodisten-Kirche und Reichsregierung.
+Found

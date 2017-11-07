@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Nacht-Avsgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Ehrung des bulgarischen Kultusministers.
+Found
+MODSMD_ARTICLE03: Eine unverständliche Maßnahme.
+Found
+MODSMD_ARTICLE04: Wieder ein Opfer polnischer Wegelagerer.
+Found
+MODSMD_ARTICLE05: Deutschenverhaftungen ohne Ende.
+Found
+MODSMD_ARTICLE06: Viehische Mißhandlungen in polnischen Gefängnissen.
+Found
+MODSMD_ARTICLE07: Hysterie lähmt das Leben iu Ostoberschlesien.
+Found
+MODSMD_ARTICLE08: Verschärfter Terror gegen die ukrainische Minderheit.
+Found
+MODSMD_ARTICLE09: Italienische Warnungen an die Westdemokratien.
+Found
+MODSMD_ARTICLE10: Die römische Presse zur Albanienreise Cianos.
+Found
+MODSMD_ARTICLE11: Queipo de Llano in Rom.
+Found
+MODSMD_ARTICLE12: Csaky wieder in Budapest.
+Found
+MODSMD_ARTICLE13: Illegaler Judenschmuggel nach Palästina offen zugegeben.
+Found
+MODSMD_ARTICLE14: Neue Besprechung in Moskau.
+Found
+MODSMD_ARTICLE15: Japan gegen die britische Brunnenvergistung.
+Found
+MODSMD_ARTICLE16: Südafrikanischer Abgeordneter gegen antideutsche Agitation.
+Found

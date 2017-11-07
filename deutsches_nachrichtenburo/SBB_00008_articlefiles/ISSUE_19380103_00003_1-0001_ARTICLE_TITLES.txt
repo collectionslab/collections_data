@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Schwach an die Jugend!
+Found
+MODSMD_ARTICLE02: Neujahrsaufruf Himmlers.
+Found
+MODSMD_ARTICLE03: Die gewerbliche Wirtschaft an Minister Funk.
+Found
+MODSMD_ARTICLE04: Handels- und Kriegsmarine tauschen Glückwünsche aus.
+Found
+MODSMD_ARTICLE05: Hühnleins Neujahrsbefehl an das NSKK.
+Found
+MODSMD_ARTICLE06: Schirach und Fran?ois-Poneet an das Schilager.
+Found
+MODSMD_ARTICLE07: „Reichsmessestadt Leipzig."
+Found
+MODSMD_ARTICLE08: Diplomatenempfang bei Lebrun.
+Found
+MODSMD_ARTICLE09: Darauyi an das ungarische Deutschtum.
+Found
+MODSMD_ARTICLE10: Teruel befreit.
+Found
+MODSMD_ARTICLE11: Ganze Truppenverbände der Roten bei Teruel umklammert.
+Found
+MODSMD_ARTICLE12: Auslandsjournalisten Opfer einer sowjetspanischen Granate.
+Found
+MODSMD_ARTICLE13: Das Wüten der GPU.
+Found
+MODSMD_ARTICLE14: Lawinenunglück bei Wien: Fünf Tote, drei Vermische.
+Found

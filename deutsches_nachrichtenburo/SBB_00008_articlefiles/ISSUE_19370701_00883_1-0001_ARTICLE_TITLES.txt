@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Mackenzie King über seinen Berliner Aufenthalt.
+Found
+MODSMD_ARTICLE02: Währungsfragen vor der Internationalen Handelskammer.
+Found
+MODSMD_ARTICLE03: Gastliches Deutschland.
+Found
+MODSMD_ARTICLE04: Die Auffindung der Gebeine König Heinrichs I.
+Found
+MODSMD_ARTICLE05: Von Blomberg besichtigt Honved-Truppenübung.
+Found
+MODSMD_ARTICLE06: Am Donnerstag wieder Börse in Frankreich.
+Found
+MODSMD_ARTICLE07: Erhöhung des Wasserpreises in Paris.
+Found
+MODSMD_ARTICLE08: Stalin läßt weiter verhaften.
+Found
+MODSMD_ARTICLE09: „Helden der Sowjetunion" in Spanien.
+Found
+MODSMD_ARTICLE10: Roosevelt kürzt Nothilfebewilligung.
+Found
+MODSMD_ARTICLE11: Schmeling-Farr-Kamlif verlegt.
+Found
+MODSMD_ARTICLE12: Neuer Schlag für USA-Boxbehörden.
+Found

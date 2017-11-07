@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer im Haus der Deutschen Erziehung in Bayreuth.
+Found
+MODSMD_ARTICLE02: Oesterreichs Sänger gaben in Breslau ein Sonderkonzert.
+Found
+MODSMD_ARTICLE03: Neue Westpaktnote Englands wird geprüft.
+Found
+MODSMD_ARTICLE04: Der Inhalt der deutschen Antwortnote.
+Found
+MODSMD_ARTICLE05: Für eine deutsch-italienisch-englische Zusammenarbeit.
+Found
+MODSMD_ARTICLE06: Für den Ausbau der Beziehungen Deutschland-Irland.
+Found
+MODSMD_ARTICLE07: Anhaltender Geburtenrückgang in Osterreich.
+Found
+MODSMD_ARTICLE08: „Sicherung des Volksbedarfs".
+Found
+MODSMD_ARTICLE09: Frankreich gibt rumänisches Gold zurück.
+Found
+MODSMD_ARTICLE10: Giftmordversuch zweier Franzosen im Dienste Valencias.
+Found
+MODSMD_ARTICLE11: Chinas Pfadfinder zum Hilfsdienst mobilisiert.
+Found
+MODSMD_ARTICLE12: Die Schanghaier Börse geschlossen.
+Found
+MODSMD_ARTICLE13: 27 Todesopfer des Zugunglücks bei Paris.
+Found

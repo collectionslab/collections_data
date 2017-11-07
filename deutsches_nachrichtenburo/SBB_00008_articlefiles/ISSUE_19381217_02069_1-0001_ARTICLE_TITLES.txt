@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Veranstaltung des deutschen Orient-Vereins.
+Found
+MODSMD_ARTICLE03: Minister Lantini in Stuttgart.
+Found
+MODSMD_ARTICLE04: Gauleiter Neichsstatthalter Murr 56 Jahre alt.
+Found
+MODSMD_ARTICLE05: Zweigstelle Essen der Deutsch-Englischen Gesellschaft.
+Found
+MODSMD_ARTICLE06: Italiens Rechte in Tunis.
+Found
+MODSMD_ARTICLE08: Graf Ciano empfing den englischen Botschafter.
+Found
+MODSMD_ARTICLE09: Die Ungarnreise Cianos.
+Found
+MODSMD_ARTICLE10: Unfall des ungarischen Ackerbauministers.
+Found
+MODSMD_ARTICLE11: Jugoslawien und Türkei errichten Botschaften in Bukarest.
+Found
+MODSMD_ARTICLE12: „Kaust nicht mehr beim Juden!"
+Found
+MODSMD_ARTICLE13: Ungarn und die Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE14: Polen zur Rede des Führers.
+Found
+MODSMD_ARTICLE15: Juden als Lebensmittelfälscher.
+Found
+MODSMD_ARTICLE16: Außenminister Bonnet vor dem Senatsausschuß.
+Found
+MODSMD_ARTICLE17: „Die Kommunistische Partei muß aufgelöst werden."
+Found
+MODSMD_ARTICLE18: Demokratischer Rundfunk.
+Found
+MODSMD_ARTICLE19: Vier Juden bei unerlaubtem Grenzübertritt verhaftet.
+Found
+MODSMD_ARTICLE20: Der bolschewistische Sumpf in Barcelona.
+Found
+MODSMD_ARTICLE21: Jüdische Frechheit stellt Bedingungen.
+Found

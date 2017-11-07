@@ -1,0 +1,26 @@
+MODSMD_ARTICLE02: Reichstagung „Volksgesundheit und Genußgifte".
+Found
+MODSMD_ARTICLE03: Verstärkung der Garnisonen an der Somali-Küste.
+Found
+MODSMD_ARTICLE05: Der Generalresident von Marokko in Tunesien.
+Found
+MODSMD_ARTICLE06: Die sowjetspanischen Läuse im französischen Pelz.
+Found
+MODSMD_ARTICLE07: Tie rotspanische Armee besteht aus Räubern und Dieben.
+Found
+MODSMD_ARTICLE08: Internationale Messe in Tripolis eröffnet.
+Found
+MODSMD_ARTICLE09: Wieder ein Sprengauschlag auf eine Londoner Brücke.
+Found
+MODSMD_ARTICLE10: 82 Tote? zahllose Verwundete in Palästina.
+Found
+MODSMD_ARTICLE11: Marschall Rydz-Smigly empfing Gafencu.
+Found
+MODSMD_ARTICLE12: „Frankreich verletzt die japanischen Interessen."
+Found
+MODSMD_ARTICLE13: Japanischer Vorstoß bei Hankau.
+Found
+MODSMD_ARTICLE14: Schnelldampfer „Bremen" in Mar del Plata.
+Found
+MODSMD_ARTICLE15: „Roosevelt ein regelrechter Diktator."
+Found

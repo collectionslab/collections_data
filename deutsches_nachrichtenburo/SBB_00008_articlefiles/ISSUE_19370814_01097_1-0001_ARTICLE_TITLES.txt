@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Internationale Homöopathische Kongreß.
+Found
+MODSMD_ARTICLE02: Japans Jugendführer in Osnabrück.
+Found
+MODSMD_ARTICLE03: Für engere Zusammenarbeit der auslands- und der reichsdeutschen Presse.
+Not Found
+MODSMD_ARTICLE04: Begeisterung für den deutschen Film „Patriotejn".
+Found
+MODSMD_ARTICLE05: Seeflugzeug „Nordmeer" nach den Azoren unterwegs.
+Found
+MODSMD_ARTICLE06: Japanischer Kriegsschiffbesuch in Palermo.
+Found
+MODSMD_ARTICLE07: Der polnische Ministerpräsident in Paris.
+Found
+MODSMD_ARTICLE08: Die Krstgsmaterialtransporte nach Sowjetspanien.
+Found
+MODSMD_ARTICLE09: Englisches Palästina-Weißbuch.
+Found
+MODSMD_ARTICLE10: England, Amerika und das Palästina-Mandat.
+Found
+MODSMD_ARTICLE11: Der Umsturz in Paraguay.
+Found
+MODSMD_ARTICLE12: USA-Geschwader nach China beordert.
+Found
+MODSMD_ARTICLE13: Chinesische Flugzeuge in Schanghai eingesetzt.
+Found
+MODSMD_ARTICLE14: Lebhaftes Geschützfeuer in Schanghai.
+Found
+MODSMD_ARTICLE15: Japanische Truppen dringen zum Nankau-Past vor.
+Found

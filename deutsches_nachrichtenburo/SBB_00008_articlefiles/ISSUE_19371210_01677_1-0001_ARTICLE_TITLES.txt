@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer in der italienischen Kunstausstellung.
+Found
+MODSMD_ARTICLE02: Generaloberst Göring ernennt Wehrwirtschaftsführer.
+Found
+MODSMD_ARTICLE03: Ministerialrat Friedrich f.
+Found
+MODSMD_ARTICLE04: 23 Preise für die Deutsche Kulturwoche in Paris.
+Found
+MODSMD_ARTICLE05: Mehr Verständnis für den Kampf des Sud elend ents ch in ms.
+Found
+MODSMD_ARTICLE06: „Der Völkerbund Werkzeug von Juden und Freimaurern."
+Found
+MODSMD_ARTICLE07: Stojadinowitsch nach Belgrad abgereist.
+Found
+MODSMD_ARTICLE08: Bolschewistische Einmischung in Schweizer Angelegenheiten.
+Found
+MODSMD_ARTICLE09: Platzghetto für Juden an Lemberger HoMchule.
+Found
+MODSMD_ARTICLE10: Interessante Angaben des „Jour".
+Found
+MODSMD_ARTICLE11: Neue Verbrecherpläne aufgedeckt.
+Found
+MODSMD_ARTICLE12: Ein Gespräch zwischen Schirach und Atatürk.
+Found
+MODSMD_ARTICLE13: Der Kampf um Nanking.
+Found
+MODSMD_ARTICLE14: Amerikanisches Ehepaar in Moskau verschwunden.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ncgierungsvizepräsident Dr. Bock von Wülfingen.
+Found
+MODSMD_ARTICLE02: Zn Oberregierungsräten befördert.
+Found
+MODSMD_ARTICLE03: Gruß der Faschistischen Partei Zum 39. Januar.
+Found
+MODSMD_ARTICLE04: Die Minierarbeit der polnischen Emigranten.
+Found
+MODSMD_ARTICLE05: Daladier peitscht Haßiustinkte auf.
+Found
+MODSMD_ARTICLE06: Schiffsmangel auch in Kanada.
+Found
+MODSMD_ARTICLE07: Abgeblendete Handelsschiffe besonders gefährdet.
+Found
+MODSMD_ARTICLE08: Gedenktag der Machtübernahme im Generalgouvernement.
+Found
+MODSMD_ARTICLE09: „Luftangriff von ganz ungewöhnlicher Kraft."
+Found
+MODSMD_ARTICLE10: Desorganisation in der französischen Industrie.
+Found
+MODSMD_ARTICLE11: Der russische Heeresbericht vom 29. Januar.
+Found
+MODSMD_ARTICLE12: Der finnische Heeresbericht vom 99. Januar.
+Found
+MODSMD_ARTICLE13: 2 Volksschädlinge hingerichtet.
+Found
+MODSMD_ARTICLE14: Ein Sittlichkeiisverbrecher hingerichtet.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Deutsche Krankenschwestern ausgewiesen.
+Found
+MODSMD_ARTICLE02: Der Präsident der Reichsgetreidestelle weilte in Bukarest.
+Found
+MODSMD_ARTICLE03: Stojadinowitsch aus der Regierungspartei ausgeschlossen.
+Found
+MODSMD_ARTICLE04: Jugoslawienreise Jahya Paschas beendet.
+Found
+MODSMD_ARTICLE05: Pariser Stimme zu den Moskauer Verhandlungen.
+Found
+MODSMD_ARTICLE06: Immer neue Fragen in Moskau.
+Found
+MODSMD_ARTICLE07: Wird Polen bis zum letzten englischen Pfund kämpfen?
+Found
+MODSMD_ARTICLE08: Deutsche Buchausstellung in Bilbao.
+Found
+MODSMD_ARTICLE09: Außenminister Jordana in Barcelona eingetroffen.
+Found
+MODSMD_ARTICLE10: Wieder eine vergebliche zweistündige Konferenz in Moskau.
+Found
+MODSMD_ARTICLE11: Moskaus unnachgiebige Haltung.
+Found
+MODSMD_ARTICLE12: Kein ägyptisch-türkisches Militärbündnis.
+Found
+MODSMD_ARTICLE13: Die Hochflut der Ausbeuter in Palästina.
+Found
+MODSMD_ARTICLE14: Schwere Kämpfe an der mongolisch-mandschurischen Grenze.
+Found
+MODSMD_ARTICLE15: Erfolgreiche japanische Blockade.
+Found
+MODSMD_ARTICLE16: Juda organisiert den Bürgerkrieg.
+Found
+MODSMD_ARTICLE17: Die amerikanischen Manöver 1939.
+Found

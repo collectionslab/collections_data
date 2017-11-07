@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Staatssekretär Tassmari in München.
+Found
+MODSMD_ARTICLE02: Eine Ehrung der deutschen Mutter.
+Found
+MODSMD_ARTICLE03: Einweihung des „Goebbels-Heims" in Bad Harzburg.
+Found
+MODSMD_ARTICLE04: Weihe des Daniel Sauer-Mahnmals in Sickershansen.
+Found
+MODSMD_ARTICLE05: Dorpmüller zum deutschen Sieg in Tripolis.
+Found
+MODSMD_ARTICLE06: Neichsjustizmiuister Dr. 'Gärtner in Wien.
+Found
+MODSMD_ARTICLE07: 25 Jahre Deutsche Bücherei.
+Found
+MODSMD_ARTICLE08: Verleihung des Eichendorff-Preises.
+Found
+MODSMD_ARTICLE09: Konrad Henlein aus London zurück.
+Found
+MODSMD_ARTICLE10: Wie man in London das sudetendeutsche Problem ansieht.
+Found
+MODSMD_ARTICLE11: Ausstellung altdeutscher Graphiken in Bukarest.
+Found
+MODSMD_ARTICLE12: Motta über die Neutralität der Schweiz.
+Found
+MODSMD_ARTICLE13: Landflughafen Helsinki dem Verkehr übergeben.
+Found
+MODSMD_ARTICLE14: Weitere Fortschritte der Nationalen.
+Found
+MODSMD_ARTICLE15: Die Hauptgegner einer französisch-italienischen Annäherung.
+Found
+MODSMD_ARTICLE16: 23 Araber und ein britischer Soldat getötet.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr. Tvdt über die Reichsautobahnen.
+Found
+MODSMD_ARTICLE02: Austausch deutscher und finnischer Jugendgruppen.
+Found
+MODSMD_ARTICLE03: Keine neuen Polizeiämter im sudetendeutschen Gebiet.
+Found
+MODSMD_ARTICLE04: Amerikanisches Kriegsschisfgeschwader besucht Kopenhagen.
+Found
+MODSMD_ARTICLE05: Besuch des polnischen Generalstabschess in Riga.
+Found
+MODSMD_ARTICLE06: 13. Internationaler Tondichkterkongreß in Stockholm.
+Found
+MODSMD_ARTICLE07: Sensation im Unterhaus.
+Found
+MODSMD_ARTICLE08: Spanien-Anfragen im Unterhaus.
+Found
+MODSMD_ARTICLE09: Mexikanische Entfchädigungsanleihe abgeblasen.
+Found
+MODSMD_ARTICLE10: Gewitterwolken über der Chaco-Konferenz.
+Found
+MODSMD_ARTICLE11: Moskauer Grenzschikaue geplatzt.
+Found

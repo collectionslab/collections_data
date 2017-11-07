@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer ehrt die Toten vom 9. November.
+Found
+MODSMD_ARTICLE02: München am Vorabend des Mussolini-Besuchs.
+Found
+MODSMD_ARTICLE03: Der Verkehr vervielfacht.
+Found
+MODSMD_ARTICLE04: Das Heer der Journalisten.
+Found
+MODSMD_ARTICLE05: Führende Persönlichkeiten eingetroffen.
+Found
+MODSMD_ARTICLE06: Die Ausschmückung des Hauptbahnhofes.
+Found
+MODSMD_ARTICLE07: Eine Triumphpforte von Haushöhe.
+Found
+MODSMD_ARTICLE08: Die Feststraße.
+Found
+MODSMD_ARTICLE09: Das Prinz-Carl-Palais der Wohnsitz Mussolinis.
+Found
+MODSMD_ARTICLE10: Am Haus der Deutschen Kunst.
+Found
+MODSMD_ARTICLE11: Der Friedenseugel ein Höhepunkt der Ausschmückung.
+Found
+MODSMD_ARTICLE12: Sämtliche Verdunkelungsmaßnahmen aufgehoben.
+Found
+MODSMD_ARTICLE13: Der Kömgliche Platz.
+Found
+MODSMD_ARTICLE14: Reicher Schmuck auch austerhalb der Feststraßeu.
+Found
+MODSMD_ARTICLE15: Besichtigungsfahrt italienischer Journalisten durch München.
+Found
+MODSMD_ARTICLE16: Mussolini in Verona.
+Found
+MODSMD_ARTICLE17: Direkte Sendungen des italienischen Rundfunks.
+Found

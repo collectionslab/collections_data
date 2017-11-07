@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ter Führer empfing deutsche Diplomaten.
+Found
+MODSMD_ARTICLE02: Erster SA.-Gruppenführrr-Appell im neuen Jahre.
+Found
+MODSMD_ARTICLE03: Starker Eindruck der FriedenserklärunMn des Führers.
+Found
+MODSMD_ARTICLE04: Eden erstattet im Kabinett Bericht.
+Found
+MODSMD_ARTICLE05: Neuer Leiter der Europa-Abteilung im Foreign Office.
+Found
+MODSMD_ARTICLE06: Luftverkehrsverhandlungen Zwischen Wien und Prag.
+Found
+MODSMD_ARTICLE07: Die rote Lügeufabrik in Tanger.
+Found
+MODSMD_ARTICLE08: Ein interessanter Beitrag zur französischen Pressehetze.
+Found
+MODSMD_ARTICLE09: „Eine idiotische Alarmkampague."
+Found
+MODSMD_ARTICLE10: Eine objektive englische Darstellung über Spanien.
+Found
+MODSMD_ARTICLE11: Rote Propaganda an der französisch-schweizerischen Grenze.
+Found
+MODSMD_ARTICLE12: Blutige Zusammenstöße im roten Bilbao.
+Found
+MODSMD_ARTICLE13: Jüdisch-kommunistische Wühlarbeit in Litauen.
+Found
+MODSMD_ARTICLE14: Kundgebungen gegen die Teuerung in Syrien.
+Found
+MODSMD_ARTICLE15: Große Steigerung der Militärausgaben in Sowjetrußland.
+Found

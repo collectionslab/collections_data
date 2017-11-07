@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Reichsverkehrsminister beglückwünscht Dr. Bosch.
+Found
+MODSMD_ARTICLE02: Jubelfeier der Firma Robert Bosch.
+Found
+MODSMD_ARTICLE03: Die griechische Presse über die Leistungen Dr. Goebbels'
+Found
+MODSMD_ARTICLE04: „Popolo d'Jtalia" zu den Ausführungen Sir S. Hoares.
+Found
+MODSMD_ARTICLE05: Wirtschaftsvollmachten für Schweizer Bundesrat.
+Found
+MODSMD_ARTICLE06: Die Nationalisten kurz vor Toledo.
+Found
+MODSMD_ARTICLE07: Merry del Val über den spanischen Bürgerkrieg.
+Found
+MODSMD_ARTICLE08: Britische Truppenverstärkungen in Haifa gelandet.
+Found
+MODSMD_ARTICLE09: Bisher rund 3000 Personen in Palästina verhastet.
+Found
+MODSMD_ARTICLE10: Die Araber Palästinas für Fortsetzung des Streiks.
+Found
+MODSMD_ARTICLE11: Meuterei auf dem französischen Dampfer „Belle Jsle"?
+Found

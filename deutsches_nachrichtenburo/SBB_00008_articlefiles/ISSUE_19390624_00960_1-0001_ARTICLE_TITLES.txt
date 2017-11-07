@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die spanischen Gäste des Führers nahmen Abschied.
+Found
+MODSMD_ARTICLE02: Lutze empfing Generale des Heeres.
+Found
+MODSMD_ARTICLE03: Tanzig im Zeichen des Weichfeiländer Sängerfestes.
+Found
+MODSMD_ARTICLE04: Deutscher TransitZug im Korridor überfallen.
+Found
+MODSMD_ARTICLE05: Polnische Lugen.
+Found
+MODSMD_ARTICLE06: London wartet immer noch auf die japanische Antwort.
+Found
+MODSMD_ARTICLE07: Lord Haltfax sprach mit Maisky.
+Found
+MODSMD_ARTICLE08: Der „geschmähte" Tauschhandel.
+Found
+MODSMD_ARTICLE09: Bittere Londoner Erkenntnis.
+Found
+MODSMD_ARTICLE10: Der König der Belgier fährt nach Frankreich.
+Found
+MODSMD_ARTICLE11: Der Slmdschak-Schacher ist perfekt.
+Found
+MODSMD_ARTICLE12: Der Preis für die Verschacherung des Sandschaks.
+Found
+MODSMD_ARTICLE13: Gemeinsame französisch-türkische Erklärung.
+Found
+MODSMD_ARTICLE14: Frankreichs „Mission" in Syrien.
+Found
+MODSMD_ARTICLE15: Das Getuschel von Singapur.
+Found
+MODSMD_ARTICLE16: „England ist der Störenfried der Welt."
+Found

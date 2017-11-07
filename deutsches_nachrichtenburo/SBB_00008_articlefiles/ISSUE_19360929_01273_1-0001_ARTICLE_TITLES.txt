@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Eine Mitteilung des Reichsleiters Bouhler.
+Found
+MODSMD_ARTICLE02: Besorgte Stimmen aus Paris.
+Found
+MODSMD_ARTICLE03: Finanzausschuß des Senats und Frankenabwertung.
+Found
+MODSMD_ARTICLE04: Tie Vvlkerbundsversammlung.
+Found
+MODSMD_ARTICLE05: Protest gegen die Britische Rundfunkgesellschaft.
+Found
+MODSMD_ARTICLE06: Rationierung der Lebensmittel in Madrid.
+Found
+MODSMD_ARTICLE07: Roter Torpedobootszerstörer versenkt.
+Found
+MODSMD_ARTICLE08: Nach der Eroberung von Toledo.
+Found
+MODSMD_ARTICLE09: Streikausschreitungen in Buenos Aires.
+Found
+MODSMD_ARTICLE10: Aus der Diplomatie.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Reichsarbeitstagung der NBG. Druck.
+Found
+MODSMD_ARTICLE02: Unfallverhütungsaktion im Bergbau ein voller Erfolg.
+Found
+MODSMD_ARTICLE03: Teutschland an Pariser Gemäldeschau stark beteiligt.
+Found
+MODSMD_ARTICLE04: Die Lage in Spanien vor dem Oberhaus.
+Found
+MODSMD_ARTICLE05: Cualisch-italienisches Clearing-Abkommen angenommen.
+Found
+MODSMD_ARTICLE06: Regierungskrise in Frankreich? Schwere Ausschreitungen.'
+Found
+MODSMD_ARTICLE07: Beschleunigte Durchführung des französischen Flottenbaues.
+Found
+MODSMD_ARTICLE08: Sowjetbotschafter Kotemkin bei Delbos.
+Found
+MODSMD_ARTICLE09: Die französische Steuerreform vor der Kammer.
+Found
+MODSMD_ARTICLE10: 1) Wll Exemplare des „Gringoire" in die Seine geworfen.
+Found
+MODSMD_ARTICLE11: Vollstes Einvernehmen zwischen Italien und Ungarn.
+Found
+MODSMD_ARTICLE12: 294 Studenten in Warschau festgenommen.
+Found
+MODSMD_ARTICLE13: Rote Angriffe Zurückgeschlagen.
+Found
+MODSMD_ARTICLE14: Nationale Flieger bombardieren Cartagena.
+Found
+MODSMD_ARTICLE15: Die Roten verhindern Ausreise von Flüchtlingen aus Bilbao.
+Found
+MODSMD_ARTICLE16: Spaniens Nationalregierung stimmt der Sicherheitszone zu.
+Found
+MODSMD_ARTICLE17: Keine territorialen Absichten Italiens in Spanien.
+Found
+MODSMD_ARTICLE18: Der rumänische Außenminister in Warschau.
+Found

@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Feierlicher Stapellauf des ersten neuen KdF.-Dampfers.
+Found
+MODSMD_ARTICLE02: Der Führer in Hamburg.
+Found
+MODSMD_ARTICLE03: Der Führer auf der Bauwerft.
+Found
+MODSMD_ARTICLE04: Fünfzigtausend beim Stapellauf.
+Found
+MODSMD_ARTICLE06: Der Reichssportführer an Dr. Ley zum Stapellauf.
+Found

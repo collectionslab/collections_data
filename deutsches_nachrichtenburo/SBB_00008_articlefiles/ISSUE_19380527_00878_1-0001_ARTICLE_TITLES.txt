@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Geburtstagswünsche des Führers für Dr. Lammers.
+Found
+MODSMD_ARTICLE02: Seldte im Ehrlnansschust des Chirnrgenkongresses.
+Found
+MODSMD_ARTICLE03: Generaldirektor Völler vor dem Führerkorps der HA.
+Found
+MODSMD_ARTICLE04: Eröffnung des 15. Deutschen Weltwirtschaftstages.
+Found
+MODSMD_ARTICLE05: Japanische Sportstudenten besuchen Hamburg»
+Found
+MODSMD_ARTICLE06: Gauleiter Hofer am Grabe des ersten Blutzeugen von Tirol.
+Found
+MODSMD_ARTICLE07: Neue Grenzverletzung durch tschechisches Flugzeug.
+Found
+MODSMD_ARTICLE08: Weitere deutsche Proteste in Prag.
+Found
+MODSMD_ARTICLE09: „Schimpfliche Unterdrückung der Sudetendeutschen."
+Found
+MODSMD_ARTICLE10: Tschechische Wahlpropaganda.
+Found
+MODSMD_ARTICLE11: Vorstöße der Memelländer gegen litauische Uebergriffe.
+Found
+MODSMD_ARTICLE12: Sowjetrußlands neue Quertreibereien erfolglos.
+Found
+MODSMD_ARTICLE13: Der Sowjetbotschafter bei Bonnet.
+Found
+MODSMD_ARTICLE14: Selbstmord dem Schuß ins Genick vorgezogen»
+Found
+MODSMD_ARTICLE15: Rückkehr des jugoslawischen Kriegsministers aus der Türkei.
+Found
+MODSMD_ARTICLE16: Aufteilung Syriens?
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Telegrammwechfel Dr. Goebbels—Hadamovsky.
+Not Found
+MODSMD_ARTICLE02: Keine Antwort der Roten in Valencia.
+Found
+MODSMD_ARTICLE03: Uebereinstimmung der deutschen und italienischen Antwort.
+Found
+MODSMD_ARTICLE04: Die Schweizer Behörden gegen bolschewistische Werber.
+Found
+MODSMD_ARTICLE05: Spanisches Diebesgut in Frankreich verschleudert.
+Found
+MODSMD_ARTICLE06: Neue englische Transporte für Spanien.
+Found
+MODSMD_ARTICLE07: Vom roten Wahn geheilt.
+Found
+MODSMD_ARTICLE08: Das neue österreichische Jugendgesetz verkündet.
+Found
+MODSMD_ARTICLE09: Fünf weitere amerikanische Autowerke stillgelegt.
+Found
+MODSMD_ARTICLE10: Vollstreckung eines Todesurteils.
+Found
+MODSMD_ARTICLE11: Die Grippe in England. 325 Tote in einer Woche.
+Found
+MODSMD_ARTICLE12: Eine Engländerin in Peiping ermordet.
+Found

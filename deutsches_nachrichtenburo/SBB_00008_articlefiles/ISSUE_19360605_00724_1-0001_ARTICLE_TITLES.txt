@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Höring an den Bater des Bordmechanikers Kraus.
+Found
+MODSMD_ARTICLE02: Kranzniederlegung im Ehrenmal und am Grabe Wessels.
+Found
+MODSMD_ARTICLE03: Der Reichssportsührer in Warschau.
+Found
+MODSMD_ARTICLE04: Redeverbot für Pfarrer Schmidt in Wien.
+Found
+MODSMD_ARTICLE05: Präsident Benesch auf der Reise nach Bukarest.
+Found
+MODSMD_ARTICLE06: Polens Ministerpräsident zum Ermächtigungsgesetz.
+Found
+MODSMD_ARTICLE07: Das neue französische Kabinett.
+Found
+MODSMD_ARTICLE08: Vizepräsidentenwahl in der französischen Kammer.
+Found
+MODSMD_ARTICLE09: Französische Ministerbesprechung über die Streiklage.
+Found
+MODSMD_ARTICLE10: Keine Zeitungen in Paris. Weitere Streikbeschlüsse.
+Found
+MODSMD_ARTICLE11: Die Volksfrontblätter Zum Kabinett Leon Blum.
+Found
+MODSMD_ARTICLE12: Begegnung Mussolini-Schuschnigg im Beisein Suvichs?
+Found
+MODSMD_ARTICLE13: Eine Botschaft Leon Blums an Großbritannien.
+Found
+MODSMD_ARTICLE14: Londoner Blätter zur Lage in Paris.
+Found
+MODSMD_ARTICLE15: Um die Ergänzung des englischen Kabinetts. .
+Found
+MODSMD_ARTICLE16: Nationalistische Bestrebungen in Irland.
+Found
+MODSMD_ARTICLE17: Pressevertreter verlassen Addis Abeba.
+Found
+MODSMD_ARTICLE18: Auszug der Nechtsopposition aus dem spanischen Parlament.
+Found
+MODSMD_ARTICLE19: Elf Millionen Arbeitslose in den Vereinigten Staaten.
+Found

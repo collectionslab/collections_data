@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Gauleiter Forster besucht die Minensuchboote.
+Found
+MODSMD_ARTICLE02: Deutsche Mineusuchflottille besucht Schweden.
+Found
+MODSMD_ARTICLE03: Das Ergebnis der Unterausschußsitzung in London.
+Found
+MODSMD_ARTICLE04: Em Bericht der englischen „Armeeliga".
+Found
+MODSMD_ARTICLE05: „Völkerbundstrabanten sind Feinde des Friedens."
+Found
+MODSMD_ARTICLE06: Englischer Bomber an Finnland verlauft.
+Found
+MODSMD_ARTICLE07: Die Fluszsperre bei Ronen aufgelöst.
+Found
+MODSMD_ARTICLE08: Der baskische Bolschewistenoberhäuptling in Paris.
+Found
+MODSMD_ARTICLE09: Von einem bolschewistischen Tank überrannt.
+Found
+MODSMD_ARTICLE10: Der nationale Heeresbericht vom Montag.
+Found
+MODSMD_ARTICLE11: Die Wirtschaftsbelebung im nationalen Spanion.
+Found
+MODSMD_ARTICLE12: Wieder Kommunistenverhaftungen in Polen.
+Found
+MODSMD_ARTICLE13: Neue Verhaftungen wegen des Anschlages auf Koc.
+Found
+MODSMD_ARTICLE14: Die amerikanische Regierung bestellt Bombenflugzeuge.
+Found
+MODSMD_ARTICLE15: Wieder blutige Streikunruhen in Cleveland.
+Found
+MODSMD_ARTICLE16: Meuterei auf einem amerikanischen Frachtdampfer.
+Found
+MODSMD_ARTICLE17: Deutscher Doppelsieg im Internationalen Alpenflug.
+Found

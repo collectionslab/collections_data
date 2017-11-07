@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Aegyptische Spende für das Winterhilfswerk.
+Found
+MODSMD_ARTICLE02: Auftakt zur Dreier-Konferenz in Budapest.
+Found
+MODSMD_ARTICLE03: Neubesetzung von 5Ü Senatorensitzen in Jugoslawien.
+Found
+MODSMD_ARTICLE04: Zufriedenstellendes Befinden der dänischen Königin.
+Found
+MODSMD_ARTICLE05: Das englische Flottenbauprogramm für 1938.
+Found
+MODSMD_ARTICLE06: Auch der Wilnaer Journalistenveroand judrnfrei.
+Found
+MODSMD_ARTICLE07: Wieder 7 Sowjetfunktionäre hingerichtet.
+Found
+MODSMD_ARTICLE08: „Demokratische Offensive" mit Handgreiflichkeiten.
+Found
+MODSMD_ARTICLE09: Stellvertretender GPU-Kommissar Schukowski.
+Found
+MODSMD_ARTICLE10: Die Verfolgung der russisch-orthodoxen Kirche.
+Found
+MODSMD_ARTICLE11: Moskau „begründet" die Bischofsverfolgung.
+Found
+MODSMD_ARTICLE12: Die sowjetrussische Hilfe für Roispanien.
+Found
+MODSMD_ARTICLE13: Französischer Dampfer von Nationalspaniern aufgebracht.
+Found
+MODSMD_ARTICLE14: Die Folgen kommunistischer Streikhetze.
+Found
+MODSMD_ARTICLE15: Gerüchte um einen dänischen Abgeordneten.
+Found
+MODSMD_ARTICLE16: Moskau plant neue Rüstungsaufträge in USA.
+Found
+MODSMD_ARTICLE17: Die Japaner in Tsingtau.
+Found

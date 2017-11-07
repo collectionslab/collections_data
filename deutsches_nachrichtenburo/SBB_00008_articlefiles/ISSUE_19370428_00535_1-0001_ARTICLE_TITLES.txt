@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Bürckel und Rosenberg vor den Kreisleitern.
+Found
+MODSMD_ARTICLE02: Geheimrat Dr. Oetker beigesetzt.
+Found
+MODSMD_ARTICLE03: Oberbürgermeisterwechsel in Essen und Duisburg.
+Found
+MODSMD_ARTICLE04: Die Sudetendeutsche Partei über ihre Gesetzesantrüge.
+Found
+MODSMD_ARTICLE05: Eden berichtet über seine Brüsseler Besprechungen.
+Found
+MODSMD_ARTICLE06: Sir Eric Phipps bei Präsident Lebrun.
+Found
+MODSMD_ARTICLE07: Italienische Auffassung Zur Westpaktsrage.
+Found
+MODSMD_ARTICLE08: Francop Protest wegen der Einmischung britischer Schiffe.
+Found
+MODSMD_ARTICLE09: Schwedischer Protest an Spaniens Nationalregierung.
+Found
+MODSMD_ARTICLE10: Gegen die bolschewistische Lügenhetze.
+Found
+MODSMD_ARTICLE11: Neuernennungjen im Rat der Volkskommissare.
+Found
+MODSMD_ARTICLE12: Gefecht an der indischen Nordwestgrenze.
+Found
+MODSMD_ARTICLE13: Wieder zwei Franziskaner-Brüder vor dem Richter.
+Found

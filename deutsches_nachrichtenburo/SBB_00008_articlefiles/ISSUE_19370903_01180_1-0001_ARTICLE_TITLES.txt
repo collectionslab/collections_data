@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Tumulte in der Nationalbank von Belgien.
+Found
+MODSMD_ARTICLE02: Londons Presse zum Ergebnis der Ministersbesprechung.
+Found
+MODSMD_ARTICLE03: „Schluß mit der Seeräuberei im Mittelmeer!"
+Found
+MODSMD_ARTICLE04: Die kommunistische Zersetzungsarbeit in Englands Armee.
+Found
+MODSMD_ARTICLE05: Der tschechoslowakische Gesandte hat Lissabon verlassen.
+Found
+MODSMD_ARTICLE06: 1700 französische Automobilarbeiter im Streik.
+Found
+MODSMD_ARTICLE07: Wiederholter Mißbrauch des Namens Griechenland.
+Found
+MODSMD_ARTICLE08: Säuberungsaktion im befreiten Nordfpanien.
+Found
+MODSMD_ARTICLE09: Der Außenminister von Honduras zurückgetreten.
+Found
+MODSMD_ARTICLE10: Wieder Artillerietätigkeit bei Schanghai.
+Found
+MODSMD_ARTICLE11: Die japanische Bevölkerung Hongkongs gefährdet.
+Found
+MODSMD_ARTICLE12: 79 sowjetrussische Flugzeuge in Nordchina eingetroffen.
+Found
+MODSMD_ARTICLE13: Blutige Unruhen in Französisch-Marokko: 15 Tote.
+Found

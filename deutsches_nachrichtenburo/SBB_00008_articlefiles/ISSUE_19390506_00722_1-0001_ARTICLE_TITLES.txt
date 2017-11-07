@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die deutschen Buchhändler grüßen den Führer.
+Found
+MODSMD_ARTICLE02: Tie deutsch-rumänischen Wirtschaftsbeziehungen.
+Found
+MODSMD_ARTICLE03: Werkscharführer werden Politische Leiter.
+Found
+MODSMD_ARTICLE04: Forstliche Fakultät der Universität Göttingen.
+Found
+MODSMD_ARTICLE05: Der Hansetag 1939 in Hamburg eröffnet.
+Found
+MODSMD_ARTICLE06: Presselügen über DanZig.
+Found
+MODSMD_ARTICLE07: Die berufsmäßige Verlogenheit der demokratischen Presse.
+Found
+MODSMD_ARTICLE08: Frankreich „kontrolliert" die ausländische Presse.
+Found
+MODSMD_ARTICLE09: „Veränderungen im sowjetrussischen Standpunkt."
+Found
+MODSMD_ARTICLE10: Nichtangriffspaktangebot Wärmstens begrüßt.
+Found
+MODSMD_ARTICLE11: Verrat an Washingtons Vermächtnis.
+Found
+MODSMD_ARTICLE12: Gouverneur von Connecticut fordert Flakgeschütze an.
+Found
+MODSMD_ARTICLE13: Roosevelt und der Braunkohlenkonflikt.
+Found

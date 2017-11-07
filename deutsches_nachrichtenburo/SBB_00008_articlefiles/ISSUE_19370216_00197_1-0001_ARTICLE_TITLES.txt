@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Prof. Cuza zur letzten Rede von Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Unterhausanfragen wegen der deutschen Kolonialforderung.
+Found
+MODSMD_ARTICLE03: Die kommunistische Wühlarbeit in England.
+Found
+MODSMD_ARTICLE04: Spanien-Fragen vor dem Unterhaus.
+Found
+MODSMD_ARTICLE05: König Georg zieht in den Buckiugham-Palast.
+Found
+MODSMD_ARTICLE06: Die Fortschritte der spanischen Nationial-Truppen.
+Found
+MODSMD_ARTICLE07: Asturien in Händen der Anarchisten.
+Found
+MODSMD_ARTICLE08: Gegen die krankhafte jüdische Ueberfremdung Polens.
+Found
+MODSMD_ARTICLE09: Gewehrfeuer im Zentrum Madrids.
+Found
+MODSMD_ARTICLE10: Cerruti bei Blum.
+Found
+MODSMD_ARTICLE11: Streik bedroht Schiffahrt in Frankreichs Nordkanal.
+Found
+MODSMD_ARTICLE12: Der Rat der Balkau-Eutente zusammengetreten.
+Found
+MODSMD_ARTICLE13: Freundfchaftserklärungen an Griechenland.
+Found
+MODSMD_ARTICLE14: Green von der Bergarbeitergewerkschaft ausgeschlossen.
+Found
+MODSMD_ARTICLE15: Wiederaufnahme der Arbeit bei General Motors.
+Found

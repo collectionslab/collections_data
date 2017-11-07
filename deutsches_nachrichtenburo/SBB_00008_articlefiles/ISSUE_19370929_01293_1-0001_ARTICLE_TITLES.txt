@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Paradetag.
+Found
+MODSMD_ARTICLE02: Ganz Italien am Lautsprecher.
+Found
+MODSMD_ARTICLE03: „Ein unvergeßliches Erlebnis".
+Found
+MODSMD_ARTICLE04: Das Ausland zum Staatsbesuch des Duee.
+Found
+MODSMD_ARTICLE05: Der Oesterreich-Besuch reichsdeutscher Industrieller.
+Found
+MODSMD_ARTICLE06: Moskaus Bemühungen für ein Sowjet-Lettland.
+Found
+MODSMD_ARTICLE07: Genfer Reden zur spanischen Frage.
+Found
+MODSMD_ARTICLE08: Besprechungen bei Chautemps.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: 2. Reichsstraßensammlung ergab 4 020 808 Mark.
+Found
+MODSMD_ARTICLE02: SA. Md Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE03: Deutsch-tschechoslowakisches Abkommen.
+Found
+MODSMD_ARTICLE04: Delbos von Krag abgereist.
+Found
+MODSMD_ARTICLE05: Für eine „Volksfront" in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE06: Deutsche Gäste in Italien.
+Found
+MODSMD_ARTICLE07: Die Wirtschaftsdepression vor dem Pariser Senat.
+Found
+MODSMD_ARTICLE09: Sowjet an Bord eines französischen Handelsschiffes.
+Found
+MODSMD_ARTICLE10: Das Franenelend in der Sowjetunion.
+Found
+MODSMD_ARTICLE11: Londoner Stimmen zu den Vorgängen in China.
+Found
+MODSMD_ARTICLE12: Der neue amerikanische Marinehanshalt.
+Found

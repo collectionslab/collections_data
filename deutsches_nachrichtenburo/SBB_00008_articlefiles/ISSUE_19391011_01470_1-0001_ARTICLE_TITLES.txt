@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Zu Regierungsvizepräsidenten ernannt.
+Found
+MODSMD_ARTICLE02: Die Vertreter des Roten Kreuzes in Deutschland.
+Found
+MODSMD_ARTICLE03: Erich Jaensch tödlich verunglückt.
+Found
+MODSMD_ARTICLE04: General Balle empfing japanische Flugzeugbesahung.
+Found
+MODSMD_ARTICLE05: Italien schaltet den jüdischen Einfluß aus.
+Found
+MODSMD_ARTICLE06: „Die Aktion Italiens hat ihre Früchte getragen."
+Found
+MODSMD_ARTICLE07: Fortsetzung der litauisch-sowjetrussischen Verhandlungen.
+Found
+MODSMD_ARTICLE08: Lettische Wirtschaftsdelegation fährt nach Moskau.
+Found
+MODSMD_ARTICLE09: Der russisch-lettische Beistandspakt ratifiziert.
+Found
+MODSMD_ARTICLE10: Daladier sprach über den Rundfunk.
+Found
+MODSMD_ARTICLE11: Das Londoner Elendsviertel breitet sich ans.
+Found
+MODSMD_ARTICLE12: Hollands Fischer können nicht auf Fang fahren.
+Found
+MODSMD_ARTICLE13: Die Absage Indiens wird in eine Zusage verfälscht.
+Found
+MODSMD_ARTICLE14: Die Schrumpfung des holländischen Schiffsverkehrs.
+Found
+MODSMD_ARTICLE15: Holland unterstreicht Deutschlands Entschlossenheit.
+Found
+MODSMD_ARTICLE16: Alle Afrikander für Abschüttelung des britischen Jochs.
+Found
+MODSMD_ARTICLE17: Englands Aushungerungspolitik!
+Found
+MODSMD_ARTICLE18: Dänemark hebt den Jahrgang 1940 ans.
+Found
+MODSMD_ARTICLE19: Der Wunsch nach Friedensaktion der Oslo-Staaten.
+Found

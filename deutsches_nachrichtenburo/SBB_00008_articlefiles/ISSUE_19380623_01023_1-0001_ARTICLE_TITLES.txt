@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Inbetriebnahme der ersten 100 Reichslautsprechersäulen.
+Found
+MODSMD_ARTICLE02: Kranzniederlegung am Ehrenmal.
+Found
+MODSMD_ARTICLE03: Die 553-Jahrfeier der Universität Köln.
+Found
+MODSMD_ARTICLE04: Besprechungen bei Hodscha.
+Found
+MODSMD_ARTICLE05: Max Schmeliug noch unter ärztlicher Beobachtung.
+Found

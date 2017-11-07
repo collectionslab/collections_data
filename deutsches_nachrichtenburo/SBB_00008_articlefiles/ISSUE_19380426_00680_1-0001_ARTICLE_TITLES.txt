@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der britische Botschafter in Hamburg.
+Found
+MODSMD_ARTICLE02: Die Leiche des Kapitäns Lübbe in Bremen.
+Found
+MODSMD_ARTICLE03: Die internationale Hotel-Tagung in Baden-Baden.
+Found
+MODSMD_ARTICLE04: Das Land Oesterreich begrüßt Reichskommissar Bürckel.
+Found
+MODSMD_ARTICLE05: Hilfe für die österreichische Junglehrerschaft.
+Found
+MODSMD_ARTICLE06: Ausbau der Wiener Gas- und Elektrizitätswerke.
+Found
+MODSMD_ARTICLE07: Die KdF.-Flotte in Lissabon.
+Found
+MODSMD_ARTICLE08: Zur erzwungenen Landung des polnischen Ballons.
+Found
+MODSMD_ARTICLE09: Die Tagung der polnischen Frontkämpferverbände.
+Found
+MODSMD_ARTICLE10: Warschau: Prag hat die Verantwortung.
+Found
+MODSMD_ARTICLE11: Die Lage der Polen in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE12: Die Karpathorussen verlangen Autonomie.
+Found
+MODSMD_ARTICLE13: Großer Eindruck der Henlein-Rede in Schweden.
+Found
+MODSMD_ARTICLE14: Krofta appelliert jetzt an „aktive Mitarbeit" Italiens!
+Found
+MODSMD_ARTICLE15: Die Besprechungen Rom—Paris auf dem „toten Punkt".
+Not Found
+MODSMD_ARTICLE16: Blonde! zur Berichterstattung nach Paris gereist.
+Found
+MODSMD_ARTICLE17: Jugoslawien will Francs auch 6e sure anerkennen.
+Found

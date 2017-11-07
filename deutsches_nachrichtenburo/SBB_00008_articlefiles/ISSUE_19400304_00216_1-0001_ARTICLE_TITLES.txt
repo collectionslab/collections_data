@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der Führer empfing Sven Hedin.
+Found
+MODSMD_ARTICLE02: Ein mandschurischer Industrieller bei Rivbentrop.
+Found
+MODSMD_ARTICLE03: Großadmiral Raeder über Deutschlands Seekriegführung.
+Found
+MODSMD_ARTICLE04: Der Wortlaut der italienischen Protestnote an England.
+Found
+MODSMD_ARTICLE05: Erkundungstätigkeit der deutschen Luftwaffe.
+Found
+MODSMD_ARTICLE06: Bescheidene Rundfunkrede Simons.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Abschluß der Tagung „Junger Norden" in Stralsund.
+Found
+MODSMD_ARTICLE02: „Deutscher Gardetag" in Düsseldorf.
+Found
+MODSMD_ARTICLE03: Einweihung des Dr. Ley-Krankenhauses in Hanau.
+Found
+MODSMD_ARTICLE05: England wünscht keine Korrektur des Palästina-Planes.
+Found
+MODSMD_ARTICLE06: Telegrammwechsel zwischen Schacht und Chapsal.
+Found
+MODSMD_ARTICLE07: Van Zeeland droht mit Kabinettsrücktritt.
+Found
+MODSMD_ARTICLE08: Die „Schlacht der Goldenen Sporen".
+Found
+MODSMD_ARTICLE09: Zum Mitglied der Königlich Italienischen Akademie ernannt.
+Found
+MODSMD_ARTICLE10: Gauleiter Bohle in Cattolica.
+Found
+MODSMD_ARTICLE11: Ehrung Calvo Sotelos durch Stabschef General Franca.
+Found
+MODSMD_ARTICLE12: Eine Mitteilung der Berliner Japanischen Botschaft.
+Found
+MODSMD_ARTICLE13: Japan sendet Truppenverstärkungen nach Nordchina»
+Found

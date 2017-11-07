@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Adolf Hitler im Schlotz zn Weimar-
+Found
+MODSMD_ARTICLE02: Der Stellvertreter des Führers in Reichenberg.
+Found
+MODSMD_ARTICLE03: Die Feiern des 8. und 9. November im Rundfunk.
+Found
+MODSMD_ARTICLE04: Neue Regierungsvizepräsidenten.
+Found
+MODSMD_ARTICLE05: Die SS.-DienstKUszeichnung.
+Found
+MODSMD_ARTICLE06: Siebenbürgens Forscher erhält den Prinz^Eugen-Preis.
+Found
+MODSMD_ARTICLE07: Zwei Greuelfabrikanten in Wien ertappt.
+Found
+MODSMD_ARTICLE08: Deutsch-Polnische Vereinbarung über Eisenbahnverkehr.
+Found
+MODSMD_ARTICLE09: Telegrammwechfel zwischen Horthy, Jmredy und Mussolini.
+Found
+MODSMD_ARTICLE10: Aufruf Horthys an die oberungarische Bevölkerung.
+Found
+MODSMD_ARTICLE11: Osusky in Prag.
+Found
+MODSMD_ARTICLE12: Erneute Schädigung der Prager deutschen Kliniken»
+Found
+MODSMD_ARTICLE13: Internationale Rundsunkausstellung in Belgrad eröffnet»
+Found
+MODSMD_ARTICLE14: Tie „Neuordnung Ostasiens".
+Found
+MODSMD_ARTICLE15: Geständnis der New Jorker Mördervande.
+Found

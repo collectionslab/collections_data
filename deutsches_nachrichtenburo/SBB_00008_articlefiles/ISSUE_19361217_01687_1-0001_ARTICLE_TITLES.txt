@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der „Schlesien"-B>esuch in Rio de Janeiro.
+Found
+MODSMD_ARTICLE02: Tie Aufrüstung Englands.
+Found
+MODSMD_ARTICLE03: London bereitet Vermittlungsaktiou vor.
+Found
+MODSMD_ARTICLE04: Eden über Aethiopien-Fragen im Unterhaus.
+Found
+MODSMD_ARTICLE05: Tagung der englischen Wohltätigkeitsorganisationen.
+Found
+MODSMD_ARTICLE06: Daladier über die französische Politik.
+Found
+MODSMD_ARTICLE07: Der französische Marineminister über Rüstungssortschritte.
+Found
+MODSMD_ARTICLE08: Wilde Kommunisten-Kundgebung in Clermont-Ferrand.
+Found
+MODSMD_ARTICLE09: Verschärfung des Pariser Gemüsehändlerstreiks.
+Found
+MODSMD_ARTICLE10: Die Durchdringung Aethiopiens.
+Found
+MODSMD_ARTICLE11: Abschluß der Herbsttagung der italienischen Kammer.
+Found
+MODSMD_ARTICLE12: Höhen Lei Madrid von den Nationalen erobert. l
+Found
+MODSMD_ARTICLE13: Bisher 126 rote Flugzeuge in Spanien abgeschossen.
+Found
+MODSMD_ARTICLE14: Sieben Sudetendeutsche Abgeordneten verlieren Immunität.
+Found
+MODSMD_ARTICLE15: Streik im Hafen von Oran.
+Found
+MODSMD_ARTICLE16: Schwere Gefechte in Schensi.
+Found
+MODSMD_ARTICLE17: Riesige Unterschlagungen eines japanischen Bcamteu.
+Found
+MODSMD_ARTICLE18: Beschlüsse der panamerikanischen Friedenskonferenz.
+Found

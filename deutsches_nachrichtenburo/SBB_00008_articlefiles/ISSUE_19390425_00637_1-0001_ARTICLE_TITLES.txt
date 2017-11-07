@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Wieder eine schmutzige Greuelmeldung.
+Found
+MODSMD_ARTICLE02: Vorläufig keine Frankreich-Reisen deutscher Sportler.
+Found
+MODSMD_ARTICLE03: Ausbau des deutschen Rundfunknachrichtendienstes.
+Found
+MODSMD_ARTICLE04: 6V. Geburtstag von Alfred Roth.
+Found
+MODSMD_ARTICLE05: "Ter jugoslawische Außenminister heute in Berlin.
+Found
+MODSMD_ARTICLE06: Wajda-Wojwod: „Das ist wahre Demokratie".
+Found
+MODSMD_ARTICLE07: Der Duce in Rocca delle Caminate.
+Found
+MODSMD_ARTICLE08: Der Gouverneur von Rom besucht die Reichshauptstadt.
+Found
+MODSMD_ARTICLE09: Französisches Liebeswerben um die Türkei.
+Found
+MODSMD_ARTICLE10: Ein deutsch-französischer Vertrag unterzeichnet.
+Found
+MODSMD_ARTICLE11: Englands Wehrpflicht auf schwachen Füßen.
+Found
+MODSMD_ARTICLE12: Die Ukrainer Polens verlangen Autonomie.
+Found
+MODSMD_ARTICLE13: Der Führer spricht am Freitag um 12 Uhr.
+Found
+MODSMD_ARTICLE14: Politische Besprechungen de Monzies in Warschau.
+Found
+MODSMD_ARTICLE15: Eine Frage an General Smuts.
+Found
+MODSMD_ARTICLE16: Amerikanische Behörden als Herde sozialer Unruhen.
+Found

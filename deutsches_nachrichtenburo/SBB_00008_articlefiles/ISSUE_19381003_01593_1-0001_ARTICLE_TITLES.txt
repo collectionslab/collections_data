@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Major Schmundt Zum Oberstleutnant befördert.
+Found
+MODSMD_ARTICLE02: Das Reichsfürsorge- und Versorgnngsgericht der Wehrmacht.
+Found
+MODSMD_ARTICLE03: Mandschurische Mission im Hamburger Rathaus.
+Found
+MODSMD_ARTICLE04: Feierliche Beisetzung der Opfer tschechischer Mordgier.
+Found
+MODSMD_ARTICLE05: Mit den Sudetendeutscheu über die Grenze.
+Found
+MODSMD_ARTICLE06: Quartierabend in Kuschwarda.
+Found
+MODSMD_ARTICLE07: Bezirksweise Heimkehr der deutschen Flüchtlinge.
+Found
+MODSMD_ARTICLE08: Unerhörte Zustände in tschechischen Kerkern.
+Found
+MODSMD_ARTICLE09: Eiseubahnbriicke in Palästina in die Lust geflogen.
+Found

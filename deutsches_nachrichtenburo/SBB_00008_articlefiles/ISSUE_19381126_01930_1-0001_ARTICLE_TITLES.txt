@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Darre vor den ausländischen Gästen des Reichsbauerntages.
+Found
+MODSMD_ARTICLE02: Minister Pirow auf dem Truppenübungsplatz Döberitz.
+Found
+MODSMD_ARTICLE03: Kulturelle mandschurische Schenkung an Deutschland.
+Found
+MODSMD_ARTICLE05: Mittwoch Generalstreik in Frankreich.
+Found
+MODSMD_ARTICLE06: Streikbewegung auch in England.
+Found
+MODSMD_ARTICLE07: Das Freiheiisdrama der Araber.
+Found
+MODSMD_ARTICLE08: Italien Zum Jahrestag des Antikomintern-Abkommens.
+Found
+MODSMD_ARTICLE09: Der Papst erkrankt.
+Found
+MODSMD_ARTICLE10: Woloschin: Die Karpatho-Ukraine ist lebensfähig.
+Found
+MODSMD_ARTICLE11: Juden provozieren Tumult in Johannesburg.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: „Lohengrin" in Bayreuth.
+Found
+MODSMD_ARTICLE02: Empfang des Internationalen Flugmeetings durch Motta.
+Found
+MODSMD_ARTICLE03: Baldige Beratung des neuen englischen Fragebogens.
+Found
+MODSMD_ARTICLE04: Wochenendreden englischer Minister.
+Found
+MODSMD_ARTICLE05: Duff Cooper für Verständigung Englands mit Italien.
+Found
+MODSMD_ARTICLE06: Rotspanische Müchtlingskinder greifen die Polizei an.
+Found
+MODSMD_ARTICLE07: Der nationale Heeresbericht vom Sonnabend.
+Found
+MODSMD_ARTICLE08: Salvador tritt aus dem Völkerbund aus.
+Found
+MODSMD_ARTICLE09: Der König der Belgier von Paris abgereist.
+Found
+MODSMD_ARTICLE10: König Faruk kehrte nach Aegypten zurück.
+Found
+MODSMD_ARTICLE11: Mohammedanische Priester gegen die Teilung Palästinas»
+Found
+MODSMD_ARTICLE12: Japanisches Hauptquartier gegen Uebertreibungen.
+Found
+MODSMD_ARTICLE13: Noch keine Zurücknahme der japanischen Truppen.
+Found
+MODSMD_ARTICLE14: Hull begrüßt die Vorschläge des Königs der Belgier.
+Found

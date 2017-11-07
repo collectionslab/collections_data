@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Freut Euch des Lebens! Der Nationale Feiertag des Deutschen Volkes 1936.
+Found
+MODSMD_ARTICLE02: Der Staatsakt. Triumphfahrt des Führers.
+Found
+MODSMD_ARTICLE03: Der Lustgarten im Festschmuck.
+Found
+MODSMD_ARTICLE04: Der Einmarsch der Ehrenabordnungen.
+Found
+MODSMD_ARTICLE05: Der Führer erscheint im Lustgarten.
+Found
+MODSMD_ARTICLE06: Der Abmarsch der Massen.
+Found
+MODSMD_ARTICLE07: Arbeiter und Jungarbeiter beim Führer.
+Found

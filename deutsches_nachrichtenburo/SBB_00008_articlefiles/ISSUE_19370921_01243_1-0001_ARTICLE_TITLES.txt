@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Das Ausland zur Berliner Luftschutzübung.
+Found
+MODSMD_ARTICLE02: Eine deutsch-französische Kundgebung in Marseille.
+Found
+MODSMD_ARTICLE03: „Der Franken nur bei Produktionssteigerung gesichert."
+Found
+MODSMD_ARTICLE04: Chautemps verzichtet auf die Reise nach Genf.
+Found
+MODSMD_ARTICLE05: Lebhafte politische Tätigkeit in London.
+Found
+MODSMD_ARTICLE06: Londoner Stimmen zur Genfer Eden-Rede.
+Found
+MODSMD_ARTICLE07: Note der nationalspanischen Regierung an den Völkerbund.
+Found
+MODSMD_ARTICLE08: Ununterbrochener Vormarsch an der Asturienfront.
+Found
+MODSMD_ARTICLE09: Die Fahndung nach den Wiener Brandstiftern»
+Found
+MODSMD_ARTICLE10: Ständiger Rat der skandinawischen Bauernorganisationen.
+Found
+MODSMD_ARTICLE11: Verhaftete Syrer größtenteils wieder freigelassen.
+Found
+MODSMD_ARTICLE12: Japaner bedrohen die Provinz Sniyuan.
+Found
+MODSMD_ARTICLE13: Der 12. Geburtstag des Königs von Siam.
+Found
+MODSMD_ARTICLE14: Eingeborenen-Unruhen in Tanganjika.
+Found
+MODSMD_ARTICLE15: Hull über die amerikanische Außen- und Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE16: Neue deutsche Höhen-Weltbestleistung im Segelslug.
+Found

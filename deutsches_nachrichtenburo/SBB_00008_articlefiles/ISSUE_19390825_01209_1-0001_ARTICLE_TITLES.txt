@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Durcheinander in den polnischen Grenzbiezirken.
+Found
+MODSMD_ARTICLE02: Polens militärische Vorbereitungen völlig offensiv!
+Found
+MODSMD_ARTICLE03: Polen im Kriegsvorbereitunigstaumel.
+Found
+MODSMD_ARTICLE04: Rumänische Absage an Polem
+Found
+MODSMD_ARTICLE05: Polens Mobilmachung geht weiter.
+Found
+MODSMD_ARTICLE06: Englische Herzlosigkeit und Unverschämtheit.
+Found
+MODSMD_ARTICLE07: Gesetz über die Notstandsvollmachten in Kraft.
+Found
+MODSMD_ARTICLE08: Abreise der französischen Abordnung wahrscheinlich.
+Found
+MODSMD_ARTICLE09: Besprechungen bei Bonnet.
+Found
+MODSMD_ARTICLE10: Der Oberste Sowjet einberufen.
+Found
+MODSMD_ARTICLE11: „Wendepunkt in der Geschichte Europas."
+Found
+MODSMD_ARTICLE12: Lösung der kroatischen Frage.
+Found
+MODSMD_ARTICLE13: Das Hauptquartier General Francos aufgelöst.
+Found
+MODSMD_ARTICLE14: Roosevelt in Washington.
+Found
+MODSMD_ARTICLE15: Englands Schuld an der Kriegshetze.
+Found
+MODSMD_ARTICLE16: Der Tod des Staatspräsidenten Busch.
+Found

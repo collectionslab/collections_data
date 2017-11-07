@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Vormittags-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Ter Besuch des Reichsministers Dr. Goebbels in Venedig.
+Found
+MODSMD_ARTICLE04: Tie norditalienische Presse zum deutschen Filmabend.
+Found
+MODSMD_ARTICLE05: Nosemeyer siegt im Bergpreis von Deutschland.
+Found
+MODSMD_ARTICLE06: Lloyd George besucht Deutschland.
+Found
+MODSMD_ARTICLE07: Abreise des Königs von England von Athen.
+Found
+MODSMD_ARTICLE08: Die Kampflage an der Jrun-Front.
+Found
+MODSMD_ARTICLE09: Der Kamps um den Alcazar.
+Found
+MODSMD_ARTICLE10: Große Verluste der Marxisten bei Oropesa.
+Found
+MODSMD_ARTICLE11: Portugiesische Kampfberichte aus Spanien.
+Found
+MODSMD_ARTICLE12: Erfolg der Nationalisten vor San Sebastian.
+Found
+MODSMD_ARTICLE13: Brasilianischer Protest gegen die spanischen Greueltaten.
+Found
+MODSMD_ARTICLE14: Sowjetrussisches Waffenaussuhrverbot.
+Found
+MODSMD_ARTICLE15: Norwegen nimmt Nichteinmischungsvorschlag an.
+Found
+MODSMD_ARTICLE16: Nene französische Waffenlieferungen an die Roten?
+Found
+MODSMD_ARTICLE17: Schach-Olympia München 1930.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Die Goethe-Medaille für Dr. !r. c. Alfred Startmann.
+Found
+MODSMD_ARTICLE02: Bestrafung und Ausweisung eines blinden Passagiers.
+Found
+MODSMD_ARTICLE03: Sudetendeutsche Abgeordnete bei Hodscha.
+Found
+MODSMD_ARTICLE04: Eindeutiger Bericht eines Sterbenden.
+Found
+MODSMD_ARTICLE05: Gedenktafeln für Domes und Schredt.
+Found
+MODSMD_ARTICLE06: Sitzung des englischen Kabinetts./
+Found
+MODSMD_ARTICLE07: Merkwürdige Feststellungen Reynands.
+Found
+MODSMD_ARTICLE08: Der französische Botschafter bei Halifax.
+Found
+MODSMD_ARTICLE09: Besprechungen bei Außenminister Bonnet.
+Found
+MODSMD_ARTICLE10: Der Rundfunksender Athen eingeweiht.
+Found
+MODSMD_ARTICLE11: Vereinfachung des internationalen Luftpostverkehrs. Bolschewistische Bluttat in Polen.
+Found
+MODSMD_ARTICLE12: Mit den Polen wird genau so verfahren!
+Found
+MODSMD_ARTICLE13: Polen gegen jüdische Parasiten.
+Found
+MODSMD_ARTICLE14: Drei italienische Kriegsschiffe vom Stapel gelaufen.
+Found
+MODSMD_ARTICLE15: Tagung der Stndienkommission für motorlosen Flug.
+Found
+MODSMD_ARTICLE16: Auch Stalins Henkersknechte werden gesiebt.
+Found
+MODSMD_ARTICLE17: Ungarischer Protestschritt in Prag.
+Found
+MODSMD_ARTICLE19: Ali Soheily zum iranischen Außenminister ernannt.
+Found
+MODSMD_ARTICLE20: Verstärkung der britischen Truppen in Palästina»
+Found

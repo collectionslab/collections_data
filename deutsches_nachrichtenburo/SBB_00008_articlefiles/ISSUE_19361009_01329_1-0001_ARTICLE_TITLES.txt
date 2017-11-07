@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Weiter günstige Entwicklung des Arbeitseinsatzes.
+Found
+MODSMD_ARTICLE02: Grußworte an die Dichter des Krieges.
+Found
+MODSMD_ARTICLE03: Tie Schweizer Sportflieger wieder daheim.
+Found
+MODSMD_ARTICLE04: Annahme des Abwertungsgesetzes im Prager Senat.
+Found
+MODSMD_ARTICLE05: Keine Volksfront in England.
+Found
+MODSMD_ARTICLE06: Ter Nichteinmischungsausschuß zusammengetreten.
+Found
+MODSMD_ARTICLE07: Durchsichtige Erklärung der Arbeiterpartei in Edinburg.
+Found
+MODSMD_ARTICLE08: Italienische Stimmen zum Doppelspiel Moskaus.
+Found
+MODSMD_ARTICLE09: Regelung der Arbeitsbedingungen in Jtalienisch-Ostafrika.
+Found
+MODSMD_ARTICLE10: Eden in Paris.
+Found
+MODSMD_ARTICLE11: Der Ausbau des neuen Spanien.
+Found
+MODSMD_ARTICLE12: Die nationalistischen Erfolge vor Madrid.
+Found

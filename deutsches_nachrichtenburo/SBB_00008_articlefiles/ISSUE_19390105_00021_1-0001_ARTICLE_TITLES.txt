@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der polnische Außenminister vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: »tum Vertrctnngsverbot von Juden in Rechtssachen.
+Found
+MODSMD_ARTICLE03: Tie „Kr?»c des Reiches" bleibt erhalten.
+Found
+MODSMD_ARTICLE04: Abschied von 12 Vorkämpfern deutscher Luftgeltung.
+Found
+MODSMD_ARTICLE05: Chautcmps fordert Wiedereröffnung der Lichtspieltheater.
+Found
+MODSMD_ARTICLE06: Taladier nach Bizerta unterwegs.
+Found
+MODSMD_ARTICLE07: „Ein wohlvorbereitetes Provokationsmanöver".
+Found
+MODSMD_ARTICLE08: Ausschuß für beschleunigte Verwirklichung der Autarkie.
+Found
+MODSMD_ARTICLE09: Der Papst empfängt Chamberlain und Lord Hallfax.
+Found
+MODSMD_ARTICLE10: London: Kein Beifall für die Roosevelt-Rede.
+Found
+MODSMD_ARTICLE11: Nord irische Minister in London.
+Found
+MODSMD_ARTICLE12: Ausarbeitung von Judengesetzen durch Prager Minister.
+Found
+MODSMD_ARTICLE13: Die tschecho-slowakisch—englischen Finanzberatungcn.
+Not Found
+MODSMD_ARTICLE14: Geheime Landesleitung der Eisernen Garde entdeckt?
+Found
+MODSMD_ARTICLE15: Anhalten des arabischen Geschästsstreiks in Jerusalem.
+Found
+MODSMD_ARTICLE16: Die Araberführer noch diese Woche in Beirut.
+Found
+MODSMD_ARTICLE17: Auseinandersetzungen Zwischen Buren und Engländern.
+Found
+MODSMD_ARTICLE18: „Verstärkung der Einheit der Nation."
+Found

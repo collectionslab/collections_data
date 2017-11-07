@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Kranzniederlegung im Auftrag des Führers.
+Found
+MODSMD_ARTICLE02: Der Führer empfängt Teilnehmer des Weltkongresses.
+Found
+MODSMD_ARTICLE03: Deutsche Flüchtlinge aus Spanien danken dem Führer.
+Found
+MODSMD_ARTICLE04: Hilfswerk deutscher Seestreitkräfte an Spaniens Küste.
+Found
+MODSMD_ARTICLE05: Ausländer-Studienreise nach Bayern.
+Found
+MODSMD_ARTICLE06: Aegyptische Studenten im Münchener Rathaus.
+Found
+MODSMD_ARTICLE07: Ileber 400 Spanien-Deutsche in München eingetroffen.
+Found
+MODSMD_ARTICLE08: Hilfsbereitschaft für die Spanien-Deutschen.
+Found
+MODSMD_ARTICLE09: Neue Rettungsfahrt des „Albatros".
+Found
+MODSMD_ARTICLE10: Die spanische Flotte verläßt Tanger.
+Found
+MODSMD_ARTICLE11: Fragen im englischen Unterhaus.
+Found

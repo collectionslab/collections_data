@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Uebernahme der SdP. durch Rudolf Heß.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels besichtigt das Berliner Schillertheater.
+Found
+MODSMD_ARTICLE04: Der Führer im National-Theater in Weimar.
+Found
+MODSMD_ARTICLE05: Gute Aufnahme der englischen Thronrede in Italien.
+Found
+MODSMD_ARTICLE06: Rumänien unterstützt die Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE07: Moskau mißvergnügt.
+Found
+MODSMD_ARTICLE08: Palästina wehrt sich.
+Found
+MODSMD_ARTICLE09: Protest gegen die jüdische Einwanderung in Brasilien.
+Found

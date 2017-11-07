@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Goebbels dankt.
+Found
+MODSMD_ARTICLE02: Die Kriegsmarine gedenkt Albert Leo Schlageters.
+Found
+MODSMD_ARTICLE03: Der Reichsbauernführer in Mecklenburg.
+Found
+MODSMD_ARTICLE04: Eröffnung der Reichsschau „Ewiges Volk".
+Found
+MODSMD_ARTICLE05: Der italienische Justizminister in München.
+Found
+MODSMD_ARTICLE06: Empfang zu Ehren Heß' in der Deutschen Botschaft.
+Found
+MODSMD_ARTICLE07: Begeisterter Widerhall der Jubiläumskundgebungen.
+Found
+MODSMD_ARTICLE08: Graf Ciano fährt nicht nach Brüssel.
+Found
+MODSMD_ARTICLE09: Die französische Presse hofft. . .
+Found
+MODSMD_ARTICLE10: Sowjetspanisches Diebesgut in Frankreich beschlagnahmt.
+Found
+MODSMD_ARTICLE11: Spaniens Tag der toten Helden und der Jugend.
+Found
+MODSMD_ARTICLE12: Sowjetrußlands Landwirtschaftskommissar abgesägt.
+Found
+MODSMD_ARTICLE13: „Losungen" Zum Jahrestag der Bolschewistenrevolution.
+Found
+MODSMD_ARTICLE14: Aegypten bestellt 50 Tanks in England.
+Found
+MODSMD_ARTICLE15: Unwetterkatastrophe in Syrien: Ueber 550 Tote.
+Found
+MODSMD_ARTICLE16: Die Kennzahl der Großhandelspreise vom 27. Oktober.
+Found
+MODSMD_ARTICLE17: Die Reichskennzifser für die Lebenshaltungskosten.
+Found

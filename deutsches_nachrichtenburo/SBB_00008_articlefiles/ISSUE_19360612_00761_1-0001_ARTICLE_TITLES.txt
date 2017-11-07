@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die Sammlungen des 13. und 14. Juni.
+Found
+MODSMD_ARTICLE02: Neichstagung der Laientänzer.
+Found
+MODSMD_ARTICLE03: Besuch der Gräfin Ciano in Dresden.
+Found
+MODSMD_ARTICLE04: Überschwemmungskatastrophe im Straubinger Donaubecken.
+Found
+MODSMD_ARTICLE05: Rotterdam anstelle Antwerpens. Folgen des Streiks.
+Found
+MODSMD_ARTICLE06: Neue österreichische Bücherverbote.
+Found
+MODSMD_ARTICLE07: Auch Butt legt seinen Parlamentssitz nieder.
+Found
+MODSMD_ARTICLE08: Lebhafte Unterhaus-Kontroverse über Chamberlains Rede.
+Found
+MODSMD_ARTICLE09: Eine Mitteilung des französischen Innenministeriums.
+Found
+MODSMD_ARTICLE10: Ausdehnung des Streiks in Paris und in der Provinz.
+Found
+MODSMD_ARTICLE11: Ernste Beunruhigung der französischen Presse.
+Found
+MODSMD_ARTICLE12: AlarmZustandsverlängerung in Spanien.
+Found

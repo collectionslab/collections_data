@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Dr. Goebbels im Olympischen Stadion.
+Found
+MODSMD_ARTICLE02: Die Deutschlandfahrt ungarischer Eisenbahner.
+Found
+MODSMD_ARTICLE03: Reichstagung der Nordischen Gesellschaft.
+Found
+MODSMD_ARTICLE04: Der spanisch-bolschewistische Torpedoangriff.
+Found
+MODSMD_ARTICLE05: Die Sitzung der Flottenmächte.
+Found
+MODSMD_ARTICLE06: 176 Todesopfer der Explosion auf „Jaime I"?
+Found
+MODSMD_ARTICLE07: Fortschritte an der Biscaya-Front.
+Found
+MODSMD_ARTICLE08: Das tragische Schicksal der Nanga-Parbat-Expedition.
+Found

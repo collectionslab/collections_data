@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Neuer unerhörter polnischen Rechtsbrnch.
+Found
+MODSMD_ARTICLE02: Diplomatie im Dienste der Greuelpropaganda.
+Found
+MODSMD_ARTICLE03: England verrät Europa.
+Found
+MODSMD_ARTICLE05: Prag: „Das Angebot des Führers wurde abgelehnt."
+Found
+MODSMD_ARTICLE06: Schweden: „England ist für alles verantwortlich".
+Found
+MODSMD_ARTICLE07: Norwegen unter dem Eindruck der Entwicklung.
+Found
+MODSMD_ARTICLE08: Dänemark wird strikte Neutralität bewahren.
+Found
+MODSMD_ARTICLE09: Finnland bleibt neutral.
+Found
+MODSMD_ARTICLE10: Ernennungen in der britischen Armee.
+Found
+MODSMD_ARTICLE11: Brasilien unterstreicht Friedensbereitschaft des Führers.
+Found
+MODSMD_ARTICLE12: Neutralitätsbemühungen in Südamerika.
+Found

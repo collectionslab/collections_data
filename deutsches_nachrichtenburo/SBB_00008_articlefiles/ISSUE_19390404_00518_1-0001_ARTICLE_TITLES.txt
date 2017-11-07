@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: „Die Azoren und die Erschließung der Weltmeere."
+Found
+MODSMD_ARTICLE02: Das Reichsgericht höchstes Gericht Großdeutschlands.
+Found
+MODSMD_ARTICLE03: Die Notwendigkeit der Achse.
+Found
+MODSMD_ARTICLE04: Telegrammwechsel anläßlich des Sieges Francas.
+Found
+MODSMD_ARTICLE05: Hat Chamberlain die Führer-Rede gelesen?
+Found
+MODSMD_ARTICLE06: Araber verlassen das trausjordamsche Heer.
+Found
+MODSMD_ARTICLE07: Geschäftsträger Francas in Washington.
+Found

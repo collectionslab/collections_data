@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Prof. Varga zum ungarischen Jndustrieminister ernannt.
+Found
+MODSMD_ARTICLE02: Warschau bestürzt über den Mißerfolg in London.
+Found
+MODSMD_ARTICLE03: Polen ist mit Litauen unzufrieden.
+Found
+MODSMD_ARTICLE04: Der Sowjetbotschafter bei Lord Halifax.
+Found
+MODSMD_ARTICLE05: Man macht sich wieder gegenseitig Mut.
+Found
+MODSMD_ARTICLE06: Auf der Suche nach neuen Wegen.
+Found
+MODSMD_ARTICLE07: Arabischer Arzt gibt britische Orden zurück.
+Found
+MODSMD_ARTICLE08: Das Militärgericht von Haifa wieder an der Arbeit.
+Found
+MODSMD_ARTICLE09: Neuanstellung von 3666 arabischen Polizisten.
+Found
+MODSMD_ARTICLE10: Unangenehme Besuche in ausgeplünderten Dörfern.
+Found
+MODSMD_ARTICLE11: 16 666 indische Soldaten für Aegypten?
+Found
+MODSMD_ARTICLE12: Neuyorker Polizisten im Sold jüdischer Verbrecher.
+Found
+MODSMD_ARTICLE13: Scharfe Stellungnahme Hullsgegen Tokio.
+Found
+MODSMD_ARTICLE14: „Englands Hände in Europa gebunden."
+Found
+MODSMD_ARTICLE15: Schwerstes Geschütz der Opposition gegen die neuen Projekte.
+Found
+MODSMD_ARTICLE16: Eine für England peinliche Feststellung.
+Found

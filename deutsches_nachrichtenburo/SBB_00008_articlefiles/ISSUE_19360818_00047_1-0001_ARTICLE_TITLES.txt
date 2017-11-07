@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Führer an Lewald.
+Found
+MODSMD_ARTICLE02: Reichsministcr Dr. Goebbels an Exzellenz Dr. Lewald.
+Found
+MODSMD_ARTICLE03: Der Anteil der Wehrmacht an den deutschen Erfolgen.
+Found
+MODSMD_ARTICLE04: Die Leistungen der Reichsbahn.
+Found
+MODSMD_ARTICLE05: Die ungarische Olympia-Mannschaft in ihrer Heimat.
+Found
+MODSMD_ARTICLE06: Deutschland hat der Bewunderung der ganzen Welt erregt.
+Found
+MODSMD_ARTICLE07: „Tribuna":' Sportlicher Fortschritt in Deutschland.
+Found
+MODSMD_ARTICLE08: „Eine monumentale, unvergeßliche Apotheose".
+Found

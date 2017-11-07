@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Das Fest der Deutschen Jägerschaft.
+Found
+MODSMD_ARTICLE02: Dem Andenken der Helden von Deutsch-Ostafrika.
+Found
+MODSMD_ARTICLE03: Dr. Todt über die Aufgaben des Jahres 1938.
+Found
+MODSMD_ARTICLE04: „Deutschland wird seine Kolonien zurückerhalten".
+Found
+MODSMD_ARTICLE05: Der nationale Heeresbericht vom Donnerstag.
+Found
+MODSMD_ARTICLE06: Anarchistenfurcht der spanischen Bolschewistenhäuptlinge.
+Found
+MODSMD_ARTICLE07: Die Demoralisation der bolschewistischen Söldnerhaufen.
+Found
+MODSMD_ARTICLE08: Sir Samuel Hoare gegen Gerüchtemacherei.
+Found
+MODSMD_ARTICLE09: Ueber drei Milliarden RM. Rüstungskosten in England.
+Found
+MODSMD_ARTICLE10: Paris über London verärgert»
+Found
+MODSMD_ARTICLE11: Was man in Frankreich unter Nichteinmischung versteht.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Abend-Ausgabe. Deutsches Nachrichtenbüro M
+Found
+MODSMD_ARTICLE02: Eine Amnestie des Führers.
+Found
+MODSMD_ARTICLE03: Glückwunsch des Führers für Generaladmiral Raeder.
+Found
+MODSMD_ARTICLE04: Der Führer besichtigt die Ordensburg Crössinsee.
+Found
+MODSMD_ARTICLE06: Neues Haus der Reichspresseschule eingeweiht.
+Found
+MODSMD_ARTICLE07: Die Verpflegung der Massen am 1. Mai 1936.
+Found
+MODSMD_ARTICLE08: Ein Preis von Reichsminister Darre.
+Found
+MODSMD_ARTICLE09: Olympia-Straßensammlung in Chile.
+Found
+MODSMD_ARTICLE10: Frankreichs Antwortnote in Meerengenfrage übermittelt.
+Found
+MODSMD_ARTICLE11: Die Aufrechterhaltung der Ordnung am 1. Mai in Paris.
+Found
+MODSMD_ARTICLE12: M> M> Schilling unterschlagen.
+Found
+MODSMD_ARTICLE13: Einheitliche Außen- und Verteidignngspolitik Japans.
+Found
+MODSMD_ARTICLE14: China baut strategisch wichtige Verbindungsbahn.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: In der HJ.
+Found
+MODSMD_ARTICLE02: Bei der Polizei.
+Found
+MODSMD_ARTICLE03: Im Neichsarbeitsdienst.
+Found
+MODSMD_ARTICLE05: Das Auslandsdeutschtum gedenkt des 39. Januar/
+Found
+MODSMD_ARTICLE06: Dr. Frick überreicht Henlein Ehrenkreuz für Frontkämpfer.
+Found
+MODSMD_ARTICLE07: Der „Große Preis der Nationalsozialistischen Erhebung".
+Found
+MODSMD_ARTICLE08: Ehrung des scheidenden französischen Generalkonsuls.
+Found
+MODSMD_ARTICLE09: Die italienische Presse zur Chamberlain-Rede.
+Found
+MODSMD_ARTICLE10: Der Flüchtlingsstrom Zur französischen Grenze.
+Found
+MODSMD_ARTICLE11: Madrid erfährt endlich die Einnahme Barcelonas.
+Found
+MODSMD_ARTICLE12: Ein weiteres grauenvolles Verbrechen der Sowjets.
+Found
+MODSMD_ARTICLE13: Tausend kleine Gefechte in China.
+Found

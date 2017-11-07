@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Tag der deutschen Kunst.
+Found
+MODSMD_ARTICLE02: Der Reichssportführer in England.
+Found
+MODSMD_ARTICLE03: Ter Internationale Knrzwellenkongreß in Wien.
+Found
+MODSMD_ARTICLE04: Großschieber Bösel zu 18 Monaten Kerker verurteilt.
+Found
+MODSMD_ARTICLE05: Die Presse zur Lage im Nichteinmischungsausschuß.
+Found
+MODSMD_ARTICLE06: Flandin über die Regierung Chautemps.
+Found
+MODSMD_ARTICLE07: Das englische Haushaltsgesetz angenommen.
+Found
+MODSMD_ARTICLE08: Der nationale Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE09: Kaganowitsch auf „Studienreise" in USA.
+Found
+MODSMD_ARTICLE10: China an die Unterzeichner des Neunmächteabkommens.
+Found
+MODSMD_ARTICLE11: Hull über Amerikas politische Grundsätze.
+Found

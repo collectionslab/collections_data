@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Frühstück zu Ehren des Gesandten van Rappard.
+Found
+MODSMD_ARTICLE02: Staatssekretär Schmidt vor dem Staatsratsausschuß.
+Found
+MODSMD_ARTICLE03: Der Besuch Schuschniggs in Budapest.
+Found
+MODSMD_ARTICLE04: Die Wehrerziehung in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE05: Revolveranschlag auf Ehambrun.
+Found
+MODSMD_ARTICLE06: Die Regierung Blum zu den Ereignissen in Clichy.
+Found
+MODSMD_ARTICLE07: Halbtägiger Generalstreik in Paris ausgerufen.
+Found
+MODSMD_ARTICLE08: Der CGT-Verwaltungsrat billigt den Generalstreik.
+Found
+MODSMD_ARTICLE09: Moskau hetzt in ganz Frankreich zum Streik.
+Found
+MODSMD_ARTICLE10: Unmittelbare Streikgesahr in Polens Bergbau beseitigt.
+Found
+MODSMD_ARTICLE11: Italiens Beziehungen zu den Mohammedanern.
+Found
+MODSMD_ARTICLE12: Englische Beobachter an der Grenze Portugals.
+Found
+MODSMD_ARTICLE13: Das Unterhaus berät die Kontrollmaßnahmen.
+Found
+MODSMD_ARTICLE14: Vertrauensvotum der Kammer für van Zeeland.
+Found
+MODSMD_ARTICLE15: Geländegewinn an der Südsront.
+Found
+MODSMD_ARTICLE16: Außenminister Antonescu in Ankara.
+Found
+MODSMD_ARTICLE17: Schwere Streikunruhen in Chicago.
+Found
+MODSMD_ARTICLE18: USA-Staatsbürger und politische Wahlen im Auslande.
+Found
+MODSMD_ARTICLE19: Kölblin wird Europameister im Schwergewichtsboxen.
+Found

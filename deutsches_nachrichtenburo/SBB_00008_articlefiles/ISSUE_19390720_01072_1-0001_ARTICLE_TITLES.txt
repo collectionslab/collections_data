@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Beförderungen im Heeresverwaltungsdienst.
+Found
+MODSMD_ARTICLE02: Göring wünscht Schiimbach gute Fahrt.
+Found
+MODSMD_ARTICLE03: Polnischer Angriff auf Danziger Grenzbeamte.
+Found
+MODSMD_ARTICLE04: Englische Kapitalisten wollen weiter ausbeuten.
+Found
+MODSMD_ARTICLE05: „Englische Bomber könnten nach Berlin fliegen."
+Found
+MODSMD_ARTICLE06: Ein Schlag für die Kriegstreiber.
+Found
+MODSMD_ARTICLE07: Polen in den Klanen des englischen Kapitalismus.
+Found
+MODSMD_ARTICLE08: Ein Krieg wegen Danzig ein Nonsens.
+Found
+MODSMD_ARTICLE09: Empfang des deutschen Botschafters in der Türkei.
+Found
+MODSMD_ARTICLE10: Opfer des englisch-französischen Sandschak-Schachers.
+Found
+MODSMD_ARTICLE11: Englands Vertragsbruch in Palästina.
+Found
+MODSMD_ARTICLE12: Vorwurf der Englandhörigkeit gegen Aegyptens Kabinett.
+Found
+MODSMD_ARTICLE13: Der Generalstabschef der Kwantungarmee in Tokio.
+Found
+MODSMD_ARTICLE14: Was geschieht beim Scheitern der Tokioter Verhandlungen?
+Found
+MODSMD_ARTICLE15: Die amerikanische Opposition bleibt hartnäckig.
+Found

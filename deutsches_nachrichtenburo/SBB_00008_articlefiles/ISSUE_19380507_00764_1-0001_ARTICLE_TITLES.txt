@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Führer besichtigt das antike Rom.
+Found
+MODSMD_ARTICLE02: Beileid des Führers zum Tode des Generals Siciliani.
+Found
+MODSMD_ARTICLE03: Göring über die deutsch-italienische Zusammenarbeit.
+Found
+MODSMD_ARTICLE04: Dr. Letz über die Ausgaben der Werkscharen.
+Found
+MODSMD_ARTICLE05: Die Reichsarbeitstagung der NSKOV.
+Found
+MODSMD_ARTICLE06: Der Handelsverkehr Italien-Oesterreich.
+Found
+MODSMD_ARTICLE07: Versammlungsverbot in der Tschechoslowakei aufgehoben.
+Found
+MODSMD_ARTICLE08: Politische Schlägereien in Bordeaux.
+Found
+MODSMD_ARTICLE09: Kriseustiuuuung in Brüssel.
+Found
+MODSMD_ARTICLE10: NSFK. Sturmführer fliegt neuen Weltrekord im Segelflug,
+Found

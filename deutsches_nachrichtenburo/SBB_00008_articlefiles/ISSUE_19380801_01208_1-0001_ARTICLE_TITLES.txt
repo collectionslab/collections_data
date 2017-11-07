@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer gibt dem Breslauer Fest die Weihe.
+Found
+MODSMD_ARTICLE02: / Die Führer der deutscheu Volksgruppen bei Adolf Hitler.
+Found
+MODSMD_ARTICLE03: Der Führer im Breslauer Schloßmuseum.
+Found
+MODSMD_ARTICLE04: Telegramm des Duce an den Führer.
+Found
+MODSMD_ARTICLE05: Dr. Frick am Schlesischen Ehrenmal in Waldenburg.
+Found
+MODSMD_ARTICLE06: Amerikanischer Landwirtschaftsfachmann in München.
+Found
+MODSMD_ARTICLE07: Bonnet vor den Auslandssronzosen.
+Found
+MODSMD_ARTICLE08: KV Tote bei einem Eisenbahnunglück auf Jamaika.
+Found
+MODSMD_ARTICLE09: Regelung der nationalspanischen Erzeugung.
+Found
+MODSMD_ARTICLE10: Terror nach der sowjetspamschen Niederlage.
+Found
+MODSMD_ARTICLE11: Modell des ältesten Autos für Henry Ford.
+Found

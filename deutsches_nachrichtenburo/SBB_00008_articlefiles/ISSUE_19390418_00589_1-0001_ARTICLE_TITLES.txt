@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Franz von Papen zum Botschafter in Ankara ernannt.
+Found
+MODSMD_ARTICLE02: Marschall Göring wieder in Berlin.
+Found
+MODSMD_ARTICLE03: Der Spanienbesuch der deutschen Flottenstreitkräfte.
+Found
+MODSMD_ARTICLE04: Erste Auslandsreise des KdF.-Schiffes „Robert Ley".
+Found
+MODSMD_ARTICLE05: „Das wahre Herz Europas schlägt wieder in Deutschland."
+Found
+MODSMD_ARTICLE06: Der Reichsbahnschutz feierte 29jähriges Bestehen.
+Found
+MODSMD_ARTICLE07: Adolf Hitler-Platz in Preßburg»
+Found
+MODSMD_ARTICLE08: Rücktritt des slowakischen Innenministers Sidor.
+Found
+MODSMD_ARTICLE09: „Giornale d'Jtalia" zum ungarischen Staatsbesuch in Rom.
+Found
+MODSMD_ARTICLE10: Finnische Kritik an der „Botschaft" Roosevelts.
+Found
+MODSMD_ARTICLE11: Roosevelt ist in Spanien erkannt.
+Found
+MODSMD_ARTICLE12: Ein „Unsterblicher" blamiert sich.
+Found
+MODSMD_ARTICLE13: So Hausen die „frommen" Engländer auf Cypern.
+Found
+MODSMD_ARTICLE14: Wie Roosevelt sein Manöver einleitete.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Das Staatsbegräbnis für Seeckt. In Anwesenheit des Führers.
+Found
+MODSMD_ARTICLE02: Die kirchliche Feier im Trauerhause.
+Found
+MODSMD_ARTICLE03: Die Trauerparade»
+Found
+MODSMD_ARTICLE04: Die Feier auf dem Invaliden-Friedhof.
+Found
+MODSMD_ARTICLE05: Weitere Beileidskundgcbungen au Frau von Seeckt.
+Found
+MODSMD_ARTICLE06: Dr. Goebbels spricht zur Jahreswende.
+Found
+MODSMD_ARTICLE07: Der Schutz des schweizerischen Wappens.
+Found
+MODSMD_ARTICLE08: Erzherzog Friedrich gestorben.
+Found
+MODSMD_ARTICLE09: Beisetzung des Lappo Führers Kosola.
+Found
+MODSMD_ARTICLE10: Abschluß des türkischen Ministerbesuches in Athen.
+Found

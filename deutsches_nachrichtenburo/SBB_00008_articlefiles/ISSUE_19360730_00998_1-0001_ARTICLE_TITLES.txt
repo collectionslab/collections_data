@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der WeiikbNsireß für Freizeit und Erholung.
+Found
+MODSMD_ARTICLE02: Ueber 399 Spanien-Deutsche in München eingetroffen.
+Found
+MODSMD_ARTICLE03: Neuer Urlaub Edens.
+Found
+MODSMD_ARTICLE04: Die Bauaufträge für die beiden englischen Schlachtschiffe.
+Found
+MODSMD_ARTICLE05: Untersuchungskommission für Palästina.
+Found
+MODSMD_ARTICLE06: Der portugiesische Außenminister in London.
+Found
+MODSMD_ARTICLE07: Staatsbesuche Blums in Belgrad und Bukarest?
+Found
+MODSMD_ARTICLE08: Französische Hochschule für die Landesverteidigung.
+Found
+MODSMD_ARTICLE09: Die Lieferung französischer Flugzeuge nach Spanien.
+Found
+MODSMD_ARTICLE10: Uebersiedlung der marxistischen Regierung nach Valencia?
+Found
+MODSMD_ARTICLE11: Die Ausländer Granadas in Sicherheit.
+Found
+MODSMD_ARTICLE12: Franca will den Kommuinsmus in Spanien ausrotten.
+Found
+MODSMD_ARTICLE13: Zur Oel- und Proviantversorgung spanischer Kriegsschisse.
+Found
+MODSMD_ARTICLE14: Der türkische Staatspräsident wieder in Ankara.
+Found

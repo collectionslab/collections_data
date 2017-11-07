@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Gcneralarbeitsführer Krause gestorben.
+Found
+MODSMD_ARTICLE02: Sowjetrussischer „Generalkonsul" Chef der roten Flotte.
+Found
+MODSMD_ARTICLE03: Förderung des Separatismus iu Barcelona.
+Found
+MODSMD_ARTICLE04: Abenteuerliche Flucht eines nationalen Generals.
+Found
+MODSMD_ARTICLE05: Bolschewiken fordern Rundfunkgerät-Ablieferung.
+Found
+MODSMD_ARTICLE06: Valencia wird in Verteidigungszustand gesetzt.
+Found
+MODSMD_ARTICLE07: Nene nationale Erfolge an der Bilbao-Front.
+Found
+MODSMD_ARTICLE08: Was wird aus der Regierung Blum?
+Found
+MODSMD_ARTICLE09: Die Durchdringung Aethiopiens.
+Found
+MODSMD_ARTICLE10: Sieg der Regierungspartei bei jugoslawischen Wahlen.
+Found
+MODSMD_ARTICLE11: Die Unruhen in Syrien.
+Found
+MODSMD_ARTICLE12: Sowjetrussischer Dampfer mit Kriegsmaterial gekapert.
+Found
+MODSMD_ARTICLE13: Wieder ein Fall von Lynchjustiz in Amerika.
+Found
+MODSMD_ARTICLE14: Tokio dementiert endgültigen Verhandlungsabbruch.
+Found

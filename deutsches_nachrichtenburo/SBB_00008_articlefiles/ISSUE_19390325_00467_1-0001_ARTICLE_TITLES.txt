@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Beileidstelegramm des Führers.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Italienische Ehrung für Reichsminister Frank.
+Found
+MODSMD_ARTICLE04: Das Ergebnis der 6. Eintopfsammlung.
+Found
+MODSMD_ARTICLE05: Siebert Präsident der Deutscheu Akademie.
+Found
+MODSMD_ARTICLE06: Erstes musisches Gymnasium in Frankfurt/Main.
+Found
+MODSMD_ARTICLE07: Griechenland feiert sein Nationalseft.
+Found
+MODSMD_ARTICLE08: Den Demokratien ins Stammbuch.
+Found
+MODSMD_ARTICLE09: Aus der Sowjetwirtschaft.
+Found
+MODSMD_ARTICLE10: Tie Schweiz von der Aktivität der Westmächte wenig erbaut.
+Found
+MODSMD_ARTICLE11: Belgrad zum deutschen-rmnämschen Abkommen.
+Found
+MODSMD_ARTICLE12: Zwei Jahre italienisch-jugoslawisches Abkommen.
+Found
+MODSMD_ARTICLE13: W lM Altfaschisten in Rom eingetroffen.
+Found
+MODSMD_ARTICLE14: 1500 Italiener verließen Tunis.
+Found
+MODSMD_ARTICLE15: Verhandlungen um die Räumung Madrids?
+Found
+MODSMD_ARTICLE16: Nationalspanien bleibt Frankreich gegenüber kühl.
+Found
+MODSMD_ARTICLE17: De Valera bei Chamberlain.
+Found
+MODSMD_ARTICLE18: Hiranuma dankt dem japanischen Reichstag.
+Found
+MODSMD_ARTICLE19: New Jorks Juden verteidigen den Betrug.
+Found

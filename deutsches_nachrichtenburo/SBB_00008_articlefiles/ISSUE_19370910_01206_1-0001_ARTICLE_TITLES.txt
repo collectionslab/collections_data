@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Erhöhung der neuen Reichsanleihe infolge Neberzeichnungen.
+Found
+MODSMD_ARTICLE02: 5>2 Millionen wurden der Arbeitslosigkeit entrissen!
+Found
+MODSMD_ARTICLE03: Der polnische Botschafter wieder in Berlin.
+Found
+MODSMD_ARTICLE04: Zum Landgerichtsrat ernannt.
+Found
+MODSMD_ARTICLE05: Der chinesische Eisenbahnminister in Friedrichshafen.
+Found
+MODSMD_ARTICLE06: Reichstrefsen des BDM. in Bamberg.
+Found
+MODSMD_ARTICLE07: Der Erfolg der Deutschen Kulturwoche in Paris.
+Found
+MODSMD_ARTICLE08: Der Empfang zu Ehren von Staatssekretär Funk.
+Found
+MODSMD_ARTICLE09: Deutschland und Italien sollen unterrichtet werden.
+Found
+MODSMD_ARTICLE10: Frankreichs Mittelmeersorgen.
+Found
+MODSMD_ARTICLE11: Die U-Boot-Angriffe im Mittelmeer.
+Found
+MODSMD_ARTICLE12: Aktive französische Offiziere im Dienst der Rotspanier.
+Found
+MODSMD_ARTICLE13: Internationale Zerstörerflotte im Mittelmeer.
+Found
+MODSMD_ARTICLE14: Panzerschiff „Admiral Scheer" in Lissabon.
+Found
+MODSMD_ARTICLE15: Der Jahrestag der Befreiung San Sebastians.
+Found
+MODSMD_ARTICLE16: Rückkehr Horthys über Wien.
+Found
+MODSMD_ARTICLE17: Der Völkerbundsrat zusammengetreten.
+Found
+MODSMD_ARTICLE18: Vertrauensvotum des Senats für van Zeeland.
+Found
+MODSMD_ARTICLE19: USA-Konsulat in Swatan wird geschlossen.
+Found
+MODSMD_ARTICLE20: Weiterer japanischer Vormarsch unter erbitterten Kämpfen.
+Found
+MODSMD_ARTICLE21: Japan kontrolliert britische Dampfer.
+Found
+MODSMD_ARTICLE22: Japanische Offensive bei Matschang .
+Found

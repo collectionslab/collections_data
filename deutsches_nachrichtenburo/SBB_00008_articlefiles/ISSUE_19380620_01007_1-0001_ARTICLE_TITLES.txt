@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: 50 Jahre Reichsschiffsvermessungsamt.
+Found
+MODSMD_ARTICLE02: Der 12. Internationale Verlegerkongreß eröffnet.
+Found
+MODSMD_ARTICLE03: Dr. Ley und Dr. Hueber sprachen in Karlsruhe.
+Found
+MODSMD_ARTICLE04: Abschluß der Reichstheaterfestwoche in Wen.
+Found
+MODSMD_ARTICLE05: Treudienstehrenzeichen in Danzig gestiftet.
+Found
+MODSMD_ARTICLE06: Säuberung des sudetendeutschen Theaters.
+Found
+MODSMD_ARTICLE07: Sidor fordert den Rücktritt der Regierung Hodscha.
+Found
+MODSMD_ARTICLE08: Die Entspannung im Mittelmeer.
+Found
+MODSMD_ARTICLE09: „Times" verteidigt die Bombenabwürfe in Indien.
+Found
+MODSMD_ARTICLE10: König Carol von Rumänien in Istanbul.
+Found
+MODSMD_ARTICLE11: Unterbrechung der französisch-türkischen Besprechungen.
+Found
+MODSMD_ARTICLE12: Die Insel Hainan wird Kriegsschauplatz.
+Found
+MODSMD_ARTICLE13: Verräter hingerichtet.
+Found

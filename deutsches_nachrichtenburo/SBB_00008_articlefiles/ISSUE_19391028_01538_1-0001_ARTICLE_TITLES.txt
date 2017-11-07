@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: VNorgen-WnsgaPe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Mit fremden Augen.
+Found
+MODSMD_ARTICLE03: Südafrika von England in den Krieg gezwungen.
+Found
+MODSMD_ARTICLE04: Das Doppelgesicht des britischen Rundfunks.
+Found
+MODSMD_ARTICLE05: Staatspräsident Dr. Diso gegen demokratische Lügner.
+Found
+MODSMD_ARTICLE06: Dr. Rvos zum Tode verurteilt.
+Found
+MODSMD_ARTICLE07: Litauische Truppen marschieren in das Wilnagebiet ein.
+Found
+MODSMD_ARTICLE08: „Der Standpunkt der Sowjetunion klar und konkret."
+Found
+MODSMD_ARTICLE09: „City of Flint" aus Murmansk wieder ausgelaufen.
+Found
+MODSMD_ARTICLE10: Englands Einfuhr um ein Drittel zurückgegangen.
+Found
+MODSMD_ARTICLE11: Immer rücksichtslosere britische Piraterie.
+Found
+MODSMD_ARTICLE12: Der Papierpreis in England um 59 pH. Wstiegen!
+Found
+MODSMD_ARTICLE13: Sowjetrussische Aufträge für holländische Werften.
+Found
+MODSMD_ARTICLE14: Iran bewahrt strikteste Neutralität.
+Found

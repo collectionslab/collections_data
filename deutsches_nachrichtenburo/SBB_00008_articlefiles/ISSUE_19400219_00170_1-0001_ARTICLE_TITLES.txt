@@ -1,0 +1,10 @@
+MODSMD_ARTICLE02: „Deutschland ist im Recht"
+Found
+MODSMD_ARTICLE03: England kämpft gegen die Lebenskraft des Kontinents.
+Found
+MODSMD_ARTICLE04: „Fiasko des englisch-französischen Blockadeplanes".
+Found
+MODSMD_ARTICLE05: Zwei schwedische Dampfer in der Nordsee gesunken.
+Found
+MODSMD_ARTICLE06: Gin britischer Frachter gesunken.
+Found

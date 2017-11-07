@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Göring spricht Mittwoch im Sportpalast.
+Found
+MODSMD_ARTICLE02: Danktelegramm des italienischen Außenministers.
+Found
+MODSMD_ARTICLE03: Das Auslands-Echo zum Besuch Cianos in Deutschland.
+Found
+MODSMD_ARTICLE04: Polnisch-Dauzigcr Fühlungnahme.
+Found
+MODSMD_ARTICLE05: „Wir suchen den besten Zeitungsroman".
+Found
+MODSMD_ARTICLE06: Erklärung des finnischen Außenministers.
+Found
+MODSMD_ARTICLE07: Der Escorial erobert.
+Found
+MODSMD_ARTICLE08: Verzweifelte Verordnungen in Madrid.
+Found
+MODSMD_ARTICLE09: Auslandspost an Nationale den Marxisten zugeleitet.
+Found
+MODSMD_ARTICLE10: Verschiebung spanischer Gemälde nach Sowjetrußland.
+Found
+MODSMD_ARTICLE11: Französische Häsen als Stuhpunkte der Sowjetflotte?
+Found
+MODSMD_ARTICLE12: „Daily Telegraph" gegen die Manöver Moskaus.
+Found

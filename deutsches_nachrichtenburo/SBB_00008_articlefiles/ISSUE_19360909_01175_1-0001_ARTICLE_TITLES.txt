@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Reichsverband Jüdischer Kulturbünde Hegen Greuelhetzer.
+Found
+MODSMD_ARTICLE02: 5. Internationaler Jugendherbergs-Kongreß eröffnet.
+Found
+MODSMD_ARTICLE03: Zum verlängerten Erholungsurlaub Baldwins.
+Found
+MODSMD_ARTICLE04: Neuerliche Unterredung zwischen Ciano und Avenol.
+Found
+MODSMD_ARTICLE06: Oberst de la Rocque warnt vor den Handlangern Moskaus.
+Found
+MODSMD_ARTICLE07: Leon Blum lehnt Empfang von Gewerkschaftsvertretern ab.
+Found
+MODSMD_ARTICLE08: Ernste Zwischenfälle in Clermont-Ferrand.
+Found
+MODSMD_ARTICLE09: „Liberte" über die neue Streikwelle.
+Found
+MODSMD_ARTICLE10: Rote Nieger aus Frankreich.
+Found
+MODSMD_ARTICLE11: Rege Fliegertätigkeit. Erfolge der Militärgruppe.
+Found
+MODSMD_ARTICLE12: Dankgottesdienst im Fort Gnadalnpe.
+Found
+MODSMD_ARTICLE13: Em amtlicher portugiesischer Bericht über die Meuterei.
+Found
+MODSMD_ARTICLE14: Die Meuterei von Lissabon, das Werk von Kommunisten.
+Found
+MODSMD_ARTICLE15: Verstärkte Vorbereitungen für einen Palästina-Aufstand?
+Found

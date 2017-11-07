@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die Tirana-Deutschen behielten die Ruhe.
+Found
+MODSMD_ARTICLE02: Die Trauerfeier für die gefallenen Helden der Arbeit.
+Found
+MODSMD_ARTICLE03: General Maskowitz scheidet aus Prag.
+Found
+MODSMD_ARTICLE04: Die Aufgaben der Gemeinden im Dritten Reich.
+Found
+MODSMD_ARTICLE05: Die albanische Abordnung in Rom.
+Found
+MODSMD_ARTICLE06: Völlige Ruhe an der jugoslawisch-albanischen Grenze.
+Found
+MODSMD_ARTICLE07: Eröffnnug der Belgrader Mustermesse.
+Found
+MODSMD_ARTICLE08: Keine Entlassungen beim holländischen Heer.
+Found
+MODSMD_ARTICLE09: Auch Attlee auf Schloß Windsor.
+Found
+MODSMD_ARTICLE10: Das Kapstädter Parlament hat ein kurzes Gedächtnis.
+Found
+MODSMD_ARTICLE11: Feine Zustände in Roosevelts Lands.
+Found
+MODSMD_ARTICLE12: Die Kennzahl der Großhandelspreise vom 12. April.
+Found

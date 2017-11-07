@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Lord Halifax in Berlin.
+Found
+MODSMD_ARTICLE02: Rom wird über Reise Halifax' auf dem Laufenden gehalten.
+Found
+MODSMD_ARTICLE03: Die Londoner Presse zum Halifax-Besuch.
+Found
+MODSMD_ARTICLE04: Der Besuch Dr. Todts in England.
+Found
+MODSMD_ARTICLE05: Eine Beschwerde Valencias m London.
+Found
+MODSMD_ARTICLE06: Rotspanisches Handelsschiff auf eine Mine gelaufen.
+Found
+MODSMD_ARTICLE07: Nichts Neues von den spanischen Fronten.
+Found
+MODSMD_ARTICLE08: Genfer Abkommen zur Verhütung des Terrorismus.
+Found
+MODSMD_ARTICLE09: Zusicherungen Daranyis an die deutsche Minderheit.
+Found
+MODSMD_ARTICLE10: 18 Jahre Aufbau und Fortschritt in Ungarn.
+Found
+MODSMD_ARTICLE11: Das Problem der galizischen Juden in Ungarn.
+Found
+MODSMD_ARTICLE12: Parlamentskritik an Prags Finanzwirtschaft.
+Found
+MODSMD_ARTICLE14: Aufdeckung emvr Geheimorganisation in Frankreich.
+Found
+MODSMD_ARTICLE15: Der Volkskommissarenrat fast völlig „erneuert".
+Found
+MODSMD_ARTICLE16: Im Kampfe um die Heimat.
+Found

@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Der Tag der Deutschen Kunst. Festsitzung der Reichskammer der Bildenden Künste in Anwesenheit des Führers.
+Found
+MODSMD_ARTICLE02: Der Führer trifft ein. Die Festsitzung beginnt.
+Found
+MODSMD_ARTICLE03: Jahresversammlung 1937 des „Hauses der Deutschen Kunst".
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer am Dienstag beim Stapellanf in Hamburg.
+Found
+MODSMD_ARTICLE02: Der Ausbau der italienischen Luftwaffe.
+Found
+MODSMD_ARTICLE03: Italienische Verluste an der Aragonfront.
+Found
+MODSMD_ARTICLE04: Die Nationaltruppen auf katalanischem Boden.
+Found
+MODSMD_ARTICLE05: Die Bolschewismen funken Hilferufe.
+Found
+MODSMD_ARTICLE06: „Times": „Der Anfang vom Ende".
+Found
+MODSMD_ARTICLE07: Englands Aufrüstung zur See.
+Found
+MODSMD_ARTICLE08: Neue Sabotagefälle in England.
+Found
+MODSMD_ARTICLE09: Churchills Pariser Aufenthalt.
+Found
+MODSMD_ARTICLE10: Doch Währungskontrolle in Frankreich.
+Found
+MODSMD_ARTICLE11: Abrechnung mit der Volksfront.
+Found
+MODSMD_ARTICLE12: Pariser Bilderbogen.
+Found
+MODSMD_ARTICLE13: 1939: Portugals Jubiläumsjahr.
+Found
+MODSMD_ARTICLE14: Italienische Kunstausstellung in Belgrad.
+Found
+MODSMD_ARTICLE15: Kommunistischer Jugendverband in Polen ausgehoben.
+Found
+MODSMD_ARTICLE16: Das polnische Handwerk gegen die Juden.
+Found
+MODSMD_ARTICLE17: Blutiges Wochenende in Palästina.
+Found
+MODSMD_ARTICLE18: Japan seiert das Antikommternabkommcn.
+Found
+MODSMD_ARTICLE19: Eine Erklärung des -Fürsten Konoe.
+Found

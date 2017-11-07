@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Das Staatsbegräbnis für Generaloberst von Fritsch.
+Found
+MODSMD_ARTICLE02: Selbst für einen Engländer zu viel!
+Found
+MODSMD_ARTICLE03: An Reuter, Kopenhagen.
+Found
+MODSMD_ARTICLE04: Die deutschen Interessen in Algier und Palästina.
+Found
+MODSMD_ARTICLE05: Das deutsche Volk und seine Führung.
+Found
+MODSMD_ARTICLE06: Estland zum Abschluß des Feldzuges in Polen.
+Found
+MODSMD_ARTICLE07: Die Unverschämtheiten polnischer Militärs in Rumänien.
+Found
+MODSMD_ARTICLE08: Erneute Blamage des britischen Lügenministeriums.
+Found
+MODSMD_ARTICLE09: Londoner Stimmung „keineswegs rosig".
+Found
+MODSMD_ARTICLE10: Die Entlarvung des üblen Hetzers Knickerbocker.
+Found
+MODSMD_ARTICLE11: Die ungarische Presse zur Lage.
+Found
+MODSMD_ARTICLE12: Die Londoner wollen nicht aufs Land.
+Found
+MODSMD_ARTICLE13: Botschafter Maisky bei Halifax.
+Found
+MODSMD_ARTICLE14: „Daily Herald" über die britischen Fehlschläge.
+Found
+MODSMD_ARTICLE15: „Aufhebung des Waffenembargos führt zum Bankerott."
+Found
+MODSMD_ARTICLE16: Offensive der Japaner südlich von Hankau.
+Found

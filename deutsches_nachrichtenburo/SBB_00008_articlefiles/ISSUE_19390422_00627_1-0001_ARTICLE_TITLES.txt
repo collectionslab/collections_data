@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer in Döberitz.
+Found
+MODSMD_ARTICLE02: Ausländische Ehrengäste sehen Infanterie-Scharfschießen.
+Found
+MODSMD_ARTICLE03: Dr. Conti Reichsgesundheitsführer.
+Found
+MODSMD_ARTICLE04: Beginn des Reichsentscheids des Reichsberufswettkampfes.
+Found
+MODSMD_ARTICLE05: Der jugoslawische Außenminister in Venedig.
+Found
+MODSMD_ARTICLE06: Die römische Presse zu den Besprechungen in Venedig.
+Found
+MODSMD_ARTICLE07: „Der Gang der Geschichte läßt sich nicht aufhalten."
+Found
+MODSMD_ARTICLE08: Nationalfaschistische Partei in Albanien.
+Found
+MODSMD_ARTICLE09: 39 neue Notverordnungen des Kabinetts Daladier.
+Found
+MODSMD_ARTICLE10: Der Dank des Führers.
+Found
+MODSMD_ARTICLE11: Politische Schwerarbeit in Paris.
+Found
+MODSMD_ARTICLE12: Miaja darf in Mexiko landen.
+Found

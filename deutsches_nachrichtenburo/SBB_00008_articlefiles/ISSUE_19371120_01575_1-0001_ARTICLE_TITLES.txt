@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Halifax bei Göring.
+Found
+MODSMD_ARTICLE02: Beförderung im Auswärtigen Amt.
+Found
+MODSMD_ARTICLE03: 50 Jahre Physikalisch-Technische Reichsanstalt.
+Found
+MODSMD_ARTICLE04: Bevölkerungszuwachs deutet auf seelischen Umschwung.
+Found
+MODSMD_ARTICLE05: Kommentare Zur Reise der ungarischen Staatsmänner»
+Found
+MODSMD_ARTICLE06: Keine Aenderung der rumänischen Außenpolitik.
+Found
+MODSMD_ARTICLE07: Karlaments-Neuwahlen in Rumänien»
+Found
+MODSMD_ARTICLE08: Zur Neuordnung im italienischen Kabinett.
+Found
+MODSMD_ARTICLE09: Verstärkte Aufrüstung in der Sowjetunion.
+Found
+MODSMD_ARTICLE10: Tschungking Sitz der chinesischen Regierung.
+Found
+MODSMD_ARTICLE11: „Oberste Kriegsverwaltungsbehörde" in Tokio.
+Found
+MODSMD_ARTICLE12: Amtliche japanische Verlustliste.
+Found

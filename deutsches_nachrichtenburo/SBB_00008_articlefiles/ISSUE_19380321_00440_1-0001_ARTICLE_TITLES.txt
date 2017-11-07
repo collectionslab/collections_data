@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Keppler Ncichsbeauftragter für Oesterreich.
+Found
+MODSMD_ARTICLE02: der Mitarbeiter Görings.
+Found
+MODSMD_ARTICLE03: Deutsches Heinkelslugzeug erobert acht Weltrekorde.
+Found
+MODSMD_ARTICLE04: Görings Glückwünsche.
+Found
+MODSMD_ARTICLE05: Die Auslegung der Stimmlisten.
+Found
+MODSMD_ARTICLE06: Strenge Scheidung bei den Volksabstimmungen.
+Found
+MODSMD_ARTICLE07: Nur ein einziger Reichswahlvorschlag.
+Found
+MODSMD_ARTICLE08: Begeisterter Empfang Wiener Truppen in Berlin.
+Found
+MODSMD_ARTICLE09: München im Zeichen des Besuchs österreichischer Soldaten.
+Found
+MODSMD_ARTICLE10: Begrüßung der österreichischen Truppen in Augsburg.
+Found
+MODSMD_ARTICLE11: Deutsche Soldaten in Klagensurt.
+Found
+MODSMD_ARTICLE12: Uebernahme der „Spanischen Reitschule".
+Found
+MODSMD_ARTICLE13: Festakt in der deutschen Schule Sofias.
+Found
+MODSMD_ARTICLE14: Die belgische Presse zur Rede des Führers.
+Found
+MODSMD_ARTICLE15: Deutscher Sieg beim Genfer Reitturnier.
+Found

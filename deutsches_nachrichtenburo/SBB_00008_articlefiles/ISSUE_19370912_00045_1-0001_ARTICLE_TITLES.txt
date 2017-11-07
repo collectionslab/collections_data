@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE02: Kpprll drr kampkkormatwnrn des Mhrers
+Found
+MODSMD_ARTICLE03: Der Führer trifft ein.
+Found
+MODSMD_ARTICLE04: Die Heldenehrung.
+Found
+MODSMD_ARTICLE05: Der Führer spricht.
+Found

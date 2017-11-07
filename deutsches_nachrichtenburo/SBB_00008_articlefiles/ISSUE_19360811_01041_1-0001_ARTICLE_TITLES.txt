@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Bon Ribbentrop deutscher Botschafter in London.
+Found
+MODSMD_ARTICLE02: Ernennung im Auswärtigen Amt.
+Found
+MODSMD_ARTICLE03: Griechische Studenten im Reichserziehungsministerium.
+Found
+MODSMD_ARTICLE04: Die Leistungsfähigkeit der Neichsautobahnen.
+Found
+MODSMD_ARTICLE05: Neue Rekordreise des LZ „Hindenburg".
+Found
+MODSMD_ARTICLE06: Der Transport der Spanien-Flüchtlinge.
+Found
+MODSMD_ARTICLE07: Neuer Flüchtlingstransport nach Hamburg unterwegs.
+Found
+MODSMD_ARTICLE08: Ein regierungsfeindlicher Aufruf in Polen.
+Found
+MODSMD_ARTICLE09: Jüdische Kundgebungen gegen britische Palästinakommission
+Found
+MODSMD_ARTICLE10: Rascher Abschluß des Nichteinmischungspakies erhofft.
+Found
+MODSMD_ARTICLE11: „Frankreich am Scheideweg". Italienische Stellungnahme.
+Found
+MODSMD_ARTICLE12: Um den spanischen Botschafterposten in Rom.
+Found
+MODSMD_ARTICLE13: Zwischenfall auf einem französischen Kreuzer.
+Found
+MODSMD_ARTICLE14: Der Finanzminister von Venezuela f.
+Found
+MODSMD_ARTICLE15: Arbeiter besehen italienische Fabrik bei Barcelona.
+Found
+MODSMD_ARTICLE16: Revolverattentat auf den Imam von Konstantine.
+Found
+MODSMD_ARTICLE17: Neue Kämpfe in Palästina.
+Found
+MODSMD_ARTICLE18: Aegyptische Abordnung nach London eingeladen.
+Found
+MODSMD_ARTICLE19: Der Kampf gegen den Kommunismus in Argentinien.
+Found
+MODSMD_ARTICLE20: Neue politische Wetterwolken in Mexiko.
+Found

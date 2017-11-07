@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ernennungen im Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Der deutsche Rechtsauspruch auf Kolonien.
+Found
+MODSMD_ARTICLE04: Dr. Glasmeier über den deutschen Rundfunk.
+Found
+MODSMD_ARTICLE05: Hacha bildet „Ausschuß der nationalen Volksgemeinschaft".
+Found
+MODSMD_ARTICLE06: Deutsche Truppenparade in Jglau.
+Found
+MODSMD_ARTICLE07: Sitzung des mährisch-schlefischen Landesausschusses.
+Found
+MODSMD_ARTICLE08: Immer wieder rote Flüchtlinge aus Spanien.
+Found
+MODSMD_ARTICLE09: Holland gegen Englands Paktieren mit den Sowjets.
+Found
+MODSMD_ARTICLE10: Eindeutige Absage Jugoslawiens.
+Found
+MODSMD_ARTICLE11: Priuzregent Paul empfängt den Herzog von Coburg.
+Found
+MODSMD_ARTICLE12: „Die Türkei in keiner Weise berührt."
+Found
+MODSMD_ARTICLE13: Empörung in Portugal über englische Lügeinmeldungen.
+Found
+MODSMD_ARTICLE14: Japan weist „demokratischen" Anbiederungsversuch zurück.
+Found
+MODSMD_ARTICLE15: Japanische Offensive an der Jangtse-Front.
+Found

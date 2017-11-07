@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der italienische Generalstabschef am Berliner Ehrenmal.
+Found
+MODSMD_ARTICLE02: Renhsmimster Ruft in Arenshoop.
+Found
+MODSMD_ARTICLE03: Arbeitsdienst für österreichische Reifeprüflinge.
+Found
+MODSMD_ARTICLE04: Der Dcmziger Wirtschaftssenator in Dänemark.
+Found
+MODSMD_ARTICLE05: Deutsch-schwedische Verhandlungen.
+Found
+MODSMD_ARTICLE06: Deutsche Segelflieger in Bulgarien.
+Found
+MODSMD_ARTICLE07: Der Stand der Verhandlungen mit Hodscha.
+Found
+MODSMD_ARTICLE08: Wieder ein tschechischer Ueberfall auf deutsche Jugend.
+Found
+MODSMD_ARTICLE09: Mussolini eröffnet die Drescharbeiten in Aprilia.
+Found
+MODSMD_ARTICLE10: Kameradschaft der ehemaligen Kriegsfreiwilligen.
+Found
+MODSMD_ARTICLE11: Besprechung Daladier-Bonnet.
+Found
+MODSMD_ARTICLE12: Weiterer Vormarsch der Kolonne Varela.
+Found
+MODSMD_ARTICLE13: Francas Antwort in der Bombenadwurffrage.
+Found
+MODSMD_ARTICLE14: Chilenischer Arzt in Barcelona hingerichtet.
+Found
+MODSMD_ARTICLE15: 1,5 Milliarden Dollar Fehlbetrag in USA.
+Found
+MODSMD_ARTICLE16: Das neue iranische Militärgesetz verabschiedet.
+Found
+MODSMD_ARTICLE17: Wieder Ausgehverbot für Jerusalem.
+Found
+MODSMD_ARTICLE18: Organisierte jüdische Mordüberfälle.
+Found
+MODSMD_ARTICLE19: Die neue Zuspitzung der Lage in Palästina.
+Found

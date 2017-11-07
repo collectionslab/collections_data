@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE02: Ernährungssicheruug bewältigt.
+Found
+MODSMD_ARTICLE03: Preisstabilität bei uns Preissteigerung bei den anderen.
+Found
+MODSMD_ARTICLE04: Die Erfolge der nationalsozialistischen Agrarpolitik.
+Found
+MODSMD_ARTICLE05: Der Nukstiea der deutschen Dresse
+Found
+MODSMD_ARTICLE06: Die geschichtliche Leistung des NS-Parteipresse.
+Found

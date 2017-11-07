@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Die Arbeitsergebnisse des Freizeitkongresses.
+Found
+MODSMD_ARTICLE02: Die Rekrutierungsfrage der englischen Luftstreitkräfte.
+Found
+MODSMD_ARTICLE03: 37 britische Kriegsschiffe in den spanischen Gewässern.
+Found
+MODSMD_ARTICLE04: Ter französische Militärattache in Spanien festgenommen.
+Found
+MODSMD_ARTICLE05: Italien wartet ab.
+Found

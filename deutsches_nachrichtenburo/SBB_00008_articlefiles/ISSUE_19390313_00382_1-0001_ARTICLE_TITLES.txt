@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer ehrt Hindenburg, Ludendorff und Conrad.
+Found
+MODSMD_ARTICLE02: Englische Ehrung deutscher Helden.
+Found
+MODSMD_ARTICLE03: Vier Reichsdeutsche in Preßburg verhaftet
+Found
+MODSMD_ARTICLE04: Ueberfälle auf deutsche Geschäfte in Preßburg.
+Found
+MODSMD_ARTICLE05: Karmasin zur Lage.
+Found
+MODSMD_ARTICLE06: Wieder deutschfeindliche Hetze in Prag.
+Found
+MODSMD_ARTICLE07: Verschärfung der Lage in Brünn.
+Found
+MODSMD_ARTICLE08: Wie unter Benesch.
+Found
+MODSMD_ARTICLE09: Papst Pius XII. gekrönt.
+Found
+MODSMD_ARTICLE10: Auch weiterhin Kämpfe in den Madrider Außenvierteln.
+Found
+MODSMD_ARTICLE11: Chaotische Zustände in Madrid.
+Found
+MODSMD_ARTICLE12: Lnftkampf zwischen den feindlichen Brüdern.
+Found
+MODSMD_ARTICLE13: Moskauer Instruktionen für Sowjetspanien.
+Found
+MODSMD_ARTICLE14: Ein neuer Sabotageakt in England?
+Found
+MODSMD_ARTICLE15: Indien fordert Selbstbestimmung.
+Found
+MODSMD_ARTICLE16: Welt-Kriegsmateriallieferant USA.
+Found
+MODSMD_ARTICLE17: Sirenenklänge aus den Vereinigten Staaten.
+Found

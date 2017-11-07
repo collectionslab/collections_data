@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Bekenntnismarsch der deutschen Zugend.
+Found
+MODSMD_ARTICLE02: Weitere Lebensmittelverteuerung in der Tschechen
+Found
+MODSMD_ARTICLE03: Schüsse aus reichsdeutsches Gebiet!
+Found
+MODSMD_ARTICLE04: Tschechische Mordschützeu am Werk.
+Found
+MODSMD_ARTICLE05: Die Ermordung des Rudolf Klein.
+Found
+MODSMD_ARTICLE06: Vernünftige Tschechen wollen nicht mehr mitmachen.
+Found
+MODSMD_ARTICLE07: Schauspieler Hodscha.
+Found
+MODSMD_ARTICLE08: Prag gegen die Wahrheit»
+Found
+MODSMD_ARTICLE09: Tschechenblätter erklären: Ueberall Ruhe und Ordnung.
+Found
+MODSMD_ARTICLE10: Vergebliche Warnung vor Angstkäufen.
+Found
+MODSMD_ARTICLE11: Scharfe polnische Entschließung gegen die Tschechen.
+Found
+MODSMD_ARTICLE12: Ganz Ungarn hinter seiner Volksgruppe.
+Found
+MODSMD_ARTICLE13: Französische Mahnungen an die Tschechen.
+Found
+MODSMD_ARTICLE14: Belgien will frei sein.
+Found
+MODSMD_ARTICLE15: Sowjetrussische U-Boote in finnischen Gewässern.
+Found
+MODSMD_ARTICLE16: Wieder Unruhen in der Sowjet-Ukraine»
+Found
+MODSMD_ARTICLE17: „Polen legt keinen Wert auf Ehren im Genfer Rat."
+Found
+MODSMD_ARTICLE18: Wieder Bomben auf Barcelona.
+Found
+MODSMD_ARTICLE19: General Simowitsch Chef des jugoslawischen Generalstabs.
+Found

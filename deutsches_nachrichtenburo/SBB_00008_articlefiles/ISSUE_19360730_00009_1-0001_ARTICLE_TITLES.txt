@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Olympia-Fackel auf österreichischem Boden.
+Found
+MODSMD_ARTICLE02: Die olympische Feier in Wien.
+Found
+MODSMD_ARTICLE03: Internationaler Kunstflugwettbewerb.
+Found
+MODSMD_ARTICLE04: Das Punktergebnis des Mittwoch im Olympia-Sternflug.
+Found
+MODSMD_ARTICLE05: Flaggenhissuug in Kiel.
+Found
+MODSMD_ARTICLE06: Empfang zu Ehren Tai-Chi-Taos.
+Found
+MODSMD_ARTICLE07: Herzlicher Empfang der Schweizer Leichtathleten in Berlin.
+Found
+MODSMD_ARTICLE08: Empfang der Sportler von Bolivien und Haiti.
+Found
+MODSMD_ARTICLE09: Die jugoslawischen Kämpfer in Berlin.
+Found
+MODSMD_ARTICLE10: Weitere holländische Olympiakämpfer eingetroffen.
+Found
+MODSMD_ARTICLE11: Die Hauptstreitmacht der Ungarn in Berlin.
+Found
+MODSMD_ARTICLE12: Zum Empfang der Italienischen Olympia-Mannschaft.
+Found
+MODSMD_ARTICLE13: Der griechische Thronfolger in Sofia.
+Found
+MODSMD_ARTICLE14: Sofia und Tokio grüßen Berlin.
+Found
+MODSMD_ARTICLE15: Lettische Anerkennung für die deutsche Olympiaorganisaiion.
+Found
+MODSMD_ARTICLE16: „Der Friede der Fahnen". Eine festliche Sendung.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Gründung einer deutschen Verkehrsakademie.
+Found
+MODSMD_ARTICLE02: Wagner über nationalsozialistische Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE03: Rektorenkonferenz in Marburg.
+Found
+MODSMD_ARTICLE04: Die Erfolge von KdF. als Borbild.
+Found
+MODSMD_ARTICLE05: Ironische Betrachtungen der „Tribuna".
+Found
+MODSMD_ARTICLE06: „Man kann auf die Freundschaft Italiens bauen."
+Found
+MODSMD_ARTICLE07: Irland will eine diplomatische Vertretung in Rom einrichten.
+Found
+MODSMD_ARTICLE08: Tagung des Obersten Kriegsrates in Paris.
+Found
+MODSMD_ARTICLE09: Ig Tonnen Munition und Waffen in einer Garage.
+Found
+MODSMD_ARTICLE10: Dienstag außenpolitische Unterhausaussprache.
+Found
+MODSMD_ARTICLE11: Die britische Note an Japan.
+Found
+MODSMD_ARTICLE12: Borläufige Regierung übernimmt Zollverwaltung.
+Found
+MODSMD_ARTICLE13: Die Stärke der USA.-Flotte in den fernöstlichen Gewässern.
+Found

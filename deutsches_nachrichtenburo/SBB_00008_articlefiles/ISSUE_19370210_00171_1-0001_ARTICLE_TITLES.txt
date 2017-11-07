@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: General von Oven gestorben.
+Found
+MODSMD_ARTICLE02: Der Führer zum Tode des Generals v. Oven.
+Found
+MODSMD_ARTICLE03: Die Folgen des Parteiausschlusses.
+Found
+MODSMD_ARTICLE04: Oberregiernngsrat Frey zum Ministerialrat ernannt.
+Found
+MODSMD_ARTICLE05: Zum Pressereferenten des Reichsjugendführers ernannt.
+Found
+MODSMD_ARTICLE06: Das Aktiengesetz im Reichsgesetzblatt.
+Found
+MODSMD_ARTICLE07: Internationales Abkommen über Leichenbeförderung.
+Found
+MODSMD_ARTICLE08: Durchführung des HJ.-Gesetzes ab 1. April 1937.
+Found
+MODSMD_ARTICLE09: Entwicklung des Arbeitseinsatzes im Januar.
+Found
+MODSMD_ARTICLE10: Wegen Verherrlichung David Frankfurters verurteilt.
+Found
+MODSMD_ARTICLE11: Wegen Devisenvergehens verhaftet.
+Found
+MODSMD_ARTICLE12: Weitere Einzelheiten zur Einnahme Malagas.
+Found
+MODSMD_ARTICLE13: Telephonverbindung mit Madrid abgeschnitten.
+Found
+MODSMD_ARTICLE14: Erfolgreich abgeschlagene Angriffe der Bolschewisten.
+Found
+MODSMD_ARTICLE15: Kabinettssitznng in London.
+Found
+MODSMD_ARTICLE16: Vom kommunistischen Wahn geheilt.
+Found
+MODSMD_ARTICLE17: Skandinavische „Freiwillige" auf Durchreise in Frankreich.
+Found
+MODSMD_ARTICLE18: Betriebseinstellung auf der Salzkammergut-Lokalbahn.
+Found

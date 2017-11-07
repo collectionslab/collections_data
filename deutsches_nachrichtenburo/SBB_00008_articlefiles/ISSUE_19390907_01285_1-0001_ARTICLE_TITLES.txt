@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Polnischer Rückzug auf der ganzen Front.
+Found
+MODSMD_ARTICLE02: Anleihe für Polen.
+Found
+MODSMD_ARTICLE03: Das Versailler Diktat die Ursache des Konfliktes.
+Found
+MODSMD_ARTICLE04: Schwerer Verlust der polnischen Kriegswirtschaft.
+Found
+MODSMD_ARTICLE05: Die Zivilbevölkerung flieht aus Warschau.
+Found
+MODSMD_ARTICLE06: Schweden verzeichnet Einnahme Krakaus als Sensation.
+Found
+MODSMD_ARTICLE07: Italien: „Die Lage Polens verzweifelt."
+Found
+MODSMD_ARTICLE08: Zugverkehr Italien—Schweiz wieder in größerem Umfang.
+Not Found
+MODSMD_ARTICLE09: Bukarest: „Strenge Einhaltung der Neutralität.
+Found
+MODSMD_ARTICLE10: China und Polen als Vorspann englischer Machtinteressen.
+Found
+MODSMD_ARTICLE11: Strikte Neutralitätserklärung Perus.
+Found
+MODSMD_ARTICLE12: Auch Kolumbien bleibt völlig neutral.
+Found
+MODSMD_ARTICLE13: Ekuador erklärt seine Neutralität.
+Found
+MODSMD_ARTICLE14: „England ist der eigentliche Kriegsurheber".
+Found

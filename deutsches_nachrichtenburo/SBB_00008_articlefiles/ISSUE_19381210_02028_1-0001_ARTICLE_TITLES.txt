@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Abendempfang der Deutsch Polnischen Gesellschaft.
+Found
+MODSMD_ARTICLE02: Nosenberg vor den politischen Leitern Berlins.
+Found
+MODSMD_ARTICLE03: Reichsautobahn- München—Stuttgart fertig.
+Not Found
+MODSMD_ARTICLE04: General Melchiori in Wien.
+Found
+MODSMD_ARTICLE05: Die marxistische Futterkrippenpolitik in Frankreich.
+Found
+MODSMD_ARTICLE06: Der Vatikan verhandelt mit den Bareelona-Bolschewisten.
+Found
+MODSMD_ARTICLE07: Negrin „droht" mit dem Rücktritt.
+Found
+MODSMD_ARTICLE08: Rote Bomben auf die Wohnviertel Cordobas.
+Found
+MODSMD_ARTICLE09: Kreuzer „Emden" in Vigo.
+Found
+MODSMD_ARTICLE10: Ukrainische Autonomieforderung in Polen.
+Found
+MODSMD_ARTICLE11: Jüdischer Trotzkist in Polen verurteilt.
+Found
+MODSMD_ARTICLE12: Moskau schlachtet die Zwischenfälle in Tunis aus.
+Found
+MODSMD_ARTICLE13: „Die Gottlosenbewegung hat versagt."
+Found
+MODSMD_ARTICLE14: Spaak über die politische Lage.
+Found
+MODSMD_ARTICLE15: Eine verständige schwedische Mahnung.
+Found
+MODSMD_ARTICLE16: Regierungsumbildung in Rumänien vertagt?
+Found
+MODSMD_ARTICLE17: Der Zentral-ukrainische Nationalrat.
+Found
+MODSMD_ARTICLE18: Eien Synagogenbrand.
+Found

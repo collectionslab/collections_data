@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Nur noch eine halbe Million Arbeitslose!
+Found
+MODSMD_ARTICLE03: Restlose Auswertung der Absallstoffe.
+Found
+MODSMD_ARTICLE04: Dr. Frick besucht Württemberg und Baden.
+Found
+MODSMD_ARTICLE05: Die 20. Jahrestagung des TAI. hat begonnen.
+Found
+MODSMD_ARTICLE06: Der „Taifun"-Europaflug.
+Found
+MODSMD_ARTICLE07: Deutsch-frainzösische Austauschschüler in Pariser Botschaft.
+Found
+MODSMD_ARTICLE08: Deutsches Heim für Baskenkinder in Bilbao.
+Found
+MODSMD_ARTICLE09: Kundgebung zu Ehren Deutschlands in Bilbao.
+Found
+MODSMD_ARTICLE10: Prinz Lippe bei dem Bundespräsidenten von Brasilien.
+Found
+MODSMD_ARTICLE11: Litwinow-Finkelstein in Wien.
+Found
+MODSMD_ARTICLE12: Paris fast ohne Autodroschken.
+Found
+MODSMD_ARTICLE13: Neue Zusammenstöße im spanischen Bolschewistenlager.
+Found
+MODSMD_ARTICLE14: Diskontherabsetzung der Bank von Portugal.
+Found
+MODSMD_ARTICLE15: Wieder 72. „Trotzkisten" ins Jenseits befördert.
+Found
+MODSMD_ARTICLE16: Nan kau von den Japanern in Brand geschossen.
+Found
+MODSMD_ARTICLE17: Japanische Flottenkundgebung vor Schanghai.
+Found
+MODSMD_ARTICLE18: Japanische Truppenlandungen in Schanghai.
+Found

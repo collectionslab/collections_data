@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Morgen- Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Richtfest für Erweiterungsbau des Propagandaministeriums.
+Found
+MODSMD_ARTICLE03: Die Tagung der Kommission für Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE04: Abschied von Generalleutnant Heinemann.
+Found
+MODSMD_ARTICLE05: Glückwünsche für Generalmajor von Kutzschenbach.
+Found
+MODSMD_ARTICLE06: Staatssekretär Schlegelberger nach Krakau abgereist.
+Found
+MODSMD_ARTICLE07: Tagung der Westpolnischen Landwirtschafts-Gesellschaft.
+Found
+MODSMD_ARTICLE08: Rom weist Londoner Tendenzmeldung zurück.
+Found
+MODSMD_ARTICLE09: Genfs hoffnungslose Lage.
+Found
+MODSMD_ARTICLE10: Schweden soll Gens meiden.
+Found
+MODSMD_ARTICLE11: Wie Moskau die Rolle Genfs sieht.
+Found

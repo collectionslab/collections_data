@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Deutsch-französischer Handelspakt ab 1. August wirksam.
+Found
+MODSMD_ARTICLE02: 59-Jahrfeier der Unterkiefer Korrektion.
+Found
+MODSMD_ARTICLE03: Das Krankenhans der „Barmherzigen Brüder" in Dortmund.
+Found
+MODSMD_ARTICLE04: Tie englische Presse zum Flottenvertrag.
+Found
+MODSMD_ARTICLE05: Die Flußschiffer bei Lille streiken.
+Found
+MODSMD_ARTICLE06: Schlacht zwischen Doriot-Anhängern und Kommunisten.
+Found
+MODSMD_ARTICLE07: Die Preissteigerung in Frankreich.
+Found
+MODSMD_ARTICLE08: „Standaard" gegen ostjüdischen Hetzer.
+Found
+MODSMD_ARTICLE09: Die Methoden bolschewistischer Werber in Holland.
+Found
+MODSMD_ARTICLE10: Judenprügeleien um den Palästina-Plan.
+Found
+MODSMD_ARTICLE11: Der Anschlag auf Oberst Koe.
+Found
+MODSMD_ARTICLE12: Japans Ultimatum vom Hopei-Tschachar-Rat angenommen.
+Found
+MODSMD_ARTICLE13: Abbau der Barrikaden in Peiping.
+Found
+MODSMD_ARTICLE14: Nanking lehnt territoriale Forderungen ab.
+Found
+MODSMD_ARTICLE15: General Kita beim chinesischen Kriegsminister.
+Found
+MODSMD_ARTICLE16: Mexikanische Luftfahrt durch Streik lahmgelegt.
+Found
+MODSMD_ARTICLE17: Die „Regeusbnrger Domspatzen" in Buenos Aires.
+Found
+MODSMD_ARTICLE18: Weltfliegerin Earhart für tot erklärt.
+Found

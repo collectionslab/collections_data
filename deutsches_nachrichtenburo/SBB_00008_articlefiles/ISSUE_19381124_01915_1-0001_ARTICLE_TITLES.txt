@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Diner der französischen Regierung für die britischen Gäste.
+Found
+MODSMD_ARTICLE02: Französische Frontkämpfer brechen mit Pensionsminister.
+Found
+MODSMD_ARTICLE03: Der Auswärtige Ausschuß des französischen Senats tagte.
+Found
+MODSMD_ARTICLE04: Gegm Entstellung der Wirklichkeit!
+Found
+MODSMD_ARTICLE05: Der Generalstreikplan in Frankreich.
+Found
+MODSMD_ARTICLE06: Einladungen zu den Palästina-Beratungen abgegangen.
+Found
+MODSMD_ARTICLE07: Gegen die Hetzer von der Labour Party.
+Found
+MODSMD_ARTICLE08: Deutscher Stimmenzuwachs in Nord-Schleswig.
+Found
+MODSMD_ARTICLE09: Zusätzliche Kredite zur Verstärkung der belgischen Armee.
+Found
+MODSMD_ARTICLE10: Französische Jagdflugzeuge für Schweden.
+Found
+MODSMD_ARTICLE11: Tschechische Juden bei schwedischen Sozialdemokraten.
+Found
+MODSMD_ARTICLE12: Der Aufenthalt des belgischen Königs in den Niederlanden.
+Found
+MODSMD_ARTICLE13: Einigung der baltischen Staaten.
+Found
+MODSMD_ARTICLE14: Großreinemachen in der Slowakei.
+Found
+MODSMD_ARTICLE15: Saudi-Arabien erkennt das Imperium an.
+Found
+MODSMD_ARTICLE16: Britische Militärmission wieder in Portugal.
+Found
+MODSMD_ARTICLE17: Burgos erwartet Zuerkennung der Kriegführendenrechte.
+Found
+MODSMD_ARTICLE18: Die deutsche Delegation hat Ankara verlassen.
+Found
+MODSMD_ARTICLE19: Kategorische Dementis des Staatssekretärs Hull.
+Found
+MODSMD_ARTICLE20: Der Chauffeurmörder hingerichtet.
+Found
+MODSMD_ARTICLE21: Der Jnpsbrucker Geiselmordprozeß.
+Found

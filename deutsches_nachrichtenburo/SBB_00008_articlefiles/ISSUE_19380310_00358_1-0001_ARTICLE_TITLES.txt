@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Generalstaatsanwälte im Reichsjustizministerium.
+Found
+MODSMD_ARTICLE02: Denkmäler der Kelten und Germanen in Bulgarien.
+Found
+MODSMD_ARTICLE03: Protesttelegramme an Miklas und Seyß-Jnquart.
+Found
+MODSMD_ARTICLE04: Kommunistische Demonstrationen für Schuschnigg.
+Found
+MODSMD_ARTICLE05: Durchstrichene und leere Zettel gelten als Ja-Stimmen!
+Found
+MODSMD_ARTICLE06: Besonderheiten der österreichischen! „Volksbefragung".
+Found
+MODSMD_ARTICLE07: Das Büro von Seyß-Jnquart zur Volksabstimmung.
+Found
+MODSMD_ARTICLE08: Kritische Stimmen zur Volksabstimmung in Oesterreich.
+Found
+MODSMD_ARTICLE09: Herbert Hoover in Posem.
+Found
+MODSMD_ARTICLE10: Die ersten Besprechungen Blums.
+Found
+MODSMD_ARTICLE11: Mehrheit in der Kammer für Ministerpräsident Janson.
+Found
+MODSMD_ARTICLE12: Fortgang der nationalen Offensive an der Aragon-Front.
+Found
+MODSMD_ARTICLE13: Das neue Arbeitsgesetz Grundlage für Spaniens Aufbau.
+Found
+MODSMD_ARTICLE14: Die Aussichten der englisch-irischen Verhandlungen.
+Found
+MODSMD_ARTICLE15: Verlängerung der Militärdirnstzeit in Norwegen.
+Found
+MODSMD_ARTICLE16: Eine von Streikenden besetzte Gießerei in USA. gestürmt.
+Found

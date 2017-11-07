@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Parteiverkehr ruht während des Reichsparteitages.
+Found
+MODSMD_ARTICLE02: Clemens Kraust an die Bayerische Staatsopfer berufen.
+Found
+MODSMD_ARTICLE03: Feierliche Beisetzung der Opfer von Bochum.
+Found
+MODSMD_ARTICLE04: Saarknappen spenden für die Hinterbliebenen von Bochum.
+Found
+MODSMD_ARTICLE05: Zahlung der Veteranenbeihilfe durch die Versorgungsämter.
+Found
+MODSMD_ARTICLE06: Deutschland auf dem Kopenhagener Jugendherbergskongreß»
+Found
+MODSMD_ARTICLE07: Irun gefallen.
+Found
+MODSMD_ARTICLE08: Provinz Leon stiftet Bombenflugzeug für die Nationalisten.
+Found
+MODSMD_ARTICLE09: Die Lage in Malaga. Fluchtvorbereitungen der Marxisten.
+Found
+MODSMD_ARTICLE10: Estland verbietet die Kriegsmaterialausfuhr nach Spanien.
+Found
+MODSMD_ARTICLE11: Auch die italienische Botschaft nach Alicante verlegt.
+Found
+MODSMD_ARTICLE12: Der polnische Generalstabschef in Metz.
+Found
+MODSMD_ARTICLE13: Polnischer Protestschritt in Prag.
+Found
+MODSMD_ARTICLE14: König Eduard auf Gallipoli.
+Found
+MODSMD_ARTICLE15: Zur Erkrankung des Außenministers Eden.
+Found
+MODSMD_ARTICLE16: Der Bergarbeiierstreik in Sndwales geht weiter.
+Found
+MODSMD_ARTICLE17: Kurzer Besuch Sir Samuel Hoares in Haifa.
+Found
+MODSMD_ARTICLE18: Erholungsurlaub des französischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE19: Weitere Borschläge zur Völkerbundsreform.
+Found

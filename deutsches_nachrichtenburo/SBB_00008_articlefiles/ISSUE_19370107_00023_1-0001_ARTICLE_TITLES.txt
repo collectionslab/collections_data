@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers au die Kömgin der Niederlande.
+Found
+MODSMD_ARTICLE02: Königin Elena nach Rom abgereist.
+Found
+MODSMD_ARTICLE03: Offizier der „Pluto" berichtet über Spanien-Abenteuer.
+Found
+MODSMD_ARTICLE05: Minister Juskip gegen allgemeine Wehrpflicht.
+Found
+MODSMD_ARTICLE06: Errichtung einer riesigen Wafsenfabrik in Lancashire.
+Found
+MODSMD_ARTICLE07: Britisches Kanonenfutter für die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE08: Die Widerstandskunst der Roten bei Santander erschüttert«
+Found
+MODSMD_ARTICLE09: Eine halbe Milliarde Drachmen für die Volkswohlfahrt.
+Found
+MODSMD_ARTICLE10: Erweiterung der Weihnachtsamnestie in Bulgarien.
+Found
+MODSMD_ARTICLE11: Streik in Pariser Großmolkerei Maggi betendet.
+Found
+MODSMD_ARTICLE12: Trotz Gottloseubewegung überfüllte Kirchen.
+Found
+MODSMD_ARTICLE13: Der Aufbau der ägyptischen Luftflotte.
+Found
+MODSMD_ARTICLE14: Türkische Ministerbesprechung in Eskischehir.
+Found
+MODSMD_ARTICLE15: Die Notstandsentschließung des USA-Parlaments.
+Found
+MODSMD_ARTICLE16: USA-Parlament gegen Waffenausfuhr. Transport Cuse frei.
+Found
+MODSMD_ARTICLE17: 53 000 Streikende in der amerikanischen Autoindustrie.
+Found

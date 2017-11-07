@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Gravina-Feier der Deutsch-Italienischen Gesellschaft.
+Found
+MODSMD_ARTICLE02: Arbeitstagung der Führerschaft des Landjahres.
+Found
+MODSMD_ARTICLE03: Ausreise des Schulschiffes „Deutschland".
+Found
+MODSMD_ARTICLE04: Tie Nngarnfahrt des NSKK.
+Found
+MODSMD_ARTICLE05: Die deutschen Schriftleiter in Sarajevo.
+Found
+MODSMD_ARTICLE06: Hollands Zweite Kammer billigt Währungsgesetze.
+Found
+MODSMD_ARTICLE07: Schweizer Nationalrat nimmt Vollmachtsgesetz an.
+Found
+MODSMD_ARTICLE08: Ab Sonnabend Flugverbindung Warschau-Athen.
+Found
+MODSMD_ARTICLE09: Italien Zur Schließung des englischen Konsulats in Gore.
+Found
+MODSMD_ARTICLE10: Mussolini empfing Italiens Botschafter in Washington.
+Found
+MODSMD_ARTICLE11: Besuch des Wiener Oberbürgermeisters in Rom.
+Found
+MODSMD_ARTICLE12: Auch der auswärtige Senatsausschust tagt.
+Found
+MODSMD_ARTICLE13: Eine Verlautbarung der französischen Bauern.
+Found
+MODSMD_ARTICLE14: Fluchtvorbereituugen der Madrider Regierung.
+Found
+MODSMD_ARTICLE15: Ein Gang durch das befreite Toledo.
+Found
+MODSMD_ARTICLE16: Madrider Regierung beruft Kammer zum 1. Oktober ein.
+Found
+MODSMD_ARTICLE17: Abermals scheußliche Mordtaten in Spanien.
+Found
+MODSMD_ARTICLE18: Stalin wirbt um neue Parteimitglieder.
+Found
+MODSMD_ARTICLE19: Der Kampf unter den Moskauer Machthabern.
+Found
+MODSMD_ARTICLE20: Schweres Gefecht in Palästina. 29 Araber gefallen.
+Found

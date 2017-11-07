@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Telegrammwechsel des Führers mit Mutschmann.
+Found
+MODSMD_ARTICLE02: Das Tagesprogramm am 1. August 1936.
+Found
+MODSMD_ARTICLE04: Der Reichsinnenminister an die deutsche Beamtenschaft.
+Found
+MODSMD_ARTICLE05: Rumäniens Olympia-Mannschaft in Berlin.
+Found
+MODSMD_ARTICLE06: Empfang weiterer Olympia Mannschaften.
+Found
+MODSMD_ARTICLE07: Olympische Spiele 1946 in Tokio.
+Found
+MODSMD_ARTICLE08: Paris ist über den Empfang in Berlin erfreut.
+Found

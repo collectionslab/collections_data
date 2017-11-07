@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Das Winterhilfswerk der Deutschen Jägerschaft.
+Found
+MODSMD_ARTICLE02: Weibliche Arbeitskräfte für die Landwirtschaft.
+Found
+MODSMD_ARTICLE03: Leistungssteigerung der bäuerlichen Hühnerhaltung. >
+Found
+MODSMD_ARTICLE04: Studentische Ehrenordnung fertiggestellt.
+Found
+MODSMD_ARTICLE05: Vollstreckung eines Todesurteils.
+Found
+MODSMD_ARTICLE06: Verbrecherisches Treiben eines Judenklüngels.
+Found
+MODSMD_ARTICLE07: Reichsminister Ruft in Athen.
+Found
+MODSMD_ARTICLE08: Für Freundschaft zwischen England und Deutschland.
+Found
+MODSMD_ARTICLE09: Londoner Erklärung zur Locarno-Entpflichtung Belgiens.
+Found
+MODSMD_ARTICLE10: Jagodas Nachfolger.
+Found
+MODSMD_ARTICLE11: Um die Entbindung Belgiens von seinen LocarnMZslichten.
+Found
+MODSMD_ARTICLE12: Die strafrechtliche Verfolgung de la Rocques.
+Found
+MODSMD_ARTICLE13: Aussperrungen in der französischen Industrie.
+Found
+MODSMD_ARTICLE14: Aufruf Molas au die baskischen Separatisten.
+Found
+MODSMD_ARTICLE15: Zur Kundgebung der Südafrikanischen Regierung.
+Found

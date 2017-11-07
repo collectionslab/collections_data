@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ehrentag deutscher Dichtung.
+Found
+MODSMD_ARTICLE02: Britischer Tanker vernichtet.
+Found
+MODSMD_ARTICLE03: Tie Zeit arbeitet gegen die Westmächte.
+Found
+MODSMD_ARTICLE04: „Pays Ree!" zieht die Bilanz des Seekrieges.
+Found
+MODSMD_ARTICLE05: „Ein Schrei in der Nacht".
+Found
+MODSMD_ARTICLE06: Frankreich will noch schärfer vorgehen.
+Found
+MODSMD_ARTICLE07: Der Hafenverkehr von Amsterdam auf die Hälfte gesunken.
+Found
+MODSMD_ARTICLE08: Tolles Durcheinander im Lügenministerium.
+Found
+MODSMD_ARTICLE09: Eine lehrreiche Geschichte aus Australien.
+Found
+MODSMD_ARTICLE10: Ter „Telegraaf" zum russisch-finnischen Konflikt.
+Found
+MODSMD_ARTICLE11: USA.-Journalist über die Stimmung in England.
+Found
+MODSMD_ARTICLE12: Moskau geißelt den Imperialismus der Alliierten.
+Found
+MODSMD_ARTICLE13: Tie „Prawda" gegen amerikanische Querschüsse.
+Found
+MODSMD_ARTICLE14: „Der Istanbuler Hafen so gut wie ausgestorben."
+Found
+MODSMD_ARTICLE15: Neutrale Schiffe laufen nicht mehr Gibraltar an.
+Found
+MODSMD_ARTICLE16: Wieder Minen an der jütländischen Küste.
+Found
+MODSMD_ARTICLE17: Präsidentenwahl in Peru.
+Found

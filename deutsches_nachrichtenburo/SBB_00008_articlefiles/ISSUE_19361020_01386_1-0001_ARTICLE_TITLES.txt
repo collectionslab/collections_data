@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die Landbeschaffung für Kleinsiedlungen.
+Found
+MODSMD_ARTICLE02: Ter deutsch-jugoslawische Warenaustausch.
+Found
+MODSMD_ARTICLE03: Bulgarische Auszeichnung.
+Found
+MODSMD_ARTICLE04: Staatssekretär Milch in Turin und Mailand»
+Found
+MODSMD_ARTICLE05: Der Aufenthalt Graf Cianos in München.
+Found
+MODSMD_ARTICLE06: Die Volkstümlichkeit Cianos in Deutschland.
+Found
+MODSMD_ARTICLE07: Weitere italienische Stimmen znm Besuch Cianos.
+Found
+MODSMD_ARTICLE08: Madrids Journalisten müssen die Hauptstadt verteidigen.
+Found
+MODSMD_ARTICLE09: „Tevere" über die deutsch-italienische Zusammenarbeit»
+Found
+MODSMD_ARTICLE10: Die Slowaken fordern gesetzliche Regelung der Judenfrage.
+Found
+MODSMD_ARTICLE11: „Handelsblad" über die internationale Lage Frankreichs.
+Found
+MODSMD_ARTICLE12: Das Grauen in Sowjetrnßland.
+Found

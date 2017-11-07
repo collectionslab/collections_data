@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Ueberfall auf Panzerschiff „Deutschland".
+Found
+MODSMD_ARTICLE02: Ter Reichsaußenminister bei Prinzregent Paul.
+Found
+MODSMD_ARTICLE03: Generalfeldmarschall von Blomberg in Sizilien.
+Found
+MODSMD_ARTICLE04: Mussolini spricht der Flotte seine Anerkennung aus.
+Found
+MODSMD_ARTICLE05: Starke Beachtung der deutschen Ordensverleihungen.
+Found
+MODSMD_ARTICLE06: Die italienische Presse gegen die neueste Lügenhetze.
+Found
+MODSMD_ARTICLE07: Englischer Besuch in Bilbao.
+Found
+MODSMD_ARTICLE08: Valencia zieht die Jahresklassen 1932 bis 1936 ein.
+Found
+MODSMD_ARTICLE09: Notschrei spanischer Akademien.
+Found
+MODSMD_ARTICLE10: Spende des Amerikanischen Roten Kreuzes für Bilbao.
+Found
+MODSMD_ARTICLE11: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE12: Die Bürgermeister von Paris stellen sich hinter Doriot.
+Found
+MODSMD_ARTICLE13: Lord Plymonth beim lettischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE14: 15 jüdische Kommunisten in Warschau verhaftet.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Reichspräsidialrat von Wulfsen 60 Jahre.
+Found
+MODSMD_ARTICLE02: Weltrekord-Flugzeug Do 18 wieder in Deutschland.
+Found
+MODSMD_ARTICLE03: Erschütterndes Dokument über die Verjudun.q Ungarns.
+Found
+MODSMD_ARTICLE04: Die vernichtende Niederlage der Bolschewiften.
+Found
+MODSMD_ARTICLE05: Gefährliches Spiel!
+Found
+MODSMD_ARTICLE06: Londoner Erwartungen aus dem Abkommen mit Rom.
+Found
+MODSMD_ARTICLE07: Daladier und Bonnet nach London eingeladen.
+Found
+MODSMD_ARTICLE08: Starke Beachtung der neuen Erfolge Francas in London.
+Found
+MODSMD_ARTICLE09: Pariser Metallarbeiterstreik flaut langsam ab.
+Found
+MODSMD_ARTICLE10: Besprechungen und Empfänge in Paris.
+Found
+MODSMD_ARTICLE11: Nationalistische Araberbewegung in Tunis aufgelöst.
+Found

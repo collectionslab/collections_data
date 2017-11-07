@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Dr. Ley wieder in Berlin.
+Found
+MODSMD_ARTICLE02: Die Königin von Dänemark operiert.
+Found
+MODSMD_ARTICLE03: Dr. Milchner in Neapel.
+Found
+MODSMD_ARTICLE04: Österreichische Legitimisten aus Jugoslawien ausgewiesen.
+Found
+MODSMD_ARTICLE05: Eine Klarstellung der Wiener „Reichspost".
+Found
+MODSMD_ARTICLE06: Die österreichische Abordnung in Budapest.
+Found
+MODSMD_ARTICLE07: Graf Ciano in Ungarns Hauptstadt.
+Found
+MODSMD_ARTICLE08: Van Zeeland verliest London.
+Found
+MODSMD_ARTICLE09: „Genfer Legalismus" das Gesetz gegen das Leben.
+Found
+MODSMD_ARTICLE10: Micescu bei Krofta.
+Found
+MODSMD_ARTICLE11: Litauischer Geheimbund aufgedeckt.
+Found
+MODSMD_ARTICLE12: Französische Hoggar-Rundflugmaschine abgestürzt.
+Found
+MODSMD_ARTICLE13: Austerordentliche Kabinettssitzung in Tokio. *
+Found
+MODSMD_ARTICLE14: Der Beschlust der japanischen Regierung.
+Found
+MODSMD_ARTICLE15: Der britische Generalkonsul in Schanghai protestiert.
+Found
+MODSMD_ARTICLE16: 16,5 Millionen Erwerbslose in Amerika!
+Found
+MODSMD_ARTICLE17: Roosevelt geistelt die „Erfolge" der Demokratie.
+Found
+MODSMD_ARTICLE18: Ankauf mexikanischen Silbers durch !!SA.
+Found

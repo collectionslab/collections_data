@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Graf Csaky bei Hermann Göring.
+Found
+MODSMD_ARTICLE02: Professor Langsdorfs zum Oberregierungsrat ernannt.
+Found
+MODSMD_ARTICLE03: Dr. Gärka über Polens Untergang und Wiederaufstieg.
+Found
+MODSMD_ARTICLE04: Eine Rede des rumänischen Außenministers.
+Found
+MODSMD_ARTICLE05: Jugoslawische Begrüßungsartikel für Graf Ciano.
+Found
+MODSMD_ARTICLE06: „Das deutsch-polnische Abkommen hat sich bewährt."
+Found
+MODSMD_ARTICLE07: „Kurjer Warszawski" zum Besuch Csakys in Berlin.
+Found
+MODSMD_ARTICLE08: Protestkundgebungen in Leningrad.
+Found
+MODSMD_ARTICLE09: Englands Kraftwerke unter polizeilicher Bewachung.
+Found
+MODSMD_ARTICLE10: Mexiko weist „New Aork Times"-KoeresPoudeui eu aus.
+Not Found
+MODSMD_ARTICLE11: Riesige Betrugsaffäre in La Guardias Verwaltung»
+Found
+MODSMD_ARTICLE12: Entschließung des Deutschen Südwestbundes.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die neuen deutsch-französischen Wirtschaftsabkommen.
+Found
+MODSMD_ARTICLE02: Der Besuch der faschistischen Milizoffiziere.
+Found
+MODSMD_ARTICLE03: Reichsleiter Hier! in Ostpreußen eingetroffen.
+Found
+MODSMD_ARTICLE04: Lehrreiche Schlüsse ans der Affare King-Hall.
+Found
+MODSMD_ARTICLE05: Müde Stimmung im Unterhaus.
+Found
+MODSMD_ARTICLE06: Judendruck auf die Londoner Regierung.
+Found
+MODSMD_ARTICLE07: Das britische Kabinett „Prüft" den Moskauer Bericht.
+Found
+MODSMD_ARTICLE08: Die „überlegenen deutschen Kreuzer".
+Found
+MODSMD_ARTICLE09: Ein Gesetz, das Palästina und Indien ignoriert.
+Found
+MODSMD_ARTICLE10: Einkreisungsbesuche im östlichen Mittelmeer.
+Found
+MODSMD_ARTICLE11: „Weltanschauliche Demagogie in unflätigen Worten."
+Found
+MODSMD_ARTICLE12: Einkreisungs-Jnstruktionsstunden in Warschau.
+Found
+MODSMD_ARTICLE13: Wird ein neuer Raub vorbereitet?
+Found
+MODSMD_ARTICLE14: Cianos Spanienreise beweist die enge Freundschaft.
+Found
+MODSMD_ARTICLE15: Verstärkung der Polizeistreitkräfte in Palästina.
+Found
+MODSMD_ARTICLE16: Arita fordert „klares Ja oder Nein".
+Found

@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Rudolf Heß rechnet mit den Kriegshetzern ab.
+Found
+MODSMD_ARTICLE02: Aussühruugsbestimmuugen zu dem nationalen Musikpreis.
+Found
+MODSMD_ARTICLE03: Die HJ. unterstützt die Volksdeutsche Arbeit.
+Found
+MODSMD_ARTICLE04: „Giornale d'Jtalia" würdigt die Leistungen der DAM.
+Found
+MODSMD_ARTICLE05: Berücksichtigung der Volksaruppenrechte in Ungarn.
+Found
+MODSMD_ARTICLE06: Britisches Blaubuch über die Lage in den Kolonien.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Förderung der Motorisierung durch die Partei.
+Found
+MODSMD_ARTICLE02: Der Oberbefehlshaber des Heeres in Zone 11.
+Found
+MODSMD_ARTICLE03: Braunau gedenkt der gefallenen Freikorpskäinpfer.
+Found
+MODSMD_ARTICLE04: Festkundgebung des Jbero-Amerikanischen Instituts.
+Found
+MODSMD_ARTICLE05: Juskip auf der Seite des Führers.
+Found
+MODSMD_ARTICLE06: Der Oberkommissar für Palästina auf dem Rückwege.
+Found
+MODSMD_ARTICLE07: Lord Winterton läßt sich nicht einschüchtern.
+Found
+MODSMD_ARTICLE08: 4IM streiken bei der Londoner U-Bahn.
+Found
+MODSMD_ARTICLE09: Die „Volksfront" ist nicht mehr!
+Found
+MODSMD_ARTICLE10: Triumphfahrt deutscher Sänger durch Italien.
+Found
+MODSMD_ARTICLE11: Der Rücktransport der italienischen Freiwilligen.
+Found
+MODSMD_ARTICLE12: Der nationale Heeresbericht vom Mittwoch.
+Found
+MODSMD_ARTICLE13: Funk beim bulgarischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE14: Papierner Protest des Weltjudentums.
+Found

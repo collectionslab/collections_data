@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Die Besprechungen Ribbmtrops in Warschau.
+Found
+MODSMD_ARTICLE02: Die memeldeutsche NSG. „Kraft durch Freude".
+Found
+MODSMD_ARTICLE03: Eine ungarische Gesandtschaft in Kairo.
+Found
+MODSMD_ARTICLE04: Prag beschließt Entsernung der Juden.
+Found
+MODSMD_ARTICLE05: Besprechungen Daladiers.
+Found
+MODSMD_ARTICLE06: Sie haben immer noch nicht begriffen.
+Found
+MODSMD_ARTICLE07: Das unruhige Irland.
+Found
+MODSMD_ARTICLE08: Belgiens Vertreter in Burgos.
+Found
+MODSMD_ARTICLE09: Generalreinigung Kataloniens.
+Found
+MODSMD_ARTICLE10: Der Stahlkoffer des* Herrn Negrin.
+Found
+MODSMD_ARTICLE11: Filme werben für Franco.
+Found
+MODSMD_ARTICLE12: Kunstschähe sind Nationalgut.
+Found
+MODSMD_ARTICLE13: Terrorherrschaft mit „objektiver Note".
+Found
+MODSMD_ARTICLE14: Tie spanische Kolonie in Busmos Aires feiert Francs.
+Found
+MODSMD_ARTICLE15: Das Rüstungsgeschäft des Weißen Hauses.
+Found
+MODSMD_ARTICLE16: Der Weltbolschewismus bedroht auch Amerika.
+Found
+MODSMD_ARTICLE17: Wie die USA.-Regierung ihre Schiffahrt unterstützt.
+Found
+MODSMD_ARTICLE18: Eine neue Niederlage Roosevelts.
+Found
+MODSMD_ARTICLE19: Amerikanischer Militärausschuß gegen Rüstungsgeschäfte.
+Found
+MODSMD_ARTICLE20: Räumung von chilenischen Städten wegen Epidemiegefahr.
+Found
+MODSMD_ARTICLE21: Zwei Morde und ein Taxenüberfall gesühnt.
+Found

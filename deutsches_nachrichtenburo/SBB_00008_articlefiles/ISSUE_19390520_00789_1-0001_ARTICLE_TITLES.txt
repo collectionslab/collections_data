@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: General Pariani am Sonntag gleichfalls in Berlin.
+Found
+MODSMD_ARTICLE02: Der litauische Außenminister in Berlin.
+Found
+MODSMD_ARTICLE03: Deutsch-litauische Wirtschaftsverträge unterzeichnet.
+Found
+MODSMD_ARTICLE04: Die deutsch-italienische Zusammenarbeit.
+Found
+MODSMD_ARTICLE05: Reichsminister Dr. Goebbels in Köln.
+Found
+MODSMD_ARTICLE06: Rücktritt des holländischen Finanzministers.
+Found
+MODSMD_ARTICLE07: Warschau zwischen Inda und London.
+Found
+MODSMD_ARTICLE08: Gafencu und Cincar-Markowitsch prüfen die Lage.
+Found
+MODSMD_ARTICLE09: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE10: Französische Kriegsschiffsbesuche.
+Found
+MODSMD_ARTICLE11: Roosevelt Fürsprecher der Palästinajuden.
+Found
+MODSMD_ARTICLE12: Illegale Judeneinwanderung in Palästina.
+Found
+MODSMD_ARTICLE13: Wieder Zahlreiche Waffen in Palästina beschlagnahmt.
+Found
+MODSMD_ARTICLE14: Roosevelt als Friedensstifter ungeeignet.
+Found
+MODSMD_ARTICLE15: Riesensensation in USA.
+Found

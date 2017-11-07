@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer bei den Salzöurger Festspielen.
+Found
+MODSMD_ARTICLE02: Die Frau des Botschafter Rachut Pascha gestorbem.
+Found
+MODSMD_ARTICLE03: Italienische Gäste auf dem Reichsparteitaggelände.
+Found
+MODSMD_ARTICLE04: 197 polnische Deserteure in 4 Wochen.
+Found
+MODSMD_ARTICLE05: Der hoffnungslose Irrtum der Polen.
+Found
+MODSMD_ARTICLE06: Systematische Schädigungen der deutscheu Landwirte.
+Found
+MODSMD_ARTICLE07: Immer neue Terror-Urteile gegen Ukrainer.
+Found
+MODSMD_ARTICLE08: Der italienische Kronprinz in Nordafrika.
+Found
+MODSMD_ARTICLE09: „Eine letzte Mahnung an die Demokratiein."
+Found
+MODSMD_ARTICLE10: Der deutsche Künstler und die neue Baukunst.
+Found
+MODSMD_ARTICLE11: Norman Thomas warnt vor den englischen Einflußversuchen.
+Found
+MODSMD_ARTICLE12: Staatspräsident Estigarribia tritt sein Amt an.
+Found
+MODSMD_ARTICLE13: Tschungking protestiert in London.
+Found
+MODSMD_ARTICLE14: „England handelt mit fremden Völkern und Ländern".
+Found
+MODSMD_ARTICLE15: Araber wehrlos den Juden ausgeliefert.
+Found

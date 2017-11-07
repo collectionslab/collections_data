@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die letzte Nacht unterm Standrecht.
+Found
+MODSMD_ARTICLE02: Freilicht-Filmvorführung in Eger.
+Found
+MODSMD_ARTICLE03: Zugverkehr im Karlsbader Bezirk wieder aufgenommen.
+Found
+MODSMD_ARTICLE04: Ungarisch-tschechische Verhandlungen am Sonntag.
+Found
+MODSMD_ARTICLE05: Die Regierung Tiso.
+Found
+MODSMD_ARTICLE06: Die Karpatho-Ukraine verlangt volle Autonomie.
+Found
+MODSMD_ARTICLE07: Slowakische Minister bei Syrovy.
+Found
+MODSMD_ARTICLE08: Vermerkszwang für tschecho-slowakischen Reisepaß.
+Found
+MODSMD_ARTICLE09: Dr. Ley in Belgrad.
+Found
+MODSMD_ARTICLE10: Die Verwendung der neuen belgischen Anleihe.
+Found
+MODSMD_ARTICLE11: Tie Abreise der englischen Abstimmungspolizei.
+Found
+MODSMD_ARTICLE12: Diplomatenbesuche im Warschauer Außenamt.
+Found
+MODSMD_ARTICLE13: Deutscher Warenkredit von 159 Mill. RM an die Türkei.
+Found
+MODSMD_ARTICLE14: Die türkische Presse zum Besuch Funks.
+Found
+MODSMD_ARTICLE15: Die Not der Madrider Bevölkerung.
+Found
+MODSMD_ARTICLE16: Aufforstung in Nationalspanien.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Staatssekretär Kleinmmn NSFK.-Gruppenführer.
+Found
+MODSMD_ARTICLE02: England will die Nutzanwendung ziehen.
+Found
+MODSMD_ARTICLE03: Ministerium für nationalen Dienst in England?
+Found
+MODSMD_ARTICLE04: Günstige Aufnahme der Einigung in London.
+Found
+MODSMD_ARTICLE05: Zur Wiederaufnahme der Besprechungen Ciano—Perth.
+Not Found
+MODSMD_ARTICLE06: Kammerauflösung erneut gefordert.
+Found
+MODSMD_ARTICLE07: Die privaten französischen Sender unter Kontrolle.
+Found
+MODSMD_ARTICLE08: Belgische Befestigungen an der französischen Grenze.
+Found
+MODSMD_ARTICLE09: Dr. Lech verabschiedete sich in Bukarest.
+Found
+MODSMD_ARTICLE10: Reorganisation des rumänischen Heeres.
+Found
+MODSMD_ARTICLE11: Ministerrat in Budapest.
+Found
+MODSMD_ARTICLE12: Amtsantritt der karpathen-ukrainischen Regierung.
+Found
+MODSMD_ARTICLE13: Tie Hülle des polnischen Stratosphärenballons zerstört.
+Found
+MODSMD_ARTICLE14: Spanien ehrt den Gründer der Falange.
+Found
+MODSMD_ARTICLE15: Der Bürgerkrieg in Palästina.
+Found
+MODSMD_ARTICLE16: Kein diplomatischer Schritt Englands in Japan.
+Found
+MODSMD_ARTICLE17: Der japanische Vormarsch in Südchina.
+Found
+MODSMD_ARTICLE18: Chinesische Truppenverschiebuugeu bei Hongkong.
+Found
+MODSMD_ARTICLE19: „Sorge und Verzweiflung" des Weltjudentums.
+Found

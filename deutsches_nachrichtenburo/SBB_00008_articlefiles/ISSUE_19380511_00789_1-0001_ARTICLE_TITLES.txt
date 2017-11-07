@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Rudolf Heß au Starace.
+Found
+MODSMD_ARTICLE02: Reichsminister Frank an Justizminister Solmi.
+Found
+MODSMD_ARTICLE03: Starace lobt die Organisation der Führerkundgebungen.
+Found
+MODSMD_ARTICLE04: Roms Presse zum Empfang des Führers in Berlin.
+Found
+MODSMD_ARTICLE06: Nur noch 423 VVO Arbeitslose.
+Found
+MODSMD_ARTICLE07: Graf Schwerin von Krosigk auf dem Bankiertag.
+Found
+MODSMD_ARTICLE08: Beisetzung des Oberstarbeitsführes Bundrock.
+Found
+MODSMD_ARTICLE09: Deutsche Schüler fahren nach Amerika.
+Found
+MODSMD_ARTICLE10: Heute Ende der Beslaggung.
+Found
+MODSMD_ARTICLE11: Bekenntnis sudetendeutscher Priester»
+Found
+MODSMD_ARTICLE12: England stellt Ballon-Sperr-Gefchwader auf.
+Found
+MODSMD_ARTICLE13: Die Regierungskrise in Belgien noch nicht überbrückt.
+Found
+MODSMD_ARTICLE14: Die französische Grosthandelskennzahl.
+Found
+MODSMD_ARTICLE15: Meuterei auf einem dänischen Dampfer.
+Found
+MODSMD_ARTICLE16: Die Regierung Bargas gestürzt?
+Found
+MODSMD_ARTICLE17: Weitere japanische Aktionen in Südchina erwartet.
+Found

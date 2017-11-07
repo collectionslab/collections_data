@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Beileid des Reichsaußennnnisters zum Tode König Fuads.
+Found
+MODSMD_ARTICLE02: Das Deutschtum Aegyptens trauert um König Fuad.
+Found
+MODSMD_ARTICLE03: Minister Rossoni im Nhin-Luch.
+Found
+MODSMD_ARTICLE04: Glockenläuten am 1. Mai.
+Found
+MODSMD_ARTICLE05: Chinas Aufschwung: Bortrag des chinesischen Pressechefs.
+Found
+MODSMD_ARTICLE06: Hamburger Empfang des Bürgermeisters von Athen.
+Found
+MODSMD_ARTICLE07: Gesandter Fabricius überreicht sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE08: Die Pariser Presse über den zweiten Wahlgang.
+Found
+MODSMD_ARTICLE09: Die Tanziger Note an Polen.
+Found
+MODSMD_ARTICLE10: Filialleiter der „Phönix" zu schwerem Kerker verurteilt.
+Found
+MODSMD_ARTICLE11: Der italienische Vormarsch nach Süden.
+Found

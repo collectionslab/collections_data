@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Glückwünsche zur Rettung des Führers.
+Found
+MODSMD_ARTICLE02: London will sich herauslügen.
+Found
+MODSMD_ARTICLE03: Funk reist in die befreiten Gebiete.
+Found
+MODSMD_ARTICLE04: Dr. Tnkä au den slowakischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE05: „Nur Schurken und Bestien konnten das vollbringen."
+Found
+MODSMD_ARTICLE06: Beratung der Finnen mit Stalin und Molotow.
+Found
+MODSMD_ARTICLE07: „Die Zeit der Ausplünderung der Westukraine ist vorbei."
+Found
+MODSMD_ARTICLE08: Gegen den britischen Kapitalismus.
+Found
+MODSMD_ARTICLE09: Das ist der „Friedenswahrer" Chamberlain!
+Found
+MODSMD_ARTICLE10: England zieht Verkaufsvertröge mit Brasilien zurück.
+Found
+MODSMD_ARTICLE11: Rücktritt der Regierung von Kolumbien.
+Found
+MODSMD_ARTICLE12: Keine Einigung Englands mit dem Großmufti.
+Found
+MODSMD_ARTICLE13: Ein Todesurteil vollstreckt.
+Found

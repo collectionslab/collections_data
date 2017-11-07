@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Kulturprobleme der Gegenwart.
+Found
+MODSMD_ARTICLE02: Der 3. Lehrgang des Außenpolitischen Schulungshauses.
+Found
+MODSMD_ARTICLE03: Das jugoslawische Volk gratuliert Adolf Hitler.
+Found
+MODSMD_ARTICLE04: „Der Geburtsiaa des Führers ein deutsches Freudenfest."
+Found
+MODSMD_ARTICLE05: Die „Wreme" würdigt Person und Werk des Führers.
+Found
+MODSMD_ARTICLE06: Zweite Unterredung Mussolinis mit Teleki.
+Found
+MODSMD_ARTICLE07: Lord Perth verabschiedete sich von Graf Ciano.
+Found
+MODSMD_ARTICLE08: „Roosevelt hat keine moralische Autorität."
+Found
+MODSMD_ARTICLE09: Spaniens Handelsflotte wird wiederhergestellt.
+Found
+MODSMD_ARTICLE10: Lord Halifax leugnet die Einkreisungs-Tendenz.
+Found
+MODSMD_ARTICLE11: Die deutsche Iran-Abordnung in Bagdad.
+Found

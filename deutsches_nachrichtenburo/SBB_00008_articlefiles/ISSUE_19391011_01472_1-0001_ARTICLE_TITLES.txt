@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Armeebefehl Dr. Tisos an die slowakische Wehrmacht.
+Found
+MODSMD_ARTICLE02: Moskau zitiert ausführlich die Rede des Führers.
+Found
+MODSMD_ARTICLE03: Die finnische Abordnung in Moskau.
+Found
+MODSMD_ARTICLE04: Moskau: „Besiegelung der Freundschaft."
+Found
+MODSMD_ARTICLE05: Litauen: „Ein altes Unrecht wieder gutgemacht".
+Found
+MODSMD_ARTICLE06: Die Durchführung des russisch-estnischen Paktes.
+Found
+MODSMD_ARTICLE07: Die wirklichen britischen Kriegsziele.
+Found
+MODSMD_ARTICLE08: Schweden fordert Freigabe zurückgehaltener Waren.
+Found
+MODSMD_ARTICLE09: „Klägliche Mittelchen!"
+Found
+MODSMD_ARTICLE10: „Nicht klarer als vorher!"
+Found
+MODSMD_ARTICLE11: Jugoslawien: „Hitler hat aus dem Herzen gesprochen".
+Found
+MODSMD_ARTICLE12: „Fremdrassige Elemente am Werk".
+Found
+MODSMD_ARTICLE13: Vergewaltigung der Neutralen durch London.
+Found
+MODSMD_ARTICLE14: Irlands Neutralität.
+Found
+MODSMD_ARTICLE15: Lloyd George will für den Frieden sprechen.
+Found
+MODSMD_ARTICLE16: Empfindlicher HolZmangel in England.
+Found
+MODSMD_ARTICLE17: Vollstreckung Von Todesurteilen.
+Found

@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Richtlinien des Korpsfiihrers Hühnlein.
+Found
+MODSMD_ARTICLE02: Der ungarische Justizminister beim Chef der Reichskanzlei.
+Found
+MODSMD_ARTICLE03: Reichsleiter Bormann 38 Jahre alt.
+Found
+MODSMD_ARTICLE04: Lady Muriel Paget gestorben.
+Found
+MODSMD_ARTICLE05: Paris ratifiziert das Montreux-Abkommen.
+Found
+MODSMD_ARTICLE06: Wüsie Lärmszenen in der französischen Kammer.
+Found
+MODSMD_ARTICLE07: Die finanzielle Lage der französischen Eisenbahn.
+Found
+MODSMD_ARTICLE08: Die bolschewistischen Schandtaten in Castellon.
+Found
+MODSMD_ARTICLE09: Bor einer unabsehbaren Flutkatastrophe in China.
+Found

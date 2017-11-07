@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Flugzeuglandungen am fahrenden Luftschiff „Hindenburg".
+Found
+MODSMD_ARTICLE02: Verbesserung der Arbeitsbedingungen im Bergbau.
+Found
+MODSMD_ARTICLE03: Oesterreichs Sorge um das Sinken der Geburtenzahl.
+Found
+MODSMD_ARTICLE04: Jüdischer Leiter kommunistischer „Schulungskurse".
+Found
+MODSMD_ARTICLE05: Gründung einer Jtalienisch-Japauischeu Kulturgesellschaft.
+Found
+MODSMD_ARTICLE06: Begeisterter Empfang Mussolinis in Tobruk.
+Found
+MODSMD_ARTICLE07: Genfer Rohstoffausschust auf 21. Juni vertagt.
+Found
+MODSMD_ARTICLE08: Genfer Automobilausstellung eröffnet.
+Found
+MODSMD_ARTICLE09: Genfer Tagung wegen des Ausnahmegesuchs Aegyptens.
+Found
+MODSMD_ARTICLE10: Polnische Chemiker fordern Arier-Paragraph.
+Found
+MODSMD_ARTICLE11: Der Besuch Antonescus in Ankara.
+Found
+MODSMD_ARTICLE12: Der Heilige Synod Rumäniens gegen das Logenunwesen.
+Found
+MODSMD_ARTICLE14: Staatsminister Hansson für gemeinsame Neutralität.
+Found
+MODSMD_ARTICLE15: Heftige Kämpfe vor Guadalajara.
+Found
+MODSMD_ARTICLE16: Neue Grenzunruhen in Nordwest-Indien.
+Found
+MODSMD_ARTICLE17: Anschlag auf einen indischen Minister.
+Found
+MODSMD_ARTICLE18: Regelung der Arbeitsstreitigkeiten bei General Motors.
+Found
+MODSMD_ARTICLE19: Postflugzeug verunglückt.
+Found

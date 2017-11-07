@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: De. Goebbels legt Grundstein zur Deutschen Film-Akademie.
+Found
+MODSMD_ARTICLE02: Englands Haushaltsplan.
+Found
+MODSMD_ARTICLE03: Holland intensiviert seine Kolonialarbeit.
+Found
+MODSMD_ARTICLE04: Neuwahlen in Südafrika.
+Found

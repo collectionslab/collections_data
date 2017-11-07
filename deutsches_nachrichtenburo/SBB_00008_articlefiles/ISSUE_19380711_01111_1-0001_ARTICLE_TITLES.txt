@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Beileid des Reichsarbeitsministers.
+Found
+MODSMD_ARTICLE02: Ernennung im Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE03: Die Tarifordnungen für den öffentlichen Dienst.
+Found
+MODSMD_ARTICLE04: Dr. Krebs im Vorstand des Deutschen Gemeindetages.
+Found
+MODSMD_ARTICLE05: Besuch des türkischen Generalstaatssekretärs in München.
+Found
+MODSMD_ARTICLE06: Polnische Deutschlandbesucher widerlegen Hetzer.
+Found
+MODSMD_ARTICLE07: Prags gefährliches Spiel.
+Found
+MODSMD_ARTICLE08: Der deutsche Sozialismus bricht sich Bahn.
+Found
+MODSMD_ARTICLE09: Versteifung! der Haltung Prags.
+Found
+MODSMD_ARTICLE10: Die norditalienische Presse zur Mnnchener Führerrede.
+Found
+MODSMD_ARTICLE11: Der Besuch. General Parianis in Berlin.
+Found
+MODSMD_ARTICLE12: „Buchstabe und Geist".
+Found
+MODSMD_ARTICLE13: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE14: Flandern feiert den Jahrestag der „goldenen Sporenschlacht".
+Found
+MODSMD_ARTICLE15: Degrelle für den belgischen Einheitsstaat.
+Found

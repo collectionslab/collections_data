@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Aus der Verwaltung.
+Found
+MODSMD_ARTICLE03: Henlein über die Leibeserziehung im Volkstumskampf.
+Found
+MODSMD_ARTICLE04: Pannen bei einer Jnstizkomödie in Pilsen.
+Found
+MODSMD_ARTICLE05: Erschwerung der Aufgabe Lord Runcimans.
+Found
+MODSMD_ARTICLE06: „Giornale d'Jtalia" über die Kriegslage in Spanien.
+Found
+MODSMD_ARTICLE07: Verbrechen, wie sie nur jüdische Gehirne ausbrüten konnten.
+Found
+MODSMD_ARTICLE08: „AG Bomben nach Berlin."
+Found
+MODSMD_ARTICLE09: Die Familienunterstützung im neuen Spanien.
+Found
+MODSMD_ARTICLE10: Nach wie vor zwei Nationalhymnen in Südafrika.
+Found

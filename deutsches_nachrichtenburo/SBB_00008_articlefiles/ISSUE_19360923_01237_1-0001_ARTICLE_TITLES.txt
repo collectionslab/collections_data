@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dank für die Tätigkeit der deutschen Schiffe in Spanien.
+Found
+MODSMD_ARTICLE02: Der letzte Tag der Hitler-Jugend in Rom.
+Found
+MODSMD_ARTICLE03: Die gemeinsamen Aufgaben Deutschlands und Italiens.
+Found
+MODSMD_ARTICLE04: Der Tanziger Kriegsschiffbesuch vor dem Völkerbundsrat.
+Found
+MODSMD_ARTICLE05: Der Vollmachtenausschuß für Zulassung der Abessinier.
+Found
+MODSMD_ARTICLE06: „Kommissar Litwinow trübt das Wasser".
+Found
+MODSMD_ARTICLE07: Die Zwangsparzellierungen in Polen.
+Found
+MODSMD_ARTICLE08: Die Regierungsneubildung in Schweden.
+Found
+MODSMD_ARTICLE09: Madrid plant diplomatischen Vorstoß gegen Portugal.
+Found
+MODSMD_ARTICLE10: Durch Wirtschaftsreformen zum Weltfrieden.
+Found
+MODSMD_ARTICLE11: Immer noch Widerstand im Alcazar von Toledo.
+Found
+MODSMD_ARTICLE12: Rote Mordbrenner und Frauenschänder.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Abschlußparade der deutschen Ordnungspolizei.
+Found
+MODSMD_ARTICLE02: Die Architckturausstcllung geschlossen.
+Found
+MODSMD_ARTICLE03: Ein großer Tag der Hamburger Garnison.
+Found
+MODSMD_ARTICLE04: Dr. Ley: „Von nun an gehört ihr Adolf Hitler".
+Found
+MODSMD_ARTICLE05: Die österreichische Kchtsangleichung.
+Found
+MODSMD_ARTICLE06: Graf Hagenburg siegt in St. Germain.
+Found
+MODSMD_ARTICLE07: Abschiedsabend für Unterstaatssekretär Woernmnn.
+Found
+MODSMD_ARTICLE08: Kapitäp Lübbes Leiche auf dem Wege nach Hamburg.
+Found
+MODSMD_ARTICLE09: Britisch-französisches Bauprogramm für Flugzeuge?
+Found
+MODSMD_ARTICLE10: Avenol in London.
+Found
+MODSMD_ARTICLE11: Brasilien erkennt das italienische Imperium an.
+Found
+MODSMD_ARTICLE12: Deutsche Auszeichnung für einen portugiesischen Musiker.
+Found
+MODSMD_ARTICLE13: Vereidigung des Staatspräsidenten Paets.
+Found
+MODSMD_ARTICLE14: Japanische Erfolge in Nordchina»
+Found

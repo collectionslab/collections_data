@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer empfing deutsche Wirtschaftsführer. W
+Found
+MODSMD_ARTICLE02: Rudolf Heß an den Kapitän des „Heinrich Grammerstorf".
+Found
+MODSMD_ARTICLE03: Reichsleiter- und Gauleitertagung in Berlin.
+Found
+MODSMD_ARTICLE04: Zu Regierungspräsidenten ernannt.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Der Rundfunk auf der „Grünen Woche"
+Found
+MODSMD_ARTICLE07: Sitzung des Nichteinmischungsunterausschusses.
+Found
+MODSMD_ARTICLE08: Die englische Regentschaftsvorlage.
+Found
+MODSMD_ARTICLE09: Ugaki verzichtet auf die Kabinettsbildung.
+Found
+MODSMD_ARTICLE10: Deutschfeindliches Sowjet-Manöver entlarvt.
+Found
+MODSMD_ARTICLE11: Siebzehn Todesurteile in Moskau beantragt.
+Found
+MODSMD_ARTICLE12: Ernennungen in der Sowjetunion.
+Found
+MODSMD_ARTICLE13: Besahung eines holländischen Frachtdampfers vermißt.
+Found

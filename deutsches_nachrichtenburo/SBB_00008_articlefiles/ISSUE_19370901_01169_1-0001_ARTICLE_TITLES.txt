@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Frank, Groß und Ley vor den Auslandsdeutschen.
+Found
+MODSMD_ARTICLE03: Starker Erfolg von Ufa-Filmen in Venedig.
+Found
+MODSMD_ARTICLE04: Parlamentstagung über die Belgische Nationalbank.
+Found
+MODSMD_ARTICLE05: Die Umorganisation der französischen Eisenbahnen.
+Found
+MODSMD_ARTICLE06: Ungünstige Bevölkerungsstatistik in Frankreich.
+Found
+MODSMD_ARTICLE07: Frankreichs Generalstabschef nach England abgereist.
+Found
+MODSMD_ARTICLE08: „Journal des Debats" klagt an.
+Found
+MODSMD_ARTICLE09: Der englische Verteidigungsminister beim König.
+Found
+MODSMD_ARTICLE10: Von Juden geplant und verbaut!
+Found
+MODSMD_ARTICLE11: Weitere britische Verstärkungen für den Fernen Osten.
+Found
+MODSMD_ARTICLE12: China bedauert in Washington.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Das Reichsführerlager der HI in Braunschweig.
+Found
+MODSMD_ARTICLE02: Tie Verkehrsübergabe des Maschsees in Hannover.
+Found
+MODSMD_ARTICLE03: Englische Gäste in München.
+Found
+MODSMD_ARTICLE05: Großer Konzerterfolg der Berliner Philharmoniker.
+Found
+MODSMD_ARTICLE06: Frankreichs Teilnahme an der Olympiade.
+Found
+MODSMD_ARTICLE07: Besprechungen Leon Blums.
+Found
+MODSMD_ARTICLE08: Beschlüsse des radikalsozialistischen Parteivorstandes.
+Found
+MODSMD_ARTICLE09: Eine Richtigstellung Blums.
+Found
+MODSMD_ARTICLE10: Butt jr. verläßt die Firma.
+Found
+MODSMD_ARTICLE11: Die italienisch-englischen Beziehungen.
+Found
+MODSMD_ARTICLE12: Weitere Verhaftungen irischer Republikaner.
+Found
+MODSMD_ARTICLE13: Kommunistische Hetzer in Sofia verhaftet.
+Found
+MODSMD_ARTICLE14: Antwort Japans wegen des Schmuggels in China.
+Found
+MODSMD_ARTICLE15: Die britisch-japanischen Beziehungen.
+Found
+MODSMD_ARTICLE16: Chinas Kampf gegen den Warenschmuggel.
+Found

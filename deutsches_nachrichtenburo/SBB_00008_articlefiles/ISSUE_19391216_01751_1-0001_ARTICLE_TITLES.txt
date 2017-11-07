@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Bericht des Oberkommandos der Wehrmacht.
+Found
+MODSMD_ARTICLE02: Massenkundgebung mit Dr. Ley in Posen.
+Found
+MODSMD_ARTICLE03: Dr. Ley in Lodsch.
+Found
+MODSMD_ARTICLE04: Deutschlands Widerstandskraft nicht unterschätzen?
+Found
+MODSMD_ARTICLE05: England und Frankreich wollen endgültige Vorherrschaft.
+Found
+MODSMD_ARTICLE06: „100 Tage Krieg ohne große Initiative."
+Found
+MODSMD_ARTICLE07: Immer mehr Franzosen wandern ins Gefängnis.
+Found
+MODSMD_ARTICLE08: Auch die Devisen werden in Großbritannien selten.
+Found
+MODSMD_ARTICLE09: Ansteigende Preise in England.
+Found
+MODSMD_ARTICLE10: Papier wird in England knapp.
+Found
+MODSMD_ARTICLE11: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE12: Finnland beruft alle Reservisten ein.
+Found
+MODSMD_ARTICLE13: Ein Sechstel der finnischen Bevölkerung evakuiert.
+Found
+MODSMD_ARTICLE14: Britischer Terror wütet in Indien.
+Found
+MODSMD_ARTICLE15: Bulgarien würdigt die Heldentat der „Admiral Graf Spee".
+Found
+MODSMD_ARTICLE16: Fern der Heimat für Führer und Volk gefallen.
+Found

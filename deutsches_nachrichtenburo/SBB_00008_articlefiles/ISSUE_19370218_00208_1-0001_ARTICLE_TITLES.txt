@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Dr. Ley über die Sorge um den deutschen Arbeiter.
+Found
+MODSMD_ARTICLE02: Außenminister Spaak begrüßt die Erklärungen des Führers.
+Found
+MODSMD_ARTICLE03: Ein Geschenk japanischer Weber für den Führer.
+Found
+MODSMD_ARTICLE04: Streik bei Peugeot.
+Found
+MODSMD_ARTICLE05: Streik in Dünkirchen legt Verkehr lahm.
+Found
+MODSMD_ARTICLE06: Nadikalsozialistische Kritik an der Finanzpolitik Blums.
+Found
+MODSMD_ARTICLE07: Spanien-Fragen bor Pariser Kammerausschuß.
+Found
+MODSMD_ARTICLE08: „Tribnna" geißelt Pressemanöber gegen Londoner Einigung.
+Found
+MODSMD_ARTICLE09: Reise des österreichischen FinanZministers nach Rom.
+Found
+MODSMD_ARTICLE10: Lindbergh wird vermißt.
+Found
+MODSMD_ARTICLE11: Erklärung Baldwins gegen die Sozialdemokraten.
+Found
+MODSMD_ARTICLE12: Sowjetrußland Zur Vereinbarung über U-Boot Krieg.
+Found
+MODSMD_ARTICLE13: Sowjetrussischer Rüstungskredit für Valencia.
+Found
+MODSMD_ARTICLE14: Neuer Luftangriff auf bolschewistische Stellungen.
+Found
+MODSMD_ARTICLE15: Spaniens Bolschewisten beschlagnahmen belgische Fabrik.
+Found
+MODSMD_ARTICLE16: Seegefecht bor Tarragona.
+Found
+MODSMD_ARTICLE17: Schießerei anarchistischen Gruppen.
+Found
+MODSMD_ARTICLE18: Vertrauenserklärung für die albanische Regierung.
+Found
+MODSMD_ARTICLE19: Der neue französische Botschafter in USA eingetroffen.
+Found
+MODSMD_ARTICLE20: USA-Marinedepartement für Flottengleichheit mit England.
+Found
+MODSMD_ARTICLE21: Amerikanischer Bergarbeiterfiihrer droht mit Streik.
+Found
+MODSMD_ARTICLE22: Einsturzunglück in Sau Fraucisco.
+Found

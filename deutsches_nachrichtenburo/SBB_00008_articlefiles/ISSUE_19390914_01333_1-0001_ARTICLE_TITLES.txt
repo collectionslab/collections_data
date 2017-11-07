@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die Schutzmächte für die deutschen Interessen.
+Found
+MODSMD_ARTICLE02: Radio London sucht noch immer die „Bremen".
+Found
+MODSMD_ARTICLE03: Die alten britischm Propagandamethoden.
+Found
+MODSMD_ARTICLE04: Wohnungen der Deutschen in Posen geplündert.
+Found
+MODSMD_ARTICLE05: Verstümmelte Leichen an Haustore genagelt.
+Found
+MODSMD_ARTICLE06: Offizielle Aufforderung Zum Bandenkrieg.
+Found
+MODSMD_ARTICLE07: Das Wüten der polnischen Horden.
+Found
+MODSMD_ARTICLE08: Die Neutralen im Kampf gegen den Würgegriff Englands.
+Found
+MODSMD_ARTICLE09: Aufruhr auch in Nordostpoleni.
+Found
+MODSMD_ARTICLE10: Allerstärkste Beachtung der neuesten deutschen Erfolge.
+Found
+MODSMD_ARTICLE11: Postverkehr zwischen Deutschland und Norwegen normal.
+Found
+MODSMD_ARTICLE12: „Wirtschaftskrieg auf schweizerischen Boden".
+Found
+MODSMD_ARTICLE13: Der Krieg und das englische Wirtschaftsleben.
+Found
+MODSMD_ARTICLE14: Jnformationsministerium lügt nicht schnell genug.
+Found
+MODSMD_ARTICLE15: Der südafrikanische Oberkommissar in London zurückgetreten.
+Found
+MODSMD_ARTICLE16: General Franca in Orense.
+Found
+MODSMD_ARTICLE17: „Japans Nichteinmischungspolitik grundfalsch verstanden."
+Found

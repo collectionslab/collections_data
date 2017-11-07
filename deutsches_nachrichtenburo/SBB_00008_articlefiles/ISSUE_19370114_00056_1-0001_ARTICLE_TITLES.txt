@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer zur Heimbeschaffung der Hitler-Jugend.
+Found
+MODSMD_ARTICLE02: Ministerpräsident Göring ehrt den Unbekannten Soldaten.
+Found
+MODSMD_ARTICLE03: Empfang im Quirinal.
+Found
+MODSMD_ARTICLE04: Das Echo der Friedeuserklärung des Führers.
+Found
+MODSMD_ARTICLE05: Wieder Ruhe bei der Pariser Presse.
+Found
+MODSMD_ARTICLE06: Blum wieder in Paris.
+Found
+MODSMD_ARTICLE07: „Action Die Roten herrschen in Perpignan.
+Found
+MODSMD_ARTICLE08: 76 amerikanische „Freiwillige" in Barcelona eingetroffen«
+Found
+MODSMD_ARTICLE09: Portugals Antwort auf das englische Memorandum.
+Found
+MODSMD_ARTICLE10: Polnisches Blatt in der Tschechoslowakei beschlagnahmt.
+Found
+MODSMD_ARTICLE11: Das „Sowjetparadies" am Pranger.
+Found
+MODSMD_ARTICLE12: Ein führender Araber vor dem Palästina-Ausschuß.
+Found

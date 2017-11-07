@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Die Ehrengabe der Beamtenschast dem Rührer überreicht.
+Found
+MODSMD_ARTICLE02: Der Athener Oberbürgermeister im Berliner Rathaus.
+Found
+MODSMD_ARTICLE03: Rom feiert den Sieg.
+Found
+MODSMD_ARTICLE04: Flaggenhissung in Addis Abeba.
+Found
+MODSMD_ARTICLE05: England und der Völkerbund.
+Found
+MODSMD_ARTICLE06: Ein Interview Mussolinis mit Ward Price.
+Found
+MODSMD_ARTICLE07: Die Aufnahme der Mussolini-Rede in Paris.
+Found

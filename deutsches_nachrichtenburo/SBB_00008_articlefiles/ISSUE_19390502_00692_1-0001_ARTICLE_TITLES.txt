@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Das deutsche Danzig dankt seinem Führer.
+Found
+MODSMD_ARTICLE02: Tie italienische Presse zum deutschen Nationalen Feiertag.
+Found
+MODSMD_ARTICLE03: Frankreich: Verständnislosigkeit nach wie vor.
+Found
+MODSMD_ARTICLE04: Nordirland gegen Wehrpflicht für Englands Interesse.
+Found
+MODSMD_ARTICLE05: Britische Handelsorganisation als Lockmittel.
+Found
+MODSMD_ARTICLE06: Polens Presse kritisiert Pilsudskis Politik.
+Found
+MODSMD_ARTICLE07: Indien gegen Verwicklung in einen Krieg.
+Found
+MODSMD_ARTICLE08: Neue Zwischenfälle in Palästina.
+Found
+MODSMD_ARTICLE09: Palästina-Vorschläge der Araber in London überreicht.
+Found
+MODSMD_ARTICLE10: Kommunistische Kriegsfanfaren.
+Found
+MODSMD_ARTICLE11: Coughlin: „Sorgfältig abgestimmte Kriegshetze."
+Found

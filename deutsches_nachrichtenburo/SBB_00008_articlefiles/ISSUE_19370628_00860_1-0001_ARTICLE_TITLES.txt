@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer in der Stadt der Reichsparteikage.
+Found
+MODSMD_ARTICLE02: Zusammenschluß der NS.-Kulturgemeinde mit „KdF.".
+Found
+MODSMD_ARTICLE03: Schlußsitzung der Deutsch-Französischen Arbeitstagung.
+Found
+MODSMD_ARTICLE04: Alle französischen Gastwirtsbetriebe am 3. Juli geschlossen.
+Found
+MODSMD_ARTICLE05: Der Präfekt beschlagnahmt Backöfen.
+Found
+MODSMD_ARTICLE06: Die Londoner Presse zur Unterhausaussprache.
+Found
+MODSMD_ARTICLE07: Die Lücke in der Seekontrolle.
+Found
+MODSMD_ARTICLE08: Autobusfahrer in Liverpool streiken.
+Found
+MODSMD_ARTICLE09: Der nationale Heeresbericht vom Sonnabend.
+Found
+MODSMD_ARTICLE10: Der österreichische Handelsminister besucht Paris.
+Found
+MODSMD_ARTICLE11: Die Schritte der polnischen Regierung beim Vatikan.
+Found
+MODSMD_ARTICLE12: Festlicher Empfang König Karols in Warschau.
+Found
+MODSMD_ARTICLE13: Schlag gegen Kommunisten in Warschau geglückt.
+Found
+MODSMD_ARTICLE14: Eine aufsehenerregende Solidaritäts-Erklärung. .
+Found
+MODSMD_ARTICLE15: Abschluß des Deutschland-Fluges.
+Found

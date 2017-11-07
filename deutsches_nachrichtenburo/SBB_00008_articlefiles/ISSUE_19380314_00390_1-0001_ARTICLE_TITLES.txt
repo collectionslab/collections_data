@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Das Weltecho der Ereignisse.
+Found
+MODSMD_ARTICLE02: Frick in der Breslauer Jahrhuuderthalle.
+Found
+MODSMD_ARTICLE03: Veränderungen in der Pariser Regierung.
+Found
+MODSMD_ARTICLE04: Die Sowjetpresse über das Bluturteil.
+Found

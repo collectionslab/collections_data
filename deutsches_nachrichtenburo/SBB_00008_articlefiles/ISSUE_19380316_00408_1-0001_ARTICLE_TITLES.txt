@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Beförderungen in der Wehrmacht.
+Found
+MODSMD_ARTICLE03: Die Zeitschristenverleger grüßen den Führer.
+Found
+MODSMD_ARTICLE04: Empfang der rumänischen Luftsahrtabordnung in Berlin.
+Found
+MODSMD_ARTICLE05: Internationale Deutschland-Rundfahrt über Innsbrucks
+Found
+MODSMD_ARTICLE06: Treue um Treue.
+Found
+MODSMD_ARTICLE07: Tirol sammelt für das Deutsche Winterhilfswerk.
+Found
+MODSMD_ARTICLE08: Der britische Gesandte in Wien bei Lord Halifax.
+Found
+MODSMD_ARTICLE09: Attlee verlangt außenpolitische Erklärung Chamberlains.
+Found
+MODSMD_ARTICLE10: Fortgang der englisch-italienischen Besprechungen.
+Found
+MODSMD_ARTICLE11: Verstärkter Sowjet-Terror in Madrid.
+Found
+MODSMD_ARTICLE12: Erkenntnis des „Journal" ans dem Moskauer Bluturteil.
+Found
+MODSMD_ARTICLE13: Einwanderungsquote von Juden nach Palästina herabgesetzt.
+Found
+MODSMD_ARTICLE14: Deutsche Studienreise durch Südafrika.
+Found
+MODSMD_ARTICLE15: Quezon zu der Erklärung des Oberkommissars.
+Found

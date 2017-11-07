@@ -1,0 +1,16 @@
+MODSMD_ARTICLE03: Dr. Dietrich spricht in Rom.
+Found
+MODSMD_ARTICLE04: Italienische Absage an Frankreich.
+Found
+MODSMD_ARTICLE05: Hauskonzert bei Reichsminister Dr. Frick.
+Found
+MODSMD_ARTICLE06: Ratifizierung des deutsch-ungarischen Kulturabkommens.
+Found
+MODSMD_ARTICLE07: Holland sperrt den Freidenkern den Rundfunk.
+Found
+MODSMD_ARTICLE08: Der Trauerzug in Athen.
+Found
+MODSMD_ARTICLE09: Der griechische Parteiführer Papanastasiu f
+Found
+MODSMD_ARTICLE10: Duncan Generalgouverneur von Südafrika.
+Found

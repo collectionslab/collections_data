@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Italienische Gäste in der Wiener Hofburg.
+Found
+MODSMD_ARTICLE02: Frau Scholtz-Klink bei der Auglo-German Fellowship.
+Found
+MODSMD_ARTICLE03: Lord Brocket prangert die Presselügen über Deutschland an.
+Found
+MODSMD_ARTICLE04: Englisches Ultimatum in der Palästinafrage?
+Found
+MODSMD_ARTICLE05: Hollands Wirtschaftsminister nach Leipzig abgereist.
+Found
+MODSMD_ARTICLE06: Sowjetspanische Bomben auf holländischen Dampfer.
+Found
+MODSMD_ARTICLE07: Slowaken fordern Schaffung einer slowakischen Armee.
+Found
+MODSMD_ARTICLE08: Gleichbleibende Politik der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE09: Jndengesetzdebatte im Budapester Abgeordnetenhaus.
+Found
+MODSMD_ARTICLE10: „Roosevelts Auftretest! frech und herausfordernd."
+Found
+MODSMD_ARTICLE11: In Madrid ist zur Zeit „Ruhe" eingekehrt.
+Found
+MODSMD_ARTICLE12: Tie nationalspanische Luftwaffe in Aktion.
+Found
+MODSMD_ARTICLE13: Auch Lister in Paris.
+Found
+MODSMD_ARTICLE14: Die Neuwahl des Präsidenten der Republik in Frankreich.
+Found
+MODSMD_ARTICLE15: KIM Heeresflugzeuge in USA.
+Found
+MODSMD_ARTICLE16: „Keine Spur verdächtiger Nazi-Zellen in Argentinien."
+Found

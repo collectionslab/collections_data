@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Große Preis der „Luce" für Leni Riefenstahl.
+Found
+MODSMD_ARTICLE02: Aufschlußreiche Aussagen im Kattowitzer Prozeß.
+Found
+MODSMD_ARTICLE03: Neuer Generalgouverneur für Niederländisch-Jndien.
+Found
+MODSMD_ARTICLE04: Van Zeeland bildet das neue Kabinett.
+Found
+MODSMD_ARTICLE05: Schweizerische Heeresvorlage angenommen.
+Found
+MODSMD_ARTICLE06: Prinzregent Paul von Bukarest abgereist.
+Found
+MODSMD_ARTICLE07: Außenminister-Vorbesprechungen für Genf.
+Found
+MODSMD_ARTICLE08: Konferenz gegen Rauschgifthandel in Genf.
+Found
+MODSMD_ARTICLE09: Die Einigungsformel in Frankreich.
+Found
+MODSMD_ARTICLE10: Marxistischer Gewerkschaftsverband Zur Streikeinigung.
+Found
+MODSMD_ARTICLE11: Ständiger Ausschuß für Landesverteidigung in Frankreich.
+Found
+MODSMD_ARTICLE12: Argentiniens Botschafter von Mussolini empfangen.
+Found
+MODSMD_ARTICLE13: Materiallager der spanischen Revolutionäre entdeckt.
+Found
+MODSMD_ARTICLE14: Plünderungen in Madrid.
+Found
+MODSMD_ARTICLE15: Die italienische Aufbauarbeit in Abessinien.
+Found
+MODSMD_ARTICLE16: Prüfung der Unruhen in Tanger.
+Found
+MODSMD_ARTICLE17: Ein Veto Roosevelts.
+Found
+MODSMD_ARTICLE18: Neuer Feldzug Laguardias gegen den Antisemitismus.
+Found
+MODSMD_ARTICLE19: Tschiangkaischek über das Verhältnis Nanking—Kanton.
+Found

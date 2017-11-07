@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: In 60 Stunden über den Nordatlaniik.
+Found
+MODSMD_ARTICLE02: Gegen 5 Uhr morgens haben wir New Nork erreicht.
+Found
+MODSMD_ARTICLE03: Es ist K.lll Uhr, als der Ankerkegel am Mast befestigt wird: Die Reise ist zu Ende.
+Found
+MODSMD_ARTICLE04: Freude in Friedrichshofen.
+Found
+MODSMD_ARTICLE05: Hamburgs Glückwunsch an das Luftschiff „Hindenburg".
+Found
+MODSMD_ARTICLE06: – Konzert in der Italienischen Botschaft.
+Not Found
+MODSMD_ARTICLE07: Die Gemeinden sollen Rücklagen bilden.
+Found
+MODSMD_ARTICLE08: Frau Scholtz-Klink im Ehrenführerring des R.d. K.
+Found
+MODSMD_ARTICLE09: Hauptschriftleiter Wilhelm Schwedler f.
+Found
+MODSMD_ARTICLE10: Senatspräsident Greiser fährt nach Genf.
+Found
+MODSMD_ARTICLE11: Die englische Presse zum Fragebogen.
+Found
+MODSMD_ARTICLE12: Unterredung Baldwins mit Lloyd George.
+Found
+MODSMD_ARTICLE13: 799 009 Schilling Steuerrückstände des Juden Klebinder.
+Found
+MODSMD_ARTICLE14: Generalstreik in Leon.
+Found
+MODSMD_ARTICLE15: Neue Unruhen in Saloniki.
+Found
+MODSMD_ARTICLE16: 199 Verletzte bei den Streikunruhen in Saloniki.
+Found
+MODSMD_ARTICLE17: Griechische Eisenbahner in den Streik getreten.
+Found

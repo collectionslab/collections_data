@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Stellvertreter Führers vor den Auslandsdeutschen.
+Found
+MODSMD_ARTICLE02: Bottais Aufelnthalt in Wien.
+Found
+MODSMD_ARTICLE03: Jubel um die deutsche Erzieherabordnung.
+Found
+MODSMD_ARTICLE04: 456 westfälische Marine-Hitlerjungen in Budapest.
+Found
+MODSMD_ARTICLE05: Neutralitätsverletzuna durch britische Marineflugzeuge,
+Found
+MODSMD_ARTICLE06: Dänischer Flottenbesuch in Norwegen verschoben.
+Found
+MODSMD_ARTICLE07: Anlaufverbot holländischer Häsen für fremde Kriegsschiffe.
+Found
+MODSMD_ARTICLE08: Feige Ueberfälle polnischer Grenztruppen.
+Found
+MODSMD_ARTICLE09: Grazynski gab das Signal Zum Losschlagen.
+Found
+MODSMD_ARTICLE10: Ein trübes Ende.
+Found
+MODSMD_ARTICLE11: Raubmörder hingerichtet.
+Found
+MODSMD_ARTICLE12: Die Kennzahl der Großhandelspreise vom 23. August 1939.
+Found

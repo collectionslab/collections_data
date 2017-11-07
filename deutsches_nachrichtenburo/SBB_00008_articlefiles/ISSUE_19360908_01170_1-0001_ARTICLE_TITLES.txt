@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Jugoslawische Orden für deutsche Persönlichkeiten.
+Found
+MODSMD_ARTICLE02: HJ. in Venedia.
+Found
+MODSMD_ARTICLE03: General Rydz-Smigly in Venedig.
+Found
+MODSMD_ARTICLE04: Avenol beim italienischen Außenminister.
+Found
+MODSMD_ARTICLE05: Ministerpräsident Hodza über seine Minderheitenpolitik.
+Found
+MODSMD_ARTICLE06: Veränderungen im tschechoslowakischen Außenministerium.
+Found
+MODSMD_ARTICLE07: Jüdische Kapitalflucht aus Oesterreich.
+Found
+MODSMD_ARTICLE08: Kurzer Aufenthalt des englischen Königs in Belgrad.
+Found
+MODSMD_ARTICLE09: Der türkische Staatspräsident nach England eingeladen.
+Found
+MODSMD_ARTICLE10: Die Milliardenkredite für die französische Aufrüstung.
+Found
+MODSMD_ARTICLE11: Einstündiger Streik in der Pariser Metallindustrie.
+Found
+MODSMD_ARTICLE12: Neue Forderungen der Metallarbeitergewerkschaften.
+Found
+MODSMD_ARTICLE13: Radikalsozialistcn für Nichteinmischung in Spanien.
+Found
+MODSMD_ARTICLE14: Erfolge der spanischen Militärgruppe.
+Found
+MODSMD_ARTICLE15: Burgosregierung befördert Oberstleutnant Nague.
+Found
+MODSMD_ARTICLE16: Die Basken machen Front gegen die rote Zerstörungsarbeit.
+Found
+MODSMD_ARTICLE17: Ausgehverbot in Nablus.
+Found
+MODSMD_ARTICLE18: Zwei sowjetrussische Beamte aus Schanghai abberufen.
+Found
+MODSMD_ARTICLE19: Moskau protestiert in Tokio gegen Grenzverletzungen.
+Found
+MODSMD_ARTICLE20: Landon spricht vor der amerikanischen Legion.
+Found
+MODSMD_ARTICLE21: Der Ausklang einer mißglückten Revolte.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Reichsjugendführer zum Reichswerve- und Opfertag.
+Found
+MODSMD_ARTICLE02: Görina beglückwünscht eine 101 jährige.
+Found
+MODSMD_ARTICLE03: Dr. Hueber im Beirat der Zeitschrift „Soziale Praxis".
+Found
+MODSMD_ARTICLE04: Italienische Kranzniederlegung an den Ehrentempeln.
+Found
+MODSMD_ARTICLE05: Wien in Erwartung Hermann Görings.
+Found
+MODSMD_ARTICLE06: Dr. Ley vor steirischen Arbeitskameraden.
+Found
+MODSMD_ARTICLE07: Libyen-Reise Viktor Emanuels.
+Found
+MODSMD_ARTICLE08: Mussolini in Genua.
+Found
+MODSMD_ARTICLE09: Nationalitätenstatut ohne Befragen der Nationalitäten.
+Found
+MODSMD_ARTICLE10: „Expreß Poranjny" warnt vor durchsichtigen Manövern.
+Found
+MODSMD_ARTICLE11: Die französische 5 Milliarden-Anleihe.
+Found
+MODSMD_ARTICLE12: Frankreich setzt sich von den Spanienbolschewisten ab.
+Found
+MODSMD_ARTICLE13: Labour Party hat kein Vertrauen zur „Volksfront".
+Found
+MODSMD_ARTICLE14: Dramatische Luftschlacht an der Alfambra-Front.
+Found
+MODSMD_ARTICLE15: Der Rückzug der Chinesen.
+Found
+MODSMD_ARTICLE16: Im raschen Vormarsch auf die Lunghai-Bahn.
+Found
+MODSMD_ARTICLE17: Neue deutsche Weltbestleistung im Segelflug.
+Found

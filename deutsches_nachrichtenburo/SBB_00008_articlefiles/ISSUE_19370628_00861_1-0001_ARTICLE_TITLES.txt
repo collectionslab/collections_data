@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Dr. Schacht begrüßt amerikanische Gäste.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels sprach vor 2KKKK Jungen und Mädeln.
+Found
+MODSMD_ARTICLE04: Glückwünsche des Reichsluftfahrtministers.
+Found
+MODSMD_ARTICLE05: Reichsminister Frank vor den pommerschen Erziehern.
+Found
+MODSMD_ARTICLE06: Abschluß der Kieler Woche 1937.
+Found
+MODSMD_ARTICLE07: Auszeichnung für Fliegergeneral Liotta.
+Found
+MODSMD_ARTICLE08: Die Judenfrage im ungarischen Oberhaus.
+Found
+MODSMD_ARTICLE09: Todesstrafe für albanische Rebellen.
+Found

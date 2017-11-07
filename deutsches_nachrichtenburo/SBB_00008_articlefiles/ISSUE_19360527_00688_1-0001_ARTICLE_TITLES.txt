@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Prozeß gegen die Franziskanerbrüder.
+Found
+MODSMD_ARTICLE02: Abschiedsbesuch des Gesandten Rohland bei König Haakon.
+Found
+MODSMD_ARTICLE03: Das endgültige Memeler Wahlergebnis.
+Found
+MODSMD_ARTICLE04: Kommunistische Wochenzeitung in Danzig verboten.
+Found
+MODSMD_ARTICLE05: Deutsche Beschwerde wegen des Ueberfalls in Rvdultau.
+Found
+MODSMD_ARTICLE06: Neue Ausweisungen polnischer Arbeiter aus Frankreich.
+Found
+MODSMD_ARTICLE07: Außenminister Beck in Belgrad.
+Found
+MODSMD_ARTICLE08: Britische Reichskonferenz über Verteidigungsfragen?
+Found
+MODSMD_ARTICLE09: Italienische Blätter gegen die „Times".
+Found
+MODSMD_ARTICLE10: Italienische Truppen auf dem Wege zum Stephanie-See.
+Found
+MODSMD_ARTICLE11: Große Materialtransporte auf der Bahn nach Addis Abeba.
+Found
+MODSMD_ARTICLE12: Ägyptischer Hilfsausschuß für Palästina.
+Found

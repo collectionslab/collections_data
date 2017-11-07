@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Admiral Von Horthy auf der Fahrt nach Kiel.
+Found
+MODSMD_ARTICLE02: Paris und London zum ungarischen Besuch.
+Found
+MODSMD_ARTICLE03: Graf Schwerin von Krosigk 51 Jahre alt.
+Found
+MODSMD_ARTICLE04: General Vmllemin wieder in Paris.
+Found
+MODSMD_ARTICLE05: Die Lage im Marseiller Hafenarbeiterstreik unverändert.
+Found
+MODSMD_ARTICLE06: Die Entführung des Generals Miller.
+Found
+MODSMD_ARTICLE07: Beendigung der belgischen Manöver.
+Found
+MODSMD_ARTICLE08: Abschluß der politischen Ferien in Polen.
+Found
+MODSMD_ARTICLE09: Polnische Volksgruppe ohne Schule.
+Found
+MODSMD_ARTICLE10: Englischer Besuch in der Jglauer deutschen Sprachinsel.
+Found
+MODSMD_ARTICLE11: Tschechischer Boykottausruf in Reicheuberg.
+Found
+MODSMD_ARTICLE12: Bastide bei Hodscha.
+Found
+MODSMD_ARTICLE13: Die Beisetzung Pater Hlinkas.
+Found
+MODSMD_ARTICLE14: Verkehrsstrasten in Palästina ab 18 Uhr gesperrt.
+Found
+MODSMD_ARTICLE15: Früherer Polizeichef von Rio in Untersuchungshaft.
+Found

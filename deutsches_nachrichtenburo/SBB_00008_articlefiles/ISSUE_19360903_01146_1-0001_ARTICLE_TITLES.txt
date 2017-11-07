@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Dr. Frick an Freiherr von Watter.
+Found
+MODSMD_ARTICLE02: Ncichsschatzmeister Schwarz erwirbt Bilder für Nürnberg.
+Found
+MODSMD_ARTICLE03: IV. Reichstagung der Auslandsdeutschen.
+Found
+MODSMD_ARTICLE04: Eröffnung des 3. Internationalen Astrologenkongresses.
+Found
+MODSMD_ARTICLE05: Der Widerhall der Erklärungen Dr. Goebbels'.
+Found
+MODSMD_ARTICLE06: Kranzniederlegung durch eine HI-Gruppe in Rom.
+Found
+MODSMD_ARTICLE07: Englische Rechtsstudenten besuchen Deutschland.
+Found
+MODSMD_ARTICLE08: Der ehemalige dänische Ministerpräsident Neergaard f.
+Found
+MODSMD_ARTICLE09: 250. Jahrestag der Befreiung Ungarns von den Türken.
+Found
+MODSMD_ARTICLE10: „Rumäniens Außenpolitik bleibt unverändert".
+Found
+MODSMD_ARTICLE11: Empfang sowjetrussischer Fliegergenerale bei Pierre Cot.
+Found
+MODSMD_ARTICLE12: Unerhörter Uebergrisf sowjetrussischer Behörden.
+Found
+MODSMD_ARTICLE13: Zunehmende Unzufriedenheit in Sowjetrußland.
+Found
+MODSMD_ARTICLE14: Ein Volkskommissar gemaßregelt.
+Found
+MODSMD_ARTICLE15: Zwischenfall an der Grenze bei Hendaye.
+Found
+MODSMD_ARTICLE16: Immer noch französische Munition für Spanien.
+Found
+MODSMD_ARTICLE17: Tie spanische Gesandtschaft in Tokio nationalistisch.
+Found
+MODSMD_ARTICLE18: Amerikanische Ozeanflieger unterwegs.
+Found

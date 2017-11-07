@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Generalfeldmarschall Göring beglückwünscht Hundertjährige.
+Found
+MODSMD_ARTICLE02: England und Frankreich brauchen neue Kriegsschauplätze.
+Found
+MODSMD_ARTICLE03: Französischer Hetzer läßt die Katze aus dem Sack.
+Found
+MODSMD_ARTICLE04: „Dieser Krieg ist eine soziale Auseinandersetzung".
+Found
+MODSMD_ARTICLE05: Jtalienreise des ungarischen Außenministers.
+Found
+MODSMD_ARTICLE06: „Die Illusionen Englands zerstört."
+Found
+MODSMD_ARTICLE07: Ungarischer Gesandter in Preßburg ernannt.
+Found
+MODSMD_ARTICLE08: Russische Truppen- und Materialtr/ansporte in Nordsinnland»
+Found
+MODSMD_ARTICLE09: Neue Erdstöße in Anatolien.
+Found
+MODSMD_ARTICLE10: „Widerstand gegen die britische Unterdrückung!"
+Found
+MODSMD_ARTICLE11: Roosevelt über die politische Lage Amerikas.
+Found
+MODSMD_ARTICLE12: Die Staatsschuld der Vereinigten Staaten.
+Found
+MODSMD_ARTICLE13: Vollstreckung von Todesurteilen.
+Found

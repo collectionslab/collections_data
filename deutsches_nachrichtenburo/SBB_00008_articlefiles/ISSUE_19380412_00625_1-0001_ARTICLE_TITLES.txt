@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer dankt.
+Found
+MODSMD_ARTICLE02: Glückwunschtelegramm Daranyis an den Führer.
+Found
+MODSMD_ARTICLE03: Pilar Primo de Rivera beim Führer.
+Found
+MODSMD_ARTICLE04: Hermann Körina Ehrenmeister des Deutschen Handwerks.
+Found
+MODSMD_ARTICLE05: Marxistische Brunncnvergiftumg übelster Art.
+Found
+MODSMD_ARTICLE06: Treue bis zum Tod.
+Found
+MODSMD_ARTICLE07: Pill,'.:, trug die Opfer des Brandunglücks zu Grabe.
+Found
+MODSMD_ARTICLE08: Erfolg der Leistung.
+Found
+MODSMD_ARTICLE09: Die Regierungserklärung Daladiers.
+Found
+MODSMD_ARTICLE10: Allgemeine Versammlungsruhe bis zum 29. April.
+Found
+MODSMD_ARTICLE11: Der mexikanische Oelkonflikt.
+Found
+MODSMD_ARTICLE12: Der albanische Justizminister zurückgetreten.
+Found
+MODSMD_ARTICLE13: Immer neue Uebergriffe Moskaus.
+Found
+MODSMD_ARTICLE14: Oel-Vorkommen in Brasilien Staatseigentum.
+Found

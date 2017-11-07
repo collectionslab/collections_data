@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Fürst von Liechtenstein beim Führer.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Frick empfängt Marquis Jnouye.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Der amerikanische Geschäftsträger.
+Found
+MODSMD_ARTICLE05: Professor Max Doerner gestorben.
+Found
+MODSMD_ARTICLE06: Deutschland wieder in der Donaukommission.
+Found
+MODSMD_ARTICLE07: Welche Reichtümer die Juden ergaunerten.
+Found
+MODSMD_ARTICLE08: Marschall Petain zum Botschafter ernannt.
+Found
+MODSMD_ARTICLE09: Warum Petain?
+Found
+MODSMD_ARTICLE10: Wieder eine amerikanische Hetze zusammengebrochen.
+Found
+MODSMD_ARTICLE11: Chamberlain besucht die Sowjetbotschaft.
+Found
+MODSMD_ARTICLE12: Ueber 500 Millionen Pfund für die britische Rüstung.
+Found
+MODSMD_ARTICLE13: Erichtung der griechischen Gesandtschaft in Spanien.
+Found
+MODSMD_ARTICLE14: Deutsche Literaturausstellung in Ankara.
+Found
+MODSMD_ARTICLE15: Araber lassen sich von Juden nichts gefallen.
+Found
+MODSMD_ARTICLE16: Immer neue Maßnahmen gegen die Araber.
+Found
+MODSMD_ARTICLE17: Neuorganisation des amerikanischen Armeelustsahrtkorps.
+Found

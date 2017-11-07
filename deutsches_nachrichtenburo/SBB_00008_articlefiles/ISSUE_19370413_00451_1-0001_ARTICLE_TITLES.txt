@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Professor Frank über den Deutschen Historikertag.
+Found
+MODSMD_ARTICLE02: Der ReichsfmanZminister in Kopenhagen.
+Found
+MODSMD_ARTICLE03: Warenaustauschbesprechungen Deutschland—Spanien.
+Not Found
+MODSMD_ARTICLE04: Besprechungen Zwischen Danzig und Polen.
+Found
+MODSMD_ARTICLE05: Arbeitslose belagern Magistratsgebäude.
+Found
+MODSMD_ARTICLE06: Polnischer Staatsbesuch in Bukarest.
+Found
+MODSMD_ARTICLE07: Absplitterung bei der Partei Mosleys.
+Found
+MODSMD_ARTICLE08: Britischer Schritt wegen der Missionars-Ausweisung.
+Found
+MODSMD_ARTICLE09: Ministerrat in Rom.
+Found
+MODSMD_ARTICLE10: Die Konferenz von Montreux.
+Found
+MODSMD_ARTICLE11: Das Handelsabkommen Frankreich—Schweiz.
+Not Found
+MODSMD_ARTICLE12: Rsgnier über die Widersprüche der Volksfront-Politik.
+Found
+MODSMD_ARTICLE13: Der Nestor der nationalen Bewegung in Rumänien 80 Jahre.
+Found
+MODSMD_ARTICLE14: Der Einfluß des Judentums in Südafrika.
+Found
+MODSMD_ARTICLE15: Jud Tolezyuer richtete das Wiener Stadttheater Zugrunde.
+Found

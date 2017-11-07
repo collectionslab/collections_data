@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer grüßt die Auslandsdeutschen.
+Found
+MODSMD_ARTICLE02: Der Oberbefehlshaber des Heeres in Ostpreußen.
+Found
+MODSMD_ARTICLE03: Stabschef Lutze in Nürnberg.
+Found
+MODSMD_ARTICLE04: Reichstagung der Auslandsdeutschen Erlangen 1936.
+Found
+MODSMD_ARTICLE05: Ausländsdeutsche berichten.
+Found
+MODSMD_ARTICLE06: Jrun in Flammen.
+Found
+MODSMD_ARTICLE07: Madrid beruft den Botschafter in Portugal ab.
+Found
+MODSMD_ARTICLE08: Franzosen kämpfen ans Seiten der Marxisten.
+Found
+MODSMD_ARTICLE09: Sieg der nationalistischen Südarmee.
+Found
+MODSMD_ARTICLE10: Die Madrider Regierung zurückgetreten.
+Found
+MODSMD_ARTICLE11: Neue französische Waffenlieferungen.
+Found
+MODSMD_ARTICLE12: Paris zum Zwischenfall in Barcelona.
+Found
+MODSMD_ARTICLE13: Generalmobilmachung in Katalonien.
+Found
+MODSMD_ARTICLE14: Einberufung englischer Reservisten.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Betreuung der aus dem aktiven Wehrdienst Entlassenen.
+Found
+MODSMD_ARTICLE03: Tie Wasfenfunde bei der Danziger Sozialdemokratie.
+Found
+MODSMD_ARTICLE04: Polen unterstützt Danzigs WHW durch Zollnachlaß.
+Found
+MODSMD_ARTICLE05: Einigung über das Ausmaß der Prager Abwertung.
+Found
+MODSMD_ARTICLE06: „Gazzetta del Popolo" gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE07: London zu der sowjetrussischen Drohung.
+Found
+MODSMD_ARTICLE08: Das Schweizer Staatsschuhgesetz angenommen.
+Found
+MODSMD_ARTICLE09: Der Schweizer Nationalrat billigt die Spanienpolitik.
+Found
+MODSMD_ARTICLE11: Pariser Kommunisten gegen das Versammlungsverbot.
+Found
+MODSMD_ARTICLE12: Verwirrung in Madrid.
+Found
+MODSMD_ARTICLE13: Zur Einnahme Escalonas durch nationalistische Truppen.
+Found
+MODSMD_ARTICLE14: Erfolgreiches Bombardement auf Bilbao.
+Found
+MODSMD_ARTICLE15: Nationale Spanische Union in Uruguay gegründet.
+Found
+MODSMD_ARTICLE16: Tschiangkaischek empfängt den japanischen Botschafter.
+Found

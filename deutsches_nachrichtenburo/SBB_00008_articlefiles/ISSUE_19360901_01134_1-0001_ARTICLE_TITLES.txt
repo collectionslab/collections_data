@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: 22 Tote auf Zeche „Vereinigte Präsident" geborgen.
+Found
+MODSMD_ARTICLE02: Niesenbrand in einem mecklenburgischen Dorf.
+Found
+MODSMD_ARTICLE03: Französische Rabulistik.
+Found
+MODSMD_ARTICLE04: Amerikanische Verstimmung.
+Found
+MODSMD_ARTICLE05: Irland gegen das Wüten des Bolschewismus in Spanien.
+Found
+MODSMD_ARTICLE06: Auch Uebersiedlung der USA-Botschaft nach Alicante?
+Found
+MODSMD_ARTICLE07: Um den Nichteinmischungsausschust.
+Found
+MODSMD_ARTICLE08: Das Bombardement auf Jrun hat begonnen.
+Found
+MODSMD_ARTICLE09: Schreckensszenen im Madrider „Mustergefängnis".
+Found
+MODSMD_ARTICLE10: Gerichtliches Nachspiel des „Bremen"-Zwischenfalls.
+Found
+MODSMD_ARTICLE11: Die Lebenshaltungskosten im August.
+Found
+MODSMD_ARTICLE12: Münchener Schacholympia.
+Found

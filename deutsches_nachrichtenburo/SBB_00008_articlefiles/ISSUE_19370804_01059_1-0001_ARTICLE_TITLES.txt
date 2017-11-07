@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Empfang zu Ehren des Generals Gorecki in Berlin.
+Found
+MODSMD_ARTICLE02: Der Wiener Männergesangverein in Königsberg.
+Found
+MODSMD_ARTICLE03: Abrechnung der „Zeit" mit den tschechischen Hetzmanövern.
+Found
+MODSMD_ARTICLE04: Noch ein Fall tschechischer Schikane.
+Found
+MODSMD_ARTICLE05: Der nationale Heeresbericht vom Dienstag.
+Found
+MODSMD_ARTICLE06: Jnnerfrauzösische Anleihe.
+Found
+MODSMD_ARTICLE07: Paris erhöht Autobus- und Untergrundbahn-Fahrpreise.
+Found
+MODSMD_ARTICLE08: Streik bei den Waffenmerken in St. Etienne.
+Found
+MODSMD_ARTICLE09: Botschafter von Ribbentrop tritt seinen Urlaub an.
+Found
+MODSMD_ARTICLE10: Die Wohnung des Belfaster Innenministers überfallen.
+Found
+MODSMD_ARTICLE11: Lord Plymouth sondiert.
+Found
+MODSMD_ARTICLE12: Portugiesische Stellungnahme in der Nichteinmischungsfrage.
+Found
+MODSMD_ARTICLE13: Palästina-Unruhen vor Genfer Mandatsausschuß.
+Found
+MODSMD_ARTICLE14: Eigene Irak-Delegation in Genf.
+Found
+MODSMD_ARTICLE15: Ein Aufruf des Generals Metaxas.
+Found
+MODSMD_ARTICLE16: Roosevelt will Richter am Obersten Bundesgericht ernennen.
+Found
+MODSMD_ARTICLE17: Mexikanische Sowjetspanien-Kadetten gemaßregelt.
+Found
+MODSMD_ARTICLE18: General Aensischan erklärt sich für Nanking.
+Found

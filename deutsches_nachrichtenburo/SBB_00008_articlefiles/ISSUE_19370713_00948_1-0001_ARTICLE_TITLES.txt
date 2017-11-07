@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: In die Akademie für Deutsches Recht berufen.
+Found
+MODSMD_ARTICLE02: Rechtspolitische Fragen des Vlerjahresplanes.
+Found
+MODSMD_ARTICLE03: SA-Geist deutscher Wehrgeist.
+Found
+MODSMD_ARTICLE04: Wiener Stimmen Zu den neuen Pressevereinbarungen.
+Found
+MODSMD_ARTICLE05: Ausstellung „Kunst auf dem Reichssportfeld" in Klagenfurt.
+Found
+MODSMD_ARTICLE06: Pyrenäen-Grenze: Internationale Kontrolle ausgesetzt.
+Found
+MODSMD_ARTICLE07: Die Sozialdemokraten stützen Chautemps.
+Found
+MODSMD_ARTICLE08: Verkehrsstreik in Nizza.
+Found
+MODSMD_ARTICLE09: Flandrische Stellungnahme gegen Frankreich.
+Found
+MODSMD_ARTICLE10: „Portugal hält gewissenhaft alle Verpflichtungen."
+Found
+MODSMD_ARTICLE11: Die Stärke der englischen Territorialarmee.
+Found
+MODSMD_ARTICLE12: Politischer Sensationsprozest. 7 Todesurteile.
+Found
+MODSMD_ARTICLE13: Tokio hält friedliche Lösung für unwahrscheinlich.
+Found

@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der Führer auf der Ordensburg Vogelsang.
+Found
+MODSMD_ARTICLE02: Zum 1. Mai 1937. Freut Euch des Lebens!
+Found
+MODSMD_ARTICLE03: Fröre in Berlin.
+Found
+MODSMD_ARTICLE04: Die italienischen Schriftleiter im Uhlenhorster Föhrhaus.
+Found
+MODSMD_ARTICLE05: Marxistische Maikundgebungen in Frankreich.
+Found
+MODSMD_ARTICLE06: Brasilianischem Gouverneur Regierungsauftrag entzogen.
+Found

@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Deutsche Totenehrung für Julius von Gömbös.
+Found
+MODSMD_ARTICLE02: Die militärische Trauerparade.
+Found
+MODSMD_ARTICLE03: Die Trauerseier im Kaiserhof.
+Found
+MODSMD_ARTICLE04: Die Fahrt durch die Stadt.
+Found
+MODSMD_ARTICLE05: Die Ankunft am Hauptbahnhof.
+Found
+MODSMD_ARTICLE06: Ter Nachklang der Münchener Trauerfeier in Budapest.
+Found
+MODSMD_ARTICLE07: Die Teilnahme Italiens zum Tode Gömbös'.
+Found
+MODSMD_ARTICLE08: Wieder eiu Prozeß gegen Memelländer in Kowno.
+Found
+MODSMD_ARTICLE09: Burgos meldet neue Erfolge.
+Found

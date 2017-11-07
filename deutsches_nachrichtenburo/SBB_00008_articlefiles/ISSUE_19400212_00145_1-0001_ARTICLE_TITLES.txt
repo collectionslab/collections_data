@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht den Kaiser von Japan.
+Found
+MODSMD_ARTICLE02: Lösung eines Rätsels.
+Found
+MODSMD_ARTICLE03: Angewandter Sozialismus im plutokratischen England.
+Found
+MODSMD_ARTICLE04: 31VVV Buren von den Engländern ermordet!
+Found
+MODSMD_ARTICLE05: Katastrophale englische Evakuierungsmethoden.
+Found
+MODSMD_ARTICLE06: Angewandte Demokratie in England.
+Found
+MODSMD_ARTICLE07: Die Erregung in Irland hält an.
+Found
+MODSMD_ARTICLE08: Englands „Humanität" in Irland.
+Found
+MODSMD_ARTICLE09: Ein britisches Vorpostenboot versenkt.
+Found
+MODSMD_ARTICLE10: Mandate als Ausbeutungsobjekt.
+Found
+MODSMD_ARTICLE11: Das nennt England „Freiheit".
+Found
+MODSMD_ARTICLE12: Indiens Volk hat Englands Betrug nicht vergessen.
+Found
+MODSMD_ARTICLE13: Die japanfeindliche Politik der Engländer.
+Found
+MODSMD_ARTICLE14: Gemeiner Volksschädling hingerichtet.
+Found

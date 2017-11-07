@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ernennung im Reichsfinanzministerium.
+Found
+MODSMD_ARTICLE02: Wie Englands Krieg die Neutralen schädigt.
+Found
+MODSMD_ARTICLE03: „Popolo d'Jtalia" reißt England die Maske vom Gesicht.
+Found
+MODSMD_ARTICLE04: Jüdische Boykottkommission in Argentinien aufgeflogen.
+Found
+MODSMD_ARTICLE05: Die Moskauer Presse übernimmt den „Jswestija"-Artikel.
+Found
+MODSMD_ARTICLE06: „Deutschland besitzt gewaltige seelische Kräfte."
+Found
+MODSMD_ARTICLE07: Die Entspannung zwischen Ungarn und Rumänien.
+Found
+MODSMD_ARTICLE08: Litauen stimmt dem Abkommen mit Sowjetrußland zu.
+Found
+MODSMD_ARTICLE09: Schweden hält Truppen-Einziehungen aufrecht.
+Found
+MODSMD_ARTICLE10: Wieder eine Lüge der Londoner Giftmischer entlarvt.
+Found
+MODSMD_ARTICLE11: Britische Minenleger verseuchen die holländische Küste.
+Found
+MODSMD_ARTICLE12: Dr. Malan: „Nicht einen Tropfen Blut für Englands Krieg!"
+Found
+MODSMD_ARTICLE13: Erfolgreicher Luftangriff aus britische Seestreitkräfte.
+Found
+MODSMD_ARTICLE14: Katastrophale Lage der Rotterdamer Hafenarbeiter.
+Found
+MODSMD_ARTICLE15: französische Unfreundlichkeit gegenüber der Türkei.
+Found
+MODSMD_ARTICLE16: Der neue Dalai-Lama in sein Amt eingesetzt.
+Found
+MODSMD_ARTICLE17: „Alle neutralen Länder wünschen das Kriegsende."
+Found
+MODSMD_ARTICLE18: Ist Neutralität Landesverrat?
+Found

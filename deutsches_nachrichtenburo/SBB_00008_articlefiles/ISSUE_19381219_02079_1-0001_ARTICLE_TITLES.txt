@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Prof. Guido Landra bei Rosenberg.
+Found
+MODSMD_ARTICLE02: Darre Schirmherr der Reichskleintierschau.
+Found
+MODSMD_ARTICLE03: Der NS.-Reichskriegerbund ehrt Ludendorff.
+Found
+MODSMD_ARTICLE04: Ernennungen im Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE05: Jialienreise des Schulz-Fürstenberg-Trios.
+Found
+MODSMD_ARTICLE06: Königshntte wehrt sich gegen Judeninvasion.
+Found
+MODSMD_ARTICLE07: Perselbständigung der deutschen Schulen in der Slowakei.
+Found
+MODSMD_ARTICLE08: Gruß Cianos an Stojadinowitsch.
+Found
+MODSMD_ARTICLE09: Der Besuch Cianos in Budapest.
+Found
+MODSMD_ARTICLE10: Die Stadtverordnetenwahlen in Polen.
+Found
+MODSMD_ARTICLE11: Die Londoner Presse zur britischen China-Anleihe.
+Found
+MODSMD_ARTICLE12: 5! deutsche Frontsoldaten in Laon umgebettet.
+Found
+MODSMD_ARTICLE13: Französische Frontkämpfer für Waffenstillstand in Spanien.
+Found
+MODSMD_ARTICLE14: Haushalt des französischen Außenminifteriums angenommen.
+Found
+MODSMD_ARTICLE15: Bau einer Flugzeugfabrik bei Brest.
+Found
+MODSMD_ARTICLE16: Bilanz einer „Trenekundgebung".
+Found
+MODSMD_ARTICLE17: Jüdische „Weltkonferenz" in Amerika geplant?
+Found
+MODSMD_ARTICLE18: Auf der Suche nach einem Kompromiß in Lima.
+Found

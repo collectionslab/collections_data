@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Kommandant des „Admiral Graf Spee".
+Found
+MODSMD_ARTICLE02: Englands und Frankreichs Sorgen.
+Found
+MODSMD_ARTICLE03: Glückwünsche zur Rückkehr der „Bremen".
+Found
+MODSMD_ARTICLE04: Soziale Massnahmen in der Slowakei.
+Found
+MODSMD_ARTICLE05: Ghandi über die Forderungen Indiens.
+Found
+MODSMD_ARTICLE06: Die Illusion des englischen Blockadeministers.
+Found
+MODSMD_ARTICLE07: Belgischer Frachtdampser gesunken.
+Found
+MODSMD_ARTICLE08: Schwedens Marine würdigt die Tat der „Graf Spee".
+Found
+MODSMD_ARTICLE09: Bis jetzt 48 Tote in Zernescht.
+Found
+MODSMD_ARTICLE10: Die „Exeter" auf eine Sandbank gelaufen?
+Found
+MODSMD_ARTICLE11: Starke Verluste der „Exeter".
+Found
+MODSMD_ARTICLE12: Bewunderung für „Graf Spee".
+Found
+MODSMD_ARTICLE13: Begeisterung der deutschen Kolonie Montevideos.
+Found
+MODSMD_ARTICLE14: 420 Tote der „Jndigirka"-Katastrophe an Land gespült.
+Found
+MODSMD_ARTICLE15: Berichtigung.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Die Besoldung der Hochschullehrer.
+Found
+MODSMD_ARTICLE02: Großdeuischlands Jugend tritt an!
+Found
+MODSMD_ARTICLE03: Konrad Henlein in Leipzig.
+Found
+MODSMD_ARTICLE04: Die italienische Kammer wird aufgelöst.
+Found
+MODSMD_ARTICLE05: Auch Prag wünscht gute Beziehungen zu Ungarn.
+Found
+MODSMD_ARTICLE06: Aussprache zwischen Graf Esterhazy und Karmasin.
+Found
+MODSMD_ARTICLE07: Drei Ministerreden an einem Abend.
+Found
+MODSMD_ARTICLE08: Besprechungen mit den Palästina Nachbarstaaten.
+Found
+MODSMD_ARTICLE09: Rückkehr Berads nach Burgos.
+Found
+MODSMD_ARTICLE10: Die Türkei erkennt Nationalspanien an.
+Found
+MODSMD_ARTICLE11: Nun auch türkische Währung in Hatay.
+Found
+MODSMD_ARTICLE12: Sandschak immer noch schwierig.
+Found
+MODSMD_ARTICLE13: Regierungsneubildung in Syrien.
+Found
+MODSMD_ARTICLE14: Der Gouverneur von Bengalen gestorben.
+Found
+MODSMD_ARTICLE15: Verschärfte Spannung in Britisch-Jndien.
+Found
+MODSMD_ARTICLE16: Japan zu den Terrorakten in Schanghai.
+Found
+MODSMD_ARTICLE17: SOS.-Ruf eines unbekannten Schiffes.
+Found
+MODSMD_ARTICLE18: Die Befestigung Guams ein Vorschlag Edens?
+Found
+MODSMD_ARTICLE19: Die „Bremen" in Valparaiso.
+Found

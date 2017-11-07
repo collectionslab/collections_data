@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Festsitzung der Deutschen Akademie für Bauforschung.
+Found
+MODSMD_ARTICLE02: Ernennung im Reichspostministerium.
+Found
+MODSMD_ARTICLE03: Weihe einer Siedlung für Kriegsopfer.
+Found
+MODSMD_ARTICLE04: Dr. Schacht vor der Presse.
+Found
+MODSMD_ARTICLE05: Günstige Aufnahme des Besuches Dr. Schachts in Athen.
+Found
+MODSMD_ARTICLE06: Deutscher Kriegsschiffsbesuch iu Skageu.
+Found
+MODSMD_ARTICLE07: Die Streiklage in Frankreich.
+Found
+MODSMD_ARTICLE08: Die englisch-sowjetrussischen Flottenverhandlungen.
+Found
+MODSMD_ARTICLE09: Floiienbasis Kapstadt dementiert.
+Found
+MODSMD_ARTICLE10: Kuhle Aufnahme der neuen belgischen Regierung.
+Found
+MODSMD_ARTICLE11: Militärische Uneinigkeit der Kleinen Entente?
+Found
+MODSMD_ARTICLE12: Generalsekretär Munters in London.
+Found
+MODSMD_ARTICLE13: Schneiderstreik in Madrid.
+Found
+MODSMD_ARTICLE14: Die Auszahlung des Veteranenbonus beginnt.
+Found

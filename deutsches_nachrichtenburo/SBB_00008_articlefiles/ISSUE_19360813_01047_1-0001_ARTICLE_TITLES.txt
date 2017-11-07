@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Tie deutsch-österreichischen Verhandlungen abgeschlossen.
+Found
+MODSMD_ARTICLE02: 7g. Geburtstag des Admirals a. D. Behncke.
+Found
+MODSMD_ARTICLE03: Deutsche Rechtswahrer bereisen Polen.
+Found
+MODSMD_ARTICLE04: „Schlustakkord" in Venedig.
+Found
+MODSMD_ARTICLE05: Weitere französische Blätter zur Ernennung Ribbentrops.
+Found
+MODSMD_ARTICLE06: Englands und Spaniens Botschafter bei Delbos.
+Found
+MODSMD_ARTICLE07: Erneuerung und Verbesserung der französischen Luftflotte.
+Found
+MODSMD_ARTICLE08: Frankreich für beschleunigten Abschluß des Nichteinmischungsabkommens.
+Not Found
+MODSMD_ARTICLE09: Havas über die Lage in Spanien.
+Found
+MODSMD_ARTICLE10: Vormarsch der Nationalisten auf San Sebastian.
+Found
+MODSMD_ARTICLE11: Eibar von den Nationalisten eingenommen.
+Found
+MODSMD_ARTICLE12: Jubel über die Einnahme von Tolosa.
+Found
+MODSMD_ARTICLE13: 107 Nationalisten von Kommunisten niedergemacht.
+Found
+MODSMD_ARTICLE14: Spanische Marxisten weisen belgische Waffenhilfe zurück.
+Found
+MODSMD_ARTICLE15: Miguel Maura erschossen?
+Found
+MODSMD_ARTICLE16: Neuorganisierung der Nationalisten-Flotte.
+Found
+MODSMD_ARTICLE17: Ein amtliches italienisches Dementi.
+Found
+MODSMD_ARTICLE18: Steuersteckbrief.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ter „Abend des deutschen Bauerntums" in Goslar.
+Found
+MODSMD_ARTICLE02: Trauer der deutschen Handelsmarine um die Toten „U 18".
+Found
+MODSMD_ARTICLE03: Reichsverweser von Horthy in Wien eingetroffen.
+Found
+MODSMD_ARTICLE04: Trinkspriiche Miklas' und Horthys.
+Found
+MODSMD_ARTICLE06: Kabinetisrat in Paris.
+Found
+MODSMD_ARTICLE07: Daladier über den inneren und äußeren Frieden.
+Found
+MODSMD_ARTICLE08: Pariser Presse zum Genfer Schritt der Bolschewisten.
+Found
+MODSMD_ARTICLE09: „Gefährliche Manöver."
+Found
+MODSMD_ARTICLE10: Bolschewistische Drohungen auf dem Moskauer Rätekongreß.
+Found
+MODSMD_ARTICLE11: Ouiroga von seinen eigenen Genossen verhaftet.
+Found
+MODSMD_ARTICLE12: Der amerikanische Botschafter bei Delbos.
+Found
+MODSMD_ARTICLE13: Ein guter Fang der finnischen Polizei.
+Found
+MODSMD_ARTICLE14: Neuer Kommunistenprozeß in Riga.
+Found
+MODSMD_ARTICLE15: Großfeuer im Kopenhagener Sudhafen.
+Found

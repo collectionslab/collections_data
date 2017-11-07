@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Generalleutnant Schweickhard führt den Luftwaffenbund.
+Found
+MODSMD_ARTICLE02: Deutsch-italienischer Gedankenaustausch über Kolonialarbeit.
+Found
+MODSMD_ARTICLE03: Jungmännerverband verboten.
+Found
+MODSMD_ARTICLE04: Eine Erklärung von Rudolf Heß.
+Found
+MODSMD_ARTICLE05: Spanische Rundfunkgratulation für Dr. Goebbels.
+Found
+MODSMD_ARTICLE06: Nationalspanische Opfermedaillen.
+Found
+MODSMD_ARTICLE07: Lügen werden widerlegt.
+Found
+MODSMD_ARTICLE08: Die Kolonialrede Epps in London stark beachtet.
+Found
+MODSMD_ARTICLE09: Gegen die „wankelmütige Politik der Regierung".
+Found
+MODSMD_ARTICLE10: „England rückt vom Völkerbund ab."
+Found
+MODSMD_ARTICLE11: Bonnet warnt vor demagogischer Finanzpolitik.
+Found
+MODSMD_ARTICLE12: Wieder von Moskau torpediert!
+Found
+MODSMD_ARTICLE13: Staatspräsident Benesch zum Nationalitätenprinzip.
+Found
+MODSMD_ARTICLE14: Belagerungszustand in der Jerusalemer Altstadt.
+Found

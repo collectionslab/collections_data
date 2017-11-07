@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Flaggen heraus!
+Found
+MODSMD_ARTICLE02: Das Programm für den 3V Januar.
+Found
+MODSMD_ARTICLE03: Aufruf an alle Betriebsführer des deutschen Handels.
+Found
+MODSMD_ARTICLE04: Staatssekretär Bohle an den ungarischen Außenminister.
+Found
+MODSMD_ARTICLE05: Von 48 Kommunisten 47 Juden!
+Found
+MODSMD_ARTICLE06: Große sowjetrussische Waffenlieferungen an China.
+Found
+MODSMD_ARTICLE07: De Valera wartet auf ein „wiedervereinigtes Irland".
+Found
+MODSMD_ARTICLE08: Internationale Luftsport-Sitzung in Paris.
+Found
+MODSMD_ARTICLE09: Stimmen zum van Zeeland-Bericht.
+Found
+MODSMD_ARTICLE10: Moskau zur Genfer Tagung.
+Found
+MODSMD_ARTICLE11: Bisher 83 Kommunisten in Sofia festgenommen.
+Found
+MODSMD_ARTICLE12: Der neue bulgarische Handelsminister ernannt.
+Found
+MODSMD_ARTICLE13: Bolschewistische Hetze in Palästina.
+Found
+MODSMD_ARTICLE14: Aufruf des japanischen Kriegsministers an die Armee.
+Found
+MODSMD_ARTICLE15: Mandschukuo stellt Sowjetlüge richtig.
+Found
+MODSMD_ARTICLE16: Der Einsturz der Niagara-Brücke.
+Found

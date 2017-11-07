@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: King-Hall 11.
+Found
+MODSMD_ARTICLE02: Telegramm Rusios an Litzmann.
+Found
+MODSMD_ARTICLE03: Präsident Dr. Hacha ruft zur Erntearbeit auf.
+Found
+MODSMD_ARTICLE04: Britische Massen gegen Einkreisung!
+Found
+MODSMD_ARTICLE05: Neue Beschäftigung für Runciman.
+Found
+MODSMD_ARTICLE06: „Neue Instruktionen nach Moskau."
+Found
+MODSMD_ARTICLE07: „Nothilfegesetz" sieht KSV VW Entlassungen vor.
+Found

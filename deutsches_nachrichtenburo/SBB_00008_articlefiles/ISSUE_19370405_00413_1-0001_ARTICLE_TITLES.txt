@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Deutsche Protestnote in Pretoria überreicht.
+Found
+MODSMD_ARTICLE02: Generaldirektor des Filmwesens Italiens in Berlin.
+Found
+MODSMD_ARTICLE03: Keine Botengänge in Polizeiuniform.
+Found
+MODSMD_ARTICLE04: Alkoholverbot für Jugendliche.
+Found
+MODSMD_ARTICLE05: Polizeistunde bleibt unverändert.
+Found
+MODSMD_ARTICLE06: Erlaß über Auslandsfahnen in Oesterreich.
+Found
+MODSMD_ARTICLE07: Oesterreichisch-italienische Wirtschaftsderhandlungen.
+Found
+MODSMD_ARTICLE08: Besprechung Benesch-Stojadinowtisch.
+Found
+MODSMD_ARTICLE09: Scharfes Durchgreifen gegen Kommunisten in Belgrad.
+Found
+MODSMD_ARTICLE10: Das Doppelspiel Frankreichs in der Nichteinmischung.
+Found
+MODSMD_ARTICLE11: Holland verschärft Waffenausfuhrverbot nach Spanien.
+Found
+MODSMD_ARTICLE12: Sir John Clerk aus Paris abgereist.
+Found
+MODSMD_ARTICLE13: Zeitungssorgen in Frankreich.
+Found
+MODSMD_ARTICLE14: „Paris Soir": Japan hat größtes Schlachtschiff in Bau.
+Found
+MODSMD_ARTICLE15: „Kommunisten die größten Feinde der Regierung Blum".
+Found
+MODSMD_ARTICLE16: Föhrer der Französischen Sozialpartei vor Gericht.
+Found
+MODSMD_ARTICLE17: Streiks und kein Ende.
+Found
+MODSMD_ARTICLE18: Gandhi jüngster Kandidat für den Friedens-Nobelpreis?
+Found
+MODSMD_ARTICLE19: Wachsende kommunistische Umtriebe in Syrien.
+Found

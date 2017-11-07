@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Oberreichsanwalt Dr. Werner f.
+Found
+MODSMD_ARTICLE02: Sudetendeutsches Kahnentreffen in Teplitz-Schönau.
+Found
+MODSMD_ARTICLE03: Die kommunistischen Kundgebungen im Elsaß.
+Found
+MODSMD_ARTICLE04: Die elsässische Presse lehnt den Kommunismus ab.
+Found
+MODSMD_ARTICLE05: Ramsay MacDonald 70 Jahre alt.
+Found
+MODSMD_ARTICLE06: Jüdisch-kommunistische Kundgebungen in London.
+Found
+MODSMD_ARTICLE07: Verlegung des Franco-Hauptquartiers nach Salamanca.
+Found
+MODSMD_ARTICLE08: Queipo de Llano gegen die Madrider Negierung.
+Found
+MODSMD_ARTICLE09: Torpedoboot „Leopard" in Genua.
+Found
+MODSMD_ARTICLE10: Spanische Nationalisten aus Frankreich ausgewiesen.
+Found
+MODSMD_ARTICLE11: Der bulgarische Ministerpräsident in Belgrad.
+Found
+MODSMD_ARTICLE12: Keine Abwertung des Dinar.
+Found
+MODSMD_ARTICLE13: Rückkehr Antonescus nach Bukarest.
+Found
+MODSMD_ARTICLE14: Strafmaßnahmen gegen Hebron.
+Found
+MODSMD_ARTICLE15: Neuer japanisch-sowjetrussischer Grenzzwischenfall.
+Found
+MODSMD_ARTICLE16: Ter Zwischenfall von Hankau.
+Found

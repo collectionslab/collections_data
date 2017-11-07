@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Abfahrt des Diplomatischen Korps zur Leipziger Messe.
+Found
+MODSMD_ARTICLE02: Kollegium der nationalen Studentenschaft in Oesterreich.
+Found
+MODSMD_ARTICLE03: „Pester Lloyd" über die Leipziger Erklärungen Funks.
+Found
+MODSMD_ARTICLE04: Abgeordneter Kundt zur Rede Dr. Hodschas.
+Found
+MODSMD_ARTICLE05: Die Forderungen der Slowaken an den Nationalitätenstaat.
+Found
+MODSMD_ARTICLE06: Wer gilt in Rumänien als Jude?
+Found
+MODSMD_ARTICLE07: Die Pariser Presse über die innerpolitische Lage.
+Found
+MODSMD_ARTICLE08: Die Moskauer Prozeßlawine rollt weiter.
+Found
+MODSMD_ARTICLE09: Trauerbeflagguug am Heldengedeuktag.
+Found
+MODSMD_ARTICLE10: Zuchthaus für 22 Kommunisten.
+Found
+MODSMD_ARTICLE11: Verschärfte Spannung in Britisch-Jndien.
+Found
+MODSMD_ARTICLE12: Die Kennzahl der Großhandelspreise im Februar.
+Found

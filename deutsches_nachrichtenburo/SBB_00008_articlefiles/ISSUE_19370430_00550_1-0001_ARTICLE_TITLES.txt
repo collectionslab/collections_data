@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer zeichnet zum Dankopfer der Nation.
+Found
+MODSMD_ARTICLE02: Ehrenpreis des Reichsinnenministers.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels empfing die italienischen Jngendführer.
+Found
+MODSMD_ARTICLE04: Empfang zu Ehren Riccis im Kaiserhof.
+Found
+MODSMD_ARTICLE05: Deutscher Orden für Ausländer.
+Found
+MODSMD_ARTICLE06: Tie italienischen Industriellen in Siemensstadt.
+Found
+MODSMD_ARTICLE07: Ehrung treuer Arbeit.
+Found
+MODSMD_ARTICLE08: Auszeichnung eines Siegers im Reichsberuswettkampf.
+Found
+MODSMD_ARTICLE09: Der Korpsführer des NSFK. au Himmler, Lutze, Hühnlein.
+Found
+MODSMD_ARTICLE10: Die Kennziffer für die Lebenshaltungskosten im April.
+Found
+MODSMD_ARTICLE11: Autobusverkehr iu London stillgelegt.
+Found
+MODSMD_ARTICLE12: Holländische Stimme zum Neutralitätsau gebot des Führers.
+Found
+MODSMD_ARTICLE13: Das nationalspanische Kriegsschiff „Espaüa gesunken?
+Found
+MODSMD_ARTICLE14: England entsendet Zweites Schlachtschiff nach Spanien.
+Found

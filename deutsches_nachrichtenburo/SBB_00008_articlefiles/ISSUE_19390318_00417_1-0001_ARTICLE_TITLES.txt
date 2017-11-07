@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Wiest huldigt dem Führer.
+Found
+MODSMD_ARTICLE02: Abordnung des tschechischen Nationalausschusses bei Hacha.
+Found
+MODSMD_ARTICLE03: Abberufung des ungarischen Gesandten aus Prag.
+Found
+MODSMD_ARTICLE04: Ungarn dankt dem Führer.
+Found
+MODSMD_ARTICLE05: Der Vormarsch der ungarischen Truppen.
+Found
+MODSMD_ARTICLE06: Horthy besichtigt die Truppen.
+Found
+MODSMD_ARTICLE07: Feierlicher Akt an der polnisch-ungarischen Grenze.
+Found
+MODSMD_ARTICLE08: Sir Nevile Henderson erstattet Bericht.
+Found
+MODSMD_ARTICLE09: Der Führer ehrt eine Hundertjährige.
+Found
+MODSMD_ARTICLE10: 4V Inspekteure der Marine-Hitlerjugend besuchen Finnland.
+Found
+MODSMD_ARTICLE11: Stapellauf des Schlachtschisfes „d" am 1. April.
+Found
+MODSMD_ARTICLE12: 431351 Gefangeue in Nationalspanien.
+Found
+MODSMD_ARTICLE13: Freundschaftspakt zwischen Nationalspanien und Portugal.
+Found
+MODSMD_ARTICLE14: Jud Blumel erhielt zwei Ohrfeigen.
+Found
+MODSMD_ARTICLE15: Daladier fertigt die Linke ab.
+Found
+MODSMD_ARTICLE16: „Freundschaft Zwischen Deutschland und England."
+Found
+MODSMD_ARTICLE17: Der Herzog von Coburg in Sofia.
+Found
+MODSMD_ARTICLE18: Ter bulgarische Ministerpräsident traf in Ankara ein.
+Found
+MODSMD_ARTICLE19: Eintägiger jüdischer Generalstreik in Palästina.
+Found

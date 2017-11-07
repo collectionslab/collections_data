@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die Trauerfeierlichkeiten für Dr. Dr. Streck in Nürnberg.
+Found
+MODSMD_ARTICLE02: Taluege in Warschau.
+Found
+MODSMD_ARTICLE03: Großer Erfolg der Dresdener Oper in London.
+Found
+MODSMD_ARTICLE04: Paris wartet auf Blums Antwort an Thorez.
+Found
+MODSMD_ARTICLE05: Protest de la Nocques Westen der Vorfälle in Chambers.
+Found
+MODSMD_ARTICLE06: Schiffsleute-Streik in Le Havre.
+Found
+MODSMD_ARTICLE07: Die „Republique" über die Umtriebe Moskaus.
+Found
+MODSMD_ARTICLE08: Italienische Blätterstimmen zum Echo der Mussolini-Rede.
+Found
+MODSMD_ARTICLE09: Widerhall der Mussolini-Rede in Jugoslawien.
+Found
+MODSMD_ARTICLE10: Stojadinowitsch bei König Boris.
+Found
+MODSMD_ARTICLE11: Die englischen Gemeindewahlen.
+Found
+MODSMD_ARTICLE12: Madrid im Feuer der nationalistischen Artillerie.
+Found
+MODSMD_ARTICLE13: Sowjetrussische Offiziere für die rote spanische Flotte.
+Found
+MODSMD_ARTICLE14: Rotie Banditen unter sich.
+Found
+MODSMD_ARTICLE15: Japanischer Bankangestellter in China überfallen.
+Found
+MODSMD_ARTICLE16: Marschall Tuantschijui I'.
+Found
+MODSMD_ARTICLE17: Vor der Präsidentenwahl in USA.
+Found
+MODSMD_ARTICLE18: 43W Arbeiter im New Aorker Hafen im Ausstand.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ernennungen im Reichsinnenministerium.
+Found
+MODSMD_ARTICLE02: Deutsche U-Boote besuchen Island.
+Found
+MODSMD_ARTICLE03: Polens Vernichtungsfeldzug gegen deutsche Organisationen.
+Found
+MODSMD_ARTICLE04: Wie Polen Minderheitenfragen „löst".
+Found
+MODSMD_ARTICLE05: 721903 Mann faschistische Miliz im Dienst.
+Found
+MODSMD_ARTICLE06: Vorbehalte Italiens zur Sandschak-Abtretung.
+Found
+MODSMD_ARTICLE07: Die Erinnerungsfeier für Calvo Sotelo in Spanien.
+Found
+MODSMD_ARTICLE08: „Willenskundgebung brüderlicher Nationen."
+Found
+MODSMD_ARTICLE09: Nordische Sorgen über die britische „Garantitis".
+Found
+MODSMD_ARTICLE10: Französische „Verstärkung" nach Moskau.
+Found
+MODSMD_ARTICLE11: Die Sandschakverschacherung.
+Found
+MODSMD_ARTICLE12: Englands Kriegsminister in Paris.
+Found
+MODSMD_ARTICLE13: Alles für den britischen Imperialismus.
+Found
+MODSMD_ARTICLE14: Reserven im Dienste zusätzlicher Einkreisungsreklame.
+Found
+MODSMD_ARTICLE15: Britische Brutalität gegen die Araber.
+Found
+MODSMD_ARTICLE16: Teilnahme hoher japanischer Offiziere am Reichsparteitag.
+Found
+MODSMD_ARTICLE17: Antibritische Kundgebungen in allen Städten Japans.
+Found
+MODSMD_ARTICLE18: Vollstreckung eines Todesurteils.
+Found

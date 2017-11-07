@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Dr. Goebbels vor den Leitern der Reichspropagandaämter.
+Found
+MODSMD_ARTICLE02: Der „Tag der Wehrmacht" wird zur ständigen Einrichtung.
+Found
+MODSMD_ARTICLE03: Freude im Hause des Staatssekretärs Reinhardt.
+Found
+MODSMD_ARTICLE04: Nürnbergs bauliche Ausgestaltung.
+Found
+MODSMD_ARTICLE05: Großzügiger Begnadigungsakt des Danziger Senats.
+Found
+MODSMD_ARTICLE06: ZlMhriges Thronjubiläum König Gustafs von Schweden.
+Found
+MODSMD_ARTICLE07: Der Leiter der Königin-Elena-Klinik in Rom.
+Found
+MODSMD_ARTICLE08: Ernennungen in der italienischen Kolonialverwaltung.
+Found
+MODSMD_ARTICLE09: Starke Beachtung des japanischen Vormarsches in Italien.
+Found
+MODSMD_ARTICLE10: „Aufrichtige Verständigungspolitik".
+Found
+MODSMD_ARTICLE11: Der jugoslawisch italienische Freundschaftspakt bewährt sich.
+Found
+MODSMD_ARTICLE12: Besuch des ungarischen Honvedministers in Rom.
+Found
+MODSMD_ARTICLE13: Kein Besuch Delbos' in Budapest.
+Found
+MODSMD_ARTICLE14: Gegen die Verjndung der Aerzteschaft in Polen.
+Found
+MODSMD_ARTICLE15: Ein Grand Prix für die deutschen Zeitungsverleger.
+Found
+MODSMD_ARTICLE16: Ministerrat in Frankreich.
+Found
+MODSMD_ARTICLE17: Raetoromanisch vierte Nationalsprache in der Schweiz.
+Found
+MODSMD_ARTICLE18: Querschüsse ohne Ende.
+Found
+MODSMD_ARTICLE19: Neue Krise der Sowjetwirtschaft.
+Found
+MODSMD_ARTICLE20: Keine freundnachbarlichen Beziehungen Türkei—Syrien.
+Not Found

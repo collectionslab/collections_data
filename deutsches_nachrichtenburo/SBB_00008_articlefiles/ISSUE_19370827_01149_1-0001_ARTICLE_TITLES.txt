@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Brasilianische Ingenieure und Wissenschaftler in Berlin.
+Found
+MODSMD_ARTICLE02: Commendatore Caldaldo in Koblenz.
+Found
+MODSMD_ARTICLE03: Großer Erfolg des Films „Wenn wir alle Engel wären."
+Found
+MODSMD_ARTICLE04: „Das Zeitalter der Chemie angebrochen".
+Found
+MODSMD_ARTICLE05: Neuer estnischer Verkehrsminister.
+Found
+MODSMD_ARTICLE06: Wieder Ruhe in Galizien.
+Found
+MODSMD_ARTICLE07: Der nationalspanische Triumph iu Santauder.
+Found
+MODSMD_ARTICLE08: 35 666 Gefangene in der Provinz Santander.
+Found
+MODSMD_ARTICLE09: 1369 Morde der Bolschewisten in Santander.
+Found
+MODSMD_ARTICLE10: Katalonien will verhandeln.
+Found
+MODSMD_ARTICLE11: Brandstiftung auf dem Flugplatz Villeneuve-sur-Lot.
+Found
+MODSMD_ARTICLE12: Stetiges Vorrücken der japanischen Landungstruppen.
+Found
+MODSMD_ARTICLE13: Schließung des USA-Konsulats in Tsinanfu.
+Found
+MODSMD_ARTICLE14: Wachsende amerikanische Besorgnis.
+Found
+MODSMD_ARTICLE15: Streikgefahr für die nordamerikanischen Eisenbahnen.
+Found
+MODSMD_ARTICLE16: Blutige Zusammenstöße in Damaskus.
+Found
+MODSMD_ARTICLE17: Die Mohammedaner Indiens MMN die Teilung Palästinas.
+Found
+MODSMD_ARTICLE18: Elf Araber in Britisch-Ostafrika getötet.
+Found
+MODSMD_ARTICLE19: Der geflüchtete britische Kommissar von Jnagua verhaftet.
+Found

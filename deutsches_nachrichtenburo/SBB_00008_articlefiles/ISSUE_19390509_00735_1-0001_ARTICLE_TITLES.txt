@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Geburtstag von Schirachs.
+Found
+MODSMD_ARTICLE02: Darre empfängt SA.-Führer.
+Found
+MODSMD_ARTICLE03: „Das Ende der demokratischen Epoche Europas."
+Found
+MODSMD_ARTICLE04: Pfundtner über den Führergrundsatz in der Verwaltung.
+Found
+MODSMD_ARTICLE05: Zur Zeichnung der Luftabwehranleihe gezwungen.
+Found
+MODSMD_ARTICLE06: Deutsche Bühne in Bromberg geschlossen.
+Found
+MODSMD_ARTICLE07: Reichsminister Funk in Bern.
+Found
+MODSMD_ARTICLE08: Eröffnung einer Leonardo da Vinci-Ausstellung.
+Found
+MODSMD_ARTICLE09: Prinzregent Paul in Italien eingetroffen.
+Found
+MODSMD_ARTICLE10: Mussolini zum „Tage des Heeres."
+Found
+MODSMD_ARTICLE11: Spaniens Presse begrüßt den Militärpakt.
+Found
+MODSMD_ARTICLE12: Burgos ist empört über Fremdenlegionspläne.
+Found
+MODSMD_ARTICLE13: Bukarester Denkmal für Karl I. enthüllt.
+Found
+MODSMD_ARTICLE14: Das arabische Volk Palästinas gedenkt Abdulrahims.
+Found
+MODSMD_ARTICLE15: Gemeinsamer Schritt der Paktmächte von Saadabad.
+Found
+MODSMD_ARTICLE16: Riesenexplosion in einer japanischen Zelluloidfabrik.
+Found

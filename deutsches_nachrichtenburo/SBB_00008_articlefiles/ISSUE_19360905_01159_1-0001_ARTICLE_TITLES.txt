@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Deutsch-jugoslawisches Luftfahrtabkommen.
+Found
+MODSMD_ARTICLE02: Der Präsident der Handelskammer Kalkutta in Berlin.
+Found
+MODSMD_ARTICLE03: Estland und die Völkerbundsreform.
+Found
+MODSMD_ARTICLE04: Italienische Stimmen zur französischen Nichteinmischung.
+Found
+MODSMD_ARTICLE05: Die Nationalisten besetzen den Brückenkopf bei Jrun.
+Found
+MODSMD_ARTICLE06: Die Folgen der Niederlage der Roten in Jrun.
+Found
+MODSMD_ARTICLE07: Ein enttäuschter französischer Milizkämpfer erzählt.
+Found
+MODSMD_ARTICLE08: Moskau gibt die Ernteschwierigkeiten zu.
+Found
+MODSMD_ARTICLE09: Um die Bereinigung des Tschengtu-Zwischenfalles.
+Found
+MODSMD_ARTICLE10: Polnischer Gordon-Bennett-Ballon gelandet.
+Found
+MODSMD_ARTICLE11: Die Kennzahl der Großhandelspreise vom 2. September.
+Found

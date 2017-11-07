@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer bei Reichsminister Dr. Frick.
+Found
+MODSMD_ARTICLE02: Der Führer auf der Gauleitertagung der NSDAP.
+Found
+MODSMD_ARTICLE03: Künstlerempfang beim Führer.
+Found
+MODSMD_ARTICLE04: Generalfeldmarschall von Blomberg 40 Jahre Soldat.
+Found
+MODSMD_ARTICLE05: Mit der Führung des Hauptamtes Kampsspiele betraut.
+Found
+MODSMD_ARTICLE07: Auch die italienische Antwort überreicht.
+Found
+MODSMD_ARTICLE08: Das Internationale Ueberwachungsamt.
+Found
+MODSMD_ARTICLE09: Drei Abschnitte der spanisch französischen Grenzüberwachung.
+Found
+MODSMD_ARTICLE10: Pariser Kammer berät Preissteigerungsgeseh.
+Found
+MODSMD_ARTICLE11: Ein Warnruf der Lyoner Handelskammer.
+Found
+MODSMD_ARTICLE12: Erfolg der französischen Verteidigungsanleihe.
+Found
+MODSMD_ARTICLE13: Streik in den Kohlengruben von Nnnes.
+Found
+MODSMD_ARTICLE14: Veränderungen in der britischen Diplomatie.
+Found
+MODSMD_ARTICLE15: RegierunWmitiel für die englischen Notstandsgebiete» ,
+Found
+MODSMD_ARTICLE16: Der Mangel an Rekruten in England.
+Found
+MODSMD_ARTICLE17: Britische Atlantik-Manöver abgeschlossen.
+Found
+MODSMD_ARTICLE18: Cajander mit finnischer Regierungsbildung betraut.
+Found
+MODSMD_ARTICLE19: Die neue finnische Regierung.
+Found

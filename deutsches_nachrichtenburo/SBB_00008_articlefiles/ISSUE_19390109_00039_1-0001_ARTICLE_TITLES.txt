@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Dr. Ley bei den Bauarbeitern der Reichskanzlei.
+Found
+MODSMD_ARTICLE03: Göring ehrt seinen Kampfgefährten Viktor Lutze.
+Found
+MODSMD_ARTICLE04: Zum 12. Todestage Houston Stewart Chamberlaius.
+Found
+MODSMD_ARTICLE05: Funk besuchte die Deutsche Akademie in Rom.
+Found
+MODSMD_ARTICLE06: Botschaft Franeos an den Duce überreicht.
+Found
+MODSMD_ARTICLE07: Große Bedeutung der Romreise Chamberlaius.
+Found
+MODSMD_ARTICLE08: Prinzregent Paul bei König Karl.
+Found
+MODSMD_ARTICLE09: Stauning über die dänische Außenpolitik.
+Found
+MODSMD_ARTICLE10: Ein Sarg geht um in London.
+Found
+MODSMD_ARTICLE11: Englische Lustfahrtkommission reist nach Australien.
+Found
+MODSMD_ARTICLE12: Arbeitseifer vermittels der Sowjetknnte.
+Found
+MODSMD_ARTICLE13: Nirgends sicher vor den GPU. Schergen.
+Found
+MODSMD_ARTICLE14: Tote Landstraßen in Palästina.
+Found
+MODSMD_ARTICLE15: Neue britische Truppen für Palästina.
+Found
+MODSMD_ARTICLE16: Neue Erklärung Wangtschingweis.
+Found
+MODSMD_ARTICLE17: Das japanische Außenamt zur Erklärung Wangtschingweis.
+Found

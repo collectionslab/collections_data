@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Nationalsozialistische Musterbetriebe.
+Found
+MODSMD_ARTICLE02: Aufruf Görings.
+Found
+MODSMD_ARTICLE03: Ausführungsdestimungen Dr. Lehs.
+Found
+MODSMD_ARTICLE04: Großer Erfolg der ungarischen Philharmoniker in Berlin.
+Found
+MODSMD_ARTICLE05: Strafverfahren gegen den Wiener Reuter-Vertreter.
+Found
+MODSMD_ARTICLE06: „Jugoslawien gegen jegliche Bindung an Sowjetrußland."
+Found
+MODSMD_ARTICLE07: „Universul" über die Belgrader Tagung.
+Found
+MODSMD_ARTICLE08: „Die Zeiten der Kleinen Entente sind vorbei."
+Found
+MODSMD_ARTICLE09: „Die Ideologie vom unteilbaren Frieden bricht Zusammen."
+Found
+MODSMD_ARTICLE10: Die Geschäfte in Paris an Montagen geschlossen.
+Found
+MODSMD_ARTICLE11: Terror der französischen Kommunisten gegen Sozialpartei.
+Found
+MODSMD_ARTICLE12: Bedenkenlose französische Rekrutierungsmaßnahmen.
+Found
+MODSMD_ARTICLE13: Abschiedsfeier in Paris für Botschafter Clerk.
+Found
+MODSMD_ARTICLE14: Hollands Arbeitsminister bei Lebrnn.
+Found
+MODSMD_ARTICLE15: Um die Durchführung des Luftschutzes in England.
+Found
+MODSMD_ARTICLE16: Generalgouverneur Tweedsmuir wieder itt Ottawa.
+Found
+MODSMD_ARTICLE17: Südafrikanischer Flottenstützpunkt wird ausgebaut.
+Found
+MODSMD_ARTICLE18: Engsische Kaufleute in Bolivien verhaftet.
+Found

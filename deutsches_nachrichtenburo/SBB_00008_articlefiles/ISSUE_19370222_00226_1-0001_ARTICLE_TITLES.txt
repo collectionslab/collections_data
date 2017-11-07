@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Heldengedenkfeiern im Reich.
+Found
+MODSMD_ARTICLE02: Reichsantzemninister von Neurath nach Wien abgereist.
+Found
+MODSMD_ARTICLE03: Herzog von Kent in München.
+Found
+MODSMD_ARTICLE04: Schlechte Zeiten für österreichische Bahnen.
+Found
+MODSMD_ARTICLE05: Lord Plymouth ist Zufrieden.
+Found
+MODSMD_ARTICLE06: Englische Politiker in der Territorialarmee.
+Found
+MODSMD_ARTICLE07: Attlee gegen das neue Rüstungsprogramm.
+Found
+MODSMD_ARTICLE08: Besprechung Delbos' mit Avenol.
+Found
+MODSMD_ARTICLE09: Pariser Weltausstellung durch Streik verzögert.
+Found
+MODSMD_ARTICLE10: Die Streiklage bei Peugeot.
+Found
+MODSMD_ARTICLE11: „Für den Kommunismus ist in Polen kein Platz!"
+Found
+MODSMD_ARTICLE12: Manuel Hedilla wendet sich an den Völkerbund.
+Found
+MODSMD_ARTICLE13: Erfolge an der Aragon-Front. h
+Found
+MODSMD_ARTICLE14: Internationale Brigade „beschlagnahmt" Lebensmittel.
+Found
+MODSMD_ARTICLE15: Antonesu in Belgrad.
+Found
+MODSMD_ARTICLE16: Gerüchte über eine Kabinettskrise im Irak.
+Found
+MODSMD_ARTICLE17: » Amerikanisches Kriegsmaterial für Spamenbolfchewisten.
+Found
+MODSMD_ARTICLE18: Ter chilenische Justizminister zurückgetreten.
+Found
+MODSMD_ARTICLE19: Paraguays Austritt aus dem Völkerbund endgültig.
+Found

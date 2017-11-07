@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Dr. Goebbels eröffnet den Wahlkampf. .
+Found
+MODSMD_ARTICLE02: Eine Brunnenvergiftung übelster Art.
+Found
+MODSMD_ARTICLE03: Generaloberst von Bock und Dr. Schacht in Klagenfurt.
+Found
+MODSMD_ARTICLE04: Daluege besichtigt die Ordnungspolizei in Oesterreich.
+Found
+MODSMD_ARTICLE05: Himmler besichtigt die SS. in Linz.
+Found
+MODSMD_ARTICLE06: Militärfragen vor der Pariser Kammer.
+Found
+MODSMD_ARTICLE07: Dr. Ley und Cianetti vor deutschen Arbeitern in Tripolis.
+Found
+MODSMD_ARTICLE08: Japan wird keinen Schritt in China zurückgehen!
+Found

@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Ter Arbeitskreis der Rechtsstellen der Bewegung tagt.
+Found
+MODSMD_ARTICLE02: Der Reichsfinanzminister in Münster.
+Found
+MODSMD_ARTICLE03: Herzliche Aufnahme der KdF.-Urlauber in Florenz.
+Found
+MODSMD_ARTICLE04: Botschafter von Stohrer in Santander.
+Found
+MODSMD_ARTICLE05: Für Vertiefung der deutsch-japanischen Beziehungen.
+Found
+MODSMD_ARTICLE06: Reynaud bei Dr. Schuschnigg.
+Found
+MODSMD_ARTICLE07: Große nächtliche Luftschutzübung in Budapest.
+Found
+MODSMD_ARTICLE08: Die Gemeindewahlen in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE09: Kommunistisches Partergericht verhängt Todesstrafen.
+Found
+MODSMD_ARTICLE10: Betrogene Betrüger. „Palüstina"-Erde" vom Weichselstrand/
+Found
+MODSMD_ARTICLE11: Polnische Studenten beantworten jüdische Frechheiten.
+Found
+MODSMD_ARTICLE12: Eckhardt für die Wiedereinsetzung der Habsburger.
+Found
+MODSMD_ARTICLE13: Nichteinmischungsausschuß noch in dieser Woche?
+Found
+MODSMD_ARTICLE14: Lord Nuffield stiftet Millionen für die Wissenschaft.
+Found
+MODSMD_ARTICLE15: Chamberlain beim König.
+Found
+MODSMD_ARTICLE16: Pariser Ministerbesprechung über Spanien.
+Found
+MODSMD_ARTICLE17: Machterweiterung für den GPU-Gewaltigen Jeschow.
+Found
+MODSMD_ARTICLE18: Eine neue Rede Roosevelts.
+Found
+MODSMD_ARTICLE19: Peiping wieder Peking.
+Found
+MODSMD_ARTICLE20: Die Vorbereitung der japanischen Offensive.
+Found
+MODSMD_ARTICLE21: Die Japaner vor dem Tor Zur Provinz Schansi.
+Found

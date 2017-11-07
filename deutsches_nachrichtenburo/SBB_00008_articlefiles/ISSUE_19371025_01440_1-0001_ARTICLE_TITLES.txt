@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Botschafter von Papen beim König von Schweden.
+Found
+MODSMD_ARTICLE02: Der Danziger Polizeipräsident zu den Ausschreitungen.
+Found
+MODSMD_ARTICLE03: 1500 deutsche Frontkämpfer in Besan^on.
+Found
+MODSMD_ARTICLE04: Paris sucht nach der Emigungsformel.
+Found
+MODSMD_ARTICLE06: Oberst Wenda übernahm das Lager der nationalen Einigung.
+Found
+MODSMD_ARTICLE07: Polens Handwerker wehren sich gegen die Juden.
+Found
+MODSMD_ARTICLE08: Van Zeeland wieder in Brüssel.
+Found
+MODSMD_ARTICLE09: Rücktritt des belgischen Kabinetts?
+Found
+MODSMD_ARTICLE10: Ministerpräsident Stojadinowitsch sprach vor seiner Partei.
+Found
+MODSMD_ARTICLE11: König Georg 11. besucht Rom, London und Paris.
+Found
+MODSMD_ARTICLE12: Metaxas zurückgekehrt.
+Found
+MODSMD_ARTICLE13: Demokratische „Freiheit".
+Found
+MODSMD_ARTICLE14: Große Festlichkeiten in Bukarest.
+Found
+MODSMD_ARTICLE15: Die Säubernngsaktion in Asturien nimmt ihren Fortgang.
+Found
+MODSMD_ARTICLE16: Politische Zusammenstöße in Aegypten.
+Found
+MODSMD_ARTICLE17: Mißlungener Anschlag auf einen Zug in Palästina.
+Found
+MODSMD_ARTICLE18: Neue japanische Erfolge.
+Found
+MODSMD_ARTICLE19: Deutsch-italienische Gemeinschaftsfeier in Chile.
+Found

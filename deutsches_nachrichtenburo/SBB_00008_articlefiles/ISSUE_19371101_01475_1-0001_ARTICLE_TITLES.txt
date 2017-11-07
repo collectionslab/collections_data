@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Dr. Goebbels hilft dem deutschen Dichter und Schriftsteller.
+Found
+MODSMD_ARTICLE02: Feierlicher Auftakt zur Woche des Deutschen Buches! 1937.
+Found
+MODSMD_ARTICLE03: Offener Brief des deutschen Buchhandels.
+Found
+MODSMD_ARTICLE04: Die Zeit lebt im Buch!
+Found

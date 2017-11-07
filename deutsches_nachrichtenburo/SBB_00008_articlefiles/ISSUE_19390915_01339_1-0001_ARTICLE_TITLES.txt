@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an Guatemala.
+Found
+MODSMD_ARTICLE02: Der Führer zum Unabhängigkeitstag von El Salvador.
+Found
+MODSMD_ARTICLE03: Gnadenerlaß des Führers für die Zivilbevölkerung.
+Found
+MODSMD_ARTICLE04: Brauchitsch in der vorderen Linie bei Kutno.
+Found
+MODSMD_ARTICLE05: Das Ende der polnischen 11-Boot-Flotte.
+Found
+MODSMD_ARTICLE06: Polnische Schurken wüteten auch im Kreise Hohensalza.
+Found
+MODSMD_ARTICLE07: Polnischer Mordiiberfall auf eine deutsche Bauernfamilie.
+Found
+MODSMD_ARTICLE08: Neun polnische Panzerwagen bei Brest Litowsk zerstört.
+Found
+MODSMD_ARTICLE09: Dr. Ley im oberschlesischen. Industriegebiet.
+Found
+MODSMD_ARTICLE10: „Die Moraltante von der Themse".
+Found
+MODSMD_ARTICLE11: „Volk und Führer nicht zu trennen".
+Found
+MODSMD_ARTICLE12: Explosion in Liverpool.
+Found
+MODSMD_ARTICLE13: Dafür muß das englische Volk bluten?
+Found
+MODSMD_ARTICLE14: Kindische Ansichten Englands.
+Found
+MODSMD_ARTICLE15: Die Sowjetpresse im Zeichen der Rekruteneinberufung.
+Found
+MODSMD_ARTICLE16: Deutsches Eigentum auf japanischem Druck hin freigegeben.
+Found

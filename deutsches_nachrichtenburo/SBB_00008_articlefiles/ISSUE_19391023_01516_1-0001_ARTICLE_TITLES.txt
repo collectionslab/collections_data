@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer zum Tode der Gräfin Magistrats.
+Found
+MODSMD_ARTICLE02: Adlerschild für Generalmusikdirektor Dr. Karl Muck.
+Found
+MODSMD_ARTICLE03: Versprochen ist noch nicht geliefert.
+Found
+MODSMD_ARTICLE04: Die Slowakei dankt dem Führer.
+Found
+MODSMD_ARTICLE05: Weitere 450 Deutsche verließen Estland.
+Found
+MODSMD_ARTICLE06: Die deutsch-russischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE07: Der „Jswestija"-Artikel in Belgrad stark beachtet.
+Found
+MODSMD_ARTICLE08: „Sehr gehaltreich ist der Pakt gerade nicht".
+Found
+MODSMD_ARTICLE09: Spanische Stimmen zum Türkenpakt.
+Found
+MODSMD_ARTICLE10: Rom über Churchills „Athenia"-Verbrechen.
+Found
+MODSMD_ARTICLE11: Zunehmende Teuerung in ganz England.
+Found
+MODSMD_ARTICLE12: Die Neutralität Belgiens wiederum verletzt.
+Found
+MODSMD_ARTICLE13: Katastrophaler Rückgang des englischen Außenhandels.
+Found
+MODSMD_ARTICLE14: Sowjetrussische Militärabordnung in Kowno.
+Found
+MODSMD_ARTICLE15: Stufenweise Besetzung des Wilnagebiets freigegeben.
+Found
+MODSMD_ARTICLE16: Für die Rückgabe der Falklands-Jnseln.
+Found
+MODSMD_ARTICLE17: Die Nomonhan-Fragen wurden erledigt.
+Found

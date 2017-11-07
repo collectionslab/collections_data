@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: « Darre begrüßt die ausländischen Gäste in Goslar.
+Found
+MODSMD_ARTICLE02: Gesellige Veranstaltungen des Reichsbauerntages.
+Found
+MODSMD_ARTICLE03: Polnisch-rumänisches Kultur-Abkommen.
+Found
+MODSMD_ARTICLE04: Außenpolitische Rede Gogas in der rumänischen Kammer.
+Found
+MODSMD_ARTICLE05: Nationale Flieger zerstören fünf rote Flugzeuge.
+Found
+MODSMD_ARTICLE06: Tie Auflösung der französischen Patriotenverbände.
+Found
+MODSMD_ARTICLE07: Blum bespricht die obligatorische Schiedssprechung.
+Found
+MODSMD_ARTICLE08: England gegen Antrag auf Ratseinberusung.
+Found
+MODSMD_ARTICLE09: Irland erkennt Spaniens Nationalregierung nicht an.
+Found
+MODSMD_ARTICLE10: Friedensrede Roosevelts vor Brasiliens Bundesparlament.
+Found
+MODSMD_ARTICLE11: Regierungsumbildung in Südafrika.
+Found

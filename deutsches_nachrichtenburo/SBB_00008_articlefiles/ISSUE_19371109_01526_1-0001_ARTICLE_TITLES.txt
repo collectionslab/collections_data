@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Neuer Präsident der Reichsmonopolverwaltuug.
+Found
+MODSMD_ARTICLE02: Ein Telegramm Mussolinis an Dr. Ley.
+Found
+MODSMD_ARTICLE03: Internationale Anerkennung deutscher Handwerkskunst.
+Found
+MODSMD_ARTICLE04: Die Sorgen des Deutschtums im Estland.
+Found
+MODSMD_ARTICLE05: „Polen braucht ein gutes Verhältnis zu Deutschland."
+Found
+MODSMD_ARTICLE07: Die Minderheiten-Erklärungen ein Friedenspfand im Osten.
+Found
+MODSMD_ARTICLE08: Die deutsch-ungarische Freundschaft.
+Found
+MODSMD_ARTICLE09: Die „Times" zum Antikomintern-Pakt.
+Found
+MODSMD_ARTICLE10: Gefährlicher Terrorist in Frankreich festgenommen.
+Found
+MODSMD_ARTICLE11: Gewerkschaftsverband gegen „revolutionäre Aktion".
+Found
+MODSMD_ARTICLE12: Auch ein französischer Generalagent für Nationalspanien?
+Found
+MODSMD_ARTICLE13: Metaxas gegen böswillige Gerüchtemacher.
+Found
+MODSMD_ARTICLE14: Die Araber gegen den britischen Kolonialminister.
+Found
+MODSMD_ARTICLE15: Die jiddische Sprache in Buenos Aires verboten.
+Found
+MODSMD_ARTICLE16: Kommunistische Agitatoren in Asun?ion verhaftet.
+Found

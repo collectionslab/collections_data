@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Großadmiral Raeder Ehrenbürger von Pillau.
+Found
+MODSMD_ARTICLE02: Eine Blamage britischer Hetzagenten in Belgrad.
+Found
+MODSMD_ARTICLE03: Die englisch-rumänischen Wirtschaftsverhandlungeu.
+Found
+MODSMD_ARTICLE04: Spanien erhält verschleppte Kunstwerke zurück.
+Found
+MODSMD_ARTICLE05: Bekenntnis zur spanisch-italienischen Freundschaft.
+Found
+MODSMD_ARTICLE06: Abschied des Panzerschiffs „Deutschland" von Vigo.
+Found
+MODSMD_ARTICLE07: Frankreich gibt 2 Geschütze an Spanien zurück.
+Found
+MODSMD_ARTICLE08: Französische Reserveoffiziere besuchen England.
+Found
+MODSMD_ARTICLE09: Jud Waizman bei Chamberlain.
+Found
+MODSMD_ARTICLE10: Die Liste der englischen Unabkömmlichen.
+Found
+MODSMD_ARTICLE11: Wieder fünf Bombenanschläge in Manchester.
+Found
+MODSMD_ARTICLE12: Argentinien will selbständige Politik treiben.
+Found
+MODSMD_ARTICLE13: Merkwürdige Geschäfte mit Nothilfegeldern in USA.
+Found
+MODSMD_ARTICLE14: Die Hunger-Unterstützungen der Arbeitslosen in USA.
+Found
+MODSMD_ARTICLE15: Verzweifelte Lage der amerikanischen Bergarbeiter.
+Found
+MODSMD_ARTICLE16: Kommunistische Lewis-OlODiktatur.
+Found
+MODSMD_ARTICLE17: Weitere 60 Leichen ausgegraben.
+Found

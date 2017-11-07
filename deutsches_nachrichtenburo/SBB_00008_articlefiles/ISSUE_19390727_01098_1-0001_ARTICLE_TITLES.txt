@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: 25 Jahre Weltkriegsbeginn und Tannelnbergschlacht.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels eröffnet die Rundfunkausstellung.
+Found
+MODSMD_ARTICLE03: Die „Taifun"-Sieger wieder in der Heimat.
+Found
+MODSMD_ARTICLE04: Systematischer Terror gegen die Deutschen in Polen.
+Found
+MODSMD_ARTICLE05: Vernichtungsaktion gegen die Deutschen im Korridor.
+Found
+MODSMD_ARTICLE06: Polen schließt weitere deutsche Molkereien.
+Found
+MODSMD_ARTICLE07: Das wird ihnen schlecht bekommen!
+Found
+MODSMD_ARTICLE08: „Freundschaft kommt nach dem Geschäft!"
+Found
+MODSMD_ARTICLE09: Burckhardt gegen Presselügen über Danzig.
+Found
+MODSMD_ARTICLE10: Britisches Luftfahrtministerium gegen Pressegerüchte.
+Found
+MODSMD_ARTICLE11: Fieberhaste Suche jnach den Bombenattentätern.
+Found
+MODSMD_ARTICLE12: Die spanische Botschaft in Paris dementiert.
+Found
+MODSMD_ARTICLE13: Die englisch-französischen Unterhändler wieder bei Molotow.
+Found
+MODSMD_ARTICLE14: Die Regierung Colijn gestürzt.
+Found
+MODSMD_ARTICLE15: Tschungking-Presse baut auf Chamberlains Worte.
+Found
+MODSMD_ARTICLE16: „England und Frankreich haben vor Japan kapituliert."
+Found
+MODSMD_ARTICLE17: Tokio plötzlich ein Erfolg Chamberlains.
+Found

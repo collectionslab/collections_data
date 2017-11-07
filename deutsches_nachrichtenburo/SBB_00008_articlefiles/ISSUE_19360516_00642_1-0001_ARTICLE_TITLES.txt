@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Antwort der deutschen Frontsoldaten.
+Found
+MODSMD_ARTICLE02: Zehn Jahre Vereinigung Carl Schurz.
+Found
+MODSMD_ARTICLE03: Abschluß der Schulungsfahrt des Reichsbauernrats.
+Found
+MODSMD_ARTICLE04: Unerhörte Mißstände in einem litauischen Gefängnis.
+Found
+MODSMD_ARTICLE05: Die Wahlkommission für den Memelländischen Wahlbezirk.
+Found
+MODSMD_ARTICLE06: Der lettländische Staatsfeiertag.
+Found
+MODSMD_ARTICLE07: Faure und Blum über die Pläne der Volksfront-Regierung.
+Found
+MODSMD_ARTICLE08: Erste Sitzung des neuen Polnischen Kabinetts.
+Found
+MODSMD_ARTICLE09: Tie Zwischenfälle von Sinaia vor Gericht.
+Found
+MODSMD_ARTICLE10: Tie Kennzahl der Großhandelspreise vom 13. Mai.
+Found

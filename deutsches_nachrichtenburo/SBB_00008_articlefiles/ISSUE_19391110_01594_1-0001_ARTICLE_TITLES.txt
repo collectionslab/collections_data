@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Tiefster Abscheu über den Anschlag. Slowakei.
+Found
+MODSMD_ARTICLE02: Italien.
+Found
+MODSMD_ARTICLE03: Spanien.
+Found
+MODSMD_ARTICLE04: Finnland.
+Found
+MODSMD_ARTICLE05: Estland.
+Found
+MODSMD_ARTICLE06: Schweden.
+Found
+MODSMD_ARTICLE07: Niederlande.
+Found
+MODSMD_ARTICLE08: Griechenland.
+Found
+MODSMD_ARTICLE09: Jugoslawien.
+Found
+MODSMD_ARTICLE10: Japan.
+Found
+MODSMD_ARTICLE11: Die Anteilnahme der Deutschen im Ausland.
+Found
+MODSMD_ARTICLE12: Lebhaftere Spähtrupptätigkeit im Westen.
+Found
+MODSMD_ARTICLE13: „England hat Japan unendlich geschadet."
+Found
+MODSMD_ARTICLE14: Wieder 196 666 Arbeitslose mehr in England.
+Found
+MODSMD_ARTICLE15: Wechsel im ungarischen JustiZministerium.
+Found

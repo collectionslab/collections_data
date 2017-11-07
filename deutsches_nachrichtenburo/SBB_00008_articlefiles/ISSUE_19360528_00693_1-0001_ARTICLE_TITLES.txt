@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Der Fuhrer in Kiel.
+Found
+MODSMD_ARTICLE02: Minister Homan Ehrendoktor der Berliner Universität.
+Found
+MODSMD_ARTICLE03: Außenpolitische Rede Dr. Krostas.
+Found
+MODSMD_ARTICLE04: Verhaftung hoher japanischer Beamter.
+Found

@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Anerkennung des italienischen Imperiums gefordert.
+Found
+MODSMD_ARTICLE02: Erhöhung der belgischen Eisenbahntarife.
+Found
+MODSMD_ARTICLE03: Roeder lebenslängliches Mitglied des Oberhauses.
+Found
+MODSMD_ARTICLE04: Ein Ruf nach Bereinigung der Judensrage in Ungarn.
+Found
+MODSMD_ARTICLE05: Ungarn von der Minderheitenerklärung Gogas befriedigt.
+Found
+MODSMD_ARTICLE06: Bukarester Theaterbrand ein jüdischer Versicherungsbetrug?
+Found
+MODSMD_ARTICLE07: Telegrammwechsel Goga-Chautemps.
+Found
+MODSMD_ARTICLE08: Urteile in Sachen de la Nocque.
+Found
+MODSMD_ARTICLE09: Außenminister Eden in Frankreich.
+Found
+MODSMD_ARTICLE10: Weiteres Vordringen der Nationalen bei Teruel.
+Found
+MODSMD_ARTICLE11: Albacete eine sowjetrussische Garnisonstadt.
+Found
+MODSMD_ARTICLE12: Trauerfeier für die in Spanien gefallenen Journalisten.
+Found
+MODSMD_ARTICLE13: Auf Attlees Spuren.
+Found
+MODSMD_ARTICLE14: Ein neuer Gouverneur der indischen Zentralprovinzen.
+Found
+MODSMD_ARTICLE15: Haushaltsüberschuß in Portugal.
+Found
+MODSMD_ARTICLE16: Kammerpräsident aus der Wafd-Partei ausgeschlossen.
+Found
+MODSMD_ARTICLE17: Eine Erklärung Roosevelts zur Kongreßeröffnung.
+Found
+MODSMD_ARTICLE18: Das erste Echo der Erklärung Roosevelis.
+Found
+MODSMD_ARTICLE19: Eine sozialpolitische Bilanz der Vereinigten Staaten.
+Found
+MODSMD_ARTICLE20: Eine Flugverkehrslinie Neuseeland—Hawai.
+Not Found
+MODSMD_ARTICLE21: Der mexikanische Innenminister zurückgetreten.
+Found
+MODSMD_ARTICLE22: Für einen rassisch bestimmten Brasilianerthp.
+Found
+MODSMD_ARTICLE23: Großer Erfolg des ersten Schuricht-Konzerts in Rom.
+Found

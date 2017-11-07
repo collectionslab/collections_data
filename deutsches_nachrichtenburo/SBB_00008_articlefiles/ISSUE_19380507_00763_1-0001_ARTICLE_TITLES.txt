@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Tagesbefehl des Duce an das Heer.
+Found
+MODSMD_ARTICLE02: Die Reden des Duce und des Führers im Rundfunk.
+Found
+MODSMD_ARTICLE03: Die Rundsunkübertragungen am Montag.
+Found
+MODSMD_ARTICLE04: Em englischer Schritt in Prag.
+Found
+MODSMD_ARTICLE05: Ruft zum Lilienthal- und Ludwig Prandtl-Preis.
+Found
+MODSMD_ARTICLE06: Die Jahresversammlung des Deutschen Museums.
+Found
+MODSMD_ARTICLE07: „England bringt für die Tschechen keine Opser."
+Found
+MODSMD_ARTICLE08: Frankreichs große Überseeschiffe durch Streik festgelegt.
+Found
+MODSMD_ARTICLE09: Octavian Goga p.
+Found
+MODSMD_ARTICLE10: Die Kieme Entente in polnischer Beurteilung.
+Found
+MODSMD_ARTICLE11: Der neue Sowjetbotschafter für Berlin.
+Found
+MODSMD_ARTICLE12: Die Kennzahl der Großhandelspreise vom 4. Mai und im Monatsdurchschnitt April.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Weitere Glückwünsche von Staatsoberhäuptern.
+Found
+MODSMD_ARTICLE02: Eine Feier der Angehörigen der Reichskanzlei.
+Found
+MODSMD_ARTICLE03: Weitere Feiern im Ausland.
+Found
+MODSMD_ARTICLE04: Bewunderung der deutschen Stärke in Sofia.
+Found
+MODSMD_ARTICLE05: Riga: Deutsche militärische Kraft wie noch nie.
+Found
+MODSMD_ARTICLE06: „Das größte militärische Schauspiel aller Zeiten."
+Found
+MODSMD_ARTICLE07: Mit den eigenen Waffen geschlagen.
+Found
+MODSMD_ARTICLE08: Die tschechischen Journalisten bei Dr. Dietrich.
+Found
+MODSMD_ARTICLE09: Kjosseiwanoff 4 Jahre Außenminister.
+Found
+MODSMD_ARTICLE10: Günstige Entwicklung dex deutsch-rumänischen Beziehungen.
+Found
+MODSMD_ARTICLE11: Neuer Präsident der belgischen Kammer.
+Found
+MODSMD_ARTICLE12: Gafencus Besprechungen in Brüssel.
+Found
+MODSMD_ARTICLE13: Konzentrationslager für jüdische Emigranten in Holland.
+Found
+MODSMD_ARTICLE14: Französische Kriegsschiffe verließen Gibraltar.
+Found
+MODSMD_ARTICLE15: Weitere Goldverschiffungen aus England nach Amerika.
+Found
+MODSMD_ARTICLE16: Euan Wallace Nachfolger Burgins.
+Found
+MODSMD_ARTICLE17: „Zwecks Sicherstellung der strategischen Punkte!"
+Found
+MODSMD_ARTICLE18: „Smuts trägt die Verantwortung für die Beunruhigung."
+Found
+MODSMD_ARTICLE19: Die Mussolini-Rede ein Schlag für Washington.
+Found

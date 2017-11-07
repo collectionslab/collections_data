@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer beim Winterhilfskonzert der Philharmoniker.
+Found
+MODSMD_ARTICLE02: Der 4. Neichsberufswettkampf eröffnet.
+Found
+MODSMD_ARTICLE03: Baldur von Schirach.
+Found
+MODSMD_ARTICLE04: Eine Anfrage zur Führer-Rede in der belgischen Kammer.
+Found
+MODSMD_ARTICLE05: Erste Sitzung des italienischen Luftrates.
+Found
+MODSMD_ARTICLE06: Ter französische Senat billigt Anleihe für Prag.
+Found
+MODSMD_ARTICLE07: Flugzeugdiebstahl in Frankreich.
+Found
+MODSMD_ARTICLE08: Waffenschmnggel an der französisch-italienischen Grenze.
+Found
+MODSMD_ARTICLE09: Rascher Vormarsch aus Motril.
+Found
+MODSMD_ARTICLE10: Spende der Suezkanal-Gesellschaft für das ägyptische Heer.
+Found
+MODSMD_ARTICLE11: Politische Amnestie in Mexiko.
+Found
+MODSMD_ARTICLE12: Nuhestandsvorlage für das Bundesobergericht.
+Found
+MODSMD_ARTICLE13: Ter Finanzminister von Iran gestorben.
+Found

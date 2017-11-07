@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der Führer und Dr. Frick danken.
+Found
+MODSMD_ARTICLE02: Die Schlutzfeier der XZ. Olympischen Spiele.
+Found
+MODSMD_ARTICLE03: Deutschland gewinnt alle Goldmedaillen des letzten Tages.
+Found
+MODSMD_ARTICLE04: Dr. Frick über die XI. Olympischen Spiele.
+Found
+MODSMD_ARTICLE05: Tie Sieger im Boxturnier.
+Found
+MODSMD_ARTICLE06: Olympiasieger Konrad Frey Turn- und Sportlehrer.
+Found

@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Dr. Goebbels vor 3999 Autobahuern.
+Found
+MODSMD_ARTICLE02: Brauchitsch beglückwünscht Dr. Todt.
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Frank nach Warschau abgereist.
+Found
+MODSMD_ARTICLE04: Eine Verfügung Staraces an die Faschisten.
+Found
+MODSMD_ARTICLE05: Die Zersetzung im rotspamschen Lager.
+Found
+MODSMD_ARTICLE06: Botschafterempsänge bei Außenminister Jordana.
+Found
+MODSMD_ARTICLE07: Bonnet über Frankreichs Außenpolitik.
+Found
+MODSMD_ARTICLE08: Für Verbot der Kommunistischen Partei in Frankreich.
+Found
+MODSMD_ARTICLE09: „USA. kann nicht ungestraft Moralpredigt halten."
+Found

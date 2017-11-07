@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der ungarische Kultusminister in der Staatsover.
+Found
+MODSMD_ARTICLE02: Mitgliedersperre für die Hitlerjugend.
+Found
+MODSMD_ARTICLE03: Düsseldorf ehrt Schlageter.
+Found
+MODSMD_ARTICLE04: Der dänische Minister Hanssen
+Found
+MODSMD_ARTICLE05: König Eduard VIII. erhielt den Marschallstab.
+Found
+MODSMD_ARTICLE06: Keine englisch-holländischen Verteidigungspläne.
+Found
+MODSMD_ARTICLE07: Englische Gewerkschaftler für 46stündige Arbeiterwoche.
+Found
+MODSMD_ARTICLE08: Leslie Thomas aus der Börsenfirma Belisha ausgetreten«
+Found
+MODSMD_ARTICLE09: Englische Anfrage in Rom.
+Found
+MODSMD_ARTICLE10: Überreichung der Austrittserklärung Guatemalas.
+Found
+MODSMD_ARTICLE11: Schweden und die Völkerbundskrise.
+Found
+MODSMD_ARTICLE12: Der Papst empfängt die ausländische Presse.
+Found
+MODSMD_ARTICLE13: Blätterstimmen zur Reise Becks nach Belgrad.
+Found
+MODSMD_ARTICLE14: Die Außenpolitik der Türkei.
+Found
+MODSMD_ARTICLE15: Die wirtschaftlichen Beziehungen Amerika-Japan.
+Found

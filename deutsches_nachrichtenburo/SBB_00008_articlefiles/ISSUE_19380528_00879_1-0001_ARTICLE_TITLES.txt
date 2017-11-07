@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Minister Roman in Berlin.
+Found
+MODSMD_ARTICLE02: Die Deuischlandflieger im Süden des Reiches.
+Found
+MODSMD_ARTICLE03: 75 Jahrfeier der Landwirtschaftlichen Institute in Halle.
+Found
+MODSMD_ARTICLE04: Dem Londoner imponiert der deutsche Volkswagen.
+Found
+MODSMD_ARTICLE05: Dr. von Winterfeld bei Mussolini.
+Found
+MODSMD_ARTICLE06: Deutsche Militärmusiker bei Aifieri und Starace.
+Found
+MODSMD_ARTICLE07: Die Besichtigungsreise des italienischen Herrschers.
+Found
+MODSMD_ARTICLE08: Scharfe Kritik Roms am Urteil gegen Codreanu.
+Found
+MODSMD_ARTICLE09: National spanische Abordnun g in Rom.
+Found
+MODSMD_ARTICLE10: Die IK.Verlustliste der italienischen Spanien-Freiwilligen.
+Found
+MODSMD_ARTICLE11: Neue Verschwörung gegen Negrin entdeckt.
+Found
+MODSMD_ARTICLE12: Große Kammermehrheit für die neuen Steuermaßnahmen.
+Found
+MODSMD_ARTICLE13: Der Pariser englische Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE14: Englische Einladung an die französische Luftwaffe.
+Found
+MODSMD_ARTICLE15: Bericht eines Engländers ans dem Sudetengebiet.
+Found
+MODSMD_ARTICLE16: Weitere blutige Zwischenfälle in Palästina.
+Found
+MODSMD_ARTICLE17: Cardenas zum Cedillo-Aufstand.
+Found
+MODSMD_ARTICLE18: Brasilien schließt italienische Schulen.
+Found
+MODSMD_ARTICLE19: Drei deutsche Luftpioniere tödlich verunglückt.
+Found

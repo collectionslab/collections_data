@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Dir jfkier des g. November in München^
+Found
+MODSMD_ARTICLE02: Der Führer ist gekommen!
+Found
+MODSMD_ARTICLE03: „Der Führer spricht!"
+Found
+MODSMD_ARTICLE04: Nächtlicher Gedenkakt an der Feldherrnhalle.
+Found
+MODSMD_ARTICLE05: Die Weihestunde.
+Found

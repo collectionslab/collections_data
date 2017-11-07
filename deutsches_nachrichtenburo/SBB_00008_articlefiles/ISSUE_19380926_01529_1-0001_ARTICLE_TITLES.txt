@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Dritte Mittags-Ausgabe. deutsches Nachrichtenbüro dH
+Found
+MODSMD_ARTICLE02: Das deutsche Memorandum.
+Found
+MODSMD_ARTICLE03: Anlage.
+Found
+MODSMD_ARTICLE04: Manifest des Slowakischen Rates.
+Found
+MODSMD_ARTICLE05: Der König von Bulgarien beim Führer.
+Found
+MODSMD_ARTICLE06: Die englisch-französischen Ministerbesprechungen.
+Found
+MODSMD_ARTICLE07: Auch Gamelin kommt nach London.
+Found
+MODSMD_ARTICLE08: Der jugoslawische Gesandte bei Graf Ciano.
+Found
+MODSMD_ARTICLE09: Frankfurter Zweigstelle der Deutsch-Französischen Gesellschaft.
+Found
+MODSMD_ARTICLE10: Militärausstand in der Ukraine?
+Found

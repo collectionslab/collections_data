@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Mitteilung der Reichsregierung an Frankreich.
+Found
+MODSMD_ARTICLE02: Französische und englische Bomben auf belgische Städte.
+Found
+MODSMD_ARTICLE03: Gegen die deutschein Bomber und Jäger nicht anzukommen.
+Found
+MODSMD_ARTICLE04: Neue U-Boot-Erfolge.
+Found
+MODSMD_ARTICLE05: Das schmutzige Verhalten belgischer Minister.
+Found
+MODSMD_ARTICLE06: Belgiens Gold „gerettet".
+Found
+MODSMD_ARTICLE07: Erregte Auseinandersetzung in Paris.
+Found
+MODSMD_ARTICLE08: „Die Situation ist zufriedenstellend".
+Found
+MODSMD_ARTICLE09: Der Oberbefehlshaber, General Prioux, gefangengenommen.
+Found
+MODSMD_ARTICLE10: Eine „amtliche Lüge" von W. C.
+Found
+MODSMD_ARTICLE11: Auch ein Stolz.
+Found
+MODSMD_ARTICLE12: Nach alter Piratenmanier!
+Found
+MODSMD_ARTICLE13: Zwei Landesverräter hingerichtet.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ernennungen im ReichfinanZmimisterium.
+Found
+MODSMD_ARTICLE02: Colijn über Krieg und Frieden.
+Found
+MODSMD_ARTICLE03: Trauerränder der Ostpresse klagen England an.
+Found
+MODSMD_ARTICLE04: Die deutsch-russischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE05: Im Osten brach die Versailler Unordnung zusammen!
+Found
+MODSMD_ARTICLE06: Auch das verdankt Norwegen den englischen Seeräubern.
+Found
+MODSMD_ARTICLE07: „Furcht vor den wahren Folgen!"
+Found
+MODSMD_ARTICLE08: Allgemeine Lebensmittelteuerung In Paris.
+Found
+MODSMD_ARTICLE09: Südafrika wehrt sich gegen britische Vergewaltigung.
+Found
+MODSMD_ARTICLE10: Niederländische Zeitung fordert Repressalien.
+Found
+MODSMD_ARTICLE11: „Im höchsten Grade befremdlich und herausfordernd".
+Found
+MODSMD_ARTICLE12: Einigung im japanischen Außenministerium.
+Found
+MODSMD_ARTICLE13: Britische Gemeinheiten.
+Found
+MODSMD_ARTICLE14: Vollstreckung von Todesurteilen.
+Found

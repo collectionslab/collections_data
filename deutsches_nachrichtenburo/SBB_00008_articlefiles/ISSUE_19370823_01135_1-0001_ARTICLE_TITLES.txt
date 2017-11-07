@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Begrüßungsabend des Milchwirtschaftlichen Kongresses.
+Found
+MODSMD_ARTICLE02: Ter Kongreß für ärztliches Fortbildungswefen.
+Found
+MODSMD_ARTICLE03: Berlins Geburtstagsfeier in England freundlich beachtet.
+Found
+MODSMD_ARTICLE04: „In London nichts bekannt."
+Found
+MODSMD_ARTICLE05: Französische Blätter mahjnen zur Einsicht.
+Found
+MODSMD_ARTICLE06: Neuer mysteriöser Zwischenfall.
+Found
+MODSMD_ARTICLE07: Unter falscher Flagge.
+Found
+MODSMD_ARTICLE08: Totenehrung der Falangisten.
+Found
+MODSMD_ARTICLE09: Knistern im Gebälk Valencias.
+Found
+MODSMD_ARTICLE10: „Griechenland will den Frieden".
+Found
+MODSMD_ARTICLE11: Meuterei auf einem sowjetrussischen Kriegsschiff.
+Found
+MODSMD_ARTICLE12: Granateneinschlag in Schanghai: 200 Tote.
+Found
+MODSMD_ARTICLE13: Französisches Bataillon nach Schanghai unterwegs.
+Found
+MODSMD_ARTICLE14: Lebensmittelknappheit auch in Hongkong.
+Found
+MODSMD_ARTICLE15: Die chinesischen Truppen in Tschachar auf dem Rückzug?
+Found
+MODSMD_ARTICLE16: Putschgerüchte in Tsingtau.
+Found
+MODSMD_ARTICLE17: Das Problem der Palästina-Teilung.
+Found
+MODSMD_ARTICLE18: Für Rückgabe Neuguineas an Deutschland.
+Found

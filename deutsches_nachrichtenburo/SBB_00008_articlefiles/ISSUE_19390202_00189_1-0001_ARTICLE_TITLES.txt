@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Ausbau der deutscheu Kriegsmarine.
+Found
+MODSMD_ARTICLE02: Deutsche Forschung für Volk und Nahrungsfreiheit.
+Found
+MODSMD_ARTICLE03: Auch der kleinste Hof braucht einfache Maschinen.
+Found
+MODSMD_ARTICLE04: Eröffnungssitzung der WirtschastskamMer Sndetenland.
+Found
+MODSMD_ARTICLE05: Stabschef Lutze bei Mussolini.
+Found
+MODSMD_ARTICLE06: König Boris aus Rom abgereist.
+Found
+MODSMD_ARTICLE07: Alle Probleme der Zusammenarbeit können gelöst werden.
+Found
+MODSMD_ARTICLE08: Indische Truppen auch in anderen Teilen des Empire?
+Found
+MODSMD_ARTICLE09: Sie Samuel Hoare über die jüngsten Bombenattentate.
+Found
+MODSMD_ARTICLE10: Austerordentlicher Ministerrat in Brüssel.
+Found
+MODSMD_ARTICLE11: Naschaschibi-Delegation nach London eingeladen.
+Found
+MODSMD_ARTICLE12: Weitgehende Zugeständnisse an Transjordanieu.
+Found
+MODSMD_ARTICLE13: Chinesische Truppen in Hönau eingeschlossen.
+Found
+MODSMD_ARTICLE14: Neue Grenzverletzung durch Sowjettrpupen.
+Found
+MODSMD_ARTICLE15: Ablehnung eines von Roseveit ernannten Bundesrichters.
+Found

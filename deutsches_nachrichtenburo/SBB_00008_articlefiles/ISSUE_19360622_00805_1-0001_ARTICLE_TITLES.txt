@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Staatssekretär von Bülow f.
+Found
+MODSMD_ARTICLE02: Das Beileid des Führers.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels auf dem Gautag der Kurmark.
+Found
+MODSMD_ARTICLE04: Dritte Reichstagung der Nordischen Gesellschaft.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: General France beglückwünscht den Führer.
+Found
+MODSMD_ARTICLE02: Bezeichnung „Reichspropagandaämter" für Landesstellen.
+Found
+MODSMD_ARTICLE03: Rosenbergs Dank.
+Found
+MODSMD_ARTICLE04: Spanische Gäste bei der Deutschen Arbeitsfront.
+Found
+MODSMD_ARTICLE05: Ein Vorbild der Pflichterfüllung für Führer und Volk.
+Found
+MODSMD_ARTICLE06: Masaryk-Gedenken des tschechoslowakischen Ministerrats.
+Found
+MODSMD_ARTICLE07: Zuchthaus gegen jüdisches Bolschewistengesindel.
+Found
+MODSMD_ARTICLE08: Londoner Argumente und Ratschläge.
+Found
+MODSMD_ARTICLE09: 400 Flüchtlinge von Madrid nach Marseille gebracht.
+Found
+MODSMD_ARTICLE10: Sowjetrnssische U-Boote haben torpediert.
+Found
+MODSMD_ARTICLE11: Die französischen Mittelmeer-Kontrollschiffe.
+Found
+MODSMD_ARTICLE12: Ein verdienter General Nationalspaniens gestorben.
+Found
+MODSMD_ARTICLE13: Wie General Franca die soziale Gerechtigkeit verwirklicht.
+Found
+MODSMD_ARTICLE14: Bolschewistische Sprengkolonnen an der Arbeit.
+Found
+MODSMD_ARTICLE15: Der Siegeszug der Japaner in Nordchina.
+Found
+MODSMD_ARTICLE16: Teile der Formosa-Garnison in China gelandet.
+Found
+MODSMD_ARTICLE17: Türkische Nationalversammlung einberufen.
+Found
+MODSMD_ARTICLE18: Erweiterung des VoZlzugs-Ausschusses der Wafd-Partei.
+Found

@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Die Antwort Italiens.
+Found
+MODSMD_ARTICLE02: Tie feindlichen Brüder in Madrid.
+Found
+MODSMD_ARTICLE03: Alis der Diplomatie.
+Found
+MODSMD_ARTICLE04: Spaak zur Ermordung des Madrider Botschafismitglieds.
+Found
+MODSMD_ARTICLE05: Einzelheiten der Mordtat.
+Found
+MODSMD_ARTICLE06: Englische Studenten begrüßen Jugendertüchtigung.
+Found

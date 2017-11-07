@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers an General Liebmann.
+Found
+MODSMD_ARTICLE02: Dirksen zur Berichterstattung nach Berlin berufen.
+Found
+MODSMD_ARTICLE03: Danktelegramm Graf Telekis an Ribbentrop.
+Found
+MODSMD_ARTICLE04: Der Rundfunk Garant des deutschen Friedenswillens.
+Found
+MODSMD_ARTICLE05: Ehrentag der deutschen Stadt Memel.
+Found
+MODSMD_ARTICLE06: Die tschechische Presse über den Reichsprotektor.
+Found
+MODSMD_ARTICLE07: Alfieri über die deutsch-italienische Solidarität.
+Found
+MODSMD_ARTICLE08: In die Rote Armee übergetreten.
+Found
+MODSMD_ARTICLE09: Polnische Anerkennung für das deutsche Verhalten.
+Found
+MODSMD_ARTICLE10: Polen feiert den Namenstag Marschall Pilsudskis.
+Found
+MODSMD_ARTICLE11: Glückwunschtelegramme zwischen Polen und Ungarn.
+Found
+MODSMD_ARTICLE12: Die Vertreter Polens und Litauens bei Bonnet.
+Found
+MODSMD_ARTICLE13: Die Ermächtigungsvorlage auch vom Senat angenommen.
+Found
+MODSMD_ARTICLE14: Sitzung des französischen Kabinettsrats.
+Found
+MODSMD_ARTICLE15: Ter bulgarische Ministerpräsident in Ankara.
+Found

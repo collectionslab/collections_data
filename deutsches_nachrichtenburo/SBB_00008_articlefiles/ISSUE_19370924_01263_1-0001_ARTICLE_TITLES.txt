@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Stürmische Huldigungen für Mussolini auf der Fahrt.
+Found
+MODSMD_ARTICLE02: „Giornale d Jtalia". gegen Mißdeutung des Besuchs.
+Found
+MODSMD_ARTICLE03: Länger befristete Sonntagsrückfahrkarten.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Argentinische Gäste in Berlin.
+Found
+MODSMD_ARTICLE06: Vollstreckung eines Todesurteils.
+Found
+MODSMD_ARTICLE07: „Fliegeramgriff" auf den Kieler Hafen.
+Found
+MODSMD_ARTICLE08: Das Londoner Frühstück zu Ehren des Herzogs von Aosta.
+Found
+MODSMD_ARTICLE09: Barcelona vor einem Hungerwinter.
+Found
+MODSMD_ARTICLE10: r / // Verschwörung in Sowjetspanien aufgedeckte
+Found
+MODSMD_ARTICLE11: Neue nationalspanische Erklärung zum Brester Zwischenfall.
+Found
+MODSMD_ARTICLE12: Deutsche Bergsteiger bezwingen den Demawend.
+Found
+MODSMD_ARTICLE13: Neue englische Vorstellungen in Tokio.
+Found
+MODSMD_ARTICLE14: USA-Flotte bleibt vorläufig in Ostasien.
+Found
+MODSMD_ARTICLE15: Auch Tschangtschau gefallen.
+Found
+MODSMD_ARTICLE16: Japanischer Bombenangriff in der Provinz Schantung.
+Found

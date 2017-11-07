@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Dr. Stojadinowitsch an den Reichsaußenministier.
+Found
+MODSMD_ARTICLE02: Die Ritter des Pour le merite ehren Friedrich den Großen.
+Found
+MODSMD_ARTICLE03: Neubau von vier nationalpolitischen Erziehungsanstalten.
+Found
+MODSMD_ARTICLE04: Der Stand der Maul- und Klauenseuche am 15. Januar.
+Found
+MODSMD_ARTICLE05: Weihe einer Gedenktafel der Kriegsmarine.
+Found
+MODSMD_ARTICLE06: Indische Devisenschieber verurteilt.
+Found
+MODSMD_ARTICLE07: Gauleiter Bohle in Budapest.
+Found
+MODSMD_ARTICLE08: Das griechische Kronprinzenpaar in Neapel.
+Found
+MODSMD_ARTICLE09: Italienischer Geschwaderflug Rom—Rio de Janeiro^
+Not Found
+MODSMD_ARTICLE10: Gegen die judenfreundlichen Professoren von Lemberg.
+Found
+MODSMD_ARTICLE11: Neuer polnischer Stellvertretender Innenminister.
+Found
+MODSMD_ARTICLE12: Polen ehrt seine Veteranen.
+Found
+MODSMD_ARTICLE13: Beck und Micescu trafen sich an der Riviera.
+Found
+MODSMD_ARTICLE14: Beschießung Valencias.
+Found
+MODSMD_ARTICLE15: Erneuter bolschewistischer Ueberfall auf Sevilla.
+Found
+MODSMD_ARTICLE16: Tätigkeit der nationalen Luftwaffe.
+Found
+MODSMD_ARTICLE17: Japans Entschädigungsforderuugen an China.
+Found

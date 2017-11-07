@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Eindruck des Ribbentrop-Briefes.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels vor den Autoren des deutschen Rundfunks.
+Found
+MODSMD_ARTICLE03: Beklemmungen in England.
+Found
+MODSMD_ARTICLE04: Bnnderat Motta gestorben.
+Found
+MODSMD_ARTICLE05: Der russische Heeresbericht.
+Found
+MODSMD_ARTICLE06: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE07: Soll Amerika Indien für England retten?
+Found
+MODSMD_ARTICLE08: Ein Protestschritt bei Hull.
+Found
+MODSMD_ARTICLE09: „Washington Times Herald": Gedanken zum Tode Borahs.
+Found
+MODSMD_ARTICLE10: Erfolgreicher Handelskrieg überall.
+Found
+MODSMD_ARTICLE11: Die japanische Regierung billigt den Protest.
+Found
+MODSMD_ARTICLE12: „Die nationale Würde Japans mißachtet."
+Found
+MODSMD_ARTICLE13: Gemeiner Volksschädling hingerichtet.
+Found

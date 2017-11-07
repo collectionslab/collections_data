@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Zwei Vorträge über Abessiniens Zusammenbruch.
+Found
+MODSMD_ARTICLE02: Die Zahl der Rundfunkteilnehmer am 1. Juli.
+Found
+MODSMD_ARTICLE03: Neichstreffen des Bundes deutscher Chemiker.
+Found
+MODSMD_ARTICLE04: Stabsamtsführer Dr. Reischle bei Minister Elliot.
+Found
+MODSMD_ARTICLE05: Erholungsurlaub Edens.
+Found
+MODSMD_ARTICLE06: Rekruten und Außenpolitik. Unterhausgeplänkel.
+Found
+MODSMD_ARTICLE07: Vier britische Großkampfschiffe in Alexandria.
+Found
+MODSMD_ARTICLE08: Frankreichs Wirtschaftsminister warnt vor Preissteigerung.
+Found
+MODSMD_ARTICLE09: Gerichtliches Nachspiel der Zusammenstöße in Paris.
+Found
+MODSMD_ARTICLE10: Französische Parteigründungsversammlung verboten.
+Found
+MODSMD_ARTICLE11: Streikende Arbeiter setzen Direktoren gefangen.
+Found
+MODSMD_ARTICLE12: Herzog von Aosta in der Lloyd Triestino-Ausstellung.
+Found
+MODSMD_ARTICLE13: Vor einer Wirtschaftstagung der Balkan-Entente.
+Found
+MODSMD_ARTICLE14: Zuchthaus für Komintern-Agenten in Rumänien.
+Found
+MODSMD_ARTICLE15: Tschiischerin gestorben.
+Found
+MODSMD_ARTICLE16: Eine neue Warnung des Oberkommissars in Palästina.
+Found
+MODSMD_ARTICLE17: USA-Regierung siegt in einem Steuergesetz-Prozeß.
+Found
+MODSMD_ARTICLE18: Der Postminister der USA für Wahlfeldzug beurlaubt.
+Found
+MODSMD_ARTICLE19: Japaner siedeln in Paraguay.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Freiherr von Neurath an Frau von Seeckt.
+Found
+MODSMD_ARTICLE02: Vereinheitlichung des höheren Schulwesens.
+Found
+MODSMD_ARTICLE03: Zur Vorverlegung der Reifeprüfung.
+Found
+MODSMD_ARTICLE04: Ter Reichsaußemmnister au Chiaug Kai shek.
+Found
+MODSMD_ARTICLE05: Wirtschaftsgebiet des Treuhänders der Arbeit Saarpfalz.
+Found
+MODSMD_ARTICLE06: Dampfer „Palos" wieder frei.
+Found
+MODSMD_ARTICLE07: Deutsche Frauenorganisation in Ostoberschlesien verboten.
+Found
+MODSMD_ARTICLE08: Wer hintertreibt die Nichteinmischungspolitik?
+Found
+MODSMD_ARTICLE09: Internationales marxistisches Kriegskommissariat in Paris.
+Found
+MODSMD_ARTICLE10: Einfuhr ungestempelter Banknoten ins nationale Spanien.
+Found
+MODSMD_ARTICLE11: Auch Englands Konsulat in Madrid wird zurückgezogen.
+Found
+MODSMD_ARTICLE12: Sicherstellung Polnischer Anleihen durch Frankreich.
+Found
+MODSMD_ARTICLE13: Italien zur Konsulatserrichtung Rumäniens.
+Found
+MODSMD_ARTICLE14: Die Kennzahl der Großhandelspreise vom 29. Dezember.
+Found

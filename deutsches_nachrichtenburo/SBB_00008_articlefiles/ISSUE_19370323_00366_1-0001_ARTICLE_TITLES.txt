@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer spendet für das Jugendherbergswerk.
+Found
+MODSMD_ARTICLE02: Der Kührer belohnt die Retter von der Wahmannwand.
+Found
+MODSMD_ARTICLE03: Rettungsmedaille am Bande
+Found
+MODSMD_ARTICLE04: Vom Kührer begnadigt.
+Found
+MODSMD_ARTICLE05: Verordnung zur Sicherung der Evangelischen Kirche.
+Found
+MODSMD_ARTICLE06: Danziger Völkerbundskommifsar bei Polens Außenminister.
+Found
+MODSMD_ARTICLE07: Graf Ciano reist nach Belgrad.
+Found
+MODSMD_ARTICLE08: Der 18. Gründungstag der faschistischen Kampfbünde.
+Found
+MODSMD_ARTICLE09: Der jugoslawische Gesandte in Wien f.
+Found
+MODSMD_ARTICLE10: Die wirklichen Ziele der belgischen Außenpolitik.
+Found
+MODSMD_ARTICLE11: Französische Denkschrift über Belgiens Neutralität.
+Found
+MODSMD_ARTICLE12: Sitzung des Nichteinmischungsausschusses verschoben.
+Found
+MODSMD_ARTICLE13: Bolschewistischer Angriff auf Aravaca abgewiesen.
+Found
+MODSMD_ARTICLE14: Vollstreckung eines Todesurteils.
+Found
+MODSMD_ARTICLE15: Betrügerischer Bankrott eines jüdischen Bankiers.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Dr. Leb in Tirol.
+Found
+MODSMD_ARTICLE02: Kampf um Mauresa.
+Found
+MODSMD_ARTICLE03: Ist das Nichteinmischung?
+Found
+MODSMD_ARTICLE04: Barcelona ohne Brot und Licht.
+Found
+MODSMD_ARTICLE05: Im Zeichen des Zusammenbruchs.
+Found
+MODSMD_ARTICLE06: Vorbereitungen an der französischen Grenze.
+Found
+MODSMD_ARTICLE07: Französischer Luftverkehr nach Barcelona abgebrochen.
+Found
+MODSMD_ARTICLE08: Abtransport britischer Staatsangehöriger aus Katalonien.
+Found
+MODSMD_ARTICLE09: Rundsunkansprache C-Hamberlains über nationalen Dienst.
+Found
+MODSMD_ARTICLE10: Ministerrat in London.
+Found
+MODSMD_ARTICLE11: Der nordirische Jnllenminister nach Belfast zurückgekehrt.
+Found
+MODSMD_ARTICLE12: Abwanderung der Juden aus Polen unerläßlich.
+Found
+MODSMD_ARTICLE13: Diplomatenschub in Rumänien.
+Found
+MODSMD_ARTICLE14: Das Sprachenrecht der deutschen Volksgruppe.
+Found
+MODSMD_ARTICLE15: Englische Soldaten dringen in Heiligtum der Burmesen.
+Found
+MODSMD_ARTICLE16: Anhaltende Unruhen in Palästina.
+Found
+MODSMD_ARTICLE17: Das Parlament begrüßt die Haltung der Regierung.
+Found
+MODSMD_ARTICLE18: Auch die Amerikaner verlassen Katalonien.
+Found

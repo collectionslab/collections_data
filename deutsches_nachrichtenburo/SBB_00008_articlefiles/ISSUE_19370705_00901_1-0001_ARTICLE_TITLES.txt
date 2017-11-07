@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Beileidstelegramm des Führers an die Zeche Blumenthal.
+Found
+MODSMD_ARTICLE02: Beileidstelegramm von Dr. Ley.
+Found
+MODSMD_ARTICLE03: Ii) M) RM aus der Stiftung „Opfer der Arbeit".
+Found
+MODSMD_ARTICLE04: Elf Tote auf Zeche „General Blumenthal".
+Found
+MODSMD_ARTICLE05: Das Ergebnis der bergbehördlichen Untersuchung.
+Found
+MODSMD_ARTICLE06: Telegramm Dr. Ruft's an den NSD-Dozentenbund.
+Found
+MODSMD_ARTICLE07: Internationale Studententagung in Heidelberg.
+Found
+MODSMD_ARTICLE08: Katholische Priester als politische Hetzer.
+Found
+MODSMD_ARTICLE09: Bombenanschlag auf den portugiesischen Ministerpräsidentejm
+Found
+MODSMD_ARTICLE10: Nationaler Heeresbericht vom Sonnabend.
+Found
+MODSMD_ARTICLE11: Svwjetbomber wüten unter Frauen und Kindern.
+Found
+MODSMD_ARTICLE12: Italienische Stimmen zur Lage.
+Found
+MODSMD_ARTICLE13: Land- und Forstkongreß in Stockholm.
+Found
+MODSMD_ARTICLE14: „Triumph des Willens" in Paris.
+Found
+MODSMD_ARTICLE15: Streik in der Metallindustrie von Montlu^on.
+Found
+MODSMD_ARTICLE16: Französische Milliardenanleihe in England und Amerika?
+Found
+MODSMD_ARTICLE17: Der kanadische Ministerpräsident auf der Heimreise.
+Found
+MODSMD_ARTICLE18: Das Grubenunglück von Chesterton forderte 36 Tote.
+Found
+MODSMD_ARTICLE19: Sitzstreikbazillns in Oesterreich eingedrungen.
+Found
+MODSMD_ARTICLE20: Die Beilegung des Amur-Konfliktes.
+Found

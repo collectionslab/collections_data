@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Deutsche Wirtschaftsdelegation nach Moskau abgereist.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Der slowakische Gesandte bei Dr. Ley.
+Found
+MODSMD_ARTICLE04: Piratenmethoden auch im neutralen Briefverkehr.
+Found
+MODSMD_ARTICLE05: De Bono Inspekteur der Truppen in Uebersee.
+Found
+MODSMD_ARTICLE06: General Terautschi dankt Italien.
+Found
+MODSMD_ARTICLE07: Eine Schule für Fallschirmspringer in Italien.
+Found
+MODSMD_ARTICLE08: „Deutschland erfüllt alle Verträge".
+Found
+MODSMD_ARTICLE09: Der litauische Außenminister wieder in Moskau.
+Found
+MODSMD_ARTICLE10: Verhandlungen zwischen Rußland und Finnland.
+Found
+MODSMD_ARTICLE11: Handelsabkommen Rußland—Estland ratifiziert.
+Not Found
+MODSMD_ARTICLE12: Griechenland zur Rede Adolf Hitlers.
+Found
+MODSMD_ARTICLE13: Das Echo der Führerrede in Ungarn.
+Found
+MODSMD_ARTICLE14: Der Hafen von Rotterdam stirbt.
+Found
+MODSMD_ARTICLE15: Indien eine ernste Frage!
+Found
+MODSMD_ARTICLE16: Eden hetzt weiter.
+Found
+MODSMD_ARTICLE17: Starke Erhöhung der Großhandelsrichtzahl in Dänemark.
+Found
+MODSMD_ARTICLE18: „Schwarze Liften sind Attentate auf die Neutralen."
+Found
+MODSMD_ARTICLE19: Brasilien weist Angriffe der „Times" zurück.
+Found
+MODSMD_ARTICLE20: Gegen Aufhebung des Waffenausfuhrverbots.
+Found
+MODSMD_ARTICLE21: „Bewaffnete britische Handelsschiffe sind Kriegsschiffe."
+Found

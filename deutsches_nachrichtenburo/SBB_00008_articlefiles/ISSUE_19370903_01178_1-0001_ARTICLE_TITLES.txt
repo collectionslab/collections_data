@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Göring bei den Auslandsdeutschen.
+Found
+MODSMD_ARTICLE02: Merkwürdige englische Pressekommentare.
+Found
+MODSMD_ARTICLE03: Es war ein rotes Unterseeboot.
+Found
+MODSMD_ARTICLE04: Wurde das angreifende Unterseeboot versenkt?
+Found
+MODSMD_ARTICLE05: Meuterei auf einem südafrikanischen Handelsschiff.
+Found
+MODSMD_ARTICLE06: Der jüdische Marxistenhäuptling Adler in Holland verhaftet.
+Found
+MODSMD_ARTICLE07: Arabischer Polizist im Haifadistrikt erschossen.
+Found

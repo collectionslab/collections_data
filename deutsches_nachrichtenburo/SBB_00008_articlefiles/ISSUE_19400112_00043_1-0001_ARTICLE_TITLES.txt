@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Mißbrauch der neutralen Flagge.
+Found
+MODSMD_ARTICLE02: England muß Benzinverbrauch rationieren.
+Found
+MODSMD_ARTICLE03: Der Jude liefert altes Kriegsmaterial nach Frankreich.
+Found
+MODSMD_ARTICLE04: Der Unsinn des Generals Smuts.
+Found
+MODSMD_ARTICLE05: Neue Kampsansage Dr. Malans an Smuts.
+Found
+MODSMD_ARTICLE06: Thronrede des Königs von Schweden.
+Found
+MODSMD_ARTICLE07: Weitere Ausgaben im schwedischen Haushaltsvoranschlag.
+Found
+MODSMD_ARTICLE08: Sie wollen Ausweitung des Konflikts um jeden Preis.
+Found
+MODSMD_ARTICLE09: Der Wehrmachtbericht.
+Found
+MODSMD_ARTICLE10: „Jswestija": „Die englische Politik ein Bumerang".
+Found
+MODSMD_ARTICLE11: Russischer Angriff in Richtung Sulla und Petsamo.
+Found

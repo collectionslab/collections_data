@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Arbeitsminister von Neuseeland in Berlin.
+Found
+MODSMD_ARTICLE02: Drei kommunistische Mörder hingerichtet.
+Found
+MODSMD_ARTICLE03: Ein amerikanischer Wirtschaftler über das neue Deutschland.
+Found
+MODSMD_ARTICLE04: Angehörige der deutschen Volksgruppe in Polen verurteilt.
+Found
+MODSMD_ARTICLE05: Rückgang der polnischen Ernteergebnisse.
+Found
+MODSMD_ARTICLE06: Gemeinsame Arbeit für gemeinsame Zielen
+Found
+MODSMD_ARTICLE07: Nachtsitzungen von Kammer und Senat.
+Found
+MODSMD_ARTICLE08: Entschließung gegen Tendenz- und Hetzfilme.
+Found
+MODSMD_ARTICLE09: Blutiger Zusammenstoß in Syrien.
+Found
+MODSMD_ARTICLE10: Melles: Versailler Vertrag schuf Europas Schwierigkeiten.
+Found

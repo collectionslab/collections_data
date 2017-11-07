@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Beslaggung aus Anlaß der XI. Olympischen Spiele.
+Found
+MODSMD_ARTICLE02: Polizei als Dolmetscher während der Olympischen Spiele.
+Found
+MODSMD_ARTICLE03: „Kraft durch Freude ein Wirklichkeit gewordenes Ideal!"
+Found
+MODSMD_ARTICLE04: Frau Scholtz-Klink vor dem Kongreß für soziale Arbeit.
+Found
+MODSMD_ARTICLE05: Der Petrusheimprozeß.
+Found
+MODSMD_ARTICLE07: Ordensschwester wegen Unzucht zu Gefängnis verurteilt.
+Found
+MODSMD_ARTICLE08: Der Fiihrerrat der Vaterländischen Front.
+Found
+MODSMD_ARTICLE09: Der Verlauf des französischen Nationalfeiertages.
+Found
+MODSMD_ARTICLE10: England zieht 33 Kriegsschiffe aus dem Mittelmeer zurück.
+Found
+MODSMD_ARTICLE11: Die Gleitklausel des Londoner Flottenvertrages.
+Found
+MODSMD_ARTICLE12: England über Möglichkeiten der Locarno-Ronferenz. " '
+Found
+MODSMD_ARTICLE13: Einigung in Montreux über das Turchfahrtsrecht.
+Found
+MODSMD_ARTICLE14: Munters Außenminister von Lettland.
+Found
+MODSMD_ARTICLE15: Die Leitung der sowjetrussischen Staatsbank abgesetzt.
+Found
+MODSMD_ARTICLE16: Die Beisetzung von Calvo Sotelo.
+Found

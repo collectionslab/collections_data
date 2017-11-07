@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer beim Richtfest der Reichskanzlei«.
+Found
+MODSMD_ARTICLE02: Dr. Ley Ehrenbürger von Gotha.
+Found
+MODSMD_ARTICLE03: Der deutsch-französische Wirtschaftsvertrag.
+Found
+MODSMD_ARTICLE04: Japanische Jugendführer am Grabe Hindenburgs.
+Found
+MODSMD_ARTICLE05: Dr. Seyß-Jnguart über die Ausschaltung des Judentums.
+Found
+MODSMD_ARTICLE06: Kurze Sitzung des tschecho-slowakischen Abgeordnetenhauses.
+Found
+MODSMD_ARTICLE07: Prags Autwort auf die Fragen des Abgeordneten Kundt.
+Found
+MODSMD_ARTICLE08: Spiegelfechtereien tschechischer Parteien.
+Found
+MODSMD_ARTICLE09: „Hlinka-Garde" übernimmt VersaMmlungsschutz.
+Found
+MODSMD_ARTICLE10: Die Slowaken fordern eigene Regimenter.
+Found
+MODSMD_ARTICLE11: Züricher Polizei gegen Nationale Front.
+Found
+MODSMD_ARTICLE12: Fünf Millionen Zwangsarbeiter in SowjetrußlKnd»
+Found
+MODSMD_ARTICLE13: Aus dem ägyptischen Parlament.
+Found
+MODSMD_ARTICLE14: Die Opfer der Unruhen in Palästina.
+Found
+MODSMD_ARTICLE15: Sowjetflieger bombardieren koreanische Kreisstadt.
+Found

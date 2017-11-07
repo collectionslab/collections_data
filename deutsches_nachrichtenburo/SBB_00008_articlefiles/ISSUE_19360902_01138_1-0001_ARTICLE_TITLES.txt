@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Morgen-Ausgabe. deutsches Rachrichtenlzüw bH
+Found
+MODSMD_ARTICLE02: „Unser Ziel ist das gleiche: Arbeit und Friede." Eine Unterredung des Reichsministers Dr. Goebbels mit einem Vertreter des „Corriere della Sera".
+Found
+MODSMD_ARTICLE03: „Rationalsozialistischer Musterbetrieb".
+Found
+MODSMD_ARTICLE04: Zwei neue Todesopfer auf Zeche „Vereinigte Präsident".
+Found
+MODSMD_ARTICLE05: „Das schönste und größte Erlebnis meines Lebens".
+Found
+MODSMD_ARTICLE06: Neue Streikbewegung im Hafen von Le Havre.
+Found
+MODSMD_ARTICLE07: Verlängerung der Schulzeit in französischen Kolonien.
+Found
+MODSMD_ARTICLE08: Vier Fabriken in Amiens von Streikenden besetzt.
+Found
+MODSMD_ARTICLE09: Die britische Bölkerbundsabordnung.
+Found
+MODSMD_ARTICLE10: Trobkis jüdische Sekretäre aus Dänemark ausgereist.
+Found
+MODSMD_ARTICLE11: Metaxas über das innenpolitische Wiederaufbauwerk.
+Found
+MODSMD_ARTICLE12: Kündigung der Militärklauseln des Trianon-Vertragps?
+Found
+MODSMD_ARTICLE13: Separatistische Bestrebungen in der Sowjetunion.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht den Kaiser von Mandschukuo.
+Found
+MODSMD_ARTICLE02: Begnadigung durch den Führer.
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Goebbels an Hans Christoph Kaergel»
+Found
+MODSMD_ARTICLE04: Einsah polnischer Landarbeiter in Deutschland.
+Found
+MODSMD_ARTICLE05: Die neue jugoslawische Regierung.
+Found
+MODSMD_ARTICLE06: Kuhle Aufnahme Berards in Burgos.
+Found
+MODSMD_ARTICLE07: Weiterer Vormarsch in Katalonien.
+Found
+MODSMD_ARTICLE08: Der Grenzübertritt der rotspanischein Armee beginnt.
+Found
+MODSMD_ARTICLE09: Vergebliche englische Vermittlung in Spanien.
+Found
+MODSMD_ARTICLE10: Paris und London zum Zusammenbruch der roten Front.
+Found
+MODSMD_ARTICLE12: 4WO Flüchtlinge kehren heim.
+Found

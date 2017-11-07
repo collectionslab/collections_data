@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Rundfunk überträgt die Ansprache des Führers am 8.11.36.
+Found
+MODSMD_ARTICLE02: Teilsperre des Luftraumes über München am 9. November.
+Found
+MODSMD_ARTICLE03: Einheitsverwaltung nationalpolitischer Erziehungsanstalten.
+Found
+MODSMD_ARTICLE04: Die deutschen Seestreitkräfte an Spaniens Küste.
+Found
+MODSMD_ARTICLE05: Hakenkreuzwimpel in Oesterreich erlaubt.
+Found
+MODSMD_ARTICLE06: Alfred Staackmann Jnnsbrucker Ehrendoktor.
+Found
+MODSMD_ARTICLE07: Nationale Rundfunksender melden Einmarsch in Madrid.
+Found
+MODSMD_ARTICLE09: London bestätigt den Einmarsch der Nationalen.
+Found
+MODSMD_ARTICLE10: Marxistenhäuptling Caballero wollte sich erschießen.
+Found
+MODSMD_ARTICLE11: Waffenlager spanischer Marxisten in Frankreich.
+Found
+MODSMD_ARTICLE12: Internationales Frontsoldatenkomitee gebildet.
+Found
+MODSMD_ARTICLE13: „Messaggero" sieht bessere Beziehungen zu EnMZch. '
+Found
+MODSMD_ARTICLE14: „Unerträglicher Eingriff in die Meinungsfreiheit".
+Found
+MODSMD_ARTICLE15: Verbot militärischer Verbände in England geplant.
+Found
+MODSMD_ARTICLE16: Neubewertung des Leu.
+Found
+MODSMD_ARTICLE17: Fauzi Bey Englands „Staatsfeind Nr. 1" in Bagdad.
+Found
+MODSMD_ARTICLE18: Nene Unruhen in Bombay.
+Found
+MODSMD_ARTICLE19: Um die Beilegung des Kilung-Zwischenfalles.
+Found

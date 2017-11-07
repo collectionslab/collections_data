@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Wehrmacht dankt der NSB.
+Found
+MODSMD_ARTICLE02: Vertreter für Konrad Henlein bestellt.
+Found
+MODSMD_ARTICLE03: ReichsjustiZminister Dr. Gärtner bei Henlein.
+Found
+MODSMD_ARTICLE04: Die bolivianischen Jugendführer wieder in Berlin.
+Found
+MODSMD_ARTICLE05: Prag auf der Suche nach neuen Wegen.
+Found
+MODSMD_ARTICLE06: Die Forderungen des Karpatho-Ukrainischen Nationalrates.
+Found
+MODSMD_ARTICLE07: Noch kein neuer Borschlag Prags in Budapest.
+Found
+MODSMD_ARTICLE08: Litauisches Veto gegen zwei memelländische Sozialgesetze.
+Found
+MODSMD_ARTICLE09: Amtliche Verlautbarung über den Pariser Ministerrat.
+Found
+MODSMD_ARTICLE10: Ein stellvertretender GPU-Kommiffar amtsenthobem ,
+Found
+MODSMD_ARTICLE11: Moskau sucht wieder Prügelknaben.
+Found
+MODSMD_ARTICLE12: Ataiürks Befinden weiter gebessert.
+Found
+MODSMD_ARTICLE13: Japanische Warnung.
+Found
+MODSMD_ARTICLE14: Haukau vor dem Fall.
+Found
+MODSMD_ARTICLE15: Die Kennzahl der Großhandelspreise vom 19. Oktober.
+Found

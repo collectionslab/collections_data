@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: „Sunday Chronicle" über Deutschland begeistert.
+Found
+MODSMD_ARTICLE02: Eine englische Hetzerin wird widerlegt.
+Found
+MODSMD_ARTICLE03: Amerika zur Aufteilung der deutschen Kolonien.
+Found
+MODSMD_ARTICLE04: Internationaler Jugendherbergskongreß abgeschlossen.
+Found
+MODSMD_ARTICLE05: Verfolgung Deutscher in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE06: Riischtü Aras in Athen.
+Found
+MODSMD_ARTICLE07: Note Banditen brechen in Gesandtschaften ein.
+Found
+MODSMD_ARTICLE08: Diplomatisches Korps und die Forderung Madrids.
+Found
+MODSMD_ARTICLE09: Uruguayische Sympathie-Kundgebung für Burgos.
+Found
+MODSMD_ARTICLE10: Italiens Handelsverkehr mit ehemaligen Sanktionsländern.
+Found
+MODSMD_ARTICLE11: „Jswestija" über Versagen der Getreideablieferung.
+Found
+MODSMD_ARTICLE12: Kanada wieder in Handelsbeziehungen mit Sowjetrußland.
+Found
+MODSMD_ARTICLE13: Bolschewistische Geldsammlung für die spanischen Marxisten.
+Found
+MODSMD_ARTICLE14: Japan beschlagnahmt bolschewistisches Propagaudamaterial.
+Found
+MODSMD_ARTICLE15: Bergsturz Zernichtet Zwei norwegische Dörfer.
+Found

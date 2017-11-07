@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Slowakei hörte den Führer.
+Found
+MODSMD_ARTICLE02: Holland: „Adolf Hitler, der Befreier Danzigs."
+Found
+MODSMD_ARTICLE03: Größte Beachtung der Führer-Rede in Kopenhagen.
+Found
+MODSMD_ARTICLE04: U Schweden: „Deutschlands Ziele begrenzt."
+Found
+MODSMD_ARTICLE05: Belgien: „Deutschland wird nicht kapitulieren."
+Found
+MODSMD_ARTICLE06: „Deutschland kann vom Osten nicht mehr bedroht werden."
+Found
+MODSMD_ARTICLE07: Judas Presse hetzt in Neuyork.
+Found
+MODSMD_ARTICLE08: Die Führerrede beherrscht die japanische Presse.
+Found
+MODSMD_ARTICLE09: Die Stimmung in Frankreich.
+Found
+MODSMD_ARTICLE10: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE11: Am Soldatengrab des Oberleutnants Deschanel.
+Found
+MODSMD_ARTICLE12: „Wütender Haß der Polen gegen ihre Ver Hetzer."
+Found
+MODSMD_ARTICLE13: Die Ausführungen Raeders in Norwegen stark beachtet.
+Found
+MODSMD_ARTICLE14: Kommissar Burckhardt in die Schweiz Zurückgekehrt.
+Found
+MODSMD_ARTICLE15: „England will den Krieg."
+Found
+MODSMD_ARTICLE16: Mexiko stützt sich auf die Haager Konvention.
+Found

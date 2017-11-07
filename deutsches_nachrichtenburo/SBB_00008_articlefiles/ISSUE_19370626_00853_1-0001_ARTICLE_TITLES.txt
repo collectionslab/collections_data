@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Ordnungsstrafen für westdeutsche Eisenwerke.
+Found
+MODSMD_ARTICLE02: Keine Vermerke über Parteibetätigung in Zeugnissen.
+Found
+MODSMD_ARTICLE03: Die Hauptversammlung der Deutschen Apothekerschaft.
+Found
+MODSMD_ARTICLE04: Beginn des Reichskriegertages in Kassel.
+Found
+MODSMD_ARTICLE05: Die 200-Jahrfever der Universität Göttingen.
+Found
+MODSMD_ARTICLE06: Eine wallisische Freundschaftsbotschaft für Halle.
+Found
+MODSMD_ARTICLE07: Einführung des neuen Bürgermeisters von Bremen.
+Found
+MODSMD_ARTICLE08: Internationale Eisenbahntagung in Lübeck.
+Found
+MODSMD_ARTICLE09: Minister Ruft auf der Ausstellung „Schaffendes Volk".
+Found
+MODSMD_ARTICLE10: Geistlicher Jugendverderber in Abwesenheit verurteilt.
+Found
+MODSMD_ARTICLE11: Kanonenfutter für Sowjetspanien.
+Found
+MODSMD_ARTICLE12: Der Proteststurm gegen den Krakauer Erzbischof hält an.
+Found

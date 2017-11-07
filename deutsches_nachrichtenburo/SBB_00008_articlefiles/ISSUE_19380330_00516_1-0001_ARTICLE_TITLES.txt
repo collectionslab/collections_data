@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Aufruf Gauleiter Bohles zum 10. April.
+Found
+MODSMD_ARTICLE02: Die Schulen und die Volksabstimmung
+Found
+MODSMD_ARTICLE03: Hilfe für Oesterreichs Bauern.
+Found
+MODSMD_ARTICLE04: Die österreichische Legion marschiert in die befreite Heimat.
+Found
+MODSMD_ARTICLE05: Das Ausland zu Hamburg und Wien.
+Found
+MODSMD_ARTICLE06: Außenpolitische Aussprache im Oberhaus.
+Found
+MODSMD_ARTICLE07: London zu Hodschas Versprechungen.
+Found
+MODSMD_ARTICLE08: Paris zu den Prager MinderheitenerklärunMn.
+Found
+MODSMD_ARTICLE09: Die rumänische Negierung zurückgetreten.
+Found

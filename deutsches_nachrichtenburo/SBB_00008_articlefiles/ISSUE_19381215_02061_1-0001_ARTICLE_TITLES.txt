@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Ankunft des neuen litauischen Gesandten in Berlin.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels zum Reichsberusswettkamps.
+Found
+MODSMD_ARTICLE04: Gauleiter Murr 59 Jahre alt.
+Found
+MODSMD_ARTICLE05: Lautiui und Dr. Ley auf der Ordensburg Vogelfang.
+Found
+MODSMD_ARTICLE06: Türkisches Schiff in Rostock vom Stapel gelaufen.
+Found
+MODSMD_ARTICLE07: Pichot begrüßt die Pariser Erklärung.
+Found
+MODSMD_ARTICLE08: Frankreichs und Italiens Tunis-Politik.
+Found
+MODSMD_ARTICLE09: Der tschechische Gesandte in London bei Halifax.
+Found
+MODSMD_ARTICLE10: Wie ist es mit dem Empire bestellt?
+Found
+MODSMD_ARTICLE11: Stojadinowitschs Wahlsieg im Spiegel der Auslandspresse.
+Found
+MODSMD_ARTICLE12: Ein sehr fauler Borschlag.
+Found
+MODSMD_ARTICLE13: Aus Italien Zurückgekehrt.
+Found
+MODSMD_ARTICLE14: Ueberall die gleichen Ausplündernngsmethoden!
+Found
+MODSMD_ARTICLE15: Ein Araberscheich aus dem Hinterhalt niedergeknallt.
+Found
+MODSMD_ARTICLE16: Arabischer Widerstand gegen britische „Strafexpeditionen".
+Found
+MODSMD_ARTICLE17: Die japanischen Trupen gegen Guerilla-Banden.
+Found
+MODSMD_ARTICLE18: Chinesische Brückensprengungen in Kwantung.
+Found
+MODSMD_ARTICLE19: Zwei neue Marinefliegerkorps in Japan.
+Found
+MODSMD_ARTICLE20: Neues Kabinett in Chile gebildet.
+Found

@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Münchens Bevölkerung ehrt die Opfer des 8. November.
+Found
+MODSMD_ARTICLE02: Slowakischer Abscheu über das Attentat von München.
+Found
+MODSMD_ARTICLE03: Bezirk Lodsch in den Reichsgau Wartheland übernommen.
+Found
+MODSMD_ARTICLE04: Das Pfund fällt weiter.
+Found
+MODSMD_ARTICLE05: Ein gelehriger Schüler Churchills!
+Found
+MODSMD_ARTICLE06: Französischer Offizier warnt Pariser Schreiberlinge.
+Found
+MODSMD_ARTICLE07: Schon wieder ein englischer Neutralitätsbruch!
+Found
+MODSMD_ARTICLE08: Devisenschieber in Mailand verhaftet.
+Found
+MODSMD_ARTICLE09: Zwetkowitsch verteidigt die Einigung mit den Kroaten.
+Found
+MODSMD_ARTICLE10: Metaxas spricht dem Führer seine Glückwünsche aus.
+Found
+MODSMD_ARTICLE11: Bulgarien entläßt Reservisten.
+Found
+MODSMD_ARTICLE12: Die britische Admiralität muß Verluste zugeben.
+Found
+MODSMD_ARTICLE13: 65 Iren bis Kriegsende eingekerkert.
+Found
+MODSMD_ARTICLE14: Mißstimmung bei den französischen Gewerkschaften.
+Found
+MODSMD_ARTICLE15: Amerikanischer Tanker fährt unter Panama-Flagge.
+Found
+MODSMD_ARTICLE16: Der Dreh mit dem Flaggenwechsel hat versagt.
+Found
+MODSMD_ARTICLE17: Unveränderte Lage an der Westfront.
+Found
+MODSMD_ARTICLE18: Kritik am Milliardenrausch für die USA-Aufrüstung.
+Found
+MODSMD_ARTICLE19: Mehlsäcke statt Bomben.
+Found
+MODSMD_ARTICLE20: Wurde London deshalb evakuiert?
+Found
+MODSMD_ARTICLE21: Mexikanisches Gesetz zur Neutralität.
+Found
+MODSMD_ARTICLE22: Der Wert englischer Versprechungen.
+Found
+MODSMD_ARTICLE23: Schweres Grubenunglück in Japan.
+Found

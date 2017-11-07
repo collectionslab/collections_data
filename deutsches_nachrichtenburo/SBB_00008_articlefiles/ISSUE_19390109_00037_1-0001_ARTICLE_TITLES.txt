@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Deutsches Hachrichtenbüro b Z
+Found
+MODSMD_ARTICLE04: tinweihung des Bleutiauts dkl Keichskamlei
+Found
+MODSMD_ARTICLE07: Zum Regierungspräsidenten ernannt.
+Found
+MODSMD_ARTICLE08: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE09: Die Pariser Presse zur Vernehmung vom Raths.
+Found
+MODSMD_ARTICLE10: „Festessen" und Bittgesuche in Barcelona.
+Found
+MODSMD_ARTICLE11: Die nordamerikamschen Juden sollen Lebensmittel senden.
+Found
+MODSMD_ARTICLE12: Proteste gegen die Ausschreitungen in Tunis.
+Found

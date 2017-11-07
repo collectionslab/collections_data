@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Goethe-Medaille für Geheimrat Diehl-Freiburg.
+Found
+MODSMD_ARTICLE02: 15 Todesopfer bei einer schweren Kohlenstaubexplosion.
+Found
+MODSMD_ARTICLE03: Zwei Mitarbeiter Seyß-Jnquarts tödlich verunglückt.
+Found
+MODSMD_ARTICLE04: Albanien für immer mit Italien verbunden!
+Found
+MODSMD_ARTICLE05: „Albanien bleibt souveräner Staat."
+Found
+MODSMD_ARTICLE06: Große Luftschutzübung in Rom.
+Found
+MODSMD_ARTICLE07: Wie die Bolschewisteu Spanien ausplünderten.
+Found
+MODSMD_ARTICLE08: Achtzigfacher Mörder unter Englands Schützlingen.
+Found
+MODSMD_ARTICLE09: „Roosevelt das Werkzeug in Judas Hand".
+Found
+MODSMD_ARTICLE10: Franco wertet moralische Kraft höher.
+Found
+MODSMD_ARTICLE11: 18 spanische Handelsschiffe kehren zurück.
+Found
+MODSMD_ARTICLE12: Auswirkungen der Panikmache.
+Found
+MODSMD_ARTICLE13: Sowjetrußland soll das englische Imperium beschützen.
+Found
+MODSMD_ARTICLE14: Das Ergebnis der Folketingwahlen in Nordschleswig.
+Found
+MODSMD_ARTICLE15: Englands hinterlistige Methode.
+Found
+MODSMD_ARTICLE16: Roosevelt will seinen Präsidententhron retten.
+Found

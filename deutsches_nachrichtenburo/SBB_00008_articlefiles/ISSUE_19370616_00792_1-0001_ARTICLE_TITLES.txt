@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Frei erfundene ausländische Gerüchte werden richtiggestellt.
+Found
+MODSMD_ARTICLE02: Schulkreuzer „Jeanne d'Arc" verläßt Kiel.
+Found
+MODSMD_ARTICLE03: Abschied des kubanischen Kanonenbootes von Hamburg.
+Found
+MODSMD_ARTICLE04: Dänische Journalisten in Berlin.
+Found
+MODSMD_ARTICLE05: Klosterseelsorger verdirbt Klosternachwuchs.
+Found
+MODSMD_ARTICLE06: Ein widerliches Kapitel ordensbrüderlicher Verworfenheit.
+Found
+MODSMD_ARTICLE07: Englische Schuldenpolitik gegenüber Amerika unverändert.
+Found
+MODSMD_ARTICLE08: Hodschas Besuch in Bukarest.
+Found
+MODSMD_ARTICLE09: „In besonderer Mission".
+Found
+MODSMD_ARTICLE10: Der dänische Pavillon in Paris eröffnet.
+Found
+MODSMD_ARTICLE11: Der lettische Außenminister in Moskau.
+Found
+MODSMD_ARTICLE12: Das Wirtschaftsprogramm der neuen japanischen Regierung.
+Found
+MODSMD_ARTICLE13: Das Sandschakabkommen von Ankara ratifiziert.
+Found
+MODSMD_ARTICLE14: Eine Abfuhr für Hetzer.
+Found
+MODSMD_ARTICLE15: Weitere Ausschreitungen der roten Streikhetzer in Amerika.
+Found

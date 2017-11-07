@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Begnadigungen durch den Führier.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Hörbericht vom Richtfest des Propagandaministeriums.
+Found
+MODSMD_ARTICLE04: Im Dienst der Sicherheit von Volk und Staat.
+Found
+MODSMD_ARTICLE05: Italienische Industriearbeiter in Hamburg.
+Found
+MODSMD_ARTICLE06: Der Besuch Bohles in Budapest.
+Found
+MODSMD_ARTICLE07: Der vierte Jahrestag des deutsch-polnischen Abkommens.
+Found
+MODSMD_ARTICLE08: Moskaus Wühlarbeit in Indien.
+Found
+MODSMD_ARTICLE09: Genfer „Aktion" in der Ostasienfrage gefordert.
+Found
+MODSMD_ARTICLE10: Die Generalprobe für Genf in Paris.
+Found
+MODSMD_ARTICLE11: Oberst dr la Rocque von Marxisten bedroht.
+Found
+MODSMD_ARTICLE12: Kominternagent zum Tode verurteilt.
+Found

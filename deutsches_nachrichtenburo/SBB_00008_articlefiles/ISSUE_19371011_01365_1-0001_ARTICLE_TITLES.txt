@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Staatssekretär Funk beim ungarischen Reichsderweser.
+Found
+MODSMD_ARTICLE02: Buchabzeichen mit Aufnahmen vom Führer.
+Found
+MODSMD_ARTICLE03: Die deutschen Elektrofachleute in Rom.
+Found
+MODSMD_ARTICLE04: Weihe einer Wagjner-Gedächtnistafel in Meudon.
+Found
+MODSMD_ARTICLE05: Das Ergebnis der Kantonalwahlen.
+Found
+MODSMD_ARTICLE06: Der erste Eindruck von den Kantonnlwahlen.
+Found
+MODSMD_ARTICLE08: Kommunistenterror im Elsaß.
+Found
+MODSMD_ARTICLE09: Schweizerische Anleihe für die französischen Eisenbahnen.
+Found
+MODSMD_ARTICLE10: Pilsudskis Geburtsstätte wurde Eriuneruugsmal.
+Found
+MODSMD_ARTICLE11: Eine neue Partei in Polen.
+Found
+MODSMD_ARTICLE12: Moscicki eröffnete neue Volksschulen im Wilna-Gebiet.
+Found
+MODSMD_ARTICLE13: Mussert über die Arbeit seiner Bewegung.
+Found
+MODSMD_ARTICLE14: Rotspanische Flugzeuge über französischem Gebiet.
+Found
+MODSMD_ARTICLE15: Rotspanischer Munitionstransporter versenkt.
+Found
+MODSMD_ARTICLE16: Zur Mitgliedersperre der Vaterländischen Front.
+Found
+MODSMD_ARTICLE17: Südtiroler amnestiert.
+Found
+MODSMD_ARTICLE18: Neue Spitze der Faschistischen Auslandsorganisationen.
+Found
+MODSMD_ARTICLE19: Argentinische Zustimmung für Roosevelt.
+Found

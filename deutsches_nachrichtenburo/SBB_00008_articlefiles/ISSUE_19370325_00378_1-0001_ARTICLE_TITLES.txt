@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die englisch italienische Spannung.
+Found
+MODSMD_ARTICLE02: Gegen die Schulmeisteret anglikanischer Priester.
+Found
+MODSMD_ARTICLE03: London rückt von der SciisntivnSuiachr gegen Italien ab.
+Found
+MODSMD_ARTICLE04: Scharfe Sprache der „Tribnna".
+Found
+MODSMD_ARTICLE05: Englands „freundschaftliches Verständnis" für Belgrad.
+Found
+MODSMD_ARTICLE06: Amnestieautrag marxistischer Uuterhausabgeordueter.
+Found
+MODSMD_ARTICLE07: Eine Folge von Clichy: Reform der Pariser Polizei»
+Found
+MODSMD_ARTICLE08: Ein Arbeitsmmister, der die Arbeit nicht schützt.
+Found
+MODSMD_ARTICLE09: Polnische Schauspieler fordern Arierparagraphen. –
+Not Found
+MODSMD_ARTICLE10: Ausgestaltung des polnisch-rumänischen Bündnisses.
+Found
+MODSMD_ARTICLE11: Polnisch-rumänische Luftfahrtbesprechungen.
+Found
+MODSMD_ARTICLE12: Jugoslawien in der antibolschewistischen Front.
+Found
+MODSMD_ARTICLE13: Diplomatisches Revirement in USA angekündigt.
+Found
+MODSMD_ARTICLE14: Amerika verlängert Benutzungsrecht für LZ „Hindenburg".
+Found
+MODSMD_ARTICLE15: Noosevelt greift in Streikbewegung ein.
+Found
+MODSMD_ARTICLE16: Vier bolschewistische Flugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE17: Amerikanische Flottenmanöver im östlichen Pazifik.
+Found

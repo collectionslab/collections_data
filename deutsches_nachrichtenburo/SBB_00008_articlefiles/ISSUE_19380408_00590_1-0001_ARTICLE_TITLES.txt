@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Dr. Goebbels im Nürnberg.
+Found
+MODSMD_ARTICLE03: Wahlkundgebungeu am Donnerstag.
+Found
+MODSMD_ARTICLE04: Generaloberst von Brauchitsch an Lutze.
+Found
+MODSMD_ARTICLE05: Italienische Landarbeiter in Augsburg.
+Found
+MODSMD_ARTICLE06: Baldnr von Schirach an die Jugend.
+Found
+MODSMD_ARTICLE07: Die englische Presse zu den deutschen Wahlkundgebungen.
+Found
+MODSMD_ARTICLE08: Auch sie kamen zur Einsicht.
+Found
+MODSMD_ARTICLE09: Der Sultan des Gimmagebiets in Rom.
+Found
+MODSMD_ARTICLE10: Streikwahnsinn in Frankreich.
+Found
+MODSMD_ARTICLE11: Um die Entsendung eines Handelsvertreters zu Franca.
+Found

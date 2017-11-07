@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Japanische Waffenschmiede widmen dem Führer ein Schwert.
+Found
+MODSMD_ARTICLE02: Tie Reichsbahn 1935 im Konjunkturanstieg.
+Found
+MODSMD_ARTICLE03: Ter Deutsche luristeutag 1936.
+Found
+MODSMD_ARTICLE04: Unsere Auslandskreuzer auf der Heimreise.
+Found
+MODSMD_ARTICLE05: Berliner Gesandtschaft Brasiliens zur Botschaft erhoben.
+Found
+MODSMD_ARTICLE06: Die Beisetzung Lord Allenbys in Westminster.
+Found
+MODSMD_ARTICLE07: Die Beisetzung von Tsaldaris.
+Found
+MODSMD_ARTICLE08: Ministerpräsident Slladkowski über sein Programm.
+Found
+MODSMD_ARTICLE09: Noch eine Verhaftung im Phönix-Skandal.
+Found
+MODSMD_ARTICLE10: Scharfes ungarisches Dement: gegen Auslandsgerüchte.
+Found
+MODSMD_ARTICLE11: Starke Bedenken gegen die Pläne der Gewerkschaften.
+Found
+MODSMD_ARTICLE12: Generalstreik in der Provinz Zamora.
+Found
+MODSMD_ARTICLE13: Einsetzung eines Palästina-Ausschusses in London.
+Found
+MODSMD_ARTICLE14: Emwandernngsqnote für Juden nach Palästina erhöht.
+Found
+MODSMD_ARTICLE15: Japan gibt beschlagnahmte Sowjetdampser frei.
+Found
+MODSMD_ARTICLE16: Roosevelts Nothilfegesetz für verfassungswidrig erklärt.
+Found
+MODSMD_ARTICLE17: Schatzsekretär Mergenthau über das Währungsproblem.
+Found
+MODSMD_ARTICLE18: Eisenbahnerstreik in Mexiko.
+Found
+MODSMD_ARTICLE19: Die Umbildung der Regierung von Paraguay.
+Found

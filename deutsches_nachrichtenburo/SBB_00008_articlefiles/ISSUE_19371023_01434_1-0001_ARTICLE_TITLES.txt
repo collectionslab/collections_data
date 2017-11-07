@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Deutsch-Ungarische Kulturausschuß tritt zusammen.
+Found
+MODSMD_ARTICLE02: Schluß des Beamtentages.
+Found
+MODSMD_ARTICLE03: Reichsfinanzmiuister führt neuen Obersinanzpräsideuteu ein.
+Found
+MODSMD_ARTICLE04: Abrechnung mit dem politischen Katholizismus.
+Found
+MODSMD_ARTICLE05: „Gazzetta del Popolo": „Sowjetrustland ist Antieuropa".
+Found
+MODSMD_ARTICLE06: Deutsche Kolizeioffiziere in Jtaliemsch-Ostafrika.
+Found
+MODSMD_ARTICLE07: „Die Demokratien sind die Schuldigen."
+Found
+MODSMD_ARTICLE08: .Klagelied des Bolschewistenhäuptlmgs Negrin.
+Found
+MODSMD_ARTICLE09: Ein überflüssiger Schritt bei Franco.
+Found
+MODSMD_ARTICLE10: Tie Gewerkschaftsbonzen melden sich.
+Found
+MODSMD_ARTICLE11: Vor Gründung einer panarabischen Partei im Irak.
+Found

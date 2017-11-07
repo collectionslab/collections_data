@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Beethovens Neunte unter Furtwängler in Paris.
+Found
+MODSMD_ARTICLE02: Ehrung von Franeois-Ponoet durch Staatssekretär Funk.
+Found
+MODSMD_ARTICLE03: Internationaler Kongreß der Zeitschriftenpresse in Paris.
+Found
+MODSMD_ARTICLE04: Der sowjetrussische Torpedierungsversuch.
+Found
+MODSMD_ARTICLE05: Tie Schweiz gibt ihre Zustimmung zu Nyon.
+Found
+MODSMD_ARTICLE06: Eine neue Herausforderung durch Moskau.
+Found
+MODSMD_ARTICLE07: Außenminister Beck nach Paris abgereist.
+Found
+MODSMD_ARTICLE08: Italien geht nicht zur Mittelmeerkonferenz!
+Found
+MODSMD_ARTICLE09: Das englische Kabinett berät über die Mittelmeerkonferenz.
+Found
+MODSMD_ARTICLE10: Bormarsch an der Asturien- und Aragon-Front.
+Found
+MODSMD_ARTICLE11: Gefecht an der kantabrischen Küste.
+Found
+MODSMD_ARTICLE12: Brasilien feiert den Tag seiner Unabhängigkeitserklärung.
+Found
+MODSMD_ARTICLE13: Kein Verzicht auf amerikanische Handelsrechte in China.
+Found
+MODSMD_ARTICLE14: Der stellvertretende Arbeitsminister zurückgetreten.
+Found
+MODSMD_ARTICLE15: Die Kennzahl der Großhandelspreise für den Monatsdurch-
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ministerpräsident Gömbös f.
+Found
+MODSMD_ARTICLE02: Von Hassel bei Mussolini und Graf Ciano.
+Found
+MODSMD_ARTICLE03: Neuer italienischer Botschafter für London.
+Found
+MODSMD_ARTICLE04: Die österreichisch-italienischen Handelsbeziehungen.
+Found
+MODSMD_ARTICLE05: Englischer marxistischer Journalist in Wien verhastet.
+Found
+MODSMD_ARTICLE06: Die Londoner Sonntagsunruhen von Juden inszeniert.
+Found
+MODSMD_ARTICLE07: Englands Faschisten verstärken die Propaganda.
+Found
+MODSMD_ARTICLE09: Ein „Hungermarsch" nach London.
+Found
+MODSMD_ARTICLE10: lahrestagung der englischen Arbeiterpartei.
+Found
+MODSMD_ARTICLE11: Akademische Abrüstungsdebatte in Genf.
+Found
+MODSMD_ARTICLE13: Die Abwertung der Tschechen-Krone.
+Found
+MODSMD_ARTICLE14: Pariser Ministerbesprechung wegen Sonntagskundgebung.
+Found
+MODSMD_ARTICLE15: Eine Rechtfertigung des französischen Innenministeriums.
+Found
+MODSMD_ARTICLE16: Kurzer Urlaub Blums.
+Found
+MODSMD_ARTICLE17: Rotes „Volksgericht" in Barcelona fällt Todesurteile.
+Found
+MODSMD_ARTICLE18: Spanisches Gold nach Sowjetrußland verfrachtet.
+Found
+MODSMD_ARTICLE19: Mehrere hundert Mädchen in Malaga geraubt.
+Found
+MODSMD_ARTICLE20: W v. H. der amerikanischen Arbeiter stimmen für Noosevelt.
+Found

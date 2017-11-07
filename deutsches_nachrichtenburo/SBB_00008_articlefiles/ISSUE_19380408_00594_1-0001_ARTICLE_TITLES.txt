@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Führer in seinem Hennatgau.
+Found
+MODSMD_ARTICLE02: Erste Abstimmung in Wien.
+Found
+MODSMD_ARTICLE03: Wahlaufruf im „Wiener Kirchenblatt".
+Found
+MODSMD_ARTICLE04: Neef sprach zur Wiener Beamtenschaft.
+Found
+MODSMD_ARTICLE05: Die ersten KdF.-Urlauber in Tirol grüßen den Führer.
+Found
+MODSMD_ARTICLE06: Blums FinanZvorlage vom Senat abgelehnt.
+Found
+MODSMD_ARTICLE07: Kapitalerhöhung bei den Reichswerken „Hermann Göring".
+Found
+MODSMD_ARTICLE08: Stürmische Vertrauenskundgebung für Daranyi.
+Found
+MODSMD_ARTICLE09: Fast ganz Katalonien ohne Strom.
+Found
+MODSMD_ARTICLE10: London erhebt Einspruch in Mexiko.
+Found

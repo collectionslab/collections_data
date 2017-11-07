@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Glückwunsch des Reichsministers Ruft an Geheimrat Planck.
+Found
+MODSMD_ARTICLE02: Stiftung „Opfer der Arbeit" hilft.
+Found
+MODSMD_ARTICLE03: Tagung des Nautischen Vereins in Hamburg.
+Found
+MODSMD_ARTICLE04: Der deutsch-schwedische Handwerksgesellen-Austausch.
+Found
+MODSMD_ARTICLE05: Haupttagung der Sudetmdeutschen Partei.
+Found
+MODSMD_ARTICLE06: Die Sudetendenischen die stärkste Minderheit in Europa.
+Found
+MODSMD_ARTICLE07: Frankreichs Arbeitslosenziffer um 17 KW gestiegen.
+Found
+MODSMD_ARTICLE08: Vertuschung der Affäre Miller!
+Found
+MODSMD_ARTICLE09: Immer wieder Einmischung zugunsten von Sowjetspanien.
+Found
+MODSMD_ARTICLE10: Besprechungen bei Daladier.
+Found
+MODSMD_ARTICLE11: Die Reise Daladiers und Bonnets nach London.
+Found
+MODSMD_ARTICLE12: Die Militärverschwörung in Weißrußland.
+Found

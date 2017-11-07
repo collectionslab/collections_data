@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der italienische Landwirtschaftsminister in Goslar.
+Found
+MODSMD_ARTICLE02: Athens Oberbürgermeister in Berlin.
+Found
+MODSMD_ARTICLE03: Griechenland und der Balkanpakt.
+Found
+MODSMD_ARTICLE04: Italienischer Einmarsch voraussichtlich noch am Sonntag.
+Found
+MODSMD_ARTICLE05: Italien in Erwartung des Einmarsches in Addis Abeba.
+Found
+MODSMD_ARTICLE06: lieber die englisch-französischen Verhandlungen.
+Found
+MODSMD_ARTICLE07: Die Aufgabe des Zerstörers „Diana" in Dschibuti.
+Found
+MODSMD_ARTICLE08: Um die Abreife des Negus ans Dschibuti.
+Found
+MODSMD_ARTICLE09: Der Negus erlaubte die Plünderung seines Palastes.
+Found
+MODSMD_ARTICLE10: Ruhigere Lage in Addis Abeba.
+Found
+MODSMD_ARTICLE11: Englische Stimmen Zur Flucht des Negus.
+Found
+MODSMD_ARTICLE12: Große Erfolge der Wafd-Partei.
+Found
+MODSMD_ARTICLE13: Noch immer Streik in Palästina.
+Found
+MODSMD_ARTICLE14: Rücktritt des spanischen Innenministers.
+Found
+MODSMD_ARTICLE15: Der PoliZeichef von Cordoba Zurückgetreten.
+Found

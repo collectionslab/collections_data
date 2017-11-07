@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Kanzlei des Führers am Pfingstsonnabend geschlossen.
+Found
+MODSMD_ARTICLE02: Freude im Hause Frick.
+Found
+MODSMD_ARTICLE03: Rudolf Heß empfängt reichsdeutsche Auslandslehrlinge.
+Found
+MODSMD_ARTICLE04: Domvikar Kreth wegen widernatürlicher Unzucht vor Gericht.
+Found
+MODSMD_ARTICLE05: Holländische Stimme zur Düsseldorfer Ausstellung.
+Found
+MODSMD_ARTICLE06: Spende für die Hinterbliebenen des Luftschiffunglücks.
+Found
+MODSMD_ARTICLE07: Beileid des ägyptischen Parlaments zum Luftschiffunglück.
+Found
+MODSMD_ARTICLE08: Pariser Polizei untersucht Attentatspläne.
+Found

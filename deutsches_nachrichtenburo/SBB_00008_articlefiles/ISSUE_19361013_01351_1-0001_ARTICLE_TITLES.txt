@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Eine deutsche Stellungnahme zur Mottenfrage.
+Found
+MODSMD_ARTICLE02: Starker Eindruck des deutschen Protestschrittes.
+Found
+MODSMD_ARTICLE03: Keine britischen Vorstellungen wegen der Thorez-Rede.
+Found
+MODSMD_ARTICLE04: Göring über die Aufgaben der Lilienthal Gesellschaft.
+Found
+MODSMD_ARTICLE05: Hauptversammlung der Deutschen Akademie.
+Found
+MODSMD_ARTICLE06: Das Urteil im Jugnater Prozeß.
+Found
+MODSMD_ARTICLE07: Internationale Mustermesse in Rio de Janeiro eröffnet.
+Found
+MODSMD_ARTICLE08: Frühstück zu Ehren Mackenzie Kings bei Delbos.
+Found
+MODSMD_ARTICLE09: Französisches Aufenthaltsverbot für Rexistenführer Degrelle.
+Found
+MODSMD_ARTICLE10: Nationalistische Vorhut 50 uni vor Madrid.
+Found
+MODSMD_ARTICLE11: Konflikt zwischen spanischen Diplomaten.
+Found
+MODSMD_ARTICLE12: Giral flüchtet auf ein ausländisches Schiff?
+Found
+MODSMD_ARTICLE13: Marxistischer Anschlag im Hafen von Casablanca.
+Found
+MODSMD_ARTICLE14: Nom dementiert Besetzung Jbizas.
+Found
+MODSMD_ARTICLE15: Nahas Pascha nach Aegypten zurückgekehrt.
+Found
+MODSMD_ARTICLE16: Keine britische Anleihe für China.
+Found
+MODSMD_ARTICLE17: Japan und der englisch-chinesische Ausfuhrkreditplan.
+Found

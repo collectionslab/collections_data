@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Verhaftung In der Maurs völlig unbegründet.
+Found
+MODSMD_ARTICLE02: Die Beziehungen Litauens zum Memelgebiet.
+Found
+MODSMD_ARTICLE03: Italien nimmt an der Neunmächtekonferenz teil.
+Found
+MODSMD_ARTICLE04: Vor Beginn der außerordentlichen Arbeiten in Sizilien.
+Found
+MODSMD_ARTICLE05: „Popolo d'Jtalia" zum nationalen Triumph in Nordspanien.
+Found
+MODSMD_ARTICLE06: Schluß mit dem demokratischen System.
+Found
+MODSMD_ARTICLE07: Tie französischen Beamten geben nicht nach.
+Found
+MODSMD_ARTICLE08: Streik und Hetze in Marseille.
+Found
+MODSMD_ARTICLE09: Der bolschewistische Oberhäuptling von Gijon geflüchtet.
+Found
+MODSMD_ARTICLE10: Die französische Presse zum Fall von Gijon.
+Found
+MODSMD_ARTICLE11: „Die Alliierten verletzten Versailles zuerst".
+Found
+MODSMD_ARTICLE12: Die Presse über den Verlauf der Unterhausaussprache.
+Found
+MODSMD_ARTICLE13: Wieder ein Kommunistenprozeß in Lodz.
+Found
+MODSMD_ARTICLE14: Mord und Brand in Palästina.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Das „Hunter"-Unglück zur Deutschlandhetze mißbraucht.
+Found
+MODSMD_ARTICLE02: Weiteres Beileid zur „Hindenburg"-Katastrophe.
+Found
+MODSMD_ARTICLE03: Erlaß Rudolf Heß' über die NS.-Studentenkampfhilfe.
+Found
+MODSMD_ARTICLE04: Eröffnung der Kolonialausstellung in Düsseldorf.
+Found
+MODSMD_ARTICLE05: Beirat der Reichswirtschaftskammer tagt in Stuttgart.
+Found
+MODSMD_ARTICLE06: Herzlicher Abschied für den Berner deutschen Gesandten.
+Found
+MODSMD_ARTICLE07: Frühstück zu Ehren des Reichskriegsministers.
+Found
+MODSMD_ARTICLE08: Erste Sitzung der britischen Reichskonferenz.
+Found
+MODSMD_ARTICLE09: Englische Luftfahrtsachverständige für Lnftschiffdienst.
+Found
+MODSMD_ARTICLE10: Ungarn beansprucht militärische Gleichberechtigung.
+Found
+MODSMD_ARTICLE11: Erklärung Daranyis.
+Found
+MODSMD_ARTICLE12: Jüdischer Marktschieber ermordet Polizisten.
+Found
+MODSMD_ARTICLE13: Deutsche Flagge in Jaffa von Juden verbrannt!
+Found
+MODSMD_ARTICLE14: Wirtschaftsplanung und Preisregelung in Japan.
+Found

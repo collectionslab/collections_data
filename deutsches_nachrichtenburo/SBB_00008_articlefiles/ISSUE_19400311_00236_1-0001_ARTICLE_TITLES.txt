@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Das erste Echo der Ansprache des Führers.
+Found
+MODSMD_ARTICLE02: Deutsche in aller Welt gedachten ihrer toten Helden.
+Found
+MODSMD_ARTICLE03: Unsere Aufklärer wieder über Frankreich.
+Found
+MODSMD_ARTICLE04: England gibt die italienischen Kohlendampfer heraus.
+Found
+MODSMD_ARTICLE05: Der englischen Hetzpresse ins Stammbuch.
+Found
+MODSMD_ARTICLE06: Enttäuschte Hoffnungen der Westdemokratien.
+Found
+MODSMD_ARTICLE07: Handstreich auf ein englisches Torpedoboot in Dublin.
+Found
+MODSMD_ARTICLE08: Die japanisch-amerikanische Aussprache beendet.
+Found
+MODSMD_ARTICLE09: Ruchloser Anschlag! auf Reichsdeutsche in Montevideo.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die deutsche Künstlerschaft beim Führer.
+Found
+MODSMD_ARTICLE02: Festlicher Ausklang des ersten Tages in München.
+Found
+MODSMD_ARTICLE03: Neuordnung der deutschen Pferdezucht und des Pferdesports.
+Found
+MODSMD_ARTICLE04: Freiplätze für SA.-Wettkampfsieger.
+Found
+MODSMD_ARTICLE05: Der IM. Geburtstag des Grafen Zeppelin.
+Found
+MODSMD_ARTICLE06: Einführung der Reichsforsiverwaltung im Lande Oesterreich.
+Found
+MODSMD_ARTICLE07: Die Vorfälle in Memel.
+Found
+MODSMD_ARTICLE08: Schon wieder ein Sudetendeutscher blutig gelchlagen.
+Found
+MODSMD_ARTICLE09: Bundesrat genehmigt deutsch-schweizerische Vereinbarungen.
+Found
+MODSMD_ARTICLE10: Rom zum Störungsfeuer gegen den Freiwilligenplan.
+Found
+MODSMD_ARTICLE11: Moskau bequemt sich zur Anuahme des FreiwWgenplans
+Found
+MODSMD_ARTICLE12: Bolschewistische Massenmorde durch die Roten in Castellon.
+Found

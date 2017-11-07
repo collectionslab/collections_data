@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Die Streiklage in Paris. Außerordentlicher Kabmettsrat.
+Found
+MODSMD_ARTICLE03: Scharfe Pariser Pressekommentare.
+Found
+MODSMD_ARTICLE04: Der Streik in Paris abgeblasen.
+Found
+MODSMD_ARTICLE05: Rückenstärkung für ChauLrmPs.
+Found
+MODSMD_ARTICLE06: Betriebsstörung in der französischen Staatsdruckerei.
+Found
+MODSMD_ARTICLE07: Wie Frankreich unterminiert wird.
+Found
+MODSMD_ARTICLE08: Pariser Verkehrsstreik erregt in England Aufsehen.
+Found
+MODSMD_ARTICLE09: „Pariser Streik eine von Moskau befohlene Kraftprobe."
+Found

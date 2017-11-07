@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Chinas Botschafter am Mahnmal in München.
+Found
+MODSMD_ARTICLE02: Lutze zur Indienststellung des deutschen Schulschiffes.
+Found
+MODSMD_ARTICLE03: Beileid Darres an Norwegens Bauernschaft.
+Found
+MODSMD_ARTICLE04: Tagesbefehl an das NSKK.
+Found
+MODSMD_ARTICLE05: Observatorium oberhalb Innsbrucks fertiggestellt.
+Found
+MODSMD_ARTICLE06: Elsässische Stimme zur Zersetzungsarbeit der Kommunisten.
+Found
+MODSMD_ARTICLE07: Staatssekretär Schmidt wieder in Wien.
+Found
+MODSMD_ARTICLE08: Streikbewegung in der französischen Metallindustrie.
+Found
+MODSMD_ARTICLE09: Einigung im französischen Textilstreit.
+Found
+MODSMD_ARTICLE10: L6on Blum sprach im Rundfunk.
+Found
+MODSMD_ARTICLE11: Das Programm der Genfer Abordnung Frankreichs.
+Found
+MODSMD_ARTICLE12: Schlechter Gesundheitszustand Titulescus.
+Found
+MODSMD_ARTICLE13: „Giornale d'Jtalia" zur Außenpolitik Italiens.
+Found
+MODSMD_ARTICLE14: „Das russische Volk wird auf den Krieg vorbereitet."
+Found
+MODSMD_ARTICLE15: Londoner Flottenbesprechungen unterbrochen.
+Found
+MODSMD_ARTICLE16: Neue kommunistische Greueltaten in Spanien aufgedeckt.
+Found
+MODSMD_ARTICLE17: Entspannung in Pakhoi.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die Amtsstellen flaggen am 19. und 29. April.
+Found
+MODSMD_ARTICLE02: Luftsperrgebiet über Groß-Berlin.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels beglückwünscht August Hinrichs.
+Found
+MODSMD_ARTICLE04: Die Neugliederung der sudetendeutscheu Gebiete.
+Found
+MODSMD_ARTICLE05: Kulturaufgaben der großdeutschen Presse.
+Found
+MODSMD_ARTICLE06: „Ewald von Massow-Stiftung".
+Found
+MODSMD_ARTICLE07: Jede Einmischung Roosevelts in Europa verbeten.
+Found
+MODSMD_ARTICLE08: Italien in Erwartung der Führer-Antwort.
+Found
+MODSMD_ARTICLE09: Iran erkennt Franca cks füre an.
+Found
+MODSMD_ARTICLE10: Streik inWoolwich bringt die Admiralität in Verlegenheit.
+Found
+MODSMD_ARTICLE11: Die Wahrheit ist nicht totzuschlagen!
+Found
+MODSMD_ARTICLE12: Lange Gesichter in Washington.
+Found
+MODSMD_ARTICLE13: Amerikanische Kirchensürsten als Besitzer von Rüstungsaktien.
+Found

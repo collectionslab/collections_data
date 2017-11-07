@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Seysz-Jnquart in Graz.
+Found
+MODSMD_ARTICLE02: Die österreichische Legion leuchtendes Vorbild.
+Found
+MODSMD_ARTICLE03: Reichsbankpräsident Dr. Schacht in Brüssel.
+Found
+MODSMD_ARTICLE04: Weiterbau des Deutschen Gymnasiums in Bromberg^
+Found
+MODSMD_ARTICLE05: Polens Antwort auf die jüdische Börsenpanik.
+Found
+MODSMD_ARTICLE06: Charwat überreicht sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE07: Anfrage im litauischen Sejm.
+Found
+MODSMD_ARTICLE08: Die italienische Presse zur Seuatsrede des Duce.
+Found
+MODSMD_ARTICLE09: Em neuer britischer Kontrollplan.
+Found
+MODSMD_ARTICLE10: Abstimmung Spaniendeuischer an Bord der „Emden".
+Found
+MODSMD_ARTICLE11: Flandin: Der deutsche Aufstieg ist beispielhaft.
+Found
+MODSMD_ARTICLE12: Geheimnisvolle Rundfunksendungen in Frankreich.
+Found
+MODSMD_ARTICLE13: Der sowjetrussische Schwarzsender wieder in Tätigkeit.
+Found
+MODSMD_ARTICLE14: Der ordentliche Marinehaushalt vom Senat angenommen.
+Found
+MODSMD_ARTICLE15: Amerikanische Stadt unter Kommunisten-Terror.
+Found
+MODSMD_ARTICLE16: Putschplan in Uruguay vereitelt.
+Found

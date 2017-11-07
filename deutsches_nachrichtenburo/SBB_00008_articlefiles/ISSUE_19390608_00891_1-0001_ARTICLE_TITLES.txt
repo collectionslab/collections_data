@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der estnische Außenminister abgereist.
+Found
+MODSMD_ARTICLE02: Auszeichnungen für Sperrte, Volkmann und Richthofen.
+Found
+MODSMD_ARTICLE03: Tagung des Deutsch-Italienischen Kulturausschusses.
+Found
+MODSMD_ARTICLE04: Die Schweiz zu den Berliner Vertragsabschlüssen.
+Found
+MODSMD_ARTICLE05: Polen schmähen den deutschen Soldaten.
+Found
+MODSMD_ARTICLE06: Die polnische Presse zu den Berliner Vertragsabschlüssen.
+Found
+MODSMD_ARTICLE07: Gefängnis wegen „Verbreitung von Defaitismus".
+Found
+MODSMD_ARTICLE08: „Wirtschaftliche Tatsachen von entscheidender Stärke."
+Found
+MODSMD_ARTICLE09: „Sie wollen nicht von Moskau geschützt werden."
+Found
+MODSMD_ARTICLE10: Moskau schweigt weiter. H
+Found
+MODSMD_ARTICLE11: Sowjetrussische Flottenmanöver in der Ostsee.
+Found
+MODSMD_ARTICLE12: Der Autobandit von Potsdam hingerichtet.
+Found
+MODSMD_ARTICLE13: Die Kennzahl der Großhandelspreise im Monatsdurchschnitt Mai 1935.
+Found

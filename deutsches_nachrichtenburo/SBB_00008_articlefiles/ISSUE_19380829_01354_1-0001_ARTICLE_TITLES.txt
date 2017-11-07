@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Der Führer zur Eröffnung der Leipziger Herbstmesse.
+Found
+MODSMD_ARTICLE02: Landesschau Ostmark des Reichsnährstandes in Wels.
+Found
+MODSMD_ARTICLE04: 1,2 Millionen DAF.-Mitglieder in der Ostmark.
+Found
+MODSMD_ARTICLE05: Ein Beweis für die Aufbauarbeit des Faschismus.
+Found
+MODSMD_ARTICLE06: Tatkräftige Aufklärung über Rassenfragen in Aethiopien.
+Found

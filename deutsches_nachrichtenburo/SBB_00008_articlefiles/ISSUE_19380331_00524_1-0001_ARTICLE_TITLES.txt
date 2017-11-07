@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Größte Schiffahrtsstraße Europas: Rhein—Main—Donau.
+Not Found
+MODSMD_ARTICLE02: Staatssekretär Neinhardt sprach in Wien.
+Found
+MODSMD_ARTICLE03: Salzburg in Erwartung der österreichischen Legion.
+Found
+MODSMD_ARTICLE04: Zahlreiche Kundgebungen in Oesterreich.
+Found
+MODSMD_ARTICLE05: Bulgarische Stimme über den Umschwung in Wien.
+Found
+MODSMD_ARTICLE06: Alle Parteien Rumäniens aufgelöst.
+Found
+MODSMD_ARTICLE07: Die ungarische Presse zur Judenfrage.
+Found
+MODSMD_ARTICLE08: Die Polen in der Tschechoslowakei fordern Autonomie.
+Found
+MODSMD_ARTICLE09: Ab 9. April wieder Eisenbahnverkehr Polen—Litauen.
+Not Found
+MODSMD_ARTICLE10: Charwat beim litauischen Außenminister.
+Found
+MODSMD_ARTICLE11: Dicht vor Lerida.
+Found
+MODSMD_ARTICLE12: „Evening Standard zu Spanien.
+Found
+MODSMD_ARTICLE13: Chamberlain gegen eine Labour-Forderung.
+Found
+MODSMD_ARTICLE14: Schon wieder Sabotageakte an KrieMflugzeugen.
+Found
+MODSMD_ARTICLE15: Schwierige Lage in Belgiens Kohleninduftrie.
+Found
+MODSMD_ARTICLE16: Katastrophale Arbeitslosigkeit in französischen Gemeinden.
+Found
+MODSMD_ARTICLE17: Die KdF.-Schiffe verließen Lissabon.
+Found
+MODSMD_ARTICLE18: Zusammenstoß mit Streikenden in Detroit.
+Found

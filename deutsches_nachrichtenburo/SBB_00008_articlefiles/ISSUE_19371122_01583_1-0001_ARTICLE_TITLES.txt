@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer besichtigte die Bayerischen Flugzeugwerke.
+Found
+MODSMD_ARTICLE02: Daranyi bei Darre.
+Found
+MODSMD_ARTICLE03: Em „Deutscher Tag" an Bord der „Schleswig-Holstein".
+Found
+MODSMD_ARTICLE04: Hilgenseldt in Sonthofen.
+Found
+MODSMD_ARTICLE05: Reichsnnlnster Dr. Dorpmüller in Neapel.
+Found
+MODSMD_ARTICLE06: Pariser „Tribunal-Korrespondent zurückberufen.
+Found
+MODSMD_ARTICLE07: Ter neue französische Botschafter in Barcelona.
+Found
+MODSMD_ARTICLE08: Roter Bombenangriff auf Pamplona abgewehrt.
+Found
+MODSMD_ARTICLE09: Lord Halifax wieder in London.
+Found
+MODSMD_ARTICLE10: „Kraft durch Freude": Beispiel für das neue Portugal.
+Found
+MODSMD_ARTICLE11: Gegen jüdische Unverschämtheit.
+Found
+MODSMD_ARTICLE12: Kommunismus bedeutet Sammlung von Kanonenfutter.
+Found
+MODSMD_ARTICLE13: Restlose Ausrottung der Bischöfe in Sowjetrußland.
+Found
+MODSMD_ARTICLE14: Ein Jahr Antikomintern-Abkommen Deutschland—Japan.
+Not Found
+MODSMD_ARTICLE15: Neue japanische Luftangriffe auf Nanking.
+Found
+MODSMD_ARTICLE16: Japaner beschlagnahmen Zoll-Fahrzeuge in Schanghai.
+Found
+MODSMD_ARTICLE17: Roosevelt wird nicht mehr kandidieren. .
+Found
+MODSMD_ARTICLE18: Eine kommunistische Verschwörung in Brasilien aufgedeckt.
+Found

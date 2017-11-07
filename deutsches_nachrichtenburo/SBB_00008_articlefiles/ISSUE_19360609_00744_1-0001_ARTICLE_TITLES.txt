@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Der Internationale Gemeindekongreß.
+Found
+MODSMD_ARTICLE02: Die Kreuzer „Emden" und „Karlsruhe" auf Schilligreede.
+Found
+MODSMD_ARTICLE03: Ergebnis der deutschen Winterhilfe in Frankreich.
+Found
+MODSMD_ARTICLE04: Französische Kraftwagenhändler besuchen Deutschland.
+Found
+MODSMD_ARTICLE05: Schlageter-Feier in Buenos Aires.
+Found
+MODSMD_ARTICLE06: Die türkische Beteiligung an der Olympiade.
+Found
+MODSMD_ARTICLE07: Kommunistenhetze und Ausschreitungen in Thorn.
+Found
+MODSMD_ARTICLE08: Kommunismus unter ungarischen Mittelschülern.
+Found
+MODSMD_ARTICLE09: Internationaler Verlegerkongreß in London.
+Found
+MODSMD_ARTICLE10: Kapstadt soll Flottenstützpunkt werden.
+Found
+MODSMD_ARTICLE11: Die Mitarbeiter Sir Samuel Hoares.
+Found
+MODSMD_ARTICLE12: Schlachtkreuzer „RePulse" wieder in Dienst gestellt.
+Found
+MODSMD_ARTICLE13: Französische Stimmen zur Streikbewegung.
+Found
+MODSMD_ARTICLE14: Fühlungnahme zwischen Frankreich und Großbritannien
+Found
+MODSMD_ARTICLE15: Der Gouverneur der Bank von Frankreich beim Jinanzminister.
+Not Found
+MODSMD_ARTICLE16: Außenpolitische Anfrage in der französischen Kammer.
+Found
+MODSMD_ARTICLE17: Italienischer Protest gegen die Empfänge des Negus.
+Found
+MODSMD_ARTICLE18: Ernste Beurteilung der Vorgänge in Palästina.
+Found
+MODSMD_ARTICLE19: Jüdischer Gegenboykott in Palästina.
+Found
+MODSMD_ARTICLE20: Fünf Millionen Sowjet-Gewerkschaftsgelder veruntreut.
+Found
+MODSMD_ARTICLE21: Der neue Präsident von Panama.
+Found

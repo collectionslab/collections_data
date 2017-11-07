@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Frau Ludendorffs Dank.
+Found
+MODSMD_ARTICLE03: Ein neuer Landesreferent für Tirol.
+Found
+MODSMD_ARTICLE04: Für Arbeitswillige nicht zu sprechen.
+Found
+MODSMD_ARTICLE05: Zusammenarbeit Gogas mit Stojadinowitsch.
+Found
+MODSMD_ARTICLE06: König Zogu über die Beziehungen der Balkanstaaten.
+Found
+MODSMD_ARTICLE07: Kronprinz Michael in Constanza eingetroffen.
+Found
+MODSMD_ARTICLE08: Englisches Schiff im Hafen Constanza in Brand geraten.
+Found
+MODSMD_ARTICLE09: Julius Barmat im Brüsseler Gefängnis gestorben.
+Found
+MODSMD_ARTICLE10: Die wachsende Arbeitslosigkeit in England.
+Found
+MODSMD_ARTICLE11: Leningrader Massenverhaftungen nach einer Explosion.
+Found
+MODSMD_ARTICLE12: Japans Verantwortung für Friedenssichernng in Fernost.
+Found
+MODSMD_ARTICLE13: Der „Adjutant des Gangsterkönigs" in Rotspanien.
+Found
+MODSMD_ARTICLE14: Englands „Interesse" für die Inden in Rumänien.
+Found
+MODSMD_ARTICLE15: Der Wertmesser bolschewistischer Zuverlässigkeit.
+Found
+MODSMD_ARTICLE16: Kritik arabischer Blätter am Palästina-Weißbuch.
+Found
+MODSMD_ARTICLE17: Chinesischer Protest gegen japanische Maßnahmen.
+Found
+MODSMD_ARTICLE18: Japan erwartet von China ehrliche Friedensbekundung.
+Found
+MODSMD_ARTICLE19: Japans Kultusminister auch Wohlfahrtsminister.
+Found
+MODSMD_ARTICLE20: Portorico fordert Unabhängigkeit.
+Found
+MODSMD_ARTICLE21: Eine Weigerung Fords.
+Found
+MODSMD_ARTICLE22: Amerikas Luftmacht auf Hawai wird verstärkt.
+Found

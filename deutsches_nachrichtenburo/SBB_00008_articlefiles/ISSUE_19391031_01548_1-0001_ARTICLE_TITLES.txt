@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Englands jüdischer Krieg.
+Found
+MODSMD_ARTICLE02: Mussolini empfing die italienischem Richter.
+Found
+MODSMD_ARTICLE03: So behandeln Briten neutrale Seemänner.
+Found
+MODSMD_ARTICLE04: Englands Evakuierungsexperiment völlig mißglückt.
+Found
+MODSMD_ARTICLE05: Vorläufig keine japanisch-amerikanischen Verhandlungen.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Wieder eine Gesandtschaft von Ecuador in Berlin.
+Found
+MODSMD_ARTICLE03: Feierliche Uebergabe der Weihestätte in Pasewalk.
+Found
+MODSMD_ARTICLE04: Eine Rede des Reichspostministers Dr. Ohnesorge.
+Found
+MODSMD_ARTICLE05: Der Herzog von Windsor in Württemberg.
+Found
+MODSMD_ARTICLE06: General Francs bildet einen Nationalrat.
+Found
+MODSMD_ARTICLE07: Die beiden tschechoslowakischen Kammern einberufen.
+Found
+MODSMD_ARTICLE08: Die Sudetendentschen Südamerikas stehen hinter Henlein.
+Found
+MODSMD_ARTICLE09: Der Terror gegen die Sudetendeutschen geht weiter.
+Found
+MODSMD_ARTICLE10: Außenpolitisches Referat Edens vor dem Unterhaus.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: schwedische Regierungskommission in Berlin.
+Found
+MODSMD_ARTICLE03: Neue deutsche Mitglieder des Schiedhofes im Haag.
+Found
+MODSMD_ARTICLE04: Rückkehr der „Hindenburg"-Untersuchungskommission.
+Found
+MODSMD_ARTICLE05: 12 Vermißte beim Untergang des Walfängers „Ran III".
+Found
+MODSMD_ARTICLE06: Auszeichnung eines Betriebes.
+Found
+MODSMD_ARTICLE07: Oberbürgermeister Dr. Strölin sprach in Wien.
+Found
+MODSMD_ARTICLE08: Der schwedische Außenminister nach Riga weitergereist.
+Found
+MODSMD_ARTICLE09: Das Internationale Olympische Komitee tagt in Warschau.
+Found
+MODSMD_ARTICLE10: Englands Stellung zu den Vergeltungsmaßnahmen.
+Found
+MODSMD_ARTICLE11: Einigung in der Ueberwachungsfrage.
+Found
+MODSMD_ARTICLE12: Keine Aenderung der britischen Währungspolitik.
+Found
+MODSMD_ARTICLE13: Ein Abkommen zur Regelung des Walfanges unterzeichnet.
+Found
+MODSMD_ARTICLE14: Sowjetschiffsverkehr nach Valencia über das Weiße Meer!
+Found
+MODSMD_ARTICLE15: Die „Säuberung" unter den sowjetrussischen Armeeführern.
+Found
+MODSMD_ARTICLE16: Verhetzte Stellende terrorisieren eine ganze Stadt in USA.
+Found

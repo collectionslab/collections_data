@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Kassation im „Fall Kensau" zurückgewiesen.
+Found
+MODSMD_ARTICLE02: Jüdische Unverschämtheit.
+Found
+MODSMD_ARTICLE03: Zur Abberufung des Vukarester Sowjetgefandten.
+Found
+MODSMD_ARTICLE04: Bukarester Justizpalast ohne jüdische Anwälte.
+Found
+MODSMD_ARTICLE05: Belgrad zum Besuch Stojadinowitschs im Ruhrgebiet.
+Found
+MODSMD_ARTICLE06: Englische Auszeichnung für deutschen Flugzeugkonstrukteur«
+Found
+MODSMD_ARTICLE07: Englische Anerkennung für den deutschen Luftschutz.
+Found
+MODSMD_ARTICLE08: Die Diskussion um die Lebensmittelversorgung Englands.
+Found
+MODSMD_ARTICLE09: Die flämischen Studenten im „Schilderkrieg".
+Found
+MODSMD_ARTICLE10: Vor der Abstimmung in der Kammer.
+Found
+MODSMD_ARTICLE11: Oberster Rat für körperliche Ertüchtigung in Krankreich.
+Found
+MODSMD_ARTICLE12: Spaniens Kohlengruben sollen verschachert werden.
+Found
+MODSMD_ARTICLE13: Hohe Verluste der Volschewisten vor Teruel.
+Found
+MODSMD_ARTICLE14: Neuer Militärgouverneur von Lissabon.
+Found
+MODSMD_ARTICLE15: Blutiger Kampf zwischen Beduinenstämmen.
+Found
+MODSMD_ARTICLE16: Die Stellung der chinesischen Diplomaten in Japan.
+Found
+MODSMD_ARTICLE17: Das japanische Hauptquartier nach Peking verlegt.
+Found
+MODSMD_ARTICLE18: Roosevelt junior verteidigt seinen Vater.
+Found
+MODSMD_ARTICLE19: Weitere Verstärkung der Luftwaffe auf Hawaii.
+Found

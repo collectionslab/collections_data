@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer und seine Gaste in der Staatsoher.
+Found
+MODSMD_ARTICLE02: Legion Condor in Döberitz.
+Found
+MODSMD_ARTICLE04: Ehrung des Reichsaußenministers.
+Found
+MODSMD_ARTICLE05: Dino Alfieri Gast Dr. Goebbels'.
+Found
+MODSMD_ARTICLE06: Der Neichskriegertag.
+Found
+MODSMD_ARTICLE07: Holland: „Außergewöhnlich herzlich."
+Found
+MODSMD_ARTICLE08: „Jutro" über den Berliner Staatsbesuch.
+Found
+MODSMD_ARTICLE09: Scharfe Abfuhr für die Einkreisungshetzer.
+Found
+MODSMD_ARTICLE10: Skandalöse Randbemerkungen in Warschau.
+Found
+MODSMD_ARTICLE11: Baltische Staaten wurden „fatal beeindruckt".
+Found
+MODSMD_ARTICLE12: Diplomatenempfänge bei Bannet.
+Found
+MODSMD_ARTICLE13: Verdrossenheit in der französischen Presse.
+Found
+MODSMD_ARTICLE14: 7köpfige britisch-jüdische Patrouille erschossen.
+Found
+MODSMD_ARTICLE15: Roosevelts „Nasenkatarrh" eine politische Krankheit?
+Found

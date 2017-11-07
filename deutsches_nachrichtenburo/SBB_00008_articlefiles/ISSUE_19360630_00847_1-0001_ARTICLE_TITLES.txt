@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Glückwunsch Dr. Fricks zur Rettung des Hauers Schmidt.
+Found
+MODSMD_ARTICLE02: Die Einheitsorgauisation der deutscheu Polizei.
+Found
+MODSMD_ARTICLE03: Neuregelung der Arbeitszeit in Bäckereien.
+Found
+MODSMD_ARTICLE04: Ein Blitz schlägt in das Haus Schmelings.
+Found
+MODSMD_ARTICLE05: Der Bonner Kindesentführer zum Tode verurteilt.
+Found
+MODSMD_ARTICLE06: Der Sittlichkeitsprozeß gegen die Franziskaner-Brüder.
+Found
+MODSMD_ARTICLE07: Der polnische Handelsminister Roman in Danzig.
+Found
+MODSMD_ARTICLE08: Staatspräsident Moscicki zum „Feiertag des Meeres".
+Found
+MODSMD_ARTICLE09: Die „Reichspost" gegen die Wiener Volkshochschule.
+Found
+MODSMD_ARTICLE10: Oesterreicherbesitz der Insel Brioni an Italien verkauft.
+Found
+MODSMD_ARTICLE11: Dr. Jbl tschechoslowakischer Gesandter in Kopenhagen.
+Found
+MODSMD_ARTICLE12: Französischer Prafekt gegen ausländische Hetzer.
+Found
+MODSMD_ARTICLE13: Wieder eine neue Partei in Frankreich.
+Found
+MODSMD_ARTICLE14: Wiederum Ausschreitungen in Oran.
+Found
+MODSMD_ARTICLE15: „Einig im Negativen".
+Found
+MODSMD_ARTICLE16: Abermals Streiks in Spanien.
+Found
+MODSMD_ARTICLE17: Neue Brandschatzungen in Palästina.
+Found

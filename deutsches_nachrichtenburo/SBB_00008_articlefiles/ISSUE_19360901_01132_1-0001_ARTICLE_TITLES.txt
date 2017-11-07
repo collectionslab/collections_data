@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer zur Einweihung der Neulandhalle.
+Found
+MODSMD_ARTICLE02: Schach Olympia München 1936.
+Found
+MODSMD_ARTICLE03: Die römische Presse zum Besuch Dr. Goebbels'.
+Found
+MODSMD_ARTICLE04: Die französischen Kommunisten lassen nicht locker.
+Found
+MODSMD_ARTICLE05: Saalschlacht in Reims.
+Found
+MODSMD_ARTICLE06: Lebrun wieder in Paris.
+Found
+MODSMD_ARTICLE07: Die Ermordung des französischen Priesters in Andorra.
+Found
+MODSMD_ARTICLE08: Die Neubesetzungen englischer Regierungsposten.
+Found
+MODSMD_ARTICLE09: Der ungarische Reichsverweser wieder in der Heimat.
+Found
+MODSMD_ARTICLE10: Starker Eindruck des Sturzes Titulescus in Ungarn.
+Found
+MODSMD_ARTICLE11: Die Bukarester Presse zum Kabinettswechsel.
+Found
+MODSMD_ARTICLE12: Auch Litauen für einen Nichteinmischungspakt.
+Found
+MODSMD_ARTICLE13: Strenge Isolierung für Trotzki.
+Found
+MODSMD_ARTICLE14: Schwedens Vorschläge zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE15: Neue Einmischung Sowjetrußlauds in Spanien.
+Found
+MODSMD_ARTICLE16: „Getreidediebstahl noch nicht liquidiert."
+Found
+MODSMD_ARTICLE17: Großzügiges Programm für Schisfsneubauten in NSA.
+Found
+MODSMD_ARTICLE18: Große Kundgebung der Deutschamerikaner auf Long Island.
+Found
+MODSMD_ARTICLE19: Internationaler Kongreß für Kunstgeschichte eröffnet.
+Found

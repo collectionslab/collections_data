@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Deutsche Dörfer einfach ausgerottet.
+Found
+MODSMD_ARTICLE02: Mutmanskl, in den Linzer Hermann Göring-Werken.
+Found
+MODSMD_ARTICLE03: Tschechen! antworten Chamberlain.
+Found
+MODSMD_ARTICLE04: Erst in Lettland gingen ihnen die Augen auf.
+Found
+MODSMD_ARTICLE05: Estlands Austenminister nach Moskau abgereist.
+Found
+MODSMD_ARTICLE06: Politische Lage in der dritten Kriegswoche stark verändert.
+Found
+MODSMD_ARTICLE07: "Keine Verbreitung von Greuelnachrichten in Litauen.
+Found
+MODSMD_ARTICLE08: „Grandios in seiner Schnelligkeit und Einfachheit."
+Found
+MODSMD_ARTICLE09: Die Zusammenarbeit zwischen Berlin und Moskau.
+Found
+MODSMD_ARTICLE10: Wie England den Handel der Neutralen untergräbt.
+Found
+MODSMD_ARTICLE11: Neue Klagen über das Chaos in der englischen Wirtschast.
+Found
+MODSMD_ARTICLE13: Warum nimmt man nicht das entführte Gold?
+Found
+MODSMD_ARTICLE14: Papiermangel in England.
+Found
+MODSMD_ARTICLE15: Aufnahme der Roosevelt-Rede in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE16: Südamerikas Protest gegen Engtands Seeräuberpraxis.
+Found
+MODSMD_ARTICLE17: Mexikanisches Blatt stellt Londons Kriegsschuld fest.
+Found

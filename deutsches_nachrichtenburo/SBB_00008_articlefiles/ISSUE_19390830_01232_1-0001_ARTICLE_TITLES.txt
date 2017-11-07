@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Zum Korpsintendanten ernannt.
+Found
+MODSMD_ARTICLE02: Dr. Frick beglückwünscht Prof. Dieudonne-München.
+Found
+MODSMD_ARTICLE03: Der Reichskriegerführer dankt dem Führer.
+Found
+MODSMD_ARTICLE04: „Luxemburg wird die strengste Neutralität beobachten."
+Found
+MODSMD_ARTICLE05: Sondervollmachten für die luxemburgische Regierung.
+Found
+MODSMD_ARTICLE06: Die Maßnahmen Zum Schuhe der Neutralität der Schweiz.
+Found
+MODSMD_ARTICLE07: Kronrat in Schweden.
+Found
+MODSMD_ARTICLE08: Chamberlains Unterhausuusführungen.
+Found
+MODSMD_ARTICLE09: Beisetzung des erschossenen SA.-Mannes Rusch.
+Found
+MODSMD_ARTICLE10: Polnischer Aufmarsch gegen Litauen.
+Found
+MODSMD_ARTICLE11: Immer tollerer Kriegstaumel polnischer Chauvinisten.
+Found
+MODSMD_ARTICLE12: Volksdeutscher bis zur Unkenntlichkeit verstümmelt.
+Found
+MODSMD_ARTICLE13: Der Führer empfing den britischen Botschafter.
+Found
+MODSMD_ARTICLE14: Bombenanschlag in Bielitz.
+Found
+MODSMD_ARTICLE15: Frauen und Kinder auf deutschem Gebiet beschossen.
+Found
+MODSMD_ARTICLE16: Besondere Kurse für polnische Brandstifter.
+Found
+MODSMD_ARTICLE17: Römische Abendpresse empfiehlt Verlassen der Großstädte.
+Found
+MODSMD_ARTICLE18: Zweite Sitzung des Nationalitätenrates im Kreml.
+Found
+MODSMD_ARTICLE19: Generalgouverneur von Jndo-China besichtigte Singapur.
+Found

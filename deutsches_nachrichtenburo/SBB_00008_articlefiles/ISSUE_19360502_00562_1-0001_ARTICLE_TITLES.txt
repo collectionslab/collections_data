@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Eröffnung einer antikommunistischen Ausstellung.
+Found
+MODSMD_ARTICLE02: Englischer Komponist über Kunstschaffen.
+Found
+MODSMD_ARTICLE03: Keine Nücktritisabsichten Sarrauts.
+Found
+MODSMD_ARTICLE04: Diplomaten-Empfänge bei Flandin.
+Found
+MODSMD_ARTICLE05: KW neue Kandidaten für den zweiten Kammer-Mahlgang.
+Found
+MODSMD_ARTICLE06: Dienstverlängerung belgischer Soldaten.
+Found
+MODSMD_ARTICLE07: Sir Austen Ehamberlain nach London zurückgekehrt.
+Found
+MODSMD_ARTICLE08: Keine amtliche Filmzensur in England.
+Found
+MODSMD_ARTICLE09: Englische Versuche mit Giftgasen.
+Found
+MODSMD_ARTICLE10: Englifch-sowjetrussische Flottenverhandlung bestätigt.
+Found
+MODSMD_ARTICLE11: Die Spekulation mit den Steuererhöhungen.
+Found
+MODSMD_ARTICLE12: 59 Verhaftungen in Südirland.
+Found
+MODSMD_ARTICLE13: Niederhaltung der litauischen Bauernrevolte.
+Found
+MODSMD_ARTICLE14: Konrad Henlein bei sudetendeutscher Maifeier.
+Found
+MODSMD_ARTICLE15: Aufruf der Revisionsliga gegn den Flandin-Plan.
+Found
+MODSMD_ARTICLE16: Schweden verlängert Fakultativklausel Haager Statuts.
+Found
+MODSMD_ARTICLE17: Eine Stiftung des Königs von Albanien.
+Found
+MODSMD_ARTICLE18: König Georg besichtigt die griechische Flotte.
+Found
+MODSMD_ARTICLE19: Dementierte Gerüchte.
+Found
+MODSMD_ARTICLE20: Heeresbericht Nr. 299. Dagabur besetzt.
+Found
+MODSMD_ARTICLE21: Die amerikanischen Flottenbauten.
+Found

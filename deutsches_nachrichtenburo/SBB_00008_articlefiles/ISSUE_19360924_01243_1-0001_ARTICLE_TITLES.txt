@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Beweiserhebung im Bauunglücksprozeß abgeschlossen.
+Found
+MODSMD_ARTICLE02: Luftschiff „Hindenvurg" in Frankfurt gelandet.
+Found
+MODSMD_ARTICLE03: Abfahrt der Hitlerjungen aus Rom.
+Found
+MODSMD_ARTICLE04: Konflikt in der belgischen Arbeiterpartei.
+Found
+MODSMD_ARTICLE05: „Nation Bclge" über die marxistischen Waffenlieferungen.
+Found
+MODSMD_ARTICLE06: Italienische Arbeitertransporte nach Abessinien.
+Found
+MODSMD_ARTICLE07: Der Goldabfluß bei der Bank von Frankreich.
+Found
+MODSMD_ARTICLE08: Verzweiflungsakt der Marxisten bei Toledo.
+Found
+MODSMD_ARTICLE09: Sevilla meldet Rücktritt Azanas.
+Found
+MODSMD_ARTICLE10: Spanisches „Bolksgericht" an der Arbeit.
+Found
+MODSMD_ARTICLE11: Zwei weitere Ratssitze in Genf.
+Found
+MODSMD_ARTICLE12: Uruguay unterrichtet Genf vom Abbruch der Beziehungen zu Spanien.
+Found
+MODSMD_ARTICLE13: Der Rücktritt des Landwirtschaftsministers in Finnland.
+Found
+MODSMD_ARTICLE14: Sowjetrussische Propaganda für Spaniens Marxisten.
+Found
+MODSMD_ARTICLE15: Moskauer Orgien auf Staatskosten.
+Found
+MODSMD_ARTICLE16: Tie neue japanisch-chinesische Spannung.
+Found
+MODSMD_ARTICLE17: Japan sucht Verhandlungen mit Tschiangkaischek.
+Found
+MODSMD_ARTICLE18: Steuersteckbriefe und Vermögensbeschlagnahme.
+Found

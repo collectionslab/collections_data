@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Beileidsbesuch bei Frau Gilbert.
+Found
+MODSMD_ARTICLE02: Deutsch polnische Besprechungen in Berlin aufgenommen.
+Found
+MODSMD_ARTICLE03: Das Kabinett Pierlot Zurückgetreten. –
+Not Found
+MODSMD_ARTICLE04: Der spanische Geschäftsträger im Haag.
+Found
+MODSMD_ARTICLE05: Frankreichs Aufrüstung in Jndochina.
+Found
+MODSMD_ARTICLE06: Frankreich beschließt sure-Anerkennung Francos.
+Found
+MODSMD_ARTICLE07: Die Anerkennung der Regierung Franco durch London.
+Found
+MODSMD_ARTICLE08: Francos Vertreter in Buenos Aires.
+Found
+MODSMD_ARTICLE09: Alter Falauaeführer aus roter Gefangenschaft zurückgekehrt.
+Found
+MODSMD_ARTICLE10: Sturm auf die Banken in Madrid.
+Found
+MODSMD_ARTICLE11: Der Warschauer Besuch des Grafen Ciano.
+Found
+MODSMD_ARTICLE12: Schüler der Lenin-Schule auf der Anklagebank.
+Found
+MODSMD_ARTICLE13: Der Oberbefehlshaber der litauischen Armee in Riga.
+Found
+MODSMD_ARTICLE14: Neue Bombenabwürfe auf arabische Siedlungen.
+Found
+MODSMD_ARTICLE15: Bomben mit Zeitzündern.
+Found
+MODSMD_ARTICLE16: Beisetzung der 24 arabischen Opfer des Jndenterrors.
+Found
+MODSMD_ARTICLE17: Zusammenstöße in Mexiko zwischen Truppen und Banditen.
+Found
+MODSMD_ARTICLE18: Wieder eine Oelfirma in Mexiko enteignet.
+Found
+MODSMD_ARTICLE19: Hochrufe auf Francs in Buenos Aires.
+Found
+MODSMD_ARTICLE20: Allmählich wird es auch den Amerikanern zu bunt.
+Found

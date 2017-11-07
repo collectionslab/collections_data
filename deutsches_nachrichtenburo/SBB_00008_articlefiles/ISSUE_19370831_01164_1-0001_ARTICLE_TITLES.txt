@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Dr. v. Stohrer zum Botschafter in Salamanca ernannt.
+Found
+MODSMD_ARTICLE02: Der Führer an Gauleiter Bohle.
+Found
+MODSMD_ARTICLE03: Abschiedsempfang für den Iranischen Gesandten.
+Found
+MODSMD_ARTICLE04: Reichspresfechcf Dr. Dietrich 49 Jahre alt.
+Found
+MODSMD_ARTICLE05: Wie die Auslandsdeutschen einander helfen.
+Found
+MODSMD_ARTICLE06: Im Dienste der Reichsdeutschen im Ausland.
+Found
+MODSMD_ARTICLE07: Lufthansa-Flugzeug „Nordwind" in New Jork.
+Found
+MODSMD_ARTICLE08: Ueberwachung der deutschen Spanien-Schiffahrt.
+Found
+MODSMD_ARTICLE09: Lauterbacher bei den Jungvolkführern in Carrara.
+Found
+MODSMD_ARTICLE10: Im Zuge der polnischen Agrarreform.
+Found
+MODSMD_ARTICLE11: Estlands Staatsoberhaupt in Finnland.
+Found
+MODSMD_ARTICLE12: Sowjetrussischer Militärflieger über Estland.
+Found
+MODSMD_ARTICLE13: Luftangriff auf amerikanischen Dampfer vor Schanghai.
+Found
+MODSMD_ARTICLE14: 7 Schwer- und 2 Leichtverletzte auf „President Hoover".
+Found
+MODSMD_ARTICLE15: Eingeständnis Nankings.
+Found
+MODSMD_ARTICLE16: China bedauert und sagt Wiedergutmachung zu.
+Found
+MODSMD_ARTICLE17: Gauleiter Bohle vor den Politischen Leitern der AO.
+Found
+MODSMD_ARTICLE19: Der Terror der Bäuerlichen Volkspartei in Polen.
+Found
+MODSMD_ARTICLE20: Große Beachtung des neuen Fernost-Zwischenfalls in London.
+Found
+MODSMD_ARTICLE21: Neue Anschläge in Jerusalem. Araber ermordet.
+Found

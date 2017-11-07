@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Deutschland gewinnt zum dritten Male das Braune Band.
+Found
+MODSMD_ARTICLE02: Staatssekretär Reinhard sprach in Herrsching.
+Found
+MODSMD_ARTICLE03: Der Reichssportführer in Paris.
+Found
+MODSMD_ARTICLE04: „Le Jour": „Deutschland hat recht".
+Found
+MODSMD_ARTICLE05: Der nationale Heeresbericht vom Sonnabend.
+Found
+MODSMD_ARTICLE06: Pariser Vermittlungsabsichten.
+Found
+MODSMD_ARTICLE07: Doriot in St. Denis unterlegen.
+Found
+MODSMD_ARTICLE08: Zwischenfälle bei einer Jaures-Gedenkfeier in Paris.
+Found
+MODSMD_ARTICLE09: Scharfe Abfuhr für die Labour Party.
+Found
+MODSMD_ARTICLE10: Indiens Mohammedaner gegen die Teilung Palästinas.
+Found
+MODSMD_ARTICLE11: Die Provinz Schantung hinter der Zentralregierung.
+Found
+MODSMD_ARTICLE12: Japans Finanzmaßnahmen.
+Found
+MODSMD_ARTICLE13: Kanada verbietet Teilnahme an dem Kriege in Spanien.
+Found
+MODSMD_ARTICLE14: Senat nahm Rooseveltvorlage über 40-Stundenwoche an.
+Found

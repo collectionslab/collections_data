@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der 2. Tag des Berliner Kongresses der J.H.K.
+Found
+MODSMD_ARTICLE02: Empfang der J.H.K. im Berliner Rathaus.
+Found
+MODSMD_ARTICLE03: Kein besonderes Arbeitsbuch für Minderjährige.
+Found
+MODSMD_ARTICLE04: Die deutschen Ingenieure am Marine-Ehrenmal in Laboe.
+Found
+MODSMD_ARTICLE05: Glückwunschadrefse der britischen Gäste.
+Found
+MODSMD_ARTICLE06: Das Ermächtigungsgesetz in der Kammer angenommen.
+Found

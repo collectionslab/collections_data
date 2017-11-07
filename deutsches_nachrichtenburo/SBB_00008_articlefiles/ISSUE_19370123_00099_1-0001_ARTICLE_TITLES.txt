@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Unterredung Görings mit Mussolini.
+Found
+MODSMD_ARTICLE02: Deutsch-Polnische Verhandlungen über Sozialversicherung.
+Found
+MODSMD_ARTICLE03: Dr. Schacht dankt.
+Found
+MODSMD_ARTICLE04: Die englischen Flieger in ihre Heimat zurückgekehrt.
+Found
+MODSMD_ARTICLE05: Wiener Zentralstelle zur Bekämpfung des Tevisenschmnggels
+Found
+MODSMD_ARTICLE06: Polnischer Bürgermeister von Kommunisten mißhandelt.
+Found
+MODSMD_ARTICLE07: Marxist wegen Beleidigung des Führers vor Gericht.
+Found
+MODSMD_ARTICLE08: Fabrys Kamps gegen die Bolschewisierung der Armee.
+Found
+MODSMD_ARTICLE09: Neberfall auf eine Versammlung der Sozial-Partei.
+Found
+MODSMD_ARTICLE10: Auch in Valencia Nahrungsmittelmangel.
+Found
+MODSMD_ARTICLE11: Bolschewisten stoppen Flüchtlingsstrom aus Bilbao.
+Found
+MODSMD_ARTICLE12: Beginn des Moskauer Theaterprozesses.
+Found
+MODSMD_ARTICLE13: „Freiwilligen"-Transport dänischer Kommunisten.
+Found

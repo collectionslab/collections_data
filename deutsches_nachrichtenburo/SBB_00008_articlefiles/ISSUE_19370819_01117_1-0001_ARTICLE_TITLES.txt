@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Danziger Protestnote an Polen.
+Found
+MODSMD_ARTICLE02: Nach den Manövern auf Sizilien.
+Found
+MODSMD_ARTICLE03: Erfolgreiche Filme in Venedig.
+Found
+MODSMD_ARTICLE04: Der jüdische Hochverrat in Polen.
+Found
+MODSMD_ARTICLE05: „Journal des Debats" zum englischen Vermittlungsplan.
+Found
+MODSMD_ARTICLE06: Die vier Punkte des englischen Vermittlungsplchnes.
+Found
+MODSMD_ARTICLE07: Die Londoner Presse zum Vermittlungsplan.
+Found
+MODSMD_ARTICLE08: Sowjet-Waffenschmuggel unter britischer Flagge!
+Found
+MODSMD_ARTICLE09: Weitere Erfolge an der Santander-Front.
+Found
+MODSMD_ARTICLE11: Abbruch der Beziehungen Lissabon—Prag.
+Not Found
+MODSMD_ARTICLE12: Chinesen plündern in Schanghai.
+Found
+MODSMD_ARTICLE13: llst deutsche Flüchtlinge auf einem italienischen Schiff.
+Found
+MODSMD_ARTICLE14: Alle Amerikaner sollen China verlassen.
+Found
+MODSMD_ARTICLE15: Washington zum britischen Vermittlungsvorschlag.
+Found

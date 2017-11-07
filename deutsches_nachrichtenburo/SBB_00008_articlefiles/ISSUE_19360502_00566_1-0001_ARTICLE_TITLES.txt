@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Wechsel im Präsidium des Reichsluftschutzbuudes.
+Found
+MODSMD_ARTICLE02: Besichtigungsreise des Staatssekretärs Pfundtner.
+Found
+MODSMD_ARTICLE03: Glückwünsche an die Staatspreisträger.
+Found
+MODSMD_ARTICLE04: Anerkennung durch den Reichspostminister.
+Found
+MODSMD_ARTICLE05: Die Grundsteinlegung zum KdF-Seebad in Saßnitz.
+Found
+MODSMD_ARTICLE06: Ein Schiff der Freude auf Stapel gelegt.
+Found
+MODSMD_ARTICLE07: Gesetz über Neuwahl des litauischen Sejm verabschiedet.
+Found
+MODSMD_ARTICLE08: Empfänge bei Mussolini.
+Found
+MODSMD_ARTICLE09: Italien zur Frage der Befestigung der Dardanellen.
+Found
+MODSMD_ARTICLE10: Achtzig Kilometer vor Addis Abeba.
+Found

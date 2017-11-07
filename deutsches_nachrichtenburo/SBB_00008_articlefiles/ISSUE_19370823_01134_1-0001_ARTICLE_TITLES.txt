@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer an den Milchwirtschastlichen Weltkongreß.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels an das Deutsch-Nordische Schriftstellerhaus.
+Found
+MODSMD_ARTICLE03: Der deutsche Botschafter in Spanien Zurückgetreten.
+Found
+MODSMD_ARTICLE04: Der Internationale Kongreß für ärztliche Fortbildung.
+Found
+MODSMD_ARTICLE05: Die Ergebnisse der internationalen Butterprüfung.
+Found
+MODSMD_ARTICLE06: Der chinesische Finanzminister in Bad Nauheim.
+Found
+MODSMD_ARTICLE07: General Galica gegen die Verjudung Podlesiens.
+Found
+MODSMD_ARTICLE08: Ein Geständnis des britischen Gewerkschaftsverbandes.
+Found
+MODSMD_ARTICLE09: Stimmen der Vernunft im „Observer".
+Found
+MODSMD_ARTICLE10: Frankreichs Volkseinkommen fast um die Hälfte gesunken.
+Found
+MODSMD_ARTICLE11: Benesch sprach in Olmütz.
+Found
+MODSMD_ARTICLE12: 7b Mb Japaner bei Schanghai gelandet.
+Found
+MODSMD_ARTICLE13: Eingang der englischen Note von Tokio bestätigt.
+Found

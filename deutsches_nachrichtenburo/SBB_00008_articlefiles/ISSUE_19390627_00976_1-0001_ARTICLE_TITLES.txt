@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Zum Ministerialrat ernannt.
+Found
+MODSMD_ARTICLE02: Generaloberst von Brauchitsch bei Truppenübungen.
+Found
+MODSMD_ARTICLE03: Die Forstwirtschaft im Rahmen des Vierjahresplans.
+Found
+MODSMD_ARTICLE04: Die japanische Frauenführerin in Deutschland.
+Found
+MODSMD_ARTICLE05: Herzliche Anteilnahme am Tode des Grafen Ciano.
+Found
+MODSMD_ARTICLE06: So schützt Hoare Belisha seine Rassegenossen.
+Found
+MODSMD_ARTICLE07: Antibritische Massenversammlung in Peking.
+Found
+MODSMD_ARTICLE08: Japanische Uottenoperationen an der Küste von Fukien.
+Found
+MODSMD_ARTICLE09: Australien muß für Londons Rüstungsfieber bluten.
+Found
+MODSMD_ARTICLE10: Amerikanische Presse weist Bonnet zurück.
+Found
+MODSMD_ARTICLE11: Südrhodesien zog seine Fahne ein.
+Found
+MODSMD_ARTICLE12: Offene Worte eines amerikanischen Generals.
+Found
+MODSMD_ARTICLE13: Die Hetze gegen Landesgruppenleiter Müller.
+Found
+MODSMD_ARTICLE14: Ter Präsident von Chile weiter für die Volksfront.
+Found

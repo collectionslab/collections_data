@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Beförderungen im Reichsministerium des Innern.
+Found
+MODSMD_ARTICLE02: Ehrenvolle Ernennung bei der Ordnungspolizei.
+Found
+MODSMD_ARTICLE03: Segelflug-Zielstreckenwettbewerb beendet.
+Found
+MODSMD_ARTICLE04: Deutsche Wirtschaftsabordnung bei Gentin.
+Found
+MODSMD_ARTICLE05: Das neueste Märchen des „Oeuvre".
+Found
+MODSMD_ARTICLE06: Prager Stadtverordnete beantragen Militäraushebungen.
+Found
+MODSMD_ARTICLE07: Sudetendeutsche Lehrer und Lehrerin M Prag überfallen.
+Found
+MODSMD_ARTICLE08: Die „Stampa" zum Judenproblem.
+Found
+MODSMD_ARTICLE09: Mussolini bei Uebungsflügen der italienischen Luftwaffe.
+Found
+MODSMD_ARTICLE10: Wen hat Monsignore Burzio verraten?
+Found
+MODSMD_ARTICLE11: Kämpfer für die Verteidigung der Kultur.
+Found
+MODSMD_ARTICLE12: Sowjetspapiens Lügen zur Freiwilligenfrage.
+Found
+MODSMD_ARTICLE13: Start zu einer neuen Greuelhetze gegen Deutschland.
+Found
+MODSMD_ARTICLE14: Verstärkung des! ägyptischen Rundfunks gefordert.
+Found
+MODSMD_ARTICLE15: Besitzergreifung der Paraeel-Jnseln durch Frankreich.
+Found

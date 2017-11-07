@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Erfolg des Leipziger Thomaner-Chors in Brüssel.
+Found
+MODSMD_ARTICLE02: Erdstoß in Castrop-Rauxel. 2 Tote unter Tage.
+Found
+MODSMD_ARTICLE03: Die Antwortadresse erneut vor dem Unterhaus.
+Found
+MODSMD_ARTICLE04: Pläne für die Rekrutierung in England.
+Found
+MODSMD_ARTICLE05: Nur noch britisches Konsulat in Addis Abeba.
+Found
+MODSMD_ARTICLE06: Großadmiral Sir John Kelly gestorben.
+Found
+MODSMD_ARTICLE07: Die Hnmanisiernng des U-Boot-Krieges.
+Found
+MODSMD_ARTICLE08: Daladier gegen die rote Wühlarbeit.
+Found
+MODSMD_ARTICLE09: Außerordentliche Parlamentstagung in Paris.
+Found
+MODSMD_ARTICLE10: Kabinettsrat in Paris.
+Found
+MODSMD_ARTICLE11: Eisenbahnunglück bei Paris.
+Found
+MODSMD_ARTICLE12: Forderungen der französischen Handelskammern.
+Found
+MODSMD_ARTICLE13: Tie Einnahme von Alcorcon.
+Found
+MODSMD_ARTICLE14: Die Ausbildung spanischer roter Flieger in Frankreich.
+Found
+MODSMD_ARTICLE15: Protest eines sudetendeutschen Abgeordneten.
+Found
+MODSMD_ARTICLE16: Tokio für rasche Verständigung mit Nanking.
+Found
+MODSMD_ARTICLE17: Ernste Folgen des amerikanischen Hafenarbeiterstreiks.
+Found

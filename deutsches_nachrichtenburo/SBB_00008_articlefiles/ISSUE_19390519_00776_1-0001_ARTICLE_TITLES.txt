@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer zwischen Schwarzwald und Rhein.
+Found
+MODSMD_ARTICLE02: Die deutsch-ungarischen Wirtschaftsbeziehungen.
+Found
+MODSMD_ARTICLE03: Boliviens Staatspräsident dankt Schirach.
+Found
+MODSMD_ARTICLE04: Empfang der Stadt Wien zu Ehren von Epps.
+Found
+MODSMD_ARTICLE05: Die Tagung des Kolonialrates beendet.
+Found
+MODSMD_ARTICLE06: 50 Jahre deutsche Schutztruppe.
+Found
+MODSMD_ARTICLE07: Eine Stimme der Vernunft aus Frankerich.
+Found
+MODSMD_ARTICLE08: Völlige Kapitulation vor Moskau?
+Found
+MODSMD_ARTICLE09: Roosevelt weicht aus!
+Found
+MODSMD_ARTICLE10: Auch Amerikas Juden über England empört.
+Found
+MODSMD_ARTICLE11: Attentatsversuch auf Roosevelt.
+Found

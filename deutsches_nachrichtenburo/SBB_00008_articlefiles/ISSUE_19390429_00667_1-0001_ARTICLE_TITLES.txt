@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der erste Eindruck der Führerrede.
+Found
+MODSMD_ARTICLE02: Zurückhaltung in Pariser politischen Kreisen.
+Found
+MODSMD_ARTICLE03: Materialistische Einstellung in London.
+Found
+MODSMD_ARTICLE04: Irland: Genugtuung über die Rede des Führers.
+Found
+MODSMD_ARTICLE05: Ungarn: Größte Genugtuung und aufrichtige Bewunderung.
+Found
+MODSMD_ARTICLE06: „Die Ohrfeigen für Roosevelt haben nur so geknallt."
+Found
+MODSMD_ARTICLE07: Sonderausgabe der Führerrede auch in Athen.
+Found
+MODSMD_ARTICLE08: Tiefer Eindruck der Führerrede in Holland.
+Found
+MODSMD_ARTICLE09: In Syrien gestörter Empfang!
+Found
+MODSMD_ARTICLE10: Brasiliens Presse im Zeichen der Führerrede.
+Found
+MODSMD_ARTICLE11: Jtalienreise des Generalobersten von Brauchitsch.
+Found
+MODSMD_ARTICLE12: Ueberslugverbot für Groß-Berlin am 1. Mai.
+Found
+MODSMD_ARTICLE13: Ungarischer Staatsbesuch in Berlin.
+Found
+MODSMD_ARTICLE14: Der finnische Kultusminister in Stockholm.
+Found
+MODSMD_ARTICLE15: Essen zu Ehren Gafencus in Paris.
+Found
+MODSMD_ARTICLE16: 46. Geburtstag des Prinzregenten Paul.
+Found
+MODSMD_ARTICLE17: Kotemkin in Ankara eingetroffen»
+Found
+MODSMD_ARTICLE18: 2W Millionen Dollar weniger für die Arbeitslosen in USA.
+Found

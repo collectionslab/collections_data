@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Dr. Ley spricht auf Burg Vogelsang.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels an die italienischen Journalisten.
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Frank in Kassel.
+Found
+MODSMD_ARTICLE04: Der Reichskampf des Reichsberusswettkampfes.
+Found
+MODSMD_ARTICLE05: De Brinou: „Französische Volksmeinung und Deutschland."
+Found
+MODSMD_ARTICLE07: Eden in Brüssel.
+Found
+MODSMD_ARTICLE08: Polens Presse über Becks Besuch in Bukarest.
+Found
+MODSMD_ARTICLE09: Bolschewistischer spamscher Kreuzer aufgelaufen.
+Found

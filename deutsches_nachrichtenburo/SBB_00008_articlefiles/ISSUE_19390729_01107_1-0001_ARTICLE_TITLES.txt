@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Geburtstag des Duce.
+Found
+MODSMD_ARTICLE02: Die neue faschistische Führerschule.
+Found
+MODSMD_ARTICLE03: Aktuelle Finanzfragen des slowakischen Staates.
+Found
+MODSMD_ARTICLE04: Französische Lügen vergiften Beziehungen zu Spanien.
+Found
+MODSMD_ARTICLE05: Kriegspsychose in Gibraltar.
+Found
+MODSMD_ARTICLE06: Der Wille Zur Neutralität in Lettland.
+Found
+MODSMD_ARTICLE07: Araber von britischen Militär erschossen.
+Found
+MODSMD_ARTICLE08: Neue Beweise für die britische Willkür in Palästina.
+Found
+MODSMD_ARTICLE09: „Unerheblichkeit, Lüge, Betrug und Verleumdung."
+Found
+MODSMD_ARTICLE10: Japans Presse zum deutsch-japanischen Handelsvertrag.
+Found
+MODSMD_ARTICLE11: Einkreisungswaffen aus USA.
+Found
+MODSMD_ARTICLE12: Eine neue Schlappe Roosevelts im Senat.
+Found

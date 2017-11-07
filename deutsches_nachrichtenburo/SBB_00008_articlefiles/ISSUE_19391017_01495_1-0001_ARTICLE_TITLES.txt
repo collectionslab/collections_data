@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Mit fremden Augen.
+Found
+MODSMD_ARTICLE02: Englisches 15 000 t-Schiff wird Handelskreuzer.
+Found
+MODSMD_ARTICLE03: Große Bestürzung über die Versenkung der „Royal Oak".
+Found
+MODSMD_ARTICLE04: Bericht des Oberkommandos der Wehrmacht.
+Found
+MODSMD_ARTICLE05: „Englische Regierung nicht harmonisch."
+Found
+MODSMD_ARTICLE06: England gegen die Panamakonferenz.
+Found
+MODSMD_ARTICLE07: Sowjet-Marine in Baltischport.
+Found
+MODSMD_ARTICLE08: Sitzung der finnischen Regierung.
+Found
+MODSMD_ARTICLE09: Neuer litauisch-sowjetrussischer Handelsvertrag.
+Found
+MODSMD_ARTICLE10: England wirft indische Truppen nach Singapur.
+Found

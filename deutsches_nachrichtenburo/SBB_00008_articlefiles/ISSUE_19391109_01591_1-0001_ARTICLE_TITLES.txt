@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Wie durch ein Wunder gerettet.
+Found
+MODSMD_ARTICLE02: Bisher 7 Tote und 63 Verletzte des Anschlags.
+Found
+MODSMD_ARTICLE03: Tag des Opfers Tag des Glaubens.
+Found
+MODSMD_ARTICLE04: KW 999 RM Belohnung für die Feststellung der Täter.
+Found
+MODSMD_ARTICLE05: Kranzniederlegung am Grabe Ernst vom Raths.
+Found
+MODSMD_ARTICLE06: Kranzniederlegung für die Toten der Bewegung in Eger.
+Found
+MODSMD_ARTICLE07: Roms Presse: Scharfe Verurteilung des feigen Anschlags.
+Found

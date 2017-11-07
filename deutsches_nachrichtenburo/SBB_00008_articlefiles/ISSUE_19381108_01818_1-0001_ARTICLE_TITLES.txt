@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Der Reichsaußeummister au Legatioussekretär vom Rath.
+Found
+MODSMD_ARTICLE03: Professor Tr. Magnus und Dr. Brandt in Paris.
+Found
+MODSMD_ARTICLE04: Zahlreiche Sympathietelegramme.
+Found
+MODSMD_ARTICLE05: Francois-Poucet in Rom.
+Found
+MODSMD_ARTICLE06: Mussolini besichtigt ein neu entstehendes Fischerdorf.
+Found
+MODSMD_ARTICLE07: Japanisch-italienischer Telegrammwechsel.
+Found
+MODSMD_ARTICLE08: Lord PorLH erneut bei Graf Ciano.
+Found
+MODSMD_ARTICLE09: „Stampa" Zur Weimarer Rede des Führers.
+Found
+MODSMD_ARTICLE10: Farinacci gegen kirchliche Einmischnngsversuche.
+Found
+MODSMD_ARTICLE11: Der Urlauberverkehr zwischen Italien und Frankreich.
+Found
+MODSMD_ARTICLE12: Die endgültige ungarisch—tschechoslowakische Grenze.
+Found
+MODSMD_ARTICLE13: Neuer parlamentarischer Klub der Deutschen.
+Found
+MODSMD_ARTICLE14: Tarnung der tschechischen Bolschewisten.
+Found
+MODSMD_ARTICLE15: Die Abschiebung von Juden aus der Slowakei.
+Found
+MODSMD_ARTICLE16: Spaak droht mit Parlamentsauflösnng.
+Found
+MODSMD_ARTICLE17: Hosenbandorden für den griechischen König.
+Found
+MODSMD_ARTICLE18: Agent der norwegischen Regierung in Burgos.
+Found
+MODSMD_ARTICLE19: Die nationalspanischen Hilfskreuzer in der Nordsee.
+Found
+MODSMD_ARTICLE20: Deutscher Kreuzer-Kommandant bei König Karl.
+Found
+MODSMD_ARTICLE21: Häusersprengungen als „StrafMaßnahme".
+Found
+MODSMD_ARTICLE22: Traurige Bilanz der Kriegsgerichte in Palästina.
+Found
+MODSMD_ARTICLE23: Schwere Unruhen in Bombay»
+Found

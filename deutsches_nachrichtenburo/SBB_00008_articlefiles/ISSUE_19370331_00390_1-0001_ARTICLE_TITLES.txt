@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Morgen-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Neuer Landesbauernführer für Bayern.
+Found
+MODSMD_ARTICLE03: London zur Ernennung Blombergs.
+Found
+MODSMD_ARTICLE04: Ein italienisches Buch: „Deutschland im Braunhemd".
+Found
+MODSMD_ARTICLE05: Nom weiß nichts Zuverlässiges von einer Reise Schuschniggs.
+Found
+MODSMD_ARTICLE06: „Eine Reihe phantastischer Erfindungen".
+Found
+MODSMD_ARTICLE07: Verlängerung des italienisch-dänischen Wirtschaftsabkommen
+Found
+MODSMD_ARTICLE08: Norman Davis in England.
+Found
+MODSMD_ARTICLE09: England hebt Einfuhrzoll für Eisen und Stahl auf.
+Found
+MODSMD_ARTICLE10: Ständige Preiserhöhung für Weizenmehl in London.
+Found
+MODSMD_ARTICLE11: Staunings Londoner Besuchsprogramm.
+Found
+MODSMD_ARTICLE12: Erinnernngsfeiern an die irischen Freiheitskämpfe.
+Found
+MODSMD_ARTICLE13: Umfangreiche sowjetrussische Goldsendungen nach England.
+Found
+MODSMD_ARTICLE14: Schwere bolschewistische Verluste an der Südfront.
+Found
+MODSMD_ARTICLE15: Zwölf bolschewistische Flugzeuge vernichtet.
+Found
+MODSMD_ARTICLE16: Auflösung des japanischen Reichstags. /Z' .. ..... i
+Found
+MODSMD_ARTICLE17: Zwei Japaner in Los Angeles verhaftet.
+Found
+MODSMD_ARTICLE18: Der Streik der umlayischeu Kautschukarbeiter flaut ab.
+Found
+MODSMD_ARTICLE19: Lawinen-Katastrophe in den Karawanken.
+Found
+MODSMD_ARTICLE20: Grauenhafter Sexualmord in katholischem Fürsorgehenn.
+Found

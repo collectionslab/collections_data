@@ -1,0 +1,30 @@
+MODSMD_ARTICLE02: Zweite Morgen-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE03: Der Föhrer bei Uraufführung des Films „Ponr le märite".
+Found
+MODSMD_ARTICLE04: Uebergabe des Ehrendiploms an Prof. Lukasiewicz.
+Found
+MODSMD_ARTICLE05: Nur noch Zwei Gewerkschaften in Böhmen und Mähren.
+Found
+MODSMD_ARTICLE06: Prag säubert.
+Found
+MODSMD_ARTICLE07: Die Politik Jugoslawiens.
+Found
+MODSMD_ARTICLE08: „Schau der Urbarmachung und Besiedlung des Bodens."
+Found
+MODSMD_ARTICLE09: Der Brand im JnValidendom gelöscht.
+Found
+MODSMD_ARTICLE10: Eine etwas größere Mehrheit für Daladier.
+Found
+MODSMD_ARTICLE11: Der Senat ratifiziert die Montreux-Abkommen.
+Found
+MODSMD_ARTICLE12: Havas Zu den französisch-italienischen Verträgen von 1935.
+Found
+MODSMD_ARTICLE13: Wenn man sich mit Bolschewisten einläßt.
+Found
+MODSMD_ARTICLE14: 34 Anhänger de Valeras in Nordirland verhaftet.
+Found
+MODSMD_ARTICLE15: Gemeinsames Ziel: Neuaufbau Ostasiens.
+Found
+MODSMD_ARTICLE16: Südamerika läßt sich nicht beeinflussen.
+Found

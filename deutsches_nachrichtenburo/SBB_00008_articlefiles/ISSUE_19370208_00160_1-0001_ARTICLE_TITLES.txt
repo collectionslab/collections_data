@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Glanzvoller Verlauf des Presseballes.
+Found
+MODSMD_ARTICLE02: Glückwunsch Görings zur Hochzeit Vittorio Mussolinis.
+Found
+MODSMD_ARTICLE03: Dr. Frick über nationalsozialistische Städtebaupolitik.
+Found
+MODSMD_ARTICLE04: Gauleiter Stürh endgültig zum Oberpräsidenten ernannt.
+Found
+MODSMD_ARTICLE05: An die Regierung in Frankfurt/O. berufen.
+Found
+MODSMD_ARTICLE06: Feierstunde der Fachschaftsgruppe Reichsjustizministerium.
+Found
+MODSMD_ARTICLE07: Italien lehnt weiterhin Mitarbeit im Völkerbund ab.
+Found
+MODSMD_ARTICLE08: Treuebekenntnis äthiopischer Würdenträger vor Mussolini.
+Found
+MODSMD_ARTICLE09: Schaffung eines jugoslawischen Popagandaministerinms.
+Found
+MODSMD_ARTICLE10: Eden in Monte Carlo.
+Found
+MODSMD_ARTICLE11: Deutliche Worte Polens an das Arbeitsamt in Genf.
+Found
+MODSMD_ARTICLE12: Weitere Erfolge der Nationaltruppeu vor Madrid.
+Found
+MODSMD_ARTICLE13: Ein Hilfswerk in Nationalspanien.
+Found

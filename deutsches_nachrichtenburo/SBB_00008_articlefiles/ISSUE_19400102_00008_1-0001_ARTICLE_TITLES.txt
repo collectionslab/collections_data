@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Rundfunkansprache des Caudillo.
+Found
+MODSMD_ARTICLE02: Die Türkei in Bedrängnis.
+Found
+MODSMD_ARTICLE03: Ter französische Vernichtungswille.
+Found
+MODSMD_ARTICLE04: Die Taß zu den japanisch-rusisschen Vereinbarungen.
+Found
+MODSMD_ARTICLE05: Moskau brandmarkt erneut das Treiben der Plutokratien.
+Found
+MODSMD_ARTICLE06: Verhaftung englischer Spione in Moskau.
+Found
+MODSMD_ARTICLE07: Die Lage Dänemarks an der Jahreswende.
+Found
+MODSMD_ARTICLE08: Russisches Artilleriefeuer auf die Mannerheim-Linie.
+Found
+MODSMD_ARTICLE09: Aufklärungsflüge gegen die Shetland- und Orkney-Inseln.
+Found
+MODSMD_ARTICLE10: Norwegens Neutralität.
+Found
+MODSMD_ARTICLE11: Ein Engländer gefallen.
+Found
+MODSMD_ARTICLE12: Ungeheurer Fehlbetrag im englischen Staatshaushalt.
+Found
+MODSMD_ARTICLE13: Bemerkenswertes Eingeständnis einer englischen Zeitung.
+Found
+MODSMD_ARTICLE14: Warnung vor dem Einfluß der Freimaurerei.
+Found

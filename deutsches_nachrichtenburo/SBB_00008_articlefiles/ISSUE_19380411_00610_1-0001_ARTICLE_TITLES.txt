@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: UeberwüStigendes Treuebekenntnis des ganzen deutschen Belkes zum Führer. SN,AS v. H. in Oesterreich v. H. im gesamten Reich! Der Dank des Führers.
+Found
+MODSMD_ARTICLE02: Das Ergebnis der Wahl.
+Found
+MODSMD_ARTICLE03: Wie Oesterreich wühlte. Bürckel verkündet in einer Feierstunde das Ergebnis.
+Found
+MODSMD_ARTICLE04: Die Ergebnisse im alten Reich. In den Wahlkreisen.
+Found

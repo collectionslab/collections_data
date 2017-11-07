@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Professor Dr. gestorben.
+Found
+MODSMD_ARTICLE03: Polnischer Wirtschaftskrieg geghn Danzig.
+Found
+MODSMD_ARTICLE04: Polens Ausrottungsfeldzug gegen das Deutschtum.
+Found
+MODSMD_ARTICLE05: Eine tschechische Regierungstruppe.
+Found
+MODSMD_ARTICLE06: Neue Eisenbahnlinie von Köniss Boris eröffnet.
+Found
+MODSMD_ARTICLE07: Unterhausstreit Chamberlains mit Oppositionsabgeordneten.
+Found
+MODSMD_ARTICLE08: Judische Truppen für die Malaienstaaten.
+Found

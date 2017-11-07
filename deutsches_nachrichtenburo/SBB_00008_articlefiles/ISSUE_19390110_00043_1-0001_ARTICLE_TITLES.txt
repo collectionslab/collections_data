@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Vierte Ausschüttung der Saarspende.
+Found
+MODSMD_ARTICLE02: Belgische Ehrung für deutschen Wissenschaftler.
+Found
+MODSMD_ARTICLE03: Neutrale Zone bei Munkaes.
+Found
+MODSMD_ARTICLE04: Ein neuer Zwischenfall in Tunis.
+Found
+MODSMD_ARTICLE05: Ein Geistlicher prangert Roosevelt an.
+Found
+MODSMD_ARTICLE06: Das Großkreuz des Mauritius-Ordens für Funk.
+Found
+MODSMD_ARTICLE07: Chamberlain und Halifax aus London abgereist.
+Found
+MODSMD_ARTICLE08: Die Reise nach Rom.
+Found
+MODSMD_ARTICLE09: England in der Darstellung eines Engländers.
+Found
+MODSMD_ARTICLE10: Die Araberführer dürfen nach dem Libanon.
+Found
+MODSMD_ARTICLE11: Bemühungen um die arabische Vorkonferenz.
+Found
+MODSMD_ARTICLE12: Das Militärgericht in Haifa wieder auf vollen Touren.
+Found
+MODSMD_ARTICLE13: Keine neue japanische Einheitspartei.
+Found
+MODSMD_ARTICLE14: „Lima ein großer Erfolg."
+Found
+MODSMD_ARTICLE15: Scharfe republikanische Kritik an Roosevelt.
+Found
+MODSMD_ARTICLE16: Der italienische Botschafter in Chile gestorben.
+Found

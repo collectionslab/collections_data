@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der italienische Staatshaushalt.
+Found
+MODSMD_ARTICLE02: Italienischer Dampfer durch Feuer zerstört.
+Found
+MODSMD_ARTICLE03: „Sieben Dampfer an einem Tage gesunken/'
+Found
+MODSMD_ARTICLE04: Der tägliche Tod an Englands Küsten.
+Found
+MODSMD_ARTICLE05: Dänische Opfer des englischen Krieges.
+Found
+MODSMD_ARTICLE06: Luftverkehr Berlin—Moskau.
+Not Found
+MODSMD_ARTICLE07: Syrien soll noch strenger unter Zwang gestellt werden.
+Found
+MODSMD_ARTICLE08: Scharfer japanischer Protest gegen England.
+Found
+MODSMD_ARTICLE09: Riesige Verluste durch Englands Gewaltmaßnahmen.
+Found
+MODSMD_ARTICLE10: Japanische Empörung über das britische Piratentum.
+Found
+MODSMD_ARTICLE11: Amerikas Unwille über England.
+Found
+MODSMD_ARTICLE12: Senator Taft: Gegen Einmischung in Europa.
+Found

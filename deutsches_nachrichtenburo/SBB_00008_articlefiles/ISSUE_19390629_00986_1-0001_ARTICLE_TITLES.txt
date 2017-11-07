@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die italienischen Frontkämpfer Gäste Ribbentrops.
+Found
+MODSMD_ARTICLE02: „Condor" flog nach Südamerika!
+Found
+MODSMD_ARTICLE03: Gauleiter Kaufmann zum Tode General Knochenhauers.
+Found
+MODSMD_ARTICLE04: General Halder von Reval abgereist.
+Found
+MODSMD_ARTICLE05: „Unbesiegbar in der Luft".
+Found
+MODSMD_ARTICLE06: „Deutsch-italienische Solidarität auf allen Gebieten."
+Found
+MODSMD_ARTICLE07: Dr. Frank hat Sofia verlassen.
+Found
+MODSMD_ARTICLE08: Calinescu: „Demagogie der Parteien ausgelöscht".
+Found
+MODSMD_ARTICLE09: Francs lehnt Empfang des Gouverneurs von Gibraltar ab.
+Found
+MODSMD_ARTICLE10: „Journal des Debats" macht Vorbehalte.
+Found
+MODSMD_ARTICLE11: Verdächtiger Fernost-Optimismus der Pariser Presse.
+Found
+MODSMD_ARTICLE12: Jüdische Frechheit von Briten geduldet.
+Found

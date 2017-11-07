@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Großdeutschland ehrt Horst Wessel.
+Found
+MODSMD_ARTICLE02: Neuregelung auf dem Gebiete des Hochschulwesens.
+Found
+MODSMD_ARTICLE03: Holland hält an der Politik der Unabhängigkeit fest.
+Found
+MODSMD_ARTICLE04: Das neue belgische Kabinett vor der Kammer.
+Found
+MODSMD_ARTICLE05: So sieht ein jüdischer Musterstaat aus.
+Found
+MODSMD_ARTICLE06: Zu dem Meinungsaustausch der nordischen Außenminister.
+Found
+MODSMD_ARTICLE07: Wieder wurde ein Sowjetagent entlarvt.
+Found
+MODSMD_ARTICLE08: Geschenk des Führers an den Kaiser von Japan.
+Found
+MODSMD_ARTICLE09: Britischer Generalstabsoffizier in Istanbul.
+Found
+MODSMD_ARTICLE10: Südafrikanischer Wahlkampf im Zeichen der Judenfrage.
+Found
+MODSMD_ARTICLE11: Zweierlei Maß.
+Found
+MODSMD_ARTICLE12: Der mexikanische Gesandte verläßt Sowjetspanien.
+Found
+MODSMD_ARTICLE13: USA.-Methoden fallen Brasilien aus die Nerven.
+Found
+MODSMD_ARTICLE14: Aegvptische Ehrung für deutschen Piloten.
+Found

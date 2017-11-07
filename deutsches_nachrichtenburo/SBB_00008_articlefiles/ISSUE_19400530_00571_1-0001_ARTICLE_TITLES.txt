@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Generalleutnant Student zum General der Flieger befördert«
+Found
+MODSMD_ARTICLE02: Das Ritterkreuz für Grauert, Loerzer und Mölders.
+Found
+MODSMD_ARTICLE03: „. . . . dann ist immer noch die britische Marine da!"
+Found
+MODSMD_ARTICLE04: „Die Stunde der Abrechnung ist gekommen!"
+Found
+MODSMD_ARTICLE05: „Keine Rettung mehr für die eingeschlossenen Armeen."
+Found
+MODSMD_ARTICLE06: Die sorgenvolle Stimmung in London.
+Found
+MODSMD_ARTICLE07: London niedergeschlagen und wütend.
+Found
+MODSMD_ARTICLE08: Auch in Madrid ist Reynaud unten durch.
+Found
+MODSMD_ARTICLE09: Bereits seit Ende der letzten Woche!
+Found
+MODSMD_ARTICLE10: England bereitet sich auf den großen „Schock" vor.
+Found
+MODSMD_ARTICLE11: Ohrfeige Moskaus für England.
+Found
+MODSMD_ARTICLE12: Rumänien schützt sich vor englischer Sabotage.
+Found
+MODSMD_ARTICLE13: Natürlich ist der König der Belgier schuld.
+Found
+MODSMD_ARTICLE14: Die fünfte Kolonne spukt auch in Südafrika.
+Found
+MODSMD_ARTICLE15: Die Schreckensherrschaft gegen die Araber.
+Found

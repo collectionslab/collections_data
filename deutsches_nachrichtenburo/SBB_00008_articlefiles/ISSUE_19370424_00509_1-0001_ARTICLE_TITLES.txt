@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Führer gratuliert Generaladmiral Or. k. e. Raeder.
+Found
+MODSMD_ARTICLE02: Zusammenschluß aller technischen Verbände und Vereine.
+Found
+MODSMD_ARTICLE03: Ungarischer Honvedminister Gast des Reichsaußenministers.
+Found
+MODSMD_ARTICLE04: Reichsminister Dr. Goebbels vor den Kreisleitern.
+Found
+MODSMD_ARTICLE05: Vor dem Urteil gegen die hochverräterischen Geistlichen.
+Found
+MODSMD_ARTICLE06: Abschied von Venedig.
+Found
+MODSMD_ARTICLE07: Holland vor den Wahlen: „Nur" 13 Parteien.
+Found
+MODSMD_ARTICLE08: Deutschlands Beileid Zum Tode des Marschalls JZZet Pascha.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die Verfolgung des geschlagenen Feindes.
+Found
+MODSMD_ARTICLE02: So wüteten» die von England aufgehetzten Polen.
+Found
+MODSMD_ARTICLE03: Viehische Mordtaten polnischer Bandem
+Found
+MODSMD_ARTICLE04: Jugoslawisches Schulschiff wieder in der Heimat.
+Found
+MODSMD_ARTICLE05: „Schon zu viel Blut für fremde Interessen vergossen."
+Found
+MODSMD_ARTICLE06: Schwere Sorge über die englischen Neutralitätsbrüche.
+Found
+MODSMD_ARTICLE07: Neue englische Neutralitätsverletzung.
+Found
+MODSMD_ARTICLE08: Die spanische Presse zu den deutschen Erfolgen.
+Found
+MODSMD_ARTICLE09: Auch Japans Botschafter aus Warschau abgereist.
+Found
+MODSMD_ARTICLE10: Neuer japanischer Botschafter in Mandschukuo.
+Found
+MODSMD_ARTICLE11: Panamakanal dem Kriegsdepartement unterstellt.
+Found
+MODSMD_ARTICLE12: Ein Saboteur der Landesverteidigung erschossen.
+Found

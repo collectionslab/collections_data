@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Joachim von Ribbcntrop 43 Jahre alt.
+Found
+MODSMD_ARTICLE02: Ter von Uruguay in Berlin.
+Found
+MODSMD_ARTICLE03: Der Abschluß des Reichsberufswettkampfes.
+Found
+MODSMD_ARTICLE04: Die Besten im Reichsberufswettkampf.
+Found
+MODSMD_ARTICLE05: Der Phönix-Skandal. Jüdische Günstlingswirtschaft.
+Found
+MODSMD_ARTICLE06: Der Phönix-Skandal vor dem ungarischen Parlament.
+Found
+MODSMD_ARTICLE07: Abessinien-Aussprache im Oberhaus.
+Found
+MODSMD_ARTICLE08: Addis Abeba zur Kriegslage.
+Found

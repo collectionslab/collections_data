@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: SS.-Vereidigung vor der Feldherrnhalle.
+Found
+MODSMD_ARTICLE02: Wallfahrt zu den Särgen der Blutzeugen.
+Found
+MODSMD_ARTICLE03: Kameradschaftsabend der Führerschaft der Partei.
+Found
+MODSMD_ARTICLE04: Das Beileid des Führers Zum Tode vom Raths.
+Found
+MODSMD_ARTICLE05: Beileidstelegramme von Heß und Ribbentrop.
+Found
+MODSMD_ARTICLE06: Anteilnahme der französischen Regierung.
+Found
+MODSMD_ARTICLE07: Frankreichs erste Persönlichkeiten sprachen ihr Beileid aus.
+Found
+MODSMD_ARTICLE08: Trauerfeier für Gesandtschaftsrat vom Rath.
+Found
+MODSMD_ARTICLE09: Spontane Kundgebungen gegen die Juden im ganzen Reich.
+Found
+MODSMD_ARTICLE10: Waffenbesitz für Juden verboten.
+Found
+MODSMD_ARTICLE11: Ausschreitungen an der Universität in Brünn.
+Found
+MODSMD_ARTICLE12: Der „fliegende Journalist" notgelandet.
+Found
+MODSMD_ARTICLE13: Atatürks Zustand weiter verschlimmert.
+Found
+MODSMD_ARTICLE14: Deutsche Buchausstellung in Buenos Aires.
+Found

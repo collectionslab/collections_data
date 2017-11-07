@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Jtalienreise des Reichsaußenministers.
+Found
+MODSMD_ARTICLE02: Reichsvressechef Dr. Dietrich in Wien.
+Found
+MODSMD_ARTICLE03: Die Antwort Prags an Ungarn fertiggestellt.
+Found
+MODSMD_ARTICLE04: Wutschang eingenommen.
+Found
+MODSMD_ARTICLE05: Brand auf dem Hapagdampser „Deutschland".
+Found

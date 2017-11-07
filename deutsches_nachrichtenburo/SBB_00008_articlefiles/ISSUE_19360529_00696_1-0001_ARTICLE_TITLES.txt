@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: General Litzmann gestorben.
+Found
+MODSMD_ARTICLE02: Der Tag der jungen Kriegsmarine in Kiel.
+Found
+MODSMD_ARTICLE03: Flottenübungen und Flottenschau.
+Found
+MODSMD_ARTICLE04: Erklärung des Reichsministers Ruft zum deutsch-ungarischen Kulturabkommen.
+Found
+MODSMD_ARTICLE05: Botschafter von Ribbentrop in London.
+Found
+MODSMD_ARTICLE06: Weitere englische Truppen für Palästina.
+Found
+MODSMD_ARTICLE07: „Morning Post" gegen Moskaus Genfer Politik.
+Found
+MODSMD_ARTICLE08: Italienisches Propagandaministerium beschlagnahmt „Gazzetta del Popolo".
+Not Found
+MODSMD_ARTICLE09: Ministerbesprechung über den Flugzeug-Industrie-Streik.
+Found
+MODSMD_ARTICLE10: Mgr. Maglione verabschiedet sich vom französischen Staatspräsidenten.
+Not Found
+MODSMD_ARTICLE11: Internationale Tesla-Feierlichkeiten in Belgrad.
+Found
+MODSMD_ARTICLE12: Die polnisch-jugoslawischen Besprechungen.
+Found
+MODSMD_ARTICLE13: Vollstreckung eines Todesurteils.
+Found

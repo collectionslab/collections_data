@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Auszeichnung des Reichsministers Dr. Frank durch Horlhy«
+Found
+MODSMD_ARTICLE03: Die Erweiterung des Reichsernährungsmimsteriums.
+Found
+MODSMD_ARTICLE04: 45 KW sudetendeutsche Kinder fahren ins Altreich.
+Found
+MODSMD_ARTICLE05: Ausscheiden der jüdischen Patentanwälte.
+Found
+MODSMD_ARTICLE06: Die römische Presse zum „historischen Tag" von Wien.
+Found
+MODSMD_ARTICLE08: Ungarn dankt Hitler und Mussolini.
+Found
+MODSMD_ARTICLE09: „Bilanz einer zwanzigjährigen Außenpolitik."
+Found
+MODSMD_ARTICLE10: Die deutsche Versöhnungspolitik im Sudetenland.
+Found
+MODSMD_ARTICLE11: „Gazeta Polska" zur Eröffnung des Mittellandkanals.
+Found
+MODSMD_ARTICLE12: Warenaustausch der Nordländer in Krisenzeiten.
+Found
+MODSMD_ARTICLE13: Besuch des schwedischen Außenministers in Helsinki.
+Found
+MODSMD_ARTICLE14: Die Marin-Gruppe ist unzufrieden.
+Found
+MODSMD_ARTICLE15: Achtzehn Staaten haben Nationaispanien anerkannt.
+Found
+MODSMD_ARTICLE16: Die neueste Auslage moskowitischer „Losungen".
+Found
+MODSMD_ARTICLE17: Ein Nachruf enthüllt.
+Found
+MODSMD_ARTICLE18: Ein ungarisch-irakischer Freundschaftsvertrag»
+Found
+MODSMD_ARTICLE19: Svriens Kammerpräsident-reist nach London»
+Found
+MODSMD_ARTICLE20: Jüdische Kraftwagen unter Feuer genommen.
+Found

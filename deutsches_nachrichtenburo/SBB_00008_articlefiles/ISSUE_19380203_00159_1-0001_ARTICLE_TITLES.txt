@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Neurath Inhaber des Goldenen TreMenst-Ehrenzeichens.
+Found
+MODSMD_ARTICLE02: König Gustav gratulierte dem Reichsaußenminister.
+Found
+MODSMD_ARTICLE03: Der Reichsaußenminister Ehrenbürger von Stuttgart.
+Found
+MODSMD_ARTICLE04: Ernennungen im Ernährungsministerinm.
+Found
+MODSMD_ARTICLE05: Großer Erfolg der Ausstellung „Der ewige Jude".
+Found
+MODSMD_ARTICLE06: Gauleiter Forster über Danzigs Aufgabe.
+Found
+MODSMD_ARTICLE07: Neuer Befriedungsakt dies Danziger Senats.
+Found
+MODSMD_ARTICLE08: Gegen Verjndung der österreichischen Außenpolitik.
+Found
+MODSMD_ARTICLE09: „Verheimlicht eure Gottlosigkeit!"
+Found
+MODSMD_ARTICLE10: Oesterreichischer „Dienst ohne Waffe".
+Found
+MODSMD_ARTICLE11: Rumänisch-orthodoxe Kirche schränkt die Judentaufen ein.
+Found
+MODSMD_ARTICLE12: Höllenmaschinen-Anschlag von GPU-Agenten in Sofia.
+Found
+MODSMD_ARTICLE14: Die italienische Presse zu den „Endymion"-Meldungen.
+Found
+MODSMD_ARTICLE15: „Aetion Fran?aise" gegen jede Scheinheiligkeit.
+Found
+MODSMD_ARTICLE16: Der König von Schweden in Paris.
+Found
+MODSMD_ARTICLE17: Schwedische Stiftung zum Geburtstag des Königs.
+Found
+MODSMD_ARTICLE18: Vereidigung auf Schulschiff „Schlesien" in Corral.
+Found

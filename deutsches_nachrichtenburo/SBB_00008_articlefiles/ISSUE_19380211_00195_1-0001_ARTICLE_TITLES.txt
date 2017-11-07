@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Oesterreich erhöht die Militärdienstpflicht.
+Found
+MODSMD_ARTICLE02: Die Wahlen in Rumänien aufgehoben.
+Found
+MODSMD_ARTICLE03: Die Ursachen des Sturzes der Regierung Goga.
+Found
+MODSMD_ARTICLE04: Die Belgrader „Wreme" über Patriarch Miron.
+Found
+MODSMD_ARTICLE05: Polnische Stimmen zum Rücktritt Gogas.
+Found
+MODSMD_ARTICLE06: Die Judenfrage im polnischen Sejm.
+Found
+MODSMD_ARTICLE07: Ungarn gegen die tschechoslowakischen Dreieckspläne.
+Found
+MODSMD_ARTICLE08: Neue Umsturzvorbereitungen der Komintern.
+Found
+MODSMD_ARTICLE09: Prag dementiert Zusammentreffen Hodscha—Schuschnigg.
+Not Found
+MODSMD_ARTICLE10: Die Unterdrückung des Sudetendeutschtums.
+Found
+MODSMD_ARTICLE11: Die griechische Regierung greift durch.
+Found
+MODSMD_ARTICLE12: Lord Halifax warnt vor dem Kriegsgerede.
+Found
+MODSMD_ARTICLE13: Die Freiwilligenfrage im Vordergrund.
+Found
+MODSMD_ARTICLE14: Verhandlungsbereitschaft Sowjetspaniens?
+Found
+MODSMD_ARTICLE15: Die Dunganen werden von Moskau gegen Japan aufgehetzt.
+Found
+MODSMD_ARTICLE16: Große Veränderungen in der amerikanischen Armee.
+Found
+MODSMD_ARTICLE17: 36 Menschen auf einer Bauernhochzeit verbrannt.
+Found

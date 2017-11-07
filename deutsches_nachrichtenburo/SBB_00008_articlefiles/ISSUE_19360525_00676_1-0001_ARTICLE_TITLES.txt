@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer an den Präsidenten von Argentinien.
+Found
+MODSMD_ARTICLE02: Ungarns Kultusminister am Ehrenmal in Berlin.
+Found
+MODSMD_ARTICLE03: Die Teilnehmer der Carl Schurz-Reise in Köln.
+Found
+MODSMD_ARTICLE04: Abschluß der 3. Reichsnährstandsausstellung.
+Found
+MODSMD_ARTICLE05: Zeitschriftenverbote in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE06: „Die Weltgefahr des Bolschewismus und seine Abwehr".
+Found
+MODSMD_ARTICLE07: Tagung des polnischen Legionär-Verbandes.
+Found
+MODSMD_ARTICLE08: Radikalsozialisten gegen sozialistisches Negierungsprogramm.
+Found
+MODSMD_ARTICLE09: Die Aushebung der italienischen Jugend.
+Found
+MODSMD_ARTICLE10: Schuschnigg über die Umbildung der Regierung.
+Found
+MODSMD_ARTICLE11: Der englische Lazarettbeamte Bonner in Dschibuti.
+Found
+MODSMD_ARTICLE12: Unruhiges Wochenende in Britisch-Jndien.
+Found
+MODSMD_ARTICLE13: Zwangsverschickung von arabischen Streikleitern.
+Found
+MODSMD_ARTICLE14: Die Loslösung der Provinz Osthopei von China.
+Found

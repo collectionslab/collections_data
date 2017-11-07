@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Hermann Göring 25 Jahre Offizier.
+Found
+MODSMD_ARTICLE02: „Deutschland hat die modernste soziale Gesetzgebung."
+Found
+MODSMD_ARTICLE03: Der Oberste Kriegsrat in Frankreich.
+Found
+MODSMD_ARTICLE04: „Ausrechterhaltuug der Nichteinmischung."
+Found
+MODSMD_ARTICLE05: ,Meine außergewöhnlichen Hebungen."
+Found
+MODSMD_ARTICLE06: Frankreich schickt Inden nach Guayana.
+Found
+MODSMD_ARTICLE07: Attlee will nicht verstehen.
+Found
+MODSMD_ARTICLE08: Chnmberlain in Chequers.
+Found
+MODSMD_ARTICLE09: Schon wieder ein Bombenanschlag in England versucht.
+Found
+MODSMD_ARTICLE10: 15 üm Vormarsch in der Provinz Barcelona.
+Found
+MODSMD_ARTICLE11: „Die Note Armee die Armee der Weltrevolution."
+Found
+MODSMD_ARTICLE12: Ausdehnung des Streiks in Burma.
+Found

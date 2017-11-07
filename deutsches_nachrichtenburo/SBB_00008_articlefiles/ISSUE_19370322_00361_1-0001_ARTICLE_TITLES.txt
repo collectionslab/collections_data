@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die Schanghaier Deutschen feiern den Tag von Potsdam.
+Found
+MODSMD_ARTICLE02: Hetzreden bei der Beisetzung der Opfer von Clichy.
+Found
+MODSMD_ARTICLE03: Kommunisten stören Versammlung der Volkspartei.
+Found
+MODSMD_ARTICLE04: Bolschewistenangrisse au Asiurieufrout abgewiesen.
+Found
+MODSMD_ARTICLE05: Bewohner Madrids müssen Waffen abliefern.
+Found
+MODSMD_ARTICLE06: Der Stabschef der Kriegsmarine Portugals gestorben.
+Found
+MODSMD_ARTICLE07: Hysterische Wut auf Judas Befehl.
+Found
+MODSMD_ARTICLE08: Die Massenverhastungen in der Sowjetunion.
+Found
+MODSMD_ARTICLE09: Antikonnnunistischer Weltkongreß in Vorbereitung»
+Found
+MODSMD_ARTICLE10: Drohender Generalstreik in der Automobilindustrie der USA.
+Found
+MODSMD_ARTICLE11: Schwere Unruhen auf Puerto Rico: 12 Tote.
+Found
+MODSMD_ARTICLE12: Zurückziehung der indischen Verfassung gefordert.
+Found
+MODSMD_ARTICLE13: Die bolschewistische Bedrohung im Fernen Osten.
+Found

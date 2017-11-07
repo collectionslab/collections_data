@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Feiern und Kundgebungen im Reichsehrenmal Tannenberg.
+Found
+MODSMD_ARTICLE02: Urlaub des Berliner Gesandten Jugoslawiens.
+Found
+MODSMD_ARTICLE03: Keine Herabsetzung des Haushalts des Außenministerinms.
+Found
+MODSMD_ARTICLE04: Besuch König Carols in England.
+Found
+MODSMD_ARTICLE05: Staatsbesuch des Königs der Belgier in London.
+Found
+MODSMD_ARTICLE06: Reichssportführer bei der deutschen Sportgruppe in London.
+Found
+MODSMD_ARTICLE07: Sabotage des Londoner Kompromißvorschlages.
+Found
+MODSMD_ARTICLE08: Der polnische Ministerpräsident beglückwünscht Oberst Koe.
+Found
+MODSMD_ARTICLE09: Das Programm der Falange wird verwirklicht.
+Found
+MODSMD_ARTICLE10: Eine amerikanisch-brasilianische Erklärung.
+Found
+MODSMD_ARTICLE11: Eine deutsche Feststellung.
+Found
+MODSMD_ARTICLE12: Japan fordert Zurückziehung der chinesischen Truppen.
+Found

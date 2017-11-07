@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ausdruck nationalsozialistischen Rechtswillens.
+Found
+MODSMD_ARTICLE02: Amtseinweisung des Oberfinanzpräsidenten von Karlsbad.
+Found
+MODSMD_ARTICLE03: Danzigs Schicksal liegt in der Hand des Führers!
+Found
+MODSMD_ARTICLE04: Genfer Liga beginnt am 22. Mai wieder zu tagen.
+Found
+MODSMD_ARTICLE05: Prinzregent Paul im Forum Mussolini.
+Found
+MODSMD_ARTICLE06: Der rumänische Finanzminister in Rom.
+Found
+MODSMD_ARTICLE07: Scheinheilig und kriegstreiberisch.
+Found
+MODSMD_ARTICLE08: Polen macht in Tradition.
+Found
+MODSMD_ARTICLE09: Englands Paktomanie geht weiter.
+Found
+MODSMD_ARTICLE11: Betrieh im Foreign Office.
+Found
+MODSMD_ARTICLE12: Chamberlain zum Wochende nach Chequers gefahren.
+Found
+MODSMD_ARTICLE13: Frankreichs Sozialdemokraten gegen die Regierung.
+Found
+MODSMD_ARTICLE14: 54 000 Drückeberger in Aegypten.
+Found
+MODSMD_ARTICLE15: Kein Geld mehr für Genf.
+Found
+MODSMD_ARTICLE16: Südafrikanische Juden als Beschützer des Empire.
+Found

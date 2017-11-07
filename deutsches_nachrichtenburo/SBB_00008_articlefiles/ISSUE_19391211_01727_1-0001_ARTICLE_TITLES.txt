@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Zwei britische Tanker mit zusammen 18 VW t versenkt.
+Found
+MODSMD_ARTICLE02: Kanada kündigt den Londoner Flottenvertrag.
+Found
+MODSMD_ARTICLE03: „England entgeht seinem Schicksal nicht."
+Found
+MODSMD_ARTICLE04: Wer stand hinter Finnland?
+Found
+MODSMD_ARTICLE05: Endliche Anmaßung gegenüber Moskau.
+Found
+MODSMD_ARTICLE06: Immer mehr Franzosen wandern ins Gefängnis.
+Found
+MODSMD_ARTICLE07: Schärfster sowjetrussischer Protest in London.
+Found
+MODSMD_ARTICLE08: Der finnische Heeresbericht vom Sonntag.
+Found
+MODSMD_ARTICLE09: Die Neutralen tragen zwei Drittel der Verluste.
+Found
+MODSMD_ARTICLE10: Zweierlei Mast in Kopenhagen.
+Found
+MODSMD_ARTICLE11: „Nationaltidende": Jnflationsgesahr in Dänemark.
+Found
+MODSMD_ARTICLE12: Das Ziel der Kriegshetzer: Deutschlands Zerstückung.
+Found
+MODSMD_ARTICLE13: Englischer Aufklärer in Belgien notgelandet.
+Found
+MODSMD_ARTICLE14: Verschuldetes England mit den höchsten Steuern Europas.
+Found
+MODSMD_ARTICLE15: Frankreich muß den Fleischverkauf weiter einschränken.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer besuchte das dänische Königspaar.
+Found
+MODSMD_ARTICLE02: Zahlreiche Auslandssender übertragen die Führer-Rede.
+Found
+MODSMD_ARTICLE03: Die Reichsregieruna dankt der Tschechoslowakei.
+Found
+MODSMD_ARTICLE04: Handelspolitisches Abkommen Wien—Belgrad.
+Not Found
+MODSMD_ARTICLE05: Budenko sichert sich.
+Found
+MODSMD_ARTICLE06: Das Faksimile der Identitätskarte Budenkos.
+Found
+MODSMD_ARTICLE07: Budenko sollte Inda geopfert werden.
+Found
+MODSMD_ARTICLE08: Alexandrowsky soll retten, was zu retten ist.
+Found
+MODSMD_ARTICLE09: Das Echo der Enthüllungen Budenkos in Jugoslawien.
+Found
+MODSMD_ARTICLE10: Moskau ist hilflos.
+Found
+MODSMD_ARTICLE11: Ueberwachnng der Ueberwachungskonumssion.
+Found
+MODSMD_ARTICLE12: Agitationsmethoden kranker Hirne.
+Found
+MODSMD_ARTICLE13: Eine „großzügige" Neuregelung.
+Found
+MODSMD_ARTICLE14: Swietoslawski Zur Erziehung der nichtpolnischen Jugend.
+Found
+MODSMD_ARTICLE15: „Nationale Partei" in der Wojewodschaft! Wilna verboten.
+Found
+MODSMD_ARTICLE16: Die Kennzahl der Großhandelspreise vom 16. Februar.
+Found

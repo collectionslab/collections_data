@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Oberst Lindbergh bei Generaloberst Göring zu Gast.
+Found
+MODSMD_ARTICLE02: Reichsminister Kerrl zum Tode der SA-Männer.
+Found
+MODSMD_ARTICLE03: Einheitliche Altersgrenze in der Reichsjustizverwaltung.
+Found
+MODSMD_ARTICLE04: Auf dem Wege zur Neichspolizei.
+Found
+MODSMD_ARTICLE05: Die Ursachen des Flugzeugunfalls des Obersten Udet.
+Found
+MODSMD_ARTICLE06: Tschammer über die Leibeserziehung der Augend.
+Found
+MODSMD_ARTICLE07: Die Deutschen in Madrid und Alicante wohlauf.
+Found
+MODSMD_ARTICLE08: Die Schreckenstage von San Sebastian.
+Found
+MODSMD_ARTICLE09: Die spanischen Nationalisten verbreiten Siegesmeldungen.
+Found
+MODSMD_ARTICLE10: Die Gründe des verzögerten Vormarschs der Nationalisten.
+Found
+MODSMD_ARTICLE11: Spanier bombardieren französischen Dampfer.
+Found
+MODSMD_ARTICLE12: „Journal" schildert die Lage in Spanien.
+Found
+MODSMD_ARTICLE13: Ankunft des neuen spanischen Botschafters in Paris.
+Found
+MODSMD_ARTICLE14: Präsident Lebrun geht in Sommerurlaub.
+Found

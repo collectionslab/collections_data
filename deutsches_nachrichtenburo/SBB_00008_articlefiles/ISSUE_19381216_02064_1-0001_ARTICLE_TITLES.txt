@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Noseudcrg bei den ausländischen Pressevertretern.
+Found
+MODSMD_ARTICLE03: Jahresendtagung der Landesbauernführer in Berlin.
+Found
+MODSMD_ARTICLE04: Reichsamtsleiter Dr. Groß sprach in Reichenberg.
+Found
+MODSMD_ARTICLE05: Reichsminister Dr. Frank in Warschau.
+Found
+MODSMD_ARTICLE07: Volkskommissar Chomienko vor der „Liquidierung".
+Found
+MODSMD_ARTICLE08: 87,3 v. H. für die Memeldeutsche Liste.
+Found
+MODSMD_ARTICLE09: Großkundgebung der Deutscheu Partei in Preßburg.
+Found
+MODSMD_ARTICLE10: Prager Ermächtigungsgesetz auch vom Senat angenommen.
+Found
+MODSMD_ARTICLE11: Durchgreifende Säuberung der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE12: Der Wahlsieg Stojadinowitschs.
+Found
+MODSMD_ARTICLE13: Hudson begründet die englischen Exportprämien.
+Found
+MODSMD_ARTICLE14: Kammer für Schrifttum und Kunst feierlich eröffnet.
+Found
+MODSMD_ARTICLE15: Ekuador bringt die Lima-Konferenz in Verlegenheit.
+Found
+MODSMD_ARTICLE16: Fürst Konoe über das „Zentralamt für Ostasien".
+Found

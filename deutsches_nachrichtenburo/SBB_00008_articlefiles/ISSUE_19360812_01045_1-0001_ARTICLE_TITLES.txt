@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Ribbentrops Ernennung zum Botschafter in London.
+Found
+MODSMD_ARTICLE02: LZ „Hindenburg" erhält mehr Kabinen.
+Found
+MODSMD_ARTICLE03: Keine Ausstellung „Deutsche Kunst Goslar 1936".
+Found
+MODSMD_ARTICLE04: Zur Warschauer Reise Gamelins.
+Found
+MODSMD_ARTICLE05: Arbeitskonflikt bei einer Reederei in Le Havre.
+Found
+MODSMD_ARTICLE06: Pariser Kammeranfrage wegen der Flngzenglieserungen.
+Found
+MODSMD_ARTICLE07: Marxistischer Ausschuß kontrolliert spanische Votschaft.
+Found
+MODSMD_ARTICLE08: Befolgung der Sozialgesetze in Saragossa gefordert.
+Found
+MODSMD_ARTICLE09: Vier Amerikanerinnen im Flugzeug aus Granada gerettet.
+Found
+MODSMD_ARTICLE10: 1866 spanische Nationalisten in den Kerkern Madrids.
+Found
+MODSMD_ARTICLE11: Zur Durchführung des japanischen Rüstungsprogramms.
+Found
+MODSMD_ARTICLE12: Das erste Todesurteil wegen Kindesraubes vollstreckt.
+Found

@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Die große Siegesparade in Madrid.
+Found
+MODSMD_ARTICLE02: Glückwünsche des Führers.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Eröffnung des 17. Deutschen Weltwirtschaftstages in Wien.
+Found
+MODSMD_ARTICLE05: Chamberlain Zu den englisch-sowjetrussischen Beziehungen.
+Found
+MODSMD_ARTICLE06: Tagesbefehl des Führers.
+Found
+MODSMD_ARTICLE07: Maisky im Foreign Office.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Admiral Godo besuchte Reichsminister Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: 366 Dopolavoristen in Deutschland.
+Found
+MODSMD_ARTICLE03: Die Gliederung der staatlichen Verwaltung Hamburgs.
+Found
+MODSMD_ARTICLE04: Die neuen Männer des österreichischen Kabinetts.
+Found
+MODSMD_ARTICLE05: Die Kabinettsumbildung in Oesterreich.
+Found
+MODSMD_ARTICLE06: Wie Budeuko der GPU. entfloh.
+Found
+MODSMD_ARTICLE07: Keine diplomatischen Beziehungen zur Sowjetunion.
+Found
+MODSMD_ARTICLE08: Ter finnische Kultusminister verliest Warschau.
+Found
+MODSMD_ARTICLE09: Ter Agent Uruguays in Nationalspanien eingetroffen.
+Found
+MODSMD_ARTICLE10: Gemeinsamer Führer für die nationalspanische Jugend.
+Found
+MODSMD_ARTICLE11: Gegen die Verschleuderung der spanischen Kunstschäpe.
+Found
+MODSMD_ARTICLE12: ExPräsident Hoover in Le Havre eingetroffen.
+Found
+MODSMD_ARTICLE13: Frankreich vor neuen Krisen.
+Found
+MODSMD_ARTICLE14: Thesen Zu dem 26. Jubiläum der Roten Armee.
+Found
+MODSMD_ARTICLE15: Neue Spannung in Indien.
+Found
+MODSMD_ARTICLE16: Blutige Streikunruhen in Indien.
+Found
+MODSMD_ARTICLE17: Glaubt Roosevelt an einen Zwei-Fronten-Seekrieg?
+Found

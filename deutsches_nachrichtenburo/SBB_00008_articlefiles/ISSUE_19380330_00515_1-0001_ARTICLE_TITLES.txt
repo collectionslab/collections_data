@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Abschiedsfrühstück für den bulgarischen Gesandten.
+Found
+MODSMD_ARTICLE02: Glückwunschtelegramme des Reichslustfahrtministers.
+Found
+MODSMD_ARTICLE03: Wahlkundgebungen! am Dienstag.
+Found
+MODSMD_ARTICLE04: Die erste großdeutsche Studentenführertagung.
+Found
+MODSMD_ARTICLE05: Dr. Goebbels gratuliert Gauleiter Bürstel.
+Found
+MODSMD_ARTICLE06: Hermann Göring in Graz.
+Found
+MODSMD_ARTICLE07: Auch Schweden trägt der neuem Lage Rechnung.
+Found
+MODSMD_ARTICLE08: Das Schweizer Konsulat in Nürnberg wird aufgehoben.
+Found
+MODSMD_ARTICLE09: Forderungen der nicht-tschechischen Volksgruppen.
+Found
+MODSMD_ARTICLE10: Neue Unterredung Zwischen Graf Ciano und Lord Perth.
+Found
+MODSMD_ARTICLE11: Flottenberatungen in London.
+Found
+MODSMD_ARTICLE12: Winston Churchill bei Lord Halifax.
+Found
+MODSMD_ARTICLE13: Jüdische Massenübertritte in Budapest.
+Found
+MODSMD_ARTICLE14: Anerkennenswerte amerikanische Sachlichkeit.
+Found
+MODSMD_ARTICLE15: Senator Borah zum Anschluß Oesterreichs.
+Found

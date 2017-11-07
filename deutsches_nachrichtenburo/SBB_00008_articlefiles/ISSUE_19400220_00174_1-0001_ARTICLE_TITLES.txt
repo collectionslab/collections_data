@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Britische Mörder und Rechtsverdreher.
+Found
+MODSMD_ARTICLE02: Außenminister Koht über den britischen Piratenstreich.
+Found
+MODSMD_ARTICLE03: „Ihr seid nicht umsonst gefallen."
+Found
+MODSMD_ARTICLE04: Die Erlebnisse der Einwohner von Jössinghavn.
+Found
+MODSMD_ARTICLE05: Der schwedische Rundfunk geißelt den britischen Mord.
+Found
+MODSMD_ARTICLE06: Abscheu in ganz Italien.
+Found
+MODSMD_ARTICLE07: Spanien über den Piratenstreich.
+Found
+MODSMD_ARTICLE08: Der Bericht des Oberkommandos der Wehrmacht.
+Found
+MODSMD_ARTICLE09: „Die „Altmark" handelte rechtmäßig".
+Found
+MODSMD_ARTICLE10: „England wird auch künftig so handeln!"
+Found
+MODSMD_ARTICLE11: „Die Slowakei tatsächlich in jeder Beziehung frei!"
+Found
+MODSMD_ARTICLE12: „Amerika soll seine Kräfte wicht zersplittern."
+Found
+MODSMD_ARTICLE13: England will den Verkehr nach Rußland „überwachen".
+Found

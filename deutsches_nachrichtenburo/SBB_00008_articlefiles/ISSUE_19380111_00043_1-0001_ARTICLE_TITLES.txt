@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Das Neujahrskarmen der Halloren.
+Found
+MODSMD_ARTICLE02: Musikstiftung der Königin Elisabeth von Belgien.
+Found
+MODSMD_ARTICLE03: Neuer Tienststrafsenat beim Reichsgericht.
+Found
+MODSMD_ARTICLE04: Die Sternflug-Teilnehmer im Hoggar-Gebirge eingetroffen»
+Found
+MODSMD_ARTICLE05: Filchner in Frankfurt a. M.
+Found
+MODSMD_ARTICLE06: Deutsches Beileid zum argentinischen Flugzeugabsturz.
+Found
+MODSMD_ARTICLE07: Leiter der Rassenschutzbewegung Budapester Vizegespan.
+Found
+MODSMD_ARTICLE08: Micescus Tank an den tschechischen Außenminister.
+Found
+MODSMD_ARTICLE09: Der neue Direktor des Weltpostvereins gewählt.
+Found
+MODSMD_ARTICLE10: England soll die Nichteinmischungspolitik aufgeben.
+Found
+MODSMD_ARTICLE11: Aus Teruel entkommen. Ehrengäste in Saragossa.
+Found
+MODSMD_ARTICLE12: Sitzung des Nichteinmischungsunterausschusses.
+Found
+MODSMD_ARTICLE13: „Giornale d'Jtalia" zur Budapester Konferenz.
+Found
+MODSMD_ARTICLE14: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE15: Ernennung im Volkskommissariat Rote Kriegsmarine.
+Found
+MODSMD_ARTICLE16: Das Ergebnis der Kaiser-Konferenz in Tokio.
+Found
+MODSMD_ARTICLE17: Londoner Blätter zur Kaiser-Konferenz in Tokio.
+Found

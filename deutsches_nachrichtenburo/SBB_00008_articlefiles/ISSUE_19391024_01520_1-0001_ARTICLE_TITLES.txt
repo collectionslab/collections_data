@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Keine besonderen Kampfhandlungen.
+Found
+MODSMD_ARTICLE02: Stabschef Lutze bei Ministerpräsident Dr. Diso.
+Found
+MODSMD_ARTICLE03: Professor Danailoff gestorben.
+Found
+MODSMD_ARTICLE04: Die russisch-finnischen Besprechungen.
+Found
+MODSMD_ARTICLE05: Steigende Erwerbslosenzisfern in Frankreich.
+Found
+MODSMD_ARTICLE06: Englands schlechte Außenhandelslage.
+Found
+MODSMD_ARTICLE07: Neutrale müssen in kritischen Häfen hungern!
+Found
+MODSMD_ARTICLE08: Protest gegen die Vergewaltigung der Neutralen.
+Found
+MODSMD_ARTICLE09: Chaos bei der englischen Post.
+Found
+MODSMD_ARTICLE10: Sträflingskompanien sollen Frankreichs Grenzen schützen.
+Found
+MODSMD_ARTICLE11: Deutsches Unterseeboot versenkt britischen Handelsdampfer.
+Found
+MODSMD_ARTICLE12: Die Aen-Währung vom Pfunde losgelöst.
+Found
+MODSMD_ARTICLE13: Das ist der Lügner und Kriegshetzer Winston Churchill!
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Kronprinzessin von Schweden in Berlin.
+Found
+MODSMD_ARTICLE02: Reichsminister Darrö in Hamburg-Altona.
+Found
+MODSMD_ARTICLE03: Klagges über Deutschlands Sendung im Osten.
+Found
+MODSMD_ARTICLE05: Dr. Frank auf der Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE06: Die Tschechoslowakei ist ein Nationalitätenstaat!
+Found
+MODSMD_ARTICLE07: Ernster Protest wegen der tschechischen Polizeiübergriffe.
+Found
+MODSMD_ARTICLE08: Freundliche Begrüßung für General Milch in London.
+Found
+MODSMD_ARTICLE09: „Großzügigkeit und Gerechtigkeit lohnen sich immer!"
+Found
+MODSMD_ARTICLE10: Valencias militärische Lage äußerst ungünstig.
+Found
+MODSMD_ARTICLE11: Die indischen Mohammedaner gegen die Palästinapolitik.
+Found
+MODSMD_ARTICLE12: Kanada zur Neunmächtekonferenz in Brüssel eingeladen.
+Found

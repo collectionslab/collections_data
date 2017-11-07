@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Gustloff" rettet englische Matrosen.
+Found
+MODSMD_ARTICLE02: Starke Beachtung der Grazer Fiihrerrede.
+Found
+MODSMD_ARTICLE03: Jeats-Brown über seine Eindrücke in Deutschland.
+Found
+MODSMD_ARTICLE04: Lektion der „Sunday Times" für die Labour Party.
+Found
+MODSMD_ARTICLE05: Ernennungen im britischen Kolonialministerium.
+Found
+MODSMD_ARTICLE06: Die „Major-Attlee-Kompanie" gefangen genommen.
+Found
+MODSMD_ARTICLE07: Freudenkundgebungen in Nationalspanien.
+Found
+MODSMD_ARTICLE08: Der Vormarsch geht weiter.
+Found
+MODSMD_ARTICLE09: Panik in Barcelona.
+Found
+MODSMD_ARTICLE10: Lebrun fordert wahrheitsgetreue Berichterstattung.
+Found
+MODSMD_ARTICLE11: Die Presse zu Horthys Botschaft.
+Found

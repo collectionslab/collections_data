@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Oesterreich und Italien in den letzten 19 Jahren.
+Found
+MODSMD_ARTICLE02: Kmmpf gegen die Arbeitslosigkeit in Oesterreich
+Found
+MODSMD_ARTICLE03: Die Gefahr der jüdischen Einwandern na aus Wien.
+Found
+MODSMD_ARTICLE04: Außenpolitische Aussprache im Oberhaus.
+Found
+MODSMD_ARTICLE05: Spaak über die Vereinigung Oesterreichs mit dem Reich.
+Found
+MODSMD_ARTICLE06: Das neue Deutsche Reich und Ungarn.
+Found
+MODSMD_ARTICLE07: Kabiuettsrat stimmt der Regierungserklärung Blums zu.
+Found

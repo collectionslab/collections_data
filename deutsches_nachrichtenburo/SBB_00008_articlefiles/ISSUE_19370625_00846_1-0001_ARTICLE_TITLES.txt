@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Ley spricht auf Reichsbetriebsappell.
+Found
+MODSMD_ARTICLE02: Ausländische Gäste auf der Düsseldorfer Reichsausstellung.
+Found
+MODSMD_ARTICLE03: „Erzbischöflicher Hochmut an Stelle christlicher Demut".
+Found
+MODSMD_ARTICLE04: Starke Erhöhung des englischen Wahrungsausgleichfonds.
+Found
+MODSMD_ARTICLE05: Zum englischen Gesandten in Bolivien ernannt.
+Found
+MODSMD_ARTICLE06: Miststände im englischen Theaterwesen.
+Found
+MODSMD_ARTICLE07: Frankensturz an der Londoner Börse.
+Found
+MODSMD_ARTICLE08: Gegen die Tendenznachricht.
+Found
+MODSMD_ARTICLE09: Ein abendliches Volksfrontmeeting.
+Found
+MODSMD_ARTICLE10: 40-Stundenwoche im Hotelgewerbe Tatsache geworden.
+Found
+MODSMD_ARTICLE11: Waffenschmuggel an der belgisch-französischen Grenze.
+Found
+MODSMD_ARTICLE12: Das Piratentum der spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE13: Neue Verhaftungen in Sowjetrußland.
+Found
+MODSMD_ARTICLE14: „Wolken der Angst und Verwirrung über Sowjetrußland".
+Found

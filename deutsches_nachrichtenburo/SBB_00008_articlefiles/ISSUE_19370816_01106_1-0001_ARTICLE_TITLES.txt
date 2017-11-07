@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Dr. Goebbels' Appell an die SA. Abschluß der Reichswettkämpfe im Olympia-Stadion.
+Found
+MODSMD_ARTICLE02: Deutscher Flottenbesuch in Livorno.
+Found
+MODSMD_ARTICLE03: Salamanca klärt das Geheimnis der Piratenstreiche.
+Found
+MODSMD_ARTICLE04: Strenge Strafen für griechische Kommunisten.
+Found
+MODSMD_ARTICLE05: Japan lehnt die englischen Vorschläge ab.
+Found
+MODSMD_ARTICLE06: Vier Deutsche in Schanghai verwundet.
+Found
+MODSMD_ARTICLE07: Spannung auch in Tsingtau.
+Found

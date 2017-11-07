@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Polnische Brandstiftungen auf deutschem Grenzgebiet.
+Found
+MODSMD_ARTICLE03: Das Olsa-Gebiet ein Kriegslager.
+Found
+MODSMD_ARTICLE04: Polnische Soldaten betteln um Brot.
+Found
+MODSMD_ARTICLE05: Danzig Luftsperrgebiet.
+Found
+MODSMD_ARTICLE06: Spione und Saboteure!
+Found
+MODSMD_ARTICLE07: Terrororganisation in Danzig ausgedeckt.
+Found
+MODSMD_ARTICLE08: Lieber tot als bei den Polen.
+Found
+MODSMD_ARTICLE09: Die letzten Vorbereitungen Zum Einfall werden getroffen.
+Found
+MODSMD_ARTICLE10: Vergeblicher Kampf gegen den Wucher in Warschau.
+Found
+MODSMD_ARTICLE11: „Popolo d'Jtalia" kennzeichnet Englands Haltung.
+Found
+MODSMD_ARTICLE12: Unterredung Cianos mit dem englischen Botschafter.
+Found
+MODSMD_ARTICLE13: Schweden hält sich strikt neutral.
+Found
+MODSMD_ARTICLE14: Die Iren wollen nicht für ihre Unterdrücker kämpfen.
+Found
+MODSMD_ARTICLE15: Befriedigung in Belgien über die deutsche Erklärung.
+Found
+MODSMD_ARTICLE16: Japan zum Nichtangriffspakt Berlin—Moskau.
+Not Found
+MODSMD_ARTICLE17: Hamilton Fish: „Deutschlands Forderungen sind gerecht!"
+Found
+MODSMD_ARTICLE18: Ein Landesverräter hingerichtet.
+Found

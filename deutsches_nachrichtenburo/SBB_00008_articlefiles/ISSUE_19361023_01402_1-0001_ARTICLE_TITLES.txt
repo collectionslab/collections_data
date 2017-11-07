@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Begrüsmngstelegramm des Führers an Dr. Frank.
+Found
+MODSMD_ARTICLE02: Tie Tagung der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE03: Reichsminister Ruft an Prof. Lenze.
+Found
+MODSMD_ARTICLE04: Legationsrat Dr. Röhrecke Zum Ministerialrat ernannt.
+Found
+MODSMD_ARTICLE05: LisZt-Gedenkreden in Bayreuth.
+Found
+MODSMD_ARTICLE06: Die Machtprobe zwischen Rexisten und Regierung.
+Found
+MODSMD_ARTICLE07: Van Zeeland gegen die Rexisten.
+Found
+MODSMD_ARTICLE08: Belgien und die Fiinf-Mächte-Besprechungen.
+Found
+MODSMD_ARTICLE09: Steuerzahler verklagen Blum und Vincent-Auriol»
+Found
+MODSMD_ARTICLE10: Simon: England hält am Nichteinmischungsabkommen fest.
+Found
+MODSMD_ARTICLE11: Neue italienische Note über sowjetrussische Einmischung.
+Found
+MODSMD_ARTICLE12: General Aranda Zum Gouverneur von Oviedo ernannt.
+Found
+MODSMD_ARTICLE13: Weitere Fortschritte der nationalistischen Truppen.
+Found
+MODSMD_ARTICLE14: 10 000 Personen werden in Madrid festgehalten.
+Found
+MODSMD_ARTICLE15: Massenverbannungen in der Sowjetunion.
+Found
+MODSMD_ARTICLE16: Das Judenproblem in der südafrikanischen Union.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Nachmittags-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Die Leistungen der Invalidenversicherung.
+Found
+MODSMD_ARTICLE04: Gömbös regt Parteienbesprechung über Wahlresormfrage an.
+Found
+MODSMD_ARTICLE05: Papadakis Generaldirektor im Unterstaatssekretariat Presse.
+Found
+MODSMD_ARTICLE06: Nationaler Feiertag in Albanien.
+Found
+MODSMD_ARTICLE07: Bon der Gordon-Bennett-Wettfahrt.
+Found
+MODSMD_ARTICLE08: Fluglinie Prag—Moskau eröffnet.
+Found
+MODSMD_ARTICLE09: Englisch-norwegischer Walfisch-Streit.
+Found
+MODSMD_ARTICLE10: Sir Samuel Hoare auf dem Weg nach Palästina.
+Found
+MODSMD_ARTICLE11: Nahas Pascha auf der Rückreise nach Aegypten.
+Found
+MODSMD_ARTICLE12: Ward Price über die Abwehr der bolschewistischen Gefahr.
+Found
+MODSMD_ARTICLE13: Englische Gewerkschaften gegen kommunistische Streikhetze»
+Found
+MODSMD_ARTICLE14: „Daily Herald" von Sowjetrußland enttäuscht.
+Found
+MODSMD_ARTICLE15: „Die Ehre Frankreichs steht auf dem Spiel."
+Found
+MODSMD_ARTICLE16: 3 Millionen Franken für die spanischen Marxisten.
+Found
+MODSMD_ARTICLE17: Ein Augenzeugenbericht aus Barcelona.
+Found
+MODSMD_ARTICLE18: Der amerikanische Staatshaushalt für 1936/37.
+Found
+MODSMD_ARTICLE19: Der Tschengtu-Zwischenfall.
+Found

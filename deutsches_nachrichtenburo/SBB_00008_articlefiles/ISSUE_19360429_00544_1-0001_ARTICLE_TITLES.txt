@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Minister Rossoni bei Botschafter von Ribbentrop.
+Found
+MODSMD_ARTICLE02: Am 1. Mai Luftsperrgebiet über Berlin.
+Found
+MODSMD_ARTICLE03: lieber 299 Reichssieger im Berufswettkampf.
+Found
+MODSMD_ARTICLE04: Tie Durchführung des Volksgerichtshof-Gesetzes.
+Found
+MODSMD_ARTICLE05: Deutschland und die orthodoxe Kirche.
+Found
+MODSMD_ARTICLE06: Beratung tschechoslowakischer Staatsschutzgesepe.
+Found
+MODSMD_ARTICLE07: Tschechoslowakischer Berichterstatter ausgewiesen.
+Found
+MODSMD_ARTICLE08: Skeptische Beurteilung der Phoenix-Bestechungsliste.
+Found
+MODSMD_ARTICLE09: Jugoslawien stimmt türkischen Meerengen-Wünschen zu.
+Found
+MODSMD_ARTICLE10: Kabinettssitzung in London.
+Found
+MODSMD_ARTICLE11: Herriots umstrittenes Wahlbündnis.
+Found
+MODSMD_ARTICLE12: Pariser Besprechung über die außenpolitische Lage.
+Found
+MODSMD_ARTICLE13: Vorbereitung des zweiten Wahlganges in Frankreich.
+Found
+MODSMD_ARTICLE14: Prinz Faruk zum König von Aegypten proklamiert.
+Found
+MODSMD_ARTICLE15: Der italienische Heeresbericht Nr. 198.
+Found
+MODSMD_ARTICLE16: Rücktritt des argentinischen Innenministers.
+Found

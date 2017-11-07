@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ernennungen durch den Führer.
+Found
+MODSMD_ARTICLE02: Heimkehr der Afrika-Flieger.
+Found
+MODSMD_ARTICLE03: Der italienische Justizminister im Wiener JustiZpalast.
+Found
+MODSMD_ARTICLE04: Grundsätze für das Schuldrecht Teutschlands und Italiens.
+Found
+MODSMD_ARTICLE05: Rom Zur Lage in Spanien.
+Found
+MODSMD_ARTICLE06: In Sowjetspanien geht es drunter und drüber.
+Found
+MODSMD_ARTICLE07: Moskau will über Spanien einen Weltkrieg entfesseln.
+Found
+MODSMD_ARTICLE08: Casado nach Burgos unterwegs?
+Found
+MODSMD_ARTICLE09: Friede nur ohne Bedingungen!
+Found
+MODSMD_ARTICLE10: „Rette sich wer kann!"
+Found
+MODSMD_ARTICLE11: Das Schicksal der rotspanischen Kriegsschiffe.
+Found
+MODSMD_ARTICLE12: Paris gibt Franco „Ratschläge".
+Found
+MODSMD_ARTICLE13: Die drückende Last des spanischen Flüchtlingshaufens.
+Found
+MODSMD_ARTICLE14: Negrin sollte vor ein Standgericht.
+Found
+MODSMD_ARTICLE15: Roosevelt setzt seine sinnlose Aufrüstungskampagne fort.
+Found

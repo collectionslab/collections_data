@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Frick spricht zum Muttertag.
+Found
+MODSMD_ARTICLE02: Der Reichsfinanzminister spricht in Eisenach.
+Found
+MODSMD_ARTICLE03: Otto von Guericke-Gedenkfeier in Magdeburg.
+Found
+MODSMD_ARTICLE04: Oberführer Schäfer Kommandant des Reichsautozuges.
+Found
+MODSMD_ARTICLE05: Am Montag abend Sondersitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE06: Tie Genfer Beratungen der neutralen Staaten.
+Found
+MODSMD_ARTICLE07: Nationalfeiertag in Rumänien.
+Found
+MODSMD_ARTICLE08: Die Streiks in Saloniki das Werk Moskaus.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Berlin in Erwartung.
+Found
+MODSMD_ARTICLE02: Deutsche Gesandtschaft in Hsinking.
+Found
+MODSMD_ARTICLE03: 111. Internationaler Kongreß für Städtereinigung.
+Found
+MODSMD_ARTICLE04: Ter Chrysanthemen-Orden für den Duce.
+Found
+MODSMD_ARTICLE05: „Resto del Carlino" warnt vor jüdischen Tarnungsmanövern.
+Found
+MODSMD_ARTICLE06: Der 13. Internationale Tierärztliche Kongreß.
+Found
+MODSMD_ARTICLE07: Die schweizerische Arbeitsbeschaffungsvorlage.
+Found
+MODSMD_ARTICLE08: Tschechische Schikauen bei der Beisetzung Hlinkas.
+Found
+MODSMD_ARTICLE09: Das Urteil gegen Franz Szalasi bestätigt.
+Found
+MODSMD_ARTICLE10: Chamberlain setzt seine Ferien fort.
+Found
+MODSMD_ARTICLE11: Marseille machte Schule.
+Found
+MODSMD_ARTICLE12: Sabotageorganisation in allen Mittelmeerhäsen Frankreichs?
+Found
+MODSMD_ARTICLE13: Horthy in Beritte.
+Found
+MODSMD_ARTICLE14: Bombardierung katalanischer Häfen und Bahnhöfe.
+Found
+MODSMD_ARTICLE15: Argentinien und die Panamerikanische Konferenz.
+Found
+MODSMD_ARTICLE16: Generalstreikdrohung in Syrien.
+Found
+MODSMD_ARTICLE17: Englischer Beamter in Jenin tödlich verletzt.
+Found
+MODSMD_ARTICLE18: Blutiger Zusammenstoß in Galiläa.
+Found
+MODSMD_ARTICLE19: Neue Kasernenbauteu in Transjordanien.
+Found
+MODSMD_ARTICLE20: Schweres Flugzeugunglück in Japan.
+Found

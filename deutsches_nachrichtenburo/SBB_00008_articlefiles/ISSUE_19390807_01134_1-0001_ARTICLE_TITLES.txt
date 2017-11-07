@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: „Hansestadt Danzig" rettet polnische Militärflieger.
+Found
+MODSMD_ARTICLE02: Danzigs Antwort in der Zollkontrolleur-Frage überreicht.
+Found
+MODSMD_ARTICLE03: Kindische polnische Mätzchen.
+Found
+MODSMD_ARTICLE04: Die italienischen Manöver.
+Found
+MODSMD_ARTICLE05: Lebhafte Beanspruchung des Drahtes London-Warschau.
+Found
+MODSMD_ARTICLE06: Die Vornamen der holländischen Prinzessin.
+Found
+MODSMD_ARTICLE07: Herzliche Nachrufe für Oberst von Scheele.
+Found
+MODSMD_ARTICLE08: Polen möchte in Moskau mit dabei sein.
+Found
+MODSMD_ARTICLE09: Strang aus Moskau abgereist.
+Found
+MODSMD_ARTICLE10: Die Türkei erwartet Militärmissionen.
+Found
+MODSMD_ARTICLE11: Allarabische Besprechungen über die Palästinafrage.
+Found
+MODSMD_ARTICLE12: Schwere Kämpfe im südlichen Palästina.
+Found
+MODSMD_ARTICLE13: Blutdürstige Judenblätter.
+Found
+MODSMD_ARTICLE14: Arabische Zeitung verspottet jüdischen Hungerstreik.
+Found
+MODSMD_ARTICLE15: Araber in Palästina sind vogelfrei.
+Found
+MODSMD_ARTICLE16: Wieder zwei Araber in Haifa erschossen.
+Found
+MODSMD_ARTICLE17: Juden verprügeln ihre britischen Beschützer.
+Found
+MODSMD_ARTICLE18: Provisorisches Abkommen in Nordsachalin.
+Found
+MODSMD_ARTICLE19: Japanischer Vorstoß auf Tungpei.
+Found
+MODSMD_ARTICLE20: Gründung einer neuen Kuomintang?
+Found
+MODSMD_ARTICLE21: Die Beziehungen zwischen Costarica und Deutschland.
+Found
+MODSMD_ARTICLE22: Australien hält zu London.
+Found

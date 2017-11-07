@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Glückwünsche an den Führer.
+Found
+MODSMD_ARTICLE02: Gastkonzert Eugen lochums in Warschau.
+Found
+MODSMD_ARTICLE03: Tie marxistischen Maiseiern im Ausland.
+Found
+MODSMD_ARTICLE04: Zwischenfälle in Lille.
+Found
+MODSMD_ARTICLE05: Marxistische Gewalttaten am 1. Mai in Spanien.
+Found
+MODSMD_ARTICLE06: Nationale Maifer in Bulgarien.
+Found
+MODSMD_ARTICLE07: Oesterreichs Geschäftsträger im Foreign Office.
+Found
+MODSMD_ARTICLE08: Einberufung des Jahrganges 1915 in Oesterreich.
+Found
+MODSMD_ARTICLE09: Baldwin für Sicherung des Friedens.
+Found
+MODSMD_ARTICLE10: Die Verletzung des Budgetgeheimnisses in England.
+Found
+MODSMD_ARTICLE11: Uuterhaussraktion für Aufhebung der Sanktionen.
+Found
+MODSMD_ARTICLE12: Die britischen Zusatzhaushalte für Wehrausgaben.
+Found
+MODSMD_ARTICLE13: Veränderungen in der polnischen Diplomatie.
+Found
+MODSMD_ARTICLE14: Ist Tote bei einer Wahlversammlung in Aegypten.
+Found
+MODSMD_ARTICLE15: Repräsentantenhaus nimmt Marinevorlage an.
+Found
+MODSMD_ARTICLE16: Hull für Zollabbau und vernünftigen Rohstoffaustausch.
+Found
+MODSMD_ARTICLE17: Verstärkung japanischer Garnisonen in Nordchma.
+Found
+MODSMD_ARTICLE18: Erklärung der Osthopei-Regierung gegen Nanking.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Regierungserklärung des Danziger Senatspräsidenten.
+Found
+MODSMD_ARTICLE02: Valdwin auf einer konservativen Massenversammlung.
+Found
+MODSMD_ARTICLE03: Stapellauf eines englischen Kreuzers.
+Found
+MODSMD_ARTICLE04: Ausländische Diplomaten beim französischen Handelsminister.
+Found
+MODSMD_ARTICLE05: Die Auflösung der französischen Kampfbünde.
+Found
+MODSMD_ARTICLE06: Ende des Streiks im Anwerpener Hafen.
+Found
+MODSMD_ARTICLE07: Die Tagung der Nachrichtenbüros beendet.
+Found
+MODSMD_ARTICLE08: Die Modernisierung Roms.
+Found
+MODSMD_ARTICLE09: Diplomaten-Empfänge beim italienischen König.
+Found
+MODSMD_ARTICLE10: Hohe Auszeichnung für Marschall de Bono.
+Found
+MODSMD_ARTICLE11: Roosevelt hebt das Ausfuhrverbot gegen Italien auf.
+Found
+MODSMD_ARTICLE12: Steuerreformvorlage vom Kongreß angenommen.
+Found
+MODSMD_ARTICLE13: Der amerikanische Kongreß vertagt sich.
+Found
+MODSMD_ARTICLE14: Coughlin für die neue amerikanische Partei.
+Found
+MODSMD_ARTICLE15: 1. F. C. Nürnberg deutscher Fußballmeister.
+Found

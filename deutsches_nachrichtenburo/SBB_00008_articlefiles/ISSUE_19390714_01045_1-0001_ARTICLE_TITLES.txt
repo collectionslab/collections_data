@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: 5 Jahre Zuchthaus für Strafella.
+Found
+MODSMD_ARTICLE02: Jranco wird den Duce in Rom besuchen.
+Found
+MODSMD_ARTICLE03: Die Enteignung des Deutschen Hauses in Posen.
+Found
+MODSMD_ARTICLE04: Polnische Jagd auf die Wahrheit.
+Found
+MODSMD_ARTICLE05: Deutscher Invalide mißhandelt.
+Found
+MODSMD_ARTICLE06: Tie Kehrseite des „Sieges von Berlin".
+Found
+MODSMD_ARTICLE07: Erst auf die Straße gesetzt und jetzt verhungern lassen!
+Found
+MODSMD_ARTICLE08: Polnischer Chauvinismus nun auch gegen deutsche Kinder.
+Found
+MODSMD_ARTICLE09: Der englische Vize-Luftmarschall in Frankreich.
+Found
+MODSMD_ARTICLE10: Im Zeichen der Einkreisung.
+Found
+MODSMD_ARTICLE11: Der Hieb hat gesessen!
+Found
+MODSMD_ARTICLE12: Besuch des jugoslawischen Prinzregentenpaares in London.
+Found
+MODSMD_ARTICLE13: Londons neue Instruktionen für den Botschafter in Moskau.
+Found
+MODSMD_ARTICLE15: Neue schwere Kämpfe an der mongolischen Grenze.
+Found
+MODSMD_ARTICLE16: Rooseveltsche Merkwürdigkeiten.
+Found
+MODSMD_ARTICLE17: Entlassungsdrohungen gegen Notstandsa^heiter.
+Found
+MODSMD_ARTICLE18: Jüdische „Vertrauensärzte".
+Found
+MODSMD_ARTICLE19: Gefährlicher Gewohnheitsverbrecher hingerichtet.
+Found
+MODSMD_ARTICLE20: Frauenmörder hingerichtet.
+Found

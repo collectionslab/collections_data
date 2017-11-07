@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Deutsche in aller Welt feierten den Geburtstag des Führers.
+Found
+MODSMD_ARTICLE03: Dr. Ley zur Ausfahrt von „Wilhelm Guftloff".
+Found
+MODSMD_ARTICLE04: Schutz deutschen Brauchtums.
+Found
+MODSMD_ARTICLE05: Codreanu im Gefängnis.
+Found
+MODSMD_ARTICLE06: Tie Investitionsvorlage der ungarischen Regierung.
+Found
+MODSMD_ARTICLE07: Die Regelung des ungarischen Pressewesens.
+Found
+MODSMD_ARTICLE08: Politische Rede des Fürsten Konoe.
+Found

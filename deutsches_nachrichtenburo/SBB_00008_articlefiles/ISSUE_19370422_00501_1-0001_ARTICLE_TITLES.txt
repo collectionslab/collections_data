@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der König von Aegypten gratuliert dem Führer.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Kommandogebäude der Nordsee-Marinestation eingeweiht.
+Found
+MODSMD_ARTICLE04: Ministerpräsident Göring auf der Reise nach Neapel.
+Found
+MODSMD_ARTICLE05: Der österreichische Bundeskanzler in Venedig.
+Found
+MODSMD_ARTICLE06: Ansprachen der vier nordischen Austenminister.
+Found
+MODSMD_ARTICLE07: Tie Folgen bolschewistischer Hetze.
+Found
+MODSMD_ARTICLE08: Die autiregiliöse Propaganda in Sowjetrußland.
+Found
+MODSMD_ARTICLE09: Die Kapitulationenkonferenz.
+Found
+MODSMD_ARTICLE10: Energiewirtschaftliche Gemeinschaftstagung.
+Found
+MODSMD_ARTICLE11: Die Mörder des Parteigenossen Riedle verhaftet.
+Found
+MODSMD_ARTICLE12: Daladiers Englandreise.
+Found
+MODSMD_ARTICLE13: London billigt Verschiebung der Abrüstungsbürotagung.
+Found
+MODSMD_ARTICLE14: Der Streik der Omnibusschaffner in Mittelengland.
+Found
+MODSMD_ARTICLE15: England rät Valencia und Vurgos vom Gaskrieg ab.
+Found
+MODSMD_ARTICLE16: Das Anlaufen spanischer Häsen durch britische Schiffe.
+Found
+MODSMD_ARTICLE17: Zwei bolschewistische Handelsschiffe unschädlich gemacht.
+Found
+MODSMD_ARTICLE18: Bolschewistische Wühlarbeit in Indien.
+Found

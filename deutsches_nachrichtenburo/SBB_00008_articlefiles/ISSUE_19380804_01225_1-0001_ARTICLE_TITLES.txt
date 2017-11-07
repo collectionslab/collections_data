@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Schärfster Einspruch in Prag.
+Found
+MODSMD_ARTICLE02: Polen zu der neuen tschechischen Grenzverletzung.
+Found
+MODSMD_ARTICLE03: Prag requiriert Transportmittel
+Found
+MODSMD_ARTICLE04: Hodschas Antwort befriedigt nicht!
+Found
+MODSMD_ARTICLE05: Ungarn bei Hodscha.
+Found
+MODSMD_ARTICLE06: Runeiman will die sudeteudeutschen Siedlungsgebiete sehen.
+Found
+MODSMD_ARTICLE07: England, Runciman und die Tschechoslowakei.
+Found
+MODSMD_ARTICLE08: Zur Unterredung Chamberlain—Halifax.
+Not Found
+MODSMD_ARTICLE09: „Times": Die Genfer Methode bleibt.
+Found
+MODSMD_ARTICLE10: Frankreich kann Emigranten-Zuzug nicht mehr vertragen.
+Found
+MODSMD_ARTICLE11: Tie französischen Bemühungen um Italien.
+Found
+MODSMD_ARTICLE12: Attlee beglückwünscht die Rötspanier.
+Found
+MODSMD_ARTICLE13: Riesige Verluste der Sowjetspanier an der Ebro-Front.
+Found
+MODSMD_ARTICLE14: Ministerpräsident Metaxas an das griechische Volk.
+Found
+MODSMD_ARTICLE15: Neuer Leiter des rumänischen Minderheiteukommifsariats.
+Found
+MODSMD_ARTICLE16: De Martel auf dem Wege nach Paris.
+Found
+MODSMD_ARTICLE17: Zweistündige Unterredung Horinutschi-Smetanin in Tokio.
+Found
+MODSMD_ARTICLE18: Die Enteignung amerikanischen Landbesitzes in Mexiko.
+Found
+MODSMD_ARTICLE19: UrWahlen in vier Bundesstaaten der USA.
+Found
+MODSMD_ARTICLE20: Landesverräter hingerichtet. U
+Found

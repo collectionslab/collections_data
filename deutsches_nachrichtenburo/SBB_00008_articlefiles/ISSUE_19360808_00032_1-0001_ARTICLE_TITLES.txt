@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Der Führer bei den Staffelläufen.
+Found
+MODSMD_ARTICLE02: Empfänge im Reichserziehungsministerium.
+Found
+MODSMD_ARTICLE04: Festabend der deutschen Wehrmacht.
+Found
+MODSMD_ARTICLE05: NW-Meter-Tandemsahren: Goldmedaille für Deutschland.
+Found
+MODSMD_ARTICLE06: Die deutsche Frauenstaffel läuft Weltrekord.
+Found
+MODSMD_ARTICLE07: Dompert sprengt die sinnische Läufergarde.
+Found
+MODSMD_ARTICLE08: Handels „Herakles" auf der Dietrich Eckart-Bühne.
+Found

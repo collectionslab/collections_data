@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Die Fahrt des Führers durch Brünn.
+Found
+MODSMD_ARTICLE02: Generaloberst von Brauchitsch in Brünn.
+Found
+MODSMD_ARTICLE03: Mährisches Land in tiefem Frieden.
+Found
+MODSMD_ARTICLE04: Preßburg macht Schluß mit den jüdischen Wuchergeschästen!
+Found
+MODSMD_ARTICLE05: Jugoslawien widerlegt französische Falschmeldung.
+Found
+MODSMD_ARTICLE06: Ministerrat in Burgos.
+Found
+MODSMD_ARTICLE07: Wachsende Erregung in Syrien.
+Found
+MODSMD_ARTICLE08: Generalstreik in Syrien.
+Found

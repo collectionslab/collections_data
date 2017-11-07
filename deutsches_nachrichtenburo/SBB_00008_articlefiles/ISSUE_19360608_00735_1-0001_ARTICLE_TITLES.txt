@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Bundestag des Reichsbundes der Kinderreichen^
+Found
+MODSMD_ARTICLE02: Reichstagung für Volksgesundheit in Warnemünde.
+Found
+MODSMD_ARTICLE03: Die Mottenschau in Swinemünde.
+Found
+MODSMD_ARTICLE04: Deutscher 4 :1-Davis-Pokal-Sieg über Argentinien.
+Found
+MODSMD_ARTICLE05: Berufsschutzanordnung für die Pressestenographen.
+Found
+MODSMD_ARTICLE06: Deutsche Zeitungen in Ostoberschlesien beschlagnahmt.
+Found
+MODSMD_ARTICLE07: Der Kattowitzer Hochverratsprozest.
+Found
+MODSMD_ARTICLE08: Begrüßungsbotschaft König Carols.
+Found

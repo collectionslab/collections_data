@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: „Der Pakt von Mailand ein mächtiges Friedensinstrument."
+Found
+MODSMD_ARTICLE02: Französische und englische Verstellung.
+Found
+MODSMD_ARTICLE03: Belgien zum Pakt von Mailand.
+Found
+MODSMD_ARTICLE04: Mailand für Polen eine Enttäuschung.
+Found
+MODSMD_ARTICLE05: Verhetzung der polnischen Jugend.
+Found
+MODSMD_ARTICLE06: Neue Beschränkungen der Presse in Frankreich.
+Found
+MODSMD_ARTICLE07: Folgen der Kriegshetze.
+Found
+MODSMD_ARTICLE08: Jüdische „Filmgrößen" vor dem Pariser Gericht.
+Found
+MODSMD_ARTICLE09: Eine peinliche Feststellung.
+Found
+MODSMD_ARTICLE10: Potemkin in Sofia.
+Found
+MODSMD_ARTICLE11: Arabische Protestkundgebungen in Jerusalem.
+Found
+MODSMD_ARTICLE12: Guter Rat Japans an Polen.
+Found

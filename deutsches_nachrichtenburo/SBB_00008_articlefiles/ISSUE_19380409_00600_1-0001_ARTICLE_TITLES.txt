@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Wien in Erwartung des Führers»
+Found
+MODSMD_ARTICLE02: „Telegraaf" zur großdeutschen Abstimmung.
+Found
+MODSMD_ARTICLE03: Die „Schleswig-Holstein" in Falmouth.
+Found
+MODSMD_ARTICLE04: Chamberlain über Krieg und Frieden.
+Found
+MODSMD_ARTICLE05: Die Londoner Blätter zur Beauftragung Daladiers.
+Found
+MODSMD_ARTICLE06: VerzweiflungsMaßnahmen der spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE07: Der Vormarsch der nationalspauischen Truppen.
+Found
+MODSMD_ARTICLE08: Neue Unterredung Ciano—Perth.
+Not Found
+MODSMD_ARTICLE09: „Regime Fascista" brandmarkt die jüdische Hetze.
+Found
+MODSMD_ARTICLE10: Die polnische Presse begrüßt Blums Sturz.
+Found
+MODSMD_ARTICLE11: Massenhinrichtung von Geistlichen in Sowjetrnßland.
+Found
+MODSMD_ARTICLE12: Ein weiterer Volkskommissar abgesetzt.
+Found

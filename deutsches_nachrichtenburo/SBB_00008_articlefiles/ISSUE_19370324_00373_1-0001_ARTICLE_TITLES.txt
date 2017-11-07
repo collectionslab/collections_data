@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Göring eröffnet die Textilausstellung.
+Found
+MODSMD_ARTICLE02: Die Großkampfosfeusive der Erzeugungsschlacht.
+Found
+MODSMD_ARTICLE03: Das Ziel: Sicherung der Ernährung.
+Found
+MODSMD_ARTICLE04: Bauernführer Offiziere der Erzeugungsschlacht.
+Found
+MODSMD_ARTICLE05: Die Folgerungen aus der Versorgungslage.
+Found
+MODSMD_ARTICLE06: Die neue Form der Wirischaftsberatung.
+Found
+MODSMD_ARTICLE07: Sorgt für gesunde Ställe!
+Found
+MODSMD_ARTICLE08: Von der Organisation zur Leistungskameradschaft.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Zwei Privatbahnen ins Eigentum des Reiches überführt.
+Found
+MODSMD_ARTICLE02: Unsere Dichter besuchen die Auslandsdeutschen.
+Found
+MODSMD_ARTICLE03: Deutsch-englischer Luftverkehrsbetrieb einkommensteuerfrei.
+Found
+MODSMD_ARTICLE04: Der Reichspostminister Gast der Stadt München.
+Found
+MODSMD_ARTICLE05: Oberst Loeb über die Fortschritte im Vierjahresplan.
+Found
+MODSMD_ARTICLE06: Polnische Anfrage wegen der neuen Danziger Gesetze.
+Found
+MODSMD_ARTICLE07: Der Union Jack in Dublin öffentlich verbrannt.
+Found
+MODSMD_ARTICLE08: Der Ruhestörer am Londoner Kenotaph geisteskrank.
+Found
+MODSMD_ARTICLE09: Schwedens Gesandter in London tritt zurück.
+Found
+MODSMD_ARTICLE10: Frankreich verübelt MacDonald seine Außenpolitik.
+Found
+MODSMD_ARTICLE11: Außenpolitische Rede Tr. Kroftas.
+Found
+MODSMD_ARTICLE12: Die vor Gijon versenkten Schiffe werden gehoben.
+Found
+MODSMD_ARTICLE13: Die kantabrische Küste wieder frei.
+Found
+MODSMD_ARTICLE14: Wieder ein Araber erschossen aufgefunden.
+Found

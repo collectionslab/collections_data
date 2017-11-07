@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Abschluß des italienischen Staatsbesuchs.
+Found
+MODSMD_ARTICLE03: Empfang der italienischen Journalistendelegation.
+Found
+MODSMD_ARTICLE04: Ganz Italien feiert das Bündnis.
+Found
+MODSMD_ARTICLE05: Starke Beachtung in Warschau.
+Found
+MODSMD_ARTICLE06: Berlin im Zerrspiegel der Pariser Presse.
+Found
+MODSMD_ARTICLE07: Hiranmna zum deutsch-italienischen Bündnispakt.
+Found
+MODSMD_ARTICLE08: Stärkster Widerhall in NSA.
+Found
+MODSMD_ARTICLE09: „Alle Spekulationen der Westmächte fehlgeschlagen."
+Found
+MODSMD_ARTICLE10: Der geheimnisvolle „französische Plan".
+Found
+MODSMD_ARTICLE11: Moskau weiter einsilbig.
+Found
+MODSMD_ARTICLE12: Außenmongolisch-mandschurischer Grenzzwischenfall.
+Found

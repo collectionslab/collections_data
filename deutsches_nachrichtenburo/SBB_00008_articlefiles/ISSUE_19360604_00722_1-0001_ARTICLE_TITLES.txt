@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Gorma Zum Absturz des Fliegerhauptmanns v. Brumovski.
+Found
+MODSMD_ARTICLE02: Präsidium des Patentkongresses bei Minister Dr. Frank.
+Found
+MODSMD_ARTICLE03: Devisenbestimmung für Olympia-Besucher.
+Found
+MODSMD_ARTICLE04: Erster Lehrgang der Neichsakademie für Leibesübungen.
+Found
+MODSMD_ARTICLE05: Zuchthausurteil gegen katholischen Geistlichen.
+Found
+MODSMD_ARTICLE06: Rücktritt der Negierung Sarraut.
+Found
+MODSMD_ARTICLE07: Kammerpräsident Herriot.
+Found
+MODSMD_ARTICLE08: Ernste Zuspitzung der Streiklage in Frankreich.
+Found
+MODSMD_ARTICLE09: Einigung mit den Pariser Markthallenarbeitern.
+Found
+MODSMD_ARTICLE10: „Temps": „Die Anarchie hat lange genug gedauert".
+Found
+MODSMD_ARTICLE11: Einberufung der Völkerbundsversammlung beschlossen.
+Found
+MODSMD_ARTICLE12: Zwei wichtige Personalveränderungen in Oesterreich.
+Found
+MODSMD_ARTICLE13: Die Lage in Saloniki.
+Found
+MODSMD_ARTICLE14: Brandstiftungen und Bomben in Palästina.
+Found
+MODSMD_ARTICLE15: Bestürzung und Trauer über den Tod von Byrns.
+Found
+MODSMD_ARTICLE16: Der neue Sprecher des Repräsentantenhauses.
+Found
+MODSMD_ARTICLE17: Ueberfall auf chinesisches Zoll-Lager.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der englische Botschafter beim Mhrer.
+Found
+MODSMD_ARTICLE02: Offiziere der Wehrmachts-Akademie bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Harrow Schoo! besucht 5 Nationalpolitische Anstalten.
+Found
+MODSMD_ARTICLE04: Wegen Landesverrats verurteilt.
+Found
+MODSMD_ARTICLE05: Herzliche Dankesworte des Athener Bürgermeisters.
+Found
+MODSMD_ARTICLE06: Besprechungen Edens über eine Reform des Völkerbundes.
+Found
+MODSMD_ARTICLE07: französische Betrachtungen zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE08: Drei Entschließungsentwürfe im Unterhaus.
+Found
+MODSMD_ARTICLE09: Scharfe Kritik an Baldwin und seiner Regierung.
+Found
+MODSMD_ARTICLE10: Scharfe Angriffe der „Tribuna" auf Eden.
+Found
+MODSMD_ARTICLE11: Lloyd George gegen Rüstungsvorbereitungen.
+Found
+MODSMD_ARTICLE12: Italienischer Bericht über abessinische Grausamkeiten.
+Found
+MODSMD_ARTICLE13: Einspruch der britischen Regierung in Tokio.
+Found
+MODSMD_ARTICLE14: Neue Brände, Schießereien und Streiks in Spanien.
+Found
+MODSMD_ARTICLE15: Auch Argentinien gegen die Kommunisten.
+Found

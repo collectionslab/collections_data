@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Währiges Dienstjubiläum Dr. Schlegelbergers.
+Found
+MODSMD_ARTICLE02: Die Lebenshaltungskosten im Juni.
+Found
+MODSMD_ARTICLE03: Um die Staatsangehörigkeit von Memelländern.
+Found
+MODSMD_ARTICLE04: Die Krise des Systems der Nichteinmischung.
+Found
+MODSMD_ARTICLE06: Ungarns neues Reichsverwesergesetz vor der Annahme.
+Found
+MODSMD_ARTICLE07: Hoher rumänischer Orden für Moscicki.
+Found
+MODSMD_ARTICLE08: König Carol in Krakau.
+Found
+MODSMD_ARTICLE09: Zuspitzung im französischen Gaststättengewerbe.
+Found
+MODSMD_ARTICLE10: Marxistische Niederlage in St. Denis.
+Found
+MODSMD_ARTICLE11: Der französische Eisenbahnrat für Erhöhung der Tarife.
+Found
+MODSMD_ARTICLE12: Die Frankenabwertungs-Verordnung.
+Found
+MODSMD_ARTICLE13: Das Unverständnis Deutschland gegenüber.
+Found
+MODSMD_ARTICLE14: Attentat auf Präsidenten emier arabischen Handelskammer.
+Found
+MODSMD_ARTICLE15: Japanische Feststellungen zu dem Amur-Zwischenfall.
+Found
+MODSMD_ARTICLE16: Neue Streiks in der amerikanischen Stahlindustrie.
+Found

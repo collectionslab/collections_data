@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die „Tribuna" über die politische Rede des Führers.
+Found
+MODSMD_ARTICLE02: Die italienischen Faschisten kehren heim.
+Found
+MODSMD_ARTICLE03: Glückwunsch Dr. Fricks an General Daluege.
+Found
+MODSMD_ARTICLE04: Prinz Tschitschibu auf der Reise nach England.
+Found
+MODSMD_ARTICLE05: Der Herzog von Kent im Pariser Deutschen Pavillon.
+Found
+MODSMD_ARTICLE06: Teutschland siegt bei internationalem Filmwettbewerb.
+Found
+MODSMD_ARTICLE07: Heulern darf im sudetendeutschen Leitmeritz nicht reden?
+Found
+MODSMD_ARTICLE08: Verbot eines sudetendeutschen Kreisblattes.
+Found
+MODSMD_ARTICLE09: Der „Pester Lloyd" zum Tode Masaryks.
+Found
+MODSMD_ARTICLE10: Italiens Antwort auf englisch-französische Einladung.
+Found
+MODSMD_ARTICLE11: Der englische Palästinaplan vor dem Völkerbundsrat.
+Found
+MODSMD_ARTICLE12: Verhaftungen in Ostgalizien.
+Found
+MODSMD_ARTICLE13: Die „Säuberung" der Sowjetrepubliken.
+Found
+MODSMD_ARTICLE14: „Evening Standard" gegen Verbot politischer Aufmärsche.
+Found
+MODSMD_ARTICLE15: Internationaler Radiologenkongreß 1849 in Berlin.
+Found
+MODSMD_ARTICLE16: Neuwahlen in Australien.
+Found
+MODSMD_ARTICLE17: Die japanische Armee gegen die chinesische Note.
+Found

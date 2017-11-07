@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Das Ergebnis des !I. Opfersonntages: 11,8 Millionen RM.
+Found
+MODSMD_ARTICLE02: Barbarische Auswüchse britischer Kriegsführung.
+Found
+MODSMD_ARTICLE04: England Ziel: Diktatur über den Welthandel.
+Found
+MODSMD_ARTICLE05: England stellt Weizenverkäufe unter Kontrolle.
+Found
+MODSMD_ARTICLE06: Ernste schwedische Vorstellungen in London.
+Found
+MODSMD_ARTICLE07: Schon im Spanien kr ieg Terror des Teeret Service.
+Found
+MODSMD_ARTICLE08: Starkes Echo des deutschen U-Boot-Sieges in Spanien.
+Found
+MODSMD_ARTICLE09: „Der Triumph des Guten im Unterhaus."
+Found
+MODSMD_ARTICLE10: 39 Tote bei der Vernichtung der „Gipsy".
+Found
+MODSMD_ARTICLE11: Japan droht nach London mit Gegenmaßnahmen.
+Found
+MODSMD_ARTICLE12: Amerikas Industrie stellt sich um.
+Found

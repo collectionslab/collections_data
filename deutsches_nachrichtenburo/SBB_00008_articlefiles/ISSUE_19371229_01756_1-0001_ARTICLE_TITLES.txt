@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an Generalleutnant a. D. Hoeser.
+Found
+MODSMD_ARTICLE02: Im Zeichen deutsch-englischer Verständigung.
+Found
+MODSMD_ARTICLE03: Die Oderschisfahrt eingestellt.
+Found
+MODSMD_ARTICLE04: Der Streik in Paris. Eine Erklärung Chautemps'.
+Found
+MODSMD_ARTICLE05: Greift der Pariser Streik auf ganz Frankreich über?
+Found
+MODSMD_ARTICLE06: Haushaltspläne vom Pariser Senat angenommen.
+Found
+MODSMD_ARTICLE07: Jüdischer Lehrerverband als Herd kommunistischer Umtriebe.
+Found
+MODSMD_ARTICLE08: Die neue irische Verfassung in Kraft.
+Found
+MODSMD_ARTICLE09: Die japanische Note in London eingetroffen.
+Found
+MODSMD_ARTICLE10: Dunkle Waffengeschäfte in Barcelona.
+Found
+MODSMD_ARTICLE11: Der Kampf um Teruel.
+Found
+MODSMD_ARTICLE12: Rumäniens neue Regierung im Amte. 71 neue Präfekten»
+Found
+MODSMD_ARTICLE13: Weitere Stimmen zum Bukarester Regierungswechsel.
+Found

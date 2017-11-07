@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Admiral Forrster scheidet aus dem aktiven Dienst.
+Found
+MODSMD_ARTICLE02: Italienische Ordensverleihungen.
+Found
+MODSMD_ARTICLE03: Reichsmimster Kerrl über das Weihnachtsfest.
+Found
+MODSMD_ARTICLE04: Erweiterter Unfallversicherungsschutz für Berufskrankheiten.
+Found
+MODSMD_ARTICLE05: Nunn Hörles Vorgehen gegen deutsche Minderheitsangehörige.
+Found
+MODSMD_ARTICLE06: Handelsbesprechungen Loudon-Paris-Washington.
+Found
+MODSMD_ARTICLE07: Gnadenakt des litauischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE08: Engliche Lastautos für die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE09: Weitere Erfolge der nationalen Truppen.
+Found
+MODSMD_ARTICLE10: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE11: Ter endgültige Sieg der Nationalisten ist sicher.
+Found
+MODSMD_ARTICLE12: Tie Einmischung Moskaus in Spanien.
+Found
+MODSMD_ARTICLE13: TschanghsueliangMebellen halten hohe Beamte fest.
+Found
+MODSMD_ARTICLE14: , Eurasia"-Flugzeug in Kansu beschlagnahmt.
+Found
+MODSMD_ARTICLE15: Die kommunistische Wühlarbeit in Argentinien.
+Found
+MODSMD_ARTICLE16: Für Verstärkung der amerikanischen Friedensarmee.
+Found

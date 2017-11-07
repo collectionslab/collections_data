@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an Boliviens Präsidenten.
+Found
+MODSMD_ARTICLE02: Goethe-Medaille für Professor Bantzer.
+Found
+MODSMD_ARTICLE03: Abschied der Avanguardisten von Berlin.
+Found
+MODSMD_ARTICLE04: Amtseinführung des neuen Oberreichsanwalts.
+Found
+MODSMD_ARTICLE06: Reichsautobahn Fürstenwalde—Frankfurt/Oder eröffnet.
+Not Found
+MODSMD_ARTICLE07: Deutsche Handwerker besuchen Bulgarien.
+Found
+MODSMD_ARTICLE08: Marxistische Komödie um ein Demonstrationsverbot.
+Found
+MODSMD_ARTICLE09: Britischer Tanker bombardiert?
+Found
+MODSMD_ARTICLE10: Einfuhr englischer Zeitungen in Italien wieder gestattet.
+Found
+MODSMD_ARTICLE11: Italienisch-englische Besprechungen in Rom
+Found
+MODSMD_ARTICLE12: Das Programm der neuen spanischen Nationalpartei.
+Found
+MODSMD_ARTICLE13: Die japanischen Staatsangehörigen verlassen Nanking.
+Found
+MODSMD_ARTICLE14: Sitzung des chinesischen Reichsamts für Gesetzgebung.
+Found

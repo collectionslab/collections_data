@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: 59 Jahre Pflege des kolonialen Gedankens. Ein Schreiben des Führers an Ritter von Epp.
+Found
+MODSMD_ARTICLE02: Frühstück Zu Ehren Scapinis.
+Found
+MODSMD_ARTICLE03: Der Chef der polnischen Luftwaffe verlästt Berlin.
+Found
+MODSMD_ARTICLE04: Regierungsrat Ahrens.
+Found
+MODSMD_ARTICLE05: Deutsch-niederländische Arbeitseinsatz-Vereinbarung.
+Found
+MODSMD_ARTICLE06: Die 2000 Gäste des Führers besuchen Potsdam.
+Found
+MODSMD_ARTICLE07: Der Ehrentag der Mutter des Reichskriegsministers.
+Found
+MODSMD_ARTICLE08: Ehrengeschenk Hannovers für Mussolini.
+Found
+MODSMD_ARTICLE09: Kritik an volksvergessenen Zeitungen in Oesterreich.
+Found
+MODSMD_ARTICLE10: Hollands Luftfahrt würdigt den deutschen Pamir-Flug.
+Found
+MODSMD_ARTICLE11: Delbos und Krofta vor der Presse.
+Found
+MODSMD_ARTICLE12: Auch im Pariser Hutgewerbe wird gestreikt.
+Found
+MODSMD_ARTICLE13: Die irakische Oelleitung brennt.
+Found
+MODSMD_ARTICLE14: Schwere Niederlage für Roosevelts Re'strrmpläne.
+Found
+MODSMD_ARTICLE15: Weitere Streikunruhen in USA.
+Found
+MODSMD_ARTICLE16: Sowjetrussische Flugzeuge auf chinesischer Seite.
+Found
+MODSMD_ARTICLE17: Südchinesen flüchten nach Hongkong.
+Found
+MODSMD_ARTICLE18: Kennzahl der Großhandelspreise vom 15. Dezember.
+Found

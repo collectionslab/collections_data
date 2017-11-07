@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Des Deutschen Volkes Feiertag.
+Found
+MODSMD_ARTICLE02: München gedenkt der 1919 ermordeten 11 Geiseln.
+Found
+MODSMD_ARTICLE03: Kameradschaftsabend des Wirtschaftsministeriums.
+Found
+MODSMD_ARTICLE04: Zur Erinnerung an den 18» März 1838. Medaille für die Verdienste um die Heimkehr Oesterreichs.
+Found
+MODSMD_ARTICLE05: Gesetz überGewährung von Straffreiheit Aus Anlaß der Rückkehr Oesterreichs in das Reich.
+Found
+MODSMD_ARTICLE06: Warschau zum Ergebnis der Londoner Besprechungen.
+Found

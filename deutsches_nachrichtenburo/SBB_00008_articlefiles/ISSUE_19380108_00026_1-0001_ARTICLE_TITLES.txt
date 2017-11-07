@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer im Münchener staatlichen Operettentheater.
+Found
+MODSMD_ARTICLE02: Ernennung.
+Found
+MODSMD_ARTICLE03: Der lettische Gesandte wieder in Berlin.
+Found
+MODSMD_ARTICLE04: Tie Schiebungen des Juden Bernstein.
+Found
+MODSMD_ARTICLE05: Italien in freudiger Erwartung.
+Found
+MODSMD_ARTICLE06: Die Presse zum italienischen Flottenbauprogramm.
+Found
+MODSMD_ARTICLE07: Offizielle Nebergabe des Habsburger Vermögens.
+Found
+MODSMD_ARTICLE08: Jüdische Schmuggelskandale in Oesterreich.
+Found
+MODSMD_ARTICLE09: Tie Aufgaben der Budapester Nompakt-Konferenz.
+Found
+MODSMD_ARTICLE10: Van Zeeland bei Chamberlain.
+Found
+MODSMD_ARTICLE11: Verstärkung der Goga-Partei.
+Found
+MODSMD_ARTICLE12: Gegen Attlees verlogene Agitation.
+Found
+MODSMD_ARTICLE13: Dauerfeuer der nationalen Artillerie vor Teruel.
+Found
+MODSMD_ARTICLE14: Nationalspanische Werbetätigkeit in Südamerika.
+Found
+MODSMD_ARTICLE15: Veränderungen in der amerikanischen Diplomatie.
+Found
+MODSMD_ARTICLE16: Amerikanisch-englische Handelsvertragsverhandlungen.
+Found
+MODSMD_ARTICLE17: Tie Deutschen in Tsinanfu wohlauf.
+Found
+MODSMD_ARTICLE18: Japanische Schauspielerin an Sowjetgrenze verschwunden.
+Found

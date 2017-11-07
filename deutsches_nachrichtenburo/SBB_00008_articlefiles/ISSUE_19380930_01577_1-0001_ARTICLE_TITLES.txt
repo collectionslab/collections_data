@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Feier des Erntedanktages fällt aus.
+Found
+MODSMD_ARTICLE02: Italienische Delegation in Berlin.
+Found
+MODSMD_ARTICLE03: Sonderspende der Reichsbahner zum Winterhilfswerk.
+Found
+MODSMD_ARTICLE04: Weitererhebung der Gemeindebiersteuer.
+Found
+MODSMD_ARTICLE05: Die Sudetendeutschen voller dankbarer Freude.
+Found
+MODSMD_ARTICLE06: Panikstimmung in Prag.
+Found
+MODSMD_ARTICLE07: Ter tschechische Ueberfall auf den Sorghof.
+Found
+MODSMD_ARTICLE08: Verschärfung des tschechischen Terrors im Olsa-Gebiet.
+Found
+MODSMD_ARTICLE09: Reuter meldet Annahme durch Prag.
+Found
+MODSMD_ARTICLE10: Simon zum Bericht beim König.
+Found
+MODSMD_ARTICLE11: Jubel um Mussolini in Verona.
+Found
+MODSMD_ARTICLE12: Krach bei den französischen Sozialdemokraten.
+Found
+MODSMD_ARTICLE13: Erfolgreiche Razzia der Pariser Polizei.
+Found
+MODSMD_ARTICLE14: Ein Zeichen guten Willens.
+Found
+MODSMD_ARTICLE15: Rotspanische Angriffe abgewiesen.
+Found
+MODSMD_ARTICLE16: Wirtschastspolitische Beschlüsse in Bilbao.
+Found
+MODSMD_ARTICLE17: Burgos: „Hitler hat dem Recht zum Sieg verholfen."
+Found

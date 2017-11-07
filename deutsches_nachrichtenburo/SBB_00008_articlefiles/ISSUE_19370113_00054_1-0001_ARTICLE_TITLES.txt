@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Göring in Italien eingetroffen.
+Found
+MODSMD_ARTICLE02: Göring wird von Italien herzlich begrüßt.
+Found
+MODSMD_ARTICLE03: Dr. Frick und Himmler zum „Tag der Deutschen Polizei".
+Found
+MODSMD_ARTICLE04: Die Hetze polnischer Blätter gegen die deutsche Volksgruppe.
+Found
+MODSMD_ARTICLE05: Abbruch der belgischen Beziehungen zu Valencia gefordert.
+Found
+MODSMD_ARTICLE06: Valencia erneut bombardiert.
+Found
+MODSMD_ARTICLE07: Verbot der Freiwilligen-Werbung in Schweden gefordert«
+Found
+MODSMD_ARTICLE08: Der Sofioter Metropolit über den Bolschewismus.
+Found
+MODSMD_ARTICLE09: 100 Jahre Athener Hochschule.
+Found
+MODSMD_ARTICLE10: Griechenland organisiert seine Wohlfahrtspflege.
+Found
+MODSMD_ARTICLE11: Amerikanische Kriegsschuldenfrage nicht dringlich.
+Found
+MODSMD_ARTICLE12: Aegyptische Armeereform nach englischem Muster.
+Found
+MODSMD_ARTICLE13: Vor großen englischen Manövern im Fernen Osten.
+Found
+MODSMD_ARTICLE14: Cholera in Siam.
+Found
+MODSMD_ARTICLE15: 76 Europäer vor den China-Bolschewisten geflüchtet.
+Found
+MODSMD_ARTICLE16: Der Afrikaforscher Martin Johnson gestorben.
+Found
+MODSMD_ARTICLE17: Trotzki-Rummel in Mexiko.
+Found
+MODSMD_ARTICLE18: Steuersteckbrief und Vermögensbeschlagnahme.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Rückgang der Arbeitslosigkeit.
+Found
+MODSMD_ARTICLE02: Reisen deutscher Eisenbahner nach Italien.
+Found
+MODSMD_ARTICLE03: Das Siedlungswerk der NSKOV.
+Found
+MODSMD_ARTICLE04: Dr. Leh bei der KdF.-Werkkunstausstelluug.
+Found
+MODSMD_ARTICLE05: Generalversammlung des Kontinentalen Reklameverbandes.
+Found
+MODSMD_ARTICLE06: Schuschniggs SpezialWagen»
+Found
+MODSMD_ARTICLE07: Uebersal! auf einen sudetendeutschen Amtswalter.
+Found
+MODSMD_ARTICLE08: „Tag der Deutschen in Ostoberschlesien verboten.
+Found
+MODSMD_ARTICLE09: Empfang in der Bukarester Deutschen Gesandtschaft.
+Found
+MODSMD_ARTICLE10: Die Rumänische Akkdemie ehrt Schopenhauer.
+Found
+MODSMD_ARTICLE12: Budapest organisiert den Luftschutz.
+Found
+MODSMD_ARTICLE13: Große Mehrheit für Chamberlains Realpolitik.
+Found
+MODSMD_ARTICLE14: Die nationalen Truppen vor Castellon.
+Found
+MODSMD_ARTICLE15: Das marxistische Gift in den Kolonien.
+Found
+MODSMD_ARTICLE16: Japans Flotte greift in die Hankau-Schlacht ein.
+Found
+MODSMD_ARTICLE17: Vollstreckung von vier Todesurteilen.
+Found

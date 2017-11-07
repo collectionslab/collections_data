@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Sven Hedin beim Führer.
+Found
+MODSMD_ARTICLE02: Ernennung im Reichsinnenministerium.
+Found
+MODSMD_ARTICLE03: Churchill verheimlicht die Torpedierung der „RePulse".
+Found
+MODSMD_ARTICLE04: Deutsche und slowakische Flieger wurden ausgezeichnet.
+Found
+MODSMD_ARTICLE05: Die Kommandanten der „Royal Oak" gerettet.
+Found
+MODSMD_ARTICLE06: „Beweis der gewaltigen Stärke der deutschen U-Bootwaffe".
+Found
+MODSMD_ARTICLE07: Die einwandfreie deutsche Kriegführung.
+Found
+MODSMD_ARTICLE08: Die Umsiedlung der Estlanddeutschen.
+Found
+MODSMD_ARTICLE09: Kritik an Chamberlains Cliquenwirtschaft.
+Found
+MODSMD_ARTICLE10: Südafrika macht England Kummer.
+Found
+MODSMD_ARTICLE11: „Chamberlain hat die Tür zum Frieden zugeschlagen."
+Found
+MODSMD_ARTICLE12: Schlachtschiff „Repulse" torpediert!
+Found
+MODSMD_ARTICLE13: Wieder eine üble Zwecklüge entlarvt.
+Found
+MODSMD_ARTICLE14: „Ein Schlag für England".
+Found
+MODSMD_ARTICLE15: Viele englische Offiziere ohne Bezahlung.
+Found
+MODSMD_ARTICLE16: Australiens Premier beschwerte sich in London.
+Found
+MODSMD_ARTICLE17: Margarine und Kochfette in England beschlagnahmt.
+Found
+MODSMD_ARTICLE18: Der türkische Außenminister erneut im Kreml.
+Found
+MODSMD_ARTICLE19: Die türkische Kriegsflotte in den Dardanellen.
+Found

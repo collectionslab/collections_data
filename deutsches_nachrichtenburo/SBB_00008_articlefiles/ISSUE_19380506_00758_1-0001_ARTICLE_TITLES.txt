@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Grotzer Empfang für Rudolf Hetz.
+Found
+MODSMD_ARTICLE02: Ordensverleihungen durch König und Kaiser Victor Emanuel.
+Found
+MODSMD_ARTICLE03: Drei römische Presse gratuliert Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: „Italiens Kraft muß aller Welt klar sein".
+Found
+MODSMD_ARTICLE05: Ernennungen im Reichsjustizministerium.
+Found
+MODSMD_ARTICLE06: Dr. Ley in Frankfurt am Main.
+Found
+MODSMD_ARTICLE07: Dr. Frick stiftet Ehrenpreis für das Aachener Reitturnier«
+Found
+MODSMD_ARTICLE08: Mit dem Gummiknüppel gegen Sudetendeutsche!
+Found
+MODSMD_ARTICLE09: Gegen die Vergewaltigung der Sudetendeutschen.
+Found
+MODSMD_ARTICLE10: Prag antwortet auf Warschauer Beschwerde.
+Found
+MODSMD_ARTICLE11: Krag und seine Bundesgenossen»
+Found
+MODSMD_ARTICLE12: Senator Hasbach bei Skladkowski.
+Found
+MODSMD_ARTICLE13: Polens Presse zu Sinaia.
+Found
+MODSMD_ARTICLE14: St. Georgs-Tag in Bulgarien.
+Found
+MODSMD_ARTICLE15: Wieder ein Volkskommissar abgesetzt.
+Found
+MODSMD_ARTICLE16: Oberbolschewist Schwernik „beehrt" die Schweiz.
+Found
+MODSMD_ARTICLE17: Bolschewistische Grausamkeit kennt keine Grenzen!
+Found

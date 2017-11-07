@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Japanischer Besuch beim Führer.
+Found
+MODSMD_ARTICLE02: Gedenkfeier im Reichsiustizministerium.
+Found
+MODSMD_ARTICLE03: Aussprache über die Arbeit des Deutschen Roten Kreuzes.
+Found
+MODSMD_ARTICLE04: Danzigs Staatspräsident an Moscicki.
+Found
+MODSMD_ARTICLE05: Oesterreichtsche Anerkennung für die Werke des Führers.
+Found
+MODSMD_ARTICLE06: „Deutschland gibt das Beispiel, wie man arbeiten soll".
+Found
+MODSMD_ARTICLE07: Der rumänische Außenminister in Belgrad.
+Found
+MODSMD_ARTICLE08: Der Reichsarbeitsdienst ein Vorbild für England.
+Found
+MODSMD_ARTICLE09: Ein Franzose erlebt das heutige Deutschland.
+Found
+MODSMD_ARTICLE10: Untersuchungsausschuß gegen Minister Cot?
+Found
+MODSMD_ARTICLE11: Sowjetbotschaft half mordverdächtiger GPU-Ageutin.
+Found
+MODSMD_ARTICLE12: Sowjetrussische Flottenmanöver im Schwarzen Meer.
+Found
+MODSMD_ARTICLE13: Jemen soll die Küste befestigen.
+Found
+MODSMD_ARTICLE14: König Faruk eröffnet den Weltnachrichtenkongreß.
+Found
+MODSMD_ARTICLE15: Offiziere der „Emden" besuchten Addis Abeba.
+Found
+MODSMD_ARTICLE16: „Erst Neuordnung Chinas, dann Friedensverhandlungen."
+Found
+MODSMD_ARTICLE17: Verhaftung von Linksradikalen in Tokio.
+Found
+MODSMD_ARTICLE18: Washington zieht Verstärkungen aus Schanghai zurück.
+Found
+MODSMD_ARTICLE19: Die Neichsrichtzahl für die Lebenshaltungskosten.
+Found
+MODSMD_ARTICLE20: Vollstreckung eines Todesurteils.
+Found

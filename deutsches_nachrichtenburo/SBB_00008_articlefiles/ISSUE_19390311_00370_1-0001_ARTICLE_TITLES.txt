@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Goebbels spricht zu den Filmschaffenden.
+Found
+MODSMD_ARTICLE02: Telegrammwechsel Schirach—Starace.
+Not Found
+MODSMD_ARTICLE03: Die Zivnosdenka-Bank von Hlinkagardisten besetzt.
+Found
+MODSMD_ARTICLE04: Prag entsendet Gendarmerieverstärkungen.
+Found
+MODSMD_ARTICLE05: „Die Tschechen müssen hinaus."
+Found
+MODSMD_ARTICLE06: Der Herzog von Coburg in Budapest.
+Found
+MODSMD_ARTICLE07: Neue echt „demokratische" Einmischung!
+Found
+MODSMD_ARTICLE08: Tie roten Jnflationsverbrecher von Barcelona.
+Found
+MODSMD_ARTICLE09: Der künftige Pariser Botschafter bei Jordana.
+Found
+MODSMD_ARTICLE10: Jugoslawische Glückwünsche für Frauco.
+Found
+MODSMD_ARTICLE11: Die Anerkennung Nationalspaniens durch Bulgarien.
+Found
+MODSMD_ARTICLE12: Die Frage der rotspanischen Flüchtlinge vor der Kammer.
+Found
+MODSMD_ARTICLE13: Kommunisten haben sich in Madrid verschanzt.
+Found
+MODSMD_ARTICLE14: Ter Vizekönig von Aethiopien in Rom.
+Found
+MODSMD_ARTICLE15: Der Panama-Kanal soll erweitert werden.
+Found
+MODSMD_ARTICLE16: Bittere Wahrheiten für Roosevelt.
+Found

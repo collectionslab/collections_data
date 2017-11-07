@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Verordnung zum Uebergang der Bundesbahnen.
+Found
+MODSMD_ARTICLE02: Oesterreichische Kinder fahren nach Bayern.
+Found
+MODSMD_ARTICLE03: Finkelstein wieder einmal als Unruhestifter.
+Found
+MODSMD_ARTICLE04: Internationaler Besuch auf der Ordensburg Crössinsee.
+Found
+MODSMD_ARTICLE05: Wien hörte den Führer.
+Found
+MODSMD_ARTICLE06: Auflösung der Bulgarischen Gesandtschast in Wien.
+Found
+MODSMD_ARTICLE07: Die englisch-italienischen Besprechungen.
+Found
+MODSMD_ARTICLE08: Die Aufnahme der Führerrebe im Ausland.
+Found
+MODSMD_ARTICLE09: Jahrestagung der englischen „Nationalen Arbeiterpartei"«
+Found
+MODSMD_ARTICLE10: Polnische Note an Litauen.
+Found
+MODSMD_ARTICLE11: Außenminister Beck am Mittwoch vor dem Senat.
+Found

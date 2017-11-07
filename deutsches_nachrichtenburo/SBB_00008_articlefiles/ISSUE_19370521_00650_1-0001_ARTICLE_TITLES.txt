@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Neuer Führer der SA.-Gruppe Bayerische Ostmark.
+Found
+MODSMD_ARTICLE02: Ministerialrat Dr. Krauthausen Oberverwaltungsgerichtsrat.
+Found
+MODSMD_ARTICLE03: Kapitän Lehmann im Flugzeug nach Cuxhaven übergeführt.
+Found
+MODSMD_ARTICLE04: Oberlindober über die deutsch-französischen Beziehungen.
+Found
+MODSMD_ARTICLE05: Der polnische Staatspräsident in der deutschen Botschaft.
+Found
+MODSMD_ARTICLE06: Wiederaufnahme der Danzig-Polnischen Besprechungen.
+Found
+MODSMD_ARTICLE07: Delbos bei König Leopold.
+Found
+MODSMD_ARTICLE08: „Einheitsfront der Freiheit" gegen „Volksfront".
+Found
+MODSMD_ARTICLE09: Oberst Lunn greift ein.
+Found
+MODSMD_ARTICLE10: „Daily Telegraph" über den Zweck der Flottenschau.
+Found
+MODSMD_ARTICLE11: Tie englischen Schiffe im Hafen von Bilbao.
+Found
+MODSMD_ARTICLE12: Der Vormarsch an der Biscaya-Front.
+Found
+MODSMD_ARTICLE14: „Kartoffel-Jones" will wieder nach Bilbao.
+Found
+MODSMD_ARTICLE15: Teilweise Umbildung der bulgarischen Regierung.
+Found
+MODSMD_ARTICLE16: Die Sowjetrussische „Säuberungsaktion".
+Found
+MODSMD_ARTICLE17: Selbstauflösung der Schowakei-Partei.
+Found
+MODSMD_ARTICLE18: Die japanischen Weltflieger wieder in Tokio.
+Found
+MODSMD_ARTICLE19: Keine aggressiven Absichten Japans in der Südsee.
+Found

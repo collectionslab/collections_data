@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers.
+Found
+MODSMD_ARTICLE02: Vom Führer ernannt.
+Found
+MODSMD_ARTICLE03: Ernennungen beim Volksgerichtshof.
+Found
+MODSMD_ARTICLE04: Hermann Göring schafft einen Wehrwirtschastsrat.
+Found
+MODSMD_ARTICLE05: Dr. Ley weist neue Etappen des nationalen Sozialismus.
+Found
+MODSMD_ARTICLE06: General Daluege in Polen.
+Found
+MODSMD_ARTICLE07: Auszeichnungen aus Anlaß des Gesetzes über das Rote Kreuz.
+Found
+MODSMD_ARTICLE08: Kerrl über die innere Wandlung im Dritten Reich.
+Found
+MODSMD_ARTICLE09: Sitzung des Präsidialrats der Frontkämpferverbände.
+Found
+MODSMD_ARTICLE10: Weitere Gedenkfeiern der Deutschen im Ausland.
+Found
+MODSMD_ARTICLE11: Kronprinzessin Juliana und ihr Kind wohlauf.
+Found
+MODSMD_ARTICLE12: Die Glückwünsche des englischen Königshauses.
+Found
+MODSMD_ARTICLE13: General Francs bildet eine neue Regierung.
+Found
+MODSMD_ARTICLE14: Verschmelzung der Osthopei- mit der Peking-Regierung.
+Found
+MODSMD_ARTICLE15: Amerikanisch-japanische Zwischenfälle' beigelegt.
+Found

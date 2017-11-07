@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: «Kanzlei des Führers dum 23. 12. bis 3. 1. geschlossen.
+Found
+MODSMD_ARTICLE02: Dr. Schacht über Deutschlands Kolonialproblem.
+Found
+MODSMD_ARTICLE03: Völkerbundsreformausschuß aus unbestimmte Zeit vextagi.
+Found
+MODSMD_ARTICLE04: Die Beobachter-Abordnung für Alexaudrette.
+Found
+MODSMD_ARTICLE05: Der letzte Widerstand in Westabessinien zerschlagen.
+Found
+MODSMD_ARTICLE06: England behält 5 überalterte Kreuzer im Dienst.
+Found
+MODSMD_ARTICLE07: Keine USA-Einwendung gegen die Flottenpläne Englands.
+Found

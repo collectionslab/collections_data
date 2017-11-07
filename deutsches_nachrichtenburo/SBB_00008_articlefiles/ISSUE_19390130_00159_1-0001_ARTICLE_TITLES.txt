@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der erste 39. Januar im Graßdeutschen Reich. (Schluß)
+Found
+MODSMD_ARTICLE02: Beförderungen in der Wehrmacht.
+Found
+MODSMD_ARTICLE03: Francs, Horthy und Jmrsdy an den Führer.
+Found
+MODSMD_ARTICLE04: Zum Ministerialrat ernannt.
+Found
+MODSMD_ARTICLE05: Der Presseball 1939.
+Found
+MODSMD_ARTICLE06: Neue Abteilung im NSFK.
+Found
+MODSMD_ARTICLE07: Straßenkrawalle und Streiks sollen Sowjetspanien retten.
+Found
+MODSMD_ARTICLE08: Glückwünsche des Führers an König Boris.
+Found
+MODSMD_ARTICLE09: ZW VW Mann Verluste auf rotspanischer Seite.
+Found
+MODSMD_ARTICLE10: Die spanische Presse Zum 39. Januar.
+Found
+MODSMD_ARTICLE11: Fabrikdirektoren in die Gefängnisse geworfen.
+Found
+MODSMD_ARTICLE12: Neuer Skandal in New Jork.
+Found
+MODSMD_ARTICLE13: Bose wieder Präsident des indischen Nationalkongresses.
+Found
+MODSMD_ARTICLE14: Neuer Piratenüberfall auf den Dampfer „Hansa".
+Found

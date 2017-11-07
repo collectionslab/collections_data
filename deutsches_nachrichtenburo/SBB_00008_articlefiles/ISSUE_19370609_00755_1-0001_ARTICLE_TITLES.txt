@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ehrenpreis des Führers für das Hamburger Spring-Derby,
+Found
+MODSMD_ARTICLE02: Dr. Frick stiftet einen Ruderregatta-Preis.
+Found
+MODSMD_ARTICLE03: Göring auf der Berliner Tierkunstausstellung.
+Found
+MODSMD_ARTICLE04: Nationalsozialistische Gesundheitsführung.
+Found
+MODSMD_ARTICLE05: Raeder ehrt die Gefallenen des Panzerkreuzers „Blücher".
+Found
+MODSMD_ARTICLE06: 12 Todesopfer beim Untergang des Walfängers „Ran III."
+Found
+MODSMD_ARTICLE07: Neurath am Grabe König Alexander I.
+Found
+MODSMD_ARTICLE08: Bestrebungen zur Hebung der Volksgesundheit in England.
+Found
+MODSMD_ARTICLE09: Eeuta von sowjetspanischen Kriegsschiffen beschossen.
+Found
+MODSMD_ARTICLE10: Portugals Kampf gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE11: Kundgebungen für König Carol.
+Found
+MODSMD_ARTICLE12: Bolschewistenhäuptling Dinntroff verschickt Telegramme.
+Found
+MODSMD_ARTICLE13: Gerüchte um Marschall Tuchatschewski bestätigt.
+Found
+MODSMD_ARTICLE14: Eine verblüffende Antwort des Generals Smuts.
+Found
+MODSMD_ARTICLE15: Verstaatlichung der Rüstungsindustrie der USA beantragt.
+Found
+MODSMD_ARTICLE16: Flugzeugstützpunkt „Westfalen" übernimmt Schiffbrüchige.
+Found
+MODSMD_ARTICLE17: Italienische Ordensauszeichnung für Staatspräsident Übico.
+Found

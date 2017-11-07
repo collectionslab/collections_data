@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Hysterisches Kriegsgeschrei der „Revue des deux Mondes".
+Found
+MODSMD_ARTICLE03: „Der Elsässer" gegen die internationalen Brunnenvergifter.
+Found
+MODSMD_ARTICLE04: Runcimans Mission erfolgt auf Regierungskosten.
+Found
+MODSMD_ARTICLE05: Rückblick auf die Sommersession im englischen Parlament.
+Found
+MODSMD_ARTICLE06: Zum Leiter der gesamten britischen Luftabwehr ernannt.
+Found
+MODSMD_ARTICLE07: Die englischen Kriegsschulden in Amerika.
+Found
+MODSMD_ARTICLE08: Englischer Trieft.
+Found
+MODSMD_ARTICLE09: Der König von Dänemark gratuliert Jenny Kammersgaard.
+Found
+MODSMD_ARTICLE10: Die Außenminister Finnlands und Hollands in Stockholm.
+Found
+MODSMD_ARTICLE11: Wieder 17 kommunistische Hetzer in Wolhynien verurteilt.
+Found
+MODSMD_ARTICLE12: Ungarisches Gesetz über Freizeitgestaltung.
+Found
+MODSMD_ARTICLE13: General Franca gratuliert dem Duce.
+Found
+MODSMD_ARTICLE14: Der uationalspauische Heeresbericht.
+Found
+MODSMD_ARTICLE15: Das Ende des Aufstandes auf Kreta.
+Found
+MODSMD_ARTICLE16: Der portugiesische Staatspräsident in Angola.
+Found
+MODSMD_ARTICLE17: Englands neuer Gouverneur in Malta.
+Found
+MODSMD_ARTICLE18: Weitere Todesopfer in Rangoon.
+Found
+MODSMD_ARTICLE19: 159 britische Forderungen au Japan.
+Found
+MODSMD_ARTICLE20: Die chinesischen Zentralbehörden in Tschuugking.
+Found

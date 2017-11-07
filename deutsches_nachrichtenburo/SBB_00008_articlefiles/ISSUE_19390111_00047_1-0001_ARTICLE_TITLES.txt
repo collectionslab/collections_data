@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Verhandlung gegen Ernst Niekisch.
+Found
+MODSMD_ARTICLE02: Eine deutsche Wirtschaftsdelegation in Sofia.
+Found
+MODSMD_ARTICLE03: Das endgültige Ergebnis der Skupschtinawahlen.
+Found
+MODSMD_ARTICLE04: Radu Crutzescu Leiter der politischen Abteilung.
+Found
+MODSMD_ARTICLE05: Typisch jüdische Frechheit.
+Found
+MODSMD_ARTICLE06: Abreise der englische Staatsmänner von Paris.
+Found
+MODSMD_ARTICLE07: Die Wahl der Vizepräsidenten der französischen Kammer.
+Found
+MODSMD_ARTICLE08: Die rote Entlastungsoffensive völlig gescheitert.
+Found
+MODSMD_ARTICLE09: Nationaler Vormarsch bei dichtem Nebel.
+Found
+MODSMD_ARTICLE10: Der Brotkorb in der Sowjetunion immer höher gehängt.
+Found
+MODSMD_ARTICLE11: „Sanktionen ohne Krieg unanständig".
+Found
+MODSMD_ARTICLE12: Er kam noch nicht dazu.
+Found
+MODSMD_ARTICLE13: Kopfsteuer auf Judeneinwanderung.
+Found
+MODSMD_ARTICLE14: Jüdische „Nadiostars" als Dian;antenschmuggler und Hehler
+Found
+MODSMD_ARTICLE15: Peinliche Fragen für amerikanische Senatoren.
+Found
+MODSMD_ARTICLE16: Der schlechte Kurs Roosevelts.
+Found

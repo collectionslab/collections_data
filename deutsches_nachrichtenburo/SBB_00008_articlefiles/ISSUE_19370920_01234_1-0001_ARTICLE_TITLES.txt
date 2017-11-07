@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer im Manövergelände.
+Found
+MODSMD_ARTICLE02: Freiherr von Neurath SS-Gruppenführer.
+Found
+MODSMD_ARTICLE03: Günstige Entwicklung der deutschen Ausfuhr nach Holland.
+Found
+MODSMD_ARTICLE04: Chile begeht feinen Nationalfeiertag.
+Found
+MODSMD_ARTICLE05: Der Brand der Wiener Rotunde.
+Found
+MODSMD_ARTICLE06: „Mussolini und Hitler".
+Found
+MODSMD_ARTICLE07: Eine Erklärung Cianos.
+Found
+MODSMD_ARTICLE08: „Offene Intervention Zugunsten Sowjetspaniens".
+Found
+MODSMD_ARTICLE09: Französische Mittelmeerverstärkungen.
+Found
+MODSMD_ARTICLE10: Der Vormarsch an der asturrfchön FroäL^
+Found
+MODSMD_ARTICLE11: Katastrophale Lebensbedingungen in Madrid.
+Found
+MODSMD_ARTICLE12: Befestigungsarbeiten in Französisch-Marokko und Westafrika
+Found
+MODSMD_ARTICLE13: „Schädlingstätigkeit" bedroht die bolschewistischen „Wahlen".
+Found
+MODSMD_ARTICLE14: Knapper Sieg der Schweden im Leichtathletik-Länderkampf.
+Found
+MODSMD_ARTICLE15: Der Preis der Reichshauptstadt im 79jährigen Hoppegarten.
+Found

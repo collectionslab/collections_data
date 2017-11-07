@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: General Verdaguer in Rüngsdorf.
+Found
+MODSMD_ARTICLE02: Graf von der Schuleuburg Polizeivizepräsident.
+Found
+MODSMD_ARTICLE03: Dr. Fricks Beileid zum Tode Rosemeyers.
+Found
+MODSMD_ARTICLE04: Gemein schaftsempfang der Rede von Dr. Goebbels.
+Found
+MODSMD_ARTICLE05: Am Montag Betriebsappelle im ganzen Reich.
+Found
+MODSMD_ARTICLE06: Der Lehrgang der Kommission für Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE07: Jüdischer Devisenschieber vor Stuttgarter Sondergericht.
+Found
+MODSMD_ARTICLE08: Vortragsabend des Oesterreichisch-Deutschen Volksbundes.
+Found
+MODSMD_ARTICLE09: Die Internationale Luftsport-Sitzung.
+Found
+MODSMD_ARTICLE10: Doriot-Versammlung verboten.
+Found
+MODSMD_ARTICLE11: Das dritte italienische gelandet.^
+Found
+MODSMD_ARTICLE12: „Marseille, sowjetspanischer Umschlaghasen".
+Found
+MODSMD_ARTICLE13: Hilfe für Madrid durch französische Gewerkschaft.
+Found
+MODSMD_ARTICLE14: Konzentrationslager für Kommunisten in Brasilien.
+Found
+MODSMD_ARTICLE15: Roosevelt fordert starke Erhöhung der USA.-Rüstungen.
+Found
+MODSMD_ARTICLE16: Amerikanischer Protestschritt in Tokio.
+Found
+MODSMD_ARTICLE17: Neue Terrorakte in Schanghai.
+Found

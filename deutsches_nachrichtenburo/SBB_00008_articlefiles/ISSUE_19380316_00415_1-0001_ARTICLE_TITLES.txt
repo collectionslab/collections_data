@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Triumphzug des Führers durch Berlin.
+Found
+MODSMD_ARTICLE02: „Adolf Hitler-Dank" für Oesterreich.
+Found
+MODSMD_ARTICLE03: Vereidigung der österreichischen Polizei.
+Found
+MODSMD_ARTICLE04: „Soweit ist Frankreich heruntergekommen!"
+Found
+MODSMD_ARTICLE05: Arabischer Nationalist niedergeschossen.
+Found

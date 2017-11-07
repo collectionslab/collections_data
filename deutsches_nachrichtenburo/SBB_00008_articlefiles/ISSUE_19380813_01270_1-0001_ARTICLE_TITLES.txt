@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Zum Vertreter des Reichsstatthalters in Hamburg ernannt.
+Found
+MODSMD_ARTICLE02: Generalfeldmarschall Göring an die deutschen Ozeanflieger.
+Found
+MODSMD_ARTICLE03: Delegaiionsführer des Gartenbaukongresses bei Darre.
+Found
+MODSMD_ARTICLE04: Dr. Hans Carossa erhält den Frankfurter Goethepreis 1338.
+Found
+MODSMD_ARTICLE05: Dänische Würdigung deutscher Flugleistungen.
+Found
+MODSMD_ARTICLE06: Der Bürgermeister von Trautenau bestätigt.
+Found
+MODSMD_ARTICLE07: Sudeiendeutsche Wirtschaftsabordnung bei Runciman.
+Found
+MODSMD_ARTICLE08: Ungarn zum Aufruf der tschechischen Offiziere.
+Found
+MODSMD_ARTICLE09: Rumäniens neues Berwaltungsgesetz verkündet.
+Found
+MODSMD_ARTICLE10: Zunahme des Kommunismus in England.
+Found
+MODSMD_ARTICLE11: Deutsches Berusskonsulat in Bilbao.
+Found
+MODSMD_ARTICLE12: Der Vormarsch der nationalspanischen Südarmee.
+Found
+MODSMD_ARTICLE13: Rote Greuelherrschaft an der Estremadura-Frout.
+Found
+MODSMD_ARTICLE14: Cabeza del Buey gefallen.
+Found
+MODSMD_ARTICLE15: Die deutschen HJ.-Führer auf der Fahrt nach Japan.
+Found
+MODSMD_ARTICLE16: „Condor" zum Rückflug nach Berlin gestartet.
+Found

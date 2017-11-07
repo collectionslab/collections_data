@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der Wortlaut des Mittelmeerabkommens.
+Found
+MODSMD_ARTICLE02: Die Londoner Presse zum Mittelmeerabkommen.
+Found
+MODSMD_ARTICLE03: Die britische Spanien-Politik. Eine Warnung Garvins.
+Found
+MODSMD_ARTICLE04: Ein unbequemer Zeuge sollte beseitigt werden.
+Found
+MODSMD_ARTICLE05: Ein neuer Erfolg der Südarmee in Andalusien.
+Found
+MODSMD_ARTICLE06: Das amerikanische Neutralitätsgesetz wird verschärft.
+Found

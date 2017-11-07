@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Reichsbahn im Dienste des Winterhilfswerks»
+Found
+MODSMD_ARTICLE02: Der Empfang der Nordatlantikslieger durch die Lusthansa»
+Found
+MODSMD_ARTICLE03: Deutsche Buchausstellung in Bukarest.
+Found
+MODSMD_ARTICLE04: Gauleiter Bohle in Florenz.
+Found
+MODSMD_ARTICLE05: Die deutschen Industriellen bei Mussolini.
+Found
+MODSMD_ARTICLE06: „Gioruale d'ltalia" zu den Besprechungen.
+Found
+MODSMD_ARTICLE07: Portugals Grunde für den Abbruch der Beziehungen.
+Found
+MODSMD_ARTICLE08: Eden empfängt den Botschafter der Madrider „Regierung".
+Found
+MODSMD_ARTICLE09: Die Internationale wünscht Unterstützung Madrids.
+Found
+MODSMD_ARTICLE10: Selbständige rote Regierung in Aragon.
+Found
+MODSMD_ARTICLE11: Moses Rosenberg Hilst mit Rat und Tat.
+Found
+MODSMD_ARTICLE12: Nationalistische Bombenflugzeuge über Madrid.
+Found
+MODSMD_ARTICLE13: Treibende Minen in der Bucht von Barcelona.
+Found
+MODSMD_ARTICLE14: Verkehr Sowjetrußland—Spanien durch Bosporus.
+Found
+MODSMD_ARTICLE15: „Natürliche Verluste" in der Sowjetwirtschast.
+Found
+MODSMD_ARTICLE16: Antikommunistische Predigten in Amerika.
+Found
+MODSMD_ARTICLE17: Lebrun empfängt Frankreichs Moskauer Botschafter.
+Found
+MODSMD_ARTICLE18: Wieder Unruhen in Bombay. Acht Tote.
+Found
+MODSMD_ARTICLE19: Steuersteckbriefe und Bermögensbeschlagnahmen.
+Found

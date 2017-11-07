@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Die Eröffnung der 37. Wiener Internationalen Messe.
+Found
+MODSMD_ARTICLE03: Bericht des Oberkommandos der Wehrmacht.
+Found
+MODSMD_ARTICLE04: 25 neue Senatoren in Italien.
+Found
+MODSMD_ARTICLE05: „Kriegsgeschäfte führen Amerika in den Krieg."
+Found

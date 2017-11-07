@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Couloudre beim Führer.
+Found
+MODSMD_ARTICLE02: Kammerversammlung der sudetendeutscheu Anwälte.
+Found
+MODSMD_ARTICLE03: Der Geiselmord in Innsbruck vor Gericht.
+Found
+MODSMD_ARTICLE04: Memeldeutschtum geschlossen im Wahlkamps.
+Found
+MODSMD_ARTICLE05: Sabotage des Litauers Borchertas.
+Found
+MODSMD_ARTICLE06: Oberst Rapicavoli gestorben.
+Found
+MODSMD_ARTICLE07: „Messaggero" über die Hintergründe der Hetzkampagne.
+Found
+MODSMD_ARTICLE08: Die jüdischen Siedlungsmöglichkeiien im britischen Reich.
+Found
+MODSMD_ARTICLE09: Dreiländer-Wirtschaftskonferenz in Tokio.
+Found
+MODSMD_ARTICLE10: Das Rüstuugsfieber in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE11: Bollstreckung von Todesurteilen.
+Found

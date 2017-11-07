@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Das Weltecho der Führerrede
+Found
+MODSMD_ARTICLE02: Telegrammwechsel General Franca Adolf Hitler.
+Found
+MODSMD_ARTICLE03: Göring zur Staatsjagd nach Polen abgereist.
+Found
+MODSMD_ARTICLE04: Diplomatentee auf der Autoausstellung.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Rundfunkansprache des österreichischen Innenministers.
+Found
+MODSMD_ARTICLE07: Beschlüsse des französischen Ministerrats.
+Found
+MODSMD_ARTICLE08: Unterredung des englischen Botschafters mit Graf Ciano.
+Found
+MODSMD_ARTICLE09: Der Staatsbesuch des Außenministers Beck in Rom.
+Found
+MODSMD_ARTICLE10: Neubau für das Parteidirektorium Italiens.
+Found
+MODSMD_ARTICLE11: Eden bei König Georg.
+Found
+MODSMD_ARTICLE12: Die Britische Industrie-Messe eröffnet.
+Found
+MODSMD_ARTICLE13: Vansittart bleibt im Amt.
+Found
+MODSMD_ARTICLE14: Jubel in Nationalspanien über den Fall von Terniel.
+Found

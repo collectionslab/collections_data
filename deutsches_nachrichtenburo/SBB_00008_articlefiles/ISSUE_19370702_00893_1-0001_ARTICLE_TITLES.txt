@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Das Großkreuz des Deutschen Adlers an Minister Alfieri verliehen. Hohe Ordensauszeichnungen für ungarische Offiziere.
+Found
+MODSMD_ARTICLE02: Abbau der Zollschranken.
+Found
+MODSMD_ARTICLE03: Schreckensbilder aus dem Waldbreitbacher Klostersumpf.
+Found
+MODSMD_ARTICLE04: Der kanadische Ministerpräsident in Paris.
+Found
+MODSMD_ARTICLE05: Französische Metallarbeiter fordern Lohnerhöhungen.
+Found
+MODSMD_ARTICLE06: Die italienische Presse zur deutsch-italienischen Erklärung.
+Found
+MODSMD_ARTICLE07: Streiks schaden der Volksgemeinschaft.
+Found
+MODSMD_ARTICLE08: Der Jude als Mörder.
+Found
+MODSMD_ARTICLE09: Mit Gasgranaten gegen die nationalen Truppen.
+Found
+MODSMD_ARTICLE10: Nationalspanischer Generalstabschef ernannt.
+Found
+MODSMD_ARTICLE11: „Zwei Drittel eines Monatslohnes für die Aufrüstung!"
+Found
+MODSMD_ARTICLE12: Antwort der Deutschen in Südwestasrika.
+Found
+MODSMD_ARTICLE13: Erst zur Pariser Weltausstellung dann Kanonenfutter!
+Found
+MODSMD_ARTICLE14: Mit Dynamitbomben gegen Arbeitswillige.
+Found
+MODSMD_ARTICLE15: von Cramm wieder gescheitert.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Dr. Goebbels spricht zu den Filmschaffenden.
+Found
+MODSMD_ARTICLE02: Luftschutz-Ausstellung in Kiel.
+Found
+MODSMD_ARTICLE03: Schillers „Maria Stuart" in London.
+Found
+MODSMD_ARTICLE04: Deutscher Gesandter überreicht Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE05: Neville Chamberlain und Simon über Englands Aufrüstung.
+Found
+MODSMD_ARTICLE06: Einkommensteuererhöhung Folge der englischen Rüstung.
+Found
+MODSMD_ARTICLE07: Neuer Streik in Englands Flugzeug-Industrie.
+Found
+MODSMD_ARTICLE08: Das endgültige Ergebnis der Londoner Stadtratswahlen.
+Found
+MODSMD_ARTICLE09: Die Sitzungen des Nichteinmischungsunterausschusses.
+Found
+MODSMD_ARTICLE10: Die Generalresidenien von Nordafrika in Paris.
+Found
+MODSMD_ARTICLE11: Vorbehalte der Radikalsozialen.
+Found
+MODSMD_ARTICLE12: Griechische Opfer einer Mine an Spaniens Küste, ü
+Found
+MODSMD_ARTICLE13: „General" Miaja gesteht Mißerfolge ein.
+Found
+MODSMD_ARTICLE14: Mutige Zwischenfälle in Madrid. „Uebergabe und Brot".
+Found
+MODSMD_ARTICLE15: Nationale Stellungen in Asturien verbessert.
+Found
+MODSMD_ARTICLE16: Der Duce empfängt japanische Flieger.
+Found
+MODSMD_ARTICLE17: Siamesische Torpedoboote gehen aus Trieft nach Siam.
+Found
+MODSMD_ARTICLE18: Saatgutmangel in der Sowjetunion.
+Found
+MODSMD_ARTICLE19: 526 Millionen Dollar für Amerikas Flottenausrüstung.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Frick in Salzburg.
+Found
+MODSMD_ARTICLE02: Sitzung der Landesregierung Oesterreichs in Salzburg.
+Found
+MODSMD_ARTICLE03: Vorschläge Ruucimans?
+Found
+MODSMD_ARTICLE04: Heilung durch Altweibertränklein?
+Found
+MODSMD_ARTICLE05: Drosselung des englisch-italienischen Handelsverkehrs.
+Found
+MODSMD_ARTICLE06: Sommerstille in der englischen Politik.
+Found
+MODSMD_ARTICLE07: England gab drei Kreuzer in Auftrag.
+Found
+MODSMD_ARTICLE08: Vor der Beisetzung Hlinkas.
+Found
+MODSMD_ARTICLE09: Letzte Warnung an ein Belgrader Volksfrouiblatt.
+Found
+MODSMD_ARTICLE10: Die Freimaurerei zeigt ihr wahres Gesicht.
+Found
+MODSMD_ARTICLE11: Bolschewistische Angriffe an der Teruel-Front abgewiesen.
+Found
+MODSMD_ARTICLE12: 5K FalaZnge-Jungen fahren nach Italien.
+Found
+MODSMD_ARTICLE13: „Motorisiert" gegen geknechtete Bevölkerung Rotspaniens.
+Found
+MODSMD_ARTICLE14: Aufklärungsflugzeug gegen 15 rote Jagdflieger.
+Found
+MODSMD_ARTICLE15: So wurden Amerikaner für Rotspanien gepreßt.
+Found
+MODSMD_ARTICLE16: Immer neue Zusammenstöße in Palästina.
+Found

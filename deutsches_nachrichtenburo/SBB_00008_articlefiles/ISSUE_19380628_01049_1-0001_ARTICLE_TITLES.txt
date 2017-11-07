@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Darre auf der Reichswasserwirtschaftstagungi in Aachen.
+Found
+MODSMD_ARTICLE02: Himmler auf der Arbeitstagung des Dozentenbundes.
+Found
+MODSMD_ARTICLE03: Deutschland als Vorbild im Seerettungswesen.
+Found
+MODSMD_ARTICLE04: Italien bleibt vorbereitet.
+Found
+MODSMD_ARTICLE05: Die Marseiller Metallindustrie „feiert".
+Found
+MODSMD_ARTICLE06: „Sowjetrußland hinter den Provokationen Barcelonas."
+Found
+MODSMD_ARTICLE07: Die Folgen der tschechischen Ausschreitungen.
+Found
+MODSMD_ARTICLE08: Die karpathvrnssischcn Forderungen.
+Found
+MODSMD_ARTICLE09: Neue Ausgabe für die rumänische Staatsjugcud.
+Found

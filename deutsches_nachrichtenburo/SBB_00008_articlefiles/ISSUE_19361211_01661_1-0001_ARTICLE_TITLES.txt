@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Mordprozetz Frankfurter.
+Found
+MODSMD_ARTICLE02: „Action zu den Enthüllungen des „Messaggero".
+Found
+MODSMD_ARTICLE03: 000 Sowjetflieger sollen schnellstens ausgebildet werden.
+Found
+MODSMD_ARTICLE04: Das Abdankungsgesetz im englischen Parlament.
+Found
+MODSMD_ARTICLE05: Tie Abdankung Eduards VIII. rechtskräftig.
+Found
+MODSMD_ARTICLE06: Der nationale Heeresbericht vom Donnerstag.
+Found
+MODSMD_ARTICLE07: Späte Bolschewisteuerkenntnisse.
+Found
+MODSMD_ARTICLE08: Anarchistisches Blutbad in Valencia.
+Found
+MODSMD_ARTICLE09: Verkauf von Kunstgegenständen ins Ausland untersagt.
+Found
+MODSMD_ARTICLE10: Der Senat gegen Wünsche Blums.
+Found
+MODSMD_ARTICLE11: Die mexikanischen Kommunisten gegen Trohki-Bronstein.
+Found
+MODSMD_ARTICLE12: Chinesischer Sieg in Sniyuan.
+Found

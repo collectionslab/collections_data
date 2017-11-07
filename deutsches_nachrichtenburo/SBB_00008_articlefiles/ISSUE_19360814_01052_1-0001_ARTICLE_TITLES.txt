@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: 3078 Ausländer wurden aus Barcelona abtransportiert.
+Found
+MODSMD_ARTICLE02: Kriegsbericht der spanischen Nationalisten.
+Found
+MODSMD_ARTICLE03: Tie marokkanischen Streitkräfte General Fraucos.
+Found
+MODSMD_ARTICLE04: Grenzverletzung durch spanische Kommunisten.
+Found
+MODSMD_ARTICLE05: Aufsehen über englische Flugzeuglieferung an Spanien.
+Found
+MODSMD_ARTICLE06: Unbequeme Fragen zu französischen Flugzeuglieserungen.
+Found
+MODSMD_ARTICLE07: Dänische Antwort auf den französischen Neutralitätsvorschlag
+Found
+MODSMD_ARTICLE08: Trotzki und die Revolutionsvorbereitungen im Norden.
+Found
+MODSMD_ARTICLE09: Worauf wartet die Prager Regierung?
+Found
+MODSMD_ARTICLE10: Mindestlöhne für die griechische Arbeiterschaft.
+Found
+MODSMD_ARTICLE11: Keine neuen Steuern in den Vereinigten Staaten.
+Found

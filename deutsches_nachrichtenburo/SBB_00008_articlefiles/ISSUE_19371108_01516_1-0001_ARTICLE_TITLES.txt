@@ -1,0 +1,34 @@
+MODSMD_ARTICLE02: Dankgruß Dr. Ley's an Generaladmiral Raeder.
+Found
+MODSMD_ARTICLE03: Langemarck Symbol des Opfers der Jugend.
+Found
+MODSMD_ARTICLE04: Auftakt Zum 9. November in München.
+Found
+MODSMD_ARTICLE05: Dem Gedächtnis von der Pfordtens.
+Found
+MODSMD_ARTICLE06: Gedenkfeier an der Gustav-Adolf-Kapelle in Lützen.
+Found
+MODSMD_ARTICLE07: Besuch der Niederlande durch Reichsminister Seldte.
+Found
+MODSMD_ARTICLE09: Deutsche Kriegsehrenmale in Holland enthüllt.
+Found
+MODSMD_ARTICLE10: Die deutsche KdF.-Flotte verläßt Neapel.
+Found
+MODSMD_ARTICLE11: Luxemburgs neues Kabinett.
+Found
+MODSMD_ARTICLE12: Schweden will seine Unabhängigkeit wahren.
+Found
+MODSMD_ARTICLE13: Besprechungen König Carols mit Benesch und Hodscha.
+Found
+MODSMD_ARTICLE14: Ein bezeichnendes Glückwunschtelegramm.
+Found
+MODSMD_ARTICLE15: „Die Volksfrontpolitik führt Zum Bürgerkrieg."
+Found
+MODSMD_ARTICLE16: Englischer Ueberwachungs-Flottmstützpunkt aufgegeben.
+Found
+MODSMD_ARTICLE17: Der König von Griechenland in England eingetroffen.
+Found
+MODSMD_ARTICLE18: Metaxas rechnet mit dem Kommunismus ab.
+Found
+MODSMD_ARTICLE19: Moskauer Jubiläumsparade.
+Found

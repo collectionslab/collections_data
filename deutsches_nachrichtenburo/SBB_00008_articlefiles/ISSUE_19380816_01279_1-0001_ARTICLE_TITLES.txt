@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Staatssekretär Dr. Antal bei Staatssekretär Hanke.
+Found
+MODSMD_ARTICLE02: Reichsjustizminister Dr. Gürtner über Ehescheidungsrechr.
+Found
+MODSMD_ARTICLE03: 550 italienische Arbeiter-Urlauber in Hamburg.
+Found
+MODSMD_ARTICLE04: Holland spricht von einem „Sprung über den Ozean".
+Found
+MODSMD_ARTICLE05: Die Nordstaaten fordern erneut volle Neutralität.
+Found
+MODSMD_ARTICLE06: Englands Ausrüstung zur Lust.
+Found
+MODSMD_ARTICLE07: England baut Torpedomotorboote.
+Found
+MODSMD_ARTICLE08: Neuer britischer Botschafter in Moskau.
+Found
+MODSMD_ARTICLE09: Peinlicher Zwischenfall in London.
+Found
+MODSMD_ARTICLE10: Ungarns Interessen an der Seite Deutschlands und Italiens.
+Found
+MODSMD_ARTICLE11: Wichtige bolschewistische Stellungen überwunden.
+Found
+MODSMD_ARTICLE12: Die Wahlen zum Saudschak-Parlameut am 30. August.
+Found
+MODSMD_ARTICLE13: Erbitterter Kleinkrieg in Palästina.
+Found
+MODSMD_ARTICLE14: Wieder ein Araber in Jerusalem erschossen.
+Found
+MODSMD_ARTICLE15: Das Stacheldrahtverhau fertiggestellt.
+Found
+MODSMD_ARTICLE16: Ueberwachungsmaßnahmen in Schanghai gemildert.
+Found
+MODSMD_ARTICLE17: Kommunisten unter ministeriellem Schutz.
+Found

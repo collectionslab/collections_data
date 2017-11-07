@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Hohe Auszeichnung durch den Führer.
+Found
+MODSMD_ARTICLE02: Telegrammwechsel des Führers mit Dr. Tiso.
+Found
+MODSMD_ARTICLE03: England will seinen Terror auf den Balkan ausdehnen.
+Found
+MODSMD_ARTICLE04: „Englands Außenhandel ist zum Stillstand gekommen."
+Found
+MODSMD_ARTICLE05: Zwei holländische Dampfer vermißt.
+Found
+MODSMD_ARTICLE06: Liste der völlig Unfähigen.
+Found
+MODSMD_ARTICLE07: Englische Zweifel an der Wirksamkeit der Blockade.
+Found
+MODSMD_ARTICLE08: Starke Beachtung der Sowjetnote in der italienischen Presse.
+Found
+MODSMD_ARTICLE09: Der Oberste Sowjet einberufen.
+Found
+MODSMD_ARTICLE10: Gefängnis für einen Neutralen in Frankreich.
+Found
+MODSMD_ARTICLE11: Bewaffneter englischer Frachter im Hafen von Istanbul.
+Found
+MODSMD_ARTICLE12: Britisches Kampfflugzeug im Atlantik gesunken.
+Found

@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Stabschef Lutze über die Reichswettkämpse der SA.
+Found
+MODSMD_ARTICLE02: Feierlicher Auftakt zu den Reichswettkämpsen.
+Found
+MODSMD_ARTICLE03: Die Jahrestagung des DAJ.
+Found
+MODSMD_ARTICLE04: Die Vorfälle in Graz planmäßig vorbereitet.
+Found
+MODSMD_ARTICLE05: Dampfer im Nebel zusammengestoßen.
+Found
+MODSMD_ARTICLE06: Verhaftung fremder Staatsangehöriger in Sowjetrußland. Schritt der Deutschen Botschaft in Moskau.
+Found
+MODSMD_ARTICLE07: Bolschewistisches Benzmschiff versenkt.
+Found
+MODSMD_ARTICLE08: Was die Bombardierung der „Mongioia" bezweckte.
+Found
+MODSMD_ARTICLE09: Belagerungszustand über Schanghai.
+Found

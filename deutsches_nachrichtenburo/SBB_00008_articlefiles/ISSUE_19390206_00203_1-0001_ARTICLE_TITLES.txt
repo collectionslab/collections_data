@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Um die Lösung der kroatischen Frage.
+Found
+MODSMD_ARTICLE02: Den Giftmischern der Weltpresse ins Stammbuch.
+Found
+MODSMD_ARTICLE03: Die Warschauer Universitiitsassistenten schließen Juden aus.
+Found
+MODSMD_ARTICLE04: Herrwt kandidiert nicht.
+Found
+MODSMD_ARTICLE05: Haussuchung bei einer korsischen Zeitung.
+Found
+MODSMD_ARTICLE06: Groteske Zustände an der französisch-spanischen Grenze.
+Found
+MODSMD_ARTICLE07: Tie spanischen Kunstschätze aus französischem Gebiet.
+Found
+MODSMD_ARTICLE08: 25 000 Quadratkilometer in 40 Tagen erobert.
+Found
+MODSMD_ARTICLE09: Senator Berard beim Grafen lordana.
+Found
+MODSMD_ARTICLE10: Gerona atmet auf.
+Found
+MODSMD_ARTICLE11: Nascher Vormarsch an der Küste.
+Found
+MODSMD_ARTICLE12: Erweiterung des Staatsschutzgesetzes in Prag.
+Found
+MODSMD_ARTICLE13: Standrecht über ganz Ungarn.
+Found
+MODSMD_ARTICLE14: Der Papst empfing den rumänischen Botschafter.
+Found
+MODSMD_ARTICLE15: Streik beim Aufbau der britischen Industrie-Ausstellung.
+Found
+MODSMD_ARTICLE16: Sir Henry Deterding gestorben.
+Found
+MODSMD_ARTICLE17: Neue Bluturteile des sibirischen Kriegsgerichts.
+Found

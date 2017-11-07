@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Vormittags-Ausgah^ Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Braunschweig erstes deutsches Lehr, Zentrum für Luftfahrt.
+Found
+MODSMD_ARTICLE03: Fahnenübergabe an Truppenteile der Ostmark.
+Found
+MODSMD_ARTICLE04: Alle Studiendarlehen für Juden gekündigt.
+Found
+MODSMD_ARTICLE05: Deutsches Arbeitsamt und Deutsche Reichshilfe in Prag.
+Found
+MODSMD_ARTICLE06: Besuch Pirows in Brüssel beabsichtigt.
+Found
+MODSMD_ARTICLE07: Grünspan vor dem Untersuchungsrichter.
+Found
+MODSMD_ARTICLE08: Daladier greift durch.
+Found
+MODSMD_ARTICLE09: Allgemeiner Streik in Valenciennes.
+Found
+MODSMD_ARTICLE10: Moskaus Hetze klar erkannt.
+Found
+MODSMD_ARTICLE11: Sechs Araber ließen 3669 Engländer stürmen.
+Found
+MODSMD_ARTICLE12: Der Glienicker Frauenmörder hingerichtet.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Arbeitseinsatz von Maurern und Zimmerern.
+Found
+MODSMD_ARTICLE02: Der ehemalige Großherzog von Hessen gestorben.
+Found
+MODSMD_ARTICLE03: Vor der Einweihung der Nordmark-Feierstätte.
+Found
+MODSMD_ARTICLE04: Politische Rede Dr. Schuschniggs.
+Found
+MODSMD_ARTICLE05: Verhaftungen in Prag.
+Found
+MODSMD_ARTICLE06: Hodscha über die Zusammenarbeit im Donauraum.
+Found
+MODSMD_ARTICLE07: „Corriere della Sera" gegen die Heuchler.
+Found
+MODSMD_ARTICLE08: Italien soll Zum Sündenbock gemacht werden.
+Found
+MODSMD_ARTICLE09: China nimmt Einladung Zur Neunmächte-KonefrenZ an.
+Found
+MODSMD_ARTICLE10: Die Kennzahl der Großhandelspreise vom K. Oktober.
+Found

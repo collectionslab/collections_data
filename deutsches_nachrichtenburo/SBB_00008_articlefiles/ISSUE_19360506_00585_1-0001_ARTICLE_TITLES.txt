@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Dr. Clauß Zum Oberregierungsrat ernannt.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Der Bürgermeister von Athen in Dresden.
+Found
+MODSMD_ARTICLE04: General Milch über die deutsche Luftfahrt.
+Found
+MODSMD_ARTICLE05: Keine englische Initiative in Rom.
+Found
+MODSMD_ARTICLE07: Verstärkter Zeitungsumfang in Italien.
+Found
+MODSMD_ARTICLE08: Leiter des britischen Roten Kreuzes in Addis Abeba f.
+Found
+MODSMD_ARTICLE09: Diskonterhöhung der Bank von Frankreich um 1 v. H.
+Found
+MODSMD_ARTICLE10: Herriot will nicht Ministerpräsident werden?
+Found
+MODSMD_ARTICLE11: Jnformationsflug Gamelins und Pichots.
+Found
+MODSMD_ARTICLE12: Eine Erklärung von Gil Nobles.
+Found
+MODSMD_ARTICLE13: Landarbeiterunruhen in der Wojewodina.
+Found
+MODSMD_ARTICLE14: Die Bereinigung der Phönix-Affäre in Rumänien.
+Found
+MODSMD_ARTICLE15: Verstärkte Streikbewegung in Nordgriechenland.
+Found
+MODSMD_ARTICLE16: Die englisch-sowjetrussischen Seerüstungsverhandlungen.
+Found
+MODSMD_ARTICLE17: Der arabische Streikausschuß beim Hohen Kommissar.
+Found
+MODSMD_ARTICLE18: Der arabische Standpunkt zum Streik in Palästina.
+Found
+MODSMD_ARTICLE19: Erhöhte Rnstungsmaßnahmen in Kanada und Australien.
+Found
+MODSMD_ARTICLE20: Das neue Agrarreformgesetz in Paraguay verabschiedet.
+Found

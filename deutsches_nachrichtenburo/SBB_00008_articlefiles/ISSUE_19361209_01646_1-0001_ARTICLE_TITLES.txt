@@ -1,0 +1,22 @@
+MODSMD_ARTICLE02: Beginn des Mordprozesscs Frankfurter.
+Found
+MODSMD_ARTICLE03: Die Gerichtsstätte.
+Found
+MODSMD_ARTICLE04: Die Verhandlung beginnt.
+Found
+MODSMD_ARTICLE05: Der Mörder Gustlofss vor den Richtern.
+Found
+MODSMD_ARTICLE06: Die Anklage»
+Found
+MODSMD_ARTICLE08: Der Strasantrag.
+Found
+MODSMD_ARTICLE09: Das Urteil gegen den jüdischen Volksverderber Sega!!.
+Found
+MODSMD_ARTICLE10: Schwerer Flugzeugunfall in England.
+Found
+MODSMD_ARTICLE11: Zum Absturz eines französischen Flugzeuges bei Madrid.
+Found
+MODSMD_ARTICLE12: Der Bischof von Detroit warnt vor den Kommunisten.
+Found
+MODSMD_ARTICLE13: Ausnahmezustand in Brasilien soll verlängert werden.
+Found

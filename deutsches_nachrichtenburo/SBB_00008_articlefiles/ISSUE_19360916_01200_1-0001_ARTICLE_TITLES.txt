@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ein italienischer Goethepreis.
+Found
+MODSMD_ARTICLE02: Die 450 Hitlerjungen in Padua.
+Found
+MODSMD_ARTICLE03: Das polnisch-italienische Wirtschaftsabkommen.
+Found
+MODSMD_ARTICLE04: Der polnische linanzminister gegen Wirtschaftsexperimente.
+Found
+MODSMD_ARTICLE05: Schwere Zusammenstöße in Lüttich.
+Found
+MODSMD_ARTICLE06: Strcikterror in Lille.
+Found
+MODSMD_ARTICLE07: Unglaubliche Vorfälle im französischen Streikgebiet.
+Found
+MODSMD_ARTICLE08: Politische Schlägerei in Lyon.
+Found
+MODSMD_ARTICLE09: Ter französische Textilarbeiterstreik dehnt sich weiter aus.
+Found
+MODSMD_ARTICLE10: Der neue Schlichtungsversuch Blums.
+Found
+MODSMD_ARTICLE11: Meinungsverschiedenheiten zwischen Blum und Delbos?
+Found
+MODSMD_ARTICLE12: Anschlag gegen die Führer der Madrider Regierung?
+Found
+MODSMD_ARTICLE13: Die Lage in Malaga.
+Found
+MODSMD_ARTICLE14: „Pester Lloyd" zur Konserenz der Kleinen Entente.
+Found
+MODSMD_ARTICLE15: Die Ergänzungswahlen zum dänischen Landsting.
+Found
+MODSMD_ARTICLE16: Wahlergebnis im Staate Maine.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Mädelarbeitsdienst auf 56 066 Maiden erweitert.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels vor der Führerschaft des Gaues Groß-Berlin.
+Found
+MODSMD_ARTICLE03: Französische Frontkämpfer in Nürnberg.
+Found
+MODSMD_ARTICLE04: Chamberlain über seinen Empfang in Deutschland.
+Found
+MODSMD_ARTICLE05: Erklärung Chamberlains über seinen Besuch beim Führer«
+Found
+MODSMD_ARTICLE06: Konrad Henlein in Eger.
+Found
+MODSMD_ARTICLE07: Wieder Usbertritt slowakischer Soldaten ins Reich.
+Found
+MODSMD_ARTICLE08: Teufliche Absichten der Tschechen.
+Found
+MODSMD_ARTICLE09: Zwangsweise Oeffnung der Ladengeschäfte in Eger.
+Found
+MODSMD_ARTICLE10: SdK. stellt tschechische Tendenzmeldung richtig.
+Found
+MODSMD_ARTICLE11: Deutsche Sozialdemokraten verraten ihre Volksgenossen.
+Found

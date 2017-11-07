@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Abreise General Oschimas aus Berlin.
+Found
+MODSMD_ARTICLE02: Auch dafür darf sich Schweden bei England bedanken.
+Found
+MODSMD_ARTICLE03: Kurze Kontrolldauer in Deutschland.
+Found
+MODSMD_ARTICLE04: Genugtuung über den Moskauer Protest.
+Found
+MODSMD_ARTICLE05: Telegrammwechsel Molotow—Cernius.
+Not Found
+MODSMD_ARTICLE06: England spürt den Krieg täglich stärker.
+Found
+MODSMD_ARTICLE07: „Deutschland absolut unbesiegbar."
+Found
+MODSMD_ARTICLE08: Verheerende Auswirkung des Krieges auf Frankreich.
+Found
+MODSMD_ARTICLE09: Der Rückgang des britischen Außenhandels.
+Found
+MODSMD_ARTICLE11: Protest gegen Englands imperialistischen Krieg.
+Found
+MODSMD_ARTICLE12: Der erste Lazarettzug mit britischen „Frontkämpfern".
+Found
+MODSMD_ARTICLE13: Griechische Schiffe nur bis Lissabon.
+Found
+MODSMD_ARTICLE14: Englisches Jubelgeschrei löst in der Türkei Befremden aus.
+Found
+MODSMD_ARTICLE15: Die neue iranische Regierung.
+Found
+MODSMD_ARTICLE16: Roosevelts Neutralitätsvorlage vom Senat angenommen.
+Found
+MODSMD_ARTICLE17: Die Verluste der britischen Flotte.
+Found
+MODSMD_ARTICLE18: Washington öffnet das „Loch im Norden".
+Found

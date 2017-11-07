@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Münchener Ereignisse im Rundfunk.
+Found
+MODSMD_ARTICLE02: Lutze regelt Verleihung des SA.-Sportabzeichens.
+Found
+MODSMD_ARTICLE03: Schau des Gaststätten- und Beherbergungsgewerbes eröffnet.
+Found
+MODSMD_ARTICLE04: Reichsausstellung für Nahrungs- und Genustmittel.
+Found
+MODSMD_ARTICLE05: Kurhessische Ausstellung „Volk an der Arbeit" eröffnet.
+Found
+MODSMD_ARTICLE06: Der Herzog von Aosta in London.
+Found
+MODSMD_ARTICLE07: Die großen Wehrmachtsmanöver.
+Found
+MODSMD_ARTICLE08: Neue rätselhafte Explosion in Paris.
+Found
+MODSMD_ARTICLE09: Frankreichs Presse zum Verschwinden der Zarengenerale.
+Found
+MODSMD_ARTICLE10: General Skoblins Frau in Paris verhaftet.
+Found
+MODSMD_ARTICLE11: Die Eroberung von Paoting.
+Found

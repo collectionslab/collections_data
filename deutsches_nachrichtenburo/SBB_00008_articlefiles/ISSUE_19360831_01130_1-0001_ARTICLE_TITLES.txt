@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Verlegung der Deutschen Votschaft nach Alicante.
+Found
+MODSMD_ARTICLE02: Verzeichnis der deutschen diplomatischen und konsularischen Vertretungen.
+Found
+MODSMD_ARTICLE03: Einweihung der „Neuland-Halle" im Adolf Hitler-Koog.
+Found
+MODSMD_ARTICLE04: Chinesischer Besuch im Mnnchener Rathaus»
+Found
+MODSMD_ARTICLE05: Dr. Goebbels vor der Deutschen Kolonie in Venedig.
+Found
+MODSMD_ARTICLE06: London und die neue Terrorwelle in Sowjetrußland.
+Found
+MODSMD_ARTICLE07: Streik der britischen Flugzeugwerke.
+Found
+MODSMD_ARTICLE08: O'Duffy für die spanischen Nationalisten.
+Found
+MODSMD_ARTICLE09: Erfolge der Nationalisten.
+Found
+MODSMD_ARTICLE10: Diplomatische Anregungen in Madrid.
+Found
+MODSMD_ARTICLE11: Rydz-Smigly am Grabmal des Unbekannten Soldaten.
+Found
+MODSMD_ARTICLE12: Ukrainische Organisation in Wolhynien aufgelöst.
+Found
+MODSMD_ARTICLE13: Die „Queen Mary" gewinnt das blaue Band.
+Found
+MODSMD_ARTICLE14: Die Fluggäste der „Horsa" auf den Bahrein-Inseln.
+Found
+MODSMD_ARTICLE15: Neue Heimsuchung Südkoreas durch einen Wirbelsturm.
+Found

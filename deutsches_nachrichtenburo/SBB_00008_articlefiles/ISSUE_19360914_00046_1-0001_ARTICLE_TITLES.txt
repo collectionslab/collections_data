@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Parteitag der Ehre.
+Found
+MODSMD_ARTICLE02: Der Dank des Führers.
+Found
+MODSMD_ARTICLE03: Ein Abend in der Zeltstadt der 80 000.
+Found
+MODSMD_ARTICLE04: Der Lichtdom über dem Zeppelinfeld.
+Found
+MODSMD_ARTICLE05: Die ausländischen Attaches nach Nürnberg abgereist.
+Found
+MODSMD_ARTICLE06: Die Reichsbahn beförderte 950 000 Personen nach Nürnberg.
+Found
+MODSMD_ARTICLE07: Dr. Rajniß über Nürnberg.
+Found
+MODSMD_ARTICLE08: „Popolo di Nolna" zum Aufmarsch der Hitlerjugend.
+Found

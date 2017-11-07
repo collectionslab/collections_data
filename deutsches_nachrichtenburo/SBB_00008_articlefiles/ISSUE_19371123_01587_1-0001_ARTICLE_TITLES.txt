@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Besuch der ungarischen Gäste auf einem Erbhof.
+Found
+MODSMD_ARTICLE02: Budapest zum Besuch der ungarischen Staatsmänner.
+Found
+MODSMD_ARTICLE03: Paris: „Die Brüsseler Konferenz ist tot".
+Found
+MODSMD_ARTICLE04: Bolschewiken-Schiff vor Valencia in die Luft geflogen.
+Found
+MODSMD_ARTICLE05: Castelnau: „Francs sorgt für Friede und Ordnung".
+Found
+MODSMD_ARTICLE06: Französischer Ministerrat unter Vorsitz Lebruns.
+Found
+MODSMD_ARTICLE07: Halifax beim König.
+Found
+MODSMD_ARTICLE08: „Daily Telegraph" zur „Reinigungsaktion" Stalins.
+Found
+MODSMD_ARTICLE09: „Es genügt nicht, den Kommunismus nur abzulehnen".
+Found
+MODSMD_ARTICLE10: Juden und Verbrecher Hand in Hand.
+Found
+MODSMD_ARTICLE11: General Sawada zur Lage in Fernost.
+Found
+MODSMD_ARTICLE12: Die Spannung in Beirut dauert an.
+Found

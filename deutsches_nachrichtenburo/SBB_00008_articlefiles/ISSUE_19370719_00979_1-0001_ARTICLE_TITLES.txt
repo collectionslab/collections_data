@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an den Herzog von Coburg.
+Found
+MODSMD_ARTICLE02: Reste des Luftschiffes „Hindenburg" in Hamburg.
+Found
+MODSMD_ARTICLE03: Die deutsche Arbeitsdienst-Abordnung bei König Boris.
+Found
+MODSMD_ARTICLE04: Neue Härten im Kouitzer Prozeß.
+Found
+MODSMD_ARTICLE05: Ein Attentatsversuch auf Oberst Koc.
+Found
+MODSMD_ARTICLE06: Das jugoslawische Konkordat mit dem Vatikan.
+Found
+MODSMD_ARTICLE07: Der nationale Heeresbericht vom Sonntag.
+Found
+MODSMD_ARTICLE08: Feiger bolschewistischer Bombenangriff.
+Found
+MODSMD_ARTICLE09: Rundfunkansprache General Francas.
+Found
+MODSMD_ARTICLE10: Franco ruft die 19jährigen zu den Waffen.
+Found
+MODSMD_ARTICLE11: „England schuldet Franco Dank und Anerkennung".
+Found
+MODSMD_ARTICLE12: Amerikanische Staatsschuld um 3 Milliarden gestiegen.
+Found
+MODSMD_ARTICLE13: Ein japanisches Ultimatum.
+Found
+MODSMD_ARTICLE14: Tokio dringt auf beschleunigte Regelung.
+Found
+MODSMD_ARTICLE15: Chinesischer Protest gegen japanische Fliegerangriffe.
+Found
+MODSMD_ARTICLE16: Wiederaufleben des Banditenunwesens in Mandschukuo.
+Found

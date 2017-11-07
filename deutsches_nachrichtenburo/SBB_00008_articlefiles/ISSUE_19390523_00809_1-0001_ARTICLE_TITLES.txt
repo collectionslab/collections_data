@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der jugoslawische Kultusminister bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Die Schirmherren des Internationalen Weinbaukongresses.
+Found
+MODSMD_ARTICLE03: Verbesserung der bäuerlichen Wohnverhältnisse.
+Found
+MODSMD_ARTICLE04: Deutsch-Niederländische Zusammenarbeit.
+Found
+MODSMD_ARTICLE05: Kaiser Wilhelm-Gesellschaft errichtet neue Institute.
+Found
+MODSMD_ARTICLE06: Letzte Einladung zur Zusammenarbeit.
+Found
+MODSMD_ARTICLE07: Notwendiges Verteidigungsinstrument gegen die Demokratie.
+Found
+MODSMD_ARTICLE08: Englisch-Polnisches Kohlenabkommen unverändert.
+Found
+MODSMD_ARTICLE09: Bombenfurcht beim Derby.
+Found
+MODSMD_ARTICLE10: Englische Marine Luftwaffe untersteht künftig Admiralität.
+Found
+MODSMD_ARTICLE11: Königin Wilhelmine in Brüssel eingetroffen.
+Found
+MODSMD_ARTICLE12: Eine Abfuhr für Kommunisten.
+Found
+MODSMD_ARTICLE13: Bulgarien: Beitrag für den gerechten Frieden.
+Found
+MODSMD_ARTICLE14: Paris hat Angst vor der Paktpleite.
+Found
+MODSMD_ARTICLE15: Türkischer Staatshaushalt ausgeglichen.
+Found

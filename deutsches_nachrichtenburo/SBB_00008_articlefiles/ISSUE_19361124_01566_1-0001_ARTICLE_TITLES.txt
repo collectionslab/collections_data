@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Amtstracht bei den deutschen Verwaltungsgerichten.
+Found
+MODSMD_ARTICLE02: Tie Sondertagungen des Neichsbanerntages.
+Found
+MODSMD_ARTICLE03: Nüst beglückwünscht Professor Bier.
+Found
+MODSMD_ARTICLE04: Tagung der Reichsarbeiiskammer.
+Found
+MODSMD_ARTICLE05: Das Echo zur Sowjetkomödie von Nowosibirsk.
+Found
+MODSMD_ARTICLE06: Die neue englische Anfrage an Franca.
+Found
+MODSMD_ARTICLE07: Antikommunistische Kundgebung in Wien.
+Found
+MODSMD_ARTICLE09: Zwei Kammer-Sitzungen in Paris.
+Found
+MODSMD_ARTICLE10: Der „Volksfrontgruß" vom Marineminister verboten.
+Found
+MODSMD_ARTICLE11: Admiral von Horthy in Rom.
+Found
+MODSMD_ARTICLE12: Der rumänische Außenminister nach Warschau abgereist.
+Found
+MODSMD_ARTICLE13: Keine Abwertung in der Türkei.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Tie Besichtigungsreise Dorpmüllers beendet.
+Found
+MODSMD_ARTICLE02: Zwecklügen!
+Found
+MODSMD_ARTICLE03: Wieder 30 ermordete Volksdeutsche aufgefunden!
+Found
+MODSMD_ARTICLE04: Wachablösung im faschistischen Italien.
+Found
+MODSMD_ARTICLE05: Die Preissteigerungen in England.
+Found
+MODSMD_ARTICLE06: „England unter Papier begraben."
+Found
+MODSMD_ARTICLE07: Indien erneut vergewaltigt!
+Found
+MODSMD_ARTICLE08: Heldenehrung in Belgrad.
+Found
+MODSMD_ARTICLE09: „Frankreich wartet, bis die englischen Truppen vorn sind."
+Found
+MODSMD_ARTICLE10: Abkühlung, der russisch-türkischen Beziehungen.
+Found
+MODSMD_ARTICLE11: General Smuts sucht Kanonenfutter für England.
+Found
+MODSMD_ARTICLE12: Japan: „Einseitige Unterstützung der Demokratien."
+Found

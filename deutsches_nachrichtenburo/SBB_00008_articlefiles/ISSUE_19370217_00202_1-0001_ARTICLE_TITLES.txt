@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Frontkämpfer beim Stellvertreter des Führers.
+Found
+MODSMD_ARTICLE02: Dr. Ley und Präsident Cianetti sprechen zur Jugend.
+Found
+MODSMD_ARTICLE03: Einmischung trotz der Londoner Beschlüsse?
+Found
+MODSMD_ARTICLE04: Der italienische Begnadigungserlaß.
+Found
+MODSMD_ARTICLE05: Englische und französische Kriegsschiffe in Lissabon.
+Found
+MODSMD_ARTICLE06: Sowjetrussisch-spanische Schiffstransporte.
+Found
+MODSMD_ARTICLE07: Die Auseinandersetzungen unter Spaniens Bolschewisten. –
+Not Found
+MODSMD_ARTICLE08: England hilft den Flüchtlingen in Almeria.
+Found
+MODSMD_ARTICLE09: Bolschewistische Wühlarbeit im englischen Heere.
+Found
+MODSMD_ARTICLE10: Drei britische Zerstörer zusammengestoßen.
+Found
+MODSMD_ARTICLE11: Pariser Ministerrat zum Nichteinmischungsabkommen.
+Found
+MODSMD_ARTICLE12: Eine Generalinspektion der Luftstreitkräfte in Frankreich.
+Found
+MODSMD_ARTICLE13: Uhrmacher in Besancon streiken.
+Found
+MODSMD_ARTICLE14: Regierungsumbildung in Guatemala.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ciano wieder in Rom.
+Found
+MODSMD_ARTICLE02: Jialchn begrüßt es, daß ein Italiener Papst wurde.
+Found
+MODSMD_ARTICLE03: Rundfunkbotschaft des neuen Papstes.
+Found
+MODSMD_ARTICLE04: Der deutsche Heldengedenktag in England.
+Found
+MODSMD_ARTICLE05: „Daily Expreß": „Gebt die deutschen Kolonien zurück!"
+Found
+MODSMD_ARTICLE06: 12 Millionen Briten sollen im Ernstfall evakuiert werden.
+Found
+MODSMD_ARTICLE07: Von der Palästinakonferenz.
+Found
+MODSMD_ARTICLE08: Die „Schutztruppe des Judentums" marschiert auf!
+Found
+MODSMD_ARTICLE09: Petains Mitarbeiter.
+Found
+MODSMD_ARTICLE10: Ist das mit der Anerkennung Francas vereinbar?
+Found
+MODSMD_ARTICLE11: Saraeoglu über seine Balkanreise.
+Found
+MODSMD_ARTICLE12: Wieder ein Opfer des jüdischen Mordterrors.
+Found
+MODSMD_ARTICLE13: Erfolgreiche japanische Säuberungsaktion in Nordchina.
+Found
+MODSMD_ARTICLE14: Roosevelt gab nach.
+Found
+MODSMD_ARTICLE15: Bittere Pillen für Roosevelt.
+Found
+MODSMD_ARTICLE16: Ter Korruptionssumpf in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE17: Ein neuer Fall von „Redefreiheit" in USA.
+Found

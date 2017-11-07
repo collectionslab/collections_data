@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Bluthund Grazynski brachte sich in Sicherheit.
+Found
+MODSMD_ARTICLE02: Volksdeutsche Geiseln als Kugelfang!
+Found
+MODSMD_ARTICLE03: Ausländische Zwecklügen Zurückgewiesen.
+Found
+MODSMD_ARTICLE04: Furchtbare Schreckensherrschaft in Warschau.
+Found
+MODSMD_ARTICLE05: Geheimnis des Selbstmordes von Oberst Slawek gelüftet.
+Found
+MODSMD_ARTICLE06: Die große Zahl der Militärflüchtlinge aus Polen.
+Found
+MODSMD_ARTICLE07: Rom über das Ergebnis des Polenfeldzuges.
+Found
+MODSMD_ARTICLE08: Oslo: Polen war nur ein Vorwand.
+Found
+MODSMD_ARTICLE09: Madrid: Fortführung des Kampfes ist Verbrechen.
+Found
+MODSMD_ARTICLE10: Anschlag auf die Englische Botschaft in Warschau.
+Found
+MODSMD_ARTICLE11: „Courageous" sank in 29 Minuten.
+Found
+MODSMD_ARTICLE12: „Alex von Opstal" nicht von Deutschen torpediert.
+Found
+MODSMD_ARTICLE13: Belgische Maßnahmen zur Lebensmittelversorgung.
+Found
+MODSMD_ARTICLE14: Fortschreitende Befriedung Moskau—Tokio.
+Not Found
+MODSMD_ARTICLE15: Uruguay gegen die englische Bloackadeliste.
+Found
+MODSMD_ARTICLE16: Gegen die unverantwortliche Kriegstreiberei.
+Found

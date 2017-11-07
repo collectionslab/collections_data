@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Reichsminister Ruft in Reichenberg.
+Found
+MODSMD_ARTICLE02: Seyß-Jnqnart über die Aufgaben der Ostmark.
+Found
+MODSMD_ARTICLE03: Wiedereröffnung der Bergbauschule in Leoben.
+Found
+MODSMD_ARTICLE04: Aufbau an den sudetendeutschen Hochschulen.
+Found
+MODSMD_ARTICLE05: 29 999 Italiener siedeln in Libyen.
+Found
+MODSMD_ARTICLE06: Italien verbietet Eröffnung jüdischer Geschäfte.
+Found
+MODSMD_ARTICLE07: Abschluß des Vvlta-Kongreß in Rom.
+Found
+MODSMD_ARTICLE08: Französische Demarche in Rom.
+Found
+MODSMD_ARTICLE09: Starke Gegensätze bei den Verhandlungen in Komorn.
+Found
+MODSMD_ARTICLE10: Aus dem tschechischen Ministerrat.
+Found
+MODSMD_ARTICLE11: Neubesetzung im Berwaltuugskörper der Slowakei.
+Found
+MODSMD_ARTICLE12: Völkische Erneueruugsbeweguug in der Karpatho-Ukraiue.
+Found
+MODSMD_ARTICLE13: Karpatho-ukraiuische Regierung in Uzhorod freudig begrüßt.
+Found
+MODSMD_ARTICLE14: Neue polnische Maßnahme im Olsa Gebiet.
+Found
+MODSMD_ARTICLE15: Auswärtiger Ausschuß beriet München er Abkommen.
+Found
+MODSMD_ARTICLE16: Leopold 111. am Grabe des Unbekannten Soldaten in Paris.
+Found
+MODSMD_ARTICLE17: Der englische Lustmarschall wieder in Paris.
+Found
+MODSMD_ARTICLE18: „England muß die notwendigen Opfer bringen".
+Found
+MODSMD_ARTICLE19: Der Neichswirtschaftsmimster in Sofia.
+Found
+MODSMD_ARTICLE20: Feuerüberfall auf britische Polizeistatiouen.
+Found

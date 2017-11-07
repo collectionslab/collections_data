@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Großdeutschlands Feiertag.
+Found
+MODSMD_ARTICLE02: Herzliche Glückwunschartikel in der oberitalienischen Presse.
+Found
+MODSMD_ARTICLE03: Ungarns Presse würdigt das Werk Adolf Hitlers.
+Found
+MODSMD_ARTICLE04: Die spanische Presse feiert den Führer.
+Found
+MODSMD_ARTICLE05: London zu den Berliner Gebnrtstagskundgebungen.
+Found
+MODSMD_ARTICLE06: Finnland: „Geistiger Erneuerer des deutschen Volkes."
+Found
+MODSMD_ARTICLE07: Der estnische Besuch in Warschau.
+Found
+MODSMD_ARTICLE08: Außenminister Bonnet vor dem Kammerausschuß.
+Found
+MODSMD_ARTICLE09: Die Pariser Presse zur Katastrophe der „Paris".
+Found
+MODSMD_ARTICLE10: Die Hauptkriegstreiber: Die jüdischen Freunde Stalins.
+Found
+MODSMD_ARTICLE11: Roosevelt überschlägt sich vor Wut.
+Found
+MODSMD_ARTICLE12: Kriegsmaterial nur gegen Barzahlung.
+Found
+MODSMD_ARTICLE13: Bereitet Smuts neue „Polizeimaßuahmm" vor.
+Found

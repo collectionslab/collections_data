@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Goebbels an Hans Weidemann.
+Found
+MODSMD_ARTICLE02: Einstellung von Freiwilligen in die Luftwaffe.
+Found
+MODSMD_ARTICLE03: Englische Juristen in Bremen.
+Found
+MODSMD_ARTICLE04: „Internationaler Verband Wissenschaftlicher Astrologen".
+Found
+MODSMD_ARTICLE05: Die Pressepvlemik zwischen Prag und Warschau.
+Found
+MODSMD_ARTICLE06: Ein „Weltkongreß für den Frieden".
+Found
+MODSMD_ARTICLE07: Titulescu fährt nach St. Moritz.
+Found
+MODSMD_ARTICLE08: Tie „Times" über die kommunistische Taktik.
+Found
+MODSMD_ARTICLE09: Volksfrontkundgebung in Paris.
+Found
+MODSMD_ARTICLE10: Sympathiestreik französischer Rüstungsarbeiter.
+Found
+MODSMD_ARTICLE11: Rote Fahnen in Ajaccio verboten.
+Found
+MODSMD_ARTICLE12: Jrun nach dem Sturm.
+Found
+MODSMD_ARTICLE13: Goldbesitz in Katalonien verboten.
+Found
+MODSMD_ARTICLE14: „Tote Seelen" in der sowjetrussischen Sozialversicherung.
+Found
+MODSMD_ARTICLE15: Zehntausend Mann Verstärkung für Palästina.
+Found
+MODSMD_ARTICLE16: Revolution in Honduras?
+Found
+MODSMD_ARTICLE17: Hinrichtung in Hannover.
+Found

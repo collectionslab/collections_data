@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Sozialismus der Tat erneut bekundet.
+Found
+MODSMD_ARTICLE02: Professor Landen im Braunen Haus.
+Found
+MODSMD_ARTICLE03: Auslieferung eines Mörders aus der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE04: Judentum und Marxismus Ziehen an einem Strang!
+Found
+MODSMD_ARTICLE05: Das Organ Becks zur Judenfrage.
+Found
+MODSMD_ARTICLE06: Gafeneu zum Außenminister Rumäniens ernannt.
+Found
+MODSMD_ARTICLE07: Politische Weihnachtsruhe in Jugoslawien.
+Found
+MODSMD_ARTICLE08: Litauische Oppositionspolitiker festgenommen."
+Found
+MODSMD_ARTICLE09: Londons Presse zu den Kabinettsumbildungs-Gerüchten.
+Found
+MODSMD_ARTICLE10: Protestfchrei eines Franzofen.
+Found
+MODSMD_ARTICLE11: Mobilgarde in Senegambien.
+Found
+MODSMD_ARTICLE12: Doriot Zur politischen Lage.
+Found
+MODSMD_ARTICLE13: Norwegen führt Arbeitslosenversicherung ein.
+Found
+MODSMD_ARTICLE14: Tie japanische Presse zur Erklärung Aritas.
+Found
+MODSMD_ARTICLE15: Ergebnislose Aussprache Togo—Finkelstein.
+Found
+MODSMD_ARTICLE16: Transjordanier von! Engländern ermordet?
+Found
+MODSMD_ARTICLE17: Niemand will die Juden haben!
+Found
+MODSMD_ARTICLE18: Unruhen in der argentinischen Stadt Cordoba.
+Found
+MODSMD_ARTICLE19: Vollstreckung eines Todesurteils.
+Found

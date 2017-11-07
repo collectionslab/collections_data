@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Führer in Augsburg.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels bei Reichsverweser von Horthy.
+Found
+MODSMD_ARTICLE03: Zwischenlandung von Dr. Goebbels in Belgrad.
+Found
+MODSMD_ARTICLE04: Einstimmige Annahme des deutsch-litauischen Vertrages.
+Found
+MODSMD_ARTICLE05: Prag zu Neuraths und Hachas Erklärungen.
+Found
+MODSMD_ARTICLE06: Sitzung des Ausschusses der Nationalen Volksgemeinschaft.
+Found
+MODSMD_ARTICLE07: Der Briefwechsel Ciano—Fran^ois-Poncet.
+Not Found
+MODSMD_ARTICLE08: Das „Deutsche Haus" in Florenz eingeweiht.
+Found
+MODSMD_ARTICLE09: Mailand zu Daladiers Rede.
+Found
+MODSMD_ARTICLE10: Die Liga der Geschlagenen.
+Found

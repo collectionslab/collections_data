@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dr. Dietrich über die Kriegsaufgaben der Zeitschriften.
+Found
+MODSMD_ARTICLE02: Britische Seeleute strafen W. C. Lügen.
+Found
+MODSMD_ARTICLE03: Der Neimsall der Osusky «ud Genosse«.
+Found
+MODSMD_ARTICLE04: W. C. lügt das Blaue vom Himmel herunter.
+Found
+MODSMD_ARTICLE05: „Ein schwerer Fehler".
+Found
+MODSMD_ARTICLE06: Churchill zur Vernichtung des Zerstörers „Exmoiith".
+Found
+MODSMD_ARTICLE07: Englandfahrt Todesfahrt.
+Found
+MODSMD_ARTICLE08: Bekräftigung der bulgarisch-jugoslawischen Freundschaft.
+Found
+MODSMD_ARTICLE09: „Frieden das ständige Ziel."
+Found
+MODSMD_ARTICLE10: Törichte Illusionen eines Unterhausmitgliedes.
+Found
+MODSMD_ARTICLE11: England mißachtet den Protest Japans.
+Found
+MODSMD_ARTICLE12: Englands Uebergriffe im amerikanischen Senat.
+Found

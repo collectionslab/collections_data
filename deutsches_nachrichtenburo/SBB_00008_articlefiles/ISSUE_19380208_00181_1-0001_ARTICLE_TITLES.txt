@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Empfang für Dr. Mehner im Auswärtigen Amt.
+Found
+MODSMD_ARTICLE02: Ein Ehrentag des Generals von Lettow-Vorbeck.
+Found
+MODSMD_ARTICLE03: Reichsbcamteusöhrer Neef aus Rom abgereist»
+Found
+MODSMD_ARTICLE04: Polnische Zeitungen in Tanzig beschlagnahmt.
+Found
+MODSMD_ARTICLE05: Würdigung von Ribbeutrops in der polnischen Presse.
+Found
+MODSMD_ARTICLE06: Polenreise der deutschen Eisenbahnerabordnuna beendet.
+Found
+MODSMD_ARTICLE07: Der polnische Außenminister bei Horthy.
+Found
+MODSMD_ARTICLE08: Polnische Presse widerlegt Pariser Lügen.
+Found
+MODSMD_ARTICLE09: Moskau beginnt mit Massenumsiedlungen.
+Found
+MODSMD_ARTICLE10: „Schützt uns Hegen die organisierte Sowjetspionage!"
+Found
+MODSMD_ARTICLE11: Sachliche Pressestimmen in Belgien.
+Found
+MODSMD_ARTICLE12: Die Sprachenfrage in Belgien.
+Found
+MODSMD_ARTICLE13: Warnungen an die falsche Adresse.
+Found
+MODSMD_ARTICLE14: Das Steigen der Arbeitslosigkeit in England.
+Found
+MODSMD_ARTICLE15: Immer wieder neue Streiks in Frankreich.
+Found
+MODSMD_ARTICLE16: Weisungen für die französische Ueberwachungsflotte.
+Found
+MODSMD_ARTICLE17: Prinz Nikolaus von Griechenland f.
+Found
+MODSMD_ARTICLE18: Der Bukarester Sowjet-Geschäftsträger verschwunden.
+Found
+MODSMD_ARTICLE19: 13 Tote beim Absturz eines Sowjet-Luftschffes.
+Found
+MODSMD_ARTICLE20: Japanische Würdigung der Aufbauarbeit Adolf Hitlers.
+Found
+MODSMD_ARTICLE21: Gegen die Drahtzieher des großen UTA.-Seemannsst.reiks.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Glückwünsche an den Führer zum Nationalen Feiertag.
+Found
+MODSMD_ARTICLE02: Funk besichtigte die Ausstellung für Leistungssteigerung.
+Found
+MODSMD_ARTICLE03: Aufruf zur Werbewoche für das Deutsche Jugendherbergswerk
+Found
+MODSMD_ARTICLE04: Die deutsch-litauischen Wirtschaftsbesprechungen.
+Found
+MODSMD_ARTICLE05: Die belgischen GrenZsicherungsmaßnahmen.
+Found
+MODSMD_ARTICLE06: „Unabhängigkeitspolitik in voller Souveränität".
+Found
+MODSMD_ARTICLE07: „Bruch gegebener Versprechen."
+Found
+MODSMD_ARTICLE08: Geringer Erfolg der Freiwilligenwerbung in England.
+Found
+MODSMD_ARTICLE09: Schärfster Protest de Valeras gegen die Wehrpflicht.
+Found
+MODSMD_ARTICLE10: Italiens Realitäten gegen das französische Geschwätz.
+Found
+MODSMD_ARTICLE12: Generaloberst von Branchitsch in Tripolis.
+Found
+MODSMD_ARTICLE13: Bericht über den Stand der Einkreisungsverhandlungen.
+Found
+MODSMD_ARTICLE14: Anstrengungen Moskaus um die Bolschewisierung Chinas.
+Found
+MODSMD_ARTICLE15: Rumänischer Vorstoß in der Kriegsschuldensrage.
+Found

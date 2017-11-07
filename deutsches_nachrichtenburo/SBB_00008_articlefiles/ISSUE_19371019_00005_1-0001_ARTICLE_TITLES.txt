@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Spendenliste Nr. 4 vom 12. Oktober 1937.
+Found
+MODSMD_ARTICLE02: Spendenliste Nr. 5 vom 14. Oktober 1937.
+Found
+MODSMD_ARTICLE03: Spendenliste Nr. k vom 16. Oktober 1937.
+Found

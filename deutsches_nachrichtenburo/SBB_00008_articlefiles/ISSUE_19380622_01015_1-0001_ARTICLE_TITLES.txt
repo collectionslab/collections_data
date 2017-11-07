@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Arbeitstagung der Gauwirtschaftsberater.
+Found
+MODSMD_ARTICLE02: Der Reichsführer SS. in der Ostmark.
+Found
+MODSMD_ARTICLE03: Trier ehrt die Alte Garde.
+Found
+MODSMD_ARTICLE04: 030 Träger des Goldenen Ehrenzeichens,
+Found
+MODSMD_ARTICLE05: Sonnwendfeier der deutschen Polizei in Lüdeck.
+Found
+MODSMD_ARTICLE06: Generaloberst von Brauchitsch in Wiener Neustadt.
+Found
+MODSMD_ARTICLE07: Dr. Lammers sprach über den Führerstaat.
+Found
+MODSMD_ARTICLE08: Sonnwendfeiern der Sudetendeutschen.
+Found
+MODSMD_ARTICLE09: „Aufreizende Langsamkeit der Prager Verhandlungen".
+Found
+MODSMD_ARTICLE10: Besuch deutscher Schriftleiter in Ungarn.
+Found
+MODSMD_ARTICLE11: Keine Aenderung der britischen Spanienpolitik.
+Found
+MODSMD_ARTICLE12: Französischer Optimismus in der Spanienfrage.
+Found

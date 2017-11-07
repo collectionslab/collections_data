@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Jahressitzung der Hindenburg Spende.
+Found
+MODSMD_ARTICLE02: Die Kulturpreise der SA. vergeben.
+Found
+MODSMD_ARTICLE03: Staatspräsident Dr. Hacha empfängt deutsche Rektoren.
+Found
+MODSMD_ARTICLE04: Polnische Betrachtung zum Besuch Cianos.
+Found
+MODSMD_ARTICLE05: Syrien ein zweites Tunis?
+Found
+MODSMD_ARTICLE06: Das neue Kabinett Pierlot gebildet.
+Found
+MODSMD_ARTICLE07: Nationalspanischer Gesandter in Bern.
+Found
+MODSMD_ARTICLE08: Die roten Verbrecher werden immer dreister.
+Found
+MODSMD_ARTICLE09: Der „Figaro" zu den Reisen Staatssekretär Hudspns.
+Found
+MODSMD_ARTICLE10: Die Araber lassen nicht locker.
+Found
+MODSMD_ARTICLE11: Große Empörung in der arabischen Welt.
+Found
+MODSMD_ARTICLE12: Unaufhörliche Demonstrationen für Mardam Bey.
+Found
+MODSMD_ARTICLE13: Japanische Bomber über Lantschau.
+Found
+MODSMD_ARTICLE14: Japaner sperren Schiffsverkehr mit der Taitschau-Bncht.
+Found
+MODSMD_ARTICLE15: Isidor Greenbamn der New Aorker Attentäter! .
+Found
+MODSMD_ARTICLE16: „Regierung Roosevelt unfähig zum Wirtschaftsanfschwung."
+Found

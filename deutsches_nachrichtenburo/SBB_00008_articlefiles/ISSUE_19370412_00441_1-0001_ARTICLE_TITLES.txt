@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Minister Ruft eröffnet die Olympia-Ausgrabungen.
+Found
+MODSMD_ARTICLE02: Der griechische Kultusminister dankt dem Führer.
+Found
+MODSMD_ARTICLE03: Neichsmimster Ruft Ehrenbürger von Olympia.
+Found
+MODSMD_ARTICLE04: Reichsminister Dr. Goebbels besichtigt den Aufbau der Ausstellung „Gebt mir vier Jahre Zeit!"
+Not Found
+MODSMD_ARTICLE05: Der Reichssportführer zum Dankopfer der Nation.
+Found
+MODSMD_ARTICLE06: Dr. Lippert überreicht Sven Hedin Ehrenplakette.
+Found
+MODSMD_ARTICLE07: Antikommunistische Stellungnahme des Kantons Genf.
+Found
+MODSMD_ARTICLE08: Neue Bestätigung des Neutralitätsbruches durch Moskau.
+Found
+MODSMD_ARTICLE09: Der Fakir von Jpi ruft zum „Heiligen Krieg" auf.
+Found
+MODSMD_ARTICLE10: Japan richtet eine Oberste Luftfahrtbehörde ein.
+Found
+MODSMD_ARTICLE11: 3 : 3 im Hockey-Länderspiel Deutschland—Frankreich.
+Not Found

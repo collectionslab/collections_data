@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Aufruf Dr. Goebbels' zum 9. November.
+Found
+MODSMD_ARTICLE02: Flaggen heraus!
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Sven Hedin beim Neichsstatthalter in Bayern.
+Found
+MODSMD_ARTICLE05: Generaldirektor Dr. Dorpmüller in Paris.
+Found
+MODSMD_ARTICLE06: Der sichere Bau der deutsch-italienischen Zusammenarbeit.
+Found
+MODSMD_ARTICLE08: Englisch-italienische Wirtschaftsabkommen.
+Found
+MODSMD_ARTICLE09: Die Entwicklung der englisch-italienischen Beziehungen.
+Found
+MODSMD_ARTICLE10: Dementierte Pariser Besuche»
+Found
+MODSMD_ARTICLE11: Mandin über die Politik der Demokratischen Vereinigung.
+Found
+MODSMD_ARTICLE12: Eine Richtigstellung.
+Found
+MODSMD_ARTICLE13: Französischer Bericht über die Olympischen Spiele.
+Found
+MODSMD_ARTICLE14: Französische Flugzeugindustrie soll schneller arbeiten.
+Found
+MODSMD_ARTICLE15: Aussperrung der streikenden Elektromonteure in Paris.
+Found
+MODSMD_ARTICLE16: Portugals Ministerpräsident übernimmt Außenministerium.
+Found
+MODSMD_ARTICLE17: Blutige Auseinandersetzungen unter den Noten.
+Found
+MODSMD_ARTICLE18: Madrid annektiert die Nachrichtenagentur Fabra.
+Found
+MODSMD_ARTICLE19: Marokkanische Elitetruppen gegen Katalonien.
+Found
+MODSMD_ARTICLE20: Rücktritt der albanischen Negierung.
+Found

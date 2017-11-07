@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ernennungen im Kirchen-Ministerium.
+Found
+MODSMD_ARTICLE02: Präsident Pietzsch vor der IHK.
+Found
+MODSMD_ARTICLE03: Die Ausschußsitzungen des IHK-Kongresses.
+Found
+MODSMD_ARTICLE04: Dr. Schacht an die ausgezeichneten Persönlichkeiten der IHK.
+Found
+MODSMD_ARTICLE05: Englische Frontkämpfer im Berliner Rathaus.
+Found
+MODSMD_ARTICLE06: Eröffnung der Ausstellung „Das Theater im Freien".
+Found
+MODSMD_ARTICLE07: Oesterreichische Arbeiter als Sklaven eines Ziegeleijuden.
+Found
+MODSMD_ARTICLE08: Doriot Ehrenbürgermeister von St. Denis.
+Found
+MODSMD_ARTICLE09: England und Frankreich und der Nichteinmischungsplan.
+Found
+MODSMD_ARTICLE10: Attentat auf irisches Freiheitskämpfergrabmal.
+Found
+MODSMD_ARTICLE11: Generalfeldmarschall von Blomberg wieder in Budapest.
+Found
+MODSMD_ARTICLE12: Weitere 4 Milliarden für die Armee der Weltrevolution.
+Found
+MODSMD_ARTICLE13: Deutscher Erfolg bei dem Wiener Musikwettbewerb.
+Found

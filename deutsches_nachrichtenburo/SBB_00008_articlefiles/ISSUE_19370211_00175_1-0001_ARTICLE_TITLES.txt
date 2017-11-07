@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm des Führers an Papst Pius XI.
+Found
+MODSMD_ARTICLE02: Bohle als Auslauds-Organisationschef im A. A. vereidigt.
+Found
+MODSMD_ARTICLE03: Ernennung im Reichsinnenmimster'mm.
+Found
+MODSMD_ARTICLE04: Regelung des Warenverkehrs Deutschland—Tschechoslowakei.
+Not Found
+MODSMD_ARTICLE05: Jedem Rumänen seine Gasmaske.
+Found
+MODSMD_ARTICLE06: KommunistenraMa in Warschau.
+Found
+MODSMD_ARTICLE07: Der Streik in Kowno dehnt sich aus.
+Found
+MODSMD_ARTICLE08: Bewegung gegen Kommunismus in der Schweiz.
+Found
+MODSMD_ARTICLE09: Streik in nordfranzösischen Steingutwerken.
+Found
+MODSMD_ARTICLE10: Aenderung der französischen Goldpolitik?
+Found
+MODSMD_ARTICLE11: Frankreichs Wirtschaftsminister über die Preissteigerung.
+Found
+MODSMD_ARTICLE12: „Mobilmachung" in Katalonien.
+Found
+MODSMD_ARTICLE13: Bestürzung unier den spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE14: Italiens Botschafter in Salamanca.
+Found
+MODSMD_ARTICLE15: Neue sowjetrussische Einmischung.
+Found
+MODSMD_ARTICLE16: Ehrung italienischer Journalisten.
+Found
+MODSMD_ARTICLE17: Jüdische Rauschgiftschmuggler dmafest gemacht.
+Found
+MODSMD_ARTICLE18: Thronrede des Königs von Albanien.
+Found
+MODSMD_ARTICLE19: Die Belgrader „Politika" gegen Jorga.
+Found
+MODSMD_ARTICLE20: Flugzeugabsturz im Schneetreiben über Berlin.
+Found
+MODSMD_ARTICLE21: Vollstreckung von Todesurteilen.
+Found

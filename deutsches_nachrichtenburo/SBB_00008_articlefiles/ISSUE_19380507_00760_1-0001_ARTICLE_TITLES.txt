@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Das Nächtliche' Fest in Rom.
+Not Found
+MODSMD_ARTICLE03: Sonnabend Tag der italienischen Wehrmacht.
+Found
+MODSMD_ARTICLE04: Japanische Telegramme an den Führer und den Duce.
+Found
+MODSMD_ARTICLE05: Dr. Miletitsch beim bayerischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE06: Deutsche Ordensauszeichnung für estnische Minister.
+Found
+MODSMD_ARTICLE07: Dr. Ley auf den Frankfurter Handwerker-Ausstellungen.
+Found
+MODSMD_ARTICLE08: Die Steuerschulden des Juden Mandl.
+Found
+MODSMD_ARTICLE09: Ueberfall auf deutsche Studenten in Prag.
+Found
+MODSMD_ARTICLE10: Tschechisches Militär gegen Sudetendeutsche.
+Found
+MODSMD_ARTICLE11: Die Parole Henleins für die Gemeindewahlen.
+Found
+MODSMD_ARTICLE12: Die Stadt Asch feierte Henleins Geburtstag.
+Found
+MODSMD_ARTICLE13: Belgisch-französische Währungsverhandlungen.
+Found

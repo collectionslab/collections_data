@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Goebbels an Gustaf Grundgens.
+Found
+MODSMD_ARTICLE02: Dank der Reichsregierung an Holland.
+Found
+MODSMD_ARTICLE03: Wieder zwei Reichsdeutsche in Leningrad verhaftet.
+Found
+MODSMD_ARTICLE04: Zum „Tag der nationalen Solidarität".
+Found
+MODSMD_ARTICLE05: Der Herzog von Aosta in Berlin.
+Found
+MODSMD_ARTICLE06: Baldur von Schirach über das neue Jugendgesetz.
+Found
+MODSMD_ARTICLE08: Am Dienstag Trauerfeier für Ortsgruppenleiter Jansen.
+Found
+MODSMD_ARTICLE09: Staatsschubgesetz vom Schweizer Bundesrat angenommen.
+Found
+MODSMD_ARTICLE10: Die „Neue Basler Zeitung" zur Berufung Prof. Gerlachs.
+Found
+MODSMD_ARTICLE11: „Jntransigeant" über die Krise der Volksfront.
+Found
+MODSMD_ARTICLE12: Staatspräsident Svinhufbud überparteilicher Kandidat.
+Found
+MODSMD_ARTICLE13: Mongolenerklärung zum chinesisch mongolischen Konflikt.
+Found
+MODSMD_ARTICLE14: Gemeindewahlen in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE15: 358 V Zeppelin-Fahrgäste in diesem Jahr.
+Found
+MODSMD_ARTICLE16: Sowjetrussischer Petroleumzug verbrannt.
+Found

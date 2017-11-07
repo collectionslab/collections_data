@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Das Fest der Deutschen Kunst.
+Found
+MODSMD_ARTICLE02: Göring dankt der Gefolgschaft Salzgitter.
+Found
+MODSMD_ARTICLE03: Generalfeldmarschall Göring besichtigt die Wasserstraßen.
+Found
+MODSMD_ARTICLE04: Immer stärkere Zusammenarbeit der Achsenmächte.
+Found
+MODSMD_ARTICLE05: Einkreisungskredite schädigen Englands Handelspartner.
+Found
+MODSMD_ARTICLE06: Deutsche Torpedoboote besuchen Riga.
+Found
+MODSMD_ARTICLE07: Sinnlose britische Grausamkeiten in Palästina.
+Found
+MODSMD_ARTICLE08: Amerikas Staatsschuld wächst sprunghaft.
+Found
+MODSMD_ARTICLE09: Todesurteil vollstreckt.
+Found
+MODSMD_ARTICLE10: Kennzahl der Großhandelspreise vom 12. Juli.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Künstlerempfang beim Führer in Bayreuth.
+Found
+MODSMD_ARTICLE02: Wohltätigkeitskonzert in Bayreuth.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Deutschlandfahrt ausländischer Forststudenten.
+Found
+MODSMD_ARTICLE05: „Das Deutsche Stadion" im Reichsparteitaggelände.
+Found
+MODSMD_ARTICLE06: Anerkennung der deutschen Fernseh-Leistungen.
+Found
+MODSMD_ARTICLE07: Abrechnung der englischen Presse mit der Sowjetregierung.
+Found
+MODSMD_ARTICLE08: Der Londoner Flottenvertrag von 1936 in Kraft.
+Found
+MODSMD_ARTICLE09: Schweres Eisenbahnunglück in der Nähe von Paris.
+Found
+MODSMD_ARTICLE10: Sühne für den Anschlag auf Botschafter de Chambrun.
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht vom Donnerstag.
+Found
+MODSMD_ARTICLE12: Millionen Zentner Getreide verfaulen in Sowjetrußland.
+Found
+MODSMD_ARTICLE13: Englische Vorstellungen in Tokio.
+Found
+MODSMD_ARTICLE14: Tschiangkaischek für territoriale Unversehrtheit Chinas.
+Found
+MODSMD_ARTICLE15: Nanking unterstützt die 29. Armee.
+Found

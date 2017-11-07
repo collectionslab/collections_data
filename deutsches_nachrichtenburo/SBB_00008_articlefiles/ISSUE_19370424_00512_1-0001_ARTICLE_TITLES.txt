@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: General von Kuhlwein l'.
+Found
+MODSMD_ARTICLE02: Ernennung im NSNK.
+Found
+MODSMD_ARTICLE03: Sicherung der Tariflöhne.
+Found
+MODSMD_ARTICLE04: Die Beamten helfen den deutschen Spanienflüchtlingen.
+Found
+MODSMD_ARTICLE05: Statssekretär Schmidt über das Ergebnis von Venedig.
+Found
+MODSMD_ARTICLE06: Daladier besucht Marokko.
+Found
+MODSMD_ARTICLE07: Der Druck der Gewerkschaften auf die Regierung Blum.
+Found
+MODSMD_ARTICLE08: Die Sozialpartei erklärt sich mit de la Rocque solidarisch.
+Found
+MODSMD_ARTICLE09: Die Hotelbesitzer wehren sich gegen 49-Stnnden-Woche.
+Found
+MODSMD_ARTICLE10: Marxistisch verhetzte Streikende überfallen Arbeiter.
+Found
+MODSMD_ARTICLE11: 3 englische Minister über das englische Rüstungsprogramm.
+Found
+MODSMD_ARTICLE12: „Times" über die allgemeine wirtschaftliche Befriedung.
+Found
+MODSMD_ARTICLE13: Streikunruhen in Bialystok.
+Found
+MODSMD_ARTICLE14: Chilenischer Protest bei den Bolschewisten von Valencia.
+Found
+MODSMD_ARTICLE15: Abschiedsaudienz Luthers bei Präsident Roosevelt.
+Found
+MODSMD_ARTICLE16: Die Hetze der Lewis-Bonzen geht weiter.
+Found
+MODSMD_ARTICLE17: Neue englische Maßnahmen an der indischen Nordwestgrenze.
+Found
+MODSMD_ARTICLE18: Hungersnot in Nordost-SZetschuan.
+Found

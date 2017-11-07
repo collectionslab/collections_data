@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer spricht auf der Heldengedenkfeier.
+Found
+MODSMD_ARTICLE02: Ernennungen im Reichsministerinm des Innern.
+Found
+MODSMD_ARTICLE03: Glückwünsche der Reichsregiernug an Molotow.
+Found
+MODSMD_ARTICLE04: Der Kriegsausdehnungswillen der Westmächte.
+Found
+MODSMD_ARTICLE05: Hohe Auszeichnungen für Molotow.
+Found
+MODSMD_ARTICLE06: Italiens Presse Zu Ribbentrops Besuch in Rom.
+Found
+MODSMD_ARTICLE07: Kingsley Woods Angestellte sind unzufrieden.
+Found
+MODSMD_ARTICLE08: Die Streikbewegung in Irland greift um sich.
+Found
+MODSMD_ARTICLE09: Englands Kohlenproduktion stark im Rückgang.
+Found
+MODSMD_ARTICLE10: Starke Erhöhung des rumänischen Staatshaushalts.
+Found
+MODSMD_ARTICLE11: Die Verluste des spanischen Heeres im Bürgerkrieg.
+Found
+MODSMD_ARTICLE12: Fliegeraufklärung über England und Frankreich.
+Found
+MODSMD_ARTICLE13: Erbitterter Kampf um die Wiborger Bucht.
+Found
+MODSMD_ARTICLE14: „Baltic Times" widerlegt bösartige Gerüchte.
+Found
+MODSMD_ARTICLE15: Vollstreckung eines Todesurteils.
+Found

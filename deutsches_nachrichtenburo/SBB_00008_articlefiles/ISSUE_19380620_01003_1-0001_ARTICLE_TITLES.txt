@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Rumäniens Arbeitsminister besucht die DAF.
+Found
+MODSMD_ARTICLE02: Admiral a. D. Günther von Krosigk gestorben.
+Found
+MODSMD_ARTICLE03: SdP.-Bürgermeister in allen sudetendeutschen Städten.
+Found
+MODSMD_ARTICLE04: Prager Verlautbarung über die Nationalitätenfrage.
+Found
+MODSMD_ARTICLE05: Die Deutschen Südmährens bekennen sich zu Heulern.
+Found
+MODSMD_ARTICLE06: Tschechische Soldateska kühlt ihr Mütchen.
+Found
+MODSMD_ARTICLE07: Wüste Ausschreitungen betrunkener tschechischer Soldaten.
+Found
+MODSMD_ARTICLE08: Wieder Streik in englischem Rüstungsbetrieb.
+Found
+MODSMD_ARTICLE09: Die italienische Abordnung für den deutschen Studententag.
+Found
+MODSMD_ARTICLE10: Will Paris Barcelona mit Gold versorgen?
+Found
+MODSMD_ARTICLE11: Französischer Beamtenstreik vertagt.
+Found
+MODSMD_ARTICLE12: Wilde Hinrichtungen in Barcelona.
+Found
+MODSMD_ARTICLE13: „Wilhelm Gustloff" in Lissabon.
+Found
+MODSMD_ARTICLE14: Aegypten gründet eine Kriegsmarine.
+Found
+MODSMD_ARTICLE15: Werkbesetzungen auch in Französisch-Marokko.
+Found
+MODSMD_ARTICLE16: Ein Appell der vorläufigen Regierung in Peking.
+Found
+MODSMD_ARTICLE17: Sowjetwaffen für die Chinesen auch über Jndochina?
+Found
+MODSMD_ARTICLE18: Das Hochwasser des Hoangho steigt weiter.
+Found
+MODSMD_ARTICLE19: Italien wieder Fußballweltmeister.
+Found

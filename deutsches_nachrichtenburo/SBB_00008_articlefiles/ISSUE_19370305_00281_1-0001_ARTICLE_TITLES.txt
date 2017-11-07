@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Stabschef Lutze in Wilhelmshaven.
+Found
+MODSMD_ARTICLE02: Warnung vor Preistreibereien in Oesterreich.
+Found
+MODSMD_ARTICLE03: Für deutsch-französische Annäherung.
+Found
+MODSMD_ARTICLE04: Volrsfrontbehörden unterdrücken die Wahrheit.
+Found
+MODSMD_ARTICLE05: Streik im Hafen von Marseille.
+Found
+MODSMD_ARTICLE06: Griechischer Dampfer an Spaniens Küste gesunken.
+Found
+MODSMD_ARTICLE07: Erfolgreiche Luftkämpw
+Found
+MODSMD_ARTICLE08: Immer mehr Ueberläufer stoßen zu den Nationalen.
+Found
+MODSMD_ARTICLE09: Ruhe an allen Fronten. Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE10: Auch England sieht die Gefahr des Volkstodes.
+Found
+MODSMD_ARTICLE11: Neville Chamberlain verteidigt die Regierungspolitik.
+Found
+MODSMD_ARTICLE12: Aegyptens Botschafter zum englisch-ägyptischen Vertrag.
+Found
+MODSMD_ARTICLE13: Labour Party maßgebend in Londons Stadtverwaltung.
+Found
+MODSMD_ARTICLE14: Die Sabotage bei den Midland-Flugzeugwerken.
+Found
+MODSMD_ARTICLE15: Englische Regierung organisiert zivilen Luftschutz.
+Found
+MODSMD_ARTICLE16: Eine Rundfunkrede des Präsidenten Roosevelt.
+Found

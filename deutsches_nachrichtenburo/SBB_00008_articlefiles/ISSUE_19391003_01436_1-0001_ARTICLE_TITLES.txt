@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ernennungen im Reichsministerium des Innern.
+Found
+MODSMD_ARTICLE02: „Ter Kampf des Lichtes gegen die Finsternis."
+Found
+MODSMD_ARTICLE03: Der Duce empfing den Berliner Luftfahrtattache.
+Found
+MODSMD_ARTICLE04: Der Duce für Vertiefung der Beziehungen zu Spanien.
+Found
+MODSMD_ARTICLE05: Die italienischen Vermittlungsbemühungen.
+Found
+MODSMD_ARTICLE06: Aufteilung siziliauischer Latifundien.
+Found
+MODSMD_ARTICLE07: „Die Stunde der Befreiung ist gekommen."
+Found
+MODSMD_ARTICLE08: Litauen: „Nur Deutschland als Sieger."
+Found
+MODSMD_ARTICLE09: Najnisi bewundert die Haltung des deutschen Volkes.
+Found
+MODSMD_ARTICLE10: „Volksstimmung in England und Frankreich für Frieden."
+Found
+MODSMD_ARTICLE11: Stauning über die britische Blockade.
+Found
+MODSMD_ARTICLE12: Veflaggung vom 4.—IV. Oktober!
+Not Found
+MODSMD_ARTICLE13: Neutrale unter Englands Blockadefuchtel.
+Found
+MODSMD_ARTICLE14: Holländischer Minenleger schwer beschädigt.
+Found
+MODSMD_ARTICLE15: „Indien nicht der Verbündete Englands".
+Found
+MODSMD_ARTICLE16: Proteststreik von 5l)lM indischen Arbeitern.
+Found

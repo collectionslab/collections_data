@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Der ausgebliebene Wochenendputsch in Danzig.
+Found
+MODSMD_ARTICLE03: „Die Türkei hat den Boden der Balkan-Entente verlassen."
+Found
+MODSMD_ARTICLE04: Weitere Stärkung des Vertrauens.
+Found
+MODSMD_ARTICLE05: Der Finnland-Besuch General Halders.
+Found
+MODSMD_ARTICLE06: Hier geht es nicht um Lettlands Interessen.
+Found
+MODSMD_ARTICLE07: „Wartungen an die Kriegshetzer und Kriegstreiber".
+Found
+MODSMD_ARTICLE08: Der Aufbau der italienischen Landwirtschaft.
+Found
+MODSMD_ARTICLE09: „Garantie" aber kein Geld.
+Found
+MODSMD_ARTICLE10: In 4 Monaten 19 999 Juden nach Palästina eingewandert.
+Found
+MODSMD_ARTICLE11: Syriens Protest gegen die Schacherpolitik Frankreichs.
+Found
+MODSMD_ARTICLE12: Frankreich bricht erneut den Syrien-Vertrag.
+Found
+MODSMD_ARTICLE13: Vertragsbrüchiges England!
+Found

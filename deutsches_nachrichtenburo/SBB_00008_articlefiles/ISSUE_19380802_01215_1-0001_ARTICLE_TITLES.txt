@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Finnische Minister in Berlin.
+Found
+MODSMD_ARTICLE02: Englische Frontkämpfer im Kölner Rathaus.
+Found
+MODSMD_ARTICLE03: Ausklang der Münchener Renntage.
+Found
+MODSMD_ARTICLE04: Henlein an Gauleiter Wagner.
+Found
+MODSMD_ARTICLE05: Hodscha und Krofta vor dem Koaliti o nsausschust.
+Found
+MODSMD_ARTICLE06: Frankreichs Gesandter bei Hodscha.
+Found
+MODSMD_ARTICLE07: „Em papiernes Produkt, das keine Aenderung herbeiführt".
+Found
+MODSMD_ARTICLE08: Nationalfeiertag in der Schweiz.
+Found
+MODSMD_ARTICLE09: Ungarn verstärkt seinen Flieger-Nachwuchs.
+Found
+MODSMD_ARTICLE10: Der englische Botschafter verliest Rom.
+Found
+MODSMD_ARTICLE11: Internationaler Anthropologen- und Ethnologenkongrest.
+Found
+MODSMD_ARTICLE12: Oberst Beck in Oslo.
+Found
+MODSMD_ARTICLE13: Neue vergebliche bolschewistische Gegenangriffe.
+Found
+MODSMD_ARTICLE14: Hinter der rotspanischen Front kriselt es.
+Found
+MODSMD_ARTICLE16: Verstärkter Luftschutz an der französisch-spanischen Grenze.
+Found
+MODSMD_ARTICLE17: Sir Robert Hodgfon wieder in Spanien.
+Found
+MODSMD_ARTICLE18: Staatspräsident Carmona in Angola.
+Found
+MODSMD_ARTICLE19: Moskau faselt weiter von japanischen Grenzverletzungen.
+Found
+MODSMD_ARTICLE20: Sowjetrussische Bomber erneut über Schangfeng.
+Found
+MODSMD_ARTICLE21: Japanischer Vorstoß in Richtung Hwangmei.
+Found
+MODSMD_ARTICLE22: Nebersiedlung der chinesischen Regierung nach Tschungking-
+Found

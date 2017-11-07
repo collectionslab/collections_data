@@ -1,0 +1,48 @@
+MODSMD_ARTICLE01: „Kein Schritt ohne Slowakei und Karpathen-Ukraine."
+Found
+MODSMD_ARTICLE02: Das Judenproblem in der Slowakei.
+Found
+MODSMD_ARTICLE03: Verwahrung der Zipser Deutschen.
+Found
+MODSMD_ARTICLE04: Tie slowakische Regierung nach Prag geflogen.
+Found
+MODSMD_ARTICLE05: Handgranateniiberfall auf polnisches Gebiet.
+Found
+MODSMD_ARTICLE06: Diplomatengespräche in Warschau und Bukarest.
+Found
+MODSMD_ARTICLE07: Umarbeitung des litauischen Staatsschutzgesetzes.
+Found
+MODSMD_ARTICLE08: Abberufung des Sowjetgesandten in Litauen.
+Found
+MODSMD_ARTICLE09: Der Duce grüßt deutsche Arbeiter.
+Found
+MODSMD_ARTICLE10: Giornale d'Jtalia zum deutschen Kolonialanspruch.
+Found
+MODSMD_ARTICLE11: Deutsche Reisende von einer Judenbande überfallen.
+Found
+MODSMD_ARTICLE12: Paris Zur Halifax-Rede.
+Found
+MODSMD_ARTICLE13: Keine Emigranten mehr in französischen Rundfunksendern.
+Found
+MODSMD_ARTICLE14: Kommune-Revolte in Peru niedergeschlagen.
+Found
+MODSMD_ARTICLE15: Sitzung des englischen Kabinettsausschusses.
+Found
+MODSMD_ARTICLE16: „Das Kalästinamandat an Roosevelt."
+Found
+MODSMD_ARTICLE17: TrnU Stackmniiw nnd
+Found
+MODSMD_ARTICLE18: Ein Vertreter Dänemarks geht nach Burgos.
+Found
+MODSMD_ARTICLE19: Trauerfeier für den Primas von Griechenland.
+Found
+MODSMD_ARTICLE20: Reorganisation des rumänischen Staates.
+Found
+MODSMD_ARTICLE21: Eine Nundfunkansprache des Königs Faruk.
+Found
+MODSMD_ARTICLE22: Begeisterung in Tokio über den Fall Hankaus.
+Found
+MODSMD_ARTICLE23: Japanische Warnung an England.
+Found
+MODSMD_ARTICLE24: 18 Tote bei einem Flugzeugunglück in Australien.
+Found

@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Beitritt Italiens zum Antikominternpakt.
+Found
+MODSMD_ARTICLE02: Zusatzprotokoll zum Abkommen.
+Found
+MODSMD_ARTICLE03: Die Ansprachen bei der Unterzeichnung.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Wechsel in der Leitung der Reichspostdirektion Bremen.
+Found
+MODSMD_ARTICLE06: Die KdF.-Flotte in Neapel eingetroffen.
+Found
+MODSMD_ARTICLE07: Wechsel im österreichischen Generalkonsulat in Danzig.
+Found
+MODSMD_ARTICLE08: Eine Verlautbarung des Herzogs von Windsor.
+Found
+MODSMD_ARTICLE09: „Franco immer mehr Herr der Lage".
+Found

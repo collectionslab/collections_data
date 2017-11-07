@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Italienischer Vorkämpfer der Rassenfrage bei Mussolini.
+Found
+MODSMD_ARTICLE02: „Messaggero" weist unsinnige Gerüchte zurück.
+Found
+MODSMD_ARTICLE03: Ernster Zustand Pater Hlinkas.
+Found
+MODSMD_ARTICLE04: Aufmarsch der polnischen Landjugend vor RydZ-Smigly.
+Found
+MODSMD_ARTICLE05: Der englische Marineminister über seine Ostseefahrt.
+Found
+MODSMD_ARTICLE06: Der Streik im Marseiller Hafen hält an.
+Found
+MODSMD_ARTICLE08: Sowjetspanische Gebirgsstellungen am Ebro erobert.
+Found
+MODSMD_ARTICLE09: Roter Geueralstabschef der Ebro-Front abgesetzt.
+Found
+MODSMD_ARTICLE10: Heimtückischer Kompromittierungsversuch der Roten.
+Found
+MODSMD_ARTICLE11: Neue stellvertretende Volkskommissare in der Sowjetunion.
+Found
+MODSMD_ARTICLE12: Zwischenfall in Schanghai.
+Found
+MODSMD_ARTICLE13: Keine Ruhe um Schangfmg.
+Found
+MODSMD_ARTICLE14: Litwinow-Finkelsteins eigenartige „Beschwerde".
+Found
+MODSMD_ARTICLE15: Neues Heim für die deutsche Schule in Mexiko»
+Found
+MODSMD_ARTICLE16: Argentinien plant Metallausfuhrverbot.
+Found
+MODSMD_ARTICLE17: Araberzeitung „Addiffa" auf drei Wochen verboten.
+Found
+MODSMD_ARTICLE18: Deutsch-Amerikanischer Länderkampf im Olympiastadion.
+Found
+MODSMD_ARTICLE19: Deutscher Sieg in der Coppa Acerbo.
+Found

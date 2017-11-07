@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Die Welt über des Führers Empfang. «Italien.
+Found
+MODSMD_ARTICLE03: England.
+Found
+MODSMD_ARTICLE04: Frankreich.
+Found
+MODSMD_ARTICLE05: Italienischer Straßenbauer Berliner Ehrendoktor.
+Found
+MODSMD_ARTICLE06: Polen.
+Found
+MODSMD_ARTICLE07: Dänemark.
+Found
+MODSMD_ARTICLE08: Ungarn.
+Found
+MODSMD_ARTICLE09: Bnlgaricn.
+Found

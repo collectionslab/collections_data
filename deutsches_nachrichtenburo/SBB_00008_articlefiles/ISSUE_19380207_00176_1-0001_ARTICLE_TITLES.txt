@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Glückwunsch Himmlers an Generalfeldmarschall Göring.
+Found
+MODSMD_ARTICLE02: Staatssekretär Pfundtnet fährt nach Budapest.
+Found
+MODSMD_ARTICLE03: Der Waren- und Zahlungsverkehr Deutschland—Litauen.
+Not Found
+MODSMD_ARTICLE04: Deutsch-polnische Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE05: Generalkonsul Renzetti besucht Königsberg.
+Found
+MODSMD_ARTICLE06: Tagung des Hauptausschusses der Deutschen Volksgruppen.
+Found
+MODSMD_ARTICLE07: Das Auslandsecho der Entscheidungen des Führers.
+Found
+MODSMD_ARTICLE08: Einspruch gegen das polnische Grenzzonengesetz.
+Found
+MODSMD_ARTICLE09: Politische Zwischenfälle bei Klagenfurt.
+Found
+MODSMD_ARTICLE10: Der Vorstoß an der Alfambra-Front dauert an.
+Found
+MODSMD_ARTICLE11: Die Aufbauarbeit in Nationalspanien.
+Found
+MODSMD_ARTICLE12: Die Senats-Ersatzwahlen in Jugoslawien.
+Found
+MODSMD_ARTICLE13: Autobahnen in USA nach deutschem Vorbild.
+Found
+MODSMD_ARTICLE14: Bau eines Nikaragua-Kanals?
+Found
+MODSMD_ARTICLE15: Schutzmaßnahmen für japanische Schiffe in Baltimore.
+Found
+MODSMD_ARTICLE16: Japan: Vorläufig keine 43 000 Tonnen-Schiffe.
+Found

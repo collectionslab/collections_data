@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Das Rnstungsproblem beherrscht die englische Presse.
+Found
+MODSMD_ARTICLE02: London meldet Spannung im Memelgebiet.
+Found
+MODSMD_ARTICLE03: England und der Fall Kantons.
+Found
+MODSMD_ARTICLE04: Die englische Luftaufrüstung.
+Found
+MODSMD_ARTICLE05: Shakespeare gegen Churchill.
+Found
+MODSMD_ARTICLE06: Sirovy über seine außenpolitischen Ziele.
+Found
+MODSMD_ARTICLE07: Sitzung des Prager Zentralministerrats.
+Found
+MODSMD_ARTICLE08: Verfall der Zentralistischen Parteien in der Slowakei.
+Found
+MODSMD_ARTICLE09: Um die Kriegführenden-Rechte.
+Found
+MODSMD_ARTICLE10: Pariser Stimmen zum Fall Kantons.
+Found
+MODSMD_ARTICLE11: Neue „Pläne" der französischen Kommune.
+Found
+MODSMD_ARTICLE12: Die Durchsuchungsaktion in Jerusalem-Altstadt.
+Found
+MODSMD_ARTICLE13: Italienisch-ägyptischer Freundschaftsvertrag?
+Found
+MODSMD_ARTICLE14: Tokios Freude über den Fall Kantons.
+Found
+MODSMD_ARTICLE15: Warum Kanton so schnell siel.
+Found
+MODSMD_ARTICLE16: Die Riesenanfrüstung Amerikas.
+Found
+MODSMD_ARTICLE17: 20 Millionen Pfund für die australische Wehrmacht.
+Found

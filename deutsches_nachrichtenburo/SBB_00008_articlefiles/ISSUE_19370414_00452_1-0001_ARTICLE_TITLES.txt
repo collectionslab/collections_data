@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Adlerschild für Prof. Dr. Koppen.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Frank in Kiel.
+Found
+MODSMD_ARTICLE03: Des ReichsfiuauZmimsters Kopenhagener Rede erntet Beifall»
+Found
+MODSMD_ARTICLE04: Eine Schau deutscher Buchproduktiou in London.
+Found
+MODSMD_ARTICLE05: Das Interesse Englands sür die Reichsautobahnen.
+Found
+MODSMD_ARTICLE06: Der italienische Kronenorden für Dr. Ley.
+Found
+MODSMD_ARTICLE07: Ruft wieder in Athen.
+Found
+MODSMD_ARTICLE08: Polens Ingenieur-Verband beschließt Arierparagraphen.
+Found
+MODSMD_ARTICLE09: Vorstoß der Linken Ungarns gegen die Rechtsbewegung.
+Found
+MODSMD_ARTICLE10: „Dem Anarchismus entgegen".
+Found
+MODSMD_ARTICLE11: Aufstellung eines „GrenZwachkorps" in Italien.
+Found
+MODSMD_ARTICLE12: Der Rücktritt des JustiZministers Bovesse offiziell bekannt.
+Found
+MODSMD_ARTICLE13: Der spanische Heeresbericht vom Dienstag.
+Found
+MODSMD_ARTICLE14: Kühle englische Antwort auf die Beschwerden von Valencia.
+Found
+MODSMD_ARTICLE15: Keelung-Zwischenfall beigelegt.
+Found

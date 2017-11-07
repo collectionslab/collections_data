@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Weihnachtsausprache des Stellvertreters des Führers.
+Found
+MODSMD_ARTICLE02: Glückwunschtelegramm Dr. Fricks an Geheimrat Dr. Abel.
+Found
+MODSMD_ARTICLE03: Freiheit und Freude für ehemalige Kommunisten.
+Found
+MODSMD_ARTICLE04: Das Zusammenleben von Deutschen und Tschechen.
+Found
+MODSMD_ARTICLE05: Chvalkowskys Nachfolger beim Quirinal.
+Found
+MODSMD_ARTICLE06: Zuchthausstrafen gegen Kommunisten in Wolhynien.
+Found
+MODSMD_ARTICLE07: Zurück ins Ghetto!
+Found
+MODSMD_ARTICLE08: Ein Engländer über seine Erfahrungen in Deutschland.
+Found
+MODSMD_ARTICLE09: „Tatsachen, mit denen Frankreich rechnen muß."
+Found
+MODSMD_ARTICLE10: Graf Eiano wieder in Rom.
+Found
+MODSMD_ARTICLE11: Die Hungersnot in Sowjetspanien.
+Found
+MODSMD_ARTICLE12: „Ein Wendepunkt der japanischen China-Politik."
+Found
+MODSMD_ARTICLE13: Mandschukuo unterstreicht die Erklärung Konoes.
+Found
+MODSMD_ARTICLE14: Nationalistenaufstand in Burma.
+Found
+MODSMD_ARTICLE15: Kanada erkennt das italienische Imperium an.
+Found
+MODSMD_ARTICLE16: Eine bezeichnende Verleihung.
+Found
+MODSMD_ARTICLE17: Ein interamerikanischer Gerichtshof?
+Found
+MODSMD_ARTICLE18: Todesurteil an einem Autofallenräuber vollstreckt.
+Found

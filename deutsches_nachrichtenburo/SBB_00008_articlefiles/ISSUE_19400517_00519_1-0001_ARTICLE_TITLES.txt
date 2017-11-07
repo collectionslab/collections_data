@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Mit fremden Augen.
+Found
+MODSMD_ARTICLE02: Fallschirm-Psychose in England.
+Found
+MODSMD_ARTICLE03: Frankreich versucht die Geburtenziffer zu Heden.
+Found
+MODSMD_ARTICLE04: Neue Bombenanschläge in Belfast.
+Found
+MODSMD_ARTICLE05: „Die Pläne der Westmächte völlig Zerstört."
+Found
+MODSMD_ARTICLE06: Wieder große Erfolge der Luftwaffe.
+Found
+MODSMD_ARTICLE07: Englands Textilindustrie nicht mehr exportfähig.
+Found
+MODSMD_ARTICLE08: Es dämmert in London.
+Found
+MODSMD_ARTICLE09: Ministerrat in Bukarest.
+Found
+MODSMD_ARTICLE10: Ueberpriifung des rumänischen Zeitungswesens.
+Found
+MODSMD_ARTICLE11: Britische „Kontrolle" in Gibraltar.
+Found
+MODSMD_ARTICLE12: Fortschritte der Japaner in Mittelchina.
+Found

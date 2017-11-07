@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ein Erlaß zur Bestimmungsmensur.
+Found
+MODSMD_ARTICLE02: Ausländische Aerzte studieren deutsche Heilmethoden.
+Found
+MODSMD_ARTICLE03: 35 WO t-Schlachtschiff „Littorio" vom Stapel gelaufen.
+Found
+MODSMD_ARTICLE04: Wie Frankreich seine Handelsschiffe im Mittelmeer schützt.
+Found
+MODSMD_ARTICLE05: Die französische Preisschraube.
+Found
+MODSMD_ARTICLE06: Der nationale Heeresbericht vom Sonntag.
+Found
+MODSMD_ARTICLE07: Andauernde Erregung in Lissabon über die Haltung Prags.
+Found
+MODSMD_ARTICLE08: Die Urlaubsunterbrechung Chamberlains.
+Found
+MODSMD_ARTICLE09: Neue erhebliche englische Marinerüstungs-Aufträge.
+Found
+MODSMD_ARTICLE10: Moskaus „Trotzkistenverfolgung" fordert neue Opfer.
+Found
+MODSMD_ARTICLE11: Chinesische Angriffe in Schanghai zurückgeschlagen.
+Found
+MODSMD_ARTICLE12: Die japanische Wehrmacht fordert zwei Milliarden Nen.
+Found
+MODSMD_ARTICLE13: Kalgan von japanischen Truppen besetzt.
+Found
+MODSMD_ARTICLE14: Tsingtan-Gebiet von japanischer Bevölkerung geräumt.
+Found
+MODSMD_ARTICLE15: Helium-Vorlage in Amerika angenommen.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Zum Preußischen Staatsrat ernannt.
+Found
+MODSMD_ARTICLE03: Hilfe der Tat durch die NSV.
+Found
+MODSMD_ARTICLE04: Eröffnung der Ausstellung „Bremen Schlüssel zur Welt".
+Found
+MODSMD_ARTICLE05: Tassmari besichtigt eine Neubauerustelle.
+Found
+MODSMD_ARTICLE06: Vorbildlicher Dienst der sudetendeutschen Ordner in Eger.
+Found
+MODSMD_ARTICLE07: Die tschechische Minderheit in Reichenberg einigt sich.
+Found
+MODSMD_ARTICLE08: Ernste Folgen sinnloser Maßnahmen!
+Found
+MODSMD_ARTICLE09: Die römische Presse zur Lage in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE10: Kabinettssitznng in London.
+Found
+MODSMD_ARTICLE11: Chamberlain über Hinweise in Warschau und Budapest.
+Found
+MODSMD_ARTICLE12: Entlastung Codreanus.
+Found
+MODSMD_ARTICLE13: Das ungarische Judengesetz vom Oberhaus angenommen.
+Found
+MODSMD_ARTICLE14: „Gazeta Polska" Zu Judenproblem.
+Found
+MODSMD_ARTICLE15: Atatürk wieder in Ankara.
+Found
+MODSMD_ARTICLE16: Wieder Zusammenstöße zwischen Juden und Arabern.
+Found
+MODSMD_ARTICLE17: Deutsch-japanischer Jugendaustausch.
+Found
+MODSMD_ARTICLE18: Interessanter Fund der brasilianischen Polizei.
+Found

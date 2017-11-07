@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Goebbels Schirmherr der Grabbe-Woche.
+Found
+MODSMD_ARTICLE02: Erfassung militärisch ausgebildeter Wehrpflichtiger älterer Geburtsjahrgänge.
+Found
+MODSMD_ARTICLE03: Aegyptens, und Südafrikas Olympia-Mannschaft in Berlin.
+Found
+MODSMD_ARTICLE04: KdF-Stadt für 50000 Olympia-Gäste.
+Found
+MODSMD_ARTICLE05: Starhemberg wieder in Wien.
+Found
+MODSMD_ARTICLE06: Kein Gesandtenwechsel Litauens in Berlin und Rom.
+Found
+MODSMD_ARTICLE07: Neue Urteile im Franziskaner-Prozeß»
+Found
+MODSMD_ARTICLE08: Blum und Daladier sprechen auf dem Bastilleplatz.
+Found
+MODSMD_ARTICLE09: Die Verringerung der btitischen Mittelmeerflotte.
+Found
+MODSMD_ARTICLE10: Tie Aufhebung der Sanktionen.
+Found
+MODSMD_ARTICLE11: Mexikanisches Blatt zum deutsch-österreichischen Abkommen.
+Found
+MODSMD_ARTICLE12: Schweres Erdbeben an der nordchilenischen Küste.
+Found
+MODSMD_ARTICLE13: Die Leitsätze der Kuomintang-Tagung.
+Found
+MODSMD_ARTICLE14: Bewaffneter Widerstand gegen Nanking?
+Found

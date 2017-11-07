@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Empfang für die griechische Wirtschaftsdelegatiou.
+Found
+MODSMD_ARTICLE02: Kommission für die Technik in der Milchwirtschaft.
+Found
+MODSMD_ARTICLE03: „Arbeit und Disziplin".
+Found
+MODSMD_ARTICLE04: Trauerfeier für Konteradmiral Waßner im Haag.
+Found
+MODSMD_ARTICLE05: Deutsche Abordnung am ungarischen Heldendenkmal.
+Found
+MODSMD_ARTICLE06: Gesandter von Heeren bei Stojadiuowitsch.
+Found
+MODSMD_ARTICLE07: Der Kongreß der großen Nachrichtenbüros.
+Found
+MODSMD_ARTICLE08: Die Stadt Versailles begrüßt die deutschen Jugendführer.
+Found
+MODSMD_ARTICLE09: Die bolschewistische Flüchtlingsinvasion in Frankreich.
+Found
+MODSMD_ARTICLE10: Ein schwimmendes Flüchtlingslager bei Bayonne.
+Found
+MODSMD_ARTICLE11: Pariser Blätter fordern Anerkennung Francos.
+Found
+MODSMD_ARTICLE12: Bisher 6600 MiliZmäuuer Zu den Nationalen übergegangen.
+Found
+MODSMD_ARTICLE13: Eine Deutschland-Straße in Bilbao.
+Found
+MODSMD_ARTICLE14: Anerkennung für die Männer des NSKK. in Schanghai.
+Found
+MODSMD_ARTICLE15: London Zur Verwundung des Botschafters in China.
+Found
+MODSMD_ARTICLE16: Hirota drückt tiefstes Bedauern aus.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Durchführung der ungarischen Judengesetze.
+Found
+MODSMD_ARTICLE02: „Japan wird den Engländern Neutralität aufzwingen."
+Found
+MODSMD_ARTICLE03: Stark gedämpfter Londoner Optimismus.
+Found
+MODSMD_ARTICLE04: Englische Sorgen um „goldene Kugeln".
+Found
+MODSMD_ARTICLE05: England entzog sich seiner Treuhänderschaft!
+Found
+MODSMD_ARTICLE06: Polen unterdrückt die Meinungsfreiheit.
+Found
+MODSMD_ARTICLE07: König Karl in Istanbul.
+Found
+MODSMD_ARTICLE08: Wieder ein Araberjunge ausgepeitscht.
+Found
+MODSMD_ARTICLE09: „Vorsicht mit englischen Nachrichten!"
+Found
+MODSMD_ARTICLE10: USA. kündigt den amerikanisch-japanischen Handelsvertrag.
+Found
+MODSMD_ARTICLE11: „Fernostlage entschieden verändert."
+Found
+MODSMD_ARTICLE12: Amerika will Gegengewicht zum englischen Rückzug schaffen.
+Found
+MODSMD_ARTICLE13: Amerikanische Politiker reisen nach Europa.
+Found
+MODSMD_ARTICLE14: Angeblich „Eindämmung der japanischen Textileinfuhr".
+Found
+MODSMD_ARTICLE15: Japan stellt seine Seeherrschaft sicher.
+Found

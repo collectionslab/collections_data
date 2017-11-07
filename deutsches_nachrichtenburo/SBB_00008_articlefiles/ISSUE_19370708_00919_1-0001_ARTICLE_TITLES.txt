@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Abschluß des Deutschen Historikertages.
+Found
+MODSMD_ARTICLE02: Die Reichstagung des NSD-Dozentenbundes abgeschlossen.
+Found
+MODSMD_ARTICLE03: Polnischer Ministerrat.
+Found
+MODSMD_ARTICLE04: Die ausländischen Filmkongreßteilnehmer bei Lebrun.
+Found
+MODSMD_ARTICLE05: „Meinungsverschiedenheit" zwischen Paris und London.
+Found
+MODSMD_ARTICLE06: Delbos vor dem Außenausschuß des Senats.
+Found
+MODSMD_ARTICLE07: Kammerausschuß warnt die Ministerien.
+Found
+MODSMD_ARTICLE08: Kein Frieden im französischen Hotel- und Gastwirtsgewerbe.
+Found
+MODSMD_ARTICLE09: Nächtliches Feuergefecht in Peiping»
+Found
+MODSMD_ARTICLE10: Streiks und steigende Unzufriedenheit in Frankreich.
+Found
+MODSMD_ARTICLE11: Englisches Handelsschiff vor Santander zurückgerufen.
+Found
+MODSMD_ARTICLE12: Abschluß der polnisch-rumänischen Generalstabskonferenz.
+Found
+MODSMD_ARTICLE13: Der chinesische Finanzminister bei Roosevelt.
+Found

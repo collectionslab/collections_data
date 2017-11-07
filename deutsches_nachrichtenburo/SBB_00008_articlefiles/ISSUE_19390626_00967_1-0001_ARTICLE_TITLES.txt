@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Deutschlandreise italienischer Frontkämpfer.
+Found
+MODSMD_ARTICLE02: Danktelegramm König Karls, an Dr. Ley.
+Found
+MODSMD_ARTICLE03: Großkundgebungen zum Tage des Deutschen Volkstums.
+Found
+MODSMD_ARTICLE04: Im Zeichen der deutsch-slowakischen Freundschaft.
+Found
+MODSMD_ARTICLE05: Nun auch Zerschlagung des deutschen Theaters.
+Found
+MODSMD_ARTICLE06: Deutsche Bewunderung für Bulgariens Aufbau.
+Found
+MODSMD_ARTICLE07: Der ägyptische Außenminister in Bukarest.
+Found
+MODSMD_ARTICLE08: Handelsvertrag zwischen der Sowjetunion und China.
+Found
+MODSMD_ARTICLE09: Zwei schwere Bombenanschläge in London.
+Found
+MODSMD_ARTICLE10: Der Betrug der Westdemokratien in Palästina und Syrien.
+Found
+MODSMD_ARTICLE11: Gegen britische Propaganda im südafrikanischen Rundfunk.
+Found
+MODSMD_ARTICLE12: Australien will eigenen Gesandten nach USA. entsenden.
+Found
+MODSMD_ARTICLE13: Kritik an Roosevelts Außenhandelspolitik.
+Found
+MODSMD_ARTICLE14: La Guardias „Gastfreundschaft".
+Found
+MODSMD_ARTICLE15: Paraguay bestimmt seine Politik selbst!
+Found

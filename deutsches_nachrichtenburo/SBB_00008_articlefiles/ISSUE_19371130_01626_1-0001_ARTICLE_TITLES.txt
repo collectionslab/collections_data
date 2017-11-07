@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ehrungen für Max Halbe in Riga.
+Found
+MODSMD_ARTICLE02: Die italienische Kammer tagte in Anwesenheit Mussolinis.
+Found
+MODSMD_ARTICLE03: Pariser Empfänge für die Frontkämpfer Abordnungen.
+Found
+MODSMD_ARTICLE04: Zwischenfälle im Prozeß de la Rocque.
+Found
+MODSMD_ARTICLE05: Die französische Linkspresse „enthüllt".
+Found
+MODSMD_ARTICLE06: Sowjetspanisches Flugzeug auf französischem Boden zerschellt
+Found
+MODSMD_ARTICLE07: London gegen die Blockadeverfügung Francas.
+Found
+MODSMD_ARTICLE08: England ist beiderseits vertreten.
+Found
+MODSMD_ARTICLE09: Englands Geburtenrückgang.
+Found
+MODSMD_ARTICLE10: Saboteure im eigenen Lager.
+Found
+MODSMD_ARTICLE11: Moskaus altbewährtes Spitzelsystem.
+Found
+MODSMD_ARTICLE12: Kommunisten liefern Kanonenfutter.
+Found
+MODSMD_ARTICLE13: „Tag der Nationalen Solidarität."
+Found
+MODSMD_ARTICLE14: Britische Militärmission für Portugal.
+Found
+MODSMD_ARTICLE15: Neue tschechische Maßnahmen gegen polnische Minderheit.
+Found
+MODSMD_ARTICLE16: Kommunistische Wühler in Polen verurteilt.
+Found
+MODSMD_ARTICLE17: Scharfes Vorgehen gegen kommunistische Hetzer.
+Found
+MODSMD_ARTICLE18: Japan beschließt Anerkennung; Francos.
+Found
+MODSMD_ARTICLE19: Die Japaner ans halbem Wege nach Nanking.
+Found

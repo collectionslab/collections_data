@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Minister Jankowitsch bei Reichsleiter Rosenberg.
+Found
+MODSMD_ARTICLE02: Ter Reichsvcrkehrsminister auf Besichtigungsreise.
+Found
+MODSMD_ARTICLE03: Neuer Kapitän des KdF.-Schiffes „Wilhelm Gnstloff".
+Found
+MODSMD_ARTICLE04: Griechenland zum Olympiafilm.
+Found
+MODSMD_ARTICLE05: „Internationale Akademie für ärztliche Fortbildung."
+Found
+MODSMD_ARTICLE06: Tauswasser kann den Juden nicht ändern!
+Found
+MODSMD_ARTICLE07: Die politischen Ausgaben Polens.
+Found
+MODSMD_ARTICLE08: Tagung der Frontkämpfer Polens.
+Found
+MODSMD_ARTICLE09: Polnischer Ballon zur Landung gezwungen.
+Found
+MODSMD_ARTICLE10: Italien lehnt kommunistische Anbiederungsversuche ab.
+Found
+MODSMD_ARTICLE11: Beschlüsse des französischen Kabinettsrats.
+Found
+MODSMD_ARTICLE12: London protestiert in Moskau.
+Found
+MODSMD_ARTICLE14: Es klappt nicht mit der englischen Lusiausriistung.
+Found
+MODSMD_ARTICLE15: Eine Zurechtweisung.
+Found
+MODSMD_ARTICLE16: Stalins Berfolgungswahllsinn.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Längerer Besuch Königs Boris beim Führer.
+Found
+MODSMD_ARTICLE02: Deutscher Protest in Barcelona.
+Found
+MODSMD_ARTICLE03: Die Tätigkeit der deutschen Seestreitkräfte in Spanien.
+Found
+MODSMD_ARTICLE04: Pakete für die Besatzung der in spanischen Gewässern liegenden deutschen Kriegsschiffe.
+Not Found
+MODSMD_ARTICLE05: Die marxistischen Greueltaten in Malaga.
+Found
+MODSMD_ARTICLE06: Nor dem Angriff der Nationalisten auf Malaga?
+Found
+MODSMD_ARTICLE07: Madrid meldet Erfolge.
+Found
+MODSMD_ARTICLE08: Der Kampf in der Meerenge von Gibraltar.
+Found
+MODSMD_ARTICLE09: Argentinischer Kreuzer nach Spanien entsandt.
+Found
+MODSMD_ARTICLE10: „Giornale d'Jtalia" erläutert die italienische Antwort.
+Found
+MODSMD_ARTICLE11: Die Besprechungen über die Nichteinmischung in Spanien.
+Found
+MODSMD_ARTICLE12: Der Kampf gegen den Kommunismus auch in Belgien.
+Found
+MODSMD_ARTICLE13: Die Grubenkatastrophe in Warncliffe. 57 Todesopfer.
+Found
+MODSMD_ARTICLE14: Acht Tote bei einem Flugzeugabsturz bei St. Louis.
+Found

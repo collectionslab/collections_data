@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Festliche Stunden im Nymphenburger Schloßpark.
+Found
+MODSMD_ARTICLE02: De facto-Anerkennung der Slowakei durch Frankreich.
+Found
+MODSMD_ARTICLE03: Graf Ciano in San Sebastian.
+Found
+MODSMD_ARTICLE04: Ein Mandat gegen jedes Recht verschachert.
+Found
+MODSMD_ARTICLE05: Künstlerempfang beim Führer.
+Found
+MODSMD_ARTICLE06: „Eine gewaltige Salve gegen Großbritannien."
+Found
+MODSMD_ARTICLE07: Neuer britischer Botschafter in Paris.
+Found
+MODSMD_ARTICLE08: Munitionsminister Burgin.
+Found
+MODSMD_ARTICLE09: Tendenziöse Verdrehungen der türkischen Presse.
+Found
+MODSMD_ARTICLE10: Syrien gegen den französischen Sandschakschacher.
+Found

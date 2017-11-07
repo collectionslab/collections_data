@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die großen Wehrmachtsmanöver.
+Found
+MODSMD_ARTICLE02: „Ter Führer hat die deutsche Seele am besten verstanden."
+Found
+MODSMD_ARTICLE03: Kommunistenprozeß deckt bolschewistische Mordtaten auf
+Found
+MODSMD_ARTICLE04: Der Ständerat gegen ein Verbot der Freimaurerei.
+Found
+MODSMD_ARTICLE05: Eden wieder in London.
+Found
+MODSMD_ARTICLE06: Gegen den Mißbrauch der englischen Flagge.
+Found
+MODSMD_ARTICLE07: Die englische Presse begrüßt Italiens Teilnahme.
+Found
+MODSMD_ARTICLE08: Pariser Stimmen Zu Italiens Einschaltung.
+Found
+MODSMD_ARTICLE09: Der nationale Heeresbericht vom Dienstag.
+Found
+MODSMD_ARTICLE10: Der Tunis-Zwischenfall.
+Found
+MODSMD_ARTICLE11: Protest der amerikanischen Regierung.
+Found
+MODSMD_ARTICLE12: Dunkle Absichten chinesischer Geheimagenten.
+Found
+MODSMD_ARTICLE13: Nanking von den Japanern bombardiert.
+Found
+MODSMD_ARTICLE14: 31 chinesische Flugzeuge vernichtet.
+Found
+MODSMD_ARTICLE15: Kanton erneut mit Bomben belegt.
+Found
+MODSMD_ARTICLE16: Die chinesische Rückwanderung aus Japan.
+Found

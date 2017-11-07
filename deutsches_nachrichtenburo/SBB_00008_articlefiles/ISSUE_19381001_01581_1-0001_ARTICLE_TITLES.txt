@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Führer von München abgereist.
+Found
+MODSMD_ARTICLE02: Die Internationale Kommission an der Arbeit.
+Found
+MODSMD_ARTICLE03: Freudenkuadgebungen an der deutsch-französischen Grenze.
+Found
+MODSMD_ARTICLE04: Sudetenland bereitet sich auf den Empfang vor.
+Found
+MODSMD_ARTICLE05: Fahnen und Girlanden in Warnsdorf und Rumburg.
+Found
+MODSMD_ARTICLE06: Bis zur letzten Stunde Tschechenterror. –
+Not Found
+MODSMD_ARTICLE07: Eine Sudetendeuische niedergeschossen.
+Found
+MODSMD_ARTICLE08: Tschechen beschießen ein Krankenhaus.
+Found
+MODSMD_ARTICLE09: Chamberlain erstattet dem König Bericht.
+Found

@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm des Führers an Prinzregent Paul.
+Found
+MODSMD_ARTICLE02: Bromberg genommen.
+Found
+MODSMD_ARTICLE03: Die Lüge um die Schwarze Madonna von Tschenstochau.
+Found
+MODSMD_ARTICLE04: Jugoslawien im Zeichen des 16. Geburtstages des Königs.
+Found
+MODSMD_ARTICLE05: Oberschlesien ist frei.
+Found
+MODSMD_ARTICLE06: Prag: „Unverzeihliche Schuld Englands."
+Found
+MODSMD_ARTICLE07: Belgrad dementiert Teilmobilisierung.
+Found

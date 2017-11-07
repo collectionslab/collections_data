@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Slowakische Rat dankt dem Führer.
+Found
+MODSMD_ARTICLE02: Zahlreiche ungarische Dankesbezeugungen.
+Found
+MODSMD_ARTICLE03: Flüchtlinge hörten den Führer.
+Found
+MODSMD_ARTICLE04: Beratungen auf dem Hradschin.
+Found
+MODSMD_ARTICLE05: Neue tschechische Provokation.
+Found
+MODSMD_ARTICLE06: Wüste Ausschreitungen in Mührisch-Ostrsu.
+Found
+MODSMD_ARTICLE07: Schwere Kämpfe in Tschechisch-Schlesien.
+Found
+MODSMD_ARTICLE08: Polnische Jugendkundgebung in Teschen.
+Found
+MODSMD_ARTICLE09: Eine Erklärung Daladiers.
+Found
+MODSMD_ARTICLE10: „Journal": „Uebergabe vor dem 1. Oktober".
+Found
+MODSMD_ARTICLE11: Frankreichs Lehrer an die Regierung.
+Found
+MODSMD_ARTICLE12: Wieder 27 Opfer für die sowjetrussischen Henker.
+Found
+MODSMD_ARTICLE13: Tokio: „Hitler wird nicht Zurückweichen".
+Found
+MODSMD_ARTICLE14: Für Baumwollausfuhr nach Deutschland.
+Found
+MODSMD_ARTICLE15: Schweres Eisenbahnunglück in Westfalen.
+Found

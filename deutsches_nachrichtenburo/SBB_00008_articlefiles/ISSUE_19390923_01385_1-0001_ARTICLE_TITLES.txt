@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Frhr. von Fritsch vor Warschau gefallen.
+Found
+MODSMD_ARTICLE02: Modlin und Warschau getrennt abgeriegelt.
+Found
+MODSMD_ARTICLE03: Heldenhafter Einsatz bis zum letzten.
+Found
+MODSMD_ARTICLE04: Prag: „Keine Opfer für fremde Interessen".
+Found
+MODSMD_ARTICLE06: General Catlos besichtigt slowakische Garnisonen.
+Found
+MODSMD_ARTICLE07: Auch Griechenland zu Sparmaßnahmen gezwungen.
+Found
+MODSMD_ARTICLE08: „Agenzia Stefam" zum neuesten englischen Lügenmärchen.
+Found
+MODSMD_ARTICLE09: Dic Folgen des Krieges sür das englische Volk. ! '
+Found
+MODSMD_ARTICLE10: Spanien: „Ein logischer Fehler Chamberlains."
+Found
+MODSMD_ARTICLE11: Das Leben in Ostpolen kommt wieder in Gang.
+Found
+MODSMD_ARTICLE12: Festsetzung der Demarkationslinie in der Moskauer Presse.
+Found
+MODSMD_ARTICLE13: Französisches Bombenflugzeug zum Landen gezwungen.
+Found
+MODSMD_ARTICLE14: Portugal: „Wir haben seit 29 Jahren Krieg!"
+Found
+MODSMD_ARTICLE15: Admiral Nomura zum japanischen Außenminister ernannt.
+Found
+MODSMD_ARTICLE16: Gesandter Tani japanischer stellvertretender Außenminister.
+Found
+MODSMD_ARTICLE17: Ein einsichtiges amerikanisches Urteil.
+Found
+MODSMD_ARTICLE18: Brasilianischer Küstenwachdienst.
+Found
+MODSMD_ARTICLE19: 7 brasilianische Staatsbürgerinnen in Le Havre verhaftet.
+Found
+MODSMD_ARTICLE20: Eröffnung der deutschen Fernsehausstellung in Lima.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Göring zeichnet den Reichslustschutzbund ans.
+Found
+MODSMD_ARTICLE02: Deutsch-bulgarische Arbeitsdienst-Kameradschaft.
+Found
+MODSMD_ARTICLE03: Die Fachämter der Auslandsorganisation in Stuttgart.
+Found
+MODSMD_ARTICLE04: Sudetendeutsche Jugend unter kommunistischem Terror.
+Found
+MODSMD_ARTICLE05: Besonderer Beifall für bolschewistische Brutalität.
+Found
+MODSMD_ARTICLE06: Jahrestagung des Verbandes der deutschen Volksgruppen.
+Found
+MODSMD_ARTICLE07: Die englische Presse zurückhaltend.
+Found
+MODSMD_ARTICLE08: 13 0W jugendliche Engländer arbeiten unter Tage.
+Found
+MODSMD_ARTICLE09: Tie Verlustliste in Palästina.
+Found
+MODSMD_ARTICLE10: Durcheinander in den Pariser Redaktionen.
+Found
+MODSMD_ARTICLE11: Streik in Valenciennes.
+Found
+MODSMD_ARTICLE12: Erhebliche Brotpreiserhöhung in Frankreich.
+Found
+MODSMD_ARTICLE13: Immer neue Trotzkisten-Prozesse in Sowjet-Rußland.
+Found
+MODSMD_ARTICLE14: Polen macht Marxisten den Prozeß.
+Found
+MODSMD_ARTICLE15: Roter Augriff bei Cabezuela blutig Zurückgewiesen.
+Found
+MODSMD_ARTICLE16: Hodgson beim uationalspanifcheu Außenminister.
+Found
+MODSMD_ARTICLE17: Aegypten schickt Truppen an die palästinensische Grenze.
+Found
+MODSMD_ARTICLE18: Marschall Blüchers Kommandogewalt eingeschränkt?
+Found

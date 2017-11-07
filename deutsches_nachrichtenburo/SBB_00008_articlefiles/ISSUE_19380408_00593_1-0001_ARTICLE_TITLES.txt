@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Neues Kostwertzeichen zum Geburtstag des Führers.
+Found
+MODSMD_ARTICLE02: Beförderungen im Reichsinnenministerium.
+Found
+MODSMD_ARTICLE03: Die Zahl der Rundfunkempfänger am 1. April.
+Found
+MODSMD_ARTICLE04: Reichswalter Wächtler bei Menghin.
+Found
+MODSMD_ARTICLE05: Rudolf Heß gedenkt am Wiener Ehrenmal der Gefallenen.
+Found
+MODSMD_ARTICLE06: Neichsminister Darre in Tulln.
+Found
+MODSMD_ARTICLE07: Wiener Eindrücke des Abgeordneten! Dr. Rajnist.
+Found
+MODSMD_ARTICLE08: 1 Milliarde Peügö für den inneren Aufbau Ungarns.
+Found
+MODSMD_ARTICLE09: Ungarn packt die Judenfrage an.
+Found
+MODSMD_ARTICLE10: Weiterer Rückgang der Arbeitslosigkeit im März um 439 KW.
+Found
+MODSMD_ARTICLE11: Telegrammwechsel Ribbentrop—Comnen.
+Found
+MODSMD_ARTICLE12: Repräsentantenhaus entwertet Noosevelt-Vorlage.
+Found
+MODSMD_ARTICLE13: Arbeitslosenelend in den USA-Städten.
+Found
+MODSMD_ARTICLE14: Zwei neue Luftschiffe für die USA-Marine.
+Found
+MODSMD_ARTICLE15: Straßenbahnerstreik in Detroit.
+Found
+MODSMD_ARTICLE16: Brandunglück in Pillau.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Wahllisten werden geprüft.
+Found
+MODSMD_ARTICLE02: Der Verband zur Befreiung des Wilna-Gebietes aufgelöst.
+Found
+MODSMD_ARTICLE03: Ministerrat in Prag.
+Found
+MODSMD_ARTICLE04: Italien Zu den englisch-französischen Besprechungen.
+Found
+MODSMD_ARTICLE05: Kreuzer „Emden" in Rhodos.
+Found
+MODSMD_ARTICLE06: Meuchelmorde auf Moskauer Befehl.
+Found
+MODSMD_ARTICLE07: „Judeufreier Tag" an der Warschauer Universität.
+Found
+MODSMD_ARTICLE08: „Polska Zbrojna": Ein Posiiivum.
+Found
+MODSMD_ARTICLE09: Die Grünspans am Dienstag vor der Strafkammer.
+Found
+MODSMD_ARTICLE10: Arbeitsverweigerung kommt vor das Kriegsgericht.
+Found
+MODSMD_ARTICLE11: Nationalspanien zur deutsch-französischen Erklärung.
+Found
+MODSMD_ARTICLE12: Fortgesetzte Demonstrationen in Sofia.
+Found
+MODSMD_ARTICLE13: Furchtbarer Ueberzeuguugsterror in USA.
+Found
+MODSMD_ARTICLE14: Bolschewistischer Umsturzversuch in Bolivien.
+Found

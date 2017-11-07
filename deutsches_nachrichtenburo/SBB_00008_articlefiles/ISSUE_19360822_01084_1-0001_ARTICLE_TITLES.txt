@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Frick empfängt den Oto-Rhino-Laryngologen-Kongreß.
+Found
+MODSMD_ARTICLE02: Ein Dementi des österreichischen Heimatschutzes.
+Found
+MODSMD_ARTICLE03: Vertreter der deutschen Minderheit in Ungarn verurteilt.
+Found
+MODSMD_ARTICLE04: Italiens Antwort an Frankreich überreicht.
+Found
+MODSMD_ARTICLE06: Spanren soll dem Erdboden gleichgemacht werden.
+Found
+MODSMD_ARTICLE07: Spanische Künstler als Opfer des roten Blutrausches.
+Found
+MODSMD_ARTICLE08: Ausländerflucht von den Balearen.
+Found
+MODSMD_ARTICLE09: Der Vormarsch der Nationalisten.
+Found
+MODSMD_ARTICLE10: Erklärung des französischen Ministerpräsidiums.
+Found
+MODSMD_ARTICLE11: „Solidarität mit dem Proletariat Spaniens".
+Found
+MODSMD_ARTICLE12: Vincent-Auriol über die französische Währungspolitik.
+Found
+MODSMD_ARTICLE13: Scharfe Devisenbestimmungen in Griechenland.
+Found
+MODSMD_ARTICLE14: Die griechische Presse begrüßt Eduard VIII.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: „Hermann Göring-Meisterschnle für Malerei".
+Found
+MODSMD_ARTICLE02: Anklageerhebung gegen Niemöller.
+Found
+MODSMD_ARTICLE03: Amerikanischer Besuch bei der Vereinigung Carl Schurz.
+Found
+MODSMD_ARTICLE04: Führerrat des Sängerbundes bei Gauleiter Wagner.
+Found
+MODSMD_ARTICLE05: Die ostoberschlesischen Gesetzentwürfe vor dem Sejm.
+Found
+MODSMD_ARTICLE06: „Kattowitz eine Stadt in jüdischen Händen".
+Found
+MODSMD_ARTICLE08: Englands Presse zu Deutschlands Versorgungsmaßnahmen.
+Found
+MODSMD_ARTICLE09: Der Rrichssportführer bei Chamberlain.
+Found
+MODSMD_ARTICLE10: Chinesische Erfolge vor Peiping.
+Found
+MODSMD_ARTICLE11: Auch die Deutschen ins Gesandtschaftsbiertel gerufen.
+Found
+MODSMD_ARTICLE12: Vorläufig keine Philippinenreise Rooscvelts.
+Found

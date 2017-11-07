@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Gefallenen-Ehrung durch ein brasilianisches Schulschiff.
+Found
+MODSMD_ARTICLE02: Neuer amerikanischer Marineattache in Berlin.
+Found
+MODSMD_ARTICLE03: Die deutsche Kolonie in Saragossa wohlauf.
+Found
+MODSMD_ARTICLE04: 599 deutsche Flüchtlinge auf italienischen Schiffen in Genua.
+Found
+MODSMD_ARTICLE05: Neue Spanienflüchtlinge in Marseille eingetroffen. '
+Found
+MODSMD_ARTICLE06: Burgos zuversichtlich gestimmt.
+Found
+MODSMD_ARTICLE07: Gefecht im Hafen von Malaga.
+Found
+MODSMD_ARTICLE08: Bajadoz von den Nationalisten erobert.
+Found
+MODSMD_ARTICLE09: 79 Soldaten der Zivilgarde von Kommunisten hingerichtet.
+Found
+MODSMD_ARTICLE10: Ein Madrider Regierungsaufruf.
+Found
+MODSMD_ARTICLE11: Italienischer Protest in Madrid.
+Found
+MODSMD_ARTICLE12: „Tribuna" über die Erschießungen in Barcelona.
+Found
+MODSMD_ARTICLE13: Kowno dementiert.
+Found
+MODSMD_ARTICLE14: Eindeutige Feststellungen im „Figaro".
+Found
+MODSMD_ARTICLE15: König Eduard VIII. aus seiner Ferienreise.
+Found
+MODSMD_ARTICLE16: Die neuen britischen Kriegsschiffe.
+Found
+MODSMD_ARTICLE17: Ministerpräsident Gömbös wieder im Amt.
+Found
+MODSMD_ARTICLE18: Neuer Generalgouverneur von Jndochina.
+Found
+MODSMD_ARTICLE19: Ministerrat billigt Sozial- und Amnestiegesetzentwurf.
+Found
+MODSMD_ARTICLE20: Der italienische Propagandaminister bei Mussolini.
+Found
+MODSMD_ARTICLE21: Polnisches Militärflugzeug von Sowjetgrenzwache beschossen
+Found
+MODSMD_ARTICLE22: Die griechischen Minister sollten ermordet werden.
+Found

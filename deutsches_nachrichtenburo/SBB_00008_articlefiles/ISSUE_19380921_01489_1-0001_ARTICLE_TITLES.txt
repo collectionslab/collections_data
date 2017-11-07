@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Reichsregieruug empfing internationale Treuhänder.
+Found
+MODSMD_ARTICLE03: Mussolini in Udine.
+Found
+MODSMD_ARTICLE04: Corbin bei Halifax.
+Found
+MODSMD_ARTICLE05: Ungarischer und polnischer Schritt beim Foreign Office.
+Found
+MODSMD_ARTICLE06: Um das Schicksal der polnischen Volksgruppe.
+Found
+MODSMD_ARTICLE07: Prags Antwortnote übergeben.
+Found
+MODSMD_ARTICLE08: Größtes Durcheinander in Prag.
+Found
+MODSMD_ARTICLE09: Gerechtigkeit für Ungarn und Sühne für Krag.
+Found
+MODSMD_ARTICLE10: Selbst Moskau winkt ab.
+Found
+MODSMD_ARTICLE11: Erfüllung des Pittsburger Vertrages erneut gefordert.
+Found
+MODSMD_ARTICLE12: Internationaler Luftrechts-Kongreß in Brüssel.
+Found
+MODSMD_ARTICLE13: 11. Internationaler Chirurgen-Kongreß in Brüssel.
+Found
+MODSMD_ARTICLE14: Tie ungarischen Staatsmänner wieder in Budapest.
+Found
+MODSMD_ARTICLE15: Sowjet-Flugzeug auf polnischem Gebiet gelandet.
+Found
+MODSMD_ARTICLE16: Rotspanische Verwundetentransporte nach Frankreich.
+Found
+MODSMD_ARTICLE17: Der tägliche Kleinkrieg in Palästina.
+Found
+MODSMD_ARTICLE18: Mmnan an England?
+Found
+MODSMD_ARTICLE19: Tie HJ.-Abordnung im Deutschen Haus in Tokio.
+Found

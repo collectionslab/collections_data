@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Der 1. Mai in der Reichshauptstadt.
+Found
+MODSMD_ARTICLE02: Deutsche Arbeiter als Ehrengäste der Reichsregierung.
+Found
+MODSMD_ARTICLE03: Der Haushaltsvoranschlag vor dem englischen Unterhans.
+Found
+MODSMD_ARTICLE04: Der Führer bei Rudolf Heß.
+Found
+MODSMD_ARTICLE05: Wer ist brasilianischer Staatsangehöriger?
+Found

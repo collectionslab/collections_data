@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Neuer Leiter der Falange Espanola in Deutschland.
+Found
+MODSMD_ARTICLE03: Mit fremden Augen.
+Found
+MODSMD_ARTICLE05: Graf Csaky nach Budapest zurückgekehrt.
+Found
+MODSMD_ARTICLE06: Britischer Dampfer an der Südostküste Englands gesunken.
+Found
+MODSMD_ARTICLE07: Sinnige Ehrung für Churchill.
+Found
+MODSMD_ARTICLE08: „Daily Herald": Usborne wurde über Bord geworfen.
+Found
+MODSMD_ARTICLE09: Lebensmittelmangel und Wucher in Frankreich.
+Found
+MODSMD_ARTICLE10: „Die Genfer Liga nur noch ein Torso."
+Found
+MODSMD_ARTICLE11: Der englische Krieg dezimiert Dänemarks Handelsflotte.
+Found
+MODSMD_ARTICLE12: Finnische Kampfberichte.
+Found
+MODSMD_ARTICLE13: Russisch-bulgarischer Handel über das Schwarze Meer.
+Found
+MODSMD_ARTICLE14: Englands „ungeheures Interesse" an der Türkei.
+Found
+MODSMD_ARTICLE15: Schon wieder Erdbeben in der Türkei.
+Found
+MODSMD_ARTICLE16: Beträchtlicher Rückgang der amerikanischen Ausfuhr.
+Found
+MODSMD_ARTICLE17: Kommt wieder ein Kabinett Konoe?
+Found
+MODSMD_ARTICLE18: Japan verhandelt in Washington.
+Found
+MODSMD_ARTICLE19: Japan unterstützt die neue Regierung in China.
+Found

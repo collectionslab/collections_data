@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Henlein unterrichtete den Führer.
+Found
+MODSMD_ARTICLE02: Die Betreuung der Waldarbeiter.
+Found
+MODSMD_ARTICLE03: Europa-Schnellrundslug eines deutschen Flugzeuges.
+Found
+MODSMD_ARTICLE04: Prag verbietet weiter.
+Found
+MODSMD_ARTICLE05: Randalierende tschechische Soldateska.
+Found
+MODSMD_ARTICLE06: Erklärungen des Wortführers der ungarischen Volksgruppe.
+Found
+MODSMD_ARTICLE07: „Bund der Deutschen in Polen".
+Found
+MODSMD_ARTICLE08: Ausmerzung der jüdischen Lehrer in Italien.
+Found
+MODSMD_ARTICLE09: „Ein Akt der Gerechtigkeit gegenüber dem Italiener."
+Found
+MODSMD_ARTICLE10: Die Juden schimpfen anonym.
+Found
+MODSMD_ARTICLE11: Botschafter Grandi bei Halifax.
+Found
+MODSMD_ARTICLE12: Diplomatenempfänge bei Lord Plymouth.
+Found
+MODSMD_ARTICLE13: Radikalsoziale gegen rote Störungsmanöver.
+Found
+MODSMD_ARTICLE14: Haussuchung bei dem Großmufti von Jerusalem.
+Found
+MODSMD_ARTICLE15: Wiedereinführung der nationalen arabischen Kopfbedeckung.
+Found
+MODSMD_ARTICLE16: Amerikas Presse gegen die Rassepolitik Italiens.
+Found
+MODSMD_ARTICLE17: Sondergeschwader der NSA-Flotte für den Atlantik.
+Found
+MODSMD_ARTICLE18: Ausbau der elektrischen Kraftwirtschaft in USA.
+Found

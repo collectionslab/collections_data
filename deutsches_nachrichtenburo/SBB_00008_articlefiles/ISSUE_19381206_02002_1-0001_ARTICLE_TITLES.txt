@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Goebbels in der Kunstausstellung am Künigsplatz.
+Found
+MODSMD_ARTICLE02: Der frühere französische Handelsmimster Elbe! in Berlin.
+Found
+MODSMD_ARTICLE03: Amerika verlor 28,4 Millionen Arbeitstage durch Streik.
+Found
+MODSMD_ARTICLE04: Großes Interesse an der Reise Ribbentrops.
+Found
+MODSMD_ARTICLE05: Französisches Parlament am Donnerstag.
+Found
+MODSMD_ARTICLE06: Der Prozeß gegen Frau Skobliu.
+Found
+MODSMD_ARTICLE07: Das Schissspersonal in Le Havre streikt weiter.
+Found
+MODSMD_ARTICLE08: Französischer Ozeandampfer fährt mit Marinebesatzung.
+Found
+MODSMD_ARTICLE09: Statt Hilfe tönende Phrasen.
+Found
+MODSMD_ARTICLE10: 19 französische Streikende wurden verurteilt.
+Found
+MODSMD_ARTICLE11: Zur Ordnung gerufen.
+Found
+MODSMD_ARTICLE12: „Norweger, kauft nicht bei Juden!"
+Found
+MODSMD_ARTICLE13: Wsldemarus nach Kowno zurückgerufen.
+Found
+MODSMD_ARTICLE14: Das neue ungarische Wehrgesetz.
+Found
+MODSMD_ARTICLE15: Will Moskau die japanischen Fischereirechte aufheben?
+Found
+MODSMD_ARTICLE16: Die Besatzung des „Condor" gerettet.
+Found

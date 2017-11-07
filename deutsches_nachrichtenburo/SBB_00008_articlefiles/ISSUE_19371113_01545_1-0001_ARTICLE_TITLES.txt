@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Auszeichnungen für Errichtung aus Lebensgefahr.
+Found
+MODSMD_ARTICLE02: Die Hochschule für Politik eine Anstalt des Reiches.
+Found
+MODSMD_ARTICLE03: Dank für das Hilfswerk zu Gunsten der Chinadeutschen.
+Found
+MODSMD_ARTICLE04: Vertragliche Regelung der Grenzverhältnisse.
+Found
+MODSMD_ARTICLE05: Ter Staatskommissar der Stadt Düsseldorf gestorben.
+Found
+MODSMD_ARTICLE06: Der neue Bahnhof am Brenner dem Verkehr übergeben.
+Found
+MODSMD_ARTICLE07: „Grundstein einer neuen sittlichen und sozialen Ordnung".
+Found
+MODSMD_ARTICLE08: Die Lage an der Universität Lemberg verschärft.
+Found
+MODSMD_ARTICLE09: Zuchthaus gegen jüdische Kommunisten in Polen.
+Found
+MODSMD_ARTICLE10: Pariser Blätter Zur britischen Fühlungnahme.
+Found
+MODSMD_ARTICLE11: Frankreichs Kamps gegen die Kapitalflucht.
+Found
+MODSMD_ARTICLE12: Das Unterhaus lehnt bezahlten Urlaub für die Arbeiter ab.
+Found
+MODSMD_ARTICLE13: Japanische Fortschritte rings um Schanghai.
+Found
+MODSMD_ARTICLE14: Die Kennzahl der Großhandelspreise vom Ist. November.
+Found

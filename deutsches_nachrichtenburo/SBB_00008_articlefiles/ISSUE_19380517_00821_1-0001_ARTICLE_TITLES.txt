@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an Admiral a. D. Schmidt.
+Found
+MODSMD_ARTICLE02: Der brasilianische Botschafter im Auswärtigen Amt.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Staatssekretär Professor Tassinari in Berlin.
+Found
+MODSMD_ARTICLE05: Frankreich will weitere 79 999 farbige Soldaten ausheben!
+Found
+MODSMD_ARTICLE06: „Intransigeant" zum Pariser Ministerrat.
+Found
+MODSMD_ARTICLE07: Wieder belgisch-französische Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE08: Günstige Aufnahme öer Regierungserklärung Spaaks.
+Found
+MODSMD_ARTICLE09: Lord Weir aus dem Luftrat ausgetreten.
+Found
+MODSMD_ARTICLE10: Corbin bei Lord Plymouth.
+Found
+MODSMD_ARTICLE11: Chamberlain noch nicht wiederhergestellt.
+Found
+MODSMD_ARTICLE12: Irland-Abkommen auch vom Oberhaus angenommen.
+Found
+MODSMD_ARTICLE13: K Tote und 29 Verletzte in London.
+Found
+MODSMD_ARTICLE14: Am Dienstag keine französisch-italienische Unterredung.
+Found
+MODSMD_ARTICLE15: Internationaler Chemiekongreß in Rom.
+Found
+MODSMD_ARTICLE16: Moskau jagt spanische Kinder in den Krieg!
+Found
+MODSMD_ARTICLE17: Weitere nationalspanische Erfolge östlich von Teruel.
+Found
+MODSMD_ARTICLE18: Die französische Atlantikflotte aus Lissabon ausgelaufen.
+Found
+MODSMD_ARTICLE19: Unterredung Kroftas im Brüsseler „Soir".
+Found
+MODSMD_ARTICLE20: Prozeß gegen Codreanu Anfang nächster Woche.
+Found
+MODSMD_ARTICLE21: Präsident Cgrdenas über mexikanische Wirtschaftsprobleme.
+Found
+MODSMD_ARTICLE22: Hsütschau von den Japanern umklammert.
+Found

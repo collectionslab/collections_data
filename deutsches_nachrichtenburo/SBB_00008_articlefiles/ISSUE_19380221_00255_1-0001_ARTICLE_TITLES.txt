@@ -1,0 +1,6 @@
+MODSMD_ARTICLE03: Das deutsche Oesterreich hörte den Führer.
+Found
+MODSMD_ARTICLE04: Moskau störte die Uebertragung der Führerrede.
+Found
+MODSMD_ARTICLE05: Zuchthaus für den Leiter einer litauischen Lesehalle.
+Found

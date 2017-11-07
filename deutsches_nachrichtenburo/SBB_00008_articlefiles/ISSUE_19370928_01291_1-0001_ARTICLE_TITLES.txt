@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Eine historische Kundgebung.
+Found
+MODSMD_ARTICLE02: „Es spricht der Führer!"
+Found
+MODSMD_ARTICLE03: Dr. Goebbels
+Found
+MODSMD_ARTICLE04: „Es spricht der Duee!"
+Found
+MODSMD_ARTICLE05: Die Antwort an die Welt: Friede!
+Found

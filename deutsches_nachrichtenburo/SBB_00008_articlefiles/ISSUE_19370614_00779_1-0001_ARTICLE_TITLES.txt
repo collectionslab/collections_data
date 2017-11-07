@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Die Reichstheaterfestwoche eröffnet.
+Found
+MODSMD_ARTICLE02: Reichsminister Ruft in Hannover.
+Found
+MODSMD_ARTICLE03: Reichstagnng der NSKOV.
+Found
+MODSMD_ARTICLE04: Der ADMV. in der Reichsmusikkammer.
+Found
+MODSMD_ARTICLE05: Beisetzung der Opfer der Katastrophe bei Edesheim.
+Found
+MODSMD_ARTICLE06: Neurath bei Reichsverweser von Horthy.
+Found
+MODSMD_ARTICLE07: Flandin entlarvt die Mißerfolge der Volksfrontregierung.
+Found
+MODSMD_ARTICLE08: Betriebsausflug des Reichspropagandaministeriums.
+Found

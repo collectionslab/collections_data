@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Reichsminister Ruft im Schloß Bellevue.
+Found
+MODSMD_ARTICLE02: Beförderung des Olympia-Siegers Eichhorn.
+Found
+MODSMD_ARTICLE03: Wieder Einstellungen in den weiblichen Arbeitsdienst.
+Found
+MODSMD_ARTICLE04: Italien Sieger bei der Marine-Pokal-Segelwettfahrt.
+Found
+MODSMD_ARTICLE05: Die Münchener Schacholympiade 1936.
+Found
+MODSMD_ARTICLE06: Die Tätigkeit deutscher Schiffe in spanischen Gewässern.
+Found
+MODSMD_ARTICLE07: Neue Rundfunkerklärung des Generals Queipo de Llano.
+Found
+MODSMD_ARTICLE08: Der Madrider Plan zur Bildung einer Freiwilligenarmee.
+Found
+MODSMD_ARTICLE09: Brasilien zu einer Vermittlungsaktion in Spanien.
+Found
+MODSMD_ARTICLE10: „Moskau funkt: Tötet alle Priester!"
+Found
+MODSMD_ARTICLE11: Die Gründe für die Ausweisung Major Barrosos.
+Found
+MODSMD_ARTICLE12: General Rydz-Smigly bei den französischen Herbstmanövern.
+Found
+MODSMD_ARTICLE13: Die Tagesordnung der Septemberversammlung des Völkerbundes.
+Found
+MODSMD_ARTICLE14: Die Außenministerkonferenz in Kopenhagen.
+Found
+MODSMD_ARTICLE15: Arabische Versammlung in Jerusalem verboten. –
+Not Found

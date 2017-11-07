@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: London znr Weihnachtsansprache von Rudolf Heß.
+Found
+MODSMD_ARTICLE02: „Gioruale d'Jialia" zur Reise Daladiers nach Tunis.
+Found
+MODSMD_ARTICLE03: Zur Frage der italienisch-frauzösischeu Beziehungen.
+Found
+MODSMD_ARTICLE04: 3 Pariser Filmjuden als Betrüger verhaftet.
+Found
+MODSMD_ARTICLE05: Generalinspekteur der Luftwaffe Fequant gestorben.
+Found
+MODSMD_ARTICLE06: Die Landestagung der französischen Sozialdemokraten.
+Found
+MODSMD_ARTICLE07: Der Generalresident von Tunis in Paris.
+Found
+MODSMD_ARTICLE08: Bressey neuer Kabinettschef Bonnets.
+Found
+MODSMD_ARTICLE09: Der nationalspanische Sicherheitsminister gestorben.
+Found
+MODSMD_ARTICLE10: Nationalspanischer Einbruch in die Provinz Tarragona.
+Found
+MODSMD_ARTICLE11: Für „engere Verbindung" mit der Labour Party.
+Found
+MODSMD_ARTICLE12: Regierungsübergabe in Chile.
+Found
+MODSMD_ARTICLE13: Immer neue italienfeindliche Kundgebungen in Uruguay.
+Found
+MODSMD_ARTICLE14: Eine magere Schlußerklärung auf der Lima-Konferenz.
+Found
+MODSMD_ARTICLE15: Früherer brasilianischer Gouverneur verurteilt.
+Found
+MODSMD_ARTICLE16: Furchtbares Eisenbahnunglück in Rumänien.
+Found

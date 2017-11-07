@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Beförderungen im NS.-Megerkorps.
+Found
+MODSMD_ARTICLE02: Weitere Beförderungen in der SA.
+Found
+MODSMD_ARTICLE03: Der Führer des Gebietes Sudetenland der HJ.
+Found
+MODSMD_ARTICLE04: Ergänzuugswahlen zum Großdeutscheu Reichstag.
+Found
+MODSMD_ARTICLE05: Der Vater Albert Leo Schlageters gestorben.
+Found
+MODSMD_ARTICLE06: Reichsminister Ruft in Salzburg.
+Found
+MODSMD_ARTICLE07: Der neue Generalkonsul von Mandschukuo eingetroffen.
+Found
+MODSMD_ARTICLE08: Das Judentum eine Gemeinschaft des Hasses.
+Found
+MODSMD_ARTICLE09: Ungarn zum jüdischen Meuchelmord von Paris.
+Found
+MODSMD_ARTICLE10: .Weitere Fortschritte am Ebro-Bogen.
+Found
+MODSMD_ARTICLE11: Reichsminister Dr. Goebbels an die Bevölkerung
+Found
+MODSMD_ARTICLE12: Neue.Kriegsmaterialtransporte für Sowjetspanien.
+Found
+MODSMD_ARTICLE13: Arabische Stellungnahme zum Woodhead-Bericht.
+Found
+MODSMD_ARTICLE14: Erbittertes Gefecht in Palästina.
+Found
+MODSMD_ARTICLE15: Ernennungen im japanischen auswärtigen Dienst.
+Found
+MODSMD_ARTICLE16: Amerikas Presse zu den Kongreßwahlen.
+Found

@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Hohe Auszeichnungen des amtierenden und des künftigen Präsidenten der I. H. K. durch den Führer.
+Found
+MODSMD_ARTICLE02: Der Führer stiftet einen Wanderpreis.
+Found
+MODSMD_ARTICLE03: Auslandsvertreter des IHK-Kongresses bei Göring.
+Found
+MODSMD_ARTICLE04: Schwedische Rotkreuzmänner in Deutschland.
+Found
+MODSMD_ARTICLE05: Deutsch-schweizerisches Verrechnungsabkommen.
+Found
+MODSMD_ARTICLE06: Dr. Gärtner an das Reichspatentamt.
+Found
+MODSMD_ARTICLE07: Reichsparteitag 1337 vom 8. bis 13. September.
+Found
+MODSMD_ARTICLE08: Die Organisierung des Reichsparteitags beginnt.
+Found
+MODSMD_ARTICLE09: Tschechische Schikanen gegen Oesterreicher.
+Found
+MODSMD_ARTICLE10: Begeisterte Kundgebungen für Horthy.
+Found
+MODSMD_ARTICLE11: Geheimer Kronrat in London.
+Found
+MODSMD_ARTICLE12: Ein Vorschlag der „Morning Post".
+Found
+MODSMD_ARTICLE13: Neuernennuugen bei Luftfahrt und Marine Englands.
+Found
+MODSMD_ARTICLE14: Anschlag auf den Bürgermeister von Oran.
+Found
+MODSMD_ARTICLE15: „Schiffbruch des Nichteinmischungs-Systems."
+Found
+MODSMD_ARTICLE16: König Carol auf der Heimreise.
+Found
+MODSMD_ARTICLE17: Schwere Anklagen gegen Lewis.
+Found
+MODSMD_ARTICLE18: Protestkundgebungen in New Jork.
+Found
+MODSMD_ARTICLE19: 12ö Verletzte bei Streikunruhen in Cleveland.
+Found
+MODSMD_ARTICLE20: Teilweise Beilegung des Stahlstreikes in Gast Chicago.
+Found
+MODSMD_ARTICLE21: „Deutschfeindliche Hetze stört den Frieden".
+Found

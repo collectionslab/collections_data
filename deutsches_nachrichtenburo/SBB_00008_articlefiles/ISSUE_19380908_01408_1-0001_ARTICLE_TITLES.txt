@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Zum Präsidenten der Reichsnotarkammer berufen.
+Found
+MODSMD_ARTICLE02: Zum Regierungspräsidenten ernannt.
+Found
+MODSMD_ARTICLE03: Die polnischen Frontkämpfer besuchten Quedlinburg.
+Found
+MODSMD_ARTICLE04: Auch die Slowaken planmäßig unterdrückt.
+Found
+MODSMD_ARTICLE05: Die „Times" bleibt aus ihrem Standpunkt.
+Found
+MODSMD_ARTICLE06: Der Geist der Prager Vorschläge.
+Found
+MODSMD_ARTICLE07: Der Polnische Geschäftsträger im britischen Außenamt.
+Found
+MODSMD_ARTICLE08: De Valera beim britischen Verteidigungsminister.
+Found
+MODSMD_ARTICLE09: Reise Lord Halifax' nach Genf vorläufig verschoben.
+Found
+MODSMD_ARTICLE10: Die Jubiläumsfeierlichkeiten in Amsterdam.
+Found
+MODSMD_ARTICLE11: Jerusalems Fernsprechverbindungen unterbrochen.
+Found
+MODSMD_ARTICLE12: Wahl eines Roosevelt-Gegners in Nevada.
+Found

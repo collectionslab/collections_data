@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Spanien vor neuen furchtbaren Ereignissen.
+Found
+MODSMD_ARTICLE02: Deutscher Historikertag.
+Found
+MODSMD_ARTICLE03: Die Vorgänge in der Strafanstalt Garsten.
+Found
+MODSMD_ARTICLE04: Jude Bösel endlich in der Falle.
+Found
+MODSMD_ARTICLE05: Internationaler Kongreß für Weinbau tagte in Paris.
+Found
+MODSMD_ARTICLE06: Internationaler Filmkongreß 1939 in Rom.
+Found
+MODSMD_ARTICLE07: Pariser Vertreter der Valencia-Bolschewisten bei Delbos.
+Found
+MODSMD_ARTICLE08: Ministerrat bei Chautemps.
+Found
+MODSMD_ARTICLE09: Zentrale Führung des passiven Luftschutzes in Frankreich.
+Found
+MODSMD_ARTICLE10: Diplomatische Besprechungen im Foreign Office.
+Found
+MODSMD_ARTICLE11: Van Zeeland berichtet über seine Besprechungen.
+Found
+MODSMD_ARTICLE12: Arbeitswiederaufnahme in Cleveland.
+Found
+MODSMD_ARTICLE13: Moskauer Beschwerden bei der japanischen Botschaft.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Dr. Lammers der Vertreter des Führers in Cuxhaven.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Reichsstatthalter Murr in Mailand.
+Found
+MODSMD_ARTICLE04: Eröffnung eines Lehrstuhls für deutsches Recht in Sofia.
+Found
+MODSMD_ARTICLE05: Deutsche Landwirte besuchen Jugoslawien.
+Found
+MODSMD_ARTICLE06: König Faruk nach London abgereist.
+Found
+MODSMD_ARTICLE07: Geheimnisvoller Tod eines zaristischen Polizeichefs.
+Found
+MODSMD_ARTICLE08: Tie Streiklage in Frankreich.
+Found
+MODSMD_ARTICLE09: Jouhaux in Valencia.
+Found
+MODSMD_ARTICLE10: Ein neues Verbrechen der spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht vom Montag.
+Found
+MODSMD_ARTICLE12: Juan Negrin Nachfolger Caballeros.
+Found
+MODSMD_ARTICLE13: Wieder zwei Leichen auf der „Hunter" geborgen»
+Found
+MODSMD_ARTICLE14: Kommunisten Hetzen Straßenbahner zum Streik auf.
+Found
+MODSMD_ARTICLE15: Die Beratungen der Empire-Konferenz.
+Found
+MODSMD_ARTICLE17: Die „Gangster-Tyrannei" der englischen Kommunisten.
+Found
+MODSMD_ARTICLE18: Besuch des jugoslawischen Berkehrsministers in Polen.
+Found
+MODSMD_ARTICLE19: Landtag der Mufsert-Bewegnng.
+Found
+MODSMD_ARTICLE20: Tie albanischen Rebellen in voller Flucht.
+Found

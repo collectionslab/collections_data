@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der NS.-Reichskriegerbund am Hcldengedenktag.
+Found
+MODSMD_ARTICLE02: Brünns Deutsche befürchten das Schlimmste.
+Found
+MODSMD_ARTICLE03: Juden sympathisieren mit den Tschechen.
+Found
+MODSMD_ARTICLE04: Tschechische Soldaten beschimpfen Hakenkreuzflakgen!
+Found
+MODSMD_ARTICLE05: Moskau schaltet sich ein. Geheimsitzung führender roter Funktionäre in Prag.
+Found
+MODSMD_ARTICLE06: Tschechischer Hohn.
+Found
+MODSMD_ARTICLE07: 150 Hlinkagardisten im Olmützer Gefängnis.
+Found
+MODSMD_ARTICLE08: Sidor ohne jeden Einfluß.
+Found
+MODSMD_ARTICLE09: Mehr als 2 Millionen Arbeitslose in England.
+Found
+MODSMD_ARTICLE10: Jüdische Forderungen an die britische Regierung.
+Found
+MODSMD_ARTICLE11: Palästina-Araber werden ausgepeitscht.
+Found
+MODSMD_ARTICLE12: New Jork vermerkt die deutsche Friedensbereitschast.
+Found

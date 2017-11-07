@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Welt hörte den Führer. Schweden.
+Found
+MODSMD_ARTICLE02: „Objektive Meldungen unerwünscht!"
+Found
+MODSMD_ARTICLE03: Londoner Rundfunklüge entlarvt.
+Found
+MODSMD_ARTICLE04: Scharfer Angriff im Unterhaus.
+Found
+MODSMD_ARTICLE05: Außenminister Munters nach Riga zurückgekehrt.
+Found
+MODSMD_ARTICLE06: Trauerfeier für Dr. Sahm in Oslo.
+Found
+MODSMD_ARTICLE07: Ein Finne über die Kapitulation von Warschau.
+Found
+MODSMD_ARTICLE08: 12 Belgier trafen halbverhungert im der Heimat ein.
+Found
+MODSMD_ARTICLE09: Englisches Piratenschisf in Buenos Aires eingelaufen.
+Found
+MODSMD_ARTICLE10: Bemerkenswertes Ergebnis einer Ilmfrage.
+Found

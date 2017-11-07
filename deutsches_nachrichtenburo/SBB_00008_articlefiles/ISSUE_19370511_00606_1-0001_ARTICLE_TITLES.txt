@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Hollands Sozialminister in Berlin.
+Found
+MODSMD_ARTICLE02: Eine erfreuliche Bilanz der Reichsbahn.
+Found
+MODSMD_ARTICLE03: Die Reichsautobahnen im Jahre 193 k.
+Found
+MODSMD_ARTICLE04: Reichsminister Dr. Goebbels in Mannheim.
+Found
+MODSMD_ARTICLE05: Fahnenübergabe im Fliegerhorst Rothwesten.
+Found
+MODSMD_ARTICLE06: Blomberg und Ribbentrop bei den ersten Empfängen.
+Found
+MODSMD_ARTICLE07: Londoner Autobusstreik wird fortgesetzt.
+Found
+MODSMD_ARTICLE08: Rosendahl und Meister vor dem Untersuchungsausschuß.
+Found
+MODSMD_ARTICLE09: Gedenkfeier in Chicago anläßlich des Luftschissnnglücks,
+Found
+MODSMD_ARTICLE10: Volksdeutscher Schrifttumspreis für Heinrich Zillich.
+Found
+MODSMD_ARTICLE11: Der tragische Tod Mittelholzers.
+Found

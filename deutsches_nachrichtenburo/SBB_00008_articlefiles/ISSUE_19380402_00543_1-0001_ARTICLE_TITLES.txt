@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: England anerkennt den Anschluß Oesterreichs.
+Found
+MODSMD_ARTICLE02: Prag errichtet in Wien ein Generalkonsulat.
+Found
+MODSMD_ARTICLE03: Dr. Tcyß-Inqnart spricht im Berliner Sportpalast.
+Found
+MODSMD_ARTICLE04: Reinhardt 5 Jahre Staatssekretär.
+Found
+MODSMD_ARTICLE05: Die spanische Frauenführerin in Berlin.
+Found
+MODSMD_ARTICLE06: Brasilianische Ingenieure in Berlin.
+Found
+MODSMD_ARTICLE07: Weitere Reichsbeihilfen für den Wohnungsbau in Österreich.
+Found
+MODSMD_ARTICLE08: Hermann Göring in Salzburg.
+Found
+MODSMD_ARTICLE09: Eingliederung des östereichischen Luftschutzes.
+Found
+MODSMD_ARTICLE10: Deutsche Beteiligung auf der Agramer Messe.
+Found
+MODSMD_ARTICLE11: Meutererstimmung unter den geflüchteten Milizen.
+Found
+MODSMD_ARTICLE12: Was ein Kommunistenprozeß in Rybnik enthüllte.
+Found

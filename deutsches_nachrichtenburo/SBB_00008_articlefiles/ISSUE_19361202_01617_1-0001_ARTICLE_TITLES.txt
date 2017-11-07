@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer ehrt Reichsleiter Bouhler.
+Found
+MODSMD_ARTICLE02: Neichsmmister Dr. Goebbels an Bouhler.
+Found
+MODSMD_ARTICLE03: Der Führer an die Gesellschaft zur Rettung Schiffbrüchiger.
+Found
+MODSMD_ARTICLE04: Italienischer Stras;enbanindnstrieller beim Führer.
+Found
+MODSMD_ARTICLE05: Die Obergauführerinnen des „B. d. M." bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE06: Baldur von Schirach zum Gesetz über die Hitler-Jugend.
+Found
+MODSMD_ARTICLE07: Die Leistungssteigerung der deutschen Jugend.
+Found
+MODSMD_ARTICLE08: Deutscher Dampfer in der Nordsee gesunken.
+Found
+MODSMD_ARTICLE09: Staatsrat Eßberger zum Untergang der „Elsa".
+Found
+MODSMD_ARTICLE10: Botschaftsrat Dr. Voelckers auf dem Wege nach Berlin.
+Found
+MODSMD_ARTICLE11: Der Genfer Antrag des spanischen Bolschewistenvertreters.
+Found
+MODSMD_ARTICLE12: Die Panamerikanische Friedenskonferenz.
+Found

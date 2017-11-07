@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Deutsch-brasilianische Wirtschaftsvereinbarung.
+Found
+MODSMD_ARTICLE02: Mitteilung der Berliner Rumänischen Gesandtschaft.
+Found
+MODSMD_ARTICLE03: Nachträgliche Ehrung der Fliegerin Luise Hoffmann.
+Found
+MODSMD_ARTICLE04: „Graf Zeppelin" nach Südamerika gestartet.
+Found
+MODSMD_ARTICLE05: Internationale Handwerkertagung.
+Found
+MODSMD_ARTICLE06: Görings Kranz am Grabe von Vrumowskis.
+Found
+MODSMD_ARTICLE07: Der Reichssportsührer von Warschau abgeflogen.
+Found
+MODSMD_ARTICLE08: Ein zweiter Selbstmord im Kattowitzer Hochverratsprozeß.
+Found
+MODSMD_ARTICLE09: Die Tagung des Verbandes für Kriegergräberfürsorge.
+Found
+MODSMD_ARTICLE10: Britische Reichspressekonferenz in London.
+Found
+MODSMD_ARTICLE11: Veränderung in der Leitung der Pariser Polizei.
+Found
+MODSMD_ARTICLE12: Neue Ausstände trotz grundsätzlicher Einigung.
+Found
+MODSMD_ARTICLE13: Van Zeeland erneut mit der Regierungsbildung beauftragt.
+Found
+MODSMD_ARTICLE14: Die italienischen Sommermanöver.
+Found
+MODSMD_ARTICLE15: Die neue Verfassung der Sowjetunion.
+Found
+MODSMD_ARTICLE16: Schwere folgen eines Flugzeugabsturzes.
+Found

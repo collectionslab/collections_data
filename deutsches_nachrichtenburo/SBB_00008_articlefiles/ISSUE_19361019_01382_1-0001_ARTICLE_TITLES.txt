@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Göring mit Durchführung des Bierjahrplanes beauftragt.
+Found
+MODSMD_ARTICLE02: Graf Ciano besucht Frei Herrn von Neurath.
+Found
+MODSMD_ARTICLE03: Deutsch-polnische Aufwertungsrechtsübereinkunft.
+Found
+MODSMD_ARTICLE04: Deutsch-englischer Kulturaustausch.
+Found
+MODSMD_ARTICLE05: Kreuzer „Karlsruhe" hat Hamburg verlassen.
+Found
+MODSMD_ARTICLE06: Generalkonsul Karl Feinde! gestorben.
+Found
+MODSMD_ARTICLE07: Reichsfiihrer SS Himmler in Rom.
+Found
+MODSMD_ARTICLE08: Deutsche Kolizeiabordnung ehrt italienische Helden.
+Found
+MODSMD_ARTICLE09: Millionenschöden im italienischen Erdbebengebiet.
+Found
+MODSMD_ARTICLE10: „Triumph des Willens" in China.
+Found
+MODSMD_ARTICLE11: Gärung unter den Pariser Gaswerk- und Bauarbeitern.
+Found
+MODSMD_ARTICLE12: Frankreichs Brüsseler Botschafter bei Delbos.
+Found
+MODSMD_ARTICLE13: Baskische Regierung hebt weitere Truppen aus.
+Found
+MODSMD_ARTICLE14: Die baskischen Separatisten wollen Bilbao übergeben.
+Found
+MODSMD_ARTICLE15: Asturische Arbeiter in Sowjetrußland „ausgebildet".
+Found
+MODSMD_ARTICLE16: Attlee bittet um Einberufung des Parlaments.
+Found
+MODSMD_ARTICLE17: Erneut Brandstiftung in englischem Faschisteuhaus.
+Found
+MODSMD_ARTICLE18: Zur Vorgeschichte der Neutralitätserklärung.
+Found
+MODSMD_ARTICLE19: Kabinettsrat in Budapest.
+Found
+MODSMD_ARTICLE20: Kommunistenversammlung in Warschau ausgehoben.
+Found
+MODSMD_ARTICLE21: Senkung des niederländischen Bankdiskonts.
+Found

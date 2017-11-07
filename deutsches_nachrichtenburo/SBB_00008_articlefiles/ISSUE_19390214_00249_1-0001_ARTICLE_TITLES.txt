@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Josef StolZmg-Cernh.
+Found
+MODSMD_ARTICLE02: Generalfeldmarschall Göring in Hamburg.
+Found
+MODSMD_ARTICLE03: Meine! und der litauische Unabhängigkeitsfeiertag.
+Found
+MODSMD_ARTICLE04: Arbeitsfront in Memel übernimmt Gewerkschaftskartell.
+Found
+MODSMD_ARTICLE05: Staatssekretär Kleinmann in Kopenhagen.
+Found
+MODSMD_ARTICLE06: Mailand zum deutsch-italienischen Handelsabkommen.
+Found
+MODSMD_ARTICLE07: Die englisch-sranzösischen Erpressermethoden.
+Found
+MODSMD_ARTICLE08: Man bemüht sich um Burgos.
+Found
+MODSMD_ARTICLE09: Ein Ausdruck wahrer Verbundenheit.
+Found
+MODSMD_ARTICLE10: Spanischer Kunstbesitz in Genf.
+Found
+MODSMD_ARTICLE11: Die Opfer des roten Terrors in Katalonien.
+Found
+MODSMD_ARTICLE12: Der englische Arbeitsminister niedergeschrien»
+Found
+MODSMD_ARTICLE13: Schlachtschiff „Bismarck".
+Found
+MODSMD_ARTICLE14: Das Weltjudentum droht England.
+Found
+MODSMD_ARTICLE15: Sowjet-Blutgericht in Turkistan.
+Found
+MODSMD_ARTICLE16: Syrien betrachtet sich als selbständig.
+Found
+MODSMD_ARTICLE17: Auch Craigie informierte sich bei Arita.
+Found
+MODSMD_ARTICLE18: Teilnahme Roosevelts an den Flottenmanövern.
+Found
+MODSMD_ARTICLE19: Wie Frankreichs Flugzeugkäufe finanziert werden.
+Found

@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Bruckner zieht in die Ruhmeshalle der Deutschen ein.
+Found
+MODSMD_ARTICLE02: Abendliches Festkonzert und Empfang.
+Found
+MODSMD_ARTICLE03: Generalappell des Reichsluftschutzbundes.
+Found
+MODSMD_ARTICLE04: Die Volksgasmaske ist da!
+Found

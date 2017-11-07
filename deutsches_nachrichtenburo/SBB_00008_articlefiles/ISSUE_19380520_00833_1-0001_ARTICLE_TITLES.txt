@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Reichsjustizmimster bei den steierischen Rechtswahrern.
+Found
+MODSMD_ARTICLE02: Sudetendeutsche Wahlkundgebung in Prag.
+Found
+MODSMD_ARTICLE03: Tagung der Partei Jmredys.
+Found
+MODSMD_ARTICLE04: Bekämpfung der Teuerung in Rumänien.
+Found
+MODSMD_ARTICLE05: Patriarch Miron Cristea nach Warschau abgereist.
+Found
+MODSMD_ARTICLE06: Das Ziel des Lagers der Nationalen Einigung in Polen.
+Found
+MODSMD_ARTICLE07: Der französische Instizunnister in London.
+Found
+MODSMD_ARTICLE08: Pariser Blätter zur französischen Außenpolitik.
+Found
+MODSMD_ARTICLE09: Die Londoner Morgenpresse wieder optimistischer.
+Found
+MODSMD_ARTICLE10: Simon gegen das Kritisieren der Opposition.
+Found
+MODSMD_ARTICLE11: Abschluß der Frontkämpfertagung in London.
+Found
+MODSMD_ARTICLE12: Nationalspanischer Beauftragter in Ankara.
+Found
+MODSMD_ARTICLE13: Veränderte Taktik in Palästina.
+Found
+MODSMD_ARTICLE14: Tokio feiert die Eroberung Nütschaus.
+Found
+MODSMD_ARTICLE15: Handelsvertrag USA-Venezuela abgeschlossen.
+Found
+MODSMD_ARTICLE16: 19 999 Mann gegen Cedillo eingesetzt.
+Found
+MODSMD_ARTICLE17: Englischer Generalinspekteur der australischen Wehrmacht.
+Found
+MODSMD_ARTICLE18: Australien verbietet Ausfuhr von Eisenerz.
+Found
+MODSMD_ARTICLE19: Gras Lnckner in Sydney.
+Found

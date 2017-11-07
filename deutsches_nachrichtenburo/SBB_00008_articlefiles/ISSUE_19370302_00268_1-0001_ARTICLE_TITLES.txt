@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der ReichskriegsminUer in München.
+Found
+MODSMD_ARTICLE02: Ehrenpreis für die Deutsche Amateuer-Boxmeisterschaft.
+Found
+MODSMD_ARTICLE03: Verstärkte Hilfe der Krankenkassen für kinderreiche Familien.
+Found
+MODSMD_ARTICLE04: Ocsterreichische Bewunderung für die deutschen Werkstoffe.
+Found
+MODSMD_ARTICLE06: Die dänische Presse zur Rede des Botschafters v. Ribbentrop.
+Found
+MODSMD_ARTICLE07: Botschafter von Hassel! in Genna.
+Found
+MODSMD_ARTICLE08: „Tevere" zu den Beschlüssen des Faschistischen Großrats.
+Found
+MODSMD_ARTICLE09: Neuer Lehrstuhl am „Cenire d'Etude Polonaise".
+Found
+MODSMD_ARTICLE10: Demonstrationen gegen den Emigranten Kah.
+Found
+MODSMD_ARTICLE11: Ungarns Außenminister gegen politische Blockbildungen.
+Found
+MODSMD_ARTICLE12: 359 KW RM Geldstrafe für Preiswucherer.
+Found
+MODSMD_ARTICLE13: Die polnischen Städte für die nationale Einigung.
+Found
+MODSMD_ARTICLE14: Vollstreckung eines Todesurteils.
+Found
+MODSMD_ARTICLE15: Zwei Jahre Zuchthaus für einen jüdischen Rasseschänder.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Berliner Gautagung der NS.-Frauenschaft.
+Found
+MODSMD_ARTICLE02: Die italienischen Journalisten in Frankfurt.
+Found
+MODSMD_ARTICLE03: Aus dem Deutsch-Englischen Jugendlager zurückgekehrt.
+Found
+MODSMD_ARTICLE04: Göring in Rom.
+Found
+MODSMD_ARTICLE05: Deutsche Buchausstellung in Sofia.
+Found
+MODSMD_ARTICLE06: Eden bei van Zeeland und Spaak.
+Found
+MODSMD_ARTICLE07: Die Londoner Presse zu Belgiens Entpflichtungen.
+Found
+MODSMD_ARTICLE08: Polnisch-rumänische Staatsbesuche im Juni.
+Found
+MODSMD_ARTICLE09: Polens Presse zum Besuch Becks in Bukarest.
+Found
+MODSMD_ARTICLE10: Tochter des Gesandten von Paraguay in Wien ermordet.
+Found
+MODSMD_ARTICLE11: Stillstand in Montreux.
+Found
+MODSMD_ARTICLE12: Senator Lemery ruft zum Kampf gegen Moskau.
+Found
+MODSMD_ARTICLE13: Bäckermeister eines ganzen Departements wollen streiken.
+Found
+MODSMD_ARTICLE14: Neue Flugzeuglieferungen an das bolschewistische Spanien.
+Found
+MODSMD_ARTICLE15: Wieder britischer Dampfer nach Bilbao unterwegs.
+Found
+MODSMD_ARTICLE16: Zivilbevölkerung muß Madrid verlassen.
+Found
+MODSMD_ARTICLE17: Madrider „Verteidigungsrat" aufgelöst.
+Found
+MODSMD_ARTICLE18: Will Mexiko seine Spanien-Transporte schützen?
+Found
+MODSMD_ARTICLE19: Wieder Streikfieber in Amerika.
+Found

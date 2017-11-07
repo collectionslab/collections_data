@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Göring vor den Kärntnern
+Found
+MODSMD_ARTICLE02: Neichsminister Dr. Frank in Kiel.
+Found
+MODSMD_ARTICLE03: Der Führer heute in Frankfurt.
+Found
+MODSMD_ARTICLE04: Allgemeine Flucht der Bevölkerung aus Barcelona.
+Found

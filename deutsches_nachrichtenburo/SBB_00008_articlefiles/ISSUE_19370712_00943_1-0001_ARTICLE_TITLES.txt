@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Telegrammwechsel zwischen Dr. Goebbels und Dr. Ley.
+Found
+MODSMD_ARTICLE02: Katholischer Pfarrer leistete Beihilfe zur Rassenschande.
+Found
+MODSMD_ARTICLE03: Dr. Strölin Präsident eines Internationalen Verbands.
+Found
+MODSMD_ARTICLE04: Im Fahrwasser der 2. und 3. Internationale.
+Found
+MODSMD_ARTICLE05: Frankreich verwirklicht seinen Beschluß.
+Found
+MODSMD_ARTICLE06: Chautemps warnt Unruhestifter.
+Found
+MODSMD_ARTICLE07: Der jugoslawische Generalstabschef in Paris.
+Found
+MODSMD_ARTICLE08: Paeelli nach Paris zurückgekehrt.
+Found
+MODSMD_ARTICLE09: Pariser Polizei geht mit dem Gummiknüppel vor.
+Found
+MODSMD_ARTICLE10: Italienische Skepsis.
+Found
+MODSMD_ARTICLE11: Taufe des bulgarischen Thronfolgers.
+Found
+MODSMD_ARTICLE12: Griechische Richtigstellung.
+Found
+MODSMD_ARTICLE13: Eden wieder in London.
+Found
+MODSMD_ARTICLE14: Unruhen in Nordsyrien.
+Found
+MODSMD_ARTICLE15: Wachsender arabischer Widerstand gegen den englischen Plan.
+Found
+MODSMD_ARTICLE16: Katholischer Geistlicher als Sittlichkeitsverbrecher in USA.
+Found
+MODSMD_ARTICLE17: Die ausländischen Konzessionen in China treffen Vorsorge.
+Found

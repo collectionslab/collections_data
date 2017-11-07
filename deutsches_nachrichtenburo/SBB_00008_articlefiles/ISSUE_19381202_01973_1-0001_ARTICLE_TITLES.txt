@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Das Auftreten der Juden in der Öffentlichkeit.
+Found
+MODSMD_ARTICLE02: Neues deutsch-venezolanisches Handelsabkommen.
+Found
+MODSMD_ARTICLE03: Sudetendeutsche Wahlkundgebung in Berlin.
+Found
+MODSMD_ARTICLE04: England organisiert den freiwilligen nationalen Dienst.
+Found
+MODSMD_ARTICLE05: Keine Schlachtschiffe über 49 KM Tonnen?
+Found
+MODSMD_ARTICLE06: Ansammlung von Goldreserven in Südafrika und Kanada.
+Found
+MODSMD_ARTICLE07: Der Generalstreik vor dem Ministerrat.
+Found
+MODSMD_ARTICLE08: Sieben Jahre Wirtschaftskrise in Frankreich.
+Found
+MODSMD_ARTICLE09: Beschleunigte Wahlreform in Frankreich?
+Found
+MODSMD_ARTICLE10: Ankündigung nationalspanischer Fliegerangriffe.
+Found
+MODSMD_ARTICLE11: Im Zeichen der Nichteinmischung.
+Found
+MODSMD_ARTICLE12: Um die Auflösung der Vaterländischen Volksbewegung.
+Found
+MODSMD_ARTICLE13: Neues Kartellgesetz in Polen.
+Found
+MODSMD_ARTICLE14: Die Oelleitung wieder iu Brand gesteckt.
+Found
+MODSMD_ARTICLE15: Vom Kleinkrieg zum offenen Gefecht.
+Found
+MODSMD_ARTICLE16: Australien will 13 0W Juden aufnehmen.
+Found

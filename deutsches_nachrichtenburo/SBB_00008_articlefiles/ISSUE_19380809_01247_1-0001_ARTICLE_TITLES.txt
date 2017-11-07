@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Die Richtlinien der Erziehungsarbeit der DAF.
+Found
+MODSMD_ARTICLE02: Luftmarschall Balbo nach Deutschland gestartet.
+Found
+MODSMD_ARTICLE03: Die 6. Internationale Filmkunstschau eröffnet.
+Found
+MODSMD_ARTICLE04: „Die Verteidigung der Rasse" ein voller Erfolg.
+Found
+MODSMD_ARTICLE05: Der Mörder von Glaserwald ein tschechischer Emigrant.
+Found
+MODSMD_ARTICLE06: Neuer linkstschechischer Vorstoß gegen Hodscha.
+Found
+MODSMD_ARTICLE08: „Wreme" über die gewaltigen Baupläne für München.
+Found
+MODSMD_ARTICLE09: Chamberlain wieder in London.
+Found
+MODSMD_ARTICLE10: „Times": „England kann von deutschem Opfergeist lernen."
+Found
+MODSMD_ARTICLE11: Ablenkung von der Nationalitätenfrage.
+Found
+MODSMD_ARTICLE12: „Gazeta Polska" zum Nationalitätenstatut.
+Found
+MODSMD_ARTICLE13: Besorgnis um das Schicksal polnischer Segelflieger.
+Found
+MODSMD_ARTICLE14: Daladier wieder in Paris.
+Found
+MODSMD_ARTICLE15: Heimaturlaub des Oberkounnissars in Syrien.
+Found
+MODSMD_ARTICLE16: Nationalspanisches Jugendlager bei Santander.
+Found
+MODSMD_ARTICLE17: Oppositionsmitglieder in Damaskus haftentlassen.
+Found
+MODSMD_ARTICLE18: Der englische Oberkommissar an die Bevölkerung Palästinas.
+Found
+MODSMD_ARTICLE19: Marschall Blücher übernimmt das Oberkommando.
+Found
+MODSMD_ARTICLE20: Sowjetrussischer Angriff bei Schuiliufeng.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ehrenhirschfänger für Alpers und Scherping.
+Found
+MODSMD_ARTICLE02: Erforschung der Judenfrage durch die deutsche Wissenschaft.
+Found
+MODSMD_ARTICLE03: Die „Statutenkomödie" in Prag.
+Found
+MODSMD_ARTICLE04: „Die Lage der Nationalitäten weiterhin nebelhaft."
+Found
+MODSMD_ARTICLE05: Wieder polnisch-tschechischer Grenzverkehr.
+Found
+MODSMD_ARTICLE06: Fieberhafte Vorbereitungen der Roten Armee in Fernost.
+Found
+MODSMD_ARTICLE07: Geiseln zusammengebunden ins Meer geworfen.
+Found
+MODSMD_ARTICLE08: Der nationale Heeresbericht vom Montag.
+Found
+MODSMD_ARTICLE09: „Valencia in Gefahr, Madrid äußerst gefährdet."
+Found
+MODSMD_ARTICLE10: Jugoslawische Beamte müssen Minderheitensprachen lernen.
+Found
+MODSMD_ARTICLE11: Englands Sorgen wegen steigender Arbeitslosigkeit,
+Found
+MODSMD_ARTICLE12: Moskau wirbt um Amerikas Katholiken.
+Found
+MODSMD_ARTICLE13: Der Einmarsch der türkischen Truppen im Sandscha?.
+Found
+MODSMD_ARTICLE14: Auch französische Truppen im Sandschak einmarschiert.
+Found

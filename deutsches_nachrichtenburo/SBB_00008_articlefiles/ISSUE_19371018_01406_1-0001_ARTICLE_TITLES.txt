@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer an den Deutschen Beamtentag.
+Found
+MODSMD_ARTICLE02: Staatssekretär Funk empfing Generaldirektor Bonomi.
+Found
+MODSMD_ARTICLE03: Ausbau des Reiseverkehrs Deutschland—Italien.
+Not Found
+MODSMD_ARTICLE04: Der schwedische Landwirtschaftsminister in Berlin.
+Found
+MODSMD_ARTICLE05: Minister Seldte über sozialpolitische Aufgaben.
+Found
+MODSMD_ARTICLE06: Die Fahrt der Alten Garde der Bayerischen Ostmark.
+Found
+MODSMD_ARTICLE07: Offener Brief Konrad Henleins an Benesch.
+Found
+MODSMD_ARTICLE08: Staatssekretär Dr. Lammers in Paris.
+Found
+MODSMD_ARTICLE09: Die große Parade der römischen Polizei vor dem Düce.
+Found
+MODSMD_ARTICLE10: Himmler bei Mussolini.
+Found
+MODSMD_ARTICLE11: Die deutschen Flieger beim englischen Luftfahrtminister.
+Found
+MODSMD_ARTICLE12: Wolfgang von Gronau in Brüssel.
+Found
+MODSMD_ARTICLE13: Die bisherigen Zusagen zur Nennmächte-Konferenz.
+Found
+MODSMD_ARTICLE14: Protest gegen Englands Palästinapolitik.
+Found
+MODSMD_ARTICLE15: Wieder Schießereien in Jerusalem.
+Found

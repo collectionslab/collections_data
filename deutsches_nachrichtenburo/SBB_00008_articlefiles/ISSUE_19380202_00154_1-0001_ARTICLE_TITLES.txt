@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Geburtstags-Glückwünsche für Neurath.
+Found
+MODSMD_ARTICLE02: Die Parole für die Nechtswahrer.
+Found
+MODSMD_ARTICLE03: Schi räch vor den Abteilungsleitern der HI.
+Found
+MODSMD_ARTICLE04: Würdigung Neuraths in der norditalienischen Presse.
+Found
+MODSMD_ARTICLE05: Englische Auszeichnung für deutschen Ingenieur.
+Found
+MODSMD_ARTICLE06: Admiral Backhouse zum Ersten Seelord ernannt.
+Found
+MODSMD_ARTICLE07: Die sowjetspanischen Piraten wieder am Werk.
+Found
+MODSMD_ARTICLE08: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE09: 67 sowjetspanische Flugzeuge im Jappar abgeschossen.
+Found
+MODSMD_ARTICLE10: Rotspanier in sowjetrussischen Fliegerschulen.
+Found
+MODSMD_ARTICLE11: Beginn der Manöver in Singapur.
+Found
+MODSMD_ARTICLE12: Japans Kampf gegen den Kommunismus.
+Found
+MODSMD_ARTICLE13: Japan erkennt Kuomintang-Abkommen nicht an.
+Found
+MODSMD_ARTICLE14: Amerikas Außenpolitik weiter unverändert.
+Found
+MODSMD_ARTICLE15: Die Beratungen im amerikanischen Marineausschuß.
+Found

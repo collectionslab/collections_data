@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Berliner Kunstwochen 1338 feierlich eröffnet.
+Found
+MODSMD_ARTICLE02: Der Reichsjustizminisber in Wien.
+Found
+MODSMD_ARTICLE03: Dr. Ley in Kapfenberg.
+Found
+MODSMD_ARTICLE04: Der Internationale Ausschuß für Strafrecht tagt in Florenz«
+Found
+MODSMD_ARTICLE05: Abschluß des Mussolini-Besuchs in Ligurien.
+Found
+MODSMD_ARTICLE06: Tagung der sudetendeutschen Richter und Staatsanwälte.
+Found
+MODSMD_ARTICLE07: Prags Antwort auf die Schritte Englands und Frankreichs.
+Found
+MODSMD_ARTICLE08: Beschlagnahme polnischer Blätter in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE09: Wilnaer Studenten fordern eine judensreie Universität.
+Found
+MODSMD_ARTICLE10: Minister Homan über sein Aufgabengebiet.
+Found
+MODSMD_ARTICLE11: Ein Briefwechsel Lord Swintons mit Chamberlain.
+Found
+MODSMD_ARTICLE12: Kabinettsrat beim englischen König.
+Found
+MODSMD_ARTICLE13: Prüfung der Prager Note in London.
+Found
+MODSMD_ARTICLE14: Erste Sitzung des neuen belgischen Kabinetts.
+Found
+MODSMD_ARTICLE15: Französische Mmisterbesprechungen.
+Found
+MODSMD_ARTICLE16: Attentatspsychose in der Bretagne.
+Found
+MODSMD_ARTICLE17: Weitere Zwischenfälle in Palästina.
+Found
+MODSMD_ARTICLE18: Revolte eines mexikanischen Generals?
+Found
+MODSMD_ARTICLE19: Schnellverfahren gegen die brasilianischen Ausständischen.
+Found

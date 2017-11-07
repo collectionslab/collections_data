@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: General Hamilton vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Holländische Arbeiter erleben Berlin.
+Found
+MODSMD_ARTICLE03: Duff Cooper in Kiel.
+Found
+MODSMD_ARTICLE04: Sudetendeutsche Jugend darf nicht zum Weltjugendkongreß.
+Found
+MODSMD_ARTICLE06: Der Kernpunkt des tschecho-slowakischen Problems.
+Found
+MODSMD_ARTICLE07: Diplomatenehen am Quai d'Orsnp genehmigungspflichtig.
+Found
+MODSMD_ARTICLE08: Frankreich läßt 8000 Freiwillige nach Sowjetspanien.
+Found
+MODSMD_ARTICLE09: Die blutmäßigen Grundlagen des Imperiums.
+Found
+MODSMD_ARTICLE10: Nationaler Luftangriff auf Südkatalonien.
+Found
+MODSMD_ARTICLE11: Nationalspanische Flottenpläne.
+Found

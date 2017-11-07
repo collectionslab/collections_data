@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Telegrammwechsel Zwischen dem Führer und Marschall Balbo.
+Found
+MODSMD_ARTICLE02: Die Präsidenten der Rechtsanwaltskammern.
+Found
+MODSMD_ARTICLE03: Erleichterter Reiseverkehr von Danzig nach dem Auslajnd.
+Found
+MODSMD_ARTICLE04: Telegrammwechsel Ciano—Stojadinowitsch.
+Not Found
+MODSMD_ARTICLE05: Jugoslawien feiert den Jahrestag des „Adria-Paktes".
+Found
+MODSMD_ARTICLE06: Das neue litauische Kabinett.
+Found
+MODSMD_ARTICLE07: Polens konsularische Vertretung in Wien.
+Found
+MODSMD_ARTICLE08: Die Regierung Hodscha ohne parlamentarische Mehrheit.
+Found
+MODSMD_ARTICLE09: Jüdische Gelder für Schufchmggs „Volksabstimmung".
+Found
+MODSMD_ARTICLE10: Vormarsch an allen Kampfabschnitten Aragons.
+Found
+MODSMD_ARTICLE11: Schulkreuzer „Emden" iu Bilbao.
+Found
+MODSMD_ARTICLE12: Sensationelle Enthüllungen des „Jonr".
+Found
+MODSMD_ARTICLE13: Amerikadeutsche Versammlung überfallen.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Weihnachtssitzung der „Stiftung für Opfer der Arbeit".
+Found
+MODSMD_ARTICLE02: Ein Aufruf der Reichsfrauenführerin.
+Found
+MODSMD_ARTICLE03: Höchste Preise für Sonderschau „Deutsche Kunsterziehung".
+Found
+MODSMD_ARTICLE04: Eine kritische Betrachtung zur Delbos-Reise.
+Found
+MODSMD_ARTICLE05: Die Dezembertagung des italienischen Ministerrats.
+Found
+MODSMD_ARTICLE06: Der Herzog von Aosta auf dem Wege nach Aethiopien.
+Found
+MODSMD_ARTICLE07: Baron Okura auf dem Wege nach Paris.
+Found
+MODSMD_ARTICLE08: „Popolo di Roma" zu den Vorgängen in Ostasien.
+Found
+MODSMD_ARTICLE09: Tie Lage im Fernen Osten vor dem britischen Kabinett.
+Found
+MODSMD_ARTICLE10: Der Irische Freistaat in Zukunft „Eire".
+Found
+MODSMD_ARTICLE11: Scharfe Kritik an Oesterreichs Finanzpolitik.
+Found
+MODSMD_ARTICLE12: Raetoromanisch die vierte Nationalsprache der Schweiz.
+Found
+MODSMD_ARTICLE13: Schwere Wahlunruhen auf den Philippinen.
+Found

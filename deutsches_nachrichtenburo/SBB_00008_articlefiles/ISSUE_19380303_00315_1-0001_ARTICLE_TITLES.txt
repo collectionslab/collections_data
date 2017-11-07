@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Aussprache des Führers mit Henderson.
+Found
+MODSMD_ARTICLE02: Dr. Leys Abschied von Reichsamtsleiter Dr. Adolf Wagner.
+Found
+MODSMD_ARTICLE03: Wie Ossietzky von seinem Vertrauensmann begaunert wurde.
+Found
+MODSMD_ARTICLE04: Keine Genugtuung für Teplitz-Schönau?
+Found
+MODSMD_ARTICLE05: ExPräsident Hoover in Wien zum Ehrendoktor promoviert.
+Found
+MODSMD_ARTICLE06: Außenminister von Kanya wieder in Budapest.
+Found
+MODSMD_ARTICLE07: Tie japanische Militärmission in Rom eingetroffen.
+Found
+MODSMD_ARTICLE08: Neichsstatthalter Ritter von Epp aus Tripolis abgereist.
+Found
+MODSMD_ARTICLE09: W Jahre bulgarische Unabhängigkeit.
+Found
+MODSMD_ARTICLE10: Bolschewistisches Werbebüro in Slowenien ausgehoben.
+Found
+MODSMD_ARTICLE11: Stalin selbst ließ Kirow ermorden?
+Found
+MODSMD_ARTICLE12: „Der Wahnsinn regiert in Sowjetrußland."
+Found
+MODSMD_ARTICLE13: Starkes Interesse der Schweiz für die Reichsantobahnen.
+Found
+MODSMD_ARTICLE14: Diplomateneinpfang am Hof von St. James.
+Found
+MODSMD_ARTICLE15: Streik in den Schuhfabriken von Limoges.
+Found
+MODSMD_ARTICLE16: Landesverteidigung dringlicher als Militärakkorde.
+Found

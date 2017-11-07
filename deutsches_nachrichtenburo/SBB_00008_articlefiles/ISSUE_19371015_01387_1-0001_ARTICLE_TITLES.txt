@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Dr. Goebbels besucht die Ausstellung „Schaffendes Volk".
+Found
+MODSMD_ARTICLE02: Coburg am Vorabend der 15-Jahr-Feier.
+Found
+MODSMD_ARTICLE03: Drei Juden begehen Volksverrat und Devisenverbrechlen.
+Found
+MODSMD_ARTICLE04: Außenminister Spaak zum deutsch-belgischen Notenwechsel.
+Found
+MODSMD_ARTICLE05: Brüsseler Barmat-Prozeß.
+Found
+MODSMD_ARTICLE06: Abg. Schmidt-Wodder fordert Regelung der Bodenfrage.
+Found
+MODSMD_ARTICLE07: Die deutschen Zeitungsverleger besuchen Pariser Zeitungen.
+Found
+MODSMD_ARTICLE08: Frankreichs Note an London „nur Vorschläge".
+Found
+MODSMD_ARTICLE09: Rückreise Stojadinowitschs am Sonnabend über Paris.
+Found
+MODSMD_ARTICLE10: Französische Beamte von Sowjetspaniern beschossen.
+Found
+MODSMD_ARTICLE11: Sperrzone um das Wrack des Bolschewisten-Dampfers.
+Found
+MODSMD_ARTICLE12: Litwinow-Finkelstein war in Paris.
+Found
+MODSMD_ARTICLE13: Chamberlain verteidigt Englands Außenpolitik.
+Found
+MODSMD_ARTICLE14: Eröffnung der Londoner Auto-Ausstellung.
+Found
+MODSMD_ARTICLE15: Die Preissteigerungen in England.
+Found
+MODSMD_ARTICLE16: Auszeichnung des polnischen Gesandten in Wien.
+Found
+MODSMD_ARTICLE17: Zuchthaus gegen Kommunisten in Italien.
+Found
+MODSMD_ARTICLE18: Sicherheit in Aethiopien gewährleistet.
+Found
+MODSMD_ARTICLE19: Wiederbeginn der Unruhen in Palästina.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Reichsorganisationsleiter Dr. Ley in Angerburg.
+Found
+MODSMD_ARTICLE02: Die 50-Jahrfeier der deutschen Torpedo-Waffe.
+Found
+MODSMD_ARTICLE03: Gauleiter Forster über Danzigs Politik.
+Found
+MODSMD_ARTICLE04: Tie deutschen Arbeiter in Rom.
+Found
+MODSMD_ARTICLE05: Sowjetslugzeug wieder über polnischem Gebiet.
+Found
+MODSMD_ARTICLE06: Erklärung der Sudeteudeutfchen Partei.
+Found
+MODSMD_ARTICLE07: Das Erntedankfest der Sudetendeutschen Partei.
+Found
+MODSMD_ARTICLE08: Eine Rede des rumänischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE09: Enthüllung des Kriegsmarinedenkmals in Budapest.
+Found
+MODSMD_ARTICLE10: Soziale Dienstpflicht für Frauen in Spanien.
+Found

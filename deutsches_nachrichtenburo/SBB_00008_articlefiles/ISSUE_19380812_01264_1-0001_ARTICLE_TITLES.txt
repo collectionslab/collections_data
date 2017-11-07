@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Staatssekretär Kleimnann Leiter der RDV.
+Found
+MODSMD_ARTICLE02: Die Spendenkarten an Reichsbahn-Fahrkartenausgaben»
+Found
+MODSMD_ARTICLE03: Austausch deutsch-französischer Ratifikationsurkunden.
+Found
+MODSMD_ARTICLE04: Notlandung eines bulgarischen Piloten in Reichenberg.
+Found
+MODSMD_ARTICLE05: Der sudetendeutsche Postbeamte versetzt.
+Found
+MODSMD_ARTICLE06: Die tschechischen Versprechungen wertlos.
+Found
+MODSMD_ARTICLE07: Die Genfer Liga hat au Bedeutung verloren.
+Found
+MODSMD_ARTICLE08: Staatsbegräbnis für die 7 ungarischen Journalisten.
+Found
+MODSMD_ARTICLE09: St. Stephaustag wird ungarischer Nationalfeiertag.
+Found
+MODSMD_ARTICLE10: „Bereitsein heißt nicht Kriegspsychose".
+Found
+MODSMD_ARTICLE11: Das nationalspanische Aufbauwerk.
+Found
+MODSMD_ARTICLE12: Neuordnung des Lehrlingswesens in Spanien.
+Found
+MODSMD_ARTICLE13: Der Vizekönig von Aethiopien in Addis Abbeba.
+Found
+MODSMD_ARTICLE14: Lösung des Palästina-Problems noch in der Schwebe.
+Found
+MODSMD_ARTICLE15: Trotz hes Waffenstillstandes Kriegshetze um jeden Preis.
+Found
+MODSMD_ARTICLE16: Chinesische Terroristen am Werk.
+Found
+MODSMD_ARTICLE17: Tokio erwartet Beruhigung au den Grenzen.
+Found
+MODSMD_ARTICLE18: Amerikanischer Bischof über Greueltaten in Sowjctspanien.
+Found

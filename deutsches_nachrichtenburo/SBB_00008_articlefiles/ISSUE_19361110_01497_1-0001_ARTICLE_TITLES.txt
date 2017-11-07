@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Berliner Gedenkfeiern zum 9. November.
+Found
+MODSMD_ARTICLE02: Kranzniederlegung und Vorbeimarsch am Ehrenmal.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels besichtigt Antibolschewistische Schau.
+Found
+MODSMD_ARTICLE04: Ungarische Würdigung des 9. November 1923.
+Found
+MODSMD_ARTICLE05: Judenfeindliche Studentenkundgebnngen in Budapest.
+Found
+MODSMD_ARTICLE06: Kommunistische Störungsversuche in Warschau. –
+Not Found
+MODSMD_ARTICLE07: Aerzteslucbt in Sowjetrustland.
+Found
+MODSMD_ARTICLE08: Soziale Volkspartei gegen Moskau.
+Found
+MODSMD_ARTICLE09: St. Etienne ohne Gas.
+Found
+MODSMD_ARTICLE10: Frankreichs Sozialdemokraten weiter für Volksfront.
+Found
+MODSMD_ARTICLE11: Lord Cranborne zur sowjetrussischen Propaganda.
+Found
+MODSMD_ARTICLE12: Vorbereitungen für den Großangriff auf Malaga.
+Found
+MODSMD_ARTICLE13: Bombardement der befestigten Punkte innerhalb Madrids.
+Found
+MODSMD_ARTICLE14: Kampf der Guardia Civil gegen die Roten.
+Found
+MODSMD_ARTICLE15: Sudetendeutsche Landjugend löst parteipolitische Bindung.
+Found

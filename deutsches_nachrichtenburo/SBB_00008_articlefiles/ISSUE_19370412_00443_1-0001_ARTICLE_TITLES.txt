@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Ausreise der Nanga-Parbat-Expedition.
+Found
+MODSMD_ARTICLE02: Ungeheurer Andrang auf Schulschiff „Schleswig-Holstein".
+Found
+MODSMD_ARTICLE03: Gauleiter Florian in Bukarest.
+Found
+MODSMD_ARTICLE04: Was ist mit den Führer-Marken in der Tschechoslowakei?
+Found
+MODSMD_ARTICLE05: Die schweizerisch-deutschen Pressebeziehungn.
+Found
+MODSMD_ARTICLE06: Reiseprogramm des polnischen Außenministers.
+Found
+MODSMD_ARTICLE07: 6000 polnische Textilarbeiter streiken.
+Found
+MODSMD_ARTICLE08: Bnndeskommissar für Preisüberwachung in Oesterreich.
+Found
+MODSMD_ARTICLE09: Lettlands Außenminister reist nach Finnland.
+Found
+MODSMD_ARTICLE10: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE11: Sowjetrussische Flieger wollen nicht mehr aussteigen.
+Found
+MODSMD_ARTICLE12: Wiederaufforstung der Wälder im nationalen Spanien.
+Found
+MODSMD_ARTICLE13: Bolschewistische Flugzeuge in Frankreich gelandet.
+Found
+MODSMD_ARTICLE14: Sowjetrussisches Schwimmdock nach Spanien unterwegs!
+Found
+MODSMD_ARTICLE15: Schlachtschiff „Hood" verläßt Gibraltar.
+Found
+MODSMD_ARTICLE16: Das Marokko-Angebot del Vajos abgewiesen.
+Found
+MODSMD_ARTICLE18: Ruhiger Wahlsonntag in Brüssel.
+Found
+MODSMD_ARTICLE19: Prinz Nikolaus auch aus Rumäniens Armee ausgeschlossen.
+Found
+MODSMD_ARTICLE20: Durchreise türkischer Staatsmänner durch Sofia.
+Found
+MODSMD_ARTICLE21: Türkischer Staatsbesuch in Belgrad.
+Found
+MODSMD_ARTICLE22: Die Kämpfe in Waziristan. Starke britische Verluste.
+Found

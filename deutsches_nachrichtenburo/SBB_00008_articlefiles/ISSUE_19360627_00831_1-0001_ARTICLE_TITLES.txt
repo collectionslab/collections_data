@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Sitzung des Neichskabinetts.
+Found
+MODSMD_ARTICLE02: Besichtigungsreise des Reichskriegsministers.
+Found
+MODSMD_ARTICLE03: Zentralstelle für weltanschauliche Gestaltung.
+Found
+MODSMD_ARTICLE04: Enge Zusammenarbeit von Film und Rundfunk.
+Found
+MODSMD_ARTICLE05: Zur Verstaatlichung der französischen Kriegsmittelinsnstrlep
+Found
+MODSMD_ARTICLE06: Generalstreik in St. Nazaire.
+Found
+MODSMD_ARTICLE07: Die Völkerbundsratssitzung.
+Found
+MODSMD_ARTICLE08: Uruguay gegen Sanktionen und für Völkerbundsrefsrm.
+Found
+MODSMD_ARTICLE09: Beseitigung des geistlichen Schulunterrichts in Spanien.
+Found
+MODSMD_ARTICLE10: Roosevelt zum Präsidentschaftskandidaten wiedergewählt.
+Found

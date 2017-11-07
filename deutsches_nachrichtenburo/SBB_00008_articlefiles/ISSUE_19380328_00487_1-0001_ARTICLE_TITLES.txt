@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Oesterreichs Wiederaufbau. Generalfeldmarschall Göring verkündet das Programm.
+Found
+MODSMD_ARTICLE02: „Wie ein geborener Oesterreicher hat Göring gesprochen."
+Found
+MODSMD_ARTICLE03: Göring ehrt die Gefallenen des Weltkrieges.
+Found

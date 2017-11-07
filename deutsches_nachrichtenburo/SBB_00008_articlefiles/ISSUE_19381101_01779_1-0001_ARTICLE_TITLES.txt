@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Feierliche Uebernahme der SdP. in die NSDAP.
+Found
+MODSMD_ARTICLE02: Beförderungen in der Kriegsmarine.
+Found
+MODSMD_ARTICLE03: Beschleunigter Neubau von Getreidelagerraum.
+Found
+MODSMD_ARTICLE04: Besuch des italienischen Kronprinzen im Führerbau.
+Found
+MODSMD_ARTICLE05: Kriegler über den Einsatz des deutschen Rundfunks.
+Found
+MODSMD_ARTICLE06: Reichsaußenminister von Ribbentrop in Wien.
+Found
+MODSMD_ARTICLE07: Die ungarische Abordnung nach Wien abgereist.
+Found
+MODSMD_ARTICLE08: Ministerpräsident Woloschin in Preßburg.
+Found
+MODSMD_ARTICLE09: Einigung über die tschechoslowakisch—polnische Grenze.
+Not Found
+MODSMD_ARTICLE10: Der 5. Memellandtag zusammengetreten.
+Found
+MODSMD_ARTICLE11: Eine unglaubliche Geschmacklosigkeit Herriots.
+Found
+MODSMD_ARTICLE12: Graf Grand: wieder in London.
+Found
+MODSMD_ARTICLE13: Chamberlam zum englisch-italienischen Abkommen.
+Found
+MODSMD_ARTICLE14: Chamberlain-Erklärnng zum Rüstuugsstatus augekündigt.
+Found
+MODSMD_ARTICLE15: Minister Pirow in England.
+Found
+MODSMD_ARTICLE16: Mit Haubitzen und Panzerwagen gegen die Araber.
+Found
+MODSMD_ARTICLE17: Gegen den chinesischen Guerillakrieg.
+Found
+MODSMD_ARTICLE18: Tokios Schutzleute Vorbild für nationale Selbstversorgung.
+Found
+MODSMD_ARTICLE19: Vereinigung von zwei japanischen Heeresgruppen.
+Found
+MODSMD_ARTICLE20: Amerikanische Einmischung in die Palästina-Frage.
+Found
+MODSMD_ARTICLE21: Empfang zu Ehren des Herzogs Adolf Friedrich.
+Found

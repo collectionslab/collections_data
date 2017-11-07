@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Nichtangriffsverträge mit Estland und Lettland in Kraft.
+Found
+MODSMD_ARTICLE02: Grenzzwischenfall bei Saarlautern.
+Found
+MODSMD_ARTICLE03: Ins Reichsarbeitsministerium berufen.
+Found
+MODSMD_ARTICLE04: Tendenziöse Gerüchte um den Csaky-Besuch in Salzburg.
+Found
+MODSMD_ARTICLE05: Der Weltbund gegen den Alkoholismus.
+Found
+MODSMD_ARTICLE06: Göring in der Großen Deutschen Kunstausstellung.
+Found
+MODSMD_ARTICLE07: Die Reichsautobahn Jena—Weimar eröffnet.
+Found
+MODSMD_ARTICLE08: Auch Reichsdeutsche in Ostoberschlesien im Gefängnis.
+Found
+MODSMD_ARTICLE09: Verschärfter Terror in Posen und Pommerellen.
+Found
+MODSMD_ARTICLE10: Prämien für Anzeigen gegen Deutsche!
+Found
+MODSMD_ARTICLE11: Reichsdeutsche von Polen verschleppt.
+Found
+MODSMD_ARTICLE12: Ukrainische Kinder von Polen zu Tode geprügelt.
+Found
+MODSMD_ARTICLE13: Rom warnt Polen vor dem englischen Blankowechsel.
+Found
+MODSMD_ARTICLE14: Graf Csaky in Rom.
+Found
+MODSMD_ARTICLE15: Gegen einen Ersatz-Judmstaat im Negev Gebiet.
+Found
+MODSMD_ARTICLE16: Volksmenge gegen den Verräter Naschaschibi.
+Found

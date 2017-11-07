@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Staatssekretär Reinhardt über die Betriebsprüfung.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels bei Ministerpräsident Metaxas.
+Found
+MODSMD_ARTICLE03: Ter Besuch des Reichsaußenministers in Ungarn.
+Found
+MODSMD_ARTICLE04: übt) Italiener besuchen Deutschland.
+Found
+MODSMD_ARTICLE05: Ricci und Schirach bor der deutschen Kolonie in Florenz.
+Found
+MODSMD_ARTICLE06: Neichswettbewerb des RLF. für Motor- und Flugmodelle.
+Found
+MODSMD_ARTICLE07: Beverley Nichols über den deutschen Arbeitsdienst.
+Found
+MODSMD_ARTICLE08: Der Vollmachtsprüfungsausschuß in Genf gebildet.
+Found
+MODSMD_ARTICLE09: Wiederaufnahme des Verkehrs im nationalen Spanien.
+Found
+MODSMD_ARTICLE10: General de Llano zur Lage.
+Found
+MODSMD_ARTICLE11: Spaniens größte Geschützfabrik in nationalistischen Händen.
+Found
+MODSMD_ARTICLE12: Vor dem Hauptangriff auf Bilbao?
+Found
+MODSMD_ARTICLE13: Marxistische „Führer".
+Found
+MODSMD_ARTICLE14: Englische Beamte für Spaniens Marxisten.
+Found
+MODSMD_ARTICLE15: Zwischenfälle bei Kundgebung irischer Bolschewistenfeinde.
+Found
+MODSMD_ARTICLE16: Einstellung des Postanweisungsverkehrs mit Spanien.
+Found
+MODSMD_ARTICLE17: Der französische Handelsminister reist nach Jugoslawien.
+Found
+MODSMD_ARTICLE18: Prüfung der französischen Luftabwehrmöglichkeiten.
+Found

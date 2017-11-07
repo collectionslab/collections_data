@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Eintopfessen im Ehrenhof der Reichskanzlei.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels beglückwünscht Franz Staffen.
+Found
+MODSMD_ARTICLE03: Jaspar mit der Bildung des Kabinetts beauftragt.
+Found
+MODSMD_ARTICLE04: Das Märchen von dem „armen" Juden.
+Found
+MODSMD_ARTICLE05: Die Judenfrage in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE06: Slowakische Armee noch im Fahrwasser Beneschs.
+Found
+MODSMD_ARTICLE07: Jüdische Schieberbande in Ungarn unschädlich gemacht.
+Found
+MODSMD_ARTICLE08: Die Jahrestagung des Obersten Verteidigungsrates.
+Found
+MODSMD_ARTICLE09: Italien soll seine Gefallenen aus Frankreich heimholen.
+Found
+MODSMD_ARTICLE10: Llivia von nationalspanischen Truppen besetzt.
+Found
+MODSMD_ARTICLE11: Verzweiflungspolitik der roten Bonzen in Madrid.
+Found
+MODSMD_ARTICLE12: Mißglückter bolschewistischer Anschlag in Puigcerda.
+Found
+MODSMD_ARTICLE13: Schweres Eisenbahnunglück in Katalonien.
+Found
+MODSMD_ARTICLE14: Rotspanische Flüchtlinge plündern bei ihren Gastgebern.
+Found
+MODSMD_ARTICLE15: Französische Abgeordnete besuchten Nationalspaniem
+Found
+MODSMD_ARTICLE16: Flüchtlinge kehren heim.
+Found
+MODSMD_ARTICLE17: Französischer Schritt in Tokio.
+Found
+MODSMD_ARTICLE18: Explosion auf einem englischen Dampfer.
+Found
+MODSMD_ARTICLE19: Englisch-arabische Besprechung.
+Found
+MODSMD_ARTICLE20: Das britische Schreckensregiment in Palästina.
+Found

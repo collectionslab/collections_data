@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Dr. Grimbach Zum Ministerialdirigenten ernannt.
+Found
+MODSMD_ARTICLE02: Der K. Waffentag der deutschen Kavallerie.
+Found
+MODSMD_ARTICLE03: Auch der letzte „Grand Prix" für Deutschland.
+Found
+MODSMD_ARTICLE04: Vrnnnenvergiftung eines französischen Blattes.
+Found
+MODSMD_ARTICLE05: Mexiko dankt Deutschland.
+Found
+MODSMD_ARTICLE06: 3 Flnchtlingsdampfer aus Spanien in Genua.
+Found
+MODSMD_ARTICLE07: „Erhebung eines Volkes, das nicht sterben will".
+Found
+MODSMD_ARTICLE08: Radikaler Minister vor dem Madrider Volksgerichtshof.
+Found
+MODSMD_ARTICLE09: Griechische Bischöfe gegen spanische Marxistengreuel.
+Found
+MODSMD_ARTICLE10: Spanische Generalkonsulatsmitglieder zurückgetreten.
+Found
+MODSMD_ARTICLE11: Portugiesische Erklärung über die Telephonstörung.
+Found
+MODSMD_ARTICLE12: Rede des Außenministers Delbos.
+Found
+MODSMD_ARTICLE13: Die Finanzpolitik Griechenlands.
+Found
+MODSMD_ARTICLE14: Ratlosigkeit unter den Araberführern.
+Found
+MODSMD_ARTICLE15: Der Kleinkrieg in Palästina.
+Found
+MODSMD_ARTICLE16: General Dill in Palästina.
+Found
+MODSMD_ARTICLE17: Neue Schwierigkeiten in Pakhoi.
+Found
+MODSMD_ARTICLE18: Kommunistische Truppe an der Mandschurei-Grenze.
+Found
+MODSMD_ARTICLE19: Aenderungen im chilenischen Kabinett.
+Found

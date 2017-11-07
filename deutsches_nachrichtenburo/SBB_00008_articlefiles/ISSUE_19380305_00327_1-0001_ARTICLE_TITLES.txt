@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Das Aufbauprogramm Ungarns. Daranyi ruft zur Konzentration aller Kräfte auf.
+Found
+MODSMD_ARTICLE02: Oesterreich zieht zwei Jahrgänge ein.
+Found
+MODSMD_ARTICLE03: Schuschnigg über die innere Befriedung in Oesterreich.
+Found
+MODSMD_ARTICLE04: Die Kennzahl der Großhandelspreise vom 2. März.
+Found

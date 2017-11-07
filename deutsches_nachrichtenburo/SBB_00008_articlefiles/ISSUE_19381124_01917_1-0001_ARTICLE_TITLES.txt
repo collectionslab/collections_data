@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: König Karol auf dem Berghof.
+Found
+MODSMD_ARTICLE02: Gauleitersihung bei Generalfeldmarschall Göring.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels vor den Leitern der Reichspropagandaämter.
+Found
+MODSMD_ARTICLE04: Kleinmann über Begabtenauslese bei der Reichsbahn.
+Found
+MODSMD_ARTICLE05: Die „armen" Juden in Sachsen.
+Found
+MODSMD_ARTICLE06: „Wreme" über die Krise der westlichen Demokratien.
+Found
+MODSMD_ARTICLE07: Die Regierungskrise in Ungarn.
+Found
+MODSMD_ARTICLE08: Wie Juden zu Vermögen kommen.
+Found
+MODSMD_ARTICLE09: Belgisch-Holländische Einigkeit.
+Found
+MODSMD_ARTICLE10: Die Pariser Vormittagsbesprechungen beendet.
+Found
+MODSMD_ARTICLE11: „Frieden zwischen alten Gegnern."
+Found
+MODSMD_ARTICLE12: „Laßt Berufsmörder aus den Führer los."
+Found
+MODSMD_ARTICLE13: „Schändliche Heuchelei bürgerlicher Kreise."
+Found
+MODSMD_ARTICLE14: Auch Süd-Rhodesien dankt für jüdischen Zuwachs.
+Found
+MODSMD_ARTICLE15: Australiens Aufrüstung.
+Found

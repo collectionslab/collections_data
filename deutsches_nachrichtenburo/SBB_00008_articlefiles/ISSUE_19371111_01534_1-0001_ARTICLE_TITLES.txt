@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der neue japanische Botschafter bei Moscicki.
+Found
+MODSMD_ARTICLE02: Neuer Unterstaatssekretär im polnischen Kultusministerium«
+Found
+MODSMD_ARTICLE03: Die Rechtsbefugnisse des ungarischen Oberhauses.
+Found
+MODSMD_ARTICLE04: „Toleranz und Verständnis unter den Nationen".
+Found
+MODSMD_ARTICLE05: Englisches Rekrutierungsbüro in die Luft geflogen.
+Found
+MODSMD_ARTICLE06: Der nationale Heeresbericht vom Mittwoch.
+Found
+MODSMD_ARTICLE07: Chaotische Zustände in Sowjetspanien.
+Found
+MODSMD_ARTICLE08: Vor dem inneren Zusammenbruch in Sowjetspanien?
+Found
+MODSMD_ARTICLE09: Wieder ein gefährlicher Terrorist in Frankreich verhaftet.
+Found
+MODSMD_ARTICLE10: Folgen der steigenden Preise in Volksfront-Frankreich.
+Found
+MODSMD_ARTICLE11: Streit um die Zusammensetzung der Brüsseler Ausschüsse.
+Found
+MODSMD_ARTICLE12: Spaaks Bemühungen gescheitert.
+Found
+MODSMD_ARTICLE13: Vor der Bildung eines neuen arabischen Komitees.
+Found
+MODSMD_ARTICLE14: Anhaltende Unruhe in Palästina.
+Found
+MODSMD_ARTICLE15: Die neue brasilianische Verfassung.
+Found
+MODSMD_ARTICLE16: Vargas über die neue Verfassung.
+Found

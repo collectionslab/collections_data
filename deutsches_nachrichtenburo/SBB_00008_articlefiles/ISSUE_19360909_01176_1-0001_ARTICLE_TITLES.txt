@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer zur Verlobung der Kronprinzessin Juliane.
+Found
+MODSMD_ARTICLE02: Hilgenfeldt an die Betrenten des Winterhilfswerkes.
+Found
+MODSMD_ARTICLE03: Polnisches Vorgehen gegen die Liga für Menschenrechte.
+Found
+MODSMD_ARTICLE04: General Rhdz-Smiglys Besuch in Venedig.
+Found
+MODSMD_ARTICLE05: General Rhdz-Smigly hat Venedig verlassen.
+Found
+MODSMD_ARTICLE06: 4 Regionen in der Neueinteilung der französischen Luftwaffe
+Found
+MODSMD_ARTICLE07: Die Tagung der Internationalen Law Association.
+Found
+MODSMD_ARTICLE08: „Journal des Debats" über die französische Flottenpolitik.
+Found
+MODSMD_ARTICLE09: Besetzung öffentlicher Gebäude soll verhindert werden.
+Found
+MODSMD_ARTICLE10: Der erste Tag der Sowjetmanöver in Weißrußland.
+Found
+MODSMD_ARTICLE11: „Times" über den Araberaufstand in Palästina.
+Found
+MODSMD_ARTICLE12: Humanisierung des spanischen Bürgerkrieges gescheitert.
+Found
+MODSMD_ARTICLE13: Sowjetrussische Waffensendungen für Spanien.
+Found
+MODSMD_ARTICLE14: Portugal nimmt am Neutralitätsausschuß nicht teil.
+Found
+MODSMD_ARTICLE15: Die 3. Weltkraftkonferenz.
+Found
+MODSMD_ARTICLE16: Zur Ermordung des Japaners in Pakhoi.
+Found

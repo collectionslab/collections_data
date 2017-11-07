@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Athener Oberbürgermeister an den Führer.
+Found
+MODSMD_ARTICLE02: Oswald Spengler f.
+Found
+MODSMD_ARTICLE03: Der Arbeitsdienst aus der Wartburg.
+Found
+MODSMD_ARTICLE04: Donau-Tagung der südwestdeutschen Kanalvereinigung.
+Found
+MODSMD_ARTICLE05: Lustschiff „Krudenburg" sichtet einen Eisberg.
+Found
+MODSMD_ARTICLE06: Großer Erfolg deutscher Künstler in Amsterdam.
+Found
+MODSMD_ARTICLE07: Keine Klarheit über die Regierungsbildung in Frankreich.
+Found
+MODSMD_ARTICLE08: Neuverteilung der Verwaltungsposten der Tangerzone.
+Found
+MODSMD_ARTICLE09: Bildung von Fallschirmjäger-Kompanien in Frankreich.
+Found
+MODSMD_ARTICLE10: Internationale Jagdkonferenz in Paris.
+Found
+MODSMD_ARTICLE11: Sarraut bei Lebrun.
+Found
+MODSMD_ARTICLE12: Edens Genfreise vorverlegt.
+Found
+MODSMD_ARTICLE13: Scharfe Worte eines englischen Admirals an Italien.
+Found
+MODSMD_ARTICLE15: Der Negus in Jerusalem.
+Found
+MODSMD_ARTICLE16: Graziani marschiert auf Harrar.
+Found
+MODSMD_ARTICLE17: Gerüchte über die italienischen Pläne in Abessinien.
+Found
+MODSMD_ARTICLE18: Freundschaftsvertrag Aegypten-Hedschas.
+Found
+MODSMD_ARTICLE19: Verschärfung der Lage in Palästina.
+Found
+MODSMD_ARTICLE20: Japans Anspruch aus die Führerstellung in Ostasien.
+Found
+MODSMD_ARTICLE21: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found

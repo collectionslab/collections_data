@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Der Führer an die Deutsche Gesellschaft für Hygiene.
+Found
+MODSMD_ARTICLE02: Horthy und Jmredy danken dem Führer.
+Found
+MODSMD_ARTICLE03: General Agostmi besichtigt den Reichsjägerhof.
+Found
+MODSMD_ARTICLE04: Kunstausstellung der Deutsch-Niederländischen Gesellschaft.
+Found
+MODSMD_ARTICLE05: Neue ungarische Note an Prag.
+Found
+MODSMD_ARTICLE06: Prager Verschleppungstaktik in der ungarischen Frage.
+Found
+MODSMD_ARTICLE07: Tie polnischen Truppen in Freistadt und Karwin.
+Found
+MODSMD_ARTICLE08: Das Olsa-Gebiet durch Polen völlig besetzt.
+Found
+MODSMD_ARTICLE09: „Kurzer Czerwony" gegen Einmischungsversuche.
+Found
+MODSMD_ARTICLE10: Die polnischen Abstimmungsgebiete.
+Found
+MODSMD_ARTICLE11: Der Pariser tschechische Gesandte bei Daladier.
+Found
+MODSMD_ARTICLE12: Schwere Zusammenstöße im Hafen von Lyon.
+Found
+MODSMD_ARTICLE13: Französisches Militärflugzeug abgestürzt.
+Found
+MODSMD_ARTICLE14: Ganz Frankreich, dankt für die Erhaltung des Friedens.
+Found
+MODSMD_ARTICLE15: Internationaler Handelsdüngerkongreß in Rom.
+Found
+MODSMD_ARTICLE16: Labour Partei billigt Außenpolitik der Regierung.
+Found
+MODSMD_ARTICLE17: 1,8 Millionen Arbeitslose in England.
+Found
+MODSMD_ARTICLE18: 20 Jahre König von Bulgarien.
+Found
+MODSMD_ARTICLE19: Schwere Kämpfe in Palästina.
+Found
+MODSMD_ARTICLE20: 6 Tote n? Jaffa.
+Found
+MODSMD_ARTICLE21: Konoe über den Grundsatz der japanischen Außenpolitik.
+Found

@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Adolf Hitler in Innsbruck.
+Found
+MODSMD_ARTICLE02: Nach Innsbruck: Salzburg.
+Found
+MODSMD_ARTICLE03: Wahltag ein Tag der Freude. Ein Aufruf Dr. Leys.
+Found
+MODSMD_ARTICLE04: 7 Millionen RM für Rentner und Kriegsopfer.
+Found
+MODSMD_ARTICLE05: Der Reiseverkehr nach Oesterreich.
+Found

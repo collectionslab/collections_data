@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ausländsdeutsche Mädels bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Ungleichung des österreichischen Forstwesens.
+Found
+MODSMD_ARTICLE03: Dr. Hueber Landesführer Oesterreich des NSRB.
+Found
+MODSMD_ARTICLE04: Berlin stiftet Wien das erste HJ.-Heim.
+Found
+MODSMD_ARTICLE05: Das Ausland über den Anschluß.
+Found
+MODSMD_ARTICLE06: Polen zum Ward-Price-Jnterview.
+Found
+MODSMD_ARTICLE07: Polnische Protestkundgebungen gegen Litauen.
+Found
+MODSMD_ARTICLE08: Der Ausbau der italienischen Flotte.
+Found
+MODSMD_ARTICLE09: Italien zu den Pariser Besprechungen über Spanien.
+Found
+MODSMD_ARTICLE10: Pariser Stimmen zur Lage Sowjetspaniens.
+Found
+MODSMD_ARTICLE11: Wilde Phantasie der „Hnmanite".
+Found
+MODSMD_ARTICLE12: Regelung des Umrechnungskurses Mark-Schilling.
+Found
+MODSMD_ARTICLE13: Anhaltender Vormarsch der Nationaltruppen.
+Found
+MODSMD_ARTICLE14: Londoner Staatsbesuch des rumänischen Königs verschoben.
+Found
+MODSMD_ARTICLE15: Polens Presse zum Moskauer Blutgericht.
+Found
+MODSMD_ARTICLE16: Die 12. Olympischen Spiele in Tokio.
+Found
+MODSMD_ARTICLE17: Beginn der amerikanischen Flottenmanöver.
+Found
+MODSMD_ARTICLE18: Die Führerrede in ganz Amerika verbreitet.
+Found

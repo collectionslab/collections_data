@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Generaloberst Brauchitsch spricht zum Heer.
+Found
+MODSMD_ARTICLE02: Die politische Grostschau: „Raubstaat England."
+Found
+MODSMD_ARTICLE03: Reichsarbeitsführer am Westwall.
+Found
+MODSMD_ARTICLE04: Aufgelaufen, durch Mine beschädigt, zusammengestoßen.
+Found
+MODSMD_ARTICLE05: Südafrika im schärfsten Abwehrkampf.
+Found
+MODSMD_ARTICLE06: Smuts schnüffelt nach der politischen Einstellung.
+Found
+MODSMD_ARTICLE07: Smuts will die Farbigen gegen die Weißen bewaffnen.
+Found
+MODSMD_ARTICLE08: Die militärischen Erfolge Rußlands.
+Found
+MODSMD_ARTICLE09: Frankreich ein schlechter Handelspartner.
+Found
+MODSMD_ARTICLE10: Tie französisch-jugoslawischen Wirtschafisverhaudlungen.
+Found

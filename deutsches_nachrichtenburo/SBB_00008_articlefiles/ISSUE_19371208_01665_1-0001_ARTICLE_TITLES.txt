@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Eine zweite Unterredung Stojadinowitschs mit Mussolini.
+Found
+MODSMD_ARTICLE02: „Corriere della Sera" zum Stojadmowitsch-Besuch.
+Found
+MODSMD_ARTICLE03: Die 4W-Jahrfeier der Universität Coimbra. '
+Found
+MODSMD_ARTICLE04: Die Sitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE05: Devisenschmuggel von Ghetto zu Ghetto.
+Found
+MODSMD_ARTICLE06: Tagung der Landesführer der Vaterländischen Front.
+Found
+MODSMD_ARTICLE07: Cot fördert Ausbau der Flugstützpunkte in Nordafrika.
+Found
+MODSMD_ARTICLE08: „Lohnangleichungen unmöglich".
+Found
+MODSMD_ARTICLE09: Für Wiedereröffnung der Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE10: Hawai wird stark ausgebaut.
+Found
+MODSMD_ARTICLE11: Wiederaufbau der amerikanischen Handelsflotte.
+Found
+MODSMD_ARTICLE12: Abdankung Tschiangkaischeks?
+Found
+MODSMD_ARTICLE13: Chinas Auswärtiges Amt errichtet Zweigstelle.
+Found
+MODSMD_ARTICLE14: Angriff auf die Festung von Nanking.
+Found
+MODSMD_ARTICLE15: Die Kennzahl der Großhandelspreise im Monatsdurchschnitt November.
+Found

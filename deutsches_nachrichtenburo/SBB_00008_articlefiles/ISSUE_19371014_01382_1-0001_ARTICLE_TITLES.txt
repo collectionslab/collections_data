@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Beileid des Führers zum Tode des Großherzogs von Hessen.
+Found
+MODSMD_ARTICLE02: Das Ausland zum deutsch-belgischen Notenwechsel.
+Found
+MODSMD_ARTICLE03: Englands Verkehrsminister prüft die Reichsautobahnen.
+Found
+MODSMD_ARTICLE04: Die Konservativen bei einer Nachwahl unterlegen.
+Found
+MODSMD_ARTICLE05: De Valera will nicht Präsident bleiben?
+Found
+MODSMD_ARTICLE06: Nichteinmischungsverhandlnngen nicht befristet?
+Found
+MODSMD_ARTICLE07: Teile der Division „Eirene" nach Libyen unterwegs.
+Found
+MODSMD_ARTICLE08: Unaufhaltsamer Vormarsch der Nationalisten.
+Found
+MODSMD_ARTICLE09: Amerikanischer Kreuzer durch Sabotage beschädigt.
+Found

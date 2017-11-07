@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: England würdigt das neue Abkommen.
+Found
+MODSMD_ARTICLE02: Im Mai Ernennung eines französischen Botschafters in Rom?
+Found
+MODSMD_ARTICLE03: Daranyi über das ungarische Aufbauprogramm.
+Found
+MODSMD_ARTICLE04: Freiwilliger Arbeitsdienst auch in Ungarn.
+Found
+MODSMD_ARTICLE05: Osterkundgeöung des tschechoslowakischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE06: Zusammenschluß der sudetendeutschen Erzieherschaft.
+Found
+MODSMD_ARTICLE07: Das Ebro-Delta erreicht.
+Found
+MODSMD_ARTICLE08: Fraucos Truppen in Tortosa.
+Found
+MODSMD_ARTICLE09: Englische Ausforderung zum Verlassen Kataloniens.
+Found
+MODSMD_ARTICLE10: Abschluß der deutsch-finnischen Eriunerungsfeiern.
+Found
+MODSMD_ARTICLE11: Maudschukuos Botschafter in Italien in Rom eingetroffen.
+Found
+MODSMD_ARTICLE12: Das bolschewistische System ruiniert die Wirtschaft.
+Found
+MODSMD_ARTICLE13: Mordplan gegen Stalin aufgedeckt?
+Found
+MODSMD_ARTICLE14: Höllenmaschine in Honkong entdeckt.
+Found
+MODSMD_ARTICLE15: Unruhige Ostern in Palästina.
+Found
+MODSMD_ARTICLE16: Gefecht zwischen Engländern und Freischärlern in Palästina.
+Found
+MODSMD_ARTICLE17: Mahatma Gandhi beim Vizekönig von Indien.
+Found
+MODSMD_ARTICLE18: Verbrecherischer Anschlag ans den Schnellzug Algier—Oran.
+Found

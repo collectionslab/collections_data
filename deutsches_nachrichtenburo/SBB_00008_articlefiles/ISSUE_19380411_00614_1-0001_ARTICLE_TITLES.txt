@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Göring fünf Jahre Ministerpräsident.
+Found
+MODSMD_ARTICLE02: Ein Aufruf von Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels dankt seinen Mitarbeitern»
+Found
+MODSMD_ARTICLE04: Auslfindsdeutsches Bekenntnis.
+Found
+MODSMD_ARTICLE05: Flaggen bis zum Z 3. April!
+Found
+MODSMD_ARTICLE06: Stuttgart nach der Wahl.
+Found
+MODSMD_ARTICLE07: Krawalle bei Citroen.
+Found
+MODSMD_ARTICLE08: Der Antisowjetsender funkt weiter.
+Found
+MODSMD_ARTICLE09: Bor der Anerkennung Nationalspaniens durch Polen.
+Found

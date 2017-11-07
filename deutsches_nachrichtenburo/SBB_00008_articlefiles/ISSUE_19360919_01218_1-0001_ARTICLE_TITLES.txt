@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die dänische Königin in Berlin.
+Found
+MODSMD_ARTICLE02: Reichsaußenminister von Neurath in Budapest.
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Frank in Italien.
+Found
+MODSMD_ARTICLE04: BDM-Schulung auf dem Reichssportfeld.
+Found
+MODSMD_ARTICLE05: Auslandsorganisation der NSDAP tagt in Stuttgart.
+Found
+MODSMD_ARTICLE06: Vor der 25. Ozeanüberquerung des LZ „Hindenburg".
+Found
+MODSMD_ARTICLE07: Deutschland ehrt den chinesischen Finanzminister.
+Found
+MODSMD_ARTICLE08: Die englische Note über die Fünfmächtekonferenz in Berlin.
+Found
+MODSMD_ARTICLE09: Die Sühne für das Besenfelder Unglück.
+Found
+MODSMD_ARTICLE10: Großer Schlag gegen die Kommunisten in Salzburg.
+Found
+MODSMD_ARTICLE11: Neue Berichte von kommunistischen Greueltaten.
+Found
+MODSMD_ARTICLE12: Stacheldraht an der ägyptischen Palästina-Grenze.
+Found
+MODSMD_ARTICLE13: Genesungswünsche für Titulescu.
+Found
+MODSMD_ARTICLE14: Neuer Zwischenfall im Fernen Osten.
+Found
+MODSMD_ARTICLE15: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found
+MODSMD_ARTICLE16: Die Kennzahl der Großhandelspreise vom 16. September.
+Found

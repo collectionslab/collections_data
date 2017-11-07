@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr. Ley wieder in Berlin.
+Found
+MODSMD_ARTICLE02: Die Tschecho-Slowakei als Bundesstaat.
+Found
+MODSMD_ARTICLE03: „Vecer" fordert zur Abwehr der jüdischen Invasion auf.
+Found
+MODSMD_ARTICLE04: Esterhazy für präzise Grenzziehung Ungarn—Slowakei.
+Found
+MODSMD_ARTICLE05: Mimsterwechsel in Bukarest.
+Found
+MODSMD_ARTICLE06: In Sowjetrustland häufen sich die Todesurteile.
+Found
+MODSMD_ARTICLE07: Zypern ein nicht gehaltenes Versprechen.-
+Found
+MODSMD_ARTICLE08: Der Mufti von Palästina fährt nicht nach London.
+Found
+MODSMD_ARTICLE09: Die Schiffsverbindung Kanton—Hongkong unterbrochen»
+Not Found
+MODSMD_ARTICLE10: Eine Niedertracht von wahrhaft demokratischem Ausmaß.
+Found
+MODSMD_ARTICLE11: Wo die Kriegstreiber sitzen.
+Found

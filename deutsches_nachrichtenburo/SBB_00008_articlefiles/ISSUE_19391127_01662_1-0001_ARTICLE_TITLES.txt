@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer bei den Verletzten des Sprengstoff-Attentats.
+Found
+MODSMD_ARTICLE02: Der Führer beglückwünschte Reichsschatzmeister Schwarz.
+Found
+MODSMD_ARTICLE03: Zum Direktor beim Rechnungshof ernannt.
+Found
+MODSMD_ARTICLE04: Totenfest im Gedenken an den Blutsonntag von Bromberg.
+Found
+MODSMD_ARTICLE06: „Der Tod vor Englands Toren."
+Found
+MODSMD_ARTICLE07: Vesichtigungsreise des Generalgouverneurs Dr. Frank.
+Found
+MODSMD_ARTICLE08: Wieder ein britischer Sperrballon über Norwegen.
+Found
+MODSMD_ARTICLE09: „Warum kämpfen die Engländer eigentlich?"
+Found
+MODSMD_ARTICLE10: Schwaches Störungsfeuer im Westen.
+Found
+MODSMD_ARTICLE11: Zwei englische Fischkutter beim Minensuchen untergegangen.
+Found
+MODSMD_ARTICLE12: „Unrecht Gut gedeihet nicht."
+Found
+MODSMD_ARTICLE13: Britischer Hilfskreuzer ..Rawalpindi" (16 697 t) versenkt.
+Found
+MODSMD_ARTICLE14: „ABC" meldet schwere britische Verluste.
+Found
+MODSMD_ARTICLE15: Palästina: Neue Verhaftungen, ein Todesurteil.
+Found
+MODSMD_ARTICLE16: Judeninvasion in Palästina wird immer größer.
+Found
+MODSMD_ARTICLE17: Scharfe Warnung aus Tokio an die englische Adresse.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer im Kreise der Arbeiter auf dem Obersalzberg.
+Found
+MODSMD_ARTICLE02: Der Jahresbericht des Internationalen Arbeitsamtes.
+Found
+MODSMD_ARTICLE03: Der Flaggenzwischenfall von Pinkafeld.
+Found
+MODSMD_ARTICLE04: Eine österreichische Militärabordnung bei der Parade.
+Found
+MODSMD_ARTICLE05: „Generalstab der Autarkie".
+Found
+MODSMD_ARTICLE06: Finanzminister Thaon di Revel vor der Kammer.
+Found
+MODSMD_ARTICLE07: Ter Vormarsch auf Bilbao.
+Found
+MODSMD_ARTICLE08: Eine „Soziale Hilfe" im nationalen Spanien»
+Found
+MODSMD_ARTICLE09: Die Königliche Familie auf dem Flaggschiff Nelsons.
+Found
+MODSMD_ARTICLE10: Haarsträubende Unsittlichkeit in New Aorker Schulen.
+Found
+MODSMD_ARTICLE11: Flugunfall bei Böblingen.
+Found

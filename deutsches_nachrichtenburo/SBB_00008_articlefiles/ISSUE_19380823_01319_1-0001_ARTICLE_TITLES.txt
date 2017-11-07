@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Besuch des Reichsuerwesers.
+Found
+MODSMD_ARTICLE02: Das Gesetz über die Verantwortlichkeit von Mitgliedern ehemaliger österreichischer Bundes- und Landesregierungen.
+Not Found
+MODSMD_ARTICLE03: Europäische Vereinigung für psychische Hygiene.
+Found
+MODSMD_ARTICLE04: Besprechungen Dr. Fricks in Wien.
+Found
+MODSMD_ARTICLE05: Die englisch-italienischen Besprechungen.
+Found
+MODSMD_ARTICLE06: Die italienisch-französischen Beziehungen.
+Found
+MODSMD_ARTICLE07: Italiens Urteil über die Antwort Francas.
+Found
+MODSMD_ARTICLE08: Chamberlain Prüft die Franco-Note.
+Found
+MODSMD_ARTICLE09: Washington besteht aus seinen Forderungen an Mexiko.
+Found

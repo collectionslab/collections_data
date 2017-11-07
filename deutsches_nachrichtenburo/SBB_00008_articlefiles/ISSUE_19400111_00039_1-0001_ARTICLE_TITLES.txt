@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Rudolf Heß dankt dem weiblichen Arbeitsdienst.
+Found
+MODSMD_ARTICLE02: Erfolglose britische Angriffe auf deutsche Küstenflugplätze.
+Found
+MODSMD_ARTICLE03: Man versucht abzuschwächen und weiter zu lügen.
+Found
+MODSMD_ARTICLE04: Umsiedlung des Baltendeutschtums reibungslos durchgeführt.
+Found
+MODSMD_ARTICLE05: „Neue Opfer neue Beschränkungen."
+Found
+MODSMD_ARTICLE06: Englaudfahrt Todesfahrt.
+Found
+MODSMD_ARTICLE07: Das „Pech" der englischen Schiffe.
+Found
+MODSMD_ARTICLE08: Geringe Kampftätigkeit an der finnischen Front.
+Found
+MODSMD_ARTICLE09: Finnischer Heeresbericht.
+Found
+MODSMD_ARTICLE10: Wunsch der Balkanmächte: Fernhaltung des Krieges.
+Found
+MODSMD_ARTICLE11: „Deutschland muß auseinandergerissen werden".
+Found
+MODSMD_ARTICLE12: „Exeter" gesunken?
+Found
+MODSMD_ARTICLE13: Amerikanischer Frachter unter der Flagge Guatemalas.
+Found

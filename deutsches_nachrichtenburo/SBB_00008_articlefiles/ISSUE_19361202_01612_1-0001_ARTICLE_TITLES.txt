@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Morgen-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: NeichskabinetL verabschiedet neue Gesetze.
+Found
+MODSMD_ARTICLE03: Die gesamte deutsche Jugend in der Hitlerjugend.
+Found
+MODSMD_ARTICLE04: Aufruf des Reichsjugendführers.
+Found
+MODSMD_ARTICLE05: Gesetz gegen Wirtschaftssabotage.
+Found
+MODSMD_ARTICLE06: Gefetz über das Wiuterhilfswerk des deutschen Volkes.
+Found
+MODSMD_ARTICLE07: Zweites Gesetz zur Aeuderung und Ergänzung des Reichsnaturgesetzes.
+Not Found
+MODSMD_ARTICLE08: Tie Moskauer Verfassungskomödie.
+Found

@@ -1,0 +1,4 @@
+MODSMD_ARTICLE01: Spendenliste Nr. 77 vom 13. Februar 1337.
+Found
+MODSMD_ARTICLE02: Spendenliste Nr. 78 vom 15. Februar 1937.
+Found

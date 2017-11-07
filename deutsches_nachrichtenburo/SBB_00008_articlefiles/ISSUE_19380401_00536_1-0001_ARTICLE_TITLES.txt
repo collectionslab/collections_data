@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: General Graf von der Schulenburg 5l) Jahre Soldat.
+Found
+MODSMD_ARTICLE02: Ernennung.
+Found
+MODSMD_ARTICLE03: Oberfinanzpriisident Maas, zu in Ministerialdirektor ernannt.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Präsidialsitzung der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE06: IW-prozentige Stimmabgabe zum Volksappell.
+Found
+MODSMD_ARTICLE07: Kardinal Jnnitzer an Bürgel. lieble Auslandshetze zusammengebrochen.
+Found
+MODSMD_ARTICLE08: Wien, am 31. März 1938.
+Found
+MODSMD_ARTICLE09: Die evangelische Kirche Oesterreichs zur Wahl.
+Found
+MODSMD_ARTICLE10: Korpsführer Hühnlein in Wien.
+Found
+MODSMD_ARTICLE11: Ein Teil der Oesterreichischen Legion bereits in Wien.
+Found
+MODSMD_ARTICLE12: Die Frage des französischen Durchmarschrechtes.
+Found
+MODSMD_ARTICLE13: Erbitterter Endkampf um Lerida.
+Found

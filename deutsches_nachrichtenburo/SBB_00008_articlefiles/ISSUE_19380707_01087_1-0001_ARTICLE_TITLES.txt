@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Am Vorabend des Tages der Deutschen Kunst.
+Found
+MODSMD_ARTICLE02: Einführung des deutschen Personenstandsrechts in Österreich.
+Found
+MODSMD_ARTICLE03: Besprechungen sudetendeutscher Abgeordneter mit Dr. Hodscha.
+Found
+MODSMD_ARTICLE04: Cliamberlain fordert in Burgos Erläuterungen an.
+Found
+MODSMD_ARTICLE05: Der Aufbau der Ballonsperre für London.
+Found
+MODSMD_ARTICLE06: Ausbildung britischer Flugzeugführer in Kanada.
+Found
+MODSMD_ARTICLE07: Schreckensregiment der roten Machthaber in Spanien.
+Found
+MODSMD_ARTICLE08: Valencia bringt die politischen! Gefangenen nach Barcelona.
+Found
+MODSMD_ARTICLE09: Belgiens Regierung gegen Sabotage des Sprachengesetzes.
+Found
+MODSMD_ARTICLE10: Noch einmal „Nationalbank-Prozeß" in Brüssel?
+Found
+MODSMD_ARTICLE11: Irak-Parlament tritt für die Rechte der syrischen Araber ein.
+Found
+MODSMD_ARTICLE12: Die Türken in Antiochia.
+Found
+MODSMD_ARTICLE13: Wieder ein Bombenattentat in Jerusalem.
+Found
+MODSMD_ARTICLE14: Neue Todesopfer des jüdischen Terrors.
+Found
+MODSMD_ARTICLE15: Der Anführer der jüdischen Revisionisten verhaftet.
+Found
+MODSMD_ARTICLE16: Verstärkung der britischen Truppen in Palästina.
+Found
+MODSMD_ARTICLE17: „Völlige Freiheit für Indien."
+Found
+MODSMD_ARTICLE18: Der Präsident der Philippinen in Tokio.
+Found
+MODSMD_ARTICLE19: Die Folgen der Überschwemmungskatastrophe von Kobe.
+Found
+MODSMD_ARTICLE20: Der amerikanische Silberschatz auf dem Wege nach West Point.
+Found

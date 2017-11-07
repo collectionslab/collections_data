@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Prinzregent Paul verließ Berlin.
+Found
+MODSMD_ARTICLE02: „Wir tragen das Schicksal Europas!"
+Found
+MODSMD_ARTICLE03: Einzug der Legion Condor in Berlin.
+Found
+MODSMD_ARTICLE04: Das Ergebnis des Staatsbesuches.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer empfing die Künstler der Mailänder Scala.
+Found
+MODSMD_ARTICLE02: Ausländische Teilnehmer der KdF.-Tagung beim Führer.
+Found
+MODSMD_ARTICLE03: Die Reichsarbeitstagung der Deutschen Studentenschaft.
+Found
+MODSMD_ARTICLE04: Sir Eric Geddes f.
+Found
+MODSMD_ARTICLE05: Reuter zum Scheitern der Viermächte-Besprechung.
+Found
+MODSMD_ARTICLE06: Tie Aufnahme der Regierung Chautemps in Paris.
+Found
+MODSMD_ARTICLE07: Er war nicht Zu erreichen.
+Found
+MODSMD_ARTICLE08: Sudetendeutsche Beschwerde gegen die Presse Zensur.
+Found
+MODSMD_ARTICLE09: Der nationale Heeresbericht vom Dienstag.
+Found
+MODSMD_ARTICLE10: Van Zeeland Ehrendoktor der Princeton-Universität.
+Found
+MODSMD_ARTICLE11: Die Boxkomödie von Chicago: Braddock k. o.
+Found

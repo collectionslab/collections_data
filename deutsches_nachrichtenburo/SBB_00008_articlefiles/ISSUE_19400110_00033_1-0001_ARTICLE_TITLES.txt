@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Jeder Arbeiter ist Kriegskamerad.
+Found
+MODSMD_ARTICLE02: Finnland meldet: Ruhe an den Fronten.
+Found
+MODSMD_ARTICLE03: Französisches Wachschiff gescheitert.
+Found
+MODSMD_ARTICLE04: „Amerikas Flotte will der japanischen überlegen bleiben."
+Found
+MODSMD_ARTICLE05: „Die USA. wollen verkaufen, aber nicht kaufen."
+Found
+MODSMD_ARTICLE06: Blutiger Streik aus den Philippinen.
+Found

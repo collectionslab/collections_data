@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Chamberlain wieder in London.
+Found
+MODSMD_ARTICLE02: „Jose Luis Diez" verließ England.
+Found
+MODSMD_ARTICLE03: Protestkundgebungen gegen Attlee.
+Found
+MODSMD_ARTICLE04: Das Fiasko der Volksfront immer deutlicher.
+Found
+MODSMD_ARTICLE05: Bombenfund im Hause General Pertelats.
+Found
+MODSMD_ARTICLE06: „Moralische Verfassung der Valencia-Truppen ist brüchig."
+Found
+MODSMD_ARTICLE07: Hilferufe des Valencia-Bolschewisten del Vayo in Genf.
+Found
+MODSMD_ARTICLE09: Besprechung der Kleinen Entente in Genf.
+Found
+MODSMD_ARTICLE10: Theorie und Praxis.
+Found
+MODSMD_ARTICLE11: Finnischer Protest in Moskau.
+Found
+MODSMD_ARTICLE12: Bolchewistische Henkersarbeit.
+Found
+MODSMD_ARTICLE13: Das vermißte deutsche China-Flugzeug in Kabul gelandet.
+Found
+MODSMD_ARTICLE14: Japanische Flugzeuge stören chinesische Waffenzufuhr.
+Found
+MODSMD_ARTICLE15: Wechsel im chinesischen Oberkommando bei Schanghai.
+Found
+MODSMD_ARTICLE16: Englischer Kommissar in Palästina erschossen.
+Found
+MODSMD_ARTICLE17: Südafrikanische Polizei erneut von Schwarzen angegriffen.
+Found

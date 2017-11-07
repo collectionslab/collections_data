@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ball des Deutschen Ausland-Clubs.
+Found
+MODSMD_ARTICLE02: Sudetendeutsches Winterhilfskonzert in Berlin.
+Found
+MODSMD_ARTICLE03: Reichsstatthalter von Epp in Rom.
+Found
+MODSMD_ARTICLE04: König Carol besucht England.
+Found
+MODSMD_ARTICLE05: Begeisterung in Rumänien über das Abstimmungsergebnis.
+Found
+MODSMD_ARTICLE06: Jugoslawien zur neuen rumänischen Verfassung.
+Found
+MODSMD_ARTICLE07: Gegen den Pakt mit Sowjetrußland.
+Found
+MODSMD_ARTICLE08: Die Kammer nimmt das Arbeitsstatut an.
+Found
+MODSMD_ARTICLE09: Chautemps für Erweiterung der Regierungsmehrheit.
+Found
+MODSMD_ARTICLE10: Daladier über die gesteigerte Aufrüstung Frankreichs.
+Found
+MODSMD_ARTICLE11: Butler Nachfolger Cranbornes.
+Found
+MODSMD_ARTICLE12: Außenpolitische Aussprache im Oberhaus.
+Found
+MODSMD_ARTICLE13: „Times" nimmt die Regierung in Schuh.
+Found
+MODSMD_ARTICLE14: Wie Stalin in der Roten Armee wütet.
+Found
+MODSMD_ARTICLE15: Ausbau der eroberten Stellungen an der Teruelfront.
+Found
+MODSMD_ARTICLE16: Steigerung der Rüstung in der Türkei.
+Found
+MODSMD_ARTICLE17: Der Außenminister von Iran gestorben.
+Found
+MODSMD_ARTICLE18: Amerikanische Demokraten kritisieren Chamberlain.
+Found

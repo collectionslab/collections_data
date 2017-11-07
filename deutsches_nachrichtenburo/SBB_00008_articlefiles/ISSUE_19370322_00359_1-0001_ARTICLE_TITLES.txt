@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: 50-jähriges Militärjubiläum des Generals von Fabeck.
+Found
+MODSMD_ARTICLE02: Senatspräsident Dr. Bänger 1".
+Found
+MODSMD_ARTICLE03: Saalschlacht im Karlsbader Schützenhaus.
+Found
+MODSMD_ARTICLE04: Der JustiZmimster der neuen finnischen Regierung.
+Found
+MODSMD_ARTICLE05: Der Rücktritt Neustädter-Stürmers.
+Found
+MODSMD_ARTICLE06: Erbitterter Wahlkampf in Brüssel.
+Found
+MODSMD_ARTICLE07: Totengräberstreik in Dublin.
+Found
+MODSMD_ARTICLE08: Englischer Generalmajor über das nationale Spanien.
+Found
+MODSMD_ARTICLE09: Trotz des Abkommens weiterhin Einmischung.
+Found
+MODSMD_ARTICLE10: „Spionagepanik" und Razzien in Valencia.
+Found
+MODSMD_ARTICLE11: Die rumänische Parlamentstagung abgeschlossen.
+Found
+MODSMD_ARTICLE12: Stalin greift in die Ernährungsfrage ein.
+Found
+MODSMD_ARTICLE13: Jüdische Polizeitruppe in Palästina.
+Found
+MODSMD_ARTICLE14: Wahrscheinlich 55 Todesopfer in Germiston.
+Found
+MODSMD_ARTICLE15: Gesamtdemission des chilenischen Kabinetts.
+Found
+MODSMD_ARTICLE16: Skandal beim Fußballkampf Oesterreich—Italien.
+Not Found

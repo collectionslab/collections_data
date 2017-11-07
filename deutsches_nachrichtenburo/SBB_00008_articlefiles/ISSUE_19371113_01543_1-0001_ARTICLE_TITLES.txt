@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Preisverteilung bei der Internationalen Jagdausstellung.
+Found
+MODSMD_ARTICLE02: 1W Jahre Naturwissenschaftlicher Verein in Hamburg.
+Found
+MODSMD_ARTICLE03: Neuer Präsident der Holländischen Zweiten Kammer.
+Found
+MODSMD_ARTICLE04: Ein Terrorist zu Gefängnis verurteilt.
+Found
+MODSMD_ARTICLE05: Die Hitler-Justendführer von Franco empfangen.
+Found
+MODSMD_ARTICLE06: Salamanca über die Ernennung von Agenten.
+Found
+MODSMD_ARTICLE07: Ein Märtyrer im katalanischen Regierungsansschuß.
+Found
+MODSMD_ARTICLE08: Chamberlain über die Grundsätze der britischen Politik.
+Found
+MODSMD_ARTICLE09: Die japanische Antwort auf die Brüsseler Note.
+Found
+MODSMD_ARTICLE10: Die tägliche Moskauer Tragikomödie: Abgesägt, erschossen.
+Found
+MODSMD_ARTICLE11: Vor Umbildung der brasilianischen Regierung.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die deutschen Truppen im Vormarsch.
+Found
+MODSMD_ARTICLE02: Tiso an die Slowaken.
+Found
+MODSMD_ARTICLE03: Feuergefecht zwischen Gendarmen und Hlinka-Garde.
+Found
+MODSMD_ARTICLE04: Rom Zur Unabhängigkeitserklärung der Slowakei.
+Found
+MODSMD_ARTICLE05: „Evening Standard": Das Ende der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE06: Belgrad zur Liquidierung des tschechischen Unruheherdes.
+Found
+MODSMD_ARTICLE07: Verordnung zur Erhöhung der Förderleistung und des Leistungslohnes im Bergbau.
+Found
+MODSMD_ARTICLE08: Staatsrat von Stauß von Mussolini empfangen.
+Found
+MODSMD_ARTICLE09: Wieder ein Tschekamord im Konzentrationslager Argeles.
+Found
+MODSMD_ARTICLE10: Miaja muß Truppen entlassen.
+Found
+MODSMD_ARTICLE11: Casado bittet Franco um Friedensverhandlungen?
+Found
+MODSMD_ARTICLE12: Hore-Belisha über die englische Feldarmee.
+Found
+MODSMD_ARTICLE13: Das Arbeitslosenelend in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE14: Schnelle Justiz bei der Wehrmacht.
+Found

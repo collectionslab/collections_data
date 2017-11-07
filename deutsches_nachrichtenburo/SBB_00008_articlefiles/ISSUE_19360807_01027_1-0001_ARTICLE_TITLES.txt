@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Das deutsche Volk hilft den Spanien-Deutschen.
+Found
+MODSMD_ARTICLE02: Sven Hedin besucht ein Frauenarbeitsdienstlager.
+Found
+MODSMD_ARTICLE03: Verteilung der Ehrengabe für Frontkämpfer im Dezember.
+Found
+MODSMD_ARTICLE04: Der Nachfolger Bullocks.
+Found
+MODSMD_ARTICLE05: Englands Presse zum geplanten Neutralitäts-Abkommen.
+Found
+MODSMD_ARTICLE06: Englischer ErZbischof brandmarkt spanische Greuel.
+Found
+MODSMD_ARTICLE07: Lebhafter Widerhall des Lehrerkongresses in Frankreich.
+Found
+MODSMD_ARTICLE08: „Volksfront"-Bestrebungen in Jugoslawien gescheitert.
+Found
+MODSMD_ARTICLE09: Metaxas vor der ausländischen Presse.
+Found
+MODSMD_ARTICLE10: Die koptische Geistlichkeit unterstellt sich Italien.
+Found
+MODSMD_ARTICLE11: Die Lage in Palästina. Moskauer Einflüsse.
+Found
+MODSMD_ARTICLE12: Amerikanische Gewerkschaftsspaltung und Wahlkamps.
+Found
+MODSMD_ARTICLE13: Berichtigung.
+Found

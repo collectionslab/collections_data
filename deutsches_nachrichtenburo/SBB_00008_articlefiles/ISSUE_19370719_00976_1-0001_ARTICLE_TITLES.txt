@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Handelsabkommen Deutschland—Nationalspanien.
+Not Found
+MODSMD_ARTICLE02: Chef der Staatsforstverwaltung Italiens in Deutschland.
+Found
+MODSMD_ARTICLE03: Am Vorabend des Jahrestages der spanischen Erhebung.
+Found
+MODSMD_ARTICLE04: Das nationale Spanien begeht den Jahrestag der Erhebung.
+Found
+MODSMD_ARTICLE05: General Franca über sein und Aufbauwerk.
+Found
+MODSMD_ARTICLE06: Deutsche Dankgottesdienste in Lissabon.
+Found
+MODSMD_ARTICLE07: Frühere deutsche Kriegsgefangene Gäste der British Legion.
+Found
+MODSMD_ARTICLE08: lieber eine Milliarde Fehlbetrag im Pariser Stadthanshalt.
+Found
+MODSMD_ARTICLE09: Finanzminister Bonnet über seine Sparsamkeitspolitik.
+Found
+MODSMD_ARTICLE10: Chautemps warnt.
+Found
+MODSMD_ARTICLE11: Abschluß der „Internationalen Rhön".
+Found
+MODSMD_ARTICLE12: Drei deutsche Leichtathletiksiege in London.
+Found

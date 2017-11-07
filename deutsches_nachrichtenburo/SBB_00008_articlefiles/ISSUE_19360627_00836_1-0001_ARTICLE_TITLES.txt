@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Geburtstagsglückwünsche des Führers für Dr. Kaufmann.
+Found
+MODSMD_ARTICLE02: Weitererhebung der Anfbringungsumlage.
+Found
+MODSMD_ARTICLE03: Letzter Termin für Gesuche um Aufnahme in die preußischen Hochschulen für Lehrerbildung
+Found
+MODSMD_ARTICLE04: Jahresversammlung des „Hauses der deutschen Kunst".
+Found
+MODSMD_ARTICLE05: Abschluß der Internationalen Universitätskonferenz.
+Found
+MODSMD_ARTICLE06: Die Haltung der sudetendeutschen Partei.
+Found
+MODSMD_ARTICLE07: Ministerpräsident Blum nach Genf abgereist.
+Found
+MODSMD_ARTICLE08: Nikaragua verläßt den Völkerbund.
+Found
+MODSMD_ARTICLE09: Wie der Negus seine Lage aufsaht.
+Found
+MODSMD_ARTICLE10: „Giornale tüJtalia" zur Sanktionsfrage.
+Found
+MODSMD_ARTICLE11: Polen hat Sanktionen bereits aufgehoben.
+Found
+MODSMD_ARTICLE12: Schließung der außerordentlichen Parlamentstagung.
+Found
+MODSMD_ARTICLE13: Beitritt Lettlands zur Berner Konvention.
+Found
+MODSMD_ARTICLE14: Vor einer Umbildung der bulgarischen Regierung.
+Found
+MODSMD_ARTICLE15: Feuerkampf in Montenegro.
+Found
+MODSMD_ARTICLE16: Der stellvertretende demokratische Präsidentschaftskandidat.
+Found
+MODSMD_ARTICLE17: Neuer chinesisch-japanischer Zwischenfall bei Fengtai.
+Found

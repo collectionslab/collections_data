@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Der 18. Jahrestag der Gründung der NSDAP.
+Found
+MODSMD_ARTICLE03: Epp zur Kolomalmesse nach Tripolis abgereist.
+Found
+MODSMD_ARTICLE04: „Expreß Poraimh" Zur Reichstagsrede des Führers.
+Found
+MODSMD_ARTICLE05: Edens Nachfolge noch ungeklärt.
+Found
+MODSMD_ARTICLE06: Die irische Einigungsfrage wurde in London angeschnitten.
+Found
+MODSMD_ARTICLE07: Grandi fährt nach Rom.
+Found
+MODSMD_ARTICLE08: Simon über die englisch-italienischen Verhandlungen.
+Found
+MODSMD_ARTICLE09: Englands Handelsmarine im Kriegssalle.
+Found
+MODSMD_ARTICLE10: Handelsminister Stanley erkrankt.
+Found
+MODSMD_ARTICLE11: Untersuchung der Leiche des jungen Trotzki.
+Found
+MODSMD_ARTICLE12: Frankreichs Rüstungspolitik im Jahre 1938.
+Found
+MODSMD_ARTICLE13: Der „Säuberungsprozeß" in der Roten Armee.
+Found
+MODSMD_ARTICLE14: Keine Zusammenarbeit mit dem kriegshetzerischen Moskau!
+Found

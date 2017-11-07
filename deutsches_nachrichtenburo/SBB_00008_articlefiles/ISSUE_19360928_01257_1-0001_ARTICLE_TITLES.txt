@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: 1l)vv km Reichsautobahn.
+Found
+MODSMD_ARTICLE02: Auf dem Festplatz.
+Found
+MODSMD_ARTICLE03: Die Ankunft des Führers.
+Found
+MODSMD_ARTICLE04: Die Fahrt zum Festplatz.
+Found
+MODSMD_ARTICLE05: Der Festakt.
+Found
+MODSMD_ARTICLE06: Die Fahrt über die Autobahn.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Tie französischen Frontkämpfer in Bremen.
+Found
+MODSMD_ARTICLE02: Kranzniederlegung an deutschen Kriegergrabern.
+Found
+MODSMD_ARTICLE03: Kirchenfrevel in Wien.
+Found
+MODSMD_ARTICLE04: Verhaftung ausländischer Kommunisten in Wien.
+Found
+MODSMD_ARTICLE05: Beisetzung Salengros in Lille. Trauerzug in Paris.
+Found
+MODSMD_ARTICLE06: Juden als Goldschmuggler zwischen Frankreich und Schweiz.
+Found
+MODSMD_ARTICLE07: Scharfe Kritik Marius an der Volksfrontregierung.
+Found
+MODSMD_ARTICLE08: Versenkung der Mumtionsschiffe angekündigt.
+Found
+MODSMD_ARTICLE09: Englische Mimsterbesprechnng über Spanien.
+Found
+MODSMD_ARTICLE10: England und die Blockade von Barcelona.
+Found
+MODSMD_ARTICLE11: Britischer Kreuzer verließ Barcelona.
+Found
+MODSMD_ARTICLE12: Moskau will roten Widerstand in Madrid verstärken.
+Found
+MODSMD_ARTICLE13: Funkrede des Propagandaleiters der Nationalregierung.
+Found
+MODSMD_ARTICLE14: Die Notstandsmaßnahmen für Sndwales.
+Found

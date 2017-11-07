@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Vom Landtagssaal zum Festsaal der Kameradschaft»
+Found
+MODSMD_ARTICLE02: Die Arbeit am neuen deutschen Recht.
+Found
+MODSMD_ARTICLE03: Neue Konsuln der Schweiz in München und Leipzig.
+Found
+MODSMD_ARTICLE04: Reichsminister Dr. Frank beim Justizminister Italiens.
+Found
+MODSMD_ARTICLE05: Telegrammwechsel des Königs von Italien mit Mussolini.
+Found
+MODSMD_ARTICLE06: Baidur von Schirach in französischen Sportanlagen.
+Found
+MODSMD_ARTICLE07: Entschließung des Radikalsozialen Parteitages.
+Found
+MODSMD_ARTICLE08: Der nationale Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE09: Londoner Beschlüsse ohne Sowjetrußland.
+Found
+MODSMD_ARTICLE10: Fremdsprachiger Nachrichtendienst im englischen Rundfunk.
+Found
+MODSMD_ARTICLE11: Unbegründete Attentats-Gerüchte.
+Found
+MODSMD_ARTICLE12: Ungarische Stimmen zur Mussolini-Rede.
+Found
+MODSMD_ARTICLE13: Konferenz der Oslo-Staaten erneut verschoben.
+Found
+MODSMD_ARTICLE14: 25-Jahr-Feier der Befreiung Südserbiens.
+Found
+MODSMD_ARTICLE15: Die Sowjetunion nimmt an der Brüsseler Konferenz teil:
+Found

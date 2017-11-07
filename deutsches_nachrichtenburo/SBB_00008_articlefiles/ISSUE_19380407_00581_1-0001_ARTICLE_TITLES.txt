@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Linz in Erwartung des Führers.
+Found
+MODSMD_ARTICLE02: Ernennung luni Sondertreuhäudern.
+Found
+MODSMD_ARTICLE03: Die Sudetendeutsche Partei zur politischen Lage.
+Found
+MODSMD_ARTICLE04: Raskolmkow geflohen.
+Found
+MODSMD_ARTICLE05: Die Konferenz der nordischen Außenminister.
+Found
+MODSMD_ARTICLE06: Die Pariser Presse spricht vom Sturz Blums.
+Found
+MODSMD_ARTICLE07: Rücktritt der radikalsozialen Minister?
+Found
+MODSMD_ARTICLE08: Absage des Quai d'Orsay an Barcelona.
+Found
+MODSMD_ARTICLE09: Nene Erfolge der nationalspamschen Truppen.
+Found
+MODSMD_ARTICLE10: Englischer Appell an die spanischen Bürgerkrieg-Parteien.
+Found
+MODSMD_ARTICLE11: Gibt Moskau das Spiel in Spanien verloren?
+Found
+MODSMD_ARTICLE12: Kiewer Regimentskommandeur erschossen.
+Found
+MODSMD_ARTICLE13: Neuer Oberbefehlshaber in Palästina.
+Found
+MODSMD_ARTICLE14: Die Divisionskommandeur-Tagung in Tokio.
+Found
+MODSMD_ARTICLE15: Japan zu Amerikas Flottenpolitik.
+Found
+MODSMD_ARTICLE16: Japan über die Internationale Niederlassung in Schanghai.
+Found

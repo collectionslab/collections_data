@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: 19 999 NM für die Hinterbliebenen der Verunglückten.
+Found
+MODSMD_ARTICLE02: Präsident Tai-Chi-Tao in Bayreuth.
+Found
+MODSMD_ARTICLE03: Der 3. Internationale Lichtforscher-Kongreß.
+Found
+MODSMD_ARTICLE04: Die italienische Presse über den Besuch Dr. Goebbels.
+Found
+MODSMD_ARTICLE05: „Messaggero" über französische Waffenlieferungen.
+Found
+MODSMD_ARTICLE06: Die französischen Waffenlieferungen nach Spanien.
+Found
+MODSMD_ARTICLE07: Mumtionstransport bei Aix-les-Thermes angehalten.
+Found
+MODSMD_ARTICLE08: 1200 Gefangene im Modell-Gefängnis umgebracht.
+Found
+MODSMD_ARTICLE09: Das Entsatzheer nähert sich Toledo.
+Found
+MODSMD_ARTICLE10: Englische Flieger von Madrider Regierung angeworben.
+Found
+MODSMD_ARTICLE11: Englische Krankenwagen für Barcelona.
+Found
+MODSMD_ARTICLE12: 0500 Volksfront-Flüchtlinge ans Jrun.
+Found
+MODSMD_ARTICLE13: Der belgische Botschafter bei Delbos.
+Found
+MODSMD_ARTICLE14: Titnlescus „Erkrankung".
+Found
+MODSMD_ARTICLE15: Solidaritätsaktion rumänischer Diplomaten mit Titulcscu?
+Found

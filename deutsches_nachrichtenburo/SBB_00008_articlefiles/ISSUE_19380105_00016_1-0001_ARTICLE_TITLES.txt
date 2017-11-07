@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Grundsteinlegung zu Zehn Adolf Hitler-Schulen.
+Found
+MODSMD_ARTICLE03: Die Deutschlandreise des Generals Verdaguer.
+Found
+MODSMD_ARTICLE04: Brasilianer studieren deutsche Technik.
+Found
+MODSMD_ARTICLE05: Neue Zollschule in Flensburg eröffnet.
+Found
+MODSMD_ARTICLE06: Die italienische Souveränität über Aethiopieu.
+Found
+MODSMD_ARTICLE07: Die tschechoslowakische Grenzkontrolle.
+Found
+MODSMD_ARTICLE08: Das „Spanische Institut".
+Found
+MODSMD_ARTICLE09: Nationale Erfolge bei Teruel.
+Found
+MODSMD_ARTICLE10: Gespräch unter Bolschewisten-Bonzen.
+Found
+MODSMD_ARTICLE11: Präsident Smetona über die Minderheitenfrage.
+Found
+MODSMD_ARTICLE12: Notenwechsel wegen sowjetrussischer Grenzverletzungen.
+Found
+MODSMD_ARTICLE13: Die Sowjetpresse „entlarvt" weiter.
+Found
+MODSMD_ARTICLE14: Japan besetzt Rundfunk- und Kabelstation Schanghai.
+Found

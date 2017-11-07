@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ernennungen beim Reichsgericht.
+Found
+MODSMD_ARTICLE02: „Spanien kennt seine wahren Freunde."
+Found
+MODSMD_ARTICLE03: Gesandter Crutzescu legte am Ehrenmal einen Kranz nieder.
+Found
+MODSMD_ARTICLE04: „Portugal in Vergangenheit und Gegenwart."
+Found
+MODSMD_ARTICLE05: Ostmärkische Fachbuchausstellung in Graz.
+Found
+MODSMD_ARTICLE06: Der Wiederaufbau des Memellandes.
+Found
+MODSMD_ARTICLE07: General Blaskowitz besichtigt die Skoda-Werke.
+Found
+MODSMD_ARTICLE08: Die Chamberlain Erklärung in der polnischen Presse.
+Found
+MODSMD_ARTICLE09: Vier Notverordnungen unterzeichnet.
+Found
+MODSMD_ARTICLE10: 7 Bombenexplosionen in London in einer Nacht.
+Found
+MODSMD_ARTICLE11: Veränderungen bei der amerikanischen Kriegsmarine.
+Found
+MODSMD_ARTICLE12: Auch ein Erfolg Roosevelts!
+Found
+MODSMD_ARTICLE13: Die Kennzahl der Großhandelspreise vom 29. März 1939.
+Found

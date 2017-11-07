@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ehrenpreis des Führers für Skimeisterschaften.
+Found
+MODSMD_ARTICLE02: Versuche zur Störung des deutsch-türkischen Handels.
+Found
+MODSMD_ARTICLE03: Gefängnis für den Danziger Zentrumsparteivorsitzenden.
+Found
+MODSMD_ARTICLE04: Moskaus Nundfuukemunschuug vor dem Unterhaus.
+Found
+MODSMD_ARTICLE05: England und der französisch-sowjetrussische Pakt.
+Found
+MODSMD_ARTICLE06: Baldwin" erklärt Entlassungen in Dedonport für berechtigt.
+Found
+MODSMD_ARTICLE07: Lord Cranborne über das Mittelmeerabkommen.
+Found
+MODSMD_ARTICLE08: Graf Welczek Ehrengast des Handelsministers Bastid.
+Found
+MODSMD_ARTICLE09: Schon wieder Leichenfunde an der französischen Küste.
+Found
+MODSMD_ARTICLE10: Wieder eine jüdische Betrugsaffäre in Oesterreich.
+Found
+MODSMD_ARTICLE11: Rumänischer Senat: Bund Prag—Moskau Störungsfaktor.
+Found
+MODSMD_ARTICLE12: Antonescu erkrankt. Ankara-Reise ausgegeben.
+Found
+MODSMD_ARTICLE13: Auflösung getarnter Kommunistenorganisation in Lemberg.
+Found
+MODSMD_ARTICLE14: Die ganze Provinz Malaga erobert.
+Found
+MODSMD_ARTICLE15: Wie Malaga genommen wurde.
+Found
+MODSMD_ARTICLE16: Wieder ein Bolschewistenflugzeug in Krankreich gelandet.
+Found
+MODSMD_ARTICLE17: Wie Sowjetrußland Spaniens Bolschewisten versorgt.
+Found
+MODSMD_ARTICLE18: Valencia entschuldigt sich in London.
+Found
+MODSMD_ARTICLE19: Regierungstruppen in Sianfu einmarschiert.
+Found

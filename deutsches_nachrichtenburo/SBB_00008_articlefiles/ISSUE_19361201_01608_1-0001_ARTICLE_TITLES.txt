@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Landbauwissenschaft im Dienste der Ernährungssicherung.
+Found
+MODSMD_ARTICLE02: Berufung Professor Gerlachs.
+Found
+MODSMD_ARTICLE03: Mit LZ. „Hindenburg" über Süd-Brasilien.
+Found
+MODSMD_ARTICLE04: Verlautbarungen über die Wiener Besprechungen.
+Found
+MODSMD_ARTICLE05: Festvorstellung in der Wiener Staatsoper für Horthy.
+Found
+MODSMD_ARTICLE06: Waffentransportverbot gilt nicht für portugiesische Häfen.
+Found
+MODSMD_ARTICLE07: Moskau putscht auch in Indien.
+Found
+MODSMD_ARTICLE08: Soziale Millionenstiftung eines englischen Industriellen.
+Found
+MODSMD_ARTICLE09: Die italienische Kammer feiert den ostafrikanischen Sieg.
+Found
+MODSMD_ARTICLE10: „Giornale tüJtalia" entlarvt Litwinow-Finkelstein.
+Found
+MODSMD_ARTICLE11: Laidoner über das deutsch-estländische Verhältnis.
+Found
+MODSMD_ARTICLE12: Aufschlußreiche Geständnisse eines Anarchisten.
+Found
+MODSMD_ARTICLE13: Französisch-türkische Meinungsverschiedenheiten.
+Found
+MODSMD_ARTICLE14: Attentat auf Hirota vereitelt.
+Found

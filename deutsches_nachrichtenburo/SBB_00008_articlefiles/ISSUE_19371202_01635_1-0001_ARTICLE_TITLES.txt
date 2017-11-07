@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Dr. Goebbels über deutsche Schicksalsfragen.
+Found
+MODSMD_ARTICLE02: Tagung des Beirats der Deutschen Reichsbahn.
+Found
+MODSMD_ARTICLE03: Der Geburtstag des polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE04: London erwartet die Einberufung des Hauptunterausschusses.
+Found
+MODSMD_ARTICLE05: Keine Engländer in Francos Gefangenschaft.
+Found
+MODSMD_ARTICLE06: De jure-Anerkennung Nationalspaniens durch Mandschukno.
+Found
+MODSMD_ARTICLE07: Brasiliens Bundespräsident säubert Heer und Beamtentum.
+Found

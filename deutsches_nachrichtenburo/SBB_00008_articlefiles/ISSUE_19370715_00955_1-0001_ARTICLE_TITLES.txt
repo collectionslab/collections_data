@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Innenminister von SZell zur Minderheitenfrage.
+Found
+MODSMD_ARTICLE02: Kommunistische Werber in Holland.
+Found
+MODSMD_ARTICLE03: Unruhiger französischer Nationalfeiertag.
+Found
+MODSMD_ARTICLE04: „Unter dem Befehl Moskaus."
+Found
+MODSMD_ARTICLE05: Bolschewistische Offensive bei Madrid zusammengebrochen.
+Found
+MODSMD_ARTICLE06: Ein englisch-amerikanischer Zwischenfall.
+Found
+MODSMD_ARTICLE07: Ablehnung englischer Wünsche.
+Found
+MODSMD_ARTICLE08: Fraktionsvorsitzender Robinson einem Herzschlag erlegen.
+Found
+MODSMD_ARTICLE09: Das chilenische Kabinett bleibt im Amt.
+Found
+MODSMD_ARTICLE10: Konferenz der Provinzialgouverneure in Tokio.
+Found

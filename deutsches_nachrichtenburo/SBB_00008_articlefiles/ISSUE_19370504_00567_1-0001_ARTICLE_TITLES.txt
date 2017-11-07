@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Wiederholungsübungen für das SA.-Sportabzeichen.
+Found
+MODSMD_ARTICLE02: Besuch Staatssekretär von Mackensens bei der AO.
+Found
+MODSMD_ARTICLE03: 14 Reichssieger bei Darre.
+Found
+MODSMD_ARTICLE04: Abreise der italienischen Industriellen.
+Found
+MODSMD_ARTICLE05: Des brasilianischen Bundespräsidenten Gattin in Berlin.
+Found
+MODSMD_ARTICLE06: Von Neurath ehrt italienische Königs- und HMengräber.
+Found
+MODSMD_ARTICLE07: Der deutsche Außenminister bei Mussolini.
+Found
+MODSMD_ARTICLE08: „Nichts ohne und nichts gegen Deutschland und Italien!"
+Found
+MODSMD_ARTICLE09: Der Besuch des österreichischen Bundespräsidenten.
+Found
+MODSMD_ARTICLE10: Baldwin beim König.
+Found
+MODSMD_ARTICLE11: Die Note der spanischen Nationalregierung an England.
+Found
+MODSMD_ARTICLE12: Bilbao stärker blockiert.
+Found
+MODSMD_ARTICLE13: Kabinett Hayaschi bleibt im Amt.
+Found
+MODSMD_ARTICLE14: Präsident der Amerikanisch-Lutherischen Kirche gestorben.
+Found
+MODSMD_ARTICLE15: Brasilianischer Staatsgouverneur über Deutschland.
+Found

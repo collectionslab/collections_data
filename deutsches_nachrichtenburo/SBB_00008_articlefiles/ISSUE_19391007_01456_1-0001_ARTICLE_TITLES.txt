@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Welt hörte den Führer. Böhmen.
+Found
+MODSMD_ARTICLE02: Italien.
+Found
+MODSMD_ARTICLE03: Spanien.
+Found
+MODSMD_ARTICLE04: Dänemark.
+Found
+MODSMD_ARTICLE05: Brasilien.
+Found
+MODSMD_ARTICLE06: Argentinien.
+Found
+MODSMD_ARTICLE07: Uruguay
+Found
+MODSMD_ARTICLE08: Vernichtende Kritik an Churchills „Athenia"-Schwindel.
+Found
+MODSMD_ARTICLE09: Telegrammvzechsel Munters—Molotow.
+Found
+MODSMD_ARTICLE11: Die Unterzeichnung des Paktes Sowjetunion-Lettland.
+Found
+MODSMD_ARTICLE12: Die sowjetrussisch-litauischen Besprechungen.
+Found
+MODSMD_ARTICLE13: Englische Besorgnisse über Rußlands Politik.
+Found
+MODSMD_ARTICLE14: Die Sinnlosigkeit des gegenwärtigen Kriegszustandes.
+Found
+MODSMD_ARTICLE15: Englisches U-Boot schwer beschädigt.
+Found
+MODSMD_ARTICLE16: Spanier und Araber verbindet tiefe Freundschaft.
+Found

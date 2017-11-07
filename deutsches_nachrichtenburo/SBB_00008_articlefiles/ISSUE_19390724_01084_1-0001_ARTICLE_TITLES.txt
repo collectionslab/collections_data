@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ehrung der Sieger im Reichswettkampf der SA.
+Found
+MODSMD_ARTICLE02: „Erneute wesentliche Steigerung der Leistungen."
+Found
+MODSMD_ARTICLE03: Hermann! Göring besuchte Oldenburg und Bremen.
+Found
+MODSMD_ARTICLE04: „Ihr seid der Sozialismus Adolf Hitlers."
+Found
+MODSMD_ARTICLE05: Paris weiter pessimistisch.
+Found
+MODSMD_ARTICLE06: Pariser Begleitmusik zum Londoner Rückzug in Tokio.
+Found
+MODSMD_ARTICLE07: Der 111. vergebliche Gang in den Kreml.
+Found
+MODSMD_ARTICLE08: Kommandosorgen bei den Einkreisern.
+Found
+MODSMD_ARTICLE09: Abschluß der Stockholmer Lingiade.
+Found
+MODSMD_ARTICLE10: Die antibritische Bewegung in Japan.
+Found
+MODSMD_ARTICLE11: „England darf die Neuordnung Ostasiens nicht mehr stören."
+Found
+MODSMD_ARTICLE12: Das Memorandum Arita—Craigie.
+Not Found
+MODSMD_ARTICLE13: „Hausarrest" für Engländer in Peking.
+Found

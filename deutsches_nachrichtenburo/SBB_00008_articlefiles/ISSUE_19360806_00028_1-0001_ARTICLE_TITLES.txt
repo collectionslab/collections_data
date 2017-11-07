@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer im Stadion.
+Found
+MODSMD_ARTICLE02: Empfang beim Reichsaußenminister.
+Found
+MODSMD_ARTICLE03: Internationaler Tee-Empfang der Reichsfrauensührerin.
+Found
+MODSMD_ARTICLE04: Empfang bei der Deutsch-Bulgarischen Gesellschaft.
+Found
+MODSMD_ARTICLE05: Der vierte Tag der Leichtathletik.
+Found
+MODSMD_ARTICLE06: Die Presseorganisation der Olympischen Spiele.
+Found
+MODSMD_ARTICLE07: Glückwunsch Dr. Gärtners an Jsmayr.
+Found
+MODSMD_ARTICLE08: Grußtelegramme des Reichssportführers.
+Found
+MODSMD_ARTICLE09: 100 englische Polizeibeamte am Gefallenen-Denkmal.
+Found
+MODSMD_ARTICLE10: Oberleutnant Handrick siegt im modernen Fünfkampf.
+Found
+MODSMD_ARTICLE11: Stock gewinnt die Goldene Medaille im Speerwurf.
+Found
+MODSMD_ARTICLE12: Goldene und silberne Medaille für Deutschland im Pistolenschießen.
+Not Found
+MODSMD_ARTICLE13: Neuer Weltrekord im 110-Meter-Hürdenlauf.
+Found
+MODSMD_ARTICLE14: Empfang der Atlantik-Segler durch die Stadt Kiel.
+Found
+MODSMD_ARTICLE15: Wetterbesserung in Kiel.
+Found
+MODSMD_ARTICLE16: Die Touristik-Flieger in Breslau.
+Found
+MODSMD_ARTICLE17: Polnisches Schulschiff in Kiel.
+Found

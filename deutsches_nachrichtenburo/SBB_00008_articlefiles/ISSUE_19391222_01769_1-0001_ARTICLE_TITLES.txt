@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Goethe-Medaille sür Josef Schick.
+Found
+MODSMD_ARTICLE02: Erholungs- und Fürsorgewerk der DAF. ins Leben gerufen.
+Found
+MODSMD_ARTICLE03: Weihnachtsfeier auf der Krakauer Burg.
+Found
+MODSMD_ARTICLE04: Himmler beim Duce.
+Found
+MODSMD_ARTICLE05: Deutsch-italienisches Umsiedlungsabkommen unterzeichnet.
+Found
+MODSMD_ARTICLE06: Gegen die angemaßte Gendarmenrolle Englands.
+Found
+MODSMD_ARTICLE07: Stalin über das Schanddiktat von Versailles.
+Found
+MODSMD_ARTICLE08: Schneesturm und Kälte an der Eismeer-Front.
+Found
+MODSMD_ARTICLE09: „Verlockende" Rüstungsangeböte an Jugoslawien.
+Found
+MODSMD_ARTICLE10: Der russisch-lettische Beistandspakt loyal erfüllt.
+Found
+MODSMD_ARTICLE11: Italienischer Dampfer im Hafen von Vlissingen gesunken.
+Found
+MODSMD_ARTICLE12: Piraten gestern und heute.
+Found
+MODSMD_ARTICLE13: „Finnlands Zukunft Zu ungewiß".
+Found
+MODSMD_ARTICLE14: Aufdeckung einer Sabotageschule in Neuyork.
+Found
+MODSMD_ARTICLE15: Europas Gold wandert nach den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE16: Lügen haben kurze Beine.
+Found

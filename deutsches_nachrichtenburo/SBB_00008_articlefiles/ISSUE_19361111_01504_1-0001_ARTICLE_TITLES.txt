@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Das Beileid des Führers zum Untergang der „Isis".
+Found
+MODSMD_ARTICLE02: Überreichung eines Ehrenbürgerbriefes von Trier an Ruft.
+Found
+MODSMD_ARTICLE03: Kein Mißbrauch mit dem Wort „Alkazar"!
+Found
+MODSMD_ARTICLE04: Tie „Anglo-German-Rcview" im Dienst der Verständigung.
+Found
+MODSMD_ARTICLE05: Wehraussprache im Unterhaus.
+Found
+MODSMD_ARTICLE06: Tie körperliche Ertüchtigung der englischen Jugend.
+Found
+MODSMD_ARTICLE07: Um das Verbot politischer Uniformen in England.
+Found
+MODSMD_ARTICLE08: Fliegerangriff auf die roten Stellungen am Manzanares.
+Found
+MODSMD_ARTICLE09: Guatemala erkennt die Franco-Regierung an.
+Found
+MODSMD_ARTICLE10: Weitere Enthüllungen über sowjetrussische Lieferungen^
+Found
+MODSMD_ARTICLE11: Ordentliche Tagung des belgischen Parlaments.
+Found
+MODSMD_ARTICLE12: Koco Kotta legt das Regierungsprogramm vor.
+Found
+MODSMD_ARTICLE13: Admiral Leahy Admiralstabschef in den USA.
+Found
+MODSMD_ARTICLE14: 423 amerikanische Schiffe durch Streik stillgelegt.
+Found
+MODSMD_ARTICLE15: Hinrichtung eines Doppelmörders.
+Found

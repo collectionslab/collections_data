@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Ehrung zweier Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Das deutsche Memorandum.
+Found
+MODSMD_ARTICLE03: Der Berliner Aufenthalt des ungarischen Innenministers»
+Found
+MODSMD_ARTICLE04: Der neue deutsche Gesandte in Albanien bei König Zogu.
+Found
+MODSMD_ARTICLE05: Proklamation König Georgs VI. an die Wehrmacht.
+Found
+MODSMD_ARTICLE06: Zum Herzog von Windsor ernannt.
+Found
+MODSMD_ARTICLE07: Ein E-Boot der spanischen Bolschewisten versenkt.
+Found
+MODSMD_ARTICLE08: Eine erschütternde Bevölkerungsbilanz.
+Found
+MODSMD_ARTICLE09: Die Lehrerausbildung an den Deutschen Minderheitsschulen.
+Found
+MODSMD_ARTICLE10: Strciklaqe in Lille spitzt sich wieder zu.
+Found
+MODSMD_ARTICLE11: Die Ursache des Kristallpalast-Brandes nicht festzustellen.
+Found
+MODSMD_ARTICLE12: Erste Reichsautobahn-Teilstrecke im Ruhrgebiet eröffnet.
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Führer an die Tagung des Auslandsinstituts.
+Found
+MODSMD_ARTICLE02: Personalveränderungen in der Kriegsmarine.
+Found
+MODSMD_ARTICLE03: Tagung des Wissenschaftlichen Vereins für Verkehrswesen.
+Found
+MODSMD_ARTICLE04: Der Fürsterzbischof von Salzburg gegen die Auslandskritik.
+Found
+MODSMD_ARTICLE05: Empfang des deutschen Gesandten in Lissabon.
+Found
+MODSMD_ARTICLE06: Unruhen auch in Briiisch-Guyana.
+Found
+MODSMD_ARTICLE07: Schlußsitzung des amerikanischen Parlaments.
+Found
+MODSMD_ARTICLE08: Ugaki: Japan führt seinen Kampf bis Zum Ende.
+Found

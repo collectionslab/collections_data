@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Minister Dr. Jury sprach in Halberstadt.
+Found
+MODSMD_ARTICLE02: Empfang Floreutinischen Orchesters im Münchener Rathaus.
+Found
+MODSMD_ARTICLE03: Italien zu den Reden des Führers.
+Found
+MODSMD_ARTICLE04: Rom zur nationalspanischen Offensive.
+Found
+MODSMD_ARTICLE05: Graf Ciano Trauzeuge bei der Eheschließung König Zogus.
+Found
+MODSMD_ARTICLE06: Ohrfeigen im englischen Unterhaus.
+Found
+MODSMD_ARTICLE07: „Budapest! Hirlap" über die Wahl vom 10. April.
+Found
+MODSMD_ARTICLE08: Zu Francs übergegangen.
+Found
+MODSMD_ARTICLE09: Wieder Geiselmorde in Andalusien.
+Found
+MODSMD_ARTICLE10: 122 000 Bolschewisten gefangengenommen.
+Found
+MODSMD_ARTICLE11: Die Blutbilanz des Bolschewismus in Lerida.
+Found
+MODSMD_ARTICLE12: Japan verwahrt sich gegen Sowjet-Einmischung.
+Found
+MODSMD_ARTICLE13: Japan zu den Erklärungen Hulls.
+Found

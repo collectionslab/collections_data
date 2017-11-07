@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Neue ehrenamtliche Mitglieder des Volksgerichtshofes.
+Found
+MODSMD_ARTICLE02: Reichsdeutsche Gäste bei der Danziger Staatsjagd.
+Found
+MODSMD_ARTICLE03: Kerkerstrafen für österreichische Nationalsozialiften.
+Found
+MODSMD_ARTICLE04: Der Prager Oberbürgermeister Dr. Baxa f.
+Found
+MODSMD_ARTICLE05: Tschechische Polizeiaktion gegen die SdP.
+Found
+MODSMD_ARTICLE06: Das Programm der Budapester Konferenz.
+Found
+MODSMD_ARTICLE07: „Der Genfer Verein wieder einmal vergewaltigt".
+Found
+MODSMD_ARTICLE08: Abänderung des bulgarischen Wahlgesetzes.
+Found
+MODSMD_ARTICLE09: Eine Protestmasmahme französischer Aerzte.
+Found
+MODSMD_ARTICLE10: General Duffieux bestätigt die Aussage Deloncles.
+Found
+MODSMD_ARTICLE11: Sechs neue Opfer Stalins.
+Found
+MODSMD_ARTICLE12: Steigerung der sowjetrussischen See-Aufrüstung.
+Found
+MODSMD_ARTICLE13: Empfang des neuen deutschen Gesandten in Uruguay.
+Found
+MODSMD_ARTICLE14: Die Uneinigkeit in der Wafd-Partei.
+Found
+MODSMD_ARTICLE15: Ein Ministerpräsident der Veruntreuung beschuldigt.
+Found
+MODSMD_ARTICLE16: Suyetsngn kündigt soziale Schritte und Verhaftungen an.
+Found

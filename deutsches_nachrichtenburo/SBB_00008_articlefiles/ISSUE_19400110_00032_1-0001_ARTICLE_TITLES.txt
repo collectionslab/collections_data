@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Zum Gruppenführer befördert.
+Found
+MODSMD_ARTICLE02: Goethe-Medaille für Agnes Bluhm.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels über Aufgaben des Großdeutschen Rundfunks.
+Found
+MODSMD_ARTICLE04: Staatssekretär Stuckart in Krakau.
+Found
+MODSMD_ARTICLE05: „Es ist unmöglich, das Reich niederzuringen."
+Found
+MODSMD_ARTICLE06: Italiens und Ungarns Beziehungen zum Reich.
+Found
+MODSMD_ARTICLE07: Die Todesfahrt nach England.
+Found
+MODSMD_ARTICLE08: Englische Kohle in Holland immer teurer.
+Found
+MODSMD_ARTICLE09: Immer noch 1,36 Millionen Arbeitslose in England.
+Found
+MODSMD_ARTICLE10: Chamberlain „verteidigt" wieder einmal die „Zivilisation".
+Found
+MODSMD_ARTICLE11: Belisha rcdivivuS?
+Found
+MODSMD_ARTICLE12: „Man muß andere Schlachtfelder suchen".
+Found
+MODSMD_ARTICLE13: Bisher 85 USA.-Dampfer angehalten.
+Found
+MODSMD_ARTICLE14: Der Jacksonday iu den Vereinigten Staaten.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Senator Hasbach bei Mosciki.
+Found
+MODSMD_ARTICLE02: Italien feiert die „nationalsozialistische Solidarität".
+Found
+MODSMD_ARTICLE03: Die KdF.-Urlauber auf dem Capitol empfangen.
+Found
+MODSMD_ARTICLE04: Radaufzenen in der französischen Kammer.
+Found
+MODSMD_ARTICLE05: Der bulgarische König aus Paris abgereist.
+Found
+MODSMD_ARTICLE06: Keine phantasievollejn Vorhersagen.
+Found
+MODSMD_ARTICLE07: Empfang zu Ehren des Königs der Belgier.
+Found
+MODSMD_ARTICLE08: „Ein Schandfleck im Friedensdiktat."
+Found
+MODSMD_ARTICLE09: Sicherungsmasmahmeu in Gibraltar.
+Found
+MODSMD_ARTICLE10: Nichts Neues an den Fronten.
+Found
+MODSMD_ARTICLE11: Die Priester wurden ermordet, die Kirchen zerstört.
+Found
+MODSMD_ARTICLE12: Nach sowjetrussischem Muster?
+Found
+MODSMD_ARTICLE13: Ein unvergeßlicher Freundschaftsbeweis.
+Found
+MODSMD_ARTICLE14: Zur ungarischen Anerkennung der Franco-Regierung.
+Found
+MODSMD_ARTICLE15: Neue englisch-amerikanische Handelsvertragsverhandlungen.
+Found

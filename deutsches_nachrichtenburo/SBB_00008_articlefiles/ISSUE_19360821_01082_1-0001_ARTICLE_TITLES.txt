@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Die Deutsche Himalaya-Expedition 1936.
+Found
+MODSMD_ARTICLE03: Rote Seerüstungen in der Ostsee.
+Found
+MODSMD_ARTICLE04: Svwjetrußlands zweites rotes Heer.
+Found
+MODSMD_ARTICLE05: Die Aussagen im Tinowjew-Prozest.
+Found
+MODSMD_ARTICLE06: Pariser Rechtspresse billigt deutschen Protest in Madrid.
+Found
+MODSMD_ARTICLE07: Marxistische Freiwillige aus Frankreich in Barcelona.
+Found
+MODSMD_ARTICLE08: Spanischer Petroleumdampfer nach Malaga unterwegs»
+Found
+MODSMD_ARTICLE09: Die sowjetrussische Rundfunk-Redaktion in Barcelona.
+Found
+MODSMD_ARTICLE10: Drei Sowjetgeneräle' bei den französischen Manövern.
+Found
+MODSMD_ARTICLE11: Beendigung des Schifferstreiks auf der Seine.
+Found
+MODSMD_ARTICLE12: Jüdische Deviseuschieber in Warschau verhaftet.
+Found
+MODSMD_ARTICLE13: Der Ras Gugsa in Neapel eingetroffen.
+Found
+MODSMD_ARTICLE14: Ter Außenminister von Irak in Jerusalem.
+Found
+MODSMD_ARTICLE15: Blutige Gefechte in Palästina.
+Found
+MODSMD_ARTICLE16: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found

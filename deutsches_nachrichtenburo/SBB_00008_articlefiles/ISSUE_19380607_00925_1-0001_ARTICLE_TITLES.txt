@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Tresi Rudolph Kammersängerin.
+Found
+MODSMD_ARTICLE02: Doppeltriumph der deutschen Luftfahrt.
+Found
+MODSMD_ARTICLE03: Deutsch-niederländisches Reiseabkommen verlängert.
+Found
+MODSMD_ARTICLE04: Oesterreich im deutsch-jugoslawischen Handelsvertrag.
+Found
+MODSMD_ARTICLE05: Die Beisetznngsfeier für Hans von Wolzogen.
+Found
+MODSMD_ARTICLE06: Bedanern der tschechoslowakischen Regierung.
+Found
+MODSMD_ARTICLE07: Blutige Pfingsten in Sudetendeutschland.
+Found
+MODSMD_ARTICLE08: Hinterhältige Ueberfälle auf Polen im Teschener Gebiet.
+Found
+MODSMD_ARTICLE09: Prag verfügt 51 Zeitungsbeschlagnahmungen.
+Found
+MODSMD_ARTICLE10: USA.-Marineluftschiff-Vorlage abgelehnt.
+Found
+MODSMD_ARTICLE11: Unentschieden gegen die Schweiz.
+Found
+MODSMD_ARTICLE12: Die Kennziffer der Großhandelspreise vom 1. Juni.
+Found

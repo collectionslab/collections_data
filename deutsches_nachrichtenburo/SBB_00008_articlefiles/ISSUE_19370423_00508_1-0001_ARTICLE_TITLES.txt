@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Ehrenpreis des Führers.
+Found
+MODSMD_ARTICLE02: Der italienische Propagandaminister grüßt den Führer.
+Found
+MODSMD_ARTICLE03: Italiens Journalisten an den Stätten deutscher Arbeit.
+Found
+MODSMD_ARTICLE04: General Christiansen übernahm das NS.-Fliegerkorps.
+Found
+MODSMD_ARTICLE05: Dr. Ley eröffnet das Gesellenwandern.
+Found
+MODSMD_ARTICLE06: NSDAP.: Motor auf dem Weg zu höherer Lebenshaltung.
+Found
+MODSMD_ARTICLE07: Die Beisetzung des Generals von Gallwitz.
+Found
+MODSMD_ARTICLE08: Sinclair für wirtschaftliche Friedenssicherung.
+Found
+MODSMD_ARTICLE09: Zweite Daladier-Nede in Manchester.
+Found
+MODSMD_ARTICLE10: Lansbury bei Eden.
+Found
+MODSMD_ARTICLE11: Britische Lebensmittelschiffe in Bilbao eingetroffen.
+Found
+MODSMD_ARTICLE12: Eingeborenenanfstand im indischen Staate Alwar.
+Found

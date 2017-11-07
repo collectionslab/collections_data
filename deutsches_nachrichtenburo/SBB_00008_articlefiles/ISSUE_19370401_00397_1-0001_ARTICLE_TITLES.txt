@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Reichsanwalt Jörns tritt in Ruhestand. Dankurkunde des Führers.
+Found
+MODSMD_ARTICLE02: Wissenschaftliche Gemeinschaftsarbeit Deutschland—Japan.
+Not Found
+MODSMD_ARTICLE03: Deutschland dem Internationalen Institut für Vermaltungswissenschaften beigetreten.
+Not Found
+MODSMD_ARTICLE04: Sondertreuhänder der Heimarbeit in der Glaswarenherstellung und -bearbeitung.
+Not Found
+MODSMD_ARTICLE05: Uebersiedluug der Gauleitung! Osthannover nach Lüneburg.
+Found
+MODSMD_ARTICLE06: Neue Offensive der Komintern.
+Found
+MODSMD_ARTICLE07: „Keine sensationellen Beschlüsse zu erwarten".
+Found
+MODSMD_ARTICLE08: Feldgerichte auch außerhalb der Kampfzone.
+Found
+MODSMD_ARTICLE09: Der nationale Vorstoß an der baskischen Front.
+Found
+MODSMD_ARTICLE10: Schweizerisch-französischer Handelsvertrag unterzeichnet.
+Found
+MODSMD_ARTICLE11: Französisches Flugzeug von Bolschewisten beschossen.
+Found
+MODSMD_ARTICLE12: Keine sowjetrussische Anerkennung Bessarabiens.
+Found
+MODSMD_ARTICLE13: Überwachung des Kriegsmaterialhandels in Kanada.
+Found
+MODSMD_ARTICLE14: Aden eine neue Kolonie des britischen Weltreiches.
+Found
+MODSMD_ARTICLE15: Indische Nationalisten demonstrieren gegien Verfassung.
+Found
+MODSMD_ARTICLE16: Streik auf den malayischen Kautschukpflanzungen beendet.
+Found
+MODSMD_ARTICLE17: Zwei Monate Urlaub für Tschiangkaischek.
+Found

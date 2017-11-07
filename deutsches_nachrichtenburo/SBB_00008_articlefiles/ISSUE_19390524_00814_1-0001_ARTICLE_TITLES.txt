@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: General von der Schulenburg beigesetzt.
+Found
+MODSMD_ARTICLE02: Eine Verstärkung, die die Achse unüberwindlich macht.
+Found
+MODSMD_ARTICLE04: Eine wohlverdiente Abfuhr für die Pariser Blätter.
+Found
+MODSMD_ARTICLE05: Italien beging den Tag seiner Wiedergeburt.
+Found
+MODSMD_ARTICLE06: Austausch deutscher und italienischer Bauernsöhne.
+Found
+MODSMD_ARTICLE07: Francos-Sofort-Programm bereits begonnen.
+Found
+MODSMD_ARTICLE08: Spanien und Marokko für immer vereint.
+Found
+MODSMD_ARTICLE09: Weitere Spende der deutschen Freiwilligen.
+Found
+MODSMD_ARTICLE10: Bis nach den Pfingstferien.
+Found
+MODSMD_ARTICLE11: Wieder zwei blutige Gefechte in Palästina.
+Found
+MODSMD_ARTICLE12: Das Gefecht von Samaria.
+Found
+MODSMD_ARTICLE13: Arabische Erfolge in Palästina.
+Found
+MODSMD_ARTICLE14: Die deutsche Presseabordnung verließ Peking.
+Found
+MODSMD_ARTICLE15: Französische Militärberater für China.
+Found
+MODSMD_ARTICLE16: Mexiko weist jüdische Parasiten ab.
+Found
+MODSMD_ARTICLE17: Im Schatten des New Deal.
+Found

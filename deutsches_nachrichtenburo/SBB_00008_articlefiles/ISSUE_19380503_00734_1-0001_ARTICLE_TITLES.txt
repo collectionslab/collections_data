@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Dr. Goebbels an Hilgenfeldt.
+Found
+MODSMD_ARTICLE02: Der Eid der evangelischen Pfarrer Oesterreichs.
+Found
+MODSMD_ARTICLE03: „Was Jahrhunderte nicht möglich War, gelang ihm."
+Found
+MODSMD_ARTICLE04: Kcmya über die Rückkehr Oesterreichs ins Reich.
+Found
+MODSMD_ARTICLE05: Die Londoner Presse zur Ankunft Dirksens.
+Found
+MODSMD_ARTICLE06: Eröffnung der Empire-Ausstellung in Glasgow.
+Found
+MODSMD_ARTICLE07: Die Frage der chinesischen Seezölle.
+Found
+MODSMD_ARTICLE08: Der Ministerrat billigt Daladiers Wirtschaftsverordlnungen.
+Found
+MODSMD_ARTICLE09: Dr. Ley in Griechenland.
+Found
+MODSMD_ARTICLE10: Polnisch-litauisches Postverkehrsabkommen.
+Found
+MODSMD_ARTICLE11: Neuer nationalspanischer Bormarsch.
+Found
+MODSMD_ARTICLE12: Argentiniens Deutsche konnten am 1. Mai nicht feiern.
+Found
+MODSMD_ARTICLE13: Eine Judeninternationale soll organisiert werden.
+Found
+MODSMD_ARTICLE14: Erklärung des japanischen Innenministers.
+Found
+MODSMD_ARTICLE15: Vorrücken der Japaner am Nordufer des Jangtse.
+Found
+MODSMD_ARTICLE16: Italien zum Wiederaufbau Chinas aufgefordert.
+Found
+MODSMD_ARTICLE17: Der Aufruhr in Palästina wächst.
+Found
+MODSMD_ARTICLE18: Vollstreckung eines Todesurteils.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Kapitän Schlimbach bei Rcichsminister Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels besichtigte Kunstausstellung.
+Found
+MODSMD_ARTICLE04: Kein Reichsbauerntag.
+Found
+MODSMD_ARTICLE05: Flugkapitän Melitta Schiller.
+Found
+MODSMD_ARTICLE06: Tie Eintopfgerichte am 14. November.
+Found
+MODSMD_ARTICLE07: Deutsch-italienische Zusammenarbeit in Versicherungsfrageü.
+Found
+MODSMD_ARTICLE08: Reichsdeutsche im Ausland feiern den 3. November.
+Found
+MODSMD_ARTICLE09: Stellvertretender Gauleiter Franz Schund f.
+Found
+MODSMD_ARTICLE10: Für Berücksichtigung der deutschen Rohstoffwünschie.
+Found
+MODSMD_ARTICLE11: Neue Spuren der GPU in Paris.
+Found
+MODSMD_ARTICLE12: Nichts Neues an den spanischen Fronten.
+Found
+MODSMD_ARTICLE13: General Francs zeichnet die Provinz Navarra aus.
+Found
+MODSMD_ARTICLE14: Die spanischen Bolschewisteu am Ende?
+Found
+MODSMD_ARTICLE15: Der Warschauer Sowjetbotschafter bereits verhaftet?
+Found
+MODSMD_ARTICLE16: Nervosität in Moskau.
+Found
+MODSMD_ARTICLE17: Die Zustände auf amerikanischen Handelsschiffen.
+Found
+MODSMD_ARTICLE18: Ein Landesverräter^hingerichtet.
+Found

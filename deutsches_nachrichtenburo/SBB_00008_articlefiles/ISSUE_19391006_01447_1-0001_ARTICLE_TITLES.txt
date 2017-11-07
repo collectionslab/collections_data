@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Dr. Tiso dankt der slowakischen Wehrmacht.
+Found
+MODSMD_ARTICLE02: Zusatzprotokoll zum Grenz- und Freundschaftsvertrag.
+Found
+MODSMD_ARTICLE03: Moskau brandmarkt böswillige englische Lügenmeldungen.
+Found
+MODSMD_ARTICLE04: Moscickis Schweizer Paß besagt alles.
+Found
+MODSMD_ARTICLE05: Beistandspakt Sowjetunion—Lettland unterzeichnet.
+Found
+MODSMD_ARTICLE06: Der Beistandspakt Estlands mit der Sowjetunion.
+Found
+MODSMD_ARTICLE07: Gafencu unterstreicht Rumäniens Neutralität.
+Found
+MODSMD_ARTICLE08: Belgien gibt Rationierungskarten ans.
+Found
+MODSMD_ARTICLE09: Bewunderung für die deutsche Fliegerei.
+Found
+MODSMD_ARTICLE10: „Ten Wünschen der Gewerkschaften wird nicht entsprochen."
+Found
+MODSMD_ARTICLE11: Fremde Schiffe in japanischen Häfen dürfen nicht funken.
+Found
+MODSMD_ARTICLE12: Amerika soll auf einen Waffenstillstand hinarbeiten.
+Found
+MODSMD_ARTICLE13: England führt einen Präventivkrieg.
+Found

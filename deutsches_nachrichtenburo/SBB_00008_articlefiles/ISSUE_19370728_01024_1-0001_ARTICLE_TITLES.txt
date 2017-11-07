@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Schirach besichtigte die HJ.-Zeltlager.
+Found
+MODSMD_ARTICLE03: Breslau zum Empfang der Sänger gerüstet.
+Found
+MODSMD_ARTICLE04: „Morning Post" und „Daily Telegraph" in einer Hand.
+Found
+MODSMD_ARTICLE05: Uuterhausausschuß berät Lage in Spanien und Fernost.
+Found
+MODSMD_ARTICLE06: Unterhausaussprache über die Wehrhaushalte.
+Found
+MODSMD_ARTICLE07: Die „Times" mahnt zur Geduld.
+Found
+MODSMD_ARTICLE08: Gut gerüstet aber trotzdem weitere Aufrüstung!
+Found
+MODSMD_ARTICLE09: „Journal" prangert Moskauer Doppelzüngigkeit an.
+Found
+MODSMD_ARTICLE10: Neue Belohnungen neue Verhaftungen.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer empfing Senator Puricelli.
+Found
+MODSMD_ARTICLE02: Auszeichnung italienischer Offiziere.
+Found
+MODSMD_ARTICLE03: Die Mitglieder der Zeitdokumenten-Kommission.
+Found
+MODSMD_ARTICLE04: Automobilisten aus aller Welt in Berlin.
+Found
+MODSMD_ARTICLE05: Der Direktor des Condor-Syndikats bei General Milch.
+Found
+MODSMD_ARTICLE06: Gauleiter Wagner über Staat und Kirche.
+Found
+MODSMD_ARTICLE07: Italienische Auszeichnung für Generalintendant Walleck.
+Found
+MODSMD_ARTICLE08: Reichswasserwirtschaftstagung Breslau 1937.
+Found
+MODSMD_ARTICLE09: Zwischenfall bei der Senatseröffnung.
+Found
+MODSMD_ARTICLE10: Eine Stimme gegen Chautemps.
+Found
+MODSMD_ARTICLE11: Der Wortlaut des französischen Ermächtigungsgesetzes.
+Found
+MODSMD_ARTICLE12: Oesterreich und die deutsche Wirtschaft.
+Found
+MODSMD_ARTICLE13: Der Reichskriegsminister in Gran.
+Found
+MODSMD_ARTICLE14: Die deutsch-schweizerischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE15: Nationalspanische Kriegsschiffe vor der Mittelmeerküste.
+Found
+MODSMD_ARTICLE16: Dockarbeiterstreik in Hull.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Antworttclegramm Bottais an Reichsminister Ruft.
+Found
+MODSMD_ARTICLE03: 5 Jahre „Kraft durch Freude".
+Found
+MODSMD_ARTICLE04: Der Reichsautobahnbau im Sudetenland.
+Found
+MODSMD_ARTICLE05: Der Prozeß gegen die Mörder Honomichels.
+Found
+MODSMD_ARTICLE06: Verhandlungen in Preßburg über das Ermächtigungsgesetz.
+Found
+MODSMD_ARTICLE07: Mit Tränengas gegen Streikende.
+Found
+MODSMD_ARTICLE08: Chamberlain besuchte den Herzog von Windsor.
+Found
+MODSMD_ARTICLE09: Die englischen Minister aus Paris abgereist.
+Found
+MODSMD_ARTICLE10: Paris und London zu den Ministerbesprechungen in Paris.
+Found
+MODSMD_ARTICLE11: Deutsch-japanisches Kulturabkommen.
+Found
+MODSMD_ARTICLE12: Tokio feiert das Antikominterabkommen.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Reichsarbeitsminister Scldte über Arbeitseinsatzfragen.
+Found
+MODSMD_ARTICLE02: Wechsel in der Leitung des Fachamts Bergbau in der DAF.
+Found
+MODSMD_ARTICLE03: Neuer Gouverneur der tschechoslowakischen Natisnalbauk.
+Found
+MODSMD_ARTICLE04: „Die Slowakei im internationalen Leben."
+Found
+MODSMD_ARTICLE05: Dr. Tiso über soziale und wirtschaftliche Fragen.
+Found
+MODSMD_ARTICLE06: Aufsehenerregender Artikel im „Slovak".
+Found
+MODSMD_ARTICLE07: Telegrammwechsel Franco-Mussolini.
+Found
+MODSMD_ARTICLE08: Geteilte Aufnahme des neuen belgischen Kabinetts.
+Found
+MODSMD_ARTICLE09: Neue Eintritte in die ungarische Regierungspartei.
+Found
+MODSMD_ARTICLE10: Abschluß der Balkanbund-Tagung.
+Found
+MODSMD_ARTICLE11: Französisches Kriegsschiff nach Hainan beordert.
+Found
+MODSMD_ARTICLE12: Englischer Protest in Tokio.
+Found
+MODSMD_ARTICLE13: Eine Bombe fiel irrtümlich auf britisches Gebiet.
+Found
+MODSMD_ARTICLE14: Reynolds belehrt die amerikanischen Hetzapostel.
+Found
+MODSMD_ARTICLE15: Unverantwortliche Hetze im Parlament zu Washington.
+Found

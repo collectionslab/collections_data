@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Des Führers Parole zum Winterhilfswerk.
+Found
+MODSMD_ARTICLE02: Die Gattin des Gesandten Boliviens f. Beileid des Führers.
+Found
+MODSMD_ARTICLE03: Neichsleiter Rosenberg an Frau Gömbös.
+Found
+MODSMD_ARTICLE04: Korpsführer Hühnlein an den Honvedminister.
+Found
+MODSMD_ARTICLE05: Die deutschen Kriegsdichter an den Führer.
+Found
+MODSMD_ARTICLE06: Stabschef Lutze in Dresden.
+Found
+MODSMD_ARTICLE07: Stapellauf des Motorschiffes „Cairo".
+Found

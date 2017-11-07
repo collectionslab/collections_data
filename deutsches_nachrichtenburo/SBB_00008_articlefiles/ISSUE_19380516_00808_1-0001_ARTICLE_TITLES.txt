@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Zweite Morgen-Ausgabe. deutsches Nachrichtenbüro U
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Frick zum Muttertag.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Göring aus Wien abgereist.
+Found
+MODSMD_ARTICLE05: Reichswirtschaftshilfe für Oesterreich.
+Found
+MODSMD_ARTICLE06: Der jugoslawische Minister Behmen zurückgetreten.
+Found
+MODSMD_ARTICLE07: Ausstellung deutscher Zeitschriften in Venedig.
+Found
+MODSMD_ARTICLE08: „Italien vergibt seine Freundschaft nicht leichtfertig."
+Found
+MODSMD_ARTICLE09: Warschau über den Besuch Henlems in London.
+Found
+MODSMD_ARTICLE10: Londoner Stimmen Zum Henlein-Besuch.
+Found
+MODSMD_ARTICLE11: Rücktritt Jmredys als Präsident der Nationalbank.
+Found
+MODSMD_ARTICLE12: Washington und der englisch-mexikanische Oelstreit»
+Found

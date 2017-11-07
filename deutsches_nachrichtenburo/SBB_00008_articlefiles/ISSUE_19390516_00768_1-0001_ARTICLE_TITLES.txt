@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer an die Schwesternschaften des Roten Kreuzes. x
+Found
+MODSMD_ARTICLE02: General Höfer beigesetzt.
+Found
+MODSMD_ARTICLE03: Der Empfang des Reichskolonialbundes im Wiener Rathaus.
+Found
+MODSMD_ARTICLE04: HJ.-Ehrenzeichen für Stabschef Lutze.
+Found
+MODSMD_ARTICLE05: „Frankreich will die Probleme nicht lösen."
+Found
+MODSMD_ARTICLE06: „Der Führer und der Duce die Friedenserhalter Europas."
+Found
+MODSMD_ARTICLE07: Franco entläßt auch den Jahrgang 1969.
+Found
+MODSMD_ARTICLE08: „Freundschaftsbeweise Roms und Berlins für Jugoslawien."
+Found
+MODSMD_ARTICLE09: „Ungarn hinter dem Schutzwall der Achse gesichert."
+Found
+MODSMD_ARTICLE10: Untersuchung gegen Ungarns marxistische Gewerkschaften.
+Found
+MODSMD_ARTICLE11: Degrelle gegen die Hetze gegen Deutschland.
+Found
+MODSMD_ARTICLE12: Der polnische Landesverteidigungsminister bei Daladier.
+Found
+MODSMD_ARTICLE13: Der britische Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE14: Verteidigung der Festung Singapur „vordringlich".
+Found
+MODSMD_ARTICLE15: Die Unruhen und Kämpfe in Transjordanien dauern an.
+Found
+MODSMD_ARTICLE16: „Albert Leo Schlageter" in Recise.
+Found

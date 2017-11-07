@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Die deutschen Aerzte grüßen den Führer.
+Found
+MODSMD_ARTICLE02: Verleihung des Prosessvr-Titetls.
+Found
+MODSMD_ARTICLE03: Görina über die Mission der Kunst. "
+Found
+MODSMD_ARTICLE04: Generalfeldmarschall Göring auf Burg Vogelfang.
+Found
+MODSMD_ARTICLE05: Reichsmunster Dr. Goebbels fährt nach Wien.
+Found
+MODSMD_ARTICLE06: „Man arbeitet in Deutschland unaufhörlich."
+Found
+MODSMD_ARTICLE07: Bonzen reißen aus, das Volk wird an die Front getrieben.
+Found
+MODSMD_ARTICLE08: Die sanitären Verhältnisse des „Arbeiter-Paradieses".
+Found

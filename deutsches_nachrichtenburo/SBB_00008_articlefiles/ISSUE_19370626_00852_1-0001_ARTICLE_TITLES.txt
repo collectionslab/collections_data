@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Reichsstudentenführer an Reichsminister Dr. Frank.
+Found
+MODSMD_ARTICLE02: Ehrenpreis für die Sieger im Fünfkampf der Wehrmacht.
+Found
+MODSMD_ARTICLE03: Regelung des Grenzverkehrs in Oberschlesien.
+Found
+MODSMD_ARTICLE04: Die Aufgaben der deutschen Wissenschaft.
+Found
+MODSMD_ARTICLE05: Eden rechtfertigt seine Spanien-Politik.
+Found
+MODSMD_ARTICLE06: Chamberlain beim König.
+Found
+MODSMD_ARTICLE07: Frankreich ratifiziert den Flottenvertrag von 193 k.
+Found
+MODSMD_ARTICLE08: Das baskische Erzminen-Eebiet in der Hand der Nationalen.
+Found
+MODSMD_ARTICLE09: Italienisches Gesetz gegen Rassenmischung.
+Found

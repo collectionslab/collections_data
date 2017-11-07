@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Erste Vormittags-Ausgabe. deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Kriegshetzer Roosevelt.
+Found
+MODSMD_ARTICLE03: „Tribuna" warnt London vor seiner Einkreisungsaktion.
+Found
+MODSMD_ARTICLE04: Dänemark gegen böswillige Gerüchtemacher»
+Found
+MODSMD_ARTICLE05: Die Landstingwahlen in Dänemark.
+Found
+MODSMD_ARTICLE06: Eine Stimme aus Estland: Beistandsangebote überflüssig!
+Found
+MODSMD_ARTICLE07: Neues Republikschutzgesetz in Finnland.
+Found
+MODSMD_ARTICLE08: Dursichtige Stimmungsmache der französischen Presse.
+Found
+MODSMD_ARTICLE09: Von Rotspanien verschleppte Schiffe kehren heim.
+Found
+MODSMD_ARTICLE10: Fieberhafte Befestigungsarbeiten in Gibraltar.
+Found
+MODSMD_ARTICLE11: John Bulls Tanz um Bulgarien.
+Found
+MODSMD_ARTICLE12: Neue englische Leimrute für Palästina.
+Found
+MODSMD_ARTICLE13: Reserven von kriegswichtigen Rohstoffen in USA.
+Found
+MODSMD_ARTICLE14: Ehrgeiziger Roosevelt.
+Found
+MODSMD_ARTICLE15: Auch ein „Erfolg" Roosevelts!
+Found
+MODSMD_ARTICLE16: Zweites Todesopfer der Kriegspsychose in USA.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der neue litauische Gesandte in Berlin.
+Found
+MODSMD_ARTICLE02: Ein brasilianischer Wirtschaftspolitiker in Berlin.
+Found
+MODSMD_ARTICLE03: Die große Moorsprengung bei Saarmund.
+Found
+MODSMD_ARTICLE04: Das erste Danziger NSV.-Müttererholungsheim.
+Found
+MODSMD_ARTICLE05: Dr. Frank beim polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE06: Kaukasische Soldaten bewachen Stalin.
+Found
+MODSMD_ARTICLE07: Juden organisieren Überfälle in Lodz.
+Found
+MODSMD_ARTICLE08: Nationalsozialistische Gemeindefraktion in Krag.
+Found
+MODSMD_ARTICLE09: Das Ende der französischen Militärmission in Prag.
+Found
+MODSMD_ARTICLE10: Der deutsche Pianist Wilhelm Kempff beim Duce.
+Found
+MODSMD_ARTICLE11: „Ein Schandsleck für die französische Justiz."
+Found
+MODSMD_ARTICLE12: Die Freiwilligenstammrolle in England. .
+Found
+MODSMD_ARTICLE13: Jüdische Bluttat in Lausanne.
+Found
+MODSMD_ARTICLE14: Jüdischer Emigrantenschmuggel aufgedeckt.
+Found
+MODSMD_ARTICLE15: Wieder ein Araber bei einem „Fluchtversuch" erschossen.
+Found
+MODSMD_ARTICLE16: Tie Hundertjahrfeier des großen Trekks.
+Found
+MODSMD_ARTICLE17: Eden läßt sich gut bezahlen.
+Found
+MODSMD_ARTICLE18: Die New Aorker Betrugsaffäre.
+Found
+MODSMD_ARTICLE19: Salvador verbietet die Beleidigung fremder Völker.
+Found

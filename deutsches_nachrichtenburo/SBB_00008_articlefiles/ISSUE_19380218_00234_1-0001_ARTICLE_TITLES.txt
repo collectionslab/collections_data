@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die Nordische Verbindungsstelle ehrt schwedischen Dichter.
+Found
+MODSMD_ARTICLE02: Generalmajor Keller zum Generalleutnant befördert.
+Found
+MODSMD_ARTICLE03: Abkommen über den deutsch-dänischen Reiseverkehr.
+Found
+MODSMD_ARTICLE04: Konrad Henlein dankt den Kampfgenossen.
+Found
+MODSMD_ARTICLE05: Abfuhr des „Giornale d'Jtalia" für politische Profitjäger.
+Found
+MODSMD_ARTICLE06: Das jugoslawische Regierungsblatt zum Fall Budenko.
+Found
+MODSMD_ARTICLE07: Ein neues Sondersliegerkorps in der englischen Flotte.
+Found
+MODSMD_ARTICLE08: Wenig Vertrauen für die englisch-irischdn VerhandlÜngen.
+Found
+MODSMD_ARTICLE09: „Gleitende Teuerungszulage" wird debattiert.
+Found
+MODSMD_ARTICLE10: Sowjetrussen übernehmen das Flottenkommando.
+Found
+MODSMD_ARTICLE11: GPU. „reinigt" Katalonien von „Trotzkisten".
+Found
+MODSMD_ARTICLE12: Stalins Brief der jüdischen „Weltpresse" unangenehm.
+Found
+MODSMD_ARTICLE13: Neuer Unruheherd in Palästina.
+Found

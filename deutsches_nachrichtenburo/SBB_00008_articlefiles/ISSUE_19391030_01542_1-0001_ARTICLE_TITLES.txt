@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Mit fremden Augen.
+Found
+MODSMD_ARTICLE02: Funk: Alle Anforderungen der Kriegssmanzierung erfüllt.
+Found
+MODSMD_ARTICLE03: Oberst der Schutzpolizei von Grolman.
+Found
+MODSMD_ARTICLE04: Glückwünsche der ungarischen Negierung für Dr. Tiso.
+Found
+MODSMD_ARTICLE05: „Italien hat das absolute Vorrecht im Mittelmeer."
+Found
+MODSMD_ARTICLE06: „Duce und Volk eine mächtige Einheit des Wollens"
+Found
+MODSMD_ARTICLE07: Litauische Truppen in Wilna einmarschiert.
+Found
+MODSMD_ARTICLE08: Britische Seeräuberei im östlichen Mittelmeer.
+Found

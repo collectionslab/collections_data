@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Der Führer ehrt den Erbauer der Ordensburgen.
+Found
+MODSMD_ARTICLE02: Aufruf für das Deutsche lugendfest!
+Found
+MODSMD_ARTICLE03: Halbmast am Tage der Beisetzung des Generals Litzmann.
+Found
+MODSMD_ARTICLE04: Dr. Goebbels beglückwünscht Ministerialdirektor Reichard.
+Found
+MODSMD_ARTICLE05: Dr. Sahm in Oslo eingetroffen.
+Found
+MODSMD_ARTICLE06: Die Ziele des flämischen Nationalverbandes
+Found
+MODSMD_ARTICLE07: Unterhausanfragen über den Besuch des Negus.
+Found
+MODSMD_ARTICLE08: Amerika erinnert England an die Kriegsschulden.
+Found
+MODSMD_ARTICLE09: Sir E. Drummond erneut bei Suvich.
+Found
+MODSMD_ARTICLE10: Italienisch-albanisches Wirtschaftsabkommen ratifiziert.
+Found
+MODSMD_ARTICLE11: Italien verbietet die Edelmetallausfuhr aus Abessinien.
+Found
+MODSMD_ARTICLE12: Litwinow nimmt an der Meerengen-Konferenz teil.
+Found
+MODSMD_ARTICLE13: Blutrache an englischen Soldaten.
+Found
+MODSMD_ARTICLE14: Die Hauptverwaltung der Gewerkschaft CNT geschlossen.
+Found
+MODSMD_ARTICLE15: Gottfried von Cramm französischer Tennismeister.
+Found
+MODSMD_ARTICLE16: Deutsche Kunstausstellung in Istanbul.
+Found
+MODSMD_ARTICLE17: Portugiesische Genugtuung über deutsche Pressekommentare.
+Found
+MODSMD_ARTICLE18: Überraschende Italien-Reise Bundeskanzlers Schuschnigg.
+Found
+MODSMD_ARTICLE19: Finnländischer Ministerbesuch in Stockholm.
+Found
+MODSMD_ARTICLE20: Verdächtige Machenschaften bei Kommunistenprozeß.
+Found
+MODSMD_ARTICLE21: 24 Tote bei einem Kampf mit Polizei in Spanien.
+Found
+MODSMD_ARTICLE22: Nenorganisiernug der japanischen Flotte.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Dr. Goebbels spricht im Sudetengau.
+Found
+MODSMD_ARTICLE02: Dr. Hacha tschecho-slowakischer Staatspräsident.
+Found
+MODSMD_ARTICLE03: Der „Generalstreik" ein großer Versager.
+Found
+MODSMD_ARTICLE04: Die Kosten des britischen Ausrüstungsprogramms.
+Found
+MODSMD_ARTICLE05: Die italienische Presse zum Besuch Chamberlains.
+Found
+MODSMD_ARTICLE06: Nahrungsmangel in Rotspanien.
+Found
+MODSMD_ARTICLE07: Ruhe an allen spanischen Fronten.
+Found
+MODSMD_ARTICLE08: General Antonescu seines Postens enthoben.
+Found
+MODSMD_ARTICLE09: Die Empörung über die Juden in Rumänien.
+Found
+MODSMD_ARTICLE10: Aegypten wünscht Nichtangriffspakt mit Italien?
+Found
+MODSMD_ARTICLE11: Kronrat in Tokio.
+Found
+MODSMD_ARTICLE12: Südamerika und der NSA<-Jmperialismus.
+Found
+MODSMD_ARTICLE13: Bedeutende Anleihen für die australische Rüstung.
+Found

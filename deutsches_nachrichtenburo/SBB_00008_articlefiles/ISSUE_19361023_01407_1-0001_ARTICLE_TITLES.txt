@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Winterhilfswerizeichen.
+Found
+MODSMD_ARTICLE02: Tie lahrcstaguug der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE03: Ehrung des Dampfers „Castellon".
+Found
+MODSMD_ARTICLE04: „Messnggero" über die Unterredung Göring—Ciano.
+Found
+MODSMD_ARTICLE05: Deutsche luristenfakultät in Prag geschlossen.
+Found
+MODSMD_ARTICLE07: Ter Königgräher Bischof gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE08: Neue Priesterverfolgungen in der Sowjetunion.
+Found
+MODSMD_ARTICLE09: Die Sowjetlehrer müssen auf ihr Gehalt warten.
+Found
+MODSMD_ARTICLE10: Antibolschewistische Kampfansage der litauischen Bischöse.
+Found
+MODSMD_ARTICLE11: Belgische Antwort Zur Westpaktfrage überreicht.
+Found
+MODSMD_ARTICLE12: Krach auf dem radikalsozialistischen Parteitag.
+Found
+MODSMD_ARTICLE13: Neuer Kommunistenüberfall auf eine Mosley-Kundgebung.
+Found
+MODSMD_ARTICLE14: Wie Rotmord in Navalcarnero wütete.
+Found
+MODSMD_ARTICLE15: Der Vormarsch auf Madrid.
+Found
+MODSMD_ARTICLE16: Brüsseler Blätter zum Verbot der Rexvcrsammlung.
+Found
+MODSMD_ARTICLE17: Zwangsmaßnahmen gegen das ingermanländische Volk.
+Found
+MODSMD_ARTICLE18: Japanische Flottenübungen.
+Found

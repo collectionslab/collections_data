@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Kie Kanzlei des Führers vom 26. bis 29. März geschlossen.
+Found
+MODSMD_ARTICLE02: Hitler-Jungen erhielten die Danziger Rettunigsmedaille.
+Found
+MODSMD_ARTICLE03: Schulreform ab Ostern 1937.
+Found
+MODSMD_ARTICLE04: An höheren Jungenschulen.
+Found
+MODSMD_ARTICLE05: Die Gymnasien,
+Found
+MODSMD_ARTICLE06: Die Aufbauschulen,
+Found
+MODSMD_ARTICLE07: Mädchenschulen
+Found
+MODSMD_ARTICLE08: Uraufführung deutsch-italienischen Gemeinschaftsfilms.
+Found
+MODSMD_ARTICLE09: Michsminister Ruft fährt nach Griechenland.
+Found
+MODSMD_ARTICLE10: Ausbau der Wirtschasisberatung.
+Found
+MODSMD_ARTICLE11: Kreuzer „Emden" in Alexandrien.
+Found

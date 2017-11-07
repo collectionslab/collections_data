@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Das Urteil im Ossiehky-ProZeß.
+Found
+MODSMD_ARTICLE02: Reichswirtschastsnnnister Funk in Dresden.
+Found
+MODSMD_ARTICLE03: Bundesminister Glaise-Horstenau in Stuttgart.
+Found
+MODSMD_ARTICLE04: Neichsstatthalter Ritter von Epp in Neapel.
+Found
+MODSMD_ARTICLE05: Deutsche Forstmänner in Italien.
+Found
+MODSMD_ARTICLE06: Austenminister Beck beim Duce und bei Ciano.
+Found
+MODSMD_ARTICLE07: Federzoni Präsident der Italienischen Akademie.
+Found
+MODSMD_ARTICLE08: Stalin, „tief in Blut hinemgewatet. . . ."
+Found
+MODSMD_ARTICLE09: Hinter den Kulissen eines Marxistenblattes.
+Found
+MODSMD_ARTICLE10: Viehisches Verhalten tschechischer Polizeiorgane.
+Found
+MODSMD_ARTICLE11: Ungarn begrüßt das neue AufbauprogranM.
+Found
+MODSMD_ARTICLE12: Finnland schützt sich gegen sowjetische Ueberfälle.
+Found
+MODSMD_ARTICLE13: Neuer sowjetrussischer Gesandte in Helsinki.
+Found
+MODSMD_ARTICLE14: Der Untergang des Kreuzers „Baleares".
+Found
+MODSMD_ARTICLE15: „Lenin verstand rechtzeitig zu sterben".
+Found
+MODSMD_ARTICLE16: General Tschufengtschi ermordet.
+Found

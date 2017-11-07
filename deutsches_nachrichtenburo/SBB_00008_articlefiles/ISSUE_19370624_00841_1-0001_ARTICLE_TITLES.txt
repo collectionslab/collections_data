@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Japan studiert deutsche Olympia-Werbung.
+Found
+MODSMD_ARTICLE02: Riccis Eindruck von der Hitler-Jugend.
+Found
+MODSMD_ARTICLE03: Die oberitaliemsche Presse zum Ueberwachungssystem.
+Found
+MODSMD_ARTICLE04: Die englische Presse zur Lage.
+Found
+MODSMD_ARTICLE05: 2öl> Kandidaten zum irischen Landtag.
+Found
+MODSMD_ARTICLE06: Abschluß des Kongresses der Gerichtssachverständigen.
+Found
+MODSMD_ARTICLE07: Amerikanischer Hceresetat vom Senat verabschiedet.
+Found
+MODSMD_ARTICLE08: Ernennung der japanischen Vizemiuister.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der „Tag der deutschen Kunst".
+Found
+MODSMD_ARTICLE02: Die deutschen und amerikanischen Austauschschüler in Berlin.
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Frank in Würzburg.
+Found
+MODSMD_ARTICLE04: Rheinbaben über Deutschlands Friedenspolitik.
+Found
+MODSMD_ARTICLE05: Deutsche Notare in Paris.
+Found
+MODSMD_ARTICLE06: Sowjetrussischer Waffentransporter aufgebracht.
+Found
+MODSMD_ARTICLE07: Der nationale Heeresbericht vom Donnerstag.
+Found
+MODSMD_ARTICLE08: Man muß an die Tatsachen herangehen.
+Found
+MODSMD_ARTICLE09: 40 000 Mann gegen den Fakir von Jpi eingesetzt.
+Found
+MODSMD_ARTICLE10: Van Zeelands Besuch bei Roosevelt und Hull.
+Found
+MODSMD_ARTICLE11: Verlängerung des freiwilligen Arbeitslagers um drei Jahre.
+Found
+MODSMD_ARTICLE12: Aufhebung des Ausnahmezustandes in Johnstown.
+Found

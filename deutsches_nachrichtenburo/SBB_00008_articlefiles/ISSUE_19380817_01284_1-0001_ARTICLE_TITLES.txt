@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: 2,3 Millionen bekennen sich aktiv zum Sport.
+Found
+MODSMD_ARTICLE02: Nachrufe für Pater Hlinka.
+Found
+MODSMD_ARTICLE03: Der Vorstand der Slowakischen Volkspartei einberufen.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Der englische Marineminister in Stockholm.
+Found
+MODSMD_ARTICLE06: Stockholmer Nordstaaten-Tagung beendet.
+Found
+MODSMD_ARTICLE07: Bolschewisten verschleppen finnische Fischer.
+Found
+MODSMD_ARTICLE08: Der Gründer der Alfa Romeo-Werke gestorben.
+Found
+MODSMD_ARTICLE09: Das Judentum fühlt sich entlarvt
+Found
+MODSMD_ARTICLE10: Der jüdische Zustrom nach Italien wird abgewehrt.
+Found
+MODSMD_ARTICLE11: „Epogue" gegen den französisch syrischen Bertrag.
+Found
+MODSMD_ARTICLE12: Besprechungen Chamberlnins mit Lord Halifax.
+Found
+MODSMD_ARTICLE13: Emir Saud in London.
+Found
+MODSMD_ARTICLE14: Nationalspanien antwortet England.
+Found
+MODSMD_ARTICLE15: Hinrichtungen als Schaustellungen.
+Found
+MODSMD_ARTICLE16: Unruhige Nacht in Palästina.
+Found
+MODSMD_ARTICLE17: Roosevelt gegen widerspenstige Parteimitglieder.
+Found
+MODSMD_ARTICLE18: Eine Rundfunkrede des amerikanischen Austenministers.
+Found

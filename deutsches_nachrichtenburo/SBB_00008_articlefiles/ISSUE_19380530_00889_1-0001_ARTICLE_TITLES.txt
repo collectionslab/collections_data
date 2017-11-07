@@ -1,0 +1,24 @@
+MODSMD_ARTICLE03: Der Führer auf dem Gautag iu Dessau.
+Found
+MODSMD_ARTICLE04: Anerkennung für tapferes Verhalten.
+Found
+MODSMD_ARTICLE05: Himmler im Reichsführerlager der HJ.
+Found
+MODSMD_ARTICLE06: 5. Deutscher Apothekertag.
+Found
+MODSMD_ARTICLE07: Dr. Todt übernimmt 1939 die Führung des BDI.
+Found
+MODSMD_ARTICLE08: Dr. Ley sprach vor Vertretern der Textilindustrie.
+Found
+MODSMD_ARTICLE09: Wasserschutzpolizei rettet 32 Volksgenossen!
+Found
+MODSMD_ARTICLE10: Deutsche Militärmusik begeistert die Römer.
+Found
+MODSMD_ARTICLE11: Nationalspamen ehrt die Toten des faschistischen Italien»
+Found
+MODSMD_ARTICLE12: Kein Grund zum Optimismus.
+Found
+MODSMD_ARTICLE13: Das deutsche Lustgeschwader in Belgrad.
+Found
+MODSMD_ARTICLE14: Japanische Fliegerangriffe ans Kanton.
+Found

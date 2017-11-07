@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Neugestaltung der Hamburgischen Verwaltung.
+Found
+MODSMD_ARTICLE02: Die 452 Hitlerjungen aus Italien zurück.
+Found
+MODSMD_ARTICLE03: Deutsche Schriftleiter in Belgrad.
+Found
+MODSMD_ARTICLE04: Deutscher Doppelsieg im Preis der Nationen.
+Found
+MODSMD_ARTICLE05: Aufhebung des Versammlungsverbots in Danzig.
+Found
+MODSMD_ARTICLE06: „Gazeta Polska" zur Kolonial- und Rohstoff-Urage.
+Found
+MODSMD_ARTICLE07: Sitzung des Völkerbundsrates.
+Found
+MODSMD_ARTICLE08: Wiederbesetzung von Richterstellen beim Haag.
+Found
+MODSMD_ARTICLE09: Verhaftung englischer Geldschmnggler in Spanien.
+Found
+MODSMD_ARTICLE10: „Daily Telegraph" zur Genfer Rede Edens.
+Found
+MODSMD_ARTICLE11: Keine Aenderung der holländischen Währungspolitik.
+Found
+MODSMD_ARTICLE12: Finanzminister Vincent Auriol zur neuen Währungsentente.
+Found
+MODSMD_ARTICLE13: Der Bauarbeiterstreik in Tours.
+Found
+MODSMD_ARTICLE14: Ausdehnung des Streiks in der Binnenschisfahrt.
+Found
+MODSMD_ARTICLE15: Neuer französischer Admiralstabschef.
+Found
+MODSMD_ARTICLE16: Vor dem Rücktritt der finnischen Regierung.
+Found
+MODSMD_ARTICLE17: Italienischer Konsul in Barcelona verhastet?
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Begrüßungstelegramm des NS-Lehrerbundes an den Führer.-
+Found
+MODSMD_ARTICLE02: Die Ausstellung „Deutschlands
+Found
+MODSMD_ARTICLE03: Der BdM hilft bei der Ernte.
+Found
+MODSMD_ARTICLE04: Amerikanische Keglermannschaft in Bremen.
+Found
+MODSMD_ARTICLE05: De? Prager Standpunkt zum Abkommen Berlin—Wien.
+Not Found
+MODSMD_ARTICLE06: Verständigung mit Polen in Danziger Eisenbahnerprozessen.
+Found
+MODSMD_ARTICLE07: Die Urlaubsreife des Ministerpräsideuten Hodscha.
+Found
+MODSMD_ARTICLE08: Privater Besuch Dr. Hodschas in Wien.
+Found
+MODSMD_ARTICLE09: Die Feier des 14. Juli in Paris.
+Found
+MODSMD_ARTICLE10: Eine fromme Geste der französischen Frontkämpfer.
+Found
+MODSMD_ARTICLE11: Außenminister Delbos über die internationale Ordnung»
+Found
+MODSMD_ARTICLE12: Werstarbeiterstreik gefährdet französisches Mottenprogramm.
+Found
+MODSMD_ARTICLE13: Neuer Botschafter Spaniens in Paris.
+Found
+MODSMD_ARTICLE14: Spaniens Parlament aus unbestimmte Zeit geschlossen.
+Found
+MODSMD_ARTICLE15: Vor einer Kompromißlösung in Montreux.
+Found
+MODSMD_ARTICLE16: Wieder ein Spionagefall in Amerika.
+Found

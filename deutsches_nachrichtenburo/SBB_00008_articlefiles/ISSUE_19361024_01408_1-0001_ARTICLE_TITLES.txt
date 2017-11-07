@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Graf Cianv nach Berchtesgaden abgereist.
+Found
+MODSMD_ARTICLE02: Das Eifelland dankt Reichsminister Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Die Jahrestagung der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE04: Schluß mit der Hctzliteratur.
+Found
+MODSMD_ARTICLE05: Französisch-englische Sonderaussprache.
+Found
+MODSMD_ARTICLE06: Die Sitzung des Ueberwachungsausschusses.
+Found
+MODSMD_ARTICLE07: Portugal bricht die Beziehungen zu Madrid ab.
+Found
+MODSMD_ARTICLE08: Tatarescu bei Prinzregent Paul.
+Found
+MODSMD_ARTICLE09: Neubesetzung bulgarischer Ministerien.
+Found
+MODSMD_ARTICLE10: Tie Verhandlungen China-Japan gescheitert.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Abschluß des Internationalen Aerztekongresses.
+Found
+MODSMD_ARTICLE02: Die deutschen Auslandslehrer arbeiten im Sinne Gustloffs.
+Found
+MODSMD_ARTICLE03: Trauerfeier für Konteradmiral Waßner im Haag.
+Found
+MODSMD_ARTICLE04: „Deutschlands erhöhtes Ansehen in der Welt".
+Found
+MODSMD_ARTICLE05: Die Internationale Filmkunstschau in> Venedig.
+Found
+MODSMD_ARTICLE06: Das Führerkorps der HJ. in Paris.
+Found
+MODSMD_ARTICLE07: Die neuen Wirtschaftserlasse Bonnets.
+Found
+MODSMD_ARTICLE08: Munitionsschmuggel an der Pyrenäen-Grenze.
+Found
+MODSMD_ARTICLE09: Die Londoner Ministerbesprechung abgeschlossen.
+Found
+MODSMD_ARTICLE10: Die Kennzeichnung britischer Schiffe im Mittelmeer.
+Found
+MODSMD_ARTICLE11: Die Vorhut der Nationalen in Santander einmarschiert.
+Found
+MODSMD_ARTICLE12: Bor dem feierlichen Einmarsch in Santander.
+Found
+MODSMD_ARTICLE13: Spanische Nationaljugend aus dem Wege nach Teutschland.
+Found
+MODSMD_ARTICLE14: Bedrohliche Lage der chinesischen Truppen südöstlich Kalgan.
+Found
+MODSMD_ARTICLE15: Blockade gegen chinesische Schiffe erklärt.
+Found
+MODSMD_ARTICLE16: 29 Bellanca-Bomber für China.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Dr. Linden zum Ministerialrat ernannt.
+Found
+MODSMD_ARTICLE02: Zunahme der Beschäftigten im Mär.',: 75h Wh.
+Found
+MODSMD_ARTICLE03: Der Reichsberufswettkampf.
+Found
+MODSMD_ARTICLE04: Stabschef Lutze in Hamburg.
+Found
+MODSMD_ARTICLE05: Filmkammer nach deutschem Vorbild in Spanien.
+Found
+MODSMD_ARTICLE06: Sudetendeutsche Beschwerde beim Völkerbund.
+Found
+MODSMD_ARTICLE07: Rechtseinschränkung für die „Phönix"-Versicherunasnehmer.
+Found
+MODSMD_ARTICLE08: Wahlzusammenstöße in Frankreich.
+Found
+MODSMD_ARTICLE09: Die Italiener am Südufer des Tana-Sees.
+Found
+MODSMD_ARTICLE10: Estländischer Militärbesuch iu SowjetruUand.
+Found
+MODSMD_ARTICLE11: Streik der spanischen Sardinenfischer.
+Found
+MODSMD_ARTICLE12: Vertrauen für Kammerpräsidenten Sofulis.
+Found
+MODSMD_ARTICLE13: Die Kennzahl der Großhandelspreise vom 22. April.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Italien Zum Geburtstag Adolf Hitlers.
+Found
+MODSMD_ARTICLE02: „Deutschland, der Wall gegen den Kommunismus."
+Found
+MODSMD_ARTICLE03: Berlins Maibaum.
+Found
+MODSMD_ARTICLE04: Ungarns Kriegsminister kommt nach Deutschland.
+Found
+MODSMD_ARTICLE05: Ueberführung der Leiche Gallwitz? nach Deutschland.
+Found
+MODSMD_ARTICLE06: Wegen Beleidigung des Führers verurteilt.
+Found
+MODSMD_ARTICLE07: Englands Ausrüstung führt Zur Einkommensteuererhöhung.
+Found
+MODSMD_ARTICLE08: Die Presse begrüßt die Ministerkonfereuz in Helsinki.
+Found
+MODSMD_ARTICLE09: Vor der Zusammenkunft Muffolini-Schuschnigg. R
+Found
+MODSMD_ARTICLE10: Ueberall bolschewistische Wühlereien.
+Found
+MODSMD_ARTICLE11: Die Konferenz von Montreux.
+Found
+MODSMD_ARTICLE12: Lebhafte sowjetrussisch-spanische Schifsstransporte.
+Found
+MODSMD_ARTICLE13: Schlachtschiff „Hood" vor St. Jean de Luz.
+Found
+MODSMD_ARTICLE14: Noosevelt rechnet mit einer halben Milliarde Defizit.
+Found
+MODSMD_ARTICLE15: Der japanische Kurzwellensender beglückwünscht den Führer.
+Found

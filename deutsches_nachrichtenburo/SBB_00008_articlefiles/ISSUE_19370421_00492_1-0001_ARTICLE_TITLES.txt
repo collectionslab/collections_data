@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Dr. Goebbels in der Vereidigungsfeier im Sportpalast.
+Found
+MODSMD_ARTICLE02: Glückwünsche fremder Staatsoberhäupter.
+Found
+MODSMD_ARTICLE03: Zehntausende von Gratulanten auf dem Wilhelmplatz.
+Found
+MODSMD_ARTICLE04: Feier in der Reichskanzlei.
+Found
+MODSMD_ARTICLE05: Rechenschaftsbericht der Adolf-Hitler-Spende.
+Found
+MODSMD_ARTICLE06: Das deutsche DanZig feiert des Führers Geburtstag.
+Found
+MODSMD_ARTICLE08: Die Geburtstagsfeiern im Ausland.
+Found
+MODSMD_ARTICLE09: Ernennungen im Preußischen Finanzministerium.
+Found
+MODSMD_ARTICLE10: „Der Führer hat sein Versprechen eingelöst."
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Die auslandischen Journalisten beim Führer.
+Found
+MODSMD_ARTICLE02: Das Ausland zum Abschluß in Nürnberg.
+Found
+MODSMD_ARTICLE03: Prinz Tschitschibu in Hamburg.
+Found
+MODSMD_ARTICLE04: Die Jungvolkführer in Rom.
+Found
+MODSMD_ARTICLE05: Kardinal Segura kekrt in seine Heimat zurück.
+Found
+MODSMD_ARTICLE06: Anarchistische Schreckensherrschaft in Astnrien.
+Found
+MODSMD_ARTICLE07: Steigender Lebensmittelmangel in Gijon.
+Found
+MODSMD_ARTICLE08: Besatzung bolschewistischen Kriegsschiffes meutert.
+Found
+MODSMD_ARTICLE09: Hollands Kommune ein Werkzeug der Spanien-Bolschetmsten.
+Found
+MODSMD_ARTICLE10: Die „Konferenz von Nyon" geschlossen.
+Found
+MODSMD_ARTICLE11: Chiles Delegierte vor der Völkerbundsversammlung.
+Found
+MODSMD_ARTICLE12: Die Türkei will wieder in den Völkerbundsrat.
+Found
+MODSMD_ARTICLE13: Enge englisch-französische Zusammenarbeit im Mittelmeer.
+Found
+MODSMD_ARTICLE14: Französische Kriegsschiffe vor der Ausreise ins Mittelmeer.
+Found
+MODSMD_ARTICLE15: IWIM Franken für Aufdeckung der Bombenanschläge.
+Found
+MODSMD_ARTICLE16: Der französische Kultusminister in Warschau.
+Found
+MODSMD_ARTICLE17: Große Erfolge der japanischen Offensive.
+Found
+MODSMD_ARTICLE18: Die Aktionen der japanischen Flotte.
+Found
+MODSMD_ARTICLE19: Urteile in Brasilien gegen Kominternagenten bestätigt.
+Found

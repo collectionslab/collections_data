@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer in Wilhelmshaven.
+Found
+MODSMD_ARTICLE02: Verleihung von Auszeichnungen für die Errettung von Menschen aus Lebensgefahr.
+Found
+MODSMD_ARTICLE03: Der chinesische Botschafter sprach im Kurzwellensender.
+Found
+MODSMD_ARTICLE04: Das Vollmachtgesetz für Polens Staatspräsidenten.
+Found
+MODSMD_ARTICLE05: Litauische Zcitungsvcrbote.
+Found
+MODSMD_ARTICLE06: Van Zeeland bei der Regierungsbildung.
+Found
+MODSMD_ARTICLE07: Neville Chamberlain über außenpolitische Fragen.
+Found
+MODSMD_ARTICLE08: „Morning Post" über Englands Aufgaben in Aegypten.
+Found
+MODSMD_ARTICLE09: Die Lage in Palästina.
+Found
+MODSMD_ARTICLE10: Angriffe gegen Roosevelt auf dem Parteitag.
+Found
+MODSMD_ARTICLE11: Roosevelts Antwort.
+Found

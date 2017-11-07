@@ -1,0 +1,26 @@
+MODSMD_ARTICLE03: GöriM ve? kündet Maßnahmen zur Steigerung der landwirtschaftlichen Erzeugung.
+Found
+MODSMD_ARTICLE04: Melioration.
+Found
+MODSMD_ARTICLE05: Flurbereinigung.
+Found
+MODSMD_ARTICLE06: Wiesenumbruch.
+Found
+MODSMD_ARTICLE07: Senkung der Düngemittelpreise.
+Found
+MODSMD_ARTICLE08: Stickstoffpreissenkung.
+Found
+MODSMD_ARTICLE09: Preissenkung für Kali.
+Found
+MODSMD_ARTICLE11: Frachtermäßigung für Düngekalk.
+Found
+MODSMD_ARTICLE12: Erweiterung des Kartoffelanbaues.
+Found
+MODSMD_ARTICLE13: Erhöhung der Preise für Fabrikkartoffeln.
+Found
+MODSMD_ARTICLE14: Senkung der Kartoffelflockenpreise durch Reichsmittel.
+Found
+MODSMD_ARTICLE15: Erhöhung des Roggeupreises.
+Found
+MODSMD_ARTICLE16: Kredithilfe.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Darre vor dem Führerkorps der HJ. »
+Found
+MODSMD_ARTICLE02: Reichskriegsopferführer Oberlindober in Graz.
+Found
+MODSMD_ARTICLE03: Botschafter von Mackensen bei Graf Ciano.
+Found
+MODSMD_ARTICLE04: Das deutsch-italienische Militärmusiker-Treffen.
+Found
+MODSMD_ARTICLE05: Rom warnt Prag vor weiteren Provokationen.
+Found
+MODSMD_ARTICLE06: Die rätselhafte Bombenexplosion in Rotterdam.
+Found
+MODSMD_ARTICLE07: Polnisch-schwedische Zusammenarbeit an der Ostsee.
+Found
+MODSMD_ARTICLE08: Antipolnische Aktion in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE09: Neuer Moskauer Schauprozeß.
+Found
+MODSMD_ARTICLE10: Gesandter Masarhk beim englischen Außenminister.
+Found
+MODSMD_ARTICLE11: Niederlage der Regierung de Valera.
+Found
+MODSMD_ARTICLE12: Jbero-Amerikaner auf USA.-Kriegsschulen zugelassen.
+Found
+MODSMD_ARTICLE13: Australien verstärkt seine Flotte.
+Found

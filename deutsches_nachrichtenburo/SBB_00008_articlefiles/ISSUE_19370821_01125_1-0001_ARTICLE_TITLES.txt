@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Große Beachtung der Mussolini-Rede in London.
+Found
+MODSMD_ARTICLE02: Genugtuung in der französischen Presse.
+Found
+MODSMD_ARTICLE03: Polen zur Rede des Du.ee.
+Found
+MODSMD_ARTICLE04: Empfang für die Teilnehmer der Reichsrechtsamtstagung.
+Found
+MODSMD_ARTICLE05: Das Meliorationswerk der Pontinischen Sümpfe.
+Found
+MODSMD_ARTICLE06: Großer Erfolg des Films „Der Herrscher" in Venedig.
+Found
+MODSMD_ARTICLE07: Der nationale Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE08: Landung japanischer Verstärkungen in Schanghai.
+Found
+MODSMD_ARTICLE09: Englands Schadenersatzforderungen.
+Found
+MODSMD_ARTICLE10: Brasiliens Kampf gegen den Kommunismus.
+Found

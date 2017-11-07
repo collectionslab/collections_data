@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Rudolf Hetz vor den Gauamtsleitern.
+Found
+MODSMD_ARTICLE03: Frau Schumann-Hemk gestorben.
+Found
+MODSMD_ARTICLE04: Deutsche Emigrauten verurteilt.
+Found
+MODSMD_ARTICLE05: „Deutschland – Bollwerk gegen Kommunismus und Krieg."
+Not Found
+MODSMD_ARTICLE06: Die Besprechungen zwischen Eden und Grandi.
+Found
+MODSMD_ARTICLE07: Gegen industrielle Zusammenballung in London.
+Found
+MODSMD_ARTICLE08: Fortschritte in der englischen Luftaufrüstung.
+Found
+MODSMD_ARTICLE09: Sowjetrussische Fliegerabordnung in Frankreich.
+Found
+MODSMD_ARTICLE10: Wieder Hasenarbeiterstreik in Bordeaux.
+Found
+MODSMD_ARTICLE11: Zwei Söhne Primo de Riveras vor dem roten Gericht.
+Found
+MODSMD_ARTICLE12: Neue Erfolge der Nationalen in Spanien.
+Found
+MODSMD_ARTICLE13: Koste Todoroff in Sofia erneut verhaftet.
+Found

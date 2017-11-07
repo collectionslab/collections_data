@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Ein Empfang beim Inspekteur der Panzertruppe.
+Found
+MODSMD_ARTICLE02: Neuer bulgarischer Gesandter in Berlin.
+Found
+MODSMD_ARTICLE03: Neue Rückschläge für das deutsche Schulwesen in Polen.
+Found
+MODSMD_ARTICLE04: Wiener Vorbereitungen zur Rede Dr. Schuschmggs.
+Found
+MODSMD_ARTICLE05: Streit unter Belgiens Sozialdemokraten.
+Found
+MODSMD_ARTICLE06: Englisch-irische Verhandlungen formell eröffnet.
+Found
+MODSMD_ARTICLE07: Englands künftiger Außenminister noch nicht bestimmt.
+Found
+MODSMD_ARTICLE08: Innenminister Hoare über die jüngsten Vorgänge.
+Found
+MODSMD_ARTICLE09: Chamberlain zum deutsch-österreichischen Ausgleich.
+Found
+MODSMD_ARTICLE10: Die Sowjetunion bereitet sich ans chemischen Krieg vor!
+Found
+MODSMD_ARTICLE11: Die Einheit von Komintern und Roter Armee.
+Found
+MODSMD_ARTICLE12: Gewaltige Mengen von Sowjet-Getreide verdorben.
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Das Auslandsecho Zur Weimarer Führerrede.
+Found
+MODSMD_ARTICLE02: Kampfansage an Daladier.
+Found
+MODSMD_ARTICLE03: Mandel preist das französische Kolonialreich.
+Found
+MODSMD_ARTICLE04: Für Auflösung der Kommunistischen Partei Frankreichs.
+Found
+MODSMD_ARTICLE05: Tie rückläufige Bevölkerungsbewegung in Frankreich.
+Found
+MODSMD_ARTICLE06: Reichsverweser von Horthy sprach in Komorn.
+Found
+MODSMD_ARTICLE07: Der Vormarsch der ungarischen Truppen.
+Found
+MODSMD_ARTICLE08: Ruhe und Ordnung in der Karpatho-Ukraine.
+Found

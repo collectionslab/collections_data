@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Rekordbesuch der Ausstellung „Entartete Kunst" in München.
+Found
+MODSMD_ARTICLE03: Reichspostmimster Ohnesorge in Königsberg.
+Found
+MODSMD_ARTICLE04: Eine Erklärung des Vatikans.
+Found
+MODSMD_ARTICLE05: Der nationale Heeresbericht vom 4. August.
+Found
+MODSMD_ARTICLE06: Nationalspanische Presse begrüßt Entspannung Rom-London.
+Found
+MODSMD_ARTICLE07: Nach Briefwechsel Ehamberlain—Mussolini Besprechungen.
+Found
+MODSMD_ARTICLE08: Verwendung privater Motoryachten im Kriegfall.
+Found
+MODSMD_ARTICLE10: Streik aus den Feldern mitten in der Ernte.
+Found
+MODSMD_ARTICLE11: Doppeltes Spiel der Komintern.
+Found
+MODSMD_ARTICLE12: Der Irak protestiert in Genf gegen Palästina-Teilung.
+Found
+MODSMD_ARTICLE13: Palästina-Unruhen 1936 vor dem Mandatsausschuß.
+Found
+MODSMD_ARTICLE14: Riesenkundgebung im Athener Stadion.
+Found
+MODSMD_ARTICLE15: Amerikas Marinebauprogramm.
+Found
+MODSMD_ARTICLE16: Ausbau der USA-Flotte bis zur vertraglichen Höchstgrenze.
+Found
+MODSMD_ARTICLE17: Drohender Eisenbahnerstreik in Amerika.
+Found
+MODSMD_ARTICLE18: Ungeklärte Politische Lage in Peiping.
+Found
+MODSMD_ARTICLE19: Verluste der 29. Armee: 5999 Tote und Verwundete.
+Found
+MODSMD_ARTICLE20: Wirtschaftskrieg Japan—China in vollem Gange.
+Found

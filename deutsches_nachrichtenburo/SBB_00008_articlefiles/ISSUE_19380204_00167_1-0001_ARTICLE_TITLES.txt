@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Abschluß der Reorganisation des Wirtschaftsministeriums.
+Found
+MODSMD_ARTICLE02: Funk übernimmt das Reichswirtschaftsministerium.
+Not Found
+MODSMD_ARTICLE03: Reichstag am 20. Februar.
+Found
+MODSMD_ARTICLE04: Erfolgreiche Zusammenarbeit Zwischen Rundfunk und DAF.
+Found
+MODSMD_ARTICLE06: Deutsch-schwedische Wirtschaftsvereinbarungen.
+Found
+MODSMD_ARTICLE07: Gedenkfeier für Wilhelm Gustloff in Schwerin.
+Found
+MODSMD_ARTICLE08: Dr. Lippert bei dem Lord Mayor von London.
+Found
+MODSMD_ARTICLE09: Das Kohlengesetz in zweiter Lesung abgelehnt.
+Found
+MODSMD_ARTICLE10: Kein Erkennungszeichen!
+Found
+MODSMD_ARTICLE11: Die geplante Verstärkung der Mittelmeerüberwachnng.
+Found
+MODSMD_ARTICLE12: Der ungarische Staatsbesuch in Polen. V
+Found
+MODSMD_ARTICLE13: Solonewitsch über den Höllenmaschinen-Anschlag.
+Found
+MODSMD_ARTICLE14: Getarnte kommunistische Zeitschristen verboten.
+Found
+MODSMD_ARTICLE15: Portugals Presse über dir Außenpolitik des Landes»
+Found
+MODSMD_ARTICLE16: Wieder drei Handgranatenanschläge in Schanghai.
+Found
+MODSMD_ARTICLE17: Die amerikanischen Kleinunternehmer melden sich.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: «n Tgj! im GihrKScht
+Found
+MODSMD_ARTICLE02: Ein glückliches, freies deutsches Volk inmitten einer friedlichen Welt!
+Found
+MODSMD_ARTICLE03: 4VV Flugzeuge über der Zeppelinwiese.
+Found
+MODSMD_ARTICLE04: Vorführungen der Kavallerie und Artillerie.
+Found
+MODSMD_ARTICLE05: Die Gefechtsübung beginnt«
+Found
+MODSMD_ARTICLE06: Einsatz der Artillerie.
+Found
+MODSMD_ARTICLE07: Grotzkampf!
+Found
+MODSMD_ARTICLE08: Einmarsch zur Paradeaufstellung»
+Found
+MODSMD_ARTICLE09: Zur Parade angetreten.
+Found
+MODSMD_ARTICLE10: Uebergabe der neuen Feldzeichen.
+Found
+MODSMD_ARTICLE11: Der Führer bei der Wehrmacht.
+Found
+MODSMD_ARTICLE12: Flieger über dem Feld.
+Found

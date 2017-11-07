@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an König Georg VI.
+Found
+MODSMD_ARTICLE02: Dr. Schacht über die fachliche Berufsausbildung.
+Found
+MODSMD_ARTICLE03: Ostoberschlesiens Selbstverwaltung bedroht.
+Found
+MODSMD_ARTICLE04: Tschechische Befestigungen an der österreichischen Grenze.
+Found
+MODSMD_ARTICLE05: Sven Hedin: „Deutschland und der Weltfrieden".
+Found
+MODSMD_ARTICLE06: Bolschewistische Kriegsschiffe gegen Anarchisten.
+Found
+MODSMD_ARTICLE07: Türkisch-französische Verhandlungen nach Genf verlegt.
+Found
+MODSMD_ARTICLE08: Filchner und Haack immer noch festgehalten.
+Found

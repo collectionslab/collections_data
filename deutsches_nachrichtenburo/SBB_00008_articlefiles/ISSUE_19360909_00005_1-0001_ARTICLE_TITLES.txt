@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Generaloberst Göring in Nürnberg.
+Found
+MODSMD_ARTICLE02: HJ. eröffnet den ersten Kongre^tag.
+Found
+MODSMD_ARTICLE03: Der Kongreß —die KraftgueSle der Nation.
+Found
+MODSMD_ARTICLE04: „Ein starkes Reich ist das Bollwerk des Friedens".
+Found
+MODSMD_ARTICLE05: Der Kongreß ist eröffnet.
+Found
+MODSMD_ARTICLE06: „Parteitag der Ehre."
+Found
+MODSMD_ARTICLE07: Rudolf Hetz spricht.
+Found

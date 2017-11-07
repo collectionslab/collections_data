@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Befristete Aufforderung an die Machthaber in Valencia.
+Found
+MODSMD_ARTICLE02: Beisetzung des Admirals Behncke am Freitag.
+Found
+MODSMD_ARTICLE03: Gauleiter Bohle zum Ableben von Admiral Behncke.
+Found
+MODSMD_ARTICLE04: Lord Elibank fordert Rückgabe deutscher Kolonien.
+Found
+MODSMD_ARTICLE05: Holland im Jubel.
+Found
+MODSMD_ARTICLE06: Kommunistische Drahtzieher in Amsterdam verhaftet.
+Found
+MODSMD_ARTICLE07: Außenminister Beck vor dem Sejm.
+Found
+MODSMD_ARTICLE08: Eine Mitteilung zur Ermordung des Barons de Borchgrave
+Found
+MODSMD_ARTICLE09: Weihnachtsamnestie in Bulgarien.
+Found
+MODSMD_ARTICLE10: Diskontsenkung in Griechenland.
+Found
+MODSMD_ARTICLE11: Neue Raububerfälle in Palästina.
+Found
+MODSMD_ARTICLE12: Auch der brasilianische Innenminister zurückgetreten.
+Found
+MODSMD_ARTICLE13: Staatsschuld der USA fast 34)4 Milliarden Dollar.
+Found

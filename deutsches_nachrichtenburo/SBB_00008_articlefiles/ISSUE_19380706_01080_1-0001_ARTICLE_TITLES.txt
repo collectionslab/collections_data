@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Machtaufstieg der Juden im 13. Jahrhundert.
+Found
+MODSMD_ARTICLE02: Schwedens Küstenflotte ist zu langsam.
+Found
+MODSMD_ARTICLE03: Abgaben auf eingeführte Druckereierzeugnisse in Lettland.
+Found
+MODSMD_ARTICLE04: Die Grundsähe der Außenpolitik Polens.
+Found
+MODSMD_ARTICLE05: Belgische Gemeindewahlen am 9. Oktober.
+Found
+MODSMD_ARTICLE06: Tagung des Internationalen Verkehrsrates in Luzern.
+Found
+MODSMD_ARTICLE07: Die französische Presse zur Nichteinmischung.
+Found
+MODSMD_ARTICLE08: u' – „Der größte Erfolg des Nichtemmischungsausschusses".
+Not Found
+MODSMD_ARTICLE09: Londoner Oppositionspresse gegen Chamberlain.
+Found
+MODSMD_ARTICLE10: Verjüngung des britischen Offizierskorps.
+Found
+MODSMD_ARTICLE11: Im Juni 51 sowjetspanische Flugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE12: Und Stalin „säubert".
+Found
+MODSMD_ARTICLE13: Die deutschen Militärberater aus China abgereist.
+Found

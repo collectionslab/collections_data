@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Goebbels in den Andreas-Festsälen.
+Found
+MODSMD_ARTICLE02: Empfang zu Ehren des belgischen Botschafters in Berlin.
+Found
+MODSMD_ARTICLE03: Trauerbeflaggung in Berlin.
+Found
+MODSMD_ARTICLE04: Reichsaußenminister v. Ribbentrvp im Louvre.
+Found
+MODSMD_ARTICLE05: Abendtafel beim deutschen Botschafter in Paris.
+Found
+MODSMD_ARTICLE06: Die Pariser Presse zeigt sich zufrieden.
+Found
+MODSMD_ARTICLE08: Der Streik in der französischem Schiffahrt.
+Found
+MODSMD_ARTICLE09: Weitere Zwischenfälle in Tunis.
+Found
+MODSMD_ARTICLE10: Umbildung des belgischen .Kabinetts?
+Found
+MODSMD_ARTICLE11: Anerkennung des Imperiums durch Slam.
+Found
+MODSMD_ARTICLE12: Tue estnische Presse zur deutsch-französischen Erklärung.
+Found
+MODSMD_ARTICLE13: „Abschied von der Kleinen Entente."
+Found
+MODSMD_ARTICLE14: Die polnische Presse zu den Vorgängen in Rumänien.
+Found
+MODSMD_ARTICLE15: „Der Talmud ein Leitfaden für Verbrecher!"
+Found
+MODSMD_ARTICLE16: Jüdischer Hetzfilm in Singapur verboten.
+Found
+MODSMD_ARTICLE17: Ter Mufti auf der Londoner Palästina-Konferenz?
+Found

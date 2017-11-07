@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Der Abschluß des Reichsberufswettkampfes.
+Found
+MODSMD_ARTICLE02: Die Siegerverkündung.
+Found
+MODSMD_ARTICLE03: Die SV besten Reichssieger des Neichsberufswettkampfes.
+Found
+MODSMD_ARTICLE04: Die italienischen Industriellen bei Krupp.
+Found
+MODSMD_ARTICLE05: Die französische Gesamtverschuldung: K 0 Milliarden Francs.
+Found

@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Neichsarbeitsminister Seldte aus Holland abgereist.
+Found
+MODSMD_ARTICLE02: Empfang der Hitler-Jugendführer in Saragossa.
+Found
+MODSMD_ARTICLE03: Nationalspanischer Heeresbericht vom 11. November.
+Found
+MODSMD_ARTICLE04: Feier des Antikomintern-Abkommens.
+Found
+MODSMD_ARTICLE05: Neuer Vorsitzender der Autoren und Verleger Italiens.
+Found
+MODSMD_ARTICLE06: Eine Flugzeughalle in Italien »eingestürzt. Fünf Tote.
+Found
+MODSMD_ARTICLE07: Der englische Botschafter in Rom von Ciano empfangen.
+Found
+MODSMD_ARTICLE08: Die englisch-italienische Fühlungnahme.
+Found
+MODSMD_ARTICLE09: Das gesamte Kohlenvorkommen Englands wird verstaatlicht.
+Found
+MODSMD_ARTICLE10: Wenig Neigung für Gottlosenkongres; in England.
+Found
+MODSMD_ARTICLE11: König Boris von Bulgarien im Londoner Unterhaus.
+Found
+MODSMD_ARTICLE12: Unterhauserklärung zum Vorfall am Londoner Kenotaph.
+Found
+MODSMD_ARTICLE13: Weitere Sprengstoffanschläge in Belfast.
+Found
+MODSMD_ARTICLE14: Der GPU-Skandal in Paris.
+Found
+MODSMD_ARTICLE15: Pariser Sorgen wegen des Umschwunges in Brasilien.
+Found
+MODSMD_ARTICLE16: Spaak begleitet den belgischen König nach London.
+Found
+MODSMD_ARTICLE17: Deutsche Buchausstellung in Mexiko.
+Found
+MODSMD_ARTICLE18: Schwierige Lage in der Petroleumindustrie Mexikos.
+Found
+MODSMD_ARTICLE19: Die Japaner im Gebiet von Nantao. Tsingpu besetzt.
+Found
+MODSMD_ARTICLE20: Hauptkamvfgebiet jetzt westlich von Schanghai.
+Found
+MODSMD_ARTICLE21: Nansiang von den Japanern erobert.
+Found

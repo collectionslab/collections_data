@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Ernennung im Reichsarbeitsministerium.
+Found
+MODSMD_ARTICLE02: Verschärfung der Lage des Arbeitseinsatzes im Juli.
+Found
+MODSMD_ARTICLE03: Polen sperrt teilweise die ostoberschlesische Grenze.
+Found
+MODSMD_ARTICLE04: Polnische Nowdies überfallen deutsche GeHöste.
+Found
+MODSMD_ARTICLE05: Italien wird im Kriegsfall seine Pflicht tun.
+Found
+MODSMD_ARTICLE06: Der Wiederaufbau Madrids.
+Found
+MODSMD_ARTICLE07: London am Ende seines Lateins.
+Found
+MODSMD_ARTICLE08: Glückwünsche an den Führer.
+Found
+MODSMD_ARTICLE09: Frankreich bedauert den Mißbrauch seiner Kurierpost.
+Found

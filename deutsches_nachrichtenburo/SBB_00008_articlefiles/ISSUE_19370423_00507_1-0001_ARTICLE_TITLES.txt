@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Jubiläum der Versuchsanstalt für Luftfahrt.
+Found
+MODSMD_ARTICLE02: Hilgenfeldt über das WHW.
+Found
+MODSMD_ARTICLE03: Minister Kerrl eröffnet die Schau „Garten und Heim".
+Found
+MODSMD_ARTICLE05: Der Deuischlandbesuch italienischer Journalisten.
+Found
+MODSMD_ARTICLE06: Ter ungarische Kriegsminister in Kiel.
+Found
+MODSMD_ARTICLE07: Die Abschluß-Verlautbarung von Venedig.
+Found
+MODSMD_ARTICLE08: Metzer Hoteliers drohen mit Schließung ihrer Betriebe.
+Found
+MODSMD_ARTICLE09: Tie Verschiebung der Überreichung der Locarno-Note.
+Found
+MODSMD_ARTICLE10: Erste Lesung in Montreux beendet.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Weitere 500 Mill. RM-Anleihe des Deutschen Reiches.
+Found
+MODSMD_ARTICLE03: Beitragsberechnung für Krankenversicherung Arbeitsloser.
+Found
+MODSMD_ARTICLE04: Keine Teilnahme Deutschlands am Nohstofsausschusz.
+Found
+MODSMD_ARTICLE05: Präsident Cianetti heimgekehrt.
+Found
+MODSMD_ARTICLE06: Reichsaußennunister von Neurath im Bundeskanzleramt.
+Found
+MODSMD_ARTICLE07: Wiener Stimmen Zum Besuch des Reichsaußenmiuisters.
+Found
+MODSMD_ARTICLE08: Deutsch-italienische Forschungsexpedition abgereist.
+Found
+MODSMD_ARTICLE09: Sowjeispiou Belgonen gesteht.
+Found
+MODSMD_ARTICLE10: Kommunistenverbot im Kanton Neuenburg endgültig.
+Found
+MODSMD_ARTICLE11: Luftfahrtmiuister Pierre Cot in Lawinengefahr.
+Found
+MODSMD_ARTICLE12: Nach der Sperrung der Pyrenäen-Grenze.
+Found
+MODSMD_ARTICLE13: Die Streikwelle in Frankreich.
+Found
+MODSMD_ARTICLE14: Die englischen Rüstungsausgaben.
+Found
+MODSMD_ARTICLE15: Das englische Anleihegesetz.
+Found
+MODSMD_ARTICLE16: Einladungen zur Flottenschau in Spithead.
+Found
+MODSMD_ARTICLE17: Der Kampf um die walisische Sprache.
+Found
+MODSMD_ARTICLE18: Strafgericht gegen die Verschwörer iu Addis Abeba.
+Found
+MODSMD_ARTICLE19: Regierungsumbildung in Rumänien.
+Found

@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Abschied von Generalleutnant Wever.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Dr. Scheuermann aus der Film-Kreditbank ausgeschieden.
+Found
+MODSMD_ARTICLE05: Eröffnung der Reichssteuerschule Starnberg.
+Found
+MODSMD_ARTICLE06: Vandervelde mit der Regierungsbildung beauftragt.
+Found
+MODSMD_ARTICLE07: Die Kennzahl der Großhandelspreise vom 3. Juni und im Monatsdurchschnitt Mai.
+Found

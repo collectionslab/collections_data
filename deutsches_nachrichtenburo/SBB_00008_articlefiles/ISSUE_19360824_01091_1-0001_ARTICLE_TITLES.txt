@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: 1K Todesurteile im Moskauer Schauprozeß.
+Found
+MODSMD_ARTICLE02: Selbstmord Tomskis.
+Found
+MODSMD_ARTICLE03: Weitere Hungerrevolten in der Sowjetukraine.
+Found
+MODSMD_ARTICLE04: Noch eine französische Luftfahrtsabordnung in Moskau.
+Found
+MODSMD_ARTICLE05: Mussolini nach Rom zurückgekehrt.
+Found
+MODSMD_ARTICLE06: Ras Gugsa in Rom. .
+Found
+MODSMD_ARTICLE07: Amnestie für gemaßregelte Schüler in Oesterreich.
+Found
+MODSMD_ARTICLE08: Metaxas über die sozialen Maßnahmen Griechenlands.
+Found
+MODSMD_ARTICLE09: Chile lehnt den Verunttlungsvorschlag Uruguays ab.
+Found
+MODSMD_ARTICLE10: Jugoslawien Zur Nichteiumischuugsfrage.
+Found
+MODSMD_ARTICLE11: Ungarn stimmt Nichteinmischungsvorschlag Zu.
+Found
+MODSMD_ARTICLE12: Späte Erkenntnis eines spanischen Marxistenblattes.
+Found
+MODSMD_ARTICLE13: Sieben Offiziere in San Sebastian zum Tode verurteilt.
+Found
+MODSMD_ARTICLE14: t 51 Millionen Franken für die spanischen Marxisten.
+Found
+MODSMD_ARTICLE15: Startverbot für portugiesischen Atlantikflieger.
+Found
+MODSMD_ARTICLE16: Frankreich und die Ereignisse in Spanien.
+Found
+MODSMD_ARTICLE17: Tie Ablösung der deutschen Seestreitkräfte.
+Found
+MODSMD_ARTICLE18: Italienisches Kolonialheer für Abessinien.
+Found
+MODSMD_ARTICLE19: Für eine unabhängige Südafrikanische Republik.
+Found

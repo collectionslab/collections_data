@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Kranzniederlegung am Grabe des Generalleutnants Weder.
+Found
+MODSMD_ARTICLE02: Eröffnung der lubiläumstagung des Reichssrauenbundes.
+Found
+MODSMD_ARTICLE03: Ruft eröffnet die Hochschulen für Lehrerbildung.
+Found
+MODSMD_ARTICLE04: Kommodore Ziegenbein tritt in den Ruhestand.
+Found
+MODSMD_ARTICLE05: Ungeheuerlicher Vorfall in Danzig.
+Found
+MODSMD_ARTICLE06: Palästina vor dem Genfer Mandatsausschuß.
+Found
+MODSMD_ARTICLE07: Das Note Kreuz gegen die Geiselmethoden in Spanien.
+Found
+MODSMD_ARTICLE09: Die Nationalen in südliche Stadtteile Madrids vorgcrnsth
+Found
+MODSMD_ARTICLE10: Vortrag Professor Sauerbruchs in Wien.
+Found
+MODSMD_ARTICLE11: Beginn der Wiener Rompakt-Konferenz.
+Found
+MODSMD_ARTICLE12: London wird zu groß.
+Found
+MODSMD_ARTICLE13: Rückkehr ägyptischer Streitkräfte in den Sudan.
+Found
+MODSMD_ARTICLE14: Aegyptisch-arabisches Abkommen.
+Found
+MODSMD_ARTICLE15: Rückgang der Arbeitslosenziffer in den USA.
+Found

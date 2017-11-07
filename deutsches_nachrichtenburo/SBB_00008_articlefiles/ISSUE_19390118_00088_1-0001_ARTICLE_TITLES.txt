@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Beförderungen in der Wehrmacht.
+Found
+MODSMD_ARTICLE02: Zum Oberstleutnant befördert.
+Found
+MODSMD_ARTICLE03: Die Dominikanische Republik und die Inden.
+Found
+MODSMD_ARTICLE04: Graf Csaky nach Budapest abgereist.
+Found
+MODSMD_ARTICLE05: Ungarn: Die deutsch-ungarische Freundschaft neu gestärkt.
+Found
+MODSMD_ARTICLE06: Der Typ des jüdischen Gauners.
+Found
+MODSMD_ARTICLE07: Graf Csaky beim Stellvertreter des Führers.
+Found
+MODSMD_ARTICLE08: Der Haftbefehl gegen Herschel Grünspan bleibt bestehen.
+Found
+MODSMD_ARTICLE09: Amerikanische Bomber nach Frankreich geliefert.
+Found
+MODSMD_ARTICLE10: Heftiges Feuergefecht in der Altstadt von Jaffa.
+Found
+MODSMD_ARTICLE11: Neue englische Ueberwachungsmethode.
+Found
+MODSMD_ARTICLE12: Zum Tode verurteilte Araber „begnadigt".
+Found
+MODSMD_ARTICLE13: Aussöhnung zwischen Negierung und Opposition in Syrien.
+Found
+MODSMD_ARTICLE14: Anschlag aus einen Anhänger Waugtschingweis.
+Found

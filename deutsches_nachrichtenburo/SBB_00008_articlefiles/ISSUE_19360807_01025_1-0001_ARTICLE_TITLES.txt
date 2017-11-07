@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Bevorzugte Abfertigung Schwerbeschädigter vor Amtsstellem
+Found
+MODSMD_ARTICLE02: Flüchtlingsspende des NS-Lehrerbundes.
+Found
+MODSMD_ARTICLE03: Lloyddampfer laufen zur Zeit keine spanischen Häfen an.
+Found
+MODSMD_ARTICLE04: Studienreise französischer Professoren.
+Found
+MODSMD_ARTICLE05: Deutsche Flüchtlinge aus Malaga in Lissabon,
+Found
+MODSMD_ARTICLE06: Kammeraussprache über die Streikbewegung.
+Found
+MODSMD_ARTICLE07: Frankreich verbietet Kundgebungen im Grenzgebiet.
+Found
+MODSMD_ARTICLE08: Getreidehandelsfrage vor dem Senat.
+Found
+MODSMD_ARTICLE09: „Zweideutigkeit der Pariser Neutralitätspolitik".
+Found
+MODSMD_ARTICLE10: Noch immer Mordtaten der Marxisten in Barcelona.
+Found
+MODSMD_ARTICLE11: „Die Deutschen in der Tschechoslowakei benachteiligt."
+Found
+MODSMD_ARTICLE12: Englischer Schritt für Nichteinmischung.
+Found
+MODSMD_ARTICLE13: Rundfunkaufruf an die Engländer in Spanien.
+Found
+MODSMD_ARTICLE15: Die trostlose Lage in Madrid.
+Found
+MODSMD_ARTICLE16: Warnungszeichen". Ein Artikel der „Tribuna".
+Found
+MODSMD_ARTICLE17: Neues italienisches Dementi.
+Found
+MODSMD_ARTICLE18: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found

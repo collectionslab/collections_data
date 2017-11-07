@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Churchill erfindet Erklärungen Großadmiral Raeders.
+Found
+MODSMD_ARTICLE02: Das Pfund gleitet weiter ab.
+Found
+MODSMD_ARTICLE03: Minister Cigurtu in Berlin.
+Found
+MODSMD_ARTICLE04: Skandalöse Behandlung deutscher Diplomaten in Polen.
+Found
+MODSMD_ARTICLE05: Deutsche Waren in Annam konfisziert.
+Found

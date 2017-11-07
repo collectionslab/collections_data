@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: „Das Leben Mussolinis".
+Found
+MODSMD_ARTICLE02: Die italienischen Industriearbeiter in München.
+Found
+MODSMD_ARTICLE03: Abreise Bohles von Wien.
+Found
+MODSMD_ARTICLE04: Der Staatsbesuch des ungarischen Reichsverwesers in Polen.
+Found
+MODSMD_ARTICLE05: Das Sndetendeutschtum ehrt seinen größten Dichter.
+Found
+MODSMD_ARTICLE06: Der Haushalt des polnischen Kriegsministeriums.
+Found
+MODSMD_ARTICLE07: Hetzreden anstatt Schlagermelodien.
+Found
+MODSMD_ARTICLE08: Polnische Studenten-Organisation mit Arier-Grundsatz.
+Found
+MODSMD_ARTICLE09: Tie französische Sportwelt trauert um Rosemeyer.
+Found
+MODSMD_ARTICLE10: „Die. Liga kränker als je."
+Found
+MODSMD_ARTICLE11: Die französischen Arbeitgeber zum Arbeitsstatut.
+Found
+MODSMD_ARTICLE12: Idee des Arbeitsdienstes gewinnt auch in England Raum.
+Found
+MODSMD_ARTICLE13: Der nationalspauische Heeresbericht.
+Found
+MODSMD_ARTICLE14: Sowjetspanisches Verbrechertum.
+Found
+MODSMD_ARTICLE15: Mährender englischer Industrieller in Burgvs.
+Found
+MODSMD_ARTICLE16: Wie Roosevelt sein Aufrüstungsprogramm begründet.
+Found

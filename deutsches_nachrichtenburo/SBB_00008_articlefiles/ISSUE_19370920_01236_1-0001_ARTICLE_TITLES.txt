@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Abschluß des Adolf Hitler-Marsches der deutschen Jugend.
+Found
+MODSMD_ARTICLE02: Die faschistischen Arbeiter ehrten die Gefallenen.
+Found
+MODSMD_ARTICLE03: NSKK.-Fahrt nach Jugoslawien und Bulgarien.
+Found
+MODSMD_ARTICLE04: „Der erste Staatsbesuch des Duce im Auslände!"
+Found
+MODSMD_ARTICLE05: Die Wiener Reise Herriots nur „informativ".
+Found
+MODSMD_ARTICLE06: Chautemps zieht die Bierteljahresbilanz.
+Found
+MODSMD_ARTICLE07: Rechtzeitig ausgekniffen.
+Found
+MODSMD_ARTICLE08: Der Ueberfall auf die Pfeilkreuzler.
+Found
+MODSMD_ARTICLE09: Türkisches Parlament ratifiziert „Arrangement" von Nyon»
+Found
+MODSMD_ARTICLE10: Großlnftkampf über Nanking.
+Found
+MODSMD_ARTICLE11: Chinesische Luftangriffe auf Schanghai.
+Found
+MODSMD_ARTICLE12: Riesenöllager bei Kapstadt im Bau.
+Found

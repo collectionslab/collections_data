@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Besuch bei den italienischen Landarbeitern.
+Found
+MODSMD_ARTICLE02: Rechtswahrerlehrgang in Gmunden.
+Found
+MODSMD_ARTICLE03: Aussprache des deutschen Botschafters mit Bonuet.
+Found
+MODSMD_ARTICLE04: Daladier dementiert Gerüchte über schlechte Finanzlage.
+Found
+MODSMD_ARTICLE05: Paris will den Marseiller Streik beilegen.
+Found
+MODSMD_ARTICLE06: Zur Stützung des französischen Außenhandels.
+Found
+MODSMD_ARTICLE07: Französische Hoffnungen auf Entspannung im Fernen Osten.
+Found
+MODSMD_ARTICLE08: Der französische Flottenbesüch in Gdingen.
+Found
+MODSMD_ARTICLE09: Duff Cooper iu Gdingen.
+Found
+MODSMD_ARTICLE10: Auch die Polen wollen Runciman unterrichten.
+Found
+MODSMD_ARTICLE11: Bata bei Hodscha.
+Found
+MODSMD_ARTICLE12: Sowjetruffische Militärflugzeuge über Eftland.
+Found
+MODSMD_ARTICLE13: Sowjetrußlands Magmotlinie an der Westgrenze fertig.
+Found
+MODSMD_ARTICLE14: Sowjet-Gewerkschaftsorgane bis zu 90 Prozent „erneuert".
+Found
+MODSMD_ARTICLE15: Nationaler Durchbruch an der Estremadura-Front.
+Found
+MODSMD_ARTICLE16: Neue Unruheu in Valencia.
+Found
+MODSMD_ARTICLE17: Waffen- und Munitionsschmuggel nach Palästina.
+Found
+MODSMD_ARTICLE18: Streik gefährdet australisches Luftverteidigungsprogramm.
+Found
+MODSMD_ARTICLE19: Geheimrat Professor Leo Frobenius si.
+Found
+MODSMD_ARTICLE20: 199 Tote bei Ueberschwemmungen in Indien.
+Found

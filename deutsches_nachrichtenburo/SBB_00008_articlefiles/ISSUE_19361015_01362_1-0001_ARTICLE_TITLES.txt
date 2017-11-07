@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Goebbels in Hamburg.
+Found
+MODSMD_ARTICLE02: Telegrammwechsel zwischen Daranyi und Darre.
+Found
+MODSMD_ARTICLE03: Tagung der deutsch-niederländischen Regierungsausschüsse.
+Found
+MODSMD_ARTICLE04: 39. Londoner Internationale Automobilausstellung.
+Found
+MODSMD_ARTICLE05: Maisky bestürmt Lord Plymouth.
+Found
+MODSMD_ARTICLE06: 59 sowjetrussische Flugzeuge zur Verteidigung von Bilbao?
+Found
+MODSMD_ARTICLE07: „Action Franeaise": Französische Flugzeuge in Barcelona.
+Found
+MODSMD_ARTICLE08: Abgebrochene spanische Austauschverhandlungen.
+Found
+MODSMD_ARTICLE09: Baskische Nationalisten gegen Anarchisten in Bilbao?
+Found
+MODSMD_ARTICLE10: Holländischer marxistischer Abgeordneter in Madrid.
+Found
+MODSMD_ARTICLE11: Unglaubliche Behandlung gefangener Frauen.
+Found
+MODSMD_ARTICLE12: Paris zur Rede des Königs der Belgier.
+Found
+MODSMD_ARTICLE13: Italien und der belgische Neutralitätsbeschlnsi.
+Found
+MODSMD_ARTICLE14: Unterredung zwischen Beck und Delbos.
+Found
+MODSMD_ARTICLE15: Metaxas über Reformen in Griechenland.
+Found

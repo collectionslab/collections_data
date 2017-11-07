@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Dank der italienischen kolonialen Studienkommission.
+Found
+MODSMD_ARTICLE02: Der Danziger Volkstag einberufen.
+Found
+MODSMD_ARTICLE03: Vorläufig keine Vorlesungen an Lemberger Hochschulen.
+Found
+MODSMD_ARTICLE04: Hodscha beim König von Rumänien.
+Found
+MODSMD_ARTICLE05: Theaterskandal in Prag.
+Found
+MODSMD_ARTICLE06: Selbstmord Heinz Ruthas.
+Found
+MODSMD_ARTICLE07: 36 Jünger Moskaus in Budapest verhaftet.
+Found
+MODSMD_ARTICLE08: Der rumänische Luftfahrtminister in Italien.
+Found
+MODSMD_ARTICLE09: Italiens jüngste Stadt eingeweiht.
+Found
+MODSMD_ARTICLE10: Delbos sehr bedrückt.
+Found
+MODSMD_ARTICLE11: London spricht von einem „toten Punkt".
+Found
+MODSMD_ARTICLE12: Pessimistische Pariser Presse zu Brüssel.
+Found
+MODSMD_ARTICLE13: Neue Schwierigkeiten in Brüssel.
+Found
+MODSMD_ARTICLE14: Botschafter von Ribbentrop in Rom.
+Found
+MODSMD_ARTICLE15: Der Warnungsstreik war „nicht mehr nötig".
+Found
+MODSMD_ARTICLE16: Chautemps bei König Georg von Griechenland.
+Found
+MODSMD_ARTICLE17: Chautemps soll die Finanzpolitik verantworten.
+Found
+MODSMD_ARTICLE18: Getarnte bolschewistische Flugzeuge.
+Found
+MODSMD_ARTICLE19: Vier weitere nationalistische Araberführer verurteilt.
+Found
+MODSMD_ARTICLE20: Die Japaner im Besitze sämtlicher Nord-China-Bahnen.
+Found

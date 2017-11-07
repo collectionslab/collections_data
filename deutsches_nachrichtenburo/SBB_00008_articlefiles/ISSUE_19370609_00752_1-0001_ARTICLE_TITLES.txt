@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der 65. Geburtstag des Reichspostministers.
+Found
+MODSMD_ARTICLE02: Empfang in der Belgrader Deutschen Gesandtschaft.
+Found
+MODSMD_ARTICLE03: Eine Goethe-Büste in der Mailänder Biblioteea Ambrosiana.
+Found
+MODSMD_ARTICLE04: Die Tagung des ZOK. in Warschau.
+Found
+MODSMD_ARTICLE05: Die Erweiterung der Machtbefugnisse des Reichsverwesers.
+Found
+MODSMD_ARTICLE06: Die Ueberführuug der Opfer der „Barletta".
+Found
+MODSMD_ARTICLE07: Der siebente Jahrestag der Rückkehr König Carols.
+Found
+MODSMD_ARTICLE08: Zwei neue englische Zerstörer vom Stapel gelausen.
+Found
+MODSMD_ARTICLE09: Das Walfangabkommen.
+Found
+MODSMD_ARTICLE10: Die Beratungen der WeltreichskonferenZ.
+Found
+MODSMD_ARTICLE11: Keine Aenderung der englischen Währungspolitik.
+Found
+MODSMD_ARTICLE12: Londoner Streikanführer ihrer Aemter enthoben.
+Found
+MODSMD_ARTICLE13: Die Zivilliste für das englische Königshaus.
+Found
+MODSMD_ARTICLE14: Verbot der Giftgasausfuhr aus England.
+Found
+MODSMD_ARTICLE15: Gastwirte protestieren gegen 40-Stundenwoche.
+Found
+MODSMD_ARTICLE16: Roosevelt soll Beilegung des Stahl-Streiks herbeiführen.
+Found

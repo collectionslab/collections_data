@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der SA.-Appell im Lustgarten.
+Found
+MODSMD_ARTICLE02: General Daluege.
+Found
+MODSMD_ARTICLE03: Gauleiter Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: Tagung des Volksbundes Deutsche Kriegsgräberfürsorge.
+Found
+MODSMD_ARTICLE05: Einstellung von Freiwilligen in die Luftwaffe.
+Found
+MODSMD_ARTICLE06: Maßnahmen gegen ausländische Pressehetze in Danzig.
+Found
+MODSMD_ARTICLE07: Der argentinische Außenminister von London abgereist.
+Found
+MODSMD_ARTICLE08: Staatsmonopol für britischen Waffenhandel abgelehnt»
+Found
+MODSMD_ARTICLE09: Englischer Menschenfreund in Malaga verhaftet.
+Found
+MODSMD_ARTICLE10: Vier rote Flugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE11: General Franca warnt französische Flieger.
+Found
+MODSMD_ARTICLE12: Frau Companys Zieht Paris vor.
+Found
+MODSMD_ARTICLE13: Studentenstreik in Krakau.
+Found
+MODSMD_ARTICLE14: Neuwahlen im Irak.
+Found
+MODSMD_ARTICLE15: Ausdehnung des Streiks in San Francisco.
+Found
+MODSMD_ARTICLE16: Das Explosionsungluck im Rotterdamer Hasen.
+Found

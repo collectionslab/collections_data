@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: 8 Millionen RM am Tag der Nationalen Solidarität.
+Found
+MODSMD_ARTICLE02: „Der Tüchtigste ist jeder Förderung würdig!"
+Found
+MODSMD_ARTICLE03: Erklärung der Haitianischen Gesandtschaft.
+Found
+MODSMD_ARTICLE04: Zusammentritt des Nichteinmischungausschusses.
+Found
+MODSMD_ARTICLE05: Rheinbaben über Deutschland und England.
+Found
+MODSMD_ARTICLE06: Polen wünscht an kolonialer Tätigkeit beteiligt zu werden.
+Found
+MODSMD_ARTICLE07: Der Beleidigungsprozeß de la Rocgues.
+Found
+MODSMD_ARTICLE08: Marschall Graziani Zum Marchese von Neghelli ernannt.
+Found
+MODSMD_ARTICLE09: Stojadinowitsch in der Fliegerstadt Guidonia.
+Found
+MODSMD_ARTICLE10: Panzerwagen nach Sowjetspanien verschoben.
+Found
+MODSMD_ARTICLE11: Schweres Eisenbahnunglück in Rotspanien.
+Found
+MODSMD_ARTICLE12: Das neueste Opfer Stalins.
+Found
+MODSMD_ARTICLE13: Weiterreise Schirachs nach Aleppo und Ankara.
+Found
+MODSMD_ARTICLE14: Reuter meldet „Beschießung" eines englischen Schiffes.
+Found
+MODSMD_ARTICLE15: Der Ring um Nanking wird enger.
+Found
+MODSMD_ARTICLE16: Tschiangkaischek nach Nantschang unterwegs.
+Found

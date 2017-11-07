@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: England wagt seine Luftniederlage nicht einzugestehen.
+Found
+MODSMD_ARTICLE02: Churchills undichte Geheimschublade.
+Found
+MODSMD_ARTICLE03: Die Schwäche des englischen Pfundes.
+Found
+MODSMD_ARTICLE04: „Die Unterlassungssünde der Neutralen".
+Found
+MODSMD_ARTICLE05: Der russische Heeresbericht.
+Found
+MODSMD_ARTICLE06: Aus dem finnischen Heeresbericht.
+Found
+MODSMD_ARTICLE07: Der deutsche Luftsieg.
+Found
+MODSMD_ARTICLE08: Große Schlacht an der finnischen Nordfront.
+Found
+MODSMD_ARTICLE09: Der Rückgang der englischen Ausfuhr.
+Found
+MODSMD_ARTICLE10: Japanische Blätter zur Vereinbarung mit Washington.
+Found
+MODSMD_ARTICLE11: Englands Gewaltmethoden in Indien.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Rosenberg sprach vor den Sudetendeutschen.
+Found
+MODSMD_ARTICLE02: Sudetenkontor der Nordischen Gesellschaft.
+Found
+MODSMD_ARTICLE03: Jtalienreise des polnischen Industrie- und Handelsministers.
+Found
+MODSMD_ARTICLE04: Die neue ungarisch-slowakische' Grenze.
+Found
+MODSMD_ARTICLE05: Erweiterung der englischen Regierung gescheitert.
+Found
+MODSMD_ARTICLE06: Neue Ausschlüsse aus der Labour-Partei.
+Found
+MODSMD_ARTICLE07: Vier Bombenexplosionen in London.
+Found
+MODSMD_ARTICLE08: Kammer und Senat bis 11. Mai vertagt.
+Found
+MODSMD_ARTICLE09: Tie Marxisten gegen eine Wiederwahl Lebruns.
+Found
+MODSMD_ARTICLE10: Wozu Frankreich seine Kolonien braucht.
+Found
+MODSMD_ARTICLE11: Paris zur Besetzung der Spratly-Jnseln durch die Japaner.
+Found
+MODSMD_ARTICLE12: Anerkennung Francas durch die nordischen Staaten.
+Found
+MODSMD_ARTICLE13: Frau Palencia mußte die Koffer packen.
+Found
+MODSMD_ARTICLE14: Folterkammer der Roten in Madrid.
+Found
+MODSMD_ARTICLE15: „Die Rückständigen."
+Found
+MODSMD_ARTICLE16: Baiencia feierte seine Befreiung.
+Found
+MODSMD_ARTICLE17: Lieber unter türkischer als unter französischer Verwaltung.
+Found
+MODSMD_ARTICLE18: Sympathiekundgebungen in Bagdad zu Gunsten Syriens.
+Found
+MODSMD_ARTICLE19: „Schluß mit deu englischen Ausbeutungsmethoden."
+Found

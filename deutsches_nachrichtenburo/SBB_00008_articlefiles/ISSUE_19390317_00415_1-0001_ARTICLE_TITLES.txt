@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm Oschimas an Nibbentrop.
+Found
+MODSMD_ARTICLE02: Geschwader der Luftwaffe über Böhmen und Mähren.
+Found
+MODSMD_ARTICLE03: Nebernahme der tschechischen Gesandtschaften.
+Found
+MODSMD_ARTICLE04: Italien hebt seine Vertretung in Prag ans.
+Found
+MODSMD_ARTICLE05: Die neue Ordnung lebt sich ein.
+Found
+MODSMD_ARTICLE06: Hoffnung auf Wirtschastsblüte in Böhmen und Mähren.
+Found
+MODSMD_ARTICLE07: Jugoslawien im Banne der Ereignisse.
+Found
+MODSMD_ARTICLE08: Die bewaffneten Plutokratien gegen Recht und Natur.
+Found
+MODSMD_ARTICLE09: Warschau über die deutsche Schlüsselstellung.
+Found
+MODSMD_ARTICLE10: Schweiz: Keine internationalen Verwicklungen.
+Found
+MODSMD_ARTICLE11: 3KV Abiturienten der Nationalpolitischen Erziehungsanstalten
+Found
+MODSMD_ARTICLE12: Dillgardt-Essen zum Wehrwirtschaftsführer ernannt.
+Found
+MODSMD_ARTICLE13: Maisky im englischen Außenamt.
+Found
+MODSMD_ARTICLE14: Israel ruft in Palästina Zum jüdischen Krieg.
+Found
+MODSMD_ARTICLE15: Der undiplomatische Laguardia.
+Found
+MODSMD_ARTICLE16: Kamps um den 2-Milliarden-Stabilisierungsfonds in USA.
+Found

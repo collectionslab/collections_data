@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Unterstützung der HI durch die Gemeinden.
+Found
+MODSMD_ARTICLE03: Tausend französische Frontkämpfer in Freiburg.
+Found
+MODSMD_ARTICLE04: Mackensen auf der Ausstellung „Schaffendes Volk".
+Found
+MODSMD_ARTICLE05: Hauptschriftleiter Julius Gubitz f.
+Found
+MODSMD_ARTICLE06: Kein Ende der Streiks in Frankreich.
+Found
+MODSMD_ARTICLE07: Der griechische Weltausstellungspavillon eröffnet.
+Found
+MODSMD_ARTICLE08: Der amerikanische Pavillon in Paris eingeweiht.
+Found
+MODSMD_ARTICLE09: Die Pariser Presse zur Lage.
+Found
+MODSMD_ARTICLE10: Die italienische Presse fordert Taten statt Worte.
+Found

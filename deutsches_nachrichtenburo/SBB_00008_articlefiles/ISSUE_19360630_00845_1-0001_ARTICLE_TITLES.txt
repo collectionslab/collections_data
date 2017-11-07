@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Oberster Gerichtshof der Wehrmacht.
+Found
+MODSMD_ARTICLE02: Neue Landesbürgschaftsausschüsse.
+Found
+MODSMD_ARTICLE03: Abänderung des Reichskraftwagentarifs.
+Found
+MODSMD_ARTICLE04: Ausmusterung für die Ordensburgen.
+Found
+MODSMD_ARTICLE05: Dr. Ley lädtz Hauer Schmidt mit Familie ein.
+Found
+MODSMD_ARTICLE06: Panzerschiff „Admiral Scheer" verläßt Stockholm.
+Found
+MODSMD_ARTICLE07: 149 Tote, 4434 Verletzte.
+Found
+MODSMD_ARTICLE08: Französische Bauern fordern höhere Preise.
+Found
+MODSMD_ARTICLE09: Politische Zwischenfälle in Toulouse.
+Found
+MODSMD_ARTICLE10: Unterhausanfrage zur Verteilung der englischen Flotte.
+Found
+MODSMD_ARTICLE11: Die Presse Zu Baldwins verlängertem Wochenende.
+Found
+MODSMD_ARTICLE12: Der englische Oberkommissar nach Aegypten zurückgekehrt.
+Found
+MODSMD_ARTICLE13: „Giornale d'Jtalia" gegen englische Verdächtigungen.
+Found
+MODSMD_ARTICLE14: Die jüngste Tochter Mussolinis schwer erkrankt.
+Found
+MODSMD_ARTICLE15: Italienischer General verunglückt.
+Found
+MODSMD_ARTICLE16: Genf gegen österreichische Resiaurationsgelüste.
+Found
+MODSMD_ARTICLE17: Die tschechoslowakische Minderheiten-Politik.
+Found
+MODSMD_ARTICLE18: Jugoslawische Staatsbeamte bekommen Olympiade-Urlaub.
+Found
+MODSMD_ARTICLE19: Südslawiens Gesandter am Vatikan f.
+Found
+MODSMD_ARTICLE20: Explosion in der Madrider Filiale der Reichsbahnzentrale.
+Found

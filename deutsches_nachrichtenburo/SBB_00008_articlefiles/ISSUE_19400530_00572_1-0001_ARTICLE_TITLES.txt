@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Der Führer verlieh neue Ritterkreuze.
+Found
+MODSMD_ARTICLE02: Mit fremden Augen.
+Found
+MODSMD_ARTICLE03: Glückwünsche der Reichsregierung an Portugal.
+Found
+MODSMD_ARTICLE04: Gibraltar wird in Verteidigungszustand gesetzt.
+Found
+MODSMD_ARTICLE05: Madrid ohne Brot.
+Found
+MODSMD_ARTICLE06: Man traut Churchill nicht mehr.
+Found
+MODSMD_ARTICLE07: Japan bewundert die deutsche Kriegführung.
+Found

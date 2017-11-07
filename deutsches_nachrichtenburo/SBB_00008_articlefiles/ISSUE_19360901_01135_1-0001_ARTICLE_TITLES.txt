@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Beileid des Führers zum Grubenunglück.
+Found
+MODSMD_ARTICLE02: 25 Tote auf Zeche „Bereinigte Präsident".
+Found
+MODSMD_ARTICLE03: Weitere Beileidstelegramme zum Grubenunglück.
+Found
+MODSMD_ARTICLE04: Die Völkerbundsreform-Vorschläge Dänemarks.
+Found
+MODSMD_ARTICLE05: Die römische Presse zur Mussolini-Rede.
+Found
+MODSMD_ARTICLE06: Spanische Marxisten werben in Frankreich.
+Found
+MODSMD_ARTICLE07: Französischer Journalist in Spanien umgekommen?
+Found
+MODSMD_ARTICLE08: General Queipo de Llano über die Lage.
+Found
+MODSMD_ARTICLE09: Burgos meldet weitere Erfolge.
+Found
+MODSMD_ARTICLE10: Wer nicht 10 Stunden arbeiten will, wird erschossen.
+Found
+MODSMD_ARTICLE11: Marxistisches U-Boot schwer beschädigt.
+Found
+MODSMD_ARTICLE12: Für Auflösung der Kuomintang.
+Found
+MODSMD_ARTICLE13: Neuordnung der Bank von Mexiko.
+Found
+MODSMD_ARTICLE14: Umbesehungen im paraguayschen Kabinett.
+Found

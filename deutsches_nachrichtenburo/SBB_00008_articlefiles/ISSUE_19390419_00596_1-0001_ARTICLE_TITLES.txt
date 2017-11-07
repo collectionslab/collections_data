@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Deutsches Nachrichtenbüro ? H
+Found
+MODSMD_ARTICLE02: Dr. Goebbels zum SV. Geburtstag des Führers.
+Found
+MODSMD_ARTICLE04: 12 Millionen Sonderaufwendung für Gesundheitsfürsorge.
+Found

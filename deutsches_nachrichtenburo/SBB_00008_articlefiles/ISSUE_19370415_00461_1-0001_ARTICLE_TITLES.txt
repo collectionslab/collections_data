@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Gouverneur der Banca d'Jtalia in Berlin.
+Found
+MODSMD_ARTICLE02: Aufrufe zum Werbetag des Jugendherbergswerkes.
+Found
+MODSMD_ARTICLE03: Hilfsmaßnahmen für Kreuzebra.
+Found
+MODSMD_ARTICLE04: Kommunistische Agentin sucht Rossaint zu entlasten.
+Found
+MODSMD_ARTICLE05: Abschiedsessen des Reichsministers Ruft.
+Found
+MODSMD_ARTICLE06: „Kaiser Otto mit der deutschen Kaiserkrone".
+Found
+MODSMD_ARTICLE07: „Eden soll wirklich leben und leben lassen".
+Found
+MODSMD_ARTICLE08: Die Sterilisierung von Erbkranken vor dem Unterhaus.
+Found
+MODSMD_ARTICLE09: Revolten im Zuchthaus Dartmoor.
+Found
+MODSMD_ARTICLE10: „Sympathie"-Streik englischer Werftarbeiter.
+Found
+MODSMD_ARTICLE11: Die Kapitulationskonferenz in Montreux.
+Found
+MODSMD_ARTICLE12: Der Sowjetbotschafter beim japanischen Außenminister.
+Found
+MODSMD_ARTICLE13: Britischer Bizekonsul in Mexiko erschossen.
+Found

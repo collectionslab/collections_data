@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Ernennungen beim Volksgerichtshof und Reichsgericht.
+Found
+MODSMD_ARTICLE02: lubiläums-Ausstellung der Akademie der Künste.
+Found
+MODSMD_ARTICLE03: Fahneniibergabe beim Jagdgeschwader „Horst Wessel".
+Found
+MODSMD_ARTICLE04: Znrtwängler dirigierte in Paris.
+Found
+MODSMD_ARTICLE05: Tie polnische Regierung zurückgetreten.
+Found
+MODSMD_ARTICLE06: Phönix-Aussprache im Prager Verfassungsausschuß.
+Found
+MODSMD_ARTICLE07: Einführung der Zivilehe in Bulgarien.
+Found
+MODSMD_ARTICLE08: Rom zu den Vorgängen in Wien.
+Found
+MODSMD_ARTICLE09: „Giornale iüJtalia" zu dem Beschluß des Völkerbundsrates.
+Found
+MODSMD_ARTICLE10: Der Wiederaufbau in Addis Abeba.
+Found
+MODSMD_ARTICLE11: Aufruf der Araberführer zum Steuerstreik.
+Found
+MODSMD_ARTICLE12: Todesurteil gegen Mörder des Truppführers Ehrenberg.
+Found

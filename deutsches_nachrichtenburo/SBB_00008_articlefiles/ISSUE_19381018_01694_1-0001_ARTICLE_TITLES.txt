@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Korpsführer Hühnlein dankt den NSKK.-Männern.
+Found
+MODSMD_ARTICLE03: Stillhaltekomnnssar für das sudetendeutsche Vereiusweseu.
+Found
+MODSMD_ARTICLE04: Italienische Kommunalbeamte besuchen Hamburg.
+Found
+MODSMD_ARTICLE05: Benesch-Zeitungen auf dem Scheiterhaufen.
+Found
+MODSMD_ARTICLE06: Die Brüsseler Gemeindewahlen.
+Found
+MODSMD_ARTICLE07: Konzentrationslager für jüdische Flüchtlinge in Belgien.
+Found
+MODSMD_ARTICLE08: Staumng über das Thema Nord-Schleswig.
+Found
+MODSMD_ARTICLE09: Der ungarische Gesandte im Foreign Ossice.
+Found
+MODSMD_ARTICLE10: Die finanzielle Hilfe für die Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE11: Das deutsche Geschwader hat Tanger wieder verlassen.
+Found
+MODSMD_ARTICLE12: Das Agrement für Franeois-Poncet erteilt.
+Found
+MODSMD_ARTICLE13: Der ungarische Gesandte bei Graf Ciano.
+Found
+MODSMD_ARTICLE14: Gegen jedes Kompromiß mit Sowjetspanien.
+Found
+MODSMD_ARTICLE15: Barcelonahafen und Alcoy bombardiert.
+Found
+MODSMD_ARTICLE16: König Emanuel und Mussolini an Franco.
+Found
+MODSMD_ARTICLE17: Leichte Besserung im Befinden Atatürks.
+Found
+MODSMD_ARTICLE18: Standrecht iu Kanton.
+Found
+MODSMD_ARTICLE19: Japan fordert unbedingte Neutralität.
+Found
+MODSMD_ARTICLE20: Eine Wafd-Zeitung verboten.
+Found
+MODSMD_ARTICLE21: Araber schützen christlichen Gottesdienst.
+Found

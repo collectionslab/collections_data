@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Parteitag der Arbeit. Der Tag der Hitlerjugend. (Fortsetzung von Sonderausgabe Nr. 37) Der Appell im Alten Stadion
+Found
+MODSMD_ARTICLE02: Der Führer trifft ein.
+Found
+MODSMD_ARTICLE03: Bekenntnis zum Führer.
+Found
+MODSMD_ARTICLE04: Der Reichsjugendführer
+Found
+MODSMD_ARTICLE05: Der Führer spricht.
+Found
+MODSMD_ARTICLE06: die Vereidigung
+Found
+MODSMD_ARTICLE07: Rudolf Hetz
+Found
+MODSMD_ARTICLE08: Eidesformel
+Found
+MODSMD_ARTICLE09: Adolf Hitler
+Found
+MODSMD_ARTICLE10: Das Ausland zu Nürnberg.
+Found

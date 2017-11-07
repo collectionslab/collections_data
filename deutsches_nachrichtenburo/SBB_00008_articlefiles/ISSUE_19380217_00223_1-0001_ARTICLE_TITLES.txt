@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Dr. Seyß-Inquart in Berlin.
+Found
+MODSMD_ARTICLE02: Begnadigung durch den Führer.
+Found
+MODSMD_ARTICLE03: Höchstleistung im Straßenbau.
+Found
+MODSMD_ARTICLE04: Bundespräsident Mitlas dankt Botschafter von Papen.
+Found
+MODSMD_ARTICLE05: Winterhilfe ans Gegenseitigkeit.
+Found
+MODSMD_ARTICLE06: „Popolo di Roma" Zu den Wiener Ereignissen.
+Found
+MODSMD_ARTICLE07: Für schnelle Erfüllung der deutschen Kolonialfordernngen.
+Found
+MODSMD_ARTICLE08: Budenko unterstreicht seine Anklagen gegen die Sowjets.
+Found
+MODSMD_ARTICLE09: Bestätigte Zeitungsverbote in Rumänien.
+Found
+MODSMD_ARTICLE10: Die Schweizer Abivehrbewegung gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE11: Nationalspanien ehrt die Frauen.
+Found
+MODSMD_ARTICLE12: Dr. SeZtz-Jiiquart bei'.n" Fuhrer.
+Found
+MODSMD_ARTICLE13: Norwegische Vorbehalte gegenüber Genf.
+Found
+MODSMD_ARTICLE14: Moskau schweigt ! !
+Found
+MODSMD_ARTICLE15: 17 neue Opfer der Moskauer Blutjustiz.
+Found
+MODSMD_ARTICLE16: Moskau feiert Sunfo.
+Found
+MODSMD_ARTICLE17: Admiral Nöda über Japans Flottenpolitik.
+Found
+MODSMD_ARTICLE18: Weiterhin kritische Lage in Indien.
+Found

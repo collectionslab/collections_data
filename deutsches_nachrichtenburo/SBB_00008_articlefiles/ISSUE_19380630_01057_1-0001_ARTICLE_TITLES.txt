@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Deutschlandbesuch General Parianis.
+Found
+MODSMD_ARTICLE02: Aufruf Gauleiters Bohles.
+Found
+MODSMD_ARTICLE03: Seyß-Jnquart über die jüngste Greuelhetze.
+Found
+MODSMD_ARTICLE04: Memeldeutsche sollen weiter hungern.
+Found
+MODSMD_ARTICLE05: Sudetendeutsche Geschäfte sollen boykottiert werden.
+Found
+MODSMD_ARTICLE06: „Staucha" über die tschechische Obstruktionspolitik.
+Found
+MODSMD_ARTICLE07: Der Italien-Besuch des Stabschefs Lutze.
+Found
+MODSMD_ARTICLE08: Heymans über seinen Berliner Besuch befriedigt.
+Found
+MODSMD_ARTICLE09: Jaspar würdigt das nationalsozialistische Fürsorgewerk.
+Found
+MODSMD_ARTICLE10: Interpellation in der belgischen Kammer.
+Found
+MODSMD_ARTICLE11: Todesstrafe für Spionage jetzt auch in Frankreich»
+Found
+MODSMD_ARTICLE12: Entscheidung über das Spanien-Gold erneut verschoben.
+Found
+MODSMD_ARTICLE13: Der englische und der türkische Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE14: Die nationalspanische Aufbauarbeit.
+Found
+MODSMD_ARTICLE15: Lebensnnttelmangel iu Notspanien.
+Found
+MODSMD_ARTICLE16: Gestern noch auf stolzen Rossen . . .
+Found
+MODSMD_ARTICLE17: Der polnische Generalstabschef in Reval.
+Found
+MODSMD_ARTICLE18: Zweite Auslage der „Säuberung" in der Roten Armee.
+Found
+MODSMD_ARTICLE19: Die Türken marschieren im Sandschak ein.
+Found
+MODSMD_ARTICLE20: Politische Amnestie in der Türkei.
+Found
+MODSMD_ARTICLE21: Schwere Zwischenfälle in Tel Aviv.
+Found
+MODSMD_ARTICLE22: Vordringen der W a ziri stau – Stäm me nach Agshanistan?
+Not Found
+MODSMD_ARTICLE23: Einigung im Oelkonflikt?
+Found

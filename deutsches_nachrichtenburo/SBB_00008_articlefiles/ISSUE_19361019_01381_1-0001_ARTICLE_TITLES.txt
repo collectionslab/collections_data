@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ter Führer in der Adolf-Hitler-lugendherberge.
+Found
+MODSMD_ARTICLE02: Rudolf Strah gestorben.
+Found
+MODSMD_ARTICLE03: Gesundheitsfuhrung und Ernährung.
+Found
+MODSMD_ARTICLE04: Die dritte Reichstngung für deutsche Vorgeschichte.
+Found
+MODSMD_ARTICLE05: Franz Liszt-Gedenkwoche in Bayreuth.
+Found
+MODSMD_ARTICLE06: Staatssekretär Milch über die italienische Luftwaffe.
+Found
+MODSMD_ARTICLE07: 22 Todesopfer eines norditalienischen Erdbebens.
+Found
+MODSMD_ARTICLE08: Tie Stellung der Juden in Wien.
+Found
+MODSMD_ARTICLE09: Der Erfolg der Nationalisten bor Madrid.
+Found
+MODSMD_ARTICLE10: Die Türkei wertet nicht ab.
+Found
+MODSMD_ARTICLE11: Der afghanische Kriegsminister in Ankara eingetroffen.
+Found
+MODSMD_ARTICLE12: Die kommunistische Hetzpropaganda in USA.
+Found
+MODSMD_ARTICLE13: Die chinesisch-japanischen Befriedungsverhandlungen.
+Found

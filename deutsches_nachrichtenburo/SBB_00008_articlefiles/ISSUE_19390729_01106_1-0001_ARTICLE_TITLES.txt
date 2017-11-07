@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm des Führers an den Duce.
+Found
+MODSMD_ARTICLE02: Göring im Hamburger Hafen.
+Found
+MODSMD_ARTICLE03: Deutsch-siamesisches Gemeinschaftslager in Kiel.
+Found
+MODSMD_ARTICLE04: Das spanische Gold zurückgegeben.
+Found
+MODSMD_ARTICLE05: Um Verlängerung der Abgeordnetenmandate Frankreichs.
+Found
+MODSMD_ARTICLE06: 80 neue Notverordnungen über das demokratische Frankreich.
+Found
+MODSMD_ARTICLE07: Die Pariser Presse außerordentlich unsicher.
+Found
+MODSMD_ARTICLE08: Hoare unterzeichnete bereits 19 Ausweisungsbefehle.
+Found
+MODSMD_ARTICLE09: Craigie berichtet.
+Found
+MODSMD_ARTICLE10: Japanische Landung auf dem Ostufer des Perlflusses.
+Found
+MODSMD_ARTICLE11: „Syrien gehört den Syriern."
+Found
+MODSMD_ARTICLE12: „Nur ein Verräter nähme heute Syriens Thron."
+Found
+MODSMD_ARTICLE13: Ägyptische Sympathien für die arabischen Stammesgenossen.
+Found
+MODSMD_ARTICLE14: Die Aufwärtsentwicklung des deutschen Rundfunks.
+Found
+MODSMD_ARTICLE15: Ein bemerkenswerter Vorschlag des Senators Nye.
+Found
+MODSMD_ARTICLE16: Flugverkehr Berlin—Bangkok.
+Not Found
+MODSMD_ARTICLE17: Vollstreckung zweier Todesurteile.
+Found
+MODSMD_ARTICLE18: Die Kennzahl der Großhandelspreise vom 26. Juli 1939.
+Found

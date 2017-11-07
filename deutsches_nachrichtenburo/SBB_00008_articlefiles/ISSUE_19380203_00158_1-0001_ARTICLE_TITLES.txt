@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Nationalsozialistisches KdF.-Gemeinschaftshaus.
+Found
+MODSMD_ARTICLE02: Beauftragte für das BDM.-Werk „Glaube und Schönheit".
+Found
+MODSMD_ARTICLE03: Arbeitstagung des polnischen „Ingenddienstes".
+Found
+MODSMD_ARTICLE04: Engländer erkennen den Wert des deutschen Arbeitsdienstes.
+Found
+MODSMD_ARTICLE05: Streiks in England.
+Found
+MODSMD_ARTICLE06: Die irischen Sachverständigen nach Dublin zurückgekehrt.
+Found
+MODSMD_ARTICLE07: Umfangreiche Luftschutzmaßnahmen in England.
+Found
+MODSMD_ARTICLE08: Ter Grosowsky-Skandal.
+Found
+MODSMD_ARTICLE09: Ein Teil der Gewerkschaften in Tunesien aufgelöst.
+Found
+MODSMD_ARTICLE10: Eine Erklärung der spanischen Nation
+Found
+MODSMD_ARTICLE11: Der Verlans des ersten nationalivaiiischcn Ministerrates.
+Found
+MODSMD_ARTICLE12: Eine Forderung der Pekinger Japanischen Botschaft,
+Found
+MODSMD_ARTICLE13: Japan stellt Mißbrauch fremder Flaggen fest.
+Found

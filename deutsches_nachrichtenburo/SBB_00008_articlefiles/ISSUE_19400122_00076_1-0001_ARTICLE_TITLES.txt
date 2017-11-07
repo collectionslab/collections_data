@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Britischer Flottillenführer in der Nordsee gesunken.
+Found
+MODSMD_ARTICLE02: „Verdächtige Manöver der Kriegstreiber".
+Found
+MODSMD_ARTICLE03: Der jüdische Krieg.
+Found
+MODSMD_ARTICLE04: Britischer Tanker (7807 BRT) uach Explosiv« gesunken.
+Found
+MODSMD_ARTICLE05: Ununterbrochene Schiffsverlufte durch Englands Schuld.
+Found
+MODSMD_ARTICLE06: Das ist die Demokratie wie sie leibt und lebt.
+Found
+MODSMD_ARTICLE07: Die Preissteigerung in Holland.
+Found
+MODSMD_ARTICLE08: Starke Verärgerung in Frankreich über Schweden.
+Found
+MODSMD_ARTICLE09: Frankreichs Finanzsorgen.
+Found
+MODSMD_ARTICLE10: Das lassen sich die Dänen gefallen.
+Found
+MODSMD_ARTICLE11: Ter Bericht des Oberkommandos der Wehrmacht.
+Found
+MODSMD_ARTICLE12: „Keine Einmütigkeit bei den skandinavischen Staaten."
+Found
+MODSMD_ARTICLE13: Der russische Heeresbericht.
+Found
+MODSMD_ARTICLE14: Vier russische Luftangriffe am Sonnabend vormittag.
+Found
+MODSMD_ARTICLE15: Für volle ägyptische Rechte im Sudan.
+Found
+MODSMD_ARTICLE16: Staatsbegräbnis für Borah.
+Found
+MODSMD_ARTICLE17: M Todesopfer der Kältewelle in USA.
+Found

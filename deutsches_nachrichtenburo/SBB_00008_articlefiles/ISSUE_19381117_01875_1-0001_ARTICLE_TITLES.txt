@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Das Staatsbegräbnis für vom Rath.
+Found
+MODSMD_ARTICLE02: Neues polnisches Pressegesetz.
+Found
+MODSMD_ARTICLE03: Nach der Ebro-Schlacht.
+Found
+MODSMD_ARTICLE04: Die Judenfrage in Holland.
+Found
+MODSMD_ARTICLE05: Juden in Australien unerwünscht.
+Found
+MODSMD_ARTICLE06: Argentinien gegen jede amerikanische Blockbildung.
+Found
+MODSMD_ARTICLE07: Südamerika braucht keine Bevormundung.
+Found

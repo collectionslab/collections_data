@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die Auslandspresse zum Geburtstage des Führers.
+Found
+MODSMD_ARTICLE02: Oesterreichische Arbeiter in Mainfranken.
+Found
+MODSMD_ARTICLE03: Reise Cianos nach London noch nicht akut.
+Found
+MODSMD_ARTICLE04: Polen schützt sich vor marxistischen Radauszenen am 1. Mai.
+Found
+MODSMD_ARTICLE05: Jugendverband „Junges Polen" unter neuer Leitung.
+Found
+MODSMD_ARTICLE06: Bittere Wahrheiten für Prag.
+Found
+MODSMD_ARTICLE07: Das Brot wird teurer in Paris.
+Found
+MODSMD_ARTICLE08: Frankreich und die Tschechoslowakei.
+Found
+MODSMD_ARTICLE09: Ernüchterung in Paris.
+Found
+MODSMD_ARTICLE10: Neue Werkbesetzung in Frankreich.
+Found
+MODSMD_ARTICLE11: Neue Grausamkeiten sowjetspanischer Mordbanditen.
+Found
+MODSMD_ARTICLE12: Die Unruhen in Tunesien.
+Found

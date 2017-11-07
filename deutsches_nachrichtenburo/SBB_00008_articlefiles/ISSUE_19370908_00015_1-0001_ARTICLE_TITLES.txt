@@ -1,0 +1,20 @@
+MODSMD_ARTICLE02: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE03: Ausmarsch der Kolonnen.
+Found
+MODSMD_ARTICLE04: Die Meldung Hierls.
+Found
+MODSMD_ARTICLE05: Die Feierstunde.
+Found
+MODSMD_ARTICLE06: Totenfeier.
+Found
+MODSMD_ARTICLE07: Das Gelöbnis.
+Found
+MODSMD_ARTICLE08: Neichsarbeitsführer Hier!
+Found
+MODSMD_ARTICLE09: Des Führers Dank!
+Found
+MODSMD_ARTICLE10: Der Eindruck der Rede des Führers.
+Found
+MODSMD_ARTICLE11: Nürnberg jubelt den Arbeitsdienstmännern zu.
+Found

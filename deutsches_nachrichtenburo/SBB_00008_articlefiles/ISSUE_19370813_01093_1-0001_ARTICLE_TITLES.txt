@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Große Tanzig-Kundgebung in Stuttgart.
+Found
+MODSMD_ARTICLE02: Deutsch-französische Jugend in Köuigsdsrs.
+Found
+MODSMD_ARTICLE03: Das „Pilsudski-Haus" wird nach Warschau gebracht.
+Found
+MODSMD_ARTICLE04: Polens Ministerpräsident nach Frankreich gereist.
+Found
+MODSMD_ARTICLE06: Die Besichtigungsreise Mussolinis durch Sizilien.
+Found
+MODSMD_ARTICLE07: Die neue estländische Verfassung vor dem Parlament.
+Found
+MODSMD_ARTICLE08: Palästinafrage ermeut vor Genfer Mandatsausschuß.
+Found
+MODSMD_ARTICLE09: Das französische Landvolk gegen Verhetzungsverfuche.
+Found
+MODSMD_ARTICLE10: Der Rückgang der französischen Kohlen- und Erzförderung.
+Found
+MODSMD_ARTICLE11: Roosevelt ernennt Mitglied Obersten Bundesgerichts.
+Found
+MODSMD_ARTICLE12: Mehrere Verhaftungen in Bagdad.
+Found
+MODSMD_ARTICLE13: Französisches Zeitungsgebäude in Tunis überfallen.
+Found
+MODSMD_ARTICLE14: Beginn der Kämpfe um Schanghai.
+Found
+MODSMD_ARTICLE15: Weitere Verstärkung des japanischen Landungskorps.
+Found
+MODSMD_ARTICLE16: Naukau vou den Japanern eingenommen.
+Found
+MODSMD_ARTICLE17: Abflauen der Kämpfe bei Tientsin.
+Found
+MODSMD_ARTICLE18: England schützt den Raum von Schanghai.
+Found
+MODSMD_ARTICLE19: Verstärkung der ausländischen Garnison von Schanghai.
+Found

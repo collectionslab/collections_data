@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ernennung durch den Führer.
+Found
+MODSMD_ARTICLE02: Ehrung des ägyptischen Gesandten durch Ribbentrop.
+Found
+MODSMD_ARTICLE03: Eine Eingabe des Bundes der Polen in Deutschland. –
+Not Found
+MODSMD_ARTICLE04: Angestellte des Osloer Elektrizitätswerkes in Berlin.
+Found
+MODSMD_ARTICLE05: Der Film vom Führerbesuch in Oslo erstaufgeführt.
+Found
+MODSMD_ARTICLE06: Scharfe Zurückweisung verlogener Pressedarstellungen.
+Found
+MODSMD_ARTICLE07: Die aussichtslose Lage der rotspanischen Bolschewisten.
+Found
+MODSMD_ARTICLE08: Eine überaus naive Behauptung!
+Found
+MODSMD_ARTICLE09: Anarchistischer Sabotageakt auf einem Dampfer.
+Found
+MODSMD_ARTICLE10: London berichtet von neuen Luftangriffen.
+Found
+MODSMD_ARTICLE11: Bonnet über die Abkommen von Montreux.
+Found
+MODSMD_ARTICLE12: Offener Brief an Lebrun.
+Found
+MODSMD_ARTICLE13: Wiederaufnahme der Wahleinschreibungen im Sandschak.
+Found
+MODSMD_ARTICLE14: Intervention Washingtons im Konflikt Ekuador—Peru?
+Not Found
+MODSMD_ARTICLE15: Eine neue Verfassung für Bolivien.
+Found
+MODSMD_ARTICLE16: Das erste Urteil im Jntegralistenputsch-Prozeß.
+Found
+MODSMD_ARTICLE17: Neuer Höhenrekord des „Großen Dessauer".
+Found

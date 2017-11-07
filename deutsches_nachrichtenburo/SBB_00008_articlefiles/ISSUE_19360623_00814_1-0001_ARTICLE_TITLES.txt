@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Beileid Dr. Gärtners zum Ableben Bülows.
+Found
+MODSMD_ARTICLE02: Besuch des italienischen Staatssekretärs der Luftfahrt.
+Found
+MODSMD_ARTICLE03: Italienische Ehrung für den Reichsjugendführer.
+Found
+MODSMD_ARTICLE04: Dr. Groß vor den in Berlin studierenden Ausländern.
+Found
+MODSMD_ARTICLE05: Deutsche Wirtschafts-Abordnung für USA.
+Found
+MODSMD_ARTICLE06: Die Zeitungsente vom bestohlenen Polizeikongreß.
+Found
+MODSMD_ARTICLE07: Für deutsch-französische Verständigung.
+Found
+MODSMD_ARTICLE08: Zahlreiche sudetendeutsche Blätter beschlagnahmt.
+Found
+MODSMD_ARTICLE09: Königsgeburtstagsfeiern im Britischen Weltreich.
+Found
+MODSMD_ARTICLE10: Französische Besorgnis über die Entwicklung. –
+Not Found
+MODSMD_ARTICLE11: Rote Fahnen im Hafen von Marseille.
+Found
+MODSMD_ARTICLE12: Pariser Polizei verweigert Hilfe gegen die Streikenden.
+Found
+MODSMD_ARTICLE13: Nichtöffentliche Sitzung in Montreux.
+Found
+MODSMD_ARTICLE14: Wiederaufnahme der Arbeit in Belgien am Mittwoch?
+Found
+MODSMD_ARTICLE15: Ausnahmezustand auf der Straße Jerusalem—Jaffa.
+Not Found
+MODSMD_ARTICLE16: Jüdische Schadensaufstellung über die Palästina-Unruhen»
+Found
+MODSMD_ARTICLE17: Konflikt im argentinischen Parlament.
+Found

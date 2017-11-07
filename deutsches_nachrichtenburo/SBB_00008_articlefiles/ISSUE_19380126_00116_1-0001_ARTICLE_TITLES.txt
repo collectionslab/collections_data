@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ehrung durch den Führer.
+Found
+MODSMD_ARTICLE02: Der Besuch Gauleiter Bohles in Budapest.
+Found
+MODSMD_ARTICLE03: Weitere Würdigungen der Bohle-Rede.
+Found
+MODSMD_ARTICLE04: Abwehrbewegung gegen die jüdische Ueberfremdung.
+Found
+MODSMD_ARTICLE05: Empfang beim polnischen Justizminister.
+Found
+MODSMD_ARTICLE06: Ulrych rühmt die Güte des deutschen Eisenbahnmaterials.
+Found
+MODSMD_ARTICLE07: „Jugendliche Verblendung" bei den Slowaken.
+Found
+MODSMD_ARTICLE08: Nach den Sudetendeutschen auch die Oesterreicher.
+Found
+MODSMD_ARTICLE09: Starke Zunahme der Auswanderung aus Oesterreich.
+Found
+MODSMD_ARTICLE10: Stojadinowitsch reist zur Balkanbundtagung nach Ankara.
+Found
+MODSMD_ARTICLE11: Das griechische Thronfolgerpaar bei Kronprinz Umberto.
+Found
+MODSMD_ARTICLE12: Genfer „Jubiläum": Eine Tagung der Vertagungen!
+Found
+MODSMD_ARTICLE13: Pariser Luftschutz ungenügend.
+Found
+MODSMD_ARTICLE14: Zwei Bombenangriffe auf Barcelona.
+Found
+MODSMD_ARTICLE15: Stetes Vordringen der Nationalen an der Teruel-Front.
+Found
+MODSMD_ARTICLE16: Die italienischen Südamerikaflieger am Ziel.
+Found

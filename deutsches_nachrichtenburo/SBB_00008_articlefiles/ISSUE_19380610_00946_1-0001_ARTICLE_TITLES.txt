@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Tie Landesgruppe Oesterreich der AO. aufgelöst.
+Found
+MODSMD_ARTICLE02: Ehrenpreis Dr. Fricks für die Berliner Ruderregatta.
+Found
+MODSMD_ARTICLE03: Spielleiter Ritter Präsidialrat der Reichsfilmkammer.
+Found
+MODSMD_ARTICLE04: Grundsteinlegung zum Haus des Fremdenverkehrs.
+Found
+MODSMD_ARTICLE05: Spenden der Wehrmacht zum Winterhilsswerk 1937/38.
+Found
+MODSMD_ARTICLE06: Keine Augrifssabsichteu Perus gegen Ekuador.
+Found
+MODSMD_ARTICLE07: Ley eröffnet Kunstausstellung auf der KdF.-Reichstagung.
+Found
+MODSMD_ARTICLE08: Nationalsozialistische Akademie der Wissenschaft.
+Found
+MODSMD_ARTICLE09: Zwischenfälle in Preßburg.
+Found
+MODSMD_ARTICLE10: Prag als Operationsbasis der bolschewistischen Welthetze.
+Found
+MODSMD_ARTICLE11: Englands größte Sorge bei seiner Aufrüstung.
+Found
+MODSMD_ARTICLE12: Das Birminghamer „Schattenwerk" völlig stillgelegt.
+Found
+MODSMD_ARTICLE13: Französischer Ministerrat über außenpolitische Fragen.
+Found
+MODSMD_ARTICLE14: Sitzstreik in der staatlichen französischen Münze.
+Found
+MODSMD_ARTICLE15: Weiterer Vormarsch der nationalen Truppen.
+Found
+MODSMD_ARTICLE16: Umfall des Genfer Sandschak-Ausschusses. –
+Not Found

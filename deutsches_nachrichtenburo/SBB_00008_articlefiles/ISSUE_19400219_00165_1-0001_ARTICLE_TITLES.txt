@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ein neuer Fall „Baralong"
+Found
+MODSMD_ARTICLE02: Englische Gefangene danken.
+Found
+MODSMD_ARTICLE03: Ein neuer Fall britischen Mordes
+Found
+MODSMD_ARTICLE04: Panamerikanische Aktion gegen England?
+Found
+MODSMD_ARTICLE05: Brasiliens Protest
+Found
+MODSMD_ARTICLE06: Der deutsche Sozialismus marschiert.
+Found
+MODSMD_ARTICLE07: Wie Churchill sich den „ewigen Weltfrieden" vorstellt.
+Found
+MODSMD_ARTICLE08: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE09: Einheitsfront aller Iren gegen die britische Gewalt.
+Found
+MODSMD_ARTICLE10: 32 Schiffe mit 128174 BRT in einer Woche
+Found
+MODSMD_ARTICLE11: Der Caudillo im Minengebiet von Puerto Llano.
+Found
+MODSMD_ARTICLE12: Deutsche Buchausstellung in Sofia verlängert.
+Found
+MODSMD_ARTICLE13: Ein rumänisches Außenhandelsministerium errichtet.
+Found
+MODSMD_ARTICLE14: „Wer im Geleit fährt, begeht Nechtsüruch!"
+Found
+MODSMD_ARTICLE15: Englische Handelsspionage-Organisation in Uruguay.
+Found
+MODSMD_ARTICLE16: Französische Schikane gegen Japan.
+Found
+MODSMD_ARTICLE17: „Herausfordernd und unfreundlich."
+Found
+MODSMD_ARTICLE18: Volksschädliug hingerichtet.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Dr. Goebbels bei der Hamlet-Aufführung.
+Found
+MODSMD_ARTICLE02: Besuch General Keitels in Budapest.
+Found
+MODSMD_ARTICLE03: Deutsch-niederländischer Bertrag über GrenZveräuderungen.
+Found
+MODSMD_ARTICLE04: Schirach eröffnet die HJ.-Festspiele.
+Found
+MODSMD_ARTICLE05: Tausend österreichische Jugeudsührer in München.
+Found
+MODSMD_ARTICLE06: Heulein dankt den Sudetendeutschen für ihr Vertrauen.
+Found
+MODSMD_ARTICLE07: Jetzt ist die Reihe an Prag!
+Found
+MODSMD_ARTICLE08: „Gemeinsame Front gegen Prag."
+Found
+MODSMD_ARTICLE09: Besprechungen bei Mussolini.
+Found
+MODSMD_ARTICLE10: Castellon genommen.
+Found
+MODSMD_ARTICLE11: „Männer, Greise, Kinder, Frauen alles an die Front!"
+Found
+MODSMD_ARTICLE12: Fabry über die „Fehler" Frankreichs.
+Found
+MODSMD_ARTICLE13: Doriot über die französische Außenpolitik.
+Found
+MODSMD_ARTICLE14: Japaner 200 Kilometer vor Hankau.
+Found
+MODSMD_ARTICLE15: Riesige Ueberschwemmnngen sollen die Japaner aufhalten.
+Found

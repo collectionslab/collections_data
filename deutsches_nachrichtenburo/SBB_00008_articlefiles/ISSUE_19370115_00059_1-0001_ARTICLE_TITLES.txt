@@ -1,0 +1,48 @@
+MODSMD_ARTICLE01: Der Führer beim Konzert des Lehrergesangvereins.
+Found
+MODSMD_ARTICLE02: Frühstück für Gorma auf der deutschen Botschaft.
+Found
+MODSMD_ARTICLE03: Teutschlands Teilnahme zum Tode von Frau Celmins.
+Found
+MODSMD_ARTICLE04: Lauterbacher über die Heimbeschaffungsaktion der HJ.
+Found
+MODSMD_ARTICLE05: Eden und Hoare bei Baldwin.
+Found
+MODSMD_ARTICLE06: Eden reist nach Genf.
+Found
+MODSMD_ARTICLE07: Tie Besprechung des Domimenmmisters mit de Valera.
+Found
+MODSMD_ARTICLE08: Fran9ois-Poncet bei Lebrun.
+Found
+MODSMD_ARTICLE09: Herriots Rede als wiedergewählter Kammerpräsident.
+Found
+MODSMD_ARTICLE10: Senatspräsident Jeanneney wiedergewählt.
+Found
+MODSMD_ARTICLE11: Französischer Botschafterwechsel in Washington.
+Found
+MODSMD_ARTICLE12: Die Bank von Frankreich im Dienste des Bolschewismus.
+Found
+MODSMD_ARTICLE13: Arbeitstagung der „Fipresci" in Wien.
+Found
+MODSMD_ARTICLE14: Kommunistenrazzia in Wien.
+Found
+MODSMD_ARTICLE15: Keine Auslandsreise des griechischen Königs.
+Found
+MODSMD_ARTICLE16: Neuer großer Erfolg Francos.
+Found
+MODSMD_ARTICLE17: Katalonien unter sowjetrussischer Knute!
+Found
+MODSMD_ARTICLE18: Neue sowjetische Lieferungen an die Spanienbolschewisten.
+Found
+MODSMD_ARTICLE19: Anarchisten warnen vor Verhaftung der Mörder Jagues.
+Found
+MODSMD_ARTICLE20: Holländische Werber unter Anklage.
+Found
+MODSMD_ARTICLE21: Polnische Schulbehörde schließt litauisches Gymnasium.
+Found
+MODSMD_ARTICLE22: Der rote Dampfer „Mar Cantabrico" in Veracruz.
+Found
+MODSMD_ARTICLE23: Kommunisten ans brasilianischer Polizeihaft entflohen.
+Found
+MODSMD_ARTICLE24: Der Streik in der amerikanischen Automobilindustrie.
+Found

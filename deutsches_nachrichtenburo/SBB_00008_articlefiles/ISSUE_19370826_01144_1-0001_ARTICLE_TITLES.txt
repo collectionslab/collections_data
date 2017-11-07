@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Große Freudenskundgebung in Sevilla.
+Found
+MODSMD_ARTICLE02: 46 VW Mann der bolschewistischen Miliz abgeschnitten.
+Found
+MODSMD_ARTICLE03: Rom feiert den Fall Santanders als bedeutsames Ereignis.
+Found
+MODSMD_ARTICLE04: Tie Lage in Santander vor dem Einmarsch der Nationalen.
+Found
+MODSMD_ARTICLE05: „Diebstahl für Kommunisten nichts Ehrenrühriges!"
+Found
+MODSMD_ARTICLE06: Horthy wieder völlig genesen.
+Found
+MODSMD_ARTICLE07: Schwedens Außenminister in Warschau.
+Found
+MODSMD_ARTICLE08: Die Möglichkeiten eines Ausgleichs Lissabon—Prag.
+Not Found
+MODSMD_ARTICLE09: Der polnische Ministerpräsident bei Chautemps
+Found
+MODSMD_ARTICLE10: Die Vertreter Chinas und Sowjetspaniens bei Delbos.
+Found
+MODSMD_ARTICLE11: Im Zeichen des Sowjetpaktes.
+Found
+MODSMD_ARTICLE12: Die Unruhen auf dem Schlachtschiff „Warspite".
+Found
+MODSMD_ARTICLE13: Wie die Sowjetbonzen leben.
+Found
+MODSMD_ARTICLE14: Mutige Haltung der Deutschen in Schanghai.
+Found
+MODSMD_ARTICLE15: China zum britischen Neutralitätsvorschlag.
+Found
+MODSMD_ARTICLE16: Silberflucht aus Kanton.
+Found
+MODSMD_ARTICLE17: Wie es Zu den Unruhen auf Jnagua kam.
+Found
+MODSMD_ARTICLE18: Die Reform der unteren Bundesgerichte.
+Found
+MODSMD_ARTICLE19: Die Freigabe beschlagnahmten ausländischen Eigentums.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Führer beim Stapellauf des Schlachtschiffes „(5".
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Schwedischer Sonderbereitschaftsetat für den Kriegsfall.
+Found
+MODSMD_ARTICLE04: Kommunistische Organisation in Griechenland ausgehoben»
+Found
+MODSMD_ARTICLE05: Notspaniens Vertreter in Bukarest spurlos verschwunden.
+Found
+MODSMD_ARTICLE06: Die Vorteile des deutsch-rumäüischen Handelsvertrages.
+Found
+MODSMD_ARTICLE07: Die Rückgabe der spanischen .Kunstschätze.
+Found
+MODSMD_ARTICLE08: Queipo de Llano in Inen.
+Found
+MODSMD_ARTICLE09: Miaja will nach Aegypten.
+Found
+MODSMD_ARTICLE10: Lebrum soll sich wiederwählen lassen.
+Found
+MODSMD_ARTICLE11: Die neueste Flugzeugbestellung Frankreichs in USA.
+Found
+MODSMD_ARTICLE12: London zur Rede Mussolinis in Cosenca.
+Found
+MODSMD_ARTICLE13: Aegypten kann der „demokratischen Front" nicht beitreten!
+Found
+MODSMD_ARTICLE14: 12 statt 18 Peitschenhiebe.
+Found
+MODSMD_ARTICLE15: „Die logische Folge des Antikomintern-Abkommens."
+Found
+MODSMD_ARTICLE16: Einkreisungsversuche gegen Japan in Fernost.
+Found
+MODSMD_ARTICLE17: Vor einer Gegenoffensive Tschiangkaischeks in Nordchina?
+Found
+MODSMD_ARTICLE18: Wird Brasilien durch die USA.-Bamnwollpolitik geschädigt?
+Found
+MODSMD_ARTICLE19: 299 999 t argentinisches Getreide nach Spanien verschifft.
+Found
+MODSMD_ARTICLE20: Der Kampf um Roosevelts Nachfolge.
+Found

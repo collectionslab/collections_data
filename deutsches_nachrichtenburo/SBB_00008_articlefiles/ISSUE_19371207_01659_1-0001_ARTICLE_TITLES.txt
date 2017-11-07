@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: 20 Jahre unabhängiges Finnland. Eine Feierstunde.
+Found
+MODSMD_ARTICLE02: Schwedische Ehrungen für den Reichsinnenminister.
+Found
+MODSMD_ARTICLE03: Unterhauserklärung zur Umbesetzung im Armeerat.
+Found
+MODSMD_ARTICLE04: Eden gibt die Räubereien der spanischen Bolschewisten zu.
+Found
+MODSMD_ARTICLE05: Bulgarischer Ministerrat. Keine Regierungsumbildung.
+Found
+MODSMD_ARTICLE06: Wieder Fabrikbesetzung in Paris»
+Found
+MODSMD_ARTICLE07: Polnische Studenten halten Universität Lemberg besetzt.
+Found
+MODSMD_ARTICLE08: Trinksprüche Mussolini—Stojadinowitsch.
+Not Found
+MODSMD_ARTICLE09: Die römische Abendmesse zum Besuch von Stojadinowitsch.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: „Kamps gegem die Zeitungslüge."
+Found
+MODSMD_ARTICLE02: Kurzer Aufenthalt Ribbentrops in London.
+Found
+MODSMD_ARTICLE03: Der frühere Präsident Hoover in Berlin.
+Found
+MODSMD_ARTICLE04: Richtlinien für das deutsche Handwerk.
+Found
+MODSMD_ARTICLE06: Aussprache im polnischen Senat.
+Found
+MODSMD_ARTICLE07: Der Zweite „Wauderlumd"-Prozeß W'KattMitz.
+Found
+MODSMD_ARTICLE08: Em neues Verbrechen der GPU?
+Found
+MODSMD_ARTICLE09: Der polnische Außenminister von Mussolini empfangen.
+Found
+MODSMD_ARTICLE10: Beschlüsse des rumänischen Ministerrats.
+Found
+MODSMD_ARTICLE11: Der Stand der Arbeitslosigkeit in England.
+Found
+MODSMD_ARTICLE12: Der britische Marineminister erkrankt.
+Found
+MODSMD_ARTICLE13: Kommerzienrat Or. k. c. Scheerer st.
+Found

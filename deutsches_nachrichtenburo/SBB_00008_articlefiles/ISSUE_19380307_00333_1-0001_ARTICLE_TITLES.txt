@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr. Sciß-Inauart spricht in Linz.
+Found
+MODSMD_ARTICLE02: Erziehung der Jugend in der Idee des Vaterlandes.
+Found
+MODSMD_ARTICLE03: „Die Tschechoslowakei eine kommunistische Festung."
+Found
+MODSMD_ARTICLE04: Indische Zeitung verteidigt kommunistischen Verbrecher.
+Found
+MODSMD_ARTICLE05: Gesandter Mastny bei Dr. Benesch.
+Found
+MODSMD_ARTICLE06: Hoover Dr. Phil. h. c. der Universität Prag.
+Found
+MODSMD_ARTICLE07: „Karrenweise in den Tod geschickt."
+Found
+MODSMD_ARTICLE08: Die „Bearbeitung" Krestinskis durch die GPU.
+Found
+MODSMD_ARTICLE09: Internationale Automobilausstellung in Belgrad.
+Found
+MODSMD_ARTICLE10: Oberst Beck in Rom eingetroffen.
+Found
+MODSMD_ARTICLE11: Die Vorlage über die Verteidigungskasse angenommen.
+Found

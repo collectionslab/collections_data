@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der erste Nechtswahrertag Grotzdeutschlands.
+Found
+MODSMD_ARTICLE02: Dr. Frank empfing spanische Ehrengäste.
+Found
+MODSMD_ARTICLE03: „Ciano Vorkämpfer der Politik der Achse."
+Found
+MODSMD_ARTICLE04: Abschluß der Inspektionsreise des Führers.
+Found
+MODSMD_ARTICLE05: Die „Liberte" stellt ihr Erscheinen ein.
+Found
+MODSMD_ARTICLE06: Japan zur Lage auf der Insel Kulangsu.
+Found
+MODSMD_ARTICLE07: Amerika baut 23 neue Kriegsschiffe.
+Found
+MODSMD_ARTICLE08: Das Mordsyndikat wollte Typhusbazillen kaufen.
+Found

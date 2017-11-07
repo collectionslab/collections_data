@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Dr. Goebbels 40 Jahre alt.
+Found
+MODSMD_ARTICLE02: Neuordnung des Volksbüchereiwesens.
+Found
+MODSMD_ARTICLE03: Dem Gedenken treuer Seieleute.
+Found
+MODSMD_ARTICLE04: Dr. Ley eröffnet die Arbeitskammer Düsseldorf.
+Found
+MODSMD_ARTICLE05: Tagung der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE06: Glückwunsch des Führers zum türkischen Nationaltag.
+Found
+MODSMD_ARTICLE07: Auszeichnung der Tüchtigsten der Nation durch den Duce.
+Found
+MODSMD_ARTICLE08: Roms Presse zum großen Appell der Politischen Leiter.
+Found

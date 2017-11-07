@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Der Führer bei den Siegern von Warschau.
+Found
+MODSMD_ARTICLE02: Das Ergebnis unserer Luftabwehr im September.
+Found
+MODSMD_ARTICLE03: Die Reichstagserklärung auf allen Sendern.
+Found
+MODSMD_ARTICLE04: Das Siegesläutcn am Tag der Führerrede.
+Found
+MODSMD_ARTICLE05: Kriegsprobleme im Mutterland des Kapitalismus.
+Found
+MODSMD_ARTICLE06: Gedrückte Stimmung in Frankreich.
+Found
+MODSMD_ARTICLE07: Folgen der rücksichtslosen britischen Blockade.
+Found
+MODSMD_ARTICLE08: Daladier über die Kriegsziele Frankreichs.
+Found
+MODSMD_ARTICLE09: Lord Halifax vor dem Oberhaus.
+Found
+MODSMD_ARTICLE10: Die Ritterlichkeit der deutschen U-Boot-Besatzungen.
+Found
+MODSMD_ARTICLE11: England leidet unter den Auswirkungen des Krieges.
+Found
+MODSMD_ARTICLE12: Wie Englands Blockade die Wirtschaft der Neutralen stört.
+Found
+MODSMD_ARTICLE13: Dänische Einfuhrfirmen protestieren. «
+Found
+MODSMD_ARTICLE14: Wie die Engländer in Frankreich empfangen werden.
+Found
+MODSMD_ARTICLE15: Athener Zeitung lobt Entgegenkommen deutscher Behörden.
+Found
+MODSMD_ARTICLE16: Auch Island hat vom englischen Pfund genug.
+Found
+MODSMD_ARTICLE17: Die national-arabische Bewegung marschiert.
+Found
+MODSMD_ARTICLE18: Zweierlei Moral amerikanischer Vereinsschwestern.
+Found
+MODSMD_ARTICLE19: Scharfe Abfuhr für MacMillans Reklamemethoden,
+Found
+MODSMD_ARTICLE20: Britische Seeräubermethoden.
+Found
+MODSMD_ARTICLE21: Aegyptens Baumwollkrise läßt England völlig kalt.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Das Weltecho der Führerrede. Ungarn
+Found
+MODSMD_ARTICLE02: Jugoslawien
+Found
+MODSMD_ARTICLE03: Schweden
+Found
+MODSMD_ARTICLE04: Türkei
+Found
+MODSMD_ARTICLE05: Ernennungen durch den Führer.
+Found
+MODSMD_ARTICLE06: Der Gouverneur von Rom in der Reichshauptstadt.
+Found
+MODSMD_ARTICLE07: Der slowakische Gesandte am Ehrenmal.
+Found
+MODSMD_ARTICLE08: Schwerer Kreuzer „Admiral Hipper" in Dienst gestellt.
+Found
+MODSMD_ARTICLE09: Schlesische Luftwaffe der Luftflotte IV zugeteilt.
+Found
+MODSMD_ARTICLE10: An der Bahre Bernhard Köhlers.
+Found
+MODSMD_ARTICLE11: „Einmütigkeit Zwischen Deutschland und Jugoslawien."
+Found
+MODSMD_ARTICLE12: Eine berechtigte Forderung im Brüsseler Senat.
+Found
+MODSMD_ARTICLE13: Der sowjetrussische Botschafter bei Halifax.
+Found
+MODSMD_ARTICLE14: Peinlich, Herr Roosevelt, höchst peinlich!
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Juden dürfen keine Uniform tragen.
+Found
+MODSMD_ARTICLE02: Pirow bei der Lustwaffe in Schwerin.
+Found
+MODSMD_ARTICLE03: Frühstück zu Ehren Pirows.
+Found
+MODSMD_ARTICLE04: Weltjudentum Zwingt England auf die Knie«
+Found
+MODSMD_ARTICLE06: Dr. Goebbels in Reichenberg.
+Found
+MODSMD_ARTICLE07: Englische Ausregung ganz überflüssig.
+Found
+MODSMD_ARTICLE08: Prinzregent Paul besucht den König von England.
+Found
+MODSMD_ARTICLE09: Die Antonomieentwürfe vom Parlament angenommen.
+Found
+MODSMD_ARTICLE10: Begrüßung der „Emden"-Ehrenabordnung in Ankara.
+Found
+MODSMD_ARTICLE11: Neue Versammlungshalle für die Deutschen Schanghais»
+Found

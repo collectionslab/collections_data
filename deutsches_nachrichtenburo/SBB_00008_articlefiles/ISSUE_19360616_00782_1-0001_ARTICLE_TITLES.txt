@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Trlcgrammwechsel zwischen dem Führer und Rosenberg.
+Found
+MODSMD_ARTICLE02: Hohe Auszeichnung Dr. Schachts in Sofia.
+Found
+MODSMD_ARTICLE03: Tagung der deutschen Akademie für Bauforschung.
+Found
+MODSMD_ARTICLE04: Berlins Zeitschriftenverleger tagen.
+Found
+MODSMD_ARTICLE05: Italien erwartet Vorbehaltlose Abschaffung der Sanktionen.
+Found
+MODSMD_ARTICLE06: Neue italienische Abessinienschrift an den Völkerbund.
+Found
+MODSMD_ARTICLE07: Französischer Antrag auf Aufhebung der Sanktionen.
+Found
+MODSMD_ARTICLE08: Französischer Kabinettsrat am Mittwoch.
+Found
+MODSMD_ARTICLE09: Eine Erklärung Delbos.
+Found
+MODSMD_ARTICLE10: Neuer Vorsitzender des auswärtigen Kammerausschusses.
+Found
+MODSMD_ARTICLE11: Lord Ponsonby gegen Baldwin.
+Found
+MODSMD_ARTICLE12: Keine Abwertungsabsichten in der Schweiz.
+Found
+MODSMD_ARTICLE13: Die „Reichspost" über die Habsburger Frage.
+Found
+MODSMD_ARTICLE14: Vizekanzler Baar-Barenfels über die Frontmiliz.
+Found
+MODSMD_ARTICLE15: Ueberfall auf den Sender Jerusalem.
+Found
+MODSMD_ARTICLE16: 13 Jahre Zuchthaus für einen Massenbrandstifter.
+Found
+MODSMD_ARTICLE17: Berichtigung.
+Found

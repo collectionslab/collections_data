@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Führer ehrt die Fallschirm- und Luftlandetruppen.
+Found
+MODSMD_ARTICLE02: Das Ritterkreuz für Hauptmann Jngenhoven.
+Found
+MODSMD_ARTICLE03: Zwei Forts der Festung Namur genommen.
+Found
+MODSMD_ARTICLE04: Nutzloser Widerstand der restlichen Lüttich-Forts.
+Found
+MODSMD_ARTICLE05: Der Widerhall der holländischen Kapitulation.
+Found
+MODSMD_ARTICLE06: Die Dyle-Mellung erreicht.
+Found
+MODSMD_ARTICLE07: Studentendemonstrationen vor französischem Konsulat.
+Found
+MODSMD_ARTICLE08: Kurssturz an der Neuyorker Börse.
+Found

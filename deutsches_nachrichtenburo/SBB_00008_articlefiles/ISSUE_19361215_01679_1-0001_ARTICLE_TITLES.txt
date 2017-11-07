@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Feierstunde zu Ehren Svinhufvuds im Berliner Schloß.
+Found
+MODSMD_ARTICLE03: In den Volksgerichtshof berufen.
+Found
+MODSMD_ARTICLE04: Verschärfung der Streiklage in Lille.
+Found
+MODSMD_ARTICLE05: Portugals Pariser Gesandtschaft gegen haltlose Gerüchte.
+Found
+MODSMD_ARTICLE06: Französisch-schwedische Handelsvertragsverhandlungen.
+Found
+MODSMD_ARTICLE07: Internationale Bvmbenflugzeugbesabung abgeschossen.
+Found
+MODSMD_ARTICLE08: Norwegen will ein Kriegsschiff ins Mittelmecr entsenden.
+Found
+MODSMD_ARTICLE09: Frankreichs Standpunkt im Sandschak-Streit.
+Found
+MODSMD_ARTICLE10: Tie neue sowjetrussische Luftausrüstung.
+Found
+MODSMD_ARTICLE11: Sowjetrussische Jugend!
+Found

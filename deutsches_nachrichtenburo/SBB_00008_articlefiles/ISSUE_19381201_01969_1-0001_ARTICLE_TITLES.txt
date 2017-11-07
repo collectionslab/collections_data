@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ernennungen im Reichsernährnngsministerium.
+Found
+MODSMD_ARTICLE02: Lehrgang für sudetendeutsche Finanzbeamte.
+Found
+MODSMD_ARTICLE03: Eine bodenlose jüdische Frechheit.
+Found
+MODSMD_ARTICLE04: Beran übernimmt Negierungsneubildung.
+Found
+MODSMD_ARTICLE05: Deutsche Hochschultätigkeit in Prag und Brünn unbehindert.
+Found
+MODSMD_ARTICLE06: Deutschlands angeblicher Drang nach dem Osten.
+Found
+MODSMD_ARTICLE07: Der internationale Jude am Werk.
+Found
+MODSMD_ARTICLE08: Minister Pirow in Brüssel.
+Found
+MODSMD_ARTICLE09: Die Elsässer wehren sich gegen jüdische Frechheit.
+Found
+MODSMD_ARTICLE10: Starke Beachtung der Rede Graf Ciauos in London.
+Found
+MODSMD_ARTICLE11: Italien tritt dem Londoner Flottenabkommen bei.
+Found
+MODSMD_ARTICLE12: Die Achsenmächte sind unzertrennlich.
+Found
+MODSMD_ARTICLE13: Jüdische Emigranten treiben Gaunernnwescn in Finnland.
+Found
+MODSMD_ARTICLE14: Fortsetzung der „Säuberungsaltionen".
+Found
+MODSMD_ARTICLE15: Tötung eines Arabers durch englische Militärstreife?
+Found
+MODSMD_ARTICLE16: Aus dem Wege zur Einheitspartei.
+Found
+MODSMD_ARTICLE17: Stärkster Eindruck der Botschaft Görings in Japan.
+Found
+MODSMD_ARTICLE18: Peking-Regierung würdigt den Flug der „Condor".
+Found
+MODSMD_ARTICLE19: Neues Pressegesetz in Brasilien.
+Found

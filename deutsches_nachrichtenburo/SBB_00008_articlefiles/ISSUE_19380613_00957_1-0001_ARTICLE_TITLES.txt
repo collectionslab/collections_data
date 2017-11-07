@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Große Festveranstaltung in Hamburg.
+Found
+MODSMD_ARTICLE02: Weihe eines U-Boot-Ehrenmals an der Kieler Förde.
+Found
+MODSMD_ARTICLE03: 88—188 v. H. für die Sudeiendeutsche Partei.
+Found
+MODSMD_ARTICLE04: Wahlbetrug in Jglau festgestellt.
+Found
+MODSMD_ARTICLE05: Ausschreitungen von Tschechen und Kommunisten.
+Found
+MODSMD_ARTICLE06: Unglaublicher Wahlterror tschechischer Soldaten.
+Found
+MODSMD_ARTICLE07: Fünf Ungarn in der Tschechoslowakei mißhandelt.
+Found
+MODSMD_ARTICLE08: Wahlschwindel in Preßburg.
+Found
+MODSMD_ARTICLE09: Die Türkei meldet ihre Forderngen an.
+Found

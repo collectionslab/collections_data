@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der 9. November 1936.
+Found
+MODSMD_ARTICLE02: Nächtliche Feierstunde an der Feldherrnhalle.
+Found
+MODSMD_ARTICLE03: Der Schwur der Treue.
+Found
+MODSMD_ARTICLE04: Der Führer spricht.
+Found
+MODSMD_ARTICLE05: Lordmayors-Bankett. Außenpolitische Rede Baldwins.
+Found
+MODSMD_ARTICLE06: Polnische Note an Danzig.
+Found
+MODSMD_ARTICLE07: Polnisches Blatt fordert Direktorstelle bei Bank von DanMg.
+Found
+MODSMD_ARTICLE08: „Giornale d'Atalia" zur Wiener Dreierkonferenz.
+Found
+MODSMD_ARTICLE09: Madrider Regierung seist London vom Umzug in Kenntnis.
+Found
+MODSMD_ARTICLE10: Die Kabinettsbildung in Albanien.
+Found

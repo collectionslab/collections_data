@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: SdP erstrebt einen ehrlichen Frieden im Innern.
+Found
+MODSMD_ARTICLE02: Ein Weihbuch über den britischen Freiwilligenplan.
+Found
+MODSMD_ARTICLE04: Die Auswirkungen des englisch-irischen Vertrages.
+Found
+MODSMD_ARTICLE05: Malta soll eine „freiere Verfassung" erhalten.
+Found
+MODSMD_ARTICLE06: Das „Reserven"-Gesetz vor dem Oberhaus.
+Found
+MODSMD_ARTICLE07: Der englische Botschafter in Rom bei Graf Ciano.
+Found
+MODSMD_ARTICLE08: Kritik der Oslo-Staaten an Genf.
+Found
+MODSMD_ARTICLE09: Der deutsche Botschafter in Paris bei Bannet.
+Found
+MODSMD_ARTICLE10: Volksfront hat neue Ankurbelungspläne.
+Found
+MODSMD_ARTICLE11: So sieht es in Spanien aus!
+Found
+MODSMD_ARTICLE12: Der griechische Justizmimster zurückgetreten.
+Found

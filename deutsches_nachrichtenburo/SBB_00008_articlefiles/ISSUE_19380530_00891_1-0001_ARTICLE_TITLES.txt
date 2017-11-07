@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Abschluß der /^ID.-Taguug.
+Found
+MODSMD_ARTICLE02: Empfang bei Reichsminister Dr. Frank.
+Found
+MODSMD_ARTICLE03: Kameradschaftsabend des Auswärtigen Amtes.
+Found
+MODSMD_ARTICLE04: Die Reichskolomaltagung in Bremen.
+Found
+MODSMD_ARTICLE06: Nosenberg ehrt Ulrich von Hutten.
+Found
+MODSMD_ARTICLE07: Einweihung der Hochschule für Lehrerbildung in Lauenburg.
+Found
+MODSMD_ARTICLE08: Das 4. Nordmarktreffen in Kiel.
+Found
+MODSMD_ARTICLE09: Polen gegen die tschechischen Militärmaßnahmen.
+Found
+MODSMD_ARTICLE10: Rom begrüßt das deutsch-italienische Wirtschaftsabkommen.
+Found
+MODSMD_ARTICLE11: Haushaltsaussprache im italienischen Senat.
+Found
+MODSMD_ARTICLE12: Negern will die Empörung des Volkes niederknüppeln.
+Found
+MODSMD_ARTICLE13: Neue Regierung in Bolivien.
+Found
+MODSMD_ARTICLE14: Amerika schlägt Begrenzung des Schiffsgeschützkanbers vor.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Weitere Empfänge beim Führer und Reichskanzler.
+Found
+MODSMD_ARTICLE02: Ein Aufruf für die Spanien-Flüchtlinge.
+Found
+MODSMD_ARTICLE03: Ehrengabe für versorgungsberechtigte Frontkämpfer.
+Found
+MODSMD_ARTICLE04: Steinwartz, stellvertretender Reichsamtsleiter.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Die Hilfe deutscher Kriegsschiffe für die Flüchtlinge.
+Found
+MODSMD_ARTICLE07: Das Blutbad Von Madrid.
+Found
+MODSMD_ARTICLE08: Freiwillige für die marxistische Miliz.
+Found
+MODSMD_ARTICLE09: Madrid meldet zufriedenstellende Erfolge.
+Found
+MODSMD_ARTICLE10: Havas schildert die Lage im Norden Spaniens.
+Found
+MODSMD_ARTICLE11: Schlechte Lage der Madrider Regierung? 1
+Found
+MODSMD_ARTICLE12: Die marxistische Hetzarbeit in Frankreich.
+Found
+MODSMD_ARTICLE13: Der „Temps" auch für Neutralität Sowjetrußlands.
+Found
+MODSMD_ARTICLE14: Die Beschlagnahme der italienischen Flugzeuge.
+Found
+MODSMD_ARTICLE15: Neue spanische Goldsendung für Paris.
+Found
+MODSMD_ARTICLE16: Ergebenheitserklärung Ras Sejums für Italien.
+Found
+MODSMD_ARTICLE17: Schwierigkeiten der britisch-ägyptischen Verhandlungen.
+Found

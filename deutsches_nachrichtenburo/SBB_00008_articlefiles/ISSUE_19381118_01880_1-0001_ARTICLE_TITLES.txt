@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Italiens gesunde Kolomalpoliiik.
+Found
+MODSMD_ARTICLE02: Wor der Wahl im Sudetengau.
+Found
+MODSMD_ARTICLE03: Fünf Jahre Rassepolitisches Amt der NSDAP.
+Found
+MODSMD_ARTICLE04: Lettland feiert sein Mjähriges StaatÄjnbiläum.
+Found
+MODSMD_ARTICLE05: Kein Muniiionsministerium in England.
+Found
+MODSMD_ARTICLE06: Die England-Reise deutscher Wirtschastsschriftleiter.
+Found
+MODSMD_ARTICLE07: Bei der Pilotenprüsung tödlich abgestürzt.
+Found
+MODSMD_ARTICLE08: Abdul Nazik über den Kampf der Araber um ihr Recht.
+Found
+MODSMD_ARTICLE09: Englands Hungerpeitsche in Palästina.
+Found
+MODSMD_ARTICLE11: Jetzt auch Unruhen in Transjordauieu.
+Found
+MODSMD_ARTICLE12: Antikommunistische Aktion in China.
+Found

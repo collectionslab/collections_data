@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Deutschlands Dank für britische Bemühungen.
+Found
+MODSMD_ARTICLE02: Staatssekretär Funk zur Berufsgerichtsbarkeit der Presse.
+Found
+MODSMD_ARTICLE03: 59. Geburtstag des verstorbenen Generalleutnants Weder.
+Found
+MODSMD_ARTICLE04: Jüdische Emigranten im österreichischen Kunstleben.
+Found
+MODSMD_ARTICLE05: Eine Einladung nach Moskau von Delbos abgelehnt?
+Found
+MODSMD_ARTICLE06: Belgische Regierungsbildung vertagt.
+Found
+MODSMD_ARTICLE07: „Petit Journal": Skandal um Leon Blum.
+Found
+MODSMD_ARTICLE08: Zwischenfall am Londoner Kenotaph.
+Found
+MODSMD_ARTICLE09: Abkommen von Nyon in Kraft gesetzt.
+Found
+MODSMD_ARTICLE10: Bombenexplosion vor dem Dubliner Schloß.
+Found
+MODSMD_ARTICLE11: Einsparungen im amerikanischen Staatshaushalt.
+Found
+MODSMD_ARTICLE12: Der Umschwung in Brasilien. 870 Verhaftete.
+Found
+MODSMD_ARTICLE13: 488 Bergarbeiter in japanischer Kupfergrube verschüttet.
+Found
+MODSMD_ARTICLE14: Neutralität der Internationalen Niederlassung gefordert.
+Found

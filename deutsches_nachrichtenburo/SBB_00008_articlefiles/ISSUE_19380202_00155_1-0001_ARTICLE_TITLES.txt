@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Geburtstag des Neichsautzenministers.
+Found
+MODSMD_ARTICLE02: Die Glückwünsche des Diplomatischen Korps.
+Found
+MODSMD_ARTICLE03: Kurzer Aufenthalt des Königs von Schweden in Berlin.
+Found
+MODSMD_ARTICLE04: Eröffnung der Landarbeitswerbung der HF.
+Found
+MODSMD_ARTICLE05: Zusammenlegung von Kunstzeitschriften.
+Found
+MODSMD_ARTICLE06: Die Lufthansa dementiert eine Pariser Falschmeldung.
+Found
+MODSMD_ARTICLE07: Deutsche Ordcmsauszcichnung für Senator Graf Treccani.
+Found
+MODSMD_ARTICLE08: Der Führer gratuliert seinem Außenminister.
+Found
+MODSMD_ARTICLE09: Große Kriegsmaterialkäufe Valencias in Frankreich.
+Found
+MODSMD_ARTICLE10: Enthüllung des „Matin" zur Flucht der GPU-Agentm.
+Found
+MODSMD_ARTICLE11: Ter englische Flottenbesuch in Lissabon.
+Found
+MODSMD_ARTICLE12: Sitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE13: Das ägyptische Abgeordnetenhaus aufgelöst.
+Found

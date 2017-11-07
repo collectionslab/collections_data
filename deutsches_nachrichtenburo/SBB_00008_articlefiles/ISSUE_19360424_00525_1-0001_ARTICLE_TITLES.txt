@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer auf der Ordensburg Crössinsee.
+Found
+MODSMD_ARTICLE02: Stoßtrupp Hitler 1923 in Stettin.
+Found
+MODSMD_ARTICLE03: Sondcrtreuhänder der Arbeit für Margarineindustrie.
+Found
+MODSMD_ARTICLE04: Otto von Gncricke-Erinnerungsmarke.
+Found
+MODSMD_ARTICLE05: Axmann über den Reichsberufswettkamps.
+Found
+MODSMD_ARTICLE06: Auszeichnung für Senatspräsident Greiser.
+Found
+MODSMD_ARTICLE07: Die ersten berussständischen Wahlen in Oesterreich.
+Found
+MODSMD_ARTICLE08: Ungarn und der „Phönix"-Skandal.
+Found
+MODSMD_ARTICLE09: Neue Kommunistenverhaftungen in Litauen.
+Found
+MODSMD_ARTICLE10: Jugoslawien und die türkische Darda'nellennote.
+Found
+MODSMD_ARTICLE11: Madrid erwartet Nevolutionslehrer aus Moskau.
+Found
+MODSMD_ARTICLE12: Der italienische Vormarsch geht weiter.
+Found
+MODSMD_ARTICLE13: Die Schlacht an der Ogadenfront.
+Found
+MODSMD_ARTICLE14: Italienische Erkundungsslüge über Addis Abeba.
+Found
+MODSMD_ARTICLE15: Roosevelt fordert neue Mittel firr sein Sozialprogramm.
+Found
+MODSMD_ARTICLE16: Steuersteckbrief.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Französisches Beileid zum Bochumcr Grubenunglück.
+Found
+MODSMD_ARTICLE02: Spende für die Bochumer Hinterbliebenen.
+Found
+MODSMD_ARTICLE03: Glückwunsch an die Amtslcitung Film der NSDAP.
+Found
+MODSMD_ARTICLE04: Der Präsident des Geheimen Staatspolizeiamtes Sachsen I°.
+Found
+MODSMD_ARTICLE05: Die deutschen Seestreitkräfte in spanischen Gewässern.
+Found
+MODSMD_ARTICLE06: Neuer Angriff der Nationalisten auf Jrun.
+Found
+MODSMD_ARTICLE07: „Es war eine unglaubliche Metzelei".
+Found
+MODSMD_ARTICLE08: Protest gegen die Kriegführung der Marxisten.
+Found
+MODSMD_ARTICLE09: Tie „Passionaria" will auch England beglücken.
+Found
+MODSMD_ARTICLE10: Außenpolitische Ministerbesprechung in London.
+Found
+MODSMD_ARTICLE11: Generalstreikgefahr in Südwales.
+Found
+MODSMD_ARTICLE12: Textilarbeiterstreik in Vienne.
+Found
+MODSMD_ARTICLE13: Neuregelung des griechischen Finanzwesens.
+Found
+MODSMD_ARTICLE14: Griechenlands Kampf gegen den Marxismus.
+Found
+MODSMD_ARTICLE15: China entschuldigt sich wegen des Tschengtu-Zwischenfalles.
+Found

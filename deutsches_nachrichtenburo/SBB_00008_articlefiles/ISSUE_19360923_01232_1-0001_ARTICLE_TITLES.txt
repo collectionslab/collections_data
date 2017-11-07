@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer bei den Truppen.
+Found
+MODSMD_ARTICLE02: Der Führer beglückwünscht eine Hundertjährige.
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Goebbels in Athen.
+Found
+MODSMD_ARTICLE04: Reichsminister Dr. Frank in Rom.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Vorbeimarsch der Hitler-Jugend vor Mussolini.
+Found
+MODSMD_ARTICLE07: Die Kranzniederlegungen.
+Found
+MODSMD_ARTICLE08: Der Vorbeimarsch vor Mussolini»
+Found
+MODSMD_ARTICLE09: Empfang im Palazzo Venezia.
+Found
+MODSMD_ARTICLE10: Baldur von Schirach bei Außenminister Ciano»
+Found
+MODSMD_ARTICLE11: Begeisterung der römischen Presse über die Hitler-Jungen.
+Found
+MODSMD_ARTICLE12: Am Freitag Ministerrat in Paris.
+Found
+MODSMD_ARTICLE13: Blum reist am Freitag nach Genf.
+Found
+MODSMD_ARTICLE14: Warenverkehr Zwischen Französisch- und Spanisch-Marokko.
+Found
+MODSMD_ARTICLE15: Vor dem Angriff ans Bilbao und Santander.
+Found
+MODSMD_ARTICLE16: Neuer Madrider Botschafter in Moskau.
+Found
+MODSMD_ARTICLE17: Nach dem Abbruch der Beziehungen Uruguays zu Madrid.
+Found
+MODSMD_ARTICLE18: Einwanderungsverbot für Kommunisten in Südamerika.
+Found

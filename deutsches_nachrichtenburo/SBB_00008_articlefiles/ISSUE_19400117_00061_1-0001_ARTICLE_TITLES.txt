@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Glückwumsch des Führers an Attolieo.
+Found
+MODSMD_ARTICLE02: Seltsame „Unglücksfälle" der britischen Handelsflotte.
+Found
+MODSMD_ARTICLE03: So lebt die britische Herrenschicht.
+Found
+MODSMD_ARTICLE04: Die Verluste der englischen Tankerflotte.
+Found
+MODSMD_ARTICLE05: Schwere Explosionen auf einer britischen Schiffswerft.
+Found
+MODSMD_ARTICLE06: „Strandung" und Zusammenstoß".
+Found
+MODSMD_ARTICLE07: Diesmal war es ein Korallenschiff.
+Found
+MODSMD_ARTICLE08: Die Franzosen beschießen luxemburgisches Gebiet.
+Found
+MODSMD_ARTICLE09: Der russische Heeresbericht vom 16. Januar.
+Found
+MODSMD_ARTICLE10: Indische Jugend verwahrt sich geggn Englands Heuchelei.
+Found
+MODSMD_ARTICLE11: Der Bericht des Oberkommandos der Wehrmacht.
+Found
+MODSMD_ARTICLE12: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE13: Deutsch-ungarischer Warenaustausch steigt weiter.
+Found
+MODSMD_ARTICLE14: Schwere Zusammenstöße in Indien.
+Found
+MODSMD_ARTICLE15: Japans Freundschaft zu Deutschland unverändert.
+Found
+MODSMD_ARTICLE16: Volksschädling hingerichtet.
+Found

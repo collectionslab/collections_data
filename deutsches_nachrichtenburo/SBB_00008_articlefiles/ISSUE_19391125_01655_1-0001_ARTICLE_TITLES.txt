@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Dr. Todt verleiht Schuhwall-Ehrenzeichen.
+Found
+MODSMD_ARTICLE02: Churchill gibt endlich die Torpedicrung der „Belfast" zu.
+Found
+MODSMD_ARTICLE03: Englands Verluste erregen Aufsehen.
+Found
+MODSMD_ARTICLE04: Englands und Frankreichs Sorgen.
+Found
+MODSMD_ARTICLE05: Englische U-Bootsalle durch deutsches U-Boot vernichtet.
+Found
+MODSMD_ARTICLE06: Englischer 9000 t-Dampfer durch Treibmine versenkt.
+Found
+MODSMD_ARTICLE07: Ohnmächtiges England!
+Found
+MODSMD_ARTICLE08: Der englische Keil zwischen Irak und Arabien.
+Found
+MODSMD_ARTICLE09: Deutschenverfolgung sogar auf Samoa.
+Found
+MODSMD_ARTICLE10: Malaien fliehen vor den Bütteln.
+Found

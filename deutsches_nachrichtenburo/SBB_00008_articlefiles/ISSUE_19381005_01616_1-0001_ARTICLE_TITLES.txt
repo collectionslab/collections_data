@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Goebbels vor den Leitern der Propagandaämter.
+Found
+MODSMD_ARTICLE02: Jndustriegruppen spenden für die Sudetendeutschen.
+Found
+MODSMD_ARTICLE03: Amerika-Flug des „Condor" international anerkannt.
+Found
+MODSMD_ARTICLE04: Polen und die ungarischen Forderungen an Prag.
+Found
+MODSMD_ARTICLE05: „Kurjer Poranny" gegen französische Ausfälle.
+Found
+MODSMD_ARTICLE06: Die gleichen Methoden gegen die Magyaren.
+Found
+MODSMD_ARTICLE07: Wann öffnet Prag endlich die Gefängnisse?
+Found
+MODSMD_ARTICLE08: Cermak über seine Ersahrungen mit den Tschechen.
+Found
+MODSMD_ARTICLE09: Die finanzielle Hilfe für die Tschechen.
+Found
+MODSMD_ARTICLE10: „Daily Mail" rechnet mit der Genfer Liga ab.
+Found
+MODSMD_ARTICLE11: Del Vayo ist sehr enttäuscht.
+Found
+MODSMD_ARTICLE12: Bankrott des Genfer Systems.
+Found
+MODSMD_ARTICLE13: USA. wünscht Arbeits'frieden.
+Found
+MODSMD_ARTICLE14: Veränderungen im japanischen Außenamt.
+Found
+MODSMD_ARTICLE15: Landesverrat mit dem Tode gesühnt.
+Found
+MODSMD_ARTICLE16: Ein Mörder hingerichtet.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Wieder bolschewistische Flugzeuge in Frankreich gelandet.
+Found
+MODSMD_ARTICLE02: Internationales Fronikämpfertreffen.
+Found
+MODSMD_ARTICLE03: Eine beruhigende Erklärung des belgischen Außenamts.
+Found
+MODSMD_ARTICLE05: Flamenfrage kommt vor das Parlament.
+Found
+MODSMD_ARTICLE06: Lord Philipp Snowden f.
+Found
+MODSMD_ARTICLE07: Die Verwundeten des Zerstörers „Hunter" in Gibraltar.
+Found
+MODSMD_ARTICLE08: Mißglückte Revolte in Albanien.
+Found
+MODSMD_ARTICLE09: Weitere Verhaftungen in Moskau.
+Found
+MODSMD_ARTICLE10: Japan und Sowjetrußland.
+Found
+MODSMD_ARTICLE11: Merkwürdiger Gerichtsbeschluß.
+Found
+MODSMD_ARTICLE12: Die Kennzahl der Großhandelspreise vom 12. Mai.
+Found

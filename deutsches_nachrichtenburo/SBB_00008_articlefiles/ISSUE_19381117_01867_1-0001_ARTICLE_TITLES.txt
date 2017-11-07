@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Hauskonzert bei Reichsminister Frick.
+Found
+MODSMD_ARTICLE02: Abfindung in Rentenwerten für jüdische Vermögen.
+Found
+MODSMD_ARTICLE03: Rettungstat eines deutschen U-Boot-Angehörigen.
+Found
+MODSMD_ARTICLE04: Schirach übernimmt die sudetendeutsche Jugend.
+Found
+MODSMD_ARTICLE05: Außerordentliche Sitzung des Prager Ministerrats.
+Found
+MODSMD_ARTICLE06: Am 17. November Nationalversammlung in Prag.
+Found
+MODSMD_ARTICLE07: England erkennt das italienische Imperium an.
+Found
+MODSMD_ARTICLE08: Belgiens Maßnahmen gegen jüdische Einwanderer. .
+Found
+MODSMD_ARTICLE09: Holland fordert Ausweisung aller eingewanderten Juden.
+Found
+MODSMD_ARTICLE10: Costa Rica will keine Juden.
+Found

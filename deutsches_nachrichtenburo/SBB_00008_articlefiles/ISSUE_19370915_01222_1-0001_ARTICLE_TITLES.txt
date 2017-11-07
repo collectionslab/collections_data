@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Kaiser von Japan dankt dem Führer.
+Found
+MODSMD_ARTICLE02: Der Chef der schwedischen Luftwaffe in Berlin.
+Found
+MODSMD_ARTICLE03: Spanische Jugendführcr begeistert von Deutschland.
+Found
+MODSMD_ARTICLE04: Mussolinis Bild für das Quedlinburger Klopstock-Haus.
+Found
+MODSMD_ARTICLE05: Beschlagnahme polnischer Blätter i» Tanzig.
+Found
+MODSMD_ARTICLE06: Polnische Zustimmung zur Führerrede.
+Found
+MODSMD_ARTICLE07: Der Internationale Kongreß der Alkoholgegner.
+Found
+MODSMD_ARTICLE08: Ehrung für Professor Bergius.
+Found
+MODSMD_ARTICLE09: „Der Widersinn von Nyon."
+Found
+MODSMD_ARTICLE10: Englisches Flaggschiff auf dem Wege nach Malta.
+Found
+MODSMD_ARTICLE11: Nichteiumischungsausschust erst nächste Woche.
+Found
+MODSMD_ARTICLE12: Largo Caballero will Paris und London ausputschen.
+Found
+MODSMD_ARTICLE13: Fliehende Bolschewistenhäuptlmge gefaßt.
+Found
+MODSMD_ARTICLE14: Entmenschtes Kommunistenweib in Bilbao aufgespürt.
+Found
+MODSMD_ARTICLE15: Die Genfer Tagung.
+Found
+MODSMD_ARTICLE16: Filchner in Leh eingetroffen.
+Found
+MODSMD_ARTICLE17: Zwei neue japanische Oberkommandierende in China.
+Found
+MODSMD_ARTICLE18: Neue japanische Osfensive in Nordchina.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Empfang beim Führer.
+Found
+MODSMD_ARTICLE02: Japanische Marineoffiziere beim Führer.
+Found
+MODSMD_ARTICLE03: Admiral Kobayaschi im Haus des deutschen Sports.
+Found
+MODSMD_ARTICLE04: Kiel empfängt eine Abordnung des Kreuzers „Aschigara".
+Found
+MODSMD_ARTICLE05: Eine Bilanz des Erfolges.
+Found
+MODSMD_ARTICLE06: Einäscherung eines Opfers der „Hindenburg"-Katastrophe.
+Found
+MODSMD_ARTICLE07: Die Weltbewegung gegen den Weltfeind Nr. 1.
+Found
+MODSMD_ARTICLE08: Aegyptens Begrüßung im Völkerbund.
+Found
+MODSMD_ARTICLE09: Ein Akt der Großzügigkeit und Ritterlichkeit.
+Found
+MODSMD_ARTICLE10: Die deutsche Flagge van Kommunisten geschändet.
+Found
+MODSMD_ARTICLE11: Almeida brasilianischer Präsidentschaftskandidat.
+Found

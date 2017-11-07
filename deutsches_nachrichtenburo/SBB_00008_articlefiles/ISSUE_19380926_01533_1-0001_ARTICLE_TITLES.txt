@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Dr. Goebbels empfing die deutsche Presse.
+Found
+MODSMD_ARTICLE02: Schweizerische Depeschen-Agentur enthüllt Hetzschwindel.
+Found
+MODSMD_ARTICLE03: Belgier stellt bolschewistische Verseuchung der Tschechen fest.
+Found
+MODSMD_ARTICLE04: Organisierte Massenplünderungen durch Kommunisten.
+Found
+MODSMD_ARTICLE05: Verwundete Sudetendeutsche brutal gequält.
+Found
+MODSMD_ARTICLE06: Nächtliche Geiselverhaftungen in Weipert.
+Found
+MODSMD_ARTICLE07: Auch katholische Geistliche flohen vor den Tschechen ins Reich.
+Found
+MODSMD_ARTICLE08: Die tschechischen Einberufungen»
+Found
+MODSMD_ARTICLE09: Starke VerkeHtsÄnschrairkung in Prag.
+Found
+MODSMD_ARTICLE10: Bisher mehr als 50 660 Mann im Polnischen Freikorps.
+Found
+MODSMD_ARTICLE11: Die Antwort Prags in Warschau eingetroffen.
+Found
+MODSMD_ARTICLE12: Prag stellt fest: Kein Einvernehmen mit Polen.
+Found
+MODSMD_ARTICLE13: „Deutschlands Friedensliebe kein Zeichen von Schwäche."
+Found
+MODSMD_ARTICLE14: Übertragung der Führerrede aus alle italienischen Sender.
+Found
+MODSMD_ARTICLE15: Marschall Balbo nach Tripolis zurückgekehrt.
+Found
+MODSMD_ARTICLE16: Angstverkäuse an der Amsterdamer Börse.
+Found
+MODSMD_ARTICLE17: Eiue deutliche amerikanische Stimme.
+Found

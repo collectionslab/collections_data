@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: „O lug', so lang Du lügen kannst . .
+Found
+MODSMD_ARTICLE02: Zwei Mal Fliegeralarm auf den Orkneys.
+Found
+MODSMD_ARTICLE03: „Unbekannte" Flugzeuge über der Themse-Mündung.
+Found
+MODSMD_ARTICLE04: England stiehlt neutrale Schiffe!
+Found
+MODSMD_ARTICLE05: Fast alle angespülten Minen englischer Herkunft!
+Found
+MODSMD_ARTICLE06: Britischer Handelsdampfer gesunken.
+Found
+MODSMD_ARTICLE07: Die Schweiz verlangt Ruhe.
+Found
+MODSMD_ARTICLE08: Havas wieder einmal beim Lügen ertappt.
+Found
+MODSMD_ARTICLE09: „Englands Wirtschaftskrieg von langer Hand vorbereitet."
+Found

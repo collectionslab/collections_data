@@ -1,0 +1,24 @@
+MODSMD_ARTICLE03: Die Welt zur Waffenstreckung Belgiens.
+Found
+MODSMD_ARTICLE04: Neuer ganz großer Triumph der deutschen Wehrmacht.
+Found
+MODSMD_ARTICLE05: Widerstand gegen die beste Armee der Welt sinnlos.
+Found
+MODSMD_ARTICLE07: Nur strenge Neutralität kann retten.
+Found
+MODSMD_ARTICLE08: Bewunderung für die deutsche Waffenleistung.
+Found
+MODSMD_ARTICLE09: Schlimmste Situation für die Westmächte.
+Found
+MODSMD_ARTICLE10: Ernennung.
+Found
+MODSMD_ARTICLE11: Das ist der Dank der Plutokraten!
+Found
+MODSMD_ARTICLE12: Mit fremden Augen.
+Found
+MODSMD_ARTICLE13: Das England der Geschäftemacher und Juden.
+Found
+MODSMD_ARTICLE14: „Sonderbare und groteske Propaganda."
+Found
+MODSMD_ARTICLE15: Der französische Diplomatennachschub.
+Found

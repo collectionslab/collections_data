@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE02: Neue Förderungsmaßnahmen für Kinderreiche.
+Found
+MODSMD_ARTICLE03: Reichsarbeitsführer Hier!
+Found
+MODSMD_ARTICLE04: Umfassende Arbeitsleistungen für die Volksgemeinschaft.
+Found
+MODSMD_ARTICLE05: Einst Arbeitslosigkeit jetzt Erntenothilfe.
+Found
+MODSMD_ARTICLE06: Arbeitsdienst für die weibliche Jugend unerläßlich»
+Found
+MODSMD_ARTICLE07: „Bürgen des Deutschtums und des Nationalsozialismus".
+Found
+MODSMD_ARTICLE08: Die Totalität der Ardeitsdienstpslicht.
+Found
+MODSMD_ARTICLE09: Harte Arbeit Freude am Werk.
+Found

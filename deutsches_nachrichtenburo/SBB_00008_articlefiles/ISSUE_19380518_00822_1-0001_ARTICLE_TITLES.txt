@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Morgen- und Vormittags-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Frick in Innsbruck.
+Found
+MODSMD_ARTICLE03: Der Reichsfinanzminister besichtigt österreichische Industrie.
+Found
+MODSMD_ARTICLE04: Autounfall des Staatssekretärs Dr. Schlegelberger.
+Found
+MODSMD_ARTICLE05: Der Oberbürgermeister von Antwerpen in Köln.
+Found
+MODSMD_ARTICLE06: Acht Jahre Zuchthaus für jüdischen Volksschädling.
+Found
+MODSMD_ARTICLE07: Klare Sprache gegen dunkle Manöver.
+Found
+MODSMD_ARTICLE08: Besorgnisse um Besprechungen Rom—Paris.
+Not Found
+MODSMD_ARTICLE09: Ministepbesprechungen in Paris.
+Found
+MODSMD_ARTICLE10: Vorschüsse für Währungsausgleichsfonds.
+Found
+MODSMD_ARTICLE11: Pannen führen zur Entdeckung von Waffenschiebungen.
+Found
+MODSMD_ARTICLE12: Polen duldet keine Zersetzung der Armee.
+Found
+MODSMD_ARTICLE13: Ein letzter Versuch Moskaus mit Rotspanien?
+Found
+MODSMD_ARTICLE14: Lord Nuffield Nachfolger von Lord Weir?
+Found
+MODSMD_ARTICLE15: Keine Spannung zwischen Chamberlain und Halifax.
+Found
+MODSMD_ARTICLE16: Der nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE17: Wieder hohe Sowjetfunktionäre abgefetzt.
+Found
+MODSMD_ARTICLE18: Streikwelle in Indien.
+Found
+MODSMD_ARTICLE19: Mexikanischer Entschädigungsausschuß gebildet.
+Found

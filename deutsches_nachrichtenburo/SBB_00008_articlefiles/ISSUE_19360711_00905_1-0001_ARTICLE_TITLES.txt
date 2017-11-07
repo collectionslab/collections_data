@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Eine deutsche Indien-Expedition kehrt heim.
+Found
+MODSMD_ARTICLE02: Nationalsozialistische Feierstunde in Mexiko.
+Found
+MODSMD_ARTICLE03: Das Programm für den Nationalfeiertag Frankreichs.
+Found
+MODSMD_ARTICLE04: Erhöhung der Metallpreise in Frankreich.
+Found
+MODSMD_ARTICLE05: Erklärung des „Ausschusses der Linken" in Paris.
+Found
+MODSMD_ARTICLE06: Radikalsozialistische Blätter kritisieren.
+Found
+MODSMD_ARTICLE07: Pariser Blätter befürchten Isolierung Frankreichs.
+Found
+MODSMD_ARTICLE08: England will die Gleitklausel anwenden.
+Found
+MODSMD_ARTICLE09: Englisches Einlenken in Montreux.
+Found
+MODSMD_ARTICLE10: „Times" zur Wahlniederlage in Derby.
+Found
+MODSMD_ARTICLE11: Die englisch-ägyptischen Verhandlungen.
+Found
+MODSMD_ARTICLE12: Keine Barzahlung Italiens für Handelsschulden.
+Found
+MODSMD_ARTICLE13: Internationaler Kongreß für Verwaltungswissenschaft.
+Found
+MODSMD_ARTICLE14: Washington zur Sendesperrung in Abessinien.
+Found
+MODSMD_ARTICLE15: Der Straßenbahnerstreik in Alexandrien beendet.
+Found
+MODSMD_ARTICLE16: 5 Millionen japanische Siedler für Mandschukuo.
+Found

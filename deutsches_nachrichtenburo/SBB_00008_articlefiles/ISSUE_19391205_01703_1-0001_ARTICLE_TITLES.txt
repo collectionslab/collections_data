@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ocrtliche geringe Gefechstätigkeit.
+Found
+MODSMD_ARTICLE02: Ans der Diplomatie.
+Found
+MODSMD_ARTICLE03: Die Vorbesprechungen über die Umsiedlungsaktion.
+Found
+MODSMD_ARTICLE04: Der russische Heeresbericht.
+Found
+MODSMD_ARTICLE05: Rußland erkennt die Regierung Ryti nicht an.
+Found
+MODSMD_ARTICLE06: Die Verwaltung der neuen russischen Gebiete.
+Found
+MODSMD_ARTICLE07: Besuch des estnischen Oberbefehlshabers in Moskau.
+Found
+MODSMD_ARTICLE08: Dampfer „Donau" verläßt Finnland mit Kurs auf Reval.
+Found
+MODSMD_ARTICLE09: Kein finnischer Heeresbericht.
+Found
+MODSMD_ARTICLE10: Skandinavische Außenminister-Zusammenkunft in Oslo.
+Found
+MODSMD_ARTICLE11: Eine Stimme der Vernunft: „Astonbladet".
+Found
+MODSMD_ARTICLE12: „Arriba Alemania!"
+Found
+MODSMD_ARTICLE13: Nur berechnende Worte Englands und Frankreichs.
+Found
+MODSMD_ARTICLE14: König Georg in den Fußtapfen Höre Belishas.
+Found
+MODSMD_ARTICLE15: Englische Beruhigungspille für Frankreich.
+Found
+MODSMD_ARTICLE16: Höhere Preise, höhere Löhne.
+Found
+MODSMD_ARTICLE17: Tie englische Regierung muß die Frachtsätze erhöhen.
+Found
+MODSMD_ARTICLE18: Der deutsche Handelskrieg wirkt sich aus.
+Found
+MODSMD_ARTICLE19: Vollstreckung eines Todesurteils.
+Found

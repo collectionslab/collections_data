@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Ehrung Staatssekretärs Funk durch den Führer.
+Found
+MODSMD_ARTICLE02: Deutschland und die Neutralitätsvereinbarung.
+Found
+MODSMD_ARTICLE03: Dr. Frick stiftet Ehrenpreis.
+Found
+MODSMD_ARTICLE04: Empfang beim Oberbefehlshaber der Kriegsmarine.
+Found
+MODSMD_ARTICLE05: Aus der Berliner Diplomatie.
+Found
+MODSMD_ARTICLE06: Der neue Estnische Gesandte in Berlin.
+Found
+MODSMD_ARTICLE07: Kranzniederlegung in Laboe.
+Found
+MODSMD_ARTICLE08: 143 Tote, 4273 Verletzte.
+Found
+MODSMD_ARTICLE09: Der Abfall Ifnis von der Madrider Regierung.
+Found
+MODSMD_ARTICLE10: Säuberungsaktion zwischen Badajoz und Merida beendet»
+Found
+MODSMD_ARTICLE11: Sämtliche Ausländer der Insel Jbiza gerettet.
+Found
+MODSMD_ARTICLE12: Meldungen eines illegalen Madrider Senders.
+Found
+MODSMD_ARTICLE13: Der mißglückte Landungsversuch auf Mallorca.
+Found
+MODSMD_ARTICLE14: Der Bombenwurf auf das französische Grenzdorf.
+Found
+MODSMD_ARTICLE15: Englische Gewerkschaft für spanische Linksregierung.
+Found
+MODSMD_ARTICLE16: Zwei amerikanische Torpedoboote nach Spanien ausgelaufen»
+Found
+MODSMD_ARTICLE17: „Journal" über Gamelins Besuch in Polen.
+Found
+MODSMD_ARTICLE18: Gamelin auf der Rückreise.
+Found
+MODSMD_ARTICLE19: Besuch des rumänischen Generalstabschefs in Polen.
+Found
+MODSMD_ARTICLE20: Vertreter fremder Heere bei den tschechischen Manövern.
+Found
+MODSMD_ARTICLE21: Straßenbenutzung in Jaffa täglich nur drei Stunden.
+Found
+MODSMD_ARTICLE22: Die Internationale Filmschau in Venedig.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer ehrt Glaise-Horftenau, Klausner und Leopold.
+Found
+MODSMD_ARTICLE02: Glückwünsche des Führers an General von Kayser.
+Found
+MODSMD_ARTICLE03: SA.-Führer-Ernennungyn in der Ostmark.
+Found
+MODSMD_ARTICLE04: Alte Kämpfer bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE05: Besprechung Hodschas mit sudetendeutschen Vertretern.
+Found
+MODSMD_ARTICLE06: „Aftenposten" zum Siege der Sudetendeutschen.
+Found
+MODSMD_ARTICLE07: Neuer FinanZminister in Lettland.
+Found
+MODSMD_ARTICLE08: Neuer Bischof für Tanzig.
+Found
+MODSMD_ARTICLE09: General Keitel beim Reichsverweser von Horthy.
+Found
+MODSMD_ARTICLE10: Eine neue ungarische Rechtspartei.
+Found
+MODSMD_ARTICLE11: Beratungen bei Chamberlain.
+Found
+MODSMD_ARTICLE12: Halifax begleitet das englische Königspaar nach Paris.
+Found
+MODSMD_ARTICLE13: Bischof von Winchester für Verständigung mit Deutschland.
+Found
+MODSMD_ARTICLE14: Neuer Vorsitzender der Imperial Airways.
+Found
+MODSMD_ARTICLE15: Ein 60 Kin-Stacheldrahtverhau in Palästina.
+Found
+MODSMD_ARTICLE16: Der Vorstand des Auswärtigen Kammerausschusfcs.
+Found
+MODSMD_ARTICLE17: Jüdische Rückwanderer „wandern" ins Jsolierungslager.
+Found
+MODSMD_ARTICLE18: Französisch-chinesischer Geheimpakt?
+Found
+MODSMD_ARTICLE19: Naturgewalten unterbrechen den Krieg in Mittelchina.
+Found

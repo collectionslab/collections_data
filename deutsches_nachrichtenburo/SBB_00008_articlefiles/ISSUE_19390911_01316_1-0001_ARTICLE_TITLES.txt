@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: U-Leibstandarte nahm Abschied von Obersturmführer Bahls.
+Found
+MODSMD_ARTICLE02: Amtlicher Aufrus zum Meuchelmord.
+Found
+MODSMD_ARTICLE03: Erfolgreiche Tätigkeit der deutschen U-Boote.
+Found
+MODSMD_ARTICLE04: Läßt Indien sich auch jetzt betrügen?
+Found
+MODSMD_ARTICLE05: Nie wieder polnische Juden nach Deutschland.
+Found
+MODSMD_ARTICLE06: Ruhe und Ordnung folgen dem deutschen Einmarsch.
+Found
+MODSMD_ARTICLE07: Jugoslawien streng neutral.
+Found
+MODSMD_ARTICLE08: Direkter Funkverkehr Italien—USA.
+Not Found
+MODSMD_ARTICLE09: Blockade Deutschlands aussichtslos.
+Found
+MODSMD_ARTICLE10: Die Oslo-Staaten beraten über den Rechtsbruch Englands.
+Found
+MODSMD_ARTICLE11: Französisch-Marokko nachts ohne Licht.
+Found
+MODSMD_ARTICLE12: Die Pekinger Regierung erklärt die Neutralität.
+Found
+MODSMD_ARTICLE13: Kanada macht Schulden für Chamberlains Krieg.
+Found

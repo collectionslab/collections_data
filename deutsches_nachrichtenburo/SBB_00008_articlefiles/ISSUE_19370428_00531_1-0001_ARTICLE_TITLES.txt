@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Französischer Rechtsanwalt vor deutschen Rechtswahrern.
+Found
+MODSMD_ARTICLE02: Der italienische Jugendführer in Ostpreußen.
+Found
+MODSMD_ARTICLE03: Die italienischen Journalisten in Essen.
+Found
+MODSMD_ARTICLE04: Reichskommissar Wagner in Hamburg.
+Found
+MODSMD_ARTICLE05: Benesch über die wirtschaftliche Lage der Tschechoslowakei»
+Found
+MODSMD_ARTICLE06: Unterhausabstimmung über die Deckungsvorschläge. – >
+Not Found
+MODSMD_ARTICLE07: Die 46. Sitzung des Londoner Unterausschusses.
+Found
+MODSMD_ARTICLE08: Weiterführung der Offensive an der Basken-Front,
+Found
+MODSMD_ARTICLE09: Gesetz Zur Finanzierung der Universität Helsinki.
+Found
+MODSMD_ARTICLE10: Großer Erfolg Furtwänglers in Paris.
+Found
+MODSMD_ARTICLE11: Devisenschieber in Budapest dingfest gemacht.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Wehrmachtsbericht.
+Found
+MODSMD_ARTICLE02: Die Aushungerung Deutschlands will nicht klappen.
+Found
+MODSMD_ARTICLE03: Auch Ausländer sollen in Frankreich Soldaten werden.
+Found
+MODSMD_ARTICLE04: Großfeuer in Marseille.
+Found
+MODSMD_ARTICLE05: Prinzregent Paul ernennt 37 Senatoren.
+Found
+MODSMD_ARTICLE06: Die Wirkung der englischen Blockademaßnahmen.
+Found
+MODSMD_ARTICLE07: Die Türkei entläßt teilweise ihre Reservisten.
+Found
+MODSMD_ARTICLE08: Neue Erdölsuude auf der Halbinsel Krim.
+Found
+MODSMD_ARTICLE09: Die englischen Arbeiter gegen Chamberlains Kriegspolitik.
+Found
+MODSMD_ARTICLE10: Die neue Verlustliste der Flieger in England: 51 Namen.
+Found
+MODSMD_ARTICLE11: Amerikas Staatsschuld erreicht neuen Höchststand.
+Found
+MODSMD_ARTICLE12: Die Kanadier wissen nicht, wofür sie kämpfen.
+Found
+MODSMD_ARTICLE13: Peruanisches Militärflugzeug abgestürzt.
+Found
+MODSMD_ARTICLE14: Telegramm Gandhis an die „News Chronicle".
+Found
+MODSMD_ARTICLE15: Gute Aussichten für Einigung zwischen Tokio und Moskau.
+Found
+MODSMD_ARTICLE16: Japanische Truppen bei Pakhoi gelandet.
+Found
+MODSMD_ARTICLE17: Auflebende Unruhen in Waziristan.
+Found
+MODSMD_ARTICLE18: Todesstrafe für Beraubung eines Frontsoldaten.
+Found
+MODSMD_ARTICLE19: Drei Landesverräter hingerichtet.
+Found

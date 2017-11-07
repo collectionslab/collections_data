@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Die öffentlichen Gebäude im Reich flaggen halbmast.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Wechsel auf dem Pariser britischen Botschafterposten?
+Found
+MODSMD_ARTICLE04: Englands staatliche Munitionsfabriken werden verlegt.
+Found
+MODSMD_ARTICLE05: Bergarbeiterstreik in Toncaster.
+Found
+MODSMD_ARTICLE06: Neuer Stützpunkt der britischen Luftstreitkräfte im Irak.
+Found
+MODSMD_ARTICLE07: Personalveränderungen in der französischen Marine.
+Found
+MODSMD_ARTICLE08: Der Skandal vom Quai d'Orsay.
+Found
+MODSMD_ARTICLE09: Stojadiuowitsch auf der Rückreise.
+Found
+MODSMD_ARTICLE10: Schwere Niederlagen der Roten bei Teruel und Ronda.
+Found
+MODSMD_ARTICLE11: Die britischen Staatsangehörigen verlassen Madrid.
+Found
+MODSMD_ARTICLE12: Sowjetrussen dürfen nicht in Portugals Kolonien.
+Found
+MODSMD_ARTICLE13: Ein Dementi des albanischen Pressebüros.
+Found
+MODSMD_ARTICLE14: Zweistündige Besprechung Metaxas—Rüschtü Aras.
+Not Found
+MODSMD_ARTICLE15: Sowjetrussisch-japanisches Fischereiabkommen unterzeichnet.
+Found
+MODSMD_ARTICLE16: Ter indische Nationalkongreß lehnt die neue Verfassung ab.
+Found
+MODSMD_ARTICLE17: Schulschiff „Schlesien" verläßt Rio de Janeiro.
+Found
+MODSMD_ARTICLE18: Die Erklärung Marschall Tschiangkaischeks.
+Found
+MODSMD_ARTICLE19: Eifenbahnanschlag in Oesterreich nach Jahren aufgeklärt.
+Found
+MODSMD_ARTICLE20: Trümmer eines amerikanischen Verkehrsflugzeuges gefunden
+Found
+MODSMD_ARTICLE21: Nekordunfallziffern an den Weihnachtsfeiertagen in Amerika.
+Found

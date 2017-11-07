@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der 2111111. Kilometer Reichsautobahn in Betrieb genommen.
+Found
+MODSMD_ARTICLE02: Kommunistenbegünstigung durch Untersuchungsrichter.
+Found
+MODSMD_ARTICLE03: Polnischer Polizeibeamter erschossen.
+Found
+MODSMD_ARTICLE04: Trinksprüche Krofta—Delbos.
+Found
+MODSMD_ARTICLE05: Tschechische Stimmen zum Delbos-Besuch.
+Found
+MODSMD_ARTICLE06: Politische Rundreise Nuri Pascha Saids.
+Found
+MODSMD_ARTICLE07: Feierlicher Einzug der Japaner in Nanking.
+Found
+MODSMD_ARTICLE08: Japans Außenamt zum „Panay"-Zwischenfall.
+Found
+MODSMD_ARTICLE09: Die deutsch-chilenischen Kulturbeziehungen.
+Found
+MODSMD_ARTICLE10: Kein Rücktritt des chilenischen Arbeitsministers.
+Found

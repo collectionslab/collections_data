@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Jahrestagung des Deutschen Gemeindetages.
+Found
+MODSMD_ARTICLE02: Gegenwartsfragen der deutschen Selbstverwaltung.
+Found
+MODSMD_ARTICLE03: Die Arbeit des Deutschen Gemeindetages.
+Found
+MODSMD_ARTICLE04: Für wirtschaftspolitisches Zusammengehen England-Amerika.
+Found

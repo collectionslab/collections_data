@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Eine Kundgebung der DAF.
+Found
+MODSMD_ARTICLE03: Tie deutschen Schriftleiter in Jugoslawien.
+Found
+MODSMD_ARTICLE04: Schließung der italienischen Börsen bis 30. September.
+Found
+MODSMD_ARTICLE05: Keine Abwertung in Rumänien und Litauen.
+Found
+MODSMD_ARTICLE06: Belgrad zur Frankenabwertung.
+Found
+MODSMD_ARTICLE07: Gegen unberechtigte Preissteigerungen in Holland.
+Found
+MODSMD_ARTICLE08: Die Einnahme Toledos durch die Nationalisten.
+Found
+MODSMD_ARTICLE09: Eine unmenschliche Antwort.
+Found
+MODSMD_ARTICLE10: Spaniens neuer Botschafter in Paris.
+Found
+MODSMD_ARTICLE11: Die Lage in Palästina.
+Found
+MODSMD_ARTICLE12: Kommunistische Wühlarbeit in Ekuador.
+Found

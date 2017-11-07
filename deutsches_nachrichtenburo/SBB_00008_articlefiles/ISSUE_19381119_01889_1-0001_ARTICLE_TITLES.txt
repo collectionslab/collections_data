@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Franeois Poncet überreicht das Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE02: Das Memeler Nationaldenkmal wieder aufgerichtet.
+Found
+MODSMD_ARTICLE03: Das neue polnische Pressegesetz.
+Found
+MODSMD_ARTICLE04: Die Jndenfrage ist kein nationales Problem.
+Found
+MODSMD_ARTICLE05: Daladier soll Gegenpropaganda organisieren.
+Found
+MODSMD_ARTICLE06: WMHrliche Tätigkeit des jüdischen Weltverbandes.
+Found
+MODSMD_ARTICLE07: Tie heutige Größe der Besiegten von gestern.
+Found
+MODSMD_ARTICLE08: Ein „Freiwilliger" erzählt von Sowjetspanien.
+Found
+MODSMD_ARTICLE09: Das Rüstungsamt in Barcelona in Flammen.
+Found
+MODSMD_ARTICLE10: Die Autonomie der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE11: Minister Revay über die Lage.
+Found
+MODSMD_ARTICLE12: Die deutsche Abordnung in Istanbul.
+Found

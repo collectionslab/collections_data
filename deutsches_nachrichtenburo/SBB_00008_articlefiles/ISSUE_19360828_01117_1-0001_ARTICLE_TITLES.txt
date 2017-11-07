@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der neue deutsche Gesandte für Aegypten.
+Found
+MODSMD_ARTICLE02: Reichsbankpräsident Dr. Schacht aus Paris abgeflogen.
+Found
+MODSMD_ARTICLE03: Goethe-Preis an Professor Kolbe überreicht.
+Found
+MODSMD_ARTICLE04: Münchener Schacholympia 193 K.
+Found
+MODSMD_ARTICLE05: Deutschland bei Fliegertreffen in England und Holland.
+Found
+MODSMD_ARTICLE06: Preissteigerungen in Frankreich.
+Found
+MODSMD_ARTICLE07: Schweizerische Blätter warnen vor dem Bolschewismus.
+Found
+MODSMD_ARTICLE08: Trotzki wird interniert.
+Found
+MODSMD_ARTICLE09: Sechs spanische Legionäre in Rabat verurteilt.
+Found
+MODSMD_ARTICLE10: Ruhe vor Jrun.
+Found
+MODSMD_ARTICLE11: Portugal und die Ereignisse in Spanien.
+Found
+MODSMD_ARTICLE12: Britische Belehrung für Portugal.
+Found
+MODSMD_ARTICLE13: Der neue Sowjetbotschafter Rosenberg in Madrid.
+Found
+MODSMD_ARTICLE14: Der spanische Botschafter in London zurückgetreten.
+Found
+MODSMD_ARTICLE15: Der Sowjetsender von Barcelona an der Arbeit.
+Found
+MODSMD_ARTICLE16: Abessinische Räuberbande bei Addis Abeba geschlagen.
+Found
+MODSMD_ARTICLE17: Blutige Ausschreitungen in ganz Palästina.
+Found

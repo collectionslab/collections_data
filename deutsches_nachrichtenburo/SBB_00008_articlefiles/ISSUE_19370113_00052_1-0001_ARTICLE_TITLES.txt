@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Gemahlin des lettischen Gesandten l'.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Keine Reise Dr. Schachts nach Paris.
+Found
+MODSMD_ARTICLE04: Der nationale Feiertag des Saarlandes.
+Found
+MODSMD_ARTICLE05: Eden würdigt die Neujahrsbotschaft des Führers.
+Found
+MODSMD_ARTICLE06: Paris zur neuen Lage.
+Found
+MODSMD_ARTICLE07: Sowjetrußlands Einmischung in Spanien.
+Found
+MODSMD_ARTICLE08: Freimauerei für die Sowjets.
+Found
+MODSMD_ARTICLE09: Die Beziehungen Polens zur Tschechoslowakei.
+Found
+MODSMD_ARTICLE10: Schließung der Universität in Wilna.
+Found
+MODSMD_ARTICLE11: Zwei Holländer in Moskau verhaftet.
+Found
+MODSMD_ARTICLE12: Ehemalige abessmische Würdenträger verbannt.
+Found
+MODSMD_ARTICLE13: Lakehurst auch für 1337 zur Verfügung gestellt.
+Found
+MODSMD_ARTICLE14: Besorgniserregende Lage im amerikanischen Autostreik.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Nachmittags- u. Abendausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Belebung des deutsch-litauischen Warenverkehrs.
+Found
+MODSMD_ARTICLE03: Kampfwagen-Kämpfer zum Zusammenschluß aufgerufen.
+Found
+MODSMD_ARTICLE04: Hilgenfeldt vor Vertretern des Auswärtigen Amts.
+Found
+MODSMD_ARTICLE05: Vortrag Professor Reiters in der Deutschen Akademie.
+Found
+MODSMD_ARTICLE06: Reichsarbeitstagung der RBG. „Stein und Erde".
+Found
+MODSMD_ARTICLE07: Der deutsch-österreichische Kultur-Ausschuß.
+Found
+MODSMD_ARTICLE08: Senatspräsideut Greiser nach Bialowieza abgereist.
+Found
+MODSMD_ARTICLE09: England baut Lagerhäuser für Gasmasken.
+Found
+MODSMD_ARTICLE10: Weaeu religiöser Bilder in Barcelona erschossen.
+Found
+MODSMD_ARTICLE11: Irisches Freiwilligcnverbot angenommen.
+Found
+MODSMD_ARTICLE12: Britischer Flottensachverständiger reist nach Amerika.
+Found
+MODSMD_ARTICLE13: Ras Desta gefangen genommen und erschossen.
+Found
+MODSMD_ARTICLE14: Auch Italien beteiligt sich nicht an der Rohstoffkonferenz.
+Found
+MODSMD_ARTICLE15: Weitere rückläufige Bevölkerungsbewegung in Paris.
+Found
+MODSMD_ARTICLE16: Neuer „Sabotageprozeß" in Sowjetrußland. 3 Todesurteile.
+Found
+MODSMD_ARTICLE17: Die Streikwelle in Amerika.
+Found
+MODSMD_ARTICLE18: Die zweite Etappe des Oasen-Fluges.
+Found

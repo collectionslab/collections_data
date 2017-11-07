@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Hermann Göring dankt für die Glückwünsche.
+Found
+MODSMD_ARTICLE02: Filmaustausch zwischen Teutschland und Frankreich.
+Found
+MODSMD_ARTICLE03: Neubauern aus HJ. und SS.
+Found
+MODSMD_ARTICLE04: Roms Abendpresse zum Abschluß der englischen Ministerreisc.
+Found
+MODSMD_ARTICLE05: Italiens Mittelmeerposition.
+Found
+MODSMD_ARTICLE06: „Beschimpfungen ändern nichts an dem Rechtsanspruch."
+Found
+MODSMD_ARTICLE07: Valls in den Händen der Nationalen.
+Found
+MODSMD_ARTICLE08: An allen Fronten unaufhaltsam vorwärts.
+Found
+MODSMD_ARTICLE09: Ungarns Rechtspresse verurteilt die Bethlen-Leute.
+Found
+MODSMD_ARTICLE10: England nimmt Fühlung mit Japan.
+Found
+MODSMD_ARTICLE11: Erneute Unruhen in Damaskus.
+Found
+MODSMD_ARTICLE12: Neue Zwischenfälle in Palästina.
+Found
+MODSMD_ARTICLE13: Generalstreik in Jerusalem.
+Found

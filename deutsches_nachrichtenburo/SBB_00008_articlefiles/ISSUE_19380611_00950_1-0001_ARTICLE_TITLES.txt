@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Dr. Goebbels auf dem Neklamekongreß in Wien.
+Found
+MODSMD_ARTICLE02: Kranzniederlegung zu Ehren der gefallenen Faschisten.
+Found
+MODSMD_ARTICLE03: Der deutsche Gesandte bei Stojadinowitsch.
+Found
+MODSMD_ARTICLE04: Ein Tschechen-Korporal der Despot von Schreckenstein.
+Found
+MODSMD_ARTICLE05: Erdbeben in Belgien.
+Found
+MODSMD_ARTICLE06: Ein Araberdorf im Sandschak niedergebrannt.
+Found
+MODSMD_ARTICLE07: Kennzahl der Großhandelspreise vom 8. Juni.
+Found

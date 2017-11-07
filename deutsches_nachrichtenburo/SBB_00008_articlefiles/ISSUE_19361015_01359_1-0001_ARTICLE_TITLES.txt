@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Festsitzung der Deutschen Akademie.
+Found
+MODSMD_ARTICLE02: Hohe Ehrung eines deutschen Gelehrten in Uruguay.
+Found
+MODSMD_ARTICLE03: Das Frontmiliz-Gesetz in Oesterreich verabschiedet.
+Found
+MODSMD_ARTICLE04: Englische Minister gegen Ruhestörungen.
+Found
+MODSMD_ARTICLE05: Kundgebungen der britischen Faschisten.
+Found
+MODSMD_ARTICLE06: Tie tschechischen Militärflieger in Moskau.
+Found
+MODSMD_ARTICLE07: Bilbao vor dem Uall.
+Found
+MODSMD_ARTICLE08: Siegreicher Vorstoß der nationalen Truppen.
+Found
+MODSMD_ARTICLE09: Die Preisgestaltung nach der Frankenabwertung.
+Found
+MODSMD_ARTICLE10: Paris beunruhigt über die belgische Neutralitätspolitik.
+Found
+MODSMD_ARTICLE11: Polnische Kommunisten im „Sowjetparadies" erschossen.
+Found
+MODSMD_ARTICLE12: Griechenland verzichtet auf Auslandsreisegebühr.
+Found
+MODSMD_ARTICLE13: Moskau wühlt auch in Syrien.
+Found

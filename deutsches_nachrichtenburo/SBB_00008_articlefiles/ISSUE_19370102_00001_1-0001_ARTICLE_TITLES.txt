@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Neichsminister Dr. Goebbels zum Jahreswechsel.
+Found
+MODSMD_ARTICLE02: Neujahrsaufruf des Jugendführers des Deutschen Reiches.
+Found
+MODSMD_ARTICLE03: „Wir brauchen Heime für die Hitler-Jugend!
+Found
+MODSMD_ARTICLE04: „Deutsch sein heißt klar sein!"
+Found
+MODSMD_ARTICLE05: BaujahrderHitler-Jugend
+Found
+MODSMD_ARTICLE06: Ehrung zweier Hundertjährigen.
+Found
+MODSMD_ARTICLE07: 38 Reichsdeutsche in den Kerkern der GPU.
+Found
+MODSMD_ARTICLE08: Postautobus in Palästina ausgeraubt.
+Found

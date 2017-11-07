@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der italienische Propagandaminister in Berlin.
+Found
+MODSMD_ARTICLE02: Frühstück zu Ehren des ägyptischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE03: Hohe italienische Auszeichnung für Reichsminister Frank.
+Found
+MODSMD_ARTICLE04: Generaladmiral Raeder grüßt KdF.-Schiffe.
+Found
+MODSMD_ARTICLE05: Dr. Schacht vor dem Verein Deutscher Bergleute.
+Found
+MODSMD_ARTICLE06: Militärische Trauerfeier für Oberst Tschunke.
+Found
+MODSMD_ARTICLE07: Neuorganisation der Pferdezucht.
+Found
+MODSMD_ARTICLE08: 7g deutsche Spanienflüchtlinge in Hamburg eingetroffen.
+Found
+MODSMD_ARTICLE09: Ausstellung „Die Deutsche Werbung" eröffnet.
+Found
+MODSMD_ARTICLE10: Tie Aussprache in der Völkerbundsversammlung.
+Found
+MODSMD_ARTICLE11: Währungsvorlage am Sonntag vor Kammerausschuß.
+Found
+MODSMD_ARTICLE12: Tie englische Presse zur Rede Edens in Genf.
+Found
+MODSMD_ARTICLE13: Koalitionskabinett in Schweden.
+Found
+MODSMD_ARTICLE14: Der Präsident der Niederländischen Bank beruhigt.
+Found
+MODSMD_ARTICLE15: „Klarer Mißerfolg der Wirtschaftspolitik der „Volksfront".
+Found

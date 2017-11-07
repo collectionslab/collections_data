@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Führer gratuliert dem König von Italien.
+Found
+MODSMD_ARTICLE02: Deutsch-tschechoslowakisches Verrechnungsabkommen.
+Found
+MODSMD_ARTICLE03: Eröffnung des Leipziger Instituts für Verkehrswissenschaft.
+Found
+MODSMD_ARTICLE04: Minister Seldte setzt seine Besichtigungsreise fort.
+Found
+MODSMD_ARTICLE05: Kanya bei Horthy.
+Found
+MODSMD_ARTICLE06: Sämtliche Warschauer Hochschulen geschlossen.
+Found
+MODSMD_ARTICLE07: Italien wird auf den sowjetrussischen Protest nicht antworten.
+Found
+MODSMD_ARTICLE08: „Tribuna" über das Versagen der Brüsseler Konferenz.
+Found
+MODSMD_ARTICLE09: Den Grund der Abreise Litwinow-Finkelsteins.
+Found
+MODSMD_ARTICLE10: Delbos kehrt nach Paris zurück.
+Found
+MODSMD_ARTICLE11: Neue Streiks in Frankreich.
+Found
+MODSMD_ARTICLE12: Aufnahme der Beziehungen zu Franco gefordert.
+Found
+MODSMD_ARTICLE13: Bilder von der sowjetrussischen Festwoche in Madrid.
+Found
+MODSMD_ARTICLE14: Eine Maßnahme General Francas.
+Found
+MODSMD_ARTICLE15: Sowjetspanische Nachschubsorgen.
+Found
+MODSMD_ARTICLE16: Valencia-Schiffer haben Angst vor Francos Minen.
+Found
+MODSMD_ARTICLE17: Das Unterhaus zu Ehren MacDonalds vertagt.
+Found
+MODSMD_ARTICLE18: Die Londoner Presse zum Tode MacDonalds.
+Found
+MODSMD_ARTICLE19: Die Einführung einer neuen Verfassung in Brasilien.
+Found
+MODSMD_ARTICLE20: Proklamation des brasilianischen Kriegsministers.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die ungarischen Staatsmänner in Karinhall.
+Found
+MODSMD_ARTICLE02: Daranyi über seinen Besuch in Deutschland.
+Found
+MODSMD_ARTICLE03: Die Deutschlandreise der ungarischen Staatsmänner.
+Found
+MODSMD_ARTICLE04: Reichsleiter Rosenberg auf Burg Sonthofen.
+Found
+MODSMD_ARTICLE05: Lord Halifax bei Eden und Chamberlain.
+Found
+MODSMD_ARTICLE06: Italienische Frontkämpfer in London.
+Found
+MODSMD_ARTICLE07: Der Herzog von Alba Londoner Vertreter Nationalspaniens.
+Found
+MODSMD_ARTICLE08: London will hie Weltwirtschaftsschwierigkeiten lösen helfen.
+Found
+MODSMD_ARTICLE09: Der Maler Laszlo gestorben.
+Found
+MODSMD_ARTICLE10: Die Ostasienkonserenz berät eine Abschlußerklärung.
+Found
+MODSMD_ARTICLE11: Wiener Universität gesperrt.
+Found
+MODSMD_ARTICLE12: Jüdische Freimaurerloge in Warschau geschlossen.
+Found
+MODSMD_ARTICLE13: Marschall Graziani an den Duce.
+Found
+MODSMD_ARTICLE14: Keine parlamentarischen Unterstaatssekretäre mehr.
+Found
+MODSMD_ARTICLE15: 15 neue Todesurteile in Sowjetrnßland.
+Found
+MODSMD_ARTICLE16: Neuer Sowjetbotschafter in China.
+Found

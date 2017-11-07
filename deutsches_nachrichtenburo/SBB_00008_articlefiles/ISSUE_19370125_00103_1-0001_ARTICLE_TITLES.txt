@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Antwortnote der Reichsregierung überreicht.
+Found
+MODSMD_ARTICLE02: Neuer Leiter der Abt. Musik im Propagandaministerium.
+Found
+MODSMD_ARTICLE03: Von Killinger Beisitzer im Reichsehrengerichtshof.
+Found
+MODSMD_ARTICLE04: Reichstagung der Reichsfachschaft für das Dolmetscherwesen
+Found
+MODSMD_ARTICLE05: Das Echo zur Rede Blums.
+Found
+MODSMD_ARTICLE06: RothermeöWair weitere Freundschaft England—Portugal.
+Found
+MODSMD_ARTICLE07: Auch Romm, Sokolnikow und Serebrjakow „gestehen".
+Found
+MODSMD_ARTICLE08: Scharfe Abrechnung eines polnischen Blattes mit Moskau.
+Found
+MODSMD_ARTICLE09: General Ilgaki mit der Kabinettsbildung betraut.
+Found
+MODSMD_ARTICLE10: Londoner Presse über Moskauer „Geständnis-Freudigkeit".
+Found
+MODSMD_ARTICLE11: Zuchthausrevolte in USA.
+Found

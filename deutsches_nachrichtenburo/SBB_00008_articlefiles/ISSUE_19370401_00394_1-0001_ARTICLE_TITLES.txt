@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Japanische Gäste in der Reichsfilmkammer.
+Found
+MODSMD_ARTICLE02: Keine Aenderung der italienischen Spanienpolitik.
+Found
+MODSMD_ARTICLE03: Ausweisungsbefehl für Addis Abeba widerrufen.
+Found
+MODSMD_ARTICLE04: Oslo im Zeichen der Tauffeier des Erbprinzen Harald.
+Found
+MODSMD_ARTICLE05: Fimnsierung der Universität Helsinki.
+Found
+MODSMD_ARTICLE06: Botschaft des englischen Königs an die Inder.
+Found
+MODSMD_ARTICLE07: Englische Warnung an die indischen Kongreßpolitiker.
+Found
+MODSMD_ARTICLE08: Proteststreik gegen die neue indische Verfassung.
+Found
+MODSMD_ARTICLE09: 68 Mill. RM. Fehlbetrag im englischen Staatshanshalt.
+Found
+MODSMD_ARTICLE10: Die englischen Minister kehren aus dem Osternrlaub zurück.
+Found
+MODSMD_ARTICLE11: Noch kein Ende des Glasgower Rüstungsarbeiterstreiks?
+Found
+MODSMD_ARTICLE12: Irland will an der Reichskonferenz nicht teilnehmen.
+Found
+MODSMD_ARTICLE13: Aufsehenerregender Waffenfund bei irischer Firma.
+Found
+MODSMD_ARTICLE14: „Kurjer Czerwony" Zum italienisch-jugoslawischen Vertrag.
+Found
+MODSMD_ARTICLE15: Großzügige Pläne Zur Elektrizitätsversorgung Polens.
+Found
+MODSMD_ARTICLE16: Kriegsmaterial-Schmuggel aus Frankreich geht weiter.
+Found
+MODSMD_ARTICLE17: „Fortschreitende Krise der Kleinen Entente".
+Found
+MODSMD_ARTICLE18: Ein Vorstoß nationaler Truppen an der Biscaya-Front.
+Found
+MODSMD_ARTICLE19: Neue lettische nnd ägyptische Gesandtschaften in Stockholm.
+Found
+MODSMD_ARTICLE20: Opfer des Sowjetterros unter jüdischer Knute.
+Found
+MODSMD_ARTICLE21: Berichtigung.
+Found

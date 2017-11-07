@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Deutschland kann nicht ausgehungert werden.
+Found
+MODSMD_ARTICLE02: Besuch italienischer Minister in Albanien.
+Found
+MODSMD_ARTICLE03: Stefan:: „Absolute Ueberlegenheit".
+Found
+MODSMD_ARTICLE04: Von „gewissen Zufuhren" abgeschnitten.
+Found
+MODSMD_ARTICLE05: Heuchlerische Krokodilstränen.
+Found
+MODSMD_ARTICLE06: Jüdisches Spitzelkorps kontrolliert Frankreich.
+Found
+MODSMD_ARTICLE07: Englands Bergarbeiter plötzlich Liebkind.
+Found
+MODSMD_ARTICLE08: Jud Mandel läßt verurteilen.
+Found
+MODSMD_ARTICLE09: Reichssportführer von Tschammer und Osten in Bulgarien.
+Found
+MODSMD_ARTICLE10: Schwedisches Blatt über Churchills Diktatur.
+Found
+MODSMD_ARTICLE11: Londoner Erkenntnisse.
+Found
+MODSMD_ARTICLE12: Verstärkter britischer Terror auch in Nordirland.
+Found
+MODSMD_ARTICLE13: Englische Bomber auf harmlose dänische Fischer.
+Found
+MODSMD_ARTICLE14: Die Türkei spürt Englands Krieg.
+Found
+MODSMD_ARTICLE15: Neuer Postraub auf dem Piratennest Bermuda.
+Found

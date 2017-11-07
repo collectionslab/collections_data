@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: „Die deutschen Leibesübungen des Mittelalters".
+Found
+MODSMD_ARTICLE02: Die Olympische Kunstausstellung.
+Found
+MODSMD_ARTICLE03: Oberst Lindbergh kommt nach Berlin.
+Found
+MODSMD_ARTICLE04: Reichsschatzanweisungs-Anleihe überzeichnet.
+Found
+MODSMD_ARTICLE05: Stand des Ordnungswerkes für den Güterfernverkehr.
+Found
+MODSMD_ARTICLE06: Das Amt „Feierabend" auf dem Weltkongreß.
+Found
+MODSMD_ARTICLE07: Entziehung des Führerscheins.
+Found
+MODSMD_ARTICLE08: Die „Reichspost" würdigt erneut das Abkommen.
+Found
+MODSMD_ARTICLE09: Vereinigung der 3. und 4. Internationale.
+Found
+MODSMD_ARTICLE10: Die Opfer der Zwischenfälle auf den Champs Elysees.
+Found
+MODSMD_ARTICLE11: Das Reformprogramm am Donnerstag vor der Kammer«
+Found
+MODSMD_ARTICLE12: Neuer Heimkehrer-Transport aus Ostafrika.
+Found
+MODSMD_ARTICLE13: Abessinische Ergebenheitsversicherungen.
+Found
+MODSMD_ARTICLE14: Weitere Massenverhaftungen in Spanien.
+Found

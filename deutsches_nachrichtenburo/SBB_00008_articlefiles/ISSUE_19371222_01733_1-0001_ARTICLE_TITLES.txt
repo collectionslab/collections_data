@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Staatsakt für General Ludendorff. (Schluß)
+Found
+MODSMD_ARTICLE02: Letzte Ehrung durch den Führer.
+Found
+MODSMD_ARTICLE03: Marsch der Trauerparade durch die Stadt.
+Found
+MODSMD_ARTICLE04: Kranzniederlegung durch die Militärattaches.
+Found
+MODSMD_ARTICLE05: Der Abschied vom toten Feldherrn.
+Found
+MODSMD_ARTICLE06: Zwischenfälle im Unterhaus.
+Found
+MODSMD_ARTICLE07: Der Abschluß der Debatte.
+Found
+MODSMD_ARTICLE08: Die englische Presse Zur Chamberlain-Rede.
+Found
+MODSMD_ARTICLE09: Von bolschewistischem Wahn gründlich geheilt.
+Found

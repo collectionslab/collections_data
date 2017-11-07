@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Notbuch über Spanien.
+Found
+MODSMD_ARTICLE02: Staatssekretär Ricci bei Reichsminister Ruft.
+Found
+MODSMD_ARTICLE03: Dr. Ley und Dr. Thnesorge in Zeesen.
+Found
+MODSMD_ARTICLE05: Die Reichstagung der Nordischen Gesellschaft.
+Found
+MODSMD_ARTICLE06: lieber Bilbao hinaus!
+Found
+MODSMD_ARTICLE07: Telegrammwechsel zwischen Mussolini und Francs.
+Found
+MODSMD_ARTICLE08: Italienischer Ministerrat genehmigt Sechsjahresplan.
+Found
+MODSMD_ARTICLE09: Chautemps Besprechungen.
+Found
+MODSMD_ARTICLE10: Kabinettsrat in London.
+Found
+MODSMD_ARTICLE11: Nachruf des Reichssportführers.
+Found

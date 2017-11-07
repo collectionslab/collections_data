@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dr. Goebbels vor den Landesstcllenleitern.
+Found
+MODSMD_ARTICLE02: Ley und Darre an die deutschen Bauern.
+Found
+MODSMD_ARTICLE03: Taufe des neuen Flugstützpunkts „Friesenland".
+Found
+MODSMD_ARTICLE04: Gesundheitsschutz der Seeleute der Handelsmarine.
+Found
+MODSMD_ARTICLE05: Trauung des Steitiner Regierungspräsidenten.
+Found
+MODSMD_ARTICLE06: Kommuuisten-Berbot für die ganze Schweiz gefordert.
+Found
+MODSMD_ARTICLE07: Jnskip gegen Schwarzseher.
+Found
+MODSMD_ARTICLE08: Ter schwedische Außenminister bei Waldmin.
+Found
+MODSMD_ARTICLE09: Rexisten-Sieg in einem politischen Prozeß.
+Found
+MODSMD_ARTICLE10: Moskau hetzt überall.
+Found
+MODSMD_ARTICLE11: Neuseeland schafft sich eine eigene moderne Luftwaffe.
+Found
+MODSMD_ARTICLE12: Große Ölvorkommen auf Trinidad?
+Found

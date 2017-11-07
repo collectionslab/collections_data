@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Zwei neue Senatoren in der Danziger Regierung.
+Found
+MODSMD_ARTICLE02: Sir Thomas Jnskip über das neue Lebensmittelamt.
+Found
+MODSMD_ARTICLE03: Waffmeinfuhrkontrollplan der britischen Regierung.
+Found
+MODSMD_ARTICLE04: Frankreichs Mottenbauprogramm.
+Found
+MODSMD_ARTICLE05: Stellvertretender Leiter der Sowjet-Staatsbank in Paris.
+Found
+MODSMD_ARTICLE06: Luftfahrthaushalt von der Kammer angenommen.
+Found
+MODSMD_ARTICLE07: Neuer Pressechef der österreichischen Regierung.
+Found
+MODSMD_ARTICLE08: Der österreichische FinanZminister über den Staatshaushalt.
+Found
+MODSMD_ARTICLE09: Die Not der Sudetendeutschen vor dem Abgeordnetenhaus.
+Found
+MODSMD_ARTICLE10: Senator Wiesner über das Volksgruppenrecht.
+Found
+MODSMD_ARTICLE11: Die Organisation der neuen polnischen Regierungspartei.
+Found
+MODSMD_ARTICLE12: Wilnaer Studenten erneut gegen das Judentum.
+Found
+MODSMD_ARTICLE13: Hohe Freiheitsstrafen für litauische Kommunisten.
+Found
+MODSMD_ARTICLE14: 22 WO sowjetrussische Soldaten bei Madrid.
+Found
+MODSMD_ARTICLE15: Italienisch schwedischer Handelsvertrag unterzeichnet.
+Found
+MODSMD_ARTICLE16: Wahlrechtskonferenz des ungarischen Parlaments.
+Found
+MODSMD_ARTICLE17: Japan erläutert seinen Schritt in Aethiopien.
+Found
+MODSMD_ARTICLE18: General Smnts über die Verteidigung Südafrikas.
+Found
+MODSMD_ARTICLE19: Roosevelt nach Montevideo weitergereist.
+Found
+MODSMD_ARTICLE20: Verschärfung des amerikanischen Hafenarbeiterstreiks.
+Found

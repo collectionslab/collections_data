@@ -1,0 +1,42 @@
+MODSMD_ARTICLE03: Justizminister Solmi auf der Rückreise nach Italien.
+Found
+MODSMD_ARTICLE04: Dr. Ley nimmt an Begrüßung der ÄdF.-Italionsahrer teil.
+Found
+MODSMD_ARTICLE05: Langemarckfeier-Gemeimschaft von Wehrmacht und HJ.
+Found
+MODSMD_ARTICLE06: Weltwirtschaftliche Gesellschaft empfängt Berater der BIZ.
+Found
+MODSMD_ARTICLE07: Überreichung des Adlerschildes an Professor Nocht.
+Found
+MODSMD_ARTICLE08: Korpsführer Christiansen über die Aufgaben des NSFK.
+Found
+MODSMD_ARTICLE09: Vor einer nichtöffentlichen Konferenzsitzung.
+Found
+MODSMD_ARTICLE11: Delbos und Eden verlassen Brüssel.
+Found
+MODSMD_ARTICLE12: Sowjetverherrlichung in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE13: Hlinka erkrankt.
+Found
+MODSMD_ARTICLE14: Die Schweiz entdeckt kommunistischen Menschenschmuggel.
+Found
+MODSMD_ARTICLE15: Auch Schwyz verbietet KommunistenorgMisationen.
+Found
+MODSMD_ARTICLE16: Das Preisgericht der Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE17: König Georg von Griechenland bei Lebrun zu Gast. '
+Found
+MODSMD_ARTICLE18: Milderung der Sicherheitsmaßnahmen in Marokko.
+Found
+MODSMD_ARTICLE19: Die formelle Besiegielung des Flottenabkommens.
+Found
+MODSMD_ARTICLE20: Verschärfte Gegensätze bei Spaniens Bolschewisten.
+Found
+MODSMD_ARTICLE21: Die Türkei dankt für jüdische Emigranten.
+Found
+MODSMD_ARTICLE22: Meuterei auf einem französischen Dampfer in Veracruz.
+Found
+MODSMD_ARTICLE23: Die Japaner überschreiten an 3 Stellen den Sutschau-Vach.
+Found
+MODSMD_ARTICLE24: Aufhebung der Exterritorialrechte in Mandschukuo.
+Found

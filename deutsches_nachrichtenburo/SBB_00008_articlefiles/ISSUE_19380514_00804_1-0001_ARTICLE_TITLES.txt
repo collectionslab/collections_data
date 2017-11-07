@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Unser Wille bestimmt unsere Haltung. Mussolini spricht vor 35V VW Genuesern.
+Found
+MODSMD_ARTICLE02: Seegefechtsiibungen vor Mussolini.
+Found
+MODSMD_ARTICLE03: Regierung Skladkowski Zwei Jahre im Amt.
+Found
+MODSMD_ARTICLE04: Ministerpräsident Jmredy über sein Programm.
+Found
+MODSMD_ARTICLE05: Die Kennzahl der Großhandelspreise vom 11. Mai 1938.
+Found

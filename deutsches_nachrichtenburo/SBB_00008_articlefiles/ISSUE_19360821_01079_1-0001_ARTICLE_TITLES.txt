@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Wirtschastspolitifche Tagung in Oberhof.
+Found
+MODSMD_ARTICLE02: Unterredung mit Professor Dr. Lehmch.
+Found
+MODSMD_ARTICLE03: Die Konferenz der nordischen Außenminister.
+Found
+MODSMD_ARTICLE04: Die italienische Presse zum „Kamerun"-Zwischenfall.
+Found
+MODSMD_ARTICLE05: General Mola rechnet mit baldiger Einnahme Madrids.
+Found
+MODSMD_ARTICLE06: General Queipo de Llano über die Lage.
+Found
+MODSMD_ARTICLE07: Nationalistische Säuberungsaktiou in der Provinz Badajoz.
+Found
+MODSMD_ARTICLE08: Neuer Angriff auf Palma de Mallorca abgeschlagen.
+Found
+MODSMD_ARTICLE09: Auslösimg von religiösen Ordensgesellschasten in Spanien.
+Found
+MODSMD_ARTICLE10: Neuer Michtlingstrausport- in Lissabon.
+Found
+MODSMD_ARTICLE11: Italienisches Dementi.
+Found
+MODSMD_ARTICLE12: Horthy in Oesterreich.
+Found
+MODSMD_ARTICLE13: König Eduard VIII. in Korfu.
+Found
+MODSMD_ARTICLE14: Paris-Reise des Außenministers Beck?
+Found
+MODSMD_ARTICLE15: Weitere Enthüllungen im Moskauer Prozeß.
+Found

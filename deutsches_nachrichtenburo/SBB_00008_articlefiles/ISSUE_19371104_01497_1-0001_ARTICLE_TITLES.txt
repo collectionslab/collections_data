@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Empfänge beim Führer.
+Found
+MODSMD_ARTICLE02: Ernennungen durch den Führer.
+Found
+MODSMD_ARTICLE03: Botschafter von Ribbentrop reist nach Rom.
+Found
+MODSMD_ARTICLE04: Ein gefälschter Ludendorff-Brief.
+Found
+MODSMD_ARTICLE05: Berufung der Mitglieder des Langemarck-Ausschusses.
+Found
+MODSMD_ARTICLE06: Drei Hinrichtungen wegen Landes- und Hochverrats.
+Found
+MODSMD_ARTICLE07: Die italienischen Kolonialpolitiker in München.
+Found
+MODSMD_ARTICLE08: Rudolf Heß in das Innere Libyens gestartet.
+Found
+MODSMD_ARTICLE09: Italien zum Jahrestag der Beendigung des Weltkrieges.
+Found
+MODSMD_ARTICLE10: Tie Londoner Presse über die Jagdausstellung.
+Found
+MODSMD_ARTICLE11: Beck-Stiftung an der Warschauer Universität.
+Found
+MODSMD_ARTICLE12: Bergarbeiterstreik im Krakauer Steinkohlenrevier.
+Found
+MODSMD_ARTICLE13: Pierlot verzichtet auf die Regierungsbildung.
+Found
+MODSMD_ARTICLE14: Sie haben immer noch nichts dazu gelernt!
+Found
+MODSMD_ARTICLE15: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE16: Marokkanischer Nationalist in die Verbannung geschickt.
+Found
+MODSMD_ARTICLE17: Ueberfall auf Polizeiwache in Nordpalästina.
+Found
+MODSMD_ARTICLE18: Die Japaner vor Taiyuanfu.
+Found
+MODSMD_ARTICLE19: Der Außenminister von Honduras zurückgetreten.
+Found

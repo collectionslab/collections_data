@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Englandfahrt Todesfahrt.
+Found
+MODSMD_ARTICLE02: Das Flugzeug der Linie Rio—Rom verunglückt.
+Not Found
+MODSMD_ARTICLE03: Die Umsiedlung der Deutschen des Oberetschtals.
+Found
+MODSMD_ARTICLE04: Italienische Dusche für französische Hetzer.
+Found
+MODSMD_ARTICLE05: Bulgarische Wirtschaftsabordnung in Moskau»
+Found
+MODSMD_ARTICLE06: Russisch-slowakische diplomatische Beziehungen.
+Found
+MODSMD_ARTICLE07: Helsinki über die karelischen Kämpfe.
+Found
+MODSMD_ARTICLE08: Die Schweiz verteidigt ihren Luftraum.
+Found
+MODSMD_ARTICLE09: Auch die Schweiz spürt die britischen Piratem
+Found
+MODSMD_ARTICLE10: Sie glauben den deutschen Offizieren.
+Found
+MODSMD_ARTICLE11: „Leichte Havarie."
+Found
+MODSMD_ARTICLE12: Englisches Tankschiff auf Mine gelaufen.
+Found
+MODSMD_ARTICLE13: Ueberfall auf ein Fort in Dublin.
+Found
+MODSMD_ARTICLE14: So legt England die neutrale Schiffahrt lahm.
+Found
+MODSMD_ARTICLE15: Umbildung der ägyptischen Regierung.
+Found
+MODSMD_ARTICLE16: Amerikas Spekulanten hoffen auf Kriegsgewinne.
+Found
+MODSMD_ARTICLE17: Zuchthäusler sollen für die englische Freiheit fechten!
+Found
+MODSMD_ARTICLE18: KW Tote beim Weihnachtsverkehr in USA.
+Found
+MODSMD_ARTICLE19: Ein australischer Gesandter in Washington.
+Found
+MODSMD_ARTICLE20: Ein persönlicher Vertreter Roosevelts beim Vatikan.
+Found
+MODSMD_ARTICLE21: Ein Sonderberater des amerikanischen Außenministers.
+Found
+MODSMD_ARTICLE22: Amerikanische Schiffe unter norwegischer Flagge?
+Found
+MODSMD_ARTICLE23: Ter Perlfluß wieder geöffnet.
+Found

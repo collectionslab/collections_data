@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Dank des Führers.
+Found
+MODSMD_ARTICLE02: Reichstagssitzung von allen Sendern übertragen.
+Found
+MODSMD_ARTICLE03: Dr. Gärtner aus Wien zurück.
+Found
+MODSMD_ARTICLE04: Ein Ehrenpreis Dr. Fricks.
+Found
+MODSMD_ARTICLE05: Oesterreichische PostVerwaltung an die Reichspost.
+Found
+MODSMD_ARTICLE06: Ehrung des Märtyrers Johann Philipp Palm.
+Found
+MODSMD_ARTICLE07: Von Heeren ehrt jugoslawische Journalisten.
+Found
+MODSMD_ARTICLE08: „Das ungarische Volk begrüßt den Anschluß."
+Found
+MODSMD_ARTICLE09: Ein dänischer Sozialdemokrat zu Oesterreich.
+Found
+MODSMD_ARTICLE10: Außenminister Beck will vor dem Senat sprechen.
+Found
+MODSMD_ARTICLE11: Französisch-österreichischer Fußballkampf abgesagt.
+Found
+MODSMD_ARTICLE12: „Paris Midi" über den Empfang des Führers in Berlin.
+Found
+MODSMD_ARTICLE13: Laval warnt vor Einmischung Frankreichs in Spanien.
+Found
+MODSMD_ARTICLE14: Artillerie und Munition für die Spauienbolschewisten.
+Found
+MODSMD_ARTICLE15: Abfuhr Chamberlains für die Gerüchtemacher.
+Found
+MODSMD_ARTICLE16: Das Echo der Mussolini-Rede.
+Found
+MODSMD_ARTICLE17: Die Abordnung der Faschistischen Partei in Japan.
+Found
+MODSMD_ARTICLE18: Mobilisierung der japanischen Volkskraft gefordert.
+Found

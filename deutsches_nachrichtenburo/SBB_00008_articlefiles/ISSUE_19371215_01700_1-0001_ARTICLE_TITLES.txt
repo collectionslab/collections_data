@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Empfang zu Ehren Flandins.
+Found
+MODSMD_ARTICLE02: Gründung des deutsch-japanischen Go-Jnstituts.
+Found
+MODSMD_ARTICLE03: Der Reichsspottführer in Helsinki.
+Found
+MODSMD_ARTICLE04: Ehrung deutscher Wissenschaftler in Lissabon.
+Found
+MODSMD_ARTICLE05: Ein Antituberkulose-Kongreß in Tripolis.
+Found
+MODSMD_ARTICLE06: Sitzung der deutsch-französischen Regiernngsausschüsse.
+Found
+MODSMD_ARTICLE07: Der Haushalt des Arbeitsministeriums angenommen.
+Found
+MODSMD_ARTICLE08: Pariser Warenhäuser von der Angestelltenschaft besetzt.
+Found
+MODSMD_ARTICLE09: Die Labourparty fordert außenpolitische- Aussprache.
+Found
+MODSMD_ARTICLE10: Das Ansteigen der englischen Rüstungsausgaben.
+Found
+MODSMD_ARTICLE11: Bolschewistische Agitation im britischen Rundfunk.
+Found
+MODSMD_ARTICLE12: Freilassung Politischer Gefangener in Irland.
+Found
+MODSMD_ARTICLE13: Reuter meldet japanisches Bedauern über den Zwischenfall.
+Found
+MODSMD_ARTICLE14: Eine Note Japans dem Botschafter der USA. überreicht.
+Found
+MODSMD_ARTICLE15: Auch Hankau wird geräumt.
+Found
+MODSMD_ARTICLE16: Ausbau der sowjetrussischeu Festungswerke von Wladiwostok.
+Found
+MODSMD_ARTICLE17: Der Präsident des Japanisch-Deutschen Vereins gestorben.
+Found
+MODSMD_ARTICLE18: Der deutsche Botschafter in Rio überreicht Beglaubigung.
+Found
+MODSMD_ARTICLE19: Der chilenische Arbeitsminister zurückgetreten.
+Found

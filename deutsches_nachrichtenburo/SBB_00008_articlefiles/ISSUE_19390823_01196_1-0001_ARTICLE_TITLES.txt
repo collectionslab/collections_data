@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Graf v. d. Schulenburg als Vizepräsident eingeführt.
+Found
+MODSMD_ARTICLE02: Der italienische Unterrichtsminister in Wien eingetroffen.
+Found
+MODSMD_ARTICLE03: Volksdeutsche Familie von Aufständischen niedergemetzelt.
+Found
+MODSMD_ARTICLE04: Polen baut Schützengraben an der slowakischen Grenze.
+Found
+MODSMD_ARTICLE05: Tapfere Tat eines elfjährigen deutschen Jungen.
+Found
+MODSMD_ARTICLE06: Folterqualen eines Volksdeutschen.
+Found
+MODSMD_ARTICLE07: Sinnlose polnische Zerstörungswut.
+Found
+MODSMD_ARTICLE08: 886 deutsche Genossenschaften Polen ausgeliefert.
+Found
+MODSMD_ARTICLE09: Noch immer völlige Ratlosigkeit in Warschau.
+Found
+MODSMD_ARTICLE10: Betrachtungen des „Dziennik Poznanski".
+Found
+MODSMD_ARTICLE11: Reval: „Neue Lage in Europa".
+Found
+MODSMD_ARTICLE12: Kopenhagen: „Deutschlands Triumph über die Westmächte".
+Found
+MODSMD_ARTICLE13: Mailand: „Katastrophe für die großen Demokratien."
+Found
+MODSMD_ARTICLE14: Museumsbesuch statt Sitzung der Militärmissionen.
+Found
+MODSMD_ARTICLE15: Das Parlament Frankreichs meldet sich.
+Found
+MODSMD_ARTICLE16: Das englische Parlament tagt wieder.
+Found
+MODSMD_ARTICLE17: Neue arabische Presseagentur.
+Found
+MODSMD_ARTICLE18: Brasilien: Gewaltiger Eindruck des Paktes Berlin—Moskau.
+Found

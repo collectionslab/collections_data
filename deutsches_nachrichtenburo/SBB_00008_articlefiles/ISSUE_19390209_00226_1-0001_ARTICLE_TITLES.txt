@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Aus der Preußischen Verwaltung.
+Found
+MODSMD_ARTICLE02: Rudolf Heß gratuliert Admiral von Reuter.
+Found
+MODSMD_ARTICLE03: Stapellauf des Schlachtschiffes
+Found
+MODSMD_ARTICLE04: Eine Erklärung Cincar-Markowitschs.
+Found
+MODSMD_ARTICLE05: Konsul Mulert-Bahia gestorben.
+Found
+MODSMD_ARTICLE06: Verbindungsmann der DAF. zum Vierjahresplan.
+Found
+MODSMD_ARTICLE07: Die Reichsmusiktage der HF. eröffnet.
+Found
+MODSMD_ARTICLE08: Bereits 799 999 DAF.-Mitglieder im Sudetengau.
+Found
+MODSMD_ARTICLE09: Benesch-Freunden wurden die Mandate entzogen.
+Found
+MODSMD_ARTICLE10: Beran ruft zur Mobilisierung aller Kräfte auf.
+Found
+MODSMD_ARTICLE11: Wahlrichtlinien kür den karpatho-ukrainischen Landtag.
+Found
+MODSMD_ARTICLE12: Kapitulation von Minorca?
+Found
+MODSMD_ARTICLE13: Spanisch-Perthus besetzt.
+Found
+MODSMD_ARTICLE14: Mehrere Pyrenäendörfer befreit.
+Found
+MODSMD_ARTICLE15: Vor verschlossenen Türen.
+Found
+MODSMD_ARTICLE16: Rote Milizen optieren für Franca.
+Found
+MODSMD_ARTICLE17: Ruhelos von Ort zu Ort.
+Found
+MODSMD_ARTICLE18: Italien kann 19 Millionen Mann mobilisieren.
+Found
+MODSMD_ARTICLE19: Die Verhandlungen mit der Naschaschibi-Gruppe.
+Found
+MODSMD_ARTICLE20: Politisches Durcheinander in Syrien.
+Found

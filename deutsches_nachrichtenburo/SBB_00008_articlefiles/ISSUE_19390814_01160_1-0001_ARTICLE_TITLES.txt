@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Besuch Graf Cianos beim Führer.
+Found
+MODSMD_ARTICLE02: Großkundgebung des NSD.-Marinebundes.
+Found
+MODSMD_ARTICLE04: Die Jungfaschisten verabschiedeten sich von Weimar.
+Found
+MODSMD_ARTICLE05: Enthüllung einer Planetta-Büste in Wiem
+Found
+MODSMD_ARTICLE06: Großkundgebungen in der Slowakei.
+Found
+MODSMD_ARTICLE07: Die britischen Scheinwerfer zu langsam!
+Found
+MODSMD_ARTICLE08: General Gambara zum Botschafter in Madrid ernannt.
+Found
+MODSMD_ARTICLE09: Täglich zwei Militärkonferenzen in Moskau.
+Found
+MODSMD_ARTICLE10: Der Rücktritt des ägyptischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE11: Englands doppeltes Spiel von Tokio durchschaut.
+Found
+MODSMD_ARTICLE12: Gegen internationale Brunnenvergiftung der Briten.
+Found

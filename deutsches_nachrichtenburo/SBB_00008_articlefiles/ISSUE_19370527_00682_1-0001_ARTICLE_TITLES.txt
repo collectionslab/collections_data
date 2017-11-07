@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Empfang beim Führer.
+Found
+MODSMD_ARTICLE02: Der Führer an die reichsdeutsche Kolonie in Paris.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Argentinische Marineoffiziere in Berlin.
+Found
+MODSMD_ARTICLE05: Glückwunsch Dr. Dorpmüllers an die Hapag.
+Found
+MODSMD_ARTICLE07: Bombenangriff auf deutsches Torpedoboot.
+Found
+MODSMD_ARTICLE08: Allgemeine Zustimmung in Ungarn zur Kanya-Rede.
+Found
+MODSMD_ARTICLE09: Belgische Anerkennung für Deutschland.
+Found
+MODSMD_ARTICLE10: Lebrun empfing den belgischen Wirtschaftsminister.
+Found
+MODSMD_ARTICLE11: Ramsay MacDonald aus der Politik ausgeschieden.
+Found
+MODSMD_ARTICLE12: Der „Vertrauensmann" des Dean von Canterbury.
+Found
+MODSMD_ARTICLE13: „Times" begrüßt die Gefangenenfreigabe durch Franeo, „ . .... . ° .
+Found
+MODSMD_ARTICLE14: Meinungsverschiedenheiten in der Reichskonferenz.
+Found
+MODSMD_ARTICLE15: Erfolgreicher Vorstoß an der Biscaya-Front.
+Found
+MODSMD_ARTICLE16: Commander Rosendahl vor öem Untersuchungsausschuß.
+Found
+MODSMD_ARTICLE17: Mussolini für Waffenbeschränkungsbemühungen.
+Found
+MODSMD_ARTICLE18: Japan protestiert wegen des Swatau-Zwischenfalls.
+Found
+MODSMD_ARTICLE19: Vollstreckung eines Todesurteils.
+Found

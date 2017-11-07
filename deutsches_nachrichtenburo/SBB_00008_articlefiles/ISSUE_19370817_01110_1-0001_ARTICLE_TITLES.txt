@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Die Verpachtung amerikanischer Zerstörer an Brasilien.
+Found
+MODSMD_ARTICLE04: Dr. Goebbels beglückwünscht Professor von Hausegger.
+Found
+MODSMD_ARTICLE05: Die Schuljugend feierte den Geburtstag Berlins.
+Found
+MODSMD_ARTICLE06: Neichsminister Dr. Frick in Oeschelbronn.
+Found
+MODSMD_ARTICLE07: Rege Kauftätigkeit auf der Deutschen Ostmesse.
+Found
+MODSMD_ARTICLE08: Zapfenstreich zu Ehren des Generals von Epp.
+Found
+MODSMD_ARTICLE09: Irland siegt im Internationalen Aachener Reitturnier.
+Found
+MODSMD_ARTICLE10: Deutsch-polnische Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE11: Zahlreiche Ortschaften an der Santander-Front genommen.
+Found
+MODSMD_ARTICLE12: Die Manöver auf Sizilien.
+Found
+MODSMD_ARTICLE13: Rumänien feiert sein Marinefest.
+Found
+MODSMD_ARTICLE14: Minister Kung in Salzburg.
+Found
+MODSMD_ARTICLE15: Frankreich und die Ereignisse in Schanghai.
+Found
+MODSMD_ARTICLE16: Chinesisches Schnellboot in die Luft gesprengt.
+Found
+MODSMD_ARTICLE17: Bomben beschädigen amerikanisches Flaggschiff.
+Found
+MODSMD_ARTICLE18: Die Chinesen bombardierten Schanghai.
+Found
+MODSMD_ARTICLE19: Rücktritt des irakischen Kabinetts.
+Found

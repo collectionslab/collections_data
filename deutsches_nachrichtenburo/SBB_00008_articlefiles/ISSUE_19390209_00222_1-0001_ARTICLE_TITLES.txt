@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der mexikanische Gesandte wieder in Berlin.
+Found
+MODSMD_ARTICLE02: Deutsche Generalkonsulate in Preschurg und Trieft.
+Found
+MODSMD_ARTICLE03: Neue Aufgaben der Reichsbank.
+Found
+MODSMD_ARTICLE04: „Mandate und Protektorate in Afrika".
+Found
+MODSMD_ARTICLE05: Großtagung des Fremdenverkehrs in Tirol.
+Found
+MODSMD_ARTICLE06: Tie letzten Tage Sowjet-Kataloniens.
+Found
+MODSMD_ARTICLE07: Letzter Widerstand an der französischen Grenze?
+Found
+MODSMD_ARTICLE08: Bullit bei Bonnet.
+Found
+MODSMD_ARTICLE09: Berard bei Daladier.
+Found
+MODSMD_ARTICLE10: Noch keine Anerkennung von Vurgos durch Paris.
+Found
+MODSMD_ARTICLE11: Chamberlaius Erklärung keine Ueberraschung.
+Found
+MODSMD_ARTICLE12: Ermächtigungsgesetz für den slowakischen Finanzminister.
+Found
+MODSMD_ARTICLE13: Eine Erweiterung des Republikschutzgesetzes.
+Found
+MODSMD_ARTICLE14: Die politischen Ziele der Slowakei.
+Found
+MODSMD_ARTICLE15: Frau Perkms seltsamer Schützling.
+Found

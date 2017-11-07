@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Beschaffung von Personenstandsurkunden im Ausland.
+Found
+MODSMD_ARTICLE02: Preissenkung für Volksempfänger verfügt.
+Found
+MODSMD_ARTICLE03: Geltung der Handelsspannen für Rundfunkgeräte verlängert.
+Found
+MODSMD_ARTICLE04: Hinrichtung von Landesverrätern.
+Found
+MODSMD_ARTICLE05: Deutsch-französisches Austauschlager in Bad Reichenhall.
+Found
+MODSMD_ARTICLE06: Vortrag über Freilufterziehung in Deutschland.
+Found
+MODSMD_ARTICLE07: Der Historiker Stanojewitsch f.
+Found
+MODSMD_ARTICLE08: Washington und der Nordchina-Konflikt.
+Found
+MODSMD_ARTICLE09: Wieder blutige Streikausschreitungen in USA.
+Found
+MODSMD_ARTICLE10: Neue japanische Maßnahmen im Nordchina-Konflikt.
+Found
+MODSMD_ARTICLE11: Kohlenknappheit in Südafrika.
+Found
+MODSMD_ARTICLE12: Die Kennzahl der Großhandelspreise vom 28. Juli.
+Found

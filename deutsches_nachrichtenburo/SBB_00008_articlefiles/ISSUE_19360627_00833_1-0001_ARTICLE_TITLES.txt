@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Empfang der Handwerksführer bei Dr. Schacht.
+Found
+MODSMD_ARTICLE02: Feierstunde der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE03: Danktelegramm Hierls an Dr. Frick.
+Found
+MODSMD_ARTICLE04: Glückwunsch Dr. Fricks an die Universität Heidelberg.
+Found
+MODSMD_ARTICLE05: Rumänische Ehrung für den Rektor Prof. Dr. Groh.
+Found
+MODSMD_ARTICLE06: Die Internationale Universitätskonferenz.
+Found
+MODSMD_ARTICLE07: Wieder ein sudetendeutsches Blatt verboten.
+Found
+MODSMD_ARTICLE08: Die Verstaatlichung der französischen Kriegsindustrie.
+Found
+MODSMD_ARTICLE09: Schwere Schlägereien in Paris.
+Found
+MODSMD_ARTICLE10: De la Rocque wirbt Mitglieder.
+Found
+MODSMD_ARTICLE11: Verabschiedung des schwedischen Haushaltsplanes.
+Found
+MODSMD_ARTICLE12: London Zur Stimmung in Transjordanien.
+Found
+MODSMD_ARTICLE13: Streikunruhen in Alexandrien.
+Found
+MODSMD_ARTICLE14: Zum neuesten japanisch-chinesischen Zwischenfall.
+Found
+MODSMD_ARTICLE15: Die Kennzahl der Großhandelspreise vom 24. Juni.
+Found

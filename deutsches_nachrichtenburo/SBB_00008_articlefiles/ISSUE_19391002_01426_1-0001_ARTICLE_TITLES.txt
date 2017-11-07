@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Führer dankt seinen Soldaten.
+Found
+MODSMD_ARTICLE02: Der Besuch des italienischen Außenministers.
+Found
+MODSMD_ARTICLE03: Kurze Auslandsnachrichten.
+Found
+MODSMD_ARTICLE04: Glückwünsche zum 79. Dienstjubiläum von Mackensens.
+Found
+MODSMD_ARTICLE05: Die Deutschlandreise Graf Terautschis vor dem Abschluß.
+Found
+MODSMD_ARTICLE06: Nationalzeitung: „Billige Illusionen jäh zertrümert."
+Found
+MODSMD_ARTICLE07: Rumänien: Das entscheidende Ereignis.
+Found
+MODSMD_ARTICLE08: Spaniens Staatsanleihe zweieinhalbmal überzeichnet.
+Found

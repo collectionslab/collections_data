@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Beileid Dr. Leys zum Grubenunglück in Oberhausen.
+Found
+MODSMD_ARTICLE02: Jugoslawiens Landwirtschaftsminister in Berlin.
+Found
+MODSMD_ARTICLE03: Die KdF.-Flotte auf dem Atlantik.
+Found
+MODSMD_ARTICLE04: Starke Beachtung der deutschen Ausstellung in Warschau.
+Found
+MODSMD_ARTICLE05: Hetzblätter und ihre „Informatoren".
+Found
+MODSMD_ARTICLE06: Zurückweisung französischer Störungsmanöver.
+Found
+MODSMD_ARTICLE07: Die itallenisch-sranzösischen Verhandlungen.
+Found
+MODSMD_ARTICLE08: Neuer Frankensturz löst Beunruhigung in Paris aus.
+Found
+MODSMD_ARTICLE09: „Frankreich braucht nicht für Prag Selbstmord zu begehen".
+Found
+MODSMD_ARTICLE10: Pomezia eine italienische Siedlung.
+Found
+MODSMD_ARTICLE11: Der neue Gesandte Panamas in Rom.
+Found
+MODSMD_ARTICLE12: Weiterer Vormarsch in der Provinz Castellon.
+Found
+MODSMD_ARTICLE13: Das Spitzelsystem in Sowjetspanien soll ausgebaut werden.
+Found
+MODSMD_ARTICLE14: Moskau schickt Bombenflugzeuge.
+Found
+MODSMD_ARTICLE15: Weitere Verschärfung der Lage in Tunis.
+Found
+MODSMD_ARTICLE16: Die arabischen Hungerstreiker in Akko.
+Found
+MODSMD_ARTICLE17: Der Chef des Protokolls Graf Romer f.
+Found
+MODSMD_ARTICLE18: Im Zeichen der Entspannung.
+Found
+MODSMD_ARTICLE19: Im Auftrage Moskaus.
+Found
+MODSMD_ARTICLE20: Paets zum estnischen Staatspräsidenten gewählt.
+Found

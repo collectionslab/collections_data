@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Graf Csaky am IK. Januar in Berlin.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Goebbels beglückwünschte Karl Leipold.
+Found
+MODSMD_ARTICLE03: 40. Geburtstag des Reichskommissars Josef Wagner.
+Found
+MODSMD_ARTICLE04: „Herzliche Kameradschaft mit den deutschen Fliegern".
+Found
+MODSMD_ARTICLE05: Axmann über die sozialpolitische Jugendarbeit.
+Found
+MODSMD_ARTICLE06: Die deutsche Oberschule in Rom.
+Found
+MODSMD_ARTICLE07: Die italienisch-französischen Sportbeziehungen.
+Found
+MODSMD_ARTICLE08: Daladier empfängt Notspanienfahrer.
+Found
+MODSMD_ARTICLE09: „Jntransigeant" gegen die Hochflut der Falschmeldungen.
+Found
+MODSMD_ARTICLE10: Die Judeu vermehrten sich um das Mfache.
+Found
+MODSMD_ARTICLE11: Folgen der jüdischen Hetze in Holland.
+Found
+MODSMD_ARTICLE12: Separatistische Drusen fordern Loslösung Djebel Drus'.
+Found
+MODSMD_ARTICLE13: Tschungking von der japanischen Luftwaffe angegriffen.
+Found
+MODSMD_ARTICLE14: Die Untersuchung gegen den Rekordbetrüger Musica.
+Found
+MODSMD_ARTICLE15: Todesstrafe gegen einen Autofallensteller.
+Found

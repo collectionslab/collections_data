@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Delcroix an den Führer.
+Found
+MODSMD_ARTICLE02: Cianetti und Dr. Ley bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Stabschef Lutze 15 Jahre Parteigenosse.
+Found
+MODSMD_ARTICLE04: Die Feier des Heldengedenktages.
+Found
+MODSMD_ARTICLE05: Internationale Tagung der Automobilindustrie.
+Found
+MODSMD_ARTICLE06: Frau Magda Goebbels von einem Töchterchen entbunden.
+Found
+MODSMD_ARTICLE07: Das Wrack des Versuchsboots „Welle" gehoben.
+Found
+MODSMD_ARTICLE08: Dr. CZermak über die Judenfrage in Oesterreich.
+Found
+MODSMD_ARTICLE09: Wegen Beleidigung des Führers verurteilt.
+Found
+MODSMD_ARTICLE10: ' XX Erwägt Blum ein neues Volksfront-Programm? – -D
+Not Found
+MODSMD_ARTICLE11: Die Lohnerhöhungen für Weltansstellungsarbeiter.
+Found
+MODSMD_ARTICLE12: Die Madrider Bolschewisten völlig Zermürbt.
+Found
+MODSMD_ARTICLE13: Aufruf gegen die Kinderverschleppuug aus Sowjet-Spanien.
+Found

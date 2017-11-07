@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Reichsminister Ruft empfing Agnes Miegel.
+Found
+MODSMD_ARTICLE02: Generalleutnant von Troschke f.
+Found
+MODSMD_ARTICLE03: Sven Hedin besichtigt Landgewinnungsarbeiten.
+Found
+MODSMD_ARTICLE04: Pierre Dave über die Rex-Bewegung.
+Found
+MODSMD_ARTICLE05: Senatspräsident Greiser wieder in Danzig.
+Found
+MODSMD_ARTICLE06: Entwurf des neuen Schweizer Staatsschutzgesetzes.
+Found
+MODSMD_ARTICLE07: Die Schweiz und der Haager Gerichtshof.
+Found
+MODSMD_ARTICLE08: Jüdische Emigrantin wegen Abtreibung verurteilt.
+Found
+MODSMD_ARTICLE09: Stalin verkündet beschleunigtes Aufrustungstempo.
+Found
+MODSMD_ARTICLE10: Lord Cranborne bei der Sitzung des Völkerbundsrates.
+Found
+MODSMD_ARTICLE11: Arbeitgeberverband klagt wegen Fabrikbesetzung.
+Found
+MODSMD_ARTICLE12: Tausende von Opfern auf Luzon.
+Found
+MODSMD_ARTICLE13: Mandschnkuo greift in der Inneren Mongolei ein.
+Found

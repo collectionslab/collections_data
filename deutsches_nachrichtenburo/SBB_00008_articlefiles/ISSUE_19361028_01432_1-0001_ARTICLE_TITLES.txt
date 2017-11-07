@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Vom Führer ernannt.
+Found
+MODSMD_ARTICLE02: Dr. Ley an die deutsche Hochseefischerei.
+Found
+MODSMD_ARTICLE03: Oswald Boelcke-Gedenkseier in Dessau.
+Found
+MODSMD_ARTICLE04: Hohe Ordensauszeichnung für Botschafter von Hassel.
+Found
+MODSMD_ARTICLE05: Italien ans der Nntibolschewistischen Ausstellung.
+Found
+MODSMD_ARTICLE06: König Eduard VIII. empfängt die deutschen Frontkämpfer.
+Found
+MODSMD_ARTICLE07: England verlangt Wiedergutmachung von Tokio.
+Found
+MODSMD_ARTICLE08: Lebrun veranstaltet eine Jagd.
+Found
+MODSMD_ARTICLE09: Die Stützungsaktion für die französischen Gemeinden.
+Found
+MODSMD_ARTICLE10: Ter marxistische Gewerkschaftsverband EGT ungesetzlich!
+Found
+MODSMD_ARTICLE11: Französische Arbeiter haben genug vom Streik.
+Found
+MODSMD_ARTICLE12: Maßnahmen gegen kommunistische Umtrübe in der Schweiz.
+Found
+MODSMD_ARTICLE13: Hauptquartier des Generals Mola nach Avila verlegt.
+Found
+MODSMD_ARTICLE14: Madrid in der Zange.
+Found
+MODSMD_ARTICLE15: Madrid ernennt Gesandtin für Stockholm.
+Found
+MODSMD_ARTICLE16: 2W Studenten in Warschau festgenommen.
+Found
+MODSMD_ARTICLE17: „Tag der Marine" in Nordamerika.
+Found

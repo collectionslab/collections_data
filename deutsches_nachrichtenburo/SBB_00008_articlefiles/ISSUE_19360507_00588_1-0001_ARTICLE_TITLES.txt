@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Führertagung der NSDAP in München.
+Found
+MODSMD_ARTICLE02: „Hindenburg" zur ersten Nordamerikafahrt gestartet.
+Found
+MODSMD_ARTICLE03: Amerika in Erwartung des „LZ Hindenburg".
+Found
+MODSMD_ARTICLE04: Wieder Handel mit Zloty in Tanzig.
+Found
+MODSMD_ARTICLE05: Die außenpolitische Aussprache im Unterhaus.
+Found
+MODSMD_ARTICLE06: Eine bemerkenswerte Rede Hoares.
+Found
+MODSMD_ARTICLE07: Der amerikanisch-französische Handelsvertrag unterzeichnet.
+Found

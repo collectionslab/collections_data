@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Italiens neuer Botschafter nach London abgereist.
+Found
+MODSMD_ARTICLE02: Neubildung des estnischen Kabinetts.
+Found
+MODSMD_ARTICLE03: Peinlich für das britische Lügenministerium.
+Found
+MODSMD_ARTICLE04: Esbjergs Wirtschaftsleben lahmgelegt.
+Found
+MODSMD_ARTICLE05: Dänische Mischer durch England brotlos gemacht.
+Found
+MODSMD_ARTICLE06: Der Niedergang des britischen Ausfuhrhandels.
+Found
+MODSMD_ARTICLE07: Britische Piraterie am Pranger!
+Found
+MODSMD_ARTICLE08: Holländische Denkschrift gegen die englische Blockade.
+Found
+MODSMD_ARTICLE09: Lloyd George warnt von neuem.
+Found
+MODSMD_ARTICLE10: Englands Giftgasverbrechen erregt Aufsehen.
+Found
+MODSMD_ARTICLE11: Die Nerven machen den Engländern zu schaffen.
+Found
+MODSMD_ARTICLE12: Francs an Südamerika.
+Found
+MODSMD_ARTICLE13: Kaffeemangel in der Türkei.
+Found
+MODSMD_ARTICLE14: Rücktrittsgesuch des stellv. japanischen Außenministers.
+Found
+MODSMD_ARTICLE15: Letzter Ausgleichsversuch im japanischen Außenamt.
+Found
+MODSMD_ARTICLE16: Auch Hongkong spürt die Folgen des Krieges.
+Found
+MODSMD_ARTICLE17: Argentinien feierte den Tag der Rasse.
+Found

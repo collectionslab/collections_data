@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Präsident Svinhufvud.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Neugestaltung der Rechtswahrer-Zeitschriften.
+Found
+MODSMD_ARTICLE04: Professor Grimm zum Urteil gegen Frankfurter.
+Found
+MODSMD_ARTICLE05: Tie ludenschaft feiert den Meuchelmord!
+Found
+MODSMD_ARTICLE06: London prüft die Antworten.
+Found
+MODSMD_ARTICLE07: Paris erklärt: Meinungstaustausch geht weiter.
+Found
+MODSMD_ARTICLE08: Der Völterbndsreform Ausschuß zusammengetreten.
+Found
+MODSMD_ARTICLE09: Der Alexandrette-Streit vor dem Völkerbundsrat.
+Found
+MODSMD_ARTICLE10: Reuter meldet: Tschiaugkaischek frei.
+Found
+MODSMD_ARTICLE11: Tschanhsueliang verhaftet?
+Found
+MODSMD_ARTICLE12: Chinesisches Werkzeug kommunistischer Drahtzieher.
+Found
+MODSMD_ARTICLE13: Besorgnis über die Entwicklung im Fernen Osten.
+Found

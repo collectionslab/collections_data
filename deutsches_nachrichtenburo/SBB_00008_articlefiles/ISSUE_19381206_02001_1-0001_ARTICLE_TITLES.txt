@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Neichsantzenminister in Paris.
+Found
+MODSMD_ARTICLE02: Korporaiionsminister Lantini in Berlin.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Empfang im Deutsch-Italienischen Kulturinstitut in Köln.
+Found
+MODSMD_ARTICLE05: Jtalienfeindliche Demonstrationen in Tunis und Korsika.
+Found
+MODSMD_ARTICLE06: Juden verschoben 14 Millionen Pengö.
+Found
+MODSMD_ARTICLE07: Die Attentäter von Czernowitz zwei Gymnasialschüler.
+Found
+MODSMD_ARTICLE08: „Rotspaniens Sache ist Sache des Judentums."
+Found
+MODSMD_ARTICLE09: Spanische Kinder nach Sowjetrußland verschleppt.
+Found
+MODSMD_ARTICLE10: Rotspanien bekennt seine Unfähigkeit.
+Found
+MODSMD_ARTICLE11: Die Generalstabsbesprechungen des Balkan-Bundes beendet.
+Found
+MODSMD_ARTICLE12: Roosevelt auf dem Rückzüge.
+Found
+MODSMD_ARTICLE13: „Condor" in der Bucht von Manila niedergegangen.
+Found

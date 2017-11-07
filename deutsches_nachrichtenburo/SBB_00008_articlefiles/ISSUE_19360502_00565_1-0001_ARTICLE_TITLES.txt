@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Die Arbeiterdelegierten und die Neichsberussweitkampfsieg er im Berliner Rathaus.
+Not Found
+MODSMD_ARTICLE02: Die Feiern der Auslandsdeutschen.
+Found
+MODSMD_ARTICLE03: Ausruf des Reichsbauernfuhrers.
+Found
+MODSMD_ARTICLE04: Ernennungen im Reichsernährungsministerium.
+Found
+MODSMD_ARTICLE05: Das Warenabkommen mit Mandschukuo.
+Found
+MODSMD_ARTICLE06: Deutsch-irisches Handelsabkommen verlängert.
+Found
+MODSMD_ARTICLE07: Spende des Reichshandwerksmeisters.
+Found
+MODSMD_ARTICLE08: „Graf Zeppelin" in Rio de Janeiro gelandet.
+Found
+MODSMD_ARTICLE09: Kommunistische Versammlungspraxis in Frankreich.
+Found
+MODSMD_ARTICLE10: Prager Vertreter der „Phönix" verhaftet.
+Found
+MODSMD_ARTICLE11: Wirtschaftsausschuß Italien—Oesterreich—Ungarn.
+Not Found
+MODSMD_ARTICLE12: Vollmachten der griechischen Regierung verlängert.
+Found
+MODSMD_ARTICLE13: Der Besuch des türkischen Außenministers in Athen.
+Found
+MODSMD_ARTICLE14: Der italienische Heeresbericht Nr. 201.
+Found
+MODSMD_ARTICLE15: London meldet: Haile Selassie unterwegs nach Dschibuti.
+Found
+MODSMD_ARTICLE16: Italienische Arbeiter auf dem Wege nach Afrika.
+Found
+MODSMD_ARTICLE17: Ab 1937 ProvinZialselbstverwaltung in Indien?
+Found
+MODSMD_ARTICLE18: Blutiger Zusammenstoß in Haifa.
+Found
+MODSMD_ARTICLE19: Arbeitsdienstpflicht in Guatemala.
+Found
+MODSMD_ARTICLE20: Die Kennzahl der Großhandelspreise vom 29. April.
+Found

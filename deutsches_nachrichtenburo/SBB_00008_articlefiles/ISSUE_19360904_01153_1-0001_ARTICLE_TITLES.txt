@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Das Programm des Neichsparteitages.
+Found
+MODSMD_ARTICLE03: Jüdische Einwohner auch in England unerwünscht.
+Found
+MODSMD_ARTICLE04: Nächste Woche englische Verstärkungen für Palästina?
+Found
+MODSMD_ARTICLE05: Hendaye von Flüchtlingen überflutet.
+Found
+MODSMD_ARTICLE06: Ruhe und Ordnung in Spanisch Marokko.
+Found
+MODSMD_ARTICLE07: 2W Maschinengewehre über Frankreich für die Volksfront.
+Found
+MODSMD_ARTICLE08: Französische Reisegesellschaft in Sowjetrußland unerwünscht.
+Found
+MODSMD_ARTICLE09: Von der Gordon-Bennett-Wettfahrt.
+Found

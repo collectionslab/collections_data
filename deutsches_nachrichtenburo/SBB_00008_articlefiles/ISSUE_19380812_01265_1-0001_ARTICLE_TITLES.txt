@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Internationale Garteubaukougrest grüßt Adolf Hitler.
+Found
+MODSMD_ARTICLE02: Der Reichssvortführer begrüßt die Kongreßteilnehmer.
+Found
+MODSMD_ARTICLE03: Sektionssitzungen des Internationalen Gartenbaukongresses.
+Found
+MODSMD_ARTICLE04: Der Ausländer-Ferienkursus der Hochschule für Politik.
+Found
+MODSMD_ARTICLE05: Neues ungarisches Fremdenverkehrsbüro in Berlin.
+Found
+MODSMD_ARTICLE06: Neuer Teilabschnitt des Berliner Autoringes eröffnet.
+Found
+MODSMD_ARTICLE07: Amerikanische Austauschschüler in Hamburg.
+Found
+MODSMD_ARTICLE08: Prag verbietet die Wahrheit.
+Found
+MODSMD_ARTICLE09: Einmischung des tschechischen Militärs.
+Found
+MODSMD_ARTICLE10: Englische Auszeichnung für KdF.-Schiff „Wilhelm Gustlosf"
+Found
+MODSMD_ARTICLE11: Faschistische Rassepolitik.
+Found
+MODSMD_ARTICLE12: Für die wirtschaftliche Selbständigkeit Italiens.
+Found
+MODSMD_ARTICLE13: Der an der französisch-katalanischen Grenze.
+Found
+MODSMD_ARTICLE14: Rote Diebe.
+Found
+MODSMD_ARTICLE15: Der nationale Bormarsch an der Estremadura-Front.
+Found
+MODSMD_ARTICLE16: Die Unterredung Schigemitsu—Litwinow-Finkelstein.
+Found
+MODSMD_ARTICLE17: Amerikanischer Glückwunsch für die Condor-Besatzung.
+Found
+MODSMD_ARTICLE18: Vollstreckung eines Todesurteils.
+Found

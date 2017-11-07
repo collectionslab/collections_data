@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Paris vermerkt Beruhigung der europäischen Lage.
+Found
+MODSMD_ARTICLE02: Botschafter Graf Welczeck bei Außenminister Delbos.
+Found
+MODSMD_ARTICLE03: General Gamelin bei Delbos.
+Found
+MODSMD_ARTICLE04: Der abgeänderte Gesetzentwurf über die Getreidestellen.
+Found
+MODSMD_ARTICLE05: 19 französische Militärflugzeuge nach Barcelona geliefert?
+Found
+MODSMD_ARTICLE06: Französische Gewerkschaften unterstützen Madrid.
+Found
+MODSMD_ARTICLE07: Spanisches Regierungsslugzeug abgeschossen.
+Found
+MODSMD_ARTICLE08: Algeciras von britischen Staatsangehörigen geräumt.
+Found
+MODSMD_ARTICLE09: Lockerung der Grenzsperre in Gibraltar.
+Found
+MODSMD_ARTICLE10: Wieder Ruhe aus Madeira.
+Found
+MODSMD_ARTICLE11: Rom dementiert englische Meldungen.
+Found
+MODSMD_ARTICLE12: Proteste des Vatikans bei der Madrider Regierung.
+Found
+MODSMD_ARTICLE13: Polen und die Frage der Nichteinmischung in Spanien.
+Found
+MODSMD_ARTICLE14: „Europäische Revolutionspläne der Komintern."
+Found
+MODSMD_ARTICLE15: Ministerpräsident Metaxas ruft das griechische Volk.
+Found
+MODSMD_ARTICLE16: 36 Kommunisten in Griechenland verhastet.
+Found
+MODSMD_ARTICLE17: Durchführung des britischen Uottenbauprogramms.
+Found
+MODSMD_ARTICLE18: Das größte britische lst-Boot soll verschrottet werden.
+Found
+MODSMD_ARTICLE19: Der 4. Internationale Zellenforscherkongreß eröffnet.
+Found
+MODSMD_ARTICLE20: Internationaler Ferienkursus Upsala eröffnet»
+Found
+MODSMD_ARTICLE21: Litauische Vereinigung im Wilnagebiet aufgelöst.
+Found

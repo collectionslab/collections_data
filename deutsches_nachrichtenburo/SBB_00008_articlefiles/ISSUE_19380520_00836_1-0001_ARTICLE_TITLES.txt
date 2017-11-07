@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer ehrt gefallene Helden.
+Found
+MODSMD_ARTICLE02: Handwerker-Ehrenpreise des Führers und Mussolinis.
+Found
+MODSMD_ARTICLE03: Reichsinnenmin'lster Dr. Frick in Kärnten.
+Found
+MODSMD_ARTICLE04: Ein Waisenheim für Eisenbahnerkinder in der Ostmark.
+Found
+MODSMD_ARTICLE05: Odertag 1938.
+Found
+MODSMD_ARTICLE06: Feststellungen der Sudetendeutschen Partei.
+Found
+MODSMD_ARTICLE07: Reynaud bei Lord Halifax.
+Found
+MODSMD_ARTICLE08: Vorbesprechungen bei Lord Plymouth.
+Found
+MODSMD_ARTICLE09: Die Labour-Opposition unbelehrbar.
+Found
+MODSMD_ARTICLE10: Die „Times" bestätigt die Verminderung der Kontrolle.
+Found
+MODSMD_ARTICLE11: „Tag der Solidarität für National-Spanien" in Italien.
+Found
+MODSMD_ARTICLE12: Der Vormarsch an der Teruel-Front.
+Found
+MODSMD_ARTICLE13: Das nordische Neutralitätsabkommen noch nicht fertig.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer au den Kaiser von Mandschukuo.
+Found
+MODSMD_ARTICLE02: Glückwunschtelegramm des Führers an General List.
+Found
+MODSMD_ARTICLE03: Ehrenpreise des Reichsinnenministers.
+Found
+MODSMD_ARTICLE04: Rudolf Heß begrüßt General Russo.
+Found
+MODSMD_ARTICLE05: General Russo's Abreise aus München.
+Found
+MODSMD_ARTICLE06: Neue Unverschämtheit in Marienbad.
+Found
+MODSMD_ARTICLE07: „Das Problem der Problemx gelöst."
+Found
+MODSMD_ARTICLE08: Die Moskau-Hörigkeit katholischer Kreise.
+Found
+MODSMD_ARTICLE09: Schwedischer Flottenbesuch in Finnland.
+Found
+MODSMD_ARTICLE10: Erster Bauauftrag für IIM Kampfflugzeuge an Nuffield.
+Found
+MODSMD_ARTICLE11: Englands Lebensmittelreserven für den Kriegsfall.
+Found
+MODSMD_ARTICLE12: Polens Außenminister sprach zur lettischen Presse.
+Found
+MODSMD_ARTICLE13: Sowjetrußlands Aufrüstung zur See und Zur Luft.
+Found
+MODSMD_ARTICLE14: Japanische Regierungserklärung Zur Absage der Olympiade.
+Found
+MODSMD_ARTICLE15: Veränderungen in der japanischen Wehrmacht.
+Found

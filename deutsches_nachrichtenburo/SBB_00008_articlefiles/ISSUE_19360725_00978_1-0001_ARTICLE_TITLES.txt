@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Weltkongreß für Freizeit und Erholung.
+Found
+MODSMD_ARTICLE02: Schwere Kämpfe vor Madrid.
+Found
+MODSMD_ARTICLE03: General Mola will Wasserzuführ nach Madrid unterbinden.
+Found
+MODSMD_ARTICLE04: Eingreifen französischer Kommunisten in Spanien.
+Found
+MODSMD_ARTICLE05: Marxistische Abteilungen im Vormarsch auf Saragossa. –
+Not Found
+MODSMD_ARTICLE06: Ausländer aus San Sebastian gerettet.
+Found
+MODSMD_ARTICLE07: Sicherheitsausschuß der Diplomaten in Madrid.
+Found
+MODSMD_ARTICLE08: Die Presse zur Aufnahme des Locarno-Vorschlages.
+Found
+MODSMD_ARTICLE09: Botschafter Drummond bei König Eduard VIII.
+Found
+MODSMD_ARTICLE10: Der „Radiopriester" entschuldigt sich.
+Found
+MODSMD_ARTICLE11: Kommunistische Zellenbildung in Tokioter Ministerium.
+Found

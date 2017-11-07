@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Zweite Mittags-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Stabschef Lutze nach Sizilien abgeflogen.
+Found
+MODSMD_ARTICLE03: Die Beschlüsse des Großen Faschistischen Rates.
+Found
+MODSMD_ARTICLE04: Dr. Ley in London eingetroffen.
+Found
+MODSMD_ARTICLE05: Hudson sprach in Belfast.
+Found
+MODSMD_ARTICLE06: Tie irischen Kundgebungen in England.
+Found
+MODSMD_ARTICLE07: Interuierung der geflüchteten Flugzeuge verlangt.
+Found
+MODSMD_ARTICLE08: Das Ende der roten Armee Kataloniens.
+Found
+MODSMD_ARTICLE09: Lebrun gegen die französische Pressehetze.
+Found
+MODSMD_ARTICLE10: Vereidigung der jugoslawischen Minister.
+Found
+MODSMD_ARTICLE11: Syrien „begrüßt" den französischen Oberkommissar.
+Found
+MODSMD_ARTICLE12: Kanadas Standpunkt gegenüber England.
+Found
+MODSMD_ARTICLE13: Roosevelts „Dementi" von einem Ohrenzeugen widerlegt.
+Found
+MODSMD_ARTICLE14: Für Frieden, gegen jede Einmischung!
+Found
+MODSMD_ARTICLE15: Unglaubliche Zustände auf Puertorico.
+Found
+MODSMD_ARTICLE16: Amerikanische Enthüllungen über Moskaus Pläne.
+Found
+MODSMD_ARTICLE17: Verschmelzung Deutsch-Neuguineas mit dem Papuagebiet?
+Found

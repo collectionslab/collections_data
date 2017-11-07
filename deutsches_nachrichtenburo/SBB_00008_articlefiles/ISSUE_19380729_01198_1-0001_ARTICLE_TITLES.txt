@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Flandin empfiehlt französisch-deutsche Verständigung.
+Found
+MODSMD_ARTICLE02: Frankreichs Politik der Widersprüche.
+Found
+MODSMD_ARTICLE03: Außenminister Beck besucht Oslo.
+Found
+MODSMD_ARTICLE04: Umschulungskurse für die ungarische Wirtschaft.
+Found
+MODSMD_ARTICLE06: Italienische Warnung vor übertriebenem Optimismus.
+Found
+MODSMD_ARTICLE07: Ruucimau reist in Begleitung von Sachverständigen.
+Found
+MODSMD_ARTICLE08: Englands Armeereform.
+Found
+MODSMD_ARTICLE09: Kommunistische Wühlereien in der griechischen Armee.
+Found
+MODSMD_ARTICLE10: Revolte auf Kreta.
+Found
+MODSMD_ARTICLE11: General Hnntziger verläßt Syrien.
+Found
+MODSMD_ARTICLE12: Eisenbahn-Attentat in Palästina.
+Found
+MODSMD_ARTICLE13: Bundesstaat Syrien—lrak?
+Found
+MODSMD_ARTICLE14: Japanische Kritlk an England.
+Found
+MODSMD_ARTICLE15: Abfuhr für Hetzer.
+Found
+MODSMD_ARTICLE16: Der Putsch vom 11. Mai.
+Found
+MODSMD_ARTICLE17: In 41 Stunden von Gjedsernach Warnemünde geschwommen.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Zusammenarbeit der deutschen und der italienischen Luftwaffe.
+Found
+MODSMD_ARTICLE02: Abendempfang der italienischen Frontkämpfer
+Found
+MODSMD_ARTICLE03: Italien flaggt auf Halbmast.
+Found
+MODSMD_ARTICLE04: Britische „Empfehlungen" an Moskau.
+Found
+MODSMD_ARTICLE05: Statt 1999 Millionen Zloty nur 494 Millionen!
+Found
+MODSMD_ARTICLE06: Noch weitere französische Aufrüstung.
+Found
+MODSMD_ARTICLE07: Beileidstelegramm des Führers an Graf Ciano.
+Found
+MODSMD_ARTICLE08: Japans Vorbedingungen für Verhandlungen mit England.
+Found
+MODSMD_ARTICLE09: „Die ganze Welt hört Adolf Hitlers Stimme mit Achtung."
+Found
+MODSMD_ARTICLE10: Der Senat zog Ermächtigung zur Dollarabwertung zurück.
+Found

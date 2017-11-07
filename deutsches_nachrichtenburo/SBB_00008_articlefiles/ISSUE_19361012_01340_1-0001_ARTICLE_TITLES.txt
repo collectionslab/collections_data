@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Einweihung der Advlf-Hitlcr-Halle in Hvf.
+Found
+MODSMD_ARTICLE02: Polizeircchtsausschutz der Akademie für deutsches Recht.
+Found
+MODSMD_ARTICLE03: Siarhemberg ins Ausland abgereist.
+Found
+MODSMD_ARTICLE04: Demonstrationsversuch einiger Wiener Heimatschützer.
+Found
+MODSMD_ARTICLE05: Sowjetrussische Agenten in Wien verhastet.
+Found
+MODSMD_ARTICLE06: Empfang bei Horthy.
+Found
+MODSMD_ARTICLE07: Der „Temps" gegen Moskaus Offensive.
+Found
+MODSMD_ARTICLE08: De la Rocque vor dem Untersuchungsrichter.
+Found
+MODSMD_ARTICLE09: Mariisch besichtigt Frankreichs Ostbefestigungen.
+Found
+MODSMD_ARTICLE10: Chautemps gegen den Terror der Linken.
+Found
+MODSMD_ARTICLE11: Senator Bärard verurteilt Hetzreden der Kommunisten.
+Found
+MODSMD_ARTICLE12: Der Besuch Antonescus in Belgrad.
+Found
+MODSMD_ARTICLE13: Sowjetbotschafter Stein Mitglied der Kontroll-Kommission.
+Found
+MODSMD_ARTICLE14: Cartagena unabhängige Republik?
+Found
+MODSMD_ARTICLE15: Bierhundertjahrfeier in Buenos Aires.
+Found
+MODSMD_ARTICLE16: Mexiko stellt ein Reserveheer auf.
+Found
+MODSMD_ARTICLE17: Kartographische Aufnahme von Jtalienisch-Ostafrika.
+Found
+MODSMD_ARTICLE18: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Das alte Bayreuther Opernhaus im neuen Glanz.
+Found
+MODSMD_ARTICLE02: Tie Franz Liszt-Gedenkwoche in Bayreuth.
+Found
+MODSMD_ARTICLE03: Staatsempfang im Bayreuther Schloß.
+Found
+MODSMD_ARTICLE04: Abschluß des Landes-Frontkämpfertreffens in Budapest.
+Found
+MODSMD_ARTICLE05: „Pesti Hirlap" fordert die Aufrüstung Ungarns.
+Found
+MODSMD_ARTICLE06: Tagung des Wirtschaftsrates der Kleinen Entente.
+Found
+MODSMD_ARTICLE07: „Gioruale d'Jtalia" Zum Besuch Cianos in Berlin.
+Found
+MODSMD_ARTICLE08: Azana bei Companys.
+Found
+MODSMD_ARTICLE09: Die rote Madrider Motte vor Malaga.
+Found
+MODSMD_ARTICLE10: Neue Unruhen in Bombay. 4 Tote, 39 Verwundete.
+Found

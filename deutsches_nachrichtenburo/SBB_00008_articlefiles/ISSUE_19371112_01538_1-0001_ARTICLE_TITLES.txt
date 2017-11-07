@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer an den Arbeitsausschuß Langemarck.
+Found
+MODSMD_ARTICLE02: Deutscher Flugweltrekord.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Empfang bei der Nordischen Verbindungsstelle.
+Found
+MODSMD_ARTICLE05: Polnische Minderheitsschule in Marienwerder.
+Found
+MODSMD_ARTICLE06: Kamerun-Fragen vor der Genfer Mandatskommission.
+Found
+MODSMD_ARTICLE07: Waffenstillstandstag in Paris.
+Found
+MODSMD_ARTICLE08: Englische Handelsagenten mit Franco ausgetauscht.
+Found
+MODSMD_ARTICLE09: Auch Amerika ernennt einen Agenten für Nationalspanien.
+Found
+MODSMD_ARTICLE10: Spaniens Regierung sorgt für Arbeitskräfte.
+Found
+MODSMD_ARTICLE11: Neue Bombenanschläge in Jerusalem.
+Found
+MODSMD_ARTICLE12: Die neueste Streikform in USA.
+Found
+MODSMD_ARTICLE13: Moskaus Rechtsbruch gegenüber Amerika.
+Found
+MODSMD_ARTICLE14: 599 Tote bei dem japanischen Bergwerksunglück.
+Found
+MODSMD_ARTICLE15: Das „Kaiserlich Japanische Hauptquartier".
+Found

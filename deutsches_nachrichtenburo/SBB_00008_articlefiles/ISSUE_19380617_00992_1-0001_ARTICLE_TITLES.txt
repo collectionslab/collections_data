@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Em Geschenk des Kaisers von Japan an den Führer.
+Found
+MODSMD_ARTICLE02: Staatsbesuche auf der Handwerksausstellung.
+Found
+MODSMD_ARTICLE03: Der Oberbefehlshaber des Heeres in der Ostmark.
+Found
+MODSMD_ARTICLE04: Die Jahrestagnng der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE05: Deutschlandreise der Teilnehmer am Kinderschutzkongreß.
+Found
+MODSMD_ARTICLE06: Ehrung für Wilhelm Filchner.
+Found
+MODSMD_ARTICLE07: Richtfest aus dem neuen Münchener Großflughafen.
+Found
+MODSMD_ARTICLE08: Die tschechische Verbotswut kennt keine Grenzen.
+Found
+MODSMD_ARTICLE09: Nichteinmischungsausschuß einberufen.
+Found
+MODSMD_ARTICLE10: Ministerrat in Paris beschließt Wirtschaftsgesetze.
+Found
+MODSMD_ARTICLE11: Gegen die Emigranten im französischen Handel.
+Found
+MODSMD_ARTICLE12: 12 M) Sowjetspanier über Frankreich nach Barcelona!
+Found
+MODSMD_ARTICLE13: Neue tschechische Grenzverletzung durch Flugzeug.
+Found
+MODSMD_ARTICLE14: Der „Figaro" über die Taktik der Kommunisten.
+Found
+MODSMD_ARTICLE15: Kalinin predigt Weltrevolution.
+Found

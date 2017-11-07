@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer zeichnet Dr. Gütt aus.
+Found
+MODSMD_ARTICLE02: Japanische Stiftung für die Universität Wien.
+Found
+MODSMD_ARTICLE03: Der Fall von Gdingen.
+Found
+MODSMD_ARTICLE04: Die Motorisierung der deutschen Wehrmacht.
+Found
+MODSMD_ARTICLE05: Unveränderte ungarische Außenpolitik.
+Found
+MODSMD_ARTICLE06: Nach Rumänien geflüchtet.
+Found
+MODSMD_ARTICLE07: „Aushungerung im Namen der Zivilisation."
+Found
+MODSMD_ARTICLE08: Krieg Zur Erhaltung der Vormachtstellung.
+Found
+MODSMD_ARTICLE09: „Mit einem Bruchteil der deutschen Streitkräfte."
+Found
+MODSMD_ARTICLE10: Spanien bewundert die deutschen Erfolge im Polen.
+Found
+MODSMD_ARTICLE11: Spanien kennt die englische Giftküche nur zu gut.
+Found
+MODSMD_ARTICLE12: Ladung eines holländischen Dampfers beschlagnahmt.
+Found
+MODSMD_ARTICLE13: Sorge um die Zukunft der niederländischen Wirtschaft.
+Found
+MODSMD_ARTICLE14: Von England Zurückgehaltene Schweizer kehren heim.
+Found
+MODSMD_ARTICLE15: Ernste Beurteilung der polnischen Grenzverletzungen.
+Found
+MODSMD_ARTICLE16: Englands Hungerkrieg schadet den Neutralen.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Reichsfinanzminister auf der Milch-Ausstellung.
+Found
+MODSMD_ARTICLE02: Regierungspräsident Rüdiger Zum Sondertreuhänder bestellt.
+Found
+MODSMD_ARTICLE03: Zum Generalinspekteur der Gendarmerie ernannt.
+Found
+MODSMD_ARTICLE04: Konteradmiral Waßner f.
+Found
+MODSMD_ARTICLE05: Englische Würdigung des Konteradmirals Waßner.
+Found
+MODSMD_ARTICLE06: Beginn des Kongresses für Volkskunde in Paris.
+Found
+MODSMD_ARTICLE07: Am 111. und 17. Oktober Gemeindewahlen in Frankreich.
+Found
+MODSMD_ARTICLE08: „Ein Danaergeschenk" mit Vorsicht zu genießen.
+Found
+MODSMD_ARTICLE09: Gerüchte über italienisch-britische Staatsbesuche verfrüht.
+Found
+MODSMD_ARTICLE10: Milde Behandlung der Kriegsgefangenen durch Franca.
+Found
+MODSMD_ARTICLE11: Francs baut ein gesundes Landvolk auf.
+Found
+MODSMD_ARTICLE12: Die Bevölkerung fordert Uebergabe Santanders.
+Found
+MODSMD_ARTICLE13: Dreistes Manöver der sowjetspanischen Priestermörder.
+Found
+MODSMD_ARTICLE14: SKV Deutsche verließen Schanghai.
+Found
+MODSMD_ARTICLE15: Wusung in japanischen Händen.
+Found
+MODSMD_ARTICLE16: Erfolgreicher japanischer Vormarsch am Nankau-Paß.
+Found
+MODSMD_ARTICLE17: Australien baut seine militärische Verteidigung aus.
+Found

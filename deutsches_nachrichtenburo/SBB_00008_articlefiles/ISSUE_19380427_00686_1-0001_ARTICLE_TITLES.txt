@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Dorpmiiller besichtigte die österreichische Donaustrecke.
+Found
+MODSMD_ARTICLE02: Beisetzung der verunglückten Knappen von Concordia 2/3.
+Found
+MODSMD_ARTICLE03: Gesellenaustausch Deutschland—Schweden.
+Not Found
+MODSMD_ARTICLE04: Prager Minister und Henlein-Kundgebung.
+Found
+MODSMD_ARTICLE05: „Die meisten Forderungen Henleins gerechtfertigt".
+Found
+MODSMD_ARTICLE06: Prager Ministerbeschluß zum 1. Mai.
+Found
+MODSMD_ARTICLE07: Abschied der deutschen Zeitschriftenverleger aus Belgrad.
+Found
+MODSMD_ARTICLE08: General Schiwko-Pawlowitsch f.
+Found
+MODSMD_ARTICLE09: Diplomatenschub in Jugoslawien.
+Found
+MODSMD_ARTICLE10: Paris fehlt noch der Sinn für die Wirklichkeit.
+Found
+MODSMD_ARTICLE11: Prag holt sich Rat in Paris.
+Found
+MODSMD_ARTICLE12: Die Themen der englisch-französischen Besprechungen.
+Found
+MODSMD_ARTICLE13: Französisches Kriegsmaterial für Rotspanien.
+Found
+MODSMD_ARTICLE14: Streik in einer Liller Möbelfabrik.
+Found
+MODSMD_ARTICLE15: Die Bevölkerung wetteifert bei der Ausschmückung Roms.
+Found
+MODSMD_ARTICLE16: Wiedereinführung einer Bundesarmeereserve in Amerika.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: General Moscardo wieder in Spanien eingetroffen.
+Found
+MODSMD_ARTICLE02: Spaniens Presse gegen die Zweideutigkeiten Frankreichs.
+Found
+MODSMD_ARTICLE03: Das Olympische Komitee gratuliert den Spaniern.
+Found
+MODSMD_ARTICLE04: Nichts als Lügen.
+Found
+MODSMD_ARTICLE05: Rom in Erwartung der Erklärung des Führers.
+Found
+MODSMD_ARTICLE06: Chamberlain vergaß die deutschen Abrüstungsvorschläge.
+Found
+MODSMD_ARTICLE07: Chamberlain gibt „eine Art Wehrpflicht" bekannt.
+Found
+MODSMD_ARTICLE08: „Die Welt hat völlig den Verstand verloren."
+Found
+MODSMD_ARTICLE09: Stalins junge Generation unzuverlässig.
+Found
+MODSMD_ARTICLE10: Potemkin auf Einkreisungsreise?
+Found
+MODSMD_ARTICLE11: Greuel wie im Burenkrieg.
+Found
+MODSMD_ARTICLE12: „Kein Recht, Deutsch-Südwest einzuverleiben."
+Found

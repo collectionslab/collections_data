@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die ungarischen Staatsmänner beim Führer.
+Found
+MODSMD_ARTICLE02: Deutsche Auszeichnung für die ungarischen Staatsmänner.
+Found
+MODSMD_ARTICLE03: Tschechische Stimme für Rückgabe der Kolonien.
+Found
+MODSMD_ARTICLE04: Die Studentenunruhen in Oesterreich.
+Found
+MODSMD_ARTICLE05: Das Ausland Zum Artikel „Politische Gangster-Methoden!"
+Found
+MODSMD_ARTICLE06: Sympathiekundgebungen für Japan in Rom.
+Found
+MODSMD_ARTICLE07: Aufbahrung McDonalds in der Westminster Abtei.
+Found
+MODSMD_ARTICLE08: 13 060 Arbeiter durch den Streik in Dublin ausgesperrt-
+Found
+MODSMD_ARTICLE09: Herzog Alba Hauptagent Nationalspaniens in London.
+Found
+MODSMD_ARTICLE10: Englische Sammelaktion für Sowjeispanien.
+Found
+MODSMD_ARTICLE11: Londoner 20-Jahr-Feier des Sowjetregiments.
+Found
+MODSMD_ARTICLE12: Neue „Enthüllungen" in Paris.
+Found
+MODSMD_ARTICLE13: Neue Kundgebungen in Beirut.
+Found
+MODSMD_ARTICLE14: Ortiz zum argentinischen Bundespräsidenten proklamiert.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: MittKgs-AusWbe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Der Tag der deutschen Kunst Feierliche Eröffnung in Anwesenheit von Rudolf Hetz
+Found
+MODSMD_ARTICLE03: Telegramm des Führers an Frau Simons.
+Found
+MODSMD_ARTICLE04: Der ägyptische Gesandte wieder in Berlin.
+Found
+MODSMD_ARTICLE05: Generalleutnant von Mutius f.
+Found
+MODSMD_ARTICLE06: Neuer großer Schlag der polnischen Polizei.
+Found
+MODSMD_ARTICLE07: 14 Monate Zuchthaus für den Kärntner Gauleiter.
+Found
+MODSMD_ARTICLE08: Pariser Streikwelle geht weiter.
+Found
+MODSMD_ARTICLE09: Der nationale Heeresbericht vom Donnerstag.
+Found
+MODSMD_ARTICLE10: Beginn der Sitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE11: Die Londoner Presse zur Unterhausdebatte.
+Found
+MODSMD_ARTICLE12: England und Amerika zum Nordchina-Zwischenfall.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Neue Zwischenfälle in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE02: Böhmisch-Krummau will wieder Frieden und Ordnung.
+Found
+MODSMD_ARTICLE03: Skeptische Aufnahme der Benesch-Rede in Ungarn.
+Found
+MODSMD_ARTICLE04: Benesch-Rede ohne neue Gesichtspunkte.
+Found
+MODSMD_ARTICLE05: Deutsch-italienischer Gemeinschaftsfilm ausgeführt.
+Found
+MODSMD_ARTICLE06: Volksfrontblatt „Prawda" für immer verboten.
+Found
+MODSMD_ARTICLE07: Schwere Niederlage der Roten an der Ebro-Front.
+Found
+MODSMD_ARTICLE08: Hohe Geldstrafen für spanische Kriegsgewinnler.
+Found
+MODSMD_ARTICLE09: Die Ministerbesprechungen in London.
+Found
+MODSMD_ARTICLE10: Belgien verzichtet auf jüdischen Zuwachs.
+Found
+MODSMD_ARTICLE11: Neue Zusammenstöße in der Jerusalemer Altstadt.
+Found
+MODSMD_ARTICLE12: Der chilenische Innenminister zurückgetreten.
+Found
+MODSMD_ARTICLE13: Sondervollmachten für den chilenischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE14: Deutscher Autosieg in Monza.
+Found
+MODSMD_ARTICLE15: Gerd Achgelis in Stockholm.
+Found

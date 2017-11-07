@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ter Führer bei der Trauerfeier der Leibstandarte.
+Found
+MODSMD_ARTICLE02: Der neue deutsche Gesandte in Kopenhagen eingetroffen.
+Found
+MODSMD_ARTICLE03: Der Abgeordnete Zajicek Minister ohne Geschäftsbereich.
+Found
+MODSMD_ARTICLE04: Baldwin vor dem Unterhaus.
+Found
+MODSMD_ARTICLE05: Französische Kammer in Alarmbereitschaft.
+Found
+MODSMD_ARTICLE06: Pariser Kammer stimmt verlängerter Schulzeit zu.
+Found
+MODSMD_ARTICLE07: Eine Entschließung der Demokratischen Allianz.
+Found
+MODSMD_ARTICLE08: Der Generalgouverneur von Algerien berichtet.
+Found
+MODSMD_ARTICLE09: Blutige Zusammenstöße in Algerien.
+Found
+MODSMD_ARTICLE10: Um die Freiheit der Meerengen.
+Found
+MODSMD_ARTICLE11: Sowjetkritik an der türkischen Meerengen-Politik.
+Found
+MODSMD_ARTICLE12: Blutige Landarbeiterunruhen in Polen.
+Found
+MODSMD_ARTICLE13: Marschall Badoglio Ehrenbürger von Rom.
+Found
+MODSMD_ARTICLE14: Empfang eines Schwarzhemdenbataillons in Rom.
+Found
+MODSMD_ARTICLE15: Unterwerfung abessinischer Stammesführer.
+Found
+MODSMD_ARTICLE16: Volksabstimmungsergebnis in der Provinz Galicien.
+Found
+MODSMD_ARTICLE17: Juden unterhalten ein kommunistisches Büro in Haifa.
+Found
+MODSMD_ARTICLE18: Abwartende Haltung Brasiliens gegenüber dem Völkerbund.
+Found

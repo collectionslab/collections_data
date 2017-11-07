@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Dr. Tiso.
+Found
+MODSMD_ARTICLE02: Tanktelegramm Lutzes an Dr. Tiso.
+Found
+MODSMD_ARTICLE03: Die Deutsch-Belgische Gesellschaft ehrt Dr. Ansiau.
+Found
+MODSMD_ARTICLE04: Dürftiger Wochenbericht Chamberlains.
+Found
+MODSMD_ARTICLE05: Herausfordernde Unterhausmusik.
+Found
+MODSMD_ARTICLE06: Der amerikanische Dampfer „City of Flint" ausgebracht.
+Found
+MODSMD_ARTICLE07: 496 Ausländer studieren in München.
+Found
+MODSMD_ARTICLE08: Der sowjetrussische Vertreter für Ungarn.
+Found
+MODSMD_ARTICLE09: Heute Einmarsch litauischer Truppen in das Wilnagebiet.
+Found
+MODSMD_ARTICLE10: Autounfall der Königin-Mutter von Belgien.
+Found
+MODSMD_ARTICLE11: Die Lähmung des holländischen Wirtschaftslebens.
+Found
+MODSMD_ARTICLE12: Rücktritt der iranischen Regiernug.
+Found
+MODSMD_ARTICLE13: Belgien wünscht Vergrößerung der Einfuhr aus USA.
+Found
+MODSMD_ARTICLE14: Die Kriegsmaterialausfuhr aus den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE15: Amerikas Verärgerung über das Londoner Lügenministerium
+Found
+MODSMD_ARTICLE16: Drei Volksschädlinge hingerichtet.
+Found

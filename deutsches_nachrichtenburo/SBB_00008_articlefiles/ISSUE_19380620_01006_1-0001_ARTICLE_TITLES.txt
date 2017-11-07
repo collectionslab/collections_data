@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr. Goebbels beim Volksfest im Prater.
+Found
+MODSMD_ARTICLE02: Der 5. Jahrestag des Parteiverbotes in Oesterreich.
+Found
+MODSMD_ARTICLE03: Internationaler Berlegerkongresi in Leipzig.
+Found
+MODSMD_ARTICLE04: Das Echo der Königsberger Reden in Paris und London.
+Found
+MODSMD_ARTICLE05: Klare Stellungnahme Gardins zur tschechischen Frage.
+Found
+MODSMD_ARTICLE06: Neue englisch-italienische Besprechungen.
+Found
+MODSMD_ARTICLE07: „Krag hält seine Zusicherungen nicht ein."
+Found
+MODSMD_ARTICLE09: Polnische Bedingung für ein gutes Verhältnis zu Prag.
+Found
+MODSMD_ARTICLE10: Mit Karabinern gegen polnische Protestversammlung»
+Found
+MODSMD_ARTICLE11: In den letzten Tagen 833 Quadratkilometer erobert.
+Found
+MODSMD_ARTICLE12: Schweres Eisenbahnunglück in den Vereinigten Staaten.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr. Hemhel zum Gesandten in Dublin ernannt.
+Found
+MODSMD_ARTICLE02: Neuer deutscher Gesandter in Kabul.
+Found
+MODSMD_ARTICLE03: Neues bedeutsames deutsch-italienisches Abkommen.
+Found
+MODSMD_ARTICLE04: Dr. Gütt Mitglied der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE05: Ende der Tätigkeit des Reichsdisziplinarhofs.
+Found
+MODSMD_ARTICLE06: Em Sonderbeauftragter für Landarbeiterfragen ernannt.
+Found
+MODSMD_ARTICLE07: Ein Großerfolg der deutschen Luftfahrt.
+Found
+MODSMD_ARTICLE08: Munitionstransporte nach rot-spanischen Häfen.
+Found
+MODSMD_ARTICLE09: Der Herzog von Coburg bei Bundespräsident Motta.
+Found
+MODSMD_ARTICLE10: Das Haus der Stadt Köln auf der Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE11: Kongreß für Gesundheitswiesen in Paris.
+Found

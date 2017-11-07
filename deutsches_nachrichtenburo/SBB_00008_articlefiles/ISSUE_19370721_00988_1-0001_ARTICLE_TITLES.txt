@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Neue Grundbuchbriefe für Addis Abeba.
+Found
+MODSMD_ARTICLE02: Amtliche Verlautbarung über die Londoner Sitzungen.
+Found
+MODSMD_ARTICLE03: Londoner Flottenvertrag 1939 vor dem Unterhaus.
+Found
+MODSMD_ARTICLE04: Keine Unruhen an Bord des Schlachtschiffes „Warspite".
+Found
+MODSMD_ARTICLE05: Kommunisten stören in Frankreich eine Prozession.
+Found
+MODSMD_ARTICLE06: Erntebesorgnisse in Sowjetrußland.
+Found

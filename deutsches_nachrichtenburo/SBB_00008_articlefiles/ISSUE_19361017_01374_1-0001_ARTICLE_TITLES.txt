@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Nosenberg unterstreicht die Ausführungen des Bischofs Hudal.
+Found
+MODSMD_ARTICLE02: Einstellung von Freiwilligen in die Luftwaffe.
+Found
+MODSMD_ARTICLE03: Zum Oberregierungsrat ernannt.
+Found
+MODSMD_ARTICLE04: Dr. Nuppel Reichskvmmissar für die Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE05: Dsluege und Heydrich in Rom.
+Found
+MODSMD_ARTICLE06: Die Inspektion der Marineartillerie wird nach Kiel verlegt.
+Found
+MODSMD_ARTICLE07: Künftig vier staatliche Luftfahrtfirmen in Frankreich.
+Found
+MODSMD_ARTICLE08: Der Streik bei der Zuckerfabrik von Chartes beigelegt.
+Found
+MODSMD_ARTICLE09: Streikende Arbeiter hindern Kohlenverkauf.
+Found
+MODSMD_ARTICLE10: Madrid schickt einen neuen Geschäftsträger nach Riga.
+Found
+MODSMD_ARTICLE11: Nach dem Gold das Silber.
+Found
+MODSMD_ARTICLE12: Azana nachts nicht in Madrid?
+Found
+MODSMD_ARTICLE13: Bolschewistischer Waffentransport nach Spanien.
+Found
+MODSMD_ARTICLE14: Wichtige Besprechungen Tschiangkaischeks.
+Found

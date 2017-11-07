@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Uebergabe der Besatzung des Brückenkopfes von Modlin.
+Found
+MODSMD_ARTICLE02: Aufhebung des Tanzverbots.
+Found
+MODSMD_ARTICLE03: Das Aufbauwerk im Osten beginnt.
+Found
+MODSMD_ARTICLE04: Moskau: „Das Fundament eines langdauernden Frieden".
+Found
+MODSMD_ARTICLE05: Hitlers Nation achtet nicht auf Englands Flugblattkrieg.
+Found
+MODSMD_ARTICLE06: Oslo über die Verantwortung der Westmächte.
+Found
+MODSMD_ARTICLE07: Holland würdigt das Moskauer Ergebnis.
+Found
+MODSMD_ARTICLE08: „Wenn die Alliierten noch klar denken könnten. . .
+Found
+MODSMD_ARTICLE09: Japan zur neuen Lage in Europa.
+Found
+MODSMD_ARTICLE10: Sitzung des Außenausschusses des französischen Senats.
+Found

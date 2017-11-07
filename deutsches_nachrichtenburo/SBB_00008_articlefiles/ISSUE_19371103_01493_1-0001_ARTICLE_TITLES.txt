@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Dr. Dorpmüller besichtigt den Mittellandkanal.
+Found
+MODSMD_ARTICLE02: Oesterreichische Stimmen zur Kolonialfrage.
+Found
+MODSMD_ARTICLE03: Wehrsteuer in Holland?
+Found
+MODSMD_ARTICLE04: Abwehr der jüdisch-bolschewistischen Hetze in Polen.
+Found
+MODSMD_ARTICLE05: Vorzügliche Ernte in Italien.
+Found
+MODSMD_ARTICLE06: Höhenweltrekord eines italienischen Fliegers.
+Found
+MODSMD_ARTICLE07: Die Neunmächtekonferenz.
+Found
+MODSMD_ARTICLE08: Der „Populaire" ist mit Eden unzufrieden.
+Found
+MODSMD_ARTICLE09: England nimmt Konsularbeziehungen mit Francs auf.
+Found
+MODSMD_ARTICLE10: Die deutschen Jugendführer in Nationalspanien.
+Found
+MODSMD_ARTICLE11: Flaggenmißbrauch bei der Belieferung Sowjetspaniens.
+Found
+MODSMD_ARTICLE12: 1999 Kisten mit geraubtem Schmuck sichergestellt.
+Found
+MODSMD_ARTICLE13: Moskaus Blutbilanz für den Oktober: 594 Erschießungen.
+Found
+MODSMD_ARTICLE14: Stalins Jubiläumsgeschenk für den Sowjetarbeiter.
+Found
+MODSMD_ARTICLE15: Bürgermeisterwahlen in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE16: Brasilien gibt Kaffeeausfuht wieder völlig frei.
+Found
+MODSMD_ARTICLE17: Vollstreckung eines Todesurteils.
+Found

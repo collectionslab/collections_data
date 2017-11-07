@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Papen verabschiedete sich von Bundespräsident Miklas.
+Found
+MODSMD_ARTICLE02: Oesterreichische Presseverordnungen.
+Found
+MODSMD_ARTICLE03: Eine Maßnahme des österreichischen Unterrichtsministeriums.
+Found
+MODSMD_ARTICLE04: Die „Azione koloniale" für deutsche Kolonien.
+Found
+MODSMD_ARTICLE05: Die polnische Presse zur Münchener Rührerrede.
+Found
+MODSMD_ARTICLE06: „Expreß Poranny" zur neuen englischen Außenpolitik.
+Found
+MODSMD_ARTICLE07: Ziele der Polnischen Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE08: Die Aufnahme Lord Halifax' in der englischen Presse»
+Found
+MODSMD_ARTICLE09: Lord Perth unterrichtet Chamberlain.
+Found
+MODSMD_ARTICLE10: Englands größter Mottenhaushalt seit 1919.
+Found
+MODSMD_ARTICLE11: Gehorsamsverweigerung in Barcelona.
+Found
+MODSMD_ARTICLE12: Archambaud über die Landesverteidigungskasse.
+Found
+MODSMD_ARTICLE13: Sitzung des Auswärtigen Ausschusses des Senats.
+Found
+MODSMD_ARTICLE14: Das neue griechische Pressegesetz in Kraft.
+Found
+MODSMD_ARTICLE15: Keine Gemeinschaft mit jüdischen Hetzern!
+Found
+MODSMD_ARTICLE16: Eine Liste der Nichtabstimmenden in Bukarest veröffentlicht.
+Found
+MODSMD_ARTICLE17: Auftakt der Tagung der Balkan-Entente.
+Found
+MODSMD_ARTICLE18: Tie Komintern auf USA.-Schiffen.
+Found

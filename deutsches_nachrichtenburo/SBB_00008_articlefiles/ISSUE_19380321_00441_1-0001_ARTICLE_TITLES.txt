@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: „Wilhelm Teil" zum Geburtstag! des Führers.
+Found
+MODSMD_ARTICLE02: „Volksspende" zur Linderung der Not in Oesterreich.
+Found
+MODSMD_ARTICLE03: „Wir fahren ins Reich!"
+Found
+MODSMD_ARTICLE04: König Carol Ehrenmitglied der deutschen Jägerschaft.
+Found
+MODSMD_ARTICLE05: Schuschuigg's Wien Brutstätte des Bolschewismus.
+Found
+MODSMD_ARTICLE06: Ein Freundschaftsbeweis Berlins gegen Belgrad.
+Found
+MODSMD_ARTICLE07: Starke Beachtung der Führerrede in Griechenland.
+Found
+MODSMD_ARTICLE08: Holland erkennt das italienische Imperium an.
+Found
+MODSMD_ARTICLE09: Außenminister Spaak bei König Leopold.
+Found
+MODSMD_ARTICLE10: Beck über die polnisch-litauischen Beziehungen.
+Found
+MODSMD_ARTICLE11: Nationale Kundgebungen in Warschau.
+Found
+MODSMD_ARTICLE12: Polen feierte den Namenstag Marschall Pilsudskis.
+Found
+MODSMD_ARTICLE13: Ernüchterung in Litauen.
+Found
+MODSMD_ARTICLE14: Weitere Erfolgle der Franco-Truppen im Abschnitt Caspe.
+Found
+MODSMD_ARTICLE15: Amerika erkennt den Anschluß an.
+Found

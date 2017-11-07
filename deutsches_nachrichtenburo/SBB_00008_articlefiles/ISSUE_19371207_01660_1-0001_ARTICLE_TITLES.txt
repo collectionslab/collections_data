@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer bei General Ludendorff.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Internationaler Bäderkongreß 1938 in Deutschland.
+Found
+MODSMD_ARTICLE04: Ziussenlung für Hauszinssteuerhypotheken.
+Found
+MODSMD_ARTICLE05: Reichsmmister Dr. Frick über seinen Stockholmer Besuch.
+Found
+MODSMD_ARTICLE06: Außenminister Delbos in Krakau.
+Found
+MODSMD_ARTICLE07: D;e Schlußverlauibaruug über den Delbos-Besuch.
+Found
+MODSMD_ARTICLE08: Englische Stimmen zum Besuch Delbos' in Warschau.
+Found
+MODSMD_ARTICLE09: Chamberlain verteidigt den Luftfahrtminister.
+Found
+MODSMD_ARTICLE10: Der englisch-amerikanische Handelsvertrag.
+Found
+MODSMD_ARTICLE11: Kombinationen! zu den Besprechungen Stojadinowitschs.
+Found
+MODSMD_ARTICLE12: Belgrad weiß die Freundschaft Italiens zu schätzen.
+Found
+MODSMD_ARTICLE13: De Bono, Badoglio und Graziani Ehrenbürger von Mailand.
+Found
+MODSMD_ARTICLE14: Portugal ernennt Sonderbeauftragten bei Franco.
+Found
+MODSMD_ARTICLE15: Die 4W-lahr-Feier der Universität Coimbra.
+Found
+MODSMD_ARTICLE16: Ein Tadel für die amerikanische Presse.
+Found

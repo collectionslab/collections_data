@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Verstärkte Förderung des Landarbeiterwohnungsbaues.
+Found
+MODSMD_ARTICLE02: Riesenstreik droht in Dänemark.
+Found
+MODSMD_ARTICLE03: Stauning bedauert das Mißverständnis.
+Found
+MODSMD_ARTICLE04: Kritik dänischer Parteipolitiker an der Stauning-Rede.
+Found
+MODSMD_ARTICLE05: Oberst Beck bleibt bis Ostern im Erholungsurlaub.
+Found
+MODSMD_ARTICLE06: Estnische Offiziere für die Nichteinmischungskontrolle.
+Found
+MODSMD_ARTICLE07: Ein neues Ministerium in Lettland.
+Found
+MODSMD_ARTICLE08: Abordnung des Reichsjägermeisters bei König Boris.
+Found
+MODSMD_ARTICLE09: Ein Beispiel unverantwortlicher Streikhetze in Frankreich.
+Found
+MODSMD_ARTICLE10: Lebruus Mahnung.
+Found
+MODSMD_ARTICLE11: Heeresausschuß fordert Kontrolle über Verteidigungsanleihe.
+Found
+MODSMD_ARTICLE12: Noch 12 üm bis Guadalajara.
+Found
+MODSMD_ARTICLE13: Die Bolschewisten haben das Nachsehen.
+Found

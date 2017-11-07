@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Scapini berichtet Chautemps über seine Deutschlandreise.
+Found
+MODSMD_ARTICLE02: Das Urteil gegen die Französische Sozialpartei.
+Found
+MODSMD_ARTICLE03: Deutsche Lederwaren in Paris erfolareich.
+Found
+MODSMD_ARTICLE04: Frankreich und die spanischen Emigranten.
+Found
+MODSMD_ARTICLE05: Die Kämpfe um Teruel dauern an.
+Found
+MODSMD_ARTICLE06: Das Ergebnis der rumänischen Wahlen.
+Found
+MODSMD_ARTICLE07: Eine neue Nuffield-Spende für die Universität Oxford.
+Found
+MODSMD_ARTICLE08: Sitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE09: Erneut Fernost-Frageu im englischen Unterhaus.
+Found
+MODSMD_ARTICLE10: Für Anerkennung des italienischen Imperiums.
+Found
+MODSMD_ARTICLE11: Britische Protestnote an Japan.
+Found
+MODSMD_ARTICLE12: Sitzung des Nichteinmischungsunterausschusses.
+Found
+MODSMD_ARTICLE13: Der Nationalrat zur Sicherung des Landesversorgung.
+Found
+MODSMD_ARTICLE14: Portugiesische Stimmen Zu den Verbrechen Stalins.
+Found
+MODSMD_ARTICLE15: Neues Todesurteil gegen Araber.
+Found
+MODSMD_ARTICLE16: Die Besatzung der „Schlesien" in Buenos Aires.
+Found

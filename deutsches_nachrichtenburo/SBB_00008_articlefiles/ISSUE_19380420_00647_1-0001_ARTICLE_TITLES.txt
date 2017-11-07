@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Ter Geburtstag des Führers.
+Found
+MODSMD_ARTICLE02: Oesterreich am Vorabend des Geburtstages.
+Found
+MODSMD_ARTICLE03: Feierstunde bei einem Lehrer Adolf Hitlers.
+Found
+MODSMD_ARTICLE04: Verleihung von Titeln an Wissenschaftler und Künstler.
+Found
+MODSMD_ARTICLE05: Franco warnt die westlichen Demokratien.
+Found

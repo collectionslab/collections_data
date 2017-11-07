@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Graf Schwerin von Krosigk über Mnanzfragen.
+Found
+MODSMD_ARTICLE02: Eine plumpe Mischung.
+Found
+MODSMD_ARTICLE04: Kommunistenverhaftungen in Danzig.
+Found
+MODSMD_ARTICLE05: Deutsche Buchausstellung in London.
+Found
+MODSMD_ARTICLE06: Noch kein italienisch-englisches Mittelmeer-Uebereinkommen.
+Found
+MODSMD_ARTICLE07: Kardinalerzbischof Hlond über die bolschewistische Gefahr.
+Found
+MODSMD_ARTICLE08: Nene Zusatzkredite für Heer und Luftwaffe in Frankreich.
+Found
+MODSMD_ARTICLE09: Französisch-jugoslawischer Handelsvertrag unterzeichnet.
+Found
+MODSMD_ARTICLE10: Die britische Unterstützung Frankreichs vor dem Unterhaus.
+Found
+MODSMD_ARTICLE11: Beilegung des Zwischenfalls in Tsingtau.
+Found
+MODSMD_ARTICLE12: Zusammenfassung der japanischen Rüstnngsindustriearbeiter.
+Found
+MODSMD_ARTICLE13: Tokioter Kundgebung für das deutsch-japanische Abkommen.
+Found
+MODSMD_ARTICLE14: Japanisch-deutsche medizinische Gesellschaft in Tokio.
+Found
+MODSMD_ARTICLE15: Sowjetdampfcr von japanischer Marine angehalten.
+Found
+MODSMD_ARTICLE16: Große Fälschungen chinesischer Banknoten geplant.
+Found
+MODSMD_ARTICLE17: Zuchthaus für Devisenvergehen.
+Found

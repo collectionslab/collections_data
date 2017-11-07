@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Pcrsonalveränderungen im OKH und der Heeresverwaltung
+Found
+MODSMD_ARTICLE02: Londons verhängnisvolle Rolle gegenüber den Polen.
+Found
+MODSMD_ARTICLE03: Italien beruft die Jahresklassen 1913 und 1323 ein.
+Found
+MODSMD_ARTICLE04: „Grosnnacht Italien keine passive Zuschauerin".
+Found
+MODSMD_ARTICLE05: 200 englische Offiziere in Nachtklubs gestellt.
+Found
+MODSMD_ARTICLE06: Nineteenth Century gibt Deutschlands Widerstandskraft zu.
+Found
+MODSMD_ARTICLE07: Schwedischer Dampfer im Atlantik gesunken.
+Found
+MODSMD_ARTICLE08: Britisches Handelsschiff „in Seenot".
+Found
+MODSMD_ARTICLE09: Die Geldsäcke in England triumphierten.
+Found
+MODSMD_ARTICLE10: Die Wahrheit wandert ins Gefängnis.
+Found
+MODSMD_ARTICLE11: Drei englische Spione in Schweden verhaftet.
+Found
+MODSMD_ARTICLE12: Keine besonderen Ereignisse.
+Found
+MODSMD_ARTICLE13: Norwegisches Motorschiff nach Expolsion gesunken.
+Found
+MODSMD_ARTICLE14: Französischer Tanker „gescheitert".
+Found
+MODSMD_ARTICLE15: Der sowjetische Heeresbericht.
+Found
+MODSMD_ARTICLE16: Rumänien läßt eine englische Lüge platzen.
+Found
+MODSMD_ARTICLE17: Anstakt zum Präsidentenwahlkampf in USA.
+Found
+MODSMD_ARTICLE18: Bestechungsskandal um einen jüdischen Politiker.
+Found
+MODSMD_ARTICLE19: Abgelehnter Schiffsverkauf.
+Found
+MODSMD_ARTICLE20: Japan gegen englische Verschleppungsversuche.
+Found

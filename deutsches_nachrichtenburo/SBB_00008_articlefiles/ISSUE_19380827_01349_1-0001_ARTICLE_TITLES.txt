@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Horthy auf dem Reichsparteitagsgelände.
+Found
+MODSMD_ARTICLE02: Ter Führer bei der Wehrmacht.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels an die Leipziger Herbstmesse.
+Found
+MODSMD_ARTICLE04: Der diplomatische Vertreter Mandschukuos in Berlin.
+Found
+MODSMD_ARTICLE05: „LZ. 13k" vor seiner Vollendung.
+Found
+MODSMD_ARTICLE06: Starkes Interesse der Auslandspresse am Reichsparteitag.
+Found
+MODSMD_ARTICLE07: Die Knnttelherrschast des tschechischen Zensors.
+Found
+MODSMD_ARTICLE08: Unbegründeter Optimismus in der englischen Presse.
+Found
+MODSMD_ARTICLE09: Sonderbare Ansichten in London.
+Found
+MODSMD_ARTICLE10: Jede Woche eine Rundfunkansprache Daladiers?
+Found
+MODSMD_ARTICLE11: Dr. Stojadinowitsch wieder in Belgrad.
+Found
+MODSMD_ARTICLE12: Paris als Sammelpunkt von Freiwilligen für Rotspamen.
+Found
+MODSMD_ARTICLE13: Bauernelend in Rotspanien.
+Found
+MODSMD_ARTICLE14: Neue Schießerei in Jaffa.
+Found
+MODSMD_ARTICLE15: Krise im Libanon-Kabinett.
+Found
+MODSMD_ARTICLE16: Große Schlacht in Mittelchina entbrannt.
+Found
+MODSMD_ARTICLE17: Ratifikationsurkunden zum Chaeo-Abkommen ausgetauscht.
+Found
+MODSMD_ARTICLE18: Eigwanderungsbeschränkung in Argentinien.
+Found
+MODSMD_ARTICLE19: Das brasilianische Schulschiff „Saldanha" geborgen.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Reichsminister Darre in Schleswig-Holstein.
+Found
+MODSMD_ARTICLE02: Kundgebung für den deutsch-Polnischen Kulturaustausch.
+Found
+MODSMD_ARTICLE03: Die Antwort Danzigs auf die polnische Anfrage.
+Found
+MODSMD_ARTICLE04: Steigende Spannung zwischen Polen und Litauen.
+Found
+MODSMD_ARTICLE05: Hetzkampagne von Pariser Blättern gegen Polen.
+Found
+MODSMD_ARTICLE06: Londons Presse begrüßt Deutschlandreise von Lord Halifax.
+Found
+MODSMD_ARTICLE07: Voraussetzung einer Verständigung Italiens mit England.
+Found
+MODSMD_ARTICLE08: Luftfahrtabordnung aus Paraguay besucht Italien.
+Found
+MODSMD_ARTICLE09: Kein Vermittlungswunsch Japans im Fernost-Konflikt.
+Found
+MODSMD_ARTICLE10: Pariser Frühpresse über Japans Ablehnung betrübt.
+Found
+MODSMD_ARTICLE11: Roter Fliegerüberfall von französischem Gebiet aus.
+Found
+MODSMD_ARTICLE12: Nationalspanischer Heeresbericht.
+Found
+MODSMD_ARTICLE13: Attentäter wird das Opfer einer Gegenmine.
+Found
+MODSMD_ARTICLE14: Verhaftung arabischer Beamter in Jerusalem.
+Found
+MODSMD_ARTICLE15: Deutsche Buchwoche in Kairo.
+Found
+MODSMD_ARTICLE16: Deutsche Walfänger in der Bucht von Rio.
+Found
+MODSMD_ARTICLE17: Auch Japan wird Spaniens Nationalregierung anerkennen.
+Found

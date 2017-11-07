@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Auszeichnung für den Präsidenten der „Agenzia Stefani".
+Found
+MODSMD_ARTICLE02: Mmsierpräsident Göring von Mussolini empfangen.
+Found
+MODSMD_ARTICLE03: Reichsminister Dr. Frank vor der Breslauer NSDAP.
+Found
+MODSMD_ARTICLE04: Der italienische Jugendführer in Hamburg.
+Found
+MODSMD_ARTICLE05: Italiens Industrielle nach Düsseldorf weitergereist.
+Found
+MODSMD_ARTICLE06: Gauleiter Sauckel auf Burg Vogelsang.
+Found
+MODSMD_ARTICLE07: Eden von König Leopold empfangen.
+Found
+MODSMD_ARTICLE08: Die Biscaya-Front der Bolschewisten durchbrochen.
+Found
+MODSMD_ARTICLE09: Der Gruß der Falange spanischer Nationalgruß.
+Found
+MODSMD_ARTICLE10: Die Kontrolle eine rein statistische Angelegenheit.
+Found
+MODSMD_ARTICLE11: Werbebüro der spanischen Bolschewisten ausgehoben.
+Found
+MODSMD_ARTICLE12: Pariser Einzelhändler drohen mit Ladenschließung.
+Found
+MODSMD_ARTICLE13: Marxistische Wahlniederlage im Kanton Neuenburg.
+Found
+MODSMD_ARTICLE14: Der Außenminister des Irak in Ankara.
+Found

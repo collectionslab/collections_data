@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer gratuliert Reichsminister Kerrl.
+Found
+MODSMD_ARTICLE02: Glückwunsch für Obergruppenführer Brückner.
+Found
+MODSMD_ARTICLE03: Hermann Gieselrr in den Reichskultursenat berufen.
+Found
+MODSMD_ARTICLE04: 12st,st km Reichsautobahn zum Wochenende dem Berkehr übergeben.
+Found
+MODSMD_ARTICLE05: Der Ehrentag des deutschen Memellandes.
+Found
+MODSMD_ARTICLE06: „Italien schreitet unbeirrbar vorwärts."
+Found
+MODSMD_ARTICLE07: Lord Perth bei Graf Ciano Zu Gast.
+Found
+MODSMD_ARTICLE08: Die französische Militärmission in Prag aufgelöst.
+Found
+MODSMD_ARTICLE09: „Journal" zur Absetzung Jeschows.
+Found
+MODSMD_ARTICLE10: Ideologische Phantasien Hulls in Lima.
+Found
+MODSMD_ARTICLE11: Kostspielige Spendenverwaltung amerikanischer Juden.
+Found

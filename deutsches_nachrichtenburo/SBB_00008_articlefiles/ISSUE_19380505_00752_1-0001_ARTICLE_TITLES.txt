@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Ohnesorge sprach in Essen.
+Found
+MODSMD_ARTICLE02: Einigung des deutschen Altherrentmns abgeschlossen.
+Found
+MODSMD_ARTICLE03: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE04: Reichsmittel für Kinderheilfürsorge.
+Found
+MODSMD_ARTICLE05: Minister Stochowitsch bei Dr. Todt.
+Found
+MODSMD_ARTICLE06: Tie Rückzugsstellung des Frankem.
+Found
+MODSMD_ARTICLE07: Simon zur Frankcnabwcrtung.
+Found
+MODSMD_ARTICLE08: „Der Frank das Grab der Demokratie".
+Found
+MODSMD_ARTICLE09: Keine Abwertung des schweizerischen Franken.
+Found
+MODSMD_ARTICLE10: Französische Schiffsbesatzung streikt.
+Found
+MODSMD_ARTICLE11: Bon Dirksen überreichte sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE12: Gefängnis für Menschenschmuggler nach Rotspauien.
+Found
+MODSMD_ARTICLE13: 700 000 Tonnen modernster Kriegsschiffe bis 1341.
+Found
+MODSMD_ARTICLE14: Samuprawa: Berlm und Rom wollen den Frieden.
+Found

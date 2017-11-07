@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Erinnerungsbesuch des Führers in der Festung Landsberg.
+Found
+MODSMD_ARTICLE02: Jude aus Breslau wollte 17 KW RM. schmuggeln.
+Found
+MODSMD_ARTICLE03: Die deutsche Traueraborduung für Atatürk in Sofia.
+Found
+MODSMD_ARTICLE04: Der Dank der Eltern vom Raths.
+Found
+MODSMD_ARTICLE05: Neues radikalsoziales Vertrauensvotum für Daladier.
+Found
+MODSMD_ARTICLE06: König Karl von! Rumänien in Calais.
+Found
+MODSMD_ARTICLE07: Auch Belgien droht Verladung.
+Found
+MODSMD_ARTICLE08: „Internationale Aktion Zur Lösung des Judenproblems."
+Found
+MODSMD_ARTICLE09: Auch die Schweiz winkt ab.
+Found
+MODSMD_ARTICLE10: Mussolini legte Grundstein Zu einem Großwerk.
+Found
+MODSMD_ARTICLE11: Telegrammwechsel zwischen Lord Halifax und Hüll.
+Found
+MODSMD_ARTICLE12: Bolschewistensreund Bartlett ins Unterhaus gewählt.
+Found
+MODSMD_ARTICLE13: Das Ermächtigungsgesetz vor dem Prager Parlament.
+Found
+MODSMD_ARTICLE14: Der Gesetzentwurf über die karpatho-ukrainische Autonomie.
+Found
+MODSMD_ARTICLE15: Botschafter Dr. Dieckhoff nach Berlin berufen.
+Found
+MODSMD_ARTICLE16: Iranische Militärabordnung zur Beisetzung Atatürks.
+Found
+MODSMD_ARTICLE17: Zwei Araber durch eine Bombe zerrissen.
+Found
+MODSMD_ARTICLE18: Japanische Note an die USA.
+Found
+MODSMD_ARTICLE19: „Zentralamt für ostasiatische Angelegenheiten."
+Found
+MODSMD_ARTICLE20: Latemamerika läßt sich durch USA.-Phrasen nicht täuschen!
+Found

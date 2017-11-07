@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Generaloberst von Vrauchitsch nach Nürnberg unterwegs.
+Found
+MODSMD_ARTICLE02: Reichsverkehrsminister Dr. Dorpmüller in Schlesien.
+Found
+MODSMD_ARTICLE03: Tanzig tritt deutsch-polnischen Wirtschaftsverträgen bei.
+Found
+MODSMD_ARTICLE04: Neuer tschechischer Terrorakt.
+Found
+MODSMD_ARTICLE05: Dr. Neuwerth Militärverrats-Verteidiger.
+Found
+MODSMD_ARTICLE06: Neue Zwischenfälle in Böhmisch-Krmnmau.
+Found
+MODSMD_ARTICLE07: Obduktion Knolls im Beisein deutscher Aerzte.
+Found
+MODSMD_ARTICLE08: Eine Hultfchiner Abordnung bei Benefch.
+Found
+MODSMD_ARTICLE09: Auch die Karpathen-Ukrainer melden ihre Forderungen an.
+Found
+MODSMD_ARTICLE10: Der Prager „Venkov" gegen die bolschewistische Agitation.
+Found
+MODSMD_ARTICLE11: Eden im Foreign Office.
+Found
+MODSMD_ARTICLE12: Neue Besprechung zwischen Chamberlain und Halifax.
+Found
+MODSMD_ARTICLE13: Maifkh vertritt die Sowjetunion in Genf.
+Found
+MODSMD_ARTICLE14: Moskaus Militärattache in Paris von der GPU. entführt?
+Found
+MODSMD_ARTICLE15: Die Königin der Niederlande zum Ehrendoktor ernannt.
+Found
+MODSMD_ARTICLE16: Der Internationale Kongreß „Geschichte der Medizin".
+Found
+MODSMD_ARTICLE17: Skupschtina-Wahlen noch in diesem Jahr.
+Found
+MODSMD_ARTICLE18: Diplomatische Berater im japanischen Außenamt ernannt.
+Found

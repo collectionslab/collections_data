@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die Aufnahme des Paktes von Mailand in Prag.
+Found
+MODSMD_ARTICLE02: „Ein unzerbrechlicher Block der Macht und des Willens."
+Found
+MODSMD_ARTICLE03: Finnland zum Militärpakt Berlin—Rom.
+Found
+MODSMD_ARTICLE04: In Paris wurde die Antwort von Mailand verstanden.
+Found
+MODSMD_ARTICLE05: Im Zeichen inniger Freundschaft zur Achse.
+Found
+MODSMD_ARTICLE06: Zusammenkunft Potemkin—Gafencu.
+Not Found
+MODSMD_ARTICLE07: Estland und Lettland für den Nichtangriffspakt.
+Found
+MODSMD_ARTICLE08: Schwere wirtschaftliche Sorgen in Polen.
+Found
+MODSMD_ARTICLE09: Marschall Balbo in Kairo.
+Found
+MODSMD_ARTICLE10: Für absolute Neutralität Südafrikas.
+Found
+MODSMD_ARTICLE11: Der Patagonienschwindel endgültig zusammengebrochen.
+Found
+MODSMD_ARTICLE12: Amerika wird immer verrückter.
+Found
+MODSMD_ARTICLE13: Fortdauer des amerikanischen Kohlensteiks.
+Found

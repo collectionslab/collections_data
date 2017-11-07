@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Geburtstag des Reichssportführers.
+Found
+MODSMD_ARTICLE02: Strengste Auslese des Führernachwuchses.
+Found
+MODSMD_ARTICLE03: Die Danziger NSDAP, zu Ausschreitungen.
+Found
+MODSMD_ARTICLE04: Aga Khan über seine Eindrücke in Deutschland.
+Found
+MODSMD_ARTICLE05: Schwedische Ehrung für Emil Jannings.
+Found
+MODSMD_ARTICLE06: Deutsch-estländische Verhandlungen abgeschlossen.
+Found
+MODSMD_ARTICLE07: Italien feiert den Jahrestag des Marsches auf Rom.
+Found
+MODSMD_ARTICLE08: Die italienischen Erklärungen in London stark beachtet.
+Found
+MODSMD_ARTICLE09: Empfang bei König Georg.
+Found
+MODSMD_ARTICLE10: Oberbolschewist Dimitroff in Paris?
+Found
+MODSMD_ARTICLE11: Geheimnisvoller Bombenfund in Toulouse.
+Found
+MODSMD_ARTICLE12: Spanische Bolschewisten in Frankreich.
+Found
+MODSMD_ARTICLE13: Valencia rettet Kanonenfutter aus Gijon.
+Found
+MODSMD_ARTICLE14: Paris scheint zu Zugeständnissen bereit.
+Found
+MODSMD_ARTICLE15: Ein rotspanisches Filmmachwerk verboten.
+Found
+MODSMD_ARTICLE16: 148 999 Ausländer kämpfen auf Seiten Valencias!
+Found
+MODSMD_ARTICLE17: Dr. Schuschnigg wieder in Wien.
+Found
+MODSMD_ARTICLE18: Die Mißwirtschaft im sowjetrnssischen Wohnwesen.
+Found

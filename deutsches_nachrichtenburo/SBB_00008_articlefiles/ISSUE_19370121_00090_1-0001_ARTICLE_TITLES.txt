@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Beileid des Führers zum Untergang der „Welle".
+Found
+MODSMD_ARTICLE02: Spende für die Hinterbliebenen der „Welle"-Besahung.
+Found
+MODSMD_ARTICLE03: Zum Untergang des Versuchsschiffes „Welle".
+Found
+MODSMD_ARTICLE04: Ehrengerichtsorduung für die gewerbliche Wirtschaft.
+Found
+MODSMD_ARTICLE05: Weitere Erfolge an der Malaga Front.
+Found
+MODSMD_ARTICLE06: Himmler dankt der Technischen Nothilfe.
+Found
+MODSMD_ARTICLE07: Die Meistbegünstigungsklausel für Togo und Kamerun.
+Found
+MODSMD_ARTICLE08: Vereinbarung über Heimatschub und Heimatpflege.
+Found
+MODSMD_ARTICLE09: Finnischer Dampfer mit 26 Mann gescheitert.
+Found

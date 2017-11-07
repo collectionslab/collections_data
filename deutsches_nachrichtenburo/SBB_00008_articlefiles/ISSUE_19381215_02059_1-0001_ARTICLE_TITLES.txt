@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Das Memelland bekennt sich zum Deutschtum.
+Found
+MODSMD_ARTICLE02: Erste Ausnahmeverordnung in Kowno angeschlagen.
+Found
+MODSMD_ARTICLE03: Dr. Eiter schweizerischer Bundespräsident.
+Found
+MODSMD_ARTICLE04: Tie Verteilung der Mandate in der Skupschtina.
+Found
+MODSMD_ARTICLE05: Auch weiter Kinderarbeit in englischen Bergwerken.
+Found
+MODSMD_ARTICLE06: Wieder ein Zwischenfall in Waziristan.
+Found
+MODSMD_ARTICLE07: Preßburg wird von jüdischen Emigranten gesäubert.
+Found
+MODSMD_ARTICLE08: Die französische Militärmission verläßt Prag.
+Found
+MODSMD_ARTICLE09: Herabsetzung der Suezkanalgebühren.
+Found
+MODSMD_ARTICLE10: „Die Pässe für den Sowjetbotschafter!"
+Found
+MODSMD_ARTICLE11: Der Ausbau der französischen Kriegsmarine»
+Found
+MODSMD_ARTICLE12: EGT. plant neue Hetzwelle in Frankreich.
+Found
+MODSMD_ARTICLE13: Einwendungen gegen den französisch-syrischen Vertrag.
+Found
+MODSMD_ARTICLE14: Sie betrügen, wo sie können.
+Found
+MODSMD_ARTICLE15: Amerikanischer General brandmarkt die Kriegshysterie.
+Found
+MODSMD_ARTICLE16: Die Vereinigten Staaten unter jüdischer Herrschast.
+Found
+MODSMD_ARTICLE17: Riesenschwindel einer New Aorker Drogenfirma.
+Found
+MODSMD_ARTICLE18: Der Dollar rollt.
+Found
+MODSMD_ARTICLE19: Der Kommunistenputsch in Ekuador.
+Found
+MODSMD_ARTICLE20: Vorzüge der „freien Wirtschaft".
+Found

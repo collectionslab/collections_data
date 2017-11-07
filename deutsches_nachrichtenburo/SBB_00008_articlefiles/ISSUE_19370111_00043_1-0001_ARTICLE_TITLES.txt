@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Das Neujahrs-Karmen der Halloren.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels besichtigt Ausstellungs-Pläne.
+Found
+MODSMD_ARTICLE03: Weitere Maßnahmen zur Sicherung der Brotversorgung.
+Found
+MODSMD_ARTICLE04: Kehrl Polizeipräsident von Hamburg.
+Found
+MODSMD_ARTICLE05: Kommunistische Hetzer in Danzig verurteilt.
+Found
+MODSMD_ARTICLE06: Die französischen Lügen einwandfrei widerlegt.
+Found
+MODSMD_ARTICLE07: Keine rückwirkende Kraft des englischen FreiwilligenverbotF.
+Found
+MODSMD_ARTICLE08: Der britische Verteidigungsminister schwer erkrankt.
+Found
+MODSMD_ARTICLE09: Baldwin wieder in London.
+Found
+MODSMD_ARTICLE10: Der Erste Lord der Admiralität bei Eden.
+Found
+MODSMD_ARTICLE11: Ungarns Ministerpräsident und Kultusminister in Wien.
+Found
+MODSMD_ARTICLE12: Die Forderungen der katholischen Flamen.
+Found
+MODSMD_ARTICLE13: Aufgeregte Stimmung in Antiochia.
+Found
+MODSMD_ARTICLE14: Zusammenstöße zwischen Moslems und indischen Christen.
+Found
+MODSMD_ARTICLE15: Die Deutschen aus Sianfu abgereist.
+Found

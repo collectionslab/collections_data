@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Dr. Goebbels erhält den Ehrenbürgerbrief von Saarbrücken.
+Found
+MODSMD_ARTICLE02: Mugsicherungsschiff „lüiesenland" vom Stapel gelaufen.
+Found
+MODSMD_ARTICLE03: Vorbildliche Zusammenarbeit zwischen Wehrmacht und HI.
+Found
+MODSMD_ARTICLE04: Liquidation der Oefsa.
+Found
+MODSMD_ARTICLE05: Neuer Negierungsvizepräsident in Wiesbaden.
+Found
+MODSMD_ARTICLE06: Das Luftschiff „Hindenburg" an der südfranzösifchen Küste.
+Found
+MODSMD_ARTICLE07: Polen und die Westpaktfrage.
+Found
+MODSMD_ARTICLE08: Kontrollplan erst Ende März voll wirksam.
+Found
+MODSMD_ARTICLE09: Die Wochensitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE10: Kommunisten Hetzen zum Generalstreik.
+Found
+MODSMD_ARTICLE11: Neue „Verlustliste" der Straßenkämpfe von Clichy.
+Found
+MODSMD_ARTICLE12: Marxisten werben Freiwillige für Valencia.
+Found
+MODSMD_ARTICLE13: Der nationale Heeresbericht vom Dienstag.
+Found
+MODSMD_ARTICLE14: Erfolgreiche nationale Megertätigkeit.
+Found
+MODSMD_ARTICLE15: Mussolini eröffnet die Mustermesse in Tripolis.
+Found
+MODSMD_ARTICLE16: Korruption der Polizei San Francisco^.
+Found

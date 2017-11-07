@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Empfang beim Konsul der Niederlande in Bremen.
+Found
+MODSMD_ARTICLE02: Feierlicher Staatsakt in Amsterdam.
+Found
+MODSMD_ARTICLE03: „Trilmna" zur Havasmeldung.
+Found
+MODSMD_ARTICLE05: Empfänge bei Benesch.
+Found
+MODSMD_ARTICLE06: SdP. noch nicht über die neuen Prager Pläne informiert.
+Found
+MODSMD_ARTICLE07: Bankett Zu Ehren des syrischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE08: Täglich 50W Hektoliter Benzin ans Frankreich.
+Found
+MODSMD_ARTICLE09: Internationale Sammeltage für Rotkpanien.
+Found
+MODSMD_ARTICLE10: Große Truppenparade in Belgrad.
+Found
+MODSMD_ARTICLE11: Der Sowjetterror geht weiter.
+Found
+MODSMD_ARTICLE12: Syrische Araber protestieren.
+Found
+MODSMD_ARTICLE13: Japan warnt vor militärischer Unterstützung Hankans.
+Found
+MODSMD_ARTICLE14: 100 Todesopfer bei japanischer Feuersbrunst.
+Found
+MODSMD_ARTICLE15: Die amerikanischen Flugrenneu beendet»
+Found

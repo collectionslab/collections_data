@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Volksdeutsche kehren heim ins Reich.
+Found
+MODSMD_ARTICLE02: Gesandter Magistrat: zum Gesandten in Sofia ernannt.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Lufthansa-Flugzeug nach Moskau unterwegs.
+Found
+MODSMD_ARTICLE05: Ein Denkmal für deutsche Matrosen auf Fuenien.
+Found
+MODSMD_ARTICLE06: Vorbildliches Verhalten der deutschen Prisenmannschaften.
+Found
+MODSMD_ARTICLE07: Der englische Bombenabwurf auf Roem wird untersucht.
+Found
+MODSMD_ARTICLE08: Auch das sind Auswirkungen des englischen Krieges.
+Found
+MODSMD_ARTICLE09: England plant Taruungsmanöver in Norwegen.
+Found
+MODSMD_ARTICLE10: „Italien, der arme Verwandte".
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Vollsitzung der Akademie für Deutsches Recht geschlossen.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Glückwunschtelegramm an Korpsführer Hühnlein.
+Found
+MODSMD_ARTICLE04: Herzlicher Telegrammwechsel Göring—Mussolini.
+Found
+MODSMD_ARTICLE05: Untersuchung der „Hindenburg"-Katastrophe.
+Found
+MODSMD_ARTICLE06: Die Opfer der Katastrophe nach New Jork übergeführt.
+Found
+MODSMD_ARTICLE07: Doriot: „Wer regiert in Frankreich?"
+Found
+MODSMD_ARTICLE08: Die Sowjet-Flugzeuge mit voller Bewaffnung gestartet.
+Found
+MODSMD_ARTICLE09: Streikausschreitungen in einer Fabrik bei Saarburg.
+Found
+MODSMD_ARTICLE10: König Leopold über die Notwendigkeit einer starken Armee.
+Found
+MODSMD_ARTICLE11: Britischer Botschafter fehlte bei Jmperiumsfeier.
+Found
+MODSMD_ARTICLE12: Die polnischen Anwälte zur Judenfrage.
+Found
+MODSMD_ARTICLE13: Zwischenfälle in Oran.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: IWO kln Reichsautobahn.
+Found
+MODSMD_ARTICLE02: Rückkehr der letzten diesjährigen KdF-Norwegen-Dampfer.
+Found
+MODSMD_ARTICLE03: Mit KdF.-Schiffen nach Tokio.
+Found
+MODSMD_ARTICLE04: Graübe-Woche in Detmold. Gedächtnisfeier am Grabe.
+Found
+MODSMD_ARTICLE05: Ausmarsch des Münchener Jungvolks.
+Found
+MODSMD_ARTICLE06: Oesterreichische Blätter zur Aufhebung der Finanzkontrolle.
+Found
+MODSMD_ARTICLE07: Scharfe Warnung an die ungarischen Marxisten.
+Found
+MODSMD_ARTICLE08: Ein polnisches Winterhilfswerk.
+Found
+MODSMD_ARTICLE09: Rücktritt des finnländischen Kabinetts.
+Found
+MODSMD_ARTICLE10: Beitragsrückstände im Völkerbund.
+Found
+MODSMD_ARTICLE11: Rotes Hauptquartier von Toledo nach Madrid zurückverlegt.
+Found
+MODSMD_ARTICLE12: Rote Gegenangriffe bei Maqueda abgeschlagen.
+Found
+MODSMD_ARTICLE13: Warnungsschuß auf roten Zerstörer.
+Found
+MODSMD_ARTICLE14: Die Rolle des sowjetrussischen Botschafters in Spanien.
+Found
+MODSMD_ARTICLE15: Madrider Negierungsbeamte suchen Schutz.
+Found
+MODSMD_ARTICLE16: New Aork Times Zum Währungsabkommen.
+Found
+MODSMD_ARTICLE17: Die Entwicklung in Schanghai.
+Found

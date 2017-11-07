@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: 22K Feldküchen in Böhmen und Mähren.
+Found
+MODSMD_ARTICLE02: Tschechische Gesandtschaften von Deutschland übernommen.
+Found
+MODSMD_ARTICLE03: Bukarest lehnte ab.
+Found
+MODSMD_ARTICLE04: Chust von ungarischen Truppen erreicht.
+Found
+MODSMD_ARTICLE05: Die ungarischen Truppen an der polnischen Grenze.
+Found
+MODSMD_ARTICLE06: „Adolf Hitler der größte Mann des 20. Jahrhunderts."
+Found
+MODSMD_ARTICLE07: „Deutschland der größte Industriestaat der Welt."
+Found
+MODSMD_ARTICLE08: Starker Eindruck des deutschen Erfolges.
+Found
+MODSMD_ARTICLE09: „Eine logischere Einteilung Mitteleuropas."
+Found
+MODSMD_ARTICLE10: Brasilien bewundert die Politik des Führers.
+Found
+MODSMD_ARTICLE11: Cianetti im Volkswagenwerk.
+Found
+MODSMD_ARTICLE12: Ehrenpreis des Reichsministers Dr. Frick.
+Found
+MODSMD_ARTICLE13: Erinnerungsfeier für Friedrich Friesen.
+Found
+MODSMD_ARTICLE14: Der Duce gab Richtlinien.
+Found
+MODSMD_ARTICLE15: Das Judengesetz in Ungarn angenommen.
+Found
+MODSMD_ARTICLE16: Sturmszenen in der französischen Kammer.
+Found
+MODSMD_ARTICLE17: Auch die Araber lehnten die Palästina-Vorschläge ab.
+Found
+MODSMD_ARTICLE18: Wieder Massenberhaftungen unter Arabern.
+Found

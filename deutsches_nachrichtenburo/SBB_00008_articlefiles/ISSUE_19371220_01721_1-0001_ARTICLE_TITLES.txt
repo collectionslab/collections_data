@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Vertreter des Berliner Fascio in Quedlinburg.
+Found
+MODSMD_ARTICLE02: Gedenkfeier zum 100. Geburtstag Cosima Wagners.
+Found
+MODSMD_ARTICLE03: Ein Werk der Verständigung.
+Found
+MODSMD_ARTICLE04: Der Londoner amerikanische Botschafter gestorben.
+Found
+MODSMD_ARTICLE05: Garvin für Revision der britischen Politik.
+Found
+MODSMD_ARTICLE06: Fuchswallach „Neander" dem Duce übergeben.
+Found
+MODSMD_ARTICLE07: Enthüllung einer Pitsudski-Büste in Rom.
+Found
+MODSMD_ARTICLE08: Jüdische Frechheiten im Wiener Stadtparlament.
+Found
+MODSMD_ARTICLE09: Soziales Hilfswerk der Portugiesischen Legion.
+Found
+MODSMD_ARTICLE10: Salazar empfing den neuen britischen Botschafter.
+Found
+MODSMD_ARTICLE11: Pariser Weihnachtsfest ohne Musik?
+Found
+MODSMD_ARTICLE12: Die GPU. wütet unter dem Moskauer Offizierkorps.
+Found
+MODSMD_ARTICLE13: Karachan erschossen.
+Found
+MODSMD_ARTICLE14: Beschlüsse des Kaiserlichen Hauptquartiers.
+Found
+MODSMD_ARTICLE15: Siam rüstet auf.
+Found
+MODSMD_ARTICLE16: Präsident Vargas an die Soldaten.
+Found

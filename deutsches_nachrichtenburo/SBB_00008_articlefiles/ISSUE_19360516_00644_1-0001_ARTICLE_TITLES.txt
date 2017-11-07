@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der deutsche luristeutag 1936 in Leipzig.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Abschied der finnischen Kriegsteilnehmer.
+Found
+MODSMD_ARTICLE05: Pressestimmen zu Edens Pariser Besprechungen.
+Found
+MODSMD_ARTICLE06: Jugoslawische Militärmission nach London abgereist.
+Found
+MODSMD_ARTICLE07: Militärische Ausgaben für die österreichische Polizei.
+Found
+MODSMD_ARTICLE08: „Paris Soir" zur Nom-Reise Starhembergs.
+Found
+MODSMD_ARTICLE09: Danktelegramm Mussolinis an Bundeskanzler Schuschnigg.
+Found
+MODSMD_ARTICLE10: Die Abefsinien-Gesetze vom italienischen Senat angenommen.
+Found
+MODSMD_ARTICLE11: Der ehemalige Emir von Harrar unterwirft sich.
+Found
+MODSMD_ARTICLE12: Griechenland dementiert die Diktaturgerüchte.
+Found
+MODSMD_ARTICLE13: Streik bulgarischer Tabakarbeiter.
+Found
+MODSMD_ARTICLE14: Senatsausschust der USA billigt Londoner Flottenabkommen.
+Found
+MODSMD_ARTICLE15: Tie Militärvorlage von Noosevelt unterzeichnet.
+Found
+MODSMD_ARTICLE16: Washingtons Standpunkt in der Nordchina-Trage.
+Found
+MODSMD_ARTICLE17: Die japanischen Truppenverstärkungen in Nordchina.
+Found
+MODSMD_ARTICLE18: Annahme des japanischen Staatshaushalts im Unterhaus.
+Found
+MODSMD_ARTICLE19: Der Präsident von Paraguay Frontkämpfer-Führer.
+Found
+MODSMD_ARTICLE20: Steuersteckbrief und Vermögensbeschlagnahme.
+Found

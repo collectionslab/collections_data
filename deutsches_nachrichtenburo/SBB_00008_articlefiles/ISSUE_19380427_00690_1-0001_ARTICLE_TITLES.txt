@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Rudolf Heß fünf Jahre Stellvertreter des Führers.
+Found
+MODSMD_ARTICLE02: Oesterreichische Kinder essen Geburtstagstorte des Kührers.
+Found
+MODSMD_ARTICLE03: Reichspostminister Ohnesorge in Bremen.
+Found
+MODSMD_ARTICLE04: Bürckel vor der österreichischen Landesregierung.
+Found
+MODSMD_ARTICLE05: „Tevere" warnt vor englisch-französischen Manövern.
+Found
+MODSMD_ARTICLE06: Der neue rumänische Gesandte in Rom.
+Found
+MODSMD_ARTICLE07: Der 3. Mai Kolonialtag in Italien.
+Found
+MODSMD_ARTICLE08: Präsident Dr. Syrnp in Amsterdam.
+Found
+MODSMD_ARTICLE09: Staatssekretär Kleinmann in Sofia.
+Found
+MODSMD_ARTICLE10: Ein Franzose erkennt Wahrheit über die Tschechoslowakei.
+Found
+MODSMD_ARTICLE11: Diplomaten bei Bonnet.
+Found
+MODSMD_ARTICLE12: Taladier und Bonnet in England eingetroffen.
+Found
+MODSMD_ARTICLE13: Keine „ernstliche Revolte".
+Found
+MODSMD_ARTICLE14: Die Lebensmittelaufstapelung in England.
+Found
+MODSMD_ARTICLE15: Die türkischen Staatsgäste in Athen eingetroffen.
+Found
+MODSMD_ARTICLE16: Moskau ist unzufrieden.
+Found
+MODSMD_ARTICLE17: Beiruter Zeitungen mit Trauerrand.
+Found
+MODSMD_ARTICLE18: Die Seezölle in China.
+Found
+MODSMD_ARTICLE19: Fortdauer der Kämpfe an der Front von Hsütschau.
+Found
+MODSMD_ARTICLE20: Borah gegen die amerikanische Flottenvorlage.
+Found

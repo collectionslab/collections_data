@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Beileidstelegramm des Reichskriegsministers.
+Found
+MODSMD_ARTICLE02: Bumke 40 Jahre im Dienste der Justizverwaltung»
+Found
+MODSMD_ARTICLE03: Z,Hochherzige Geste eines deutschen Marinekommandanten".
+Found
+MODSMD_ARTICLE04: Die Meerengenkonserenz in Montreux eröffnet.
+Found
+MODSMD_ARTICLE05: Die türkischen Vorschläge für ein Meerengenabkommen.
+Found
+MODSMD_ARTICLE06: Abschnitt I. Handelsschiffe einschließlich der Lazarettschiffe, Jachten und Fischereifahrzeuge.
+Not Found
+MODSMD_ARTICLE07: Abschnitt II: Kriegsschiffe und Hilfsfahrzeuge.
+Found
+MODSMD_ARTICLE08: Abschnitt 111.
+Found
+MODSMD_ARTICLE09: Abschnitt IV.
+Found
+MODSMD_ARTICLE10: Abschnitt V.
+Found
+MODSMD_ARTICLE11: Matrosenstreik in Ronen.
+Found
+MODSMD_ARTICLE12: Ende des Streiks in Kowno.
+Found
+MODSMD_ARTICLE13: Feuergefecht zwischen englischen Truppen und Arabern.
+Found
+MODSMD_ARTICLE14: Spaltung der Demokratischen Partei in Amerika?
+Found
+MODSMD_ARTICLE15: Honduras tritt ans denWMeMtznd ans.
+Found

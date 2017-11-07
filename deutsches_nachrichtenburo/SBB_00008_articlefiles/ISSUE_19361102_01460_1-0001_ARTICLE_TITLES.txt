@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der afghanische Ministerpräsident in Berlin.
+Found
+MODSMD_ARTICLE02: Dokumentenschau „Der Bolschewismus" eröffnet.
+Found
+MODSMD_ARTICLE03: Deutsche Totenehrung in Paris»
+Found
+MODSMD_ARTICLE04: Der Widerhall der Rede Mussolinis in der Presse.
+Found
+MODSMD_ARTICLE05: Generalstabsbesprechungen der Balkanpakt-Mächte.
+Found
+MODSMD_ARTICLE06: Blutiger Zwischenfall in Rumänien.
+Found
+MODSMD_ARTICLE07: Note Milizen meutern.
+Found
+MODSMD_ARTICLE08: Marxistischer Gegenangriff abgeschlagen.
+Found
+MODSMD_ARTICLE09: Weiterer Vormarsch der Nationalen gegen Madrid.
+Found
+MODSMD_ARTICLE10: Amerikanische Flugzeuge für Madrid.
+Found
+MODSMD_ARTICLE11: Gemeindewahlen in England und Wales.
+Found
+MODSMD_ARTICLE12: Jahrestag der Balfour-Erklärung. Jerusalem trauert.
+Found
+MODSMD_ARTICLE13: Das ägyptische Parlament zum Vertrag mit England.
+Found
+MODSMD_ARTICLE14: Die Aegypter verurteilen den Staatsstreich im Irak.
+Found

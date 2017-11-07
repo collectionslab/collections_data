@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Dr. Goebbels an das deutsche Volk.
+Found
+MODSMD_ARTICLE03: Der Heeresbericht vom 31. Dezember.
+Found
+MODSMD_ARTICLE04: Des Führers Nenjahrswünsche.
+Found
+MODSMD_ARTICLE05: Feindlicher Luftangriff abgewehrt.
+Found
+MODSMD_ARTICLE06: Hapag-Motorschisf „St. Louis" wieder in der Heimat.
+Found
+MODSMD_ARTICLE07: 350 prozentige Heuer für dänische Schiffer.
+Found
+MODSMD_ARTICLE08: Englische Minister „an der Front".
+Found
+MODSMD_ARTICLE09: Harter Kampf um die chinesische Stadt Paotan.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der „News Chroniele" neuestes Lügenmärchen.
+Found
+MODSMD_ARTICLE02: Glückwunsch des Führers an General Pros. Dr. Becker.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Zurückziehung der Kandidatenliste unter Terror erzwungen.
+Found
+MODSMD_ARTICLE05: Eine Folge der tschechischen Pressehetze!
+Found
+MODSMD_ARTICLE06: Der polnische Außenminister nach Warschau zurückgekehrt.
+Found
+MODSMD_ARTICLE07: „Czas" über die poluisch-litauischen Beziehungen.
+Found
+MODSMD_ARTICLE08: Die polnischen Juden als Hilfstruppe des Bolschewismus.
+Found
+MODSMD_ARTICLE09: Vormarsch der Nationalen auf der Straße Teruel—Sagunt.
+Not Found
+MODSMD_ARTICLE10: Drei Feiertage zum Jahrestag der Erhebung Fraucos.
+Found
+MODSMD_ARTICLE11: Die neue schwedische Nationalbewegung.
+Found
+MODSMD_ARTICLE12: Immer wieder Sowjetspionage in schwedischen Gewässern.
+Found
+MODSMD_ARTICLE13: Proteststreik jugoslawischer Arbeiter..
+Found
+MODSMD_ARTICLE14: Englands Kolonialpolitik.
+Found
+MODSMD_ARTICLE15: Ganz Amerika hörte Berlin.
+Found
+MODSMD_ARTICLE16: Japanische Journalisten besuchen Deutschland.
+Found

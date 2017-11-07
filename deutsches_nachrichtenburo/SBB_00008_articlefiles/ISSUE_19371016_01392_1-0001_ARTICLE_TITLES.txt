@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die Goethe-Medaille für Prof. Dr. Ludwig Scheman.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Goebbels an Rolf Laukner.
+Found
+MODSMD_ARTICLE03: Reise des Reichsführers SS. nach Rom.
+Found
+MODSMD_ARTICLE04: Der Stellvertreter des Führers erneut in Düsseldorf.
+Found
+MODSMD_ARTICLE05: Der erste deutsche Beamtentum in München.
+Found
+MODSMD_ARTICLE06: Die deutsche Kolonisationsleistung.
+Found
+MODSMD_ARTICLE07: „Tribuna" über eine Besetzung Minorcas.
+Found
+MODSMD_ARTICLE08: Organisator kommunistischer Zellen in Wolhymen getötet.
+Found
+MODSMD_ARTICLE09: Ein geheimes Rundschreiben polnischer Lehrer.
+Found
+MODSMD_ARTICLE10: Brüssel als Tagungsort der Neun-Mächte-Konferenz.
+Found
+MODSMD_ARTICLE11: Aussprache Chamberlain—Stojadinowitsch.
+Not Found
+MODSMD_ARTICLE12: Palästina wird eine neue britische Kolonie?
+Found
+MODSMD_ARTICLE13: Inhaltsreiche Erklärungen zu erwarten.
+Found
+MODSMD_ARTICLE14: Die Absichten in der Spanienfrage.
+Found
+MODSMD_ARTICLE15: Vorführungen portugiesischer Segelflieger.
+Found
+MODSMD_ARTICLE16: Die Türkei kontrolliert den Durchgangsverkehr des Bosporus
+Found
+MODSMD_ARTICLE17: Ter abgesetzte Großmufti nach Syrien geflohen?
+Found

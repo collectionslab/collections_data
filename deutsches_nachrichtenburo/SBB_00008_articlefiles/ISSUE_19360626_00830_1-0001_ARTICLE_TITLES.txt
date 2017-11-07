@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Sitzung des Reichskabinetts.
+Found
+MODSMD_ARTICLE02: Der Führer empfängt Staatssekretär a. D. Dr. Lewald.
+Found
+MODSMD_ARTICLE03: Der Fährer empfängt die leitenden Männer des Handwerks.
+Found
+MODSMD_ARTICLE04: Die italienischen Flieger bei Generaloberst Göring.
+Found
+MODSMD_ARTICLE05: Die argentinische Olympia-Mannschaft in Berlin.
+Found
+MODSMD_ARTICLE06: LZ „Hindenbnrg" in Frankfurt/Main gelandet.
+Found
+MODSMD_ARTICLE07: Schmclings Empfang in Frankfurt.
+Found
+MODSMD_ARTICLE08: Auszeichnung des Ministerpräsidenten Gömbös.
+Found
+MODSMD_ARTICLE09: Französischer Ministerrat.
+Found
+MODSMD_ARTICLE10: Fernbleiben Italiens von Genf.
+Found
+MODSMD_ARTICLE11: Die Beratungen in Montreux.
+Found
+MODSMD_ARTICLE12: Die Folgen eines chinesisch-japanischen Zwischenfalles.
+Found
+MODSMD_ARTICLE13: Politischer Mord in Mexiko.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ehrenpreis des Führers für das Münchener Springturnier.
+Found
+MODSMD_ARTICLE02: Empfang der Reichsregierung für Minister Ali Cetinkaya.
+Found
+MODSMD_ARTICLE03: Besuch englischer Höhlenforscher in Nürnberg.
+Found
+MODSMD_ARTICLE04: Die rumänischen Gäste in Frankfurt a. M.
+Found
+MODSMD_ARTICLE05: Schwere Zwischenfälle bei dem Königsbesuch in Irland.
+Found
+MODSMD_ARTICLE06: Das „Säuberungs"-Regiment der GPU wird fortgesetzt.
+Found
+MODSMD_ARTICLE07: Immer noch Schlächterstreik in Paris.
+Found
+MODSMD_ARTICLE08: Die Sperrkette auf der Seine gelöst.
+Found
+MODSMD_ARTICLE09: Panarabischer Protest in Gens gegen Teilung Palästinas.
+Found
+MODSMD_ARTICLE10: Beglaubigungsschreiben am Quirinal überreicht.
+Found
+MODSMD_ARTICLE11: Englisch-ägyptische Besprechungen.
+Found
+MODSMD_ARTICLE12: Roosevelt beabsichtigt Schaffung einer Flottenreserve.
+Found
+MODSMD_ARTICLE13: Ein neuer jüdischer Hdtzversuch.
+Found
+MODSMD_ARTICLE14: Friedenshoffnung in Fernost aufgegeben.
+Found
+MODSMD_ARTICLE15: Die Franzosen in Peiping gehen ins Gcsandtschastsvicrtel.
+Found
+MODSMD_ARTICLE16: Holländisches Flugzeug abgestürzt. 14 Tote.
+Found
+MODSMD_ARTICLE17: Museumsdiebstähle in Kairo.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Garvin für deutsch-englische Freundschaft.
+Found
+MODSMD_ARTICLE02: Oesterreich ehrt das Andenken von Franz Liszt.
+Found
+MODSMD_ARTICLE03: Brand im Elektrizitätswerk St. Nazaire.
+Found
+MODSMD_ARTICLE04: Ueberfall auf Italiener in Chamber!).
+Found
+MODSMD_ARTICLE05: Spanische Flugschüler auf französischer Fliegerschule.
+Found
+MODSMD_ARTICLE06: Eintopftage in Spanien.
+Found
+MODSMD_ARTICLE07: Neue Erfolge der Nationalen bei Madrid.
+Found
+MODSMD_ARTICLE08: Große nationale Kundgebung in Lissabon.
+Found
+MODSMD_ARTICLE09: Atatürk über die politische Lage der Türkei.
+Found
+MODSMD_ARTICLE10: Nationaler Feiertag in Bulgarien.
+Found
+MODSMD_ARTICLE11: Ausbreitung des amerikanischen Hafenarbeiterstreiks.
+Found
+MODSMD_ARTICLE12: Außerordentliche Parlamentssitzung in Kairo.
+Found
+MODSMD_ARTICLE13: Tschiangkaischeks 50. Geburtstag.
+Found
+MODSMD_ARTICLE14: Die neue Irak-Regierung für die Palästina-Araber.
+Found
+MODSMD_ARTICLE15: Arabischer Polizeiinspektor in Palästina rrschossen.
+Found
+MODSMD_ARTICLE16: Komintern hetzt in den arabischen Mandatsländern.
+Found

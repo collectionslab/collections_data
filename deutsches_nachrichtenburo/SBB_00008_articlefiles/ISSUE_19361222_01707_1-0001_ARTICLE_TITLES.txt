@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Schwedische Marxisten sammeln für Spanicn-Bolschewisten.
+Found
+MODSMD_ARTICLE02: Erfolge der nationalen Truppen.
+Found
+MODSMD_ARTICLE03: Moskau und das Durcheinander in Rot-Spanien.
+Found
+MODSMD_ARTICLE04: Französische Miuisterbesprechung über Landesverteidigung.
+Found
+MODSMD_ARTICLE05: Der Skandal im französischen Außenministerium.
+Found
+MODSMD_ARTICLE06: Spannung in der Metallindustrie Nordfrankrcichs.
+Found
+MODSMD_ARTICLE07: Rüschtü Aras' Besprechungen in Paris.
+Found
+MODSMD_ARTICLE08: Rumänische Auszeichnung für Leon Blum.
+Found
+MODSMD_ARTICLE09: Neue Negierung in Syrien.
+Found
+MODSMD_ARTICLE10: Rascher Ausbau der englischen Flotte.
+Found
+MODSMD_ARTICLE11: Veränderungen im englischen diplomatischen Dienst.
+Found
+MODSMD_ARTICLE12: Englischer Admiral schlägt Tausch Gibraltars vor.
+Found
+MODSMD_ARTICLE13: Millionen-Stiftung für Englands Notgebiete.
+Found
+MODSMD_ARTICLE14: 2 Millionen Unterernährte in Westschottland.
+Found
+MODSMD_ARTICLE15: Die Militarisierung der Frauen in Sowjetrußland.
+Found
+MODSMD_ARTICLE16: Italienisch-Portugiesische Handelsvereinbarungcn.
+Found
+MODSMD_ARTICLE17: Entscheidung des Obersten Bundesgerichts von USA.
+Found
+MODSMD_ARTICLE18: Beschlüsse der Interamerikanischen Konserenz»
+Found
+MODSMD_ARTICLE19: Die Chacosrage soll bereinigt werden.
+Found

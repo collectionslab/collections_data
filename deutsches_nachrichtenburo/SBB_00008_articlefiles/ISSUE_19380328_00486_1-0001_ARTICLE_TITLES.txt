@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Feierliche Erklärung der österreichischen Bischöfe. Anerkennung der Leistung des Nationalsozialismus.
+Found
+MODSMD_ARTICLE02: Dienstbefreiung zur Abstimmung und Wahl.
+Found
+MODSMD_ARTICLE03: Deutsche Truppen helfen österreichischen Kleinbauern.
+Found
+MODSMD_ARTICLE04: Hodscha wünscht Entspannung.
+Found
+MODSMD_ARTICLE05: Alarmruf der Aktionäre der Bank von Frankreich.
+Found
+MODSMD_ARTICLE06: Neue Millionen zur „Verteidigung von Paris".
+Found
+MODSMD_ARTICLE07: JoulMnx von seinen Genossen niedergeschrien.
+Found
+MODSMD_ARTICLE08: Lastwagenzüge für Sowjetspanien unterwegs.
+Found
+MODSMD_ARTICLE09: Der Vormarsch an der AraMn-Front geht weiter.
+Found
+MODSMD_ARTICLE10: Bolschewistisches Blutbad in Spanien.
+Found
+MODSMD_ARTICLE11: Die japanische Luftwaffe wieder in Tätigkeit.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Nachmittags- und Abend-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Zum Regierungsrat ernannt.
+Found
+MODSMD_ARTICLE03: Belgische Journalisten bei dem Reichspressechef.
+Found
+MODSMD_ARTICLE04: Führerrede im Mittelpunkt der italienischen Presse.
+Found
+MODSMD_ARTICLE05: Italienischer Journalist aus Paris ausgewiesen.
+Found
+MODSMD_ARTICLE06: Dr. Tiso bei den Feierlichkeiten in Topoleianky.
+Found
+MODSMD_ARTICLE07: Die Kriegshetze Englands klar erkannt.
+Found
+MODSMD_ARTICLE08: „Neue Instruktionen" für Craigie.
+Found
+MODSMD_ARTICLE09: So arbeiten die Heuchler an ihrer „Friedensfront".
+Found
+MODSMD_ARTICLE10: Erneute Bombenexplosion in England.
+Found
+MODSMD_ARTICLE11: Prinzregent Paul in London eingetroffen.
+Found
+MODSMD_ARTICLE12: Jagdpatrone wird zum „geheimen Nazi-Waffenlager".
+Found
+MODSMD_ARTICLE13: Montag neue Besprechung in Moskau.
+Found
+MODSMD_ARTICLE14: Polen macht sich wieder einmal selbst Mut.
+Found
+MODSMD_ARTICLE15: Der Führer ehrt Benito Mussolini.
+Found
+MODSMD_ARTICLE16: Aussprache des Führers mit Minister Alfieri.
+Found
+MODSMD_ARTICLE17: Tokioter Verhandlungen auf Mittwoch verschoben.
+Found
+MODSMD_ARTICLE18: Engländer schießen in eine Trauerversammlung.
+Found

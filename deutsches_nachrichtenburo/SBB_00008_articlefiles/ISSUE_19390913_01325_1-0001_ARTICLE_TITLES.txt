@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Lemberg erreicht.
+Found
+MODSMD_ARTICLE02: Offene Städte und Dörfer Zum Kampfgebiet gemacht!
+Found
+MODSMD_ARTICLE03: 27 weitere Opfer des Polenterrors beigesetzt.
+Found
+MODSMD_ARTICLE04: Der „Telegraaf" Zu den polnischen Bestialitäten.
+Found
+MODSMD_ARTICLE05: „Das deutsche Volk blickt vertrauensvoll in die Zukunft."
+Found
+MODSMD_ARTICLE06: Bewunderung für die Leistungen der deutschen Soldaten.
+Found
+MODSMD_ARTICLE07: Dänemark will auf Neutralitätsbrecher schießen.
+Found
+MODSMD_ARTICLE08: Außenminister Erkko über die finnische Neutralität.
+Found
+MODSMD_ARTICLE09: Belgrad zur türkischen Neutralitätserklärung.
+Found
+MODSMD_ARTICLE10: „Resto del Carlino" über Chamberlains Kriegsschuld.
+Found
+MODSMD_ARTICLE11: Japan will den Chinakonflikt rasch beendigen.
+Found
+MODSMD_ARTICLE12: Das polnische Heer offensichtlich zusammengebrochen.
+Found
+MODSMD_ARTICLE13: Englisch-französische Schlägerei in Neuyork.
+Found

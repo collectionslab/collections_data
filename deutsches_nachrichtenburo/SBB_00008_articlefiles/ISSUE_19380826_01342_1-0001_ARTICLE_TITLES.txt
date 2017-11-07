@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Herzliche Verabschiedung Horthys vom Führer. Festlicher Empfang im Charlottenburger Schlaf;.
+Found
+MODSMD_ARTICLE02: Neichsverweser von Horthy verlätzt Berlin. Herzlicher Abschied auf dem Lehrter Bahnhof.
+Found
+MODSMD_ARTICLE03: Nürnberg erwartet Horthy.
+Found
+MODSMD_ARTICLE04: Generalmajor a. D. von Hindenburg von Horthy empfangen^
+Found
+MODSMD_ARTICLE05: Sudetendeutsche Abordnung bei Lord Runciman.
+Found
+MODSMD_ARTICLE06: Wieder Luftangriffe getarnter bolschewistischer Flieger.
+Found
+MODSMD_ARTICLE07: Wieder eine Sowjetgröße verschollen.
+Found

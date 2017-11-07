@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Arbeitstagung der Deutschen Gesellschaft für Arbeitsschutz.
+Found
+MODSMD_ARTICLE02: Tagung zur Bekämpfung des unlauteren Wettbewerbs.
+Found
+MODSMD_ARTICLE03: Gegen die Preissteigerung für Lebensmittel in Polen.
+Found
+MODSMD_ARTICLE04: Norwegische Stortingwahlen.
+Found
+MODSMD_ARTICLE05: Die „Times" warnt Sowjetrußland.
+Found
+MODSMD_ARTICLE06: Wieder Brotpreiserhöhung in Paris.
+Found
+MODSMD_ARTICLE07: Versahren gegen Jean Renand.
+Found
+MODSMD_ARTICLE08: Vorgehen des Liller Projekten gegen Streikende.
+Found
+MODSMD_ARTICLE09: Mnsseuverhastungcn von Frauen durch die Madrider Roten.
+Found
+MODSMD_ARTICLE10: Largo Caballero erkrankt.
+Found
+MODSMD_ARTICLE11: Rote Tarnungsmanöver in Madrid.
+Found
+MODSMD_ARTICLE12: Nur Ausländer als Offiziere der Marxisten bei Oviedo.
+Found
+MODSMD_ARTICLE13: Wie Rotmord in Katalonien haust.
+Found
+MODSMD_ARTICLE14: Rote Kriegsschiffe durchsuchen Tischdampfer.
+Found
+MODSMD_ARTICLE15: Sowjetdampfer-„Newa" in Alicante.
+Found
+MODSMD_ARTICLE16: Moskaus Hilfe für Spanien.
+Found

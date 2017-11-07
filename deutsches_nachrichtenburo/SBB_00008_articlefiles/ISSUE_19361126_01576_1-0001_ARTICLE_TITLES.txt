@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die erste Haupttagung des Reichsbauernrates.
+Found
+MODSMD_ARTICLE02: Bundesminister Glaise-Horstenau in München.
+Found
+MODSMD_ARTICLE03: Schwedische Blätter zur Blamage des Storting.
+Found
+MODSMD_ARTICLE04: Studentenkundgebungen auch in Posen.
+Found
+MODSMD_ARTICLE05: Der rumänische Außenminister in Krakau.
+Found
+MODSMD_ARTICLE06: Baldwin bei König Eduard.
+Found
+MODSMD_ARTICLE07: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE08: Weitere Spanien-Anfragen im Unterhaus.
+Found
+MODSMD_ARTICLE09: Aegypten-Vertrag von Oberhaus angenommen.
+Found
+MODSMD_ARTICLE10: Trinkspruche des Königs von Italien und Horthys.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Tag der Deutschen Kunst. Professor Ziegler auf der Festsitzung der Reichskammer der Bildenden Künste.
+Found
+MODSMD_ARTICLE02: Starke ausländische Teilnahme am Tag der Deutschen Kunst.
+Found
+MODSMD_ARTICLE03: Auch eine Ausstellung „Entartete Kunst" in München.
+Found
+MODSMD_ARTICLE04: Beileidsschreiben des Michsjustizministers an Frau Simons.
+Found
+MODSMD_ARTICLE05: Stuttgarter antibolschewistische Schau eröffnet.
+Found
+MODSMD_ARTICLE06: „Schaffendes Landvolk" in Kiel eröffnet.
+Found
+MODSMD_ARTICLE07: Osterreich verfolgt die Präger Krise.
+Found
+MODSMD_ARTICLE08: Kirchen sollen sich auf ihre eigenen Aufgaben beschränken!
+Found
+MODSMD_ARTICLE09: „Komödie" und „fauler Kompromist".
+Found
+MODSMD_ARTICLE10: Unwetterkatastrophe in Japan. Viele Tote.
+Found
+MODSMD_ARTICLE11: Schweres Eisenbahnunglück in Zentralindien.
+Found
+MODSMD_ARTICLE12: Benzintankexplosion in USA.
+Found

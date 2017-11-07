@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Ehrende Anerkennung eines deutschen Forschers.
+Found
+MODSMD_ARTICLE03: Nachwuchslenkung und Berufswahl.
+Found
+MODSMD_ARTICLE04: Die englisch-italienischen Besprechungen.
+Found
+MODSMD_ARTICLE05: Außenpolitische Aussprache in der Kammer.
+Found
+MODSMD_ARTICLE06: Neue Labour-Agitation gegen die Regierung.
+Found
+MODSMD_ARTICLE07: Arbeitsminister Brown mußte seine Rede unterbrechen.
+Found
+MODSMD_ARTICLE08: Grammens wiederholt seinen Schildersturm.
+Found
+MODSMD_ARTICLE09: Arbeitslosenunruhen in Holland.
+Found
+MODSMD_ARTICLE10: „Het Nationale Dagblad" verboten.
+Found
+MODSMD_ARTICLE11: Dr. Bizauskas litauischer Gesandter in Riga.
+Found
+MODSMD_ARTICLE12: Einig in der Bewunderung der neuen Reichskanzlei.
+Found
+MODSMD_ARTICLE13: Norwegische Gesandtschaften für Brüssel und den Haag.
+Found
+MODSMD_ARTICLE14: Zwangsaufenthalt für Prof. Nae lonescu.
+Found
+MODSMD_ARTICLE15: Konzentrischer Vormarsch aus Tarragona.
+Found
+MODSMD_ARTICLE16: Erste Niederlage Roosevelts vor dem Kongreß.
+Found
+MODSMD_ARTICLE17: Die Durchschleusung der amerikanischen Flotte.
+Found
+MODSMD_ARTICLE18: Großer Reinfall Judas in Südamerika.
+Found

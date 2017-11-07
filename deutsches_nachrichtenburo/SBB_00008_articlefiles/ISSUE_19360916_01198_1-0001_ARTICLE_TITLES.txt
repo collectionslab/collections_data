@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Schweizer marxistische Blätter beschimpfen Deutschland.
+Found
+MODSMD_ARTICLE02: Der französische Kabinettsrat.
+Found
+MODSMD_ARTICLE03: 30 Millionen Gasmasken in Auftrag gegeben.
+Found
+MODSMD_ARTICLE04: Italiens Beteiligung an den Völkerbundsarbeiten.
+Found
+MODSMD_ARTICLE05: Ter argentinische Außenminister in Genf.
+Found
+MODSMD_ARTICLE06: Prüfung der österreichischen Finanzlage.
+Found
+MODSMD_ARTICLE07: Konferenz beim polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE08: Neuer Leiter des polnischen „Aktionsbüros".
+Found
+MODSMD_ARTICLE09: Die Tagung der Kleinen Entente.
+Found
+MODSMD_ARTICLE10: Staatssekretär Schmidt wieder in Rom.
+Found
+MODSMD_ARTICLE11: Marxistische Waffenschieber in Wien verhaftet.
+Found
+MODSMD_ARTICLE12: Maßnahmen gegen die Trotzkisten-Bewegung in Litauen.
+Found
+MODSMD_ARTICLE13: Hungersnot in Bilbao.
+Found
+MODSMD_ARTICLE14: Mißglückter Aufstandsversuch in Bilbao.
+Found
+MODSMD_ARTICLE15: 52 Hinrichtungen in Madrid.
+Found
+MODSMD_ARTICLE16: Erfolge der Nationalisten bei Somosierra.
+Found
+MODSMD_ARTICLE17: Moskau wirbt für die „Genossen" in Spanien.
+Found
+MODSMD_ARTICLE18: Die ersten Todesurteile in Palästina.
+Found
+MODSMD_ARTICLE19: Arabischer Nationalkongrest in Palästina verboten.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Tagung des Reichsheimstättenamtes der DAF.
+Found
+MODSMD_ARTICLE02: Erfassung militärisch ausgebildeter Wehrpflichtiger.
+Found
+MODSMD_ARTICLE03: Ein spanisches Matt über Tanzig.
+Found
+MODSMD_ARTICLE04: Kolonialaussprache im Unterhaus.
+Found
+MODSMD_ARTICLE05: Die Lebensmittelversorgung Englands im Kriege.
+Found
+MODSMD_ARTICLE06: Baldwin zur Abreise, des Negus aus Addis Abeba.
+Found
+MODSMD_ARTICLE07: Die Schlagfertigkeit der englischen Flotte.
+Found
+MODSMD_ARTICLE08: Nachwahlsieg der Arbeiteropposition in England.
+Found
+MODSMD_ARTICLE09: Verstärkung der LuftmachtMilWMWW
+Found
+MODSMD_ARTICLE10: Ein Vorstost der Rexisten im belgischen Senat.
+Found
+MODSMD_ARTICLE11: Frankreichs Bevölkerungsentwicklung.
+Found
+MODSMD_ARTICLE12: Die Aufstandsbewegung in Spanien.
+Found
+MODSMD_ARTICLE13: Scharfes Vorgehen gegen spanische Ordensschwestern.
+Found
+MODSMD_ARTICLE14: Eine kommunistische Zelle im brasilianischen Heere.
+Found
+MODSMD_ARTICLE15: Kommunistenführer zum Tode verurteilt.
+Found

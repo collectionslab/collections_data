@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Professor Mentzel zum Ministerialdirektor ernannt.
+Found
+MODSMD_ARTICLE02: In den deutschen Reichsbauernrat berufen.
+Found
+MODSMD_ARTICLE03: Sondertreuhänder für das Ziegeleigewerbe.
+Found
+MODSMD_ARTICLE04: Abendempfang der Deutsch-Französischen Gesellschaft.
+Found
+MODSMD_ARTICLE05: Abschied der Jungfaschisten von Berlin.
+Found
+MODSMD_ARTICLE06: Der Besuch des Reichsfinanzministers in Rom.
+Found
+MODSMD_ARTICLE07: Das britische Kabinett tagt.
+Found
+MODSMD_ARTICLE08: Auch Chamberlain und Halifax völlig überrascht.
+Found
+MODSMD_ARTICLE09: Noch immer keine amtliche Stellungnahme in England.
+Found
+MODSMD_ARTICLE10: Paris unter dem Eindruck der „schrecklichen Bombe".
+Found
+MODSMD_ARTICLE11: Stärkster Eindruck und freudige Erregung in Sofia.
+Found
+MODSMD_ARTICLE12: Gewaltiger Eindruck und große Befriedigung in Riga.
+Found
+MODSMD_ARTICLE13: Oslo: Ein schwerer Schlag für die Einkreisungssroni.
+Found
+MODSMD_ARTICLE14: Die deutsch-slowakische Freundschaft eine gelöste Frage.
+Found
+MODSMD_ARTICLE15: Mit Seitengewehren gegen Volksdeutsche.
+Found
+MODSMD_ARTICLE16: Die Kriegslieferungen Washingtons an Frankreich.
+Found

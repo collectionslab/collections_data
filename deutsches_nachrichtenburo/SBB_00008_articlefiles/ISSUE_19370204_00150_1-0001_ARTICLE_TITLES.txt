@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: 20 000 Eisenbahner kamen zum Rührer.
+Found
+MODSMD_ARTICLE02: Eisenbahner-Abordnung beim Führer.
+Found
+MODSMD_ARTICLE03: Der Führer spricht.
+Found
+MODSMD_ARTICLE04: Reichspost-Gesolgschaft grüßt ihren neuen Minister.
+Found
+MODSMD_ARTICLE05: Eltz-Rübenach verabschiedete sich.
+Found
+MODSMD_ARTICLE07: Schwerin im Zeichen des Gustloff-Gedenktages.
+Found
+MODSMD_ARTICLE08: Dr. Freister sprach in Dänemark.
+Found
+MODSMD_ARTICLE09: Tiplomatenempfang bei König Georg.
+Found
+MODSMD_ARTICLE10: Nnterhausanfrage: Was wollte Backhouse bei Cabellero?
+Found
+MODSMD_ARTICLE11: Britischer Protest in Valencia.
+Found
+MODSMD_ARTICLE12: Französische Flugzeugwerke müssen beschlagnahmt werden.
+Found
+MODSMD_ARTICLE13: Wieder 34 Franzosen der Bolschewistenhölle entronnen.
+Found
+MODSMD_ARTICLE14: Graf Ciano wieder in Rom.
+Found
+MODSMD_ARTICLE15: Warnung vor neuer Franc-Abwertung in der Kammer.
+Found
+MODSMD_ARTICLE16: Marxistischer Jdeenstreit im Internationalen Arbeitsamt.
+Found
+MODSMD_ARTICLE17: Der Korrumptionsfumpf des Wiener „Phönix".
+Found
+MODSMD_ARTICLE18: Schwedens Austenminister in Holland.
+Found
+MODSMD_ARTICLE19: Radauszenen in Tunis.
+Found
+MODSMD_ARTICLE20: Vollstreckung eines Todesurteils.
+Found

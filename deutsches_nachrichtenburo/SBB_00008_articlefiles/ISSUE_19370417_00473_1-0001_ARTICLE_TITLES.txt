@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Flieger-General Aimone-Cat bei Generaloberst Göring.
+Found
+MODSMD_ARTICLE02: Tie japanischen Nekordflieger bei Hermann Göring.
+Found
+MODSMD_ARTICLE03: Daluege warnt die Saboteure im Priesterrock.
+Found
+MODSMD_ARTICLE04: Dr. Schacht über die Bedeutung des Einzelhandels.
+Found
+MODSMD_ARTICLE05: Werftarbeiterstreik am Clyde-Fluß.
+Found
+MODSMD_ARTICLE06: König Gustav von Schweden in Paris.
+Found
+MODSMD_ARTICLE07: Eine rumänische Miliiärabordnung in Paris.
+Found
+MODSMD_ARTICLE08: Pessimistische Rede eines radikalsozialistischen Abgeordneten.
+Found
+MODSMD_ARTICLE09: Siraßburger Handelskammer gegen 40-Stundenwoche.
+Found
+MODSMD_ARTICLE10: Ab Dienstag 0 Uhr Seekontrolle.
+Found
+MODSMD_ARTICLE11: Wirtschaftsberatungen der Oslo-Gruppe.
+Found
+MODSMD_ARTICLE12: Van Zeelands geplanter Besuch in Washington.
+Found
+MODSMD_ARTICLE13: Der Zweck der Amerika-Reise van Zeelands.
+Found
+MODSMD_ARTICLE14: Van Zeelands Beauftragter stellt Untersuchungen an.
+Found
+MODSMD_ARTICLE15: Sowjetversuch zur Erspähung fremder Riistungsgeheimnisse.
+Found
+MODSMD_ARTICLE16: Nene Goldverschiffungen ans England nach Amerika.
+Found

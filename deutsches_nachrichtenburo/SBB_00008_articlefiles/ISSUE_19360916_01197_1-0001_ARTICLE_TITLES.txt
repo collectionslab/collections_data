@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Hieb hat gesessen! Wüste Schimpfkanonade der Sowjetpresse.
+Found
+MODSMD_ARTICLE02: Regelung des Anbaus an Verkehrsstraßen.
+Found
+MODSMD_ARTICLE03: Ter Berliner chinesische Botschafter in München.
+Found
+MODSMD_ARTICLE04: Neue Streiks in Frankreich.
+Found
+MODSMD_ARTICLE05: Archimbauds „kleine Liebe" zu Sowjetrußland.
+Found
+MODSMD_ARTICLE06: Der Bevölkerungsrückgang in England.
+Found
+MODSMD_ARTICLE07: Englands Bemühungen um Portugals Beteiligung.
+Found
+MODSMD_ARTICLE08: Litwinow nach Genf abgereist.
+Found
+MODSMD_ARTICLE09: Ministerpräsident Stojadinowitsch in Prag.
+Found
+MODSMD_ARTICLE10: Stilisten" oder Bolschewisten?
+Found
+MODSMD_ARTICLE11: Sechsjahrplan der japanischen Armee.
+Found
+MODSMD_ARTICLE12: Chinesen beschießen englischen Dampfer.
+Found
+MODSMD_ARTICLE13: Nnabhängigkeitsfeiern in Zentralamerika.
+Found
+MODSMD_ARTICLE14: 15 Todesopfer der Kattowitzer Brandkatastrophe.
+Found

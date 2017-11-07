@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Keine Beslaggnng der Dienstgebäude am Neujahrstag.
+Found
+MODSMD_ARTICLE02: Deutsch-niederländische Verhandlungen.
+Found
+MODSMD_ARTICLE03: Rudolf Heß empfing Professor Landra.
+Found
+MODSMD_ARTICLE04: Auch Polen setzt sich gegen die Ostjuden zur Wehr.
+Found
+MODSMD_ARTICLE05: Die polnische Presse zu den Gemeindewahlen.
+Found
+MODSMD_ARTICLE06: Geheimsender der Eisernen Garde.
+Found
+MODSMD_ARTICLE07: Gute Beziehungen Budapest—Belgrad.
+Found
+MODSMD_ARTICLE08: Fabry gegen die unerwünschten Ausländer.
+Found
+MODSMD_ARTICLE09: Auch die Gewerkschaften für eine Stammrolle.
+Found
+MODSMD_ARTICLE10: Stalin hat wieder Sündenböcke gefunden.
+Found
+MODSMD_ARTICLE11: Liebliche Zustände in sowjetrussischen Fabriken.
+Found
+MODSMD_ARTICLE12: Dir Palästina-Konferenz soll scheitern! <
+Found
+MODSMD_ARTICLE13: 4 syrische Dörfer von Engländern „durchsucht".
+Found
+MODSMD_ARTICLE14: Mardam Ney wieder in Beirut.
+Found
+MODSMD_ARTICLE15: Der Kampf um die Fischereirechte im japanischen Meer.
+Found
+MODSMD_ARTICLE16: Schwere Zusammenstöße in Indien.
+Found
+MODSMD_ARTICLE17: Keine Ausländer im brasilianischen Petroleumgeschäft.
+Found
+MODSMD_ARTICLE18: Italienischer Kreuzerbesuch in Rio Grande.
+Found
+MODSMD_ARTICLE19: Bundessmator warnt vor der Rüstungsagitaiion.
+Found
+MODSMD_ARTICLE20: Vollstreckung zweier Todesurteile.
+Found

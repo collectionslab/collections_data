@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Trauerfeier für Obergruppenführer Fuchs.
+Found
+MODSMD_ARTICLE02: Graf Welczeck übermittelt den Dank der Reichsregierung.
+Found
+MODSMD_ARTICLE03: Die Generale de W.utileB für Data dl er.
+Found
+MODSMD_ARTICLE04: „Vergebliche Opfer".
+Found
+MODSMD_ARTICLE05: Ein neuer Grund für Sitzstreiks in Frankreich.
+Found
+MODSMD_ARTICLE06: Staatsbesuch des Königs der Belgier in Holland.
+Found
+MODSMD_ARTICLE07: Der 1. Mai auch in Memelland Feiertag.
+Found
+MODSMD_ARTICLE08: Ein lettisches Blatt zur Judenfrage. 5
+Found
+MODSMD_ARTICLE09: Zusammenschluß der tschechischen Wehrverbände.
+Found
+MODSMD_ARTICLE10: Prinzregent Paul von Jugoslawien in London.
+Found
+MODSMD_ARTICLE11: Die englisch-rumänischen Besprechungen.
+Found
+MODSMD_ARTICLE12: Keine Beistandsverpflichtung der Dominien.
+Found
+MODSMD_ARTICLE13: Der Vatikan streckt seine Fühler nach London aus.
+Found
+MODSMD_ARTICLE14: Sie werden immer frecher.
+Found
+MODSMD_ARTICLE15: England unter jüdischem Druck.
+Found
+MODSMD_ARTICLE16: Das Staatsbegräbnis Atatürks.
+Found
+MODSMD_ARTICLE17: Japans Kampf um die Befriedung Chinas.
+Found
+MODSMD_ARTICLE18: 100 Jahre deutsche Einwanderung in Südaustralien.
+Found
+MODSMD_ARTICLE19: Tw deutsche Arbeitsdienst als Vorbild in Brasilien.
+Found
+MODSMD_ARTICLE20: Hinrichtung zweier Landesverräter.
+Found

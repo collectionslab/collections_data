@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ernst vom Raths Heimkehr ins Baterland.
+Found
+MODSMD_ARTICLE02: Ein Tatsachenbericht klagt an.
+Found
+MODSMD_ARTICLE03: „Des Führers Geschenk auf den Monte Gennaro bei Rom".
+Found
+MODSMD_ARTICLE04: Der jüdische Grundbesitz in Mailand und Turin.
+Found
+MODSMD_ARTICLE05: Empfang zu Ehren der deutschen Wirtschastsschristlelter.
+Found
+MODSMD_ARTICLE06: „Mehr Bomber!"
+Found
+MODSMD_ARTICLE07: Eröffnung des Schiller-Theaters.
+Found
+MODSMD_ARTICLE08: Kalte Schulter für Eden.
+Found
+MODSMD_ARTICLE09: Das neue ungarische Kabinett.
+Found
+MODSMD_ARTICLE10: „Die internationale jüdische Macht muß beseitigt werden".
+Found

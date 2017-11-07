@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Eröffnung der Verwaltungsakademie in Wien.
+Found
+MODSMD_ARTICLE02: Erholungsfahrten österreichischer Kinder ins Altreich.
+Found
+MODSMD_ARTICLE03: Ausstellung „Schrifttum zum nordischen Gedanken".
+Found
+MODSMD_ARTICLE04: Die Zweite Deutsch-Französische Tagung.
+Found
+MODSMD_ARTICLE05: Gauleiter Forster eröffnet- die Gaukulturwoche.
+Found
+MODSMD_ARTICLE06: Prag bestätigt Terrorregiment tschechischer Soldateska.
+Found
+MODSMD_ARTICLE07: Die deutsche Jugendfürsorge unterstellt sich Henlein.
+Found
+MODSMD_ARTICLE08: Protest der Slowakischen Volkspartei gegen Willkürakte.
+Found
+MODSMD_ARTICLE09: „Polnische Schulen für polnische Kinder!"
+Found
+MODSMD_ARTICLE10: „Tribuua" über die neue Lage auf dem Balkan.
+Found
+MODSMD_ARTICLE11: Ter japanisch-sowjetrussische Fischereikonslikt.
+Found
+MODSMD_ARTICLE12: Feierliche Enthüllung einer Harada-Büste in Tokio.
+Found
+MODSMD_ARTICLE13: Fortsetzung des China-Krieges mit verschärften Mitteln.
+Found
+MODSMD_ARTICLE14: Zuchthaus für einen Betrüger und Schädling.
+Found

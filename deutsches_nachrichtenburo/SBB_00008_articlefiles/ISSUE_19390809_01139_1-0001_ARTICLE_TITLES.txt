@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Neuaufbau Spaniens.
+Found
+MODSMD_ARTICLE02: Madrider Presse zur Neuorganisation der Zentralgewalt.
+Found
+MODSMD_ARTICLE03: Abschluß der großen Manöver in Oberitalien.
+Found
+MODSMD_ARTICLE04: Beginn der britischen Luftmanöver.
+Found
+MODSMD_ARTICLE05: Peinlich für die britische Luftfahrt.
+Found
+MODSMD_ARTICLE06: Strang erstattet Halifax Bericht.
+Found
+MODSMD_ARTICLE07: Starke Beachtung der Antwort auf die Kriegshetze.
+Found
+MODSMD_ARTICLE08: Nervosität der Pariser Presse.
+Found
+MODSMD_ARTICLE09: Fiktion der Hetzpresse zunichte gemacht.
+Found
+MODSMD_ARTICLE10: USA. kauft chinesisches Silber.
+Found
+MODSMD_ARTICLE11: Die Kennzahl der Großhandelspreise im Monatsdurchschnitt Juli 1939.
+Not Found

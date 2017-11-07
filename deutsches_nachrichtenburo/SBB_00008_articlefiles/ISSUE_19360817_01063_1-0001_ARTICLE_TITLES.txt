@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Göring auf der Tagung des Deutschen Forsidereins.
+Found
+MODSMD_ARTICLE03: Kranzniederlegung am Denkmal Friedrich des Großen.
+Found
+MODSMD_ARTICLE04: Domkapitel-Ernennungen für Merseburg und Naumburg.
+Found
+MODSMD_ARTICLE05: Der Abtransport deutscher Volksgenossen aus Spanien.
+Found
+MODSMD_ARTICLE06: Rückgabe der Schiffsglocke der „Hindenburg" in Kiel.
+Found
+MODSMD_ARTICLE07: Beginn der Kieler Woche.
+Found
+MODSMD_ARTICLE08: Eine eigenartige Neutralitätsrede Salengros.
+Found
+MODSMD_ARTICLE09: Madrid meldet Truppenlandung auf Mallorca.
+Found
+MODSMD_ARTICLE10: Der türkische Gesandte hat Addis Abeba verlassen.
+Found
+MODSMD_ARTICLE11: Der japanische Marinehaushalt.
+Found

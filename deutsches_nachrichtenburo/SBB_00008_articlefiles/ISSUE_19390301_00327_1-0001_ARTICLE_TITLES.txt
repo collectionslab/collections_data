@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Der Tag der Luftwaffe.
+Found
+MODSMD_ARTICLE02: Stärkste Beachtung der Rundfunkrede Görings in London.
+Found
+MODSMD_ARTICLE03: Tumult im Haager Parlament.
+Found
+MODSMD_ARTICLE04: Vertiefung der polnisch-slowakischen Beziehungen.
+Found

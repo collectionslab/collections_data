@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Telegrammwechsel zwischen dem Führer und Cianetti.
+Found
+MODSMD_ARTICLE02: Generalfeldmarschall Görinn fährt nach Wien.
+Found
+MODSMD_ARTICLE03: Sofortige Hilfsmaßnahmen des WHW. für Oesterreich.
+Found
+MODSMD_ARTICLE04: Spendet für Oesterreich!
+Found
+MODSMD_ARTICLE05: 20 0W österreichische Kinder Gäste der NSV.
+Found
+MODSMD_ARTICLE06: Abschied der Wiener Gäste von Augsburg.
+Found
+MODSMD_ARTICLE07: Ungarns Aufbau beginnt.
+Found
+MODSMD_ARTICLE08: Englands Öffentlichkeit zu dem Anschluß Oesterreichs.
+Found
+MODSMD_ARTICLE09: Das britische Kabinett erneut zusammengetreten.
+Found
+MODSMD_ARTICLE10: Oberst Beck über die Beziehungen zu Litauen.
+Found
+MODSMD_ARTICLE11: Jüdische Lehrer werden in Polen ausgemerzt.
+Found
+MODSMD_ARTICLE12: Kein Rücktritt der litauischen Regierung.
+Found
+MODSMD_ARTICLE13: „Gazette de Lausanne" an „eine gewisse Presse".
+Found
+MODSMD_ARTICLE14: „Novosti": „Grabrede für Genf."
+Found
+MODSMD_ARTICLE15: „Jour" über die Pläne der spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE16: Für ein starkes Portugal!
+Found

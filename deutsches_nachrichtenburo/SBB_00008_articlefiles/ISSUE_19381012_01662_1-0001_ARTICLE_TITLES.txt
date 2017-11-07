@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Dr. Goebbels sprach auf einem Letriebsappell.
+Found
+MODSMD_ARTICLE02: Beginn der Rücktransport ins Sudetenland.
+Found
+MODSMD_ARTICLE03: Um die finanzielle Unterstützung der Tschecho-Slowakei.
+Found

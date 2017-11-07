@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Dr. Schacht empfing in der Reichsbank.
+Found
+MODSMD_ARTICLE02: Göring von Capri abgereist.
+Found
+MODSMD_ARTICLE03: Neuorganisation der legitimistischen Bewegung.
+Found
+MODSMD_ARTICLE04: Jüdische Werbezentrale in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE05: Die Wohlfahrtslasten der Gemeinde Wien.
+Found
+MODSMD_ARTICLE06: Zuchthaus für litauische Kommunisten.
+Found
+MODSMD_ARTICLE07: Eine Milliarde Zloty für den Verteidigungsfonds.
+Found
+MODSMD_ARTICLE08: „Was will Deutschland?"
+Found
+MODSMD_ARTICLE09: Eingeborenenstreik in Französisch-Marokko.
+Found
+MODSMD_ARTICLE10: Kosola eines natürlichen Todes gestorben.
+Found
+MODSMD_ARTICLE11: Kommunismus: Brutstätte der Unmoral.
+Found
+MODSMD_ARTICLE12: Tie Zwangsmilitarisierung in Sowjetrnsstand.
+Found
+MODSMD_ARTICLE13: Der japanische Reichstag noch nicht aufgelöst.
+Found

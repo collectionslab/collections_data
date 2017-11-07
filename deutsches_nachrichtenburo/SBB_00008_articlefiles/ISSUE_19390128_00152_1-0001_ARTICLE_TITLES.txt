@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Chile dankt für deutsche Anteilnahme am Erdbebenunglück.
+Found
+MODSMD_ARTICLE03: Branchitsch empfängt die ausländischen Reiterosfiziere.
+Found
+MODSMD_ARTICLE04: Die Aufgaben des NS. Reichskriegerbundes unverändert.
+Found
+MODSMD_ARTICLE05: Leui Rieseustahl in Paris herzlich begrüßt.
+Found
+MODSMD_ARTICLE06: Wüstes Durcheinander bei den Roten in Katalonien.
+Found
+MODSMD_ARTICLE07: „Der Fall Barcelonas eine Niederlage Frankreichs."
+Found
+MODSMD_ARTICLE08: „Alles ist verloren . . . Madrid, Cartagena und Valencia!"
+Found
+MODSMD_ARTICLE09: „Giornale gegen Alarmmeldungeu.
+Found
+MODSMD_ARTICLE10: Berichtigungen an bulgarisch-rumänischer Grenze gefordert.
+Found
+MODSMD_ARTICLE11: Nationalspanischer Ausbau in Katalonien.
+Found
+MODSMD_ARTICLE12: Ausschluß jüdischer Advokaten in Prag.
+Found
+MODSMD_ARTICLE13: Sowjeigroll auf England und Frankreich.
+Found
+MODSMD_ARTICLE14: Kriegsgericht soll Arbeitsfrieden aufrechterhalten.
+Found
+MODSMD_ARTICLE15: Regierungserklärung vor der türkischen Kammer.
+Found
+MODSMD_ARTICLE16: „Suchaktionen" der britischen Truppen i,n Palästina.
+Found
+MODSMD_ARTICLE17: Die rote Fahne Flagge des 'Zionismus.
+Found

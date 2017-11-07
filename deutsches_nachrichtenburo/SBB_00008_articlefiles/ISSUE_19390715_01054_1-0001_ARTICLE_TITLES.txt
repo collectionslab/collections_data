@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Die Kunst gehört dem ganzen Volke!
+Found
+MODSMD_ARTICLE02: Alfieri ehrt die Toten der Bewegung.
+Found
+MODSMD_ARTICLE03: Frühstück zu Ehren Alfieris.
+Found
+MODSMD_ARTICLE04: 75 Jahre Steyr-Werke.
+Found
+MODSMD_ARTICLE05: Graf Ciano in> Madrid.
+Found
+MODSMD_ARTICLE06: Polnische Unverschämtheiten.
+Found

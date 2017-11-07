@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer zur Sammlung der Hindenburg-Spe>nde.
+Found
+MODSMD_ARTICLE02: Besuch des deutsch-französischen Jugendlagers beim Führer.
+Found
+MODSMD_ARTICLE03: Besichtigungsreise des Reichskriegsministers.
+Found
+MODSMD_ARTICLE04: Ernennungen im Reichserziehungsministerium.
+Found
+MODSMD_ARTICLE05: Weitere 70V Mill. RM-Anleihe des Deutschen Reiches.
+Found
+MODSMD_ARTICLE06: Reichsminister Dr. Frick in Baden.
+Found
+MODSMD_ARTICLE07: Kapitän Pruß wieder in Deutschland.
+Found
+MODSMD_ARTICLE08: Die katholische Studentenschaft Österreichs gegen die Juden.
+Found
+MODSMD_ARTICLE09: Marxistenüberfall in Lodz.
+Found
+MODSMD_ARTICLE10: „Ustaschi"-Attentat im Paris.
+Found
+MODSMD_ARTICLE11: Vier englische Minister beraten über den Ostasien Konflikt.
+Found
+MODSMD_ARTICLE12: Filiale des Spanienausschusses in Istanbul?
+Found
+MODSMD_ARTICLE13: Beginn der türkischen Manöver in Thrazien.
+Found
+MODSMD_ARTICLE14: Neuernennungen in der Sowjetunion.
+Found
+MODSMD_ARTICLE15: Wieder Bombenangriffe auf die japanischen Kriegsschiffe.
+Found
+MODSMD_ARTICLE16: Rege Fliegertätigkeit bei Schanghai.
+Found
+MODSMD_ARTICLE17: Die neue Regierung Paraguays.
+Found

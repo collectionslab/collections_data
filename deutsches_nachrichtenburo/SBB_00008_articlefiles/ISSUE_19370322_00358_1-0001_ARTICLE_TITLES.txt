@@ -1,0 +1,48 @@
+MODSMD_ARTICLE01: Der Führer an den Schah von Iran.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Beck reist zu den Londoner Krönungsfeierlichkeiten.
+Found
+MODSMD_ARTICLE04: Verhaftung bolschewistischer Agitatoren in Polen.
+Found
+MODSMD_ARTICLE05: Der 11. November polnischer Staatsseiertag.
+Found
+MODSMD_ARTICLE06: OK kommunistische Agitatoren in Warschau verhastet.
+Found
+MODSMD_ARTICLE07: Sowjetspamen-Werber in der Tschechoslowakei verhaftet.
+Found
+MODSMD_ARTICLE08: Enthüllung über kommunistische Geldquellen angekündigt»
+Found
+MODSMD_ARTICLE09: Der Präsident der Rumänischen Staatsbank bei Lebrun.
+Found
+MODSMD_ARTICLE10: Aussprache Delbos—Berenger.
+Not Found
+MODSMD_ARTICLE11: Der Pariser Besuch Sandlers beendet.
+Found
+MODSMD_ARTICLE12: Beisetzung Marschall Aochs im Invalidendom.
+Found
+MODSMD_ARTICLE13: Der Bolschewist Cachin am Sprechen verhindert.
+Found
+MODSMD_ARTICLE14: feiger Ueberfall auf evangelische Gemeinde.
+Found
+MODSMD_ARTICLE15: Frankreichs Kolonialminister besucht Westafrika.
+Found
+MODSMD_ARTICLE16: Streik beim französischen Tabakmonopol.
+Found
+MODSMD_ARTICLE17: Immer wieder Streiks in Frankreich.
+Found
+MODSMD_ARTICLE18: „Giornale d'Jtalia zu Mussolinis Interview.
+Found
+MODSMD_ARTICLE19: Georg VI. Schirmherr der „United Associations of Great Britain and france". »
+Found
+MODSMD_ARTICLE20: Daladier reist nach England.
+Found
+MODSMD_ARTICLE21: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE22: Einspruch in Genf gegen sowjetrussische Machenschaft.
+Found
+MODSMD_ARTICLE23: Sowjetunion sperrt Sibirienbahn am Mandschnli-Übergang.
+Found
+MODSMD_ARTICLE24: Schweres Gasunglück in Nantes.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Neuer Regierungsvizepräsident in Oppeln.
+Found
+MODSMD_ARTICLE03: Der 88. Geburtstag Mackensens.
+Found
+MODSMD_ARTICLE04: Lorbeerkranz am Grabe des Sachsenkaisers Lothar.
+Found
+MODSMD_ARTICLE05: Die Mittelschüler Wilnas wehren sich!
+Found
+MODSMD_ARTICLE06: Ungarn feiert Horthy.
+Found
+MODSMD_ARTICLE07: Ungarn zur Italien-Reise Stojadinowitschs.
+Found
+MODSMD_ARTICLE08: Stojadinowitsch beim italienischen Herrscherpaar.
+Found
+MODSMD_ARTICLE09: Nichts trennt Jugoslawien und Italien.
+Found
+MODSMD_ARTICLE10: Der Duce amnestiert.
+Found
+MODSMD_ARTICLE11: Der frühere japanische Außenminister Graf Jshii in London.
+Found
+MODSMD_ARTICLE12: England und der Fernostkonflikt.
+Found
+MODSMD_ARTICLE14: Eine unerhörte Grenzverletzung.
+Found
+MODSMD_ARTICLE15: Portugal gegen Verdächtigungen Deutschlands.
+Found
+MODSMD_ARTICLE16: Schirach bei der Jugend Teherans.
+Found
+MODSMD_ARTICLE17: Autonome Regierung in Schanghai.
+Found

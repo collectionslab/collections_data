@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer verleiht Professor Stark die Goethe-Medaille.
+Found
+MODSMD_ARTICLE02: Lutze sprach zu den siegreichen SA.-Reitern.
+Found
+MODSMD_ARTICLE03: Dr. Ley in Nürnberg.
+Found
+MODSMD_ARTICLE04: Internationale Hochschulkurse auf dem Semmering.
+Found
+MODSMD_ARTICLE05: Slowakische Antwort an Polen.
+Found
+MODSMD_ARTICLE06: Jüdische Preistreiberei iu Preßburg.
+Found
+MODSMD_ARTICLE07: Das Sondergesetz gegen die irischen Nationalisten.
+Found
+MODSMD_ARTICLE08: Englands Rückzug schmackhaft gemacht.
+Found
+MODSMD_ARTICLE09: Madrid: „Die beste und einzige Friedensgarantie."
+Found
+MODSMD_ARTICLE10: Weltkongreß der Lingiade beginnt.
+Found
+MODSMD_ARTICLE11: Der englisch-französische Kuhhandel im Nahen Osten.
+Found
+MODSMD_ARTICLE12: „England hat seine Rolle ausgespielt."
+Found
+MODSMD_ARTICLE13: Starkes Befremden der China-Engländer.
+Found
+MODSMD_ARTICLE14: Jüdische Rachsucht!
+Found
+MODSMD_ARTICLE15: Der Südpolimperialismus Roosevelts.
+Found

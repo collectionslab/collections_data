@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Abschluß eines deutsch-italienischen Filmabkommens.
+Found
+MODSMD_ARTICLE03: Neuer Leiter des Hauptschulungsamts der NSDAP.
+Found
+MODSMD_ARTICLE04: Der Besuch Dr. Leys bei italienischen Arbeitern.
+Found
+MODSMD_ARTICLE05: Comite France-Allemagne empfängt deutsche Arbeiter.
+Found
+MODSMD_ARTICLE06: Organisationsmaßnahmen für Libyen.
+Found
+MODSMD_ARTICLE07: Geschwindigkeitsrekord eines italienischen Fliegers.
+Found
+MODSMD_ARTICLE08: Italien baut einen neuen Hafen in Eritrea.
+Found
+MODSMD_ARTICLE09: Bundespräsident Miklas besucht am 3. Mai Budapest.
+Found
+MODSMD_ARTICLE10: Oberhausmitglied SZell Innenminister Ungarns.
+Found
+MODSMD_ARTICLE11: Moskauer Geheimorganisation in Budapest ausgehoben.
+Found
+MODSMD_ARTICLE12: Tibor von Eckhardt bei Ministerpräsident Daranyi.
+Found
+MODSMD_ARTICLE13: Montag Eröffnung der Kapitulationskonferenz in Montreux.
+Found

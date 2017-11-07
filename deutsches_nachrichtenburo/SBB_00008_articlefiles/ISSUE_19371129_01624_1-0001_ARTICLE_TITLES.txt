@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dies Führers Dank an Kaiserin und Königin Elena.
+Found
+MODSMD_ARTICLE02: Auszeichnung eines deutsche Auslandsarztes.
+Found
+MODSMD_ARTICLE03: Die Mutter des Berliner dänischen Gesandten gestorben.
+Found
+MODSMD_ARTICLE04: Im Sportslugzeug von Stuttgart nach Batavia.
+Found
+MODSMD_ARTICLE05: Höchste Anerkennung Daranhis für das Dritte Reich.
+Found
+MODSMD_ARTICLE06: Auch Professor Werner March erhielt den Grand Prix.
+Found
+MODSMD_ARTICLE07: Dr. Ulmanis fordert zu wirtschaftlicher Aktivität auf.
+Found
+MODSMD_ARTICLE08: Die Tagung der Frontkämpfer in Paris.
+Found
+MODSMD_ARTICLE09: Dr. Neumeher und Dr. Kienböck in London.
+Found
+MODSMD_ARTICLE10: Drei britische Bomber in Wales abgestürzt.
+Found
+MODSMD_ARTICLE11: Kriegsminister Woodring fordert weitere Aufrüstung.
+Found

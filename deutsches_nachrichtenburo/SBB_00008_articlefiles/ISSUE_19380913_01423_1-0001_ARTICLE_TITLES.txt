@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Entwicklung des Arbeitsemsatzes in Oesterreich.
+Found
+MODSMD_ARTICLE02: Hamburgs Niederländer ehrten Königin Wilhelmina.
+Found
+MODSMD_ARTICLE03: Wieder zwei Todesopfer tschechischer Mordbnben.
+Found
+MODSMD_ARTICLE04: Arreststrafen gegen Sudetendeutsche in Teplitz-Schönau.
+Found
+MODSMD_ARTICLE05: Passiver Widerstand der geplagten Sudetendeutschen.
+Found
+MODSMD_ARTICLE06: Tschechen und Kommunisten demonstrieren in Töplitz.
+Found
+MODSMD_ARTICLE07: Tie slowakische Forderung auf Ilmbau des Staates.
+Found
+MODSMD_ARTICLE08: Die unmöglichste aller Demokratien.
+Found
+MODSMD_ARTICLE09: Seltsame Verwirklichung demokratischer Grundsätze.
+Found
+MODSMD_ARTICLE10: Taladier konfereriert mit den Parteiführern. ;
+Found
+MODSMD_ARTICLE11: Französische Flottenmanöver im Kanal.
+Found
+MODSMD_ARTICLE12: Ausnahmezustand in Eftland auf ein Jahr verlängert.
+Found
+MODSMD_ARTICLE13: Wieder dunkle Machenschaften in der Tanger-Zone.
+Found
+MODSMD_ARTICLE14: Tie täglichen Zwischenfälle in Palästina.
+Found

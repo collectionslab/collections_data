@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Treuebekenntnis der Landsmannschaft Südwestafrika.
+Found
+MODSMD_ARTICLE02: Reichs minister Dr. Frank in Leuna und Merseburg.
+Found
+MODSMD_ARTICLE03: Oberlindober zum Dankopfer der Nation.
+Found
+MODSMD_ARTICLE04: Ernennung im Reichspostministerium.
+Found
+MODSMD_ARTICLE05: Sitzung des Senats der Lilienthal-Gesellschaft.
+Found
+MODSMD_ARTICLE06: Forschungsinstitut für Fleischverarbeitung eingeweiht.
+Found
+MODSMD_ARTICLE07: Die Kreisleiter auf Burg Vogelsang.
+Found
+MODSMD_ARTICLE08: Hamburger Abteilung des Reichsrechnungshofes eröffnet.
+Found
+MODSMD_ARTICLE09: Glaise-Horstenau über seinen Berliner Besuch.
+Found
+MODSMD_ARTICLE10: Neue litauische Anleihe beschlossen.
+Found
+MODSMD_ARTICLE11: Außenminister Beck in Bukarest eingetroffen.
+Found
+MODSMD_ARTICLE12: Wieder Alexandrette-Beratungen in Genf.
+Found
+MODSMD_ARTICLE13: Ter Sudan erhält wieder ägyptische Truppen.
+Found
+MODSMD_ARTICLE14: Der Gouverneur von Maine gegen Streikhetzer.
+Found
+MODSMD_ARTICLE15: Chinesische Studienkommission geht nach Japan.
+Found
+MODSMD_ARTICLE16: Taifun über Sachalin. 230 Tote.
+Found

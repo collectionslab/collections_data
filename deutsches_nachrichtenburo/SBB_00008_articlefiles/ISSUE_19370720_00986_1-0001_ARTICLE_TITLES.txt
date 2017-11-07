@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Beileid des Führers zum Tode Marconis.
+Found
+MODSMD_ARTICLE02: Internationale Schwesterntaguna in London.
+Found
+MODSMD_ARTICLE03: Gibraltar-Geschütze Francas machen dem Unterhaus Sorge.
+Found
+MODSMD_ARTICLE04: Das nationale Spanien ehrt General Sanjurjo.
+Found
+MODSMD_ARTICLE05: Abbruch der estländisch-lettländischen Verhandlungen.
+Found
+MODSMD_ARTICLE06: Protest der Schweizer Bundesregierung in Paris?
+Found
+MODSMD_ARTICLE07: Wechsel in der Leitung der Bank von Frankreich.
+Found
+MODSMD_ARTICLE08: Frankabwertung führt zu Unruhen in Syrien.
+Found
+MODSMD_ARTICLE09: Wachsende Unruhe in Palästina.
+Found
+MODSMD_ARTICLE10: Auffällige Reise des Botschafters Bogomolow nach Nanking.
+Found
+MODSMD_ARTICLE11: Japanische Artillerie beschießt WanpinMien.
+Found
+MODSMD_ARTICLE12: 21 >2 Millionen Dollar für Militärbauten in USA.
+Found
+MODSMD_ARTICLE13: Roosevelts Kampf um seine Gerichtsreform.
+Found
+MODSMD_ARTICLE14: Sitzstreik ist unamerikanisch und kommunistisch.
+Found

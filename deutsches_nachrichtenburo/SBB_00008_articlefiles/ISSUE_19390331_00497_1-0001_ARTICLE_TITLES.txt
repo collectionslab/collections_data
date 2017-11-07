@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der neue rumänische Gesandte beim Führer.
+Found
+MODSMD_ARTICLE02: General Ulex vom Führer empfangen.
+Found
+MODSMD_ARTICLE03: Der Führer ehrt alten Armee-Musikmeister.
+Found
+MODSMD_ARTICLE04: Kriegsmarinewerft Kiel.
+Found
+MODSMD_ARTICLE05: Daladiers Behauptungen über Tunis richtiggestellt.
+Found
+MODSMD_ARTICLE06: Schwergeprüftes Madrid.
+Found
+MODSMD_ARTICLE07: Deutschland erobert den Geschwindigkeitsweltrekord.
+Found
+MODSMD_ARTICLE08: Madrid begrüßt General Astray.
+Found
+MODSMD_ARTICLE09: Besetzung des rotspanischen Restgebiets fortgesetzt.
+Found
+MODSMD_ARTICLE10: Nationale Kriegsschiffe in Alicante.
+Found
+MODSMD_ARTICLE11: Besuch General Reinhards in Vurgos.
+Found
+MODSMD_ARTICLE12: Die täglichen Bombenanschläge.
+Found

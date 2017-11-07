@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Kapitänleutnant Prien bei Generalfeldmarschall Göring.
+Found
+MODSMD_ARTICLE02: Frau Göring besuchte Verwundete.
+Found
+MODSMD_ARTICLE03: Dr. Ley bei den Soldaten im Westen.
+Found
+MODSMD_ARTICLE04: Bremerhaven in die Stadt Wefermünde eingegliedert.
+Found
+MODSMD_ARTICLE05: Märchen von der Erschießung polnischer Intellektueller.
+Found
+MODSMD_ARTICLE06: Der Polizeipräsident von Potsdam gestorben.
+Found
+MODSMD_ARTICLE07: Die ausländische Presse auf der Wiener Messe.
+Found
+MODSMD_ARTICLE08: Roms Anteilnahme an den deutschen U-Boot-Erfolgen.
+Found
+MODSMD_ARTICLE09: „Die britischen Nordseestreitkräfte W Gefahr".
+Found
+MODSMD_ARTICLE10: „Der Nimbus der Unüberwindlichkeit zerstört".
+Found
+MODSMD_ARTICLE11: Nach der Rückgabe des Wilnagebietes.
+Found
+MODSMD_ARTICLE12: Russisch-lettisches Handelsabkommen.
+Found
+MODSMD_ARTICLE13: Belgien wehrt sich gegen fremdländische Kriegshetzer.
+Found
+MODSMD_ARTICLE14: Die französische Agitation in Belgien.
+Found
+MODSMD_ARTICLE15: Rücktritt des bulgarischen Kabinetts.
+Found
+MODSMD_ARTICLE16: 57 999 amerikanische Automobilarbeiter arbeitslos.
+Found
+MODSMD_ARTICLE17: Riesiger Korruptionsskandal in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE18: Die Häfen der Vereinigten Staaten für U-Boote gesperrt.
+Found

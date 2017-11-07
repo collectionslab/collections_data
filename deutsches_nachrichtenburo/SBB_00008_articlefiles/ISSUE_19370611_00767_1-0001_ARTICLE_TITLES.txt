@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Panzerschiff „Deutschland" am 16. Juni in Wilhelmshaven.
+Found
+MODSMD_ARTICLE02: Das städtische Siedlungs- und Kleingartenwesen.
+Found
+MODSMD_ARTICLE03: 1. Reichsbund der Kleingärtner und Kleinsiedler Deutschlands e. V.
+Found
+MODSMD_ARTICLE04: 2. Deutscher Siedlerbund e. V.
+Found
+MODSMD_ARTICLE05: 3. Zentralderband Deutscher Haus- und Grundbesitzerdereine e. V.
+Not Found
+MODSMD_ARTICLE06: 4. Reichsverband deutscher Gartenbauvereine (e. V.)
+Found
+MODSMD_ARTICLE07: 5. Oertliche Gemeinschaftsarbeit.
+Found
+MODSMD_ARTICLE08: Arbeitstagung der NS.-Gemeinschaft „Kraft durch Freude".
+Found
+MODSMD_ARTICLE09: Ausländische Volkstumsgruppen ehren die Gefallenen.
+Found
+MODSMD_ARTICLE10: Aufruf des Gauleiters zum Empfang der Alten Garde.
+Found
+MODSMD_ARTICLE11: Der Reichsaußenminister auf dem Wege nach Budapest.
+Found
+MODSMD_ARTICLE12: Abschluß des JOK.-Tagung in Warschau.
+Found
+MODSMD_ARTICLE13: Abschluß des Internationalen Eisenbahnkongresses in Paris.
+Found
+MODSMD_ARTICLE14: Weitere amerikanische Dokumentenveröffentlichung.
+Found

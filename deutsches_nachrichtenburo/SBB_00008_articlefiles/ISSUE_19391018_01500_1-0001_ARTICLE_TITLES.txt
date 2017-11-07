@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Erfolgreiche Tage für die deutsche Luftwaffe,
+Found
+MODSMD_ARTICLE02: Churchill berichtet nur über „Royal Oak".
+Found
+MODSMD_ARTICLE03: Jellicoes Flaggschiff von deutschen Bomben getroffen.
+Found
+MODSMD_ARTICLE04: Weitere Schilderung der Angriffe auf Seapa Flow.
+Found
+MODSMD_ARTICLE05: Wieder englische Treibminen an der holländischen Küste.
+Found
+MODSMD_ARTICLE06: Britische Blockade verteuert die Butter in Holland.
+Found
+MODSMD_ARTICLE07: Englands Krieg ruiniert die Neutralen.
+Found
+MODSMD_ARTICLE08: Auch Griechenland in Mitleidenschaft gezogen.
+Found
+MODSMD_ARTICLE09: Rom: „Englands Vorherrschaft gebrochen."
+Found
+MODSMD_ARTICLE10: Tie Blockade der Engländer trifft die Türkei.
+Found
+MODSMD_ARTICLE11: Die deutschen Luftangriffe in Moskau hervorgehoben.
+Found
+MODSMD_ARTICLE12: Jugoslawien glaubt Chamberlain nicht mehr.
+Found
+MODSMD_ARTICLE13: Zwetkowitsch auf der Belgrader Messe.
+Found
+MODSMD_ARTICLE14: Der erste japanische Gesandte in Bulgarien.
+Found
+MODSMD_ARTICLE15: Estland: Die Engländer aufgeregt!
+Found
+MODSMD_ARTICLE16: Falangeeinsatz gegen Preistreiberei.
+Found
+MODSMD_ARTICLE17: Die Blockade der englischen Konzession in Tientsin.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Geburtstagsehrungeu für den Reichspostminister.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Sozialismus der Tat in Zahlen.
+Found
+MODSMD_ARTICLE04: Hamburg ehrt vier Opfer der Arbeit.
+Found
+MODSMD_ARTICLE05: Das Arbeitsbuch auch in Danzig eingeführt.
+Found
+MODSMD_ARTICLE06: Viktor Emanuel 111. besucht den Geburtsort Mussolinis.
+Found
+MODSMD_ARTICLE07: Die polnische Nationale Partei für Ausschaltung der Juden.
+Found
+MODSMD_ARTICLE08: Gegen die Sinnlosigkeiten von Versailles und Genf.
+Found
+MODSMD_ARTICLE09: Bonnet vor dem Auswärtigen Ausschuß des Senats.
+Found
+MODSMD_ARTICLE10: Der britische Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE11: Die „Liberte" über den Kriegsmaterialschmuggel.
+Found
+MODSMD_ARTICLE12: „Mit Bnrgos verhandeln oder die Partie verlieren."
+Found
+MODSMD_ARTICLE13: Die „Säuberung" im weißrussischen Militärbezirk.
+Found
+MODSMD_ARTICLE14: Die Armenier zum bewaffneten Widerstand aufgerufen.
+Found
+MODSMD_ARTICLE15: Der Einspruch der enteigneten Oelgesellschaften.
+Found

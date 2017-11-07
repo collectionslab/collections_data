@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer an Prinz Ludwig von Hessen.
+Found
+MODSMD_ARTICLE02: Weitere Beileidskundgebungen.
+Found
+MODSMD_ARTICLE03: Belgien ehrte die Opfer des Flugzeugunglücks von Ostende.
+Found
+MODSMD_ARTICLE04: Prinz Ludwig von Hessen in Ostende.
+Found
+MODSMD_ARTICLE05: Ueberführung der Opfer nach Deutschland.
+Found
+MODSMD_ARTICLE06: Steuerbefreiung für Weihnachtsgeschenke.
+Found
+MODSMD_ARTICLE07: Ministerialrat Berndt in Wien.
+Found
+MODSMD_ARTICLE08: Direktorenwechsel bei der „Avala".
+Found
+MODSMD_ARTICLE09: Jugoslawiens neuer Gesandter im Quirinal empfangen.
+Found
+MODSMD_ARTICLE10: Jugoslawiens Militärmission bei Graf Ciano.
+Found
+MODSMD_ARTICLE11: Der Verlauf der Nichteinmischungssitzung am Dienstag.
+Found
+MODSMD_ARTICLE12: Der belgische König in London angekommen.
+Found
+MODSMD_ARTICLE13: Von 19 britischen Rüstungswerken 11 in Betrieb.
+Found
+MODSMD_ARTICLE14: Republikanische Vereinigung gegen die Regierung.
+Found
+MODSMD_ARTICLE15: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE16: Zusammentritt der französischen Kammer.
+Found
+MODSMD_ARTICLE17: Ein Heiliger Krieg um Palästinas willen?
+Found
+MODSMD_ARTICLE18: Ungeheure Erregung bei den Arabern in Palästina.
+Found
+MODSMD_ARTICLE19: Bundespräsident Vargas zum neuen Regime in Brasilien.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Adolf Hitler empfängt die Führerschaft der Partei.
+Found
+MODSMD_ARTICLE02: Die Führerschaft der NSDAP, tagte in München.
+Found
+MODSMD_ARTICLE03: Dr. Ley über die Aufgaben der DAF.
+Found
+MODSMD_ARTICLE04: Vortrag Dr. Schlegelbergers in Stockholm.
+Found
+MODSMD_ARTICLE05: Die Wahlen zur Ersten Kammer in Estland.
+Found
+MODSMD_ARTICLE06: General Ritter von Epp flog nach Tripolis.
+Found
+MODSMD_ARTICLE07: Der jugoslawische Verkehrsminister in Rom.
+Found
+MODSMD_ARTICLE08: Lord Halifax und Richard Austen Butler.
+Found
+MODSMD_ARTICLE09: Der britische Botschafter bei Chautemps und Delbos.
+Found
+MODSMD_ARTICLE10: Macht Moskau wieder Schwierigkeiten?
+Found
+MODSMD_ARTICLE11: Moskau fischt im Trüben.
+Found
+MODSMD_ARTICLE12: Stärkste Konzentration aller Kräfte in Japan.
+Found

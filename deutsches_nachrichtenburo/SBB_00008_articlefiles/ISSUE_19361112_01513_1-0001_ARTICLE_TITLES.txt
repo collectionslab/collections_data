@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer empfing den Kgl. Ungarischen Gesandten.
+Found
+MODSMD_ARTICLE02: Telegramm des Führers an den Reichsstudentenführer.
+Found
+MODSMD_ARTICLE03: Großaktion der Werkscharen.
+Found
+MODSMD_ARTICLE04: Verlautbarung über die Wiener Beratungen.
+Found
+MODSMD_ARTICLE05: Graf Ciano über die Wiener Konferenz.
+Found
+MODSMD_ARTICLE06: Budapest in Erwartung Graf Cianos.
+Found
+MODSMD_ARTICLE07: Der Nobelpreis für Physik verliehen.
+Found
+MODSMD_ARTICLE08: Englische Verlautbarung über die Besprechung mit Beck.
+Found
+MODSMD_ARTICLE09: Oberst Beck aus London abgereist.
+Found
+MODSMD_ARTICLE10: Kontrollplanberatung im Unterausschuß abgeschlossen.
+Found
+MODSMD_ARTICLE11: Massenherstellung von Gasmasken in England.
+Found
+MODSMD_ARTICLE12: Neville Chamberlain für Förderung des Warenaustausches.
+Found
+MODSMD_ARTICLE13: Mosley gegen Gesetz zur Verhütung politischer Unruhen.
+Found
+MODSMD_ARTICLE14: Aegyptisches Krankenhaus nach deutschem Vorbild.
+Found
+MODSMD_ARTICLE15: Japan plant Botschastserrichtung in Warschau.
+Found
+MODSMD_ARTICLE16: Gouverneurswechsel in der Provinz Hopei.
+Found

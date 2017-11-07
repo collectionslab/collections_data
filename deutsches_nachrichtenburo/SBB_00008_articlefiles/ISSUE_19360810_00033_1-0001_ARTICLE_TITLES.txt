@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Glanzvoller Abschluß der Leichtathletik.
+Found
+MODSMD_ARTICLE02: Kitei Son-Japan gewinnt den Marathonlauf. '
+Found
+MODSMD_ARTICLE03: Glenn E. Morris Sieger im Zehnkampf.
+Found
+MODSMD_ARTICLE04: Amerika gewinnt die 4 X IW-Meter-Staffel.
+Found
+MODSMD_ARTICLE05: England gewinnt die 4 X 4W-Meter-Staffel.
+Found
+MODSMD_ARTICLE06: Das Pech der deutschen 4 X IW-Meter-Frauenstaffel.
+Found
+MODSMD_ARTICLE07: Ungarn gewinnt den Frauenhochsprung.
+Found
+MODSMD_ARTICLE08: Die Olympia-Sieger im griechisch-römischen Ringen.
+Found
+MODSMD_ARTICLE09: Italien gewinnt im Degenmannschaftsfechten.
+Found
+MODSMD_ARTICLE10: Norwegen gewinnt Goldmedaille im Kleinkaliber-Schießen.
+Found
+MODSMD_ARTICLE11: Mexiko gewinnt die Bronzene Medaille im Polo.
+Found
+MODSMD_ARTICLE12: Holländischer Sieg im 1-Kilometer-Zeitfahren der Radfahrer
+Found
+MODSMD_ARTICLE13: Das 4-Kilometer-Mannschafts-Verfolgungsrennen.
+Found
+MODSMD_ARTICLE14: Die 3. Goldmedaille für Oesterreich im Kanusport.
+Found
+MODSMD_ARTICLE15: Oesterreich siegt auch im Kajak-Zweier.
+Found
+MODSMD_ARTICLE16: Kanada siegt im Rennen der Canadier-Einer über 1000 in.
+Found
+MODSMD_ARTICLE17: Die Entscheidung im Kajak-Einer und Kanadier-Zweier.
+Found
+MODSMD_ARTICLE18: Portugiesische Ordensaus Zeichnungen.
+Found
+MODSMD_ARTICLE19: Schwedische Turnerinnen und Turner im Stadion.
+Found
+MODSMD_ARTICLE20: Olympiaveranstaltung der Deutschen Beamtenschaft.
+Found
+MODSMD_ARTICLE21: Empfang der Atlantik-Segler durch den Hamburger Senat.
+Found

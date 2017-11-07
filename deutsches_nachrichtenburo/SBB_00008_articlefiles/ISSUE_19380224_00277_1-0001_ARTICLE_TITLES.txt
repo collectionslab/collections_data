@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Thilo von Trotha tödlich verunglückt.
+Found
+MODSMD_ARTICLE02: Jahresiagung der Reichsfilmkammer vom 3. bis 5. März.
+Found
+MODSMD_ARTICLE03: Semesterschluß-Kundgebung des NSD. Dozentenbundes.
+Found
+MODSMD_ARTICLE04: Rosenberg auf der Führertagung der SA.-Gruppe Hochland.
+Found
+MODSMD_ARTICLE05: Stapellaus des ersten deutschen Robbenschlägers.
+Found
+MODSMD_ARTICLE06: Die Donau soll Großschiffahrtsstraße werden.
+Found
+MODSMD_ARTICLE07: Zuchthausstrafen für kommunistische Hetzer in Grodno.
+Found
+MODSMD_ARTICLE08: Boranschlags-Mehrbeträge der englischen Zivilverwaltung.
+Found
+MODSMD_ARTICLE09: Lord Halifax in Audienz beim englischen König.
+Found
+MODSMD_ARTICLE10: Befriedigender Verlauf der englisch-irischen MäkuDM.
+Found
+MODSMD_ARTICLE11: Zugzusammenstosz legt Amsterdams Vorortverkehr lahm.
+Found
+MODSMD_ARTICLE12: Die britische Militärmission bei Carmona.
+Found
+MODSMD_ARTICLE13: Verhaftungen und Hinrichtungen in Sowjetspanien.
+Found
+MODSMD_ARTICLE14: Rumänien stimmt über die Verfassung ab.
+Found
+MODSMD_ARTICLE15: 9 Millionen Arbeitslose in Amerika.
+Found
+MODSMD_ARTICLE16: Brasilianische Zeitung über das Einignngswrrk Hitlers.
+Found
+MODSMD_ARTICLE17: Neues Unwetter über Rio.
+Found
+MODSMD_ARTICLE18: Chinesische Bombenflugzeuge über Formosa.
+Found

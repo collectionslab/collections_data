@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ergebnis der Tagung des Weltrundfunkvereins.
+Found
+MODSMD_ARTICLE02: Weltrundfunk als Weltfriedeusunttler.
+Found
+MODSMD_ARTICLE03: Großer Empfang beim Reichssportführer.
+Found
+MODSMD_ARTICLE04: Tschechoslowakei gefährdet Rechte deutscher Hochschullehrer.
+Found
+MODSMD_ARTICLE05: Jetzt auch nationaler Vorstoß südöstlich von Madrid.
+Found
+MODSMD_ARTICLE06: Rumänische Orden für polnische Wirtschaftsführer.
+Found
+MODSMD_ARTICLE07: Erfolglose Veratungen der Sandschak-Sachverständigen.
+Found
+MODSMD_ARTICLE08: Geringere Paßgebühren zwischen England und USA.
+Found
+MODSMD_ARTICLE09: D-Zugunglück in Frankreich. 8 Tote geborgen.
+Found
+MODSMD_ARTICLE10: Fahrgäste und Besatzung verlassen brennendes Schiff.
+Found

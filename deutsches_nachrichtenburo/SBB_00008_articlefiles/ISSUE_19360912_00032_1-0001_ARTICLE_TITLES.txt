@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der Führer begrüßt das Diplomatische Korps.
+Found
+MODSMD_ARTICLE02: Das VDM – Neichstreffen in Bamberg.
+Not Found
+MODSMD_ARTICLE03: Das Ausland zum Aufmarsch der Politischen Leiter.
+Found
+MODSMD_ARTICLE04: Welteindruck der Reden von Dr. Goebbels und Rosenberg.
+Found
+MODSMD_ARTICLE05: Wiener Pressestimmen zum Parteitag.
+Found
+MODSMD_ARTICLE06: „Manchester Guardian" über die Kolonialfrage.
+Found

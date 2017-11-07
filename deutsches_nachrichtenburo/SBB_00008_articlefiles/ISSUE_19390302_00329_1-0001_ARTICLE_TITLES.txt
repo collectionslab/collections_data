@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Empfang des Diplomatischen Korps beim Führer.
+Found
+MODSMD_ARTICLE02: 9. November staatlicher Feiertag.
+Found
+MODSMD_ARTICLE03: Frau Scholtz-Kliuk bei der italienischen Konprinzessw.
+Found
+MODSMD_ARTICLE04: Die Reichsfrauenführerin in Orvieto.
+Found
+MODSMD_ARTICLE05: Graf Ciano in Krakau.
+Found
+MODSMD_ARTICLE06: Die Neuordnung der spanischen Diplomatie.
+Found
+MODSMD_ARTICLE07: Henker bis zur letzten Stunde.
+Found
+MODSMD_ARTICLE08: Bonnet über die internationale Lage.
+Found
+MODSMD_ARTICLE09: Marschall Petam Botschafter in Burgos?
+Found
+MODSMD_ARTICLE10: Pariser U-Bahnstationen werden Massenschutzränme.
+Found
+MODSMD_ARTICLE11: Europäische Rundfunkkonferenz in Montreux eröffnet.
+Found
+MODSMD_ARTICLE12: Ein Tankschiff der jugoslawischen Kriegsmarine.
+Found
+MODSMD_ARTICLE13: England stapelt Sandsäcke.
+Found
+MODSMD_ARTICLE14: Offene Türen für volle Brieftaschen.
+Found
+MODSMD_ARTICLE15: Die Araberdelegation für unabhängigen Palästinastaat.
+Found
+MODSMD_ARTICLE16: Wieder zahllose Araber in die Kerker geworfen.
+Found
+MODSMD_ARTICLE17: Der rotspanische Vertreter in" Kairo ging.
+Found
+MODSMD_ARTICLE18: Tie Franzosen haben Pech.
+Found
+MODSMD_ARTICLE19: USA.-Spionagebüros in Jbero-Amerika.
+Found
+MODSMD_ARTICLE20: Auch USA. kann nicht umhin . . .
+Found
+MODSMD_ARTICLE21: Brasilien erkennt General Francs an.
+Found

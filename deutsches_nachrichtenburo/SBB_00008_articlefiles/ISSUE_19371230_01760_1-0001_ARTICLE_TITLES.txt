@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Reichskriegsopferführer zum neuen Jahre.
+Found
+MODSMD_ARTICLE02: Neujahrskundgebung des Reichskriegerbundes.
+Found
+MODSMD_ARTICLE03: Der Ausbau der Kinderbeihilfen.
+Found
+MODSMD_ARTICLE04: General Verdaguer in Hamburg.
+Found
+MODSMD_ARTICLE05: Tie Wahlrechtsreform-Vorlage in Ungarn.
+Found
+MODSMD_ARTICLE06: „Messaggero" über den deutschen Kolonialanspruch.
+Found
+MODSMD_ARTICLE07: Zusatzabkommen zum italienisch-japanischen Handelsvertrag:
+Found
+MODSMD_ARTICLE08: Wieder regulärer Verkehr in Paris.
+Found
+MODSMD_ARTICLE09: Streikbeschluß bei der Straßenbahn in Straßburg.
+Found
+MODSMD_ARTICLE10: Bolschewisten foltern französischen Jungarbeiter.
+Found
+MODSMD_ARTICLE11: Der Luftfahrthaushalt vor dem französischen Senat.
+Found
+MODSMD_ARTICLE12: Goga über die Ziele seiner Regierung.
+Found
+MODSMD_ARTICLE13: Kampfansage gegen Monopolisierung in der Wirtschast.
+Found

@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Aufruf Görmgs an die deutschen Volksgenossen.
+Found
+MODSMD_ARTICLE03: Die Anteilnahme der Deutschen im Ausland.
+Found
+MODSMD_ARTICLE04: „England greift zu anarchistischen Methoden."
+Found
+MODSMD_ARTICLE05: Herr Wirrwarr weiter am Werk.
+Found
+MODSMD_ARTICLE06: Hilfswerk für die gequälte Bevölkerung Palästinas.
+Found
+MODSMD_ARTICLE07: Die antibritische Propaganda in China.
+Found

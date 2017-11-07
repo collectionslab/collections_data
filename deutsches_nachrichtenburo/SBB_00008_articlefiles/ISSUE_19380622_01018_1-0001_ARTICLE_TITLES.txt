@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Besuch des Reichssportsührers in Italien.
+Found
+MODSMD_ARTICLE03: Ein Erfolg deutscher Wissenschaft.
+Found
+MODSMD_ARTICLE04: Sudetendeutsche Stimme Zur Prager Verzögerungstaktik.
+Found
+MODSMD_ARTICLE05: Polen sieht Prag auf die Finger.
+Found
+MODSMD_ARTICLE06: „Tevere" gegen tschechische Verlogenheiten.
+Found
+MODSMD_ARTICLE07: Italien zum Londoner Beschluß.
+Found
+MODSMD_ARTICLE08: Frankreichs Hilfeleistung für Rotspanien.
+Found
+MODSMD_ARTICLE09: Halifax über die Ziele der englischen Außenpolitik.
+Found
+MODSMD_ARTICLE10: Ein neuer Versager der Genfer Liga.
+Found
+MODSMD_ARTICLE11: Neue sowjeispanische Piratenstreiche in Vorbereitung.
+Found
+MODSMD_ARTICLE12: Die Anerkennung Nationalspaniens.
+Found
+MODSMD_ARTICLE13: Raken erstattet Bericht über die KdF.-Tagung.
+Found
+MODSMD_ARTICLE14: Wieder ein Zusammenstoß in Palästina.
+Found
+MODSMD_ARTICLE15: Keine Kriegserklärung Japans an China.
+Found
+MODSMD_ARTICLE16: Vollstreckung zweier Todesurteile.
+Found

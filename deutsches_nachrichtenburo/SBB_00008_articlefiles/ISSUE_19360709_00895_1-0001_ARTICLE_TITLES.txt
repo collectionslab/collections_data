@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer zur Eröffnung des Luftschiffhafens.
+Found
+MODSMD_ARTICLE02: Ehrungen deutscher Flieger durch das Ausland.
+Found
+MODSMD_ARTICLE03: Die Aushändigung der Tarifordnungen.
+Found
+MODSMD_ARTICLE04: Einfuhrverbot für seltene Pflanzen aufgehoben.
+Found
+MODSMD_ARTICLE05: Autolotsendienst in Berlin für die Olympiade.
+Found
+MODSMD_ARTICLE06: Museum der nationalsoZialistischen Erhebung.
+Found
+MODSMD_ARTICLE07: Gedenkfeier für Joseph Chamberlain.
+Found
+MODSMD_ARTICLE08: Die Gegensätze in der Meerengenfrage.
+Found
+MODSMD_ARTICLE09: Der polnische Senator Dr. LöwenherZ f.
+Found
+MODSMD_ARTICLE10: Italiens Truppen kehren Zurück.
+Found
+MODSMD_ARTICLE11: Verschärfte Araberforderungen.
+Found
+MODSMD_ARTICLE12: Eine Eingabe arabischer Beamter.
+Found
+MODSMD_ARTICLE13: Der ägyptische Haushalt ausgeglichen.
+Found
+MODSMD_ARTICLE14: Sowjetrußlands Fliegerchef besucht Prag.
+Found
+MODSMD_ARTICLE15: Senator Borah kandidiert wieder.
+Found
+MODSMD_ARTICLE16: Erneuerung der mexikanischen Luftwaffe.
+Found
+MODSMD_ARTICLE17: Umschwung in China?
+Found

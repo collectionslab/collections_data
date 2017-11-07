@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Beileidstelegramm des Führers.
+Found
+MODSMD_ARTICLE02: Der Führer dankt den ibero-amerikanischen Aerzten.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Empfang des Milchkongresses durch die Reichsregierung.
+Found
+MODSMD_ARTICLE05: Lufthansa-Flugzeug überquert das Pamirgebirge.
+Found
+MODSMD_ARTICLE06: Schwerin-Krosigk über die Vereinheitlichung der Realsteuern.
+Found
+MODSMD_ARTICLE07: Ehrungen für Bohle und Strölin.
+Found
+MODSMD_ARTICLE08: Beginn der englischen Ministerbesprechungen.
+Found
+MODSMD_ARTICLE09: Ausländische Schisse unter britischer Flagge.
+Found
+MODSMD_ARTICLE10: England-Reise des britischen Botschafters in Washington.
+Found
+MODSMD_ARTICLE11: Das Flottenabkommen von Frankreich in Kraft gesetzt.
+Found
+MODSMD_ARTICLE12: 19 Millionen Pfund für Australiens Landesverteidigung.
+Found
+MODSMD_ARTICLE13: Neue japanische Truppenlandungen bei Schanghai.
+Found
+MODSMD_ARTICLE14: Neuer Generalstabschef in der irakischen Armee.
+Found

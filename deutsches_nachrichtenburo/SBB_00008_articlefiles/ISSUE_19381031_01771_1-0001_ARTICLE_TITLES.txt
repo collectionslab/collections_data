@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Englischer Besuch bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Deutschfeindliche Ausschreitungen im Memelgebiet.
+Found
+MODSMD_ARTICLE03: Auch Ungarn will keine Juden bei der Volksbefragung.
+Found
+MODSMD_ARTICLE04: Jugoslawien will Freundschaft mit den Nachbarn.
+Found
+MODSMD_ARTICLE05: Polens Kampf gegen Freimaurerei und Parteiherrschaft.
+Found
+MODSMD_ARTICLE06: Was der Versailler „Bertrag" in Wirklichkeit war!
+Found
+MODSMD_ARTICLE07: „Daily Expreß" für Verständigung mit Deutschland.
+Found
+MODSMD_ARTICLE08: Herriot, der Freund Sowjetrußlands.
+Found
+MODSMD_ARTICLE09: Empörung in Marseille.
+Found
+MODSMD_ARTICLE10: Mitgliederschwund bei Kommunistenfreunden.
+Found
+MODSMD_ARTICLE11: Ein Generalgouverneur muß sich verantworten.
+Found
+MODSMD_ARTICLE12: Ramou Francs tödlich verunglückt.
+Found
+MODSMD_ARTICLE13: Erfolgreicher Vorstoß an der Ebro-Front.
+Found
+MODSMD_ARTICLE14: Die Mißstände in der sowjetrussischen Holzindustrie.
+Found
+MODSMD_ARTICLE15: Die Lage im Fernost-Konflikt.
+Found

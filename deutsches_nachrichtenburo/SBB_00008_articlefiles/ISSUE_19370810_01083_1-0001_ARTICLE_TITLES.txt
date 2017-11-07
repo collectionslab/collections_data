@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Aufruf zu Hindenburgs 88. Geburtstag.
+Found
+MODSMD_ARTICLE02: Alter Parteijournalist zum Stellv. Gauleiter ernannt.
+Found
+MODSMD_ARTICLE03: Deutsche Kriegsopfer in Finnland.
+Found
+MODSMD_ARTICLE04: Der Wiener Männergesangverein in Berlin.
+Found
+MODSMD_ARTICLE05: Der Europarundflug der Messerschmidt-Taifun.
+Found
+MODSMD_ARTICLE06: Erholungsreise Horthys in die Alpen.
+Found
+MODSMD_ARTICLE07: Unbeschreibliches sudetendeutsches Kinderelend.
+Found
+MODSMD_ARTICLE08: Mussolini in Sizilien.
+Found
+MODSMD_ARTICLE09: Die Armee als Laufbahn in England.
+Found
+MODSMD_ARTICLE10: Salvador verläßt den Völkerbund.
+Found
+MODSMD_ARTICLE11: Die Leiden baskischer Kinder in Mexiko.
+Found
+MODSMD_ARTICLE12: Die Streikhetze in den Vereinigten Staaten geht weiter.
+Found
+MODSMD_ARTICLE13: Japanische Erklärungen zum Hungjao-Zwischenfall.
+Found

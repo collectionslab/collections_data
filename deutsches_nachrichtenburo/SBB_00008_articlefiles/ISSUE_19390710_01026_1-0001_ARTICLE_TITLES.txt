@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der ungarische Generalstabschef in Frankfurt a. M.
+Found
+MODSMD_ARTICLE02: Danzig bereit, sein Deutschtum zu verteidigen.
+Found
+MODSMD_ARTICLE03: Die Polnische Staatsbank mußte ihre Reserven einsetzen.
+Found
+MODSMD_ARTICLE04: Polen beschuldigt die Sowjetunion.
+Found
+MODSMD_ARTICLE05: Nun hat Polen die Quittung für das Hetzen.
+Found
+MODSMD_ARTICLE06: Graf Ciano zum Staatsbesuch in Spanien abgereist.
+Found
+MODSMD_ARTICLE07: Der Leopold-Orden für Hauptmann Wille.
+Found
+MODSMD_ARTICLE08: Die holländische Regierungskrise.
+Found
+MODSMD_ARTICLE09: Temps: „Wirkliches Unbehagen in London und Paris".
+Found
+MODSMD_ARTICLE10: Berechtigte Kritik an der französischen Presse.
+Found
+MODSMD_ARTICLE11: Eine Sonntagsrede Bonuets.
+Found
+MODSMD_ARTICLE12: Entlastungsversuche für den englischen Partner.
+Found
+MODSMD_ARTICLE13: Syriens Staatspräsident begründet seinen Rücktritt.
+Found
+MODSMD_ARTICLE14: Todesstrafe gegen Marxistenhäuptling Befteiro beantragt.
+Found
+MODSMD_ARTICLE15: Auch London nervös.
+Found
+MODSMD_ARTICLE16: Chamberlain tut geheimnisvoll.
+Found
+MODSMD_ARTICLE17: Syrische Verfassung außer Kraft gesetzt.
+Found
+MODSMD_ARTICLE18: Wieder ein deutscher Höhenrekord im Leichtflugzeug.
+Found

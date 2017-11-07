@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Minister Homan an die deutsche Presse.
+Found
+MODSMD_ARTICLE02: Senatsempsang für Minister Homan in Hamburg.
+Found
+MODSMD_ARTICLE03: Eine deutsche Himalaja-Stiftung.
+Found
+MODSMD_ARTICLE04: Deutsche Ehrendoktoren in Madrid ernannt.
+Found
+MODSMD_ARTICLE05: LZ „Hindenburg" in Rio de Janeiro.
+Found
+MODSMD_ARTICLE06: Die deutsch-schweizerischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE07: Generalleutnant Daluege ehrt Jugoslawiens Gefallene.
+Found
+MODSMD_ARTICLE08: Degrelle über Eupen-Malmedy.
+Found
+MODSMD_ARTICLE09: 109 000 streikende Arbeiter in Frankreich.
+Found
+MODSMD_ARTICLE10: Letzter Ministerrat unter Sarraut.
+Found
+MODSMD_ARTICLE11: Ras Nasibu in Marseille.
+Found
+MODSMD_ARTICLE12: Diskonterhöhung in Holland.
+Found
+MODSMD_ARTICLE13: Blutige Streikunruhen in Belgrad.»
+Found
+MODSMD_ARTICLE14: Palästina-Polizei mit Tränengasbomben ausgerüstet.
+Found
+MODSMD_ARTICLE15: Leith-Rost auf dem Wege nach Japan.
+Found
+MODSMD_ARTICLE16: Japans kompromißlose Zusammenarbeit mit China.
+Found

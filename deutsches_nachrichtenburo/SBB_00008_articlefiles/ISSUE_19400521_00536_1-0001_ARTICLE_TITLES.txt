@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Das Goldene Ehrenzeichen der Hitler-Jugend verliehen.
+Found
+MODSMD_ARTICLE02: Empfindliche Lücken.
+Found
+MODSMD_ARTICLE03: Biesterfeld geht hausieren.
+Found
+MODSMD_ARTICLE04: Ein Emigrant fand heim.
+Found
+MODSMD_ARTICLE05: Rom über die kritische Lage der Plutokraten.
+Found
+MODSMD_ARTICLE06: Fallschirmpsychose auch auf Malta.
+Found
+MODSMD_ARTICLE07: „Die Haltung Italiens vollkommen klar!"
+Found
+MODSMD_ARTICLE08: Der Umfang der Pariser Zeitungen nur noch zwei Seiten.
+Found
+MODSMD_ARTICLE09: Die Pariser Presse muß den Ernst der Lage zugeben.
+Found
+MODSMD_ARTICLE10: Jud Mandel soll „in großer Revolution machen".
+Found
+MODSMD_ARTICLE11: Bevin an die Franzosen.
+Found
+MODSMD_ARTICLE12: „Gamelin mußte englischem Druck weichen".
+Found
+MODSMD_ARTICLE13: Verner von Heidenstam gestorben.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer bei der Jnfanterieschule in Döberitz.
+Found
+MODSMD_ARTICLE02: Spanische Ehrung für den Führer.
+Found
+MODSMD_ARTICLE03: Begnadigung durch den Führer.
+Found
+MODSMD_ARTICLE04: General Vuillemin beim Richthofeu-Geschwader.
+Found
+MODSMD_ARTICLE05: Betreten des Böhmerwaldes verboten!
+Found
+MODSMD_ARTICLE07: Tie Vorbereitungen zum Horthy-Empsang.
+Found
+MODSMD_ARTICLE08: Römische Presse brandmarkt internationale Hetzer.
+Found
+MODSMD_ARTICLE09: Italien-Besuch des syrischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE10: Die Kennzeichen des Rückzuges der rotspanischen Truppen.
+Found
+MODSMD_ARTICLE11: Begeisterter Empfang der HJ.-Führer in Tokio.
+Found
+MODSMD_ARTICLE12: Holland schuht seine überseeischen Bestimmen.
+Found
+MODSMD_ARTICLE13: Verschärfung der Streikunruhen in Britisch-Guyana.
+Found
+MODSMD_ARTICLE14: Neue Regierung in Ekuador.
+Found

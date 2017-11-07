@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Von Wulfsen in die Präsidialkanzlei berufen.
+Found
+MODSMD_ARTICLE02: Großes Interesse in Italien für die Reise von Lord Halifax.
+Found
+MODSMD_ARTICLE03: Italien erwidert Besuch des Flugzeuges „Gotteswind".
+Found
+MODSMD_ARTICLE04: Ungarn gedachte des Schandvertrages von Triauou.
+Found
+MODSMD_ARTICLE05: Polnische Kaufmannstagung für Entjudung des Handels.
+Found
+MODSMD_ARTICLE06: „Mäßigung, Toleranz und fair Play".
+Found
+MODSMD_ARTICLE07: Frankreich zahlt englischen Kredit zurück.
+Found
+MODSMD_ARTICLE08: „Wie uns der Kommunismus zum Kriege führt."
+Found
+MODSMD_ARTICLE09: Das bulgarische Königspaar in Paris.
+Found
+MODSMD_ARTICLE10: GPU-Vertretungen in Frankreich in neuer Tarnung.
+Found
+MODSMD_ARTICLE11: Die Brüsseler Ostasienkonferenz auf Montag vertagt.
+Found
+MODSMD_ARTICLE12: Die Berliner Reise des Lord Halifax.
+Found
+MODSMD_ARTICLE13: Beginnendes Chaos in Sowjetspanien.
+Found
+MODSMD_ARTICLE14: Bolschewistische Ausländer an der Aragon-Front.
+Found
+MODSMD_ARTICLE15: Rumänische Ordensauszeichnung für Graf Ciano.
+Found
+MODSMD_ARTICLE16: Tatarescu mit der Kabinettsneubildung beauftragt.
+Found

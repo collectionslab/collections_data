@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Die Ansprache des Führers im Bürgerbräukeller,
+Found
+MODSMD_ARTICLE02: Seemannsgrab für Großadmiral Kelly.
+Found
+MODSMD_ARTICLE03: Der Endkampf um Madeid.
+Found
+MODSMD_ARTICLE04: Das nationale Spanien in fieberhafter Erwartung.
+Found
+MODSMD_ARTICLE05: Ein Aufruf Francas an die Madrider Bevölkerung.
+Found
+MODSMD_ARTICLE06: Katalanisches Bekenntnis zum einigen nationalen Spanien.
+Found
+MODSMD_ARTICLE07: Graf Cianos Reise nach Wien und Budapest.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Mit der Führung der Landesregierung Hamburg betraut.
+Found
+MODSMD_ARTICLE02: Spende des Reichsinnenministers.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Oberst Lindbergh besucht die Dessauer Junkerswerke.
+Found
+MODSMD_ARTICLE05: Dr. Goebbels empfängt die Mitglieder des Kongresses.
+Found
+MODSMD_ARTICLE06: Vertreter der SA-Führung bei den verletzten SA-Männern.
+Found
+MODSMD_ARTICLE07: Die Hilfsaktion deutscher Kriegsschiffe in Spanien.
+Found
+MODSMD_ARTICLE08: Der Angriff auf Saragossa.
+Found
+MODSMD_ARTICLE09: Der Vormarsch der Nationalisten.
+Found
+MODSMD_ARTICLE10: Kommunisten „beschlagnahmen" Ausländerbesitz.
+Found
+MODSMD_ARTICLE11: Admiral Pound begibt sich in spanische Gewässer.
+Found
+MODSMD_ARTICLE12: König Eduard VIII. macht eine Adria-Fahrt.
+Found
+MODSMD_ARTICLE13: Einigung bei den Flottenbesprechungen London—Moskau»
+Not Found
+MODSMD_ARTICLE14: Die Frage der belgischen Südgrenze. Flämische Kritik.
+Found
+MODSMD_ARTICLE15: Wieder spanisches Goldflugzeug in Le Bourget gelandet.
+Found
+MODSMD_ARTICLE16: Bericht vor Pariser Senatsausschuß.
+Found
+MODSMD_ARTICLE17: Das Meerengen-Abkommen vor dem türkischen Parlament.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Neuer Leiter des Deutschen Handwerks in der DAF.
+Found
+MODSMD_ARTICLE02: Die Partei Hilst bei der Ernteeinbringung.
+Found
+MODSMD_ARTICLE03: Minister Kekkoueu über Helsinki 1940.
+Found
+MODSMD_ARTICLE04: Münchener HJ. in Jugoslawien.
+Found
+MODSMD_ARTICLE05: Besuche Runcimans iu Prag.
+Found
+MODSMD_ARTICLE06: Sudetendeutsche bei Lord Runciman.
+Found
+MODSMD_ARTICLE07: Mit Bajonetten gegen Teilnehmer am Breslauer Sportfest.
+Found
+MODSMD_ARTICLE08: Tschechische Schikane gegen die Polnische Presse.
+Found
+MODSMD_ARTICLE09: Architektur-Ausstellung der Falauge eröffnet.
+Found
+MODSMD_ARTICLE10: Wie die roten Mordbrenner in Carrion hausten.
+Found
+MODSMD_ARTICLE11: „Giornale tüJtalia" zum Sowjeivorstoß bei Schangfeug.
+Found
+MODSMD_ARTICLE12: Moskaus geheimnisvolle Grenzkarte.
+Found
+MODSMD_ARTICLE13: Zusatzabkommen zum englisch-ägyptischen Vertrag. !
+Found

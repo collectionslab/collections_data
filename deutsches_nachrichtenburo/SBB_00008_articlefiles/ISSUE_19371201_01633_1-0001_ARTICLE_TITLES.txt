@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer in Berlins klassischem Operettentheater.
+Found
+MODSMD_ARTICLE02: Der deutsche Konsularagent in Luxor gestorben.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Gründung der Tobis-Filmkunst G. m. b. H.
+Found
+MODSMD_ARTICLE05: Danzig-Polnische Wirtschaftsbesprechungen.
+Found
+MODSMD_ARTICLE06: Kommunistische Werbezcntrale für Sowjetspanien aufgedeckt.
+Found
+MODSMD_ARTICLE07: Der polnische Staatspräsident 79 Jahre.
+Found
+MODSMD_ARTICLE08: Ein Plan zur Bolschewisierung der Tschechoslowakei.
+Found
+MODSMD_ARTICLE09: Abberufung eines sowjetrussischen Militärattaches.
+Found
+MODSMD_ARTICLE10: Lebrun vor ausländischen Frontkämpfern.
+Found
+MODSMD_ARTICLE11: Die GPU-Aktion gegen die Sowjetdiplomatie.
+Found
+MODSMD_ARTICLE12: Außenminister Patijn über Hollands Außenpolitik.
+Found
+MODSMD_ARTICLE13: Für Normalisierung der Beziehungen Belgiens zu Italien.
+Found
+MODSMD_ARTICLE14: Der Herzog von Coburg bei Königinmutter Mary.
+Found
+MODSMD_ARTICLE15: Die „Aussiedlung" der Koreaner in Sibirien.
+Found
+MODSMD_ARTICLE16: Ueberfall auf eine Polizeistreife bei Haifa.
+Found
+MODSMD_ARTICLE17: Die Anerkennung Nationalspaniens durch Japan.
+Found
+MODSMD_ARTICLE18: Zur Anerkennung Nationalspaniens durch Japan.
+Found

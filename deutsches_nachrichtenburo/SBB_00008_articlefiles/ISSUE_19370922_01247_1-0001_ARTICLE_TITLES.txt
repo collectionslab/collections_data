@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die zweite Nacht „Berlin im Dunkeln".
+Found
+MODSMD_ARTICLE02: Marschall Badoglio in Berlin.
+Found
+MODSMD_ARTICLE03: Die großen Wehrmachtsmanöver.
+Found
+MODSMD_ARTICLE04: Abordnung deutscher Industrieller in Wien eingetroffen.
+Found
+MODSMD_ARTICLE05: Polnisch-österreichisches Kulturabkommen?
+Found
+MODSMD_ARTICLE06: Masaryk beigesetzt.
+Found
+MODSMD_ARTICLE07: Svwjetrnssischc Militärflieger über Finnland!
+Found
+MODSMD_ARTICLE08: Verhaftungen ehemaliger Bauernparteiler in Bulgarien.
+Found
+MODSMD_ARTICLE09: Von Sofia über Paris nach Rotspanien.
+Found
+MODSMD_ARTICLE10: Technische Abänderung der Spanienkontrolle.
+Found
+MODSMD_ARTICLE11: Bombenanschlag auf katholische Kirche in Belfast. ?
+Found
+MODSMD_ARTICLE12: Frühstück in Paris bei der Durchreise Edens.
+Found
+MODSMD_ARTICLE13: Deutsche Wirtschaftsprüfer-Organisation vorbildlich.
+Found
+MODSMD_ARTICLE14: Erfolgreiche japanische Luftangriffe.
+Found
+MODSMD_ARTICLE15: Jahrestreffen der „American Legion" in New Jork.
+Found
+MODSMD_ARTICLE16: Brigadegeneral der USA auf offener Straße erschossen.
+Found
+MODSMD_ARTICLE17: Eisenbahnunglück in Frankreich.
+Found

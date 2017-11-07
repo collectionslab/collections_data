@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ehrenpreis des Reichsinnenministers.
+Found
+MODSMD_ARTICLE02: Die Wissenschaft im Dienst der Erzeugungsschlacht.
+Found
+MODSMD_ARTICLE03: „Letzte Zuflucht des Ordnungsgedankens: Berlin!"
+Found
+MODSMD_ARTICLE04: Telbos vor dem Auswärtigen Kammerausschuß.
+Found
+MODSMD_ARTICLE05: Vincent Auriol über Frankreichs Finanzen.
+Found
+MODSMD_ARTICLE06: Französische „Freiwillige" aus Spanien zurück.
+Found
+MODSMD_ARTICLE07: Madrider Lebensmittellager geplündert.
+Found
+MODSMD_ARTICLE08: Ter nationale Heeresbericht.
+Found
+MODSMD_ARTICLE09: Bomben auf Bolschewistenstellungen bei Malaga.
+Found
+MODSMD_ARTICLE10: Aasgeier unter sich.
+Found
+MODSMD_ARTICLE11: Krönungstag Georgs VI. Staatsfeiertag im Empire.
+Found
+MODSMD_ARTICLE12: Die Grippe-Epidemie in England.
+Found
+MODSMD_ARTICLE13: Gelungene deutsch-japanische Filmzusammenarbeit.
+Found
+MODSMD_ARTICLE14: Sandler über seine Brüsseler Verhandlungen.
+Found
+MODSMD_ARTICLE15: Millionenschäden in sowjetrussischer Traktorensabrik.
+Found
+MODSMD_ARTICLE16: Revolverattentat und Straßenschlacht in Damaskus.
+Found
+MODSMD_ARTICLE17: Rund 1 Milliarde Dollar für Amerikas Nothilfefonds.
+Found
+MODSMD_ARTICLE18: Wirren in Sianfu. Armeeführer ermordet.
+Found

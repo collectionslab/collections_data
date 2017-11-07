@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Göring eröffnet die 1. Internationale Handwerksausstellung.
+Found
+MODSMD_ARTICLE02: Frick Zur Ausstellung „Deutsches Volkstum im Ausland".
+Found
+MODSMD_ARTICLE04: Ungeheure Erregung im sudetendeutschen Gebiet.
+Found
+MODSMD_ARTICLE05: Truppenbewegungen nach den sudetendcutschen Gebieten.
+Found
+MODSMD_ARTICLE06: Starkes Echo der tschechischen Gewaltaten in Italien.
+Found
+MODSMD_ARTICLE07: Viktor Emanuel 111. in Tripolis.
+Found
+MODSMD_ARTICLE08: „Immer noch Vorbehalte und Zweideutigkeiten".
+Found
+MODSMD_ARTICLE09: Planmäßige Lenkung des Arbeitseinsatzes in der Ostmark.
+Found
+MODSMD_ARTICLE10: Hodscha über das geplante Nationalitätenstatut.
+Found
+MODSMD_ARTICLE11: Prag bestätigt Einberufung eines Jahrganges.
+Found
+MODSMD_ARTICLE12: Londons Presse bestätigt die tschechischen Uebergriffe.
+Found
+MODSMD_ARTICLE13: Die Sowjetspauier erhalten fortgesetzt Zuzug.
+Found
+MODSMD_ARTICLE14: Nach dem Fall Nütschaus.
+Found

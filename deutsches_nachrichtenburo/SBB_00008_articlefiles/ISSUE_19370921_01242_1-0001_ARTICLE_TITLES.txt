@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Berlin im Dunkeln.
+Found
+MODSMD_ARTICLE02: Vorbildlicher Einsatz aller Verkehrsmittel.
+Found
+MODSMD_ARTICLE03: Flieger über dem verdunkelten Berlin.
+Found
+MODSMD_ARTICLE04: Der Führer zeigte die wirklichen Ziele der jüdischen Politik.
+Found
+MODSMD_ARTICLE05: Unerhörte jüdische Ausschreitungen in Warschau.
+Found
+MODSMD_ARTICLE06: Italien will Gleichberechtigung, nicht äußere Gleichheit.
+Found
+MODSMD_ARTICLE07: j E l „Giornale gegen Englands Presse.
+Found
+MODSMD_ARTICLE08: „Italien soll konkrete Borschläge unterbreiten."
+Found
+MODSMD_ARTICLE09: Beck und Eden ans Genf abgereist.
+Found
+MODSMD_ARTICLE10: Der Giftstoff der Friedensverträge.
+Found
+MODSMD_ARTICLE11: Urlaub des türkischen Ministerpräsidenten.
+Found

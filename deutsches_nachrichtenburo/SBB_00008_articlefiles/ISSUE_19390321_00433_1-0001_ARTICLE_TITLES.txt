@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Graf Welczek nach Berlin abgereist.
+Found
+MODSMD_ARTICLE02: Einkreisungshetzer beherrschen auch weiterhin das Feld.
+Found
+MODSMD_ARTICLE03: England lügt weiter.
+Found
+MODSMD_ARTICLE04: Auch Lissabon verurteilt die Lügenmeldungen.
+Found
+MODSMD_ARTICLE05: „Keine Sorge um die Unabhängigkeit Hollands".
+Found
+MODSMD_ARTICLE06: Juden verübten den Tyrnauer Bombenanschlag.
+Found
+MODSMD_ARTICLE07: Beck empfing den französischen Botschafter und Hudson.
+Found
+MODSMD_ARTICLE08: Das Bombenattentat auf Salazar.
+Found
+MODSMD_ARTICLE09: Die nationalspanische Forderung an die roten Verbrecher.
+Found
+MODSMD_ARTICLE10: Frankreich ist wortbrüchig!
+Found
+MODSMD_ARTICLE11: Für Englands Baumwollindustrie.
+Found
+MODSMD_ARTICLE12: Englands unehrliches Spiel gegenüber den Arabern.
+Found
+MODSMD_ARTICLE13: Anschlag auf das Elektrizitätswerk Aarmouth.
+Found
+MODSMD_ARTICLE14: Gebt Roosevelt keine freie Hand.
+Found

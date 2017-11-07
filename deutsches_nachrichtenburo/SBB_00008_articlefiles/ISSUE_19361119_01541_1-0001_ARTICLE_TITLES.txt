@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Führer empfängt Staatssekretär Dr. Schmidt.
+Found
+MODSMD_ARTICLE02: Dr. Frick vor den Gnuamtsleitern des Reiches.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Die Aufnahme der Anerkennung Francos. x>>
+Found
+MODSMD_ARTICLE05: Die Roten wollen protestieren.
+Found
+MODSMD_ARTICLE06: Bndapester Studenten gegen Juden und Kommunisten.
+Found
+MODSMD_ARTICLE07: Staatsfeiertag in Lettland.
+Found
+MODSMD_ARTICLE08: Waffenschiebung in Bordeaux aufgedeckt.
+Found
+MODSMD_ARTICLE09: Roosevelt nach Buenos Aires abgereist.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr. Goebbels an Prof. Bartels.
+Found
+MODSMD_ARTICLE02: Ministerialrat Berndt in Wien.
+Found
+MODSMD_ARTICLE03: Oberst Beck an Senatspräsident Greiser.
+Found
+MODSMD_ARTICLE04: Der polnische Demokratische Klub gegen Danzig.
+Found
+MODSMD_ARTICLE05: Massenverurteilung kommunistischer Hetzer in Polen.
+Found
+MODSMD_ARTICLE06: Londoner Stimmen zur Halifax-Reise.
+Found
+MODSMD_ARTICLE07: Die wirtschaftliche Lage Togos.
+Found
+MODSMD_ARTICLE08: Enthüllungen über die Jnternatioinalen Brigaden.
+Found
+MODSMD_ARTICLE09: Die große Ueberraschung der Sowjetwahlen.
+Found
+MODSMD_ARTICLE10: Die Kongreßbotschaft des Präsidenten Roosevelt.
+Found
+MODSMD_ARTICLE11: Das „Kaiserliche Hauptquartier" in Tokio.
+Found

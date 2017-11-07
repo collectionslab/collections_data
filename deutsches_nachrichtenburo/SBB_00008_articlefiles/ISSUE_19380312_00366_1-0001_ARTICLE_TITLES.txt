@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Schuschnigg zurückgetreten. Mitlas ernennt Seysi-Jnguart zum Bundeskanzler. Deutsche Truppen angefordert.
+Found
+MODSMD_ARTICLE02: Wien fordert deutsche Truppen an.
+Found
+MODSMD_ARTICLE03: Schuschniggs unwahre Behauptungen.
+Found
+MODSMD_ARTICLE04: Seytz-Jnquart im Rundfunk.
+Found
+MODSMD_ARTICLE05: Seysi-Jnguart Bundeskanzler.
+Found
+MODSMD_ARTICLE06: Die neue Regierung.
+Found
+MODSMD_ARTICLE07: Eine Meldung der Agenzia Stefani.
+Found
+MODSMD_ARTICLE08: Kommunistische Störungsversuche in Wien.
+Found

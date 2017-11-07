@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Führer zur Reichstheaterfestwoche.
+Found
+MODSMD_ARTICLE02: Italienischer Besuch in Düsseldorf.
+Found
+MODSMD_ARTICLE03: Amerikanische Wirtschaftler besuchen Deutschland.
+Found
+MODSMD_ARTICLE04: General Beck nach Paris abgereist.
+Found
+MODSMD_ARTICLE05: Die Mailänder Scala im Münchener Nationaltheater.
+Found
+MODSMD_ARTICLE06: Bengt Berg und die deutschen Kolonialforderungen.
+Found
+MODSMD_ARTICLE07: Tschechoslowakischer Gesetzentwurf über Wehrerziehung.
+Found
+MODSMD_ARTICLE08: Mehrheit für Blum in der Kammer.
+Found
+MODSMD_ARTICLE09: König Faruk I. in Paris.
+Found

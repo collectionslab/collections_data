@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Empfang der italienischen Industriellen durch die Industrie.
+Found
+MODSMD_ARTICLE02: Lord Lothian für deutsch-englische Zusammenarbeit.
+Found
+MODSMD_ARTICLE03: Deutscher Schulbau in Bromberg unterbrochen.
+Found
+MODSMD_ARTICLE04: „Humanite" greift Polens Regierung an.
+Found
+MODSMD_ARTICLE05: Die jüdisch-bolschewistische Wühlarbeit in Warschau.
+Found
+MODSMD_ARTICLE06: Delbos vor dem Außenausschuß des Senates.
+Found
+MODSMD_ARTICLE07: Der Besuch des Grafen Ciano in Tirana beendet.
+Found
+MODSMD_ARTICLE08: Telegrammwechsel zwischen König Zogu und Mussolini.
+Found
+MODSMD_ARTICLE09: Italien gewann den Mussolini-Pokal.
+Found
+MODSMD_ARTICLE10: Das Ende der „Espana".
+Found
+MODSMD_ARTICLE11: Neue blutige Auseinandersetzungen in Barcelona.
+Found

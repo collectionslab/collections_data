@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Italienische Aeußerungen zur Antwortnote.
+Found
+MODSMD_ARTICLE02: Paris und London zur italienischen Antwort.
+Found
+MODSMD_ARTICLE03: Generalfeldmarschall von Blomberg in Madeira.
+Found
+MODSMD_ARTICLE04: Abschiedsempfang für General Milch.
+Found
+MODSMD_ARTICLE05: Französische Wirtschaftler im Kölner Hans in Paris.
+Found
+MODSMD_ARTICLE06: Der Besuch des Münchener Oberbürgermeisters in Mailand.
+Found

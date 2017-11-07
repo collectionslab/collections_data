@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Finnlands Außenminister bei Freiherrn von Neurath.
+Found
+MODSMD_ARTICLE02: Ter Afghanische Nationalbankpräsident verläßt Berlin.
+Found
+MODSMD_ARTICLE03: Der Reichskriegsminister übergibt neue Fahnen.
+Found
+MODSMD_ARTICLE04: Frhr. von Fritsch tritt seinen Jahresurlaub an.
+Found
+MODSMD_ARTICLE05: Darre besichtigt Landwirtschaftsbetriebe Ostpreußms.
+Found
+MODSMD_ARTICLE06: Abschluß der Reichstagung „Deutsche Werbung".
+Found
+MODSMD_ARTICLE07: Tagung der deutschen Pfarrkonferenz von Westeuropa.
+Found
+MODSMD_ARTICLE08: Antikommunistische Ausstellung in Paris.
+Found
+MODSMD_ARTICLE09: Bolschewistische Angst vor einem nationalen Durchbruch.
+Found
+MODSMD_ARTICLE10: Einst Versprechungen, jetzt die Knute.
+Found
+MODSMD_ARTICLE11: Chinese als Tschekarichter in Madrid!
+Found
+MODSMD_ARTICLE12: Amtliche Mitteilung Italiens über die Zahl der Freiwilligen.
+Found
+MODSMD_ARTICLE13: Manchester Guardian Zur Debatte Eden—Maisky.
+Not Found
+MODSMD_ARTICLE14: G Sitzung des Nichteiumischungsausschusses erst Dienstag.
+Found
+MODSMD_ARTICLE15: Honduras und Nikaragua nehmen Vermittlungsangebo an.
+Found

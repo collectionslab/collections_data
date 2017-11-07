@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer zum Tode Generaloberst von Falkenhausens.
+Found
+MODSMD_ARTICLE02: Der Oberbürgermeister von Athen beim Führer.
+Found
+MODSMD_ARTICLE03: Empfang in der Griechischen Gesandschaft.
+Found
+MODSMD_ARTICLE04: Bürgermeister Kotzias über das neue Deutschland.
+Found
+MODSMD_ARTICLE06: Englischer Dank für deutsche Hilfsbereitschaft.
+Found
+MODSMD_ARTICLE07: Die Italiener in Addis Abeba.
+Found
+MODSMD_ARTICLE08: Die Glocken Italiens rufen Zum Generalappell.
+Found
+MODSMD_ARTICLE09: Italienischer Heeresbericht.
+Found
+MODSMD_ARTICLE10: Französische Berichte über die Lage in Addis Abeba.
+Found
+MODSMD_ARTICLE11: Eden übernimmt den Vorsitz der Ratstagung.
+Found
+MODSMD_ARTICLE12: Am Sonnabend Außenminister-Besprechungen in Genf.
+Found
+MODSMD_ARTICLE13: Sudetendeutsche Beschwerde der Tschechoslowakei zugeleitet.
+Found
+MODSMD_ARTICLE14: Besorgnisse über den französischen Wahlausgang.
+Found
+MODSMD_ARTICLE15: Die Beratungen der Balkanpaktmächte.
+Found
+MODSMD_ARTICLE16: Entgegenkommen Rumäniens in der Dardanellensrage.
+Found
+MODSMD_ARTICLE17: Zuchthausstrafe für einen jüdischen Bankerotteur.
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Erfolgreiche groszdeutsche Filmbilnnz.
+Found
+MODSMD_ARTICLE02: Der Reichskriegerführer zum Heldengedeinktag.
+Found
+MODSMD_ARTICLE03: Die Plassenburg umgebaut.
+Found
+MODSMD_ARTICLE04: Empfang bei der Deutsch-Englischen Gesellschaft.
+Found
+MODSMD_ARTICLE05: Preßburg von tschechischem Militär besetzt.
+Found
+MODSMD_ARTICLE06: Deutscher Pavillon auf der Tripolis-Messe eröffnet.
+Found
+MODSMD_ARTICLE07: Die neue „Kammer der Fasci und Korporationen".
+Found
+MODSMD_ARTICLE08: Immer wieder Guam.
+Found

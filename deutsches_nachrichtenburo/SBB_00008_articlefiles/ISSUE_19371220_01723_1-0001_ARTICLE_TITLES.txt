@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer an Frau Ludendorff.
+Found
+MODSMD_ARTICLE02: Flaggen auf Halbmast!
+Found
+MODSMD_ARTICLE03: Deutsch-französische Pressefesten.
+Found
+MODSMD_ARTICLE04: Gesandter Pflügt zur deutschen Kolonialforderung.
+Found
+MODSMD_ARTICLE05: Deutscher Schmuck in Paris preisgekrönt.
+Found
+MODSMD_ARTICLE06: Pressestimmen zur Delbos-Reise.
+Found
+MODSMD_ARTICLE07: Lamoureux über die Lage Frankreichs.
+Found
+MODSMD_ARTICLE08: „Figaro" über den Besuch Cots in LöMon.
+Found
+MODSMD_ARTICLE09: 159 Flieger für Sowjetspanien in Frankreich.
+Found
+MODSMD_ARTICLE10: Attlee interveniert weiter.
+Found
+MODSMD_ARTICLE11: Schüffe im Warschauer ludenviertel.
+Found
+MODSMD_ARTICLE12: Tie täglichen Erschießungen in der Sowjetunion.
+Found
+MODSMD_ARTICLE13: Der britische Kreuzer „Capetown" zurückgekehrt.
+Found

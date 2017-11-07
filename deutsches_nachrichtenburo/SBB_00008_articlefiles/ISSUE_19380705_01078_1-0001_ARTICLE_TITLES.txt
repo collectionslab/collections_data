@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Australischer Ministerbesuch in Dessau.
+Found
+MODSMD_ARTICLE03: Anerkennung des Führers für die Küstenflieger.
+Found
+MODSMD_ARTICLE04: Dr. Goebbels auf der Handwerks-Ausstellung.
+Found
+MODSMD_ARTICLE05: Der Reichsverkehrsminister an Daimler-Benz.
+Found
+MODSMD_ARTICLE06: Reichswerke „Hermann Göring" übernehmen Steyr-Werke.
+Found
+MODSMD_ARTICLE07: Mussolini ehrt deutschen Kolonialschrlftsteller.
+Found
+MODSMD_ARTICLE08: Einigung über die Zurückziehung der Freiwilligen.
+Found
+MODSMD_ARTICLE09: Konferenz bei Chamberlain über die Antwort Francos.
+Found
+MODSMD_ARTICLE10: Oppositionspartei fordert Luftrüstungsuntersuchung.
+Found
+MODSMD_ARTICLE11: Französische Arbeiter verlassen kommunistische Gewerkschaft.
+Found
+MODSMD_ARTICLE12: Ausbau des französischen Elektrizitätswesens.
+Found
+MODSMD_ARTICLE13: Die Erntevorschätzung in Italien.
+Found
+MODSMD_ARTICLE14: Frenndschaftsvertrag Italien—Mandschukno.
+Not Found
+MODSMD_ARTICLE15: Die Lage der roten Machthaber wird immer schwieriger.
+Found
+MODSMD_ARTICLE17: Die bolschewistische Küstenfestung Burriana erobert.
+Found
+MODSMD_ARTICLE18: Der Vertreter Sowjetspaniens bei Bonnet.
+Found
+MODSMD_ARTICLE19: Fieberhafter Ausbau der Befestigungen um Leningrad.
+Found
+MODSMD_ARTICLE20: Ljuschkow war im Besitz geheimer Pläne.
+Found
+MODSMD_ARTICLE21: Feierlicher Einmarsch der Japaner in Hukau.
+Found
+MODSMD_ARTICLE22: Erfolgreicher japanischer Fliegervorstoß nach Nantschang.
+Found
+MODSMD_ARTICLE23: Vor dem Zusammentritt des Panarabischen Kongresses.
+Found
+MODSMD_ARTICLE24: Feierlicher Empfang der türkischen Truppen in Alexandrette.
+Found

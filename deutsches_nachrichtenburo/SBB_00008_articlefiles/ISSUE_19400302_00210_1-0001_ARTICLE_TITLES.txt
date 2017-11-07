@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Beförderungen im Bereich der Luftwaffe.
+Found
+MODSMD_ARTICLE02: Dr. Lambert zum Regierungsvizepräsidenten ernannt.
+Found
+MODSMD_ARTICLE03: Sano Mach von Reichsminister Dr. Goebbels empfangen.
+Found
+MODSMD_ARTICLE04: Dr. Goebbels eröffnet die Leipziger Frühjahrsmesse.
+Found
+MODSMD_ARTICLE05: Die rumänischen Jugendführer in Berlin.
+Found
+MODSMD_ARTICLE06: Fürsorge für die Verpflegung des deutschen Soldaten.
+Found
+MODSMD_ARTICLE07: Englands Waffe die Lüge!
+Found
+MODSMD_ARTICLE08: Wachsende Teuerung in England.
+Found
+MODSMD_ARTICLE09: Ein Abgeordneter vom Intelligente Service ermordet.
+Found
+MODSMD_ARTICLE10: Französischer Dampfer nach Explosion untergegangen.
+Found
+MODSMD_ARTICLE11: Die Sowjettruppen 2 km vor Wiborg.
+Found
+MODSMD_ARTICLE12: „Was die Franzosen bestimmt nicht erwarteten!"
+Found
+MODSMD_ARTICLE13: „Huldigung der Freundschaft".
+Found
+MODSMD_ARTICLE14: Die englischen Seeräuber blockieren Island.
+Found
+MODSMD_ARTICLE15: Der Cossackfall ein „ernster Uebergriff".
+Found
+MODSMD_ARTICLE16: Todesfahrt nach England verweigert.
+Found
+MODSMD_ARTICLE17: Ein Italiener in Algier zum Tode verurteilt.
+Found
+MODSMD_ARTICLE18: Indiens Ziel: Vollkommene Unabhängigkeit.
+Found
+MODSMD_ARTICLE19: Wiederaufnahme des „Ungehorsamkeitsfeldzuges" beschlossen.
+Found

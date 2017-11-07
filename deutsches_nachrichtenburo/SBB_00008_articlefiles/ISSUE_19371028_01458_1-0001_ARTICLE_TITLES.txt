@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer an Mussolini.
+Found
+MODSMD_ARTICLE02: Der Hochfesttag Italiens Rom feiert den Jahrestag des Marsches auf Rom.
+Found
+MODSMD_ARTICLE03: Begnadigungen durch den Führer.
+Found
+MODSMD_ARTICLE04: Der Dank des Reichssportführers von Tschammer und Osten.
+Found
+MODSMD_ARTICLE05: Neue Abteilungen der Reichsmusikkammer.
+Found
+MODSMD_ARTICLE06: Man will an Deutschland und Sowjetrußland herantreten.
+Found
+MODSMD_ARTICLE07: Neue Kolonial-Zuschriften an die „Times".
+Found
+MODSMD_ARTICLE08: Neue Munitionsfabrik in Wales.
+Found
+MODSMD_ARTICLE09: k französische U-Boote an Valencia-Bolschewisten verkauft.
+Found
+MODSMD_ARTICLE10: Französischer Zerstörer bei Menorea stationiert.
+Found
+MODSMD_ARTICLE11: Für Verlängerung der Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE12: De la Roque von seinen Anhängern ostentativ begrüßt.
+Found
+MODSMD_ARTICLE13: Die slowakischen Demonstrationen in Preßburg dauern an.
+Found
+MODSMD_ARTICLE14: Atempause M den Fronten von Schanghai.
+Found

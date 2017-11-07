@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: „Siegfried"-Aufführung in Anwesenheit des Führers.
+Found
+MODSMD_ARTICLE02: „Wenig lichtvolle Darlegungen Chamberlains."
+Found
+MODSMD_ARTICLE03: Slowakisch-ungarisches Grenzziehungsprotokoll ratifiziert.
+Found
+MODSMD_ARTICLE04: Polonisierung mit Gewalt und Erpressung.
+Found
+MODSMD_ARTICLE05: Schwere Ausschreitungen in Antonienhütte.
+Found
+MODSMD_ARTICLE06: Tie polnische Hetze überschlägt sich.
+Found
+MODSMD_ARTICLE07: Aus Polen in die Slowakei geflüchtet.
+Found
+MODSMD_ARTICLE08: Sandler warnt die Einkreiser.
+Found
+MODSMD_ARTICLE09: Starke Verringerung der britischen Indien-Armee.
+Found
+MODSMD_ARTICLE10: Todesdrohungen gegen Pater Coughlin.
+Found
+MODSMD_ARTICLE11: Siraßeuschlacht in Cleveland.
+Found
+MODSMD_ARTICLE12: Schwierige Verhandlungen in Tokio.
+Found

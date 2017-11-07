@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die Wehrmacht übernimmt Militär-Waisenhaus Potsdam.
+Found
+MODSMD_ARTICLE02: Arbeiten am Reichsehrenmal werden 1938 abgeschlossen.
+Found
+MODSMD_ARTICLE03: Pfundtner vor der Verwaltnngsakademie in Königsberg.
+Found
+MODSMD_ARTICLE04: Auszeichnung für Bruno Mussolini.
+Found
+MODSMD_ARTICLE05: Schwierigkeiten um die französische Arbeitsordnung.
+Found
+MODSMD_ARTICLE06: Der Inhalt der Arbeitsordnung der Regierung Chautemps.
+Found
+MODSMD_ARTICLE07: Abwartende Haltung gegenüber dem Bericht van Zeelands.
+Found
+MODSMD_ARTICLE08: Der Bericht van Zeelands als Weißbuch veröffentlicht.
+Found
+MODSMD_ARTICLE09: Unterstaatssekretär Geoffrey Lloyd wieder in London.
+Found
+MODSMD_ARTICLE10: Faustschläge und Fußtritte in der belgischen Kammer.
+Found
+MODSMD_ARTICLE11: Genf bebt Finanzkontrolle über Ungarn ans.
+Found
+MODSMD_ARTICLE12: Eine Verpflegnngsabteilung im Landwirtschastsministerium.
+Found
+MODSMD_ARTICLE13: Roosevelt ernennt neuen Bundesgeneralanwalt.
+Found
+MODSMD_ARTICLE14: Noch immer Autilpnch-Bill.
+Found
+MODSMD_ARTICLE15: Die Brücke über die Niagara-Fälle eingestürzt.
+Found

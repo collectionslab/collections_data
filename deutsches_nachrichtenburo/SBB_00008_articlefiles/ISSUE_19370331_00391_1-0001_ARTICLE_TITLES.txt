@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: An die Regierung in Marienwerder berufen.
+Found
+MODSMD_ARTICLE02: Friede! Schumann sammelte 125 000 RM für das WHW.
+Found
+MODSMD_ARTICLE03: „Die Eisenbahnen als Brücke zwischen den Völkern".
+Found
+MODSMD_ARTICLE04: Jüdischer Betrüger aus Danzig geflüchtet.
+Found
+MODSMD_ARTICLE05: Ministerpräsident Hodscha erneut in Wien.
+Found
+MODSMD_ARTICLE06: Benachteiligung politisch Gemaßregelter in Oesterreich.
+Found
+MODSMD_ARTICLE07: Das Oberhaupt der russischen orthodoxen Kirche gestorben?
+Found
+MODSMD_ARTICLE08: Volksfrontbestrebungen in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE09: „Universal" Zum italienisch-jugoslawischen Pakt.
+Found
+MODSMD_ARTICLE10: Antonescu nach Belgrad abgereist.
+Found
+MODSMD_ARTICLE11: Gerüchte über ein Komplott in Tetuan.
+Found
+MODSMD_ARTICLE12: Handelshaus in Addis Abeba behördlich geschlossen.
+Found
+MODSMD_ARTICLE13: Botschafter Clark verläßt Paris.
+Found
+MODSMD_ARTICLE14: Moskau hetzt überall.
+Found
+MODSMD_ARTICLE15: Die Unterbindung von Waffenlieferungen in USA.
+Found
+MODSMD_ARTICLE16: Der Generalgouverneur von Kanada in Washington.
+Found
+MODSMD_ARTICLE17: Noch vier indische Provinzregierungen fehlen.
+Found

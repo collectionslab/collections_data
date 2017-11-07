@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Stapellauf des zweiten KdF.-Schiffes.
+Found
+MODSMD_ARTICLE02: 49 999 beim Stapellauf.
+Found
+MODSMD_ARTICLE03: Der Führer spricht.
+Found
+MODSMD_ARTICLE04: Reichsminister Dr. Goebbels in Wien.
+Found
+MODSMD_ARTICLE05: Die KdF.-Flotte in Lissabon.
+Found
+MODSMD_ARTICLE06: Die Lage der Polen in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE07: Ungarische Stimmen zu den Erklärungen Hodschas.
+Found
+MODSMD_ARTICLE08: London zu Barcelonas Niederlage.
+Found

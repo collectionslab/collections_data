@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Göring besichtigt die Luftwaffe auf Sylt.
+Found
+MODSMD_ARTICLE02: 10 000 RM für die Unwettergeschädigten im Saarland.
+Found
+MODSMD_ARTICLE03: Oesterreichische Industrielle in Deutschland.
+Found
+MODSMD_ARTICLE04: Eröffnung der Süddeutscheu Tiextil-Leistungsschau.
+Found
+MODSMD_ARTICLE05: „Walfangkontor Hamburg".
+Found
+MODSMD_ARTICLE06: Katholischer Jugendführer als Sittlichkeitsverbrecher.
+Found
+MODSMD_ARTICLE07: Konrad Henlein sprach in Saaz.
+Found
+MODSMD_ARTICLE08: Danktelegramm des Reichskriegsministers an Mussolini.
+Found
+MODSMD_ARTICLE09: Ter neue deutsche Generalkonsul in Addis Abeba.
+Found
+MODSMD_ARTICLE10: Krisenstimmung in Paris.
+Found
+MODSMD_ARTICLE11: Der französische Kolonialminister ausgepfiffen.
+Found
+MODSMD_ARTICLE12: Starke Diskonterhöhung in Frankreich.
+Found
+MODSMD_ARTICLE13: Spanienbolschewisten plündern britische Bankkonten.
+Found
+MODSMD_ARTICLE14: Stalins Personalpolitik: Juden werden bevorzugt.
+Found
+MODSMD_ARTICLE15: Folgen der Streikhetze in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE16: Wachsender Widerstand gegen den Streikterror.
+Found
+MODSMD_ARTICLE17: Tie Aufnahme der sowjetrussischen Bluturteile in Japan.
+Found

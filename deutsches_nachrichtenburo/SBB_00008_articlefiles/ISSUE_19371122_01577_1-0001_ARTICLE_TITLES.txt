@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Der Führer bei seinen alten Mitkämpfern- 15 Jahre Ortsgruppe Augsburg der NSDAP.
+Found
+MODSMD_ARTICLE02: Der Marsch der alten Kämpfer.
+Found
+MODSMD_ARTICLE03: Die Ankunft des Führers in Augsburg.
+Found
+MODSMD_ARTICLE04: Empfang des Führers im Goldenen Saal des Rathauses.
+Found
+MODSMD_ARTICLE05: Der Führer spricht Zur Alten Garde in Augsburg.
+Found
+MODSMD_ARTICLE06: Jubel empfängt den Führer.
+Found
+MODSMD_ARTICLE07: Der Führer spricht.
+Found

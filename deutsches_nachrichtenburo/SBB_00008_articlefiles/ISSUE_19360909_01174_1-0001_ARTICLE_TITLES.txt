@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Lloyd George besichtigt Stuttgarter Industriebetriebe.
+Found
+MODSMD_ARTICLE02: Besuch des italienischen Marineattaches in Wilhelmshaven.
+Found
+MODSMD_ARTICLE03: Generalmajor Viktor Franke f.
+Found
+MODSMD_ARTICLE04: „Hindenburg" in Friedrichshafen gelandet.
+Found
+MODSMD_ARTICLE05: Ein schwedischer Dichter über Deutschland.
+Found
+MODSMD_ARTICLE06: Tie ungarische Denkschrift zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE07: Baldwin verlängert seinen Erholungsurlaub.
+Found
+MODSMD_ARTICLE08: Ter finnische Feldmarschall Mannerheim in London.
+Found
+MODSMD_ARTICLE09: Der König von Griechenland stiftet einen Hilfsfonds.
+Found
+MODSMD_ARTICLE10: Die Streikwelle in der Marseiller Metallindustrie.
+Found
+MODSMD_ARTICLE11: Alarmbereitschaft in Lissabon.
+Found
+MODSMD_ARTICLE12: Die Lage in San Sebastian.
+Found
+MODSMD_ARTICLE13: Keine Gnade für die baskischen Separatisten.
+Found
+MODSMD_ARTICLE14: Nationalistische Erfolge nordwestlich von Madrid.
+Found
+MODSMD_ARTICLE15: Erschießung nationalistischer Persönlichkeiten in Albacete»
+Found
+MODSMD_ARTICLE16: Radio Tetuan meldet.
+Found
+MODSMD_ARTICLE17: Moskau wühlt in Palästina.
+Found
+MODSMD_ARTICLE18: Anschlag auf die irakische Petroleumleitung.
+Found
+MODSMD_ARTICLE19: Verhandlungen im Tschengtu-Zwischenfall eingeleitet.
+Found
+MODSMD_ARTICLE20: Ein Japaner ermordet.
+Found
+MODSMD_ARTICLE21: Vorläufiger chilenisch-belgischer Handelsvertrag.
+Found
+MODSMD_ARTICLE22: Steuersteckbrief und Bermögensbeschlagnahme.
+Found

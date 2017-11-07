@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Tag der Wehrmacht in Wien.
+Found
+MODSMD_ARTICLE02: Jubel um die Leibstandarte.
+Found
+MODSMD_ARTICLE03: Nundftedt und Bock Generalobersten«
+Found
+MODSMD_ARTICLE04: Göring dankt der Luftwaffe.
+Found
+MODSMD_ARTICLE05: Ausstellung „Bolschewismus ohne Maske".
+Found
+MODSMD_ARTICLE06: Der Führer in München»
+Found
+MODSMD_ARTICLE07: Der nationale Heeresbericht. .
+Found
+MODSMD_ARTICLE08: Litauische Vorschläge an Polen.
+Found

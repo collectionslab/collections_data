@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer gratuliert Jenny Kammersgaard.
+Found
+MODSMD_ARTICLE02: Berliner „Times"-Korrespondent nicht genehm.
+Found
+MODSMD_ARTICLE03: Erhöhter Schutz der Jugend durch die Gerichte.
+Found
+MODSMD_ARTICLE04: Obergruppenführer Herzog über den Sport in der SA.
+Found
+MODSMD_ARTICLE05: Vollstreckung eines Todesurteils.
+Found
+MODSMD_ARTICLE06: Der Internationale Homöopathen Kongreß.
+Found
+MODSMD_ARTICLE07: Polnische Staatsjugend zu Besuch in Frankfurt a. M.
+Found
+MODSMD_ARTICLE08: Flugzeug „Taifun" über Oslo nach Hamburg geflogen.
+Found
+MODSMD_ARTICLE09: Der türkische Arbeitsminister über seine Deutschlandreise.
+Found
+MODSMD_ARTICLE10: Rückbeförderung der in Japan lebenden Chinesen.
+Found
+MODSMD_ARTICLE11: Neue Kämpfe bei Nankau.
+Found
+MODSMD_ARTICLE12: China will den Flugplatz-Zwischenfall beilegen.
+Found

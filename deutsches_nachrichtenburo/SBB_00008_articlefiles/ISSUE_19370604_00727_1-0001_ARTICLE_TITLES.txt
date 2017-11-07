@@ -1,0 +1,30 @@
+MODSMD_ARTICLE02: Deutsche Sportslieger zu Auslandswettbewerben entsandt.
+Found
+MODSMD_ARTICLE03: Reichstreffeu des Bundes der Kinderreichen.
+Found
+MODSMD_ARTICLE04: Der europäische Fremdenverkehrs-Kongreß in München.
+Found
+MODSMD_ARTICLE05: Aufstellung einer Bruckner-Büste in der Walhalla.
+Found
+MODSMD_ARTICLE06: Reichstagung der Gaurichter der NSDAP, beendet.
+Found
+MODSMD_ARTICLE07: Italienische Gefechtsvorführung vor Blomberg.
+Found
+MODSMD_ARTICLE08: Deutsch-englische Flottenverhandlungen.
+Found
+MODSMD_ARTICLE09: Schmuggel im Zeichen der Nichteinmischung.
+Found
+MODSMD_ARTICLE10: Verhetzte kommunistische Jugend steinigt Schüler.
+Found
+MODSMD_ARTICLE11: Paketexplosion auf einem Pariser Postamt.
+Found
+MODSMD_ARTICLE12: Jordana Präsident des nationalspanischen Techn. Ausschusses.
+Found
+MODSMD_ARTICLE13: An der Bahre General Molas.
+Found
+MODSMD_ARTICLE14: Dimitroff fordert eine Aktion des Weltbolschewismus!
+Found
+MODSMD_ARTICLE15: Marschall Blücher in Moskau eingetroffen.
+Found
+MODSMD_ARTICLE16: Sowjetangriffe an den Grenzen Mandschukuos.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Prinzregent Paul empfing Dr. Lippert.
+Found
+MODSMD_ARTICLE02: Brauchitsch bei den Spanien-Freiwilligen des Heeres.
+Found
+MODSMD_ARTICLE03: Die Jugend grüßt die Frontsoldaten.
+Found
+MODSMD_ARTICLE04: Der italienische Tierärzteführer in München.
+Found
+MODSMD_ARTICLE05: Belgrad zu der großen Parade.
+Found
+MODSMD_ARTICLE06: Französischer General besucht Polen.
+Found
+MODSMD_ARTICLE07: „Es ist absurd, Eigentum Mpückzuhalten."
+Found
+MODSMD_ARTICLE08: Gamelin in der kommenden Woche in London.
+Found
+MODSMD_ARTICLE09: Großes Interesse der Londoner Blätter für die Parade.
+Found
+MODSMD_ARTICLE10: So werden Patrioten im Roosevelt-Staat belohnt!
+Found
+MODSMD_ARTICLE11: Der Ausbau von USA.-Marinestützpunkten beginnt.
+Found
+MODSMD_ARTICLE12: Landesverräter hingerichtet.
+Found

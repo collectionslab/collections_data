@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Hakenkreuz oder Herrschast Judas?
+Found
+MODSMD_ARTICLE02: Studentenkundgebungen in Budapest.
+Found
+MODSMD_ARTICLE03: Eine halbe Million Zloty für Motorisierungszwecke.
+Found
+MODSMD_ARTICLE04: Luftverbindung Warschau—Palästina.
+Not Found
+MODSMD_ARTICLE05: Prag weist sogar Kinder aus.
+Found
+MODSMD_ARTICLE06: Bösartige Kommentare über Mussolinis Libyenreise.
+Found
+MODSMD_ARTICLE07: Glückwünsche zur Geburt des italienischen Thronerben.
+Found
+MODSMD_ARTICLE08: Außenminister Antonescu auf dem Wege nach Ankara.
+Found
+MODSMD_ARTICLE09: Bombenanschlag wie in Spanien.
+Found
+MODSMD_ARTICLE10: Herriot ruft zur Zeichnung der Rüstungsanleihe auf.
+Found
+MODSMD_ARTICLE11: Zweite Tranche der französischen Verteidigungsanleihe.
+Found
+MODSMD_ARTICLE12: General Francs begibt sich an die Madrider Front.
+Found
+MODSMD_ARTICLE13: Nationaler Erfolg an der Cordoba-Front.
+Found
+MODSMD_ARTICLE14: Madrid macht auch in England Schule.
+Found
+MODSMD_ARTICLE15: Die Sabotage-Rede des Abgeordneten Cripps.
+Found
+MODSMD_ARTICLE16: Rundfuukkontrolle in England.
+Found
+MODSMD_ARTICLE17: Rnnciman preist Friedensliebe englischen Kabinetts.
+Found
+MODSMD_ARTICLE18: Baldwin lehnt Kanaltunnel England—Frankreich ab.
+Found
+MODSMD_ARTICLE19: Die Mindeststärke der fernöstlichen Flotte Englands.
+Found
+MODSMD_ARTICLE20: Beschwichtigungsrede des indischen Vizekönigs.
+Found
+MODSMD_ARTICLE21: Die Folgen des Sitzstreikes bei Chrysler.
+Found

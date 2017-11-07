@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Deutschlands Anteilnahme am Tode von Ramon Francs.
+Found
+MODSMD_ARTICLE02: Großzügige Hilfsaktion für Sudetendeutschland.
+Found
+MODSMD_ARTICLE03: „Euer Geist wird ewig mit uns marschieren."
+Found
+MODSMD_ARTICLE04: Die Wiener Beratungen. Frühstück im Belvedere.
+Found
+MODSMD_ARTICLE05: Daladier, Marchandeau und Reynaud bei Lebrun.
+Found
+MODSMD_ARTICLE06: Verlängerung der Sondervollmachten für Daladier?
+Found
+MODSMD_ARTICLE07: Finnland anerkennt Franco.
+Found
+MODSMD_ARTICLE08: Protest gegen die Balfonr-Deklaration in Syrien.
+Found
+MODSMD_ARTICLE09: Ordensauszeichnungen in Japan.
+Found
+MODSMD_ARTICLE10: Eine japanische Erklärung zum Chinakonflikt.
+Found
+MODSMD_ARTICLE11: Japans künftige Wirtschaftspolitik gegenüber China.
+Found
+MODSMD_ARTICLE12: Japan entwickelt die Wirtschaftskräfte Chinas.
+Found
+MODSMD_ARTICLE13: Japan bricht endgültig mit der Genfer Liga.
+Found
+MODSMD_ARTICLE14: Zwischenfall an der mandschurischen Grenze.
+Found
+MODSMD_ARTICLE15: Keine neuen Truppenlandungen der Japaner.
+Found
+MODSMD_ARTICLE16: Kommunistischer Wahlredner tritt für Roosevelt ein.
+Found
+MODSMD_ARTICLE17: Das Verhältnis der neuen Welt Zu Europa.
+Found
+MODSMD_ARTICLE18: Australien kauft Bomber in USA.
+Found

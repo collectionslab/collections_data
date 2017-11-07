@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Beileidstelegramm des Führers an Frau Seehofer.
+Found
+MODSMD_ARTICLE02: „Ausklärungsgruppe Tannenberg."
+Found
+MODSMD_ARTICLE03: Der Reichskriegerführer meldet dem Führer.
+Found
+MODSMD_ARTICLE04: Polen, die wahren Hyänen des Schlachtfeldes.
+Found
+MODSMD_ARTICLE05: So treiben es die „garantierten" Polen.
+Found
+MODSMD_ARTICLE06: Die Verwirrung in Polen nimmt zu.
+Found
+MODSMD_ARTICLE07: Halbwüchsige schießen auf Kinder und alte Leute.
+Found
+MODSMD_ARTICLE08: Tolle Zustände in der polnischen Armee.
+Found
+MODSMD_ARTICLE09: Botschafter Henderson beim Führer.
+Found
+MODSMD_ARTICLE10: Die Achse entschlossener denn je!
+Found
+MODSMD_ARTICLE11: Weitgehende Sicherheitsmaßnahmen in England.
+Found
+MODSMD_ARTICLE12: Franzosen und Engländer verlassen die Schweiz.
+Found

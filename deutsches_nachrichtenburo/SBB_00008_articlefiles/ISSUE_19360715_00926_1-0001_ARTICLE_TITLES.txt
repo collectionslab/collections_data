@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Die Leistung des Nationalsozialismus für den olympischen Gedanken.
+Found
+MODSMD_ARTICLE03: Die Rede des Reichssportührers.
+Found
+MODSMD_ARTICLE04: Die Leistung des Nationalsozialismus.
+Found
+MODSMD_ARTICLE05: Grundsätzlich auf dem richtigen Wege.
+Found
+MODSMD_ARTICLE06: Die deutsche Olympia-Mannschaft.
+Found
+MODSMD_ARTICLE07: Beginn einer neuen sportlichen Zukunft.
+Found
+MODSMD_ARTICLE08: Fahnenweihe der Tanziger Hitler-Jugend im Sanssouci.
+Found
+MODSMD_ARTICLE09: Die spanische Rechte verläßt das Parlament endgültig.
+Found
+MODSMD_ARTICLE10: Alarmzustand in Spanien verlängert.
+Found
+MODSMD_ARTICLE11: Die Einigungsformel in Montreux.
+Found
+MODSMD_ARTICLE12: Die Durchdringung Abesstniens.
+Found
+MODSMD_ARTICLE13: Zusammenkunft der japanischen Diplomaten in Europa.
+Found
+MODSMD_ARTICLE14: Neuer Gegenzug Kantons.
+Found

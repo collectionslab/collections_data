@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ter Präsident der Reichsfilmkammer in Warschau.
+Found
+MODSMD_ARTICLE02: Beginn des vierten Neichsbauerntages.
+Found
+MODSMD_ARTICLE03: Ehrenvolle Berufung.
+Found
+MODSMD_ARTICLE04: Ein Kranz Blombergs an der Gruft des Königs Konstantin.
+Found
+MODSMD_ARTICLE05: Der Geschiifsträger der Nationalregierung in Berlin.
+Found
+MODSMD_ARTICLE06: Avenol zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE07: „Evening Standard" über eine Beschießung Barcelonas.
+Found
+MODSMD_ARTICLE08: London und Wien zum Justizskandal von Nowosibirsk.
+Found
+MODSMD_ARTICLE09: Protest gegen die Verjndung der Wiener Theater.
+Found
+MODSMD_ARTICLE10: Reichsverweser Horthy nach Rom abgereist.
+Found
+MODSMD_ARTICLE11: Die deutsche Schriftleiterabordnung in Genua.
+Found
+MODSMD_ARTICLE12: Professor Zankoff besucht Deutschland.
+Found
+MODSMD_ARTICLE13: Kommunistische Geheimanweisungen in Polen.
+Found
+MODSMD_ARTICLE14: Der Hungerstreik der Wilnaer Studenten.
+Found
+MODSMD_ARTICLE15: Der verschwundene Pulver-Waggon.
+Found
+MODSMD_ARTICLE16: Spanische Nationalregierung gegen falsche Gerüchte.
+Found
+MODSMD_ARTICLE17: Britischer Konsul lehnt Vertretung anderer Staaten ab.
+Found
+MODSMD_ARTICLE18: Emir Abdullah will vermitteln.
+Found

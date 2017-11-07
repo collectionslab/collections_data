@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Vom 15. Dezember bis 15. Januar Versammlungsruhe.
+Found
+MODSMD_ARTICLE02: Gauamtsleitertagung des Rassenpolitischen Amtes.
+Found
+MODSMD_ARTICLE03: Der Stapellauf des Schlachtschiffes „Gneisenau".
+Found
+MODSMD_ARTICLE04: Königin Elena in Kassel.
+Found
+MODSMD_ARTICLE05: Rev. Dr. MacDonald bei Reichsminister Kerrl.
+Found
+MODSMD_ARTICLE06: Professur Zankofs über das neue Deutschland.
+Found
+MODSMD_ARTICLE07: Beisetzung des Generalarbeitsführers Albert Krause.
+Found
+MODSMD_ARTICLE08: Tanziger Kommunisten ließen sich von Trotzki beraten.
+Found
+MODSMD_ARTICLE09: Neue Zwangsmaßnahmen gegen deutsche Schulen in Polen.
+Found
+MODSMD_ARTICLE10: Deutsches Beileid anläßlich des Unglücks von Adana.
+Found
+MODSMD_ARTICLE11: Der Streik im nordfranzösischen Kohlenbecken beendet.
+Found
+MODSMD_ARTICLE12: Kommunistenbande in Bulgarien unschädlich gemacht.
+Found
+MODSMD_ARTICLE13: Mordprozest Frankfurter. Die Nachmittaqssitzung.
+Found
+MODSMD_ARTICLE14: Neble Stimmungsmache zum Mordprozeß frankfurter.
+Found
+MODSMD_ARTICLE15: 14 Tote bei dem Nugzeugunglnck in England.
+Found
+MODSMD_ARTICLE16: Admiral Crampton si
+Found

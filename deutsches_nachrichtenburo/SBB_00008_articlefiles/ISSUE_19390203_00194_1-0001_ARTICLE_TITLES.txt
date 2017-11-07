@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der deutsche Sozialismus baut seine Burgen.
+Found
+MODSMD_ARTICLE02: Einzug der neuen Reichspostdirektion in Troppau.
+Found
+MODSMD_ARTICLE03: Minister Prchala in Chust.
+Found
+MODSMD_ARTICLE04: Jüdischer Krieg!
+Found
+MODSMD_ARTICLE05: „Berardis Mission trägt einen absolut offiziösen Charakter.
+Found
+MODSMD_ARTICLE06: Roosevelt ist Moskaus Mann.
+Found
+MODSMD_ARTICLE07: Ein neues Opfer der Moskauer Arbeitsdekrete.
+Found
+MODSMD_ARTICLE08: Wieder eine Geheimbesprechung im Weißen Hans.
+Found
+MODSMD_ARTICLE09: Neue Sensation in USA.
+Found
+MODSMD_ARTICLE10: Finanzielle.Unterstützung Rotspaniens durch USA.
+Not Found
+MODSMD_ARTICLE11: Iran und Aegypten errichten Botschaften.
+Found

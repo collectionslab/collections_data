@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Deutsche Flugzeuge versenkten vier englische Schiffe.
+Found
+MODSMD_ARTICLE02: Der estnische WirtschaftsmWister in Berlin.
+Found
+MODSMD_ARTICLE03: „Schlagt Deutschland in Stücke." –
+Not Found
+MODSMD_ARTICLE04: Mit fremden Augen.
+Found
+MODSMD_ARTICLE05: Die Vorstöße der deutschen Luftwaffe gegen England.
+Found
+MODSMD_ARTICLE06: Norwegischer Dampfer gesunken.
+Found
+MODSMD_ARTICLE07: Die See nicht mehr das Monopol Englands.
+Found
+MODSMD_ARTICLE08: 34 Engländer im Luftkampf abgeschossen.
+Found
+MODSMD_ARTICLE09: Jugoslawien wünscht Freundschaft mit allen Nachbarn.
+Found
+MODSMD_ARTICLE10: Die zerschossene „Exeter".
+Found
+MODSMD_ARTICLE11: Alle Postsäcke von Engländern gestohlen.
+Found
+MODSMD_ARTICLE12: Chamberlain braucht Washingtons Einwilligung.
+Found

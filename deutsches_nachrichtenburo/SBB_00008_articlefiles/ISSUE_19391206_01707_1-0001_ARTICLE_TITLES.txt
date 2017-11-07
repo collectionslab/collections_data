@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer bei Generalfeldmarschall von Mackensen.
+Found
+MODSMD_ARTICLE02: Göring und von Ribbentrop beglückwünschen Mackensen.
+Found
+MODSMD_ARTICLE03: Generalfeldmarschall von Mackensen 99 Jahre.
+Found
+MODSMD_ARTICLE04: Telegramm des Führers und des Duce.
+Found
+MODSMD_ARTICLE05: Für Deutschlands Seegeltung gefallen.
+Found
+MODSMD_ARTICLE06: Indische Krokodilstränen. Sie haben es gerade nötig!
+Found
+MODSMD_ARTICLE07: „Lage zugunsten Deutschlands wesentlich verändert."
+Found
+MODSMD_ARTICLE08: „Austritt aus der Genfer Liga unwiderruflich."
+Found
+MODSMD_ARTICLE09: Dänische Neutralitätserklärung im finnischen Konflikt.
+Found
+MODSMD_ARTICLE10: „Finnland zu Verhandlungen bereit".
+Found
+MODSMD_ARTICLE11: Die Vertretung der finnischen Interessen durch Schweden.
+Found
+MODSMD_ARTICLE12: Der Dampfer „Donau" in Reval.
+Found
+MODSMD_ARTICLE13: „Wirtschaftseinheit Japan-Mandschukuo-China".
+Found

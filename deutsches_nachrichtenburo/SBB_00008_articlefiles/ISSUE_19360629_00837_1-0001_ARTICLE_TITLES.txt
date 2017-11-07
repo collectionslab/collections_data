@@ -1,0 +1,18 @@
+MODSMD_ARTICLE03: Die 339-Jahrfeier der Universität Heidelberg. Der Glückwunsch des Führers.
+Found
+MODSMD_ARTICLE04: Begrüßung der Ehrengäste.
+Found
+MODSMD_ARTICLE05: Heldengedenkfeier auf dem Ehrenfriedhof.
+Found
+MODSMD_ARTICLE07: Der Empfang der Reichsregierung.
+Found
+MODSMD_ARTICLE08: Die Ausstellung „Heidelberg Vermächtnis und Aufgabe."
+Found
+MODSMD_ARTICLE09: Staatssekretär General Valle in Döberitz und Gatow.
+Found
+MODSMD_ARTICLE10: Aufruf ehemaliger Frontkämpfer zugunsten der Trikolore.
+Found
+MODSMD_ARTICLE11: Auslaufen eines französischen Dampfers verhindert.
+Found
+MODSMD_ARTICLE12: Marxistische Defizitwirtschaft.
+Found

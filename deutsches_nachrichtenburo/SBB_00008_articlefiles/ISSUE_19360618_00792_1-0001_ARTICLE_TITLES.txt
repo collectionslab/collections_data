@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht den Reichsverweser von Horthy.
+Found
+MODSMD_ARTICLE02: Dr. Schacht bei Reichsverweser von Horthy.
+Found
+MODSMD_ARTICLE03: Die ungarische Presse zum Besuch Dr. Schachts.
+Found
+MODSMD_ARTICLE04: Landesgruppenleiter Reitzenstein aus Paraguay heimgekehrt.
+Found
+MODSMD_ARTICLE05: Die Tagung der internationalen Reisebüros in Berlin.
+Found
+MODSMD_ARTICLE06: Der Ueberfall auf Minderheitendeutsche in Rydultau.
+Found
+MODSMD_ARTICLE07: Eine weitere Labour-Anfrage im Unterhaus.
+Found
+MODSMD_ARTICLE08: Edeh bei Baldwin.
+Found
+MODSMD_ARTICLE09: Kabinettsrat in Paris.
+Found
+MODSMD_ARTICLE10: Von der Internationalen Arbeitskonferenz.
+Found
+MODSMD_ARTICLE11: Oefsentliches Konsistorium in der Peterskirche.
+Found
+MODSMD_ARTICLE12: Finnische Regierung gegen kriegerische Machenschaften.
+Found
+MODSMD_ARTICLE13: Vorgehen gegen die Madrider Anarchosyndikalisten.
+Found
+MODSMD_ARTICLE14: Beginn der Niederlegung der Altstadt Jaffas.
+Found
+MODSMD_ARTICLE15: Blutiger Zwischenfall in Kwangsi.
+Found
+MODSMD_ARTICLE16: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found

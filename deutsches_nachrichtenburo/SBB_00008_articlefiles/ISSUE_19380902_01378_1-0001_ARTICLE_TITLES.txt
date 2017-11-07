@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Empfang der japanischen Journalisten.
+Found
+MODSMD_ARTICLE02: Empfang der polnischen Frontkämpferdelegation in Berlin»
+Found
+MODSMD_ARTICLE03: Die Abordnung des bulgarischen Arbeitsdienstes in Görlitz.
+Found
+MODSMD_ARTICLE04: Vorbereitungen Zum Erntedankfest.
+Found
+MODSMD_ARTICLE05: Japanische Kommission besichtigt Jugendherbergen.
+Found
+MODSMD_ARTICLE06: Fahnenübergabe des Gaues Wien.
+Found
+MODSMD_ARTICLE07: 51l Juhre „Hamburger Anzeiger".
+Found
+MODSMD_ARTICLE08: Eine Erklärung des Tschecho-Slotm,tischen Preßbüros.
+Found
+MODSMD_ARTICLE09: Die Besprechung Bonnet—Welczeck.
+Not Found
+MODSMD_ARTICLE10: Vertreter der Industrie bei Daladier.
+Found
+MODSMD_ARTICLE11: Der tschechoslowakische Gesandte bei Bon netz
+Found
+MODSMD_ARTICLE12: Verkehrsstreik in Lille.
+Found
+MODSMD_ARTICLE13: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE14: Rotspanien braucht Waffen.
+Found
+MODSMD_ARTICLE15: Nationalspanische Luftaugriffe nur auf militärische Ziele.
+Found
+MODSMD_ARTICLE16: Neubildung des nationalspanischen Obersten Gerichtshofes.
+Found
+MODSMD_ARTICLE17: Verschärfung des Terrorregiments in Barcelona.
+Found
+MODSMD_ARTICLE18: Wiederausbau der Kathedrale von Huesca.
+Found
+MODSMD_ARTICLE19: Das nationalspaiiischc Winterhilfswerk in Vorbereitung.
+Found
+MODSMD_ARTICLE20: Der mexikanische Bnndeskongrest eröffnet.
+Found

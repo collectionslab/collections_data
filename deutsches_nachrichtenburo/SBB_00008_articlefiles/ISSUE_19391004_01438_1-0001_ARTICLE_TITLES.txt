@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Korvettenkapitän von Puttkämer Adjutant des Führers.
+Found
+MODSMD_ARTICLE02: Hindenburggedenkfeier in seiner befreiten Geburtsstadt.
+Found
+MODSMD_ARTICLE03: Graf Terautschi auf der Reise nach Italien.
+Found
+MODSMD_ARTICLE04: Gesandter Dr. h. c. Sahm gestorben.
+Found
+MODSMD_ARTICLE05: Moscicki läßt sich in der Schweiz nieder.
+Found
+MODSMD_ARTICLE06: Kontrolle des irischen Zahlungsverkehrs mit dem Ausland.
+Found
+MODSMD_ARTICLE07: Kunstschätze unter Dünensand.
+Found
+MODSMD_ARTICLE08: Belgische Blätter im Zeichen der Friedenssehnsucht.
+Found
+MODSMD_ARTICLE09: Stärkster Rückgang des Schiffsverkehrs in Antwerpen.
+Found
+MODSMD_ARTICLE10: Für die strikte Einhaltung der Neutralitätspolitik.
+Found
+MODSMD_ARTICLE11: Steigende britische Arbeitslosigkeit.
+Found
+MODSMD_ARTICLE12: Die englische Regierung am Scheideweg.
+Found
+MODSMD_ARTICLE13: England führt keinen Krieg gegen das auserwählte Volk.
+Found
+MODSMD_ARTICLE14: Kolonialministerium contra Lügenministerium.
+Found
+MODSMD_ARTICLE15: Keine ausländischen Arbeiter mehr in Luxemburg.
+Found
+MODSMD_ARTICLE16: Lettlands Austenminister zum zweiten Male bei Molotow.
+Found
+MODSMD_ARTICLE17: Aegyptens Politik defensiv.
+Found
+MODSMD_ARTICLE18: „Keine Ablenkung von der Palästinafrage."
+Found
+MODSMD_ARTICLE19: Japan blockiert den südchinesischen Hafen Kungaotau.
+Found
+MODSMD_ARTICLE20: Washingtoner Erklärung gegen „Schwarze Listen"-Politik.
+Found
+MODSMD_ARTICLE21: Bundessenat vertagt.
+Found

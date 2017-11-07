@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Schloß Bellevue wird Gästehaus für Staatsbesuche.
+Found
+MODSMD_ARTICLE02: Ernennungen im ReichserziehungDmmisterium.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Empfang für die italienischen Schulschiffe.
+Found
+MODSMD_ARTICLE05: Die 15 japanischen Journalisten in Deutschland.
+Found
+MODSMD_ARTICLE06: Fritz Opel f.
+Found
+MODSMD_ARTICLE07: Neuer deutscher Protestschritt in Prag.
+Found
+MODSMD_ARTICLE08: Mmisterbesprechung in London.
+Found
+MODSMD_ARTICLE09: Um die tschecho-flowakische Frage.
+Found
+MODSMD_ARTICLE10: Kommunistische Umtriebe in Litauen.
+Found
+MODSMD_ARTICLE11: GPU.Mord in Polen.
+Found
+MODSMD_ARTICLE12: Polen und die Genfer Liga.
+Found
+MODSMD_ARTICLE13: Ostpreußische Hitler-Jugend in Finnland zu. Gast.
+Found
+MODSMD_ARTICLE14: Ungarns Presse zum Teutschland Besuch Horthys.
+Found
+MODSMD_ARTICLE15: Stojadinowitsch Ende September in Sofia.
+Found

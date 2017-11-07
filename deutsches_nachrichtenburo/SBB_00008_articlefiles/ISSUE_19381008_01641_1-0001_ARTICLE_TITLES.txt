@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die Führerfahrt beendet.
+Found
+MODSMD_ARTICLE02: Vorfreude im festlichen Saarbrücken.
+Found
+MODSMD_ARTICLE03: Zahl der Nundfunkanlagen am 1. Oktober.
+Found
+MODSMD_ARTICLE04: Deutscher Dampfer rettet Dänen aus Seenot.
+Found
+MODSMD_ARTICLE05: Emigranten in der Schweiz unerwünscht.
+Found
+MODSMD_ARTICLE06: Die Beschlüsse des Faschistischen Rates.
+Found
+MODSMD_ARTICLE07: „Regime Fascista" gegen „Osservatore Romano".
+Found
+MODSMD_ARTICLE08: Londons Presse Zur Palästina Frage.
+Found
+MODSMD_ARTICLE09: Die Kennzahl der Großhandelspreise vom 5. Oktober und im Monatsdurchschnitt September.
+Found

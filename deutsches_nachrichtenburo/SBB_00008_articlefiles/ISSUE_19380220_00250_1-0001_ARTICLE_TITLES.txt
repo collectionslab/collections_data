@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm Dr. Fricks an Sven Hedin.
+Found
+MODSMD_ARTICLE02: SA. gewann den Wanderpreis des Führers.
+Found
+MODSMD_ARTICLE03: Deutsch-polmsche Wirtschaftsverhaudluugeu.
+Found
+MODSMD_ARTICLE04: Erster ordentlicher italienischer Ministerrat in diesem Jahre.
+Found
+MODSMD_ARTICLE05: „Besprechung Berlin—Wien geht die Westmächte nichts an."
+Not Found
+MODSMD_ARTICLE06: „Politischer Geisterspuk."
+Found
+MODSMD_ARTICLE07: Die erste jugoslawische Jagdausstellung.
+Found
+MODSMD_ARTICLE08: Sondersitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE09: „Journal des Debats" zum „Fall Budenko".
+Found
+MODSMD_ARTICLE10: Allindische Krise?
+Found

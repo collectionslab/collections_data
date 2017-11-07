@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Telegrammwechsel zwischen Franco und dem Führer.
+Found
+MODSMD_ARTICLE02: Die Besprechungen Staatssekretärs Dr. Schmidt in Berlin.
+Found
+MODSMD_ARTICLE03: Staatssekretär Schmidt bei Generaloberst Göring.
+Found
+MODSMD_ARTICLE04: Dr. Goebbels im Reichskriegsministerium.
+Found
+MODSMD_ARTICLE05: Danktelegramm an Reichsminister Ruft.
+Found
+MODSMD_ARTICLE06: Tagung der Reithsstelle zur Förderung des Schrifttums.
+Found
+MODSMD_ARTICLE07: Dr. Schacht in Teheran.
+Found
+MODSMD_ARTICLE08: Rundfahrt des LZ „Hindenburg" in Süd-Brasilien.
+Found
+MODSMD_ARTICLE09: Bisher 045 000 Ehestandsdarlehen ausgezahlt.
+Found
+MODSMD_ARTICLE10: Zunabme der fremden Kraftfahrzeuge in Deutschland.
+Found
+MODSMD_ARTICLE11: Der Gesundheitszustand des Senatspräsidenten Greiser.
+Found
+MODSMD_ARTICLE12: Marxistischer Zeitungsverleger verurteilt. X
+Found
+MODSMD_ARTICLE13: Marjan Chodacki diplomatischer Vertreter Polens in Danzig?
+Found
+MODSMD_ARTICLE14: Besorgnisse des „Temps" wegen Mittelmeerverhandlungen.
+Found
+MODSMD_ARTICLE15: Um das Ansehen Salengros.
+Found
+MODSMD_ARTICLE16: Genf zur Anerkennung der spanischen Nationalregierung.
+Found
+MODSMD_ARTICLE17: Türkischer Flottenbesuch in Malta.
+Found
+MODSMD_ARTICLE18: Australische Frontkämpfer fordern allgemeine Dienstpflicht.
+Found
+MODSMD_ARTICLE19: Schwere Explosion in einer chemischen Fabrik bei Meran.
+Found
+MODSMD_ARTICLE20: Noch 1299 Vermißte bei dem japanischen Dammbruch.
+Found

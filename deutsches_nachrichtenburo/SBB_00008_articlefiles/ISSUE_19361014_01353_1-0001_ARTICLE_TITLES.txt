@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Auflösungsbefehl an die Ostmärkischen Stnrmscharen.
+Found
+MODSMD_ARTICLE02: Tie Politik von Gömbös wird fortgeführt.
+Found
+MODSMD_ARTICLE03: Für die in der Sowjetunion gefangenen Frauen und Kinder.
+Found
+MODSMD_ARTICLE04: Selbsthilfe polnischer Bauern gegen jüdische Händler.
+Found
+MODSMD_ARTICLE05: Amtliche Mitteilung über Becks Pariser Besuch.
+Found
+MODSMD_ARTICLE06: Ergänzungsproiokoll zum Londoner Flottenvertrag.
+Found
+MODSMD_ARTICLE07: Faschistische Veranstaltungen in England verboten.
+Found
+MODSMD_ARTICLE08: Neuorganisation der Kolonialverteilung gefordert.
+Found
+MODSMD_ARTICLE09: Ter neue sowjetrussische Schritt in London.
+Found
+MODSMD_ARTICLE10: Freude iu Jerusalem.
+Found
+MODSMD_ARTICLE11: Verteuerung der Lebenshaltung in Frankreich.
+Found
+MODSMD_ARTICLE12: Hafenarbeiterstreik in Vayonne.
+Found
+MODSMD_ARTICLE13: Der belgische Botschafter bei Außenminister Delbos.
+Found
+MODSMD_ARTICLE14: Römische Presse gegen Londoner Blätter.
+Found
+MODSMD_ARTICLE15: Panikstimmung und Lebensmittelmangel in Madrid.
+Found
+MODSMD_ARTICLE16: Marxisteugreucl in der Provinz Cordoba.
+Found
+MODSMD_ARTICLE17: Amerikanische Auslegung der Erklärung Morgenthaus.
+Found

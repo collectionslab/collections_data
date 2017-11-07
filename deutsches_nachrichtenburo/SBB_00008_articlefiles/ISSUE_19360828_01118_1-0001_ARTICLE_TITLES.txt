@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer in Bayreuth.
+Found
+MODSMD_ARTICLE02: „Unterseebootsflottille Saltzwedel".
+Found
+MODSMD_ARTICLE03: Aenderung der Körperschaftssteuer.
+Found
+MODSMD_ARTICLE04: Abschiedsfeier für ibero-amerikanische Aerzte.
+Found
+MODSMD_ARTICLE05: Gebetsonntag für Spanien in Oesterreich.
+Found
+MODSMD_ARTICLE06: Transportarbeiterstreik im Hafen von Hull.
+Found
+MODSMD_ARTICLE07: Mittelmeerreise Sir Samuel Hoares.
+Found
+MODSMD_ARTICLE08: Im besten Sinne des Wortes „demokratisch".
+Found
+MODSMD_ARTICLE09: Ein Havas Dementi.
+Found
+MODSMD_ARTICLE10: Noch immer keine Entscheidung vor Jrun.
+Found
+MODSMD_ARTICLE11: Um die Ueberwachung der französisch-spanischen Grenze.
+Found
+MODSMD_ARTICLE12: Sowjetschiffe für Malaga?
+Found

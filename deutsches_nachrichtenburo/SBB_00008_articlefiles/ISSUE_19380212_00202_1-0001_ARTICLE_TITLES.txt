@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Beförderungen im Heer.
+Found
+MODSMD_ARTICLE02: Schirach vor den Trägern der Auslandsarbeit der HJ.
+Found
+MODSMD_ARTICLE03: Akademie für ärztliche Fortbildung eröffnet.
+Found
+MODSMD_ARTICLE04: Der angebliche Anschlag auf ein polnisches Motorschiff.
+Found
+MODSMD_ARTICLE05: Begnadigungen zum litauischen Unabhängigkeitstage.
+Found
+MODSMD_ARTICLE06: Schwere Krise der österreichischen Zündholzindustrie.
+Found
+MODSMD_ARTICLE07: Anreden „Du" und „Ihr" in der italienischen Jugend.
+Found
+MODSMD_ARTICLE08: „Das irrsinnige Gefasel berufsmäßiger Unruhestifter".
+Found
+MODSMD_ARTICLE09: Die neuen Eroberungen der nationalspanischen Truppen.
+Found
+MODSMD_ARTICLE10: Lebhaftes Echo des deutsch-französischen Skilagers.
+Found
+MODSMD_ARTICLE11: Vernünftige Stimmen in Frankreich gegen Gerüchtemacher.
+Found
+MODSMD_ARTICLE12: Anordnungen der neuen rumänischen Regierung.
+Found
+MODSMD_ARTICLE13: Die Unruhen in Indien.
+Found
+MODSMD_ARTICLE14: Roosevelt fordert Mittel für die Aufrüstung.
+Found
+MODSMD_ARTICLE15: Japans Antwortnoten an Washington, London und Paris.
+Found

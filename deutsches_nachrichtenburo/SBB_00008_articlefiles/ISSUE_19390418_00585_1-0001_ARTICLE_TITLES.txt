@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Prag feiert den Geburtstag des Führers.
+Found
+MODSMD_ARTICLE02: Tschechen rühmen die Haltung der deutschen Soldaten.
+Found
+MODSMD_ARTICLE03: Die neue albanische Regierung bei Mussolini.
+Found
+MODSMD_ARTICLE04: Staatssekretär Esser auf der Heimreise.
+Found
+MODSMD_ARTICLE05: Die Jtalienreise des polnischen Handelsministers beendet.
+Found
+MODSMD_ARTICLE06: Schwindelhafte Bevölkerungszahlen der Sowjets.
+Found
+MODSMD_ARTICLE07: Politiker beim englischen König.
+Found
+MODSMD_ARTICLE08: Lebensmittelkarten bereits gedruckt!
+Found
+MODSMD_ARTICLE09: Provokatorische Rechtsbrüche.
+Found
+MODSMD_ARTICLE10: „Irlands Ziel ist unerfüllbar."
+Found
+MODSMD_ARTICLE11: Die Antwort des Führers das Hauptthema der Presse.
+Found
+MODSMD_ARTICLE12: Holland zum amerikanischen Lärm.
+Found
+MODSMD_ARTICLE13: Norwegischer Rundfunk übernimmt schwere Aufgabe.
+Found
+MODSMD_ARTICLE14: Amtswaltertagung der Schleswigschen Partei in Apenrade.
+Found
+MODSMD_ARTICLE15: General Franco im zuletzt befreiten Gebiet.
+Found
+MODSMD_ARTICLE16: Sühne für den Tod des britischen Konsuls in Mossul.
+Found
+MODSMD_ARTICLE17: Noosevelt der Judenknecht.
+Found
+MODSMD_ARTICLE18: „Chamberlain hat sich den Juden unterworfen."
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Nacht-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Staatssekretär Reinhardt über die Betriebsprüfung.
+Found
+MODSMD_ARTICLE03: Lockerung der Zulassungssperre für Steuerberater.
+Found
+MODSMD_ARTICLE04: Reichsminister Ruft an Professor Sepsfert-Dresden.
+Found
+MODSMD_ARTICLE05: Hilfswerk für deutsche Kunst.
+Found
+MODSMD_ARTICLE06: Die Entwicklung der Motorisierung seit 1933.
+Found
+MODSMD_ARTICLE07: Henri Pichot würdigt das Frontkkmpfertreffen. Z
+Found
+MODSMD_ARTICLE08: Fluchtversuch republikanischer Gardisten.
+Found
+MODSMD_ARTICLE09: Ordschonikidse f. «
+Found
+MODSMD_ARTICLE10: Befürchtungen vor neuer Jrredenta im Drusen-Gebiet.
+Found
+MODSMD_ARTICLE11: Kolumbiens früherer Staatspräsident f.
+Found
+MODSMD_ARTICLE12: Amerikas Oberkommissar für die Philippinen.
+Found
+MODSMD_ARTICLE13: Explosion aus einem amerikanischen Schlachtschiff.
+Found
+MODSMD_ARTICLE14: Vertrauensvotum der Kuomintang für Tschiangkaischek.
+Found

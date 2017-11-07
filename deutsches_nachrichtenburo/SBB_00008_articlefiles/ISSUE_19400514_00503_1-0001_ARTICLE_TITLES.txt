@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die Besetzung der Provinz Groningen! abgeschlossen.
+Found
+MODSMD_ARTICLE02: In Nordnorwegen All) Gefangene gemacht.
+Found
+MODSMD_ARTICLE03: Südlich Saarbrücken KW Franzosen gefangen.
+Found
+MODSMD_ARTICLE04: Feindliche Panzer südwestlich St. Trond zurückgeschlagen.
+Found
+MODSMD_ARTICLE05: Das britische Luftfahrtministerium schwindelt.
+Found
+MODSMD_ARTICLE06: Die Welt im Banne des deutschen Vormarsches.
+Found
+MODSMD_ARTICLE07: Weitere 10 000 Tonnen am 12. Mai versenkt.
+Found
+MODSMD_ARTICLE08: Jugoslawien wünscht den Frieden!.
+Found
+MODSMD_ARTICLE09: Für verstärkte Aufrüstung der USA.
+Found

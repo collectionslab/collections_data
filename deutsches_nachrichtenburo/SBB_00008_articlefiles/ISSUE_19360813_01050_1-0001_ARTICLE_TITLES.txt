@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Glückwunschtelegramm Dr. Fricks an Admiral Behncke.
+Found
+MODSMD_ARTICLE03: Stiirtz kommissarischer Oberprädent.
+Found
+MODSMD_ARTICLE04: Aushebung der Reisesperre nach Österreich noch nicht wirksam«
+Found
+MODSMD_ARTICLE05: Feierstunde sudetendeutscher Turner in Berlin.
+Found
+MODSMD_ARTICLE06: „Leiter der Obersten Theaterbehörde in Bayern".
+Found
+MODSMD_ARTICLE07: Weitere Flüchtlinge aus Spanien in Sicherheit.
+Found
+MODSMD_ARTICLE08: 1512 Reichsdeutsche aus Madrid in Sicherheit.
+Found
+MODSMD_ARTICLE09: Präsident Azana nach Valencia geflüchtet?
+Found
+MODSMD_ARTICLE10: Nationalistische Artillerie beschießt San Sebastian.
+Found
+MODSMD_ARTICLE11: Der Ring um Madrid schließt sich enger.
+Found
+MODSMD_ARTICLE12: Nationalistische Zollwache nach Portugal geflüchtet.
+Found
+MODSMD_ARTICLE13: Skladkowski empfängt Senator Wiesner.
+Found
+MODSMD_ARTICLE14: Schuschuigg zum Ferienaufenthalt in Tirol.
+Found
+MODSMD_ARTICLE15: Die Frage der Eisenbahuelektrifizierung in Oesterreich.
+Found
+MODSMD_ARTICLE16: Die technische Vervollkommnung des belgischen Heeres.
+Found
+MODSMD_ARTICLE17: Kommumsteusturm auf eine Nexistenversammlung.
+Found
+MODSMD_ARTICLE18: Kraftwagenungliick in Mähren: 11 Tote.
+Found
+MODSMD_ARTICLE19: Abschluß der englisch-ägyptischen Verhandlungen.
+Found

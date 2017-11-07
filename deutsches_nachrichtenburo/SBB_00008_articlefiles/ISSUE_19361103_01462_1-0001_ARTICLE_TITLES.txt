@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Bohle an Mussolini.
+Found
+MODSMD_ARTICLE02: Staatssekretär Backe vor der Schwedisch-Deutschen Bereinigung.
+Not Found
+MODSMD_ARTICLE03: Kreuzer „Emden" in Istanbul.
+Found
+MODSMD_ARTICLE04: Weitere Pressestimmen zur Mussolini-Rede.
+Found
+MODSMD_ARTICLE05: Eden will Mussolini antworten.
+Found
+MODSMD_ARTICLE06: Sitzung des Nichteinmischuugs-Unterausschusses.
+Found
+MODSMD_ARTICLE07: Mandin für baldiges Ende der VolkssrontreglerunK.X
+Found
+MODSMD_ARTICLE08: Der Vormarsch auf Madrid schreitet fort.
+Found
+MODSMD_ARTICLE09: Sender Barcelona droht Blum.
+Found
+MODSMD_ARTICLE10: 2.M> ausländische Marxisten in Valencia eingetroffen.
+Found
+MODSMD_ARTICLE11: Kurzarbeit in der katalanischen Textilindustrie.
+Found
+MODSMD_ARTICLE12: Wieder spanisches Gold nach Frankreich verschoben.
+Found

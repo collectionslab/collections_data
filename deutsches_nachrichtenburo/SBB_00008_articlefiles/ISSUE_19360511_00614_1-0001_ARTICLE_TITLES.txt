@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Inbetriebnahme des frankfurter Lustschiffhafens.
+Found
+MODSMD_ARTICLE03: Bulgarische Auszeichnung für Ministerialrat Dr. Wilke.
+Found
+MODSMD_ARTICLE04: Besorgnis und Mißstimmung in Frankreich.
+Found
+MODSMD_ARTICLE05: Die englische Presse zur Proklamation Mussolinis.
+Found
+MODSMD_ARTICLE06: Die Ratssitzung in Genf.
+Found
+MODSMD_ARTICLE07: Kein Verzicht des Negus.
+Found
+MODSMD_ARTICLE08: Der Negns an den Völkerbund.
+Found
+MODSMD_ARTICLE09: Der ehemalige Gouverneur von Addis Abeba ermordet.
+Found
+MODSMD_ARTICLE10: Staatspräsident Azana vereidigt.
+Found
+MODSMD_ARTICLE11: Chinesischer Sonderbeauftragter für die Olympiade.
+Found
+MODSMD_ARTICLE12: Sühne für den Mord an Generalleutnant Nagata.
+Found

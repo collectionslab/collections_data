@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Auszeichnung deutscher Künstler durch den Führers
+Found
+MODSMD_ARTICLE02: Tagesbefehl an die SA.
+Found
+MODSMD_ARTICLE03: „Männer der Sturmabteilungen!
+Found
+MODSMD_ARTICLE04: „Wir feiern diesen Tag!
+Found
+MODSMD_ARTICLE05: Zeitungsverkauf am Sonnabend bis 21 Uhr.
+Found
+MODSMD_ARTICLE06: Gebietsleitertagung der Kapital- unm Kleinrentner.
+Found
+MODSMD_ARTICLE07: Großfeuer im Schloß Vogelsang.
+Found
+MODSMD_ARTICLE08: Schatzkanzler Chamberlain zur außenpolitischen Lage.
+Found
+MODSMD_ARTICLE09: Besuch des afghanischen Ministerpräsidenten in London.
+Found
+MODSMD_ARTICLE10: Frankreichs Flotte soll auf 859 999 t gebracht werden.
+Found
+MODSMD_ARTICLE11: Vier französische Avisos in Bau gegeben.
+Found
+MODSMD_ARTICLE12: Erfolge Francos auch in den Kolonien.
+Found
+MODSMD_ARTICLE13: Begegnung Spaaks mit del Vayo geplant.
+Found
+MODSMD_ARTICLE14: Massengeschwaderflug Kalifornien—Hawai.
+Not Found
+MODSMD_ARTICLE15: Besserung im amerikanischen Hochwassergebiet.
+Found
+MODSMD_ARTICLE16: General Hayaschi mit der Kabinettsbildung betraut.
+Found

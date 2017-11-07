@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Dr. Goebbels in Jägerndorf.
+Found
+MODSMD_ARTICLE02: Italienische Landarbeiter kehren heim.
+Found
+MODSMD_ARTICLE03: Nur geringe Streikausschreitungen in Frankreich.
+Found
+MODSMD_ARTICLE04: Daladier über den Mißerfolg des Generalstreiks.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: NMags-Ausgabe. !)eutftses Hachvichtenbüro
+Found
+MODSMD_ARTICLE02: General von Epp bei den Deutschen Stockholms.
+Found
+MODSMD_ARTICLE03: Ungarischer Studentenbund gegen das Judentum.
+Found
+MODSMD_ARTICLE04: Fiasko des jüdischen Streikversuchs in Warschau.
+Found
+MODSMD_ARTICLE05: „Daily Mail" warnt vor den Moskauer Intrigen.
+Found
+MODSMD_ARTICLE06: Auch Paris ist pessimistisch.
+Found
+MODSMD_ARTICLE07: Erfolgreiche Kämpfe an der Asturienfront.
+Found
+MODSMD_ARTICLE08: Die Valencia-Bolschewiken Ziehen um.
+Found
+MODSMD_ARTICLE09: Durchsuchungsrecht in spanischen Gewässern aufgeschoben.
+Found
+MODSMD_ARTICLE10: Interpellation wegen des Barmat-Skandals.
+Found
+MODSMD_ARTICLE11: Mobilisierung der wirtschaftlichen Kräfte Japans.
+Found
+MODSMD_ARTICLE12: Der Großmnfti als Privatperson in Beirut.
+Found
+MODSMD_ARTICLE13: Die „Befriednngsaktion" in Palästina.
+Found
+MODSMD_ARTICLE14: Ausnahmezustand in Jerusalem aufgehoben.
+Found
+MODSMD_ARTICLE15: Wahlniederlage der Roosevelt-Regierung in Arkansas.
+Found
+MODSMD_ARTICLE16: GrenzstreiL Nicaragua—Honduras.
+Found

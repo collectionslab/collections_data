@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Bohle eröffnet die IV. Neichstagung der Auslandsdeutschen.
+Found
+MODSMD_ARTICLE02: Sozialismus der Tat.
+Found
+MODSMD_ARTICLE03: Ministerpräsident Gömbös in München.
+Found
+MODSMD_ARTICLE04: Lloyd George in München.
+Found
+MODSMD_ARTICLE05: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE06: Die französischen Kommunisten fordern.
+Found
+MODSMD_ARTICLE07: Frankreich will weiter aufrüsten.
+Found
+MODSMD_ARTICLE08: Ausschreitungen französischer Reservisten.
+Found
+MODSMD_ARTICLE09: Nationalistisches Hauptquartier meldet neue Erfolge.
+Found
+MODSMD_ARTICLE10: 80 Spanien-Flüchtlinge in Lissabon.
+Found
+MODSMD_ARTICLE11: Ein Bekenntnis zum Morden.
+Found
+MODSMD_ARTICLE12: Wieder Rekrutierung für die spanische Fremdenlegion.
+Found
+MODSMD_ARTICLE13: Portugal stellt Bedingungen.
+Found
+MODSMD_ARTICLE14: Die Bauernunruhen in Sowjetrußland.
+Found
+MODSMD_ARTICLE15: Jüdischer Großbetrüger vor Gericht.
+Found

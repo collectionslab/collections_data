@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Sudetendeutsche Partei aufgelöst.
+Found
+MODSMD_ARTICLE02: Tie Sudetendeutschen sollen die Waffen abliefern.
+Found
+MODSMD_ARTICLE03: Generalstreik im nordböhmischen Revier.
+Found
+MODSMD_ARTICLE04: Kommnnistensührer in tschechischer Uniform.
+Found
+MODSMD_ARTICLE05: Dreiste Zwecklügen Prags schärfstens Zurückgewiesen.
+Found
+MODSMD_ARTICLE06: Auch die Slowaken sollen terrorisiert werden.
+Found
+MODSMD_ARTICLE07: Die englischen Straßenbauer in Stuttgart.
+Found
+MODSMD_ARTICLE08: Scharfer Protest Ungarns in Prag.
+Found
+MODSMD_ARTICLE09: Die Straßenbautagung München 1938.
+Found
+MODSMD_ARTICLE10: Bürckel eröffnet die Presseschau „Schwarz auf Weiß".
+Found
+MODSMD_ARTICLE11: Immer größeres Ausmaß der Kämpfe in Palästina.
+Found
+MODSMD_ARTICLE12: Eine sowjetrussische Grenzverletzung.
+Found
+MODSMD_ARTICLE13: Japanischer Erfolg in Südost—Honan.
+Not Found
+MODSMD_ARTICLE14: Wahlniederlage der südafrikanischen Regierungskoalition.
+Found

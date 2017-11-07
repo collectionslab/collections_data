@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Steigerung des deutsch-ungarischen Warenaustausches.
+Found
+MODSMD_ARTICLE02: Wilhelm Murr zehn Jahre Gauleiter in Württemberg.
+Found
+MODSMD_ARTICLE03: Ausstellung „Sachsen am Werk" in Dresden.
+Found
+MODSMD_ARTICLE04: Neichsbcamtenführer Neef bei Austenminister Ciano.
+Found
+MODSMD_ARTICLE05: Gustloff-GedenkfeiernTn Paris und Reval.
+Found
+MODSMD_ARTICLE06: Eröfsnungsabend der Polnisch-Deutschen Gesellschaft.
+Found
+MODSMD_ARTICLE08: Denschrift der deutschen Volksgruppen in Polen.
+Found
+MODSMD_ARTICLE09: Angarischer Studentenverband gegen die Judenpresse.
+Found
+MODSMD_ARTICLE10: Reichsverweser v. Horthy nach Warschau abgereist.
+Found
+MODSMD_ARTICLE11: Die Slowaken fordern ihr Recht.
+Found
+MODSMD_ARTICLE12: Rücktritt des belgischen Wirtschaftsministers.
+Found
+MODSMD_ARTICLE13: Chamberlain über Englands Rolle in der Welt.
+Found
+MODSMD_ARTICLE14: Zustimmende Antwort Italiens an England.
+Found
+MODSMD_ARTICLE15: Ter König von Schweden bei Lebrnn.
+Found
+MODSMD_ARTICLE16: Siegreicher Vormarsch der Nationalen.
+Found
+MODSMD_ARTICLE17: Großes Ausräumen in Asturien.
+Found
+MODSMD_ARTICLE18: Jugoslawische Anerkennung für die rumänische Regierung.
+Found
+MODSMD_ARTICLE19: Verhandlungen amerikanischer mit englischen Marinestellen.
+Found

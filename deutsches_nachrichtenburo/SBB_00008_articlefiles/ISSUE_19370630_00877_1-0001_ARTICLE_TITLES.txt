@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die erste Heimmütterschule des deutschen Frauenwerks.
+Found
+MODSMD_ARTICLE02: Die New Jorker Boxkommission bekennt Farbe.
+Found
+MODSMD_ARTICLE03: Zum erstenmal deutsche Reifeprüfung in Rom.
+Found
+MODSMD_ARTICLE04: Kritik an Englands Verkehrsluftfahrt.
+Found
+MODSMD_ARTICLE05: Polizei gegen sowjetspanische Kinderflüchtlinge.
+Found
+MODSMD_ARTICLE06: Der nationale Heeresbericht vom Dienstag.
+Found
+MODSMD_ARTICLE07: Neuer Fünfjahresplan der Gottlosigkeit in der Sowjetunion.
+Found
+MODSMD_ARTICLE08: Kommunistische Geheimdruckerei in Sofia ausgehoben.
+Found
+MODSMD_ARTICLE09: Die Besprechungen Roosevelts und van Zeelands.
+Found
+MODSMD_ARTICLE10: Industrielle dulden Werkspionage der Sowjets.
+Found
+MODSMD_ARTICLE11: Schlichtungsverhandlungen im Stahlstreik gescheitert.
+Found
+MODSMD_ARTICLE12: Rnschtü Aras in Teheran.
+Found
+MODSMD_ARTICLE13: Dr. Bauer und Bechtold in Lahore.
+Found

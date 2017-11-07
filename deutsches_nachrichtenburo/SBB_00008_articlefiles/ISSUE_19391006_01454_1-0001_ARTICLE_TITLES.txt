@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Die Welt hörte den Führer.
+Found
+MODSMD_ARTICLE02: Sicherung des Friedens in Osteuropa.
+Found
+MODSMD_ARTICLE03: Vorrücken zur Jnteressengrenze.
+Found
+MODSMD_ARTICLE04: England knebelt die Wirtschaft der Neutralen.
+Found
+MODSMD_ARTICLE05: Herabsetzung der Rationierungssätze in Norwegen.
+Found
+MODSMD_ARTICLE06: Englands Blockade erdrosselt die damische Nordseefischerei.
+Found

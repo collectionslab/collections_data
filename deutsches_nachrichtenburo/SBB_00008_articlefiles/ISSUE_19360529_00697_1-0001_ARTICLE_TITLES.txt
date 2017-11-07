@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ein Vortrag des Generalleutnants Daluege in Belgrad.
+Found
+MODSMD_ARTICLE02: Präsident des Reichsfremden-Verkehrsverbandes in Paris.
+Found
+MODSMD_ARTICLE03: Beck auf der Heimreise.
+Found
+MODSMD_ARTICLE04: Staatspräsident Moscicki erhielt das Ehrendoktordiplom.
+Found
+MODSMD_ARTICLE05: Grandi bei Eden.
+Found
+MODSMD_ARTICLE06: „Daily Telegraph" über Italiens außenpolitische Haltung.
+Found
+MODSMD_ARTICLE07: Nachtragshaushalt für die britische Flotte angenommen.
+Found
+MODSMD_ARTICLE08: Besprechung Flandin-Paul Boncour.
+Found
+MODSMD_ARTICLE09: 59 699 französische Arbeiter streiken.
+Found
+MODSMD_ARTICLE10: Leon Blum berät über den Streik.
+Found
+MODSMD_ARTICLE11: Berufungsinstanz erhöht Urteil gegen Ordensgeistlichen.
+Found

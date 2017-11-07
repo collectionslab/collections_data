@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Deutsch-jugoslawische Verlautbarung.
+Found
+MODSMD_ARTICLE02: Stojadinowitsch besucht die Wehrmacht.
+Found
+MODSMD_ARTICLE03: Von Generaloberst Görina eingeladen.
+Found
+MODSMD_ARTICLE04: Wilhelm Mehner bei Ruft.
+Found
+MODSMD_ARTICLE05: Henri Pichot: „Lernt Deutschland kennen!"
+Found
+MODSMD_ARTICLE06: Auch Blum gibt auf.
+Found
+MODSMD_ARTICLE07: Chautemps will jetzt die Regierung bilden.
+Found
+MODSMD_ARTICLE08: Die Lieferung der 52 Potez-Flugzeuge an Sowfetspanien.
+Found
+MODSMD_ARTICLE09: Ein neuer jüdischer Dreh!
+Found
+MODSMD_ARTICLE10: „Das indische Problem noch lange nicht gelöst."
+Found
+MODSMD_ARTICLE11: Kalinin soll Präsidiumsvorsitzender werden.
+Found
+MODSMD_ARTICLE12: Peking Regierung übernimmt Zollverwaltung von Tsingtau.
+Found
+MODSMD_ARTICLE14: Die Disziplinlosigkeiten auf amerikanischen Schiffen.
+Found
+MODSMD_ARTICLE15: Hoover warnt Amerika vor Einmischung.
+Found

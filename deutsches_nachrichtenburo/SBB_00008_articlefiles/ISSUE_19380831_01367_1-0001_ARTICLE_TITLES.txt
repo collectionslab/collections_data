@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Königin Wilhelmina.
+Found
+MODSMD_ARTICLE02: Appell an alle deutschen Betriebsgemeinschaften.
+Found
+MODSMD_ARTICLE03: Dr. Ley verleiht die ersten KdF.-Ehrenschilder.
+Found
+MODSMD_ARTICLE04: Die japanischen Journalisten in Hamburg.
+Found
+MODSMD_ARTICLE05: Der zweite Teil des Olympiasilms in Venedig.
+Found
+MODSMD_ARTICLE06: Iraks Außenminister über die autoritäre Staatsform.
+Found
+MODSMD_ARTICLE07: Der nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE08: Rotspanien bettelt um Lebensmittel.
+Found
+MODSMD_ARTICLE09: Das nationalspanische Aufbauwerk.
+Found
+MODSMD_ARTICLE10: Spanienreise italienischer Studenten.
+Found
+MODSMD_ARTICLE11: Madrider Kinder nach Afrika verschleppt.
+Found
+MODSMD_ARTICLE12: Neue Verhaftungswelle in der Provinz Valencia.
+Found
+MODSMD_ARTICLE13: Eine Mahnung des Sprechers der japanischen Armee.
+Found
+MODSMD_ARTICLE14: Admiral Leicht, fordert weitere MV Millionen Dollar.
+Found

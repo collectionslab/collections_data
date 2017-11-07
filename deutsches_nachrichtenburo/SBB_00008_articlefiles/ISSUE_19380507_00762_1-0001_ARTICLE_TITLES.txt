@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Tie Manöver in Rom verschoben. Besichtigungen des Führers in der Ewigen Stadt.
+Found
+MODSMD_ARTICLE02: Empfang zu Ehren von Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Der Eindruck der großen Parade.
+Found
+MODSMD_ARTICLE04: Großer Erfolg der Neichsanleihe.
+Found
+MODSMD_ARTICLE05: Jahresversammlung des Deutschen Museums.
+Found
+MODSMD_ARTICLE06: Die dritte Reichsarbeitstagung der NSKOV.
+Found
+MODSMD_ARTICLE07: Ehrung für Einsatzbereitschaft aus See.
+Found
+MODSMD_ARTICLE08: Scheel übernimmt die Friedrichsruher Bismarck-Säule.
+Found
+MODSMD_ARTICLE09: Die italienischen Verluste in Spanien.
+Found
+MODSMD_ARTICLE10: Um Hollands Nahrungsmittelversorgung im Kriegsfall.
+Found

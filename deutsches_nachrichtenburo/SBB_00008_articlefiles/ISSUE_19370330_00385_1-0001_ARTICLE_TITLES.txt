@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers an Prinz Paul und Mussolini.
+Found
+MODSMD_ARTICLE02: Jlitsch über seine Unterredung mit dem Führer.
+Found
+MODSMD_ARTICLE03: Roosevelt dankt dem Führer.
+Found
+MODSMD_ARTICLE04: Der Neubegrüuder der deutsch-ungarischen Freundschaft.
+Found
+MODSMD_ARTICLE05: Danziger Zentrumsblatt verboten.
+Found
+MODSMD_ARTICLE06: Emtopsessen deutscher Volksgenossen in Argentinien.
+Found
+MODSMD_ARTICLE07: Das italienisch-jugoslawische Abkommen ratifiziert.
+Found
+MODSMD_ARTICLE08: Auswirkungen der italienisch-jugoslawischen Verständigung?
+Found
+MODSMD_ARTICLE09: „Das Belgrader Abkommen beispielhaft".
+Found
+MODSMD_ARTICLE10: Gras Clans wieder in Rom.
+Found
+MODSMD_ARTICLE11: Schuschn iggs, neue Jtalienreise.
+Found
+MODSMD_ARTICLE12: Ausbau des österreichischen Ständestaates.
+Found
+MODSMD_ARTICLE13: Konferenz der Kleinen Entente Anfang, April. / ,
+Found
+MODSMD_ARTICLE14: Tatarescu berichtet König Karol.
+Found
+MODSMD_ARTICLE15: Die EntPolitisierung der rumänischen Studenten.
+Found
+MODSMD_ARTICLE16: Protest gegen Blums Maßnahmen.
+Found
+MODSMD_ARTICLE17: Französisch-schweizerisches Wirtschaftsabkommen.
+Found
+MODSMD_ARTICLE18: In Barcelona kriselt es.
+Found
+MODSMD_ARTICLE19: Bolschewistischer Dampfer aufgebracht.
+Found
+MODSMD_ARTICLE20: Rüstungsauftrag an USA.
+Found
+MODSMD_ARTICLE21: König Faruk von Aegypten in Genf.
+Found

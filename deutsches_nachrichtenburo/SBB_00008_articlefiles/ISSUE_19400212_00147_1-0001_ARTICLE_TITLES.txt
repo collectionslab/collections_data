@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ausdehnung des Aufruhrs in Nordindien.
+Found
+MODSMD_ARTICLE02: Italiens Politik gegenüber den Eingeborenen.
+Found
+MODSMD_ARTICLE03: Sitzung des Obersten Verteidigungsausschusses in Rom.
+Found
+MODSMD_ARTICLE04: Das irische Volk demonstriert gegen seine Unterdrücker.
+Found
+MODSMD_ARTICLE05: Eine neue Warnung für die Neutralen.
+Found
+MODSMD_ARTICLE06: Zwei englische Frachter zusammengestoßen.
+Found
+MODSMD_ARTICLE07: Augur macht in Kriegsausweitung.
+Found
+MODSMD_ARTICLE08: Bildung eines Staatsrats in Spanien.
+Found
+MODSMD_ARTICLE09: Erklärung eines Stockholmer Gerichts.
+Found
+MODSMD_ARTICLE10: Ansprache des lettischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE11: Gründung einer bulgarisch-jugoslawischen Handelskammer.
+Found
+MODSMD_ARTICLE12: Der Reichsgründungstag in Japan.
+Found
+MODSMD_ARTICLE13: „Kein Soldat hat uns belästigt".
+Found
+MODSMD_ARTICLE14: Amerika und der europäische Krieg.
+Found
+MODSMD_ARTICLE15: Holländischer Dampfer gesunken.
+Found
+MODSMD_ARTICLE16: Europareise des Unterstaatssekretärs Weltes.
+Found

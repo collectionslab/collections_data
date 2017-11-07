@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Keine Bewerbungen an Ministerpräsident Göring.
+Found
+MODSMD_ARTICLE02: Staatssekretär Dr. Schlegelberger Kl) Jahre alt.
+Found
+MODSMD_ARTICLE03: Ausschußtagungen der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE04: Der italienische Justizinimster in München.
+Found
+MODSMD_ARTICLE05: Dcr Bischof von Passau Treueid.
+Found
+MODSMD_ARTICLE06: Deutsche Studenten gegen jüdischen Hochschullehrer.
+Found
+MODSMD_ARTICLE07: Der Besuch der deutschen Frontkämpfer in England.
+Found
+MODSMD_ARTICLE08: Himmler nach Deutschland zurückgereist.
+Found
+MODSMD_ARTICLE09: Falsche Auffassungen über die italienische Politik.
+Found
+MODSMD_ARTICLE10: Der Internationale Ueberwachungsausschuß einberufen.
+Found
+MODSMD_ARTICLE11: Gefährliches Spiel der englischen Opposition.
+Found
+MODSMD_ARTICLE12: Die Rex-Bewegung trotzt der Regierung.
+Found
+MODSMD_ARTICLE13: Das belgische Kabinett bespricht die Lage.
+Found
+MODSMD_ARTICLE14: Belgische Regierung verbietet Rexistenaufmarsch.
+Found
+MODSMD_ARTICLE15: Streik in der Pariser Elektro-Jndustrie.
+Found
+MODSMD_ARTICLE16: Frankreich wird siegreiche Nationalregierung anerkennen.
+Found
+MODSMD_ARTICLE17: Verhandlungen zwischen Paris und Burgos.
+Found
+MODSMD_ARTICLE18: Der Besuch Tatarescus in Belgrad.
+Found
+MODSMD_ARTICLE19: Zwischenfälle im Irak.
+Found
+MODSMD_ARTICLE20: Ter Kaiser von Japan bei den Flottenmanövern.
+Found

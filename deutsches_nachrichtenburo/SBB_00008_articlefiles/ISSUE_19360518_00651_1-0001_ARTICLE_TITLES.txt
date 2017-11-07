@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Trauer um Julius Schreck.
+Found
+MODSMD_ARTICLE02: HI-Dienststellen und Jugendherbergen flaggen halbmast.
+Found
+MODSMD_ARTICLE03: Der Kriegsmimster von Afghanistan bei der Lufthansa.
+Found
+MODSMD_ARTICLE04: Die Gesellschaft „Reichsautobahnen" im Jahr 1935.
+Found
+MODSMD_ARTICLE05: Eröffnung weiterer Autobahnstrecken.
+Found
+MODSMD_ARTICLE06: Weitere Borträge aus dem Deutschen Juristentag.
+Found
+MODSMD_ARTICLE07: Beileid der Reichsregierung zum Tode von Tsaldaris.
+Found
+MODSMD_ARTICLE08: Die Entwaffnung Abessiniens.
+Found
+MODSMD_ARTICLE09: 166 Millionen Lire für Arbeiten in Abessinien.
+Found
+MODSMD_ARTICLE10: Diskontsenkung in Italien.
+Found
+MODSMD_ARTICLE11: Höchste Kolonialauszeichnung für Graf Ciano.
+Found
+MODSMD_ARTICLE12: Das Konsistorium auf den 15. Juni einberufen.
+Found
+MODSMD_ARTICLE13: Königsmörder Pawelitsch aus der Hast entlasten.
+Found
+MODSMD_ARTICLE14: Die Forderungen der französischen Gewerkschaften.
+Found
+MODSMD_ARTICLE15: Das chinesische Außenamt zu Japans Zollkontrolle.
+Found

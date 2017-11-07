@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Dr. Goebbels eröffnet die Ausstellung „Der ewige Jude".
+Found
+MODSMD_ARTICLE02: Der Reichsjugendführer im Deutschen Reichsbauernrat.
+Found
+MODSMD_ARTICLE03: Verbot der Neubildung von Parteien in Danzig.
+Found
+MODSMD_ARTICLE04: Bildung einer Staatsjugend in Danzig.
+Found
+MODSMD_ARTICLE05: Der nationalspanische Heeresbericht vom Sonntag.
+Found
+MODSMD_ARTICLE06: Queipo de Llano widerlegt die Märchen über Mallorca.
+Found
+MODSMD_ARTICLE07: Tagung des sozialdemokratischen Landesrates.
+Found

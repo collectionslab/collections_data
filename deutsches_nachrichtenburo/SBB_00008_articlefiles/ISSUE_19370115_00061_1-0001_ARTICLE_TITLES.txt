@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Das Ergebnis der dritten Reichsstraßensammlung.
+Found
+MODSMD_ARTICLE02: Die Erfassung der Alt- und Abfallstofse.
+Found
+MODSMD_ARTICLE04: Göring bei Mussolini.
+Found
+MODSMD_ARTICLE05: Ward Price für ein allgemeines Gentlemen-Agreement.
+Found
+MODSMD_ARTICLE06: Ministerpräsident Metaxas vor der Athener Handelskammer.
+Found
+MODSMD_ARTICLE07: Die „Action wehrt sich.
+Found
+MODSMD_ARTICLE08: Schwerste Verluste der Roten am Menschen und Material.
+Found
+MODSMD_ARTICLE09: Verschärfung der Lebensmittelknappheit in Barcelona.
+Found
+MODSMD_ARTICLE10: Schweres Eisenbahnunglück in Ostoberschlesien.
+Found

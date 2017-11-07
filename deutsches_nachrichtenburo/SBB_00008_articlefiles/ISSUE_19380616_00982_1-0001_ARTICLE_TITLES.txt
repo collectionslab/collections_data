@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers an den König von Schweden.
+Found
+MODSMD_ARTICLE02: Eine Feierstunde in Dessau.
+Found
+MODSMD_ARTICLE03: Die Sitzung des Auswärtigen Senatsausschusses in Paris.
+Found
+MODSMD_ARTICLE04: Ein Lagebericht Daladiers vor seinen Parteifreunden.
+Found
+MODSMD_ARTICLE05: Frankreich arbeitet an seiner Luftausrüstung.
+Found
+MODSMD_ARTICLE06: Der Senat warnt vor neuem Anwachsen der Staatsausgaben.
+Found
+MODSMD_ARTICLE07: l 54 Milliarden Franken für Sowjetspanien?
+Found
+MODSMD_ARTICLE08: Die bolschewistische „43. Division" aufgerieben.
+Found
+MODSMD_ARTICLE09: Au allen Fronten weiter vorwärts.
+Found
+MODSMD_ARTICLE10: Endlich geben die Roten den Fall Caftellons zu.
+Found
+MODSMD_ARTICLE11: Das Blutregiment der Bolschewisten in Castellon.
+Found
+MODSMD_ARTICLE12: Die englische Handelsflotte im Kriegsfall.
+Found
+MODSMD_ARTICLE13: Verstärkung auch der englischen Luftabwehr.
+Found
+MODSMD_ARTICLE14: Kommunisten überfallen Mosley-Versammlung.
+Found
+MODSMD_ARTICLE15: Besetzung des Sandschak durch die Türken.
+Found
+MODSMD_ARTICLE16: Das Abgeordnetenhaus gegen Roosevelt.
+Found

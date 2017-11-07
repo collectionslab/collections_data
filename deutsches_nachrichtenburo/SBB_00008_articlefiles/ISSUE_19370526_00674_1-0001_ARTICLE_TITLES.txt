@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Empfang in der argentinischen Botschaft in Berlin.
+Found
+MODSMD_ARTICLE02: Die kanadischen Frontkämpfer auf den olympischen Stätten.
+Found
+MODSMD_ARTICLE03: Abschluß der Grenzmark-Besichtigungsfahrt Dr. Fricks.
+Found
+MODSMD_ARTICLE04: General der Flieger Milch in Brüssel eingetroffen.
+Found
+MODSMD_ARTICLE05: PrmZregent Paul von Jugoslawien in Paris.
+Found
+MODSMD_ARTICLE06: Nun demonstrieren schon die Kranken.
+Found
+MODSMD_ARTICLE07: Streik in der französischen Landwirtschaft.
+Found
+MODSMD_ARTICLE08: Der Negus hält seine Anwesenheit in Genf für Zwecklos.
+Found
+MODSMD_ARTICLE09: Italiens Finanzpolitik.
+Found
+MODSMD_ARTICLE10: Blamierte Hetzer.
+Found
+MODSMD_ARTICLE11: „Der Jude Feind jeder Volksgemeinschaft".
+Found
+MODSMD_ARTICLE13: Polizei gegen Greuelberichterstatter.
+Found
+MODSMD_ARTICLE14: Keine österreichischen Konsulargerichte in Aethiopien.
+Found
+MODSMD_ARTICLE15: Kronprinz Michael auf der Rückreise ans Warschau.
+Found
+MODSMD_ARTICLE16: König Peter beim Patronatsfest der Gardekavalterie.
+Found
+MODSMD_ARTICLE17: Der nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE18: Der Rebell Etem Toto getötet.
+Found

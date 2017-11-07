@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Führer in Kiel.
+Found
+MODSMD_ARTICLE02: Eintreffen der Ehrengäste.
+Found
+MODSMD_ARTICLE03: Festillumination des Kieler Hafens.
+Found
+MODSMD_ARTICLE04: Duv kmnutsige Ergeöuis im 100°Äilometer-Strasteureuueu.
+Found
+MODSMD_ARTICLE05: Die Goldmedaille in der Olympiajollen-Klasse.
+Found
+MODSMD_ARTICLE06: Rekordbesuch auf der Deutschland-Ausstellung.
+Found
+MODSMD_ARTICLE07: Dr. Goebbels: Olympia ein Wahrheitsbeweis.
+Found
+MODSMD_ARTICLE08: Luftschiff „Hindenburg" im Dienst der Olympischeu Spiele.
+Found
+MODSMD_ARTICLE09: Ein Holländer über seine Eindrücke in Deutschland.
+Found

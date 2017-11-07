@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Personalveränderungen in der Kriegsmarine.
+Found
+MODSMD_ARTICLE02: Klerikales Kesseltreiben gegen einen aufrechten Priester.
+Found
+MODSMD_ARTICLE03: Jtalieuscher Dampfer bombardiert.
+Found
+MODSMD_ARTICLE04: General Beck bei General Gamelin.
+Found
+MODSMD_ARTICLE05: Empfang beim deutschen Botschafter in Paris.
+Found
+MODSMD_ARTICLE06: Präsident Lebrun gab dem ägyptischen König ein Essen.
+Found
+MODSMD_ARTICLE07: Wieder Eisenbahnverkehr Paris—Lissabon.
+Not Found
+MODSMD_ARTICLE08: Die Küstenkolonne der nationalen Truppen vor Bilbao.
+Found

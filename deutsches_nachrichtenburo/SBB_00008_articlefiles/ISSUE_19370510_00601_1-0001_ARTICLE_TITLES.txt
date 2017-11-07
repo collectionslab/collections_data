@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der polnische Justizminister in Berlin.
+Found
+MODSMD_ARTICLE02: Die Danziger Jugend jubelt Dr. Goebbels zu.
+Found
+MODSMD_ARTICLE03: Der Morast der Alexianer-Genossenschaft.
+Found
+MODSMD_ARTICLE04: Tie Reitermaunschaften beim französischen Kriegsminister.
+Found
+MODSMD_ARTICLE05: Glanzvolle Jahresfeier des italienischen Imperiums.
+Found
+MODSMD_ARTICLE06: Das griechische Volk zur Maifeier vereint.
+Found

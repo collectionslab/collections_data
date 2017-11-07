@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Führer grüßt die Auslandsdeutschen.
+Found
+MODSMD_ARTICLE02: 15 Vertreter der japanischen Presse in Deutschland.
+Found
+MODSMD_ARTICLE03: Die Leipziger Herbstmesse eröffnet.
+Found
+MODSMD_ARTICLE04: Hermann Göring-Siedlung in Pirna eingeweiht.
+Found
+MODSMD_ARTICLE05: Die Botschaft Hlinkas an die amerikanischen Slowaken.
+Found
+MODSMD_ARTICLE06: Die Antwort der ungarischen Volksgruppe.
+Found
+MODSMD_ARTICLE07: Henlein soll unter Druck gesetzt werden.
+Found
+MODSMD_ARTICLE08: Belgien Zur Simon-Rede»
+Found
+MODSMD_ARTICLE09: Außerordentliche Verluste der Roten.
+Found
+MODSMD_ARTICLE10: General Franco zur Nichteinmischung in Spanien.
+Found
+MODSMD_ARTICLE11: Araberverhaftungen in Nablus und Haifa.
+Found
+MODSMD_ARTICLE12: Stapellauf eines amerikanischen Ist 900 t-Kreuzers.
+Found

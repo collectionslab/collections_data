@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Großer deutscher Sieg beim Oafenslugwettbewerb.
+Found
+MODSMD_ARTICLE02: „Tribuna" zu den Erklärungen des Führers an die Schweiz.
+Found
+MODSMD_ARTICLE03: Warschauer Rechtsanwälte gegen jüdische Referendare.
+Found
+MODSMD_ARTICLE04: Labour Party bei Hose im Frack.
+Found
+MODSMD_ARTICLE05: Aeltester Sohn Haile Selassies bei Krönungsseier.
+Found
+MODSMD_ARTICLE06: Schlechte Rekrutierungsergebnisse in England.
+Found
+MODSMD_ARTICLE07: Konservative Niederlage bei einer Nachwahl in Oxford.
+Found
+MODSMD_ARTICLE08: Todesstrafe für Beteiligung an den Unruhen in Palästina.
+Found
+MODSMD_ARTICLE09: Der polnische Botschafter bei Delbos.
+Found
+MODSMD_ARTICLE10: Ausschreitungen beim Bäckerstreik in St. Nazaire.
+Found
+MODSMD_ARTICLE11: Bolschewisten-Angrisfe an allen Fronten zurückgeschlagen.
+Found
+MODSMD_ARTICLE12: Kriegsgerät an der französischen Grenze beschlagnahmt.
+Found
+MODSMD_ARTICLE13: Bolschewistische Blutjustiz in Bilbao.
+Found
+MODSMD_ARTICLE14: Gerechte Strafe für Landesverräter in Bulgarien.
+Found
+MODSMD_ARTICLE15: Der Präsident der Philippinen weilt in Washington.
+Found
+MODSMD_ARTICLE16: Die Verhandlungen Amerika—Philippinen.
+Not Found
+MODSMD_ARTICLE17: Tränengasbomben in New Norker Lichtspielhäusern.
+Found
+MODSMD_ARTICLE18: Nationalistische Mehrheit bei indischen Probinzwahlen.
+Found
+MODSMD_ARTICLE19: Schwerer Sturm im Schwarzen Meer.
+Found

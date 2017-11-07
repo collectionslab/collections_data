@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Oberst Lindbergh auf der Deutschlandschau.
+Found
+MODSMD_ARTICLE02: Die Professoren der Lufttechnischen Akademie verpflichtet.
+Found
+MODSMD_ARTICLE03: Dr. Hans Kroll zum Botschaftsrat ernannt.
+Found
+MODSMD_ARTICLE04: Abschied von den Tanzwettspielen.
+Found
+MODSMD_ARTICLE05: Der brasilianische Schulschiffbesuch in Hamburg.
+Found
+MODSMD_ARTICLE06: Wichtig für den Weinbau.
+Found
+MODSMD_ARTICLE07: Außenpolitische Aussprache in der französischen Kammer.
+Found
+MODSMD_ARTICLE08: Der stellvertretende Arbeitsminister von Neuseeland f.
+Found
+MODSMD_ARTICLE09: Neue Regierung „auf sehr breiter Grundlage" in Katalonien
+Found
+MODSMD_ARTICLE10: Luftkampf bei Granada.
+Found
+MODSMD_ARTICLE11: „Tötet Eure Offiziere!"
+Found
+MODSMD_ARTICLE12: Die englisch-sowjetrussischen Flottenbesprechungen.
+Found

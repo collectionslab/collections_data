@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Neujahrsaufruf des Neichsbeamtenführers.
+Found
+MODSMD_ARTICLE02: Zentralbank der deutschen Sparkassen von Prag aufgelöst.
+Found
+MODSMD_ARTICLE03: Sieben Kommunisten in Warschau verhaftet.
+Found
+MODSMD_ARTICLE04: Stapellauf eines italienischen U-Bootes.
+Found
+MODSMD_ARTICLE05: Der Portugiesische Staatshaushalt.
+Found
+MODSMD_ARTICLE06: Uebersiedlung Abb el Krims nach Frankreich?
+Found
+MODSMD_ARTICLE07: Haushaltsvoranschlag für 1937 verabschiedet.
+Found
+MODSMD_ARTICLE08: Nüschtü Aras vom griechischen König empfangen.
+Found
+MODSMD_ARTICLE09: Britisches Konsulat bleibt vorläufig in Madrid.
+Found
+MODSMD_ARTICLE10: „Ein dreistes und schamloses Manöver".
+Found
+MODSMD_ARTICLE11: General Queipo de Llano über die Lage.
+Found
+MODSMD_ARTICLE12: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE13: Erbitterung bei der „Internationalen Brigade".
+Found
+MODSMD_ARTICLE14: Streik in Detroit.
+Found
+MODSMD_ARTICLE15: Steuersteckbrief und Vermögensbeschlagnahme.
+Found

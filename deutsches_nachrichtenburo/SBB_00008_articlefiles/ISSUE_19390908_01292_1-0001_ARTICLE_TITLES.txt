@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Mszczonow erreicht.
+Found
+MODSMD_ARTICLE02: Auftrag für Staatssekretär Dr. Stuckart.
+Found
+MODSMD_ARTICLE03: Zum Ministerialdirigenten ernannt.
+Found
+MODSMD_ARTICLE04: Schutz gegen Bolksschädlinge.
+Found
+MODSMD_ARTICLE05: Verschärfung der Reichsmeldeordnung.
+Found
+MODSMD_ARTICLE06: „Propaganda" nach Londoner Methoden.
+Found
+MODSMD_ARTICLE07: Die polnische Regierung ohne Autorität.
+Found
+MODSMD_ARTICLE08: Vogel-Strauß-Methoden polnischer Machthaber.
+Found
+MODSMD_ARTICLE09: „Regime Fascista" durchschaut britische Greuelpropaganda.
+Found
+MODSMD_ARTICLE10: Neue englische Neutralitätsverletzung.
+Found
+MODSMD_ARTICLE11: Vorbedachter Bombenangriff auf Esbjerg.
+Found
+MODSMD_ARTICLE12: Der deutsche Vormarsch beherrscht die ungarische Presse.
+Found
+MODSMD_ARTICLE13: Die kanadische Regierung sucht Vollmachten nach.
+Found
+MODSMD_ARTICLE14: Die englischen und französischen Streitkräfte in China.
+Found

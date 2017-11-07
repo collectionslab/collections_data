@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Reichsbahudirektor Osthoff Ministerialdirektor.
+Found
+MODSMD_ARTICLE02: Reichserziehungsminister Ruft gratuliert Rudolf Bmdwg.
+Found
+MODSMD_ARTICLE03: Die großen Reichswettkämpfe der SA.
+Found
+MODSMD_ARTICLE04: Tie Wiener Sänger im Nürnberger Rathans.
+Found
+MODSMD_ARTICLE05: Die Reichstagung der HJ.-Schriftleiter in Danzig.
+Found
+MODSMD_ARTICLE06: Der natioualspanische Heeresbericht vom 13. August.
+Found
+MODSMD_ARTICLE07: Der Mgiische Palästinaplan vor dem Mandatsausschuß.
+Found
+MODSMD_ARTICLE08: Politischer Ueberfall in Belgrad.
+Found
+MODSMD_ARTICLE09: Die Landungsmanöver aus Sizilien durchgeführt.
+Found
+MODSMD_ARTICLE10: Der Aufstand in Paraguay.
+Found
+MODSMD_ARTICLE11: Starke Zunahme der Sittlichkeitsverbrechen in New Jork.
+Found
+MODSMD_ARTICLE12: Ausländische Ad Mirale in Schanghai.
+Found
+MODSMD_ARTICLE13: Schwere Kämpfe in Schanghai.
+Found

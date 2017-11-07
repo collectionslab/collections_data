@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Eine historische Kundgebung.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Goebbels
+Found
+MODSMD_ARTICLE03: Festlicher Ausklang im Stadion
+Found
+MODSMD_ARTICLE04: Grostkanzert der Wehrmacht
+Found
+MODSMD_ARTICLE05: Der graste Zapfenstreich.
+Found
+MODSMD_ARTICLE06: Rückfahrt zur Wilhelmstratze
+Found

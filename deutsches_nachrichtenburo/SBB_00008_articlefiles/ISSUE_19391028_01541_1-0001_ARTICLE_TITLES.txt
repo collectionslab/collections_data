@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Gnadenerlaß des Führers für Beamte.
+Found
+MODSMD_ARTICLE02: Die Verwaltung der befreiten Gebiete.
+Found
+MODSMD_ARTICLE03: Die neue slowakische Regierung ernannt.
+Found
+MODSMD_ARTICLE04: „Wir stehen stark und geschlossen wie nie zusammen."
+Found
+MODSMD_ARTICLE05: „Belgien ist nicht die Fabrik der Westmächte".
+Found
+MODSMD_ARTICLE06: Belgien will seine Neutralität bewahren.
+Found
+MODSMD_ARTICLE07: Lebmsmittelknappheit in England.
+Found
+MODSMD_ARTICLE08: Der Rückgang der britischen Ein- und Ausfuhr.
+Found
+MODSMD_ARTICLE09: Schweres Grubenunglück in Schottland: 33 Tote.
+Found
+MODSMD_ARTICLE10: Frankreich hat sogar Trinkwassersorgen!
+Found
+MODSMD_ARTICLE11: Schwerste Schläge für die britische Kriegsflotte.
+Found
+MODSMD_ARTICLE12: Wiederaufnahme der Verhandlungen Rußland—Türkei?
+Not Found
+MODSMD_ARTICLE13: Gescheiterter Militärputsch in Bolivien.
+Found
+MODSMD_ARTICLE14: Die Abstimmung im amerikanischen Senat.
+Found
+MODSMD_ARTICLE15: Die amerikanische Staatsschuld weiter erhöht.
+Found
+MODSMD_ARTICLE16: Warnung vor ungesunder Kriegskonjunktur.
+Found

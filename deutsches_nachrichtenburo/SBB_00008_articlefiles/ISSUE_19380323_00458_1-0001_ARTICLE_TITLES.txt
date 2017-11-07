@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ein Kranz des Führers am Grabe Dietrich Eckarts.
+Found
+MODSMD_ARTICLE02: Sofortige Hilfsmaßnahmen des WHW. für Oesterreich.
+Found
+MODSMD_ARTICLE03: Große Werbeaktion des Sports für die Volksabstimmung.
+Found
+MODSMD_ARTICLE04: Militärische Begrüßungen an der neuen Reichsgrenze.
+Found
+MODSMD_ARTICLE05: Erlaß Bürstels über Aufenthaltsgenehmigung.
+Found
+MODSMD_ARTICLE06: Jahrestag der Gründung der faschistischen Kampfbünde.
+Found
+MODSMD_ARTICLE07: Nachtberatung des Unterhauses über Wehrhaushalte.
+Found
+MODSMD_ARTICLE08: Die Atlantik-Luftfahrtkonferenz tagt.
+Found
+MODSMD_ARTICLE09: Spaaks Erklärungen zur Frage eines Durchmarsches.
+Found
+MODSMD_ARTICLE10: Zweierlei Maß in Palästina!
+Found
+MODSMD_ARTICLE11: Amerikanische Manöver auf Honolulu.
+Found

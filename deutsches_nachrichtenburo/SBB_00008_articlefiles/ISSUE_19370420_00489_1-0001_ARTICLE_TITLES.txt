@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Die Hauptstadt der Bewegung am Geburtstag des Führers.
+Found
+MODSMD_ARTICLE02: Geburtstagsfeiern der Wehrmacht im Reich.
+Found
+MODSMD_ARTICLE03: Dr. Schacht über die wirtschaftlichen Aufbauleistungen.
+Found
+MODSMD_ARTICLE04: Besichtigung der Ordnungspolizei durch Daluege.
+Found
+MODSMD_ARTICLE05: Fall Jagoda zieht weitere Kreise. 300 Verhaftungen.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Gesandte Columbiens abgereist.
+Found
+MODSMD_ARTICLE02: Prinz Bernhard der Niederlande auf der Jagdausstellung.
+Found
+MODSMD_ARTICLE03: Sonthofener Rede des Reichsministers Kerrl.
+Found
+MODSMD_ARTICLE04: Der ungarische Staatsbesuch in Berlin.
+Found
+MODSMD_ARTICLE05: „Ein Beweis der aufrichtigen Freundschaft."
+Found
+MODSMD_ARTICLE06: Litauische Maßnahme gegen Fahnenflucht.
+Found
+MODSMD_ARTICLE07: Jüdische Frechheit und kein Ende.
+Found
+MODSMD_ARTICLE08: Antonescu erhält den höchsten italienischen Orden.
+Found
+MODSMD_ARTICLE09: Japanischer Freundschaftsbesuch in Italien.
+Found
+MODSMD_ARTICLE10: Mussolini empfing den chinesischen Propagandaminister.
+Found
+MODSMD_ARTICLE11: Janson mit der Regierungsbildung beauftragt.
+Found
+MODSMD_ARTICLE12: Weitere Bombensunde bei den Pariser Haussuchungen.
+Found
+MODSMD_ARTICLE13: Tie französische Polizei fahndet nach 299 Geheimsendern.
+Found
+MODSMD_ARTICLE14: Chautemps verteidigt seine Politik.
+Found
+MODSMD_ARTICLE15: Wütende Ausfälle eines Bolschetmstenblattes gegen England.
+Found
+MODSMD_ARTICLE16: Schießereien zwischen sowjetspanischen Häuptlingen.
+Found
+MODSMD_ARTICLE17: Zum Gedächtnis des ermordeten Konsuls Wakonigg.
+Found
+MODSMD_ARTICLE18: Syrien will in Paris um Verständnis werben.
+Found
+MODSMD_ARTICLE19: Weiterer japanischer Geländegewinn.
+Found

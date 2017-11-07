@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer zum brasilianischen! Unabhängigkeitstag.
+Found
+MODSMD_ARTICLE02: Die Weichsel bei Sandomir und Gora Kalwaria erreicht.
+Found
+MODSMD_ARTICLE03: Krakau nach dem Einmarsch der Deutschen.
+Found
+MODSMD_ARTICLE04: Die Schweiz durchschaut die englische Lügejnkampagne.
+Found
+MODSMD_ARTICLE05: Basel: „Deutsches Tempo atemberaubend."
+Found
+MODSMD_ARTICLE06: Holland: „Polens Lage hoffnungslos."
+Found
+MODSMD_ARTICLE07: „Belastungsprobe für dm inneren Zusammenhang Polens".
+Found
+MODSMD_ARTICLE08: Holländischer Minenleger auf eine englische Mine gelaufen.
+Found
+MODSMD_ARTICLE09: Spanien: „Hervorragender Operationsplan."
+Found
+MODSMD_ARTICLE10: Neukraltiätserklärung des norwegischen Königs.
+Found
+MODSMD_ARTICLE11: Englands Völkerrechtsbrüche beunruhigen Dänemark.
+Found
+MODSMD_ARTICLE12: Beschleunigung der Autarkiepläne Italiens.
+Found
+MODSMD_ARTICLE13: Empörung über die britischen Seeräubermethoden.
+Found
+MODSMD_ARTICLE14: Istanbuler Blatt ruft Deutschmhetzer zur Ordnung.
+Found
+MODSMD_ARTICLE15: „Kriegsschauplatz weit entfernt."
+Found
+MODSMD_ARTICLE16: Australien muß für Chamberlains Kriegspolitik zahlen.
+Found
+MODSMD_ARTICLE17: Auch Siam bleibt neutral.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Personalveränderungen im Heer.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Der bisherige chinesische Botschafter verließ Berlin.
+Found
+MODSMD_ARTICLE04: Die römische Presse zur Reise Lord Runcimans.
+Found
+MODSMD_ARTICLE05: Runciman nach Prag abgereist.
+Found
+MODSMD_ARTICLE06: Britische Militärabordnung au der Portugiesischen Südküste.
+Found
+MODSMD_ARTICLE07: Sowietspanische Offensive ohne Spanier.
+Found
+MODSMD_ARTICLE08: Die Pariser Presse zur Spannung Moskau—Tokio.
+Not Found
+MODSMD_ARTICLE09: Sowjetrussischer Augriff auf Schaugfeug abgewiesen.
+Found
+MODSMD_ARTICLE10: Mandschukuo protestiert bei Sowjetrußland.
+Found
+MODSMD_ARTICLE11: Harlan-Prozeß ergebnislos abgebrochen»
+Found

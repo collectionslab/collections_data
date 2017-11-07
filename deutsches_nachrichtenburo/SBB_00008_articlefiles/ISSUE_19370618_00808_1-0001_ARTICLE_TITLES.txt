@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Bruckner-Medaille für Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Ernennungen beim Reichsgericht und Volksgerichtshof.
+Found
+MODSMD_ARTICLE03: Amerikanische Forscher beim Reichsverkehrsminister.
+Found
+MODSMD_ARTICLE04: Klosterschüler ermordet ein Kind.
+Found
+MODSMD_ARTICLE05: General Beck beim französischen Kriegsminister.
+Found
+MODSMD_ARTICLE06: Marxistische Streikhetze in Nordfrankreich.
+Found
+MODSMD_ARTICLE07: Der radikalsozialc Parteivorstand verlangt Auskunft.
+Found
+MODSMD_ARTICLE08: Zollvollmachten-Vorlage von der Kammer angenommen.
+Found
+MODSMD_ARTICLE10: Hilfskonfereuz für die Valencia-Bolschewisten.
+Found
+MODSMD_ARTICLE11: Bolschewistische Banditen.
+Found
+MODSMD_ARTICLE12: 2V Tote auf „Jaime I."
+Found
+MODSMD_ARTICLE13: Senatsinterpellation um die Rüstungsindustrie von Lüttich.
+Found
+MODSMD_ARTICLE14: Die Kosten der Wehrerziehung in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE15: Volkspolitisches Referat bei der Vaterländischen Front.
+Found
+MODSMD_ARTICLE16: Die Folge einer jüdischen Hetze.
+Found
+MODSMD_ARTICLE17: Jurenjew Sowjetbotschafter in Berlin.
+Found
+MODSMD_ARTICLE18: Stalins „Leibärzte" fast ausschließlich Juden!
+Found
+MODSMD_ARTICLE19: Die jüdische Dynastie Kaganowitsch breitet sich aus.
+Found
+MODSMD_ARTICLE20: Ein neues Regierungsviertel in Addis Abeba.
+Found
+MODSMD_ARTICLE21: ErgänZungsprotokoll Zum Sandschak-Abkommen?
+Found
+MODSMD_ARTICLE22: Eingeborenenunruhen im Pundschab.
+Found

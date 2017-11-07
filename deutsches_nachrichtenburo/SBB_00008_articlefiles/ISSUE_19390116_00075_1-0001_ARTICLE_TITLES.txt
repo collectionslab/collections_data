@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Ausländische Urteile über die neue Reichskanzlei.
+Found
+MODSMD_ARTICLE02: Offiziöse Stellungnahme zum Chamberlain-Besuch.
+Found
+MODSMD_ARTICLE03: Mailand: „Der Zweck der Aussprache erfüllt."
+Found
+MODSMD_ARTICLE04: „Voce d'Jtalia": „Ein gefährliches Spiel."
+Found
+MODSMD_ARTICLE05: „Daladier soll in Sowjetspanien intervenieren".
+Found
+MODSMD_ARTICLE06: Die Pariser Presse über die römischen Besprechungen.
+Found
+MODSMD_ARTICLE07: Rote Entlastungsoffensive Zusammengebrochen.
+Found
+MODSMD_ARTICLE08: Ergreisende Kundgebungen in Nationalspanien.
+Found
+MODSMD_ARTICLE09: Wieder ein Araber erschossen.
+Found

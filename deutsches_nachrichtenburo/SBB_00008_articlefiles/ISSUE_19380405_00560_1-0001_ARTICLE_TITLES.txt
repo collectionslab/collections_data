@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Daves in Straubing.
+Found
+MODSMD_ARTICLE02: Spatenstich für die Reichsautobahn durch Oesterreich.
+Found
+MODSMD_ARTICLE03: Polen und Belgien erkennen Großdeutschland an.
+Found
+MODSMD_ARTICLE04: Rudolf Heß spricht am Donnerstag in Wien.
+Found
+MODSMD_ARTICLE05: Reichstreuhänder der Arbeit für das Land Oesterreich.
+Found
+MODSMD_ARTICLE06: Ein Internationales Olympisches Institut in Berlin.
+Found
+MODSMD_ARTICLE07: Die römische Presse zur Lage in Spanien.
+Found
+MODSMD_ARTICLE08: Archambaud für ein Kabinett des öffentlichen Wohles.
+Found
+MODSMD_ARTICLE09: Auch Du, mein Sohn Brutus!
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Goebbels im Zeltlager Carlshagen.
+Found
+MODSMD_ARTICLE02: Reichsminister Ruft vor den Studentenschaftsführern,
+Found
+MODSMD_ARTICLE03: Erleichterungen für außerdeutsche Kraftfahrzeuge.
+Found
+MODSMD_ARTICLE04: Argentinische Architekten besuchen Deutschland.
+Found
+MODSMD_ARTICLE05: Die Explosion im Madrider Deutschen Verkehrsbüro.
+Found
+MODSMD_ARTICLE06: Franziskaner wegen Sittlichkeitsverbrechen festgenommen.
+Found
+MODSMD_ARTICLE07: Haltet Verkehrsdisziplin!
+Found
+MODSMD_ARTICLE08: Ein ernstes Wort vor den Olympia-Wochen.
+Found
+MODSMD_ARTICLE09: So geht es nicht weiter.
+Found
+MODSMD_ARTICLE10: Deutsche Kraftfahrer!
+Found
+MODSMD_ARTICLE11: Deutsche Radfahrer!
+Found
+MODSMD_ARTICLE12: Deutsche Fußgänger!
+Found
+MODSMD_ARTICLE13: Deutsche Volksgenossen!
+Found
+MODSMD_ARTICLE14: Gerüchte über den Rücktritt Baldwins.
+Found
+MODSMD_ARTICLE15: Ueber die britisch-ägyptischen Besprechungen.
+Found
+MODSMD_ARTICLE16: „News Chronicle" meldet Verstärkung Gibraltars.
+Found
+MODSMD_ARTICLE17: Die italienische Flagge über Moyale.
+Found
+MODSMD_ARTICLE18: Der sowjetrussische Flugzeugbau.
+Found
+MODSMD_ARTICLE19: Ausbau der amerikanischen Handelsmarine.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Neuer Leiter des Reichsheimstättenamtes ernannt.
+Found
+MODSMD_ARTICLE02: Ministerialdirigent Berndt über das Fachbuch.
+Found
+MODSMD_ARTICLE03: 1939 vier größere regionale Flugwettbewerbe.
+Found
+MODSMD_ARTICLE04: Gefallenenehrung in Prag.
+Found
+MODSMD_ARTICLE05: Polen vertraut aus seine eigene Kraft.
+Found
+MODSMD_ARTICLE06: Schneller Vormarsch der Nationalspanier.
+Found
+MODSMD_ARTICLE07: Die Nationalen vor Almaden.
+Found
+MODSMD_ARTICLE08: Die Roten verschleudern noch immer Kunstschähe.
+Found
+MODSMD_ARTICLE09: Soll Madrids Bevölkerung verhungern?
+Found
+MODSMD_ARTICLE10: Deutsche Frauen besuchten japanische Lazarette»
+Found
+MODSMD_ARTICLE11: Krieg zur Rettung der Demokratie?
+Found

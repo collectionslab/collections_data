@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Wohnungsbauförderung für werktätige Bevölkerung.
+Found
+MODSMD_ARTICLE02: Rotes Flugzeugzentrum an Hauptschiffahrtsweg.
+Found
+MODSMD_ARTICLE03: Nationalspanischer Heeresbericht vom Ist. August.
+Found
+MODSMD_ARTICLE04: Sowjetrussische Militärmission leitet die Angriffe.
+Found
+MODSMD_ARTICLE05: Staatssekretär Dr. Schmidt über Oesterreichs Außenpolitik.
+Found
+MODSMD_ARTICLE06: Kommunisten in Oesterreich verurteilt.
+Found
+MODSMD_ARTICLE07: Der polnische Schützcnvcrband für Rydz-Smigly.
+Found
+MODSMD_ARTICLE08: Polnische Maßnahmen gegen ukrainische Organisationen.
+Found
+MODSMD_ARTICLE09: „Taifun" in Paris gestartet.
+Found
+MODSMD_ARTICLE10: Kongresse in Paris.
+Found
+MODSMD_ARTICLE11: Bündnisrat der Kleinen Entente tagt am 28. August.
+Found
+MODSMD_ARTICLE12: 14 japanische Divisionen für Nordchina.
+Found
+MODSMD_ARTICLE13: Chinesische Rückwanderung aus Korea und Japan.
+Found

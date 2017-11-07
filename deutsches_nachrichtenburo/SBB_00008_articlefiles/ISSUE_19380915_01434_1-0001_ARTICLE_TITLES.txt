@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Polizeistreifen für die Preisüberwachung.
+Found
+MODSMD_ARTICLE02: Schon 3IM Sudetendeutsche nach Deutschland geflüchtet.
+Found
+MODSMD_ARTICLE03: Militär und Panzerwagen gegen Sudetendeutsche.
+Not Found
+MODSMD_ARTICLE04: Schärfster Militärterror im Sudetenland.
+Found
+MODSMD_ARTICLE05: Kurz befristete Gestellungsbefehle für Sudetendeutsche.
+Found
+MODSMD_ARTICLE06: Empörende Fälschung im tschecho-slowakischen Rundfunk.
+Found
+MODSMD_ARTICLE07: Sudetendeutsche Abgeordnete vor dem Standgericht.
+Found
+MODSMD_ARTICLE08: Brände und Schießereien in Palästina.
+Found
+MODSMD_ARTICLE09: MW Chinesen westlich von Kiukiang aufgerieben.
+Found
+MODSMD_ARTICLE10: Japan steht auf Seiten Deutschlands!
+Found

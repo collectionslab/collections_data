@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der Führer ehrte die toten Helden. (Schluß von Nr. 377)
+Found
+MODSMD_ARTICLE02: Abreise Funks zur Sitzung der BIZ.
+Found
+MODSMD_ARTICLE03: Prag gibt slowakische Todesopfer zu.
+Found
+MODSMD_ARTICLE04: Die ausländischen Juden verlassen Florenz.
+Found
+MODSMD_ARTICLE05: Uebergabe der sowjetspanischen Flotte an Franco gefordert.
+Found
+MODSMD_ARTICLE06: Wieder ein Araber getötet.
+Found

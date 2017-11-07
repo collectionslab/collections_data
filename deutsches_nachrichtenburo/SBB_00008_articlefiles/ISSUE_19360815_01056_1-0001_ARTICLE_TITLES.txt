@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Erfolg eines deutschen Dirigenten in Riga.
+Found
+MODSMD_ARTICLE02: Oesterreich und Genfer Finanzkontrolle.
+Found
+MODSMD_ARTICLE03: Tie Gefangenhaltung britischer Bergwerksangestellter.
+Found
+MODSMD_ARTICLE04: Britische Marinesoldaten als Freiwillige bei Nationalisten.
+Found
+MODSMD_ARTICLE05: Englische Flugzeuge im Pariser Flughafen beschlagnahmt.
+Found
+MODSMD_ARTICLE06: Beschlagnahme von Waffen und Flugblättern in Hendaye.
+Found
+MODSMD_ARTICLE07: Washington und die Ereignisse in Spanien.
+Found
+MODSMD_ARTICLE08: Die Schwierigkeiten des Neutralitätsabkommens.
+Found
+MODSMD_ARTICLE09: Kommunistischer Ueberfall in Versailles.
+Found
+MODSMD_ARTICLE10: Die Trohki-Sinowjew-Gruppe vor einem Sowjetgericht.
+Found
+MODSMD_ARTICLE11: Senator Lemery zum Besuch Gamelins in Warschau.
+Found
+MODSMD_ARTICLE12: Griechische Erklärung gegen falsche Nachrichten.
+Found
+MODSMD_ARTICLE13: Kronprinz Humbert wieder in Neapel.
+Found
+MODSMD_ARTICLE14: Mussolini in Rimini.
+Found
+MODSMD_ARTICLE15: 4 englische Militärflugzeuge von Kairo nach Zypern.
+Found
+MODSMD_ARTICLE16: Französischer Dampfer im Mittelmeer gesunken. 21 Tote.
+Found

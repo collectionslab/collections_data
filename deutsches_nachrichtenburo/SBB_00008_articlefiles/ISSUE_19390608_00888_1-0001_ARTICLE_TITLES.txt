@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Polizeiparade zu Ehren Dr. Fricks in Budapest.
+Found
+MODSMD_ARTICLE02: Die Mandatsverteilung im ungarischen Parlament.
+Found
+MODSMD_ARTICLE03: General von Massow in Bukarest.
+Found
+MODSMD_ARTICLE04: Das neue rumänische Parlament zusammengetreten.
+Found
+MODSMD_ARTICLE05: Tie neuen Pakte passen Polen nicht in den Kram.
+Found
+MODSMD_ARTICLE06: Jüdische „Kämpfer" in Polen.
+Found
+MODSMD_ARTICLE07: Weltkongreß der Luftfahrtpresse 1941 in Amsterdam.
+Found
+MODSMD_ARTICLE08: Die Presse Kataloniens zur Rede des Caudillo.
+Found
+MODSMD_ARTICLE09: Die Spanienflüchtlinge in Frankreich.
+Found
+MODSMD_ARTICLE10: Frankreich braucht Soldaten!
+Found
+MODSMD_ARTICLE11: Die verlogene „Garantie"-Sucht.
+Found
+MODSMD_ARTICLE12: Englische BeruhigWgspWeu für Transjordanien.
+Found
+MODSMD_ARTICLE13: Neue Blutopfer der Araber in Palästina.
+Found
+MODSMD_ARTICLE14: Zum Zwischenfall in Schanghai.
+Found
+MODSMD_ARTICLE15: Ein alter Einkreisungsfachmann nimmt das Wort,
+Found
+MODSMD_ARTICLE16: Das britische Königspaar in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE17: Brasilianische Militärmission besucht Europa.
+Found
+MODSMD_ARTICLE18: Eiseubahnunfall auf der Strecke Weimar—Gera.
+Not Found

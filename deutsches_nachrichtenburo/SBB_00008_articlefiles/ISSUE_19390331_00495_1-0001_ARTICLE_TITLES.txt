@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Frick über die Volksgruppen im Reich.
+Found
+MODSMD_ARTICLE02: Minister Ramos beim Reichsaußenminister.
+Found
+MODSMD_ARTICLE03: Die portugiesischen Schriftleiter in Köln.
+Found
+MODSMD_ARTICLE04: Ehrenurkunde für Professor Guiseppe Brombin.
+Found
+MODSMD_ARTICLE05: Deutsche Arbeitsbeschaffung für tschechische Arbeiter.
+Found
+MODSMD_ARTICLE06: Am gesunden Kern Europas scheiterte das Sowjet-Manöver.
+Found
+MODSMD_ARTICLE07: Die Schweiz rückt von Boykottplänen ab.
+Found
+MODSMD_ARTICLE08: Chamberlain braucht noch Zeit.
+Found
+MODSMD_ARTICLE09: Japan beteiligt sich an der Weltausstellung in Rom.
+Found

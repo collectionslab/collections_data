@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Seit 1. April wieder Heeresarchive.
+Found
+MODSMD_ARTICLE02: Nossaint brachte Briefe über die Grenze.
+Found
+MODSMD_ARTICLE03: Der Reichsfinanzminister beim König von Dänemark.
+Found
+MODSMD_ARTICLE04: Beginn der Kapitulationskonferenz in Montreux.
+Found
+MODSMD_ARTICLE05: Ministerpräsident van Zeeland bei König Leopold.
+Found
+MODSMD_ARTICLE06: Der belgische Justizminister zurückgetreten.
+Found
+MODSMD_ARTICLE07: Bilbao von den Nationalen wirksam blockiert.
+Found
+MODSMD_ARTICLE08: Garvin über die Kriegslage in Spanien.
+Found
+MODSMD_ARTICLE09: Neues Täuschungsmanöver.
+Found
+MODSMD_ARTICLE10: Angriff der Bolschewisten bei Madrid abgeschlagen.
+Found
+MODSMD_ARTICLE11: Einheitliche Leitung der litauischen Schiffahrt.
+Found
+MODSMD_ARTICLE12: Vor einem Generalstreik am Clyde?
+Found
+MODSMD_ARTICLE13: Kommunistische Hetzschriften in der Synagoge.
+Found
+MODSMD_ARTICLE14: Der neue ungarische Innenminister über seine Aufgaben.
+Found
+MODSMD_ARTICLE15: Eckhardt gegen die antisemitische Rechtsbewegung.
+Found
+MODSMD_ARTICLE16: Türkisch-jugoslawische Besprechungen in Belgrad.
+Found
+MODSMD_ARTICLE17: RadausZenen um die 4ö-Stund>en-Woche in Straßburg.
+Found
+MODSMD_ARTICLE18: Die Preis-Hausse in Frankreich.
+Found
+MODSMD_ARTICLE19: Zwei Regimenter gehen als Verstärkung nach Waziristau.
+Found
+MODSMD_ARTICLE20: Amerikanische Bergarbeiter gegen Streikhetzer.
+Found

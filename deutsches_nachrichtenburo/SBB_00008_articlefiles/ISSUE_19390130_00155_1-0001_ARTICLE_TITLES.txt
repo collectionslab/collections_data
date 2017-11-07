@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Ehrentag der Deutschen Polizei.
+Found
+MODSMD_ARTICLE02: Tie NSDAP. in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE03: Feierliche Vereidigung der SA.-Männer im Sudetenland.
+Found
+MODSMD_ARTICLE04: Jmlien erwartet mit größter Spanung die Führerrede.
+Found
+MODSMD_ARTICLE05: Veränderungen in der britischen Regierung.
+Found
+MODSMD_ARTICLE06: Barcelona arbeitet am Wiederaufbau.
+Found
+MODSMD_ARTICLE07: Die sowjetspanische Tscheka wütet.
+Found
+MODSMD_ARTICLE08: Negrius Schmuckkoffer war 5V Millionen Pesos wert.
+Found
+MODSMD_ARTICLE09: Amerika soll Flugzengreserve für Frankreich bauen.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Des Führers Geburtstag. Ein Freudentag der deutschen Nation.
+Found
+MODSMD_ARTICLE02: Der Geburtstagsmorgen in der Reichskanzlei.
+Found
+MODSMD_ARTICLE03: Vorbeimarsch der Leibstandarte vor dem Führer.
+Found
+MODSMD_ARTICLE04: Weitere Glückwünsche in der Reichskanzlei.
+Found
+MODSMD_ARTICLE05: Landjugend beim Führer.
+Found
+MODSMD_ARTICLE06: Die Glückwünsche der Wehrmacht.
+Found
+MODSMD_ARTICLE07: Der Aufmarsch der Truppenverbände.
+Found
+MODSMD_ARTICLE08: Die Paradestraße.
+Found
+MODSMD_ARTICLE09: Tsie Meldung des Kommandierenden Generals.
+Found
+MODSMD_ARTICLE10: Der Führer auf dem Paradeplatz.
+Found
+MODSMD_ARTICLE11: Der Vorbeimarsch.
+Found
+MODSMD_ARTICLE12: Das nationale Oesterreich würdigt das Werk Hitlers.
+Found

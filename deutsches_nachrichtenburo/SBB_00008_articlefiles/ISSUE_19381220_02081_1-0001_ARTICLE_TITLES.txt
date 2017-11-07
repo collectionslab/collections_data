@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der neue deutsche Gesandte in Lettland eingetroffen.
+Found
+MODSMD_ARTICLE02: Präsident Dr. Hacha besucht die Slowakei.
+Found
+MODSMD_ARTICLE03: Landtagswahlen in der Karpatho-llrkraine.
+Found
+MODSMD_ARTICLE04: 63 Abgeordnete im slowakischen Landtag.
+Found
+MODSMD_ARTICLE05: Vor der Verhaftung Jeschows.
+Found
+MODSMD_ARTICLE06: Terror und Gegenterror in Sowjetrußland.
+Found
+MODSMD_ARTICLE07: Die erneute Vernehmung Herschel Grünspans.
+Found
+MODSMD_ARTICLE08: Frankreichs Haushalt für 1939.
+Found
+MODSMD_ARTICLE09: Einspruch gegen den „Franzosenschlächter von Albacete".
+Found
+MODSMD_ARTICLE10: Die Aktienmehrheit der Bank von Spanien.
+Found
+MODSMD_ARTICLE11: Londons Presse zur Chamberlain-Erklärung im Unterhans.
+Found
+MODSMD_ARTICLE12: Die britisch-japanische Spannung.
+Found
+MODSMD_ARTICLE13: Mnsicas Geschäftsfreunde waren Gangsterhäuptlinge.
+Found
+MODSMD_ARTICLE14: Vergebliches Liebeswerben der Vereinigten Staaten.
+Found
+MODSMD_ARTICLE15: Keine amerikanische Einmischung im Spanienkonflikt.
+Found
+MODSMD_ARTICLE16: Boliviens Forderung nach Zugang Zum Meer.
+Found

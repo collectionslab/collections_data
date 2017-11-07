@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ernennungen durch den Führer.
+Found
+MODSMD_ARTICLE02: Anerkennung des Führers für Rettungsboot „Hindenburg".
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Französische Ehrung für Korpsführer Hühnlein.
+Found
+MODSMD_ARTICLE05: Reichsminister Ruft an Professor Bartels.
+Found
+MODSMD_ARTICLE06: Der Amtliche Bericht über die Olympischen Spiele.
+Found
+MODSMD_ARTICLE07: Tanziger Besuch in Poleln.
+Found
+MODSMD_ARTICLE08: Jüdische Invasion an den Wiener Vergnügungsstätten.
+Found
+MODSMD_ARTICLE09: KaMeradschastsabend der deutschen Ausstellungsbelegschaft»
+Found
+MODSMD_ARTICLE10: Für Gleichberechtigung Deutschlands auf dem Rohstoffmarkt.
+Found
+MODSMD_ARTICLE11: Die Reise des Lord Halifax.
+Found
+MODSMD_ARTICLE12: Die Londoner Presse über den Besuch von Lord Halifax.
+Found
+MODSMD_ARTICLE13: Polnisches Verständnis für Vargas.
+Found
+MODSMD_ARTICLE14: Das neue Arbeitsjahr des faschistischen Kulturinstituts.
+Found
+MODSMD_ARTICLE15: Roosevelt vermittelt.
+Found
+MODSMD_ARTICLE16: Die japanischen Truppen vor Sutschau.
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Adolf Hitler in Königsberg.
+Found
+MODSMD_ARTICLE02: München begrüßt österreichischen Kindertransport.
+Found
+MODSMD_ARTICLE03: Die Leistungen beim Einmarsch in Oesterreich.
+Found
+MODSMD_ARTICLE04: Belgien erkennt das italienische Imperium an.
+Found
+MODSMD_ARTICLE05: Englands Provinzpresse zur Erklärung Chamberlains.
+Found
+MODSMD_ARTICLE06: London stellt Schadensersatzansprüche in Tokio.
+Found
+MODSMD_ARTICLE07: Große Mehrheit für die neue Regierung des Libanon.
+Found
+MODSMD_ARTICLE08: Adolf Heuser Weltmeister.
+Found

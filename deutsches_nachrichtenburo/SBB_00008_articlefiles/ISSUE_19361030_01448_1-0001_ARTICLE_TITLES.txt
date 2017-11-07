@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Lord Londonderry beim Führer.
+Found
+MODSMD_ARTICLE02: Anerkennung des Führers für Rettungstaten.
+Found
+MODSMD_ARTICLE03: Der Führer ehrt den Direktor der Singakademie Berlin.
+Found
+MODSMD_ARTICLE04: Grundsteinlegung zur Dr. Goebbels-Heimstätte.
+Found
+MODSMD_ARTICLE05: Der Neichserziehnngsminister an den Reichsjugendführer.
+Found
+MODSMD_ARTICLE06: Der polnische Botschafter wieder in Berlin.
+Found
+MODSMD_ARTICLE07: König Boris von Bulgarien an Bord der „Emden".
+Found
+MODSMD_ARTICLE08: Die Woche des deutschen Buches in Rumänien.
+Found
+MODSMD_ARTICLE09: Die sowjetrussischen Flugplätze in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE10: „Deutsch-französische Gesellschaft in den Hansestädten."
+Found
+MODSMD_ARTICLE11: Der Nobelpreis für Physiologie und Medizin.
+Found
+MODSMD_ARTICLE12: Ein Waffenstillstandsangebot Azanas?
+Found
+MODSMD_ARTICLE13: Roter Gegenstoß vor Madrid blutig zurückgeschlagen.
+Found
+MODSMD_ARTICLE14: Säuberungsaktion bei Oviedo.
+Found
+MODSMD_ARTICLE15: Betriebsenteignungen in Barcelona.
+Found
+MODSMD_ARTICLE16: Die Goldausfuhr aus Spanien.
+Found
+MODSMD_ARTICLE17: Jugoslawische Journalisten bei Atatürk.
+Found
+MODSMD_ARTICLE18: Front gegen den Kommunismus in Mexiko.
+Found
+MODSMD_ARTICLE19: Neuer chinesisch-japanischer Zwischenfall.
+Found
+MODSMD_ARTICLE20: Der außenmongolische Ministerpräsident in Moskau.
+Found

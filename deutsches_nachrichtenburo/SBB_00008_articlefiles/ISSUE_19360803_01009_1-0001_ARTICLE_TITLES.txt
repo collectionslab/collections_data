@@ -1,0 +1,54 @@
+MODSMD_ARTICLE01: Der Präsident des Internationalen Jagdrats in Berlin.
+Found
+MODSMD_ARTICLE02: Die Lage der Deutschen in Madrid.
+Found
+MODSMD_ARTICLE03: Professor Dr. Kolbe Goethe-Preisträger.
+Found
+MODSMD_ARTICLE04: Reichsdeutsche Flüchtlinge aus Gijon in Paris.
+Found
+MODSMD_ARTICLE05: Dampfer „Bellona" holt weitere Spanien-Deutsche.
+Found
+MODSMD_ARTICLE06: Neuer Flüchtlingstransport in St. Jean de Luz.
+Found
+MODSMD_ARTICLE07: Marokko-Verstärkungen der spanischen Militärgruppe.
+Found
+MODSMD_ARTICLE08: Verstärkungen in Madrid eingetroffen.
+Found
+MODSMD_ARTICLE09: Bisher 364 Todesopfer der Kämpfe in Barcelona.
+Found
+MODSMD_ARTICLE10: Dank Argentiniens für deutsche Hilfe in Spanien.
+Found
+MODSMD_ARTICLE11: Spaniens neuer Botschafter bei Delbos und Lebrun.
+Found
+MODSMD_ARTICLE12: Die neue Regierung.
+Found
+MODSMD_ARTICLE13: Rückflug-Freigabe englischer Flugzeuge durch Frankreich.
+Found
+MODSMD_ARTICLE14: Londoner Blätter Zur deutschen Antwort.
+Found
+MODSMD_ARTICLE15: Außenminister Krofta und die Sudetendeutschen.
+Found
+MODSMD_ARTICLE16: Reise des belgischen Königs in die Schweiz.
+Found
+MODSMD_ARTICLE17: Mae Mahon dem ordentlichen Gericht übergehen.
+Found
+MODSMD_ARTICLE18: Kongreß für vorgeschichtliche Forschung.
+Found
+MODSMD_ARTICLE19: Norwegische Diplomaten-Konferenz.
+Found
+MODSMD_ARTICLE20: Der Kampf gegen die rote Seuche in Polen.
+Found
+MODSMD_ARTICLE21: Italienische Polemik gegen Spaniens Austenminister.
+Found
+MODSMD_ARTICLE22: Rigaer Geschäftsträger Spaniens tritt zurück.
+Found
+MODSMD_ARTICLE23: Wehib Pascha aus Griechenland ausgewiesen.
+Found
+MODSMD_ARTICLE24: Türkei und Sowjetunion ratifizieren Meerengenabkommen.
+Found
+MODSMD_ARTICLE25: Der türkische Außenminister zum Abkommen von Montreux.
+Found
+MODSMD_ARTICLE26: Die Oelleitung Irak—Haifa in Flammen.
+Not Found
+MODSMD_ARTICLE27: Das erste Gefecht in Kwantung.
+Found

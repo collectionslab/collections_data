@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die Peruaner bleiben in Deutschland.
+Found
+MODSMD_ARTICLE02: Deutschlands Dressurreiter holten drei Medaillen.
+Found
+MODSMD_ARTICLE03: Gold- und Silbermedaille für Holländerinnen.
+Found
+MODSMD_ARTICLE04: Norwegen erringt die Bronzene Medaille im Fußball.
+Found
+MODSMD_ARTICLE05: Jubel um die deutschen Reiter. Viel Betrieb auch im Schwimmstadion und in Grünau.
+Found
+MODSMD_ARTICLE06: Olympia-Empfang in der Deutsch-Französischen Gesellschaft.
+Found
+MODSMD_ARTICLE07: Olympiaveranstaltung des Deutsch-Polnischen Instituts.
+Found
+MODSMD_ARTICLE08: Abschlußfeier der Segel-Olympiade.
+Found
+MODSMD_ARTICLE09: Ter Grund für die Nichtbewertung des Schweizer Bootes.
+Found
+MODSMD_ARTICLE10: Im Segelflugzeug von Berlin nach Kiel.
+Found
+MODSMD_ARTICLE11: Ungarische Polizeioffiziere studieren Olympia-Verkehr.
+Found
+MODSMD_ARTICLE12: Uebergabe des Olympiü-Radio-Koffers in der KdF-Stadt.
+Found

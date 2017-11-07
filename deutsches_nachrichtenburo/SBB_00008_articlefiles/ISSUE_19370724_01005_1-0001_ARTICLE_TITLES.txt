@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Neues Handelsabkommen mit Guatemala.
+Found
+MODSMD_ARTICLE02: Auftakt zur Züricher Flugwoche.
+Found
+MODSMD_ARTICLE03: Eine Erklärung des altkatholischen Delegierten in Oxford.
+Found
+MODSMD_ARTICLE04: Militärische Maßnahmen in der britischen Handelsmarine.
+Found
+MODSMD_ARTICLE05: Frühstück des englischen Königs zu Ehren König Carols.
+Found
+MODSMD_ARTICLE06: Kein Staatsbesuch des rumänischen Königs in London.
+Found
+MODSMD_ARTICLE07: Ehescheidung in England gesetzlich neu geregelt.
+Found
+MODSMD_ARTICLE08: Angriffe auf Feuerkreuzler in Doullens.
+Found
+MODSMD_ARTICLE09: Vorstellungen französischer Zeitungen.
+Found
+MODSMD_ARTICLE10: Erhöhung der Ausgaben des Heeresministeriums.
+Found
+MODSMD_ARTICLE11: Oberschlesien-Entwürse vor dem Sejm.
+Found
+MODSMD_ARTICLE12: Jugoslawisches Konkordat angenommen.
+Found
+MODSMD_ARTICLE13: Die Bauern „liquidieren" das Sowjetsystem.
+Found
+MODSMD_ARTICLE14: Neuernennungen in Sowjetrußland bestätigen Verhaftungen.
+Found
+MODSMD_ARTICLE15: Die Palästina-Frage in der Schwebe.
+Found

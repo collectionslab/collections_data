@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Göring Schirmherr der Textil-Reichsausstellung.
+Found
+MODSMD_ARTICLE02: Ribbentrop an die Witwe des Admirals Behncke.
+Found
+MODSMD_ARTICLE03: Kapitän zur See ä. D. von Egidy f.
+Found
+MODSMD_ARTICLE04: Dr. Lippert Oberbürgermeister und Stadtpräsident Berlins.
+Found
+MODSMD_ARTICLE05: Die Wiener Presse Zur Spanienfrage.
+Found
+MODSMD_ARTICLE06: Krofta über politische Fragen der Gegenwart.
+Found
+MODSMD_ARTICLE07: Ras Jmru nach Italien unterwegs.
+Found
+MODSMD_ARTICLE08: Polens und Rumäniens Staatspräsidenten tauschen Besuche.
+Found
+MODSMD_ARTICLE09: Acht von neun polnischen Kommunisten sind Juden.
+Found
+MODSMD_ARTICLE10: Eine politische Reise Atatürks.
+Found
+MODSMD_ARTICLE11: Rüschtü Aras über seine Sandschak-Besprechungen.
+Found
+MODSMD_ARTICLE12: Vom englischen Untersuchungsausschuß in Jerusalem.
+Found
+MODSMD_ARTICLE13: HochZeits-Amnestie in Holland.
+Found
+MODSMD_ARTICLE14: Die Hochzeitsfeierlichkeiten im Haag.
+Found
+MODSMD_ARTICLE15: Sprechverbot gegen kommunistischen Hetzer.
+Found
+MODSMD_ARTICLE16: So werben die spanischen Bolschewisteu im Ausland!
+Found
+MODSMD_ARTICLE17: 10 000 Streikende in Amerikas Kraftwagenindustrie.
+Found
+MODSMD_ARTICLE18: Britischer Zollbeamter in China ermordet.
+Found

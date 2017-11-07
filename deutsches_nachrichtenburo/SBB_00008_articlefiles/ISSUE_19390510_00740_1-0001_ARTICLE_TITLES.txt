@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Italiener studieren Deutschlands freie Berufe.
+Found
+MODSMD_ARTICLE02: HJ.-Ausbildungswerk für Architektur und Technik.
+Found
+MODSMD_ARTICLE03: Der Reichsfinanzminister in Neichenberg.
+Found
+MODSMD_ARTICLE04: Potemkins Warschauer Aufenthalt verlängert.
+Found
+MODSMD_ARTICLE05: Generaloberst von Brauchitsch in Spezia.
+Found
+MODSMD_ARTICLE06: Empfänge und Besuche in Rom.
+Found
+MODSMD_ARTICLE07: „Im Geiste der guten Nachbarschaft".
+Found
+MODSMD_ARTICLE08: „Faschistische Parteimitglieder trinken keinen Kaffee."
+Found
+MODSMD_ARTICLE09: Amnestie in Albanien.
+Found
+MODSMD_ARTICLE10: Gegen die bolschewistische und französische Einmischung.
+Found
+MODSMD_ARTICLE11: Die spanische Presse Zeiht Paris des Wortbruchs.
+Found
+MODSMD_ARTICLE12: Chamberlain über das sowjetrussische „Mißverständnis".
+Found
+MODSMD_ARTICLE13: Das Weißbuch über die Palästinapolitik.
+Found
+MODSMD_ARTICLE14: England will nur Zeit gewinnen!
+Found
+MODSMD_ARTICLE15: Die Japaner greifen in Schanghai durch.
+Found

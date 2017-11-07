@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Deutsche Weihestunde in Breslau. Rede des Führers.
+Found
+MODSMD_ARTICLE02: Festlicher Abschluß.
+Found
+MODSMD_ARTICLE03: Ueberwältigende Kundgebung des deutschen Volkstums. Nie erlebte Stürme der Begeisterung.
+Found

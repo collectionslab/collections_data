@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Dr. Goebbels an die Filmschaffenden.
+Found
+MODSMD_ARTICLE02: Die deutsch-nordischen Berkehrsbesprechungen.
+Found
+MODSMD_ARTICLE03: Ritter von Epp in Syrakus.
+Found
+MODSMD_ARTICLE04: Der Jemenitenprinz bei Graf Ciano.
+Found

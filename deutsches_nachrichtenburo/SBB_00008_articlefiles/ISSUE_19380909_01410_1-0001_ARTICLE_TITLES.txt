@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ernennungen und Beförderungen im Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE02: Deutschlandfahrt elsässischer Winzer.
+Found
+MODSMD_ARTICLE03: Die Zahl der Rundfunkteilnehmer am 1. September.
+Found
+MODSMD_ARTICLE04: Fettverbilligung für die minderbemittelte Bevölkerung.
+Found
+MODSMD_ARTICLE05: Italienische Bauarbeiter in Salzgitter und Fallersleben.
+Found
+MODSMD_ARTICLE06: Obduktion in Jägerndorf Zugesagt.
+Found
+MODSMD_ARTICLE07: Nene freche Provozierung des Sudetendeutschtums.
+Found
+MODSMD_ARTICLE08: Unhaltbare Schulverhältnisse im Hultschiner Ländchen.
+Found
+MODSMD_ARTICLE09: Eine Denkschrift der sudetendeutschen Arbeitnehmer.
+Found
+MODSMD_ARTICLE10: „Stampa": „In voller Solidarität mit Deutschland".
+Found
+MODSMD_ARTICLE11: Italienische Pressestimme zur tschechischen Frage.
+Found
+MODSMD_ARTICLE12: Mussolini ehrt Marschall Grazmni.
+Found
+MODSMD_ARTICLE13: Sitzung des Großrates des Faschismus am 1. Oktober.
+Found
+MODSMD_ARTICLE14: Die „Times" hält ihren Vorschlag aufrecht.
+Found
+MODSMD_ARTICLE15: Französischer Brennstosstransport verunglückt.
+Found
+MODSMD_ARTICLE16: Die nationalspanische Presse gegen französische Hetzer.
+Found
+MODSMD_ARTICLE17: Die Kämpfe au der Ebro-Fronst
+Found
+MODSMD_ARTICLE18: Minenexplosionen und Ausgehverbote.
+Found
+MODSMD_ARTICLE19: 29,8 Millionen Amerikaner in USA erhalten Unterstützung.
+Found

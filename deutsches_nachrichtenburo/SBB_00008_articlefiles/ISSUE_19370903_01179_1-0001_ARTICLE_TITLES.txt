@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Tie ungarischen Aerzteführer bei Staatssekretär Pfundtner.
+Found
+MODSMD_ARTICLE02: Kündigungsschutz für Miet- und Pachtrümne.
+Found
+MODSMD_ARTICLE03: Die Schiedsgerichtsbarkeit in der Seeschiffahrt.
+Found
+MODSMD_ARTICLE04: Empfang für Göring in Württembergs Staatsmimstermm.
+Found
+MODSMD_ARTICLE05: Das Deutsche Ausland-Institut dankt Göring.
+Found
+MODSMD_ARTICLE06: Gemeinschaftsabend mit Spaniens Jugendführern.
+Found
+MODSMD_ARTICLE07: Dr. Ley vor dem Führernachwuchs der Partei.
+Found
+MODSMD_ARTICLE08: Reichstrefsen der Altveteranen im Siebengebirge.
+Found
+MODSMD_ARTICLE09: Tanzig ließ die verhasteten Polen frei.
+Found
+MODSMD_ARTICLE10: Neun jüdische Kommunisten in Warschau vor Gericht.
+Found
+MODSMD_ARTICLE11: Baron de Coubertin I°.
+Found
+MODSMD_ARTICLE12: Gegen Ministerreisen nach Sowjetrußland.
+Found
+MODSMD_ARTICLE13: Auch Aerzte streiken in Frankreich.
+Found
+MODSMD_ARTICLE14: Rückkehr des estländischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE15: „Die bolschewistische Höllenmaschine".
+Found
+MODSMD_ARTICLE16: Die Stärke der britischen Flotte im Mittelmeer.
+Found
+MODSMD_ARTICLE17: Kommunistenüberfall in Mexiko.
+Found
+MODSMD_ARTICLE18: Amerikanischer Küsteufrachtdampfer gesunken: 24 Tote.
+Found
+MODSMD_ARTICLE19: Keine Gefahr für die in Schanghai verletzten Deutschen.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer im Schwimmstadion.
+Found
+MODSMD_ARTICLE02: Goldmedaille für Amerika in Gegenwart des Führers.
+Found
+MODSMD_ARTICLE03: 3. Goldmedaille für Owens. Sieg Whitlocks.
+Found
+MODSMD_ARTICLE04: Die Olympiasieger im Freistilringen.
+Found
+MODSMD_ARTICLE05: Flug der Nationen.
+Found
+MODSMD_ARTICLE06: Minister Ruft an Gisela Manermeyer.
+Found
+MODSMD_ARTICLE07: Glückwunsch des Neichserziehungsministers an Long.
+Found
+MODSMD_ARTICLE08: Philippinische Olympiamannschaft am Ehrenmal.
+Found
+MODSMD_ARTICLE09: Baillet-Latour dankt dem Reichsverband Deutscher Offiziere.
+Found
+MODSMD_ARTICLE10: Ausländische Olympia-Sternflieger starten nach Schlesien.
+Found
+MODSMD_ARTICLE11: Oesterreichischer Segelflieger tödlich abgestürzt.
+Found
+MODSMD_ARTICLE12: Empfang der ausländischen Polizeimänner.
+Found
+MODSMD_ARTICLE13: Empfang des britischen Besuchs im Kieler Rathans.
+Found
+MODSMD_ARTICLE14: Begeisterter Olympiabericht der „Aftenposten".
+Found
+MODSMD_ARTICLE15: Sabotageversuch an der Olympischen Friedensidee.
+Found
+MODSMD_ARTICLE16: Sven Hedin: Das Pferd in der Geschichte Asiens.
+Found

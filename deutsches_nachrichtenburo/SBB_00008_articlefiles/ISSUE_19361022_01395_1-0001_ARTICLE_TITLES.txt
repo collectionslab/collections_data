@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ernennung im Erziehungsministerium.
+Found
+MODSMD_ARTICLE02: Kronprinzessin Juliane von Holland in Grünberg.
+Found
+MODSMD_ARTICLE03: Holländische Stimme zur Betrauung Görings.
+Found
+MODSMD_ARTICLE04: Ausgrabungen in Olympia.
+Found
+MODSMD_ARTICLE05: Daranyi verkündet sein Regierungsprogramm.
+Found
+MODSMD_ARTICLE07: Delbos vor dem auswärtigen Ausschuß der Kammer.
+Found
+MODSMD_ARTICLE08: Preiskontrollausschuß in Frankreich.
+Found
+MODSMD_ARTICLE09: Sowjetrußland und Frankreich ständige Madrid-Lieferanten
+Found
+MODSMD_ARTICLE10: Oisenes in Spanien.
+Found
+MODSMD_ARTICLE11: Erfolgreicher nationalistischer Fliegerangriff auf Madrid.
+Found
+MODSMD_ARTICLE12: Keine Einigung zwischen Franc» und Vertretern von Bilbao.
+Found
+MODSMD_ARTICLE13: Rotes Kreuz versucht, Greueltaten in Madrid zu verhindern.
+Found
+MODSMD_ARTICLE14: Geiselmassenmord in Cartagena.
+Found

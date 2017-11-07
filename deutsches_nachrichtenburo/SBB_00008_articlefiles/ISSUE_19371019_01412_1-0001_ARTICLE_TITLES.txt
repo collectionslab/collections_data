@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Gruß des Führers an die Vorgeschichtstagung in Elbing.
+Found
+MODSMD_ARTICLE02: Ein Mussolini-Bild für das Quedlinburger Klopstock-Haus.
+Found
+MODSMD_ARTICLE03: Ausbau der deutsch-afghanischen Beziehungen.
+Found
+MODSMD_ARTICLE04: Deutscher Beamtentag. Ehrenurkunde für Dr. Frick.
+Found
+MODSMD_ARTICLE06: Brücke Zwischen Heimat und Auslandsdeutschtmn.
+Found
+MODSMD_ARTICLE07: Dr, Lammers auf der Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE08: Italiens Beitrag zur Freiwilligenfrage wird verdächtigt.
+Found
+MODSMD_ARTICLE09: Italienische Wirtschaftsoperationen.
+Found
+MODSMD_ARTICLE10: Mittäterschaft Frankreichs im Nahen Osten?
+Found
+MODSMD_ARTICLE11: Beschlüsse des französischen Ministerrates.
+Found
+MODSMD_ARTICLE12: Londoner Hauptunterausschuß zusammengetreten.
+Found

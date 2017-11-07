@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Gauleiter Bohle au die Ausländsdeutschen.
+Found
+MODSMD_ARTICLE02: Peter Naabe zum Ehrendoktor ernannt.
+Found
+MODSMD_ARTICLE03: Delbos über das Ideal der „friedlichen Völker".
+Found
+MODSMD_ARTICLE04: Daladier als Anwalt der Volksfront.
+Found
+MODSMD_ARTICLE05: Der Streik in den Liller Metallwerken.
+Found
+MODSMD_ARTICLE06: Der Streit um die Zyrardow-Werke endgültig geregelt.
+Found
+MODSMD_ARTICLE07: Jüdische Logenbrüder für Volksfront in Polen.
+Found
+MODSMD_ARTICLE08: Die skandinavisch-britischen Floitenbesprechnngen.
+Found
+MODSMD_ARTICLE09: Wittcrungsumschwung an der Madrider Front.
+Found
+MODSMD_ARTICLE10: Lebendig verbrannt.
+Found
+MODSMD_ARTICLE11: Luftbombarbement auf sowjetrussifche Munitivustransporte.
+Found
+MODSMD_ARTICLE12: Sowjetdampfer mit Kriegsmaterial versenkt.
+Found
+MODSMD_ARTICLE13: Entsendung sowjetrussischer Kriegsschiffe ins Mittelmeer.
+Found
+MODSMD_ARTICLE14: Drei Uuterhausabgeorduete überzeugen sich.
+Found
+MODSMD_ARTICLE15: Eot liefert das modernste französische Flugzeug aus.
+Found
+MODSMD_ARTICLE16: So wütet Moskau gegen die Kirchen!
+Found
+MODSMD_ARTICLE17: Der Gouverneur der Bank von China in Sianfu.
+Found
+MODSMD_ARTICLE18: Die Stärke der Meuterer in Scheuß.
+Found
+MODSMD_ARTICLE19: Chinas Presse zur Kampfeiustellung der Mongolenfuhrer.
+Found
+MODSMD_ARTICLE20: Schweres Erdbeben in Salvador.
+Found

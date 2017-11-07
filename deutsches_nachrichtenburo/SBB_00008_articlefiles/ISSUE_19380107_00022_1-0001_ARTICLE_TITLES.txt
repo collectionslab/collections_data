@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Rudolf Heß im deutsch-englischen lugendlager.
+Found
+MODSMD_ARTICLE02: Schirnch begrüßt französische und belgische Lager-Gäste.
+Found
+MODSMD_ARTICLE03: Die Forschungsreise des Vermessungsschiffes „Meteor".
+Found
+MODSMD_ARTICLE04: Prinzessin Friederike Luise in Athen.
+Found
+MODSMD_ARTICLE05: Franco gegen den Raub an Spaniens Volksvermögen.
+Found
+MODSMD_ARTICLE06: Neue Fortschritte der nationalen Truppen bei Ternel.
+Found
+MODSMD_ARTICLE07: Bescherung spanischer Kinder durch den deutschen Botschafter.
+Found
+MODSMD_ARTICLE08: Varmat, einer der Ostjuden, die man so in Schutz nimmt.
+Found
+MODSMD_ARTICLE09: Rumänischer Marineattache in Rom.
+Found
+MODSMD_ARTICLE10: Die englische Presse zur steigenden Arbeitslosigkeit.
+Found
+MODSMD_ARTICLE11: Fragen über die „Minderheiten"-Politik der Westmächte.
+Found
+MODSMD_ARTICLE12: Rumäniens Gesandter in Prag empfangen.
+Found
+MODSMD_ARTICLE13: Zustrom zur neuen Wafd-Gruppe.
+Found
+MODSMD_ARTICLE14: Amerikanisches Bombenflugzeug vermißt.
+Found
+MODSMD_ARTICLE15: Hunger in Cleveland.
+Found
+MODSMD_ARTICLE16: Bargas auf dem Wege nach Uruguayana.
+Found
+MODSMD_ARTICLE17: 2W Millionen Mn Steuererhöhungen in Japan erwartet.
+Found

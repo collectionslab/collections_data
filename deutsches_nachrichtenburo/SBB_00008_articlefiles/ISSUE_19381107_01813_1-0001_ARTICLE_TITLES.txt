@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Feiern des 3. November in der Reichshaupistadt.
+Found
+MODSMD_ARTICLE02: Italienische Gefallenengedenkfeier in Berlin.
+Found
+MODSMD_ARTICLE03: Der Gesandte von Mandschukuo in Berlin.
+Found
+MODSMD_ARTICLE04: Das deutsch-irische Handelsabkommen.
+Found
+MODSMD_ARTICLE05: In 454 Stunden von Berlin nach München.
+Found
+MODSMD_ARTICLE06: Leistungsabzeichen für die I. G. Farbenindustrie.
+Found
+MODSMD_ARTICLE07: „Wreme"': „Mitteleuropa den Mitteleuropäern."
+Found
+MODSMD_ARTICLE08: Prinzregent Paul wieder in Belgrad.
+Found
+MODSMD_ARTICLE09: „Heimatverteidigung" statt Aufrüstung.
+Found
+MODSMD_ARTICLE10: Der südafrikanische Verteidigungsminister bei Chamberlain.
+Found
+MODSMD_ARTICLE11: Tagung des Großen Faschistischen Rates.
+Found
+MODSMD_ARTICLE12: Großsprecherei zur Vertuschung politischer Niederlagen.
+Found
+MODSMD_ARTICLE13: Jüdischer Mordanschlag auf deutschen Legationssekretär.
+Found
+MODSMD_ARTICLE14: Die Japaner in raschem Vormarsch.
+Found

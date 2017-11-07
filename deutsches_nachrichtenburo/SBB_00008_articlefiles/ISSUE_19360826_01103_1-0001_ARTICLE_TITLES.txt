@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Schach-Olympia München 1936.
+Found
+MODSMD_ARTICLE03: Eine Stimme der Vernunft.
+Found
+MODSMD_ARTICLE04: Die „Times" über-die Dienstpflichtverlängerung.
+Found
+MODSMD_ARTICLE05: Frankreich prüft die Lage.
+Found
+MODSMD_ARTICLE07: Marxistische Kundgebung in Paris.
+Found
+MODSMD_ARTICLE08: Londoner Blätter zur „Terroristen"-Hinrichtung in Moskau.
+Found
+MODSMD_ARTICLE09: Besichtigungsreise des englischen Marineministers.
+Found
+MODSMD_ARTICLE10: Die Zahl der englischen Militärslugplätze wird erhöht.
+Found
+MODSMD_ARTICLE11: Irland ebenfalls für Nichteinmischung.
+Found
+MODSMD_ARTICLE12: Ausländisches Fliegergeschwader in Madrid?
+Found
+MODSMD_ARTICLE13: 669 Marineoffiziere von Marxisten ertränkt.
+Found
+MODSMD_ARTICLE14: Die spanische Gesandtschaft in Tokio für Franco.
+Found
+MODSMD_ARTICLE15: Frau des Kommunisten Ewert aus Brasilien ausgewiesen.
+Found
+MODSMD_ARTICLE16: Angriff gegen Japaner in Tschengtu: 2 Japaner ermordet?
+Found
+MODSMD_ARTICLE17: Neuer amerikanischer Botschafter in Paris.
+Found
+MODSMD_ARTICLE18: Neubauten in der amerikanischen Kriegsmarine.
+Found
+MODSMD_ARTICLE19: Tie Beziehungen Bolivien—Paraguay wiederaufgenommen.
+Found
+MODSMD_ARTICLE20: Silvestre Guerrero mexikanischer Innenminister.
+Found
+MODSMD_ARTICLE21: Gonzales Nachfolger von Portes Gil.
+Found
+MODSMD_ARTICLE22: Revolveranschlag auf Industriellen in Mexiko.
+Found

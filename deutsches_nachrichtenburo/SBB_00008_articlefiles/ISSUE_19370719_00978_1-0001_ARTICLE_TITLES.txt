@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der neue spanische Botschafter in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE02: Tagung der Neichsberussgruppe Rechtsbeistände.
+Found
+MODSMD_ARTICLE03: Deutsch-österreichisches Frontkämpfertreffen in Wels.
+Found
+MODSMD_ARTICLE05: Starker Widerhall der Chamberlain-Rede.
+Found
+MODSMD_ARTICLE06: Rundfunkansprache Rossonis an die Bauern Italiens.
+Found
+MODSMD_ARTICLE07: Italien zum Jahrestag des spanischen Freiheitskampfes.
+Found
+MODSMD_ARTICLE08: Der GPU-Henker Jeschow wird belohnt.
+Found
+MODSMD_ARTICLE09: Luftschutzmaßnahmen in Darren aufgehoben.
+Found
+MODSMD_ARTICLE10: Japan wendet sich direkt an Nanking.
+Found
+MODSMD_ARTICLE11: Nationalspanischer Gesandter in Guatemala eingetroffen.
+Found
+MODSMD_ARTICLE12: Ernste Lage der chilenischen Botschaft in Madrid.
+Found
+MODSMD_ARTICLE13: Schwerer Unfall im Hamburger Hafen.
+Found
+MODSMD_ARTICLE14: 119 Todesopfer der Eisenbahnkatastrophe in Zentral-Jndien.
+Found
+MODSMD_ARTICLE15: Eine chinesische Pulverfabrik in die Luft geflogen.
+Found

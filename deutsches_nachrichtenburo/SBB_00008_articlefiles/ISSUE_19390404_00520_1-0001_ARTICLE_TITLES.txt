@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Das Ränkespiel Englands und Frankreichs.
+Found
+MODSMD_ARTICLE02: Italien: Englischer Anschlag auf den Frieden.
+Found
+MODSMD_ARTICLE03: Sowjetruszland als Rohstoff- und Operationsbasis.
+Found
+MODSMD_ARTICLE04: Paris im Schlepptau der englischen Einkreisungspolitik.
+Found
+MODSMD_ARTICLE05: Botschafterbesuche bei Bonnet.
+Found
+MODSMD_ARTICLE06: Die französische Presse zur neuen Kandidatur Lebruns.
+Found
+MODSMD_ARTICLE07: Das Endergebnis der dänischen Reichstagswahl.
+Found
+MODSMD_ARTICLE08: Der König von Irak tödlich verunglückt.
+Found
+MODSMD_ARTICLE09: Die Türkei dementiert Havas.
+Found
+MODSMD_ARTICLE10: Ein neuer Reinfall Roosevelts.
+Found
+MODSMD_ARTICLE11: Roosevelt übergeht den Kongreß.
+Found
+MODSMD_ARTICLE12: Die USA.-Wirtschaftspolitik belastet die Farmer.
+Found
+MODSMD_ARTICLE13: KWV Kriegsflugzeuge in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE14: Enttäuschung für die jüdischen Hetzer.
+Found

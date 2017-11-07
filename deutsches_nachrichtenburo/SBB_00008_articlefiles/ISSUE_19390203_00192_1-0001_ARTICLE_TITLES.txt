@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: König Gustaf von Schweden im Deutschen Opernhaus.
+Found
+MODSMD_ARTICLE02: Prag vereinfacht Verwaltung.
+Found
+MODSMD_ARTICLE03: Jüdische Betrügereien beim slowakischen Getreidemonopol.
+Found
+MODSMD_ARTICLE04: Tie Hilfe der Judeulogeu in USA. für Rotspanien.
+Found
+MODSMD_ARTICLE05: Neue Schandtat der Röten.
+Found
+MODSMD_ARTICLE06: Ausländer verteidigen das rote Katalonien.
+Found
+MODSMD_ARTICLE07: Flüchtlingslager in Burgos eingerichtet.
+Found
+MODSMD_ARTICLE08: Typhus bei den rotspanischen Flüchtlingen.
+Found
+MODSMD_ARTICLE09: Eine Groteske!
+Found
+MODSMD_ARTICLE10: Ministerbesprechung im französischen Kriegsministerium.
+Found
+MODSMD_ARTICLE11: Worte und Realitäten.
+Found
+MODSMD_ARTICLE12: Wachsende Spannung innerhalb der Labour-Partei.
+Found
+MODSMD_ARTICLE13: Altersnnterstnbnng für Abgeordnete.
+Found
+MODSMD_ARTICLE14: Was ist mit Englands Kolonialverwaltnng?
+Found
+MODSMD_ARTICLE15: Schwere Zusammenstöße in Westindien.
+Found
+MODSMD_ARTICLE16: Tie ständigen Auseinandersetzungen in Palästina.
+Found
+MODSMD_ARTICLE17: Japan nimmt an der Weltausstellung 1342 in Rom teil.
+Found
+MODSMD_ARTICLE18: Kanada und die Bereinigten Staaten»
+Found
+MODSMD_ARTICLE19: Sturm gegen Roosevelts Kriegstreibereien.
+Found
+MODSMD_ARTICLE20: Morgenthau lehnt Einblick in seine dunklen Geschäfte ab.
+Found
+MODSMD_ARTICLE21: Dies-Ausschuß untersucht weiter.
+Found

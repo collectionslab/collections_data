@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Fraueois-Poncet nimmt Abschied.
+Found
+MODSMD_ARTICLE02: Besprechungen Kerrls in Oesterreich.
+Found
+MODSMD_ARTICLE03: KdFJFahrer aus Paris zurück.
+Found
+MODSMD_ARTICLE04: Neichsmimster Dr. Frank verließ Budapest.
+Found
+MODSMD_ARTICLE05: Sitzung der karpatho-ukrainischeu Regierung.
+Found
+MODSMD_ARTICLE06: Große deutsche Kundgebung in Uzhorod.
+Found
+MODSMD_ARTICLE07: Selbständige Eisenbahndirektion in der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE08: Rückkehr des slowakischen Volksführers Tuka.
+Found
+MODSMD_ARTICLE09: Proteste gegen das jüdische Schmarotzertum in Prag.
+Found
+MODSMD_ARTICLE10: Die Neugestaltung der tschecho slowakischen Innenpolitik.
+Found
+MODSMD_ARTICLE11: Tie Judenfrage in der Slowakei ein ernstes Problem.
+Found
+MODSMD_ARTICLE12: Prinz Arsen beigesetzt.
+Found
+MODSMD_ARTICLE13: Scharfe Ablehnung der Erbärmlichkeiten Churchills.
+Found
+MODSMD_ARTICLE14: König Leopold wieder in Brüssel.
+Found

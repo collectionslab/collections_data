@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Tagesbefehl des Reichsjugendführers.
+Found
+MODSMD_ARTICLE02: Der Fmanzminister von Uruguay in Hamburg.
+Found
+MODSMD_ARTICLE03: Dortmund und Umgebung am Freitag Luftsperrgebiet.
+Found
+MODSMD_ARTICLE04: Polen sichert Berücksichtigung der Wirtschaftsbelange Danzigs zu.
+Found
+MODSMD_ARTICLE05: Internationaler Kongreß für Meeresso rschung.
+Found
+MODSMD_ARTICLE06: Die „Times" für baldige Verhandlungen mit Deutschland.
+Found
+MODSMD_ARTICLE07: Die Abessinienfrage vor dem englischen Kabinett.
+Found
+MODSMD_ARTICLE08: Die Untersuchung des englischen Versicherungsskandals.
+Found
+MODSMD_ARTICLE09: Wachsende Beunruhigung bei den Radikalsozialisten.
+Found
+MODSMD_ARTICLE10: Zusammenkunft der Staatschefs der Kleinen Entente.
+Found
+MODSMD_ARTICLE11: 9 Selbstmorde im Zusammenhang mit dem Phönixskandal.
+Found
+MODSMD_ARTICLE12: Ausbau der italienisch-brasilianischen Beziehungen.
+Found
+MODSMD_ARTICLE13: Ruhiger Verlauf des griechischen Generalstreiks.
+Found
+MODSMD_ARTICLE14: Neue Unruhen in Spanien.
+Found
+MODSMD_ARTICLE15: Aegypten gegen jüdische Flüchtlinge.
+Found
+MODSMD_ARTICLE16: Berichtigung.
+Found

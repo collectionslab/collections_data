@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Reichsführung und Gaubcauftragte des WHW beim Führer.
+Found
+MODSMD_ARTICLE02: Der Führer empfängt den ungarischen Kultusminister.
+Found
+MODSMD_ARTICLE03: Verhandlungen über den deutsch-ungarischen Kulturvertrag
+Found
+MODSMD_ARTICLE04: Luftfperre über der Kieler Bucht.
+Found
+MODSMD_ARTICLE05: Eröffnung der Großen Münchener Kunstausstellung.
+Found
+MODSMD_ARTICLE06: Sondernummer des „I. B." in Litauen verboten.
+Found
+MODSMD_ARTICLE07: „Gazeta Polska" zum Belgrader Besuch Becks.
+Found
+MODSMD_ARTICLE08: Zusammentritt der Mandatskommission des Völkerbundes.
+Found
+MODSMD_ARTICLE09: Der Bericht über den Verficherungsskandal fertiggestellt.
+Found
+MODSMD_ARTICLE10: Bericht des Oberkommissars von Palästina.
+Found
+MODSMD_ARTICLE11: China protestiert gegen japanische Truppenverstärkungen.
+Found
+MODSMD_ARTICLE12: Bluttat mexikanischer Banditen.
+Found

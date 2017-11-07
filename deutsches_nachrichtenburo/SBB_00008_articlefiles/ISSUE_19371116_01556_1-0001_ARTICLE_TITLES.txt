@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer bei der Beisetzung von Frau Schindler.
+Found
+MODSMD_ARTICLE02: Von Blomberg und Dr. Goebbels auf der Jagdausstellung.
+Found
+MODSMD_ARTICLE03: Führeuder japanischer Wirtschaftler besucht Deutschland.
+Found
+MODSMD_ARTICLE04: Ungarns Gesandter bei Auslandsorganisation der NSDAP.
+Found
+MODSMD_ARTICLE05: Walfang-Abkommen von Deutschland ratifiziert.
+Found
+MODSMD_ARTICLE06: Dr. Ley eröffnet die Sonthofener Tagungen.
+Found
+MODSMD_ARTICLE07: Belgisches Verkehrsflugzeug verunglückt. 11 Tote.
+Found
+MODSMD_ARTICLE08: Lord Halifax auf dem Wege nach Berlin.
+Found
+MODSMD_ARTICLE09: Dr. Todt in England eingetroffen.
+Found
+MODSMD_ARTICLE10: Der König der Belgier auf dem Wege nach London.
+Found
+MODSMD_ARTICLE11: KdF. fährt zum zweiten Mal nach Italien.
+Found
+MODSMD_ARTICLE12: Eine römische Stimme zur Brüsseler Konserenz.
+Found
+MODSMD_ARTICLE13: Vergrößerung der holländischen Artilleriewerkstätten.
+Found
+MODSMD_ARTICLE14: Starke Feuertätigkeit bei Tschangtschu.
+Found
+MODSMD_ARTICLE15: Die Japaner bis zum Hoangho vorgerückt.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Sonntag Abfahrt des bisherigen japanischen Botschafters.
+Found
+MODSMD_ARTICLE02: Jurenew kehrt nicht nach Berlin zurück.
+Found
+MODSMD_ARTICLE03: Presseempfang bei Neichsminister Darre.
+Found
+MODSMD_ARTICLE04: Verordnung zur Sicherung der Evangelischen Kirche.
+Found
+MODSMD_ARTICLE05: Professor Burgdörfer bei Mussolini.
+Found
+MODSMD_ARTICLE06: Organisierter jüdisch-bolschewistischer Terror.
+Found
+MODSMD_ARTICLE07: „Haltet den Dieb."
+Found
+MODSMD_ARTICLE08: Zuchthaus für Gründung bolschewistischer Zellen.
+Found
+MODSMD_ARTICLE09: Begeisterter Empfang Stojadinowitschs in Belgrad.
+Found
+MODSMD_ARTICLE10: Delbos nach Belgrad weitergereist.
+Found
+MODSMD_ARTICLE11: Schweres Eisenbahnunglück in Schottland.
+Found
+MODSMD_ARTICLE12: Das dänische Königspaar in London.
+Found
+MODSMD_ARTICLE13: Luftkampf an der Aragon-Front.
+Found
+MODSMD_ARTICLE14: General Francs will den vollständigen Sieg erkämpfen.
+Found
+MODSMD_ARTICLE15: In den Fußtapfen Attlees.
+Found
+MODSMD_ARTICLE16: Der angebliche Attentatsplan gegen Telbos.
+Found
+MODSMD_ARTICLE17: Sprengstoffanschlag gegen französische Bürgermeisterei.
+Found
+MODSMD_ARTICLE18: Streikabbruch in den Caudron-Flugzeugwerken.
+Found
+MODSMD_ARTICLE19: Streikbeschluß der Bauarbeiter von St. Nazairr.
+Found
+MODSMD_ARTICLE20: Chinesischer Gegenangriff in Nanking abgeschlagen.
+Found

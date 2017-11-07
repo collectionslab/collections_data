@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: DAF. sammelt am 17./18. Oktober für das WHW,
+Found
+MODSMD_ARTICLE02: löst ststst RM-Spcnde des Eher-Verlagcs für das WHW.
+Found
+MODSMD_ARTICLE03: Starke Beachtung des WHW. in England.
+Found
+MODSMD_ARTICLE04: Jahresschau des Gaststätten-Gewerbes in Verlin.
+Found
+MODSMD_ARTICLE05: Polen zur Rohstoff- und Auswanderungsfrage.
+Found
+MODSMD_ARTICLE06: Polnisches Beileid zum Tode Gömbös'.
+Found
+MODSMD_ARTICLE07: Englische Würdigung für Gömbös.
+Found
+MODSMD_ARTICLE08: Labour Party und englische Nüstungspolitik.
+Found
+MODSMD_ARTICLE09: Labour Party lehnt Verschmelzung mit Kommunisten ab.
+Found
+MODSMD_ARTICLE10: Lord Derby fordert Stärkung des Heimatheeres.
+Found
+MODSMD_ARTICLE11: Der englische Schatzkanzler hoffnungsvoll.
+Found
+MODSMD_ARTICLE12: Skandalöse Streikzwischenfälle in Ronen.
+Found
+MODSMD_ARTICLE13: 5" den pariser Unruhen.
+Found
+MODSMD_ARTICLE14: Neue Truppentransporte aus Spanisch-Marokko.
+Found
+MODSMD_ARTICLE15: Wieder spanisches Gold für die Bank von Frankreich.
+Found
+MODSMD_ARTICLE16: Bomben auf Madrids Bahnhöfe und Kasernen.
+Found
+MODSMD_ARTICLE17: Geballte Faust als Soldatengrust.
+Found
+MODSMD_ARTICLE18: Flaggenhissung auf der Brücke Irun—Behobie.
+Not Found
+MODSMD_ARTICLE19: Ras Imru verläßt Gore.
+Found

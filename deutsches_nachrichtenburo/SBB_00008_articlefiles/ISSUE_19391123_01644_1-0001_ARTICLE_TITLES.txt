@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Funkverkehr mit dem britischen Geheimdienst.
+Found
+MODSMD_ARTICLE02: Heiteres aus ernster Zeit.
+Found
+MODSMD_ARTICLE03: Deutsche Flieger über Nordfrankreich.
+Found
+MODSMD_ARTICLE04: Der Schatten Englands.
+Found
+MODSMD_ARTICLE05: Englands Krieg langweilt den Poilu.
+Found
+MODSMD_ARTICLE06: „Eine gefährliche Waffe gegen die Aufrichtigen."
+Found
+MODSMD_ARTICLE07: Größte Befürchtung der Neutralen um ihre Schiffahrt.
+Found
+MODSMD_ARTICLE08: Im Verheimlichen von Verlusten ist England groß.
+Found
+MODSMD_ARTICLE09: Jugoslawien unter dem Eindruck der Enthüllungen.
+Found
+MODSMD_ARTICLE10: Moskau zur Aufdeckung des Münchmer Verbrechens.
+Found
+MODSMD_ARTICLE11: Französischer Fischdampfer von einem U-Boot versenkt.
+Found
+MODSMD_ARTICLE12: England über die Erfolge der deutschen U-Boote aufgeregt.
+Found
+MODSMD_ARTICLE13: Das Geschäft blüht nicht.
+Found
+MODSMD_ARTICLE14: Japan zum Untergang der „Terukuni Maru".
+Found

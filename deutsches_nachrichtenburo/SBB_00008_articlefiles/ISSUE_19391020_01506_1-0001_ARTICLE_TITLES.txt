@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ratifikation des Vertrages mit der Sowjetunion
+Found
+MODSMD_ARTICLE02: Dr. Todt erhält den Charakter als Generalmajor.
+Found
+MODSMD_ARTICLE03: Ernennungen.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Mit fremden Augen.
+Found
+MODSMD_ARTICLE06: Die britische Flotte ins Herz getroffen.
+Found
+MODSMD_ARTICLE07: Starke Beachtung des deutschen Heeresberichtes in Holland.
+Found
+MODSMD_ARTICLE08: Paris zahlt die Zeche für Englands Krieg.
+Found
+MODSMD_ARTICLE09: Drangsaliert, ausgeplündert und erpreßt.
+Found
+MODSMD_ARTICLE10: 819 Tote der „Royal Oak".
+Found
+MODSMD_ARTICLE11: „Unabhängigkeit für Indien".
+Found
+MODSMD_ARTICLE12: Grenzvertrag auch in Moskau ratifiziert.
+Found
+MODSMD_ARTICLE13: Bolivien erklärt seine Neutralität.
+Found
+MODSMD_ARTICLE14: „Heraus aus dem Empire."
+Found
+MODSMD_ARTICLE15: Einheitsbewegung der nationalen Südafrikaner.
+Found
+MODSMD_ARTICLE16: Vollstreckung eines Todesurteils.
+Found

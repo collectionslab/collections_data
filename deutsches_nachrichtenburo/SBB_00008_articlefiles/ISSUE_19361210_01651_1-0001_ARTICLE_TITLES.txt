@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Baldur von Schirach an die deutschen Eltern. (Schluß.)
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Erklärung Ribbentraps im Nichteinmischungsausschuß.
+Found
+MODSMD_ARTICLE04: Englisch-fruuzostsche Vorshläge über Spanien.
+Found
+MODSMD_ARTICLE05: Spanien-Anfragen im Unterhaus.
+Found
+MODSMD_ARTICLE06: Abwanderung italienischer Arbeiter ans Frankreich.
+Found
+MODSMD_ARTICLE07: Ein großer Reinfall.
+Found
+MODSMD_ARTICLE08: Ministerrat in Rom.
+Found
+MODSMD_ARTICLE09: Polen zur Reform des Völkerbundpaktes.
+Found

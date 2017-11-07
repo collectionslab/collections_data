@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Vorläufig 250 NM für Reisen nach Oesterreich.
+Found
+MODSMD_ARTICLE02: Vom Führer begnadigt.
+Found
+MODSMD_ARTICLE03: Sinpellauf des Schnelldampfers „Windhuk".
+Found
+MODSMD_ARTICLE04: Errichtung einer Nöntgeu-Gedächtnisstiftuug.
+Found
+MODSMD_ARTICLE05: Volksdeutsche Arbeit in Jugoslawien.
+Found
+MODSMD_ARTICLE07: Der Gesundheitszustand des ungarischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE08: GPU in der Londoner Sowjetbotschaft.
+Found
+MODSMD_ARTICLE09: Der Nichteinmischungsplan.
+Found
+MODSMD_ARTICLE10: Ernster Konflikt im belgischen Militärausschuß.
+Found
+MODSMD_ARTICLE11: Streikende Arbeiter sperren Fabrikdirektor ein.
+Found
+MODSMD_ARTICLE12: Vor der Eröffnung der „zivilen" Fluglinie Moskau—Prag.
+Not Found
+MODSMD_ARTICLE13: Schnelle Sühne für Ermordung der Japaner in Tschcngtu.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Vom Führer in Kiel empfangen.
+Found
+MODSMD_ARTICLE02: Teutschlands überlegener Sieg bei den Starbooten.
+Found
+MODSMD_ARTICLE03: Empfang zu Ehren hoher schwedischer Gäste.
+Found
+MODSMD_ARTICLE05: Die Weltrekorde der Olympiade anerkannt.
+Found
+MODSMD_ARTICLE06: Europas Schwimmer erobern die zweite Goldmedaille.
+Found
+MODSMD_ARTICLE07: Das Ergebnis des 1W Kin-Straßenrennens.
+Found
+MODSMD_ARTICLE08: „Musik und Tanz der Völker."
+Found
+MODSMD_ARTICLE09: In einer Woche fast KW Sonderziige nach Berlin.
+Found
+MODSMD_ARTICLE10: Welches Land gewann lue Medaillen?
+Found
+MODSMD_ARTICLE11: Olympia-Sternflieger an der Nordsee.
+Found
+MODSMD_ARTICLE12: Empfang der Olympia-Sternflieger in Bremen.
+Found
+MODSMD_ARTICLE13: Die schwedische Presse über das Völkersest Olympia.
+Found
+MODSMD_ARTICLE14: „Mit einer Reise nach Berlin mehr als zufrieden".
+Found

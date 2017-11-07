@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer an Reichsminister Ruft.
+Found
+MODSMD_ARTICLE02: Reichsverband der Ortskrankenkassen.
+Found
+MODSMD_ARTICLE03: Das Programm des Erntedanktages 1937.
+Found
+MODSMD_ARTICLE04: Italien zum Gegenbesuch des Führers.
+Found
+MODSMD_ARTICLE05: Der polnische Außenminister in Wien.
+Found
+MODSMD_ARTICLE06: Großadmiral Orlow abgesetzt.
+Found
+MODSMD_ARTICLE07: Smirnow stellvertretender Kriegskommissar.
+Found
+MODSMD_ARTICLE08: Die Besatzung des Pamir-Flugzeuges berichtet.
+Found
+MODSMD_ARTICLE09: Wieder Hochspannung in Jerusalem.
+Found
+MODSMD_ARTICLE10: Neues amerikanisches Flugzeugmutterschiff.
+Found
+MODSMD_ARTICLE11: Vor der Verhängung des Ausnahmezustandes in Brasilien.
+Found

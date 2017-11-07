@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Unerträgliche Schulverhältnisse in Ostoberschlesien.
+Found
+MODSMD_ARTICLE02: Minister Alfieri empfing Generalmusikdirektor Schuricht.
+Found
+MODSMD_ARTICLE03: Schuschnigg und Dr. Schmidt reisen nach Budapest.
+Found
+MODSMD_ARTICLE04: Der Tiroler Dramatiker Kranewitter gestorben.
+Found
+MODSMD_ARTICLE05: „Neuigkeitsweltblatt": Roosevelt-Rede wenig erfreulich.
+Found
+MODSMD_ARTICLE06: Der tschechoslowakische Gesandte in Bern geht nach Wien.
+Found
+MODSMD_ARTICLE07: USA-Botschafter und Rumäniens Gesandter bei Chautemps.
+Found
+MODSMD_ARTICLE08: Der französische Konsul in Iran verhaftet?
+Found
+MODSMD_ARTICLE09: Jugoslawien grüßt General Francs.
+Found
+MODSMD_ARTICLE10: Neuer Präsident der Kontrollkommission für Tanger.
+Found
+MODSMD_ARTICLE11: Neuorganisation des portugiesischen Heeres.
+Found
+MODSMD_ARTICLE12: Eine Neujahrsbotschaft Lord Londonderrhs.
+Found
+MODSMD_ARTICLE13: Eine Palästina-Erklärung Ormsby Gores.
+Found
+MODSMD_ARTICLE14: Das Weißbuch über Palästina.
+Found
+MODSMD_ARTICLE15: Micescu über die rumänische Außenpolitik.
+Found
+MODSMD_ARTICLE16: Skrupellose jüdische Manöver in Rumänien.
+Found
+MODSMD_ARTICLE17: Scharfer türkischer Protest in der Alexandrette-Frage.
+Found
+MODSMD_ARTICLE18: USA.-Presse ignoriert Außenpolitik der Roosevelt-Rede.
+Found

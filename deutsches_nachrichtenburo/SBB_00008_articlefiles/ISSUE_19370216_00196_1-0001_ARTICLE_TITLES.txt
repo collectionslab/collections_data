@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Göring lagdgast des polnischen Staatspräsidenten. .
+Found
+MODSMD_ARTICLE02: Empfang der Teilnehmer des Frontkämpfer-Kongresses.
+Found
+MODSMD_ARTICLE03: Neuer Präsident der Deutschen Forschungsgemeinschaft.
+Found
+MODSMD_ARTICLE04: Geburtstagsehrungen für Dr. Ley in Godesberg.
+Found
+MODSMD_ARTICLE05: Präsident Cianetti auf der Ordensburg Vogelsang.
+Found
+MODSMD_ARTICLE06: Entrüstung in Wien über den bolschewistischen Flieger.
+Found
+MODSMD_ARTICLE07: Deutsch-englische Flottenbesprechungen.
+Found
+MODSMD_ARTICLE08: Danziger Marxisten wegen illegaler Betätigung verurteilt.
+Found
+MODSMD_ARTICLE09: Sudetendeutsche erkennen Ausgleichsverhandluugen nicht an.
+Found
+MODSMD_ARTICLE10: Freiwilligenverbot ab 20. Februar.
+Found
+MODSMD_ARTICLE11: Schnellzuguuglück in England.
+Found
+MODSMD_ARTICLE12: Man kann Spionage nicht ernst genug nehmen!
+Found
+MODSMD_ARTICLE13: Italienische Amnestie anläßlich der Geburt des Thronerben.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Rom: Die „Botschaft" ein anmaßender EinmischungSdersuch.
+Found
+MODSMD_ARTICLE02: Mailand: Roosevelts Botschaft nicht ernst zu nehmen»
+Found
+MODSMD_ARTICLE03: Londoner Triumphgeheul entlarvt Noosevelts Manöver.
+Found
+MODSMD_ARTICLE04: Paris betet London nach.
+Found
+MODSMD_ARTICLE05: Die belgische Presse Zurückhaltend.
+Found
+MODSMD_ARTICLE06: Kühle Zurückhaltung in Holland.
+Found
+MODSMD_ARTICLE07: Einberufung des Reichstages.
+Found
+MODSMD_ARTICLE08: Ungarn: Besuch in Rom wichtiger.
+Found
+MODSMD_ARTICLE09: Moskau überschlägt sich vor Begeisterung.
+Found
+MODSMD_ARTICLE10: Moskauer Jude kommunistischer Diktator in Belgien.
+Found
+MODSMD_ARTICLE11: Spanien-Befreinngsfeier in Chile.
+Found
+MODSMD_ARTICLE12: Kanada gegen englische Bevormundung.
+Found

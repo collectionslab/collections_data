@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Dr. Todt SA.-Obergruppenführer.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: SdP.-Verhandlungen mit Hodscha unterbrochen.
+Found
+MODSMD_ARTICLE04: Tie Mißhandlung des Abgeordneten May ärztlich bezeugt.
+Found
+MODSMD_ARTICLE05: Tschechische „Lösung" der Hultschiner Schulfrage.
+Found
+MODSMD_ARTICLE06: Mysteriöser Selbstmord eines sudetendeutfchen Soldaten.
+Found
+MODSMD_ARTICLE07: „Evening Standard" zum „Times"-Lösnngsvorfchlag.
+Found
+MODSMD_ARTICLE08: Chamberlain wieder in London.
+Found
+MODSMD_ARTICLE09: Admiral Sir Roger Backhouse Erster Lord der Admiralität.
+Found
+MODSMD_ARTICLE10: „Giornale d'Jtalia": Die Juden sind Geiseln!
+Found
+MODSMD_ARTICLE11: .FMük u 56 i, N' Keine jüdischen Lehrbücher mehr. "
+Found
+MODSMD_ARTICLE12: Die Zwischenfalle im Memeler Hafen.
+Found
+MODSMD_ARTICLE13: Kommunisten verübten das Attentat in Frederikshavn.
+Found
+MODSMD_ARTICLE14: Stomonjakow nicht mehr im Amt.
+Found
+MODSMD_ARTICLE15: Ein Aufrührer von Kreta verhastet.
+Found
+MODSMD_ARTICLE16: Wieder eine Landmine in Palästina explodiert.
+Found
+MODSMD_ARTICLE17: Taikang bei überraschendem Vorstost genommen.
+Found
+MODSMD_ARTICLE18: Befreiung der Provinz Hopeh von chinesischen Guerillas.
+Found

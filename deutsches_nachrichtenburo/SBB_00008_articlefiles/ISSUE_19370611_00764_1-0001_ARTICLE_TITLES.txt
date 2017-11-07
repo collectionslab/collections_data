@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ehrung der deutschen Presse in Sofia.
+Found
+MODSMD_ARTICLE02: Eine einsichtige englische Stimme.
+Found
+MODSMD_ARTICLE03: Tie „Normandie" bringt Gold nach USA.
+Found
+MODSMD_ARTICLE04: Die Senatsaussprache über das MilliardendefiZit.
+Found
+MODSMD_ARTICLE05: Das Zollvollmachten-Gesetz in der Pariser Kammer.
+Found
+MODSMD_ARTICLE06: Volle Kehrichteimer auf französischen Straßen.
+Found
+MODSMD_ARTICLE07: Streikzwischenfälle in einem Pariser Vorort.
+Found
+MODSMD_ARTICLE08: Noch eine Absage an Doriots „Freiheitssront".
+Found
+MODSMD_ARTICLE09: Ein Nationaldenkmal für Briand.
+Found
+MODSMD_ARTICLE10: Stapellauf eines französischen Torpedobootzerstörers.
+Found
+MODSMD_ARTICLE11: Der Ständerat für Anerkennung des Imperiums.
+Found
+MODSMD_ARTICLE12: Polen räumt mit den Kommunisten auf.
+Found
+MODSMD_ARTICLE13: Opferbereitschaft polnischer Kriegsteilnehmer.
+Found
+MODSMD_ARTICLE14: Englischer Zerstörer rettet nationalspanische Flüchtlinge.
+Found
+MODSMD_ARTICLE15: Neuer Außenminister von Costarica.
+Found
+MODSMD_ARTICLE16: Deutsche Schulkinder kehren aus Amerika Zurück.
+Found
+MODSMD_ARTICLE17: 177 neue Flugzeuge für die amerikanische Armee.
+Found
+MODSMD_ARTICLE18: Kampf gegen die Steuerhinterziehungen in USA.
+Found
+MODSMD_ARTICLE19: Blutiges Handgemenge in Monroe.
+Found

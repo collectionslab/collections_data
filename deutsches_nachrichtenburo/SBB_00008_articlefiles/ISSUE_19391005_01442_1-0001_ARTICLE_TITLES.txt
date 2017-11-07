@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Empfang chilenischer und peruanischer Wissenschaftler.
+Found
+MODSMD_ARTICLE02: Prag begrüßt die U-Leibstandarte Adolf Hitler.
+Found
+MODSMD_ARTICLE03: Die Verhandlungen zwischen Lettland und der Sowjetunion.
+Found
+MODSMD_ARTICLE04: Ratifikationsurkunden zum estnisch-sowjetrussischen Pakt.
+Found
+MODSMD_ARTICLE05: Der türkische Austenminister bei Woroschilow und Mikoyan.
+Found
+MODSMD_ARTICLE06: „Telegraaf": Gegensätzliche Auffassungen in England.
+Found
+MODSMD_ARTICLE07: Es bleibt beim Ehamberlain-Kabinett.
+Found
+MODSMD_ARTICLE08: England bleibt beim freiwilligen Rekrutierungssystem.
+Found
+MODSMD_ARTICLE09: Deutschland hält sich strikt an das Giftgasverbot.
+Found
+MODSMD_ARTICLE10: Vervollständigung des belgischen Berteidigungssystems.
+Found
+MODSMD_ARTICLE11: Zahlreiche Glückwünsche Zum Namenstage General Francos.
+Found
+MODSMD_ARTICLE12: Um das neue Außenihandelsministerium in Tokio.
+Found
+MODSMD_ARTICLE13: Argentinien besteht aus Rückgabe der Falklandinseln.
+Found
+MODSMD_ARTICLE14: Notwendigkeit der Neutralität allgemein durchgesetzt.
+Found
+MODSMD_ARTICLE15: Zäher Kampf um das Waffenembargo in Washington.
+Found

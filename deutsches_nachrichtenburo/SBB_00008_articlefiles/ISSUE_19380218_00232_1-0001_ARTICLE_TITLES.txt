@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Führer drei Stunden auf der Autoschau.
+Found
+MODSMD_ARTICLE02: Alles für die Reichstagstagung vorbereitet.
+Found
+MODSMD_ARTICLE03: Auch Oesterreich hört die Rede des Führers.
+Found
+MODSMD_ARTICLE04: Die Freilassung der politischen Häftlinge in Oesterreich.
+Found
+MODSMD_ARTICLE05: Die Wiener Presse gegen Khantasiemeldungen.
+Found
+MODSMD_ARTICLE06: Die belgische Presse zu den Wiener Ereignissen.
+Found
+MODSMD_ARTICLE07: Italien lacht über die Ausreden Moskaus.
+Found
+MODSMD_ARTICLE08: „Popolo diltalia" über die Enthüllungen Budenkos.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ernennungen im Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE02: Ans der Diplomatie,
+Found
+MODSMD_ARTICLE03: Empfang für den Internationalen Verlegerkongreß.
+Found
+MODSMD_ARTICLE04: Großkundgebung des NS.-Altherrenbundes.
+Found
+MODSMD_ARTICLE05: Danzigs neuer Bischof bei Senatspräsident Greiser.
+Found
+MODSMD_ARTICLE06: Ergreisendes Bekenntnis zum Deutschtum.
+Found
+MODSMD_ARTICLE07: Deutsche Studenten der Zeitungswissenschaft in Italien.
+Found
+MODSMD_ARTICLE08: Rom beglückwünscht Stojadinowitsch.
+Found
+MODSMD_ARTICLE09: Italien prangert französische Lügen an.
+Found
+MODSMD_ARTICLE10: Abschluß der Unterhaus-Aussprache.
+Found
+MODSMD_ARTICLE11: Die Volksfroutparoleu ziehen nicht mehr.
+Found
+MODSMD_ARTICLE12: Pariser Sorgen um die Sandschak-Krise.
+Found
+MODSMD_ARTICLE13: Die Erfolge der Nationalen an der Andalusien-Front.
+Found
+MODSMD_ARTICLE14: Auch Nikaragua und Honduras verlassen die Genfer Liga.
+Found

@@ -1,0 +1,50 @@
+MODSMD_ARTICLE01: Die Balilla-Osfiziere in die Heimat abgereist.
+Found
+MODSMD_ARTICLE02: 500 italienische Urlauber in Köln.
+Found
+MODSMD_ARTICLE03: General Beck empfängt ausländische Militärattaches.
+Found
+MODSMD_ARTICLE04: Selbst die Juden fühlen sich nicht mehr sicher.
+Found
+MODSMD_ARTICLE05: Gras Esterhazy darf nicht über die Grenze.
+Found
+MODSMD_ARTICLE06: Panzerwagen im Bezirk Aussig.
+Found
+MODSMD_ARTICLE07: Slowakischer Wachtmeister niedergeschossen.
+Found
+MODSMD_ARTICLE08: Der ungarische Protest in Prag.
+Found
+MODSMD_ARTICLE09: Fußball-Länderkampf Ungarn—Tschecho-Slowakei abgesagt.
+Found
+MODSMD_ARTICLE10: Keine Munitions- und Waffentransporte durch Rumänien.
+Found
+MODSMD_ARTICLE11: Und der Zensor wütet weiter.
+Found
+MODSMD_ARTICLE12: Tschechische Militärtrausporte stören Eisenbahnverkehr.
+Found
+MODSMD_ARTICLE13: Samuprawa warnt Prag.
+Found
+MODSMD_ARTICLE14: Rom: Benesch hat sich den Kommunisten ausgeliefert.
+Found
+MODSMD_ARTICLE15: Portugals Presse fordert rasche und gerechte Lösung.
+Found
+MODSMD_ARTICLE16: Keine Nation will mit den Tschechen in einem Staat leben.
+Found
+MODSMD_ARTICLE17: Daladier und Bonnet wieder'in Paris.
+Found
+MODSMD_ARTICLE18: Das britische Kabinett tagt erneut.
+Found
+MODSMD_ARTICLE19: Rücksichtslose Anwendung der neuen Paßbestimmungen.
+Found
+MODSMD_ARTICLE20: Große polnische Manöver in den Rokitno-Sümpsen.
+Found
+MODSMD_ARTICLE21: Schärfster finnischer Protest in Moskau.
+Found
+MODSMD_ARTICLE22: Dienstpflicht für die rumänischen Frauen im Kriegsfalle.
+Found
+MODSMD_ARTICLE23: Verstärkung der englischen Streitkräfte in Aegypten.
+Found
+MODSMD_ARTICLE24: „Graf Zeppelin" glatt gelandet.
+Found
+MODSMD_ARTICLE25: Hochsprung-Weltrekord von Tora Ratjen.
+Found

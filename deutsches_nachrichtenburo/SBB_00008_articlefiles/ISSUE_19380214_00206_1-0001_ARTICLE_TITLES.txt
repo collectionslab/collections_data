@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Tee-Empfang in der Japanischen Botschaft.
+Found
+MODSMD_ARTICLE02: Griechenland ehrt Reichsminister Ruft.
+Found
+MODSMD_ARTICLE03: Großer Preis der Pariser Weltausstellung für die Lufthansa.
+Found
+MODSMD_ARTICLE04: 18 Jahre NSDAP. Partcigrüudungsseicr in München.
+Found
+MODSMD_ARTICLE05: Der ReichsfinanZMinister in Finnland.
+Found
+MODSMD_ARTICLE06: Keine erneute Regierungsumbildung in Rumänien.
+Found
+MODSMD_ARTICLE07: Wieder eine Hetzmeldung entlarvt.
+Found
+MODSMD_ARTICLE08: Holland erkennt das italienische Imperium an.
+Found
+MODSMD_ARTICLE09: „Haltung der britischen Regierung unverändert."
+Found
+MODSMD_ARTICLE10: Im Zeichen der Volksfront: Neue Brotpreiserhöhung.
+Found
+MODSMD_ARTICLE11: Der Erfolg der Nationalen bei de la Serena.
+Found
+MODSMD_ARTICLE12: Stalin bekräftigt das Bekenntnis zum Weltumsturz.
+Found
+MODSMD_ARTICLE13: Loktionow Chef der roten Luftflotte.
+Found
+MODSMD_ARTICLE14: Postyschew endgültig beseitigt.
+Found
+MODSMD_ARTICLE15: Washington lehnt jedes Zugeständnis ab.
+Found
+MODSMD_ARTICLE16: Verjüngung des Ossizierkorps in den Vereinigten Staaten.
+Found

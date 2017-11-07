@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die Proklamation des Führers über alle deutschen Sender.
+Found
+MODSMD_ARTICLE02: Berufserziehung im nationalsozialistischen Deutschland.
+Found
+MODSMD_ARTICLE03: Schulungstagung des Amtes Svziale Selbstverantwortung.
+Found
+MODSMD_ARTICLE04: Neue Tarifordnungen in der Bekleidungsindustrie.
+Found
+MODSMD_ARTICLE05: Freiherr von Gablenz zu den Atlantikflügen der Lufthansa.
+Found
+MODSMD_ARTICLE06: Eröffnung der Reichsautostrecke Breslau—Kreibau Sonntag.
+Not Found
+MODSMD_ARTICLE07: Besuch deutscher Schriftleiter in Jugoslawien.
+Found
+MODSMD_ARTICLE08: Oesterreicher wieder beim Landesschießen in München.
+Found
+MODSMD_ARTICLE09: Großer Beamtenschub in Frankreich.
+Found
+MODSMD_ARTICLE10: 20 spanische Offiziere zum Tode verurteilt.
+Found
+MODSMD_ARTICLE11: Erfolge der Nationalisten.
+Found
+MODSMD_ARTICLE12: Eine Rede des Madrider Außenministers in Genf.
+Found
+MODSMD_ARTICLE13: Japanische Note an Nanking.
+Found

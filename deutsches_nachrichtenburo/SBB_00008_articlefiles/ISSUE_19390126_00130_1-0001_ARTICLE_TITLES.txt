@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Gemeinsamer Kampf gegen das Weltiudentunl.
+Not Found
+MODSMD_ARTICLE02: Faschistische Miliz ehrt gefallene SA.-Männer der Ostmark.'
+Found
+MODSMD_ARTICLE03: Der Führer empfing die Befehlshaber der Wehrmacht.
+Found
+MODSMD_ARTICLE04: Ribbentrop begrüßt die Warschauer reichsdeutsche Kolonie.
+Found
+MODSMD_ARTICLE05: Polen bewundert die gewaltigen Leistungen Deutschlands.
+Found
+MODSMD_ARTICLE06: Auflösung der Kommuniischen Partei in der Slowakei.
+Found
+MODSMD_ARTICLE07: „Schickt sie ins Land ihrer Träume."
+Found
+MODSMD_ARTICLE08: Am besten, sie fahren gleich nach Moskau.
+Found

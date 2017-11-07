@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: FAJ. tagt in Verlin. feierliche Eröffnung durch Staatssekretär Milch.
+Found
+MODSMD_ARTICLE02: Notenwechsel zwischen Deutschland und der Schweiz.
+Found
+MODSMD_ARTICLE03: Förderung des Güterfernverkehrs.
+Found
+MODSMD_ARTICLE04: Der tschechische Terror wütet weiter.
+Found
+MODSMD_ARTICLE05: Tie Sandschak-Krise.
+Found
+MODSMD_ARTICLE06: Der wirtschaftliche Neuaufbau Nordchinas durch Japan.
+Found
+MODSMD_ARTICLE07: Wiederherstellung der Ordnung in Mexiko.
+Found

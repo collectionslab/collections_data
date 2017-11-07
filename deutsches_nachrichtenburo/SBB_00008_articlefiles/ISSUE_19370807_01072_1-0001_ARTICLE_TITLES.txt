@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: England weist drei deutsche Journalisten aus.
+Found
+MODSMD_ARTICLE02: Gesundheit der Jungen und Mädel oberstes Gesetz.
+Found
+MODSMD_ARTICLE03: Der Leiter der Staatsanwaltschaft des Volksgerichtshofes.
+Found
+MODSMD_ARTICLE04: Der Globus Behaims im germanischen Nationalmuseum.
+Found
+MODSMD_ARTICLE05: Ein unglaubliche Stellungnahme des „News Chroniele".
+Found
+MODSMD_ARTICLE06: London und Paris Zum Vertagungsbeschluß.
+Found
+MODSMD_ARTICLE07: Schulgeschwader für englischen Kriegsmarine-Nachwuchs.
+Found
+MODSMD_ARTICLE08: Der Kronprinz des Jemen über mohammedanische Einheit.
+Found
+MODSMD_ARTICLE09: Bolschewistische Flieger warfen die Bomben!
+Found
+MODSMD_ARTICLE10: Wohnhausbauvorlage vom USA-Bundessenat angenommen.
+Found
+MODSMD_ARTICLE11: Die Kennzahl der Großhandelspreise vom 4. August und im Monatsdurchschnitt Juli 1337.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: „Wilhelm Gustloff" holt die KdF.-Flotte heim.
+Found
+MODSMD_ARTICLE02: 385 Waggons Lebensmittel und Kleider für Oesterreich.
+Found
+MODSMD_ARTICLE03: Dank für treuen Einsatz.
+Found
+MODSMD_ARTICLE04: Die Reichsbahn schafft Brot.
+Found
+MODSMD_ARTICLE05: Das allgemeine Wahlrecht in Ungarn.
+Found
+MODSMD_ARTICLE06: Für sofortige Lösung der Judenfrage in Ungarn.
+Found
+MODSMD_ARTICLE07: Ueble französische Brunnenvergiftung.
+Found
+MODSMD_ARTICLE08: Munters zur außenpolitischen Lage.
+Found
+MODSMD_ARTICLE09: Die katalanische Industrie vor der Stillegung.
+Found
+MODSMD_ARTICLE10: Die Nationalen in Tortosa eingedrungen.
+Found
+MODSMD_ARTICLE11: Die Bevölkerung empört sich gegen die Unterdrücker.
+Found
+MODSMD_ARTICLE12: England bangt um seine Staatsbürger in Barcelona.
+Found
+MODSMD_ARTICLE13: Die Anerkennung des Imperiums durch Athen und Ankara.
+Found
+MODSMD_ARTICLE14: Das Ergebnis der ägyptischen Wahlen.
+Found
+MODSMD_ARTICLE15: Die Kämpfe in Schantung.
+Found

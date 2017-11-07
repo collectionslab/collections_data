@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: 19. Jahrestag der Gründung der NSDAP.
+Found
+MODSMD_ARTICLE02: Dank Gör'mgs an den Reichspostminister.
+Found
+MODSMD_ARTICLE03: Reichsarbeitsgememschaft Schallband.
+Found
+MODSMD_ARTICLE04: Epp begründet den deutschen Kolonialanspruch.
+Found
+MODSMD_ARTICLE05: Dr. Dorpmüller im Sudetenland.
+Found
+MODSMD_ARTICLE06: Daladier kündigt Anerkennung Franeos an.
+Found
+MODSMD_ARTICLE07: Zusammentritt des Landesverteidigungsrats in Paris.
+Found
+MODSMD_ARTICLE08: Rotspanische Mordbestie in Perpiguan verhaftet.
+Found
+MODSMD_ARTICLE09: Italiens Presse brandmarkt französische Falschmeldungen.
+Found
+MODSMD_ARTICLE10: Einreise von Emigranten in die Schweiz nur mit Visum.
+Found
+MODSMD_ARTICLE11: Auflösung der Prager Stadtvertretung beschlossen.
+Found
+MODSMD_ARTICLE12: Verbot der Hungaristen-Partei in Ungarn. u
+Found
+MODSMD_ARTICLE13: Japanische Note zur Bombardierung des Hongkonggebiets.
+Found
+MODSMD_ARTICLE14: Judenemwandernng nach Uruguay unerwünscht.
+Found
+MODSMD_ARTICLE15: Hundert Millionen Dollar für kriegswichtige Rohstoffe.
+Found

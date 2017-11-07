@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Ernennungen durch den Führer.
+Found
+MODSMD_ARTICLE02: Ministerpräsident Göring wieder in Berlin.
+Found
+MODSMD_ARTICLE03: Auslandsstimmen Zum deutschen Nationalfeiertag.
+Found
+MODSMD_ARTICLE04: Abschiedsabend der italienischen Jugendführerschaft.
+Found
+MODSMD_ARTICLE05: Kranzniederlegung italienischer Industrieller am Ehrenmal.
+Found
+MODSMD_ARTICLE06: Der Besuch der italienischen Journalisten in Nürnberg.
+Found
+MODSMD_ARTICLE07: Vollstreckung von Todesurteilen.
+Found
+MODSMD_ARTICLE08: Unmenschliche Roheitsakte eines FranziskanerbruderK.
+Found
+MODSMD_ARTICLE09: Bundespräsident Mitlas in Budapest.
+Found

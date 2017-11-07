@@ -1,0 +1,16 @@
+MODSMD_ARTICLE02: ' SOM der-Ausgabe. MÜWes Nachrichtenbüro
+Found
+MODSMD_ARTICLE03: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE04: Die Weihe der Standarten.
+Found
+MODSMD_ARTICLE05: Die Ansprache des Stabschefs.
+Found
+MODSMD_ARTICLE06: Triumphfahrt des Führers zur Burg.
+Found
+MODSMD_ARTICLE07: Die braunen Bataillone rücken an
+Found
+MODSMD_ARTICLE08: das Nahen des Führers
+Found
+MODSMD_ARTICLE09: Der Vorbeimarsch der 120 000.
+Found

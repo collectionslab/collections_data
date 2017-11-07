@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Glückwünsche des Führers zum rumänischen Nationaltag.
+Found
+MODSMD_ARTICLE02: Die Judengesetzgebung in der Slowakei.
+Found
+MODSMD_ARTICLE03: Lügenmeldungen über Ungarn am Pranger.
+Found
+MODSMD_ARTICLE04: Parlamentswahlen in Rumänien.
+Found
+MODSMD_ARTICLE05: Schüsse und Kolbenschläge bei Totengedenkfeier.
+Found
+MODSMD_ARTICLE06: Der litauische Armeechef in Warschau.
+Found
+MODSMD_ARTICLE07: „Vingtieme Siecke" gegen lächerliche Manöver.
+Found
+MODSMD_ARTICLE08: General Weygand bei Bonnet.
+Found
+MODSMD_ARTICLE09: Bonnet will in! Southampton sprechen.
+Found
+MODSMD_ARTICLE10: Deat erneut zur Danziger Frage.
+Found
+MODSMD_ARTICLE11: Stanley wünscht Handelsbesprechungen mit Teutschland.
+Found
+MODSMD_ARTICLE12: Das britische Mobilmachungsgesetz vor dem Unterhaus.
+Found
+MODSMD_ARTICLE13: Demokraten unter sich!
+Found
+MODSMD_ARTICLE14: Maisky erneut bei Halifax.
+Found
+MODSMD_ARTICLE15: Die Araber dulden keine Einmischung in der Palästinafrage.
+Found
+MODSMD_ARTICLE16: Um Roosevelts Nachfolge.
+Found
+MODSMD_ARTICLE17: Roosevelts Eingreifen in den Kohlenarbeiterstreik.
+Found
+MODSMD_ARTICLE18: Sogar die Staatsanwaltschaft in USA. ist korrupt.
+Found
+MODSMD_ARTICLE19: Mörder ScherZwger hingerichtet.
+Found

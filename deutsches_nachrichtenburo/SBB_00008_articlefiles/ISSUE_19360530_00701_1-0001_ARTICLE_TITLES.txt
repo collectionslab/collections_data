@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Gefechtsübung und Flottenparade. Mit dem „Pfeil" zur Flottenschau.
+Found
+MODSMD_ARTICLE02: Die große Gefechtsübung beginnt.
+Found
+MODSMD_ARTICLE03: Mottenparade.
+Found
+MODSMD_ARTICLE04: Ausklang.
+Found
+MODSMD_ARTICLE05: Der Führer in den Deutschen Werken.
+Found
+MODSMD_ARTICLE06: Der große Zapfenstreich.
+Found
+MODSMD_ARTICLE07: Der ungarische Kultusminister in Hamburg.
+Found
+MODSMD_ARTICLE08: Vollversammlung der Internationalen Föderation der textil-chemischen und coloristischen Vereine.
+Found
+MODSMD_ARTICLE09: Eimgungsverhandlungen im französischen Streik vertagt.
+Found

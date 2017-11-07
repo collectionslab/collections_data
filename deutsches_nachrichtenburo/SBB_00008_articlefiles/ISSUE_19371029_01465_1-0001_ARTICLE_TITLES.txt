@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Deutschland geht nicht nach Brüssel.
+Found
+MODSMD_ARTICLE02: Deutsche Orden nach Ungarn, Bulgarien und Jugoslawien.
+Found
+MODSMD_ARTICLE04: Hanna Reitsch erhält das Militär-Flugzeugführer-Abzeichen.
+Found
+MODSMD_ARTICLE05: Rudolf Heß im Deutschen Heim.
+Found
+MODSMD_ARTICLE06: Mussolini ehrt die gefallenen Spanienfreiwilligen.
+Found
+MODSMD_ARTICLE07: Die österreichischen Blätter zur Mussolini-Rede.
+Found
+MODSMD_ARTICLE08: Der Mörder Andrews' ein Komintern-Agent.
+Found

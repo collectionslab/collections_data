@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Hier! feiert sein 45jähriges Militärjubiläum.
+Found
+MODSMD_ARTICLE03: Geheimrat Kirdorf gestorben.
+Found
+MODSMD_ARTICLE04: Das Kleine Walsertal dem Allgäu angegliedert.
+Found
+MODSMD_ARTICLE05: Gewalt und Unrecht gegen alle Volksgruppen.
+Found
+MODSMD_ARTICLE06: Maßnahmen gegen die polnische Minderheit in Litauen.
+Found
+MODSMD_ARTICLE07: Die polnische Politik an der Ostsee.
+Found
+MODSMD_ARTICLE08: Jmredy über seinen bevorstehenden Besuch in Rom.
+Found
+MODSMD_ARTICLE09: Der Zunehmende Verfall des Genfer Vereins.
+Found
+MODSMD_ARTICLE10: Englands Aufrüstung Zur Luft.
+Found
+MODSMD_ARTICLE11: Anhalten der Zwischenfälle in Palästina.
+Found
+MODSMD_ARTICLE12: Von der GPU. verhaftet.
+Found
+MODSMD_ARTICLE13: Eine Million Stalin-Gegner in Sowjetgefängnissen.
+Found
+MODSMD_ARTICLE15: Tokio: „Frankreichs Vorgehen ein Vertraueinsbruch".
+Found

@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Parteitag der Arbeit. (Fortsetzung von Sonderausgabe Nr. 27.) Aufmarsch der Polizei. 23 neue Fahnen vom Führer geweiht.
+Found
+MODSMD_ARTICLE02: Der Führer trifft ein
+Found
+MODSMD_ARTICLE03: Das Ausland zu Nürnberg.
+Found

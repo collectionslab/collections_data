@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ribbentrop über den Pakt mit Rom.
+Found
+MODSMD_ARTICLE02: Die Mailänder Beschlüsse straften die Phantasten Lügen.
+Found
+MODSMD_ARTICLE03: Generaloberst von Brauchitsch im Forum Mussolini.
+Found
+MODSMD_ARTICLE04: Der Oberste Rat des italienischen Heeres tagte.
+Found
+MODSMD_ARTICLE05: Verwaltungsratssihung der BIZ.
+Found
+MODSMD_ARTICLE06: Spanien aus der Genfer Liga ausgetreten.
+Found
+MODSMD_ARTICLE07: Die große Madrider Parade der Luftwaffe.
+Found
+MODSMD_ARTICLE08: 7,2 Milliarden Peseten in Madrid sichergestellt.
+Found
+MODSMD_ARTICLE09: Ausweichende Auskünfte Chamberlains.
+Found
+MODSMD_ARTICLE10: „London prüft die Lage".
+Found
+MODSMD_ARTICLE11: Zusammenkunft Bonnet—Lord Halifax.
+Not Found

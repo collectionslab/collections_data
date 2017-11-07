@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ehrenvolle Ernennung.
+Found
+MODSMD_ARTICLE02: Großadmiral Naeder besichtigt Zerstörerbesatzungen.
+Found
+MODSMD_ARTICLE03: Der Slowakische Gesandte vorübergehend abwesend.
+Found
+MODSMD_ARTICLE04: Botschaftsattache Holvoet abberufen.
+Found
+MODSMD_ARTICLE05: Die „Epoque" enthüllt Frankreichs wahres Kriegsziel.
+Found
+MODSMD_ARTICLE06: Frankreich darf für England Schulden bezahlen.
+Found
+MODSMD_ARTICLE07: Sturm im Unterhaus.
+Found
+MODSMD_ARTICLE08: Krach im britischen Liigenministerium.
+Found
+MODSMD_ARTICLE09: England requiriert Schiffe für die Lebensmitteleinfuhr.
+Found
+MODSMD_ARTICLE10: Jnflationszeichen aus England.
+Found
+MODSMD_ARTICLE11: Die Anmaßung der Kriegsverbrecher.
+Found
+MODSMD_ARTICLE12: Dr. Ley von Ciano empfangen.
+Found
+MODSMD_ARTICLE13: Helsinki fast geräumt.
+Found
+MODSMD_ARTICLE14: Verschiffung finnischer Truppen nach den Aaland-Jnseln.
+Found
+MODSMD_ARTICLE15: Litauen hält sich an die Verträge.
+Found
+MODSMD_ARTICLE16: „Ungarns Außenpolitik unverändert."
+Found

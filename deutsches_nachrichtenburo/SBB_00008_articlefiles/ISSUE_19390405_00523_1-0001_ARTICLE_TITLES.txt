@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Beileidstelegramm des Führers.
+Found
+MODSMD_ARTICLE02: Die Anteilnahme der Reichsregierung am Tode Ghasi I.
+Found
+MODSMD_ARTICLE03: Prag am Borabend der Ankunft des Reichsprotektors.
+Found
+MODSMD_ARTICLE04: Dr. Tiso und Dr. Durcansky auf dem Wege nach Berlin.
+Found
+MODSMD_ARTICLE05: „Adolf Hitler bringt Aufstieg in allem!"
+Found
+MODSMD_ARTICLE06: Bürgerkriegshetze der Juden in Polen.
+Found
+MODSMD_ARTICLE07: Kommunisten Organisation in Saloniki aufgedeckt.
+Found
+MODSMD_ARTICLE08: Madrid gedenkt Calvo Sotelos.
+Found
+MODSMD_ARTICLE09: Würdige Grabstätte für den Gründer der Falange.
+Found
+MODSMD_ARTICLE10: Franco dankt Victor Emmanuel 111.
+Found
+MODSMD_ARTICLE11: Teilstreik im belgischen Kohlengebiet.
+Found
+MODSMD_ARTICLE12: Abkommen über die Rheinschiffahrt unterzeichnet.
+Found
+MODSMD_ARTICLE13: Belgiens schwierige Finanzlage.
+Found
+MODSMD_ARTICLE14: Lebrun Präsidentschaftskandidat der nationalen Uniion.
+Found
+MODSMD_ARTICLE15: Reorganisierung der britischen Panzertruppen.
+Found
+MODSMD_ARTICLE16: Die Besprechungen Zwischen! den Lustfahrtministern.
+Found
+MODSMD_ARTICLE18: Becks Londoner Besprechungen.
+Found
+MODSMD_ARTICLE19: Kriegsrecht über Mossul.
+Found
+MODSMD_ARTICLE20: Syrische Nationalisten vor französischem Kriegsgericht.
+Found
+MODSMD_ARTICLE21: Sowjetrussische Grenzverletzung.
+Found
+MODSMD_ARTICLE22: Das Fischereiabkommen nur eine Zwischenlösung.
+Found
+MODSMD_ARTICLE23: Hitler hat einen europäischen Krieg vermieden!
+Found

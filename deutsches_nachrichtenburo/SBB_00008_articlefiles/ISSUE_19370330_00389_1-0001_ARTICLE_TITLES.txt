@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer und General Lndendorff.
+Found
+MODSMD_ARTICLE02: Blomberg Vertreter des Führers bei den Krönungsfeiern.
+Found
+MODSMD_ARTICLE03: Reichsinnnngsmeister Max Möckel 1'
+Found
+MODSMD_ARTICLE04: Speichergasverwendung ab 1. 4. 37 genehmigungspflichtig.
+Found
+MODSMD_ARTICLE05: Kreuzer ~Emden" hat Alexandrien verlassen.
+Found
+MODSMD_ARTICLE06: Freudiges Echo oes Führergluckwunsches in Italien.
+Found
+MODSMD_ARTICLE07: Auguste Wilüraudt-Baudius gestorben.
+Found
+MODSMD_ARTICLE08: Berüchtigter jüdischer Schieber unter Betrugsanklage.
+Found
+MODSMD_ARTICLE09: Weiterer jüdischer Wassenschmuggel für Sowjetspanien.
+Found
+MODSMD_ARTICLE10: Prüfung der religiösen Verhältnisse in Spanien.
+Found
+MODSMD_ARTICLE11: Auch Rumänien wünscht ein Abkommen mit Rom.
+Found
+MODSMD_ARTICLE12: Die Belgrader Ministerkonferenz und der Besuch Beneschs.
+Found
+MODSMD_ARTICLE13: Sir Samuel Hoare nach London zurückgekehrt.
+Found
+MODSMD_ARTICLE14: Unabhängige Labour-Partei im bolschewistischen Fahrwasser.
+Found
+MODSMD_ARTICLE15: Das neue Handelsabkommen zwischen England und Kanada.
+Found
+MODSMD_ARTICLE16: Englands Schwierigkeiten in Indien.
+Found
+MODSMD_ARTICLE17: Wieder ein Ueberfall an der indischen Nordwestgrenze.
+Found
+MODSMD_ARTICLE18: Japanisch-indisches Baumwollabkommen.
+Found
+MODSMD_ARTICLE19: 13 Personen beim Osterschießen verletzt.
+Found

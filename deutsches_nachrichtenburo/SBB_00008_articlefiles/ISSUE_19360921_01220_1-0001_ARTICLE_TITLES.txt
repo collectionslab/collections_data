@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Abreise des Führers ins Manövergelände.
+Found
+MODSMD_ARTICLE02: Die großen Herbstübungen der neuen deutschen Wehrmacht.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels nach Griechenland abgeflogen.
+Found
+MODSMD_ARTICLE04: Neichsminister Dr. Goebbels in Budapest.
+Found
+MODSMD_ARTICLE05: Dr. Goebbels auf der Reise nach Athen.
+Found
+MODSMD_ARTICLE06: Reichsminister Dr. Goebbels in Athen eingetroffen.
+Found
+MODSMD_ARTICLE07: Die griechische Presse heißt Dr. Goebbels willkommen.
+Found
+MODSMD_ARTICLE08: Bolschewismus die Weltanschauung gegen Gott.
+Found
+MODSMD_ARTICLE09: Der Reichsjugendführer in Florenz.
+Found
+MODSMD_ARTICLE10: Baldur von Schirach in Rom.
+Found
+MODSMD_ARTICLE11: Herzlicher Empfang der Hitlerjungen in Rom.
+Found
+MODSMD_ARTICLE12: Stockholmer Blätter zur Sprengung des Alcazar.
+Found
+MODSMD_ARTICLE13: Hollands Geschäftsträger aus Madrid abberufen.
+Found
+MODSMD_ARTICLE14: De la Rocgue gegen Volksfrontausschreitungen.
+Found
+MODSMD_ARTICLE15: Die Forderungen Frankreichs an Spanisch-Marokko.
+Found

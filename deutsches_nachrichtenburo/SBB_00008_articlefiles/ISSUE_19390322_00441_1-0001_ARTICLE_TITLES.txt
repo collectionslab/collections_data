@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Die Amtsdauer des Danzigcr Volkstages verlängert.
+Found
+MODSMD_ARTICLE02: Polen zu den Ereignissen im Memelgebiet.
+Found
+MODSMD_ARTICLE03: Rom: „Die Achse fester denn je!"
+Found
+MODSMD_ARTICLE04: „Ende des Unsinns von Versailles."
+Found
+MODSMD_ARTICLE05: „Londons Einladung an Moskau ein schwerer Irrtum!"
+Found
+MODSMD_ARTICLE06: „Jonr" warnt vor Rückkehr zur „kollektiven Sicherheit".
+Found
+MODSMD_ARTICLE07: Wieder eine Absage an London.
+Found
+MODSMD_ARTICLE08: Völlig nutzlos!
+Found
+MODSMD_ARTICLE09: Bulgarien für zweiseitige Verträge.
+Found
+MODSMD_ARTICLE10: Hinter den Kulissen der Londoner Intrigen.
+Found
+MODSMD_ARTICLE11: Gafencu dementiert die Londoner Lügen.
+Found
+MODSMD_ARTICLE12: Dementis am laufenden Band.
+Found
+MODSMD_ARTICLE13: Weshalb billigt Roosevelt die Brutalitäten Rotspaniens?
+Found
+MODSMD_ARTICLE14: Enttäuschung über Englands Palästinapolitik.
+Found
+MODSMD_ARTICLE15: Kein ägyptisches Geld für englische Interessen.
+Found
+MODSMD_ARTICLE16: Der Düsseldorfer Gattenmörder hingerichtet.
+Found

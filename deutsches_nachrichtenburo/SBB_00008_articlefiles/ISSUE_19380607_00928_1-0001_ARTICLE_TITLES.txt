@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Nürnberg empfängt IKW italienische Arbeiterurlauber.
+Found
+MODSMD_ARTICLE02: Niederländischer Marinebesuch in Flensburg.
+Found
+MODSMD_ARTICLE03: Lochner Zum zweiten Male holländischer Kunstflugmeister.
+Found
+MODSMD_ARTICLE04: Englische Anerkennung für Fnriwängler.
+Found
+MODSMD_ARTICLE05: Deutsche bevölkerungspolitische Abordnung auf der Rückreise.
+Found
+MODSMD_ARTICLE06: Veratungsausschuß im englischen Luftfahrtministerium.
+Found
+MODSMD_ARTICLE07: Der englische Botschafter erneut bei Bonnet.
+Found
+MODSMD_ARTICLE08: Die neuen Krisensymptome des Sowjetregimes.
+Found
+MODSMD_ARTICLE09: Genickschüsse am lausenden Band.
+Found
+MODSMD_ARTICLE10: Ungarischer Ministerrat.
+Found
+MODSMD_ARTICLE11: Die Judenüberprufung in Rumänien. d j
+Found
+MODSMD_ARTICLE12: Wie Prag den Willen zur Wahrheit unterdrückt.
+Found
+MODSMD_ARTICLE13: Bomben über Valencia, Alicante und Madrid.
+Found
+MODSMD_ARTICLE14: Japan weist» britischen Protestschritt zurück.
+Found
+MODSMD_ARTICLE15: Gründung einer mexikanischen Petroleumgesellschaft.
+Found
+MODSMD_ARTICLE16: Die Friedenskonferenz des Chaco.
+Found

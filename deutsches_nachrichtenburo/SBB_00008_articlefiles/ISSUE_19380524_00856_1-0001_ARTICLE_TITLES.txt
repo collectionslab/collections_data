@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Außenminister Beck auf der Durchreise in Berlin.
+Found
+MODSMD_ARTICLE02: Einheitliches Verkehrsrecht im Großdeutschen Reich.
+Found
+MODSMD_ARTICLE03: Die Polizei-Organisation in Oesterreich.
+Found
+MODSMD_ARTICLE04: Dr. Mick in der Südsteiermark.
+Found
+MODSMD_ARTICLE05: Dr. Ley in Innsbruck.
+Found
+MODSMD_ARTICLE06: Erster Spatenstich zum schlesischen Ferngasleitungsnetz.
+Found
+MODSMD_ARTICLE07: Umorganisatiou des Feuerlöschwesens.
+Found
+MODSMD_ARTICLE08: Die italienische Außenpolitik des letzten Jahres.
+Found
+MODSMD_ARTICLE09: Die Prager Regierung hat jetzt das Wort.
+Found
+MODSMD_ARTICLE10: Ter tschechische Gesandte in Paris informiert sich in Prag.
+Found
+MODSMD_ARTICLE11: Der englische Botschafter bei Bonnet.
+Found
+MODSMD_ARTICLE12: Weiterhin ruhige Beurteilung in Paris.
+Found
+MODSMD_ARTICLE13: Erfolg der Slowakischen Volkspartei.
+Found
+MODSMD_ARTICLE14: Neue Bluturteile in Barcelona.
+Found
+MODSMD_ARTICLE15: Ob crhauserkläruug zum euglisch-mexikanischen Oelkonflikt.
+Found
+MODSMD_ARTICLE16: In der Sandschakfrage zeigt sich Frankreichs wahre Haltung.
+Found
+MODSMD_ARTICLE17: Einreiseverbot in den Sandschak.
+Found
+MODSMD_ARTICLE18: Arabischer Kongreß in Bagdad.
+Found
+MODSMD_ARTICLE19: Der Vormarsch der Japaner geht weiter.
+Found
+MODSMD_ARTICLE20: Hatte die Lüge ihren Zweck erreicht?
+Found

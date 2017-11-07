@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr. Goebbels beglückwünscht de» Rundfunk.
+Found
+MODSMD_ARTICLE02: Hilgenfeldt an die Verwaltungen der deutschen Stiftungen.
+Found
+MODSMD_ARTICLE03: Weitere Gedenkfeiern im Ausland.
+Found
+MODSMD_ARTICLE04: Die Ostmark feierte zum erstenmal den 9. November.
+Found
+MODSMD_ARTICLE05: Das Attentat von Paris vor dem dänischen Parlament.
+Found
+MODSMD_ARTICLE06: Polnische Anteilnahme am Tode vom Raths.
+Found
+MODSMD_ARTICLE07: Paris unter dem Eindruck der Todesnachricht.
+Found
+MODSMD_ARTICLE08: Die zweite Kugel bewirkte den Tod.
+Found
+MODSMD_ARTICLE09: Frankreich und die demokratische Wahlschlappe in NSA.
+Found
+MODSMD_ARTICLE10: „Matin" warnt vor Dinntrosss Bürgerkriegsplänen.
+Found
+MODSMD_ARTICLE11: Auch Bagdad wehrt sich gegen die Juden.
+Found

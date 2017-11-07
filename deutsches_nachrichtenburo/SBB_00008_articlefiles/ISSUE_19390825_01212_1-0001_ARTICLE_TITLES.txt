@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Polen plaut Handstreich aus deutsches Gebiet.
+Found
+MODSMD_ARTICLE02: Ungeheuerlicher polnischer Massenmord bei Lodz.
+Found
+MODSMD_ARTICLE03: Kopfprämien für Deutsche!
+Found
+MODSMD_ARTICLE04: Polen schmuggelten Sprengstoff nach Danzig.
+Found
+MODSMD_ARTICLE05: Der Staatsakt für General von Watter.
+Found
+MODSMD_ARTICLE06: Abschluß der Rechtswahrertagung in Zoppot.
+Found
+MODSMD_ARTICLE07: Begeisterte Kundgebungen vor dem Palazgo Venezia.
+Found
+MODSMD_ARTICLE08: Staatssekretär Stuckart von den Polen beschossen.
+Found
+MODSMD_ARTICLE09: Rom durchschaut die Pariser Bocksprünge.
+Found
+MODSMD_ARTICLE10: Zwetkowitsch nach Belgrad zurückgekehrt.
+Found
+MODSMD_ARTICLE11: Die Einigung zwischen Kroaten und Staatsführung.
+Found
+MODSMD_ARTICLE12: Bestätigung der belgischen Unabhängigkeitspolitik.
+Found

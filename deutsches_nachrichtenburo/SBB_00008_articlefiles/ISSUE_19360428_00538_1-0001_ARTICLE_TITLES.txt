@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Institut für Portugal und Brasilien eröffnet.
+Found
+MODSMD_ARTICLE03: 64 alte Kämpfer in der Hauptstadt der Bewegung.
+Found
+MODSMD_ARTICLE04: „Graf Zeppelin" zur 2. Südamerika-Fahrt gestartet.
+Found
+MODSMD_ARTICLE05: Davispokalkampf Teutschland-Spanien 4 :1.
+Found
+MODSMD_ARTICLE06: Deutschsprachige Sowjetzeitungen in Oesterreich verboten.
+Found
+MODSMD_ARTICLE07: Eden zur Wehrpflicht in Oesterreich.
+Found
+MODSMD_ARTICLE08: Englands Presse über die Spannungen in Oesterreich.
+Found
+MODSMD_ARTICLE09: Englands Völkerbundsverband wird von Eden empfangen.
+Found
+MODSMD_ARTICLE10: Annahme der englischen Zollvorlagen im Unterhaus.
+Found
+MODSMD_ARTICLE11: Heimbernfnng des ägyptischen Kronprinzen.
+Found
+MODSMD_ARTICLE12: Chamberlain auf der Rückreise.
+Found
+MODSMD_ARTICLE13: K Monate Gefängnis für „Humanite"-Schriftleiter.
+Found
+MODSMD_ARTICLE14: Die erste Kammeranfrage.
+Found
+MODSMD_ARTICLE15: Ter norwegische Austenminister über seine Reise.
+Found
+MODSMD_ARTICLE16: Tagung zur Prüfung der Genfer Ratszusammensetzung.
+Found
+MODSMD_ARTICLE17: Ein bulgarisches Dementi.
+Found
+MODSMD_ARTICLE18: Das Ergebnis der spanischen Vertrauensmannswahlen.
+Found
+MODSMD_ARTICLE19: Auch Südafrika rüstet auf.
+Found
+MODSMD_ARTICLE20: Beginn der amerikanischen Marinemanöver.
+Found
+MODSMD_ARTICLE21: Steuersteckbrief und Vermögensbeschlagnahme.
+Found

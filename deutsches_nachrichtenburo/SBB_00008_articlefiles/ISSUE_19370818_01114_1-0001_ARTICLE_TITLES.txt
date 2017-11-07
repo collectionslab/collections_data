@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Entscheidung im deutsch-litauischen Schiedsverfahren.
+Found
+MODSMD_ARTICLE02: Ter polnisch-litauische Minderheitenkonfikt.
+Found
+MODSMD_ARTICLE03: Die Forderungen der slowakischen Volksgruppe.
+Found
+MODSMD_ARTICLE04: Das österreichische Ordnungsschutzgesetz.
+Found
+MODSMD_ARTICLE05: Estlands neue Verfassung verabschiedet.
+Found
+MODSMD_ARTICLE06: Das Ergebnis der Londoner Ministerbesprechung.
+Found
+MODSMD_ARTICLE07: Unaufhaltsamer Vormarsch an der Santander-Front.
+Found
+MODSMD_ARTICLE08: Moskaus Botschafter in Washington an der Reihe.
+Found
+MODSMD_ARTICLE09: Roosevelt zur Anwendung des Neutralitätsgesetzes.
+Found
+MODSMD_ARTICLE10: Ernennung Blacks zum Oberbundesrichter vor dem Senat.
+Found
+MODSMD_ARTICLE11: Neuer Leiter der amerikanischen Fernost Abteilung.
+Found
+MODSMD_ARTICLE12: Amerika entsendet Verstärkungen nach Schanghai.
+Found
+MODSMD_ARTICLE13: Holländischer Dampfer vor Schanghai beschossen.
+Found
+MODSMD_ARTICLE14: Ausdehnung der japanischen Schutzmaßnahmen.
+Found
+MODSMD_ARTICLE15: Umsturz auf den Philippinen vereitelt.
+Found
+MODSMD_ARTICLE16: Jüdische Markthändler unter sich.
+Found

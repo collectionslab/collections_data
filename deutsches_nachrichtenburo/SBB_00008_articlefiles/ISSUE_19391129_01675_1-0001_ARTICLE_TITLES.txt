@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Den besten Absatzmarkt verloren.
+Found
+MODSMD_ARTICLE02: England agiert mit abgetanen tschechischen Größen.
+Found
+MODSMD_ARTICLE03: „Rumänien ist und bleibt neutral."
+Found
+MODSMD_ARTICLE04: Spanien freut sich über die deutschen Erfolge.
+Found
+MODSMD_ARTICLE05: Madrid im Trauergewand.
+Found
+MODSMD_ARTICLE06: Kriegsgewinnler tummeln sich in England.
+Found
+MODSMD_ARTICLE07: Deutschland liefert billiger und besser als England.
+Found
+MODSMD_ARTICLE08: Hollands Knstengewässer mit englischen Minen verseucht.
+Found
+MODSMD_ARTICLE09: England stöhnt unter der Teuerung.
+Found
+MODSMD_ARTICLE10: Der Bericht des Oberkommandos der Wehrmacht.
+Found
+MODSMD_ARTICLE11: „England muß mit Schließung seiner Häfen rechnen."
+Found
+MODSMD_ARTICLE12: Wiederaufnahme der japanischen Offensive.
+Found
+MODSMD_ARTICLE13: Moskau erwartet freundschaftliche Verständigung mit Japan.
+Found
+MODSMD_ARTICLE14: Der englische Seedieb!
+Found
+MODSMD_ARTICLE15: Flagrante Verletzung des Völkerrechts."
+Found

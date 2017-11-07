@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Auflösung der katholischen Studentenverbände.
+Found
+MODSMD_ARTICLE02: Die deutsch-italienische Rechtsarbeit. .
+Found
+MODSMD_ARTICLE03: Der Reichssportsührer bei Gras Ciano.
+Found
+MODSMD_ARTICLE04: Der Schweizer Bundesrat dankt.
+Found
+MODSMD_ARTICLE05: Die Schweiz und die Genfer Liga.
+Found
+MODSMD_ARTICLE06: Masseuprozeß gegen Mitglieder der Eisernen Garde.
+Found
+MODSMD_ARTICLE07: Der ehemalige Sofioter Sowjetgesandte in Paris?
+Found
+MODSMD_ARTICLE08: Neue Unruhe in Waziristan.
+Found
+MODSMD_ARTICLE09: Die Kennzahl der Großhandelspreise vom 22. Juni.
+Found

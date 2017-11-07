@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die Goethe-Medaille für Prof. Snijder-Amsterdam.
+Found
+MODSMD_ARTICLE02: Aus der Berliner Diplomatie.
+Found
+MODSMD_ARTICLE03: Sonderbeauftragter für Kleinviehzucht.
+Found
+MODSMD_ARTICLE04: Beileidskundgebungen zum Unglück am Nanga Parbat.
+Found
+MODSMD_ARTICLE05: Der dänische Finanzminister zurückgetreten.
+Found
+MODSMD_ARTICLE06: Die Erweiterung der Machtbefugnisse des Reichsverwesers.
+Found
+MODSMD_ARTICLE07: Geschäftsführer der „Deutschen Vereinigung" verhaftet.
+Found
+MODSMD_ARTICLE08: Danzigs Wirtschaftssenator in Warschan.
+Found
+MODSMD_ARTICLE09: Polnischer Schritt beim Heiligen Stuhl.
+Found
+MODSMD_ARTICLE10: Der Krakauer Zwischenfall.
+Found
+MODSMD_ARTICLE11: Tie polnische Presse begrüßt König Carol.
+Found
+MODSMD_ARTICLE12: „Popolo d'Jtalia" zu den Ausführungen Chamberlains.
+Found
+MODSMD_ARTICLE13: Schärfste Angriffe aus die Moskanpolitik Frankreichs.
+Found
+MODSMD_ARTICLE14: „Journal": „Französische Kultur auf dem Rückzug".
+Found
+MODSMD_ARTICLE15: Die bolschewistischen Priestermorde in Nordspanien.
+Found
+MODSMD_ARTICLE16: England will sein .Konsulat in Bilbao wieder eröffnen.
+Found
+MODSMD_ARTICLE17: Früherer Berliner Militärattache Chiles gestorben.
+Found

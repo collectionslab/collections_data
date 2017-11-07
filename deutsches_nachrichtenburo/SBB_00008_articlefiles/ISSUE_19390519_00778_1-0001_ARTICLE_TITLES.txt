@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Die deutschen Kolonialgebiete sind deutsches Eigentum.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Deutscher Kriegsschiffbesuch in Lettland.
+Found
+MODSMD_ARTICLE04: Ter Wirtschaftsrat des Balkanbundes in Bukarest.
+Found
+MODSMD_ARTICLE05: Betrübte Lohgerber in London.
+Found
+MODSMD_ARTICLE06: Allgemeine Empörung in Palästina.
+Found
+MODSMD_ARTICLE07: Protest der Syrien- und Libanon-Araber.
+Found
+MODSMD_ARTICLE08: Ausregung der amerikanischen Juden.
+Found

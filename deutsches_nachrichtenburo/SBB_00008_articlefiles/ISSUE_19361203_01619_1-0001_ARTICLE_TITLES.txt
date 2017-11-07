@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Weg und Ziel der Arbeit des deutschen Handwerks.
+Found
+MODSMD_ARTICLE02: Baldwin zum zweiten Male in dieser Woche beim König.
+Found
+MODSMD_ARTICLE03: Eine Erklärung Edens.
+Found
+MODSMD_ARTICLE04: Belgische Militärvorlage mit großer Mehrheit angenommen.
+Found
+MODSMD_ARTICLE05: Nachtsitzung der französischen Kammer.
+Found
+MODSMD_ARTICLE06: Pariser Weltausstellung 1937 muß verschoben werden.
+Found
+MODSMD_ARTICLE07: Frankreichs Kommunisten gegen die Politik Blums.
+Found
+MODSMD_ARTICLE08: Gesetz über die englischen Notstandsgebiete.
+Found
+MODSMD_ARTICLE09: Ein Keil der Nationalen zwischen Madrid und Escorial.
+Found
+MODSMD_ARTICLE10: Bolschewisten mißbrauchen die Madrider Sicherheitszone.
+Found
+MODSMD_ARTICLE11: Die Schweiz verbietet Einfuhr kommunistischer Zeitungen.
+Found
+MODSMD_ARTICLE12: Stellungnahme des chilenischen Ratspräsidenten.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Reichsminister Funk im ostoberschlesischen Industriegebiet.
+Found
+MODSMD_ARTICLE02: Rumänischer Orden für Dr. Ley.
+Found
+MODSMD_ARTICLE03: Englands Stellung in der Nordsee endgültig dahin.
+Found
+MODSMD_ARTICLE04: Der englische U-Bootangrisf auf die „Bremen".
+Found
+MODSMD_ARTICLE05: Lebhafte Bewunderung für das Husarenstück der „Bremen".
+Found
+MODSMD_ARTICLE06: Das französische Gold gekapert.
+Found
+MODSMD_ARTICLE07: Zwei englische Schiffe untergegangen.
+Found
+MODSMD_ARTICLE08: Fliegeralarm in Westengland.
+Found
+MODSMD_ARTICLE09: Das schwedische Kabinett umgebildet.
+Found
+MODSMD_ARTICLE10: Amerika verstärkt seine Garnison auf Hawaii.
+Found
+MODSMD_ARTICLE11: Brasilianische Militärmission in Neuyork.
+Found
+MODSMD_ARTICLE12: Syriens Not unter der französischen Besetzung.
+Found

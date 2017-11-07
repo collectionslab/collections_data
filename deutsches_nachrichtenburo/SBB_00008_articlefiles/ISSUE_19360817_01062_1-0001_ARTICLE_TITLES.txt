@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Potsdams Gedenktag für Friedrich den Großen.
+Found
+MODSMD_ARTICLE02: Die Feierstunde in der Garnisonkirche.
+Found
+MODSMD_ARTICLE03: Die große Parade vor dem Reichskriegsmmister.
+Found
+MODSMD_ARTICLE04: Weitere englische Stimmen zur Ernennung Ribbentrops.
+Found
+MODSMD_ARTICLE05: Freigabe neuer Autobahnstrecken.
+Found
+MODSMD_ARTICLE06: Keine Deutschen in Spanien mehr in Haft.
+Found
+MODSMD_ARTICLE07: San Sebastian und Jrun unter Schisfsartilleriefener.
+Found
+MODSMD_ARTICLE08: Französische Flugzeugindustrielle in Moskau.
+Found
+MODSMD_ARTICLE09: Die Feier des polnischen Sieges über die Rote Armee.
+Found
+MODSMD_ARTICLE10: General Gamelin nach Krakau abgereist.
+Found
+MODSMD_ARTICLE11: Die norwegische Regierung und Trotzki.
+Found
+MODSMD_ARTICLE12: Neuer Anschlag auf den Zug Jaffa—Lydda.
+Not Found
+MODSMD_ARTICLE13: Vermittlungsvorschläge des Emirs Abdullah.
+Found
+MODSMD_ARTICLE14: Zahlreiche japanische Beamte in Mandschukno.
+Found
+MODSMD_ARTICLE15: 17 Tote bei einem Kraftwagenungliick in Kanada.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Generalstabschef der Luftwaffe zum Generalmajor ernannt.
+Found
+MODSMD_ARTICLE02: Graf Csaky als Gast Dr. Fricks in Salzburg.
+Found
+MODSMD_ARTICLE03: Das PostWesen trägt die Züge Großdeutschlands.
+Found
+MODSMD_ARTICLE04: Deutsch-griechische Wirtfchastsbesprechuugen.
+Found
+MODSMD_ARTICLE05: Ueberflüssige polnische Sorgen um Böhmen und Mähren.
+Found
+MODSMD_ARTICLE06: Polnische Willkür an der oberschlesischen Grenze.
+Found
+MODSMD_ARTICLE07: Das Los des Deutschen in Polen.
+Found
+MODSMD_ARTICLE08: Jüdischer Millionär sammelt polnisches Hartgeld.
+Found
+MODSMD_ARTICLE09: Schluß mit den Falschmeldungen!
+Found
+MODSMD_ARTICLE10: Eine Abordnung des Infanterie-Regiments 19 beim Führer.
+Found
+MODSMD_ARTICLE11: „England hat viele Gibraltar-Probleme".
+Found
+MODSMD_ARTICLE12: Ausbau der kulturellen Beziehungen Spanien—Philippinen.
+Found
+MODSMD_ARTICLE13: Gefecht mit arabischen Freiheitskämpfern bei Hebron. ,
+Found
+MODSMD_ARTICLE14: Verschärfung der japanischen Blockade.
+Found

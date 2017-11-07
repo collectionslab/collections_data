@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Frick besucht Ungarn.
+Found
+MODSMD_ARTICLE02: Beileid des Reichsarbeitsministers.
+Found
+MODSMD_ARTICLE03: Sozialversicherungsvertrag Deutschland—Italien.
+Not Found
+MODSMD_ARTICLE04: General Queipo de Llano in Teutschland.
+Found
+MODSMD_ARTICLE05: Der deutsch-dänische Vertrag vom Landsting angenommen.
+Found
+MODSMD_ARTICLE06: Belgrad von dem Verlauf des Staatsbesuchs begeistert.
+Found
+MODSMD_ARTICLE07: Bulgarien zum deutsch-jugoslawischen Verhältnis.
+Found
+MODSMD_ARTICLE08: „Das deutsch-italienische Bündnis totalitär."
+Found
+MODSMD_ARTICLE09: „Die konstruktive Politik der Achse im Donauraum."
+Found
+MODSMD_ARTICLE10: Italienische Abordnung in Spanien.
+Found
+MODSMD_ARTICLE11: Heldenhafte spanische Kriegstaten.
+Found
+MODSMD_ARTICLE12: Eine echt jüdische Pleite.
+Found
+MODSMD_ARTICLE13: Das „stolze Albion" als Bettler vor dem Kreml.
+Found
+MODSMD_ARTICLE14: Palästina-Juden bombardieren arabischen Autobus.
+Found
+MODSMD_ARTICLE15: Die illegale Judeneinwanderung in Palästina.
+Found
+MODSMD_ARTICLE16: Zusammenarbeit der deutschen und der japanischen Aerzte.
+Found
+MODSMD_ARTICLE17: Richter Manton im Kreuzverhör.
+Found

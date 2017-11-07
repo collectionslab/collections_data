@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: „Ein Tauernkraftwerk wird gebaut". Hermann Göring vollzieht den ersten Spatenstich.
+Found
+MODSMD_ARTICLE03: Reichstheaterfestwoche in Wienl
+Found
+MODSMD_ARTICLE04: Verhinderung einer deutschen Veranstaltung in Polen.
+Found
+MODSMD_ARTICLE05: Sudetendeutscher.Aufruf beschlagnahmt.
+Found
+MODSMD_ARTICLE06: Eine Sondernummer der „Gerarchia".
+Found
+MODSMD_ARTICLE07: Peru erkennt das italienische Imperium an»
+Found

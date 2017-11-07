@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer zum Tode des Prinzen Nikolaus.
+Found
+MODSMD_ARTICLE02: Begnadigung durch den Führer.
+Found
+MODSMD_ARTICLE03: Nüst an Professor Dr. Seifsert.
+Found
+MODSMD_ARTICLE04: Nachruf für Besatzung des Dampfers „Richard Borchardt".
+Found
+MODSMD_ARTICLE05: Die österreichischen Skiwettkämpfe in Murau abgesagt.
+Found
+MODSMD_ARTICLE06: Rom: „Eine Hochflut von Informationen".
+Found
+MODSMD_ARTICLE07: Sterblichkeitsziffern in Frankreich höher als Geburtenzahl.
+Found
+MODSMD_ARTICLE08: 16 666 Malische Bergarbeiter in den Ausstand getreten.
+Found
+MODSMD_ARTICLE09: Versagen der bolschewistischen „Befehlshaber".
+Found
+MODSMD_ARTICLE10: Besuch des Bruders Francas in Spanisch-Marokko.
+Found
+MODSMD_ARTICLE11: Mysteriöses Sowjetschiff im Hafen von Constanza.
+Found

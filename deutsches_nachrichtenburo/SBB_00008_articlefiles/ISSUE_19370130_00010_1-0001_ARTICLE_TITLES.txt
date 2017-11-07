@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Festtag der Nation. Dank des Führers.
+Found
+MODSMD_ARTICLE02: Gedenksitzung des Reichskabinetts.
+Found
+MODSMD_ARTICLE03: Der historische Fackelzug am 3l). Januar-
+Found
+MODSMD_ARTICLE04: Massen in Erwartung.
+Found
+MODSMD_ARTICLE05: Der Aufmarsch des Zuges.
+Found
+MODSMD_ARTICLE06: Der Marsch durch das Brandenburger Tor.
+Found
+MODSMD_ARTICLE07: Auf dem Wilhelmplatz.
+Found
+MODSMD_ARTICLE08: Jubelsturm um den Führer.
+Found
+MODSMD_ARTICLE09: Der Vorbeimarsch.
+Found
+MODSMD_ARTICLE10: Professor Speer Generalbamnspktor für Berlin.
+Found
+MODSMD_ARTICLE11: Ministerpräsident Göring Ehrenbürger Hamburgs.
+Found
+MODSMD_ARTICLE12: Die ausgezeichneten Künstler bei Dr. Goebbels.
+Found

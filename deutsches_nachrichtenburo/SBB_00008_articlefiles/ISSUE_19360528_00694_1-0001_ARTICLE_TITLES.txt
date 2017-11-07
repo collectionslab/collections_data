@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Rührer bei der Kriegsmarine.
+Found
+MODSMD_ARTICLE02: Der Rührer beglückwünscht Generaldirektor Kleinmann.
+Found
+MODSMD_ARTICLE03: Deutsch-ungarisches Kultur-Abkommen unterzeichnet.
+Found
+MODSMD_ARTICLE04: Eine Rede des chinesischen Botschafters.
+Found
+MODSMD_ARTICLE05: Die Wachtruppe der Luftwaffe zieht auf.
+Found
+MODSMD_ARTICLE06: Ein Vorstoß der litauischen Opposition.
+Found
+MODSMD_ARTICLE07: Der Besuch Außenministers Beck in Belgrad.
+Found
+MODSMD_ARTICLE08: Neue Suchaktionen des Rotkreuz-Fliegers Graf Rosen.
+Found
+MODSMD_ARTICLE09: Italienische Verordnungen in Abessinien.
+Found
+MODSMD_ARTICLE10: Italienische Kritik an der englischen Palästina-Politik.
+Found
+MODSMD_ARTICLE11: Noch ein Bataillon nach Palästina.
+Found
+MODSMD_ARTICLE12: Immer neue Sabotageakte in Palästina.
+Found

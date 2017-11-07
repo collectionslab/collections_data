@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Feiertag des Deutschem Volkes. (Fortsetzung) Jubelstürme vor der Reichskanzlei.
+Found
+MODSMD_ARTICLE02: Der Führer auf dem Balkon.
+Found
+MODSMD_ARTICLE03: Arbeiter und Jungarbeiter beim Führer.
+Found
+MODSMD_ARTICLE04: Dr. Goebbels dankt den Mitarbeitern Zes 1. Mai»
+Found
+MODSMD_ARTICLE05: Die Feiern im Reich.
+Found
+MODSMD_ARTICLE06: Danzig am 1« Mau
+Found
+MODSMD_ARTICLE07: Durch den Führer ausgezeichnet.
+Found
+MODSMD_ARTICLE08: Deutschland-Fahrt von „LZ. Hindenburg" abgesagt.
+Found
+MODSMD_ARTICLE09: Gedenkfeier für die Geiselmordopfer von 1919.
+Found
+MODSMD_ARTICLE10: Achse Berlin—Rom durch Deutschlandreisen gestärkt.
+Not Found
+MODSMD_ARTICLE11: Immer noch offene Fragen in Montreux.
+Found
+MODSMD_ARTICLE12: Leergedroschene Phrasen als Moskauer „Mai-Aufruf".
+Found

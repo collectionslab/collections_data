@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Neichsbeamtensttlirer Neef in Rom.
+Found
+MODSMD_ARTICLE02: Italienischer Dank für die Hilfeleistung.
+Found
+MODSMD_ARTICLE03: Lajndwirtschaftsbeirat bei Berliner Gesandtschaft Estlands.
+Found
+MODSMD_ARTICLE04: Kanya begleitet Horthy nach Warschau.
+Found
+MODSMD_ARTICLE05: Das allgemeine Wahlrecht in Ungarn in Vorbereitung.
+Found
+MODSMD_ARTICLE06: Wechsel in der Führung der ungarischen Regierungspartei.
+Found
+MODSMD_ARTICLE07: Der Arier-Paragraph in polnischen Studentenverbindungen.
+Found
+MODSMD_ARTICLE08: Das Genfer Ergebnis „äußerst entmutigend".
+Found
+MODSMD_ARTICLE09: Eden bei Chamberlain und beim König.
+Found
+MODSMD_ARTICLE10: Britische Agentin entlarvt Sowfetspione.
+Found
+MODSMD_ARTICLE11: London tritt neuer rotspanischer Hetzmeldung entgegen.
+Found
+MODSMD_ARTICLE12: England errichtet eine Luftschutzschule.
+Found
+MODSMD_ARTICLE13: „Es sind gejnug Franzosen für den Bolschewismus gefallen!"
+Found
+MODSMD_ARTICLE14: Auf Jnterventionswegen ertappt.
+Found
+MODSMD_ARTICLE15: Pariser Kommunisten verstärken Einmischungsagitation.
+Found
+MODSMD_ARTICLE16: Sowjetspanische Werbemethoden.
+Found
+MODSMD_ARTICLE17: Boschewistische Bombenangriffe auf das wehrlose Hinterland.
+Found
+MODSMD_ARTICLE18: Das nationale Spanien läßt seine Kämpfer nicht im Stich.
+Found
+MODSMD_ARTICLE19: Moskaus feige Nachetat in Sofia.
+Found

@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Feierliche Eröffnung des olympischen Kunstwettbewerbs.
+Found
+MODSMD_ARTICLE02: Das Ergebnis des Internationalen Kunstflugwettbewerbs.
+Found
+MODSMD_ARTICLE03: Das Olympische Feuer In Prag.
+Found
+MODSMD_ARTICLE04: Der italienische Propagandaminister in Berlin.
+Found
+MODSMD_ARTICLE05: Eintreffen Nurmis.
+Found
+MODSMD_ARTICLE06: Berichtigung.
+Found

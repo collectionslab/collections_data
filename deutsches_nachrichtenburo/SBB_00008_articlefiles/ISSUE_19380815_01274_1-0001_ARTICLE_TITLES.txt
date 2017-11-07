@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Die japanischen Jugendführer in Schlesien.
+Found
+MODSMD_ARTICLE03: Budapest feiert die deutsch-ungarische Freundschaft.
+Found
+MODSMD_ARTICLE04: Ungarisch-italienischer Urlauberaustausch.
+Found
+MODSMD_ARTICLE05: Offiziersaufruf „ein Versehen".
+Found
+MODSMD_ARTICLE06: Vier Fragen der ungarischen Volksgruppe an Prag.
+Found
+MODSMD_ARTICLE07: „Die tschechischen Militärs wollen freie Hand!"
+Found
+MODSMD_ARTICLE08: Prags Angst vor der Wahrheit.
+Found
+MODSMD_ARTICLE09: Polen feiert den Sieg an der Weichsel.
+Found
+MODSMD_ARTICLE10: Dr. Matsche! W Belgrad.
+Found
+MODSMD_ARTICLE11: Siegreicher Vormarsch an allen Fronten.
+Found
+MODSMD_ARTICLE12: Masienprozeß in Madrid gegen nationale Einwohner.
+Found
+MODSMD_ARTICLE13: Er muß es wissen!
+Found
+MODSMD_ARTICLE14: Neue Regierung in Bolivien.
+Found
+MODSMD_ARTICLE15: Tokio über den Sowjet-Großeinsatz bei Schangfeng.
+Found
+MODSMD_ARTICLE16: Tschecho-slowakisches Verkehrsflugzeug verunglückt: 17 Tote.
+Found
+MODSMD_ARTICLE17: Das Blaue Band für „Queen Mary".
+Found

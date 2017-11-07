@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Churchill tobt!
+Found
+MODSMD_ARTICLE03: Britische Untertanen verlassen Italien.
+Found
+MODSMD_ARTICLE04: Zivilperson von französischem Flieger beschossen.
+Found
+MODSMD_ARTICLE05: Jnternierung aller deutschen Frauen in England.
+Found
+MODSMD_ARTICLE06: Die Gründe der englisch-französischen Niederlage.
+Found
+MODSMD_ARTICLE07: Der Kampfgeist des deutschen Soldaten.
+Found
+MODSMD_ARTICLE08: „Politiken" prangert die „Heldentaten" der Briten an.
+Found
+MODSMD_ARTICLE09: So hausten die englischen „Verbündeten" in Löwen.
+Found
+MODSMD_ARTICLE10: Von bewaffneten britischen Banditen durchsucht.
+Found
+MODSMD_ARTICLE11: Der Fall des „President Roosevelt" findet Beachtung.
+Found
+MODSMD_ARTICLE12: Amerika zu Belgiens Kapitulation.
+Found
+MODSMD_ARTICLE13: Ein schwerer Schlag für Washington.
+Found
+MODSMD_ARTICLE14: Die Wahrheit bricht sich Bahn!
+Found
+MODSMD_ARTICLE15: Vollstreckung eines Todesurteils.
+Found

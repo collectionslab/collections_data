@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Graf Csaky vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Besuch Hermann Görings in Potsdam.
+Found
+MODSMD_ARTICLE03: Konsul Halvorsen Zu seinem M. Geburtstag.
+Found
+MODSMD_ARTICLE04: Neues deutsches Verkehrsbüro iu Sofia eröffnet.
+Found
+MODSMD_ARTICLE05: Skupschtina und Senat zusammengetreten.
+Found
+MODSMD_ARTICLE06: Französische Divisionen für Sowjetspanien?
+Found
+MODSMD_ARTICLE07: Spanien muß sich selbst überlassen bleiben!
+Found
+MODSMD_ARTICLE08: Entsetzen in Moskau über den Vormarsch Francos.
+Found
+MODSMD_ARTICLE09: Bombeuatteutate auch in Irland?
+Found
+MODSMD_ARTICLE10: Der türkische Wehrminister zurückgetreten.
+Found
+MODSMD_ARTICLE11: Rücktritt der syrischen Regierung?
+Found
+MODSMD_ARTICLE12: Mandschukuos Beitritt zum Antikominternpakt.
+Found
+MODSMD_ARTICLE13: Die Antwort der japanischen Presse an England.
+Found
+MODSMD_ARTICLE14: Antikommuniftische Protestflut in Washington.
+Found
+MODSMD_ARTICLE15: Exbotschafter Dodd unter Anklage der Fahrerflucht.
+Found
+MODSMD_ARTICLE16: Flug über vier Erdteile.
+Found

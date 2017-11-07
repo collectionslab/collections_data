@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: stärkste Konzentration aller politischen, militärischen und wirtschaftlichen Kräfte in der ljand pxz fichms Der Führer übernimmt den Oberbefehl über die gesamte Wehrmacht. Wehrmachtsamt wird Oberkommando der Wehrmacht und ist dem Führer als dessen militärischer Stab persönlich unterstellt.
+Found
+MODSMD_ARTICLE02: Göring Generalfeldmarschall.
+Found
+MODSMD_ARTICLE03: Brauchitsch Oberbefehlshaber des Heeres.
+Found
+MODSMD_ARTICLE04: Keitel Chef des Oberkommandos der Wehrmacht.
+Not Found
+MODSMD_ARTICLE05: Blomberg und Fritsch ausgeschieden.
+Found
+MODSMD_ARTICLE06: Bildung eines Geheimen Kabinettsrates.
+Found
+MODSMD_ARTICLE07: Neurath von seinem Amt entbunden.
+Found
+MODSMD_ARTICLE08: Joachim von Ribbentrop Reichsautzenminister.
+Found

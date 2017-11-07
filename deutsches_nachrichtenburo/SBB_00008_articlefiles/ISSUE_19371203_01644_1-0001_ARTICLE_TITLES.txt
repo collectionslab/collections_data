@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Geburtstagsglückwunsch des Führers an General Franca.
+Found
+MODSMD_ARTICLE02: Neubildung des Deutschen Prefseklubs.
+Found
+MODSMD_ARTICLE03: Die Lohnzahlungen für die Feiertage.
+Found
+MODSMD_ARTICLE04: Sitzung des Ausschusses für Völkerrecht.
+Found
+MODSMD_ARTICLE05: Reichsminister Dr. Frick in Stockholm.
+Found
+MODSMD_ARTICLE06: Außenminister Delbos in Warschau eingetroffen.
+Found
+MODSMD_ARTICLE07: Französischer Kriegshaushalt augenommen.
+Found
+MODSMD_ARTICLE08: Prosper Poullet gestorben.
+Found
+MODSMD_ARTICLE09: Der Herzog von Aosta Geschwadergeneral der Luftwaffe.
+Found
+MODSMD_ARTICLE10: Der Ministerpräsident von Mandschukuo an Mussolini.
+Found
+MODSMD_ARTICLE11: Folterungen und ständig neue Morde in Sowjetspanien.
+Found
+MODSMD_ARTICLE12: Der Madrider Festungsgürtel erneut unter Feuer.
+Found
+MODSMD_ARTICLE13: Der Reichsjugendführer in Teheran eingetroffen.
+Found

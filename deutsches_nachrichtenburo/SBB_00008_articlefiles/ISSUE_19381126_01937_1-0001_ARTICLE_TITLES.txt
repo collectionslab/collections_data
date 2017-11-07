@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ernennungen beim Volksgerichtshof.
+Found
+MODSMD_ARTICLE02: Begegnung zwischen König Karl und Göring.
+Found
+MODSMD_ARTICLE03: Die Kriegsmarine gedachte des Admirals Scheer.
+Found
+MODSMD_ARTICLE04: Dr. Letz eröffnet die Modellschau der DAF.
+Found
+MODSMD_ARTICLE05: Unterstützung der sudetendeutschen Kriegsbeschädigten.
+Found
+MODSMD_ARTICLE06: Der Neichssportführer in Asch.
+Found
+MODSMD_ARTICLE07: Dr. Tiso empfing die Führung der deutschen Volksgruppe.
+Found
+MODSMD_ARTICLE08: Fortsetzung der Besprechungen beim Reichsverweser.
+Found
+MODSMD_ARTICLE09: Das Treuebekenntnis der Sudetendeutschen.
+Found
+MODSMD_ARTICLE10: „Kein Mitleid mit artfremden Schmarotzern!"
+Found
+MODSMD_ARTICLE11: „Lettland will eine völlig unabhängige Politik führen."
+Found
+MODSMD_ARTICLE12: Norwegens tote Königin heimgekehrt.
+Found
+MODSMD_ARTICLE13: „Paris Midi" nagelt das Kriegstreiberspiel Moskaus fest.
+Found
+MODSMD_ARTICLE14: Frankreich und Rumänien errichten Botschaften.
+Found
+MODSMD_ARTICLE15: Oberst Valencia gestorben.
+Found
+MODSMD_ARTICLE16: 3W unschuldige Opfer.
+Found
+MODSMD_ARTICLE17: Verdiente Abfuhr!
+Found
+MODSMD_ARTICLE18: Amerikanische „Meinungsfreiheit".
+Found

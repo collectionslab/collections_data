@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Staatsbegräbnis für Generaloberst Graf von Bothmer.
+Found
+MODSMD_ARTICLE02: Sandler von den Besuchen in London und Paris befriedigt«
+Found
+MODSMD_ARTICLE03: SchWe Anklage gegen jüdisches Unwesen in Wien.
+Found
+MODSMD_ARTICLE04: Ministerpräsident Tatarescu in Prag.
+Found
+MODSMD_ARTICLE05: König Leopold auf dem Wege nach London.
+Found
+MODSMD_ARTICLE06: Neue Hetze, des Bolschewisten Kripps.
+Found
+MODSMD_ARTICLE07: Englands Flottenbau.
+Found
+MODSMD_ARTICLE08: Australiens Schatzminister über die britische Ausrüstung.
+Found
+MODSMD_ARTICLE09: Ein weiterer Bombenanschlag i„ Wilna.
+Found
+MODSMD_ARTICLE10: Warnende Stimme zur Hetzrede von Thorez.
+Found
+MODSMD_ARTICLE11: Die Geldhilfe der Sowjets an die Kommunisten Frankreichs.
+Found
+MODSMD_ARTICLE12: Spanien-Bolschewisten kaufen Flugzeuge in Paris.
+Found
+MODSMD_ARTICLE13: Neue Unruhen in Nordwestindien.
+Found
+MODSMD_ARTICLE14: Hochbetrieb in der Nationalpolitischen Erziehungsanstalt Berlin-Spandau.
+Found
+MODSMD_ARTICLE15: Frankreichs Presse zum Fußballspiel in Stuttgart.
+Found

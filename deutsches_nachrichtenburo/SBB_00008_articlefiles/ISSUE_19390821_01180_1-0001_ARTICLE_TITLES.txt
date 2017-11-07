@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Feierliche Eröffnung der 27. Deutschen Ostmesse.
+Found
+MODSMD_ARTICLE02: Staatsbesuch des Reichsfinanzministers in Rom und Florenz.
+Found
+MODSMD_ARTICLE03: Der polnische Terror rast weiter!
+Found
+MODSMD_ARTICLE05: Massenflucht aus dem polnischen Militär.
+Found
+MODSMD_ARTICLE06: Bürgen für „einwandfreie polnische Gesinnung".
+Found
+MODSMD_ARTICLE07: Glückwünsche des Führers zum ungarischen Nationalfeiertag.
+Found
+MODSMD_ARTICLE08: Wirtschaftschaos in Ostoberschlesien.
+Found
+MODSMD_ARTICLE09: Wer sein Deutschtum verteidigt, beleidigt Polen.
+Found
+MODSMD_ARTICLE10: Die Warschauer Katastrophenpolitik.
+Found
+MODSMD_ARTICLE11: Graf Ciano, der Vorkämpfer der stählernen Achse.
+Found
+MODSMD_ARTICLE12: Aegyptische Militärmission in der Türkei.
+Found

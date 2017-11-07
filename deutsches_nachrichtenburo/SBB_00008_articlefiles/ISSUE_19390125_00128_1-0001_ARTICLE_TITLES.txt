@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Staatsminister Farinacci vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Farinacci bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Dr. Ley auf der Reichstagung der DAF.
+Found
+MODSMD_ARTICLE04: „Der deutsch-polnische Vertrag brachte Europa Frieden."
+Found
+MODSMD_ARTICLE05: Botschafterempfänge beim polnischen Außenminister.
+Found
+MODSMD_ARTICLE06: König Boris von Bulgarien im PalaZzo Venezia.
+Found
+MODSMD_ARTICLE07: Neue Warnung Mussolinis an Frankreich.
+Found
+MODSMD_ARTICLE08: Giopnale tüJtalia über die Lage in Spanien.
+Found
+MODSMD_ARTICLE09: Kriegsmaterialfabriken unversehrt übernommen.
+Found
+MODSMD_ARTICLE10: Barcelona teilweise ohne Gas, Strom und Wasser.
+Found
+MODSMD_ARTICLE11: Frankreich kauft 699 Flugzeuge in USA.
+Found
+MODSMD_ARTICLE12: Die slowakische Post wird selbständig.
+Found
+MODSMD_ARTICLE13: Ein estländischer Propagandaminister.
+Found
+MODSMD_ARTICLE14: Das türkische Kabinett zurückgetreten.
+Found
+MODSMD_ARTICLE15: Gefüllte Konzentrationslager in Palästina.
+Found

@@ -1,0 +1,4 @@
+MODSMD_ARTICLE01: Italien verläßt den Völkerbund.
+Found
+MODSMD_ARTICLE02: Die Parolen der Erzeugungsschlacht. Ansprache des Reichsbauernsührers an das Landvolk.
+Found

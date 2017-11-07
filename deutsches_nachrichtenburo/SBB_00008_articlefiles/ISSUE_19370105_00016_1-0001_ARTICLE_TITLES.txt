@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ein hartgesottener kommunistischer Jude.
+Found
+MODSMD_ARTICLE02: Keine finanziellen Abmachungen zum Mittelmeerabkommen.
+Found
+MODSMD_ARTICLE03: Italienisch-französische Handelsabmachungen verlängert.
+Found
+MODSMD_ARTICLE04: Vizeadmiral Cambon gestorben.
+Found
+MODSMD_ARTICLE05: Generalstreik in den Pariser Wäschereien.
+Found
+MODSMD_ARTICLE06: Englands Kriegsminister in Paris.
+Found
+MODSMD_ARTICLE07: Labour-Bund in England gegen die allgemeine Wehrpflicht.
+Found
+MODSMD_ARTICLE08: Ausreisekontrolle in den englischen Häfen.
+Found
+MODSMD_ARTICLE09: Ein „Times"-Bericht aus Barcelona.
+Found
+MODSMD_ARTICLE10: Moskau schafft „gefährliche Zonen".
+Found
+MODSMD_ARTICLE11: Der Vormarsch der Nationalen an der Madrider Front.
+Found
+MODSMD_ARTICLE12: Spannung Zwischen Anarchisten und Kommunisten.
+Found
+MODSMD_ARTICLE13: Roter Fliegerangriff von den Nationalisten abgewiesen.
+Found
+MODSMD_ARTICLE14: Die Neutralitätsverlehungen Frankreichs.
+Found
+MODSMD_ARTICLE15: Selbsthilfe spanischer Bauern gegen rote Räuberei.
+Found
+MODSMD_ARTICLE16: Rumänien und der bulgarisch-jugoslawische Pakt«
+Found
+MODSMD_ARTICLE17: Der Streik bei General Motors.
+Found

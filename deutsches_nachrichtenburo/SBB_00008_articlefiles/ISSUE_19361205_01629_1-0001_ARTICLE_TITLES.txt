@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Energiewirtschaftliche Knhrung im Vierjahresplan.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Dr. Lep sammelt in Wuppertal.
+Found
+MODSMD_ARTICLE04: Erösfnung der 4. Reichskleintierschan.
+Found
+MODSMD_ARTICLE05: In den Klanen der GPU.
+Found
+MODSMD_ARTICLE06: Urteilsbegründung im Disziplinarverfahren Prof. Gerlach.
+Found
+MODSMD_ARTICLE07: Starke Zunahme des Devisenschmuggels in Oesterreich.
+Found
+MODSMD_ARTICLE08: Hilfsmaßnahmen für die österreichische Ausfuhr.
+Found
+MODSMD_ARTICLE09: Der Oberste Marinerat Frankreichs zusammengetreten.
+Found
+MODSMD_ARTICLE10: Treimilliardenkredit in Frankreich.
+Found
+MODSMD_ARTICLE11: Vorschlag der „Liberte" zur Spanienpolitik Frankreichs.
+Found
+MODSMD_ARTICLE12: Sitzung der französischen Kammer.
+Found
+MODSMD_ARTICLE13: Der nationale Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE14: Englands Geschäftsträger will Madrid verlassen.
+Found
+MODSMD_ARTICLE15: Saavedra Lamas ständiger Präsident der Friedenskonferenz
+Found
+MODSMD_ARTICLE16: Japanische Verstimmung über Nankings Haltung.
+Found

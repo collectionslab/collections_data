@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Besuch der Sowjetabordnung in Krakau.
+Found
+MODSMD_ARTICLE02: Tagesbefehl des Großen Faschistenrates.
+Found
+MODSMD_ARTICLE03: Dr. Lehs Besuch in Rom abgeschlossen
+Found
+MODSMD_ARTICLE04: England als Boxer, der die Zuschauer verprügelt.
+Found
+MODSMD_ARTICLE05: „Wahrheiten ü la Churchill".
+Found
+MODSMD_ARTICLE06: „Daily Expreß" gegen das britische Lügenministerium.
+Found
+MODSMD_ARTICLE07: „Man braucht eine Autorität".
+Found
+MODSMD_ARTICLE08: Wieder ein englischer Dampfer gesunken.
+Found
+MODSMD_ARTICLE09: Es ist schwer, Englands Krieg populär zu machen.
+Found
+MODSMD_ARTICLE10: Englische Flieger verletzen die dänische Neutralität.
+Found
+MODSMD_ARTICLE11: Die England-Flüge der Luftwaffe.
+Found
+MODSMD_ARTICLE12: Abberufung des Havas-Vertreters aus Bukarest.
+Found
+MODSMD_ARTICLE13: Bulgariens Außenpolitik.
+Found
+MODSMD_ARTICLE14: Die sowjetisch japanische Grenzkommission in Tschita.
+Found
+MODSMD_ARTICLE15: Der Lügenlord bemüht sich umsonst.
+Found
+MODSMD_ARTICLE16: Feststellung eines amerikanischen Journalisten.
+Found
+MODSMD_ARTICLE17: Löcher im Neutralitätsgesetz.
+Found

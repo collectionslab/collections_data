@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Empfang für italienische Fußballmannschaft.
+Found
+MODSMD_ARTICLE02: Zur Reform der Organisation der gewerblichen Wirtschaft.
+Found
+MODSMD_ARTICLE04: Oskar Meßter 79 Jahre.
+Found
+MODSMD_ARTICLE05: Anlegung von Gemeinde-Chroniken.
+Found
+MODSMD_ARTICLE06: Geänderte Leitung der Deutschen Forschungsgemeinschaft.
+Found
+MODSMD_ARTICLE07: Polnische Zeitungen in Danzig beschlagnahmt.
+Found
+MODSMD_ARTICLE08: Queipo de Llano über die Lage vor Madrid.
+Found
+MODSMD_ARTICLE09: Die Fortschritte dar nationalen Truppen in Madrid.
+Found
+MODSMD_ARTICLE10: Tschechisches Kriegsmaterial für die spanischen Roten.
+Found
+MODSMD_ARTICLE11: Die Kleine Entente zum Ergebnis von Wien.
+Found

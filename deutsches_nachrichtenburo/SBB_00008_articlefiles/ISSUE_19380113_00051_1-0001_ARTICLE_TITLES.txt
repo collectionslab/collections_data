@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der britische Verkehrsminister in Berlin.
+Found
+MODSMD_ARTICLE02: Legitimistische Kundgebungen in Oberösterreich verbotem
+Found
+MODSMD_ARTICLE03: Ausweisung österreichischer Legitimisten aus Jugoslawien.
+Found
+MODSMD_ARTICLE05: Zum Abschluß der Budapester Konferenz.
+Found
+MODSMD_ARTICLE06: Der „Pester Lloyd" über die Stellung Prags. Dreistündiger Versöhnungsversuch Chautempssi
+Found
+MODSMD_ARTICLE07: Krediterhöhung für das französische Flottenbanprogramm.
+Found
+MODSMD_ARTICLE08: Französisches Kanonenboot beschießt rotspanische Flieger.
+Found
+MODSMD_ARTICLE09: Wiederzusammentritt der belgischen Kammer.
+Found
+MODSMD_ARTICLE10: „Der einzig richtige Weg."
+Found
+MODSMD_ARTICLE11: Die gemeinsame Erklärung der Budapiester Konferenz
+Found
+MODSMD_ARTICLE12: Der sowjetrussische Gesandte verläßt Bukarest.
+Found
+MODSMD_ARTICLE13: Chautemps will jetzt schärfer vorgehen.
+Found
+MODSMD_ARTICLE14: Neuer Gouverneur der Belgischen Nationalbank.
+Found
+MODSMD_ARTICLE15: Englands Leningrader Generalkonsulat wird geschlossen.
+Found
+MODSMD_ARTICLE16: Der schwedische Etat erhöht.
+Found

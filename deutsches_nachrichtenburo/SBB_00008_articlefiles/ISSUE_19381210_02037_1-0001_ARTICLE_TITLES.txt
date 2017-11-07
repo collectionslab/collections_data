@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Tie Tagung der Abteilung für Rechtsforschung.
+Found
+MODSMD_ARTICLE02: Dank Konrad Henleins an General Daluege.
+Found
+MODSMD_ARTICLE03: Der Besuch Lantmis in München.
+Found
+MODSMD_ARTICLE04: Ausklang in Berchtesgaden mit Dr. Frick.
+Found
+MODSMD_ARTICLE05: Reichsautobahn Karlsruhe—Pforzheim-West eröffnet.
+Found
+MODSMD_ARTICLE06: Deutsches Lederm-ufemn in Offenbach.
+Found
+MODSMD_ARTICLE07: Litauen gegen katholische Aktion.
+Found
+MODSMD_ARTICLE08: Merkwürdige Methoden der litauischen Staatspolizei.
+Found
+MODSMD_ARTICLE09: Exzellenz Lantini beim Führer.
+Found
+MODSMD_ARTICLE10: „Regierung Daladier hat das Vertrauen verdient."
+Found
+MODSMD_ARTICLE11: „Bauten für die Nachwelt".
+Found
+MODSMD_ARTICLE12: Verhaftete Araber werden niedergeknallt.
+Found
+MODSMD_ARTICLE13: Moskau will keine Ruhe in Fernost.
+Found
+MODSMD_ARTICLE14: Brasilien gegen Kaktabschlüsse in Lima.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Nürnberg in jeder Hinsicht gernstet.
+Found
+MODSMD_ARTICLE02: Deutschlands Seestreitkräfte in den spanischen Gewässern.
+Found
+MODSMD_ARTICLE03: 3. Jahrestagung der Akademie für deutsches Recht.
+Found
+MODSMD_ARTICLE04: LZ „Hindenburg" über Lissabon.
+Found
+MODSMD_ARTICLE05: „Gerechtigkeit für das neue Deutschland."
+Found
+MODSMD_ARTICLE06: Ministerrat in Paris: Frankreich rüstet auf!
+Found
+MODSMD_ARTICLE07: Die Rede Blums vom Ministerrat aebilliat.
+Found
+MODSMD_ARTICLE08: Britischer Schritt gegen Giftgasverwendung in Spanien.
+Found
+MODSMD_ARTICLE09: Mittwoch erste Sitzung des Ueberwachungsausschusses.
+Found
+MODSMD_ARTICLE10: Stalin schwer erkrankt?
+Found
+MODSMD_ARTICLE11: Neue Erfolge der Nationalisten bei Toledo.
+Found
+MODSMD_ARTICLE12: Vor dem Fall San Sebastians?
+Found
+MODSMD_ARTICLE13: Roter Flieger über Jrun.
+Found
+MODSMD_ARTICLE14: Keine Revolution in Honduras.
+Found

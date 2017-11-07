@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Baldur von Schirach beim ungarischen Reichsverweser.
+Found
+MODSMD_ARTICLE02: Essen der Deutscheu Handelskammer für Großbritannien.
+Found
+MODSMD_ARTICLE03: „Der Weg zum Frieden führt nicht über Genf".
+Found
+MODSMD_ARTICLE04: London Zu den Zwischenfällen in Fernost.
+Found
+MODSMD_ARTICLE05: Die französische Presse zu den Vorgängen in China.
+Found
+MODSMD_ARTICLE06: Zum „Wählen" befohlen.
+Found
+MODSMD_ARTICLE07: Verschärfter Gesetzesvorschlag in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE08: Polen im Abwehrkampf gegen die Juden.
+Found
+MODSMD_ARTICLE09: „Weihnachten ohne Inden!"
+Found
+MODSMD_ARTICLE10: Lansbury in Warschau.
+Found
+MODSMD_ARTICLE11: Der japanische Botschafter bei Hull.
+Found
+MODSMD_ARTICLE12: Nach Tchmelings Sieg.
+Found

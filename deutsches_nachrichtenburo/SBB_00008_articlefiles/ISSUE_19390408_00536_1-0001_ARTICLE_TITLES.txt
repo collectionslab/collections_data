@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Spanien dem Antikominternpakt beigetreten.
+Found
+MODSMD_ARTICLE02: Ungarische Auszeichnung für Präsident Raube.
+Found
+MODSMD_ARTICLE03: Die portugiesischen Schriftleiter in Prag.
+Found
+MODSMD_ARTICLE04: Die Tschechische Staatskirche in der Slowakei aufgelöst.
+Found
+MODSMD_ARTICLE05: Eine neue Partei in Ungarn.
+Found
+MODSMD_ARTICLE06: Belgrad von Rom unterrichtet.
+Found
+MODSMD_ARTICLE07: U // „Lavoro zur Militärbesprechung in Innsbruck.
+Found
+MODSMD_ARTICLE08: General Pariani zur Berichterstattung beim Duce.
+Found
+MODSMD_ARTICLE09: Der englische Botschafter bei Graf Ciano.
+Found
+MODSMD_ARTICLE10: Frankreich wartet ab.
+Found
+MODSMD_ARTICLE11: Französische Botschaft in Bukarest.
+Found
+MODSMD_ARTICLE12: Lebhafter Diplomatenverkehr im Foreign Office.
+Found
+MODSMD_ARTICLE13: Chamberlain fängt Fische.
+Found
+MODSMD_ARTICLE14: Emir Jlah als Regent des Irak bestätigt.
+Found

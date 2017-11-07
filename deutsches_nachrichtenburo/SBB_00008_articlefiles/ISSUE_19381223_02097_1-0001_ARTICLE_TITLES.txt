@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Die Weihnachtsansprache des Stellvertreters des Führers.
+Found
+MODSMD_ARTICLE02: Weihnachtsfeier des Auswärtigen Amtes.
+Found
+MODSMD_ARTICLE03: Weihnachtsbescherung der Kinder bei Göring.
+Found
+MODSMD_ARTICLE04: Veränderungen im Reichspropagandaministerinm.
+Found
+MODSMD_ARTICLE05: Präsident Dr. Syrup zum Staatssekretär ernannt.
+Found
+MODSMD_ARTICLE06: Ausschluß der Juden aus dem Staatsdienst gefordert.
+Found
+MODSMD_ARTICLE07: „Paris Midi" zum Besuch Becks an der Rivierm
+Found
+MODSMD_ARTICLE08: Der nationalspanische Ministerrat tagte.
+Found
+MODSMD_ARTICLE09: Nationale Offensive an der Katalonienfront.
+Found
+MODSMD_ARTICLE10: Die Schweizer Konsulärbezirke im Sudetengau.
+Found
+MODSMD_ARTICLE11: Neue Phase der italienisch-französischen Beziehungen.
+Found
+MODSMD_ARTICLE12: Der! neue Präsident der Republik Chile.
+Found
+MODSMD_ARTICLE13: Tausend amerikanische Lastkraftwagen für China.
+Found
+MODSMD_ARTICLE14: Dreister Raubüberfall auf einer Pariser Straße.
+Found

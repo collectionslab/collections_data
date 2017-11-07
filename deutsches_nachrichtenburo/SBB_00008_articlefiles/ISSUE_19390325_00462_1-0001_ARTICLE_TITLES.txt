@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Uebergabe des Flaggschiff der KdF.-Flotte „Robert Ley".
+Found
+MODSMD_ARTICLE03: Zusammentritt des Ausschusses der nationalen Gemeinschaft
+Found
+MODSMD_ARTICLE04: Auch Holland lehnt ab.
+Found
+MODSMD_ARTICLE05: Maiskvs Rolle ibei der Blockbildung gegen Deutschland.
+Found
+MODSMD_ARTICLE06: Ter estnische Austenminister in Budapest.
+Found
+MODSMD_ARTICLE07: Das angebliche „deutsche Ultimatum" ein plumper Bluff.
+Found
+MODSMD_ARTICLE08: Der polnische Botschafter bei Graf Ciano.
+Found
+MODSMD_ARTICLE09: Die römische Presse zur Thronrede.
+Found
+MODSMD_ARTICLE10: „Volkskraft, Soldatenmut und Führerklugheit."
+Found
+MODSMD_ARTICLE11: Botschafter Henderfon bei König Georg.
+Found
+MODSMD_ARTICLE12: Britische Luftschutzvorlage veröffentlicht.
+Found
+MODSMD_ARTICLE13: Lttftschtttzbauten durch Streik unterbrochen.
+Found
+MODSMD_ARTICLE14: Französische Blätter melden Unterwerfung der Sowjetbonzen
+Found
+MODSMD_ARTICLE15: General Petain bei Franco.
+Found
+MODSMD_ARTICLE16: Japanischer Warenspeicher in Schanghai eingeäschert.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Ter Führer an Generalfeldmarschall von Mackensen.
+Found
+MODSMD_ARTICLE02: Dr. Ley bestätigt 15 Gau-Ehrenrichter.
+Found
+MODSMD_ARTICLE03: Tagung der Hauptversorgungsämter.
+Found
+MODSMD_ARTICLE04: Vorbildliche Mitarbeit am Vierjahresplan.
+Found
+MODSMD_ARTICLE05: Dienstbefreiung für die Unterprimaner.
+Found
+MODSMD_ARTICLE06: Tagung des Reichsverbandes Deutscher Heimstätten.
+Found
+MODSMD_ARTICLE07: Der älteste Mann Deutschlands gestorben.
+Found
+MODSMD_ARTICLE08: Erklärung Hollands zur Bölkerbundsreform.
+Found
+MODSMD_ARTICLE09: Die außenpolitische Debatte in der Pariser Kammer.
+Found
+MODSMD_ARTICLE10: Companys soll nicht in Paris reden»
+Found
+MODSMD_ARTICLE11: Tie Kennzahl der Großhandelspreise vom 2. Dezember und' im Monatsdurchschnitt November.
+Found
+MODSMD_ARTICLE12: Stellersteckbriefe und -Vermögeusbeschlagnahmen.
+Found

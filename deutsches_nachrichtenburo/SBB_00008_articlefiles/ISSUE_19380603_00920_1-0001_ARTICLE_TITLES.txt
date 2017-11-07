@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Abschiedsbesuch des ägyptischen Gesandten beim Kührer.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Staatssekretär Keppler mit neuen Aufgaben betraut.
+Found
+MODSMD_ARTICLE04: Staatssekretär Alpers Leiter des Deutschen Forstverems.
+Found
+MODSMD_ARTICLE05: Reichsorgamsatiousleiter Dr. Ley in Linz.
+Found
+MODSMD_ARTICLE06: Rosenberg eröffnet Krefelder Heimatausstellung.
+Found
+MODSMD_ARTICLE07: Holländischer Minenleger im Holtenauer Binnenhafen.
+Found
+MODSMD_ARTICLE08: Rom: „Die Zeit arbeitet für die Sudetendeutschen".
+Found
+MODSMD_ARTICLE09: Jmredy über Ungarns Minderheiteupolitik.
+Found
+MODSMD_ARTICLE10: Erweiterter Aufgabenkreis der Privatkanzlei Adolf Hitlers.
+Found
+MODSMD_ARTICLE11: Vertreteraustausch Burgos—Prag.
+Found
+MODSMD_ARTICLE12: Alle roten Reserven in der Katalonien-Offensive verbraucht.
+Found
+MODSMD_ARTICLE13: Zeituugsneugrüudung iu Rumänien.
+Found
+MODSMD_ARTICLE14: Frankreich- verhängt Belagerungszustand im Sandschak.
+Found

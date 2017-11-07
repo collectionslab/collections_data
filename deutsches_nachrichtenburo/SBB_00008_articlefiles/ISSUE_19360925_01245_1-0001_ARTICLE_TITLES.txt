@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Baldur von Schirach von Mussolini empfangen.
+Found
+MODSMD_ARTICLE02: Herzliche Abschiedsworte der römischen Presse.
+Found
+MODSMD_ARTICLE03: Werbeveranstaltung der Deutschen Sportgruppe in London.
+Found
+MODSMD_ARTICLE04: „Hinter Genf steht Moskau" in der Tschechoslowakei verboten.
+Found
+MODSMD_ARTICLE05: Schwarzhörer verurteilt.
+Found
+MODSMD_ARTICLE06: Das österreichische Versammlungsverbot verlängert.
+Found
+MODSMD_ARTICLE07: Tie Neubildung der schwedischen Regierung.
+Found
+MODSMD_ARTICLE08: Ein Dementi van Seelands.
+Found
+MODSMD_ARTICLE09: Weitere Preffestimmen zum Genfer Beschlutz.
+Found
+MODSMD_ARTICLE10: Protest im Schweizer Nationalrat gegen Nicole.
+Found
+MODSMD_ARTICLE11: Zwischenfall bei Cannes.
+Found
+MODSMD_ARTICLE12: 500 marxistische Morde in San Sebastian.
+Found
+MODSMD_ARTICLE13: 22 marxistische Flugzeuge in fünf Tagen abgeschossen.
+Found
+MODSMD_ARTICLE14: Neue Gefechte in Palästina.
+Found

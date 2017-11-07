@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ehrenpreis des Reichsinnenministers.
+Found
+MODSMD_ARTICLE02: Gauleiter Bohle 35 Jahre alt.
+Found
+MODSMD_ARTICLE03: Breslau an Stuttgart.
+Found
+MODSMD_ARTICLE04: Deutschland nach Santiago de Chile eingeladen.
+Found
+MODSMD_ARTICLE05: Durchführungsbestimmungen zum neuen Eherecht.
+Found
+MODSMD_ARTICLE06: Juden torpedieren die Schiller-Festspiele in Eger.
+Found
+MODSMD_ARTICLE07: Die englische Presse zur Ehamberlain-Erklärung.
+Found
+MODSMD_ARTICLE08: Die Pariser Presse zur Chamberlain-Erklärung.
+Found
+MODSMD_ARTICLE09: Die römische Presse zurPK»Ä»ReÄai«-AeHe.
+Found
+MODSMD_ARTICLE10: Letzte Kabinettssitzung in London vor den Parlamentsserien.
+Found
+MODSMD_ARTICLE11: Um die französische Nichteinmischung.
+Found
+MODSMD_ARTICLE12: Französisch-italienischer Warenaustausch in den Kolonien.
+Found
+MODSMD_ARTICLE13: Doriot: Nationalspanien wird glänzend siegen!
+Found
+MODSMD_ARTICLE14: Neue Vorstösse der nationalspanischen Luftwaffe.
+Found
+MODSMD_ARTICLE15: Hollands Außenminister in Stockholm.
+Found
+MODSMD_ARTICLE16: Neue Volkszählung in der Sowjetunion.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Vormittays-Ausgabe. Deutsches Hachvichtcnbüro
+Found
+MODSMD_ARTICLE02: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Darrö ehrt den Bauern und Frühgeschichtsforscher Sulzer.
+Found
+MODSMD_ARTICLE04: Das erste deutsche Handwerks-Waudergeselleuheim in Köln.
+Found
+MODSMD_ARTICLE05: Wie die Ausländsdeutschen des Führers Geburtstag feierten.
+Found
+MODSMD_ARTICLE06: Italiens Presse über die Berliner Geburtstags-Karade.
+Found
+MODSMD_ARTICLE07: Italien feiert den 2K90. Geburtstag der Gründung Roms.
+Found
+MODSMD_ARTICLE08: Schuschnigg und Schmidt nach Venedig abgereist.
+Found
+MODSMD_ARTICLE09: Außenminister Beck nach Bukarest abgereist.
+Found
+MODSMD_ARTICLE10: Die jüdische Frage eine der wichtigsten für Polen.
+Found
+MODSMD_ARTICLE11: Maßnahmen gegen die Juden gefordert.
+Found
+MODSMD_ARTICLE12: Scharfe Zurückweisung oppositioneller Anwürfe. Hch.
+Found
+MODSMD_ARTICLE13: Bekannte Belgrader Personen als Kommunisten entlarvt.
+Found
+MODSMD_ARTICLE14: Jnönü über den bulgarisch-jugoslawischen Pakt.
+Found
+MODSMD_ARTICLE15: Ausdehnung des Streiks in Toulon.
+Found
+MODSMD_ARTICLE16: Französischer Fesselballon vom Blitz zerstört. Zwei Tote.
+Found
+MODSMD_ARTICLE17: Eine spanische Warnung an französische „Verkehrsslieger".
+Found
+MODSMD_ARTICLE18: Madrid dankt für die aktive Hilfe Moskaus.
+Found
+MODSMD_ARTICLE19: Streikterror in USA.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Neuer Befehlshaber im Lustkreis I.
+Found
+MODSMD_ARTICLE02: „Ein Angriff, nicht ein Gegenangriff".
+Found
+MODSMD_ARTICLE03: Heftige Kritik au der Außenpolitik der Volksfront.
+Found
+MODSMD_ARTICLE04: Pariser Polizeihaushalt für 1938 stark erhöht.
+Found
+MODSMD_ARTICLE05: Die Streiklage im Paris.
+Found
+MODSMD_ARTICLE06: Katalanische Hafenstadt Port Bon bombardiert.
+Found
+MODSMD_ARTICLE07: „Abscheu und Ekel".
+Found
+MODSMD_ARTICLE08: Wird die Aufteilung Palästinas zurückgestellt?
+Found
+MODSMD_ARTICLE09: Die neue rumänische Regierung. I?
+Found
+MODSMD_ARTICLE10: Ruhepause am Jangtse.
+Found
+MODSMD_ARTICLE11: Amerikanische Rückfrage in Schanghai.
+Found
+MODSMD_ARTICLE12: General Motors entläßt 30 000 Arbeiter und Angestellte.
+Found

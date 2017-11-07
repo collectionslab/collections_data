@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Hachrichtenbü.ro
+Found
+MODSMD_ARTICLE02: Der Führer an Generalfeldmarschall von Mackensen.
+Found
+MODSMD_ARTICLE03: Grand Prix für Dr. Todt.
+Found
+MODSMD_ARTICLE04: Das größte Brückenbauwerk Europas.
+Found
+MODSMD_ARTICLE05: Polnisch-französische Trinksprüche in Warschau.
+Found
+MODSMD_ARTICLE06: Polnische Orden für französische Diplomaten.
+Found
+MODSMD_ARTICLE07: Polnische Stimmen zu den Warschauer Besprechungen.
+Found
+MODSMD_ARTICLE08: „Übereinstimmung trotz verschiedener Auffassungen".
+Found
+MODSMD_ARTICLE09: „Journal" über den Tag der Nationalen Solidarität.
+Found
+MODSMD_ARTICLE10: Die geheime kommunistische Wühlarbeit in Frankreich.
+Found
+MODSMD_ARTICLE11: Hore-Belisha über die Veränderungen in der Armee.
+Found
+MODSMD_ARTICLE12: EntPolitisierung der rumänischen Verwaltung.
+Found
+MODSMD_ARTICLE13: Japan schließt sein Konsulat in Barcelona.
+Found
+MODSMD_ARTICLE14: Die jüdische Kurpfuscheraffäre in Rumänien.
+Found
+MODSMD_ARTICLE15: Baldur von Schirach beim Kaiser von Iran.
+Found
+MODSMD_ARTICLE16: Hüll über die amerikanischen Konsulate in Spanien.
+Found
+MODSMD_ARTICLE17: Kommunisten-Ausweisung aus Brasilien.
+Found

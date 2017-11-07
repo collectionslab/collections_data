@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ernennungen in der Reichsrundfunkkammer.
+Found
+MODSMD_ARTICLE02: Der Marsch der HJ. nach Nürnberg hat begonnen.
+Found
+MODSMD_ARTICLE03: Wieder ein klösterliche Psychopath als Krankenpfleger.
+Found
+MODSMD_ARTICLE04: Deutschland auf der Unterrichtskonferenz in Genf.
+Found
+MODSMD_ARTICLE05: Die Deutsche Kulturwoche in Paris.
+Found
+MODSMD_ARTICLE06: Internationale Tagungen in Paris.
+Found
+MODSMD_ARTICLE07: Pariser Presse über deutsch-spanischen Handelsvertrag.
+Found
+MODSMD_ARTICLE08: Ein Beauftragter van Seelands in Paris.
+Found
+MODSMD_ARTICLE09: Der „Mpubligue" wird es zu bunt.
+Found
+MODSMD_ARTICLE10: Der Nichtieinmischungs-Unterausschuß zusammengetreten.
+Found
+MODSMD_ARTICLE11: Italiens Trauer um Marconi.
+Found
+MODSMD_ARTICLE12: Polnisches Konsulat in Addis Abeba.
+Found
+MODSMD_ARTICLE13: Polnische Verbände sordern Revision des Konkordats.
+Found
+MODSMD_ARTICLE14: Meuterei auf schwedischem Frachter in Sowjethafen.
+Found
+MODSMD_ARTICLE15: Beginn der Feindseligkeiten im Fernen Osten.
+Found
+MODSMD_ARTICLE16: Japan eröffnet „Strafexpedition" gegen die 29. Armee.
+Found
+MODSMD_ARTICLE17: Neue scharfe Note Japans an Nanking.
+Found

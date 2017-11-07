@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ehrungen zum Abschied des Generals der Flieger Kaustisch.
+Found
+MODSMD_ARTICLE02: Erstattungsfreie Mietbeihilfen.
+Found
+MODSMD_ARTICLE03: WHW. bis 10. April verlängert.
+Found
+MODSMD_ARTICLE04: Spende der Deutschen Aerzteschaft für Oesterreich.
+Found
+MODSMD_ARTICLE05: 245 009 Fleisch- und Wurstkonserven für Oesterreich.
+Found
+MODSMD_ARTICLE06: In 10 Tagen 18 475 Neueinstellungen.
+Found
+MODSMD_ARTICLE07: Umwandlung der schweizerischen Gesandtschaft in Wien.
+Found
+MODSMD_ARTICLE08: Das Vermögen der österreichischen Gewerkschaften.
+Found
+MODSMD_ARTICLE09: Politische Leibeserziehung auch für Oesterreich.
+Found
+MODSMD_ARTICLE10: Der neue belgische Botschafter in Rom.
+Found
+MODSMD_ARTICLE11: Noch immer bolschewistischer Menschenschmuggel.
+Found
+MODSMD_ARTICLE12: Michalakopulos f.
+Found
+MODSMD_ARTICLE13: Die Wühlerei der Komintern.
+Found
+MODSMD_ARTICLE14: „Kursier Poranuy" gegen Pressehetze.
+Found
+MODSMD_ARTICLE15: 11 Millionen Pfund für Flughäfen und Nebenbauten.
+Found
+MODSMD_ARTICLE16: Der Langstreckenweltrekord des Dornierflugbootes.
+Found
+MODSMD_ARTICLE17: Eine Glanzleistung des deutschen Motorenbaus.
+Found
+MODSMD_ARTICLE18: England würdigt den deutschen Atlantikslug-Rekord.
+Found

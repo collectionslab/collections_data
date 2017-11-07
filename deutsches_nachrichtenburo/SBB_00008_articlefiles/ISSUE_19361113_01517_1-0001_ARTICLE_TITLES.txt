@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: 79. Geburtstag von August Wagner.
+Found
+MODSMD_ARTICLE02: 1. Lachkongreß für das Prüfungs- und Treuhandwesen.
+Found
+MODSMD_ARTICLE03: Befriedigung über das Ergebnis der Wiener Konferenz.
+Found
+MODSMD_ARTICLE04: Außenminister (Das Ciano in Budapest.
+Found
+MODSMD_ARTICLE05: Wilnaer Universität geschlossen.
+Found
+MODSMD_ARTICLE06: Spaniens Nationalregierung schützt die Währung.
+Found
+MODSMD_ARTICLE07: Verordnung Francos zum Schuh der Währung.
+Found
+MODSMD_ARTICLE08: Vertrag Frankreich—Libanon unterzeichnet.
+Not Found
+MODSMD_ARTICLE09: Steuersteckbriese und Vermögensbeschlagnahmen.
+Found

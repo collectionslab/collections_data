@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Abend- und Nacht-Ausgabe. deutsches Nach?icht->nbüro M
+Found
+MODSMD_ARTICLE02: Goethe-Medaille für Professor Wackerle.
+Found
+MODSMD_ARTICLE03: Französische Panzerdivision vollkommen aufgerieben.
+Found
+MODSMD_ARTICLE04: 89 Engländer gefangen.
+Found
+MODSMD_ARTICLE05: Weitere norwegische Kriegsfahrzeuge in Dienst gestellt.
+Found
+MODSMD_ARTICLE06: Holländische Donauschifsahrt unter deutscher Flagge.
+Found
+MODSMD_ARTICLE07: Die Weltpresse zum deutschen Vormarsch.
+Found
+MODSMD_ARTICLE08: Duff Cooper, der Rechenkünstler.
+Found
+MODSMD_ARTICLE10: Botschafter Alfieri nach Berlin abgereist.
+Found
+MODSMD_ARTICLE11: 25W italienische Schiffe von den Seeräubern angehalten.
+Found
+MODSMD_ARTICLE12: Italien hat den Bersailler Vertrag nicht vergessen.
+Found
+MODSMD_ARTICLE13: Tiefe Bestürzung und Kopflosigkeit in London.
+Found
+MODSMD_ARTICLE14: Der Führer dankt den Hollandkämpfern.
+Found
+MODSMD_ARTICLE15: Königin Wilhelmina und Prinzessin Juliana in London.
+Found
+MODSMD_ARTICLE16: Der holländische Oberbefehlshaber zur Kapitulation.
+Found
+MODSMD_ARTICLE17: „Frankreich hat einen schweren Schlag erlitten."
+Found

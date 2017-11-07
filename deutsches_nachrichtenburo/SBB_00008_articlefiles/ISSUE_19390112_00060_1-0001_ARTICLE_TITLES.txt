@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der 46. Geburtstag Hermann Görmgs.
+Found
+MODSMD_ARTICLE03: Reichsausschuß für Leistungssteigerung.
+Found
+MODSMD_ARTICLE04: General Dalnege an die Technische Nöthilfe.
+Found
+MODSMD_ARTICLE05: Bertuleit wird Präsident des Memeldirektoriums.
+Found
+MODSMD_ARTICLE06: Die zweite Unterredung Duce—Chamberlain.
+Not Found
+MODSMD_ARTICLE07: Ter nationalspamsche Botschafter bei Graf Ciauo.
+Found
+MODSMD_ARTICLE08: Staatspräsident Jeanneney wiedergewählt.
+Found
+MODSMD_ARTICLE09: „Gewißheit des Endsieges Francos fest verankert."
+Found
+MODSMD_ARTICLE10: Rüstungstaumel in der Sowjetunion.
+Found
+MODSMD_ARTICLE11: Unvorstellbares Bauernelend in USA.
+Found

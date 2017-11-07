@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der polnische Außenminister vom Jührer empfangen.
+Found
+MODSMD_ARTICLE02: Neue Verordnung über das Meldcwesen.
+Found
+MODSMD_ARTICLE03: „Samonprava" über den Berliner Besuch Stoiadinowitschs.
+Found
+MODSMD_ARTICLE04: „Slovenee" gegen Doppelmoral der „großen Demokratien".
+Found
+MODSMD_ARTICLE05: Nach dem Stürz der Regierung Chautemps.
+Found
+MODSMD_ARTICLE06: Chautemps lehnt die Neubildung des Kabinetts ab.
+Found
+MODSMD_ARTICLE07: Ueberraschende Reise Edens nach London.
+Found
+MODSMD_ARTICLE08: Das ägyptische Heer auf Faruk I. vereidigt.
+Found

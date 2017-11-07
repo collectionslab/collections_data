@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Führer in Essen.
+Found
+MODSMD_ARTICLE02: Der Führer stiftet einen Sportpreis.
+Found
+MODSMD_ARTICLE03: Italienische Beamte erleben Deutschland.
+Found
+MODSMD_ARTICLE04: 1,4 Millionen Beamte Schulter an Schulter.
+Found
+MODSMD_ARTICLE05: Hilfszug Bayern im Sudetenland»
+Found
+MODSMD_ARTICLE06: Prag Zur Deutschlaudreise Chvalkovskys.
+Found
+MODSMD_ARTICLE07: Prag arbeitet am Staatsumbau.
+Found
+MODSMD_ARTICLE08: Genug von Benesch!
+Found
+MODSMD_ARTICLE09: Standrecht in karpatho-ukrainischen Bezirken.
+Found
+MODSMD_ARTICLE10: Jmredy empfing Kanya und Teleki.
+Found
+MODSMD_ARTICLE11: Starke Unzufriedenheit in Ungarn.
+Found
+MODSMD_ARTICLE12: Marschall Rydz-Smigly im Olsa-Gebiet.
+Found
+MODSMD_ARTICLE13: Die Unabhängigkeit Belgiens.
+Found
+MODSMD_ARTICLE14: Verzicht aus Volksabstimmung.
+Found
+MODSMD_ARTICLE15: Moskau plötzlich uninteressiert.
+Found
+MODSMD_ARTICLE16: Fahndungsaktion großen Stils in Sofia. ;
+Found
+MODSMD_ARTICLE17: Von den Noten „verschickte" Kinder kehren zurück.
+Found
+MODSMD_ARTICLE18: Portugiesischer Besuch in Nationalspanien.
+Found
+MODSMD_ARTICLE19: Eine japanische Verlautbarung.
+Found
+MODSMD_ARTICLE20: Zurückweichen der Chinesen an der Nordfront.
+Found

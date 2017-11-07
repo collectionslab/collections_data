@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Dr. Goebbels besucht die Ufa in Babelsberg.
+Found
+MODSMD_ARTICLE02: Der finnische Kultusminister auf dem Reichssportfeld.
+Found
+MODSMD_ARTICLE03: Das tschechische Volk schaltet Freimaurer und Juden aus.
+Found
+MODSMD_ARTICLE04: Das Offizierkorps des „Admiral Scheer" in Bilbao.
+Found
+MODSMD_ARTICLE05: Die Befriedung der Völker im Donauraum.
+Found
+MODSMD_ARTICLE06: Die Mitarbeiter der Agenzia Stefani bei Mussolini.
+Found
+MODSMD_ARTICLE07: Politische Gespräche in Paris.
+Found
+MODSMD_ARTICLE08: Frankreich drängt nach Dienstpflicht in England.
+Found
+MODSMD_ARTICLE09: Englische Wehrpflicht nur eine „Geste".
+Found
+MODSMD_ARTICLE10: Chamberlain soll die Einkreisung beschleunigen.
+Found
+MODSMD_ARTICLE11: Gafencu bei Chamberlain und Halifax.
+Found
+MODSMD_ARTICLE12: Englands Flottenmanöver im Mittelmeer.
+Found
+MODSMD_ARTICLE13: Italienische Woche in Kowno.
+Found
+MODSMD_ARTICLE14: Neue GPU-Zentrale in Stockholm.
+Found
+MODSMD_ARTICLE15: Neue Steuern in Belgien geplant.
+Found
+MODSMD_ARTICLE16: Hunderte von Millionen wandern in die Müllkästen.
+Found
+MODSMD_ARTICLE17: Epidemie in Moskauer Kinderhorten.
+Found
+MODSMD_ARTICLE18: Die deutschen Schriftleiter auf der Fahrt nach Japan.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: 1 «73 711 NM. für das Winterhilfswerk. Musikalische Veranstaltung beim Führer.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen durch den Führer.
+Found
+MODSMD_ARTICLE03: Bundestag für den 24. Februar einberufen.
+Found
+MODSMD_ARTICLE04: Jubel vor den Wiener Gefängnistoren.
+Found
+MODSMD_ARTICLE05: Die „Samuprawa" Zur Wiener Regierungsumbildung.
+Found
+MODSMD_ARTICLE06: Reise des jugoslawischen Verkichrsministers nach Italien.
+Found
+MODSMD_ARTICLE07: Minister Roman zur Wirtschastseutwicklung in Polen.
+Found
+MODSMD_ARTICLE08: Die Lebensrechte des Deutschtums in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE09: Jegliche Parteipolitik in Rumänien untersagt.
+Found
+MODSMD_ARTICLE10: Jüdische Devisenschieber gefaßt.
+Found
+MODSMD_ARTICLE11: Ungarn unter dem Eindruck der Enthüllungen Budenkos.
+Found
+MODSMD_ARTICLE12: Empfang beim König von Bulgarien.
+Found
+MODSMD_ARTICLE13: Chamberlain: Keine allgemeine Wehrpflicht in England.
+Found
+MODSMD_ARTICLE14: Die Aussprache über das Arbeitsstatut.
+Found
+MODSMD_ARTICLE15: Ein bezeichnender Streikzwischenfall.
+Found
+MODSMD_ARTICLE16: Militärisches Vorratslager in Beirut durch Feuer vernichtet.
+Found

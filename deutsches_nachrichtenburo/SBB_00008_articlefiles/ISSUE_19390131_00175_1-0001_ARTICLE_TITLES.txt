@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Welt zur Füheerrede
+Found
+MODSMD_ARTICLE02: Japan
+Found
+MODSMD_ARTICLE03: Ungarn
+Found
+MODSMD_ARTICLE04: Schweden
+Found
+MODSMD_ARTICLE05: Jugoslawien
+Found
+MODSMD_ARTICLE06: Niederlande
+Found
+MODSMD_ARTICLE07: Belgien
+Found
+MODSMD_ARTICLE08: Litauen
+Found
+MODSMD_ARTICLE09: Feier des 30. Januar in der ganzen Welt.
+Found
+MODSMD_ARTICLE10: Salazar übernahm auch das Marineministerium.
+Found
+MODSMD_ARTICLE11: Pater Coughlin läßt sich von Inda nicht einschüchtern.
+Found

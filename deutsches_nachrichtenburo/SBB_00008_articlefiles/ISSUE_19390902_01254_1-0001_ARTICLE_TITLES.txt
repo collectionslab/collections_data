@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Antwort des Führers auf einen Appell Roosevelts.
+Found
+MODSMD_ARTICLE02: Eine offizielle deutsche Warnung an Polen.
+Found
+MODSMD_ARTICLE03: Keine deutschen Bomben auf polnische Zivilbevölkerung."
+Found
+MODSMD_ARTICLE04: Jugoslawiens Presse über die Ereignisse des 1. September.
+Found
+MODSMD_ARTICLE05: Neuer Botschafter der UdSSR, in Deutschland ernannt.
+Found
+MODSMD_ARTICLE06: Starker Eindruck der Führerrede in Moskau.
+Found
+MODSMD_ARTICLE07: Moskau: „Ein geschichtliches Ereignis".
+Found
+MODSMD_ARTICLE08: Das Programm der Juden und Freimaurer.
+Found
+MODSMD_ARTICLE09: Italien: „Die böse Saat von Versailles geht auf."
+Found
+MODSMD_ARTICLE10: Norwegen: „Deutschlands Ansprüche voll berechtigt."
+Found
+MODSMD_ARTICLE11: Die tägliche Unterredung.
+Found
+MODSMD_ARTICLE12: Roosevelt zur Frage der Neutralität.
+Found
+MODSMD_ARTICLE13: Die Kennzahl der Großhandelspreise vom 39. August.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Küstenflug 1937.
+Found
+MODSMD_ARTICLE02: Dr. Ley auf der Tagung des Vereins Deutscher Chemiker.
+Found
+MODSMD_ARTICLE03: Der Konitzer Prozeß gegen die 22 deutschen Jungen.
+Found
+MODSMD_ARTICLE04: London spricht von einem „neuen Plan".
+Found
+MODSMD_ARTICLE05: Die „RePulse" vor Haifa.
+Found
+MODSMD_ARTICLE06: Der Wortlaut der Note General Francas.
+Found
+MODSMD_ARTICLE07: Bolschewistische Bomben auf Cordoba!
+Found
+MODSMD_ARTICLE08: Auch die Postbeamten fordern 46-Stundenwoche.
+Found
+MODSMD_ARTICLE09: Sieg einer kommunistischen Eingeborenen-Liste in Algier.
+Found
+MODSMD_ARTICLE10: Feuergefecht jugoslawischer Bauern mit Gendarmerie.
+Found
+MODSMD_ARTICLE11: Die Verhaftung des Direktors der Taß bestätigt.
+Found

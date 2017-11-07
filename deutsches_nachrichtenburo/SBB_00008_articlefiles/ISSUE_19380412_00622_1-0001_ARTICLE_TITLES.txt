@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: 23 884 Auslandsdeutsche gaben in Oesterreich ihr „Ja".
+Found
+MODSMD_ARTICLE02: Ostcrfrieden bis 25. April. '
+Found
+MODSMD_ARTICLE03: Erinnerungsfeier der finnisch-deutschen Waffenkameradschast.
+Found
+MODSMD_ARTICLE04: Arbeitsdienst für deutsche Turner in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE05: Der litauische Gesandte fuhr über Königsberg.
+Found
+MODSMD_ARTICLE06: Ein Kriegsindustrieregister in Schweden.
+Found
+MODSMD_ARTICLE07: Lettland lädt Zur Konferenz der baltischen Staaten ein.
+Found
+MODSMD_ARTICLE08: Gewerkschaftsbonzen und Radaubrüder aeben den Ton an.
+Found
+MODSMD_ARTICLE09: Daladier berät mit dem Arbeitsminister die Streitfrage.
+Found
+MODSMD_ARTICLE10: Neue riesige Kriegsmaterialsendungen für Rotspanien.
+Found
+MODSMD_ARTICLE11: Die nationalspanischen Truppen weiter im Bormarsch.
+Found
+MODSMD_ARTICLE12: London beruft eine Walfang-Konferenz ein.
+Found
+MODSMD_ARTICLE13: Umfassende Klärung der italienisch-englischen Beziehungen.
+Found
+MODSMD_ARTICLE14: England will die nächste Weizenernte aufspeichern.
+Found
+MODSMD_ARTICLE15: Ulster durch die englisch-irischen! Verhandlungen beunruhigt?
+Found
+MODSMD_ARTICLE16: Unruheherd Tunesien.
+Found
+MODSMD_ARTICLE17: Australien wünscht keine ludeninvasion!
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Vorbeimarsch am Führer.
+Found
+MODSMD_ARTICLE03: Der Führer verleiht Papen das Goldene Ehrenzeichen.
+Found
+MODSMD_ARTICLE04: Seyst-Jnquart ehrt General Kraust.
+Found
+MODSMD_ARTICLE05: Wiedererrichtung einer gesamtdeutschen Studentenschast.
+Found
+MODSMD_ARTICLE06: Funk an den österreichischen Handelsminister.
+Found
+MODSMD_ARTICLE07: Der Reichsaußenminister wieder in Berlin.
+Found
+MODSMD_ARTICLE08: Telegrammwechsel Göring—Josef Wagner.
+Found
+MODSMD_ARTICLE09: Eine jugoslawische Erklärung.
+Found
+MODSMD_ARTICLE10: Das Warschauer „Jntourist"-Büro geschlossen.
+Found
+MODSMD_ARTICLE11: Das neue Kabinett Blum.
+Found

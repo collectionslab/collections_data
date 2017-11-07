@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer ehrt zwei nationalsozialistische Schriftleiter.
+Found
+MODSMD_ARTICLE02: Ter Reichskriegerbund an Erzherzog Albrecht.
+Found
+MODSMD_ARTICLE03: Konsul Paul Hersurth gestorben.
+Found
+MODSMD_ARTICLE04: Eine Erklärung von Prinz Bernhard zur Lippe-Biesterfeld.
+Found
+MODSMD_ARTICLE05: Neue Entweihung der Hakenkreuzflagge im Haag.
+Found
+MODSMD_ARTICLE06: Diskonisenknng der Bank von Tanzig.
+Found
+MODSMD_ARTICLE07: Die römische Presse zum Gentlemews Agreement.
+Found
+MODSMD_ARTICLE08: General Franca begnadigt 70 Zum Tode Verurteilte.
+Found
+MODSMD_ARTICLE09: Chaos im Lager der Noten.
+Found
+MODSMD_ARTICLE10: Rücktritt des rumänischen Marine- und Luftfahrtministers.
+Found
+MODSMD_ARTICLE11: Wachsende Mißstimmung über die neue Sowjetverfassung.
+Found
+MODSMD_ARTICLE12: Die Sowjets errichten eine Gottlosen-Internationale.
+Found
+MODSMD_ARTICLE13: Kommunistenverbot im argentinischen Senat angenommen»
+Found
+MODSMD_ARTICLE14: Vertreter der Spanienbolschewisten in Mexiko nach USA.
+Found
+MODSMD_ARTICLE15: Der Nordwesten Chinas den Kommunisten ausgeliefert?
+Found

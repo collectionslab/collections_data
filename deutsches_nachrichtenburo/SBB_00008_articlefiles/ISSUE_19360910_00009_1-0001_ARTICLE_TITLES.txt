@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Parteitag der Ehre.
+Found
+MODSMD_ARTICLE02: Ausstellung „Das politische Deutschland" eröffnet
+Found
+MODSMD_ARTICLE03: Dr. Frick beim Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE04: Welturaufführung des Films „Verräter";
+Found
+MODSMD_ARTICLE05: Die italienische Presse zum Parteitag.
+Found
+MODSMD_ARTICLE06: Stärkste Beachtung der Proklamation des Führers.
+Found

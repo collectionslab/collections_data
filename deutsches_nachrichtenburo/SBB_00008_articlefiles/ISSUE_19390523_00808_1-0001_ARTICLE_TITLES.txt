@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Brauchitsch dankt der Polizei und LL.
+Found
+MODSMD_ARTICLE02: Organisatoren des Leistungskampfes besuchen Italien.
+Found
+MODSMD_ARTICLE03: Deutscher Studententag Würzburg 1939.
+Found
+MODSMD_ARTICLE04: 18 Einheiten der französischen Flotte auf Auslandsfahrt.
+Found
+MODSMD_ARTICLE05: Kabinettssitzung in London.
+Found
+MODSMD_ARTICLE06: Geradlinige, korrekte und untadelige Politik.
+Found
+MODSMD_ARTICLE07: Letzte Grüße für die deutschen Spanienfresiwilligen.
+Found
+MODSMD_ARTICLE08: Neuer Bund der südosteuropäischen Staaten geplant. 0»
+Found
+MODSMD_ARTICLE09: Palästinajuden schicken britische Orden zurück.
+Found
+MODSMD_ARTICLE10: Sieben außenmongolische Flugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE11: Roosevelts Ehrgeiz soll ein Riegel vorgeschoben werden.
+Found
+MODSMD_ARTICLE12: Kommunisten in wichtigen amerikanischen Staatsstellen.
+Found
+MODSMD_ARTICLE13: Polnische Panikmache in USA.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Schirach verabschiedete die Jtalieufahrer der HJ.
+Found
+MODSMD_ARTICLE02: Die HJ.-Führer in Paris.
+Found
+MODSMD_ARTICLE03: Empfang des Reichsstudentenführers in Paris.
+Found
+MODSMD_ARTICLE04: Verzweifelte Suche Valencias nach Auswegen.
+Found
+MODSMD_ARTICLE05: Nationalspanischer Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE06: Polens Ministerpräsident aus Frankreich zurück.
+Found
+MODSMD_ARTICLE07: Moskau hetzt die polnische Arbeiterschaft auf.
+Found
+MODSMD_ARTICLE08: Kronrat auf Schloß Balmoral.
+Found
+MODSMD_ARTICLE09: Der englische Botschafter in China außer Lebensgefahr.
+Found
+MODSMD_ARTICLE10: Englischer Protest in Tokio?
+Found
+MODSMD_ARTICLE11: Der neue Frontabschnitt vor Schanghai.
+Found
+MODSMD_ARTICLE12: Japanische Truppen auch auf dem rechten Whangpu-Ufer.
+Found
+MODSMD_ARTICLE13: Die Auswirkungen der japanischen Blockade.
+Found
+MODSMD_ARTICLE14: Auch Washington wird in Tokio und Nanking vorstellig.
+Found
+MODSMD_ARTICLE15: Keine Zurückziehung Amerikas aus dem Fernen Osten.
+Found
+MODSMD_ARTICLE16: Schwere Bomber als Schiffsladung nach Schanghai.
+Found
+MODSMD_ARTICLE17: Roosevelts Urlaubsmappe.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Glückwünsche des Stellvertreters des Führers.
+Found
+MODSMD_ARTICLE02: Das Ausland zur Regierungsumbildung in Berlin.
+Found
+MODSMD_ARTICLE03: Die Frau in der Kolonialarbeit.
+Found
+MODSMD_ARTICLE04: General der Infanterie a. D. Graf Montgelas gestorben.
+Found
+MODSMD_ARTICLE05: Gedenkfeier für Wilhelm Gustloff in Zürich.
+Found
+MODSMD_ARTICLE06: Die Unterstützung Sowjetspaniens durch Frankreich.
+Found
+MODSMD_ARTICLE07: Neuer Leiter des Amtes für körperliche Erziehung in Polen.
+Found
+MODSMD_ARTICLE08: Der Haushalt des polnischen Finanzministeriums.
+Found
+MODSMD_ARTICLE09: Minister Jnskip mahnt England zur Einigkeit.
+Found
+MODSMD_ARTICLE10: Amerika ersetzt seine Tientsiner Infanterie durch Marine.
+Found
+MODSMD_ARTICLE11: Die Kennzahl der Großhandelspreise vom 2. Februar 1938.
+Found

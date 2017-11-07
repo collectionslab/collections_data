@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an General von Hülsen»
+Found
+MODSMD_ARTICLE02: Ein Empfang für Staatssekretär Tassinari.
+Found
+MODSMD_ARTICLE03: Eine Tagung des Ausschusses für Strafprozeßrecht.
+Found
+MODSMD_ARTICLE04: Korpsführer Hühnlein aus Tripolis zurück.
+Found
+MODSMD_ARTICLE05: Der Reichsfinanzminister von Wien abgereist.
+Found
+MODSMD_ARTICLE06: Störungsversuche gegen sudetendeutsche Versammlung.
+Found
+MODSMD_ARTICLE07: Baut England 45 000 Tonnen-Schlachtschiffe?
+Found
+MODSMD_ARTICLE08: Der neue Präsident der Ungarischen Nationalbank.
+Found
+MODSMD_ARTICLE09: Horthy empfängt den nationalspanischen Gesandten.
+Found
+MODSMD_ARTICLE10: Arbeitsbeschaffung in Frankreich.
+Found
+MODSMD_ARTICLE11: „Journal" über die Wassentransporte nach Barcelona.
+Found
+MODSMD_ARTICLE12: Immer größer werdende Lebensmitteluot in Madrid.
+Found
+MODSMD_ARTICLE13: Die Polenreise Miron Cristeas.
+Found
+MODSMD_ARTICLE14: 166 Millionen Dinar für Ausbau der jugoslawischen Häfen.
+Found
+MODSMD_ARTICLE15: Das Arbeitsprogramm der GPU-Gefangenien.
+Found
+MODSMD_ARTICLE16: Der Vizepräsident des Volkskommissarenrates liquidiert.
+Found
+MODSMD_ARTICLE17: Türkische Protestnoten nach Paris und Genf.
+Found

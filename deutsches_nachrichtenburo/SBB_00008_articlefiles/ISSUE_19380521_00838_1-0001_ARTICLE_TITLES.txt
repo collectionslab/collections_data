@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Neichsminister Dr. Reick in Mallnitz.
+Found
+MODSMD_ARTICLE02: Reichssinanzminister Graf Schwerin-Krosigk in Klagenfurth.
+Found
+MODSMD_ARTICLE03: Dr. Lcy vor den Richtern der TAI.
+Found
+MODSMD_ARTICLE04: Tue österreichischen Führergedenkstätten.
+Found
+MODSMD_ARTICLE05: Deutsch-italienischer Rundfunkprogrammanstausch.
+Found
+MODSMD_ARTICLE06: Ist. Internationaler Chemie-Kongreß.
+Found
+MODSMD_ARTICLE07: Durchsichtige Zeitungmanöver in London und Paris.
+Found
+MODSMD_ARTICLE08: Brutaler Uebersall auf unschuldige Deutsche.
+Found
+MODSMD_ARTICLE09: Sudetendeutscher Schritt! beim Landeshauptmann in Brünn.
+Found
+MODSMD_ARTICLE10: Anhaltende Aktivität der bretonischen Autono misten.
+Found
+MODSMD_ARTICLE11: Lenkt die Pariser Presse ein?
+Found
+MODSMD_ARTICLE12: Rückläufige Bevölkerungsbewegung in Frankreich.
+Found
+MODSMD_ARTICLE13: Bonnet empfängt Diplomaten.
+Found
+MODSMD_ARTICLE14: Das Ans und Ab der Ernennungen und Absetzungen.
+Found

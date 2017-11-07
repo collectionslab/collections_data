@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Deutsch-slowakisches Verrechnuugsabkommen.
+Found
+MODSMD_ARTICLE02: Einführung der Reichsmarkwähruug im Memelgebiet.
+Found
+MODSMD_ARTICLE03: Nächtliche Ueberführung der Leiche Dr. Wagners.
+Found
+MODSMD_ARTICLE04: Der Abschluß der Sonthofener Tagung.
+Found
+MODSMD_ARTICLE05: Deutsche Abteilung auf der finnischen Messe.
+Found
+MODSMD_ARTICLE06: Dankielegramm Mussolinis an Franco.
+Found
+MODSMD_ARTICLE07: Guter Fortgang der Offensive in Andalusien.
+Found
+MODSMD_ARTICLE08: Naiioualspanien gab 23 333 Rotspauiern die Freiheit.
+Found
+MODSMD_ARTICLE09: Ministerpräsident Teleki in der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE10: London als Lügenzentrale der Welt.
+Found
+MODSMD_ARTICLE11: Wieder einmal „Hunnen".
+Found
+MODSMD_ARTICLE12: Der italienisch-jugoslawische Freundschaftsvertrag.
+Found
+MODSMD_ARTICLE13: Fußballkampf Italien—Deutschland 3 : 2.
+Not Found

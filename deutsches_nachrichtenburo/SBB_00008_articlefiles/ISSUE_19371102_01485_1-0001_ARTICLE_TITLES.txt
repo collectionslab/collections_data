@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Das dänische KronprinZenpaar in Berlin.
+Found
+MODSMD_ARTICLE02: Martins-Feier in der Deutsch-Niederländischen Gesellschaft.
+Found
+MODSMD_ARTICLE03: Jannings-Ehrung in Kopenhagen.
+Found
+MODSMD_ARTICLE04: „Deutschlands Kolonialforderung ehrlich und vernünftig."
+Found
+MODSMD_ARTICLE05: Niederlage der Labour Party im Unterhaus.
+Found
+MODSMD_ARTICLE06: Die Aufgaben der Brüsseler Konferenz.
+Found
+MODSMD_ARTICLE07: Gemeindewahlen in England und Wales.
+Found
+MODSMD_ARTICLE08: Keine Einigung bei der Regierungsneubildung in Belgien.
+Found
+MODSMD_ARTICLE09: Die Regierung Tatarescu sieht ihre Aufgabe für beendet an.
+Found
+MODSMD_ARTICLE10: Der französische Staatsfeind Nr. 1.
+Found
+MODSMD_ARTICLE11: An den Fronten nichts Neues.
+Found
+MODSMD_ARTICLE12: Was die Valenciabolschewisten in Nordspanien vorhatten.
+Found
+MODSMD_ARTICLE13: Außenpolitische Erklärung Atatürks.
+Found
+MODSMD_ARTICLE14: Gute Beziehungen zwischen der Türkei und Iran.
+Found
+MODSMD_ARTICLE15: Ueberfall auf ein Wahllokal in Algerien.
+Found
+MODSMD_ARTICLE16: Das Programm der „Jntegralisten".
+Found

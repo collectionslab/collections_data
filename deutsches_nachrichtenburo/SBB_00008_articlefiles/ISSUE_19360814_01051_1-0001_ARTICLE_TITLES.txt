@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: 17W Deutsche aus Madrid abtransportiert.
+Found
+MODSMD_ARTICLE02: Lufthansa-Dienst zur Abholung der Spameu-Wichtliuge.
+Found
+MODSMD_ARTICLE03: Ein Hilferuf der Madrider Regierung.
+Found
+MODSMD_ARTICLE04: Madrider Negierung siedelt nicht nach Valencia über.
+Found
+MODSMD_ARTICLE05: Britischer und französischer Protest in Madrid.
+Found
+MODSMD_ARTICLE06: Redolutionstribunale in Madrid. Die Lage sehr ernst.
+Found
+MODSMD_ARTICLE07: Geiselerschiestnugen in San Sebastian.
+Found
+MODSMD_ARTICLE08: Wieder Gold der Madrider Regierung in Le Bourget.
+Found
+MODSMD_ARTICLE09: Nationalistische Kriegsschiffe vor San Sebastian.
+Found
+MODSMD_ARTICLE10: Blutiges Gefecht bei Badajoz.
+Found
+MODSMD_ARTICLE11: Neue Erfolge der spanischen Nationalisten.
+Found
+MODSMD_ARTICLE12: Nationalistische Abteilungen im Vormarsch auf Malaga.
+Found
+MODSMD_ARTICLE13: Englische Flugzeuge für beide Parteien in Spanien.
+Found
+MODSMD_ARTICLE14: Tie Verhandlungen über dgs Nichteinmischungsabkommen.
+Found
+MODSMD_ARTICLE15: Französischer Ministerrat zur spanischen Frage.
+Found
+MODSMD_ARTICLE16: Pariser Abendblätter zum Warschauer Besuch Gamelins.
+Found
+MODSMD_ARTICLE17: Tie Schaffung der Flugzeugführer-Reserve in England.
+Found
+MODSMD_ARTICLE18: Die britischen Flottenstützpunkte im Mittelmeer.
+Found
+MODSMD_ARTICLE19: Die englisch-ägyptische Verständigung und Italien.
+Found
+MODSMD_ARTICLE20: Neuer Augriff auf britische Truppen in Palästina.
+Found
+MODSMD_ARTICLE21: Blutige Streikunrnhen in Französisch-Jndien.
+Found

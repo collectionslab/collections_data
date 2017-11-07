@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Dr. Beckmann Vizepräsident des Oberpräsidimns in Kassel.
+Found
+MODSMD_ARTICLE02: Milch würdigt Arbeit und Persönlichkeit Graf Zeppelins.
+Found
+MODSMD_ARTICLE03: Dr. Ley beim Gaujubiläum in Königsberg.
+Found
+MODSMD_ARTICLE04: „Reichsbund für deutsche Vorgeschichte" tagt in Hamburg.
+Found
+MODSMD_ARTICLE05: Professor Grimm 50 Jahre alt.
+Found
+MODSMD_ARTICLE06: Deutsch-italienische Freundschaftskundgebung.
+Found
+MODSMD_ARTICLE07: Der Führer an Admiral von Horthy.
+Found
+MODSMD_ARTICLE08: Frankreich und die 43. rotspanische Division.
+Found

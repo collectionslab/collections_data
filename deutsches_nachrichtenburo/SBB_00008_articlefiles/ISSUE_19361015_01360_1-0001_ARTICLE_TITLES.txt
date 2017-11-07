@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Goebbels zur Woche des deutschen Buches.
+Found
+MODSMD_ARTICLE02: Eine Zeitschrift des Reichskriegsministeriums.
+Found
+MODSMD_ARTICLE03: Personenwechsel beim Schiedsgericht für Oberschlesien.
+Found
+MODSMD_ARTICLE04: Josef Ponten erhält den Rheinischen Literaturpreis 193 K.
+Found
+MODSMD_ARTICLE05: Zur Auslösung der österreichischen Wehrverbände.
+Found
+MODSMD_ARTICLE06: Neue kommunistische Agitation in Oesterreich.
+Found
+MODSMD_ARTICLE07: Die inncrpolitische Entwicklung in Frankreich.
+Found
+MODSMD_ARTICLE08: 11. Internationale gegen Gemeinschaft mit Kommunisten.
+Found
+MODSMD_ARTICLE09: Kommunistenhäuptling weiß von nichts.
+Found
+MODSMD_ARTICLE10: Die Lebensmittelversorgung von Paris.
+Found
+MODSMD_ARTICLE11: Die englische Presse zur Londoner Kabinettssitzung.
+Found
+MODSMD_ARTICLE12: Ter neue sowjetrusfische Vorstoß in London.
+Found
+MODSMD_ARTICLE13: England zu Moskaus neuer Forderung.
+Found
+MODSMD_ARTICLE14: Der Dollar als Rückhalt des Währungsabkommens.
+Found

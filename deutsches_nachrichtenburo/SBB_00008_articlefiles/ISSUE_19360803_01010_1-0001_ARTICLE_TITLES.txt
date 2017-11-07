@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Pflegerat für die Opfer des Besenfelder Unglücks.
+Found
+MODSMD_ARTICLE02: Der Reichssportführer an die Wassersportausstellung.
+Found
+MODSMD_ARTICLE03: Dreistündiger Ministerrat in Paris.
+Found
+MODSMD_ARTICLE04: Appell Frankreichs in der Neutralitätsfrage.
+Found
+MODSMD_ARTICLE05: Pariser Blätter zur Nichteinmischungsfrage.
+Found
+MODSMD_ARTICLE06: London zur spanischen Jnterventionssrage.
+Found
+MODSMD_ARTICLE07: Wieder 395 deutsche Spanien-Flüchtlinge in Genua.
+Found
+MODSMD_ARTICLE08: Deutsche Spanien-Flüchtlinge in Innsbruck.
+Found
+MODSMD_ARTICLE09: Bleriot gestorben.
+Found
+MODSMD_ARTICLE10: Francs dementiert italienische Rüstungslieferungen.
+Found
+MODSMD_ARTICLE11: Sanitätsabteilungen aus Frankreich für Barcelona.
+Found
+MODSMD_ARTICLE12: Dynamit für die Kanarischen Inseln.
+Found
+MODSMD_ARTICLE13: Ehemaliger spanischer Ministerpräsident verhaftet.
+Found
+MODSMD_ARTICLE14: Französische Militärflugzeuge für Spanien?
+Found
+MODSMD_ARTICLE15: Besserung der Lage in Madrid und Barcelona.
+Found
+MODSMD_ARTICLE16: Außerordentlicher Sowjetkongreß einberufen.
+Found
+MODSMD_ARTICLE17: Englisches Flugzeug mit 19 Personen vermißt.
+Found

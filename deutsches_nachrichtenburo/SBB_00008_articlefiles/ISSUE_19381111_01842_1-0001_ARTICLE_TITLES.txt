@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Geburtstagsglückwunsch des Führers an Viktor Emanu^l.
+Found
+MODSMD_ARTICLE02: Gering ehrt das Gedenken Generalleutnant Wevers.
+Found
+MODSMD_ARTICLE03: Italien feiert das Antijudengesetz.
+Found
+MODSMD_ARTICLE04: „Deutsche Reichshilfe" in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE05: „Cesko Slovo" über die Lage in Mitteleuropa.
+Found
+MODSMD_ARTICLE06: „In Prag ist alles beim alten geblieben."
+Found
+MODSMD_ARTICLE07: 2V Jahre unabhängiges Polen.
+Found
+MODSMD_ARTICLE08: Polens Anteilnahme am Tode Atatürks.
+Found
+MODSMD_ARTICLE09: Die Reise des englischen Königspaares nach Kanada.
+Found
+MODSMD_ARTICLE10: MacDouald über das Palästina-Problem.
+Found
+MODSMD_ARTICLE11: Englands Presse begrüßt das Luftaufrüstungsprogramm.
+Found
+MODSMD_ARTICLE12: Jsmet Inönü Nachfolger Atatürks.
+Found
+MODSMD_ARTICLE13: Landestrauer in Iran anläßlich des Todes Utatürks.
+Found

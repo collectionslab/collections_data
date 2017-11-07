@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Wertvoller Beitrag zur Erhaltung des Weltfriedens.
+Found
+MODSMD_ARTICLE02: Kammer und Senat feiern begeistert den Bündnisvertrag.
+Found
+MODSMD_ARTICLE03: Schicksalsgemeinschast zweier Völker und Großmächte.
+Found
+MODSMD_ARTICLE04: Stärkster Eindruck in London.
+Found
+MODSMD_ARTICLE05: Der griechische Kriegsminister zu falschen Gerüchten.
+Found
+MODSMD_ARTICLE06: Die Flamen gegen frankophile Politik.
+Found
+MODSMD_ARTICLE07: Denkmalsweihe für Garcia Morato.
+Found
+MODSMD_ARTICLE08: 50 Jahrfeier der Sofioter Universität.
+Found
+MODSMD_ARTICLE09: Neue Taktik der Engländer in Palästina.
+Found
+MODSMD_ARTICLE10: Die Kanada-Reise des englischen Königspaares.
+Found
+MODSMD_ARTICLE11: „Illegal" ist, was sich gegen Juda richtet!
+Found

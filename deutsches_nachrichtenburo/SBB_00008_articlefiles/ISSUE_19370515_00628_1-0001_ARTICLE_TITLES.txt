@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Jahrestagung der Forschungsabteilung Judenfrage.
+Found
+MODSMD_ARTICLE02: Selbstauflösung der DanZiger Deutschnationalen Volkspartei.
+Found
+MODSMD_ARTICLE03: Blomberg bei Schatzkanzler Chamberlain.
+Found
+MODSMD_ARTICLE04: Empfang zu Ehren Blombergs.
+Found
+MODSMD_ARTICLE05: Tie deutschen Minderheiten in Ungarn.
+Found
+MODSMD_ARTICLE06: „Hunter" lief auf eine Treibmine.
+Found
+MODSMD_ARTICLE07: Planmäßige italienisch-ungarische Zusammenarbeit.
+Found
+MODSMD_ARTICLE08: Immer neue Schwierigkeiten bei der Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE09: „Liberte" wird Blatt der Französischen Volkspartei.
+Found
+MODSMD_ARTICLE10: Die polnische Presse warnt die Juden.
+Found
+MODSMD_ARTICLE11: Aus der Suche nach neuen „Saboteuren^.
+Found

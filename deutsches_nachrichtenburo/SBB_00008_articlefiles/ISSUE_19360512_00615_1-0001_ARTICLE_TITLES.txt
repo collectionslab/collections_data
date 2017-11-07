@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Dr. Goebbels spricht auf Kundgebung der Reichstheaterkammer.
+Found
+MODSMD_ARTICLE02: Der deutsche Standpunkt in den Schweizer Verhandlungen.
+Found
+MODSMD_ARTICLE03: LZ. „Hindenburg" zum Rückflug gestartet.
+Found
+MODSMD_ARTICLE04: 50 803 200 Einwohner im neuen römischen Imperium.
+Found

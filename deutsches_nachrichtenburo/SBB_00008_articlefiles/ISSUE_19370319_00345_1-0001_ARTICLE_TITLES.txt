@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Neichsmimster Dr. Goebbels in Dresden.
+Found
+MODSMD_ARTICLE02: Die Kampfansage des Papstes gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE03: Mussolinis Aufenthalt in Tripolis.
+Found
+MODSMD_ARTICLE04: Die römische Presse Zu den Ereignissen in Frankreich.
+Found
+MODSMD_ARTICLE05: „Moskau sucht Blum in die Enge zu treiben."
+Found
+MODSMD_ARTICLE06: Nach dem Pariser Generalstreik.
+Found
+MODSMD_ARTICLE07: Kommunisten in Clichy terrorisieren Andersdenkende.
+Found
+MODSMD_ARTICLE08: Kommunisten rufen .zu neuer Hetze in Clichy auf.
+Found
+MODSMD_ARTICLE09: Ausgleichsgehalt für steigende Lebenshaltungskosten.
+Found
+MODSMD_ARTICLE10: Warum schweigt Frankreich zur Marokko-Note Caballeros?
+Found
+MODSMD_ARTICLE11: Studentenunruhen in Gizeh.
+Found
+MODSMD_ARTICLE12: Explosions-Katastrophe in einer Schule in Texas.
+Found
+MODSMD_ARTICLE13: Rege Tätigkeit der nationalen Weger.
+Found
+MODSMD_ARTICLE14: Devisenverorduung der spanischen Nationalregierung.
+Found
+MODSMD_ARTICLE15: Belgien für strikte Neutralität.
+Found

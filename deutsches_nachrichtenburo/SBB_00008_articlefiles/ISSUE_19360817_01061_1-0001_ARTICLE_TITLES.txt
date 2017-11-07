@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die Neutralitätsverhandlungen „außerordentlich heikel".
+Found
+MODSMD_ARTICLE02: „Journal" über die Vorbehalte der Mächte.
+Found
+MODSMD_ARTICLE03: Polnische Stimme zu dem französischen Vorschlag.
+Found
+MODSMD_ARTICLE04: Ist das Nichteinmischung?
+Found
+MODSMD_ARTICLE05: General Franca: Keine Beschießung Madrids.
+Found
+MODSMD_ARTICLE06: In Badajoz keine Gefangenen!
+Found
+MODSMD_ARTICLE07: Belagerungszustand über Estremadura.
+Found
+MODSMD_ARTICLE08: Estepona von den Nationalisten eingenommen.
+Found
+MODSMD_ARTICLE09: Giral glaubt nicht an baldigen Sieg.
+Found
+MODSMD_ARTICLE10: Angriff auf Mallorca?
+Found
+MODSMD_ARTICLE11: General Queipo de Llano gegen Madrider Behauptungen.
+Found
+MODSMD_ARTICLE12: Besuch des Generals Aranco in Burgos.
+Found
+MODSMD_ARTICLE13: Englisches Flugzeug in Frankreich beschlagnahmt.
+Found
+MODSMD_ARTICLE14: Brasilien fordert Garantien von Spanien.
+Found
+MODSMD_ARTICLE15: Französische Proteste gegen die kommunistische Hetze.
+Found
+MODSMD_ARTICLE16: Die englischen Vorschläge zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE17: Der Außenpolitische Ausschuß des englischen Kabinetts tritt zusammen.
+Found
+MODSMD_ARTICLE18: Vor der Unterzeichnung des englisch-ägyptischen Vertrages.
+Found

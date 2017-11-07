@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ein deutsches U-Boot versenkte 1k Schiffe mit 114 51V BRT.
+Found
+MODSMD_ARTICLE02: Neue Lügen um den „Cossack"-Fall.
+Found
+MODSMD_ARTICLE03: Chamberlam drosch wieder Phrasen.
+Found
+MODSMD_ARTICLE04: „Englands Ueberfall auf Norwegen war nur eijn Vorwand."
+Found
+MODSMD_ARTICLE05: Amnestie in Italien.
+Found
+MODSMD_ARTICLE06: Bewaffnete englische Schaluppe gesunken.
+Found
+MODSMD_ARTICLE07: Gefährliches Spiel im Nahen Osten.
+Found
+MODSMD_ARTICLE08: Moskau: „Keine wichtigen Ereignisse".
+Found
+MODSMD_ARTICLE09: Die Kämpfe auf der Karelischen Landenge.
+Found
+MODSMD_ARTICLE10: Der Prototyp der englischen Plutokratie.
+Found
+MODSMD_ARTICLE11: Der dänische Dampfer „Aase" gesunken.
+Found
+MODSMD_ARTICLE12: Gegen die Berichterstattung „neutraler" Zeitungen.
+Found
+MODSMD_ARTICLE13: Bulgarien verurteilt den Rechtsbrecher England.
+Found
+MODSMD_ARTICLE14: Vollstreckung eines Todesurteils.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE03: Dr. Goebbels verbietet die „Nachtkritik".
+Found
+MODSMD_ARTICLE04: Wer fragen „Daily Telegraph".
+Found
+MODSMD_ARTICLE05: Gebietsführer Langer ehrenamtlicher Richter der DAF.
+Found
+MODSMD_ARTICLE06: Standortmeldungen vom „Hindenburg".
+Found
+MODSMD_ARTICLE07: Hoch über den Neusundlandnebeln.
+Found
+MODSMD_ARTICLE08: Indische Ruhestörer in Wien.
+Found
+MODSMD_ARTICLE10: Die Frontkämpfer Frankreichs an die deutschen Kameraden.
+Found
+MODSMD_ARTICLE11: Kommunistische Arbeitslosenkundgebung in Versailles.
+Found
+MODSMD_ARTICLE12: Pariser Blätter zur Abreise der Italiener aus Gens.
+Found
+MODSMD_ARTICLE13: Lordpräsident Ramsah McDonald beim König.
+Found
+MODSMD_ARTICLE14: Vor einer scharfen englischen Erklärung.
+Found
+MODSMD_ARTICLE15: Jüdischer Kommunist in Bagdad verhaftet.
+Found

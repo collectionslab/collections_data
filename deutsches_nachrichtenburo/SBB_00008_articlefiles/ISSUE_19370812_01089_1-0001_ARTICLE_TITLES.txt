@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Erfinder des Duralumins gestorben.
+Found
+MODSMD_ARTICLE02: Die Internationale Filmkunstschau in Venedig.
+Found
+MODSMD_ARTICLE03: Trrvelyan über den Weg Zur Freundschaft mit Deutschland.
+Found
+MODSMD_ARTICLE04: „Daily Mail" an „gewisse englische Zeitungen".
+Found
+MODSMD_ARTICLE05: Englisch-isländischer Zwischenfall.
+Found
+MODSMD_ARTICLE06: Die Londoner Luftmanöver.
+Found
+MODSMD_ARTICLE07: Vorläufig kein Regierungswechsel in Rumänien.
+Found
+MODSMD_ARTICLE08: Ständige Luftverbindung Bukarest—Rom.
+Not Found
+MODSMD_ARTICLE09: Politische Aussprache Stojadinowitsch-Metaxas.
+Found
+MODSMD_ARTICLE10: Nationalspanischer Heeresbericht vom 11. August.
+Found
+MODSMD_ARTICLE11: Die Bedeutung der Verfassung der FET.
+Found
+MODSMD_ARTICLE12: Aufruf zur Festbeflaggung der Stadt Berlin.
+Found
+MODSMD_ARTICLE13: Auslandsreise Liwinow-Finkelsteins mit unbekanntem Ziel.
+Found
+MODSMD_ARTICLE14: Ein Gesetz zur Heranziehung weißer Siedler nach Kenia.
+Found
+MODSMD_ARTICLE15: Privatwerften bauen vier amerikanische Zerstörer.
+Found
+MODSMD_ARTICLE16: Revolte in Nord-Syrien.
+Found
+MODSMD_ARTICLE17: Der Kampf um den Nankau-Paß.
+Found

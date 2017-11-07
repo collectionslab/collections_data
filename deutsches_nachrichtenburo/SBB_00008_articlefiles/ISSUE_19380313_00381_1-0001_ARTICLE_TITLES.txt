@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Das Urteil in Moskau.
+Found
+MODSMD_ARTICLE02: 65. Geburtstag des dänischen Gesandten in Berlin.
+Found
+MODSMD_ARTICLE03: Südamerikanische Ehrung für Rnst und Lammers.
+Found
+MODSMD_ARTICLE04: General von Epp bei Minister Starace.
+Found
+MODSMD_ARTICLE05: Noch keine Lösung in Paris.
+Found
+MODSMD_ARTICLE06: Bolschewistische Grenzverletzung.
+Found
+MODSMD_ARTICLE07: Weitere Erfolge des nationalspanischen Vormarsches.
+Found
+MODSMD_ARTICLE08: Polnisch-litauischer Zwischenfall.
+Found
+MODSMD_ARTICLE09: Stojadinowitsch auf der Internationalen Autoschau.
+Found
+MODSMD_ARTICLE10: Jugoslawien plant eine Anleihe.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Reichsberufswettkampf der deutschen Studenten eröffnet.
+Found
+MODSMD_ARTICLE02: Das Ausland zum deutsch-japanischen Abkommen.
+Found
+MODSMD_ARTICLE03: Nur noch die internationale Brigade verteidigt Madrid.
+Found
+MODSMD_ARTICLE04: GPU fordert Angaben über die Reichsdeutschen an.
+Found
+MODSMD_ARTICLE05: Juden als Blutsauger von Heimarbeitern.
+Found
+MODSMD_ARTICLE06: Mißglückter Anschlag auf einen Zug.
+Found
+MODSMD_ARTICLE07: Der Entwurf des neuen französischen Pressegesetzes.
+Found
+MODSMD_ARTICLE08: Gewehre als Baumwolle deklariert.
+Found
+MODSMD_ARTICLE09: Kamps um den Madrider Königspalast.
+Found
+MODSMD_ARTICLE10: Der rote Kreuzer „Cervantes" doch torpediert.
+Found
+MODSMD_ARTICLE11: „Auch Katalonien wird vom Bolschewistengesindel befreit."
+Found

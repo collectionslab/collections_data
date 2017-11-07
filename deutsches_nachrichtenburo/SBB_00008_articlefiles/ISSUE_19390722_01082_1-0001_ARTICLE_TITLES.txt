@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Trauerfeier für die Verunglückten der „Be.rlinN
+Found
+MODSMD_ARTICLE02: Landesplanung in Ostpreußen.
+Found
+MODSMD_ARTICLE03: Tanziger Zollbeamter von Polen verschleppt.
+Found
+MODSMD_ARTICLE04: Polnische Studenten betreten unerlaubt Danziger Gebiet.
+Found
+MODSMD_ARTICLE05: Auch Frankreichs Botschafter in Warschau ging in Urlaub.
+Found
+MODSMD_ARTICLE06: Spanien ehrt Graf Ciano.
+Found
+MODSMD_ARTICLE07: Neuwahlen in England voraussichtlich Mitte November.
+Found
+MODSMD_ARTICLE08: Chamberlaiu soll den Rückzug begründen.
+Found
+MODSMD_ARTICLE09: „Elaborat eines armen Narren."
+Found
+MODSMD_ARTICLE10: „Defaitisten und Patrioten."
+Found
+MODSMD_ARTICLE11: 58 Millionen Pfund englisches Blutgeld für die Türkei.
+Found
+MODSMD_ARTICLE12: Engländer durchsuchten italienisches Kloster in Palästina.
+Found
+MODSMD_ARTICLE14: Kein Glaube mehr an englische Versprechungen.
+Found
+MODSMD_ARTICLE15: Neues Luftgefecht am Buir-See.
+Found
+MODSMD_ARTICLE16: „Hinterlistigste und bösartigste Agitation!"
+Found

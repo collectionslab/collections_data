@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der portugiesische Ministerpräsident dankt dem Führer.
+Found
+MODSMD_ARTICLE02: Der Präsident der Philippinen in Berlin.
+Found
+MODSMD_ARTICLE03: Argentinischer Senator besucht Deutschland.
+Found
+MODSMD_ARTICLE04: Ausländerbesuch beim Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE05: Die polnischen Landwirtschaftsabgeordneten in Berlin.
+Found
+MODSMD_ARTICLE06: Professortitel an Direktor Hansmann-Erfurt verliehen.
+Found
+MODSMD_ARTICLE07: Luftsperrgebiet über München vom 16. bis 18. Juli.
+Found
+MODSMD_ARTICLE08: Mahnung eines polnischen Blattes an England.
+Found
+MODSMD_ARTICLE09: Außerordentliche Parlamentstagung zum Fall Sapieha?
+Found
+MODSMD_ARTICLE10: Wer gefährdet den Status yuo im Mittelmeer?
+Found
+MODSMD_ARTICLE11: Ministerpräsident van Zeeland wieder in Brüssel.
+Found
+MODSMD_ARTICLE12: Wer sind die Hintermänner des Anschlags auf Salazar?
+Found
+MODSMD_ARTICLE13: Paris sucht nach dem Ausweg.
+Found
+MODSMD_ARTICLE14: Kameradschaft zwischen Film und Presse.
+Found
+MODSMD_ARTICLE15: Internationaler Pharmazeutischer Kongreß.
+Found
+MODSMD_ARTICLE16: London wieder optimistischer.
+Found
+MODSMD_ARTICLE17: Resignation in Palästina.
+Found
+MODSMD_ARTICLE18: Das arabische Hochkomitee Palästinas mahnt zur Einigkeit.
+Found
+MODSMD_ARTICLE19: Englisch-amerikanische Versuchsflüge über den Nordatlantik.
+Found

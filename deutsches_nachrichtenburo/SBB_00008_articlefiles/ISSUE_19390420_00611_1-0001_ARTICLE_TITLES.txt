@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Grotzdeutschlands Gabentisch für den Führer.
+Found
+MODSMD_ARTICLE02: Einzigartige Huldigung für den Führer.
+Found
+MODSMD_ARTICLE03: Die Festaufführung im Deutschen Opernhaus.
+Found
+MODSMD_ARTICLE04: Lettland gedenkt des Führer-Geburtstages.
+Found
+MODSMD_ARTICLE05: Größte Anteilnahme der bulgarischen Öffentlichkeit.
+Found
+MODSMD_ARTICLE06: „Eine erste Antwort auf die Botschaft Roosevelts."
+Found
+MODSMD_ARTICLE07: Peinlich für die Einkreisungshetzer.
+Found
+MODSMD_ARTICLE08: Spanien kündigt die Genfer Generalakte von 1928.
+Found
+MODSMD_ARTICLE09: Regierungsumbildung in Peru.
+Found

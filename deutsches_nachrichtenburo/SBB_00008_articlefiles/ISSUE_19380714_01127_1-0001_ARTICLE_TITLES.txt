@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Heimreise der italienischen Wirtschaftsdelegation.
+Found
+MODSMD_ARTICLE02: General Russo in München.
+Found
+MODSMD_ARTICLE03: Prof. March baut Belgrader Stadion.
+Found
+MODSMD_ARTICLE04: Oberitalienische Presse zur Lügenhetze gegen Deutschland,
+Found
+MODSMD_ARTICLE05: „Das Frankreich der Logen und der Synagogen".
+Found
+MODSMD_ARTICLE06: Zehnter Jahrestag des italienischen Straßenamtes.
+Found
+MODSMD_ARTICLE07: Pfändung beim Flamenführer Grammens.
+Found
+MODSMD_ARTICLE08: Die Schwierigkeiten in Elsaß-Lothringen.
+Found
+MODSMD_ARTICLE09: „Autonomes Gebiet der Sudetendeutschen undurchführbar."
+Found
+MODSMD_ARTICLE11: Truppenparade eröffnete französischen Nationalfeiertag.
+Found
+MODSMD_ARTICLE12: Englisches Unterhausmitglied hetzt die Juden auf.
+Found
+MODSMD_ARTICLE13: Japsnische Luftangriffe auf Kanton.
+Found

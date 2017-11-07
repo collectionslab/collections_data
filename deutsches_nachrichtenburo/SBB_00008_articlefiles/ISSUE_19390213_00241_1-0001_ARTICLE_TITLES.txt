@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer gratuliert Deutschlands SA.-Maun.
+Found
+MODSMD_ARTICLE02: Bekenntnis zur Hilfe für die alten Künstler.
+Found
+MODSMD_ARTICLE03: Der Eintopfsonntag in Berlin.
+Found
+MODSMD_ARTICLE04: Gauleiter Minister Klausner gestorben.
+Found
+MODSMD_ARTICLE05: Die Musikerziehung der Jugend.
+Found
+MODSMD_ARTICLE06: Miigliederiagung. des „Lamdesbundes Weichselgau".
+Found
+MODSMD_ARTICLE07: Unterstaatssekretär Teruzzi aus Ostafrika zurück.
+Found
+MODSMD_ARTICLE08: „FreuAde in letzter Stunde".
+Found
+MODSMD_ARTICLE09: Wie die roten Bestien in Katalonien wüteten.
+Found
+MODSMD_ARTICLE10: Normalisierung des katalanischen Grenzverkehrs.
+Found
+MODSMD_ARTICLE11: Franco nimmt Madrid unter Feuer.
+Found
+MODSMD_ARTICLE12: Alles will nach Nationalspanien.
+Found
+MODSMD_ARTICLE13: Französisch-englische Demarche in Tokio?
+Found
+MODSMD_ARTICLE14: Spezialsender für britische Tendenzmeldungen.
+Found
+MODSMD_ARTICLE15: Die karpatho-ukraiuische Landtagswahl.
+Found
+MODSMD_ARTICLE16: Wieder Todesurteile gegen arabische Freiheitskämpfer.
+Found
+MODSMD_ARTICLE17: Eine gemäßigte Rede des Außenministers Hüll.
+Found
+MODSMD_ARTICLE18: Um die Währung militärischer Geheimnisse in USA.
+Found
+MODSMD_ARTICLE19: Deutsche Sieger in Zakopane.
+Found

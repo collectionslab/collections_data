@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die Besprechungen Raeder—Cavagnari beendet.
+Not Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Deutsch-italienischer Vertrag über Sozialversicherung.
+Found
+MODSMD_ARTICLE04: 5W italienische Frontkämpfer kommen nach Deutschland.
+Found
+MODSMD_ARTICLE05: Schwedische Eisenbahner in der Reichshauptstadt.
+Found
+MODSMD_ARTICLE06: Ter Tag von Scapa Flow.
+Found
+MODSMD_ARTICLE07: Zum Marineattache im Haag ernannt.
+Found
+MODSMD_ARTICLE08: Deutsche Kolonialausstellung Dresden 1939.
+Found
+MODSMD_ARTICLE09: „Tag des nordischen Gedankens".
+Found
+MODSMD_ARTICLE10: Argentinischer Schulkreuzer in Hamburg.
+Found
+MODSMD_ARTICLE11: An dem Nnglücksomnibus war die Kupplung schadhaft.
+Found
+MODSMD_ARTICLE12: Kabinettssitzung in London.
+Found
+MODSMD_ARTICLE13: Die französische Presse zu den Moskauer Verhandlungen.
+Found
+MODSMD_ARTICLE14: „Politiken": Das britische Reich als Bittsteller.
+Found
+MODSMD_ARTICLE15: „Englisch-französisches Prestige in China vorbei."
+Found
+MODSMD_ARTICLE16: England schont jüdische Verbrecher.
+Found
+MODSMD_ARTICLE17: Japaner in Swatau gelandet.
+Found
+MODSMD_ARTICLE18: Für Zusammenschluß der Vereinigten Staaten mit Kanada.
+Found

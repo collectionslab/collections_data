@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: von Papen ZUM Botschafter ernannt.
+Found
+MODSMD_ARTICLE02: Ehrung eines Borkämpfers für die deutsche Luftfahrt.
+Found
+MODSMD_ARTICLE03: Im Gedenken der Helden.
+Found
+MODSMD_ARTICLE04: Vor deutsch österreichischen Besprechungen.
+Found
+MODSMD_ARTICLE05: Abholung deutscher Flüchtlinge aus Spanien.
+Found
+MODSMD_ARTICLE06: Schutz österreichischer Staatsangehöriger in Spanien.
+Found
+MODSMD_ARTICLE07: 25 deutsche Flüchtlinge aus Barcelona in Marseille.
+Found
+MODSMD_ARTICLE08: Verschlechterte Lage der spanischen Linksregierung.
+Found
+MODSMD_ARTICLE09: Spanischer Geschäftsträger sagt sich von der Regierung los.
+Found
+MODSMD_ARTICLE10: Scharfe Grenzsperrung an der spanischen Nordgrenze.
+Found
+MODSMD_ARTICLE11: Italienische Stellungnahme zum Londoner Ergebnis.
+Found
+MODSMD_ARTICLE12: Neue Kommissare für das Staatssiegel Englands.
+Found
+MODSMD_ARTICLE13: Englisch-ägyptische Militärklausel unterzeichnet.
+Found
+MODSMD_ARTICLE14: Neuorganisierung des japanischen Kriegsministeriums.
+Found
+MODSMD_ARTICLE15: Die Kennzahl der Großhandelspreise vom 22. Juli 1936.
+Found

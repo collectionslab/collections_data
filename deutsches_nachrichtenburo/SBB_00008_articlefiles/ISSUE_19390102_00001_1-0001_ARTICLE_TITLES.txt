@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Führer a« die Wehrmacht:
+Found
+MODSMD_ARTICLE02: Göring gibt die Parole für 1933.
+Found
+MODSMD_ARTICLE03: Frick an den Führer.
+Found
+MODSMD_ARTICLE04: Himmler an SS. und Polizei.
+Found
+MODSMD_ARTICLE05: Neujahrsbefchl des Chefs der Technischen Nothilfe.
+Found
+MODSMD_ARTICLE06: Neujahrsaufruf des Reichsbeamtenführers.
+Found
+MODSMD_ARTICLE07: Funk über die Wirischaftspolitk des Jahres 1339.
+Found
+MODSMD_ARTICLE08: Plötzliche Volkszählung in der Slowakei.
+Found
+MODSMD_ARTICLE09: Langstreckenflug einer Arado-Maschine.
+Found

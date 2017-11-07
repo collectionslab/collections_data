@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Eftnische Journalisten in Hamburg.
+Found
+MODSMD_ARTICLE02: Richtfest des neuen Theaters in Saarbrücken.
+Found
+MODSMD_ARTICLE03: Ein österreichisches Wochenblatt zum Reichsparteitag.
+Found
+MODSMD_ARTICLE04: Das Dreier-Komitee für Danzig.
+Found
+MODSMD_ARTICLE05: Wüste Ausfälle Negrins gegen Deutschland und Italien.
+Found
+MODSMD_ARTICLE06: Der Bölkerbundsrat Zur Palästina-Frage.
+Found
+MODSMD_ARTICLE07: Beileid des Diplomatischen Korps in Prag.
+Found
+MODSMD_ARTICLE08: Bolschewistische Menschenschmuggler in Holland verhaftet.
+Found
+MODSMD_ARTICLE09: Ungarn fordert erneut Rüstungsgleichberechtigung.
+Found
+MODSMD_ARTICLE10: Merkwürdiges Ansinnen des rumänischen Handelsministers.
+Found
+MODSMD_ARTICLE11: Studienreise Vittorio Mussolinis nach Amerika.
+Found
+MODSMD_ARTICLE12: Die Mutter des Präsidenten Noosevelt bei Lebrun.
+Found
+MODSMD_ARTICLE13: Brandstiftung in bestreikter Fabrik in Marseille.
+Found
+MODSMD_ARTICLE14: Aushebung einer Geheimgesellschaft in Frankreich.
+Found
+MODSMD_ARTICLE15: Ein Bau, der den Völkerbund kennzeichnet.
+Found
+MODSMD_ARTICLE16: Finanzminister Bonnet bei Chautemps.
+Found
+MODSMD_ARTICLE17: Sowjetspanische Quittung für gewährte Gastfreundschaft.
+Found
+MODSMD_ARTICLE18: Ein typischer Vertreter des bolschewistischen Regimes.
+Found
+MODSMD_ARTICLE19: Der Heeresbericht bestätigt den Vormarsch.
+Found

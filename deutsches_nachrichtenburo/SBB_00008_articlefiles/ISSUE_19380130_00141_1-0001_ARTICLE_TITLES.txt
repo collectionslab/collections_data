@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Der Führer stiftet Treudienst-Ehrenzeichen.
+Found
+MODSMD_ARTICLE02: Beförderungen in Heer und Lustwaffe.
+Found
+MODSMD_ARTICLE03: Ernennungen in der Verwaltung
+Found
+MODSMD_ARTICLE04: Ehrung von Kunst und
+Found

@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Hilfsfonds für die geschädigten Spanien-Deutschen.
+Found
+MODSMD_ARTICLE02: Die Lage der Deutschen in Spanien.
+Found
+MODSMD_ARTICLE03: Außenpolitische Erklärungen Edens im Unterhaus.
+Found
+MODSMD_ARTICLE04: Englisch-ägyptische Verhandlungen über den Sudan.
+Found
+MODSMD_ARTICLE05: Diplomatenempfänge in Paris.
+Found
+MODSMD_ARTICLE06: Hinrichtung in Ellwangen.
+Found

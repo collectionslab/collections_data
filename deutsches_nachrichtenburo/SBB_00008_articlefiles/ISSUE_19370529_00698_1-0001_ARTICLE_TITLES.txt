@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Nacht-Ausgabe. Deutsches Nachrichtenbüro M
+Found
+MODSMD_ARTICLE02: Italienische Bevölkerungspolitiker in Berlin.
+Found
+MODSMD_ARTICLE03: „Deutsche Luftfahrtforschung".
+Found
+MODSMD_ARTICLE04: Ministerialdirektor a. D. Kriege f.
+Found
+MODSMD_ARTICLE05: Neuer Präsident der Reichspostdirektion Saarbrücken.
+Found
+MODSMD_ARTICLE07: Der „Tag des Deutschen Handwerks".
+Found
+MODSMD_ARTICLE08: Neuer belgischer Militärattache für Berlin.
+Found
+MODSMD_ARTICLE09: Starke Beachtung des italienischen Protestes.
+Found
+MODSMD_ARTICLE10: Die von Franco Freigelassenen in Frankreich.
+Found
+MODSMD_ARTICLE11: Sandschak-Eutschließung vom Völkerbundsrat angenommen.
+Found
+MODSMD_ARTICLE12: „Antibolschewistische Atmosphäre der Fäulnis."
+Found
+MODSMD_ARTICLE13: Der Abwehrkampf gegen den Weltfeind Komintern.
+Found
+MODSMD_ARTICLE14: Deutsche Segelflug-Weltbestleistungen.
+Found
+MODSMD_ARTICLE15: Eröffnung der Vondel-Ausstellung in Köln.
+Found

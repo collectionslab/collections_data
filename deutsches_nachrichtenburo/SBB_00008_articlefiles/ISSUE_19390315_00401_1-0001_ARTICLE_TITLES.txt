@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Die Goethe-Medaille sür Ghmnafialprofefsor a. D. Dr. Beltz.
+Found
+MODSMD_ARTICLE02: Der Führer in Böhmisch-Leipa eingetroffen.
+Found
+MODSMD_ARTICLE03: Generaloberst von Brauchitsch bei den Truppen.
+Found
+MODSMD_ARTICLE04: Hakenkreuzsahnen in Budweis.
+Found
+MODSMD_ARTICLE05: Der Einzug der deutschen Truppen in Brünn.
+Found
+MODSMD_ARTICLE06: Mit den deutschen Truppen nach Prag.
+Found
+MODSMD_ARTICLE07: Der Kommandierende General auf der Prager Burg.
+Found
+MODSMD_ARTICLE08: Alle wichtigen Gebäude von Prag besetzt.
+Found
+MODSMD_ARTICLE09: Rückkehr des Staatspräsidenten Hacha nach Prag.
+Found
+MODSMD_ARTICLE10: Ungarn wird die slowakischen Grenzen nicht überschreiten.
+Found
+MODSMD_ARTICLE11: Auslösung der tschechischen Truppenverbände.
+Found
+MODSMD_ARTICLE12: Ernste Zwischenfälle in Ostgalizien.
+Found
+MODSMD_ARTICLE13: Jglau und Brünn besetzt.
+Found
+MODSMD_ARTICLE14: Die ungarischen Truppen in der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE15: Aufforderung Ungarns an Woloschin.
+Found
+MODSMD_ARTICLE16: Holland: Abwicklung eines Liquidationsprozesses.
+Found
+MODSMD_ARTICLE17: Belgien: Die Entwicklung war vorauszusehen.
+Found
+MODSMD_ARTICLE18: Die englische Abendpresse zur Lage.
+Found
+MODSMD_ARTICLE19: Starker Eindruck in Dänemark.
+Found

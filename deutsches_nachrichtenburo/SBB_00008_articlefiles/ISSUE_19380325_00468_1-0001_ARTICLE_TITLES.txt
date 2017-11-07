@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers zum griechischen Nationaltag.
+Found
+MODSMD_ARTICLE02: Der Führer verleiht Prof. Czerny den Adlcrschild.
+Found
+MODSMD_ARTICLE03: Der Gouverneur der Belgischen Nationalbank in Berlin.
+Found
+MODSMD_ARTICLE04: Ein dreister Schwindel des „Petit Parisien".
+Found
+MODSMD_ARTICLE05: IWO Wiener und Burgenländer in Plauen und Leipzig.
+Found
+MODSMD_ARTICLE06: Oesterreich erwartet Hermann Göring.
+Found
+MODSMD_ARTICLE07: Tagesbefehl an Oesterreichs Flieger.
+Found
+MODSMD_ARTICLE08: SS.-Sigrunen für österreichische Polizei.
+Found
+MODSMD_ARTICLE09: Auch die Christlich-Sozialen bei Henlein.
+Found
+MODSMD_ARTICLE10: Vor dem Entfcheidungskampf um slowakische Autonomie.
+Found
+MODSMD_ARTICLE11: Die litauische Regierung! zurückgetreten.
+Found
+MODSMD_ARTICLE12: Ein Jahr „Adria-Pakt".
+Found
+MODSMD_ARTICLE13: Der Verband der ausländischen Presse in Belgrad.
+Found
+MODSMD_ARTICLE14: Blum unterlag im Senat.
+Found
+MODSMD_ARTICLE15: Die Offensive in Nordaragon.
+Found
+MODSMD_ARTICLE16: Kriegsschiffe über 35 (M Tonnen.
+Found

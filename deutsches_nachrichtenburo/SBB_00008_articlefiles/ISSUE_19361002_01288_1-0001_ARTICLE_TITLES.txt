@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Kranzniederlegung am Sarge Hindenburgs.
+Found
+MODSMD_ARTICLE02: Die Auslandsdeutschen feiern das Erntedankfest.
+Found
+MODSMD_ARTICLE03: Personalveränderungen im Heer.
+Found
+MODSMD_ARTICLE04: Personalveränderungen in der Kriegsmarine.
+Found
+MODSMD_ARTICLE05: Amtseinführung eines neuen Landesfinanzamtspräsidenten.
+Found
+MODSMD_ARTICLE06: Diskontermäßigung in Frankreich um 2 v. H.
+Found
+MODSMD_ARTICLE07: Die Börsen in Frankreich wieder geöffnet.
+Found
+MODSMD_ARTICLE08: Die englischen Konservativen zur Mandatssrage.
+Found
+MODSMD_ARTICLE09: Spaltung in der Fraktion Jeftischs.
+Found
+MODSMD_ARTICLE10: 150 000 Mann für die Blockade Madrids.
+Found
+MODSMD_ARTICLE11: Neuer Luftangriff auf Madrid.
+Found
+MODSMD_ARTICLE12: Präsidentschaftskandidat Landon führt bei Probeabstimmung.
+Found
+MODSMD_ARTICLE13: Der Streik auf „President Roosevelt" beigelegt.
+Found
+MODSMD_ARTICLE14: Der kommunistische Präsidentschaftskandidat wieder frei.
+Found
+MODSMD_ARTICLE15: Hochspannung in Ostasien.
+Found
+MODSMD_ARTICLE16: Ein Engländer in Schanghai festgenommen.
+Found

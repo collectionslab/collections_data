@@ -1,0 +1,30 @@
+MODSMD_ARTICLE02: Empfang durch den Führer.
+Found
+MODSMD_ARTICLE03: Der Führer im Verwaltungsneubau am Königlichen Platz.
+Found
+MODSMD_ARTICLE04: Fördert den Reichsberufswettkampf!
+Found
+MODSMD_ARTICLE05: Billige Fahrten für Teilnehmer am Reichsberufswettkampf.
+Found
+MODSMD_ARTICLE06: Aufrufe Zur Fachbuchwerbung 1337.
+Found
+MODSMD_ARTICLE07: Neichspropagandaaktiou des „Schwarzen Korps".
+Found
+MODSMD_ARTICLE08: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE09: Neue Orgel der Universität Freiburg i. Br.
+Found
+MODSMD_ARTICLE10: Triumphaler Erfolg des deutsch-japanischen Großfilms.
+Found
+MODSMD_ARTICLE12: Neville Chamberlain erläutert die Regierungsvorlage.
+Found
+MODSMD_ARTICLE13: Waffendiebstahl in einem belgischen Militärlager.
+Found
+MODSMD_ARTICLE14: Absturz eines französischen Militärflugzeuges.
+Found
+MODSMD_ARTICLE15: Durchbruch bolschewistischer Kraftwagen gescheitert.
+Found
+MODSMD_ARTICLE16: Kein Wechsel iu der Leitung der Bank von Frankreich.
+Found
+MODSMD_ARTICLE17: Die Opfer des Flugzeugabsturzes in Berlin.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Ein Fieseler Storch" Gegengeschenk Görings an Balbo.
+Found
+MODSMD_ARTICLE02: Tr> Grawitz beim Internationalen Rotkreuzkomitee.
+Found
+MODSMD_ARTICLE03: Unermüdlicher Einsatz der NSV. im Sudetengau.
+Found
+MODSMD_ARTICLE04: Italiens antike Kunstwerke werden nur im Lande ausgestellt
+Found
+MODSMD_ARTICLE05: Schützengräben und Befestigungen in Barcelona.
+Found
+MODSMD_ARTICLE06: Calaf eingenommen.
+Found
+MODSMD_ARTICLE07: Burgos widerlegt neue Sowjetmärchen.
+Found
+MODSMD_ARTICLE08: Französisch-amerikanische Flugverbindung.
+Found
+MODSMD_ARTICLE09: Mwenanschlag auf britischen Truppentransport.
+Found
+MODSMD_ARTICLE10: Am Sonntag Abreise der arabischen Palästina-Abordnung.
+Found
+MODSMD_ARTICLE11: Fünfjahresplan in Brasilien.
+Found
+MODSMD_ARTICLE12: Die „Befestigung Guams" nur ein Bluff?
+Found
+MODSMD_ARTICLE13: Gegen Ansiedluug vou Notfpanieu-Brigadisten.
+Found
+MODSMD_ARTICLE14: Rücktritt des Innenministers von Paraguay.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Internationaler Kongreß für ärztliche Fortbildung.
+Found
+MODSMD_ARTICLE02: Konzertabend der Reichsregierung.
+Found
+MODSMD_ARTICLE03: Griechische Wirtschaftsdelegation in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE04: Kameradschaftabend der deutschen Diplomlandwirte.
+Found
+MODSMD_ARTICLE05: Erste Reichstagung des deutschen Weinbaues.
+Found
+MODSMD_ARTICLE06: Abschluß der Bayreuther Festspiele.
+Found
+MODSMD_ARTICLE07: Reichskriegsopferführer Oberlmdober in Budapest.
+Found
+MODSMD_ARTICLE08: Neue Fühlungnahme zwischen Rom und London.
+Found
+MODSMD_ARTICLE09: „Ja und Nein".
+Found
+MODSMD_ARTICLE10: Frankreich vertritt die Tschechoslowakei in Lissabon.
+Found
+MODSMD_ARTICLE11: Moskaus Instruktionen für Attentäter bloßgelegt.
+Found
+MODSMD_ARTICLE12: Ordensregen über Stalin-„Juristen".
+Found
+MODSMD_ARTICLE13: Japanische Säuberungsaktion in Schanghai.
+Found
+MODSMD_ARTICLE14: Schanghaier Flammenmeer nimmt an Ausdehnung zu.
+Found
+MODSMD_ARTICLE15: Japan begründet seine Maßnahmen in Schanghai.
+Found

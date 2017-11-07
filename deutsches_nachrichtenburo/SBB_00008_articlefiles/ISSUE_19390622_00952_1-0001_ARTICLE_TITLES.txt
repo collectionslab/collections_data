@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Deutsch-japanischer Telegrammwechsel.
+Found
+MODSMD_ARTICLE02: Italien zur Aussprach Raeder—Cavagnari.
+Not Found
+MODSMD_ARTICLE03: Der schweizerische Neutralitätsstandpunkt.
+Found
+MODSMD_ARTICLE04: Karpathenland erhält Autonomie.
+Found
+MODSMD_ARTICLE05: London gibt nur noch Rüstungskredite.
+Found
+MODSMD_ARTICLE06: Mühsamer Londoner Presseoptimismus.
+Found
+MODSMD_ARTICLE07: „Tientsin Prüfstein der englischen Position« im Orient."
+Found
+MODSMD_ARTICLE08: Generaliuspekteur auch für die britische Luftwaffe.
+Found
+MODSMD_ARTICLE09: Jnskip über die Unruhen auf Jamaika.
+Found
+MODSMD_ARTICLE10: Jüdischer Geheimsender rühmt sich der Morde.
+Found
+MODSMD_ARTICLE11: Mühevoll ausgearbeitete „neue" Formeln abgelehnt.
+Found
+MODSMD_ARTICLE12: 2l) Opfer des jüdischen Mordanschlags in Haifa.
+Found
+MODSMD_ARTICLE13: Hüll über die Lage in China.
+Found
+MODSMD_ARTICLE14: Die amerikanischen Iren werden unter Druck gesetzt.
+Found
+MODSMD_ARTICLE15: Englisch-kanadische Zwietracht.
+Found

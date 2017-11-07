@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Aufruf an die Berliner Bevölkerung!
+Found
+MODSMD_ARTICLE02: Beflaggung vom 25. bis 23. September.
+Found
+MODSMD_ARTICLE03: Gesetz über Sonderfeiertage für Berlin und München.
+Found
+MODSMD_ARTICLE04: Aufruf an die Münchener Bevölkerung.
+Found
+MODSMD_ARTICLE06: Der Führer begrüßt Mussolini in München.
+Found
+MODSMD_ARTICLE07: Verdunkelungsmaßnahmen für Drlip aufgehobM,
+Found
+MODSMD_ARTICLE08: Ausländische Manövergäste in Warnemünde.
+Found
+MODSMD_ARTICLE09: Juugfalangisten in Düsseldorf.
+Found
+MODSMD_ARTICLE10: Des PrinZregenten von Jugoslawien Sohn Eton-Schüler.
+Found
+MODSMD_ARTICLE11: Wieder 467 Flüchtlinge der Hölle von Madrid entronnen.
+Found
+MODSMD_ARTICLE12: Den Bolschewistenhäuptlingen wird der Boden zu heiß.
+Found
+MODSMD_ARTICLE13: Die Antwortnote spricht Japans Bedauern aus.
+Found
+MODSMD_ARTICLE14: England betrachtet den Fall Knatchbull als abgeschlossen.
+Found

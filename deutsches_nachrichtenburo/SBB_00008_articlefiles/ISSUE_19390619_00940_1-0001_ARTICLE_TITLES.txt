@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Neuer Lügenfeldzug der englischen Presse.
+Found
+MODSMD_ARTICLE02: Glückwünsche an die Technische Nothilse.
+Found
+MODSMD_ARTICLE03: Stabschef Lutze Ehrenbürger der Stadt Rinteln.
+Found
+MODSMD_ARTICLE04: Im Zeichen deutsch-italienischer Zusammenarbeit.
+Found
+MODSMD_ARTICLE05: General Queipo de Llano verließ Deutschland.
+Found
+MODSMD_ARTICLE06: Spanische Offiziere besuchen die Junkerswerke.
+Found
+MODSMD_ARTICLE08: Wie sie lügen!
+Found
+MODSMD_ARTICLE09: Dr. Dietrich beim ungarischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE10: Budapest, 19. Juni. Das neue Abgeordnetenhaus wählte am Montag mehrere Ausschüsse. Außerdem legten der Ministerpräsident und andere Minister mehrere Gesetzentwürfe vor.
+Not Found
+MODSMD_ARTICLE11: Drangsalierungen faschistischer Organisationen.
+Found
+MODSMD_ARTICLE12: Italienische Ehrung für Spaniens Flieger.
+Found
+MODSMD_ARTICLE13: Geheimsender in Nordirland.
+Found
+MODSMD_ARTICLE14: London prüft das Tientsin-Problem.
+Found
+MODSMD_ARTICLE15: London fürchtet Ausdehnung der japanischen Blockade.
+Found
+MODSMD_ARTICLE16: „Paris Midi" widerlegt Lügen über Danzig.
+Found
+MODSMD_ARTICLE17: Die Besprechungen Gafencus in Athen.
+Found
+MODSMD_ARTICLE18: Aegypiische Hilfe bei der Einkreisung Italiens.
+Found
+MODSMD_ARTICLE19: Schon fünf Wochen Regierungskrise in Syrien.
+Found
+MODSMD_ARTICLE20: Frauen und Kinder von jüdischer Bombe zerrissen.
+Found
+MODSMD_ARTICLE21: Nationale Jugendorganisation in Brasilien.
+Found

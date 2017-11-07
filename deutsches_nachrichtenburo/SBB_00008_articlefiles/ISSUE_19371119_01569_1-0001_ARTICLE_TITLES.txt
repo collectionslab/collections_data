@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Spanische Jugendsührerinnen besuchten Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Eine Arbeitsgemeinschaft für Erwachsenenbildung.
+Found
+MODSMD_ARTICLE03: Arbeitstagung der Gemeinschaft „Das Ahnenerbe".
+Found
+MODSMD_ARTICLE04: Hilgenfeldt vor der Reichstagung der NSV.
+Found
+MODSMD_ARTICLE05: Dr. Todt auf dem Rückflug nach Deutschland.
+Found
+MODSMD_ARTICLE06: Der König der Belgier verließ London.
+Found
+MODSMD_ARTICLE07: London zu dm Wirtschaftsverhandlungen mit Amerika.
+Found
+MODSMD_ARTICLE08: Auch eine Folge des „Volksfront-Experiments."
+Found
+MODSMD_ARTICLE09: Nationalspanischer Aufbauwille.
+Found
+MODSMD_ARTICLE10: Die jugoslawische Militärmission aus der Rückreise.
+Found
+MODSMD_ARTICLE11: Geheime Hinrichtungen in der Ukraine.
+Found
+MODSMD_ARTICLE12: 17 Kommunisten in Warschau verhaftet.
+Found
+MODSMD_ARTICLE13: Auflösung der Kampfbiinde des Libanon.
+Found
+MODSMD_ARTICLE14: Wieder Werkbesetzungen in den USA.
+Found
+MODSMD_ARTICLE15: Militärjubiläum des argentinischen Präsidenten.
+Found
+MODSMD_ARTICLE16: Tschangtschu von den Japanern eingenommen.
+Found

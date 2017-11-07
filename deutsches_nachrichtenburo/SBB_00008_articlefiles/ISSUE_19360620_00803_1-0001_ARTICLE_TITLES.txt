@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer ehrt die Admirale von Trotha und Behncke.
+Found
+MODSMD_ARTICLE02: Einheitliche Uniform für die deutsche Polizei.
+Found
+MODSMD_ARTICLE03: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE04: Die deutschen Richter tragen das Hoheitszeichen.
+Found
+MODSMD_ARTICLE05: Flaggenhissung durch Privatpersonen.
+Found
+MODSMD_ARTICLE06: Personalveränderungen in der Kriegsmarine.
+Found
+MODSMD_ARTICLE07: „Daily Mail" für sofortige Verständigung mit Deutschland.
+Found
+MODSMD_ARTICLE08: Tie neuen französischen Gesetzentwürfe.
+Found
+MODSMD_ARTICLE09: Zur Auflösung der französischen Rechtsverbände.
+Found
+MODSMD_ARTICLE10: Strafmaßnahmen gegen ein arabisches Dorf in Palästina.
+Found
+MODSMD_ARTICLE11: Die Kennzahl der Großhandelspreise vom 17. Juni.
+Found

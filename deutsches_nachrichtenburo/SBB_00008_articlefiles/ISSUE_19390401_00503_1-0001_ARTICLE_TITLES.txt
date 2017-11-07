@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Festtag in Wilhelmshaven.
+Found
+MODSMD_ARTICLE02: „England zwingt Polen seinen Schutz auf".
+Found
+MODSMD_ARTICLE03: Italienische Arbeiter verlassen Südfrankreich.
+Found
+MODSMD_ARTICLE04: Dr. Goebbels beim König von Griechenland.
+Found
+MODSMD_ARTICLE05: Dr. Goebbels verabschiedet sich von Metaxas.
+Found
+MODSMD_ARTICLE06: Dank General Francas für die Glückwünsche des Führers.
+Found
+MODSMD_ARTICLE07: Ganz Madrid war unterminiert.
+Found
+MODSMD_ARTICLE08: Südamerikanische Gesandtschaften in Belgrad.
+Found
+MODSMD_ARTICLE09: Stapelung „strategischer Rohstoffe" in USA.
+Found

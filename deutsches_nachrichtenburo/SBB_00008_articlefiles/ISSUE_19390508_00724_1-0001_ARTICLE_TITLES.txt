@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Funk nach Basel abgereist.
+Found
+MODSMD_ARTICLE02: Der Hansetag 1939 in Hamburg.
+Found
+MODSMD_ARTICLE03: Rascher Rückgang der Arbeitslosigkeit im Protektorat.
+Found
+MODSMD_ARTICLE04: Mussolini auf der deutschen Buchausstellung in Rom.
+Found
+MODSMD_ARTICLE05: Danktelegramm von Brauchitschs am Marschall Balbo.
+Found
+MODSMD_ARTICLE06: Uebergabe deutscher Lebensmittel in Bilbao.
+Found
+MODSMD_ARTICLE07: Italienische Ehrung für General Queipo de Llano.
+Found
+MODSMD_ARTICLE08: Admiral Boehm weist ausländische Lügenmeldungen zurück.
+Found
+MODSMD_ARTICLE09: Mißhandlungen gegen Deutsche gefordert.
+Found
+MODSMD_ARTICLE10: Wieder ein polnischer Ueberfall in Ostoberschlesien.
+Found
+MODSMD_ARTICLE11: Boykott des Münchener und Pilsener Bieres in Warschau.
+Found
+MODSMD_ARTICLE12: Tie polnische Presse besteht auf ihrem Delirium.
+Found
+MODSMD_ARTICLE13: Den Polen schwillt der Kamm.
+Found
+MODSMD_ARTICLE14: Ermächtigungsgesetz für den Polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE15: Klägliches Ergebnis der polnischen Luftabwehranleihe.
+Found
+MODSMD_ARTICLE16: Britische Scharfmacher setzen Kriegshetze fort.
+Found
+MODSMD_ARTICLE17: Neuer Kompromißvorschlag an Moskau.
+Found
+MODSMD_ARTICLE18: Gafencu wieder in Bukarest.
+Found
+MODSMD_ARTICLE19: Neuer Korruptionsskandal in USA.
+Found

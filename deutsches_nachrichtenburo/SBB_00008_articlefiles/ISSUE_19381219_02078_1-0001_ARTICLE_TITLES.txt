@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ernennungen im Reichsfinanzdienst.
+Found
+MODSMD_ARTICLE02: Der Besuch Dr. Schachts in London.
+Found
+MODSMD_ARTICLE03: Einweihung des Zeughausmuseums in Magdeburg.
+Found
+MODSMD_ARTICLE04: Ehrung von Pionieren der deutschen Luftfahrt.
+Found
+MODSMD_ARTICLE05: Uebernahme des Sudeteudeutschen Forsivereius.
+Found
+MODSMD_ARTICLE06: Ueberwältigendes Bekenntnis für die neue Slowakei.
+Found
+MODSMD_ARTICLE07: Blum versucht sich zu entschuldigen.
+Found
+MODSMD_ARTICLE08: Großer Erfolg deutscher Künstler m Paris.
+Found
+MODSMD_ARTICLE09: Die britische Anleihe für Tschiangkaischek.
+Found
+MODSMD_ARTICLE10: Schaffung eines Wirtfchaftsblocks in Ostafien.
+Found
+MODSMD_ARTICLE11: Millionen am „Tag der nationalen Solidarität".
+Found
+MODSMD_ARTICLE12: Japan besteht auf dem Schutz seiner Fischereirechte.
+Found
+MODSMD_ARTICLE13: Gegen Judas Manlkorbzwang!
+Found

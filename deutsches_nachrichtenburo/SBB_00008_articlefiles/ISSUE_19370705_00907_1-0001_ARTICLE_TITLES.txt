@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer an den Deutschen Historilertag.
+Found
+MODSMD_ARTICLE02: Der Präsident der IHK. dankt dem Führer.
+Found
+MODSMD_ARTICLE03: Bankett der amerikanischen Handelskammer in Deutschland.
+Found
+MODSMD_ARTICLE04: Dr. Frick zum deutschen Rudersieg auf der Henley-Regatta.
+Found
+MODSMD_ARTICLE05: Seldte zum Unglück auf der Zeche „General Blumenthal".
+Found
+MODSMD_ARTICLE06: Arbeitsgauführerreise unter der Leitung von Hierl.
+Found
+MODSMD_ARTICLE07: Auslandslektoren der Deutschen Akademie in München.
+Found
+MODSMD_ARTICLE08: San Remo-Preis für die besten Berichte über Italien.
+Found
+MODSMD_ARTICLE09: Walfangmutterschiff in Bremen vom Stapel gelaufen.
+Found
+MODSMD_ARTICLE10: Die Werbefachmänner der Welt tagen.
+Found
+MODSMD_ARTICLE11: Empfang der Kölner Abordnung in Versailles.
+Found
+MODSMD_ARTICLE12: Nachwahl zum Stadtrat von Algier.
+Found
+MODSMD_ARTICLE13: Filmskandal in Paris.
+Found
+MODSMD_ARTICLE14: Bouuets Sauieruugspläne vor dem Abschluß.
+Found
+MODSMD_ARTICLE15: Die politische Betätigung der französischen lutherischen Kirche.
+Found
+MODSMD_ARTICLE16: K 0 Holländer für Rotspanien angeworben.
+Found
+MODSMD_ARTICLE17: Die Beschlagnahme der „Thorpeholl".
+Found
+MODSMD_ARTICLE18: Degrelle über die Ziele der Rex-Bewegung.
+Found
+MODSMD_ARTICLE19: Neuer Massenmord im fernöstlichen Sowjetrußland.
+Found

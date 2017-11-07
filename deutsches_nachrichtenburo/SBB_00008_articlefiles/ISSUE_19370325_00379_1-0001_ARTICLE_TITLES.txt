@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die Neichsausstellung „Gebt mir 4 Jahre Zeit."
+Found
+MODSMD_ARTICLE02: Der festliche Auftakt.
+Found
+MODSMD_ARTICLE03: Symbole der Arbeit.
+Found
+MODSMD_ARTICLE04: Autobahn und Flottenschau.
+Found
+MODSMD_ARTICLE05: Die erste Großschau der Wehrmacht.
+Found
+MODSMD_ARTICLE06: Deutsche und italienische Filmschaffende an den Führer.
+Found
+MODSMD_ARTICLE07: Regelung der Prädikatserteilung für deutsche Spielfilme.
+Found
+MODSMD_ARTICLE08: „Gesellschaft für praktische Lagerstättenforschung m. b. H."
+Found
+MODSMD_ARTICLE09: Vor Aufnahme Aegyptens in den Völkerbund.
+Found
+MODSMD_ARTICLE10: Graf Ciano in Belgrad eingetroffen.
+Found
+MODSMD_ARTICLE11: „Wreme" begrüßt Außenminister Ciano.
+Found
+MODSMD_ARTICLE12: Italienische Abrechnung mit Nichteinmischungs-Hetze.
+Found
+MODSMD_ARTICLE13: Sap reicht Schadensersatzklage ein.
+Found
+MODSMD_ARTICLE14: Die Emdenmannschaft in Kairo.
+Found
+MODSMD_ARTICLE15: Neue Spannungsmomente in Nordchina.
+Found
+MODSMD_ARTICLE16: Amerika begrüßt die Ernennung Dr. Dieckhoffs.
+Found
+MODSMD_ARTICLE17: Verkehrsunglück in USA.: Bisher 18 Tote.
+Found

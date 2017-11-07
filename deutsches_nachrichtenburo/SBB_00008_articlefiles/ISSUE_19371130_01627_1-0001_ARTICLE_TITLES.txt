@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Die Verkaufssonntage vor Weihnachten.
+Found
+MODSMD_ARTICLE03: Neichsmittel für bessere Landarbeiterwohnungen.
+Found
+MODSMD_ARTICLE04: Im Westen Berlins entsteht eine Hochschulstadt.
+Found
+MODSMD_ARTICLE05: Das Befinden General Ludendorffs etwas gebessert.
+Found
+MODSMD_ARTICLE06: Die englisch-französischen Verhandlungen.
+Found
+MODSMD_ARTICLE07: Polnische und litauische Minderheiten-Schulpolitik.
+Found
+MODSMD_ARTICLE08: Haussuchung der GPU in der Warschauer Sowjetbotschaft«
+Found
+MODSMD_ARTICLE09: Das „Lager der nationalen Einigung" im Parlament.
+Found
+MODSMD_ARTICLE10: Prinz Bernhard auf dem Wege der Besserung.
+Found
+MODSMD_ARTICLE11: Empfang in der Deutschen Botschaft in Salamanca.
+Found
+MODSMD_ARTICLE12: Protest gegen die Verlängerung der Weltausstellung.
+Found
+MODSMD_ARTICLE13: „Säuberung der ukrainischen Regierung."
+Found
+MODSMD_ARTICLE14: Der japanische Staatshaushalt vom Kabinett gebilligt.
+Found

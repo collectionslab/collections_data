@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ehrenpreis deS Führers.
+Found
+MODSMD_ARTICLE02: Der ReichSbauernführer zum VI. Weltgeflügelkongreß.
+Found
+MODSMD_ARTICLE03: Der Sachsenspiegel auf der Ausstellung „Deutschland".
+Found
+MODSMD_ARTICLE04: Letzter Betriebsappell des Norddeutschen Lloyd.
+Found
+MODSMD_ARTICLE05: Der erste deutsche Botschafter in Brasilien.
+Found
+MODSMD_ARTICLE06: Aussprache über das britische Verteidigungsprogramm.
+Found
+MODSMD_ARTICLE07: Ardeiterpartei gegen Einheitsfront mit Kommunisten.
+Found
+MODSMD_ARTICLE08: „Times" Zur Anwendung der Gleitklausel.
+Found
+MODSMD_ARTICLE09: Wieder ein Volkskommissar gemaßregelt.
+Found
+MODSMD_ARTICLE10: Die Ehrenbezeugungen für General Rhdz-Smhgli.
+Found
+MODSMD_ARTICLE11: Besprechungen über die polnische Agrarreform.
+Found
+MODSMD_ARTICLE12: Der spanische Ministerrat über die blutigen Ereignisse.
+Found
+MODSMD_ARTICLE13: Vor neuen Verhaftungen im Spionagefall Farnworth?
+Found
+MODSMD_ARTICLE14: Vollstreckung eines Todesurteils.
+Found
+MODSMD_ARTICLE15: Kardinalerzbischof Binet f.
+Found
+MODSMD_ARTICLE16: Ueber 4WO Hitze-Opfer in USA.
+Found

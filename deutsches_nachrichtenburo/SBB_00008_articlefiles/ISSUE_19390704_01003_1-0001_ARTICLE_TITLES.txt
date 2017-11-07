@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer bei der Luftwaffe.
+Found
+MODSMD_ARTICLE02: Das Programm des bulgarischen Staatsbesuches.
+Found
+MODSMD_ARTICLE03: Kjosseiwanoff nach Berlin,abgereift.
+Found
+MODSMD_ARTICLE04: Belgrad begrüßt die deutsch-bulgarischen Besprechungen.
+Found
+MODSMD_ARTICLE05: Schutzmaßnahme für die Wirtschast Tanzigs.
+Found
+MODSMD_ARTICLE06: Der Bankrott der polnischen Minderheitenpolitik.
+Found
+MODSMD_ARTICLE07: Polnische Boykotthetze gegen den deutschen Handel.
+Found
+MODSMD_ARTICLE08: Chamberlain lobt Polen.
+Found
+MODSMD_ARTICLE09: „Nur Hilfskräfte für die Einkreisung."
+Found
+MODSMD_ARTICLE10: Rätselraten um den Inhalt der Moskauer Antwort.
+Found
+MODSMD_ARTICLE11: 3K neue Opfer einer jüdischen Bombe.
+Found

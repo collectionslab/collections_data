@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Danzigs Bekenntnis zu Großdeutschland.
+Found
+MODSMD_ARTICLE02: Zwei Revolutionen im Gleichtritt.
+Found
+MODSMD_ARTICLE03: Zusammenschluß der Pressemänner der Achse.
+Found
+MODSMD_ARTICLE04: Will Polen Selbstmord begehen?
+Found
+MODSMD_ARTICLE05: Unterredung des japanischen Botschafters mit Graf Ciano.
+Found
+MODSMD_ARTICLE06: Die Abreise Graf Cmnos.
+Found
+MODSMD_ARTICLE07: Queipo de Llano vom Erholungsurlaub Zurückgekehrt.
+Found
+MODSMD_ARTICLE08: Polnische Blätter versuchen Zu beschwichtigen.
+Found
+MODSMD_ARTICLE09: Der Krakauer Hetzkurier lügt weiter.
+Found
+MODSMD_ARTICLE10: Polen sehr nervös.
+Found
+MODSMD_ARTICLE11: Syriens Tyrann fährt nach Paris.
+Found
+MODSMD_ARTICLE12: Lord Halifax in London. .
+Found
+MODSMD_ARTICLE13: Jewish Ageucy gesteht illegale Judeueinwanderung.
+Found
+MODSMD_ARTICLE14: Der Fakir von Jpi wieder an der indischen Grenze.
+Found
+MODSMD_ARTICLE15: Noch keine Mitteilung über neue Instruktionen.
+Found
+MODSMD_ARTICLE16: Ausbau der deutsch-brasilianischen Freundschaft.
+Found

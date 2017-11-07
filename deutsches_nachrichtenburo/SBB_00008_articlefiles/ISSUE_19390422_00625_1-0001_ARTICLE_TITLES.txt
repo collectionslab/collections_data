@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: In 52 fliegt von Berlin nach Tokio.
+Found
+MODSMD_ARTICLE02: Verbot der privaten Adoptionsvermittlung.
+Found
+MODSMD_ARTICLE03: Beisetzung des stellvertretenden Gauleiters Unger.
+Found
+MODSMD_ARTICLE04: Italienisch-albanische Zollunion.
+Found
+MODSMD_ARTICLE05: Der Tuce Ehrenbürger aller albanischen Städte.
+Found
+MODSMD_ARTICLE06: Die jugoslawisch-italienischen Besprechungen in Venedig.
+Found
+MODSMD_ARTICLE07: Zogu nahm auch das Geld des Roten Kreuzes mit.
+Found
+MODSMD_ARTICLE08: Allgemeine Wehrpflicht in England?
+Found
+MODSMD_ARTICLE09: Das angebliche U-Boot war ein Fischerkahn!
+Found
+MODSMD_ARTICLE10: Die japanische Presse warnt London.
+Found
+MODSMD_ARTICLE11: Gegen Indensiedlung auf Mindanao.
+Found
+MODSMD_ARTICLE12: Dollarentwertung weiterhin in Roosedelts Hand.
+Found
+MODSMD_ARTICLE13: General Johnson reißt Roosevelt die Maske ab.
+Found
+MODSMD_ARTICLE14: Der New Aorker Abtreibungsskandal.
+Found
+MODSMD_ARTICLE15: Amerikanische Polizisten schmuggelten mit.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer au den König von Slam.
+Found
+MODSMD_ARTICLE02: HJ.-Führer reisen nach England.
+Found
+MODSMD_ARTICLE03: Erste Musterungen für das sudeteudeutsche Freikorps.
+Found
+MODSMD_ARTICLE04: Rote Mordbanditen „füttern" sudetendeutsche Kinder.
+Found
+MODSMD_ARTICLE05: Kommunisten als Büttel hussitischer Mordbrenner.
+Found
+MODSMD_ARTICLE06: Lord Runciman erneut im Ministerpräsidium.
+Found
+MODSMD_ARTICLE07: Reuter über militärische Maßnahmen der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE08: Pariser und Londoner Blätter für Abtretung.
+Found
+MODSMD_ARTICLE09: Selbstbestimmung für die Polen an der Olsa!
+Found
+MODSMD_ARTICLE10: Verwundete Spanien-Freiwillige in Neapel.
+Found
+MODSMD_ARTICLE11: Kurzer Besuch Mussolinis in Slowenien.
+Found
+MODSMD_ARTICLE12: Italiener an der französischen Grenze zurückgewiesen.
+Found
+MODSMD_ARTICLE13: Portugiesische Militärmission besucht Italien.
+Found
+MODSMD_ARTICLE14: Die italienische Presse zur Mussolim-Rede. ,
+Found
+MODSMD_ARTICLE15: Senator Pittman über die amerikanische Außenpolitik.
+Found

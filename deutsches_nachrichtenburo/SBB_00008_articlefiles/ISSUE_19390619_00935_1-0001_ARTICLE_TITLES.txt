@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Reichsmmister Dr. Goebbels in Danzig.
+Found
+MODSMD_ARTICLE02: Beileid des Führers.
+Found
+MODSMD_ARTICLE03: Zum Ministerialdirektor ernannt.
+Found
+MODSMD_ARTICLE04: Ein Volkswagen für Generalfeldmarschall Göring.
+Found
+MODSMD_ARTICLE05: Abschluß der Westfalenfahrt der Alten Garde.
+Found
+MODSMD_ARTICLE06: Wie die Italiener in Frankreich schikaniert werden.
+Found
+MODSMD_ARTICLE07: Schwere Strasienfchlacht auf Jamaica.
+Found
+MODSMD_ARTICLE08: Die Moskauer Besprechungen unterbrochen.
+Found
+MODSMD_ARTICLE09: Ein halbamtliche japanische Erklärung gegen England.
+Found
+MODSMD_ARTICLE10: Jüdisch-britische „Befriedungsmaßnahmen" in Palästina.
+Found

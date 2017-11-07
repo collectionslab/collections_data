@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Zum Kommissarischen Regierungs-Vizepräsidenten ernannt.
+Found
+MODSMD_ARTICLE03: Dienststellenwettstreit der Deutschen Reichspost.
+Found
+MODSMD_ARTICLE04: Die italienischen Avanguardisten am Rhein.
+Found
+MODSMD_ARTICLE05: Wieder zwei Mönche vor dem Richter.
+Found
+MODSMD_ARTICLE06: Deutscher Marinebesuch in Dänemark.
+Found
+MODSMD_ARTICLE07: Die Entdeutschung der ostoberschlesischen Uniierten Kirche.
+Found
+MODSMD_ARTICLE08: Die Untersuchung des Anschlages gegen Oberst Koc.
+Found
+MODSMD_ARTICLE09: Weitere Proteste gegen den Oxforder Einmischungsversuch»
+Found
+MODSMD_ARTICLE11: Marconi in seiner Heimatstadt Bologna beigesetzt.
+Found
+MODSMD_ARTICLE12: Botschafter Sugimura nach Paris abgereist.
+Found
+MODSMD_ARTICLE13: Wirtschaft Norwegens fordert Anerkennung Francos.
+Found
+MODSMD_ARTICLE14: Sowjetrussische Vorherrschaft in der rotspanischen Luftwaffe.
+Found

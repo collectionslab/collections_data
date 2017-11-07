@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Die ersten Baltikum Deutschen in Berlin.
+Found
+MODSMD_ARTICLE02: Volksgenossen kehren heim ins Reich.
+Found
+MODSMD_ARTICLE03: Der ungarische Handelsminister in Wien.
+Found
+MODSMD_ARTICLE04: Ter slowakische Handelsminister auf der Wiener Messe.
+Found
+MODSMD_ARTICLE05: Slowakischer Gesandter in Moskau.
+Found
+MODSMD_ARTICLE06: Spanien Zum englisch-französisch-türkischen Pakt.
+Found
+MODSMD_ARTICLE07: „Ueberflüssig und gefährlich."
+Found
+MODSMD_ARTICLE08: Bewaffnete englische Handelsdampfer inj Konstanza.
+Found
+MODSMD_ARTICLE09: Englands Blätter sind stumm.
+Found
+MODSMD_ARTICLE10: Belgiens Fleischversorgung durch die Blockade gefährdet.
+Found
+MODSMD_ARTICLE11: Keine holländische Butter mehr für England.
+Found
+MODSMD_ARTICLE12: Hollands wertvollste Schiffe außer Dienst.
+Found
+MODSMD_ARTICLE13: Australien will den Jahrgang 1918 einziehen.
+Found
+MODSMD_ARTICLE14: Bericht von der Westfront.
+Found
+MODSMD_ARTICLE15: „Erklärung des Vizekönigs sehr schlecht aufgenommen."
+Found
+MODSMD_ARTICLE16: Die Vertrags-Ratifikation in der Moskauer Presse.
+Found
+MODSMD_ARTICLE17: „Die berechtigten Ansprüche Japans ignoriert." «W'"
+Found
+MODSMD_ARTICLE18: Englische Piraten in japanischen Gewässern.
+Found
+MODSMD_ARTICLE19: Präsident Vargas mahnt Zur strikten Neutralität.
+Found
+MODSMD_ARTICLE20: Post für Deutschland von England angehalten.
+Found

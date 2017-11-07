@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Goebbels beglückwünscht Stolziug-Cerny.
+Found
+MODSMD_ARTICLE02: Cincar-Markowitsch von Berlin abgereist.
+Found
+MODSMD_ARTICLE03: Regierungs-Neubauten in Berlin.
+Found
+MODSMD_ARTICLE04: Holländische GrenOerteidigung wesentlich verstärkt.
+Found
+MODSMD_ARTICLE05: Anarchistischer Mordbube in Schutzhast genommen.
+Found
+MODSMD_ARTICLE06: Eine bemerkenswerte Havas-Meldung.
+Found
+MODSMD_ARTICLE07: Die rotspanischen Michtlingshaufen in Frankreich.
+Found
+MODSMD_ARTICLE08: Neuen Kampfzielen entgegen!
+Found
+MODSMD_ARTICLE09: Miaja sichert sich.
+Found
+MODSMD_ARTICLE10: Moskaus Wut über Englands Doppelspiel in Spanien.
+Found
+MODSMD_ARTICLE11: Komsomol-Schriftleitungen werden „gesäubert".
+Found
+MODSMD_ARTICLE12: Wafd-Abordnung fährt zum Indischen Kongreß.
+Found
+MODSMD_ARTICLE13: Besatzung der deutschen Sportmaschine bei Pirow.
+Found
+MODSMD_ARTICLE14: USA. droht Argentinien.
+Found

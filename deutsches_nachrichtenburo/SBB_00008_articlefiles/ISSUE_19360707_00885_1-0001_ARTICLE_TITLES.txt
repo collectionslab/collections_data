@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der griechische Kultusminister auf dem Freizeit-Kongreß.
+Found
+MODSMD_ARTICLE02: Vom Weltkongreß für Freizeit und Erholung.
+Found
+MODSMD_ARTICLE03: 152 Tote und 4459 Verletzte.
+Found
+MODSMD_ARTICLE04: Ausschuß-Sitzung für Gemeiudeverwaltungsschulen.
+Found
+MODSMD_ARTICLE05: Die römische Presse zu den Weimarer Festlichkeiten.
+Found
+MODSMD_ARTICLE06: Die italienische Presse nach Aufhebung der Sanktionen.
+Found
+MODSMD_ARTICLE07: Zusammenstöße in Ajaccio.
+Found
+MODSMD_ARTICLE08: Französischer Ballistiker hütet seine Erfindung.
+Found
+MODSMD_ARTICLE09: Erste Sitzung des englischen „Krönungsausschusses^.
+Found
+MODSMD_ARTICLE10: Die englisch-ägyptischen Verhandlungen.
+Found
+MODSMD_ARTICLE11: Japans Kriegsminister über die Februar-Revolte.
+Found
+MODSMD_ARTICLE12: 17 Todesurteile in Tokio.
+Found
+MODSMD_ARTICLE13: Der Aufmarsch der Südwesttruppen.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Amerikanischer Journalist als Greuelmärchenerzähler.
+Found
+MODSMD_ARTICLE02: Erneuter Ausnahmezustand in Kowno.
+Found
+MODSMD_ARTICLE03: Das Ausland zur Memelwahl.
+Found
+MODSMD_ARTICLE04: Versammlungswelle der Sozialpartei.
+Found
+MODSMD_ARTICLE05: Dr. Diso: „Zusammenarbeit im besten Einvernehmen."
+Found
+MODSMD_ARTICLE06: Tausende junge Amerikaner ohne Arbeit.
+Found
+MODSMD_ARTICLE07: Die Welt zu den italienischen Forderungen.
+Found
+MODSMD_ARTICLE08: Neues Verkehrsbüro der Reichsbahnzentrale in Mailand.
+Found
+MODSMD_ARTICLE09: Jurkin in Ungnade.
+Found
+MODSMD_ARTICLE10: Ministerrat in Burgos.
+Found
+MODSMD_ARTICLE11: In Spanien an den Fronten Ruhe.
+Found
+MODSMD_ARTICLE12: Den Wahlsieg der jugoslawischen Regierung.
+Found
+MODSMD_ARTICLE13: Kanada gegen die Panamerikanische Union.
+Found
+MODSMD_ARTICLE14: Brasilien gedenkt seiner Opfer der Kommune.
+Found
+MODSMD_ARTICLE15: In Südamerika hat man seinen eigenen Kopf.
+Found
+MODSMD_ARTICLE16: Schmuggel – die jüdische Domäne.
+Not Found

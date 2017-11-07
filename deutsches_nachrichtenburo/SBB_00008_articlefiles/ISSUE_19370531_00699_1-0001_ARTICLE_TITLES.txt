@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Panzerschiff „Deutschland" bombardiert.
+Found
+MODSMD_ARTICLE02: Die Namen der für ihr Vaterland Gefallenen.
+Found
+MODSMD_ARTICLE03: Der Führer erhält die Nachricht in München.
+Found
+MODSMD_ARTICLE04: Der Führer fliegt nach Berlin zurück.
+Found
+MODSMD_ARTICLE05: Besprechung in der Reichskanzlei.
+Found
+MODSMD_ARTICLE06: Panzerschiff „Deutschland" in Gibraltar eingetroffen.
+Found
+MODSMD_ARTICLE07: „Wir wollen keine Hirtenbriefe oder Enzykliken mehr sehen."
+Found
+MODSMD_ARTICLE08: Die politische Aufgabe der Führerschaft der Hitlerjugend.
+Found
+MODSMD_ARTICLE09: Empfang der Wandergesellen und der Sternfahrer.
+Found
+MODSMD_ARTICLE10: Die argentinischen Linienschiffe auf der Heimfahrt.
+Found
+MODSMD_ARTICLE11: Die deutschen Freiwilligen ausgetauscht.
+Found

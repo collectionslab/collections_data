@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Auszeichnung für die politischen Kampfer der Partei.
+Found
+MODSMD_ARTICLE02: Beileid des Führers zum Explosionsunglück. ,
+Found
+MODSMD_ARTICLE03: Dr. Goebbels wieder in Berlin.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: General Blaskowitz besucht die Prager Hochschule.
+Found
+MODSMD_ARTICLE06: Jüdischer Großbetrüger vor dem Amsterdamer Gericht.
+Found
+MODSMD_ARTICLE07: „Diario Vasco" zu den Reden Chamberlaius und Daladiers.
+Found
+MODSMD_ARTICLE08: Chamberlain fährt ins Wochenende.
+Found
+MODSMD_ARTICLE09: Die Schamlosigkeit der englischen Kriegshetze.
+Found
+MODSMD_ARTICLE10: Sturm auf türkische Banken.
+Found
+MODSMD_ARTICLE11: 150 Araber ins Gefängnis geworfen.
+Found
+MODSMD_ARTICLE12: Britischer Sadismus in Palästina.
+Found
+MODSMD_ARTICLE13: Auch Aegypten von der Panikhetze erfaßt.
+Found
+MODSMD_ARTICLE14: Deutsche Ehrung für den brasilianischen Aeroklub.
+Found
+MODSMD_ARTICLE15: Pazifische Verteidigungskonferenz hinter verschlossenen Türen
+Found

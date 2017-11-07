@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die deutsche Antwort in London eingegangen.
+Found
+MODSMD_ARTICLE02: Das Neichsinstitut für Geschichte des neuen Deutschland.
+Found
+MODSMD_ARTICLE03: Presseempsang zur Woche des deutschen Buches. .
+Found
+MODSMD_ARTICLE04: Abschluß-Tagung der Strafrechtskommission der NSDAP.
+Found
+MODSMD_ARTICLE05: Erklärung des radikalsozialistischen Parteivorstandes.
+Found
+MODSMD_ARTICLE06: Scharfer Protest des französischen Arbeitgeberverbandes.
+Found
+MODSMD_ARTICLE07: Marxistische Ausschreitungen in den Renault-Werken.
+Found
+MODSMD_ARTICLE08: Siegreicher Vormarsch der Nationalisten»
+Found
+MODSMD_ARTICLE09: Belgische Regierungsmaßnahmen gegen Oppositionsblock.
+Found
+MODSMD_ARTICLE10: Neuer stellvertretender Jnnenkommissar in Moskau.
+Found
+MODSMD_ARTICLE11: Die Kennzahl der Großhandelspreise vom 14. Oktober.
+Found

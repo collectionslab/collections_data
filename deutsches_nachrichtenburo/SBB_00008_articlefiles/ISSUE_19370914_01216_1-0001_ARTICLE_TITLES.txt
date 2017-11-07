@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Das Ausland zur Kongretzrede des Führers.
+Found
+MODSMD_ARTICLE02: Ausklang des Volksfestes „Kraft durch Freude"
+Found
+MODSMD_ARTICLE04: Der Rücktransport der Parteitagsteilnehmer.
+Found
+MODSMD_ARTICLE05: Erneutes Lob Mussolinis für Deutschlands Jungvolkführer.
+Found
+MODSMD_ARTICLE06: Italiens Presse zur unvollkommenen Lösung in Nyon.
+Found
+MODSMD_ARTICLE07: Einbruch beim Bund der Reichsdeutschen in Wien.
+Found
+MODSMD_ARTICLE08: Neue polnische Beschwerden gegen Prag.
+Found
+MODSMD_ARTICLE09: Auch Polen will seine Juden loswerden.
+Found
+MODSMD_ARTICLE10: Stürmischer Protest schwedischer Studenten.
+Found
+MODSMD_ARTICLE11: Weitere Fortschritte an der Leon-Front.
+Found
+MODSMD_ARTICLE12: Geflüchtete baskische Häuptlinge unterstützungslos.
+Found
+MODSMD_ARTICLE13: Piraten-U-Boot L 4 auf einer französischen Werft.
+Found
+MODSMD_ARTICLE14: Großaktion der japanischen Luftwaffe in Schanghai.
+Found

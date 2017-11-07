@@ -1,0 +1,44 @@
+MODSMD_ARTICLE02: Wenn Juden nach Lettland reisen wollen.
+Found
+MODSMD_ARTICLE03: Die ungarische Presse ehrt Nikolaus von Horthy.
+Found
+MODSMD_ARTICLE04: „Christliche Kommunalpartei des ungarischen Lebens."
+Found
+MODSMD_ARTICLE05: „Ein schlechter Dienst am Frieden Europas".
+Found
+MODSMD_ARTICLE06: Deutsche Apothekerabordnung in Paris.
+Found
+MODSMD_ARTICLE07: Deutsch-französisches Wirtschaftszentrum in Paris.
+Found
+MODSMD_ARTICLE08: Erleichterungen im Luftverkehr.
+Found
+MODSMD_ARTICLE10: Abkommen zwischen Nationalspanien und Peru.
+Found
+MODSMD_ARTICLE11: Francs fordert die geraubten Handelsschiffe zurück.
+Found
+MODSMD_ARTICLE12: Madrids Volk erwartet die Befreier.
+Found
+MODSMD_ARTICLE13: Griechenland erkennt Francs an.
+Found
+MODSMD_ARTICLE14: Ter Jüdische Nationalrat droht.
+Found
+MODSMD_ARTICLE15: Eine Stimme der Vernunft.
+Found
+MODSMD_ARTICLE16: Hilfloser Zorn in Moskau.
+Found
+MODSMD_ARTICLE17: Verschärfung des Schacht-Gesetzes in Polen.
+Found
+MODSMD_ARTICLE18: Der Kronprinz von Iran in Syrien.
+Found
+MODSMD_ARTICLE19: Verschärfung der Lage in Haifa.
+Found
+MODSMD_ARTICLE20: Wieder blutige Zusammenstöße in Rangun.
+Found
+MODSMD_ARTICLE21: Vertiefung der japanisch portugiesischen Zusammenarbeit?
+Found
+MODSMD_ARTICLE22: 5 Jahre Kaiserreich Mandschukuo.
+Found
+MODSMD_ARTICLE23: Roosevelt der Kommunisteufreund.
+Found
+MODSMD_ARTICLE24: Vollstreckung eines Todesurteils.
+Found

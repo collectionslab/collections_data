@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Am 1. Mai Flaggen heraus.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Generalfeldmarschall von Blomberg vor den Kreisleitern.
+Found
+MODSMD_ARTICLE04: Staatssekretär Ricci auf Ordensburg Crössinsee.
+Found
+MODSMD_ARTICLE05: Die Deutschlandreise der italienischen Jndustrieabordnung.
+Found
+MODSMD_ARTICLE06: Die deutsche Luftwaffe ehrt Mussolini.
+Found
+MODSMD_ARTICLE07: Die deutschen Zeitschristenverleger in Littoria.
+Found
+MODSMD_ARTICLE08: Das Programm der englischen Krönungsfeierlichkeiten.
+Found
+MODSMD_ARTICLE09: Gewerkschaftler verprügeln Unternehmer.
+Found
+MODSMD_ARTICLE10: Kammeraussprache erst am K. Mai. »>>
+Not Found
+MODSMD_ARTICLE11: Wieder eine rote Fahne auf dem Pariser Concordien-Platz.
+Found
+MODSMD_ARTICLE12: Verstaatlichung der algerischen Polizei.
+Found
+MODSMD_ARTICLE13: Der französisch-ägyptische Gegensatz in Montreux.
+Found
+MODSMD_ARTICLE14: Schlachtschiff „Royal Oak" vor St. Jean de Luz.
+Found
+MODSMD_ARTICLE15: Politischer Mordprozeß in Bukarest.
+Found
+MODSMD_ARTICLE16: Anarchistennest in Sofia ausgehoben.
+Found
+MODSMD_ARTICLE17: Der amerikanische Haushalt im Kongreß.
+Found

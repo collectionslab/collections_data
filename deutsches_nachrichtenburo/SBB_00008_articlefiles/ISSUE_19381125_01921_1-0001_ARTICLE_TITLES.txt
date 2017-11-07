@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Beratung über neue Verordnungen zum Schutze der Tiere.
+Found
+MODSMD_ARTICLE02: Besorgniserregende Streikausdehnung in Frankreich.
+Found
+MODSMD_ARTICLE03: Chamberlain über dir französisch-englischen Besprechungen.
+Found
+MODSMD_ARTICLE04: Abendempfang in der Englischen Botschaft.
+Found
+MODSMD_ARTICLE05: Havas über die Ministerbesprechungen.
+Found
+MODSMD_ARTICLE06: Benesch-Briefmarke außer Kurs.
+Found
+MODSMD_ARTICLE07: Gesetz über slowakische Autonomie rechtskräftig.
+Found
+MODSMD_ARTICLE08: Tschecho-slowakische Präsidentenwahl wieder verschoben.
+Found
+MODSMD_ARTICLE09: Karmasin über die Aufgabe der Karpatho-Deutschen.
+Found
+MODSMD_ARTICLE10: Deutschlands Verhalten in der ludensrage verständlich.
+Found

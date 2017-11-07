@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Goebbels vor Führerinnen des Reichsarbeitsdienstes.
+Found
+MODSMD_ARTICLE02: Deutsche Buchschenkung für japanische Bibliotheken.
+Found
+MODSMD_ARTICLE03: Zum Ministerialrat ernannt.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Bulgariens Jugend vertraut der Kraft des Reiches.
+Found
+MODSMD_ARTICLE07: Das sowjetrussische Flugzeug wieder in Moskau gelandet.
+Found
+MODSMD_ARTICLE08: Britische Greuellüge gefährdet das Leben Schiffbrüchiger?
+Found
+MODSMD_ARTICLE09: Schaden aus Nöm größer als angenommen.
+Found
+MODSMD_ARTICLE10: Die deutsche Gegenblockade tut ihre Wirkung.
+Found
+MODSMD_ARTICLE11: Sehr unbefriedigend!
+Found
+MODSMD_ARTICLE12: Umgehung des USA.-Neutralitätsgesetzes.
+Found
+MODSMD_ARTICLE13: Zehn-Millionen-USA.-Tollaranleihe für Norwegen.
+Found
+MODSMD_ARTICLE14: Explosion in einer amerikanischen Kohlengrube.
+Found
+MODSMD_ARTICLE15: Bisher 25 KW Todesopfer des türkischen Erdbebens.
+Found

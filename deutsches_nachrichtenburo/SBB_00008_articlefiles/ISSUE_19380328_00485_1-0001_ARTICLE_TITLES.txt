@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Der Führer in Leipzig. Ganz Deutschland soll die geschichtliche Tat bestätigen.
+Found
+MODSMD_ARTICLE02: Der Führer empfing den Heereschef Finnlands.
+Found
+MODSMD_ARTICLE03: Verordnung zur wirtschaftlichen Belebung Oesterreichs.
+Found
+MODSMD_ARTICLE04: 1666 österreichische Arbeiter besuchen Dresden.
+Found
+MODSMD_ARTICLE05: Liberale Partei Rumäniens will Minister zurückziehen.
+Found

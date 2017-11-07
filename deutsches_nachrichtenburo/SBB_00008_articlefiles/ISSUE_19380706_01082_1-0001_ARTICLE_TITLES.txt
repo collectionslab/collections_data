@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer bei Ulrich Graf.
+Found
+MODSMD_ARTICLE02: Neugliederung der Kanzlei des Führers der NSDAP.
+Found
+MODSMD_ARTICLE03: Präsident Parisi Gast des Reichsministers Dr. Frank.
+Found
+MODSMD_ARTICLE04: Sven Hedin bei Reichsminister Ruft.
+Found
+MODSMD_ARTICLE05: Dr. Lammers dienstlich in Berchtesgaden-Bischofswiesen.
+Found
+MODSMD_ARTICLE06: Knut Hamsun bei der Nordischen Gesellschaft in Berlin.
+Found
+MODSMD_ARTICLE07: Argentinischer Dank an das deutsche Bäckerhandwerk.
+Found
+MODSMD_ARTICLE08: Autoreugesellschafteu aus 25 Ländern tagten in Stockholm.
+Found
+MODSMD_ARTICLE09: Franco-Offensive und Freiwilligenzurückziehung.
+Found
+MODSMD_ARTICLE10: Rom erwartet sowjetrussische Sabotageversuche.
+Found
+MODSMD_ARTICLE11: Vormarsch in einer Frontbreite von 15t! Kilometern.
+Found
+MODSMD_ARTICLE12: General Franca dankt der muselmanischen Bevölkerung.
+Found
+MODSMD_ARTICLE13: Bolschewistische „Vorträge" sollen die Lage retten.
+Found
+MODSMD_ARTICLE14: Das spanische Gold wird nicht ausgeliefert.
+Found
+MODSMD_ARTICLE15: Jtagaki Zum Jahrestag des China-Konfliktes.
+Found
+MODSMD_ARTICLE16: Fürst Konoye: Bermittlungsaktionen dritter Mächte zwecklos.
+Found

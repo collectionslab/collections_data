@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm des Führers
+Found
+MODSMD_ARTICLE02: Göring bei der DAF.
+Found
+MODSMD_ARTICLE03: Die Fahnen der SdP. werden von Rudolf Heß übernommen.
+Found
+MODSMD_ARTICLE04: Erster Appell der SA.-Standarte Karlsbad.
+Found
+MODSMD_ARTICLE05: Die ungarische Abordnung aus Wien Zurückgekehrt.
+Found
+MODSMD_ARTICLE06: „Giornale d'Jtalia" über den Wiener Schiedsspruch.
+Found
+MODSMD_ARTICLE07: „Auftakt zu einem -neuen Europa."
+Found
+MODSMD_ARTICLE08: „Beispiel einer friedlichen Revision."
+Found
+MODSMD_ARTICLE09: Die Südafrikanische Union erkennt das Imperium an.
+Found
+MODSMD_ARTICLE10: „Britisches Hoheitsgebiet nicht verletzt."
+Found
+MODSMD_ARTICLE11: Das Oberhaus billigt den englisch-italienischen Pakt.
+Found
+MODSMD_ARTICLE12: Am 3. November Flaggen heraus!
+Found
+MODSMD_ARTICLE13: Die französische Provinz steht zu Daladier.
+Found
+MODSMD_ARTICLE14: Bnrgos dementiert französische Zweckmeldung.
+Found
+MODSMD_ARTICLE15: Der Generalstreik in Palästina dauert au.
+Found
+MODSMD_ARTICLE16: Kabinettsumbildung in Paraguay.
+Found

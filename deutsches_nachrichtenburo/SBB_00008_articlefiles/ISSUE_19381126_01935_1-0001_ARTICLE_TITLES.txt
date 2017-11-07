@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Feier des Jahrestags des Antikominternabkommens.
+Found
+MODSMD_ARTICLE02: Deutsch —tschecho slowakische Vereinbarung.
+Found
+MODSMD_ARTICLE03: Darre vor den Vertretern der Presse.
+Found
+MODSMD_ARTICLE04: Feier am Grabe des Admirals Scheer.
+Found
+MODSMD_ARTICLE05: Die Danziger Staatsangehörigkeit.
+Found
+MODSMD_ARTICLE06: Oberst Skirpa wird litauischer Gesandter in Berlin.
+Found
+MODSMD_ARTICLE07: Prager Präsidentenwahl am Mittwochvormittag.
+Found
+MODSMD_ARTICLE08: Benesch kein Vorbild für die Jugend.
+Found
+MODSMD_ARTICLE09: Die Tschechisch-Nationale Einheitspartei jndenrein.
+Found
+MODSMD_ARTICLE10: „Narodni Liste" über das Volksgruppenabkommen.
+Found
+MODSMD_ARTICLE11: Ter kommunistische Sireikterror in Frankreich.
+Found
+MODSMD_ARTICLE12: Die Kennzahl der Großhandelspreise vom 23. November.
+Found

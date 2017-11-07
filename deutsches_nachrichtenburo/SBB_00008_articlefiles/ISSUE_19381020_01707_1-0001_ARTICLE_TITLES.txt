@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer bei den Sudetendeutschen.
+Found
+MODSMD_ARTICLE02: Beileidstelegramm des Führers.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Italienische Gäste bei Prinz Philipp von Hessen.
+Found
+MODSMD_ARTICLE05: Tie „Times" über Funks Balkaureise.
+Found
+MODSMD_ARTICLE06: Geoffrey Shakespeare gegen die „Verrate-Schreier.
+Found
+MODSMD_ARTICLE07: Die englisch-amerikanischen Wirtschaftsbesprechnngen.
+Found
+MODSMD_ARTICLE08: Eine Neugründung in Frankreich.
+Found
+MODSMD_ARTICLE09: Abänderungen im syrisch-französischen Vertrag.
+Found
+MODSMD_ARTICLE10: Sidor bleibt vorläufig in Warschau.
+Found
+MODSMD_ARTICLE11: Das Befinden Atatürks weiterhin ernst.
+Found
+MODSMD_ARTICLE12: Britisches Militär will Juden bewaffnen.
+Found
+MODSMD_ARTICLE13: Mongolensührer in Tokio.
+Found
+MODSMD_ARTICLE14: Die Japaner 36 kni vor Kanton.
+Found
+MODSMD_ARTICLE15: Rämnungsbesehl in Hankau.
+Found

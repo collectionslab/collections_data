@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm des Führers an Ritter von Epp.
+Found
+MODSMD_ARTICLE02: Tie Reichswettkämpfe der SA.
+Found
+MODSMD_ARTICLE03: Siebenbürger und Bauater Sänger bor Dr. Frick.
+Found
+MODSMD_ARTICLE04: Englische Bürgermeister besichtigen Westdeutschland.
+Found
+MODSMD_ARTICLE05: Vorstoß au der Front von Santander.
+Found
+MODSMD_ARTICLE06: „Uns rief Polen!" in Ostoberschlesien beschlagnahmt.
+Found
+MODSMD_ARTICLE07: Internationaler Protest in Nanking.
+Found
+MODSMD_ARTICLE08: Acht Ausländer beim Bombenabwurf auf Schanghai getötet.
+Found
+MODSMD_ARTICLE09: Eine Erklärung des Japanischen Marineministeriums.
+Found
+MODSMD_ARTICLE10: Wieder heftige Nachtkämpfe bei Hongkiu.
+Found
+MODSMD_ARTICLE11: Italiens Königspreis für Rosemeyer.
+Found
+MODSMD_ARTICLE12: Deutsche Rudersiege in Amsterdam.
+Found

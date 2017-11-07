@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Deutsch-italienisches Kulturabkommen.
+Found
+MODSMD_ARTICLE02: Ruft an Bottai.
+Found
+MODSMD_ARTICLE03: Ruft beglückwünscht Professor Krieck.
+Found
+MODSMD_ARTICLE04: König Karl in Süddeutschland.
+Found
+MODSMD_ARTICLE05: Die Streikbewegung im Bezirk von Valenciennes.
+Found
+MODSMD_ARTICLE06: Demission der Regierung Jmredy.
+Found
+MODSMD_ARTICLE07: Rücktrittsangebot der Regierung Skladkowski abgelehnt.
+Found
+MODSMD_ARTICLE08: Jüdischer Bankkrach ruiniert polnische Firmen.
+Found
+MODSMD_ARTICLE09: Widerwärtige Solidarität!
+Found
+MODSMD_ARTICLE10: Wüste Schimpfkanonade ans Sowjetspanien.
+Found
+MODSMD_ARTICLE11: Amerika erwägt jüdische Ansiedlung in Alaska.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: General Agostini am Ehrenmal.
+Found
+MODSMD_ARTICLE02: Dr. Ley beglückwünscht Henlein.
+Found
+MODSMD_ARTICLE03: Einweihung des Horst Wessel-Koogs durch Stabschef Lutze.
+Found
+MODSMD_ARTICLE04: Das Staatsbegräbnis für General Kraust.
+Found
+MODSMD_ARTICLE05: General Francos Gedenktag.
+Found
+MODSMD_ARTICLE06: Bottal und Grandi neuerlich bestätigt.
+Found
+MODSMD_ARTICLE07: Mussolinis Dank an die Kriegsopfer.
+Found
+MODSMD_ARTICLE08: Ungarns Dank an den Duce. –
+Not Found
+MODSMD_ARTICLE09: Tschechen sprengen Eisenbahnstation: 19 Tote.
+Found
+MODSMD_ARTICLE10: Ungarische Note an Prag.
+Found
+MODSMD_ARTICLE11: Jmredy zur ungarischen Note.
+Found
+MODSMD_ARTICLE12: Sudetendeutsche als Geiseln in tschechischen Kerkern.
+Found
+MODSMD_ARTICLE13: Prag schließt deutsche Universitätskliniken.
+Found
+MODSMD_ARTICLE14: Prager Mmisierausschuß für Grenzziehung.
+Found
+MODSMD_ARTICLE15: Der Führer im Egerland.
+Found
+MODSMD_ARTICLE16: Festliche Stimmung im Brauuauer Land.
+Found
+MODSMD_ARTICLE17: Moskau mit Daladier unzufrieden.
+Found

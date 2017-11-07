@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Liebeswerben im Beichtstuhl.
+Found
+MODSMD_ARTICLE02: Weitere Pariser Pressestimmen zur Ciano-Rede.
+Found
+MODSMD_ARTICLE03: Die Ziele der britischen Reichskonferenz.
+Found
+MODSMD_ARTICLE04: Rege diplomatische Tätigkeit in London.
+Found
+MODSMD_ARTICLE05: Besprechungen des polnischen Außenministers in London.
+Found
+MODSMD_ARTICLE06: Das neue polnisch-französische Wirtschaftsabkommen.
+Found
+MODSMD_ARTICLE07: Polen treibt polnische und nicht jüdische Außenpolitik.
+Found
+MODSMD_ARTICLE08: Ministerpräsident Blum an Amerika.
+Found
+MODSMD_ARTICLE09: Roosevelt drängt auf Verabschiedung seiner Reforwvorschläge.
+Found
+MODSMD_ARTICLE10: Streik in der amerikanischen Stahlindustrie beigelegt.
+Found
+MODSMD_ARTICLE11: Gemeinsames Vorgehen der China- und Mandschureitruppen.
+Found

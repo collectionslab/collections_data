@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Henri Pichot in Bremen.
+Found
+MODSMD_ARTICLE03: Budapest zum Abschluß der Berliner Besprechungen.
+Found
+MODSMD_ARTICLE04: Die Benachteiligung des Sudetendeutschtums.
+Found
+MODSMD_ARTICLE05: Warschau kritisiert Prags Minderheitenpolitik.
+Found
+MODSMD_ARTICLE06: Nene Zusammenstöße vor der Universität Lemberg.
+Found
+MODSMD_ARTICLE07: Die Grenzverletzungen durch sowjetspanische Bomber.
+Found
+MODSMD_ARTICLE08: Pqriser Munitionslieferungen für Valencia.
+Found
+MODSMD_ARTICLE09: Der Reichsjugendführer in Belgrad.
+Found
+MODSMD_ARTICLE10: 25-Jahrfeier der Unabhängigkeit Albaniens.
+Found
+MODSMD_ARTICLE11: 22 neue Erschießungen in Sowjetrnßland.
+Found
+MODSMD_ARTICLE12: Politische Meinungsverschiedenheit Berlin—Rio undenkbar.
+Not Found
+MODSMD_ARTICLE13: Neuer Arbeitsminister in Brasilien.
+Found

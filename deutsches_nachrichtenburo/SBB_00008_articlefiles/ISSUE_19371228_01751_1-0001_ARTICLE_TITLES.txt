@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Eine Neujahrsbotschaft des Reichssportführers.
+Found
+MODSMD_ARTICLE03: 2. Nordatlantik-Fahrt des Forschungsschiffes „Meteor".
+Found
+MODSMD_ARTICLE04: Der Senat zur Wirtschaftskrise in Elsaß-Lothringen.
+Found
+MODSMD_ARTICLE05: Dr. Patijn: „Anerkennung einer vollzogenen Tatsache".
+Found
+MODSMD_ARTICLE06: Sowjetspanier fordern erneut Hilfe von Moskau.
+Found
+MODSMD_ARTICLE07: Das Inkrafttreten der neuen irischen Verfassung.
+Found
+MODSMD_ARTICLE08: Wieder ein Opfer des Stalin-Henkers.
+Found
+MODSMD_ARTICLE09: Moskaus Angst vor dem Urteil der Öffentlichkeit.
+Found
+MODSMD_ARTICLE10: Goga mit Neubildung der rumänischen Regierung betraut.
+Found
+MODSMD_ARTICLE11: Türkischer Protest gegen die Sandschak-Wahlordnung.
+Found
+MODSMD_ARTICLE12: Altö kommunistische Generale kommen wieder ans Ruder.
+Found
+MODSMD_ARTICLE13: Japaner bei Macao gelandet.
+Found

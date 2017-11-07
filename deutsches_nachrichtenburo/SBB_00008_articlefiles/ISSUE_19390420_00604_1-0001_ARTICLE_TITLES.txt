@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Göring an das deutsche Volk.
+Found
+MODSMD_ARTICLE02: Ehrungen in Kunst und Wissenschaft
+Found
+MODSMD_ARTICLE03: Ernennungen im Neichswirtschaftsnnnisterimn.
+Found
+MODSMD_ARTICLE04: Beförderungen im Propagandaministerium.
+Found
+MODSMD_ARTICLE05: Ernennung von Thüringischen Staatsräten.
+Found
+MODSMD_ARTICLE06: Prof. v. Ostertag erhielt den Adlerschild.
+Found
+MODSMD_ARTICLE07: Staatspräsident Dr. Hacha in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE08: Freudenfeuer auf Tirols Bergen.
+Found
+MODSMD_ARTICLE09: Das KdF.-Schiff „Robert Ley" gratuliert.
+Found
+MODSMD_ARTICLE10: Der Brand des Dampfers „Paris".
+Found
+MODSMD_ARTICLE11: Die Niederlage Noosevelts in der Guam-Frage.
+Found

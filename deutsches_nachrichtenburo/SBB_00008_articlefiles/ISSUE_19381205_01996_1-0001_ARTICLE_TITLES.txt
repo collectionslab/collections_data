@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Glückwunsch Dr. Fricks au Konrad Heulein.
+Found
+MODSMD_ARTICLE02: Dr. Frick beglückwünscht Dr. von Kern.
+Found
+MODSMD_ARTICLE03: Jtaliendeutsche in nationaler Solidarität.
+Found
+MODSMD_ARTICLE04: Einmütiges Ja bei den Reichswerken Hermann Göring.
+Found
+MODSMD_ARTICLE05: Dr. Ohnesorge über Postsport und Postschutz.
+Found
+MODSMD_ARTICLE07: „Triumph der nationalsozialistischen Politik."
+Found
+MODSMD_ARTICLE08: Schweigen bedeutet nicht immer Zustimmung.
+Found
+MODSMD_ARTICLE09: Pariser Stimmen zum Fall Codreauu.
+Found
+MODSMD_ARTICLE10: „News Chronicle": Wachsende Empörung in Rumänien.
+Found
+MODSMD_ARTICLE11: Der lettische Außenminister in London.
+Found
+MODSMD_ARTICLE12: Indien will vom Ottawa-Abkommen zurücktreten.
+Found
+MODSMD_ARTICLE13: Streik in den Jutefabriken in Kalkutta.
+Found
+MODSMD_ARTICLE14: 350 Urteile wegen Wasfentransports nach Palästina.
+Found
+MODSMD_ARTICLE15: Tie einzigen berechtigten Vertreter Palästinas.
+Found
+MODSMD_ARTICLE16: England verstärkt den Druck in Palästina.
+Found

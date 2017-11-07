@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Der Tag der Deutschen Kunst. Festnacht der Künstler.
+Found
+MODSMD_ARTICLE02: Fest am „Haus der Deutschen Kunst" in Anwesenheit des Führers.
+Not Found
+MODSMD_ARTICLE03: Die Deutsche Kunstausstellung München 1937. Em erster Gang durch das neue Heim der deutschen Kunst.
+Found
+MODSMD_ARTICLE05: Zahl der Unterstützungsempfänger abermals gesunken.
+Found
+MODSMD_ARTICLE06: Der Deutsche Marinetag 1937 in Düsseldorf.
+Found
+MODSMD_ARTICLE07: Ausländischer Casegast in Paris bei Streikunruhen verletzt.
+Found
+MODSMD_ARTICLE08: Schwerer Schlag für den Kommunismus in Bulgarien.
+Found

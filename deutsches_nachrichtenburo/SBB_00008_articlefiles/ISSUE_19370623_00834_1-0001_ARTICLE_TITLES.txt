@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Böhmcker Regierender Bürgermeister in Bremen.
+Found
+MODSMD_ARTICLE02: Generalarbeitsführer Dr. Decker Honorarprofessor.
+Found
+MODSMD_ARTICLE03: Beileidstelegramm Sven Hedins.
+Found
+MODSMD_ARTICLE04: Kiel empfängt amerikanische Marineabordnung.
+Found
+MODSMD_ARTICLE05: Deutschland auf dem Sachverständigenkongreß.
+Found
+MODSMD_ARTICLE06: Streik der Hotelangestellten in Paris.
+Found
+MODSMD_ARTICLE07: Um den französischen Währungsausgleich.
+Found
+MODSMD_ARTICLE08: Finanzminister Bonnet ist optimistisch.
+Found
+MODSMD_ARTICLE09: Zur Bildung der Regierung Chautemps.
+Found
+MODSMD_ARTICLE10: Polnische Stimmen zum französischen Kabinettswechsel.
+Found
+MODSMD_ARTICLE11: Die englische Presse Zum Scheitern der Viermächtekonferenz.
+Found
+MODSMD_ARTICLE12: Rom: „Frankreich und England sind schuld".
+Found
+MODSMD_ARTICLE13: In nationalspanische Hand gefallen.
+Found
+MODSMD_ARTICLE14: Palästina soll aufgeteilt werden.
+Found
+MODSMD_ARTICLE15: Indische Aufständische gefangengenommen.
+Found
+MODSMD_ARTICLE16: Ernste Lage auf Trinidad.
+Found
+MODSMD_ARTICLE17: Prüfung der englisch-japanischen Beziehungen.
+Found
+MODSMD_ARTICLE18: Ruhe im Stahlstreik.
+Found
+MODSMD_ARTICLE19: Ein New Aorker Hearst-Blatt geht ein.
+Found

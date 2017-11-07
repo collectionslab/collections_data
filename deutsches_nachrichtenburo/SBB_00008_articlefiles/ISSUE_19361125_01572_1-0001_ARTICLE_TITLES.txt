@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Entschiedener deutscher Protestschritt in Oslo.
+Found
+MODSMD_ARTICLE02: Drei Jahre „Kraft durch Freude".
+Found
+MODSMD_ARTICLE03: Glückwunschtelegramm Mr. Kirbys an Dr. Ley.
+Found
+MODSMD_ARTICLE04: Die Sondertagungen des Reichsbauerntages.
+Found
+MODSMD_ARTICLE05: Sitzung des Verwaltungsrats der Reichsbahn.
+Found
+MODSMD_ARTICLE06: Sitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE07: Die französischen Kommunisten lassen nicht locker.
+Found
+MODSMD_ARTICLE08: Ein holländischer Industrieller über Sowjetrußland.
+Found
+MODSMD_ARTICLE10: Parade vor Horthy in Rom.
+Found
+MODSMD_ARTICLE11: Ostjuden als Devisenschieber.
+Found
+MODSMD_ARTICLE12: Litauischer Staatshaushaltsplan angenommen.
+Found
+MODSMD_ARTICLE13: Jüdische Agitatoren in Krakau verhaftet.
+Found
+MODSMD_ARTICLE14: Pailingmiao von chinesischen Truppen eingenommen.
+Found
+MODSMD_ARTICLE15: Weihnachtszuwendungen nicht mehr sozialversicherungspflichtig.
+Not Found

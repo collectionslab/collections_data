@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Das Ganze Halt! Abschluß der großen Herbstübungen.
+Found
+MODSMD_ARTICLE02: Dr. Heinrich Mantler 75 Jahre.
+Found
+MODSMD_ARTICLE03: Die Goethe-Medaille für Prof. Kratzenberg-Luxemburg.
+Found
+MODSMD_ARTICLE04: Beschlüsse der Internationalen Luftsportkonferenz.
+Found
+MODSMD_ARTICLE05: Anfragen wegen Preisüberwachung.
+Found
+MODSMD_ARTICLE06: Mißtrauensvotum gehen die finnländische Regierung.
+Found
+MODSMD_ARTICLE07: Thorez holt sich Rat bei Dimitroff.
+Found
+MODSMD_ARTICLE08: Der Fehlbetrag im sowjetrussischen Staatshaushalt.
+Found
+MODSMD_ARTICLE09: Faschistische Stimme über das Judentum.
+Found
+MODSMD_ARTICLE10: „Nation Belge" über die Entwicklung in Spanien.
+Found
+MODSMD_ARTICLE11: Kriegsrat der nationalistischen Heerführer.
+Found
+MODSMD_ARTICLE12: Südamerika und die Burgos-Regierung.
+Found
+MODSMD_ARTICLE13: Der Vormarsch der Nationalisten auf Toledo.
+Found
+MODSMD_ARTICLE14: Textilarbeiterstreik im Vogesendepartement beendet.
+Found
+MODSMD_ARTICLE15: Ein italienisch-jugoslawisches Handelsübereinkommen.
+Found
+MODSMD_ARTICLE16: Roosevelt entwirft Wahlfeldzug.
+Found
+MODSMD_ARTICLE17: Die japanischen Maßnahmen in Schanghai.
+Found

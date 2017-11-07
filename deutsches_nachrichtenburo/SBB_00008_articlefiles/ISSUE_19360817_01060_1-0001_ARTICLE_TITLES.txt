@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Französische Note zur Frage der Völkerbundsreform.
+Found
+MODSMD_ARTICLE02: Politische Ruhepause in Paris.
+Found
+MODSMD_ARTICLE03: Einverständnis Paris—London in Waffenlieferungsfrage.
+Not Found
+MODSMD_ARTICLE04: Die katalanische Regierung sucht Fühlung mit Burgos?
+Found
+MODSMD_ARTICLE05: Barcelona meldet Vormarsch auf Saragossa.
+Found
+MODSMD_ARTICLE06: Weitere Erfolge der Militärgruppe.
+Found
+MODSMD_ARTICLE07: Rückzug der Marxisten bei Malaga.
+Found
+MODSMD_ARTICLE08: Jrun und San Sebastian völlig eingeschlossen.
+Found
+MODSMD_ARTICLE09: Im erstürmten Badajoz.
+Found
+MODSMD_ARTICLE10: Widersprechende Meldungen über den Kreuzer „Jaime I."
+Found
+MODSMD_ARTICLE11: Protest argentinischer Schriftsteller.
+Found
+MODSMD_ARTICLE12: Marxistenflugzeug bombardiert französisches Dorf.
+Found
+MODSMD_ARTICLE13: „Botschafter des französischen Proletariats" in Madrid.
+Found
+MODSMD_ARTICLE14: Uruguay regt Vermittlungsschritt an.
+Found
+MODSMD_ARTICLE15: Eine schwedische Stimme zur Wühltätigkeit Trotzkis.
+Found
+MODSMD_ARTICLE16: Entlassung der Jahresklasse 1314 in Italien.
+Found
+MODSMD_ARTICLE17: Neuer Minister im Belgrader Kabinett.
+Found
+MODSMD_ARTICLE18: Jüdischer Schriftleiter in Warschau verhaftet.
+Found
+MODSMD_ARTICLE19: Die amerikanische Presse zur Rede Roosevelts.
+Found
+MODSMD_ARTICLE20: Bombenwurf aus dem fahrenden Zuge.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Freudiges Ereignis im niederländischen Königshans.
+Found
+MODSMD_ARTICLE02: Belgischer Journalist über das Deutschland von 1939.
+Found
+MODSMD_ARTICLE03: Chamberlain putschte Polen weiter auf.
+Found
+MODSMD_ARTICLE04: Gibraltar zurück an Spanien!
+Found
+MODSMD_ARTICLE05: Slowenische Ruhrbergarbeiter besuchen ihre Heimat.
+Found
+MODSMD_ARTICLE06: Oberst Koc über seine negativen Erfolge in London.
+Found
+MODSMD_ARTICLE07: Arbeiteraustausch zwischen den nordischen Ländern.
+Found
+MODSMD_ARTICLE08: Bekämpfung der Arbeitslosigkeit in Dänemark.
+Found
+MODSMD_ARTICLE09: Paris schiebt London die Verantwortung zu.
+Found
+MODSMD_ARTICLE10: „Times" für baldige Neuwahlen.
+Found
+MODSMD_ARTICLE11: Verletzung des Tokio-Abkommens durch Englgnd.
+Found
+MODSMD_ARTICLE12: Südafrika will den Raub des Caprivi-Zipfels durchführen.
+Found
+MODSMD_ARTICLE13: Ausbau des Panamakanals.
+Found
+MODSMD_ARTICLE14: Staatsjugend auch in Bolivien.
+Found
+MODSMD_ARTICLE15: Argentiniens Politik auf Neutralität gegründet.
+Found
+MODSMD_ARTICLE16: Gegen die Außenhandelspolitik der Demokratien.
+Found
+MODSMD_ARTICLE17: Ein Frauenmörder hingerichtet.
+Found

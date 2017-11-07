@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Die japanischen Pressevertreter in Berlin.
+Found
+MODSMD_ARTICLE03: Tag der Deutschen Wirtschaftswissenschaft 1938.
+Found
+MODSMD_ARTICLE04: in Stuttgart.
+Found
+MODSMD_ARTICLE05: Luftsperre über Nürnberg während des Parteitages.
+Found
+MODSMD_ARTICLE06: Ohnesorge an Seytz-Jnqnart.
+Found
+MODSMD_ARTICLE07: „Die Zeit" erneut beschlagnahmt.
+Found
+MODSMD_ARTICLE08: Sitzung des Politischen Ausschusses der SdP.
+Found
+MODSMD_ARTICLE09: Tie Tschechen verbieten das Ausstellen von Führerbildern.
+Found
+MODSMD_ARTICLE10: Lord Plymouth verhandelte mit Corbin.
+Found
+MODSMD_ARTICLE11: Mussolini empfing General Cavallero.
+Found
+MODSMD_ARTICLE12: Konrad Henkeln beim Führer.
+Found
+MODSMD_ARTICLE13: Scharfe italienische Maßnahmen in der Judenfrage.
+Found

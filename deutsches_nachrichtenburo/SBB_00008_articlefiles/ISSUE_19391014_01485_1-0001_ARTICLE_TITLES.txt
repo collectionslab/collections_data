@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Die „Are Royal" ist weg.
+Found
+MODSMD_ARTICLE02: Frankreichs Regierung fürchtet die Wahrheit.
+Found
+MODSMD_ARTICLE03: Der türkische Ackerbauminister fährt nach Moskau.
+Found

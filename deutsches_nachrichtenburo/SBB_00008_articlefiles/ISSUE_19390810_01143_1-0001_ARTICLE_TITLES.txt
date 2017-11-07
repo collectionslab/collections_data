@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der neue türkische Botschafter für Berlin.
+Found
+MODSMD_ARTICLE02: Polnische Kirchenvergewaltigung im Olsa-Gebiet.
+Found
+MODSMD_ARTICLE03: Ehrung der deutschen Militärabordnung in Italien.
+Found
+MODSMD_ARTICLE04: Das neue Spanien stellt sich auf den Frieden um.
+Found
+MODSMD_ARTICLE05: Der Caudillo ernennt Mlange-Mhrer.
+Found
+MODSMD_ARTICLE06: Rote Mordbanditen gefaßt.
+Found
+MODSMD_ARTICLE07: Paris über das politische Regime in Spanien.
+Found
+MODSMD_ARTICLE08: Paris und London blicken nach Danzig.
+Found
+MODSMD_ARTICLE09: Bomber über dem Hydepark.
+Found
+MODSMD_ARTICLE10: England läßt sich Zeit.
+Found
+MODSMD_ARTICLE11: Otto von Habsburg auf Reisen.
+Found
+MODSMD_ARTICLE12: Amerikanisches Kriegsbeschaffungsamt.
+Found
+MODSMD_ARTICLE13: Argentinische Universität lehnt dreiste Judenforderung ab.
+Found
+MODSMD_ARTICLE14: Bombenexplosion auf einem britischen Polizeiboot.
+Found
+MODSMD_ARTICLE15: Die illegale Judeneinwanderung in Palästina.
+Found
+MODSMD_ARTICLE16: Tokio: „Englands wahres Gesicht erkannt."
+Found

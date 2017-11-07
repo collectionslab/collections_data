@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Mit fremden Augen.
+Found
+MODSMD_ARTICLE02: Bedenkenloses Borgchen der englischen Kriegsschiffe.
+Found
+MODSMD_ARTICLE03: Rohstoffmangel in Holland.
+Found
+MODSMD_ARTICLE04: Kriegsgewmnlertum blüht in England.
+Found
+MODSMD_ARTICLE05: Die Arbeitslosigkeit in Irland steigt.
+Found
+MODSMD_ARTICLE06: „Dunkle Einflüsse" in Ausstralien.
+Found
+MODSMD_ARTICLE07: Britisches Weltreich auf tönernen Füßen.
+Found
+MODSMD_ARTICLE08: Bestürzung in London.
+Found
+MODSMD_ARTICLE09: Arbeitslosigkeit und Depression in Südafrika.
+Found
+MODSMD_ARTICLE10: England auf der Suche nach Soldaten-.
+Found
+MODSMD_ARTICLE11: In England: Der Weihnachtsbraten in weiter Ferne!
+Found
+MODSMD_ARTICLE12: Zeichen der Londoner Nervosität.
+Found
+MODSMD_ARTICLE13: Gesetzliche Maßnahmen gegen die Preistreiberei in Rumänien
+Found
+MODSMD_ARTICLE14: Belgien plant Handelsschiff-Neubauten.
+Found
+MODSMD_ARTICLE15: Belgische Minister bei König Leopold.
+Found
+MODSMD_ARTICLE16: Fliegeralarm auch in Südfrankreich und England.
+Found
+MODSMD_ARTICLE17: Fliegeralarm in Nimes und in Lyon.
+Found
+MODSMD_ARTICLE18: Gefängnis gegen den Fälscher und Hetzer Jürges.
+Found
+MODSMD_ARTICLE19: Frauenmörder zum Tode verurteilt.
+Found

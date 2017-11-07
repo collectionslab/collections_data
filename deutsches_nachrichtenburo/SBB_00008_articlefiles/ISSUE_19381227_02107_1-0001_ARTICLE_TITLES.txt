@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Reichsminister Ruft beglückwünscht Friedrich Stahl.
+Found
+MODSMD_ARTICLE02: Verbot der Kommunistischen Partei in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE03: Zusammenstöße zwischen Slowaken und Ungarn.
+Found
+MODSMD_ARTICLE04: „Wehropfer" in der Schweiz.
+Found
+MODSMD_ARTICLE05: Vandervelde gestorben.
+Found
+MODSMD_ARTICLE06: Tritt Paul Faure zurück?
+Found
+MODSMD_ARTICLE07: Der Jude Blum im Scblepptau Moskaus.
+Found
+MODSMD_ARTICLE08: Offener Brief an Lord Halifax.
+Found
+MODSMD_ARTICLE09: Die Offensive Francos in Katalonien.
+Found
+MODSMD_ARTICLE10: Wiederaufnahme der Fischerei-Verhandlungen.
+Found
+MODSMD_ARTICLE11: Indisches Verständnis für die Judenfrage.
+Found
+MODSMD_ARTICLE12: Der Palästina-Reiseverkehr fast eingestellt.
+Found
+MODSMD_ARTICLE13: 37 Millionen Pfund für das ägyptische Heer.
+Found
+MODSMD_ARTICLE14: Mexiko erteilt keine Erdölkonzessionen-mehr.
+Found
+MODSMD_ARTICLE15: Nach den italienfemdlicheu Ausschreitungen in Uruguay.
+Found

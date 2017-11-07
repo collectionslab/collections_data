@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Die Deutsche Filmakademie entsteht.
+Found
+MODSMD_ARTICLE02: Empfang des Reichsverbandes der Automobilindustrie.
+Found
+MODSMD_ARTICLE03: Die Aussprache im Unterhaus.
+Found
+MODSMD_ARTICLE04: Skwarczynski über die aktuellen Probleme Polens.
+Found
+MODSMD_ARTICLE05: Ein neues GPU-Verbrechen in Mris.
+Found
+MODSMD_ARTICLE06: „Sowjetunion notwendig zum Sieg des Weltproletariats."
+Found
+MODSMD_ARTICLE07: Moskauer Fälschung aufgedeckt.
+Found
+MODSMD_ARTICLE08: Tiefe Dankbarkeit in Mandschnkuo.
+Found

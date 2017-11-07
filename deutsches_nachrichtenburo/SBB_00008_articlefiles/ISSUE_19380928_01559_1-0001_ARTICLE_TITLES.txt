@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Dr. Goebbels: Wir fordern Taten.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE05: Ein Opfer tschechischer Kugeln zu Grabe getragen.
+Found
+MODSMD_ARTICLE06: Abgeordneteuempfang bei Lebrun und Daladier.
+Found
+MODSMD_ARTICLE07: Der Duee nach München unterwegs.
+Found
+MODSMD_ARTICLE08: Botschafter Phipps bei Bonnet.
+Found
+MODSMD_ARTICLE09: Bergery: Ohne Schachern zugestehen, was gerecht ist!
+Found
+MODSMD_ARTICLE10: Neue Unterredung Ciano—Perth.
+Not Found
+MODSMD_ARTICLE11: Dank für die Aufnahme der HJ.-Aborduung in Tokio.
+Found

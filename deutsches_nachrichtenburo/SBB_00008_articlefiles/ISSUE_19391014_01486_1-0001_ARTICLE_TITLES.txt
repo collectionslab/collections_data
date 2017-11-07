@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Generaloberstabsveterinär Dr. Schulze 4l) Jahre Soldat.
+Found
+MODSMD_ARTICLE02: „Chamberlain vernichtet Menscheuleben."
+Found
+MODSMD_ARTICLE03: Britische Piraten halten belgischen Dampfer zurück.
+Found
+MODSMD_ARTICLE04: Holländische Kritik an Chamberlain.
+Found
+MODSMD_ARTICLE05: Das englische Volk weiß nicht, wofür es kämpfen soll!
+Found
+MODSMD_ARTICLE06: Die Versenkung der „Royal Oak" Hollands Sensation.
+Found
+MODSMD_ARTICLE07: Englische Seeräuberei.
+Found
+MODSMD_ARTICLE08: Keine dänischen Lebensmittel mehr für England.
+Found
+MODSMD_ARTICLE09: Madrid: „Chamberlain hat die letzte Hoffnung zerstört."
+Found
+MODSMD_ARTICLE10: Tie Geduld des deutschen Volkes erschöpft.
+Found
+MODSMD_ARTICLE11: Was die Türkei anscheinend schon wieder vergessen hat.
+Found
+MODSMD_ARTICLE12: Oberst Lindbergh warnt das amerikamsche Volk.
+Found

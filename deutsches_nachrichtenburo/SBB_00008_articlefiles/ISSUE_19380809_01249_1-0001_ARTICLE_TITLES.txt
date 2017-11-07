@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Was bringt der Rundfunk?
+Found
+MODSMD_ARTICLE02: Luftmarschall Balbo auf dem Fliegerhorst Staaken gelandet.
+Found
+MODSMD_ARTICLE03: Gcneral der Flieger Milch an Christiansen.
+Found
+MODSMD_ARTICLE04: Ernennung im Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE05: Der deutsche Botschafter in Paris bei Bonnet.
+Found
+MODSMD_ARTICLE06: „Paris Midi" über den neuesten tschechischen Terrorakt.
+Found
+MODSMD_ARTICLE07: Daladier bei den Alpenmanövern.
+Found
+MODSMD_ARTICLE08: Im Zeichen der Volksfront.
+Found
+MODSMD_ARTICLE09: Ungarnreise des albanischen Kömgspaares im Herbst.
+Found
+MODSMD_ARTICLE10: Die neue ungarische Pressekammer.
+Found
+MODSMD_ARTICLE11: Rege Tätigkeit der nationalspanischen Luftwaffe.
+Found
+MODSMD_ARTICLE12: Admiral Woodhouse fährt nach London.
+Found
+MODSMD_ARTICLE13: Die Kolojnialreise des portugiesischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE14: Neuer Trotzkistenprozeß im Donezgebiet.
+Found
+MODSMD_ARTICLE15: Moskau hüllt sich in Schweigen.
+Found
+MODSMD_ARTICLE16: Moskau lehnt neuen Protest Japans ab.
+Found
+MODSMD_ARTICLE17: Neuer Uebersall bei Schangfeng?
+Found
+MODSMD_ARTICLE18: Erfolg der Japaner vor Nantschang.
+Found
+MODSMD_ARTICLE19: Wieder japanische Luftangriffe auf Kanton.
+Found
+MODSMD_ARTICLE20: Illegale Judenarmee in Palästina.
+Found
+MODSMD_ARTICLE21: Sydney muß die britische Wirtschaft unterstützen.
+Found
+MODSMD_ARTICLE22: Jüdisches Finanzunternehmen betrügt brasilianische Sparer.
+Found

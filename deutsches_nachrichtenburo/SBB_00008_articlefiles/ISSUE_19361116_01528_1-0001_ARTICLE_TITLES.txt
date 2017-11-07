@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Die Kanzlei des Führers in ihren neuen Diensträumen.
+Found
+MODSMD_ARTICLE02: Der Reichskriegsminister besucht Burg Vogelsang.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Der Chef des estnischen Generalstabes in Berlin.
+Found
+MODSMD_ARTICLE05: Aufhebung der Reichsbahndirektion Ludwigshafen.
+Found
+MODSMD_ARTICLE06: Ribbentrop zu Gast bei Lord Londonderry.
+Found
+MODSMD_ARTICLE07: Reichsbankpräsident Dr. Schacht in Ankara.
+Found
+MODSMD_ARTICLE08: Paris zur deutschen Erklärung über die Stromakte.
+Found
+MODSMD_ARTICLE09: Doriot klagt erneut die kommunistische Weltpest an.
+Found
+MODSMD_ARTICLE10: Arbeitswillige erzwingen Streikabbruch in Lille.
+Found
+MODSMD_ARTICLE11: Marxistischer Terror in Marseille.
+Found
+MODSMD_ARTICLE12: Tie Führer der marokkanischen Nationalisten verhaftet.
+Found
+MODSMD_ARTICLE13: Neue flämische Tageszeitung.
+Found
+MODSMD_ARTICLE14: Jüdische Organisationen in Warschau geschlossen.
+Found
+MODSMD_ARTICLE15: Deutscheu Gymnasien das Oeffentlichkeitsrecht
+Found
+MODSMD_ARTICLE16: Ein Waffcngescheuk an Marschall Rydz-Smigly.
+Found
+MODSMD_ARTICLE17: Bolschewistische Agitation unter den Auslandspolen.
+Found
+MODSMD_ARTICLE18: Schuschnigg über eine Arbeitsbinnenkonjunktur.
+Found
+MODSMD_ARTICLE19: Verlautbarung über die Budapester Verhandlungen Cianos.
+Found
+MODSMD_ARTICLE20: Drei Flugzeuge der Roten heruntergeholt.
+Found
+MODSMD_ARTICLE21: „Wirtschaftsgeneralstab" in Japan.
+Found

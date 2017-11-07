@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: 3V VW Frontsoldaten marschierten in München.
+Found
+MODSMD_ARTICLE02: Dr. Ley besucht österreichische Arbeiter an ihrem Werkplatz.
+Found
+MODSMD_ARTICLE03: Eröffnung des IV. Internationalen Kongresses für Chemie.
+Found
+MODSMD_ARTICLE04: Hiernaux zum Befehlshaber der belgischen Luftwaffe ernannt.
+Found
+MODSMD_ARTICLE05: Die neue belgische Regierung.
+Found
+MODSMD_ARTICLE06: Brüsseler Polizei gegen marxistische Demonstranten.
+Found
+MODSMD_ARTICLE07: Duisburgs Oberbürgermeister in Antwerpen.
+Found
+MODSMD_ARTICLE08: Ministerpräsident Skladkowski zwei Jahre im Amt.
+Found
+MODSMD_ARTICLE09: Lebhafte Kampftätigkeit an der Ternel-Front.
+Found
+MODSMD_ARTICLE10: London sieht Verhandlungen Rom—Paris gefährdet.
+Not Found
+MODSMD_ARTICLE11: Handelsvertrag zwischen Aegypten und dem Irak.
+Found
+MODSMD_ARTICLE12: Auch England beruft seinen Gesandten ab.
+Found
+MODSMD_ARTICLE13: Das große Fußballtreffen England—Deutschland.
+Found
+MODSMD_ARTICLE14: Deutscher Hockey-Sieg über Holland.
+Found
+MODSMD_ARTICLE15: Japan erobert einen Flugweltrekord.
+Found

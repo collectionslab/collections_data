@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der Führer zum Abschluß des Deutschlandfluges.
+Found
+MODSMD_ARTICLE02: Thomas I. Watson, der neue Präsident der I.H.K.
+Found
+MODSMD_ARTICLE03: Festkundgebung der Göttinger Studentenschaft.
+Found
+MODSMD_ARTICLE04: Aufruf des Reichsstudentenführers.
+Found
+MODSMD_ARTICLE05: Blomberg in Budapest eingetroffen.
+Found
+MODSMD_ARTICLE06: London verzeichnet Franken-Abwertnngsgerüchte.
+Found

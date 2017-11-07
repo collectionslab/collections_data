@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Graf Helldorf auf der Polizeitagung in Jugoslawien.
+Found
+MODSMD_ARTICLE02: Danziger Verordnung über Zahlungsverkehr in Zloty.
+Found
+MODSMD_ARTICLE03: Vanderveldes Bemühungen um die Kabinettsbildung.
+Found
+MODSMD_ARTICLE05: Widerstand gegen Dienstzeitverlängerung in Belgien.
+Found
+MODSMD_ARTICLE06: Madariaga bei Benesch. Gespräch über die Sanktionen.
+Found
+MODSMD_ARTICLE07: Ausdehnung des Streiks in Frankreich.
+Found
+MODSMD_ARTICLE08: Die Pariser Kammer zusammengetreten.
+Found
+MODSMD_ARTICLE09: Italien und die Internationale Arbeitskonferenz.
+Found
+MODSMD_ARTICLE10: Der König von Schweden in Finnland.
+Found
+MODSMD_ARTICLE11: Diskonterhöhung in Holland.
+Found
+MODSMD_ARTICLE12: Völkerbundsversammlung am 23. Juni?
+Found
+MODSMD_ARTICLE13: Marschall Badoglio in Rom.
+Found
+MODSMD_ARTICLE14: Generalstreik im Gebiet von Volo.
+Found
+MODSMD_ARTICLE15: Tschechoslowakisches Generalkonsulat in Kiew.
+Found
+MODSMD_ARTICLE16: Die Zahl der Verhaftungen in Palästina.
+Found
+MODSMD_ARTICLE17: Erweiterung des amerikanischen Mobilmachungsplanes.
+Found
+MODSMD_ARTICLE18: Rücktritt des Finanzministers von Paraguay.
+Found
+MODSMD_ARTICLE19: Südwestchina fordert Widerstand gegen Japan.
+Found

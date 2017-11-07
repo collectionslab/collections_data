@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Frankreich streitet ab.
+Found
+MODSMD_ARTICLE02: Oberhausaussprache über die Weltwirtschaftslage.
+Found
+MODSMD_ARTICLE03: Aufbringung britischer Handelsschiffe vor dem Unterhaus.
+Found
+MODSMD_ARTICLE04: Auch der französische Botschafter war bei Eden.
+Found
+MODSMD_ARTICLE05: Rom trauert um Marconi.
+Found
+MODSMD_ARTICLE06: Abschiedsbesuch des japanischen Botschafters in Rom.
+Found
+MODSMD_ARTICLE07: Eine neue Rechtspartei in Ungarn.
+Found
+MODSMD_ARTICLE08: Erster Ministerrat der neuen Regierung Hodscha.
+Found
+MODSMD_ARTICLE09: Außerordentliche Parlamentstagung für Ostoberschlesien.
+Found
+MODSMD_ARTICLE10: Kampf um ein bestreiktes Bergwerk.
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht vom Mittwoch.
+Found
+MODSMD_ARTICLE12: Das Montreux-Abkommen vom ägyptischen Senat ratifiziert.
+Found

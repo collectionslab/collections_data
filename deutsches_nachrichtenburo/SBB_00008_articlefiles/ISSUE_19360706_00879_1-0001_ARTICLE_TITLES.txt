@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Danzigs Senatspräsident über Ablenkungsmanöver.
+Found
+MODSMD_ARTICLE02: Die Auslandspresse Zur Genfer Rede Greisers.
+Found
+MODSMD_ARTICLE03: Die Sanktionskouferenz hebt Sanktionen auf.
+Found
+MODSMD_ARTICLE04: Ein belgisches Dementi.
+Found
+MODSMD_ARTICLE05: Der Negus nach Paris abgereist.
+Found
+MODSMD_ARTICLE06: Stephan Lux seinen Verletzungen erlegen.
+Found
+MODSMD_ARTICLE07: Baldwin und Eden wieder in London.
+Found
+MODSMD_ARTICLE08: Delbos wieder in Paris.
+Found
+MODSMD_ARTICLE09: Der neue polnische Botschafter in Paris eingetroffen.
+Found
+MODSMD_ARTICLE10: Pariser Kammer nimmt Getreidevorlage an.
+Found
+MODSMD_ARTICLE11: Das neue bulgarische Kabinett beim König.
+Found
+MODSMD_ARTICLE12: Graudi in Rom.
+Found
+MODSMD_ARTICLE13: Wirtschaftsvertrag Italien—Ungarn unterzeichnet.
+Not Found
+MODSMD_ARTICLE14: Italienische Volkszählung.
+Found
+MODSMD_ARTICLE15: Verstärkung der italienischen Luftwaffe.
+Found
+MODSMD_ARTICLE16: Badoglio erhält seine Bezüge auf Lebenszeit.
+Found
+MODSMD_ARTICLE17: Italiens Ministerrat über Ausbau Ostafrikas.
+Found
+MODSMD_ARTICLE18: Italienische Postämter in Abessinien.
+Found

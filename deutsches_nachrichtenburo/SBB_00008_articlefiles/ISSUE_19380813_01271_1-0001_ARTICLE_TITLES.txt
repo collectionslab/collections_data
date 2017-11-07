@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Marschall Balbo vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Anerkennung für deutsche Filmleistung.
+Found
+MODSMD_ARTICLE03: Sonderberichte auf dem Internationalen Gartenbaukongrest
+Found
+MODSMD_ARTICLE04: Gebrauch der Muttersprache zieht Mißhandlung! nach sich!
+Found
+MODSMD_ARTICLE05: Slowakensührer Pater Hlinka ernstlich erkrankt.
+Found
+MODSMD_ARTICLE06: Urlaubsantritt des französischen Gesandten in Prag.
+Found
+MODSMD_ARTICLE07: Prag „bedauert" wieder einmal.
+Found
+MODSMD_ARTICLE08: Der Besuch der französischen Zerstörer in Gisingen beendet»
+Found
+MODSMD_ARTICLE09: Das Staatsbegräbnis der ungarischen Journalisten.
+Found
+MODSMD_ARTICLE10: Der Besuch des Kroateuführers Dr. Maischet in Belgrad.
+Found
+MODSMD_ARTICLE11: Fraucos Antwort an London.
+Found
+MODSMD_ARTICLE12: Neue Unruhewelle tu Palästina.
+Found
+MODSMD_ARTICLE13: Zwischenfälle in Schanghai.
+Found
+MODSMD_ARTICLE14: Die ersten Schangfeng-Besprechungen.
+Found
+MODSMD_ARTICLE15: Der amerikanische Außenminister zum Condor-Flug.
+Found
+MODSMD_ARTICLE16: Amerikanisch-australischer Handelsvertrag.
+Found
+MODSMD_ARTICLE17: Gibt Mexiko EutschädigMg für holländische Anteile?
+Found
+MODSMD_ARTICLE18: Streikunrulicn in Britisch Guayana.
+Found

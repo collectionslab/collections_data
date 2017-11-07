@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Einweihung des elektrischen Betriebes auf der Höllentalbahn.
+Found
+MODSMD_ARTICLE02: Schloßkonzert der Deutsch-Bulgarischen Gesellschaft.
+Found
+MODSMD_ARTICLE03: Jagdausflug des polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE04: Austenminister Beck reist nach London.
+Found
+MODSMD_ARTICLE05: Kundgebung polnischer Studenten gegen die Juden.
+Found
+MODSMD_ARTICLE06: Amtsübernahme der neuen österreichischen Minister.
+Found
+MODSMD_ARTICLE07: Stojadinowitsch wieder in Belgrad.
+Found
+MODSMD_ARTICLE08: Pariser Automovilfabrik besetzt.
+Found
+MODSMD_ARTICLE09: Anhaltende Preissteigerung in Frankreich.
+Found
+MODSMD_ARTICLE10: Das italienisch-französische Handelsabkommen verläjngiert.
+Found
+MODSMD_ARTICLE11: Italienischer Protestschritt wegen Chambery?
+Found
+MODSMD_ARTICLE12: Wieder spanisches Gold nach Frankreich verschoben.
+Found
+MODSMD_ARTICLE13: Das Uniform-Verbot vom Kabinett gebilligt.
+Found
+MODSMD_ARTICLE14: Die Kriegsgedenkfeiern in Rom.
+Found
+MODSMD_ARTICLE15: Ter ungarisch-italienische Besuchswechsel.
+Found
+MODSMD_ARTICLE16: Marxistische Bemühung um eine Republik Katalonien.
+Found
+MODSMD_ARTICLE17: Wasserversorgung Ankaras sichergestellt.
+Found
+MODSMD_ARTICLE18: Aufsehenerregende Denkschrift der japanischen Armee.
+Found
+MODSMD_ARTICLE19: Erklärung zum Kilung-Zwischenfall.
+Found

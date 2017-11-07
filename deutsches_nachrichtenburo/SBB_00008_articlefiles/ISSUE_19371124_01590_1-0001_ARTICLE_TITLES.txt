@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Zuchthaus für jüdischen Sittlichkeitsverbrecher.
+Found
+MODSMD_ARTICLE02: Ausdehnung der Studentenunruhen in Wien.
+Found
+MODSMD_ARTICLE03: Steigende Rüstungsausgaben in Oesterreich.
+Found
+MODSMD_ARTICLE04: Belgische Regierungskrise dauert an.
+Found
+MODSMD_ARTICLE05: Delbos vor dem Auswärtigen Ausschuß des Senats.
+Found
+MODSMD_ARTICLE06: Frankreichs Innenministerium über die Wasfenfunde.
+Found
+MODSMD_ARTICLE07: Thorez bei Negrin. ,
+Found
+MODSMD_ARTICLE08: Frankreich als Basis sowjetspanischer Luftangriffe.
+Found
+MODSMD_ARTICLE09: Chantemps und Delbos nach London eingeladen.
+Found
+MODSMD_ARTICLE10: Duff Cooper und Grandi: „Kein Grund zu Mißtrauen".
+Found
+MODSMD_ARTICLE11: Große Unterhausmehrheit für das Kohlengesetz.
+Found
+MODSMD_ARTICLE12: Britischer Geschäftsträger in Barcelona jetzt Gesandter.
+Found
+MODSMD_ARTICLE13: Tekle Hawariate muß Kenia verlassen.
+Found
+MODSMD_ARTICLE14: Italienisch-österreichische Handelsvereinbarungen»
+Found
+MODSMD_ARTICLE15: Wechsel in der Leitung der Nationalzaranistischen Partei.
+Found
+MODSMD_ARTICLE16: Hinter verschlossenen Türen als „Spione" verurteilt.
+Found
+MODSMD_ARTICLE17: Englische Besorgnisse über die Zustände in Indien.
+Found
+MODSMD_ARTICLE18: Indiens Regierung plant umfassende Luftschutzmaßnahmen.
+Found
+MODSMD_ARTICLE19: Keine Besetzung der Fremdenkonzessionen in Schanghai.
+Found

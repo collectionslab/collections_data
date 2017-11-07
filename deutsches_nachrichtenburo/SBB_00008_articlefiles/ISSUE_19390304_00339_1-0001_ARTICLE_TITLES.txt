@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ernennung in der Reichsstelle für Raumordnung.
+Found
+MODSMD_ARTICLE02: Erholungsaufenthalt Görings in Italien.
+Found
+MODSMD_ARTICLE03: Abreise des Fürsten von Liechtenstein.
+Found
+MODSMD_ARTICLE04: Minister Köhras auf der Durchreise in Berlin.
+Found
+MODSMD_ARTICLE05: Prentiß B. Gilbert in Genf beigesetzt.
+Found
+MODSMD_ARTICLE06: Die deutsche Volksgruppe trug Zwetkowitsch ihre Wünsche vor
+Found
+MODSMD_ARTICLE07: Veröffentlichung geheimer Dokumente in London.
+Found
+MODSMD_ARTICLE08: Lord Allen of Hartwod in der Schweiz gestorben.
+Found
+MODSMD_ARTICLE09: Vor einer völligen Judenpleite in London?
+Found
+MODSMD_ARTICLE10: Der neue Botschafter Großbritanniens in Burgos.
+Found
+MODSMD_ARTICLE11: Ein Abgesandter des Quai d'Orsah in Burgos.
+Found
+MODSMD_ARTICLE12: Geraubte Millionenwerte in Frankreich sichergestellt.
+Found
+MODSMD_ARTICLE13: Riesige Summen für die sowjetspanischen Flüchtlinge.
+Found
+MODSMD_ARTICLE14: Besprechung Daladiers mit dem Generalresidenten.
+Found
+MODSMD_ARTICLE15: „Liberte" erscheint wieder.
+Found
+MODSMD_ARTICLE16: Schwierige belgische Regierungsbildung.
+Found
+MODSMD_ARTICLE17: Gandhi im Hungerstreik.
+Found
+MODSMD_ARTICLE18: Noosevelts Manöverreife beendet.
+Found

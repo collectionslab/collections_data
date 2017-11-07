@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Landesminister Reinthaller verabschiedet.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels spricht zum Jahresabschluß im Rundfunk.
+Found
+MODSMD_ARTICLE03: Ein Ehrenzeichen der Infanterie.
+Found
+MODSMD_ARTICLE04: Auch die Panzerwaffe erhält ein Ehrenzeichen.
+Found
+MODSMD_ARTICLE05: Deutscher Besuch bei amerikanischem Admiral.
+Found
+MODSMD_ARTICLE06: Deutschlands Erfolge Zur See grenzen ans Wunderbare.
+Found
+MODSMD_ARTICLE07: Berliner Brief eines Neutralen.
+Found
+MODSMD_ARTICLE08: Das Kriegsziel endgültig offenbart.
+Found
+MODSMD_ARTICLE09: England weist Moskaus Protest zurück.
+Found
+MODSMD_ARTICLE10: Das Erdbeben in Anatolien.
+Found
+MODSMD_ARTICLE11: 2g 999 Todesopfer des Erdbebens.
+Found
+MODSMD_ARTICLE12: Erbitterte Kämpfe auf der Karelischen Landenge.
+Found
+MODSMD_ARTICLE13: Neue Luftgeschwader in USA.
+Found
+MODSMD_ARTICLE14: Ein englisches Schlachtschiff torpediert.
+Found
+MODSMD_ARTICLE15: Die „Athenia"-Lüge endgültig; Zerplatzt.
+Found
+MODSMD_ARTICLE16: „China muß mit Japan Oftasien sichern".
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm des Führes an General Franca.
+Found
+MODSMD_ARTICLE02: Die Durchführungsverordnung zum Amnestiegesetz.
+Found
+MODSMD_ARTICLE03: Die Feiern der Deutschen im Ausland.
+Found
+MODSMD_ARTICLE04: Die deutschen Pressevertreter in Rom.
+Found
+MODSMD_ARTICLE05: „Popolv d'Jtalia" würdigt das Werk des Führers.
+Found
+MODSMD_ARTICLE06: Stärkste Beachtung der Reife des Führers in London.
+Found
+MODSMD_ARTICLE07: „Faire Volksabstimmung für die Sudetendeutschen!"
+Found
+MODSMD_ARTICLE08: Die Richter Tuchatschewskis an der Reihe!
+Found
+MODSMD_ARTICLE09: Die Pariser Maifeier ein „melancholischer Umzug".
+Found
+MODSMD_ARTICLE10: Kominternzentrale Prag an der Arbeit.
+Found
+MODSMD_ARTICLE11: Bluttat eines Juden in Polen.
+Found
+MODSMD_ARTICLE12: Der nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE13: Die englisch-amerikanischen Flvttenbesprechungen.
+Found
+MODSMD_ARTICLE14: Fürst Konoe über Japans Chinapolitik.
+Found

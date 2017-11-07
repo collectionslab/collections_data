@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Telegrammwechsel zwischen Bottai und Dr. Wacker.
+Found
+MODSMD_ARTICLE02: Eröffnung der Reichsfinanzschule Berlm.
+Found
+MODSMD_ARTICLE03: Ruft über nationalpolitische Erziehung.
+Found
+MODSMD_ARTICLE04: Die deutschen Frontkämpfer in Krakau.
+Found
+MODSMD_ARTICLE05: Juden beherrschen den Handel Polens.
+Found
+MODSMD_ARTICLE06: Neuwahlen in Jugoslawien erst im Frühjahr 1939.
+Found
+MODSMD_ARTICLE07: Steigende Arbeitslosenzahl in England.
+Found
+MODSMD_ARTICLE08: Die römische Kresse zur Mussolini-Rede.
+Found
+MODSMD_ARTICLE09: Chamberlains „Worte der Klugheit".
+Found
+MODSMD_ARTICLE10: Türkisch-französischer Freundschaftsvertrag paraphiert. i
+Found
+MODSMD_ARTICLE11: Frankreichs Ansicht zur Besetzung der Paracel-Jnscln.
+Found
+MODSMD_ARTICLE12: Insgesamt 24 Tote und Verwundete in Palästina.
+Found

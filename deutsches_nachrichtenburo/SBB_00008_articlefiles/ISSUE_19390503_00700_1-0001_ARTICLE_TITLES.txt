@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Mehrtägiger Besuch Ribbentrops in Oberitalien.
+Found
+MODSMD_ARTICLE02: Deutsche Zustimmung zur Aenderung des Alandabkommens..
+Found
+MODSMD_ARTICLE03: Vereinheitlichung der technischen Nachrichtenmittel.
+Found
+MODSMD_ARTICLE04: Glückwunsch des Neichsverkehrsministers.
+Found
+MODSMD_ARTICLE05: Deutsche Buchausstellung in Rom eröffnet.
+Found
+MODSMD_ARTICLE06: Italien will seine Handelsverträge auf Albanien ausdehnen.
+Found
+MODSMD_ARTICLE07: Der ungarische Wirtschaftsminister beim Duce.
+Found
+MODSMD_ARTICLE08: Außenminister Gafencu in Guidonia.
+Found
+MODSMD_ARTICLE09: Graf Teleki über seine Berliner Besprechungen.
+Found
+MODSMD_ARTICLE10: Das ungarische Judengesetz verabschiedet.
+Found
+MODSMD_ARTICLE11: 116 Opfer der britischen Gewalt im April.
+Found
+MODSMD_ARTICLE12: Aufruf gegen britische Tyrannei in Palästina.
+Found

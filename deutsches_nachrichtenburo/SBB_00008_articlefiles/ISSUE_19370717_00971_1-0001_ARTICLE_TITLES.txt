@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Tag der Deutschen Kunst. Die Teilnahme der ausländischen Diplomaten.
+Found
+MODSMD_ARTICLE02: Die deutschen Ehrengäste.
+Found
+MODSMD_ARTICLE03: Sondertagungen der Reichskammier der Bildenden Künste.
+Found
+MODSMD_ARTICLE04: Die Gebrauchsgraphiker und Entwerfer.
+Found
+MODSMD_ARTICLE06: Die Arbeitslosenversicherung für Polnisch-Oberschlesien.
+Found
+MODSMD_ARTICLE07: Achtung! Frankreichreisende!
+Found
+MODSMD_ARTICLE08: Eröffnungsfeier der Austanschlager 1937 des NSLB.
+Found
+MODSMD_ARTICLE09: Der Deutsche Gruß den Eisenbahnern in Danzig untersagt.
+Found
+MODSMD_ARTICLE10: Die deutsch-italienischen Jndustriellenverhandlungen.
+Found
+MODSMD_ARTICLE11: Senator Conti berichtet über den Kongreß der IHK.
+Found
+MODSMD_ARTICLE12: Pamphlet Rabbis Wise über die Lage der Juden in Polen.
+Found
+MODSMD_ARTICLE13: Um die Bildung einer neuen Regierung in Prag.
+Found
+MODSMD_ARTICLE14: Das Interesse in Budapest für die Erklärung Rudolf Heß'.
+Found
+MODSMD_ARTICLE15: Wohltätigkeitsveranstaltung in Salamanca.
+Found
+MODSMD_ARTICLE16: Spaniens Bolschewisten lehnen Englands Vorschläge ab.
+Found
+MODSMD_ARTICLE17: Japanische Ministerkonferenz.
+Found

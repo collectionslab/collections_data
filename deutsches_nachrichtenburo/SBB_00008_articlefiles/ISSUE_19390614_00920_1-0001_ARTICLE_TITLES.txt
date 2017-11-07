@@ -1,0 +1,40 @@
+MODSMD_ARTICLE02: Endgültiger Entscheid des Führers.
+Found
+MODSMD_ARTICLE03: Geschenk von Dr. Goebbels an den Duce.
+Found
+MODSMD_ARTICLE04: General Moizo wieder in Berlin.
+Found
+MODSMD_ARTICLE05: Englische Landwirte danken dem Reichsbauernführer.
+Found
+MODSMD_ARTICLE06: Neuer Höchststand des Beschäftigungsgrades.
+Found
+MODSMD_ARTICLE07: Reichsminister Dr. Frank beim König von Dänemark.
+Found
+MODSMD_ARTICLE08: Deutsche Studienreise durch Schweden.
+Found
+MODSMD_ARTICLE10: Spaniens Innenminister aus Rom abgereist.
+Found
+MODSMD_ARTICLE11: Francos Besuch eine Warnung für die Intriganten!
+Found
+MODSMD_ARTICLE12: Belgrad zur Garantieablehnung der baltischen Staaten.
+Found
+MODSMD_ARTICLE13: Einmischung des „Temps" in belgische Angelegenheiten.
+Found
+MODSMD_ARTICLE14: Frankreichs verfehlte Spanienpolitik rächt sich.
+Found
+MODSMD_ARTICLE15: Erklärung der Entente über Tanzig?
+Found
+MODSMD_ARTICLE16: „Daily Mail" über die geschlossene Front aller Deutschen.
+Found
+MODSMD_ARTICLE17: Tolle Zumutung an Rumänien.
+Found
+MODSMD_ARTICLE18: Koc in London.
+Found
+MODSMD_ARTICLE19: Gafencu über seine Verhandlungen in Ankara.
+Found
+MODSMD_ARTICLE20: Roosevelt will im Herbst London besuchen.
+Found
+MODSMD_ARTICLE21: Tolle Zustände in New Jork.
+Found
+MODSMD_ARTICLE22: Die Buren kennen die Engländer.
+Found

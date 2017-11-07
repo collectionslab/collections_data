@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Das Präsidium der IHK vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: v. Salpms Senatspräsident beim Oberverwaltungsgericht.
+Found
+MODSMD_ARTICLE03: Fast zwei Millionen RM für die Universität Güttingen.
+Found
+MODSMD_ARTICLE04: Dr. Frank auf dem Gautag Württemberg-HoheuZolleru.
+Found
+MODSMD_ARTICLE06: Eröffnung des 24. Deutschen Bachfestes in Magdeburg.
+Found
+MODSMD_ARTICLE07: Tagung des Oesterreichisch-Deutschen Volksbunds.
+Found
+MODSMD_ARTICLE08: Die italienische Presse zur Würzburger Führerrede.
+Found
+MODSMD_ARTICLE09: Die Nationalen 4 Kilometer vor Valmaseda.
+Found
+MODSMD_ARTICLE10: Grauenvoller Frauenmord in Sowjetspanien.
+Found
+MODSMD_ARTICLE11: Deutscher Erfolg bei dem Internationalen Plakatwettbewerb.
+Found
+MODSMD_ARTICLE12: Finanzminister Bonnet bei Chautemps.
+Found
+MODSMD_ARTICLE13: Schatzkanzler Simon über den Währungsausgleichsfonds.
+Found
+MODSMD_ARTICLE14: Japan fordert Regelung des Rohstoffproblems.
+Found

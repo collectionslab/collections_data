@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Deutscher Blitzflug nach Skandinavien.
+Found
+MODSMD_ARTICLE02: Das Geheimnis um den Tod des Sudetendeutschen Knoll»
+Found
+MODSMD_ARTICLE03: Tschechische Messerstecher in Uniform.
+Found
+MODSMD_ARTICLE04: Das düsterste Kapitel in der Geschichte Prags.
+Found
+MODSMD_ARTICLE05: Doriot: Es muß eine neue Tschecho-Slowakei gebaut werden.
+Found
+MODSMD_ARTICLE06: Italienische Deutlichkeiten an Pariser Adressen.
+Found
+MODSMD_ARTICLE07: Rote Front am Ebro durchbrochen.
+Found
+MODSMD_ARTICLE08: Der Bombenanschlag im Hafen von Frederikshavn.
+Found
+MODSMD_ARTICLE09: Umwandlung des Sandschak in die Republik Hatay.
+Found
+MODSMD_ARTICLE10: Der Kleinkrieg in Palästina.
+Found
+MODSMD_ARTICLE11: Japan rechnet mit weiterem chinesischen Widerstand.
+Found
+MODSMD_ARTICLE12: Japan wirtschaftlich stark genug für einen langen Krieg.
+Found
+MODSMD_ARTICLE13: Die australischen Bergarbeiter streiken.
+Found

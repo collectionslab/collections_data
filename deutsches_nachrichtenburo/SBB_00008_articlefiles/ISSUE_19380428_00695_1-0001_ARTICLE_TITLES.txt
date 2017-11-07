@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Staatsbesuch des Führers in Italien.
+Found
+MODSMD_ARTICLE02: König Gustav von Schweden in Baden-Baden.
+Found
+MODSMD_ARTICLE03: Reichsjustizminister Dr. Gürtner in Wien.
+Found
+MODSMD_ARTICLE04: Sofortprogramm für Steyr.
+Found
+MODSMD_ARTICLE05: Deutscher Schriftleiter überreicht Mussolini sein Werk.
+Found
+MODSMD_ARTICLE06: Italienischer Berwundetentransport aus Spanien.
+Found
+MODSMD_ARTICLE07: Im Zeichen der engen Verbundenheit mit der Sowjetunion.
+Found
+MODSMD_ARTICLE08: Polen will keine roten Mai-Krawalle.
+Found
+MODSMD_ARTICLE09: Warnung vor bolschewistischen „Frühlingsmanövern".
+Found
+MODSMD_ARTICLE10: Der englisch-polnische Flottenvertrag läuft bis 1942.
+Found
+MODSMD_ARTICLE11: Jüdische Verbrecher in Bukarest verhastet.
+Found
+MODSMD_ARTICLE12: Englische Gewerkschaftssekretäre machen „Spanienpolitik".
+Found
+MODSMD_ARTICLE13: Die franZösisch-englischen Besprechungen eröffnet.
+Found
+MODSMD_ARTICLE14: „Paris Midi" über die Politik Chamberlains.
+Found
+MODSMD_ARTICLE15: Die Ausweisung der Weißrussen aus Krankreich.
+Found
+MODSMD_ARTICLE16: Das Echo der Ankunft der Teilungskommission in Palästina.
+Found
+MODSMD_ARTICLE17: Botschafter Ott.überreicht sein Beglaubigungsschreiben.
+Found

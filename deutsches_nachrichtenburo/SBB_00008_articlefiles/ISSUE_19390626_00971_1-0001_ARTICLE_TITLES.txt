@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Abschiedsempfang des argentinischen Botschafters.
+Found
+MODSMD_ARTICLE02: Dr. Hofmann und Dr. Schroeder Ministerialdirigenten.
+Found
+MODSMD_ARTICLE03: Steigerung des Oelfruchtanbaues in Deutschland.
+Found
+MODSMD_ARTICLE04: Hühnlein zum Tode des Rennfahrer Seaman.
+Found
+MODSMD_ARTICLE05: Die Olympischen Winterspiele 1940 in Garmisch.
+Found
+MODSMD_ARTICLE06: Umfassende Fürsorge für heimgekehrtes Land.
+Found
+MODSMD_ARTICLE07: General Halder in Reval.
+Found
+MODSMD_ARTICLE08: Chamberlain zu den Verhandlungen mit den Sowjets.
+Found
+MODSMD_ARTICLE09: Peinliche Anfragen im Unterhans.
+Found
+MODSMD_ARTICLE10: Die Außenmongolei von Truppeln der Roten Armee befetzt.
+Found
+MODSMD_ARTICLE11: Der englische Terror gegen die Araber in Palästina.
+Found
+MODSMD_ARTICLE12: Wieder britische Terrorurteile gegen Araber.
+Found
+MODSMD_ARTICLE13: Argentinische Schikane gegen Italien.
+Found

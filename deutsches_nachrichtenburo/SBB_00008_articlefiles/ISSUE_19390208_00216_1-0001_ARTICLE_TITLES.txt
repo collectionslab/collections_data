@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Röntgenreihenuntersuchungen bei Jugendlichen.
+Found
+MODSMD_ARTICLE02: Die deutsch-ungarischen Wirtschaftsbeziehungen.
+Found
+MODSMD_ARTICLE03: Stabschef Lutze in Messina.
+Found
+MODSMD_ARTICLE04: Besuch Karmasius in Chust.
+Found
+MODSMD_ARTICLE05: Wieder ein Benesckfreund ausgebootet.
+Found
+MODSMD_ARTICLE06: Auch die polnischen MarMen werden Judengegner.
+Found
+MODSMD_ARTICLE07: Judeuprügeleien im Wilnaer Ghetto.
+Found
+MODSMD_ARTICLE08: Die erste Sitzung der Regierung Zwetkowitsch.
+Found
+MODSMD_ARTICLE09: Halbamtliche estnische Luftverkehrsgesellschaft.
+Found
+MODSMD_ARTICLE10: Jüdischer Schmierfink verurteilt.
+Found
+MODSMD_ARTICLE11: Eine Erklärung der rumänischen'Regierung.
+Not Found
+MODSMD_ARTICLE12: Wieder ein Sowjetbonze in Sicherheit.
+Found
+MODSMD_ARTICLE13: Bereits 119 999 katalanische Flüchtlinge in Frankreich.
+Found
+MODSMD_ARTICLE14: Kein rotspanisches „Regieren" vom französischen Boden aus.
+Found
+MODSMD_ARTICLE15: Kapitalistische Ausbeutungsmethoden auf Trinidad.
+Found
+MODSMD_ARTICLE16: Die Naschaschibi-Delegation in London.
+Found
+MODSMD_ARTICLE17: Die Bereinigten Staaten erkennen Francs noch nicht an.
+Found
+MODSMD_ARTICLE18: Roosevelts Wehrsonderprogramm vor dem Militärausschuß.
+Found
+MODSMD_ARTICLE19: Roosevelt protestiert.
+Found

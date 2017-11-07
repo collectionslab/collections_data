@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer erneut im Bayreuther Festspielhaus.
+Found
+MODSMD_ARTICLE02: Der Führer an den Vorstand der Deutschen Afrika-Linien.
+Found
+MODSMD_ARTICLE03: Ein Erlaß des Reichsjustizministers.
+Found
+MODSMD_ARTICLE04: Zu Regierungsräten ernannt.
+Found
+MODSMD_ARTICLE05: Auch weiterhin Verbindung mit den Kanarischen Inseln.
+Found
+MODSMD_ARTICLE06: Schuschnigg Leiter des Oesterreichischen Jungvolks.
+Found
+MODSMD_ARTICLE07: Rücktritt der rumänischen Regierung.
+Found
+MODSMD_ARTICLE08: Rpdz-Smigly in Wien.
+Found
+MODSMD_ARTICLE09: Sowjetrußland baut jährlich 5999 Flugzeuge.
+Found
+MODSMD_ARTICLE10: Die schlechte Arbeit der Sowjetindustrie.
+Found
+MODSMD_ARTICLE11: Nun auch Frankreichs Lehrer in Sowjetrußland.
+Found
+MODSMD_ARTICLE12: San Sebastian wartet auf Munition.
+Found
+MODSMD_ARTICLE13: Starker Ausbau der japanischen Handelsflotte.
+Found
+MODSMD_ARTICLE14: Tie japanischen Flottenmanöver.
+Found
+MODSMD_ARTICLE15: Noch keine Klärung des Tschengtu-Zwischenfalls.
+Found
+MODSMD_ARTICLE17: Karl Rickert tödlich verunglückt.
+Found
+MODSMD_ARTICLE18: Jüdische Devisenschiebungen aufgedeckt.
+Found
+MODSMD_ARTICLE19: Die Kennziffer der Großhandelspreise vom 26. August.
+Found

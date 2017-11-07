@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Günstiger Eindruck über die Autwortnoten.
+Found
+MODSMD_ARTICLE02: „Giornale d'Jtalia" zur italienischen Antwort.
+Found
+MODSMD_ARTICLE03: Älr Eric Drummond beim englischen König.
+Found
+MODSMD_ARTICLE04: Irland-Fragen vor dem Unterhaus.
+Found
+MODSMD_ARTICLE05: Eine Stimme der Vernunft zum Kolonialproblem.
+Found
+MODSMD_ARTICLE06: Blutiger Hohn!
+Found
+MODSMD_ARTICLE07: Besuch des schwedischen Außenministers in London.
+Found
+MODSMD_ARTICLE08: Pariser Kabinettsrat berät Maßnahmen gegen Eingeborene.
+Found
+MODSMD_ARTICLE09: Starke Erregung über den Tscheka Mord in Paris.
+Found
+MODSMD_ARTICLE10: Dänemark will Bolschewistenunterstütznng stoppen.
+Found
+MODSMD_ARTICLE11: Polnische Arbeiter fordern Kampf gegen den Bolschewismus
+Found
+MODSMD_ARTICLE12: Wiedereröffnung der Universität Wilna.
+Found
+MODSMD_ARTICLE13: Polnisch-litauischer Grenzzwischenfall beigelegt.
+Found
+MODSMD_ARTICLE14: Bericht des Mandatsausschusses angenommen.
+Found
+MODSMD_ARTICLE15: Goldzähne ermordeter Spanier als Handelsartikel.
+Found
+MODSMD_ARTICLE16: Der Seemannsstreik in USA gescheitert.
+Found
+MODSMD_ARTICLE17: Eine halbe Million Obdachlose in Ohio.
+Found

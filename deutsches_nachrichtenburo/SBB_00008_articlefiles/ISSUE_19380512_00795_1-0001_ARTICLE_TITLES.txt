@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ein Geschenk des Duce an Generalfeldmarschall Görina.
+Found
+MODSMD_ARTICLE02: Heß: Jugendherbergen sind Burgen der Lebensfreude!
+Found
+MODSMD_ARTICLE03: Goebbels, Himmler und Lutze an Daluege.
+Found
+MODSMD_ARTICLE04: Bulgarische Straßenbau-Ingenieure in Berlin.
+Found
+MODSMD_ARTICLE05: Wasser von allen Schlachtfeldern^
+Found
+MODSMD_ARTICLE07: Törichte französische Pressemanöver.
+Found
+MODSMD_ARTICLE08: Eine Erklärung des britischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE09: Großbritanniens Luftaufrüstung wird weiter verstärkt.
+Found
+MODSMD_ARTICLE10: London mahnt in Mexiko Schadenersatz-Rate an.
+Found
+MODSMD_ARTICLE11: Verworrene Lage in Brüssel.
+Found
+MODSMD_ARTICLE12: Das Martyrium der baskischen Kinder.
+Found
+MODSMD_ARTICLE13: Bluturteile sollen das rote System retten.
+Found
+MODSMD_ARTICLE14: Frankreichs Kriegsschiffbau.
+Found
+MODSMD_ARTICLE15: „Jntransigeant" verurteilt die Genfer Albernheiten.
+Found
+MODSMD_ARTICLE16: Die Verhaftungen in Tunis gehen weiter.
+Found
+MODSMD_ARTICLE17: Ausbau der Marineflugstationen im Pazifik.
+Found
+MODSMD_ARTICLE18: 11 Tote des Umsturzversuches in Rio de Janeiro.
+Found

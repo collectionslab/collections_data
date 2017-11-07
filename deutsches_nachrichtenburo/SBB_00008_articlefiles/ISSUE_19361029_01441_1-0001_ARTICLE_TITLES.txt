@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Aufgabe des Staatssekretärs Dr. Lammers im Vierjahresplan.
+Not Found
+MODSMD_ARTICLE02: Feierliche Eröffnung des Reichskriegsgerichts.
+Found
+MODSMD_ARTICLE03: Spion zu lebenslänglichem Zuchthaus verurteilt.
+Found
+MODSMD_ARTICLE04: Die Mittwoch-Sitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE05: Die Klage gegen Blum und Vincent Anriol abgewiesen.
+Found
+MODSMD_ARTICLE06: Gesamtfehlbetrag in Frankreich 27 Milliarden Franken.
+Found
+MODSMD_ARTICLE07: Erfolg der nationalen Truppen vor Malaga.
+Found
+MODSMD_ARTICLE08: Sevilla meldet: Madrid von der Außenwelt abgeschlossen.
+Found
+MODSMD_ARTICLE09: Madrider Kommunisten morden ihre eigenen Leute.
+Found
+MODSMD_ARTICLE10: Appell Varelas an die Madrider Bevölkerung.
+Found

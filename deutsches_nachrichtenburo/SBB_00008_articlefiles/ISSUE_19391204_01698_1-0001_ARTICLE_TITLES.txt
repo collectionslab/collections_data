@@ -1,0 +1,50 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht General Franca.
+Found
+MODSMD_ARTICLE02: Erlogene englische Meldung über Helgoland.
+Found
+MODSMD_ARTICLE03: Die Absperrmaßnahmen gegen England wirksam.
+Found
+MODSMD_ARTICLE04: Tschechische Abfuhr für die „abgetanen Größen".
+Found
+MODSMD_ARTICLE05: Heftige Kämpfe in Finnland im Gange.
+Found
+MODSMD_ARTICLE06: Finnland will mit Rußland verhandeln.
+Found
+MODSMD_ARTICLE07: Der schwedische Gesandte bei Molotow.
+Found
+MODSMD_ARTICLE08: Die Grenzen zwischen Finnland und Rußland.
+Found
+MODSMD_ARTICLE09: Geschenß Rlbbentrops an die baltendeutsche Jugend.
+Found
+MODSMD_ARTICLE10: Zusammenkunft der Außenminister der baltischen Staaten.
+Found
+MODSMD_ARTICLE11: Englands Krieg trifft die Neutralen.
+Found
+MODSMD_ARTICLE12: Die Verluste in Finnland.
+Found
+MODSMD_ARTICLE13: Abordnung der NSDAP, bei Franco.
+Found
+MODSMD_ARTICLE14: Italien verstärkt seine U-Boot-Waffe.
+Found
+MODSMD_ARTICLE15: Nordfrankreich mußte wieder in die Luftschutzkeller.
+Found
+MODSMD_ARTICLE16: Der Exportverlnst Englands.
+Found
+MODSMD_ARTICLE17: Südafrika schickt keine Truppen.
+Found
+MODSMD_ARTICLE18: Das englische Volk darf die Wahrheit nicht erfahren.
+Found
+MODSMD_ARTICLE19: Der Bericht des Oberkommandos der Wehrmacht.
+Found
+MODSMD_ARTICLE20: „Von Rückgabe der Kolonien darf niemals die Rede sein".
+Found
+MODSMD_ARTICLE21: Die Blockadeverschärfung trifft die Neutralen.
+Found
+MODSMD_ARTICLE22: Eine interessante Umfrage in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE23: Jüdische „Treuhänder".
+Found
+MODSMD_ARTICLE24: Indische Arbeiter streiken.
+Found
+MODSMD_ARTICLE25: Die mexikanische Oellandenteignung endgültig in Kraft.
+Found

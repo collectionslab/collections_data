@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Das dänische Kronprinzenpaar in Berlin.
+Found
+MODSMD_ARTICLE02: Nossaint als Handlanger jüdischer Emigranten.
+Found
+MODSMD_ARTICLE03: Der Reichsfinanzminister in Kopenhagen.
+Found
+MODSMD_ARTICLE04: Das Echo des Wahlausganges in der Brüsseler Presse.
+Found
+MODSMD_ARTICLE05: Die Verjudung des österreichischen Wirtschaftslebens.
+Found
+MODSMD_ARTICLE06: Arbeitswillige von Streikenden überfallen.
+Found
+MODSMD_ARTICLE07: Pfeiffer fordert Bruch mit den Kommunisten.
+Found
+MODSMD_ARTICLE08: In Frankreich „notgelandete" Flieger freigelassen.
+Found
+MODSMD_ARTICLE09: Beginn der Kapitnlationskonferenz in Montreux.
+Found
+MODSMD_ARTICLE10: Anerkennung für Baldwin.
+Found
+MODSMD_ARTICLE11: Wieder ein Sabotageakt auf der englischen Südbahn.
+Found
+MODSMD_ARTICLE12: Kommunistische Wühlereien in Palästina.
+Found
+MODSMD_ARTICLE13: Der Sudan wird wieder mit ägyptischen Truppen belegt.
+Found

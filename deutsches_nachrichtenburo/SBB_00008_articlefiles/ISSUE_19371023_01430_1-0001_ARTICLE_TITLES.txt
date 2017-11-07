@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Der sinnische Außenminister in Berlin.
+Found
+MODSMD_ARTICLE02: Oberlindober eröffnet Ausstellung „Die lebende Front".
+Found
+MODSMD_ARTICLE03: HJ.-Führer lernen das neue Spanien kennen.
+Found
+MODSMD_ARTICLE04: Botschafter von Ribbentrop bei Mussolini.
+Found
+MODSMD_ARTICLE05: Reichsminister Dr. Frank auf der Rückreise aus Paris.
+Found
+MODSMD_ARTICLE06: Angst vor den Wahlen?
+Found
+MODSMD_ARTICLE07: „Es ist nicht unsere Schuld."
+Found
+MODSMD_ARTICLE08: Winterhilfswerk nach deutschem Vorbild.
+Found
+MODSMD_ARTICLE09: Zusammenstöße an polnischen Hochschulen.
+Found
+MODSMD_ARTICLE10: Bolschewistische Pläue für Polen.
+Found
+MODSMD_ARTICLE11: Kein neues Kabinett Bech in Luxemburg.
+Found
+MODSMD_ARTICLE12: Zugespitzte Lage in Brüssel.
+Found
+MODSMD_ARTICLE13: Maisky sabotiert weiter.
+Found
+MODSMD_ARTICLE14: Sowjetspanisches Torpedoboot nach Frankreich geflüchtet.
+Found
+MODSMD_ARTICLE15: Der nationale Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE16: Em neuer schwerer Schlag für den gesamten Marxismus.
+Found
+MODSMD_ARTICLE17: Oesterreichs Presse zu dem Fall von Gijon.
+Found
+MODSMD_ARTICLE18: Japans neuer Justizminister.
+Found
+MODSMD_ARTICLE19: Wahlversammlungen in Beirut verboten.
+Found
+MODSMD_ARTICLE20: Rassenkennzeichnung auch den Zionisten unangenehm.
+Found
+MODSMD_ARTICLE21: Streikuuruhen in Mexiko.
+Found

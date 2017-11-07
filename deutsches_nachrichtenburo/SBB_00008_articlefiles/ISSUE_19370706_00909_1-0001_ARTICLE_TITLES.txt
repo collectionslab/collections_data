@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Rosemeyer siegte im Rennen um den Vanderbilt-Pokal.
+Found
+MODSMD_ARTICLE02: Korpsführer Hühnlein an Rosemeyer und die Anto-Umon.
+Found
+MODSMD_ARTICLE03: Deutsch-türkische Verhandlungen in Berlin.
+Found
+MODSMD_ARTICLE04: Der Deutsche Historikertag in Erfurt.
+Found
+MODSMD_ARTICLE05: Die italienische Presse würdigt das sozialpolitische Abkommen.
+Found
+MODSMD_ARTICLE06: Empörung über das Attentat auf Salazar.
+Found
+MODSMD_ARTICLE07: Der dänische Außenminister bei Delbos.
+Found
+MODSMD_ARTICLE08: Abschluß der Internationalen Eisenbahnkonferenz.
+Found
+MODSMD_ARTICLE09: Preisüberwachungsausschüsse in Frankreich gebildet.
+Found
+MODSMD_ARTICLE10: Der Streik in der Lyoner Seidenindustrie.
+Found
+MODSMD_ARTICLE11: Ein „Sympathiestreik" soll helfen.
+Found
+MODSMD_ARTICLE12: General George bleibt im Obersten Kriegsrat.
+Found
+MODSMD_ARTICLE13: Moskau-Jünger im Kanton Genf unerwünscht.
+Found
+MODSMD_ARTICLE14: Sowjetspanisches Bataillon am Somiedopast aufgerieben.
+Found
+MODSMD_ARTICLE15: Das Reichsverwesergesetz vor dem ungarischen Oberhaus.
+Found
+MODSMD_ARTICLE16: Neue sowjetrussische Grenzverletzung in Mandschukuo.
+Found
+MODSMD_ARTICLE17: Oesterreich begnadigt Sozialdemokraten.
+Found
+MODSMD_ARTICLE18: Botschafter Corbin nach London zurückgekehrt.
+Found
+MODSMD_ARTICLE19: Van Zeeland in London.
+Found
+MODSMD_ARTICLE20: Das neueste Wahlergebnis in Irland.
+Found
+MODSMD_ARTICLE21: Regierungserfolg bei den mexikanischen Kammerwahlen.
+Found
+MODSMD_ARTICLE22: Der deutsche Botschafter über Argentinien.
+Found
+MODSMD_ARTICLE23: Die Räumung der Amurinseln noch nicht beendet.
+Found

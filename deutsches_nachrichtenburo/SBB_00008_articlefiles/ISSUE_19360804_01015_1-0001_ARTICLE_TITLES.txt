@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer an den Oberbefehlshaber des Heeres.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: England gibt die Schiffsglocke des früheren Schlachtkreuzers „Hindenburg" zurück.
+Found
+MODSMD_ARTICLE04: Handbuch für das Deutsche Reich 1936.
+Found
+MODSMD_ARTICLE05: Erhöhung der Reichsbiirgschaften für den Kleinwohnungsbau
+Found
+MODSMD_ARTICLE06: Geheimrat Dr. Georg Pfeilschifter 's.
+Found
+MODSMD_ARTICLE07: iDer französische Botschafter in Rom bei Graf Ciano.
+Found
+MODSMD_ARTICLE08: Internationaler Archäologen-Kongreß eröffnet.
+Found
+MODSMD_ARTICLE09: Volksfrontler beschimpfen französische Offiziere.
+Found
+MODSMD_ARTICLE10: Blutige Ausschreitungen ukrainischer Bauern.
+Found
+MODSMD_ARTICLE11: General Queipo de Llano protestiert.
+Found
+MODSMD_ARTICLE12: Mola über die Ziele der spanischen Nationalisten.
+Found
+MODSMD_ARTICLE13: Mastnahmen und Anordnungen der Madrider Regierung.
+Found
+MODSMD_ARTICLE14: Sowjetverfafsung für spanische Städte.
+Found
+MODSMD_ARTICLE15: Unglaubliche Einmischung Moskaus in Spanien.
+Found
+MODSMD_ARTICLE16: Neue Partei im Libanon-Gebiet.
+Found
+MODSMD_ARTICLE17: Die Lage in Palästina.
+Found
+MODSMD_ARTICLE18: General Minami Generalgouvernenr von Korea.
+Found
+MODSMD_ARTICLE19: Kwangsi-Generäle zu Verhandlungen bereit.
+Found

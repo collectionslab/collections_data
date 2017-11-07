@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht Baldur von Schirach.
+Found
+MODSMD_ARTICLE02: Treuebekenntnis der Arbeiter der Zeppelin-Reederei.
+Found
+MODSMD_ARTICLE03: Generalfeldmarschall von Blomberg nach London abgereist
+Found
+MODSMD_ARTICLE04: Reichsminister Dr. Goebbels in Danzig.
+Found
+MODSMD_ARTICLE05: Weitere Beileidskundgebungen des Auslandes.
+Found
+MODSMD_ARTICLE06: Luftschiffsonderkonto des RLM bei der Reichshauptkasse.
+Found
+MODSMD_ARTICLE07: Die Untersuchung des durch Amerika.
+Found
+MODSMD_ARTICLE08: Luftschiffdienst „Graf Zeppelin" eingestellt.
+Found
+MODSMD_ARTICLE09: Deutsch-Polnische Arbeitsgemeinschaft.
+Found
+MODSMD_ARTICLE10: Abschluß der Hafenbautechnischen Tagung.
+Found
+MODSMD_ARTICLE11: Deutsche Schriftstellerin von Mussolini empfangen.
+Found
+MODSMD_ARTICLE12: Auftakt Zum ersten Jahrestag des Imperiums Italien.
+Found
+MODSMD_ARTICLE13: Die italienische Presse über ihren Bruch mit England.
+Found
+MODSMD_ARTICLE14: Der türkische Ministerpräsident in Paris.
+Found
+MODSMD_ARTICLE15: Litwinow-Finkelstein bei Delbos.
+Found
+MODSMD_ARTICLE16: Tuchatschewski plötzlich „erkrankt".
+Found
+MODSMD_ARTICLE17: Generalleutnant Dill verläßt Palästina.
+Found
+MODSMD_ARTICLE18: Ueberlegener deutscher Sieg im Großen Preis von Tripolis.
+Found

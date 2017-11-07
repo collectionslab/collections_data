@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Charakter als Generalmajor verliehen.
+Found
+MODSMD_ARTICLE02: Nachruf für Geheimen Admiralitätsrat Dr. Schramm.
+Found
+MODSMD_ARTICLE03: Freiherr von Fritsch zum Tode Viscount Allenbys.
+Found
+MODSMD_ARTICLE04: Reichsinneuminister stiftet Regatta-Ehrenpreise.
+Found
+MODSMD_ARTICLE05: Besuch leitender griechischer Eisenbahner.
+Found
+MODSMD_ARTICLE06: Deutsch-Polnische Regierungsausschüsse in Hamburg.
+Found
+MODSMD_ARTICLE07: Dr. Todt aus der Arbeitstagung der HI-Führer.
+Found
+MODSMD_ARTICLE08: Der englische Versicheruugsskandal.
+Found
+MODSMD_ARTICLE09: Zusammenkunft Herriot—Leon Blum.
+Not Found
+MODSMD_ARTICLE10: Madariaga bei Paul-Boncour.
+Found
+MODSMD_ARTICLE11: Italiens Bevölkerung um 2 Millionen gewachsen.
+Found
+MODSMD_ARTICLE12: Straßenbauplan Mussolinis für Abessinien.
+Found
+MODSMD_ARTICLE13: Eintritt aller waffenfähigen Faschisten in die Miliz. Ausschluß der Erzeugnisse aus den Sanktionsländern.
+Not Found
+MODSMD_ARTICLE14: Senatspräsident in Aegypten ernannt.
+Found
+MODSMD_ARTICLE15: Hoover kandidiert nicht.
+Found
+MODSMD_ARTICLE16: Mexikanischer Eisenbahnerstreik wieder beendet.
+Found

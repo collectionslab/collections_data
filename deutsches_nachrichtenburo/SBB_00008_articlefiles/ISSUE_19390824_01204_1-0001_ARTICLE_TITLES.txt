@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Beileid des Führers zum Tode des Präsidenten Busch.
+Found
+MODSMD_ARTICLE02: Der Ruhr-Befreier General Freiherr von.Watter gestorben.
+Found
+MODSMD_ARTICLE03: Fürst Colonna gestorben.
+Found
+MODSMD_ARTICLE04: Tödlicher Schlag für die EinkreisungKpolitik.
+Found
+MODSMD_ARTICLE05: Ribbentrop wieder nach Deutschland unterwegs.
+Found
+MODSMD_ARTICLE06: Der Nichtangriffsvertrag in der Moskauer Presse.
+Found
+MODSMD_ARTICLE07: Das britische Kabinett zusammengetreten.
+Found
+MODSMD_ARTICLE08: Englischer Bankdiskont auf heraufgesetzt.
+Found
+MODSMD_ARTICLE09: Die schnelle Unterzeichnung wieder eine Ueberraschung.
+Found
+MODSMD_ARTICLE10: Bonnet analysiert das deutsch-sowjetrussische Abkommen.
+Found
+MODSMD_ARTICLE11: Die Pariser Friihpresse weiß es noch nicht.
+Found
+MODSMD_ARTICLE12: Forstsr Staatsoberhaupt von Danzrg.
+Found
+MODSMD_ARTICLE13: Mobilmachung in Polen.
+Found
+MODSMD_ARTICLE14: Frankreich zieht in Marokko Truppen zusammen.
+Found
+MODSMD_ARTICLE15: Warschau von dem Umfang des Paktes überrascht.
+Found
+MODSMD_ARTICLE16: Einheitliches Kommando in Palästina und Syrien.
+Found
+MODSMD_ARTICLE17: Britische Justiz in Palästina: Peitschenhiebe für Araber.
+Found

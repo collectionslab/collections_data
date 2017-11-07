@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Sauckel vertritt den Reichsstatthalter Mutschmann.
+Found
+MODSMD_ARTICLE02: Dr. Ohnesorge griistt die wiedererstandene Postkutsche.
+Found
+MODSMD_ARTICLE03: Bulgarische Arbeitsdienstoffiziere am Ehrenmal.
+Found
+MODSMD_ARTICLE04: Ferdinand Schramm Neichshaudwerksmeister.
+Found
+MODSMD_ARTICLE05: Japaner studieren das deutsche Jugendherbergswesen.
+Found
+MODSMD_ARTICLE06: Tschechische Soldateska überfällt Sudetendeutsche.
+Found
+MODSMD_ARTICLE07: Englischer Wink nach Prag.
+Found
+MODSMD_ARTICLE08: Halifax seht die Besprechungen fort.
+Found
+MODSMD_ARTICLE09: Zehn Admirale von den Sowjets erschossen.
+Found
+MODSMD_ARTICLE10: Mandschukuo erwidert faschistischen Besuch.
+Found
+MODSMD_ARTICLE11: Neues Gebäude des Ministeriums für Italienisch-Afrika.
+Found
+MODSMD_ARTICLE12: Wirkungsvolle Hilfe für Francs wider Willen.
+Found
+MODSMD_ARTICLE13: Francs ruft die Ausland-Spanier zurück.
+Found
+MODSMD_ARTICLE14: Außerordentliche Parlamentstagung abgeblasen.
+Found
+MODSMD_ARTICLE15: Wieder -Schüsse in Jerusalem.
+Found
+MODSMD_ARTICLE16: Nuri Pascha Said bei Emir Abdullah.
+Found
+MODSMD_ARTICLE17: Eine Schlappe für Roosevelt.
+Found

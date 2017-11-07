@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Reichswirtschaftsminister Dr. Schacht über Euergiepolilik.
+Found
+MODSMD_ARTICLE02: Dr. Niescn-Köln übernimmt Sonderauftrag.
+Found
+MODSMD_ARTICLE03: Toller Theaterskandal in Wien.
+Found
+MODSMD_ARTICLE04: Tie Kammeraussprache über das Pressegesetz.
+Found
+MODSMD_ARTICLE05: Schaffung eines Arbeitslosenfonds in Frankreich?
+Found
+MODSMD_ARTICLE06: Der „Populaire" wegen Verleumdung verurteilt.
+Found
+MODSMD_ARTICLE07: Genf säubert seine Verwaltung.
+Found
+MODSMD_ARTICLE08: Räumung Madrids durch die Zivilbevölkerung.
+Found
+MODSMD_ARTICLE09: Valencia verlangt Abberufung des sinnischen Vertreters.
+Found
+MODSMD_ARTICLE10: Kommunistenhäuptling „Genieral-Kriegskommissar".
+Found
+MODSMD_ARTICLE11: Hollands Rüstungspläne.
+Found
+MODSMD_ARTICLE12: Die Flutkatastrophe auf der Insel Luzon.
+Found
+MODSMD_ARTICLE13: Die Zahl der Rundsunkteilnehmer am 1. Dezember.
+Found
+MODSMD_ARTICLE14: Höchstpreise für Wild und Wildgeflügel.
+Found
+MODSMD_ARTICLE15: Steuersteckbrief und Vermögensbeschlagnahme.
+Found

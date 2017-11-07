@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Eine Bekanntmachung des Gauleiters Bohle.
+Found
+MODSMD_ARTICLE02: Einweihung des Franz-Seldte-Jnstituts.
+Found
+MODSMD_ARTICLE03: Prof. Salinger Rektor der Wiener Technischen Hochschule.
+Found
+MODSMD_ARTICLE04: Judenlärm in der Universität Belgrad.
+Found
+MODSMD_ARTICLE05: Polnische Note an Litauen.
+Found
+MODSMD_ARTICLE06: Becks Dank an Ciano.
+Found
+MODSMD_ARTICLE07: „JntrausigeauL" über neue französische Regierungspläne.
+Found
+MODSMD_ARTICLE08: Pariser Blätter zur Aufnahme der Erklärung Blums.
+Found
+MODSMD_ARTICLE09: Pariser Agitation für Waffenlieferungen an Sowjetspanien.
+Found
+MODSMD_ARTICLE10: Frankreich unterbindet Warenverkehr nach Nationalspanien.
+Found
+MODSMD_ARTICLE11: Nationalspanien vom Anschluß unterrichtet.
+Found
+MODSMD_ARTICLE12: Ein neuer Abschnitt der nationalspanischen "
+Found
+MODSMD_ARTICLE13: Barcelona erneut bombardiert.
+Found
+MODSMD_ARTICLE14: „Vorläufig" will man versuchen, Widerstand zu leisten.
+Found
+MODSMD_ARTICLE15: Anlange Arbeitsdienst zur Aufforstung eingesetzt.
+Found
+MODSMD_ARTICLE16: Chilenische Kunstausstellung im Mai in Berlin.
+Found
+MODSMD_ARTICLE17: Zusammenstöße in Allahabad.
+Found

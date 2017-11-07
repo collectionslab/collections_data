@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht General Hertz.
+Found
+MODSMD_ARTICLE02: Kreuzer „Köln" im Hafen Christiansund.
+Found
+MODSMD_ARTICLE03: Deutsches Flugzeug in Ekuador abgestürzt.
+Found
+MODSMD_ARTICLE04: Arierparagraph beim Pommereller Journalistenverband.
+Found
+MODSMD_ARTICLE05: Tie italienischen Zeitungen begrüßen Becks Besuch.
+Found
+MODSMD_ARTICLE06: Marschall Graziani beim Duce.
+Found
+MODSMD_ARTICLE07: Chikagoer Gangster lieferten die „Plauderdroge".
+Found
+MODSMD_ARTICLE08: Pariser Blätter über den Moskauer Prozeß.
+Found
+MODSMD_ARTICLE09: Die spanischen Bonzen liegen sich in den Haaren.
+Found
+MODSMD_ARTICLE10: Garvin hält den Labour-Leuten einen Spiegel vor.
+Found
+MODSMD_ARTICLE11: Wahlsieg des autoritären Regimes in Bulgarien.
+Found
+MODSMD_ARTICLE12: Heftige Gefechtstätigkeit in Palästina.
+Found
+MODSMD_ARTICLE13: Auch Australien rüstet auf.
+Found

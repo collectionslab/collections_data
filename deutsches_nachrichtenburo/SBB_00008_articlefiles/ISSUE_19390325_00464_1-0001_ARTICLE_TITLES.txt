@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers zum griechischen Freiheitstag.
+Found
+MODSMD_ARTICLE02: Japans Marineattachä in Wilhelmshaven.
+Found
+MODSMD_ARTICLE03: Die Tschechen begrüßen das deutsch-rumänische Abkommen.
+Found
+MODSMD_ARTICLE04: Polens Beziehungen zu Deutschland stetig.
+Found
+MODSMD_ARTICLE05: Die deutsche Abordnung für die 20-Jahrfeier in Rom.
+Found
+MODSMD_ARTICLE06: Burgos dementiert Uebergabeverhandlungen.
+Found
+MODSMD_ARTICLE07: General Franca errichtet Zwei Marinekommandos.
+Found
+MODSMD_ARTICLE08: Im Flugzeug nach Frankreich in Sicherheit gebracht.
+Found
+MODSMD_ARTICLE09: Paris gesteht die Loyalität und Fairneß Deutschlands Zu.
+Found
+MODSMD_ARTICLE10: Pariser Bilanz: Antideutsche Koalition gescheitert.
+Found
+MODSMD_ARTICLE11: „Die mißglückte demokratische Einheitsfront."
+Found
+MODSMD_ARTICLE12: Englands perfide Methoden.
+Found
+MODSMD_ARTICLE13: „Kein Grund zur Anklageerhebung gegen Frau Perkins."
+Found
+MODSMD_ARTICLE14: Europäische Dinge sind nicht Amerikas Angelegenheiten.
+Found

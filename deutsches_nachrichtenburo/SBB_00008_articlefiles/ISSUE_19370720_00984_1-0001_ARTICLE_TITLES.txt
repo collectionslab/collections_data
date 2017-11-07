@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Rede des Führers in der italienischen Presse.
+Found
+MODSMD_ARTICLE02: Marconi gestorben.
+Found
+MODSMD_ARTICLE03: „Daily Mail" für bessere deutsch-englische Beziehungen.
+Found
+MODSMD_ARTICLE04: Die englische Rekrutierung für die Armee.
+Found
+MODSMD_ARTICLE05: Der Anschlag auf Oberst Koc.
+Found
+MODSMD_ARTICLE06: Ein Aufruf des Warschauer Stadtpräsidenten.
+Found
+MODSMD_ARTICLE07: Die Pariser Presse zum Streit in Ostasien.
+Found
+MODSMD_ARTICLE08: Durch grundlosen Streik zurückgehalten.
+Found
+MODSMD_ARTICLE09: Die Rede Edens im Echo der Presse.
+Found
+MODSMD_ARTICLE10: Francos Truppen weiter im Vormarsch.
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Das Versagen Genfs. (Schluß von Ausgabe Nr. 1688)
+Found
+MODSMD_ARTICLE02: Der Führer beim deutsch-italienischen Konzert für das WHW.
+Found
+MODSMD_ARTICLE03: Graf Mushakoji von Berlin abgereist.
+Found
+MODSMD_ARTICLE04: Ein übler Verleumder vor Gericht.
+Found
+MODSMD_ARTICLE05: Telegrammwechsel zwischen Mussolini und Stojadinowitsch.
+Found
+MODSMD_ARTICLE06: Delbos in Belgrad.
+Found
+MODSMD_ARTICLE07: Neuer Chef der Kabinettskanzlei des ReichZverwesers.
+Found
+MODSMD_ARTICLE08: Schießereien und Bombeuattentate in Haifa.
+Found

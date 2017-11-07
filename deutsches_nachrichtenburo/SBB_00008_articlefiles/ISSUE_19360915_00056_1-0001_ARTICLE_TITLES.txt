@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Der Zapfenstreich der Wehrmacht.
+Found
+MODSMD_ARTICLE02: Reichsautobahnarbeiter auf dem Reichsparteitag.
+Found
+MODSMD_ARTICLE03: Das Auslands-Echo der Schlußrede des Führers.
+Found
+MODSMD_ARTICLE04: Auslandsstimmen zum Tage der Wehrmacht.
+Found

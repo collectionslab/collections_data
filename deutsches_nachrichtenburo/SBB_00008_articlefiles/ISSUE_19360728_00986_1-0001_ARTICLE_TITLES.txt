@@ -1,0 +1,34 @@
+MODSMD_ARTICLE02: Telegrammwechsel zwischen dem Führer und Dr. Ley.
+Found
+MODSMD_ARTICLE03: Die erste Ringaufführung abgeschlossen.
+Found
+MODSMD_ARTICLE04: Feierliche Ueberfiihrung der toten SA-Männer.
+Found
+MODSMD_ARTICLE05: Tagesbefehl des Stabschefs Lutze.
+Found
+MODSMD_ARTICLE06: Weitere Beileidstelegramme an Stabschef Lutze.
+Found
+MODSMD_ARTICLE07: Deutscher Sieg im Internationalen Amateurfilm-Wettbewerb.
+Not Found
+MODSMD_ARTICLE08: König Eduard gibt die Südfrankreichreise auf.
+Found
+MODSMD_ARTICLE09: König Eduard VIII. an Staatspräsident Lebrun.
+Found
+MODSMD_ARTICLE10: Der englische Botschafter bei Delbos.
+Found
+MODSMD_ARTICLE11: Französisches Weizenamt.
+Found
+MODSMD_ARTICLE13: Deutscher Protest bei der spanischen Regierung.
+Found
+MODSMD_ARTICLE14: Reichsdeutsche aus San Sebastian in Köln.
+Found
+MODSMD_ARTICLE15: Verlegung der Botschaften ans San Sebastaian.
+Found
+MODSMD_ARTICLE16: Private französische Flugzeuglieferungen nach Spanien?
+Found
+MODSMD_ARTICLE17: Verlautbarungen der Madrider Regierung.
+Found
+MODSMD_ARTICLE18: Queipo de Llano zum Angebot Azanas.
+Found
+MODSMD_ARTICLE19: Einzelheiten aus dem englisch-ägyptischen Militärvertrag.
+Found

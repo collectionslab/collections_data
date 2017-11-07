@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Sängertag des Deutschen Sängerbundes in Hamburg.
+Found
+MODSMD_ARTICLE02: Oberbürgermeister Dehler in Budapest.
+Found
+MODSMD_ARTICLE03: Dr. von Boeckmann als Gast bei Roosevelt und Hull.
+Found
+MODSMD_ARTICLE04: Schnschnigg übernimmt Führung der Vaterländischen Front.
+Found
+MODSMD_ARTICLE05: Denkmal für König Georg V. in London.
+Found
+MODSMD_ARTICLE06: Eden wieder in London.
+Found
+MODSMD_ARTICLE07: Scharfe Polemik der „Tribuna" gegen England.
+Found
+MODSMD_ARTICLE08: Der englische Botschafter bei Suvich.
+Found
+MODSMD_ARTICLE09: Streik der Tabakarbeiter von Lille.
+Found
+MODSMD_ARTICLE10: Bergingenieure als Geiseln in Spanien.
+Found
+MODSMD_ARTICLE11: Tedeum Zum Namenstag des Königs Boris.
+Found
+MODSMD_ARTICLE12: Schärfere Kontrolle der Emigranten in Jugoslawien.
+Found
+MODSMD_ARTICLE13: Bombengeschwader über Jerusalem.
+Found
+MODSMD_ARTICLE14: Ein Toter, 18 Verwundete in Jaffa.
+Found
+MODSMD_ARTICLE15: Der Zwischenfall im japanischen Oberhaus beigelegt.
+Found
+MODSMD_ARTICLE16: Vergrößerung der Flottenstation Singapur.
+Found

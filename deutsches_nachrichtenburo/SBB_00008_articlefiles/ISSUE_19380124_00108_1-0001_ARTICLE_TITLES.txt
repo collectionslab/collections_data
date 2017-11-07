@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Verleihung von Auszeichnungen für Lebensrettung.
+Found
+MODSMD_ARTICLE02: Personalveränderungen in der Kriegsmarine.
+Found
+MODSMD_ARTICLE03: Arbeitstagung der Ganamtsleiter der NSKOV.
+Found
+MODSMD_ARTICLE04: 300 0W Mitarbeiter beim Reichsberufswettkampf.
+Found
+MODSMD_ARTICLE05: Nationalsozialistische Grundsätze der Wirtschaftsführung.
+Found
+MODSMD_ARTICLE06: Kabinettskrise in Bulgarien.
+Found
+MODSMD_ARTICLE07: Der slowakische Kampf um Autonomie.
+Found
+MODSMD_ARTICLE08: Nachprüfung der jüdischen Einbürgerungen in Rumänien.
+Found
+MODSMD_ARTICLE09: „Times" zu den Erklärungen Hirotas.
+Found
+MODSMD_ARTICLE10: Britische Truppenlandung in Weihaiwei.
+Found
+MODSMD_ARTICLE11: Der Gouverneur von Schantung hingerichtet.
+Found
+MODSMD_ARTICLE12: Gummifabrik in Amerika in die Luft geflogen.
+Found

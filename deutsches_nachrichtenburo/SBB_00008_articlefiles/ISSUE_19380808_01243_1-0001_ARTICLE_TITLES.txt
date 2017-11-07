@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die Gaupresseamtsleiter der Ostmarkgaue in Berlin.
+Found
+MODSMD_ARTICLE02: Ausländische Gäste beim Doberaner Rennen.
+Found
+MODSMD_ARTICLE03: Die Nanga-Parbat-Expedition kehrt zurück.
+Found
+MODSMD_ARTICLE04: Neuer Landesgruppenleiter Krankreich.
+Found
+MODSMD_ARTICLE05: Deutsch-französisches Handelsabkommen provisorisch in Kraft.
+Found
+MODSMD_ARTICLE06: In Marseille werden keine Ladungen gelöscht.
+Found
+MODSMD_ARTICLE07: „Journal" über das englisch-türkische Einvernehmen.
+Found
+MODSMD_ARTICLE08: 4V 999 Kilogramm Gemüse in Marseille verdorben.
+Found
+MODSMD_ARTICLE09: Lord Allan besucht Teutschland.
+Found
+MODSMD_ARTICLE10: MacDonald in Malta.
+Found
+MODSMD_ARTICLE11: Das Blaue Band von der „Queen Marli" erobert.
+Found
+MODSMD_ARTICLE12: Wüste kommunistische Ausschreitungen in Saaz.
+Found
+MODSMD_ARTICLE13: Autounglück des polnischen Presseattaches in Prag.
+Found
+MODSMD_ARTICLE14: Großes internatiouales Fliegertreffen in Budapest.
+Found
+MODSMD_ARTICLE15: Umfangreiche Neubauten der türkischen Kriegsmarine.
+Found
+MODSMD_ARTICLE16: Sowjetangriffe bei Schangfeng abgeschlagen.
+Found
+MODSMD_ARTICLE17: Moskauer Erklärung über die Kämpfe bei Schangfeng.
+Found
+MODSMD_ARTICLE18: Ergebnislose Unterredung Schigemitsu—Litwinow.
+Found

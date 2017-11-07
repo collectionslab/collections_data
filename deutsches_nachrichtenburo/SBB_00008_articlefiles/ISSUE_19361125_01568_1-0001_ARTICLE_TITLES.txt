@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer an Reichsleiter Amann.
+Found
+MODSMD_ARTICLE02: „Friedensnobelpreis für einen Hochverräter".
+Found
+MODSMD_ARTICLE03: Jugcmeur Ludwig Nobel: Nichts könnte mehr dem Wunsch Alfred Nobels Zuwiderlaufen.
+Found
+MODSMD_ARTICLE04: „Berlingske Tidende" tadelt den Beschluß von Oslo.
+Found
+MODSMD_ARTICLE05: „Eine Kränkung Deutschlands".
+Found
+MODSMD_ARTICLE06: Das Los deutscher Arbeiter in Sowjetrußland.
+Found
+MODSMD_ARTICLE07: „Sturm im Kreml". Radikalisten fordern Tod Sticklings.
+Found
+MODSMD_ARTICLE08: Reichshandwerksmcister Schmidt legt Aemter nieder.
+Found
+MODSMD_ARTICLE09: Antrittsbesuch des rumämschen Gesandten in Warschau.
+Found
+MODSMD_ARTICLE10: Unterredung Mussolini—Daranyi—Kanya.
+Found
+MODSMD_ARTICLE11: Römische Stimmen zum Horthy-Besnch.
+Found
+MODSMD_ARTICLE12: Italienische Genugtuung über Edens Unterhauserklärung.
+Found
+MODSMD_ARTICLE13: Jugoslawische Schulverordmmg für ungarische Minderheit.
+Found
+MODSMD_ARTICLE14: Kriegsmaierialiransport für Katalonien beschlagnahmt.
+Found
+MODSMD_ARTICLE15: Zwischenfälle im Transportarbeiterstreik in Reims.
+Found
+MODSMD_ARTICLE16: Zwischenfall bei jugoslawichen Gemeindewahlen.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Führer genehmigt „Haus des deutschen Fremdenverkehrs/'
+Found
+MODSMD_ARTICLE02: Dr. Goebbels gratuliert Rudolf G. Biuding.
+Found
+MODSMD_ARTICLE03: Die Kaitegatbezwingerin Jenny Kammersgaard in Berlin.
+Found
+MODSMD_ARTICLE04: Bedürftige von Rundfunkgebühren befreit.
+Found
+MODSMD_ARTICLE05: Ausstellung „Deutschtum im Osten Bollwerk Europas".
+Found
+MODSMD_ARTICLE06: Vier Millionen sahen Ausstellung „Schaffendes Volk".
+Found
+MODSMD_ARTICLE07: Seeflugzeug „Nordmeer" in Lissabon.
+Found
+MODSMD_ARTICLE08: Tschechoslowakischer Schulterror gegen Deutsche.
+Found
+MODSMD_ARTICLE09: Brennueudes Lazarettschiff mußte versenkt werden.
+Found
+MODSMD_ARTICLE10: Englischer Flottenbesuch in griechischen Gewässern.
+Found
+MODSMD_ARTICLE11: Der Fakir von Jpi macht Frieden.
+Found
+MODSMD_ARTICLE12: „Trotzkisten"-Ausräumung nun auch in Turkmenistan.
+Found
+MODSMD_ARTICLE13: Generalstabschef und Luftflottenchef des Irak ermordet.
+Found
+MODSMD_ARTICLE14: Die Ruhe in Nordsyrien wieder hergestellt.
+Found
+MODSMD_ARTICLE15: Helium-Vorlage vom amerikanischen Senat angenommen.
+Found
+MODSMD_ARTICLE16: Verschärfte Lage m Schanghai.
+Found
+MODSMD_ARTICLE17: Tie Kuomintang beruft Zentralvollzugsausschuß ein.
+Found

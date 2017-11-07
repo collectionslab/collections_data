@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Frühstück zu Ehren des Ministerpräsidenten Stojadinowitsch.
+Found
+MODSMD_ARTICLE02: Tee-Empfang auf der Jugoslawischen Gesandtschaft.
+Found
+MODSMD_ARTICLE03: Empfang der jugoslawischen Journalisten.
+Found
+MODSMD_ARTICLE04: „Popolo di Romu" zum Besuch Stojadinowitschs in Berlin.
+Found
+MODSMD_ARTICLE05: Beförderungen und Ernennungen in Heer und Luftwaffe.
+Found
+MODSMD_ARTICLE07: Aus der Verwaltung.
+Found
+MODSMD_ARTICLE08: Antworttelegramm des Führers.
+Found
+MODSMD_ARTICLE09: Abendtafel beim Führer.
+Found
+MODSMD_ARTICLE10: Göring dankt.
+Found
+MODSMD_ARTICLE11: Verarbeitung deutscher Zellwolle in Oesterreich.
+Found
+MODSMD_ARTICLE12: Deutsche Offiziersabordnung in Warschau.
+Found
+MODSMD_ARTICLE13: Chautemps an der Arbeit.
+Found
+MODSMD_ARTICLE14: Beginn der englisch-irischen Besprechujngen.
+Found
+MODSMD_ARTICLE15: London zum Tokioter Manifest.
+Found
+MODSMD_ARTICLE16: Kalinin gewählt.
+Found
+MODSMD_ARTICLE17: Türkische Bezeichnung für den Sandschak zugelassen.
+Found

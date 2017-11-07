@@ -1,0 +1,34 @@
+MODSMD_ARTICLE02: Rekordbesuch auf der Leipziger Frühjahrsmesse.
+Found
+MODSMD_ARTICLE03: Dr. Ley spricht zu 12 VW Volksgenossen.
+Found
+MODSMD_ARTICLE04: Italienische Würdigung des Vierjahresplanes.
+Found
+MODSMD_ARTICLE05: Gesandter Reinebeck in Guatemala eingetroffen.
+Found
+MODSMD_ARTICLE06: Scnatspräsident Greiser erhält polnische lagdauszeichnung.
+Found
+MODSMD_ARTICLE07: Dr. Schmidt nimmt an Londoner Feierlichkeiten teil.
+Found
+MODSMD_ARTICLE08: Sir Thomas Inskip verteidigt das Aufrüstungsprogramm.
+Found
+MODSMD_ARTICLE09: Nationale Großlautsprecher klären die Bolschewisten auf.
+Found
+MODSMD_ARTICLE10: 17 bolschewistische Offiziere abgesetzt.
+Found
+MODSMD_ARTICLE11: Bolschewistische Offensive auf Oviedo Zusammengebrochen.
+Found
+MODSMD_ARTICLE12: 35 sowjetrnssische Tanks und 16 Batterien abgefangen.
+Found
+MODSMD_ARTICLE13: Abstimmung über Schwedens Freiwilligenverbot verzögert.
+Found
+MODSMD_ARTICLE14: Wieder Gespensterflugzeuge an der norwegischen Küste.
+Found
+MODSMD_ARTICLE15: Die Pariser Presse zu Blums Kammerrede.
+Found
+MODSMD_ARTICLE16: Der rumänische Finanzminister in Paris.
+Found
+MODSMD_ARTICLE17: Haushaltsannahme im Belgrader Parlament.
+Found
+MODSMD_ARTICLE18: Politische Schlägereien in Agram.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Daladier vor dem radikalsozialen Vollzugsausschuß.
+Found
+MODSMD_ARTICLE02: Reform des französischen Wahlrechts.
+Found
+MODSMD_ARTICLE03: Bolschewistischer Waffenschmuggel nach Frankreich.
+Found
+MODSMD_ARTICLE04: Immer neue Streiks in Frankreich.
+Found
+MODSMD_ARTICLE05: Frankreich dementiert.
+Found
+MODSMD_ARTICLE06: Schmuggel für die spanischen Bolschewisten dauert an.
+Found
+MODSMD_ARTICLE07: Der Sonderberichterstatter des „Jour" klagt an.
+Found
+MODSMD_ARTICLE08: Entpolitisieruna der rumänischen Kirche.
+Found
+MODSMD_ARTICLE09: Englische Besorgnisse um den Geburtenrückgang.
+Found
+MODSMD_ARTICLE10: 10 lM Rekruten.zu wenig in England.
+Found
+MODSMD_ARTICLE11: Heftige Angriffe gegen Chamberlains Wirtschaftspolitik.
+Found
+MODSMD_ARTICLE12: Spaniengesetz in 2. Lesung vom Oberhaus angenommen.
+Found
+MODSMD_ARTICLE13: Keine Karbidindustrie in Schottland.
+Found
+MODSMD_ARTICLE14: Nur noch 17 km vor Guadalajara.
+Found
+MODSMD_ARTICLE15: Blutige Streikzwischenfälle auch in Algerien.
+Found
+MODSMD_ARTICLE16: Großzügiges Augebot Schmelings an Braddock.
+Found
+MODSMD_ARTICLE17: Keine Einberufung einer Abrüstungskonferenz von Roosevelt.
+Found

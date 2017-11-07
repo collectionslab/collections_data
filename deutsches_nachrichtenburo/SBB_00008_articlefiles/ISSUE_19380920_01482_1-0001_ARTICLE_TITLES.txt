@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Frank empfing Treuhänder.
+Found
+MODSMD_ARTICLE02: Hitler-Deutschland verschafft ihnen Arbeit!
+Found
+MODSMD_ARTICLE03: Chamberlain empfing die Oppositionsvertreter.
+Found
+MODSMD_ARTICLE04: Unterrichtung der Dominien-Vertreter über die Lage.
+Found
+MODSMD_ARTICLE05: Corbin im Foreign Office.
+Found
+MODSMD_ARTICLE06: Prag bekommt kalte Füße.
+Found
+MODSMD_ARTICLE07: Maulkorbderorduung für die gesamte Prager Presse.
+Found
+MODSMD_ARTICLE08: Moskaus Kriegsflugzeuge auf dem Weg in die Tschechen
+Found
+MODSMD_ARTICLE09: Ungarn fordert sofortiges Selbstbestimmungsrecht.
+Found
+MODSMD_ARTICLE10: Die Slowaken fordern Einlösung des Pittsbnrger Vertrages.
+Found
+MODSMD_ARTICLE11: Gegen die Unterdrückung des Polentums in der Tschechen
+Found
+MODSMD_ARTICLE12: Auch die Karpathen-Ukrainer verlangen Selbstbestimmung.
+Found
+MODSMD_ARTICLE13: Organisierte Menscheujagd in Eger.
+Found
+MODSMD_ARTICLE14: Der englische Geschäftsträger erneut bei Graf Ciano.
+Found

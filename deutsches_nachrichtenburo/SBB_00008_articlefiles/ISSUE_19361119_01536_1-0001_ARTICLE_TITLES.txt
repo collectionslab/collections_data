@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Frank, Ruft und Schirach sprachen auf Burg Vogelsana.
+Found
+MODSMD_ARTICLE02: Dr. Schacht über seine Besprechungen in Ankara.
+Found
+MODSMD_ARTICLE03: Vier weitere Reichsdeutsche in der Sowjetunion verhaftet.
+Found
+MODSMD_ARTICLE04: Baldwin über Wirtschafts- und Rüstungsfragen.
+Found
+MODSMD_ARTICLE05: England fehlen 596 Offiziere und 19 218 Mannschaften.
+Found
+MODSMD_ARTICLE06: Lärmende Kundgebungen in Paris.
+Found
+MODSMD_ARTICLE07: Ungarische Studenten erneut gegen jüdische Hörer.
+Found
+MODSMD_ARTICLE08: Rote Banditen vernichten Kunstschätze des Escorial.
+Found
+MODSMD_ARTICLE09: Polnische Studenten im Hungerstreik. kT TV
+Found
+MODSMD_ARTICLE10: Diplomaten erzwingen mit Gewalt Ausreise aus Spanien.
+Found
+MODSMD_ARTICLE11: Freudenkundgebungen in Salamanca.
+Found
+MODSMD_ARTICLE12: Die SicherheitsZone in Madrid erweitert.
+Found
+MODSMD_ARTICLE13: Marxistischer Abgeordneter beklagt sich über den Terror.
+Found

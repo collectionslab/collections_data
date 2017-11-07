@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Aufrufe zum Jahreswechsel.
+Found
+MODSMD_ARTICLE02: Tagesbefehle an die Wehrmachtteile. An das Heer!
+Found
+MODSMD_ARTICLE03: An die Kriegsmarine!
+Found
+MODSMD_ARTICLE04: An die Luftwaffe!
+Found
+MODSMD_ARTICLE05: Göring zur Jahreswende.
+Found
+MODSMD_ARTICLE06: In treuer Waffenbrüderschaft.
+Found
+MODSMD_ARTICLE07: Neujahrsaufruf Himmlers.
+Found
+MODSMD_ARTICLE08: Hierl an den Reichsarbeitsdienft.
+Found

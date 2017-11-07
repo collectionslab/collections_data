@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: „Die erste vom Führer gestellte Aufgabe vollendet."
+Found
+MODSMD_ARTICLE02: Ein englischer 7IM-Tonner versenkt.
+Found
+MODSMD_ARTICLE03: Rückgang der englischen Ausfuhr um 44,5 vH.
+Found
+MODSMD_ARTICLE04: Ausfahrt eines japanischen Schiffes verschoben.
+Found
+MODSMD_ARTICLE05: Belagerungszustand in der englischen Küstenschiffahrt.
+Found
+MODSMD_ARTICLE06: Die indischen Moslem halten zu Gandhi.
+Found
+MODSMD_ARTICLE07: Englandfahrt Todesfahrt.
+Found
+MODSMD_ARTICLE08: Ter Widerstand gegen Englands Seeräuberpolitik.
+Found
+MODSMD_ARTICLE09: Haß und Arroganz übertönen die britische Unruhe.
+Found
+MODSMD_ARTICLE10: Autounglück die ersten britischen Verluste in Frankreich.
+Found
+MODSMD_ARTICLE11: Churchills neue Waffe: Muscheln und Seepflanzen.
+Found
+MODSMD_ARTICLE12: Umgehung des amerikanischen Neutralitätsgesetzes?
+Found
+MODSMD_ARTICLE13: Die amerikanische Flottenaufrüstung.
+Found

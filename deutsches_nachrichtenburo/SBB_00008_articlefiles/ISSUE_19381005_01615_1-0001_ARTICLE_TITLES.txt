@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Des Führers zweiter Tag im Sndctenland.
+Found
+MODSMD_ARTICLE02: Des Führers Sudetenfahrt in London stark beachtet.
+Found
+MODSMD_ARTICLE03: Trümmer weisen den Weg der Tschechen im Sudetenland.
+Found
+MODSMD_ARTICLE04: Noch immer Haussuchungen und Mißhandlungen.
+Found
+MODSMD_ARTICLE05: Die Maßnahmen zur Wiedergesundung Frankreichs.
+Found
+MODSMD_ARTICLE06: Ueberprüfung der französischen Außenpolitik.
+Found
+MODSMD_ARTICLE07: Die Parlamentsmaschine lief auf höchsten Touren.
+Found

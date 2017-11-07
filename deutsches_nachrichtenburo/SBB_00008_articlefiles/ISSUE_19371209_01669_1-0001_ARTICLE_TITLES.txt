@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Die Zusammeinhänge des Werdens und Wirkens der Partei.
+Found
+MODSMD_ARTICLE02: Wechsel in der Leitung des Reichssilmarchivs.
+Found
+MODSMD_ARTICLE03: Aenderung des Gesetzes über Personen-Beförderung.
+Found
+MODSMD_ARTICLE04: Auch in Danzig Lohnzahlung für die Feiertage.
+Found
+MODSMD_ARTICLE05: Ehrung deutscher Wissenschaftler in Coimbra.
+Found
+MODSMD_ARTICLE06: Auszeichnung deutscher Spielwaren in Paris.
+Found
+MODSMD_ARTICLE07: Die schwierige Finanzlage der Gemeinden Frankreichs.
+Found
+MODSMD_ARTICLE08: Kammerausschuß für Erhöhung der Effektivbestände.
+Found
+MODSMD_ARTICLE09: Sechs Maschinengewehre „verschwunden".
+Found
+MODSMD_ARTICLE10: Wieder Explosivstoff-Sendung für Sowjetspanien.
+Found
+MODSMD_ARTICLE11: Acht sowjetspanische Flugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE12: Wehleidiger Aufruf der sowjetspanischen „Marineleitung".
+Found
+MODSMD_ARTICLE13: Die Madrider Befestigungen unter schwerem FeüW^^MK
+Found
+MODSMD_ARTICLE14: Sabotageakt im bolschewistischen Spanien.
+Found
+MODSMD_ARTICLE15: Stojadinowitsch von Rom abgereist.
+Found
+MODSMD_ARTICLE16: „Neues Gleichgewicht auf dem Balkan".
+Found
+MODSMD_ARTICLE17: Der Besuch Delbos' in Bukarest.
+Found
+MODSMD_ARTICLE18: Aussiedlung der Juden aus polnischem Bezirk gefordert?
+Found
+MODSMD_ARTICLE19: „Gazeta Polska" Organ der Nationalen Einigung.
+Found
+MODSMD_ARTICLE20: Linienschiff „Schlesien" in Santos.
+Found

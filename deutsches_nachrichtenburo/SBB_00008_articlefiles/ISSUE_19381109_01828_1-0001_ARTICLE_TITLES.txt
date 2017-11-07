@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Gefallenenehrung auf dem Heldenfriedhof von Caudry.
+Found
+MODSMD_ARTICLE02: Streik als Abwehr gegen jüdische Rnmschgeschäfte.
+Found
+MODSMD_ARTICLE03: Das Kommunistenverbot im Kanton Waadt bestätigt.
+Found
+MODSMD_ARTICLE04: Abscheu in Warschau über die Bluttat Grynszpans.
+Found
+MODSMD_ARTICLE05: Estnische Auszeichnungen für Moszicki und Rydz-Smigly.
+Found
+MODSMD_ARTICLE06: „Wreme" über die deutsche Kolonialforderung.
+Found
+MODSMD_ARTICLE07: Das Londoner Presseecho der Thronrede.
+Found
+MODSMD_ARTICLE08: Die Neuordnung der tschechischen Parteien.
+Found
+MODSMD_ARTICLE09: Auffallende Aktivierung der Moskauer Kominternpolitik.
+Found
+MODSMD_ARTICLE10: Freundschaftsflug Rom—Tokio.
+Not Found
+MODSMD_ARTICLE11: Der Zustand Atatürks sehr ernst.
+Found
+MODSMD_ARTICLE12: Japan verlangt Berücksichtigung der neuen Lage.
+Found
+MODSMD_ARTICLE13: Die Kennzahl der Großhandelspreise im Oktober.
+Found

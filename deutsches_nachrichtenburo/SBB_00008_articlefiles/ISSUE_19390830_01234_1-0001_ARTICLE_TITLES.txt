@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Arbeitsmarkt im Zeichen offener Stellen.
+Found
+MODSMD_ARTICLE02: Vertragswidriges Verhalten Polens.
+Found
+MODSMD_ARTICLE03: Polnischer Grenzer vergewaltigt tschechisches Mädchen.
+Found
+MODSMD_ARTICLE04: Autobusverkehr Gdingen—Zoppot eingestellt.
+Found
+MODSMD_ARTICLE05: Doppelte Niedertracht.
+Found
+MODSMD_ARTICLE06: Wieder 2 Tote und mehrere Schwerverwundete in Lodz.
+Found
+MODSMD_ARTICLE07: Beratungen und Empfänge in Warschau.
+Found
+MODSMD_ARTICLE08: Räumungsvorbereitungen in den großen Städten Polens.
+Found
+MODSMD_ARTICLE09: Telefonverkehr Schweiz—Frankreich unterbrochen.
+Not Found
+MODSMD_ARTICLE10: „Keine Rechtfertigung für einen Krieg."
+Found
+MODSMD_ARTICLE11: Verbot öffentlicher Kundgebungen in Paris.
+Found
+MODSMD_ARTICLE12: Die Pariser Schulkinder verlassen die Stadt.
+Found
+MODSMD_ARTICLE13: Verbot der Kommunistischen Partei Frankreichs?
+Found
+MODSMD_ARTICLE14: Gesamtmobrlmachung Polens.
+Found
+MODSMD_ARTICLE15: Britische Faschisten demonstrieren vor dem Foreign Office.
+Found
+MODSMD_ARTICLE16: Das englische Kabinett zusammengetreten.
+Found
+MODSMD_ARTICLE17: Wieder ein Bombenwurf in Liverpool.
+Found
+MODSMD_ARTICLE18: Englische Frauen und Kinder flüchten nach Irland.
+Found
+MODSMD_ARTICLE19: Keine Sicherheit im polnischen Reiseverkehr.
+Found
+MODSMD_ARTICLE20: Das neue japanische Kabinett vom Kaiser genehmigt.
+Found
+MODSMD_ARTICLE21: Noosevelts Abänderungswünsche zum Neutralitätsgesetz.
+Found
+MODSMD_ARTICLE22: Vollstreckung eines Todesurteils.
+Found

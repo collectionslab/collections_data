@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Dr. Goebbels Zeichnet für das Dankopfer der Nation.
+Found
+MODSMD_ARTICLE02: 55. Militärjubiläum des Generals Ludendorff.
+Found
+MODSMD_ARTICLE03: An den Stab Dr. Leys berufen.
+Found
+MODSMD_ARTICLE04: Der Emsatz des Arbeitsdienstes für die weibliche Jugend.
+Found
+MODSMD_ARTICLE05: Dr. Todt auf der Heimreise.
+Found
+MODSMD_ARTICLE06: Ausdehnung des deutsch-englischen Handelsvertrages.
+Found
+MODSMD_ARTICLE07: Dr. Leys Besichtigungsprogramm in Rom abgeschlossen.
+Found
+MODSMD_ARTICLE08: Der Aufständischenverband gegen Verständigung.
+Found
+MODSMD_ARTICLE09: Kontrollplan ab Montag in Kraft.
+Found
+MODSMD_ARTICLE10: Die Kapitulationskonferenz in Montreux.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Deutsch-jugoslawischer Forstwirtschaftsausschuß.
+Found
+MODSMD_ARTICLE02: Das Mittwoch-Programm drs Stoiadinowitsch-Besuchs.
+Found
+MODSMD_ARTICLE03: Gastspielreise des Polnischen Balletts durch Deutschland.
+Found
+MODSMD_ARTICLE04: Geoffrey Lloyd nach Deutschland abg«ist.
+Found
+MODSMD_ARTICLE05: Neue jüdische Pressefeldzüge zusammengebrochen.
+Found
+MODSMD_ARTICLE06: Moskau spioniert in Schweden.
+Found
+MODSMD_ARTICLE07: Lettische Minister in Warschau.
+Found
+MODSMD_ARTICLE08: 12 Jahre Zuchthaus für jüdischen Hetzer.
+Found
+MODSMD_ARTICLE09: Polens Interesse an den Vorgängen in Paris.
+Found
+MODSMD_ARTICLE10: Chautemps' Besetzungs-Pläne.
+Found
+MODSMD_ARTICLE11: Eine Entschließung der radikalsozialen Kammergruppe.
+Found
+MODSMD_ARTICLE12: Die Zwistigkeiten bei den französischen Sozialdemokraten.
+Found
+MODSMD_ARTICLE13: Eine Sitzuing des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE14: Der japanische Botschafter aus China abberufen.
+Found
+MODSMD_ARTICLE15: Fortsetzung der englisch-irischen Besprechungen.
+Found
+MODSMD_ARTICLE16: Englische Stimme für politische Einheit Irlands.
+Found
+MODSMD_ARTICLE17: Der britische Kriegsminister in Nordirland.
+Found
+MODSMD_ARTICLE18: „Schleswig-Holstein"-Abordnung in Pretoria.
+Found
+MODSMD_ARTICLE19: 15V Jahre Australien.
+Found

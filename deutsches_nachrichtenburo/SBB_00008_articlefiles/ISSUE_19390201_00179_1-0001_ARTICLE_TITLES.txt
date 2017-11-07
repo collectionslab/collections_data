@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Goethe-Medaille für Präsident Dr. Zahn.
+Found
+MODSMD_ARTICLE02: Erich Schmidt Hauptgeschäftssührer der Neichsknlturkammer.
+Found
+MODSMD_ARTICLE03: Der tschecho slowakische Handelsminister bei Funk.
+Found
+MODSMD_ARTICLE04: Ehrentafel für die Blutzeugen der Auslandsorganisation.
+Found
+MODSMD_ARTICLE05: Verdiente Strafe für schimpflichen Verrat.
+Found
+MODSMD_ARTICLE06: Italienische Polizeipräsidenten in München.
+Found
+MODSMD_ARTICLE07: Staatsrat Eberhardt tödlich verunglückt.
+Found
+MODSMD_ARTICLE08: „Man kann in Tunis kaum italienisch reden."
+Found
+MODSMD_ARTICLE09: Finnland führt den Arbeitsdienst ein.
+Found
+MODSMD_ARTICLE10: Außenpolitische Aussprache im Unterhaus.
+Found
+MODSMD_ARTICLE11: Kommunistensturm aufs Unterhaus.
+Found
+MODSMD_ARTICLE12: Crookshanks über das deutsch-englische Kohlenabkommen.
+Found
+MODSMD_ARTICLE13: Francos Siegeslaus in Katalonien.
+Found
+MODSMD_ARTICLE14: Für die Anerkennung Frnncos durch Frankreich.
+Found
+MODSMD_ARTICLE15: Die „Ukrainische Nationale Einheitsbewegung".
+Found
+MODSMD_ARTICLE16: Die Verwandtschaft des Mufti in die Gefängnisse geworfen.
+Found
+MODSMD_ARTICLE17: IWO modernste NSA.-Kriegsflugzeuge für Frankreich.
+Found

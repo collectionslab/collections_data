@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Graf Ciano auf der Durchreise uach Warschau in Wien.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels besichtigt den Reichsautozug „Deutschland".
+Found
+MODSMD_ARTICLE03: Dr. Dorpmüller im Sudetenland.
+Found
+MODSMD_ARTICLE04: Tie sudetendeutschen Schriftleiter in Nürnberg.
+Found
+MODSMD_ARTICLE05: Die Landwirtschaftspolitik Nationalspaniens.
+Found
+MODSMD_ARTICLE06: Die Judengazetten können es nicht lassen!
+Found
+MODSMD_ARTICLE07: Wieder zwei rotspanische Deserteure verhastet.
+Found
+MODSMD_ARTICLE08: Französische Sorgen.
+Found
+MODSMD_ARTICLE09: Schulschiff „Schleswig-Holstein" in Falmouth.
+Found
+MODSMD_ARTICLE10: Informelle Besprechung im Rahmen der Palästina-Konferenz
+Found
+MODSMD_ARTICLE11: Neuer Bombenfund in England.
+Found
+MODSMD_ARTICLE12: Ein Attentat auf Hoare geplant?
+Found
+MODSMD_ARTICLE13: Feier des Unabhängigkeitstages in Estland.
+Found
+MODSMD_ARTICLE14: Der türkische Außenminister in Belgrad.
+Found
+MODSMD_ARTICLE15: Judengesetz vor dem ungarischen Abgeordnetenhaus.
+Found
+MODSMD_ARTICLE16: Tumult im belgischen Parlament.
+Found
+MODSMD_ARTICLE17: Feuergefechte zwischen! Arabern und britischen Soldaten.
+Found
+MODSMD_ARTICLE18: Eine bittere Lektion für Roosevelt.
+Found

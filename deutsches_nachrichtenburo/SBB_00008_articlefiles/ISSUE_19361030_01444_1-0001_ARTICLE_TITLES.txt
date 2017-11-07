@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Josef Wagner Reichskommissar für die Preisbildung.
+Found
+MODSMD_ARTICLE02: Goethe-Ehrung in Rom.
+Found
+MODSMD_ARTICLE03: Schulkreuzer „Emden" in Warna.
+Found
+MODSMD_ARTICLE04: Für Bereinigung der deutsch-französischen Beziehungen.
+Found
+MODSMD_ARTICLE05: Ter Direktor der „Action verhaftet.
+Found
+MODSMD_ARTICLE06: Veränderungen im englischen Kabinett.
+Found
+MODSMD_ARTICLE07: Tie Machenschaften des roten „Botschafters" in Paris.
+Found
+MODSMD_ARTICLE08: Erholungsurlaub Lord Cranbornes.
+Found
+MODSMD_ARTICLE09: Deutliche Worte Hoares an die Moskauer Internationale.
+Found
+MODSMD_ARTICLE10: Sowjetrussische Tanks gegen spanische Nationale.
+Found
+MODSMD_ARTICLE11: Die neue belgische Militärvorlage.
+Found
+MODSMD_ARTICLE12: Frühere englische Lieferungen an Madrid.
+Found
+MODSMD_ARTICLE13: Bessere Lage in Palästinn.
+Found
+MODSMD_ARTICLE14: Tropki von norwegischen Gerichten abgewiesen.
+Found
+MODSMD_ARTICLE15: Stojadinowitsch in Ankara.
+Found
+MODSMD_ARTICLE16: Steuersteckbrief und Vermögensbeschlagnahme.
+Found

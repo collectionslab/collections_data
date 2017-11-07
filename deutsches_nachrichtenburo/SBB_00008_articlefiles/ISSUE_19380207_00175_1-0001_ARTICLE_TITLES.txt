@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Zum deutsch-englischen Flottenbesuch in Lissabon.
+Found
+MODSMD_ARTICLE02: Portugiesische Offiziere an Bord der „Deutschland".
+Found
+MODSMD_ARTICLE03: Erfolgreicher Turchbruch an der Teruel-Front.
+Found
+MODSMD_ARTICLE04: Francas Antwort auf das bolschewistische Gezeter.
+Found
+MODSMD_ARTICLE06: „Giornale d'Jtalia" gegen das Piratenwesen in der Presse.
+Found
+MODSMD_ARTICLE07: Die Abordnung des Reichsverkehrsministers in Zakopane.
+Found
+MODSMD_ARTICLE08: Horthy Zur Staatsjagd nach Bialowiza abgereist.
+Found
+MODSMD_ARTICLE09: Wilnaer litauische Gesellschaft aufgelöst.
+Found
+MODSMD_ARTICLE10: Rumäniens Politik eine Politik der nationalen Würde.
+Found
+MODSMD_ARTICLE11: Japanische Würdigung der Verfügungen des Führers.
+Found
+MODSMD_ARTICLE12: Keine Mitteilungen Japans über seine Flottenpläne.
+Found
+MODSMD_ARTICLE13: Japanische Erfolge an der Südfront.
+Found
+MODSMD_ARTICLE14: Botschafter Dr. Dieckhoff sprach in Philadelphia.
+Found
+MODSMD_ARTICLE15: Eine Rundfunkrede Hulls.
+Found

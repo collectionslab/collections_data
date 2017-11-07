@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Italienische Urlauber in München.
+Found
+MODSMD_ARTICLE03: 800 Medizinstudierende auf Burg Vogelsang.
+Found
+MODSMD_ARTICLE04: Oesterreich und der Völkerbund.
+Found
+MODSMD_ARTICLE05: Botschafter von Stohrer in Spanien eingetroffen.
+Found
+MODSMD_ARTICLE06: Franco säubert die Büchereien.
+Found
+MODSMD_ARTICLE07: Nationalspanischer Kreuzer kapert i
+Found
+MODSMD_ARTICLE08: Delbos' Auffassung von Krieg und Krise.
+Found
+MODSMD_ARTICLE09: Vorbehalte der Balkanstaaten.
+Found
+MODSMD_ARTICLE10: Reuter zur Grenzkontrollfrage.
+Found
+MODSMD_ARTICLE11: 40 britische Zerstörer im Patrouillendienst im Mittelmeer.
+Found
+MODSMD_ARTICLE12: Englische Labour-Party braucht neue Mitglieder.
+Found
+MODSMD_ARTICLE13: Polnische Blätter zur Völkerbundssihung.
+Found
+MODSMD_ARTICLE14: Bolschewistische Agitation bei den Warschauer Bäckern.
+Found
+MODSMD_ARTICLE15: Verstärkter Terror Moskaus in der Ukraine.
+Found
+MODSMD_ARTICLE16: Kommunistische Geheimdruckerei in Tokio ausgehoben.
+Found
+MODSMD_ARTICLE17: Eine Rede Roosevelts.
+Found
+MODSMD_ARTICLE18: Die brasilianischen Bischöse verdammen den Kommumsmus.
+Found

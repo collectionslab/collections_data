@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Das Programm für die Feier des 8./9. November.
+Found
+MODSMD_ARTICLE02: Die Reichssieger des Studentenwettkampfes bei Rosenberg.
+Found
+MODSMD_ARTICLE03: Die Hakenkreuzflagge in Danzig.
+Found
+MODSMD_ARTICLE04: Lemberger Studenten veranstalteten „judenfreien Tag".
+Found
+MODSMD_ARTICLE05: Polenfeindliche Betätigung litauischer Organisationen.
+Found
+MODSMD_ARTICLE06: „Dziennik Poranny" erscheint nicht mehr.
+Found
+MODSMD_ARTICLE07: Pariser Streiks abgeblasen.
+Found
+MODSMD_ARTICLE08: Die Gebrechlichkeit der französischen Finanzlage.
+Found
+MODSMD_ARTICLE09: Die englische Presse zur Neunmächtekonferenz.
+Found
+MODSMD_ARTICLE10: Der Aufstand in Paraguay niedergeschlagen?
+Found
+MODSMD_ARTICLE11: Amerikanischer General Regierungsberater in Manila.
+Found

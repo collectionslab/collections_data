@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Fremdenverkehrsleiter Italiens in Berlin.
+Found
+MODSMD_ARTICLE02: Reichsautobahn Bad Nauheim—Gießen eröffnet.
+Not Found
+MODSMD_ARTICLE03: Oesterreichs Textilindustrie stellt sich auf Zellwolle um.
+Found
+MODSMD_ARTICLE04: Polnischer Aerzteverband für Arierparagraphen.
+Found
+MODSMD_ARTICLE05: Ministerpräsident Metaxas auf dem Wege nach Ankara.
+Found
+MODSMD_ARTICLE06: Auch in Bourges Ueberfälle durch Marxisten.
+Found
+MODSMD_ARTICLE07: Das Ergebnis der Arrondissementswahlen.
+Found
+MODSMD_ARTICLE08: Pariser Stimmen Zum Wahlausgang.
+Found
+MODSMD_ARTICLE09: Der Kreis um Gijon wird ständig kleiner.
+Found
+MODSMD_ARTICLE10: Ein bolschewistischer Wahltrick.
+Found
+MODSMD_ARTICLE11: Eine türkische Warnung vor dem Bolschewismus.
+Found
+MODSMD_ARTICLE12: Neue Zwischenfälle in Palästina.
+Found
+MODSMD_ARTICLE13: Paotau durch die Japaner eingenommen.
+Found
+MODSMD_ARTICLE14: Der mexikanische Staatspräsident gegen Krisengerüchte.
+Found
+MODSMD_ARTICLE15: Deutsche Halle auf der Mustermesse in Rio de Janeiro.
+Found
+MODSMD_ARTICLE16: Schärfste Maßnahmen gegen Kommunisten in Brasilien.
+Found

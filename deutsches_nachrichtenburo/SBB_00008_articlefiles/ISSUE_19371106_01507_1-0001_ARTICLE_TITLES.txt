@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Am 9. November wird Vollmast geflaggt
+Found
+MODSMD_ARTICLE02: Besuch des Reichsministers Seldte in Holland.
+Found
+MODSMD_ARTICLE03: Danziger Stellungnahme Zur deutsch-polnischenübereinkunft.
+Found
+MODSMD_ARTICLE04: Warschau zu den Minderheitenabmachungen.
+Found
+MODSMD_ARTICLE05: Fortdauernde Studentenunruhen in Polen.
+Found
+MODSMD_ARTICLE06: Polizeimaßnahmen gegen die „Nationale Partei" in Polen.
+Found
+MODSMD_ARTICLE07: Auf der Suche nach einem internationalen Zwischenfall.
+Found
+MODSMD_ARTICLE08: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE09: Die zunehmende Sowjetisierung Rotspaniens.
+Found
+MODSMD_ARTICLE10: 5 Millionen Patronen für Sowjetspanien.
+Found
+MODSMD_ARTICLE11: Empfang Zu Ehren König Georgs in Paris.
+Found
+MODSMD_ARTICLE12: Deutschland muß Zugang zu den Rohstoffen erhalten.
+Found
+MODSMD_ARTICLE13: Italienische Zeitschrift in 'Tunis verboten.
+Found
+MODSMD_ARTICLE14: Harte Strafen für nationalistische Araber.
+Found

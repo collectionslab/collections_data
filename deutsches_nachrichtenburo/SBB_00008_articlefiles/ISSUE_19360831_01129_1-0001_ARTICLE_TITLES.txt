@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Bau einer Zweiten Luftschiffhalle in Frankfurt am Main.
+Found
+MODSMD_ARTICLE02: Lustschiff „Hindenburg" in Rio de Janeiro.
+Found
+MODSMD_ARTICLE03: Ausstellung „Kunst und Kunsthandwerk am Bau".
+Found
+MODSMD_ARTICLE04: Schacholympia München 1936.
+Found
+MODSMD_ARTICLE05: Henlein spricht in drei sudetendeutschen Kundgedungen.
+Found
+MODSMD_ARTICLE06: ~Aftonbladet" zum Fall Trotzki.
+Found
+MODSMD_ARTICLE07: Trotzkis Sekretäre in Kopenhagen.
+Found
+MODSMD_ARTICLE08: Glückwunschbotschaften zwischen England und Aegypten.
+Found
+MODSMD_ARTICLE09: Lord Lothian zur Frage der Völkerbundsreform.
+Found
+MODSMD_ARTICLE10: Ein Hungermarsch nach London geplant.
+Found
+MODSMD_ARTICLE11: Tituleseu erkrankt.
+Found
+MODSMD_ARTICLE12: Polnische Stimmen zum Rücktritt Titulescus.
+Found
+MODSMD_ARTICLE13: Chiappe wiederum zum Abgeordneten gewählt.
+Found
+MODSMD_ARTICLE14: Ein französischer Priester in Andorra ermordet.
+Found
+MODSMD_ARTICLE15: Waffenstillstandsbesprechungen in St. Jean de Luz.
+Found
+MODSMD_ARTICLE16: Der Bormarsch der Nationalisten auf Toledo.
+Found
+MODSMD_ARTICLE17: Auch Fuenterrabia wird geräumt.
+Found
+MODSMD_ARTICLE18: Gemeine Kampftaktik der spanischen Marxisten.
+Found
+MODSMD_ARTICLE19: Zwei Kommunistenführer in Sevilla verhaftet.
+Found
+MODSMD_ARTICLE20: Spanisches Nugzeug bombardiert USA-Zerstörer.
+Found

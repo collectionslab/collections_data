@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Kammergerichtsrat Rempel zum Ministerialrat ernannt.
+Found
+MODSMD_ARTICLE02: Keine Verteuerung in Prag.
+Found
+MODSMD_ARTICLE03: „Politika" zur Mussolinirede.
+Found
+MODSMD_ARTICLE04: Die slowakisch-ungarischen Grenzverhandlungen.
+Found
+MODSMD_ARTICLE05: Erstmals ein aktiver Offizier in Litauen Ministerpräsident.
+Found
+MODSMD_ARTICLE06: 5W 000 Franken für die „geistige Landesverteidigung".
+Found
+MODSMD_ARTICLE07: Britisches Liebäugeln mit Moskau.
+Found
+MODSMD_ARTICLE08: Der spanische Botschafter bei Lord Halifax.
+Found
+MODSMD_ARTICLE09: Franeos Truppen in Madrid.
+Found
+MODSMD_ARTICLE10: Die nationalen Truppen in der Innenstadt.
+Found
+MODSMD_ARTICLE11: Falangisten übernehmen die Madrider Zivilverwaltung.
+Found
+MODSMD_ARTICLE12: Die Heldejn der Universitätsstadt in der Innenstadt.
+Found
+MODSMD_ARTICLE13: Der Vizekönig von Aethiopien hat Rom wieder verlassen.
+Found
+MODSMD_ARTICLE14: Für die Freiheit der Heimat gefallen.
+Found
+MODSMD_ARTICLE15: Außer Damaskus streikt jetzt auch Alep.po.
+Found
+MODSMD_ARTICLE16: Deutsch-argentinisches Wirtschaftsabkommen.
+Found

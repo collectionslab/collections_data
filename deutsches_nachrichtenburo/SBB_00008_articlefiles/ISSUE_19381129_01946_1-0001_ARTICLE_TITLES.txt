@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Litauische Messerstecher im Memelgebiet.
+Found
+MODSMD_ARTICLE02: Neda! gedenkt der Gründung des Baltenrcgiments.
+Found
+MODSMD_ARTICLE03: Estland gründet eine nationale Luftverkehrsgesellschaft.
+Found
+MODSMD_ARTICLE04: Tie Maulwurfsarbeit der Kommunisten.
+Found
+MODSMD_ARTICLE05: 3V Jahre Reichsdeutsche Schule in Budapest.
+Found
+MODSMD_ARTICLE06: Außenminister von Kanya zurückgetreten.
+Found
+MODSMD_ARTICLE07: Anschlag auf den Rektor der Universität Klausenburg.
+Found
+MODSMD_ARTICLE08: Agenzia Stefan: zum Chamberlain Besuch.
+Found
+MODSMD_ARTICLE09: Was Chamberlain mit Mussolin: besprechen will.
+Found
+MODSMD_ARTICLE10: Ministerpräsident Chamberlain berichtet dem .König.
+Found
+MODSMD_ARTICLE11: Englische Truppen hungern arabische Ortschaften ans.
+Found
+MODSMD_ARTICLE12: Juden finanzierten die sowjetrussische Revolution.
+Found
+MODSMD_ARTICLE13: Wo bleibt da die Konsequenz?
+Found
+MODSMD_ARTICLE14: Focke-Wuls „Condor" nach Tokio gestartet.
+Found

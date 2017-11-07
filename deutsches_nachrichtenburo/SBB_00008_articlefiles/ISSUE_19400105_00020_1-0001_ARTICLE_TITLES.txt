@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Deutsche Flieger über Paris.
+Found
+MODSMD_ARTICLE02: Englands Handel mit dem Südosten.
+Found
+MODSMD_ARTICLE03: Neujahrsempfang bei Staatspräsident Dr. Tiso.
+Found
+MODSMD_ARTICLE04: Der „Slowak" über die englische Schuld am Kriege.
+Found
+MODSMD_ARTICLE05: Raeder dankt dem Chef der schwedischen Marine.
+Found
+MODSMD_ARTICLE06: Die großen Erfolge der deutschen Seekriegsführung.
+Found
+MODSMD_ARTICLE07: Die Jtalienreise des ungarischen Außenministers.
+Found
+MODSMD_ARTICLE08: „Kein wichtiges Ereignis an den finnischen Fronten."
+Found
+MODSMD_ARTICLE09: Simon gibt zu: England in Jnflationsgefahr!
+Found
+MODSMD_ARTICLE10: Amerikanischer Protest auch in Paris.
+Found
+MODSMD_ARTICLE11: Neuer Justizminister in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE12: Amerikanische Untersuchung straft England Lügen.
+Found
+MODSMD_ARTICLE13: Die amerikanische Presse Zur Rooseveltrede.
+Found
+MODSMD_ARTICLE14: Der englische Imperialismus am Pranger.
+Found
+MODSMD_ARTICLE15: „Die Amerikaner sind verstimmt."
+Found

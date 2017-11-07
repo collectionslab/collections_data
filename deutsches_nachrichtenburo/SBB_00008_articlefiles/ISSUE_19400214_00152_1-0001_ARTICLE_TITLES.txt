@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Goebbels vor den Rednern der Partei.
+Found
+MODSMD_ARTICLE02: Der Abschluß des deutsch-russischen Handelsvertrages.
+Found
+MODSMD_ARTICLE03: Aufhebung der Zollgrenzen gegenüber dem Protektorat.
+Found
+MODSMD_ARTICLE04: Wieder deutsche Flieger über den Orkney-Inseln.
+Found
+MODSMD_ARTICLE05: Chamberlain sammelt schon Kirchenleuchter.
+Found
+MODSMD_ARTICLE06: Wie die Plutokratie Profite macht.
+Found
+MODSMD_ARTICLE07: Die britische Admiralität benötigt wieder 10 000 Fischer.
+Found
+MODSMD_ARTICLE08: Italiens Presse betont nochmals: Bon England ausgehetzt!
+Found
+MODSMD_ARTICLE09: Britischer Spitzel in Buenos Aires verhaftet.
+Found

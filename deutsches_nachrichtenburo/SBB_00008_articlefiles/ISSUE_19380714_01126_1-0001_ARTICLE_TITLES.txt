@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Bestätigung deutscher Bürgermeister im Gablonzer Bezirk.
+Found
+MODSMD_ARTICLE02: Uebereinstimmung der polnisch-lettischen Austenpolitik.
+Found
+MODSMD_ARTICLE03: „GaZeia Polska" über die Beziehungen Polens zu Lettland«
+Found
+MODSMD_ARTICLE04: Cot predigt Einkreisung Deutschlands und Luftüberfälle.
+Found
+MODSMD_ARTICLE05: Neue Angriffe gegen die englische Agrarpolitik.
+Found
+MODSMD_ARTICLE07: Offensichtlich eine Fälschung!
+Found
+MODSMD_ARTICLE08: Paris tanzt und singt acht Tage lang.
+Found
+MODSMD_ARTICLE09: Verjüngung des Obersten Kriegsrates in Frankreich?
+Found
+MODSMD_ARTICLE10: Frankreich das Land der Ausländer.
+Found
+MODSMD_ARTICLE11: Keine Olympischen Spiele 194 V in Tokio.
+Found
+MODSMD_ARTICLE12: Die Untersuchung der Städtebombardierungen.
+Found
+MODSMD_ARTICLE13: So wird die Freiwilligenzurückziehung sabotiert.
+Found
+MODSMD_ARTICLE14: Nationalspamscher Heeresbericht.
+Found
+MODSMD_ARTICLE15: Der Araberführer Arzuzi in Damaskus.
+Found

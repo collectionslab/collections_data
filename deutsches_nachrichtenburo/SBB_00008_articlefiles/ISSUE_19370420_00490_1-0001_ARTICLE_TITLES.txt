@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer in München.
+Found
+MODSMD_ARTICLE02: Gaben der Liebe als Zeichen der Treue.
+Found
+MODSMD_ARTICLE03: Die Reichshauptstadt feiert.
+Found
+MODSMD_ARTICLE04: Mütterehrung im Traditionsgau München-Oberbayern.
+Found
+MODSMD_ARTICLE05: Revolveranschlag auf sudetendeutschen Abgeordneten.
+Found
+MODSMD_ARTICLE06: Bolschewistische Verleumder vor Gericht.
+Found
+MODSMD_ARTICLE07: Bolschewisten gegen hungernde Madrider Frauen.
+Found
+MODSMD_ARTICLE08: Grauenhafte Bolschewistenparodie auf den Tod Christi.
+Found
+MODSMD_ARTICLE09: Amerikanische Flugzeuge für die Bolschewisten.
+Found
+MODSMD_ARTICLE10: „Matin" über die Bauernnot in Volksfront-Frankreich.
+Found
+MODSMD_ARTICLE11: Veränderungen in der amerikanischen Diplomatie.
+Found
+MODSMD_ARTICLE12: Schwierige Lage in Waziristan.
+Found
+MODSMD_ARTICLE13: Sowjetbotschafter bei Japans Außenminister.
+Found
+MODSMD_ARTICLE14: KonZerterfolg Wilhelm Kempffs in Rio de Janeiro.
+Found

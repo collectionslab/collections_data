@@ -1,0 +1,8 @@
+MODSMD_ARTICLE02: Die Triumphfahrt zum Hotel.
+Found
+MODSMD_ARTICLE03: Einzug der Fahnen in die Festhalle.
+Found
+MODSMD_ARTICLE04: Durch jubelnde Massen zur Festhalle.
+Found
+MODSMD_ARTICLE05: Der Führer in der Festhalle.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Weltkongreß für Gewerblichen Rechtsschutz.
+Found
+MODSMD_ARTICLE02: Gräfin Ciano in Berlin.
+Found
+MODSMD_ARTICLE03: Drei Hauptforderungen für die englische Austenpolitik.
+Found
+MODSMD_ARTICLE04: Die englische Presse begrüßt den Negus.
+Found
+MODSMD_ARTICLE05: Anschlag auf britischen Truppentransportzng in Palästina.
+Found
+MODSMD_ARTICLE06: Die Erfolge bolschewistischer Wühlarbeit.
+Found
+MODSMD_ARTICLE07: Kommunistische Streikhetze in Antwerpen.
+Found
+MODSMD_ARTICLE08: Die Streikbewegung in Frankreich.
+Found
+MODSMD_ARTICLE09: Generalstreik der Bergarbeiter in Asturien.
+Found
+MODSMD_ARTICLE10: Stojadinowitsch fährt nicht nach Bukarest.
+Found
+MODSMD_ARTICLE11: Der Sprecher des Repräsentantenhauses gestorben.
+Found

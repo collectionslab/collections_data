@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Polnischer Besuch im Adolf-Hitler-Koog.
+Found
+MODSMD_ARTICLE02: Eden will keine neuen Vorschläge unterbreiten.
+Found
+MODSMD_ARTICLE03: Der Bericht der Palästina-Kommission.
+Found
+MODSMD_ARTICLE05: Die Grenzziehung in Palästina.
+Found
+MODSMD_ARTICLE06: Erhebliche Erweiterung des Handelsverkehrs mit Ungarn.
+Found
+MODSMD_ARTICLE07: Tie Manöver um die Nichteinmischung.
+Found
+MODSMD_ARTICLE08: Feuergefecht Zwischen Streikenden und Polizisten in USA.
+Found

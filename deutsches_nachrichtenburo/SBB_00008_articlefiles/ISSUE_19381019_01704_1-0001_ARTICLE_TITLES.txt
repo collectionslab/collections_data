@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Der Führer gratuliert Frenssen zum 75. Geburtstag.
+Found
+MODSMD_ARTICLE02: Göring an den Oberbürgermeister von Leipzig.
+Found
+MODSMD_ARTICLE03: Uebergabe des IN. kl an General von Epp in Winterberg»
+Found
+MODSMD_ARTICLE04: Produktionsbeginn des KdF.-Wagens Ende 1939.
+Found
+MODSMD_ARTICLE05: Oberst Lindbergh besichtigte die Messerschmitt-Werke.
+Found
+MODSMD_ARTICLE06: Winterheilkuren für Kinder.
+Found
+MODSMD_ARTICLE07: Das Ergebnis der Deutschen Kunstausstellung 1838.
+Found
+MODSMD_ARTICLE08: Noch keine Präsidentenwahl in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE09: „Deutsche Partei" iu der .Karpatho Ukraine.
+Found
+MODSMD_ARTICLE10: Kontrolle über jüdische Emigranten in der Slowakei.
+Found
+MODSMD_ARTICLE11: Ministerpräsident Brody reist nach Budapest.
+Found
+MODSMD_ARTICLE12: Sidor von dem polnischen Siellv. Austenminister empfangen.
+Found
+MODSMD_ARTICLE13: Der Vater des Prinzregenten Vau! gestorben.
+Found
+MODSMD_ARTICLE14: Das britische Kabinett besprach Palästina.
+Found
+MODSMD_ARTICLE15: Chambcrlain vom König in Audienz empfangen.
+Found
+MODSMD_ARTICLE16: Veränderungen in Ungarns staatlicher Propagandaleitung.
+Found
+MODSMD_ARTICLE17: Maudschukuos Botschafter bei Francs.
+Found
+MODSMD_ARTICLE18: Todesurteil gegen Araber.
+Found
+MODSMD_ARTICLE19: IIM britische Soldaten suchen nach Freischärlern.
+Found
+MODSMD_ARTICLE20: Feuexkamps um die Jerusalemer Altstadt.
+Found
+MODSMD_ARTICLE21: Rekordflug der „Nordstern".
+Found

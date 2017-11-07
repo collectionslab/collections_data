@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Die Hindenburgspende beschenkt 3000 Kriegsopfer.
+Found
+MODSMD_ARTICLE03: Tie Gebietsbereinigung im Osten vollzogen.
+Found
+MODSMD_ARTICLE04: Die Evangelische Kirche grüßt die Sudetendeutschen.
+Found
+MODSMD_ARTICLE05: Rechtssahrordnung in den sudetendeutschen Gebieten.
+Found
+MODSMD_ARTICLE06: Grenzübergang im alten Dreiländerwinkel.
+Found
+MODSMD_ARTICLE07: Einmarsch der deutschen Truppen bei Glöckelberg.
+Found
+MODSMD_ARTICLE08: Ungarn von den Tschechen als Geiseln verhaftet.
+Found
+MODSMD_ARTICLE09: Paris für umfassende Befriedung.
+Found
+MODSMD_ARTICLE10: Jugoslawiens Presse zu den Münchener Besprechungen.
+Found
+MODSMD_ARTICLE11: „Allein von Moskau droht Gefahr."
+Found
+MODSMD_ARTICLE12: Frohe Zuversicht in der uatioualspauischen Presse.
+Found
+MODSMD_ARTICLE13: Japanische Glückwünsche an den Führer.
+Found

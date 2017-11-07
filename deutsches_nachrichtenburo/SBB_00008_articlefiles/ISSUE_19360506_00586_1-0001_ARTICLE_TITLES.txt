@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Abschiedsessen sür den bulgarischen Gesandten.
+Found
+MODSMD_ARTICLE02: Reichstagung der Sozialarbeiterinnen in Betrieben.
+Found
+MODSMD_ARTICLE03: Der italienische Landwirtschaftsminister in Dortmund.
+Found
+MODSMD_ARTICLE04: SS-Gruppenführer von dem Bach-Zelewski in Belgrad.
+Found
+MODSMD_ARTICLE05: Eden vor dem Unterhaus.
+Found
+MODSMD_ARTICLE06: Die „Hmnaniw" tadelt Sarraut.
+Found
+MODSMD_ARTICLE07: Die Genfer Außenminister-Besprechungken.
+Found
+MODSMD_ARTICLE08: Der Phönix-Skandal: Verhaftungen in Prag.
+Found
+MODSMD_ARTICLE09: Die Tagung der Balkan-Entente abgeschlossen.
+Found
+MODSMD_ARTICLE10: Niesenfeuer in einer galizischen Stadt.
+Found
+MODSMD_ARTICLE11: König Faruk in Kairo,
+Found
+MODSMD_ARTICLE12: Aufstand im Irak.
+Found
+MODSMD_ARTICLE13: Freilassung der verhafteten Streikführer in Palästina.
+Found
+MODSMD_ARTICLE14: Großes Reformprogramm der japanischen Regierung.
+Found
+MODSMD_ARTICLE15: Die amerikanische Presse zur Entwicklung in Abessinien.
+Found

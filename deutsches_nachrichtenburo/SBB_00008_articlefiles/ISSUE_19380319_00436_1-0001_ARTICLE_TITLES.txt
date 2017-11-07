@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Goldenes Ehrenzeichen für Staatssekretär Pfundtner. *
+Found
+MODSMD_ARTICLE02: Der Führer an den Wiener Oberbürgermeister.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels spricht am Dienstag im Sportpalast.
+Found
+MODSMD_ARTICLE04: Der Chef der österreichischen Luftstreitkräfte in Berlin.
+Found
+MODSMD_ARTICLE05: Das Auslandsecho der Führerrede.
+Found
+MODSMD_ARTICLE06: Besuch des finnischen Armeebefehlshabers in Berlin.
+Found
+MODSMD_ARTICLE07: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE08: Warenverkehr Frankreich—Nationalspanien wieder frei.
+Not Found
+MODSMD_ARTICLE09: Weitere Vertagung der außenpolitischen Kammerdebatte?
+Found
+MODSMD_ARTICLE10: Neue Wirtschaftsabkommen zwischen England und Italien.
+Found
+MODSMD_ARTICLE11: Eine Erklärung des Staatssekretärs Len-nox-Boyd.
+Found
+MODSMD_ARTICLE12: Ausgleich zwischen Warschau upd Kowno.
+Found
+MODSMD_ARTICLE13: Neuer Priestermord in der Sowjetunion.
+Found
+MODSMD_ARTICLE14: Polnisches Ausbürgerungsgesetz für Auslandspolen.
+Found
+MODSMD_ARTICLE15: Die Kennzahl der Großhandelspreise vom 16. März.
+Found

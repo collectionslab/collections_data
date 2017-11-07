@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Professor Carl Froelich Präsident der Reichsfilmkammer.
+Found
+MODSMD_ARTICLE02: Deutschlands Beileid zur Unwetterkatastrophe in Bulgarien.
+Found
+MODSMD_ARTICLE03: Verlängerung des deutsch-französischen Filmabkowmens.
+Found
+MODSMD_ARTICLE04: Trübselige Betrachtungen zu den Paktverhandlungen.
+Found
+MODSMD_ARTICLE05: Pariser Bestürzung über die Niederlage Roosevelts.
+Found
+MODSMD_ARTICLE06: Ministerrat in Burlos.
+Found
+MODSMD_ARTICLE07: Baron Perenyi Kommissar des Karpathmlandes.
+Found
+MODSMD_ARTICLE08: Unverschämte polnische Forderungen.
+Found
+MODSMD_ARTICLE09: Die französisch-türkischen Vereinbarungen.
+Found
+MODSMD_ARTICLE10: Japan verlangt Aenderung der britischen Politik.
+Found
+MODSMD_ARTICLE11: Die Blockade in Tientsin verschärft.
+Found
+MODSMD_ARTICLE12: „New Jork Daily News": „Danzig ist deutsch!"
+Found
+MODSMD_ARTICLE13: Die „Antineutralitätsvorlage" vor dem Abgeordnetenhaus.
+Found
+MODSMD_ARTICLE14: Neue schwere Niederlage Roosevelts im Senat.
+Found
+MODSMD_ARTICLE15: Jüdische Hetzschrift kann nicht leben.
+Found
+MODSMD_ARTICLE16: 1,7 Milliarden für 11 Millionen Arbeitslose.
+Found
+MODSMD_ARTICLE17: Der Korruptiousskandal von Louisiana.
+Found

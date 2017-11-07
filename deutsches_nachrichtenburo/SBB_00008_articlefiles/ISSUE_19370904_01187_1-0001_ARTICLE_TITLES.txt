@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Diplomaten als Gäste des Führers in Nürnberg.
+Found
+MODSMD_ARTICLE02: Abschied des iranischen Gesandten von Berlin.
+Found
+MODSMD_ARTICLE03: Abschluß der deutsch-türkischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE04: Lutze und Tschammer und Osten vor den Ausländsdeutschen.
+Found
+MODSMD_ARTICLE05: „Revolutionäre Solidarität."
+Found
+MODSMD_ARTICLE06: Eindeutige Beweise für das rote Verbrechen.
+Found
+MODSMD_ARTICLE07: Die Deutschlandreise Mussolinis.
+Found
+MODSMD_ARTICLE08: Companys gegen Valencia.
+Found
+MODSMD_ARTICLE09: Tie Schatzhöhle bolschewistischer Häuptlinge.
+Found
+MODSMD_ARTICLE10: England fordert Aufklärung.
+Found
+MODSMD_ARTICLE11: Arabischer Kongreß über die Palästina-Frage.
+Found
+MODSMD_ARTICLE12: Lewis versucht Roosevelt unter Druck zu setzen.
+Found
+MODSMD_ARTICLE13: Protest deutschstämmiger Brasilianer.
+Found

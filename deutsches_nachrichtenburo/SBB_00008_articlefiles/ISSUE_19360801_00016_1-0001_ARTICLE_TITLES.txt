@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Ehrung für Baron de Coubertin.
+Found
+MODSMD_ARTICLE02: Der Bürgermeister von Pyrgos an den Führer.
+Found
+MODSMD_ARTICLE03: Lewald empfängt im. Berliner Schloß.
+Found
+MODSMD_ARTICLE04: Tagung des Internationalen Fecht-Verbandes.
+Found
+MODSMD_ARTICLE05: Internationale Automobil- und Motorradfahrer in Berlin.
+Found
+MODSMD_ARTICLE06: Olympia-Großflugtag in Berlin-Tempelhof.
+Found
+MODSMD_ARTICLE07: Eröffnung des Internationalen Jugendlagers.
+Found
+MODSMD_ARTICLE08: Lustschiff „Hindenburg" am Sonnabend über Berlin.
+Found
+MODSMD_ARTICLE09: Der Austragungsort der XII. Olympischeu Spiele.
+Found
+MODSMD_ARTICLE10: Begeisterung in Tokio.
+Found
+MODSMD_ARTICLE11: Frankreich und die Olympia-Borbereitungen.
+Found
+MODSMD_ARTICLE12: Die Mailänder Presse zur Eröffnung der Olympiade.
+Found

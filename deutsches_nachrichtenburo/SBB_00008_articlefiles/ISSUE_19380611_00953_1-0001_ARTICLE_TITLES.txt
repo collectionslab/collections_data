@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer gibt das Zeichen zum Baubeginn in Berlin.
+Found
+MODSMD_ARTICLE02: Gör'mg an die Reichstaglmg „Kraft durch Freude"»
+Found
+MODSMD_ARTICLE03: Dr. Leh verkündet den Sportappell der Betriebe.
+Found
+MODSMD_ARTICLE04: Zukunftsaufgaben der Reichsversicherung.
+Found
+MODSMD_ARTICLE05: Englicher Besuch in Hannover.
+Found
+MODSMD_ARTICLE06: Gewalttätigkeiten ohne Ende!
+Found
+MODSMD_ARTICLE07: Ein Aufruf Pater Hlinkas.
+Found
+MODSMD_ARTICLE08: „Es gibt keine tschechoslowakische Nation."
+Found
+MODSMD_ARTICLE09: Ein Franzose fordert Korrektur in Mitteleuropa.
+Found
+MODSMD_ARTICLE10: Englischer Major nach der Tschechoslowakei entsandt.
+Found
+MODSMD_ARTICLE11: Deutsch-französische Wirtschaftsverhandlnugen.
+Found
+MODSMD_ARTICLE12: Nur keine „einseitige Initiative"!
+Found
+MODSMD_ARTICLE13: Unaufhaltsamer Vormarsch der nationalen Truppen.
+Found
+MODSMD_ARTICLE14: Aegyptisch-indische Zusammenarbeit.
+Found
+MODSMD_ARTICLE15: Verstärkte Unruhe in Palästina.
+Found
+MODSMD_ARTICLE16: Das Erdbeben in Westeuropa.
+Found

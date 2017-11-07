@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Fühlungnahme deutsch-holländischer Wirtschaftler.
+Found
+MODSMD_ARTICLE02: Erster Deutscher Tierärztetag eröffnet.
+Found
+MODSMD_ARTICLE03: Reichsbankpräsident Dr. Schacht in Wien.
+Found
+MODSMD_ARTICLE04: „Popolo d'Jtalia" über den Angriff auf Guadalajara.
+Found
+MODSMD_ARTICLE05: Die Besprechungen Hodschas in Bukarest beendet.
+Found
+MODSMD_ARTICLE06: Telegrammwechsel Zwischen König Carol und Moscicki.
+Found
+MODSMD_ARTICLE07: Abfahrt der „Queen Mary" durch Streik verzögert.
+Found
+MODSMD_ARTICLE08: Ein bekehrter Pazifist.
+Found
+MODSMD_ARTICLE09: Volle Souveränität Irlands über seine Häfen gefordert.
+Found
+MODSMD_ARTICLE10: Frobenius in Lissabon: Ehrung Vasco da Gamas.
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht vom Mittwoch.
+Found
+MODSMD_ARTICLE12: Ausländische Konsuln verlassen Santander.
+Found
+MODSMD_ARTICLE13: Japan plant Arbeitsdienstpflicht nach deutschen Muster.
+Found
+MODSMD_ARTICLE14: Deutsche Ehrung für Fürst Tokugawa.
+Found
+MODSMD_ARTICLE15: General Lima verhaftet.
+Found
+MODSMD_ARTICLE16: Vollstreckung eines Todesurteils.
+Found

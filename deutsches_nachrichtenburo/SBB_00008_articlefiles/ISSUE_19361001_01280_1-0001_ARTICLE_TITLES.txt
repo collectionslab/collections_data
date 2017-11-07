@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Das Programm des Erntedanktages 1936.
+Found
+MODSMD_ARTICLE02: Ausklang in Goslar.
+Found
+MODSMD_ARTICLE03: Weltkonvention zum Schutze des Urheberrechts vorgeschlagen.
+Found
+MODSMD_ARTICLE04: Keine Gesinnungskompromisse in Tanzig.
+Found
+MODSMD_ARTICLE05: Die Abwertungsvorlage vor Senat und Kammer.
+Found
+MODSMD_ARTICLE06: Leon Blum und Spinasse reisen nach Genf.
+Found
+MODSMD_ARTICLE07: Ruschlag auf einen englischen Militärtransport.
+Found
+MODSMD_ARTICLE08: Gegensätze bei den englischen Konservativen überwunden?
+Found
+MODSMD_ARTICLE09: Lloyd George als Bienenzüchter.
+Found
+MODSMD_ARTICLE10: Tie britischen Verluste in Palästina.
+Found
+MODSMD_ARTICLE11: Abrüstungsausschuß des Völkerbundes wieder eingesetzt.
+Found
+MODSMD_ARTICLE12: Kallio übernimmt Neubildung der finnischen Regierung.
+Found
+MODSMD_ARTICLE13: Dampfer „Athen" im Hafen von Piräus.
+Found
+MODSMD_ARTICLE14: Die ärztliche Betreuung der Alkazar-Helden.
+Found
+MODSMD_ARTICLE15: Die „Cabo San Antonio" auch in Uruguay unerwünscht.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer im Olympia-Stadion. Sven Hedin spricht.
+Found
+MODSMD_ARTICLE02: Wieder eine Goldmedaille für Deutschland.
+Found
+MODSMD_ARTICLE03: Deutsche Fußballmannschaft schlägt Luxemburg 9 :9.
+Found
+MODSMD_ARTICLE04: Helen Stephens (USA) gewinnt den 100-Meter-Lauf.
+Found
+MODSMD_ARTICLE05: Woodruff (Amerika) gewinnt die 800 Meter.
+Found
+MODSMD_ARTICLE06: Harding (USA) gewinnt den 400 Meter-Hürdenlauf.
+Found
+MODSMD_ARTICLE07: Italien Florett-Sieger, Deutschland an dritter Stelle.
+Found
+MODSMD_ARTICLE08: Polo-Kampf Deutschland—Ungarn unentschieden.
+Not Found
+MODSMD_ARTICLE09: Sven Hedin: „Ich bewundere diese großartigen Spiele".
+Found
+MODSMD_ARTICLE10: Die Mitarbeiter des Olympiasiegers Werner March.
+Found
+MODSMD_ARTICLE11: Empfang "ehemaliger Olympia-Sieger im Berliner Rathaus
+Found
+MODSMD_ARTICLE12: Gefallenenehrung am Marine-Ehrenmal in Laboe.
+Found
+MODSMD_ARTICLE13: Seglerempfang beim Kommandierenden Admiral.
+Found
+MODSMD_ARTICLE14: Ruft au den dritten Olympia-Sieger im Kugelstoßen.
+Found
+MODSMD_ARTICLE15: „In Berlin wird wahre Friedensarbeit geleistet".
+Found

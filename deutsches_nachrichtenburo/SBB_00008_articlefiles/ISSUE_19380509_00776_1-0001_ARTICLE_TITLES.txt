@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer ehrt die gefallenen Faschisten.
+Found
+MODSMD_ARTICLE02: Ein Kranz des Führers für General Siciliani.
+Found
+MODSMD_ARTICLE03: Der Rundfunk berichtet über die Ankunft des Führers.
+Found
+MODSMD_ARTICLE04: Die italienische Wehrmacht.
+Found
+MODSMD_ARTICLE05: Die Steuersachverständigen tagen.
+Found
+MODSMD_ARTICLE06: Gauleiter Sprenger empfing Handwerksführer.
+Found
+MODSMD_ARTICLE07: Deutscher Fliegererfolg in Belgien.
+Found
+MODSMD_ARTICLE08: Vor einer englischen Erklärung in Genf.
+Found
+MODSMD_ARTICLE09: Die Verhandlungen der belgischen Minister in Paris.
+Found
+MODSMD_ARTICLE10: Jean Götz siegte.
+Found
+MODSMD_ARTICLE11: Der Schritt Londons und Paris' in Prag.
+Found
+MODSMD_ARTICLE12: Wieder „Gespensterflieger".
+Found
+MODSMD_ARTICLE13: 59 Jahre Deutsche Schule in Saloniki.
+Found
+MODSMD_ARTICLE14: Türkischer Staatsbesuch in Jugoslawien.
+Found
+MODSMD_ARTICLE15: Rücktrittsgefuch Aly Mäher Paschas.
+Found

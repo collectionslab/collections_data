@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die deutsche Wehrmacht fordert die Uebergabe Warschaus.
+Found
+MODSMD_ARTICLE02: Polen verwendet Gelbkreuz!
+Found
+MODSMD_ARTICLE03: Die tapferen Gegner zur letzten Ruhe gebettet.
+Found
+MODSMD_ARTICLE04: Einmarsch der Sowjetarmee in Ostpolen.
+Found
+MODSMD_ARTICLE05: „Kaum eine Hoffnung, sich der Niederlage zu entziehen."
+Found
+MODSMD_ARTICLE06: Schweden: „Irreführende Propaganda ist verwerflich."
+Found
+MODSMD_ARTICLE07: Polmsche Regierung nach Rumänien geflohen.
+Found
+MODSMD_ARTICLE08: Der türkische Außenminister begibt sich nach Moskau.
+Found
+MODSMD_ARTICLE09: USA-General beschuldigt Washington tendenziöser Retusche.
+Found
+MODSMD_ARTICLE10: Der Kampf um die Neutralität der Vereinigten Staaten.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Mit fremden Augen.
+Found
+MODSMD_ARTICLE03: Der Dank des Warschauer Diplomatischen Korps.
+Found
+MODSMD_ARTICLE04: Deutsche Besprechungen über die Umsiedlung.
+Found
+MODSMD_ARTICLE05: Beisetzung von Dr. Sahm.
+Found
+MODSMD_ARTICLE06: Für Geld sein Vaterland verraten.
+Found
+MODSMD_ARTICLE07: Munters über den Beistandspakt mit der UdSSR.
+Found
+MODSMD_ARTICLE08: „Novosti": „Adolf Hitler vollkommen konsequent."
+Found
+MODSMD_ARTICLE09: „Jswestija"-Artikel hat in London eingeschlagen.
+Found
+MODSMD_ARTICLE10: „Die Haltung des Faschismus hat sich niemals geändert."
+Found
+MODSMD_ARTICLE11: Argentinien unterstreicht seine Neutralität.
+Found
+MODSMD_ARTICLE12: „England sollte lieber erst seine Kriegsschulden bezahlen."
+Found

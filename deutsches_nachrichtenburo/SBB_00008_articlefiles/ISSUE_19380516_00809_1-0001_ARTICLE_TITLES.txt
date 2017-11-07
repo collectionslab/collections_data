@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers an eine Hundertjährige.
+Found
+MODSMD_ARTICLE02: Kantate-Versammlung der deutschen Buchhändler zu Leipzig.
+Found
+MODSMD_ARTICLE03: Jmredi: Ungarns Außenpolitik wird nicht geändert.
+Found
+MODSMD_ARTICLE04: General Skwarizynski beim polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE05: Neues litauisch-polnisches Verkehrsabkommen.
+Found
+MODSMD_ARTICLE06: Begeisterte Aufnahme des Olympia-Films auch in Lettland.
+Found

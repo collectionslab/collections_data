@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die Sitzung des Nichteinmischungsausschuffes.
+Found
+MODSMD_ARTICLE02: Der Führer beglückwünscht den Reichsstatthalter in Bayern.
+Found
+MODSMD_ARTICLE03: Berlins letzter Gruß an die Toten von Bühl.
+Found
+MODSMD_ARTICLE04: „Schaffendes Volk" ein großer Erfolg.
+Found
+MODSMD_ARTICLE05: Kommunisten-Verhaftungen in Oestereich.
+Found
+MODSMD_ARTICLE06: Beisetzung der Opfer von Schacht „Nordstern".
+Found
+MODSMD_ARTICLE07: Der Führer des italienischen Fremdenverkehrs in München.
+Found
+MODSMD_ARTICLE08: Reichsführer SS. Himmler in Rom eingetroffen.
+Found
+MODSMD_ARTICLE09: Frankreich schafft sich eine neue Fremdenpolizei.
+Found

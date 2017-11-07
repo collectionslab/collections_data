@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Neurath dankt Gesandtschaftsrat Strohm.
+Found
+MODSMD_ARTICLE02: Minister Rossoni im Münchener Rathaus.
+Found
+MODSMD_ARTICLE03: Dr. Bartels ständiger Stellvertreter des Reichsärzteführers.
+Found
+MODSMD_ARTICLE04: München Sitz der Reichsärztekammer.
+Found
+MODSMD_ARTICLE05: Neuer Präsident der Reichspostdirektion Kiel.
+Found
+MODSMD_ARTICLE06: Dr. Fritz Klein tödlich verunglückt.
+Found
+MODSMD_ARTICLE07: Der „Missions-Verlag" in Hamburg verboten.
+Found
+MODSMD_ARTICLE08: Die Rückfahrt des „Graf Zeppelin".
+Found
+MODSMD_ARTICLE09: Die Volksfront tritt in Aktion.
+Found
+MODSMD_ARTICLE10: Französische Blätter über die Belgrader Besprechungen.
+Found
+MODSMD_ARTICLE11: Frankreich und die Aufhebung der Sanktionen.
+Found
+MODSMD_ARTICLE12: Eine neue ungarische Warnung vor der roten Gefahr.
+Found
+MODSMD_ARTICLE13: Polens Stellungnahme zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE15: Das Programm der Revaler Außenministerkonferenz.
+Found
+MODSMD_ARTICLE16: Ab 15. Mai arabischer Steuerstreik in Palästina.
+Found
+MODSMD_ARTICLE17: England wirft Truppen nach Palästina?
+Found
+MODSMD_ARTICLE18: Sieg der Wafd-Partei auch bei den Senatswahlen.
+Found
+MODSMD_ARTICLE19: Einsetzung eines Kriegsgerichts in Addis Abeba.
+Found
+MODSMD_ARTICLE20: Tie Nachrichtenübermittlung in Addis Abeba.
+Found

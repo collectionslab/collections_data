@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Vtl Mm sn die Wehrmacht
+Found
+MODSMD_ARTICLE02: Damia kchrt heim ins Krich
+Found
+MODSMD_ARTICLE03: Der Führer bestätigt die Heimkehr Danzigs.
+Found
+MODSMD_ARTICLE04: Der Reichstag einberufen.
+Found
+MODSMD_ARTICLE05: Verbot des gesamten Luftverkehrs.
+Found
+MODSMD_ARTICLE06: Treuekundgebung für den Führer.
+Found
+MODSMD_ARTICLE07: Polnische Angriffe auf Reichsgebiet.
+Found
+MODSMD_ARTICLE08: Der deutsch-russische Pakt ratifiziert.
+Found

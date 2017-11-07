@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der nationale Feiertag.
+Found
+MODSMD_ARTICLE02: Der Führer gratuliert von Ribbentrop.
+Found
+MODSMD_ARTICLE03: Vereidigung der albanischen Leibgarde.
+Found
+MODSMD_ARTICLE04: Spanische Militärmission in Neapel eingetroffen.
+Found
+MODSMD_ARTICLE05: Korfanty in Polen verhaftet.
+Found
+MODSMD_ARTICLE06: Noch ein Sowjetadmiral in der Versenkung verschwunden.
+Found
+MODSMD_ARTICLE07: Papen überreicht sein Beglaubigungsschreiben.
+Found
+MODSMD_ARTICLE08: Die deutschen Schriftleiter bei der Geburtstagsparade.
+Found
+MODSMD_ARTICLE09: So verdient die amerikanische Rüstungsindustrie.
+Found

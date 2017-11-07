@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Kriegsflagge der alten „Emden" übergeben.
+Found
+MODSMD_ARTICLE02: Dienstag Sitzung des Nichteinmischungsunterausschusses.
+Found
+MODSMD_ARTICLE03: England will in USA Flugzeuge kaufen.
+Found
+MODSMD_ARTICLE04: Primas von Irland fordert Kampf gegen Kommunismus.
+Found
+MODSMD_ARTICLE05: Britische Zugeständnisse an die Araber in Palästina.
+Found
+MODSMD_ARTICLE06: Diplomaten-Empfänge bei Delbos.
+Found
+MODSMD_ARTICLE07: Streiks in den elsässischen Kaligruben beendet.
+Found
+MODSMD_ARTICLE08: Frankreich baut den Hafen Dschibuti aus.
+Found
+MODSMD_ARTICLE09: Botschafter Lipski beim polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE10: „Gazeta Polska" warnt Litauen.
+Found
+MODSMD_ARTICLE11: Rumänien und das Abkommen von Montreux.
+Found
+MODSMD_ARTICLE12: Kommunistische Propagandakonferenz in Wien ausgehoben.
+Found
+MODSMD_ARTICLE13: Der Skandal um die Spielbank Baden bei Wien.
+Found
+MODSMD_ARTICLE14: Bisher 3W Dänen nach Sowjetspanien gelockt.
+Found
+MODSMD_ARTICLE15: Der bolschewistische Goldschmuggel aus Spanien.
+Found
+MODSMD_ARTICLE16: General Frauco über die Zukunft Spaniens.
+Found
+MODSMD_ARTICLE17: Madrider Front wieder in Bewegung.
+Found
+MODSMD_ARTICLE18: Neue Fortschritte an der Malaga-Front.
+Found
+MODSMD_ARTICLE19: Französische Spanien-Rückkehrer in Toulon.
+Found
+MODSMD_ARTICLE20: Moskau kann das Chaos nicht verheimlichen.
+Found

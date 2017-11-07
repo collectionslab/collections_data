@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Der Führer gratuliert dem König von Schweden.
+Found
+MODSMD_ARTICLE02: Prof. Schulhe-Naumburg erhielt die Goethe-Medaille.
+Found
+MODSMD_ARTICLE03: Beileid des Reichsarbeitsministers.
+Found
+MODSMD_ARTICLE04: SS.-Grnppenführer Weinreich bei Dr. Frick.
+Found
+MODSMD_ARTICLE05: Leitende italienische Postbeamte in Berlin.
+Found
+MODSMD_ARTICLE06: Die Fahrt der Alten Garde.
+Found
+MODSMD_ARTICLE07: 20 neue polnische „Zollinspektoren" in Tanzig.
+Found
+MODSMD_ARTICLE08: Wahnsinnsanfall eines polnischen Generals.
+Found
+MODSMD_ARTICLE09: Zahlreiche Deutsche zu Gefängnis verurteilt.
+Found
+MODSMD_ARTICLE10: „Slowo" gegen die Lügenhetze des Auslands.
+Found
+MODSMD_ARTICLE11: Die Slowakei über „den bevorstehenden deutschen Einmarsch".
+Found
+MODSMD_ARTICLE12: Neuer Senatspräsident in Rumänien.
+Found
+MODSMD_ARTICLE13: Gasencn in Athen eingetroffen.
+Found
+MODSMD_ARTICLE14: Tuner überbrachte dem Duce eine Freundschaftsbotschaft.
+Found
+MODSMD_ARTICLE15: Das neue holländische Militärgesetz angenommen.
+Found
+MODSMD_ARTICLE16: Strang bei Molotow.
+Found
+MODSMD_ARTICLE17: Eine Propaganda-Abteilung im britischen Außenamt.
+Found
+MODSMD_ARTICLE18: Chamberlain zur Lage in Tientsin.
+Found
+MODSMD_ARTICLE19: Englisch-franZösisch-amerikanischer Protest in Tokio?
+Found
+MODSMD_ARTICLE20: Planmäßiger Verlauf der Tientsin-Blockade.
+Found
+MODSMD_ARTICLE21: D-Zug Berlin—Prag entgleist.
+Not Found

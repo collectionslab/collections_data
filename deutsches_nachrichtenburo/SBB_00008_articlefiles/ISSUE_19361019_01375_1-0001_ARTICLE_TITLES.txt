@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Abschluß der deutsch-schweizerischen Verhandlungen.
+Found
+MODSMD_ARTICLE02: Verlängerung von Meistbegünstigungsrechten.
+Found
+MODSMD_ARTICLE03: 10 neue Jugendherbergen.
+Found
+MODSMD_ARTICLE04: Das Bundesabzeichen des NSRB. zur Amtsrobe.
+Found
+MODSMD_ARTICLE05: Nzchtsest der Reichsfinanzschule.
+Found
+MODSMD_ARTICLE06: Belgrader Sonderbeilagen über das neue Deutschland.
+Found
+MODSMD_ARTICLE07: Knut Hamsun bekennt sich zur Nasjonal Sämling.
+Found
+MODSMD_ARTICLE08: Tie nichtmarxistische belgische Presse hinter dem König.
+Found
+MODSMD_ARTICLE09: Erklärung Baldwins über die Abänderung des Kroneides.
+Found
+MODSMD_ARTICLE10: Die nationale Besatzung Oviedos befreit.
+Found
+MODSMD_ARTICLE11: „Echo de Paris" meldet neuen roten Massenmord in Madrid.
+Found
+MODSMD_ARTICLE12: Nationaler spanischer Vizekonsul von Roten verschleppt.^
+Found
+MODSMD_ARTICLE13: Gold aus Spanien in Marseille.
+Found
+MODSMD_ARTICLE14: Böse Folgen der Streikbewegung in Nonbaix.
+Found
+MODSMD_ARTICLE15: Leichte Erkrankung des Kaisers von Japan.
+Found
+MODSMD_ARTICLE16: Die Unruhen in Bombay. 42 Tote und 410 Verletzte.
+Found

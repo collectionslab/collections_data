@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer an Seyß-Jnquart.
+Found
+MODSMD_ARTICLE02: Reichsstelle Reichs-Kolonialverwaltungsschule.
+Found
+MODSMD_ARTICLE03: Selbst „Daily Herald" bezeugt tschechischen Terror.
+Found
+MODSMD_ARTICLE04: Ein Versprechen, das nicht gehalten wurde.
+Found
+MODSMD_ARTICLE05: „Expreß Poranny" zum Besuch der Polen bei Hodscha.
+Found
+MODSMD_ARTICLE06: Verstärkung des tschechischen Heeres um 14V lM Mann.
+Found
+MODSMD_ARTICLE07: 12 Jahre Kriegszustand im Memelgebiet.
+Found
+MODSMD_ARTICLE09: Außenminister von Kanya in Bozen.
+Found
+MODSMD_ARTICLE10: Englands Luftschutz.
+Found
+MODSMD_ARTICLE11: Der Englandbesuch des Vizekönigs von Indien.
+Found
+MODSMD_ARTICLE12: Der ägptische Ministerpräsident bei Chamberlain.
+Found
+MODSMD_ARTICLE13: Französischer Staatsbesuch in England amtlich bestätigt.
+Found
+MODSMD_ARTICLE14: Schießerei an der polnisch-sowjetrussischen Grenze.
+Found
+MODSMD_ARTICLE15: Feuerüberfall am Toten Meer.
+Found
+MODSMD_ARTICLE16: England soll in Palästina einlenken.
+Found
+MODSMD_ARTICLE17: Sabotage an amerikanischen Flugzeugen.
+Found

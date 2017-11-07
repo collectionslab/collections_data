@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Weitere Erleichterungen für Kinderreiche.
+Found
+MODSMD_ARTICLE02: Zum Umgliederung des Reichskriegerbundes.
+Found
+MODSMD_ARTICLE03: Göring nach Wiener-Neustadt abgereist.
+Found
+MODSMD_ARTICLE04: Zusammenschluß aller Polen in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE05: Abschluß der Wahlen in Bulgarien.
+Found
+MODSMD_ARTICLE06: Erklärung der neuen Nanking-Regierung.
+Found

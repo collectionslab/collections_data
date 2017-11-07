@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ehrung des Prinzen Schaumburg-Lippe durch Vargas.
+Found
+MODSMD_ARTICLE02: Zur Nmgliederung des Reichskriegerbundes.
+Found
+MODSMD_ARTICLE03: Die Regelung des Zahlungsverkehrs mit Oesterreich.
+Found
+MODSMD_ARTICLE04: Reichsbankhauptstelle Wien.
+Found
+MODSMD_ARTICLE05: Tiroler „Kaiserjäger" in München.
+Found
+MODSMD_ARTICLE06: Sehß-Jnquart mit den Ministern nach Berlin abgeflogen»
+Found
+MODSMD_ARTICLE07: Sozialismus der Tat in Oesterreich.
+Found
+MODSMD_ARTICLE08: Die Oesterreichischen Bundesbahnen.
+Found
+MODSMD_ARTICLE09: Eingliederung österreichischer Organisationen.
+Found
+MODSMD_ARTICLE10: Schwierigkeiten bei der Umbildung des Prager Kabinetts.
+Found
+MODSMD_ARTICLE11: „Stalin verrechnet sich schwer."
+Found
+MODSMD_ARTICLE12: Budapester Autoausstellung eröffnet.
+Found
+MODSMD_ARTICLE13: Erklärung Chamberlains zum polnisch-litauischen Konflikt.
+Found
+MODSMD_ARTICLE14: Blutige Zusammenstöße in Indien.
+Found
+MODSMD_ARTICLE15: Olympischer Pokal für die Deutsche Arbeitsfront.
+Found
+MODSMD_ARTICLE16: 20prozentige Verstärkung der USA.-Flotte angenommen.
+Found

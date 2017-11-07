@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Jahrestagung der Reichsfilmkammer.
+Found
+MODSMD_ARTICLE02: Der Reichsrundfunk begrüßt den Weltrundsunkverein.
+Found
+MODSMD_ARTICLE03: Stabschef Lutze in der Kriegsmarinestadt Kiel.
+Found
+MODSMD_ARTICLE04: Ehrenvolle Berufung.
+Found
+MODSMD_ARTICLE05: Beimischung von Maisbackmehl zum Weizenmehl.
+Found
+MODSMD_ARTICLE06: England und der deutsche Protest gegen Lagnardia.
+Found
+MODSMD_ARTICLE07: Das beispiellos niederträchtige Auftreten Laguardias.
+Found
+MODSMD_ARTICLE08: Skandalöse Entstellung der Rede Ribbentrops.
+Found
+MODSMD_ARTICLE09: Im Zeichen der „Brüderlichkeit aller menschlichen Rassen".
+Found
+MODSMD_ARTICLE10: „Jndependance Belge" gegen die Hetze von Pertinax.
+Found
+MODSMD_ARTICLE11: Rätselraten der Presse über Blums Nnanzpläne.
+Found
+MODSMD_ARTICLE12: Verschärfung des tschechoslowakischen Verteidigungsgesetzes.
+Found
+MODSMD_ARTICLE13: Verbrecher werben für Sowjetspanien.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Kurze Auslandsnachrichten.
+Found
+MODSMD_ARTICLE02: Mit den Augen der Anderem
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Afghanistan übernimmt Schutz der irakischen Interessen.
+Found
+MODSMD_ARTICLE05: Landesbauernführertagung bei Darre.
+Found
+MODSMD_ARTICLE06: 478 befreite internationale Flüchtlinge in Swinemünde.
+Found
+MODSMD_ARTICLE07: Oberpräsident Wagner im Olsagebiet.
+Found
+MODSMD_ARTICLE08: Festlicher Empfang im Moskauer Kreml.
+Found
+MODSMD_ARTICLE09: Auch „Curentul" sieht schwarz für England.
+Found
+MODSMD_ARTICLE10: Regierungsumbildung in Rumänien.
+Found
+MODSMD_ARTICLE11: „Die Poleni sind selbst am Unglück Warschaus schuld."
+Found
+MODSMD_ARTICLE12: Schweiz: Englands Prestige dahin!
+Found

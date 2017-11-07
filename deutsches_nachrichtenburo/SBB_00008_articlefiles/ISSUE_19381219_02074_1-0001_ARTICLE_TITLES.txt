@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Weihnachtsfeier der Kanzlei des Führers.
+Found
+MODSMD_ARTICLE02: Die Deutsche Arbeitsfront schult.
+Found
+MODSMD_ARTICLE03: Schlußappell der deutschen Ordmmgspolizei.
+Found
+MODSMD_ARTICLE04: Mussolini weihte die neue Stadt Carbonia ein.
+Found
+MODSMD_ARTICLE05: Juden werden aus den Stammrollen gestrichen.
+Found
+MODSMD_ARTICLE06: Graf Ciano nach Budapest unterwegs .
+Found
+MODSMD_ARTICLE07: Die Achse politische Zielsetzung auch für Ungarn.
+Found
+MODSMD_ARTICLE08: Ungarischer Steckbrief gegen jüdischen Millionenschieber.
+Found
+MODSMD_ARTICLE09: Abschluß des Polenbesuches Dr. Franks.
+Found
+MODSMD_ARTICLE10: Duransky slowakischer Verkehrsminister.
+Found
+MODSMD_ARTICLE11: Luxemburg schiebt Juden ab.
+Found
+MODSMD_ARTICLE12: Zeitungslierbot und Terror in Sowjetspanien.
+Found
+MODSMD_ARTICLE13: Eines plötzlichen Todes gestorben.
+Found
+MODSMD_ARTICLE14: „Frechheit und Kurzsichtigkeit."
+Found
+MODSMD_ARTICLE15: Chikagos U-Bahnbau beginnt.
+Found
+MODSMD_ARTICLE16: Dürftige Zwischenbilanz für Lima.
+Found
+MODSMD_ARTICLE17: Jüdischer Wucherer vor brasilianischem Sondergericht.
+Found

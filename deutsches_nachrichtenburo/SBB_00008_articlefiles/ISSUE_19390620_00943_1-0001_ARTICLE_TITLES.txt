@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Prof. Sohlnrey erhielt den Adlerschild.
+Found
+MODSMD_ARTICLE02: Ehrenvolle Berufung für Dr. Conti.
+Found
+MODSMD_ARTICLE03: Ehrung nordischer Persönlichkeiten.
+Found
+MODSMD_ARTICLE04: Dr. Spaho besichtigte das Lustschiff „Graf Zeppelin".
+Found
+MODSMD_ARTICLE05: „Popolo di Roma" würdigt das neue Reichsbankgesetz.
+Found
+MODSMD_ARTICLE06: Stolze Worte in London.
+Found
+MODSMD_ARTICLE07: Keine erweiterten Befugnisse des Munitionsministers.
+Found
+MODSMD_ARTICLE08: Endlich offen zugegeben: Der Ferne Osten.
+Found
+MODSMD_ARTICLE09: Londoner Kopfzerbrechen um Tientsin.
+Found
+MODSMD_ARTICLE10: Zypern „Opfer eines stupiden bürokratischen Despotismus".
+Found
+MODSMD_ARTICLE11: Pariser Aerger über Moskaus Ungenügsamkeit.
+Found
+MODSMD_ARTICLE12: Mannerheim nicht zurückgetreten.
+Found
+MODSMD_ARTICLE13: Japan: England nicht der Diktator der Welt!
+Found
+MODSMD_ARTICLE14: Stellung der peruanischen Regierung verstärkt.
+Found
+MODSMD_ARTICLE15: Kriegshetzer und U.-Boot-Katastrophem
+Found
+MODSMD_ARTICLE16: l 9 Milliarden ueue Staatsschulden unter Roosevelt.
+Found
+MODSMD_ARTICLE17: Gattenmörder hingerichtet.
+Found

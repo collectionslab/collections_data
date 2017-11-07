@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die Begrüßung der deutschen Antarktis-Expedition.
+Found
+MODSMD_ARTICLE02: Gorma verließ Tripolis.
+Found
+MODSMD_ARTICLE03: Lord Perth wird Rom verlassen.
+Found
+MODSMD_ARTICLE04: Unanständige englische Presse.
+Found
+MODSMD_ARTICLE05: Der Rekrutenmangel in der britischen Feldarmee.
+Found
+MODSMD_ARTICLE06: 11 Bombenexplosionen in London und Birmingham.
+Found
+MODSMD_ARTICLE07: „News Chronicle" über die englischen Mißerfolge.
+Found
+MODSMD_ARTICLE08: Zogu will sich nach Aegypten oder England begeben.
+Found
+MODSMD_ARTICLE09: „Wichtige Grundlage für Griechenlands Sicherheit."
+Found
+MODSMD_ARTICLE10: Das „Vaterland" der Juden die Sowjetunion.
+Found
+MODSMD_ARTICLE11: Die portugiesischen Journalisten trafen in Lissabon ein.
+Found
+MODSMD_ARTICLE12: Sorgen um einen Kommunistenhäuptling.
+Found
+MODSMD_ARTICLE13: Sowjetrusssische Kriegsschiffe verlassen das Schwarze Meer.
+Found
+MODSMD_ARTICLE14: Dr. Goebbels in Istanbul.
+Found
+MODSMD_ARTICLE15: Die schamlose Vergewaltigung der Mandatsaraber.
+Found
+MODSMD_ARTICLE16: Außenpolitische Erörterungen in der japanischen Presse.
+Found
+MODSMD_ARTICLE17: Um das amerikanische „Neutraliiätsgesetz".
+Found
+MODSMD_ARTICLE18: In Amerika spielen Menschenleben keine Rolle.
+Found

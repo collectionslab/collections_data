@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer empfing den Landesgruppenleiter von Brasilien.
+Found
+MODSMD_ARTICLE02: Einsatz der motorisierten Gendarmerie.
+Found
+MODSMD_ARTICLE03: Finanzpolitische Aufgaben innerhalb des Vierjahresplanes.
+Found
+MODSMD_ARTICLE04: des Wahlsieges in Lippe.
+Found
+MODSMD_ARTICLE05: Das Saarland gedenkt des Abstimmungstages.
+Found
+MODSMD_ARTICLE06: Brasilianische Akademiker bereisen Deutschland.
+Found
+MODSMD_ARTICLE07: Abschiedsfeier für Generalkonsul Reinebeck in Posen.
+Found
+MODSMD_ARTICLE08: Ausgewiesener Hetzjournalist erhebt Einspruch.
+Found
+MODSMD_ARTICLE09: Volksfront-Vertreter bei Delbos.
+Found
+MODSMD_ARTICLE10: Sitzung des englischen Kabinetts.
+Found
+MODSMD_ARTICLE11: NKiwnalregürung antwortet auf britische Protestnote.
+Found
+MODSMD_ARTICLE12: Auch britische Offiziere nach Spanisch Marokko eingeladen.
+Found
+MODSMD_ARTICLE13: „New Jork Times" Zu Roosevelts Verwaltungsreformplan.
+Found

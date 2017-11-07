@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Glückwünsche Görings.
+Found
+MODSMD_ARTICLE03: Empfang beim chinesischen Botschafter.
+Found
+MODSMD_ARTICLE04: Der Verlust des Segelschulschifses „Admiral Karpfanger^.
+Found
+MODSMD_ARTICLE05: Aufhebung von Zeitungs- und Zeitschriftenverboten.
+Found
+MODSMD_ARTICLE06: Noch immer kommunistische Zersetzungsarbeit.
+Found
+MODSMD_ARTICLE07: Das neue Kontrollsystem im Leningrader Bezirk.
+Found
+MODSMD_ARTICLE08: Schwedische Kundgebung gegen Judeneinwanderung.
+Found
+MODSMD_ARTICLE09: Genfer Sachverständigentagung des Roten Kreuzes.
+Found
+MODSMD_ARTICLE10: Reichswirtschaftsminister Funk auch Reichsbankpräsident.
+Found
+MODSMD_ARTICLE11: Die Labour-Bewegung fordert Waffen für Rotspanien.
+Found
+MODSMD_ARTICLE12: Moskaus Unselbständigkeit.
+Found
+MODSMD_ARTICLE13: Einreiseverbot für Prieto nach Brasilien?
+Found
+MODSMD_ARTICLE14: Einigung über die arabischen Nationalsorderungen.
+Found
+MODSMD_ARTICLE15: Parow über das deutsch-südafrikanische Handelsabkommen.
+Found

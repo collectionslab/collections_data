@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Daladier kündigt französischen Friedensaufruf an.
+Found
+MODSMD_ARTICLE02: Zunahme der Streikbewegung in Frankreich.
+Found
+MODSMD_ARTICLE03: Nadikalsozialisten gegen Streik und Fabrikbesepungen.
+Found
+MODSMD_ARTICLE04: Die „Morning Post" über die Unterredung Eden—Blum.
+Not Found
+MODSMD_ARTICLE05: Genf in der Klemme.
+Found
+MODSMD_ARTICLE07: Scharfe Kritik an der englischen Palästina-Politik.
+Found
+MODSMD_ARTICLE08: Kommunistische Hetze in Palästina.
+Found
+MODSMD_ARTICLE09: Internationaler Kongreß für Krebsforschung.
+Found
+MODSMD_ARTICLE10: Die slowakischen Forderungen an die Prager Regierung.
+Found
+MODSMD_ARTICLE11: Unabhängige Republik in Santander ausgerufen.
+Found
+MODSMD_ARTICLE12: Waffenschmuggel an der schweizerisch-französischen Grenze.
+Found
+MODSMD_ARTICLE13: Todesstrafe gegen Salazar Alonzo beantragt.
+Found
+MODSMD_ARTICLE14: Die nationalistischen Truppen 18 Kilometer vor Toledo.
+Found
+MODSMD_ARTICLE15: Scharfe Sprache Japans gegen China.
+Found
+MODSMD_ARTICLE16: Hearst gegen Roosevelt.
+Found

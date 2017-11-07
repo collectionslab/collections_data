@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Frank bei Mussolini.
+Found
+MODSMD_ARTICLE02: Reichsgerichtspräsident i. R. Walter Simons 75 Jahre.
+Found
+MODSMD_ARTICLE03: Die römische Presse zum Besuch der Hitler-Jugend.
+Found
+MODSMD_ARTICLE04: Völkerbund befchließtZulassung der abessinischenDelegierten.
+Found
+MODSMD_ARTICLE05: Tie Schwierigkeiten in Genf.
+Found
+MODSMD_ARTICLE06: Die Eroberung der Insel Ibiza durch die Nationalisten.
+Found
+MODSMD_ARTICLE07: Azana für Kapitulation?
+Found
+MODSMD_ARTICLE08: Der Vormarsch auf Bilbao.
+Found
+MODSMD_ARTICLE09: Enteignung des Landwirtschaftsbesitzes in Spanien.
+Found
+MODSMD_ARTICLE10: Sieben Flugzeuge der Roten abgeschossen.
+Found
+MODSMD_ARTICLE11: Spanisch-französische Marokko-Grenze geschlossen.
+Found
+MODSMD_ARTICLE12: Zwischenfälle in Französisch-Marokko.
+Found
+MODSMD_ARTICLE13: Der Kapitän der „Belle Jsle" über den Zwischenfall.
+Found
+MODSMD_ARTICLE14: Finnlands Landwirtschaftsminister Zurückgetreten.
+Found
+MODSMD_ARTICLE15: Japanische Matrosen in Schanghai beschossen.
+Found
+MODSMD_ARTICLE16: Japans Geschwader in chinesischen Gewässern alarmbereit.
+Found

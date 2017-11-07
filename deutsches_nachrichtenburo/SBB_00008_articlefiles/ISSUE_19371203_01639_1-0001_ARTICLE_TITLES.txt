@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Göring übernahmßeichswirtschaftsnnnisterium.
+Not Found
+MODSMD_ARTICLE02: Hilgenfeldt über neue Wege der Bolkswohlfahrtspflege.
+Found
+MODSMD_ARTICLE03: Weitere Große Preise der Weltausstellung für Deutschland.
+Found
+MODSMD_ARTICLE04: Deutscher Lichtbildervortrag in Belgrad.
+Found
+MODSMD_ARTICLE05: Baron Okura aus Libyen zurückgekehrt.
+Found
+MODSMD_ARTICLE06: Belgische Ehrung für Marschall Balbo.
+Found
+MODSMD_ARTICLE07: Kommunistische Putschvorbereitungen in Nordbrasilien.
+Found

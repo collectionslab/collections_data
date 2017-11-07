@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Nachmittags- und Abend-Ausgabe. deutsches Nachrichtenbüro JA
+Found
+MODSMD_ARTICLE02: Neichswalter Wächtler an die deutsche Erzieherschast.
+Found
+MODSMD_ARTICLE03: Daladier in Gabes.
+Found
+MODSMD_ARTICLE04: Paris ohne Kinos.
+Found
+MODSMD_ARTICLE05: Steuererleichterungen für den französischein Ausfuhrhandel.
+Found
+MODSMD_ARTICLE06: Energisches Durchgreifen in Frankreich.
+Found
+MODSMD_ARTICLE07: Wieder 45-Stunden-Woche in St. Nazaire.
+Found
+MODSMD_ARTICLE08: Englands industrielle Aufrüstung.
+Found
+MODSMD_ARTICLE09: Neue Kundgebungen der Londoner Arbeitslosen.
+Found
+MODSMD_ARTICLE10: Weitere Verschärfung der Lage auf Jamaika.
+Found
+MODSMD_ARTICLE11: JWlienfeindliche Kundgebungen in Tunis.
+Found
+MODSMD_ARTICLE12: „Mit den italienischen Wölfen scherzt man besser nicht."
+Found
+MODSMD_ARTICLE13: Großer Kommunistenprozieß in Lissabon.
+Found
+MODSMD_ARTICLE14: Der Vormarsch der Nationalen lastet ans Katalonien.
+Found
+MODSMD_ARTICLE15: Die Parole der Komintern für 1939.
+Found
+MODSMD_ARTICLE16: Wieder ein Araber erschossen.
+Found
+MODSMD_ARTICLE17: Die Zustände in Jerusalem.
+Found
+MODSMD_ARTICLE18: Baron Hirannma mit der Kabinettsbildung beauftragt.
+Found

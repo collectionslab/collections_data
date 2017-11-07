@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Generalfeldmarschall Göring an den Reichspostminister.
+Found
+MODSMD_ARTICLE02: Englands und Frankreichs Sorgen.
+Found
+MODSMD_ARTICLE03: Ter Verlust des italienischen Dampfers „Grazia".
+Found
+MODSMD_ARTICLE04: Von England zur Verzweiflung getrieben.
+Found
+MODSMD_ARTICLE06: Warnungen der Westmächte an die falsche Adresse.
+Found
+MODSMD_ARTICLE07: Mussolini ehrt den Gründer der spanischen Falange.
+Found
+MODSMD_ARTICLE08: Die Folge des Unterganges der ~Zariza Militza".
+Found
+MODSMD_ARTICLE09: England wird mit dem Kartensystem nicht fertig.
+Found
+MODSMD_ARTICLE10: Die jugoslawische Vertretung für die Schweiz.
+Found
+MODSMD_ARTICLE11: 84 Tote beim Untergang der „Simon Bolivar".
+Found
+MODSMD_ARTICLE12: Höre Belisha frühstückt.
+Found
+MODSMD_ARTICLE13: Englischer 5000-Tonner von deutschem U-Boot versenkt.
+Found
+MODSMD_ARTICLE14: Litauische Kabinettskrise beigelegt.
+Found
+MODSMD_ARTICLE15: Kanada muß Wahrheiten einstecken.
+Found
+MODSMD_ARTICLE16: Panama verbittet sich Mißbrauch seiner Flagge.
+Found
+MODSMD_ARTICLE17: Die günstige Bersorgungslage Deutschlands.
+Found
+MODSMD_ARTICLE18: Englische Piratenschiffe überall.
+Found
+MODSMD_ARTICLE19: Rascher japanischer Vormarsch in Südchina.
+Found

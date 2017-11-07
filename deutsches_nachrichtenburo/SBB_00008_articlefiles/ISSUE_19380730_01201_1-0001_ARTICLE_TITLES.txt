@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Feierstunde des Deutschtums im Ausland.
+Found
+MODSMD_ARTICLE02: „Tag der Mannschaften" in Breslau.
+Found
+MODSMD_ARTICLE03: Hexenkessel Palästina. W
+Found
+MODSMD_ARTICLE04: Araber im Sandschak bleiben standhaft.
+Found
+MODSMD_ARTICLE05: Scharfe Maßnahmen gegen die Opposition in Damaskus.
+Found
+MODSMD_ARTICLE06: Generalstreik in Beirut.
+Found
+MODSMD_ARTICLE07: Neue Zusammenstöße in Rangoon.
+Found
+MODSMD_ARTICLE08: Neuer sowjetrussisch-mandschurischer Grenzzwischenfall.
+Found
+MODSMD_ARTICLE09: Susuug von japanischen Truppen besetzt.
+Found
+MODSMD_ARTICLE10: Buren wehren sich gegen jüdische Machenschaften.
+Found
+MODSMD_ARTICLE11: Europareise des Uuterstaatssekretärs Billasenor.
+Found

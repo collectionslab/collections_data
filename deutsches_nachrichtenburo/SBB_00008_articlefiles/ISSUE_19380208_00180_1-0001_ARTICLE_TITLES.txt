@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Neichsbeamtenführer Gast der Faschistischen Partei.
+Found
+MODSMD_ARTICLE02: Vernünftige und gerechte Verteilung der Erde notwendig.
+Found
+MODSMD_ARTICLE03: London zu den Erklärungen Görings.
+Found
+MODSMD_ARTICLE04: Ausdehnung des Streiks in britischen Flugzeugwerken.
+Found
+MODSMD_ARTICLE05: Englische Arbeitslosenzahl um IKK KKK gestiegen.
+Found
+MODSMD_ARTICLE06: Die Straffnng der britischen Auslandspropaganda.
+Found
+MODSMD_ARTICLE07: Besuch des jugoslawischen Ministerpräsidenten in Sofia.
+Found
+MODSMD_ARTICLE08: Tagung des jugoslawischen Parlaments.
+Found
+MODSMD_ARTICLE09: Die Pariser Presse bremst ab.
+Found
+MODSMD_ARTICLE10: Gauuerstreik eines sowjetrussischen Kapitäns.
+Found
+MODSMD_ARTICLE11: Vierzig-Stunden-Woche bei der französischen Post.
+Found
+MODSMD_ARTICLE12: Der Durchbruch bei Alfambra.
+Found
+MODSMD_ARTICLE13: Salamanca weist Edens Behauptungen Zurück.
+Found
+MODSMD_ARTICLE14: Tagung der nationalspanischen Grubensyndikate.
+Found
+MODSMD_ARTICLE15: Englischer Kriegsschifsbesuch in Palma de Mallorca.
+Found

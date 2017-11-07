@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: D'chloMateuemPfaug beim Berliner Siadtpräsideuien.
+Found
+MODSMD_ARTICLE02: Minister Wacker ins Reichserziehungsministerium berufen.
+Found
+MODSMD_ARTICLE03: Internationaler Kongreß für BerufserZiehung.
+Found
+MODSMD_ARTICLE04: Schulschiff „Schlesien" an Brasiliens Küste.
+Found
+MODSMD_ARTICLE05: Deutsch-italienische Zusammenarbeit in der Spanienfrage.
+Found
+MODSMD_ARTICLE06: Die deutsch-italienischen Vorschläge restlos durchführbar.
+Found
+MODSMD_ARTICLE07: Ministerbesprechung in London.
+Found
+MODSMD_ARTICLE08: Die Leiche des Barons de Borchgrave ausgegraben.
+Found
+MODSMD_ARTICLE09: Volksfront-Regiment in Lodz.
+Found
+MODSMD_ARTICLE10: Italienisch-belgischer Modus vivendi verlängert.
+Found
+MODSMD_ARTICLE11: Daladier reist nach Französisch-Marokko.
+Found
+MODSMD_ARTICLE12: französische Staatsangestellte für Teuerungszulage.
+Found
+MODSMD_ARTICLE13: Paris dementiert Truppeuzusammenziehuugeu im Sandschak
+Found
+MODSMD_ARTICLE14: Die französische Anleihe vom polnischen Senat verabschiedet.
+Found
+MODSMD_ARTICLE15: freiwilligenanwerbuna wird untersucht.
+Found
+MODSMD_ARTICLE16: 76 999 Arbeitslose infolge Automobilindustriestreiks.
+Found
+MODSMD_ARTICLE17: Brasilianische Kommunisten vor Sondergerichten.
+Found
+MODSMD_ARTICLE18: Geheimorganisation in China ausgehoben»
+Found
+MODSMD_ARTICLE19: Die Eisenbahnattentäter von Ostering hingerichtet.
+Found

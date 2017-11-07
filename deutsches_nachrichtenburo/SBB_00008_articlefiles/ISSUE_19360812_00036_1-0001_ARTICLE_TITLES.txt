@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Teutschlands Turner siegen.
+Found
+MODSMD_ARTICLE02: Kunstspringen der Männer: Drei Amerikaner in Front.
+Found
+MODSMD_ARTICLE03: Japan gewinnt die Freistil-Staffel.
+Found
+MODSMD_ARTICLE04: Japan gewinnt auch das Brustschwimmen der Frauen.
+Found
+MODSMD_ARTICLE05: Drei Italiener siegen im Degenfechten.
+Found
+MODSMD_ARTICLE06: Siegerehrung im Olympia-Stadion.
+Found
+MODSMD_ARTICLE07: Das Internationale Olympische Komitee in Kiel.
+Found
+MODSMD_ARTICLE08: England und Italien Sieger in Kiel.
+Found
+MODSMD_ARTICLE09: Eine Erklärung des Grafen Baillet-Latour.
+Found
+MODSMD_ARTICLE10: Welches Land gewann die Medaillen?
+Found
+MODSMD_ARTICLE11: Empfang Zu Ehren des finnischen Olympischen Komitees.
+Found
+MODSMD_ARTICLE12: Tie Philharmoniker spielen im Olympischen Dorf.
+Found
+MODSMD_ARTICLE13: Sudetendeutsche turnen im Sportpalast.
+Found

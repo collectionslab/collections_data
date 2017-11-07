@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: WH M Bvrmittags-Ausgabe. Mütsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Der Führer verlieh Otto Müller den Professor-Titel.
+Found
+MODSMD_ARTICLE03: Fest des Frohsinns und der Lebensfreude.
+Found
+MODSMD_ARTICLE04: Dienstags gesündigt und Mittwochs gebeichtet.
+Found
+MODSMD_ARTICLE05: Der schwedische Außenminister in Reval.
+Found
+MODSMD_ARTICLE06: Die Warschauer Sitzung des ZOK.
+Found
+MODSMD_ARTICLE07: Rumänische Auszeichnungen aus Anlaß des Polenbesuchs.
+Found
+MODSMD_ARTICLE08: Bukarest-Besuch des polnischen Generalstabschefs.
+Found
+MODSMD_ARTICLE09: Der nationale Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE10: Wieder bolschewistische Flugzeuge in Frankreich gelandet.
+Found
+MODSMD_ARTICLE11: Doriot klagt gegen die „Humamts".
+Found
+MODSMD_ARTICLE12: Festmahl zu Ehren van Zeclands bei Delbos.
+Found

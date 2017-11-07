@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Präsident Dr. Sirup im Sudetengau.
+Found
+MODSMD_ARTICLE02: Semigranten in Prag als Paßfälscher.
+Found
+MODSMD_ARTICLE03: Die slowakisch-ungarische Grenzziehung unterbrochen.
+Found
+MODSMD_ARTICLE04: Adolf-Hitler-Platz in einer slowakischen Gemeinde.
+Found
+MODSMD_ARTICLE05: Ein neuer rumänischer Außenminister?
+Found
+MODSMD_ARTICLE06: Bankett zu Ehren Cianos in Budapest.
+Found
+MODSMD_ARTICLE07: Früher Sumpf, heute fruchtbarer Bodeu.
+Found
+MODSMD_ARTICLE08: „Spamscher Schwefelkies für Frankreich unentbehrlich."
+Found
+MODSMD_ARTICLE09: Frankreichs Marxistenwirtschaft bricht auseinander.
+Found
+MODSMD_ARTICLE10: Jüdischer Sowjetspitzel in Frankreich verurteilt.
+Found
+MODSMD_ARTICLE11: England erschwert Anleihegewährung ans Ausland»
+Found
+MODSMD_ARTICLE12: Ein Borstoß gegen Hore-Belisha und Jnskip.
+Found
+MODSMD_ARTICLE13: „Liegestreik" in London trotz Kälte.
+Found
+MODSMD_ARTICLE14: Der König von Griechenland in Brüssel.
+Found
+MODSMD_ARTICLE15: Franco einziger Führer Nationalspaniens!
+Found
+MODSMD_ARTICLE16: Zwangsarbeit für Frauen in Rotspanien.
+Found
+MODSMD_ARTICLE17: Ein Arbeitsloser verprügelte La Guardia.
+Found
+MODSMD_ARTICLE18: Ikjähriger Araber zu lebenslänglichem Zuchthaus verurteilt.
+Found

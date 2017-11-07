@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Dollars aus Moskau. Ein guter Fang in Warschau.
+Found
+MODSMD_ARTICLE02: Tie Reise Plymouths in die baltischen Staaten.
+Found
+MODSMD_ARTICLE03: Unterhausanfrage wegen kommunistischer Wühlarbeit.
+Found
+MODSMD_ARTICLE04: Außenpolitische Rede Edens in Liverpool.
+Found
+MODSMD_ARTICLE05: Mißtrauensantrag der Labour-Partei.
+Found
+MODSMD_ARTICLE06: Schlachtschiff „Hood" wirft Anker vor St. Jean de Luz.
+Found
+MODSMD_ARTICLE07: Vergebliche bolschewistische Gegenangriffe.
+Found
+MODSMD_ARTICLE08: Aegyptischer Abkommensentwurf in Montreux überreicht.
+Found
+MODSMD_ARTICLE09: Italienisches Verständnis für Aegyptens Standpunkt.
+Found
+MODSMD_ARTICLE10: Neuer Segelflug-Weltrekord.
+Found

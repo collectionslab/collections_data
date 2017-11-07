@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Cincar-Markowitsch beim Führer.
+Found
+MODSMD_ARTICLE02: Der finnische Kultusminister beim Reichsarbeitsdienst.
+Found
+MODSMD_ARTICLE03: Der Sultan von Dschohur im Elsaß verhaftet.
+Found
+MODSMD_ARTICLE04: „Die französische Regierung steht im Dienste der Juden!"
+Found
+MODSMD_ARTICLE05: Bedenken der französischen Presse.
+Found
+MODSMD_ARTICLE06: Die englische Presse zu den Steuererhöhungen.
+Found
+MODSMD_ARTICLE07: Botschafter von Papen in Istanbul.
+Found
+MODSMD_ARTICLE08: Die Sowjets rüsten im Kaukasus.
+Found
+MODSMD_ARTICLE09: Wieder Araber von Engländern ermordet.
+Found
+MODSMD_ARTICLE10: Protest-Telegramm der Palästina-Araber an Roosevelt.
+Found
+MODSMD_ARTICLE11: Englisches Zuckerbrot.
+Found
+MODSMD_ARTICLE12: Die Hochzeitsfeierlichkeiten in Teheran.
+Found
+MODSMD_ARTICLE13: Kopfzerbrechen über Rassenprobleme in Amerika.
+Found
+MODSMD_ARTICLE14: Amerika hört die Antwort des Führers an Roosevelt.
+Found

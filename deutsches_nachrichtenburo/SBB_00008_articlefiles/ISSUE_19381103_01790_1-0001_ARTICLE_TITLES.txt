@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der ReichstnnenWttllster in Bremen.
+Found
+MODSMD_ARTICLE02: Baldur von Schirach sprach in Wien.
+Found
+MODSMD_ARTICLE03: Die neue polnisch—tschecho-slowakische Grenze.
+Found
+MODSMD_ARTICLE04: Krach in Marseille.
+Found
+MODSMD_ARTICLE05: Chamberlain leicht erkrankt.
+Found
+MODSMD_ARTICLE06: Seegefecht an der englischen Ostküste.
+Found
+MODSMD_ARTICLE07: Nationalspanische Erfolge am Ebro.
+Found
+MODSMD_ARTICLE08: Strafmmderung für die Aufruhrer von Kreta.
+Found
+MODSMD_ARTICLE09: Balbo begrüßt die 20 000 Libyen-Siedler.
+Found
+MODSMD_ARTICLE10: Riesenprozeß in Iran gegen bolschewistische Verschwörer.
+Found
+MODSMD_ARTICLE11: Japans Presse Zur Regierungserklärung gegenüber China.
+Found
+MODSMD_ARTICLE12: Amerikas Flottenbauprogramm.
+Found
+MODSMD_ARTICLE13: Natioualgarde gegen Cio-Gewerkschaft eingesetzt.
+Found

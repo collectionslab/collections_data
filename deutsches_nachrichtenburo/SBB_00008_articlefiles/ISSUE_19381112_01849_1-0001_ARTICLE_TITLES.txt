@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die Trauerfeier für Gesandtschaftsrat vom Rath.
+Found
+MODSMD_ARTICLE02: Anerkennung des Führes für die „Deutschland"-Besatzung.
+Found
+MODSMD_ARTICLE03: Das Reichsjugendführers Dank an Japan.
+Found
+MODSMD_ARTICLE04: Neue Gebietsführer in Kärnten und Oberdonau.
+Found
+MODSMD_ARTICLE05: Die neue Reichsautobahnstrecke Recklinghausen—Bielefeld.
+Found
+MODSMD_ARTICLE06: Erinnernngsfeier der deutschen Volksgruppe in Lettland.
+Found
+MODSMD_ARTICLE07: Ein italienisches Werk über den Führerbesuch in Italien.
+Found
+MODSMD_ARTICLE08: Mussolini weihte die neuen Ausstellungsräume.
+Found
+MODSMD_ARTICLE09: Außenminister Kanya vor ungarischem Abgeordnetenhaus.
+Found
+MODSMD_ARTICLE10: Tie KdF.-Fahretrim Mräns.
+Found
+MODSMD_ARTICLE11: Truppenabordnungen vom Balkan kommen nach Ankara.
+Found
+MODSMD_ARTICLE12: Die Kennzahl der Großhandelspreise vom 9. November.
+Found

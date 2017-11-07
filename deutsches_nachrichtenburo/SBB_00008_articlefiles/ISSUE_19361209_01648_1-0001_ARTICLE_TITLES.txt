@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: .Hundertjahrfeier des Vereins für Geographie und Statistik.
+Found
+MODSMD_ARTICLE02: Königin Wilhelmina in der Deutschen Gesandtschaft.
+Found
+MODSMD_ARTICLE03: Der Mordprozeß Frankfurter.
+Found
+MODSMD_ARTICLE04: Die Vernehmung des Mörders.
+Found
+MODSMD_ARTICLE05: Der Lebenswandel des Mörders.
+Found
+MODSMD_ARTICLE06: Aus der Diplomatie.'
+Found

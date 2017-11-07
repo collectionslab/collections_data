@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Amnestieerlaß des Führers.
+Found
+MODSMD_ARTICLE02: Zusammenarbeit mit verbotenem Nachrichtendienst!
+Found
+MODSMD_ARTICLE03: Neue britische Presselüge!
+Found
+MODSMD_ARTICLE04: Im Geiste engster Kameradschaft.
+Found
+MODSMD_ARTICLE05: Große Mehrheit für den Nichtangriffsvertrag in Estland.
+Found
+MODSMD_ARTICLE06: ~Gute Beziehungen trotz verschiedener Staatsauffassungen."
+Found
+MODSMD_ARTICLE07: SA.-Abordnung bei General Russo.
+Found
+MODSMD_ARTICLE08: „Das ist eine stählerne Allianz."
+Found
+MODSMD_ARTICLE09: Marschall Vadoglio in Skutari.
+Found
+MODSMD_ARTICLE10: Gafejncu wieder in Bukarest.
+Found
+MODSMD_ARTICLE11: Die Fortschritte der Freizeitbewegung.
+Found
+MODSMD_ARTICLE12: Die Paktverhandlungen als Anlaß stürmischer Heiterkeit.
+Found
+MODSMD_ARTICLE13: Eine neue Erklärung Chamberlains über Tientsin.
+Found
+MODSMD_ARTICLE14: U-Boot „Phenix" in 105 Meter Tiefe aufgefunden?
+Found
+MODSMD_ARTICLE15: Marxisten und Juden höchst unerwünscht.
+Found
+MODSMD_ARTICLE16: Hollywooder Juden jammern: Kein Geschäft mit Hetzsilmen.
+Found
+MODSMD_ARTICLE17: Japans entschiedene Stellung.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der erste „Tag der Deutschen Polizei" in Berlin.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Schulungskurs.
+Found
+MODSMD_ARTICLE04: Lehrlinge der Verwaltung beim Reichsberufswettkampf.
+Found
+MODSMD_ARTICLE05: Joses Wagner über Einzelprobleme des Vierjahresplans.
+Found
+MODSMD_ARTICLE06: Grundsteinlegung Deutschen Hauses der Pariser Weltausstellung.
+Not Found
+MODSMD_ARTICLE07: Ansiedlung von Juden in französischen Kolonien?
+Found
+MODSMD_ARTICLE08: Neue Ergebnisse der „Phönir"-Untersuchung.
+Found
+MODSMD_ARTICLE09: Der Geburtenrückgang in Oesterreich.
+Found
+MODSMD_ARTICLE10: Römische Ironie zum französischen Freiwilligenverbot.
+Found
+MODSMD_ARTICLE11: Die nationale Motte läßt nicht locker.
+Found
+MODSMD_ARTICLE12: Der englische Handelsminister bei Roosevelt.
+Found

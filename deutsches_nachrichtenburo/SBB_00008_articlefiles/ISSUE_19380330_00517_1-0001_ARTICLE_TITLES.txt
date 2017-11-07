@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Reiseverkehr nach Oesterreich.
+Found
+MODSMD_ARTICLE02: Wiener Stimmen über den „Feldherrn der Propaganda".
+Found
+MODSMD_ARTICLE03: Ein Aufruf Bürckels an die Deutschen in Oesterreich.
+Found
+MODSMD_ARTICLE04: Regierungsumbildung im Fürstentum Liechtenstein.
+Found
+MODSMD_ARTICLE05: Sudetendeutscher Protest.
+Found
+MODSMD_ARTICLE06: Deutsche Wanderlehrer in Pommerellen verhastet.
+Found
+MODSMD_ARTICLE07: Arierparagraph auch für polnische Staatsbeamte.
+Found
+MODSMD_ARTICLE08: Das polnisch-litauische Verkehrsabkommen.
+Found
+MODSMD_ARTICLE09: Der polnische Gesandte in Kowno.
+Found
+MODSMD_ARTICLE10: Schwedisches Ehepaar in GPU-Kerkern verschwunden.
+Found
+MODSMD_ARTICLE11: 18 Sowjetspione in Beßarabien abgeurteilt.
+Found
+MODSMD_ARTICLE12: Ungarn zur Hodscha-Erklärung.
+Found
+MODSMD_ARTICLE13: Der Besuch des Ministers Alfieri in Belgrad beendet.
+Found
+MODSMD_ARTICLE14: Rom zur Halifax-Erklärung.
+Found
+MODSMD_ARTICLE15: Major Troncoso nach Nationalspanien zurückgekehrt.
+Found
+MODSMD_ARTICLE16: Sowjetspanier planen neue „Zwischenfälle".
+Found
+MODSMD_ARTICLE17: Was plant die Komintern im April/Mai?
+Found
+MODSMD_ARTICLE18: Zwischenfall in Nancy.
+Found
+MODSMD_ARTICLE19: Die Wissenschast ein Opfer der Politik.
+Found
+MODSMD_ARTICLE20: Annahme der Heeresvorlage im Repräsentantenhaus.
+Found

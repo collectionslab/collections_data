@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Oberbefehlshaber des Heeres an der Nordfront.
+Found
+MODSMD_ARTICLE02: England hält an seiner Seekriegspraxis fest.
+Found
+MODSMD_ARTICLE03: Übermenschliche Leistungen unserer Truppen.
+Found
+MODSMD_ARTICLE04: Fürsorge und Betreuung der Wehrmacht.
+Found
+MODSMD_ARTICLE05: Maschinengewehrfeuer auf Deutsche aus der Kirche.
+Found
+MODSMD_ARTICLE06: Stärkster Eindruck der Warschauer Erfolgsmeldung.
+Found
+MODSMD_ARTICLE07: „Ein politischer Kardinalfehler, der sich rächen wird!"
+Found
+MODSMD_ARTICLE08: Englands „Katastrophenflieger".
+Found
+MODSMD_ARTICLE09: Neuseeland stellt eine freiwillige Truppe auf.
+Found
+MODSMD_ARTICLE10: „New Jork Times" stellt fest: London lügt!
+Found

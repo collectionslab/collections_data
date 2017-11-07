@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Das Reichspriifungsamt für bautechnische Verwaltungsbeamte.
+Not Found
+MODSMD_ARTICLE02: Deck wieder in Warschau.
+Found
+MODSMD_ARTICLE03: Der Erfolg der Dresdener Staatsoper in London.
+Found
+MODSMD_ARTICLE04: 18 Reichsdeutsche in Sowjetrußland verhaftet.
+Found
+MODSMD_ARTICLE05: Sowjetunion verschleudert Kunstschätze. .
+Found
+MODSMD_ARTICLE06: Neue Kundgebungen gegen die Wilnaer Juden.
+Found
+MODSMD_ARTICLE07: Vorlesung eines sudetendeutschen Dichters verboten.
+Found
+MODSMD_ARTICLE08: Ehrung eines französischen Forschers in Kopenhagen.
+Found
+MODSMD_ARTICLE09: Abordnung der Linksparteien bei Blum.
+Found
+MODSMD_ARTICLE10: Delbos vor dem Außenausschuß des Senats.
+Found
+MODSMD_ARTICLE11: Die Arbeitgeber antworten Spinasse.
+Found
+MODSMD_ARTICLE12: Die Lage an der Madrider Front.
+Found
+MODSMD_ARTICLE13: Die englische Opposition im Angriff gegen Baldwin.
+Found
+MODSMD_ARTICLE14: Unterredung Eden-Grandi.
+Found
+MODSMD_ARTICLE15: Jugoslawischer Ministerbesuch in Athen.
+Found

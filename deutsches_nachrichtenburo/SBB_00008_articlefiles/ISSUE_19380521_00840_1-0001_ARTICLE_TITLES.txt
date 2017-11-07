@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Schlachtschiff „Gneisenau" in Dienst gestellt.
+Found
+MODSMD_ARTICLE02: Der Reichssportführer gedenkt der Nanga-Parbat-Kämpfer/
+Found
+MODSMD_ARTICLE03: Feier des Volksbundes Deutsche Kriegsgräberfürsorge.
+Found
+MODSMD_ARTICLE04: Zwei Deutsche von tschechischem Militär erschossen.
+Found
+MODSMD_ARTICLE05: Die Ueberführung der jugoslawischen Kriegsgefallenen.
+Found
+MODSMD_ARTICLE06: Beschwerde eines ungarischen Minderheitenvertreters.
+Found
+MODSMD_ARTICLE07: Im Zeiche der englischen Luftriistung.
+Found
+MODSMD_ARTICLE08: Reynaud über die Freundschaft mit England.
+Found
+MODSMD_ARTICLE09: Der englische Gesandte verließ Mexiko.
+Found
+MODSMD_ARTICLE10: Unterredung Cardenas mit Cedillo?
+Found
+MODSMD_ARTICLE11: Nationalspanische Fortschritte.
+Found
+MODSMD_ARTICLE12: Verrat am spanischen Volk.
+Found
+MODSMD_ARTICLE13: Anerkennung Francas würde den Spanien-Krieg beenden.
+Found
+MODSMD_ARTICLE14: Juden und Freimauer, Friedensstörer Europas.
+Found
+MODSMD_ARTICLE15: Roosevelt ersucht um Mittel für Schiffsbauten.
+Found
+MODSMD_ARTICLE16: Verschärfung der Lage im Sandschak.
+Found

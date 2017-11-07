@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Graf Ciauo in Budapest.
+Found
+MODSMD_ARTICLE02: Der ungarische Ministerat billigt das Judengesetz.
+Found
+MODSMD_ARTICLE03: Das Wahlergebnis in der Slowakei.
+Found
+MODSMD_ARTICLE04: Jugoslawische Presseftimme zur Judenfrage.
+Found
+MODSMD_ARTICLE05: Flugblätter gegen Stalin und seine jüdischen Henker.
+Found
+MODSMD_ARTICLE06: Wieder ein „Verschollener".
+Found
+MODSMD_ARTICLE07: Die Arbeiter fliehen aus den Sowjet-Werken.
+Found
+MODSMD_ARTICLE08: Türkische Wirtschastsabordnnng reist nach Berlin.
+Found
+MODSMD_ARTICLE09: König Faruk will Syrien besuchen.
+Found
+MODSMD_ARTICLE10: Britische Kampfflieger gegen Freischärler.
+Found
+MODSMD_ARTICLE11: Die Verbannten Araberführer abgeholt.
+Found
+MODSMD_ARTICLE12: Arita über die Neuordnung Ostasiens.
+Found
+MODSMD_ARTICLE13: Sowjetrußland bewaffnet die chinesische Nordarmee.
+Found
+MODSMD_ARTICLE14: Amerikas riesiges Flottenmanöver»
+Found
+MODSMD_ARTICLE15: Chilenische Blätter Zur Lima-Konferenz.
+Found
+MODSMD_ARTICLE16: Die Inden eine Gefahr für Mittelamerika.
+Found

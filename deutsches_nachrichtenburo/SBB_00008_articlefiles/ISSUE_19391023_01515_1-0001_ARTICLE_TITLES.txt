@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Angeklagte Churchill hat das Wort!
+Found
+MODSMD_ARTICLE02: Ein Volksschädling erschossen!
+Found
+MODSMD_ARTICLE03: Tiso empfing den neuen italienischen Gesandten.
+Found
+MODSMD_ARTICLE04: Gräfin Magistrati in Rom gestorben.
+Found
+MODSMD_ARTICLE05: Die italienische Presse zum Abkommen über Südtirol.
+Found
+MODSMD_ARTICLE06: „Neue große Schlacht des Faschismus."
+Found
+MODSMD_ARTICLE07: Churchill der Athenia-Artillerist.
+Found
+MODSMD_ARTICLE08: Amerikanerin bestätigt Churchills „Athenia^-Torpedierung.
+Found

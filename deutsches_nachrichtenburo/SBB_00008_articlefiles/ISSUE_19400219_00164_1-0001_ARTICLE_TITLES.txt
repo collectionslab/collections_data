@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Deutsches Nachrichtenbüro ? H
+Found
+MODSMD_ARTICLE02: kin neuer fall „Varalong"
+Found
+MODSMD_ARTICLE03: Empörung in ganz Deutschland
+Found
+MODSMD_ARTICLE04: Der Bericht des Kapitäns
+Found
+MODSMD_ARTICLE05: K Tote, 6 Verletzte auf der „Altmark"
+Found
+MODSMD_ARTICLE06: Oslo protestiert in London
+Found
+MODSMD_ARTICLE07: Norwegische Verlautbarung
+Found
+MODSMD_ARTICLE08: Erregung der norwegischen Öffentlichkeit
+Found

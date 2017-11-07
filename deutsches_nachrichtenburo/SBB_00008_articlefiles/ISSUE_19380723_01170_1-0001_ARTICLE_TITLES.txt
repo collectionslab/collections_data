@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Volk in Leibesübungen.
+Found
+MODSMD_ARTICLE02: Kärnten erwartet den Stellvertreter des Führers.
+Found
+MODSMD_ARTICLE03: Der Reichsarbeitsführer in Schwerin.
+Found
+MODSMD_ARTICLE04: Verleihung des Treudienstehrenzeichens.
+Found
+MODSMD_ARTICLE05: Reichsnährstandstagung in Wien.
+Found
+MODSMD_ARTICLE06: Eingliederung des Landgerichtsbezirks Saarbrücken.
+Found
+MODSMD_ARTICLE07: „Messaggero" über die Taktik der Tschechen.
+Found
+MODSMD_ARTICLE08: Freitag-Ausgabe des „Memeler Tampsboot" verboten.
+Found
+MODSMD_ARTICLE09: Zuchthausstrafen für jüdisch-kommunistische Wühler.
+Found
+MODSMD_ARTICLE10: Errichtung eines Rohstoffbüros in Polen.
+Found
+MODSMD_ARTICLE11: Deutsches Verkehrsbüro in Agram.
+Found
+MODSMD_ARTICLE12: Sobranje unter Lärm geschlossen.
+Found
+MODSMD_ARTICLE13: Der „Gläserne Mensch" in Istanbul.
+Found
+MODSMD_ARTICLE14: Neue bolschewistische Mordwelle in Don Benito.
+Found
+MODSMD_ARTICLE15: Hunderte von Erschießungen in Valencia und Alicante.
+Found

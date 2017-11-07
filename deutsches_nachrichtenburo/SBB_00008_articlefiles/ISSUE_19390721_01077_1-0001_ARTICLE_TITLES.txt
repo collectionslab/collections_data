@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Fest des Friedens und der Freude.
+Found
+MODSMD_ARTICLE02: Deutsch-litauischer Vertrag.
+Found
+MODSMD_ARTICLE03: Auch im Protektorat verschwindet die Arbeitslosigkeit.
+Found
+MODSMD_ARTICLE04: Solmi zum Senator ernannt.
+Found
+MODSMD_ARTICLE05: Unaufhaltsamer Verfall der chinesischen Währung.
+Found
+MODSMD_ARTICLE06: Zunahme der antibritischen Bewegung in Nordchina.
+Found

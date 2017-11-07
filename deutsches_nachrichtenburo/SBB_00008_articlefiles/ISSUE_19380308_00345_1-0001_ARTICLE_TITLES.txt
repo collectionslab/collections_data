@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer empfing Präsident Hoover.
+Found
+MODSMD_ARTICLE02: Empfang in der Deutschen Gesandtschaft in Budapest.
+Found
+MODSMD_ARTICLE03: Em Aufruf des Deutschen Turnerbundes in Oesterreich.
+Found
+MODSMD_ARTICLE04: Reichsstatthalter General von Epp in Rom.
+Found
+MODSMD_ARTICLE05: Außenminister Beck vom Kaiser und König empfangen.
+Found
+MODSMD_ARTICLE06: Italien Zur Linzer Rede Seyß-Jnquarts.
+Found
+MODSMD_ARTICLE07: Einem Brunnenvergifter das Handwerk gelegt.
+Found
+MODSMD_ARTICLE08: Die Juden in Polen stellen sich taub.
+Found
+MODSMD_ARTICLE09: Polnische Studentenkundgebung gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE10: Neue Sensationen im Moskauer Prozeß.
+Found
+MODSMD_ARTICLE11: Selbst Leon Blum bekommt das Grausen.
+Found
+MODSMD_ARTICLE12: Ward Price über die Moskauer Prozesse.
+Found
+MODSMD_ARTICLE13: Sitzung des spanischen Nationalstes.
+Found
+MODSMD_ARTICLE14: Der nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE15: Stabsführer Lauterbacher bei General Franco.
+Found
+MODSMD_ARTICLE16: Die Amtssitze der nationalspanischen Ministerien.
+Found
+MODSMD_ARTICLE17: Kommunistische Judencligue in Bukarest ausgehoben.
+Found
+MODSMD_ARTICLE18: Hinrichtung des Mörders von Hohentannen.
+Found

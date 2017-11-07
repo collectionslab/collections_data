@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Ernennung in der Reichsstelle für Raumordnung.
+Found
+MODSMD_ARTICLE02: Beförderungen in der Luftwaffe.
+Found
+MODSMD_ARTICLE03: Nichtfest für Neubau der Reichsstelle für Getreide.
+Found
+MODSMD_ARTICLE04: Rudolf Heß spendet Zum SA-Dankopfer der Nation.
+Found
+MODSMD_ARTICLE05: Reichsschabmeister Schwarz über die Parteiverwaltung.
+Found
+MODSMD_ARTICLE06: Baldur von Schirach sprach auf einer HJ.-Führertagung.
+Found
+MODSMD_ARTICLE07: Das Unterhaus: Sorgenkind Bilbao und Haushalt.
+Found
+MODSMD_ARTICLE08: Wieder ein Ueberfall in Waziristan.
+Found
+MODSMD_ARTICLE09: New Jorker Tanks für Sowjetspanien.
+Found

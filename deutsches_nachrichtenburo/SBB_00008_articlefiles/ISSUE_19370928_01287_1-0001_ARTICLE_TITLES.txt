@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Duce im Haus des Fascio.
+Found
+MODSMD_ARTICLE02: Marschall Badoglio in Berlin.
+Found
+MODSMD_ARTICLE03: „Ganz Deutschland hat Mussolini zugejubelt."
+Found
+MODSMD_ARTICLE05: Dr. Rajnitz zum Staatsbesuch des Duee.
+Found
+MODSMD_ARTICLE06: Die Reichssendungen am 29. September.
+Found
+MODSMD_ARTICLE07: „Ein Tag, der der Geschichte angehört."
+Found
+MODSMD_ARTICLE08: Kundgebung aus Anlaß des Mussolini-Besuches.
+Found
+MODSMD_ARTICLE09: Ein neues englisches Arsenal in Bridgend.
+Found
+MODSMD_ARTICLE10: König Boris bei den bulgarischen Manövern.
+Found
+MODSMD_ARTICLE11: Japanische Reservisten bleiben unter den Fahnen.
+Found
+MODSMD_ARTICLE12: Luftangriffe auf Kanton.
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Neichsbernfswettkampf beendet
+Found
+MODSMD_ARTICLE02: Begnadigung durch den Führer.
+Found
+MODSMD_ARTICLE03: Bulgarische Gast« bei Dr. Todt.
+Found
+MODSMD_ARTICLE04: Amnestie für die Parteigerichtsbarkeit.
+Found
+MODSMD_ARTICLE05: Befehl Himmlers an die SS.- und Polizeiverbände.
+Found
+MODSMD_ARTICLE06: Stimme zur Lage der Sudetendeutschen.
+Found
+MODSMD_ARTICLE07: Bulgarische Abwehr gegen die Juden.
+Found
+MODSMD_ARTICLE08: Sowjetspanische Harlekinade.
+Found

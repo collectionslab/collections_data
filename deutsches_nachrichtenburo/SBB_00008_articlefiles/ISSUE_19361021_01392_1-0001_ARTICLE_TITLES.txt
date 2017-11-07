@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Telegrammwechsel des Herzogs von Coburg mit dem Führer.
+Found
+MODSMD_ARTICLE02: Graf Ciano ehrt die Gefallenen des Weltkrieges.
+Found
+MODSMD_ARTICLE03: Reichssinanzininistcr unterrichtet sich über das WHW.
+Found
+MODSMD_ARTICLE04: Abgabe von Gutachten für Polizeitechnische Neuerungen.
+Found
+MODSMD_ARTICLE06: Vorsitz der Reichsstelle für Garten- und Weinbau-Erzeugnisse.
+Found
+MODSMD_ARTICLE07: Deutsche Frontkämpfer in Jugoslawien.
+Found
+MODSMD_ARTICLE08: Dr. Ley in Schwerin und Rostock.
+Found
+MODSMD_ARTICLE09: Himmler bei Mussolini.
+Found
+MODSMD_ARTICLE10: Massenhinrichtungen von Frauen in Madrid.
+Found
+MODSMD_ARTICLE11: Reorganisation des britischen Verteidigungssystems.
+Found
+MODSMD_ARTICLE12: „Times" siir Mevrston der SiÄ>echeiisyvii^i(.
+Not Found
+MODSMD_ARTICLE13: Britischer Königsjubiläums-Baum freventlich gefällt.
+Found
+MODSMD_ARTICLE14: Christen und Mohammedaner aufeinander gehetzt.
+Found
+MODSMD_ARTICLE15: Atatürk empfängt den afghanischen Kriegsmimster.
+Found
+MODSMD_ARTICLE16: Browder mit faulen Eiern beworfen.
+Found
+MODSMD_ARTICLE17: Hinrichtung eines Negers als Volksfest.
+Found

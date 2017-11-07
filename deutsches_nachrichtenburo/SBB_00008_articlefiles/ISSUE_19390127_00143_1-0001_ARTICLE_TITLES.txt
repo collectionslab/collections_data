@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Dr. Goebbels spricht am 30. Januar zur deutschen Jugend.
+Found
+MODSMD_ARTICLE02: Führende Männer Zum „Tag der Deutschen Polizei".
+Found
+MODSMD_ARTICLE03: Telegramm Funks an Bernhard Köhler.
+Found
+MODSMD_ARTICLE04: Prinz Gustav Adolf von Schweden in Berlin.
+Found
+MODSMD_ARTICLE05: König Faruk nicht zum Kalifen proklamiert»
+Found
+MODSMD_ARTICLE06: Neuer portugiesischer Generalkonsul für Hamburg.
+Found
+MODSMD_ARTICLE07: Ribbentrop von Warschau abgereist.
+Found
+MODSMD_ARTICLE08: Graf Csaky über Ungarns Außenpolitik.
+Found
+MODSMD_ARTICLE09: Unaufhaltsam vorwärts»
+Found
+MODSMD_ARTICLE10: Nationale Kriegsschiffe im Hafen von Barcelona.
+Found
+MODSMD_ARTICLE11: „Schwere Niederlage für die roten Volksfronten."
+Found
+MODSMD_ARTICLE12: Konzentrationslager in Südfrankreich.
+Found
+MODSMD_ARTICLE13: Französisches Verkehrsflugzeug bei Köln verunglückt.
+Found

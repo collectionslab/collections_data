@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Englische Würdigung der Arbeit des Führers.
+Found
+MODSMD_ARTICLE02: Neue Warnung der „Tribuna" an England.
+Found
+MODSMD_ARTICLE03: Englische Heimatflotte an Spaniens Küste.
+Found
+MODSMD_ARTICLE04: Herzog von Glvncester Vizemarschall der Luftslotte.
+Found
+MODSMD_ARTICLE05: Nene britische Nestung im Nernen Osten.
+Found
+MODSMD_ARTICLE06: Der afghanische Ministerpräsident in London.
+Found
+MODSMD_ARTICLE07: Der König von Schweden nach Brüssel abgereist.
+Found
+MODSMD_ARTICLE08: Eine Erklärung des portugiesischen Kolonialministers.
+Found
+MODSMD_ARTICLE09: Namenstag des polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE10: Sowjetrussischer Verkehr 1338: 62 0W Eisenbahnunfälle!
+Found
+MODSMD_ARTICLE11: Pariser Milchversorgung durch Streik gefährdet.
+Found
+MODSMD_ARTICLE12: Schießereien bei Räumung Madrids von Zivilbevölkerung.
+Found
+MODSMD_ARTICLE13: Eingeständnis der Madrider Bolschewistenhäuptlinge.
+Found
+MODSMD_ARTICLE14: Die Schweiz lehnt den Bolschewismus ab.
+Found
+MODSMD_ARTICLE15: Moskauer Todesurteile werden vollstreckt.
+Found
+MODSMD_ARTICLE16: Die Türkei feiert die Regelung der Alexandrette Frage.
+Found
+MODSMD_ARTICLE17: Die Flucht vor dem Hochwasser dauert an.
+Found
+MODSMD_ARTICLE18: Tschaughsueliangs Truppen nach Kansu verlegt.
+Found

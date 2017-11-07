@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Zum Polizeivizepriisidenten voin Berlin ernannt.
+Found
+MODSMD_ARTICLE02: Bisher 19K Tote des Eisenbahnunglücks in Genthin.
+Found
+MODSMD_ARTICLE03: Mit fremden Augen.
+Found
+MODSMD_ARTICLE04: Sehr schweres Fernbeben aufgezeichnet.
+Found
+MODSMD_ARTICLE05: Deutsch-bulgarische Kulturveranstaltung in Sofia.
+Found
+MODSMD_ARTICLE06: Die deutschen Jagdflugzeuge überlegen.
+Found
+MODSMD_ARTICLE07: Bulgarische Wirtschaftsabordnung in Moskau.
+Found
+MODSMD_ARTICLE08: Moskau meldet nur Scharmützel in Finnland.
+Found
+MODSMD_ARTICLE09: Großangriff der russischen Luftwaffe.
+Found
+MODSMD_ARTICLE10: Russischer Angriff auf der Karelischen Landenge.
+Found
+MODSMD_ARTICLE11: 5 Schweden von deutschen Matrosen gerettet.
+Found
+MODSMD_ARTICLE12: Die Streikwelle in Belgien wächst.
+Found
+MODSMD_ARTICLE13: Schweres Erdbeben in Casablanca.
+Found
+MODSMD_ARTICLE14: Neue Beweise für die englische Piraterie.
+Found
+MODSMD_ARTICLE15: Thronrede des Kaisers von Japan.
+Found
+MODSMD_ARTICLE16: Die japanisch-russischen Grenzverhandlungen.
+Found
+MODSMD_ARTICLE17: Veränderungen im chilenischen Kabinett.
+Found
+MODSMD_ARTICLE18: Vollstreckung eines Todesurteils.
+Found
+MODSMD_ARTICLE19: Zwei Gewaltverbrecher hingerichtet.
+Found

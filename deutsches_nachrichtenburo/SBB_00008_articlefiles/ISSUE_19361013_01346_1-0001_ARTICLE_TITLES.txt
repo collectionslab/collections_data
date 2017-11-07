@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Wissenschaftliche Senat für den Reichswetterdienst.
+Found
+MODSMD_ARTICLE02: Neichsnnnister Dr. Goebbels in Karlsruhe und Stuttgart.
+Found
+MODSMD_ARTICLE03: Dr. Frank über die Aufgaben des Rechtshistorikers.
+Found
+MODSMD_ARTICLE04: Hauptversammlung der Deutschen Akademie.
+Found
+MODSMD_ARTICLE05: Wiener Unterredung mit Riischtü Aras.
+Found
+MODSMD_ARTICLE06: Wollen die Radikalsozialisten aussteigen?
+Found
+MODSMD_ARTICLE07: Proteste gegen die Kommunisten-Kundgebungen.
+Found
+MODSMD_ARTICLE08: Blutige Zusammenstöße in Aleppo.
+Found
+MODSMD_ARTICLE09: Erklärung Morgenthaus zur Goldfrage.
+Found
+MODSMD_ARTICLE10: „Ein neuer Typ von Goldstandard".
+Found
+MODSMD_ARTICLE11: Largo Caballero dankt Moskau.
+Found

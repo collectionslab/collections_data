@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Reichsminister Darre weihte das Erbhöfedorf Riedrode.
+Found
+MODSMD_ARTICLE02: Ein DisZiplinarerlas; für österreichische Sportler.
+Found
+MODSMD_ARTICLE03: Der neue Generaldirektor des „Wiener Bankverein".
+Found
+MODSMD_ARTICLE04: England hebt die Sanktionen auf.
+Found
+MODSMD_ARTICLE05: Kurze Auslandsreise Montague Normans.
+Found
+MODSMD_ARTICLE06: Anfragen in der französischen Kammer.
+Found
+MODSMD_ARTICLE07: Bulgarischer Königsbesuch in Italien.
+Found
+MODSMD_ARTICLE08: Eine türkische Stimme zu Montreux.
+Found
+MODSMD_ARTICLE09: Tee Presse Zur neuen Lage im Mitteuneer.
+Found

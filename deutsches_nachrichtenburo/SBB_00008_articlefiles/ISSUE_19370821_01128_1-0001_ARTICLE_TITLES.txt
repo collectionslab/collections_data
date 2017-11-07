@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Des Führers Glückwünsche für Graf Schwerin von Krosigk.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels an den Reichsfinanzminister.
+Found
+MODSMD_ARTICLE03: Kampf für die nationalsozialistische Rechtsidee.
+Found
+MODSMD_ARTICLE04: Die Not unter den Sudeteudeutschen.
+Found
+MODSMD_ARTICLE05: Die Aufnahme der Mussolini-Rede in der Wiener Presse.
+Found
+MODSMD_ARTICLE06: Paris zur Mussolini-Rede.
+Found
+MODSMD_ARTICLE07: Einweihung eines Grabmals für Jakob Bleyer.
+Found
+MODSMD_ARTICLE08: Chinesische Waffenbestellungen in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE09: Siegreiche Gefechte der Japaner bei Peiping.
+Found
+MODSMD_ARTICLE10: Ein Todesurteil vollstreckt.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ilxmann vor Trägern der sozialen Jugendarbeit.
+Found
+MODSMD_ARTICLE02: Die griechische Presse über den Besuch Dr. Goebbels'.
+Found
+MODSMD_ARTICLE03: Die Deutschlandfahrt der Portugiesischen Staatsjugend.
+Found
+MODSMD_ARTICLE04: Aegyptens Ministerpräsident kommt nach Berlin.
+Found
+MODSMD_ARTICLE05: 3. Internationaler Kongreß für Orthopädische Chirurgie.
+Found
+MODSMD_ARTICLE06: Herr Nicole nimmt Partei.
+Found
+MODSMD_ARTICLE07: Beratung über die Zulassung der abessinischen Abordnung.
+Found
+MODSMD_ARTICLE08: Beilegung der englisch-norwegischen Streitigkeiten.
+Found
+MODSMD_ARTICLE09: Gasmasken fallen nicht unter das Waffenausfuhrverbot.
+Found
+MODSMD_ARTICLE10: Außerordentlicher Kabinettsrat in Brüssel.
+Found
+MODSMD_ARTICLE11: Geheime Waffenfabrik in Brüssel aufgedeckt.
+Found
+MODSMD_ARTICLE12: Belgische Flieger nach Spanien „geflüchtet".
+Found
+MODSMD_ARTICLE13: Anweisungen Trotzkis.
+Found
+MODSMD_ARTICLE14: Ultimatum der Arbeiter in Tourcoing.
+Found
+MODSMD_ARTICLE15: Geldunterstützung für die spanischen Marxisten.
+Found
+MODSMD_ARTICLE16: Nationalistischer Opfersinn in Spanien.
+Found

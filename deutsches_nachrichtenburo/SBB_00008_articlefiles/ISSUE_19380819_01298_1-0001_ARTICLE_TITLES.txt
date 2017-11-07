@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Rudolf Heß grünt die Frontkämpsertaguug.
+Found
+MODSMD_ARTICLE02: Kiel in Erwartung des ungarischen Reichsverwesers.
+Found
+MODSMD_ARTICLE03: Eine Botschaft Fürst Konoes an Italien.
+Found
+MODSMD_ARTICLE04: Römische Stimme zur Roosevelt-Rede.
+Found
+MODSMD_ARTICLE05: Hebräer nicht gern gesehen.
+Found
+MODSMD_ARTICLE06: Die „Grundsätze" der Marseiller Hafenarbeitergewerkschaft.
+Found
+MODSMD_ARTICLE07: Die Bolschewistengreuel in Castellon.
+Found
+MODSMD_ARTICLE08: Scharfes Vorgehen der Engländer gegen die Araber.
+Found
+MODSMD_ARTICLE09: Islamische Rechtsgelehrte gegm die Palästina-Politik.
+Found
+MODSMD_ARTICLE10: Kommunistischer Weltjugendkongreß in New Aork.
+Found

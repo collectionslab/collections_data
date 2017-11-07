@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: 15k Jahre Verlag E. S. Mittler Sohn.
+Found
+MODSMD_ARTICLE02: Stabschef Lutze im Kreise der Journalisten.
+Found
+MODSMD_ARTICLE03: Frühstück zu Ehren des scheidenden rumänischen Gesandten.
+Found
+MODSMD_ARTICLE04: Der Reichsminister der Finanzen in Köln.
+Found
+MODSMD_ARTICLE05: Unterstaatssekretär im spanischen Außenmiuisterium.
+Found
+MODSMD_ARTICLE06: „Trotz der Machenschaften der nordamerikanischen Juden."
+Found
+MODSMD_ARTICLE07: Das Agrement für den britischen Botschafter in Burgos.
+Found
+MODSMD_ARTICLE08: Parteiwechsel Scapinis.
+Found
+MODSMD_ARTICLE09: Das dänische Königspaar beim Präsidenten der Republik.
+Found
+MODSMD_ARTICLE10: Der polnische Botschafter im Foreign Office.
+Found
+MODSMD_ARTICLE11: Tie Frühjahrsaussaat in der Sowjetunion stockt.
+Found
+MODSMD_ARTICLE12: 12 tote Araber in einer Höhle verscharrt aufgefunden.
+Found
+MODSMD_ARTICLE13: Die Juden wollen Palästina als ihren Tummelplatz.
+Found
+MODSMD_ARTICLE14: Südafrika fordert Ausschluß der Juden.
+Found
+MODSMD_ARTICLE15: Chile plant neue Emwanderungsbestimmnngen.
+Found
+MODSMD_ARTICLE16: Mit Lebensmitteln und Medikamenten für Chile aufgelaufen
+Found
+MODSMD_ARTICLE17: Sie sind unersättlich!
+Found
+MODSMD_ARTICLE18: Gegen Roosevelts heimtückische Kriegshetze.
+Found

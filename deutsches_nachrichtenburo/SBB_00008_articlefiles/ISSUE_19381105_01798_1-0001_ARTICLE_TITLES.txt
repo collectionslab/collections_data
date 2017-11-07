@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Vom Alpenrand zum Oftseestrand.
+Found
+MODSMD_ARTICLE02: Dr. Todt über die Erweiterung des Autobahnnetzes.
+Found
+MODSMD_ARTICLE03: Empfang der Deutsch-Niederländischen Gesellschaft.
+Found
+MODSMD_ARTICLE04: Gründung der Deutsch-Polnischen Gesellschaft.
+Found
+MODSMD_ARTICLE05: Energische Maßnahmen gegen das Judentum.
+Found
+MODSMD_ARTICLE06: Düstere Sensationen aus Amerika.
+Found

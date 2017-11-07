@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Beschlüsse des Großen Rates des Faschismus.
+Found
+MODSMD_ARTICLE02: Dem Zwangsdienst in der tschechischen Armee entronnen.
+Found
+MODSMD_ARTICLE03: NSV. lindert die Not im Böhmerwald.
+Found
+MODSMD_ARTICLE04: Auch Böhmisch-Krunmu wird frei!
+Found
+MODSMD_ARTICLE05: Palästina: 140 Tote in 24 Stunden.
+Found
+MODSMD_ARTICLE06: Soldaten helfen bei der Ernte.
+Found
+MODSMD_ARTICLE07: Daladier warnt die Lügenfabrikanten.
+Found
+MODSMD_ARTICLE08: Bonnet vor dem Senatsausschuß.
+Found
+MODSMD_ARTICLE09: Palästina-Kommission in London eingetroffen.
+Found
+MODSMD_ARTICLE10: Eine Rede Lord Wintertons.
+Found
+MODSMD_ARTICLE11: Die Nationalspanier am Ebro vorgerückt.
+Found
+MODSMD_ARTICLE12: Norwegen erkennt Nationalspanien an.
+Found

@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Zwolen, Radom, Nzeszow genommen.
+Found
+MODSMD_ARTICLE02: Der.Blutsonntag von Bromberg.
+Found
+MODSMD_ARTICLE03: Englische Neutralitatsbrecher in Belgien.
+Found
+MODSMD_ARTICLE04: Feindlicher Luftangriff abgeschlagen.
+Found
+MODSMD_ARTICLE05: Lettische Schutzwehr verstärkt den Grenzschutz.
+Found
+MODSMD_ARTICLE06: Brasilien auf das stärkste beeindruckt.
+Found
+MODSMD_ARTICLE07: Neuyork über den neuen deutschen Erfolg verblüfft.
+Found

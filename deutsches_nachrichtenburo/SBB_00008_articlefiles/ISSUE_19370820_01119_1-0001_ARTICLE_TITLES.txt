@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Glückwunsch des Führers zum Ungarischen Nationaltag.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Amerikaner-Tee der Vereinigung Carl Schurz.
+Found
+MODSMD_ARTICLE04: Griechische und französische Jugend besucht Berlin.
+Found
+MODSMD_ARTICLE05: Festlicher Empfang im Berliner Schloß.
+Found
+MODSMD_ARTICLE06: Steuerbefreiung für Devisenschenkungen aus dem Auslande.
+Found
+MODSMD_ARTICLE07: Die ersten Tagungen anläßlich des Weltmilchkongresses.
+Found
+MODSMD_ARTICLE08: Dr. Ley in Nürnberg.
+Found
+MODSMD_ARTICLE09: Große Parade vor dem italienischen König.
+Found
+MODSMD_ARTICLE10: Jüdische Terroristen wollen „Volksfront" organisieren.
+Found
+MODSMD_ARTICLE11: Eine Prager Erklärung.
+Found
+MODSMD_ARTICLE12: Pariser Stimmen zum Bruch Lissabon—Prag.
+Not Found
+MODSMD_ARTICLE13: Reuter dementiert Einflußnahme auf die Tschechoslowakei.
+Found
+MODSMD_ARTICLE14: Zustimmung Frankreichs zum englischen Vorschlag.
+Found
+MODSMD_ARTICLE15: Pariser Urteile über den englischen Vermittlungsvorschlag.
+Found
+MODSMD_ARTICLE16: Keine Frachten und Passagen mehr nach Schanghai.
+Found
+MODSMD_ARTICLE17: Ein unglaublicher Vorfall.
+Found
+MODSMD_ARTICLE18: Cholera-Epidemie in Hongkong.
+Found
+MODSMD_ARTICLE19: Hungersnot unter 29V 999 chinesischen Flüchtlingen.
+Found
+MODSMD_ARTICLE20: Allein im Boot über den Ozean.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer im Hamburger Nathans.
+Found
+MODSMD_ARTICLE02: Die Ehrengäste beim Stapellauf.
+Found
+MODSMD_ARTICLE03: Kränze am Vismarck-Tenkmal in Hamburg.
+Found
+MODSMD_ARTICLE04: Neichsorganisationsleiter Dr. Ley 49 Jahre alt.
+Found
+MODSMD_ARTICLE05: Der X!!. Milchwirtschaftliche Weltkongreß.
+Found
+MODSMD_ARTICLE06: Die Entwicklung des Arbeitseinsatzes im Januar 1939.
+Found
+MODSMD_ARTICLE07: Italienische Staatsbürgerschaft und arische Abstammung.
+Found
+MODSMD_ARTICLE08: Deutsch-italienisch-portugiesische Flüchtlings-Spende.
+Found
+MODSMD_ARTICLE09: Spanisches Hilfswerk will die Flüchtlinge versorgen.
+Found
+MODSMD_ARTICLE10: Ministerrat beschließt abermalige Entsendung Berards.
+Found
+MODSMD_ARTICLE11: Senator Pierlot mit der Kabinettsbildung beauftragt.
+Found
+MODSMD_ARTICLE12: Von Degrelle öffentlich getadelt.
+Found
+MODSMD_ARTICLE13: Schweizer Bundesrat verwarnt zwei Hetzblätter.
+Found
+MODSMD_ARTICLE14: Vollstreckung eines Todesurteils.
+Found

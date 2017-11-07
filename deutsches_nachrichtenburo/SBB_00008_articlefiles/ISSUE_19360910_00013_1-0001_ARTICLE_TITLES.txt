@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Parteitag der Ehre.
+Found
+MODSMD_ARTICLE02: Heinrich Anacker.
+Found
+MODSMD_ARTICLE03: Philipp Lenard.
+Found
+MODSMD_ARTICLE04: Tag des Arbeitsdienstes.
+Found
+MODSMD_ARTICLE05: Jubel umbrandet den Führer.
+Found
+MODSMD_ARTICLE06: Der Vorbeimarsch.
+Found
+MODSMD_ARTICLE07: Die Feierstunde.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ein Bruchstück des Flugzeuges Richthofens zurückgegeben.
+Found
+MODSMD_ARTICLE02: Schwedische Anerkennung für den Hamburger Kongreß.
+Found
+MODSMD_ARTICLE03: Die deutschen Kriegsschiffe in den spanischen Gewässern
+Found
+MODSMD_ARTICLE04: -Lissabon meldet Erfolge der Nationalisten.
+Found
+MODSMD_ARTICLE05: Militärgruppe appelliert an das Ehrgefühl der Basken.
+Found
+MODSMD_ARTICLE06: Marxisten schließen sich Nationalisten an.
+Found
+MODSMD_ARTICLE07: Englische Berichte über die Lage in Spanien.
+Found
+MODSMD_ARTICLE08: Spanisches Moratorium bis 9. August verlängert.
+Found
+MODSMD_ARTICLE09: Frage der Neutralitätserklärung im spanischen Bürgerkrieg.
+Found
+MODSMD_ARTICLE10: Englands Antwort auf französischen Neutralitätsvorschlag>
+Found
+MODSMD_ARTICLE11: Diplomatenempfänge bei Außenminister Delbos.
+Found
+MODSMD_ARTICLE12: Das französische Arbeitsbeschaffungsprogramm angenommen
+Found
+MODSMD_ARTICLE13: Annahme von Vorlagen in der französischen Kammer.
+Found
+MODSMD_ARTICLE14: Genfer Journalistenzwischenfall vorläufig erledigt.
+Found
+MODSMD_ARTICLE15: Kommunistische Drohung in Griechenland.
+Found
+MODSMD_ARTICLE16: Englische Flugzettelpropaganda in Palästina.
+Found
+MODSMD_ARTICLE17: Kwangsi-Generale lehnen Kampf gegen Zentralregierung ab
+Found

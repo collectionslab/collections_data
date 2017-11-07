@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Professor Brinkmann von Mussolini empfangen.
+Found
+MODSMD_ARTICLE02: Auftakt zur Reichskolonialtagung in Wien.
+Found
+MODSMD_ARTICLE03: Wiederaufbau in Spanien.
+Found
+MODSMD_ARTICLE04: Mussolini in Piemont.
+Found
+MODSMD_ARTICLE05: Der jugoslawische Außenminister dankt Graf Ciano.
+Found
+MODSMD_ARTICLE06: Ratlose Einkreisungspolitiker.
+Found
+MODSMD_ARTICLE07: Neue Flugmotorenfabrik bei Glasgow.
+Found
+MODSMD_ARTICLE08: Britischer Protest gegen die Besetzung von Kulangsu.
+Found
+MODSMD_ARTICLE09: Die japanische Presse zum englisch-türkischen Abkommen.
+Found
+MODSMD_ARTICLE10: Der Führer prüft den Westwall an der Saar.
+Found
+MODSMD_ARTICLE11: Die unbeliebten Emigranten.
+Found
+MODSMD_ARTICLE12: Drei Milliarden Dollar Fehlbetrag in einem Jahre.
+Found
+MODSMD_ARTICLE13: Roosevelt bringt Amerikas Wirtschaft in Verwirrung.
+Found
+MODSMD_ARTICLE14: Weitere Mitglieder des Mordsyudikats verhaftet.
+Found

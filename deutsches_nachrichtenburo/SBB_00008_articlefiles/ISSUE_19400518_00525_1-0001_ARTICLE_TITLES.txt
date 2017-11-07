@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ribbentrop empfing Botschafter Alfieri.
+Found
+MODSMD_ARTICLE02: Großadmiral Raeder an der norwegischen Küste.
+Found
+MODSMD_ARTICLE03: Feindliche Luftangriffe auf nichtmilitärische Ziele.
+Found
+MODSMD_ARTICLE04: England „rettet" Hollands Goldreserven.
+Found
+MODSMD_ARTICLE05: In drei Tagen drei Todesurteile.
+Found
+MODSMD_ARTICLE06: Wie das französische Volk betrogen wird.
+Found
+MODSMD_ARTICLE07: „Relazioni Jnternazionali" zur Kriegslage.
+Found
+MODSMD_ARTICLE08: Die Richtung der Festungswerke beweist alles.
+Found
+MODSMD_ARTICLE09: Die Verlogenheit der „Neutralität" Belgiens und Hollands.
+Found
+MODSMD_ARTICLE10: Sie ziehen sich „mutig zurück".
+Found
+MODSMD_ARTICLE11: Die jugoslawisch-russischen Wirtschaftsverhandlungen.
+Found

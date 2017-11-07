@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Generalmajor SA.-Gruppenführer Haselmayr 6K.Jahre.
+Found
+MODSMD_ARTICLE02: Italien antwortet auf die neue Lügenkampagne.
+Found
+MODSMD_ARTICLE03: Gegen die berufsmäßigen! Antifaschisten.
+Found
+MODSMD_ARTICLE04: Der Einkreisungsfeldzug wird fortgesetzt.
+Found
+MODSMD_ARTICLE05: Die Pariser Presse kann nicht mehr mit.
+Found
+MODSMD_ARTICLE06: 6000 Menschen in der Provinz Almeria ermordet.
+Found
+MODSMD_ARTICLE07: Der Balkanbund will eine Friedenspolitik.
+Found
+MODSMD_ARTICLE08: Tie Türkei bleibt ihren Freundschaften treu.
+Found
+MODSMD_ARTICLE09: Eine arabische Klarstellung.
+Found
+MODSMD_ARTICLE10: Generalfeldmarschall Göring in Libyen.
+Found
+MODSMD_ARTICLE11: „Zerschneidet die Kabel London—Washington!"
+Not Found
+MODSMD_ARTICLE12: Borah: „Roosevelt darf niemals bestimmen."
+Found
+MODSMD_ARTICLE13: Demokratischer Senator gegen Roosevelt.
+Found
+MODSMD_ARTICLE14: Aus dem Korruptionssumpf USA.
+Found
+MODSMD_ARTICLE15: Wieder ein politischer Mord in Schanghai.
+Found
+MODSMD_ARTICLE16: Italienischer Kreuzerbesuch in Japan.
+Found

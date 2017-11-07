@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Der Führer gratuliert Gauleiter Kaufmann.
+Found
+MODSMD_ARTICLE02: Einladung namhafter Persönlichkeiten des Auslandes.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Hermann Göring bei Mussolini.
+Found
+MODSMD_ARTICLE05: Die Slowakische Volkspartei als Staatspartei.
+Found
+MODSMD_ARTICLE06: Zwetkowitsch reiste nach Agram.
+Found
+MODSMD_ARTICLE07: Plumpes Ablenkungsmanöver Roosevelts.
+Found

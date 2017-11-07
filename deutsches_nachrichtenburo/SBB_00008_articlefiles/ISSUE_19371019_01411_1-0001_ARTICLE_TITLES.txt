@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Arbeitsdienst-Reichsschule für die weibliche Jugewd.
+Found
+MODSMD_ARTICLE03: Tie Abgeordneten Frank und Kundt stellen richtig.
+Found
+MODSMD_ARTICLE04: „Versailles begründete die Notlage Deutschlands".
+Found
+MODSMD_ARTICLE05: Agitation der jüdischen Legitinnsten in Oesterreich.
+Found
+MODSMD_ARTICLE06: Abermals ein Kommunistenprozeß in der Steiermark.
+Found
+MODSMD_ARTICLE07: Kabinettsneubildung in Luxemburg.
+Found
+MODSMD_ARTICLE08: Pfarrer Leonards widerlegt katholische Greuelmärchen.
+Found
+MODSMD_ARTICLE09: Schweizer Anklagen gegen Sowjetspanien.
+Found
+MODSMD_ARTICLE10: Wer hleibt noch übrig in Sowjetrußland?
+Found
+MODSMD_ARTICLE11: Bombenangriffe auf den. Militärslugplatz von Nanking.
+Found
+MODSMD_ARTICLE12: 200 Millionen Jen für die Kriegführung Japans.
+Found
+MODSMD_ARTICLE13: Vollstreckung eines Todesurteils.
+Found

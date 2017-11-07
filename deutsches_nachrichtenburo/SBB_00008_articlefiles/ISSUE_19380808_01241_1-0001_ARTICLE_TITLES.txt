@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der britische Marineminister hat Kiel verlassen.
+Found
+MODSMD_ARTICLE02: Französische Erzieher besuchten Hamburg.
+Found
+MODSMD_ARTICLE03: 20 EW beim Opfertag der memelläudischen Winterhilfe.
+Found
+MODSMD_ARTICLE04: Prag setzt seine Tschechisierungsmaßnahmen fort.
+Found
+MODSMD_ARTICLE05: Herr Bata hetzt.
+Found
+MODSMD_ARTICLE06: Fährt Runciman nach London?
+Found
+MODSMD_ARTICLE07: „Ordre" vermutet wirtschaftliche Mission Runcimans.
+Found
+MODSMD_ARTICLE08: „Slowak" zum Abschied der amerikanischen Delegation.
+Found
+MODSMD_ARTICLE09: Polens Presse zur tschechischen Provokation»
+Found
+MODSMD_ARTICLE10: Karpatho-Ruthenien besteht auf der Autonomie.
+Found
+MODSMD_ARTICLE11: Die französischen Kredite an Bulgarien.
+Found
+MODSMD_ARTICLE12: Wieder Währungskrise iu Frankreich?
+Found
+MODSMD_ARTICLE13: Manöver in den Abrufen.
+Found
+MODSMD_ARTICLE14: Richtlinien des Duce für die neue Rassen-Zeitschrift.
+Found
+MODSMD_ARTICLE15: Glänzender nationaler Sieg an der Ebro-Front.
+Found
+MODSMD_ARTICLE16: Neue unmenschliche Grausamkeiten der Bolschewisten.
+Found
+MODSMD_ARTICLE17: Die bolschewistischen Morde in Spanien.
+Found
+MODSMD_ARTICLE18: Staatspräsident Carmoua iu Benguella»
+Found
+MODSMD_ARTICLE19: Portugiesische Jugeudführer kommen nach Deutschland.
+Found
+MODSMD_ARTICLE20: Erster Wahlgang im Sandschak am 10. August.
+Found

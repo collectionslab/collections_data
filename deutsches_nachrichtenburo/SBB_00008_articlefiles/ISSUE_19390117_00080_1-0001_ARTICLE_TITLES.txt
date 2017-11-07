@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ribbentrop empfing Graf Csaky im Kaiserhos.
+Found
+MODSMD_ARTICLE02: Ehrenvolle Berufung.
+Found
+MODSMD_ARTICLE03: Stiftung Darrös für das Reit- und Fahrturnier.
+Found
+MODSMD_ARTICLE04: Reichsleiter Rosenberg in Münster.
+Found
+MODSMD_ARTICLE05: Dankbare Anerkennung der ungarischen Presse.
+Found
+MODSMD_ARTICLE06: Die Organisierung der Hlinka-Jugend in der Slowakei.
+Found
+MODSMD_ARTICLE07: Eine Botschaft Francas an alle Spanier.
+Found
+MODSMD_ARTICLE08: Francos Truppen stehen 58 Icxn vor Barcelona.
+Found
+MODSMD_ARTICLE09: Barcelona erkennt den Ernst der Lage.
+Found
+MODSMD_ARTICLE10: „Einmischung zugunsten Sowjetspaniens ist Wahnsinn."
+Found
+MODSMD_ARTICLE11: Eine Ueberraschung: Bonnet dankt Notspanien.
+Found
+MODSMD_ARTICLE12: Die Bombenanschläge ein Werk irischer Revolutionäre?
+Found
+MODSMD_ARTICLE13: Juden provozieren die arabische Bevölkerung.
+Found
+MODSMD_ARTICLE14: Kettenbriefe gegen Roosevelt.
+Found
+MODSMD_ARTICLE15: „Gewohnheitsmäßige Abenteurer und Agitatoren."
+Found

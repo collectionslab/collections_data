@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Henlein bei Fahnenweihen der Sudetendeutschen Partei.
+Found
+MODSMD_ARTICLE02: Beginn des Wahlkampfes in Groß-Briissel.
+Found
+MODSMD_ARTICLE03: Kommunistischer Rechtsanwalt in der Schweiz Waffenschieber.
+Found
+MODSMD_ARTICLE04: Genfer Großer Rat gegen kommunistische Betätigung.
+Found
+MODSMD_ARTICLE05: Mißdeutungen der Afrika-Politik Italiens.
+Found
+MODSMD_ARTICLE06: Vatikan richtet 5 Vikariate in Aethiopien ein.
+Found
+MODSMD_ARTICLE07: Spanisch-bolschewistische Liigenmeldungen.
+Found
+MODSMD_ARTICLE08: Neue nationale Erfolge an der Madrider Front.
+Found
+MODSMD_ARTICLE09: Das „Sowjetparadies".
+Found
+MODSMD_ARTICLE10: Kommunistische Politik linken Labour Party-Wügels.
+Found
+MODSMD_ARTICLE11: Die Katastrophe des sowjetrussischen Eisbrechers.
+Found
+MODSMD_ARTICLE12: Wintermanöver in Sowjetrußland.
+Found
+MODSMD_ARTICLE13: Das Versagen der sowjetrussischen Warenversorgung.
+Found
+MODSMD_ARTICLE14: Britische Manöver in Palästina.
+Found
+MODSMD_ARTICLE15: Amerikanische Pässe für Spanien.
+Found
+MODSMD_ARTICLE16: Erklärungen des mexikanischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE17: Streik in indischen Bamwollspinnereien.
+Found
+MODSMD_ARTICLE18: Südafrikas Rüstungspläne.
+Found
+MODSMD_ARTICLE19: Bisher 13 Tote des Eisenbahnunglücks bei Bourges.
+Found
+MODSMD_ARTICLE20: Französischer Dampfer rammt Kai in Algier.
+Found

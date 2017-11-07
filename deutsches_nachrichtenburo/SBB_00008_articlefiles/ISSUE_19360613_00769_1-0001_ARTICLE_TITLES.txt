@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Stapcllauf des Segelschulschiffes „Horst Wessel".
+Found
+MODSMD_ARTICLE02: Kranzniederlegung am Grabe Horst Wessels.
+Found
+MODSMD_ARTICLE03: Nur der Vaterländischen Front Sonnwendfeiern gestattet.
+Found
+MODSMD_ARTICLE04: Englische Sorge wegen der Nahrungsmittelversorgung.
+Found
+MODSMD_ARTICLE05: Die Französischen Sozialgesetze vor dem Senat.
+Found
+MODSMD_ARTICLE06: Die Stimmung in Paris ruhiger.
+Found
+MODSMD_ARTICLE07: Roosevelt über Wirtschafts- und Sozialpolitik.
+Found

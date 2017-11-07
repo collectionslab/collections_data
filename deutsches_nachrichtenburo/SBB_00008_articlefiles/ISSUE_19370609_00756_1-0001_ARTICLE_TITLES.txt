@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ter chinesische Finanzminister zum Ehrendoktor ernannt.
+Found
+MODSMD_ARTICLE02: Dr. Neubert Präsident der Reichsrechtsanwaltskammer.
+Found
+MODSMD_ARTICLE03: Neuer Intendant des Danziger Senders.
+Found
+MODSMD_ARTICLE04: Kranzniederlegung am Marineehrenmal.
+Found
+MODSMD_ARTICLE05: Italienische Gäste im Braunen Haus.
+Found
+MODSMD_ARTICLE06: Wieder zwei Klosterbrüder vor dem Koblenzer Gericht.
+Found
+MODSMD_ARTICLE07: Der Standpunkt der Sudetendeutschen Partei.
+Found
+MODSMD_ARTICLE08: Der Reichsaußenminister nach Sofia abgeflogen.
+Found
+MODSMD_ARTICLE09: Der Reichsaußenminister in Sofia.
+Found
+MODSMD_ARTICLE10: Die Sofioter Presse begrüßt Neurath.
+Found
+MODSMD_ARTICLE11: Die Zivilliste vom Oberhaus verabschiedet.
+Found

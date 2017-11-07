@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Die Heß-Rede wird in aller Welt gehört.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels auf der „Sudetendeutschen Kunstausstellung".
+Found
+MODSMD_ARTICLE03: Verspätung eines Sonderzuges zum Staatsakt.
+Found
+MODSMD_ARTICLE04: Stadtbaurat Dr. Kölzow Direktor des VDI.
+Found
+MODSMD_ARTICLE05: Grand Prix für einen Wagen der Deutschen Reichsbahn.
+Found
+MODSMD_ARTICLE06: Keine weiteren Unterredungen zwischen London und Paris.
+Found
+MODSMD_ARTICLE07: „Times" zu den bolschewistischen Massenhinrichtungen.
+Found
+MODSMD_ARTICLE08: Italienische Betrachtung zur Delbos-Reise.
+Found
+MODSMD_ARTICLE09: Die polnische Presse über die Genfer Institution.
+Found
+MODSMD_ARTICLE10: Neue Satzung des polnischen Advokateurates?
+Found
+MODSMD_ARTICLE11: Sowjetflieger überflogen die finnische Grenze.
+Found
+MODSMD_ARTICLE12: 13 neue Todesurteile
+Found
+MODSMD_ARTICLE13: Der Herzog von Aosta in Asmara.
+Found
+MODSMD_ARTICLE14: Der syrische Ministerpräsident bei Atatürk.
+Found
+MODSMD_ARTICLE15: Der Ministerpräsident von Syrien aus Ankara abgereist.
+Found
+MODSMD_ARTICLE16: Förderung der landwirtschaftlichen Entwicklung Irans.
+Found
+MODSMD_ARTICLE17: Die indische Armee wird motorisiert.
+Found
+MODSMD_ARTICLE18: Luftkämpfe über Nantschang.
+Found
+MODSMD_ARTICLE19: Zunahme der Erwerbslosigkeit in USA.
+Found
+MODSMD_ARTICLE20: Keine Verschmelzung der USA.-Gewerkschasten.
+Found

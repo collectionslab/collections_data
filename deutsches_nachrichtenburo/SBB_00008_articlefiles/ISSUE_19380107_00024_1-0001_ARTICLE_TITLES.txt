@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Neun Millionen Rundfunkteilnehmer.
+Found
+MODSMD_ARTICLE02: Keine Juden mehr im „Oesterreichischen Jungvolk".
+Found
+MODSMD_ARTICLE03: Italien legt weitere Schlachtschiffe auf Stapel.
+Found
+MODSMD_ARTICLE04: Abreise der 1500 Rumänen aus Rom.
+Found
+MODSMD_ARTICLE05: Litauen verbietet polnische Verbände.
+Found
+MODSMD_ARTICLE06: Die tägliche Blutliste der Sowjets.
+Found
+MODSMD_ARTICLE07: Fortschreitender Einfluß Moskaus in Prag.
+Found
+MODSMD_ARTICLE08: Die Arbeitslosigkeit in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE09: Die Pariser Presse zum Aufruf Chautemps'.
+Found
+MODSMD_ARTICLE10: Auch Schneepflüge nach Rotspanien verschoben?
+Found
+MODSMD_ARTICLE11: Der Kommunisten-Putschplan in Paris.
+Found
+MODSMD_ARTICLE12: Die Rechtslage in Schanghai unsicher.
+Found
+MODSMD_ARTICLE13: Die bevorstehende Nichteinmischungsausschuß-Sitzung.
+Found
+MODSMD_ARTICLE14: WohltätigkeitskonzerL für Nationalspanien in Genf.
+Found
+MODSMD_ARTICLE15: Japanischer Bombenangriff auf Hankau.
+Found
+MODSMD_ARTICLE16: Das Urteil im Prozeß gegen Arnold Bernstein.
+Found

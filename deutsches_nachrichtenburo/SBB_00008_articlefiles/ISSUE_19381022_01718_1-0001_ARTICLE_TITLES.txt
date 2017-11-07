@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die italienischen Gemeindebeamten in Berlin.
+Found
+MODSMD_ARTICLE02: Reichserziehungsminister Ruft im Sudetenland.
+Found
+MODSMD_ARTICLE03: Die Berliner Liedertafel aus Italien zurück.
+Found
+MODSMD_ARTICLE04: Der ungarische Gesandte in Rom bei Graf Ciano.
+Found
+MODSMD_ARTICLE05: Chamberlain zum Wochenende nach Cheguers gereist.
+Found
+MODSMD_ARTICLE06: Staatsbesuch des Königs von Rumänien in England.
+Found
+MODSMD_ARTICLE07: „Englands Fingabwehr gleich Frankreichs Maginot-Linie."
+Found
+MODSMD_ARTICLE08: „Evemng Standard" zur Hoare-Rede.
+Found
+MODSMD_ARTICLE09: Japan zum Fall von Kanton.
+Found
+MODSMD_ARTICLE10: Abgeordneter Dies gegen die Rede Churchills.
+Found
+MODSMD_ARTICLE11: Weshalb Juden ausgerechnet ins kleine Palästina?
+Found

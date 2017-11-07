@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die deutsch-niederländischen Transfer-Vereinbarungen.
+Found
+MODSMD_ARTICLE02: Wetterführung der
+Found
+MODSMD_ARTICLE03: Minister Homan und Nüst in Hamburg.
+Found
+MODSMD_ARTICLE04: Der Prozeß gegen die Franziskanerbrüder.
+Found
+MODSMD_ARTICLE05: Das politische Programm des Führers der Rex-Bewegung.
+Found
+MODSMD_ARTICLE06: Feierliche Königsproklamation in London.
+Found
+MODSMD_ARTICLE07: Sitzung des britischen Kabinetts.
+Found
+MODSMD_ARTICLE08: Der Negns in Gibraltar.
+Found
+MODSMD_ARTICLE09: Die Streikwelle in Paris.
+Found
+MODSMD_ARTICLE10: „Gazeta Polska" über den Besuch Becks in Belgrad.
+Found
+MODSMD_ARTICLE11: 68 marxistische Gewerkschaftler in Warschau verhaftet.
+Found
+MODSMD_ARTICLE12: Sympathiekundgebungen in Transjordanien.
+Found
+MODSMD_ARTICLE13: Jüdische Frechheit in Palästina.
+Found

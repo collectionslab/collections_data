@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Triumphaler deutscher Erfolg in Venedig.
+Found
+MODSMD_ARTICLE02: Reichsminister Ruft besucht Austauschstudenten.
+Found
+MODSMD_ARTICLE03: Dr. Ley über das Wohnungsproblem.
+Found
+MODSMD_ARTICLE04: Ausklang des Schach-Olympia.
+Found
+MODSMD_ARTICLE05: 3. Internationaler Lichtforscherkongrest.
+Found
+MODSMD_ARTICLE06: „Erster Welt-lugendkongreß" in Genf.
+Found
+MODSMD_ARTICLE07: Ter Urlaub des Ministerpräsidenten von Gömbös.
+Found
+MODSMD_ARTICLE08: Aufhebung einer ukrainischen Geheimorganisation in Polen
+Found
+MODSMD_ARTICLE09: Die polnische Botschaft und der Streik in Ostricourt.
+Found
+MODSMD_ARTICLE10: Französische Reserveoffiziere in Prag.
+Found
+MODSMD_ARTICLE11: „Registrierungen" an der spanisch-französischen Grenze.
+Found
+MODSMD_ARTICLE12: Madrid bildet die Guardia Civil um.
+Found
+MODSMD_ARTICLE13: Portugiesisches Waffenausfuhrverbot.
+Found
+MODSMD_ARTICLE14: Verhaftung eines ehemaligen spanischen Innenministers.
+Found
+MODSMD_ARTICLE15: Die militärische Ausbildung der Sowjet-Jugend.
+Found

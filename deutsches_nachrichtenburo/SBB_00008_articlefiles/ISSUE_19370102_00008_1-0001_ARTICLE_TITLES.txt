@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Austausch von Neujahrsglückwünschen zwischen dem Führer und Staatsoberhäuptern des Auslandes.
+Found
+MODSMD_ARTICLE02: Gluckwunschaustausch zwischen Handels- und Kriegsmarine.
+Found
+MODSMD_ARTICLE03: Weitere deutsche Gegenmaßnahme.
+Found
+MODSMD_ARTICLE04: Neujahrsempfänge in Warschau.
+Found
+MODSMD_ARTICLE05: Gayda über Italiens Außenpolitik.
+Found
+MODSMD_ARTICLE06: Hohe Sonderausgaben durch die Palästina-Unruhen.
+Found
+MODSMD_ARTICLE07: Eine Unterredung mit General Francs.
+Found
+MODSMD_ARTICLE08: Die Zustände an der spanisch-französischen Grenze.
+Found
+MODSMD_ARTICLE09: Neues aus der Bolschewistenzentrale in Perpignan.
+Found
+MODSMD_ARTICLE10: Beförderung sowjetrussischer Offiziere in Spanien.
+Found
+MODSMD_ARTICLE11: Die geplante Aeuderung der Neutralitätsgesetze in USA.
+Found

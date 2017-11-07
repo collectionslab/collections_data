@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Sitzung des Reichskabinetts. Verabschiedung von Gesetzen.
+Found
+MODSMD_ARTICLE02: Vom Kührer begnadigt.
+Found
+MODSMD_ARTICLE03: Der Weltrundfunkverein bei Reichsminister Dr. Goebbels.
+Found
+MODSMD_ARTICLE04: Des Führers Neutralitätserklärung befriedigt die Schweiz.
+Found
+MODSMD_ARTICLE05: Deutsch-Polnischer Konzertabend in Warschau.
+Found
+MODSMD_ARTICLE06: Eine Verordnung des ungarischen lustizministers.
+Found
+MODSMD_ARTICLE07: „Mar Cantabrico" mistbrauchte den Notruf der „Ada".
+Found
+MODSMD_ARTICLE08: Die „Mar Cantabrico" fuhr als englischer Dampfer „Ada".
+Found
+MODSMD_ARTICLE09: Blum verteidigt die Anleihevorlage.
+Found
+MODSMD_ARTICLE10: Tumult im Unterhaus.
+Found

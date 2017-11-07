@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Steigende Zahl polnischer Ueberläufer.
+Found
+MODSMD_ARTICLE02: Deutsch—russische Parade in Brest-Litowsk.
+Not Found
+MODSMD_ARTICLE03: Amtseinführung der Mitglieder des Oberprisenhofes.
+Found
+MODSMD_ARTICLE04: Englands Blockade macht Schweden arbeitslos.
+Found
+MODSMD_ARTICLE05: Wieder eine typische Greuelmeldung.
+Found
+MODSMD_ARTICLE06: „Lächerliche Versuche" sagt die tschechische Presse.
+Found
+MODSMD_ARTICLE07: Heeresbericht der Roten Armee vom 23. September.
+Found
+MODSMD_ARTICLE08: Der estnische Außenminister in Moskau.
+Found
+MODSMD_ARTICLE09: Das Schicksal der russischen Diplomaten in Polen.
+Found
+MODSMD_ARTICLE10: „Absolut normales Leben in Böhmen und Mähren."
+Found
+MODSMD_ARTICLE11: Austausch der —russischen! Ratifikationsurkunden.
+Found
+MODSMD_ARTICLE12: Wieder diplomatische Beziehungen Ungarn—Sowjetunion.
+Found
+MODSMD_ARTICLE13: Handelsweg Donau völlig unbehindert.
+Found
+MODSMD_ARTICLE14: „Freiheit der Meere" nach englischer Auffassung.
+Found
+MODSMD_ARTICLE15: Der Eindruck von Deutschlands Schlagkraft.
+Found
+MODSMD_ARTICLE16: Einzig dastehender Völkerrechtsbruch.
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Hoggar-Rundflug.
+Found
+MODSMD_ARTICLE02: Mussolini ehrt die erfolgreichsten Bauern.
+Found
+MODSMD_ARTICLE03: Die italienischen Flottenbauten ein Mindestprogramm.
+Found
+MODSMD_ARTICLE04: Italiens Interesse an einem unabhängigen Arabien.
+Found
+MODSMD_ARTICLE05: Ein belgisches Dementi.
+Found
+MODSMD_ARTICLE06: Der englische Innenminister ans dem Urlaub zurück.
+Found
+MODSMD_ARTICLE07: Der italienische Rundfunk und Palästina.
+Found
+MODSMD_ARTICLE08: Chautemps und Jouhaux.
+Found
+MODSMD_ARTICLE09: Die folgen des marxistischen Streiktierrors.
+Found
+MODSMD_ARTICLE10: Die Juden bestürmen den Quai d'Orsah.
+Found
+MODSMD_ARTICLE11: Drei wichtige Wirtschaftsgesetze in Lettland.
+Found
+MODSMD_ARTICLE12: Andauernde Kämpfe bei Teruel.
+Found
+MODSMD_ARTICLE13: Beim „Ossoadiachim" angelangt.
+Found
+MODSMD_ARTICLE14: Moskau organisiert ständige Bürgerkriegs-Brigaden.
+Found
+MODSMD_ARTICLE15: Geringe Einwanderung nach den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE16: Japanische Truppenlandung in Tsingtau?
+Found
+MODSMD_ARTICLE17: Blutige Unruhen in Tunesien.
+Found
+MODSMD_ARTICLE18: Besuch der „Schleswig-Holstein" in Kapstadt.
+Found

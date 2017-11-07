@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dr. Ley empfängt und ausländische Presse.
+Found
+MODSMD_ARTICLE02: „Ewig bleibt das Opfer für die Gemeinschaft".
+Found
+MODSMD_ARTICLE03: Die ungarische Landwirtschaft.
+Found
+MODSMD_ARTICLE04: Dankbar für den neuen Aufschwung in Abessinien.
+Found
+MODSMD_ARTICLE05: Staatssekretär Valle aus Bukarest abgereist.
+Found
+MODSMD_ARTICLE06: Prager Agitation für Moskau.
+Found
+MODSMD_ARTICLE07: Die Verhandlungen Bonnets mit dem türkischen Botschafter.
+Found
+MODSMD_ARTICLE08: Daladier gegen demagogische Anträge.
+Found
+MODSMD_ARTICLE09: Die französischen Beamten für Gehaltserhöhung.
+Found
+MODSMD_ARTICLE10: „Britische" Schiffe in sowjetspanischen Häfen.
+Found
+MODSMD_ARTICLE11: Die rotspanische Grenzverletzung.
+Found
+MODSMD_ARTICLE12: Auch sowjetrussische Geschütze hemmen den Vormarsch nicht.
+Found

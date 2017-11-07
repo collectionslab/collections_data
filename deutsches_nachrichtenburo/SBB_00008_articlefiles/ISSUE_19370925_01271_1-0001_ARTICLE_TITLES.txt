@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Gegenbesuch des Führers beim Duce.
+Found
+MODSMD_ARTICLE02: Empfsug im Haus der Deutscheu Kunst.
+Found
+MODSMD_ARTICLE03: Mussolini und der Führer verlassen x München.
+Found
+MODSMD_ARTICLE04: Mussolinis Besuch in Berlin.
+Found
+MODSMD_ARTICLE05: Ganz Berlin niMmt KU der Kundgebung teil.
+Found
+MODSMD_ARTICLE06: Das Auslaub zum Staatsbesuch des Duee.
+Found
+MODSMD_ARTICLE07: Frühstück zu Ehren Dr. Schachts in Kopenhagen.
+Found
+MODSMD_ARTICLE08: Die NSKK.-Kolouue in Sofia.
+Found

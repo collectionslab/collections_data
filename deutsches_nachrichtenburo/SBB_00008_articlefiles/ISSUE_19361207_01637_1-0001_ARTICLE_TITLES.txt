@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Gustloffs Morder vor den Richtern.
+Found
+MODSMD_ARTICLE02: Anklage auf Mord.
+Found
+MODSMD_ARTICLE03: Das Verbrechen des David Frankfurter.
+Found
+MODSMD_ARTICLE04: Vorgeschichte und Hintergründe.
+Found
+MODSMD_ARTICLE05: Ein Vortrag Dr. Syrups in Stockholm.
+Found
+MODSMD_ARTICLE06: Kundgebung gegen Blums Nichteinmischungspolitik.
+Found
+MODSMD_ARTICLE07: Säuberung der roten Nester m Madrider Vorstädten.
+Found
+MODSMD_ARTICLE08: Der nationale Heeresbericht vom Sonntag.
+Found
+MODSMD_ARTICLE09: Überschwemmungskatastrophe in der Türkei.
+Found
+MODSMD_ARTICLE10: Hull auf der Konferenz von Buenos Aires.
+Found
+MODSMD_ARTICLE11: Reichsanleihebetrag infolge Ileberzeichnnng erhöht.
+Found

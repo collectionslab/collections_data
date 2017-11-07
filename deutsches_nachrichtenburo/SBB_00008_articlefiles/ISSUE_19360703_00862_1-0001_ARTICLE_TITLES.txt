@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die englischen Frontkämpfer in Berlin.
+Found
+MODSMD_ARTICLE02: Ungarische Pressevertreter in der Hauptstadt der Bewegung.
+Found
+MODSMD_ARTICLE03: Der Nordische Kongreß „Haus und Hof".
+Found
+MODSMD_ARTICLE04: Oesterreich verbietet ein Turnfest.
+Found
+MODSMD_ARTICLE05: Eine außenpolitische Rede Baldwins.
+Found
+MODSMD_ARTICLE06: Der Negus verlangt eine Völkerbundsanleihe.
+Found
+MODSMD_ARTICLE07: Leon Blum aus Genf zurück.
+Found
+MODSMD_ARTICLE08: Der neue Kurs der „Republique".
+Found
+MODSMD_ARTICLE09: Wiederaufnahme der Arbeit lothringischer Eisenerzarbeiter.
+Found
+MODSMD_ARTICLE10: Wiederum kommunistische Zelle in Warschau ausgehoben.
+Found
+MODSMD_ARTICLE11: Schwere Bluttaten in Madrid und Barcelona.
+Found
+MODSMD_ARTICLE12: Oberstleutnant Aizawa Hingerichtet.
+Found

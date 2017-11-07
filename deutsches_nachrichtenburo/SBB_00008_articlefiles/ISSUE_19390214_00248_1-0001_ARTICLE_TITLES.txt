@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die Internationale Verkehrsausstellung Köln 1940.
+Found
+MODSMD_ARTICLE02: Deutscher Dampfer rettet Besatzung dänischen Schoners.
+Found
+MODSMD_ARTICLE03: Das Ergebnis der karpatho-ukrainischen Landtagswahl.
+Found
+MODSMD_ARTICLE04: Lakonische Antwort auf Hainau-Interpellation.
+Found
+MODSMD_ARTICLE05: Englands Haltung zu Francs noch ungeklärt.
+Found
+MODSMD_ARTICLE06: General Besson besichtigt das Lager Argeles.
+Found
+MODSMD_ARTICLE07: Tie Vankerottenre „regieren" noch immer.
+Found
+MODSMD_ARTICLE08: Ein Massenmörder zum Tode verurteilt.
+Found
+MODSMD_ARTICLE09: Katalonien vollständig von den Nationalen besetzt.
+Found
+MODSMD_ARTICLE10: Grauenvolle Untat der Bolschewisten.
+Found
+MODSMD_ARTICLE11: Nationalspanien wird daran denken!
+Found
+MODSMD_ARTICLE12: Brutale Blutherrschaft der Tscheka in Madrid.
+Found
+MODSMD_ARTICLE13: Auch der Direktor des Spielkasinos von Namur verhaftet.
+Found
+MODSMD_ARTICLE14: Stabschef Lutze in Venedig.
+Found
+MODSMD_ARTICLE15: Nene Attentatsversuche in England.
+Found
+MODSMD_ARTICLE16: Hoover geißelt die Methoden des Rooseveltregimes.
+Found
+MODSMD_ARTICLE17: Flugzeugverkauf an Frankreich bleibt im Dunkel.
+Found

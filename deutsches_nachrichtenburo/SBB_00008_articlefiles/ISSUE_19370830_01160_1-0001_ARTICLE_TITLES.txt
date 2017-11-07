@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Die Tagung der Auslandsdeutschen.
+Found
+MODSMD_ARTICLE02: Festaufführung im Staatstheater.
+Found
+MODSMD_ARTICLE03: Der Führer an das Leipziger Messeamt.
+Found
+MODSMD_ARTICLE04: Chinesisch-sowjetrussischer Nichtangriffspakt abgeschlossen.
+Found
+MODSMD_ARTICLE05: Der Luftangriff auf den Nantao-Bezirk.
+Found
+MODSMD_ARTICLE06: Die britische Protestnote an Japan.
+Found
+MODSMD_ARTICLE07: Der britische Geschäftsträger bei Hirota.
+Found

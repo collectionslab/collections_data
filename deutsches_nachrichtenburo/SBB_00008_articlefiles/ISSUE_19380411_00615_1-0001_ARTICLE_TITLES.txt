@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ausklang auf dem Wilhelmplatz.
+Found
+MODSMD_ARTICLE02: Neberall im Vaterland nur ein Jubel und ein Dank.
+Found
+MODSMD_ARTICLE03: Eine pflichtbewußte deutsche Frau.
+Found
+MODSMD_ARTICLE04: Das Treuebekenntnis der Auslandsdeutschen.
+Found
+MODSMD_ARTICLE05: Der denkwürdige Tag an Bord des „Wilhelm Gustloss".
+Found
+MODSMD_ARTICLE06: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE07: Dr. Ohnesorge beglückwünscht Göring.
+Found
+MODSMD_ARTICLE08: 10 000 RM für die Speisung Hilfsbedürftiger in Wien.
+Found
+MODSMD_ARTICLE09: Weitere Fortschritte der nationalspanischen Truppen.
+Found
+MODSMD_ARTICLE10: Bolschewistische Verzweiflungsmaßnahmen.
+Found

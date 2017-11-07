@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Tie vier Punkte der japanischen Chinapolitik.
+Found
+MODSMD_ARTICLE02: Belgiens Anteilnahme an der Ostender Flugzeugkatastrophe.
+Found
+MODSMD_ARTICLE03: Wegen deutschfeindlicher Hetze beschlagnahmt.
+Found
+MODSMD_ARTICLE04: Attentat auf den Leiter der polnischen nationalen Jugend.
+Found
+MODSMD_ARTICLE05: Der estnische Wirtschaftsminister iin Warschau.
+Found
+MODSMD_ARTICLE06: Die jugoslawische Militärmission bei Mussolini.
+Found
+MODSMD_ARTICLE07: Immer dreistere Einmischung zugunsten Valencias.
+Found
+MODSMD_ARTICLE08: Der erste britische Handelsagent für Nationalspanien.
+Found
+MODSMD_ARTICLE09: Peinliche Anfragen für Sowjetrustland im Unterhaus.
+Found
+MODSMD_ARTICLE10: Der bulgarische König bei Lebrun.
+Found
+MODSMD_ARTICLE11: Der Pariser Wassensund.
+Found
+MODSMD_ARTICLE12: „Hütet euch am Morgarten".
+Found
+MODSMD_ARTICLE13: Viktorow auch stellvertretender Kriegskommissar.
+Found
+MODSMD_ARTICLE14: Araber protestieren gegen jüdische Gewaltakte.
+Found
+MODSMD_ARTICLE15: „Brüssel soll die Lage in Fernost berücksichtigen".
+Found
+MODSMD_ARTICLE16: Chinesische Behörden verlassen die bedrohte Hauptstadt.
+Found
+MODSMD_ARTICLE17: Kein neues Regime, sondern Verfassuugsresorm in Brasilien
+Found

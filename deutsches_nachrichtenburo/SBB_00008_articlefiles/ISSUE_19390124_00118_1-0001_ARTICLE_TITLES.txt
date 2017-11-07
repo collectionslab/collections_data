@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: KIM HJ.-Heime geplant.
+Found
+MODSMD_ARTICLE02: Graf Ciano wieder in Rom.
+Found
+MODSMD_ARTICLE03: Absage Daladiers an Kerillis.
+Found
+MODSMD_ARTICLE04: Nationale Tanks dringen in Manresa ein.
+Found
+MODSMD_ARTICLE05: Weltrevolutiomcrung durch Sowjetfilm.
+Found
+MODSMD_ARTICLE06: Berija erneuert die GPU.
+Found
+MODSMD_ARTICLE07: Stimsou hetzt weiter.
+Found
+MODSMD_ARTICLE08: Scharfe Kritik gegen die amerikanische Rundfnnkpolitik.
+Found
+MODSMD_ARTICLE09: Sensationelle Enthüllung über Jud Baruch.
+Found
+MODSMD_ARTICLE10: Frau Kerkins wird unter Anklage gestellt.
+Found
+MODSMD_ARTICLE11: Kritik aur amerikanischen Handelsminister.
+Found
+MODSMD_ARTICLE12: Wieder Sensanonsprozeß gegen Hin es in New Jork.
+Found
+MODSMD_ARTICLE13: Neue Minister in Mexiko.
+Found
+MODSMD_ARTICLE14: Streik in Montevideo.
+Found
+MODSMD_ARTICLE15: Die Zusammensetzung der arabischen Abordnung für London
+Found
+MODSMD_ARTICLE16: Betonmauern zwischen Arabern und Juden in Jerusalem.
+Found
+MODSMD_ARTICLE17: Einladung Chamberlains nach Tokio?
+Found

@@ -1,0 +1,46 @@
+MODSMD_ARTICLE01: Dr. Conti Staatssekretär im Innenministerium.
+Found
+MODSMD_ARTICLE02: Henderson erst Montagabend in Berlin.
+Found
+MODSMD_ARTICLE03: Dienstmagd von den Polen erschossen.
+Found
+MODSMD_ARTICLE04: Betrunkene polnische Banditen überfielen einen Kohlenzug.
+Found
+MODSMD_ARTICLE05: Polnisches Zerstörungswerk im Olsagebiet.
+Found
+MODSMD_ARTICLE06: Die Slowakei an der Seite des deutschen Volkes.
+Found
+MODSMD_ARTICLE07: Dr. Frank und Bouhler haben Danizig verlassen.
+Found
+MODSMD_ARTICLE08: Sinnlose Zerstörungswut polnischer Truppenteile.
+Found
+MODSMD_ARTICLE09: Die britische Handelsflotte der Admiralität unterstellt.
+Found
+MODSMD_ARTICLE10: Die Sitzung des britischen Kabinetts.
+Found
+MODSMD_ARTICLE11: Englischer Rundfunk veröffentlicht den Briefwechsel.
+Found
+MODSMD_ARTICLE12: Die Türkei hat Kemal Atatürk vergessen.
+Found
+MODSMD_ARTICLE13: Die internationale Lage vor dem belgischen Kabinettsrat.
+Found
+MODSMD_ARTICLE14: Belgien veröffentlicht den Briefwechsel Hitler—Daladier.
+Not Found
+MODSMD_ARTICLE15: Der Brief des Führers in Frankreich veröffentlicht.
+Found
+MODSMD_ARTICLE16: Dänemark hält seinen Handel normal aufrecht.
+Found
+MODSMD_ARTICLE17: Aegypten stellt eine Territorialarmee auf.
+Found
+MODSMD_ARTICLE18: Einberufung kanadischer Miliz-Reservisten.
+Found
+MODSMD_ARTICLE19: Wirkfamwerden der Neutralitätsakte im Kriegsfall.
+Found
+MODSMD_ARTICLE20: Neutralitätsfragen in Amerika.
+Found
+MODSMD_ARTICLE21: Neue Regierung in Bolivien.
+Found
+MODSMD_ARTICLE22: Argentiniens Wille zur Neutralität.
+Found
+MODSMD_ARTICLE23: Brasiliens Neutralität steht unverrückbar fest.
+Found

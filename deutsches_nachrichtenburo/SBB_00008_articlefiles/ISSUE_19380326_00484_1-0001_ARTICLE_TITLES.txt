@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Einheitliche Ausbildung für den höheren Forstdienst.
+Found
+MODSMD_ARTICLE02: Tagung des Forschungsdienstes.
+Found
+MODSMD_ARTICLE03: Neue soziale Erleichterungen für Bauarbeiter.
+Found
+MODSMD_ARTICLE04: Wettbewerb für BauerMehöftsentwürfe im Emsland.
+Found
+MODSMD_ARTICLE05: Die Regelung des Verkaufs am Sonntag vor Ostern.
+Found
+MODSMD_ARTICLE06: Englands öffentliche Meinung und die Tschechoslowakei.
+Found
+MODSMD_ARTICLE07: Abschluß der litauisch-polnischen Verkehrsberatungen.
+Found
+MODSMD_ARTICLE08: Der jugoslawische Haushaltsvoranschlag angenommen. –
+Not Found
+MODSMD_ARTICLE09: Für freie Entwicklung der sudetendeutschen Hochschulen.
+Found
+MODSMD_ARTICLE10: Negrin auf der Suche nach neuen Unterstützungen.
+Found
+MODSMD_ARTICLE11: Maßnahmen gegen die Legionärsbewegung in Rumänien.
+Found
+MODSMD_ARTICLE12: Abschluß der Parlamentstaguug in Tokio.
+Found

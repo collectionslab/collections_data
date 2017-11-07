@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Deutsche Rundfunknachrichten in französischer Sprache.
+Found
+MODSMD_ARTICLE02: Raeder auf dem Bundestag des NSD.-Marinebundes.
+Found
+MODSMD_ARTICLE03: Die „friedliche" Haltung der polnischen Öffentlichkeit.
+Found
+MODSMD_ARTICLE04: Gegen Mißdeutungen der Haltung Italiens.
+Found
+MODSMD_ARTICLE05: „Polen betreibt eine Selbstmordpolitik".
+Found
+MODSMD_ARTICLE06: Awetkowitsch verließ Trieft.
+Found
+MODSMD_ARTICLE07: So ermuntert England Polens Unverträglichkeit!
+Found
+MODSMD_ARTICLE08: Kleingeldnöte auch in Polens „Welthafen" Edingen.
+Found
+MODSMD_ARTICLE09: So danken die Briten ihren französischen Partnern!
+Found
+MODSMD_ARTICLE10: Graf Ciano beim Führer.
+Found
+MODSMD_ARTICLE11: Die Kennzahl der Großhandelspreise vom 9. August 1939.
+Found

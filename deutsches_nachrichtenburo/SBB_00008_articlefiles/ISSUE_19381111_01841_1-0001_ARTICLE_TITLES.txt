@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Sozialer Wohnungsbau für kinderreiche Arbeiterfamilien.
+Found
+MODSMD_ARTICLE02: Der memelländische Wahlvorschlag veröffentlicht.
+Found
+MODSMD_ARTICLE03: Mohrenwäsche in Prag.
+Found
+MODSMD_ARTICLE04: Palästina-Konferenz und Lnftaufrüstung im Unterhaus.
+Found
+MODSMD_ARTICLE05: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE06: Marxistische Humanität!
+Found
+MODSMD_ARTICLE07: Negrin muß die Niederlage Zugeben.
+Found
+MODSMD_ARTICLE08: Seltsame Zurückhaltung in Bukarest.
+Found
+MODSMD_ARTICLE09: Italienische Anteilnahme am Tod Atatürks.
+Found
+MODSMD_ARTICLE10: Einbalsamierung der Leiche Atatürks.
+Found
+MODSMD_ARTICLE11: Bombenwürfe und Häusersprengungen ohne Ende.
+Found
+MODSMD_ARTICLE12: Das Echo des Woodhead-Berichts im arabischen Palästina.
+Found

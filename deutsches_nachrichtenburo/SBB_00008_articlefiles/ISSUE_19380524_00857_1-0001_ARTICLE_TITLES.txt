@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Frick stiftet einen Turnierpreis.
+Found
+MODSMD_ARTICLE02: Der Verein für öffentliche und Private Fürsorge.
+Found
+MODSMD_ARTICLE03: Das Nationalitätenstatut ist nicht fertiggestellt.
+Found
+MODSMD_ARTICLE04: Neuer Zwischenfall in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE05: Italien über die tschechischen Grenzprovokationen.
+Found
+MODSMD_ARTICLE06: Paris: „Die Lage noch immer heikel".
+Found
+MODSMD_ARTICLE07: Die Londoner Presse Zu den tschechischen Grenzverletzungen.
+Found
+MODSMD_ARTICLE08: Der Arierparagraph in Polen.
+Found
+MODSMD_ARTICLE09: Die feierliche Einholung des Kittsburger Vertrages.
+Found
+MODSMD_ARTICLE10: „Die Tschechen behandeln die Slowakei wie eine Kolonie!"
+Found
+MODSMD_ARTICLE11: Polnische Siimmm zum Besuch Becks in Stockholm.
+Found
+MODSMD_ARTICLE12: Rücktritt eines portugiesischen Ministers.
+Found
+MODSMD_ARTICLE13: Der CodrMnu-Prozeß.
+Found
+MODSMD_ARTICLE14: Arbeitszeitfragen vor dem Repräsentantenhaus.
+Found

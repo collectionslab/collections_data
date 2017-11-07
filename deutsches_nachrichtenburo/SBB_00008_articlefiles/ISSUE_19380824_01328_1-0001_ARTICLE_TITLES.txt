@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Ungarns Reichsverwescr in Hamburg.
+Found
+MODSMD_ARTICLE02: Die Budapester Presse Zum Horthy-Besuch»
+Found
+MODSMD_ARTICLE03: Polnisches Interesse an der Deutschlandreise von Horthys.
+Found
+MODSMD_ARTICLE04: Internationaler Kongreß für Städtereinigung in Wien.
+Found
+MODSMD_ARTICLE05: Chamberlain hielt Besprechungen im Außenamt ab.
+Found
+MODSMD_ARTICLE06: „Rote Hilfe" sehr aktiv.
+Found
+MODSMD_ARTICLE07: Die bolschewistische Geißel über Herrera del Dugue.
+Found
+MODSMD_ARTICLE08: Hochbetrieb beim Kriegsgericht in Haifa.
+Found
+MODSMD_ARTICLE09: Wahlen im Sandschak überflüssig.
+Found
+MODSMD_ARTICLE10: Die englisch-japanischen Besprechungen.
+Found
+MODSMD_ARTICLE11: Hines im New Aorker Sensationsprozeß schwer belastet.
+Found
+MODSMD_ARTICLE12: Die kommunistische! Verseuchung der USA.
+Found

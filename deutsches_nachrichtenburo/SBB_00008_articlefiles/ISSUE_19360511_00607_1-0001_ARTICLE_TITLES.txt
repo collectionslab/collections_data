@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: i MMe Morgen-Ausgabe. Deutsches Nachrichtenbüro "U
+Found
+MODSMD_ARTICLE02: Ehrung eines Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Der Führer bei Eröffnung der 3. Reichstheaterfestwoche.
+Found
+MODSMD_ARTICLE04: Dr. Goebbels vor den Vertretern des deutschen Buchhandels.
+Found
+MODSMD_ARTICLE05: „Das Buch ein Schwert des Geistes in der Hand des Volkes!"
+Found
+MODSMD_ARTICLE06: Azana Zum Präsidenten Spaniens gewählt.
+Found
+MODSMD_ARTICLE07: Marschall Badoglio Vizekönig von Abessinien.
+Found
+MODSMD_ARTICLE08: Auch General Graziani Marschall von Italien.
+Found
+MODSMD_ARTICLE09: Die italienischen Truppen unterwegs nach Diredaua.
+Found
+MODSMD_ARTICLE10: Eden auf der Reise nach Genf.
+Found
+MODSMD_ARTICLE11: Neue Denkschrift Abesfiniens an den Völkerbund.
+Found
+MODSMD_ARTICLE12: Rücktritt des ägyptischen Kabinetts.
+Found

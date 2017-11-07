@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Wilhelm Jhde in den Reichskultursenat berufen.
+Found
+MODSMD_ARTICLE02: Die Verhütung und Bekämpfung von Waldbränden.
+Found
+MODSMD_ARTICLE03: Noch keine Einigung im französischen Gaststättenkonflikt.
+Found
+MODSMD_ARTICLE04: Weshalb den französischen Bauern der Treibstoff fehlt.
+Found
+MODSMD_ARTICLE05: Ein seltsames Beispiel.
+Found
+MODSMD_ARTICLE06: Die katastrophalen Preissteigerungen in Frankreich.
+Found
+MODSMD_ARTICLE07: Der Vergnügungspark der Weltausstellung wieder geöffnet.
+Found
+MODSMD_ARTICLE08: Polen und Rumänien wollen sich besser kennen lernen.
+Found
+MODSMD_ARTICLE09: Ter Chef des polnischen Generalstabes in Bukarest.
+Found
+MODSMD_ARTICLE10: Der Eindruck von Mussolinis Artikel.
+Found
+MODSMD_ARTICLE11: Moskau macht wieder in „Demokratie".
+Found
+MODSMD_ARTICLE12: Deutschland und Italien machen konkrete Vorschläge.
+Found
+MODSMD_ARTICLE13: Unterausschuß auf den Nachmittag vertagt.
+Found
+MODSMD_ARTICLE14: Die staatlichen Zuschüsse für die „Imperial Airways".
+Found
+MODSMD_ARTICLE15: 6000 Flüchtlinge aus Santander abtransportiert.
+Found
+MODSMD_ARTICLE16: Vollstreckung eines Todesurteils.
+Found

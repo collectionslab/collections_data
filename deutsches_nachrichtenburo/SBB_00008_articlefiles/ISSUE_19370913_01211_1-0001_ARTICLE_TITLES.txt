@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Große Suchaktion nach dem vermißten Pamir-Flugzeug.
+Found
+MODSMD_ARTICLE02: Aenderungen im Zulassungsrecht für Aerzte.
+Found
+MODSMD_ARTICLE03: Deutsche Marineoffiizere bei Portugals Staatspräsidenten.
+Found
+MODSMD_ARTICLE04: Zwei Sprengstosfanfchläge in Paris.
+Found
+MODSMD_ARTICLE05: Frankreich und das Nichteinmischungsadkommen.
+Found
+MODSMD_ARTICLE06: Nach Sowjetspanien gestartet.
+Found
+MODSMD_ARTICLE07: Sowjetrußlaud auf das Schwarze Meer beschränkt.
+Found
+MODSMD_ARTICLE08: Das „Arrangement von Nyon".
+Found
+MODSMD_ARTICLE09: Mm wartet auf Moskau!
+Found
+MODSMD_ARTICLE10: Die Waggenfrage in Nyon.
+Found
+MODSMD_ARTICLE11: Römische Stimmen zu Nyon.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: „Der Krieg in Katalonien ist beendet!"
+Found
+MODSMD_ARTICLE02: Gründliche Abfuhr demokratischer Anbiederungsversuche.
+Found
+MODSMD_ARTICLE03: Nach dem militärischen auch moralischer Sieg Francas.
+Found
+MODSMD_ARTICLE04: Greueltaten bis zur letzten Stunde.
+Found
+MODSMD_ARTICLE05: Burgos besteht auf der Rückgabe des Nationaleigentmns.
+Found
+MODSMD_ARTICLE06: Die spanische Spekulation scheint erfolglos zu bleiben.
+Found
+MODSMD_ARTICLE08: Tolles Durcheinander beim Rückzug der Roten.
+Found
+MODSMD_ARTICLE09: Geflüchtete Rotmilizen wegen Diebstahls verhastet.
+Found
+MODSMD_ARTICLE10: Nach dem Wim? mit dem Geldsack jetzt der Druck.
+Found
+MODSMD_ARTICLE11: Degrelle vom König nach Brüssel berufen?
+Found
+MODSMD_ARTICLE12: Bulgarische Volksgruppe in der rumänischen Einheitspartei.
+Found
+MODSMD_ARTICLE13: Die Haltung der jugoslawisch-radikalen Gemeinschaft.
+Found
+MODSMD_ARTICLE14: Mardam Bey wird die Macht nicht ans der Hand geben.
+Found
+MODSMD_ARTICLE15: Unruhen in Damaskus.
+Found
+MODSMD_ARTICLE16: Die amerikanischen Flugzeugverkäufe an Frankreich.
+Found
+MODSMD_ARTICLE17: Botschafter Kennedy auf der Rückreise nach London.
+Found

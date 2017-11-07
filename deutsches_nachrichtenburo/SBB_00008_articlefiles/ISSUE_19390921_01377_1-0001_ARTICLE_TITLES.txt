@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Dr. Goebbels empfing die ausländischen Pressevertreter.
+Found
+MODSMD_ARTICLE02: Raeder zur Versenkung der „Courageous".
+Found
+MODSMD_ARTICLE03: Deutsche und sowjetrussische Truppen trafen sich.
+Found
+MODSMD_ARTICLE04: Die Ermordung eines Kriegsinvaliden.
+Found
+MODSMD_ARTICLE05: Wie Polen Exterritoriale behandelte.
+Found
+MODSMD_ARTICLE06: Eine englische Rohheit.
+Found
+MODSMD_ARTICLE07: Havas streut lächerliche Zwecklügen aus.
+Found
+MODSMD_ARTICLE08: Die heuchlerische Politik der Westmächte.
+Found
+MODSMD_ARTICLE09: Ein Volksschädling hingerichtet.
+Found
+MODSMD_ARTICLE10: Auf der Suche nach neuem Kanonenfutter.
+Found
+MODSMD_ARTICLE11: Englands imperialistische Eroberungen.
+Found
+MODSMD_ARTICLE12: Die französische Kammer unter Zensur.
+Found
+MODSMD_ARTICLE13: Churchill kann nur lügen.
+Found
+MODSMD_ARTICLE14: Auch Bücher fallen in Frankreich unter die Zensur.
+Found
+MODSMD_ARTICLE15: Nur noch Sammelbezeichnung „defaitistische Aeußerungen".
+Found
+MODSMD_ARTICLE16: Polnische Geistesgestörtheit.
+Found
+MODSMD_ARTICLE17: „Das englische Volk in den Krieg gehetzt."
+Found
+MODSMD_ARTICLE18: England soll Kriegsschiffe aus China zurückziehen.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Goebbels spricht.
+Found
+MODSMD_ARTICLE02: Flaggen heraus!
+Found
+MODSMD_ARTICLE03: Einführung des deutschen Luftrechts in Oesterreich.
+Found
+MODSMD_ARTICLE04: Krach im Pariser Marxistenlager.
+Found
+MODSMD_ARTICLE05: Kollektivvertrag in der französischen Flugzeugindustrie.
+Found
+MODSMD_ARTICLE06: Militäraktion gegen die Eingeborenenbewegung in Tunis.
+Found
+MODSMD_ARTICLE07: Italiens Vorbereitungen für den Führer-Besuch.
+Found
+MODSMD_ARTICLE08: Amnestieerlaß des tschechoslowakischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE09: Die Sokolorganisation unter Moskauer Kontrolle.
+Found
+MODSMD_ARTICLE10: Ungarische Juden treiben Boykotthetze.
+Found
+MODSMD_ARTICLE11: Neues bulgarisches Pressegesetz.
+Found
+MODSMD_ARTICLE12: Gegen die Wühlarbeit der Komintern.
+Found
+MODSMD_ARTICLE13: Valencia von allen Zufuhren abgeschnitten.
+Found
+MODSMD_ARTICLE14: Kanonen für Sowjetspanien.
+Found
+MODSMD_ARTICLE15: Argentinien bedauert die Zwischenfälle vom 10. April.
+Found
+MODSMD_ARTICLE16: Amerika baut 45 000-Tonuen-Schlachtschifse!
+Found
+MODSMD_ARTICLE17: Heftige Kämpfe in Schantung.
+Found

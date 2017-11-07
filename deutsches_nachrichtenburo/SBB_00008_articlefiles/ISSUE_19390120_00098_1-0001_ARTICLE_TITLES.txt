@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer an Funk.
+Found
+MODSMD_ARTICLE02: Der uatioualspanische Ministerrat zusammengerufen.
+Found
+MODSMD_ARTICLE03: Der Ring um Barcelona schließt sich.
+Found
+MODSMD_ARTICLE04: Negrin läßt einen Befestigungsgürtel um Barcelona bauen.
+Found
+MODSMD_ARTICLE05: Franzosen über die Schandtaten der Roten.
+Found
+MODSMD_ARTICLE06: Französische Generalstabsosfiziere in Barcelona?
+Found
+MODSMD_ARTICLE07: Die französische Sozialpartei für Vertretung in Burgos.
+Found
+MODSMD_ARTICLE08: Wirrwarr um die „bolschewistische Arbeitsdisziplin".
+Found
+MODSMD_ARTICLE09: Mussolini empfing den Herzog von Coburg.
+Found
+MODSMD_ARTICLE10: „Popow d'Jtalia" zum Besuch Cianos in Jugoslawien.
+Found
+MODSMD_ARTICLE11: Auch Bulgarien will keine Juden.
+Found
+MODSMD_ARTICLE12: „Die Streiks können nicht mehr geduldet werden."
+Found
+MODSMD_ARTICLE13: „Die Mehrheit des englischen Volkes hinter Chamberlain."
+Found
+MODSMD_ARTICLE14: Jüdische Mordtaten in. Palästina.
+Found

@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Internationales Fliegertreffen in Düsseldorf.
+Found
+MODSMD_ARTICLE02: Die ausländischen Journalisten in Bad Neuenahr.
+Found
+MODSMD_ARTICLE03: Das Deutschtum in Polen fordert Gleichberechtigung.
+Found
+MODSMD_ARTICLE04: Die Nationalspanier gegen Greuellügen.
+Found
+MODSMD_ARTICLE05: Volschewistennberfall in Argentinien.
+Found
+MODSMD_ARTICLE06: „Morning Post" über die bolschewistische Greuelpropaganda.
+Found
+MODSMD_ARTICLE07: Die Angriffs-Taktik der Weltrevolution.
+Found

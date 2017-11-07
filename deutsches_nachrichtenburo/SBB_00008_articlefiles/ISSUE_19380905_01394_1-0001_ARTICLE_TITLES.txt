@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Empfang der Deutsch-japanischen Gesellschaft.
+Found
+MODSMD_ARTICLE02: 125 Jahrseier der Schlacht bei Dennewitz.
+Found
+MODSMD_ARTICLE03: Die polnischen Frontkämpfer in Magdeburg.
+Found
+MODSMD_ARTICLE04: Die Rundreise der bulgarischen Arbeitsdienstoffiziere.
+Found
+MODSMD_ARTICLE05: Nürnbergfahrt italienischer und japanischer lugendsührer.
+Found
+MODSMD_ARTICLE06: Schirach im Sammellager des Adolf Hitler-Marsches.
+Found
+MODSMD_ARTICLE07: Heimkehr vom Nanga Parbat.
+Found
+MODSMD_ARTICLE08: Empfang der Europa-Flieger in Halle.
+Found
+MODSMD_ARTICLE09: Ashtoa Gwatkin erstattet Lord Runciman Bericht.
+Found
+MODSMD_ARTICLE10: 770 000 Schwarzhemden in der Faschistischen Miliz.
+Found
+MODSMD_ARTICLE11: Mussolinis Erntevorschätzung weit übertroffm.
+Found
+MODSMD_ARTICLE12: Giornale d'Jtalia zum Reichsparteitag.
+Found
+MODSMD_ARTICLE13: London und Paris zur Goebbels-Rede.
+Found
+MODSMD_ARTICLE14: Ministerpräsident Dr. Stojadinowitsch wieder in Belgrad»
+Found
+MODSMD_ARTICLE15: Ehrung für Obergebietsführer Rodatz.
+Found
+MODSMD_ARTICLE16: Die polenfeindlichen Maßnahmen in Litauen.
+Found
+MODSMD_ARTICLE17: Deutsche Leichtathletik-Siege in Paris.
+Found
+MODSMD_ARTICLE18: Deutscher Rudersieg in Mailand.
+Found

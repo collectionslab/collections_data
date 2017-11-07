@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Funk zur Frage der Kriegsfinanzierung.
+Found
+MODSMD_ARTICLE02: Der Film als Mittler zwischen Führung und Volk.
+Found
+MODSMD_ARTICLE03: Italien lehnt Chamberlains Rede ab.
+Found
+MODSMD_ARTICLE04: Starke russische Angriffe in Nordfinnland.
+Found
+MODSMD_ARTICLE05: Norwegens Opfer: Bis jetzt WKW Tonnen.
+Found
+MODSMD_ARTICLE06: Schluß mit der Fahrt zur Todesküste.
+Found
+MODSMD_ARTICLE07: Zufriedenstellender Fortgang der Besprechungen in Charbin.
+Found
+MODSMD_ARTICLE08: England will den Balkan als Kriegsschauplatz.
+Found

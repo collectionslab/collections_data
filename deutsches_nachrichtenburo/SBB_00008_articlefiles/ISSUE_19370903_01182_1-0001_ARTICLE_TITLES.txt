@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Beileid des Führers zum Tode des Barons de Coubertin,
+Found
+MODSMD_ARTICLE02: Beileidstelegramm des Reichsministers Dr. Frick.
+Found
+MODSMD_ARTICLE03: Standarte und Fahnen für die Polizei.
+Found
+MODSMD_ARTICLE04: Sperrung des Luftraumes über Nürnberg.
+Found
+MODSMD_ARTICLE05: Das deutsche Landvolk an Blomberg.
+Found
+MODSMD_ARTICLE06: Tie nationalspanische Jugend in Berlin.
+Found
+MODSMD_ARTICLE07: Ausstellung „Bauten der Jugend" in Nürnberg eröffnet.
+Found
+MODSMD_ARTICLE09: Staatssekretär Funk über Deutsche Kulturwoche in Paris.
+Found
+MODSMD_ARTICLE10: Gedenkfeier für Konteradmiral Waßner.
+Found
+MODSMD_ARTICLE11: Die Verstärkung der britischen Mittelmeerflotte.
+Found
+MODSMD_ARTICLE12: Er rettete sich in einen englischen Hafen.
+Found
+MODSMD_ARTICLE13: Sieben englische Dampfer im Hafen von Gijon blockiert.
+Found
+MODSMD_ARTICLE14: Ueberzeugendes Alibi für Francas U-Boote.
+Found
+MODSMD_ARTICLE15: Dokumente für das bolschewistische Piratentum.
+Found
+MODSMD_ARTICLE16: Der bolschewistische Henker von Santander gefaßt.
+Found
+MODSMD_ARTICLE17: Die Bolschewisten mordeten vor ihrer Flucht.
+Found
+MODSMD_ARTICLE18: Tschachar macht sich selbständig.
+Found

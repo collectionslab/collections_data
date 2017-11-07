@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die deutschfeindliche Agitation in USA.
+Found
+MODSMD_ARTICLE02: Neberfälle an der polnisch-tschechischen Grenze.
+Found
+MODSMD_ARTICLE03: GPU-Verbrechen auf polnischem Boden.
+Found
+MODSMD_ARTICLE04: Neue Opfer der GPU. in Taschkent.
+Found
+MODSMD_ARTICLE05: Die Lehren des Jahres 1938 für Frankreich.
+Found
+MODSMD_ARTICLE06: Haß macht blind!
+Found
+MODSMD_ARTICLE07: Neuer Wehrkreis im Nordosten Frankreichs.
+Found
+MODSMD_ARTICLE08: In Paris tagt ein jüdischer „Verteidigungs-Ausschuß".
+Found
+MODSMD_ARTICLE09: „Nur ein Mißverständnis ist schuld!" sagt Paris.
+Found
+MODSMD_ARTICLE10: Chamberlains Neujahrsansprache.
+Found
+MODSMD_ARTICLE11: Die Ausrüstung der englischen Marineluftwaffe.
+Found
+MODSMD_ARTICLE12: „Wirtschaftliche Wiederaufrüstung Großbritanniens."
+Found
+MODSMD_ARTICLE13: Ein bemerkenswertes Eingeständnis der „Times".
+Found
+MODSMD_ARTICLE14: Glückwunschtelegramm General Francos.
+Found
+MODSMD_ARTICLE15: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE16: Kundgebungen für die Selbständigkeit Syriens.
+Found
+MODSMD_ARTICLE17: Was bezweckt Wangtschingwei?
+Found

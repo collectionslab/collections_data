@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Dr. Frick vor der RBG. „Verkehr und öffentliche Betriebe".
+Found
+MODSMD_ARTICLE02: Minister Holsti wieder in Finnland.
+Found
+MODSMD_ARTICLE03: Der österreichische Unterrichtsminister iu Prag.
+Found
+MODSMD_ARTICLE04: Ein Hochverratsprozeß in der Steiermark.
+Found
+MODSMD_ARTICLE05: Deutschlands Recht aus einen Platz an der Sonne Afrikas.
+Found
+MODSMD_ARTICLE06: Fortdauer der Regierungskrise in Luxemburg.
+Found
+MODSMD_ARTICLE07: Das nationale Spanien feiert Gründungstag der Falange.
+Found

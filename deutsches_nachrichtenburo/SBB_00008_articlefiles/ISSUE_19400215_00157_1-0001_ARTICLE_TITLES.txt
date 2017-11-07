@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Polnische Todespässe.
+Found
+MODSMD_ARTICLE02: Fast täglich Kämpfe in Waziristan.
+Found
+MODSMD_ARTICLE03: „Freiheit" im englischem Mund macht keinen Eindruck.
+Found
+MODSMD_ARTICLE04: Dänischer Dampfer sank in der Nordsee.
+Found
+MODSMD_ARTICLE05: Gandhi: „Die Tür ist zugeschlagen!"
+Found
+MODSMD_ARTICLE06: Neue Bombenexplosionen in Birmingham.
+Found
+MODSMD_ARTICLE07: An der Küste Schottlands gesunken.
+Found
+MODSMD_ARTICLE08: Stockholm bezeichnet die Lage der Finnen als ernst.
+Found
+MODSMD_ARTICLE09: Ungarn zum deutsch--russischen Abkommen.
+Found
+MODSMD_ARTICLE10: Die bulgarische Regierung Zurückgetreten.
+Found
+MODSMD_ARTICLE11: „Gegenschlag gegen die britische Blockade".
+Found
+MODSMD_ARTICLE12: Großer Erfolg der deutschen Seekriegsführung.
+Found
+MODSMD_ARTICLE13: Moskau meldet erfolgreiches Vorgehen.
+Found
+MODSMD_ARTICLE14: Der finnische Heeresbericht.
+Found
+MODSMD_ARTICLE15: Wieder eine britische Propagandalüge aufgeflogen.
+Found
+MODSMD_ARTICLE16: England beachtet amerikanische Proteste nicht.
+Found

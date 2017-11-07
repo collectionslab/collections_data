@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Studenten- und Altakademikerführer grüßen Dr. Goebbels.
+Found
+MODSMD_ARTICLE02: Das Beileid des Reichsinnenministers.
+Found
+MODSMD_ARTICLE03: Die deutsch-bulgarischen Rechtsbeziehungen.
+Found
+MODSMD_ARTICLE04: Deutsche Volkskirche verboten.
+Found
+MODSMD_ARTICLE05: Die Freilichtbühnen im Jahr der deutschen Festspiele.
+Found
+MODSMD_ARTICLE06: Reichserziehungsminister Ruft in Heidelberg.
+Found
+MODSMD_ARTICLE08: Italienischer Besuch auf der Ordensburg Vogelsang.
+Found
+MODSMD_ARTICLE09: Eröffnung der Internationalen Binnenhafen-Konferenz.
+Found
+MODSMD_ARTICLE10: Neuer Oberlandesgerichtspräsident in Marienwerder.
+Found
+MODSMD_ARTICLE11: Französischer Schutz für Spanien-Frachtdamp'er.
+Found
+MODSMD_ARTICLE12: Wieder deutsches Konsulat in Bilbao.
+Found
+MODSMD_ARTICLE13: Die internationale Solidarität ist ein Märchen.
+Found
+MODSMD_ARTICLE14: Tagung der englischen Regierungsliberalen.
+Found
+MODSMD_ARTICLE15: Gehässige Falschmeldung über Deutschland entlarvt.
+Found

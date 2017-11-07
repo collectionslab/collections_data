@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Die Reichstheaterfestwoche in Manchen.
+Found
+MODSMD_ARTICLE02: Standortmeldung des Luftschiffs „Hindenburg".
+Found
+MODSMD_ARTICLE03: Ter Todestag des Marschalls Pilsudski.'
+Found
+MODSMD_ARTICLE04: Die nichtöffentliche Ratssitzung.
+Found
+MODSMD_ARTICLE05: Baldwin beantwortet Abessinien-Anfragen im Unterhaus.
+Found
+MODSMD_ARTICLE06: Das „Neuigkeits-Weltblatt" über die Vorgänge in Wien.
+Found
+MODSMD_ARTICLE07: Streik in einer Flugzeugfabrik in Le Havre.
+Found
+MODSMD_ARTICLE08: Rücktritt des spanischen Kabinetts.
+Found
+MODSMD_ARTICLE09: Die Streiklage in Griechenland.
+Found
+MODSMD_ARTICLE10: Generalstreik in Tanger.
+Found

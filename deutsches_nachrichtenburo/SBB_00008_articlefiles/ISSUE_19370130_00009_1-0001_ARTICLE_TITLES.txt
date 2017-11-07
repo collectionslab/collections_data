@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Festtag der Nation.
+Found
+MODSMD_ARTICLE02: Triumphfahrt des Führers nach der Reichskanzlei.
+Found
+MODSMD_ARTICLE04: Der Führer in der Reichskanzlei.
+Found
+MODSMD_ARTICLE05: Ganz Berlin hörte den Führer.
+Found
+MODSMD_ARTICLE06: Geueralbauinspektor für die Reichshauptstadt.
+Found
+MODSMD_ARTICLE07: Beförderungen in der SS zum 30. Januar.
+Found
+MODSMD_ARTICLE08: Personalveränderungen in der Kriegsmarine.
+Found
+MODSMD_ARTICLE09: Beförderungen in der Polizei.
+Found
+MODSMD_ARTICLE10: Beförderungen beim Reichsgericht zum 39. Januar.
+Found
+MODSMD_ARTICLE11: Sechs vom Führer verliehene Truppenfahnen übergeben.
+Found

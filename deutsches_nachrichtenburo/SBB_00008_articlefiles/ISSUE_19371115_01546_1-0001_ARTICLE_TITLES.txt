@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ungeeignete Methoden!
+Found
+MODSMD_ARTICLE02: Uebereichung von Urkunden an Bumke und Thierack.
+Found
+MODSMD_ARTICLE03: „Wir wollen ein deutsches völlisches Recht!"
+Found
+MODSMD_ARTICLE04: Empfang für den polnischen Botschafter.
+Found
+MODSMD_ARTICLE05: Reinhardt über nätionalsozialistische Steuerpolitik.
+Found
+MODSMD_ARTICLE06: Ruft über das Verhältnis der Hochschule zu freien Forschung.
+Found
+MODSMD_ARTICLE07: Tie Sonnabendsitzung der Brüsseler Konserenz.
+Found
+MODSMD_ARTICLE08: Genfer Ostasienausschuß hält sich in Reserve.
+Found
+MODSMD_ARTICLE09: Der Besuch des rumänischen Luftfahrtministers in Italien.
+Found
+MODSMD_ARTICLE10: Wieder K Todesurteile in Donez-Gebiet.
+Found

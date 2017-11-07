@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Günstige Beurteilung der Antwortnoten.
+Found
+MODSMD_ARTICLE02: Weitere Pressestimmen zur Rede Blums.
+Found
+MODSMD_ARTICLE03: „Daily Mail" für dauernde Verständigung mit Deutschland.
+Found
+MODSMD_ARTICLE04: Tie „Französische Zusammenfassung" gegen Bolschewismus.
+Found
+MODSMD_ARTICLE05: Die französisch-türkische Sandschak-Einiguna.
+Found
+MODSMD_ARTICLE06: Methode Magnus Hirschfeld in Wien.
+Found
+MODSMD_ARTICLE07: Kommunistischer Mordterror in der Schweiz.
+Found
+MODSMD_ARTICLE08: Lebensmittel-Rationierung in Malaga.
+Found
+MODSMD_ARTICLE09: Zusamenkunft Rüschtü Aras—Ciano am 3. Februar.
+Not Found
+MODSMD_ARTICLE10: 3 Millionen Lire Schaden bei einem Theaterbrand.
+Found
+MODSMD_ARTICLE11: Brasilien wählt im Januar 1938.
+Found
+MODSMD_ARTICLE12: 79V 999 Obdachlose infolge der Ueberschwemmungen in USA
+Found
+MODSMD_ARTICLE13: Schiedsverhandlungen im USA-Auiostreik erneut gescheitert
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Befehlshaber der deutschen Linienschiffe an den Chef der spanischen Regieruugsflotte.
+Found
+MODSMD_ARTICLE02: Die Ablösung der deutschen Seestreitkräfte in Spanien.
+Found
+MODSMD_ARTICLE03: Weitere Spauieuflüchtliuge auf deutschen Schiffen.
+Found
+MODSMD_ARTICLE04: Jbero-Amerikanische Aerzte studiereu iu Berlin»
+Found
+MODSMD_ARTICLE05: Ter italienische Kreuzer „Goriza" auf der Heimfahrt.
+Found
+MODSMD_ARTICLE06: „LZ Hindenburg" in Lakehurst gestartet.
+Found
+MODSMD_ARTICLE07: „Die Zeit" zu der Rede Beneschs.
+Found
+MODSMD_ARTICLE08: Einweihung des neuen Deutschen Hauses in Pretoria.
+Found
+MODSMD_ARTICLE09: Der lettische Minister Skujemeks über die Spiele.
+Found
+MODSMD_ARTICLE10: Lettlands Stellungnahme zum Nichteinmischungsvertrag.
+Found
+MODSMD_ARTICLE11: Die nationalen Truppen behaupten sich. –
+Not Found
+MODSMD_ARTICLE12: Rote Verstärkung für San Sebastian.
+Found
+MODSMD_ARTICLE13: Der Gouverneur von San Sebastian dankt Frankreich.
+Found
+MODSMD_ARTICLE14: Paolino standrechtlich erschossen.
+Found
+MODSMD_ARTICLE15: Der Chefredakteur der Moskauer „Prawda" in Madrid.
+Found

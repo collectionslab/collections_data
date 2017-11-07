@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dr. Filchner in Berlin herzlich empfangen.
+Found
+MODSMD_ARTICLE02: Deutschlands Lustwaffe zum Fliegerunglück in Argentinien.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Schwedens Marineattache bei der deutschen Kriegsmarine.
+Found
+MODSMD_ARTICLE05: Richtlinien für Namensänderungen.
+Found
+MODSMD_ARTICLE06: Die Entwicklung des Arbeitseinsatzes im Dezember.
+Found
+MODSMD_ARTICLE07: Der dritte Jahrestag der Saarabstimmung.
+Found
+MODSMD_ARTICLE08: Empfangsabend bei Botschafter von Papen.
+Found
+MODSMD_ARTICLE09: Ein Vortrag von Srbiks über Mitteleuropa^
+Found
+MODSMD_ARTICLE10: Rumäniens Juden vor Oesterreichs Tür.
+Found
+MODSMD_ARTICLE11: Der norwegische Storting eröffnet.
+Found
+MODSMD_ARTICLE12: Sowjetrußland fordert Schließung ausländischer Konsulate.
+Found

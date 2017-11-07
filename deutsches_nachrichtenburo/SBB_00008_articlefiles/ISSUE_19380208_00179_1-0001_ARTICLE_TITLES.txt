@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Unerhörte Lügen gewisser Auslandszeitungen.
+Found
+MODSMD_ARTICLE02: Italiens Presse gegen phantastische Kombinationen.
+Found
+MODSMD_ARTICLE03: Eden zum Untergang der „Endynnon" und der „Alcira".
+Found
+MODSMD_ARTICLE04: Baseler Komintern-Filiale nach dem Elsaß verlegt.
+Found
+MODSMD_ARTICLE05: Reiche Kriegsbeute der Nationaltruppen bei Teruel.
+Found
+MODSMD_ARTICLE06: Die Durchbruchsschlacht bei Alfambra.
+Found
+MODSMD_ARTICLE07: Brünner Polizei verbietet einen deutschen Vortrag.
+Found
+MODSMD_ARTICLE08: Sympathiekundgebungen bei der Abreise Dirksens.
+Found
+MODSMD_ARTICLE09: Erneute arabische Hochspannung in Palästina.
+Found
+MODSMD_ARTICLE10: Leahy: Keine Verpflichtungen gegenüber Dritten.
+Found
+MODSMD_ARTICLE11: Schießerei mit .Kommunisten in Saltillo (Mexiko).
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Empfänge von fremden Gesandten beim Rührer.
+Found
+MODSMD_ARTICLE02: Der Führer und Dr. Goebbels an Heinrich George.
+Found
+MODSMD_ARTICLE03: Neiseverkehrsfinanzierung für Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE04: Deutsche Beteiligung an Mustermesse in Tripolis.
+Found
+MODSMD_ARTICLE05: Brasilianischer Meisterdirigent kommt nach Berlin.
+Found
+MODSMD_ARTICLE06: Die nordiialienische Kresse zur Reise Mussolinis.' . . . . . . .. . . ... ... .... .. . ' 5,k
+Found
+MODSMD_ARTICLE07: Italienische Devisen-Schieber streng bestraft.
+Found
+MODSMD_ARTICLE08: Wieder ein Sowjetflugzeug über Nordschwedeu.
+Found
+MODSMD_ARTICLE09: Holland verwirklicht Nichteinmischung in Spanien.
+Found
+MODSMD_ARTICLE10: Spanische Reiter zur Klärung von Steuerfragen.
+Found
+MODSMD_ARTICLE11: Mugbootverkehr über den Stillen Ozean.
+Found

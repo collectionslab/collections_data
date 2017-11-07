@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Der Besuch Dr. Stojadinowitschs.
+Found
+MODSMD_ARTICLE02: Grundsteinlegung neuer Adolf-Hitler-Schulen.
+Found
+MODSMD_ARTICLE03: / Gauführerwechsel im Rechtswahrer-Bund.
+Found
+MODSMD_ARTICLE04: Englands Verkehrsminister über deutsche Gastfreundschaft.
+Found
+MODSMD_ARTICLE05: De Valera in England.
+Found
+MODSMD_ARTICLE06: Die Besprechungen zur Lösung der Pariser Regierungskrise.
+Found
+MODSMD_ARTICLE07: Freiwilliger Militärdienst für Koreaner.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Ungeheuerliche französische Neutralitätsverletzung.
+Found
+MODSMD_ARTICLE02: Bestien in Menschengestalt.
+Found
+MODSMD_ARTICLE03: 114 Augustmermönche von den Roten ermordet.
+Found
+MODSMD_ARTICLE04: Neuer Laudungsversuch auf Mallorca abgeschlagen.
+Found
+MODSMD_ARTICLE05: London zur Regierungsumbildung in Spanien.
+Found
+MODSMD_ARTICLE06: „Ein weiterer Schritt zur Sowjetisierung Spaniens".
+Found
+MODSMD_ARTICLE07: Englische Stimmen zu den Ereignissen in Spanien.
+Found
+MODSMD_ARTICLE08: Auch Churchill warnt vor dem Kommunismus.
+Found
+MODSMD_ARTICLE09: Schweizer Bundesrat klagt gegen rote Blätter.
+Found
+MODSMD_ARTICLE10: König Boris Gast des jugoslawischen Prinzregenten Paul.
+Found
+MODSMD_ARTICLE11: Landungsmeldung des polnischen Ballons „Warszawa II."
+Found
+MODSMD_ARTICLE12: Italien gegen Erweiterung geplanter Fünfmächtekonferenz.
+Found
+MODSMD_ARTICLE13: Lebhafte Verärgerung in Rom wegen Malta.
+Found
+MODSMD_ARTICLE14: Estland zur Frage der Völkerbundsreform.
+Found
+MODSMD_ARTICLE15: Englische Fliegerin zum Alleinflug über den Ozean gestartet.
+Found
+MODSMD_ARTICLE16: Abordnung des Moskauer Stadtrats in Paris.
+Found
+MODSMD_ARTICLE17: Verhaftungen in Bahia.
+Found
+MODSMD_ARTICLE18: Sabotageakt gegen militärischen Transportzug in Palästina.
+Found
+MODSMD_ARTICLE19: Die englischen Truppenverstärkungen für Palästina.
+Found

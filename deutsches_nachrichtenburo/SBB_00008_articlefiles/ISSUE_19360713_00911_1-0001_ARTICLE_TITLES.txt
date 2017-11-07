@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Eröffnung der Heidelberger Reichsfestspiele.
+Found
+MODSMD_ARTICLE02: Grundsteinlegung zur HJ-Motorsportschule Niedersachsens.
+Found
+MODSMD_ARTICLE03: Die kolumbianische Olympia-Mannschaft eingetroffen.
+Found
+MODSMD_ARTICLE04: Das Programm für den Fackel-Lauf Olympia—Berlin.
+Found
+MODSMD_ARTICLE05: Olympia Rundfunksprecher nach Athen abgeflogen.
+Found
+MODSMD_ARTICLE06: Deutschland-Jugoslawien 3:0 im Dabispokalkampf.
+Found
+MODSMD_ARTICLE07: Ostpreußen hilft bei der Einbringung der Ernte.
+Found
+MODSMD_ARTICLE08: Der ehemalige spanische Staatspräsident in Hamburg.
+Found
+MODSMD_ARTICLE09: Das Segelschulschiff „Deutschland m Danzig.
+Found
+MODSMD_ARTICLE10: Wichtig für Memelreisende.
+Found
+MODSMD_ARTICLE11: Teilbeschlagnahme einer sudetendeutschen Ausstellung.
+Found
+MODSMD_ARTICLE12: Die Frontkämpfer-Zusammenkunft in Verdun.
+Found
+MODSMD_ARTICLE13: Ueber 700 Todesopfer der amerikanischen Hitzewelle.
+Found
+MODSMD_ARTICLE14: Titulescu beim rumänischen König.
+Found

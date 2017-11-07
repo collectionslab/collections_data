@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Rosenberg auf dem Gautag Schleswig-Holstein.
+Found
+MODSMD_ARTICLE02: Auftakt zum Deutschen Buxtehude-Fest.
+Found
+MODSMD_ARTICLE03: Flottenschau vor KdF-Fahrern.
+Found
+MODSMD_ARTICLE04: Feierstunde Zum 70. Geburtstag Mannerheims.
+Found
+MODSMD_ARTICLE05: Der nationale Sender Salamanca stellt richtig.
+Found
+MODSMD_ARTICLE06: Riesenangebot an Gold in London.
+Found
+MODSMD_ARTICLE07: Lord Plymouth in Reval.
+Found
+MODSMD_ARTICLE08: Neue Zusammenstöße in Syrien.
+Found
+MODSMD_ARTICLE09: Roosevelt drängt auf die Verabschiedung seines Programms.
+Found
+MODSMD_ARTICLE10: Die Streikwelle in Amerika.
+Found

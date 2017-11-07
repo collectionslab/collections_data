@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Dr. Goebbels besuchte die Ausstellung „Entartete Kunst".
+Found
+MODSMD_ARTICLE02: Gauparteitag der Juugdeutscheu Partei in Kattowitz.
+Found
+MODSMD_ARTICLE03: Auch die höheren Schulen in Graz geschlossen.
+Found
+MODSMD_ARTICLE04: //Der Sinn des deutschen Friedens".
+Found
+MODSMD_ARTICLE05: Balbo reibet verschollene Flieger.
+Found
+MODSMD_ARTICLE06: Japaner besichtigen die Mai-Flugzeugwerke.
+Found
+MODSMD_ARTICLE07: Die römische Presse über die Kammeraussprache.
+Found
+MODSMD_ARTICLE08: -ExPräsident Hoover bei Lebrun.
+Found
+MODSMD_ARTICLE09: Oberst de la Rocque über Deutschland.
+Found
+MODSMD_ARTICLE10: „Journal de Genöve" sieht Ansgleichsmöglichkeiten.
+Found
+MODSMD_ARTICLE11: Staatssekretär Schlegelberger besucht Kopenhagen.
+Found
+MODSMD_ARTICLE12: König Leopold von Belgien in Stockholm.
+Found
+MODSMD_ARTICLE13: Aufruf der bulgarischen Regierung.
+Found
+MODSMD_ARTICLE14: Rumäniens neue Verfassung in Kraft.
+Found
+MODSMD_ARTICLE15: De Valera nicht sehr hoffnungsvoll.
+Found
+MODSMD_ARTICLE16: Eine Erklärung des nordirischen Finanzministers.
+Found
+MODSMD_ARTICLE17: „Observer" über den Weg zum Ausgleich.
+Found
+MODSMD_ARTICLE18: Kommunisten vor der Italienischen Botschaft in London.
+Found

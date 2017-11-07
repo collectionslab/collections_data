@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Ernennungen im Neichsernährungsministerium.
+Found
+MODSMD_ARTICLE03: Bischöfliches Knabensemmar geschlossen.
+Found
+MODSMD_ARTICLE04: Aufruf des Gauleiters Forster.
+Found
+MODSMD_ARTICLE05: Die Danziger Presse zur Auflösung der DNBP.
+Found
+MODSMD_ARTICLE06: Abschiedsbesuch von Blombergs be? König Georg.
+Found
+MODSMD_ARTICLE07: König Boris empfing deutsche Wirtschaftler.
+Found
+MODSMD_ARTICLE08: Ehrengabe der italienischen Armee an Rydz-Smigly.
+Found
+MODSMD_ARTICLE09: Wieder ein feiger jüdischer Mordversuch.
+Found
+MODSMD_ARTICLE10: Wiederaufnahme der Vorlesungen an der Universität.
+Found
+MODSMD_ARTICLE11: Neuer griechischer Innenminister.
+Found
+MODSMD_ARTICLE12: Begeisterte Zustimmung Zu Daranyis Erklärungen. .
+Found
+MODSMD_ARTICLE13: Italien zum ungarischen Wiederaufrüstungswillen.
+Found
+MODSMD_ARTICLE14: Der nationale Heeresbericht vom Sonnabend.
+Found
+MODSMD_ARTICLE15: Rücktritt der bolschewistischen Machthaber in Valencia.
+Found
+MODSMD_ARTICLE16: General Dimitri Horvath f.
+Found
+MODSMD_ARTICLE17: Neuer Hauptgeschäftsführer im RDP.
+Found
+MODSMD_ARTICLE18: Hanna Reitsch zum Flugkapitän ernannt.
+Found
+MODSMD_ARTICLE19: Eisenbahnunglück in Jugoslawien.
+Found

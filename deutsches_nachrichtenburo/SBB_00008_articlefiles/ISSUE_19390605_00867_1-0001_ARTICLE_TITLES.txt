@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Starke Beachtung der Fiihrerrede;
+Found
+MODSMD_ARTICLE03: Dr. Frick zum Besuch nach Ungarn abgereist.
+Found
+MODSMD_ARTICLE04: Der Chef der portugiesischen Staatsjugend in Berlin.
+Found
+MODSMD_ARTICLE05: Auftakt zur Neichstheaterfestwoche.
+Found
+MODSMD_ARTICLE06: Nnterstaatssekretär Puzzetti in Wien.
+Found
+MODSMD_ARTICLE07: „Deutschlands Stärke ist unser Stolz."
+Found
+MODSMD_ARTICLE08: Italiens Beileid zum „Thetis"-Unglück.
+Found
+MODSMD_ARTICLE09: Die Trabanten der Emkreisnngsmächie.
+Found
+MODSMD_ARTICLE10: Eine Sonntagsrede Daladiers.
+Found
+MODSMD_ARTICLE11: Wie der Sandschak Alexandrette von Paris verschachert wird.
+Found
+MODSMD_ARTICLE12: Der Davis-Pokal-Tenniskampf England—Deutschland.
+Found
+MODSMD_ARTICLE13: Autobus raste gegen Triebwagen.
+Found

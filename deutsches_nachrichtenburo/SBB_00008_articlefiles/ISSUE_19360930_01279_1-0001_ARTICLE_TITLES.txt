@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Frank über Rechtswahrer-Schulung.
+Found
+MODSMD_ARTICLE02: Deutsch-schweizerisches Transferabkommen gekündigt.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Zur Ratsentscheidung über Lester.
+Found
+MODSMD_ARTICLE05: „Das einzige Bollwerk gegen den Bolschewismus."
+Found
+MODSMD_ARTICLE06: Degrelle darf in Frankreich nicht reden.
+Found
+MODSMD_ARTICLE07: Volksspende zum Aufbau der österreichischen Armee.
+Found
+MODSMD_ARTICLE08: Spielverbot für jüdische Emigranten an Wiener Theatern.
+Found
+MODSMD_ARTICLE09: Senator Caillaux zur französischen Währungspolitik.
+Found
+MODSMD_ARTICLE10: Botschafter Nullit vor der französischen Presse.
+Found
+MODSMD_ARTICLE11: Dr. Hodscha vor der internationalen Presse.
+Found
+MODSMD_ARTICLE12: Beratungen bei Rydz-Smigly.
+Found
+MODSMD_ARTICLE13: Alle spanischen Waffenfabriken in Händen der Nationalisten.
+Found
+MODSMD_ARTICLE14: Die Kreuzer der Nationalisten in der Straße von Gibraltar.
+Found
+MODSMD_ARTICLE15: Manöver der roten Motte.
+Found
+MODSMD_ARTICLE16: Die Ilmschichtung bei den sowjetrnssischen Machthaber«.
+Found
+MODSMD_ARTICLE17: Diplomatenaustausch zwischen Madrid und Moskau.
+Found
+MODSMD_ARTICLE18: Die angeblichen chinesischen Gegenforderungen.
+Found
+MODSMD_ARTICLE19: „Belle Jsle" darf in Rio de Janeiro nicht anlegen.
+Found
+MODSMD_ARTICLE20: Dr. mecZ. vet. Hugo Heiß f.
+Found

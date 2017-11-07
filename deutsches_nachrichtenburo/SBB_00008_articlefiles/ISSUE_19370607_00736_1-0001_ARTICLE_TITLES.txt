@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Bruckner zieht in die Nuhmeshalle der Deutschen ein.
+Found
+MODSMD_ARTICLE02: Der Führer kommt.
+Found
+MODSMD_ARTICLE03: Die Festansprachen.
+Found
+MODSMD_ARTICLE04: Die Enthüllung der Bruckner-Büste.
+Found

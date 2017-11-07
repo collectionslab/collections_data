@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Abschied des rumänischen Gesandten von Verlin.
+Found
+MODSMD_ARTICLE02: Die finanziellen Maßnahmen haben sich bewährt.
+Found
+MODSMD_ARTICLE03: Die Verteidigung der Rasse durch das Recht.
+Found
+MODSMD_ARTICLE04: Abschluß der Pressefahrt durch die Ostmark«
+Found
+MODSMD_ARTICLE05: Italienische Arbeiter kommen nach Bayreuth.
+Found
+MODSMD_ARTICLE06: Tiso und 2 Minister von Staatspräsident Hacha abgesetzt.
+Found
+MODSMD_ARTICLE07: „Hinaus mit den Juden!"
+Found
+MODSMD_ARTICLE08: Ein vorsichtiger jüdischer Protest.
+Found
+MODSMD_ARTICLE09: Ukrainische Vertreter beim polnischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE10: Miaja zwischen zwei Stühlen.
+Found
+MODSMD_ARTICLE11: Die Verteidiger Madrids dezimieren sich.
+Found
+MODSMD_ARTICLE12: Die Lage in Madrid noch immer ungeklärt.
+Found
+MODSMD_ARTICLE13: Die Truppenbewegungen im Mittelmeer.
+Found
+MODSMD_ARTICLE14: Die Wahlkreiskommission bestätigt Memelwahlen.
+Found
+MODSMD_ARTICLE15: Neue militärische Gesetze vom Senat angenommen.
+Found
+MODSMD_ARTICLE16: Der belgische Botschafter in Berlin bei König Leopold.
+Found
+MODSMD_ARTICLE17: Merkwürdige Erklärung des britischen Austenministers.
+Found
+MODSMD_ARTICLE18: Amerika hat kein Geld für seine Arbeitslosen.
+Found

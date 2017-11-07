@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: „In Arisierung begriffen". Eine amtliche Mitteilung.
+Found
+MODSMD_ARTICLE02: Dr. Ley und Lantini im Volkswagenwerk.
+Found
+MODSMD_ARTICLE03: Der Bekenninistag der Memeldeutschen.
+Found
+MODSMD_ARTICLE04: Memel Direktorium beseitigt statutswidrigen! Zustand.
+Found
+MODSMD_ARTICLE05: Verbot einer Kundgebung litauischer Kochschüler in Memel.
+Found
+MODSMD_ARTICLE06: Gailius zum Gouverneur des Memellandes ernannt.
+Found
+MODSMD_ARTICLE07: Ein lettisches Blatt über die Praktiken ostjüdischer Händler.
+Found
+MODSMD_ARTICLE08: Eljar Erkko Finnlands neuer Außenminister.
+Found
+MODSMD_ARTICLE09: 58,9 vH. aller Stimmen für Stojadinowitsch
+Found
+MODSMD_ARTICLE10: Die römische Presse zum Wahlsieg Stojadinowitschs.
+Found
+MODSMD_ARTICLE11: Chamberlain über seinen Italien-Besuch.
+Found
+MODSMD_ARTICLE12: Um die Stärke der italienischen Streitkräfte in Libyen.
+Found
+MODSMD_ARTICLE13: Was ist mit dem Juden Nathan?
+Found
+MODSMD_ARTICLE14: „Jntrausigeant" zu den Enthüllungen der Frau Gody.
+Found
+MODSMD_ARTICLE15: Tie Fischereirechte eine Lebensfrage für Japan.
+Found
+MODSMD_ARTICLE16: Der Bandenkrieg in China.
+Found

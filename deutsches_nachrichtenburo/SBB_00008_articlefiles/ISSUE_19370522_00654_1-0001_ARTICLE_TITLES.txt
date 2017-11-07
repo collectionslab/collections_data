@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Reichsstatthalter Murr vor der deutschen Kolonie in Rom.
+Found
+MODSMD_ARTICLE02: Die italienisch-ungarische Freundschaft.
+Found
+MODSMD_ARTICLE03: Außenminister Dr. Krofta vor den Außenausschüssßn.
+Found
+MODSMD_ARTICLE04: Ter jugoslawische Kriegsministier in Prag.
+Found
+MODSMD_ARTICLE05: Staatssekretär Dr. Schmidt in Bern.
+Found
+MODSMD_ARTICLE06: Außenminister Beck auf der Heimreise.
+Found
+MODSMD_ARTICLE07: Frühstück zu Ehren des Prinzen Tschitschibu.
+Found
+MODSMD_ARTICLE08: '>> – England dementiert Waffienstillstands-Schritte.
+Not Found
+MODSMD_ARTICLE09: Wesen und Aufgaben der spanischen Staatspartei.
+Found
+MODSMD_ARTICLE10: Museum der Nationalbewegung in Sevilla.
+Found
+MODSMD_ARTICLE11: 5K Millionen Dollar Gold aus Bilbao ins Ausland entführt?
+Found
+MODSMD_ARTICLE12: Eine Ehrung für den Rektor der Tungtschi-Universität.
+Found
+MODSMD_ARTICLE13: Verhaftung jüdischer Schwindelbankiers.
+Found

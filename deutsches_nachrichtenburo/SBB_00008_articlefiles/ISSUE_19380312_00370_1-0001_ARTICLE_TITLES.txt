@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Die Machtübernahme in den Landern.
+Found
+MODSMD_ARTICLE02: Riesenkundgebung in Nürnberg.
+Found
+MODSMD_ARTICLE03: Dee Einmarsch in Oesterreich. Mit der Truppe über die Grenze.
+Found
+MODSMD_ARTICLE04: Kommunistische Drohungen gegen Reichsdeutsche.
+Found
+MODSMD_ARTICLE05: Andauernder Vormarsch an der Aragon-Front.
+Found
+MODSMD_ARTICLE06: Blücher und Budjenny verhaftet?
+Found
+MODSMD_ARTICLE07: Die Ernennung Soudans bestätigt.
+Found

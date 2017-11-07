@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Kerrl gegen den Mißbrauch der Religion. (Schluß.)
+Found
+MODSMD_ARTICLE02: Göring an das Condor-Syndikat.
+Found
+MODSMD_ARTICLE03: Reichsgesetz gegen die Schwarzsender.
+Found
+MODSMD_ARTICLE04: Athen eröffnet Ausstellung „Arbeit und Freude".
+Found
+MODSMD_ARTICLE05: Vormilitärische Kurse für die polnischen Studenten.
+Found
+MODSMD_ARTICLE06: Fast völlige Verjudung des polnischen Rechtsanwaltsstandes.
+Found
+MODSMD_ARTICLE07: Chiffrierte bolschewistische Anweisungen beschlagnahmt.
+Found
+MODSMD_ARTICLE08: Der Kampf um die Absonderung der Juden.
+Found
+MODSMD_ARTICLE09: Zwischenfälle bei einer Pfeilkreuzlerversammlung.
+Found
+MODSMD_ARTICLE10: Diskussionen um die Weltausstellung.
+Found
+MODSMD_ARTICLE11: Immer neue „Enthüllungen" in Paris.
+Found
+MODSMD_ARTICLE12: Wüste marxistische Streikausschreitungen.
+Found
+MODSMD_ARTICLE13: Duclos empfiehlt bolschewistische Methoden.
+Found
+MODSMD_ARTICLE14: Sieben sowjetspanische Flugzeuge abgeschossen.
+Found
+MODSMD_ARTICLE15: 1 Million Zigaretten für die sp anischbolsch ewisten Horden.
+Found
+MODSMD_ARTICLE16: Mutmaßungen um den neuen Sowjetbotschafter in China.
+Found
+MODSMD_ARTICLE17: Viel Worte, wenig Neues.
+Found
+MODSMD_ARTICLE18: Veränderungen im Oberbefehl der japanischen Marine.
+Found
+MODSMD_ARTICLE19: Der chinesische Rückzug auf Nanking.
+Found
+MODSMD_ARTICLE20: Wirtschaftliche Erneuerung Brasiliens.
+Found

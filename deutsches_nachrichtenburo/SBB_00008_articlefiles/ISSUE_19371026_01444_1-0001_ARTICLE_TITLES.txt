@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Beamtenschulungslager eröffnet.
+Found
+MODSMD_ARTICLE02: Niederländische Ehrung für deutschen Gelehrten.
+Found
+MODSMD_ARTICLE03: Reichsaustenminister über deutsch-italienische Freundschaft.
+Found
+MODSMD_ARTICLE04: „Eine einzige Lösung".
+Found
+MODSMD_ARTICLE05: Ministerpräsident van Zeeland begründet seinen Rücktritt.
+Found
+MODSMD_ARTICLE06: Generalstreikhetze in Frankreich.
+Found
+MODSMD_ARTICLE07: Noch ein französisches Schiff im Mittelmeer versenkt.
+Found
+MODSMD_ARTICLE08: Frankreich zu den neuen Anschlägen im Mittelmeer.
+Found
+MODSMD_ARTICLE09: Chautemps versucht Lohnschwierigkeiten beizulegen.
+Found
+MODSMD_ARTICLE10: Amtliche italienische Mitteilung in Paris überreicht.
+Found
+MODSMD_ARTICLE11: Mutmaßungen über die Ausschußsitzung.
+Found
+MODSMD_ARTICLE12: „Andeutungen" Maiskys im Foreign Office.
+Found
+MODSMD_ARTICLE13: Die sowjetspanische „Flotte" soll neu organisiert werden.
+Found
+MODSMD_ARTICLE14: Arabische Ablehnung des Palästina-Mandats.
+Found

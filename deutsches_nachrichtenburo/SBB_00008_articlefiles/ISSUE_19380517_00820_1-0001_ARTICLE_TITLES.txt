@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Reichsarbeitsminister in Wien.
+Found
+MODSMD_ARTICLE02: Neichssciier Vuch vor den Richtern der DAF»
+Found
+MODSMD_ARTICLE04: Die dringendsten Aufgaben MacDonalds.
+Found
+MODSMD_ARTICLE05: Die englische Provinzpresse begrüßt die Umbesetznngen.
+Found
+MODSMD_ARTICLE06: Spaak für Reform des demokratischen Systems in Belgien.
+Found
+MODSMD_ARTICLE07: Der Pariser Ministerrat.
+Found
+MODSMD_ARTICLE08: Ein Ungar über das Erlebnis der Römer Tage.
+Found
+MODSMD_ARTICLE09: Drastische Maßnahmen der Spanienbolschewisten.
+Found
+MODSMD_ARTICLE10: Kommnmstengesindel besetzt Universität in Mexiko.
+Found
+MODSMD_ARTICLE11: Rücktritt des chilenischen Innenministers.
+Found

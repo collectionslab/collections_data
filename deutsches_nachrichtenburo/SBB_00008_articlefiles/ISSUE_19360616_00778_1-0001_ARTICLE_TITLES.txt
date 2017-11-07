@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Reichsminister Dr. Frick stiftet einen Ehrenpreis.
+Found
+MODSMD_ARTICLE02: Dr. Ley vor den Reichsbetriebsgemeinschaften.
+Found
+MODSMD_ARTICLE03: Dr. Schacht über deutsch-bulgarische Wirtschaftsbeziehungen
+Found
+MODSMD_ARTICLE04: MacDonald für die Erhaltung des Völkerbundes.
+Found
+MODSMD_ARTICLE05: Ernste Besorgnisse des britischen Kriegsministers.
+Found
+MODSMD_ARTICLE06: 35 v. H. der englischen Heeresanwärter dienstuntauglich.
+Found
+MODSMD_ARTICLE07: Lord Cecil spricht für den Negus»
+Found
+MODSMD_ARTICLE08: Leon Blum vor dem Finanzausschuß.
+Found
+MODSMD_ARTICLE09: Jouhaux besucht die Streikenden.
+Found
+MODSMD_ARTICLE10: 78 VW Streikende in Paris und im Seine-Departement.
+Found
+MODSMD_ARTICLE11: Bedrohliche Lage im Lütticher Streikgebiet.
+Found
+MODSMD_ARTICLE12: Verhandlungen Mischen Sozialisten und Kommunisten.
+Found
+MODSMD_ARTICLE13: Rotmord in Spanien.
+Found
+MODSMD_ARTICLE14: Die amerikanische Staatsschuld.
+Found
+MODSMD_ARTICLE15: Dr. Chuchiahua Generalsekretär der Academia Sinica.
+Found
+MODSMD_ARTICLE16: Neue japanische Protestnote.
+Found

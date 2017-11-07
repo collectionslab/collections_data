@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Aenderung von arbeitsrechtlichen Vorschriften.
+Found
+MODSMD_ARTICLE02: Unterbindung des unnötigen Arbeitsplatzwechsels.
+Found
+MODSMD_ARTICLE03: Die finanziellen Schwäche Englands.
+Found
+MODSMD_ARTICLE04: Bisher 25 000 Gefangene.
+Found
+MODSMD_ARTICLE05: Eine dummdreiste Lüge.
+Found
+MODSMD_ARTICLE06: General Gosiorowski gefangen.
+Found
+MODSMD_ARTICLE07: Wie die Westerplatte bezwungen wurde.
+Found
+MODSMD_ARTICLE08: Das Warthewasser von den Polen vergiftet.
+Found
+MODSMD_ARTICLE09: Polens Schicksal vorausgesehen.
+Found
+MODSMD_ARTICLE10: Polnische Soldaten flüchten nach Litauen.
+Found
+MODSMD_ARTICLE11: Finnische Gesandtschaft noch in Warschau.
+Found
+MODSMD_ARTICLE12: Dänemark stellt Englands Schuld fest.
+Found
+MODSMD_ARTICLE13: Große Erfolge der slowakischen Truppen.
+Found
+MODSMD_ARTICLE14: Neutrale durchschauen England.
+Found
+MODSMD_ARTICLE15: „Eines Journalisten unwürdig."
+Found
+MODSMD_ARTICLE16: Unabhängigkeitsfeier in Brasilien.
+Found

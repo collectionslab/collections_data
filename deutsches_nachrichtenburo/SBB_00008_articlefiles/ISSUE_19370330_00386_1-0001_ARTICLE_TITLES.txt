@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: König Boris empfängt erfolgreiche deutsche Meger.
+Found
+MODSMD_ARTICLE02: Argentinische Anerkennung für deutsche Disziplin.
+Found
+MODSMD_ARTICLE03: Italienische Studenten in Hamburg.
+Found
+MODSMD_ARTICLE04: Wilhelm Filchner in Chinesisch-Turkistan festgehalten.
+Found
+MODSMD_ARTICLE05: Dr. Schuschnigg über die Außenpolitik Oesterreichs.
+Found
+MODSMD_ARTICLE06: 39 Millionen Pfund Staatsbeihilfen in sechs Jahren.
+Found
+MODSMD_ARTICLE07: Streik auf schottischen Wersten.
+Found
+MODSMD_ARTICLE08: Bolschewistisches „Einheitssront"-Geschwätz auch in London.
+Found
+MODSMD_ARTICLE09: Erwartungen der englischen Blätter.
+Found
+MODSMD_ARTICLE10: Wiederausleben des Verfassungskonflikts in Britisch-Jndien.
+Found
+MODSMD_ARTICLE11: „Kampf aus Leben und Tod."
+Found
+MODSMD_ARTICLE12: Nachschub aus Frankreich hält unvermindert an.
+Found
+MODSMD_ARTICLE13: Volschewisten unter sich.
+Found
+MODSMD_ARTICLE14: Bolschewistische Miliz gegen internationale Brigade.
+Found
+MODSMD_ARTICLE15: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE16: Apfelsinen für Tanks.
+Found
+MODSMD_ARTICLE17: Veröffentlichung der USA-Geheimakten unterbrochen.
+Found
+MODSMD_ARTICLE18: Aufwiegler gefährden Argentiniens Landwirtschaft.
+Found
+MODSMD_ARTICLE19: Japan lehnt ab.
+Found
+MODSMD_ARTICLE20: Jüdische Volschewisten in Palästina verhaftet.
+Found
+MODSMD_ARTICLE21: Nanking und die Mongolei.
+Found

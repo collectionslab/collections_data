@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Was ist ein jüdischer Gewerbebetrieb?
+Found
+MODSMD_ARTICLE03: Die italienische,;; Kraftfahrer in München.
+Found
+MODSMD_ARTICLE04: Das Auslandsecho der Rede Funks.
+Found
+MODSMD_ARTICLE05: König Gustavs 86. Geburtstag.
+Found
+MODSMD_ARTICLE06: Neuer Appell Lord Rothermeres an die Weltmächte.
+Found
+MODSMD_ARTICLE08: Die englische Bombardierungspraxis.
+Found
+MODSMD_ARTICLE09: Das Gesetz zur „Organisierung der Nation in Kriegszeiten".
+Found
+MODSMD_ARTICLE10: Zum Besuchtes englischen Königspaares in Paris.
+Found
+MODSMD_ARTICLE11: Nationalspanischer Protest bei Frankreich.
+Found
+MODSMD_ARTICLE12: Die Aufreibung der 43. roten Division.
+Found
+MODSMD_ARTICLE13: Polens Nnterrichtsminister in Bukarest.
+Found
+MODSMD_ARTICLE14: Streik an der Universität Jerusalem.
+Found
+MODSMD_ARTICLE15: Modernisierung zweier amerikanischer Flugzeugträger'.
+Found

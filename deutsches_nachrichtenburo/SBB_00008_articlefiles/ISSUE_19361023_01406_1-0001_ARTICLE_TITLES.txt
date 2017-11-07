@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: 1. Erlaß (Hörings über Durchführung des Vierjahresplaues.
+Found
+MODSMD_ARTICLE02: Kleinhandelshöchstpreise für Fleisch- und Wurstwaren.
+Found
+MODSMD_ARTICLE03: Neuer Generalmajor der Schutzpolizei.
+Found
+MODSMD_ARTICLE04: Daluege besucht die polnische Polizei.
+Found
+MODSMD_ARTICLE05: Die 3. Jahrestagung der Akademie für Deutsches Recht.
+Found

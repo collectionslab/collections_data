@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Weltkongreß für Freizeit und Erholung.
+Found
+MODSMD_ARTICLE02: Kriegsmarine stellt die Wache am Skaggerraktag.
+Found
+MODSMD_ARTICLE03: Besichtigung des Olympischen Dorfes noch bis 15. Juni.
+Found
+MODSMD_ARTICLE04: Englische Gäste in Köln.
+Found
+MODSMD_ARTICLE05: Die DanZig-polnischen Verhandlungen in Warschau.
+Found
+MODSMD_ARTICLE06: Erweitertes Vollmachtsgesetz in Polen.
+Found
+MODSMD_ARTICLE07: Die Streiks in den Pariser Vororten.
+Found
+MODSMD_ARTICLE08: „Echo dc Peris" zu den Erklärungen Mussolinis.
+Found
+MODSMD_ARTICLE09: Englische Aufregung über Tanger.
+Found
+MODSMD_ARTICLE10: Der Weg für eine Sowjetregierung in Spanien.
+Found

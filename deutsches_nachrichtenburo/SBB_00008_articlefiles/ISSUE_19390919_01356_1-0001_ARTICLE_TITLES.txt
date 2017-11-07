@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Morgen-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Kranzniederlegung durch die japanischen Gäste.
+Found
+MODSMD_ARTICLE03: Eine neue Erfindung des Lügenministeriums.
+Found
+MODSMD_ARTICLE04: Lord Camrose Assistent des Lügenministers.
+Found
+MODSMD_ARTICLE05: Die Polnische Botschaft in London geifert.
+Found
+MODSMD_ARTICLE06: Britischer Hohn für das verratene Opfer.
+Found
+MODSMD_ARTICLE07: Katastrophale Verteuerung in England.
+Found
+MODSMD_ARTICLE09: Deutschlands Mittel gegen die englische Blockade. '
+Found
+MODSMD_ARTICLE10: Rom: „Polens Schicksal endgültig besiegelt."
+Found
+MODSMD_ARTICLE11: Englands Kriegsziel nicht Polengarantie.
+Found
+MODSMD_ARTICLE12: Ende eines Volks- und Vaterlandsverräters.
+Found
+MODSMD_ARTICLE13: Ueber 2V polnische Flugzeuge in Lettland gelandet.
+Found
+MODSMD_ARTICLE14: Schweden zu der neuen Lage.
+Found
+MODSMD_ARTICLE15: „Englands Hungerblockade wirkungslos."
+Found
+MODSMD_ARTICLE16: Wieder zwei englische Dampfer versenkt.
+Found
+MODSMD_ARTICLE17: Ein schwerer Verlust für die britische Kriegsmarine!
+Found
+MODSMD_ARTICLE18: Hochanständige Behandlung durch deutsches U-Boot.
+Found
+MODSMD_ARTICLE19: Englische Besatzung ehrt deutschen U-Bootkommandanten.
+Found

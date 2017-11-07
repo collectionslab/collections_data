@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Der Führer in Braunau. Unbeschreibliche Jubelstürme»
+Found
+MODSMD_ARTICLE02: Wien am Vormittag des historischen 12. März.
+Found
+MODSMD_ARTICLE03: Die deutschen Soldaten am Brenner.
+Found
+MODSMD_ARTICLE04: Dm deutschen Truppen in Linz.
+Found
+MODSMD_ARTICLE05: Gauleiter Eigruber Landeshauptmann! Oberösterreichs.
+Found
+MODSMD_ARTICLE06: Das Echo des Auslandes.
+Found
+MODSMD_ARTICLE07: Oesterreichs Einsuhr nach Teutschland ungekürzt.
+Found

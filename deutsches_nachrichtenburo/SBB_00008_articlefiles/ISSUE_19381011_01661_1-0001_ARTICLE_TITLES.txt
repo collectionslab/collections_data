@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr» Goebbels in einem Musterbetrieb.
+Found
+MODSMD_ARTICLE02: 1B Jahre NS.-Rechtswahrerbimd.
+Found
+MODSMD_ARTICLE03: Beginn des Wirtschaftsaufbaus im Sudetenland.
+Found
+MODSMD_ARTICLE04: Karpatho-ukrainische Abordnung in Prag»
+Found
+MODSMD_ARTICLE05: Höchster polnischer Orden für Außenminister Beck.
+Found
+MODSMD_ARTICLE06: Italien verzichtet auf französisches Leumundszeugnis.
+Found
+MODSMD_ARTICLE07: Teutschlands Wirtschaftsbeziehungen zu Südosteuropa.
+Found
+MODSMD_ARTICLE08: Neuer Vorsitzender des Leningrader Sowjets.
+Found
+MODSMD_ARTICLE09: Neuer Bombenanschlag in Jerusalem.
+Found
+MODSMD_ARTICLE10: Frankreich wünscht Aenderung des Vertrages mit Syrien.
+Found
+MODSMD_ARTICLE11: Der syrische Staatspräsident an Chamberlain.
+Found

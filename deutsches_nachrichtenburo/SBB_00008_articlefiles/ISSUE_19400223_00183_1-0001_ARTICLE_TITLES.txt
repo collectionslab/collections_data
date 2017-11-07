@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Mit fremden Augen.
+Found
+MODSMD_ARTICLE02: Bier polnische Räuber Zum Tode verurteilt.
+Found
+MODSMD_ARTICLE03: Friedensstörer England.
+Found
+MODSMD_ARTICLE04: Kein besonderes Ereignis an der finnischen Front.
+Found
+MODSMD_ARTICLE05: Wieder eine Explosion in einer englischen Pulverfabrik.
+Found
+MODSMD_ARTICLE06: „Verschiedene Gesetze für Reiche und Arme".
+Found
+MODSMD_ARTICLE07: Zwei englische Vorpostenboote versenkt.
+Found
+MODSMD_ARTICLE08: Funksignale trotz Verbots.
+Found
+MODSMD_ARTICLE09: Treffende Kennzeichnung der Chamberlain-Nede.
+Found
+MODSMD_ARTICLE10: Strengste Maßnahmen gegen die Aufwiegler in Wilna.
+Found
+MODSMD_ARTICLE11: Italienisches Kulturinstitut in Belgrad eröffnet.
+Found
+MODSMD_ARTICLE12: Toller Spielhöllenskandal in USA.
+Found
+MODSMD_ARTICLE13: Die „Manhattan" wieder festgehalten!
+Found
+MODSMD_ARTICLE14: „Amerika muß sich aus dem Krieg heraushalten."
+Found
+MODSMD_ARTICLE15: Volksschädling hingerichtet.
+Found

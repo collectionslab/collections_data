@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Gering beglückwünscht Beumelburg.
+Found
+MODSMD_ARTICLE02: Glückwunschschreiben Dr. Fricks an Prof. Bartels.
+Found
+MODSMD_ARTICLE03: Baidur von Schirach beglückwünscht Prof. Adolf Bartels.
+Found
+MODSMD_ARTICLE04: Gerhart Hauptmann grüßt die Auslandsdeutschen.
+Found
+MODSMD_ARTICLE05: Eine Büste des kubanischen Nationalhelden Jose Marti.
+Found
+MODSMD_ARTICLE06: Auszeichnungen im Leistungskampf der Betriebe.
+Found
+MODSMD_ARTICLE07: Fernflug eines deutschen Sportfliegers.
+Found
+MODSMD_ARTICLE08: Italien-Besuch des Panzerschiffs „Deutschland" beendet.
+Found
+MODSMD_ARTICLE09: Akademischer Austauschdienst tagt in Mailand.
+Found
+MODSMD_ARTICLE10: „Nach dem Beispiel Stalins!"
+Found
+MODSMD_ARTICLE11: Die Maul- und Klauenseuche in Holland.
+Found
+MODSMD_ARTICLE12: Lord Halifax reist am Dienstag ans London ab.
+Found
+MODSMD_ARTICLE13: Eden leicht erkrankt.
+Found
+MODSMD_ARTICLE14: Brüsseler Konferenz vertagt sich auf nächste Woche.
+Found
+MODSMD_ARTICLE15: Valencia-Bolschewisten unter sowjetrussischen Fahnen.
+Found
+MODSMD_ARTICLE16: Lügenagitation statt Vernunft.
+Found
+MODSMD_ARTICLE17: Der König von Bulgarien empfing Delbos.
+Found
+MODSMD_ARTICLE18: Eine polnische Warnung an Frankreich.
+Found
+MODSMD_ARTICLE19: Kritik an der polnischen Austenpolitik.
+Found
+MODSMD_ARTICLE20: 3V Palästinajuden verhaftet.
+Found
+MODSMD_ARTICLE21: Roosevelt kündigt durchgreifende Wirtschaftsneuerungen an.
+Found
+MODSMD_ARTICLE22: Das Ende der Politikasterwirtschaft in Brasilien.
+Found

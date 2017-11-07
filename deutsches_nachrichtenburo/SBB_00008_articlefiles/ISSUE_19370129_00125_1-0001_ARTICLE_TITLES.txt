@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Deutscher Tankdumpefr bei Borkum gestrandet. l» s
+Found
+MODSMD_ARTICLE02: Inseln und Halligen vom Eis eingeschlossen.
+Found
+MODSMD_ARTICLE03: Was ein Franzose in Deutschland sah und erlebte.
+Found
+MODSMD_ARTICLE04: Nebergriffe jüdischer Studenten in Warschau.
+Found
+MODSMD_ARTICLE05: Wichtige Besprechungen beim polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE06: Tue VeräuoWMg im belgischen Kabinett.
+Found
+MODSMD_ARTICLE07: „Popolo d'Jtalia" über Nassenpolitik.
+Found
+MODSMD_ARTICLE08: Die italienisch englische Zusammenarbeit in Afrika.
+Found
+MODSMD_ARTICLE09: 48 v. H. einer englischen Industriestadt arbeitslos.
+Found
+MODSMD_ARTICLE10: Verstärkung der Territorialarmee in Borbereitung.
+Found
+MODSMD_ARTICLE11: Englischer Bergbau fordert staatliche Ausfuhrunterstüpung.
+Found
+MODSMD_ARTICLE12: 'Zeitungskorrespondent in Madrid spurlos verschwunden.
+Found
+MODSMD_ARTICLE13: Wofür das nationale Spanien kämpft.
+Found
+MODSMD_ARTICLE14: Weitere Orte an der Malaga-Front besetzt.
+Found
+MODSMD_ARTICLE15: Marxisten terrorisieren amerikanische Arbeiter.
+Found

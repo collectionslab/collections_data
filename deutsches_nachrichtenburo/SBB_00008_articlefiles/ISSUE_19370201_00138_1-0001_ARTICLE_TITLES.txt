@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Ehrenpreis des Führers für das Reit- und Fahrturnier.
+Found
+MODSMD_ARTICLE02: Neues Gesetz über das Verfahren in Binnenschiffahrtssachen.
+Found
+MODSMD_ARTICLE03: Die Mitarbeit der Landfrau an der Ernährungsfreiheit.
+Found
+MODSMD_ARTICLE04: Deutsch-englische Flottenbesprechungen wieder aufgenommen.
+Found
+MODSMD_ARTICLE05: Wiener Juden fühlen sich unsicher und Hetzen.
+Found
+MODSMD_ARTICLE06: „Wiener Montagsblatt" zur Delbos-Rede.
+Found
+MODSMD_ARTICLE07: Italiens erster Botschafter bei der Nationalregierung.
+Found
+MODSMD_ARTICLE08: „Der Neuordnung des Friedens der Weg geöffnet".
+Found
+MODSMD_ARTICLE09: General Nognes bei Vienot.
+Found
+MODSMD_ARTICLE10: Große britische Manöver bei Singapore.
+Found
+MODSMD_ARTICLE11: 13 Todesurteile in Moskau vollzogen.
+Found
+MODSMD_ARTICLE12: Eine weitere Verhaftung in Moskau.
+Found
+MODSMD_ARTICLE13: Rücktritt des ungarischen Innenministers von Kozma.
+Found
+MODSMD_ARTICLE14: Belgien über Huysmans Bolschewisten-Wallfahrt empört.
+Found
+MODSMD_ARTICLE15: Die Überschwemmungen im Mississippi-Tal.
+Found

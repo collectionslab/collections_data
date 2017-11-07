@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Neue Lügenkampagne des „New Chroniele".
+Found
+MODSMD_ARTICLE02: Glückwunschtelegramm des Führers an General Francs.
+Found
+MODSMD_ARTICLE03: Festlicher Empfang für General Russo in Berlin.
+Found
+MODSMD_ARTICLE04: Reichsverband der Friedensrichter und Schiedsmänner.
+Found
+MODSMD_ARTICLE05: Vierter internationaler Rekord des Flugzeugs Ar 79.
+Found
+MODSMD_ARTICLE06: Salzburg erfolgreich im Kampf gegen Arbeitslosigkeit.
+Found
+MODSMD_ARTICLE07: Wieder Grenzverletzung durch tschechisches Flugzeug.
+Found
+MODSMD_ARTICLE08: Juden und Tschechen mißhandeln Sudetendeutschen.
+Found
+MODSMD_ARTICLE10: Neue Kriegsmaterialtransporte für Barcelona in Le Havre.
+Found
+MODSMD_ARTICLE11: Rotspanische Erpressungsmethoden.
+Found
+MODSMD_ARTICLE12: Neue jüdische Bluttat in Jerusalem.
+Found
+MODSMD_ARTICLE13: Weitere Zusammenstöße an der indischen Nordwestgrenze.
+Found
+MODSMD_ARTICLE14: Amerikanische 45 000 t-Schlachtschiffe.
+Found
+MODSMD_ARTICLE15: Vollstreckung eines Todesurteils.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Lord Halifax wieder in Berlin.
+Found
+MODSMD_ARTICLE02: „Der Kommunismus darf nicht triumphieren."
+Found
+MODSMD_ARTICLE03: Darre über die Ernährungslage.
+Found
+MODSMD_ARTICLE05: Deutsche Aerzte in Ungarn.
+Found
+MODSMD_ARTICLE06: KdF.-Urlauber in Rom überall herzlich begrüßt.
+Found
+MODSMD_ARTICLE07: „Deutschland war in der Kolonialverwaltung mustergültig".
+Found
+MODSMD_ARTICLE08: Anerkennung Francos durch Japan am 25. November.
+Found
+MODSMD_ARTICLE09: Fühlungnahme Polens und Jugoslawiens mit Franca.
+Found
+MODSMD_ARTICLE10: Der nationale Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE11: Frankreich weist Nationalspanier aus.
+Found
+MODSMD_ARTICLE12: „Waffen des Geheimbundes der Kapuzenträger"?
+Found
+MODSMD_ARTICLE13: Englischer Frachtdampfer aufgebracht.
+Found
+MODSMD_ARTICLE14: Die jugoslawische Presse zum Halifax-Besuch.
+Found
+MODSMD_ARTICLE15: Tagesmeldung aus Moskau: 11 „Schädlinge" erschossen.
+Found
+MODSMD_ARTICLE16: Die Räumung Nankings in vollem Gange.
+Found

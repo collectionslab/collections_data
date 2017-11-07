@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Reichsminister Ruft sprach in Troppau.
+Found
+MODSMD_ARTICLE02: Reichsminister Ruft,
+Found
+MODSMD_ARTICLE03: De/ Reichsfinanzminister in Innsbruck.
+Found
+MODSMD_ARTICLE04: Nationalsozialistische Studenteuführer in Graz.
+Found
+MODSMD_ARTICLE05: „Tie Lücken der englischen Rüstung stark übertrieben."
+Found
+MODSMD_ARTICLE06: Ueberraschung über die Vorschläge de Valeras.
+Found
+MODSMD_ARTICLE07: Amerika-Reise des Dean von Canterbury unerwünscht.
+Found
+MODSMD_ARTICLE08: Kammerauslösung und Kabinettsumbildung?
+Found
+MODSMD_ARTICLE09: Frankreichs Lastautofirmen wehren sich.
+Found
+MODSMD_ARTICLE10: Tie Forderungen der Slowakei an Ungarn.
+Found

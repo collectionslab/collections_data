@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Verstärkter Einsatz des Reichsarbeitsdienstes.
+Found
+MODSMD_ARTICLE02: Korpsführer Hühnlein über Verkehrserziehungsdienst.
+Found
+MODSMD_ARTICLE03: Weihnachtsgeschäft und Juden in Wien.
+Found
+MODSMD_ARTICLE04: Der frühere japanische Außenminister Jschi in Rom.
+Found
+MODSMD_ARTICLE05: Libyen-Reise Okuras.
+Found
+MODSMD_ARTICLE06: Die deutsch-italienischen Handelsabmachungen.
+Found
+MODSMD_ARTICLE07: Die KdF-Schiffe nehmen Kurs auf Neapel.
+Found
+MODSMD_ARTICLE08: Deutsch-italienische Kriegsgräberfürsorge.
+Found
+MODSMD_ARTICLE09: Abschluß der Pariser Frontkämpfer-Tagung.
+Found
+MODSMD_ARTICLE10: Der Haushalt des französischen Außenministeriums.
+Found
+MODSMD_ARTICLE11: Plädoyers im Prozeß de la Rocque.
+Found
+MODSMD_ARTICLE12: Aussprache in der Belgischen Kammer.
+Found
+MODSMD_ARTICLE13: Trostlose Bilder aus der Tschechoslowakei.
+Found
+MODSMD_ARTICLE14: Die Meuterei auf der „Algic" vor Gericht.
+Found

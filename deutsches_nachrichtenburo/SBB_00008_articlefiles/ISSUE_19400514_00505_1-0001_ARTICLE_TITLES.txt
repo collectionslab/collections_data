@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die überwältigende Kampfenergie der deutschen Soldaten.
+Found
+MODSMD_ARTICLE02: Vier weitere Minister im Londoner Kriegshetzerkabinett.
+Found
+MODSMD_ARTICLE03: General Rüge gegen Koht.
+Found
+MODSMD_ARTICLE04: „Auf emsiger Suche nach neuen Opfern."
+Found
+MODSMD_ARTICLE05: Große Kundgebungen in Italien.
+Found
+MODSMD_ARTICLE06: Italiener durch britische Schikanen arbeitslos.
+Found
+MODSMD_ARTICLE07: Die englischen Bischöfe jetzt in Sofia.
+Found
+MODSMD_ARTICLE08: Anschlag in Cork.
+Found
+MODSMD_ARTICLE09: Englands Lebensmittel werden noch knapper.
+Found
+MODSMD_ARTICLE10: Französische Zivilisten durch eigene Flakgranaten getötet.
+Found
+MODSMD_ARTICLE11: Tokio: „Ein Vertrauensbruch".
+Found
+MODSMD_ARTICLE12: England sucht Kriegsbrand in breitester Front.
+Found
+MODSMD_ARTICLE13: Venezuela ernstlich berührt.
+Found

@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Begeisterter Empfang deutscher KdF.-Fahrer in Trieft.
+Found
+MODSMD_ARTICLE02: Der jüdische Hausbesitz in Rom.
+Found
+MODSMD_ARTICLE03: Holland und die jüdische Einwanderung.
+Found
+MODSMD_ARTICLE04: Tie tschechischen Klerikalen bleiben selbständig.
+Found
+MODSMD_ARTICLE05: Der Prager Presseapparat wird von Juden gesäubert.
+Found
+MODSMD_ARTICLE06: Anfang nächsten Jahres Wahlen zum slowakischen Landtag.
+Found
+MODSMD_ARTICLE07: „Dr. Benesch ist ein Emigrant."
+Found
+MODSMD_ARTICLE08: Prager Verfügung gegen die Verjudung des Advokatenberufs.
+Found
+MODSMD_ARTICLE09: Hilfsmaßnahmen für die Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE10: Das Arbeitsprogramm der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE11: In der Karpatbo-Ukraine herrscht völlige Ordnung.
+Found
+MODSMD_ARTICLE12: Rücktritt des finnischen Außenministers.
+Found
+MODSMD_ARTICLE13: Hitlers „Mein Kampf" in Litauen wieder zugelassen.
+Found
+MODSMD_ARTICLE14: Das gibt es noch in England!
+Found
+MODSMD_ARTICLE15: Die englisch-amerikanischen Handelsvertragsverhandlungen.
+Found
+MODSMD_ARTICLE16: Das Königstreffen in London.
+Found
+MODSMD_ARTICLE17: Keine „Ueberschlachtschiffe" mehr?
+Found
+MODSMD_ARTICLE18: Wie England Palästina „befriedet".
+Found
+MODSMD_ARTICLE19: Barcelona gibt die Hoffnungslosigkeit der Lage zu.
+Found
+MODSMD_ARTICLE20: In das lettische Kabinett berufen.
+Found
+MODSMD_ARTICLE21: Wie Roosevelt die Riesenrüstung begründet.
+Found

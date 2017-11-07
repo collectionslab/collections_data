@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Einweihung der „Otto Weddigen-Jugendherberge".
+Found
+MODSMD_ARTICLE02: Die 24. Gordon-Benuett-Ballonfahrt in Warschau gestartet.
+Found
+MODSMD_ARTICLE03: General Rydz-Smigly in Paris.
+Found
+MODSMD_ARTICLE04: Polen stimmt dem Nichteinmischungsvorschlag zu.
+Found
+MODSMD_ARTICLE05: Weitere Beitritte zum Waffenausfuhrverbot.
+Found
+MODSMD_ARTICLE06: Deutscher Flüchtlingstransport in Lissabon.
+Found
+MODSMD_ARTICLE07: Madrider Innenministerium bombardiert.
+Found
+MODSMD_ARTICLE08: Neue örtliche Erfolge der Nationalisten.
+Found
+MODSMD_ARTICLE09: Nächtlicher Geschütztrausport nach Jrun.
+Found
+MODSMD_ARTICLE10: Starke Tätigkeit der nationalistischen Flugzeuge.
+Found
+MODSMD_ARTICLE11: Die portugiesische Botschaft soll Madrid verlassen.
+Found
+MODSMD_ARTICLE12: Eine englische Sanitätskolonne für Barcelona.
+Found
+MODSMD_ARTICLE13: Neue Enthüllungen französischer Rechtsblätter.
+Found
+MODSMD_ARTICLE14: Dr. Streeruwitz warnt vor der kommunistischen Weltgefahr.
+Found
+MODSMD_ARTICLE15: Der Kampf gegen die Sowjetgefahr.
+Found
+MODSMD_ARTICLE16: Neuer Plan Zur Förderung der englischen Rekrutierung.
+Found
+MODSMD_ARTICLE17: Rücktritt des paraguayischen Landwirtschaftsministers.
+Found
+MODSMD_ARTICLE18: Einlenken des Obersten arabischen Streikausschnsses.
+Found
+MODSMD_ARTICLE19: Aufstand der Kwangsi-Generale beginnt erneut.
+Found

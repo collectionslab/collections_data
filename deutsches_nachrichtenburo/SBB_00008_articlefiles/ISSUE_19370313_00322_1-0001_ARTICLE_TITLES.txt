@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die Glücktvunschansprache des Führers an Generalfeld Marschall von Blomberg.
+Found
+MODSMD_ARTICLE02: Weitere Glückwünsche für den Reichskriegsminister.
+Found
+MODSMD_ARTICLE03: Der Nationalpreis für Kunst und Wissenschaft.
+Found
+MODSMD_ARTICLE04: Außerkurssetzung von Reichssilbermünzen.
+Found
+MODSMD_ARTICLE05: Antibolschewistiche Schau in Dortmund eröffnet.
+Found
+MODSMD_ARTICLE06: Ribbentrop bei Eden.
+Found
+MODSMD_ARTICLE07: Ter Oesterreichische Luftfahrtverbaud löst sich auf.
+Found
+MODSMD_ARTICLE08: „Sitzstreik" auch in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE09: Schneider-Creuzot nationalisiert.
+Found
+MODSMD_ARTICLE10: Italienische Minister nach Tripolis gereist.
+Found
+MODSMD_ARTICLE11: Wieder Stndentennnruhen in Sofia.
+Found
+MODSMD_ARTICLE12: Griechenlands ziviler Luftschutz.
+Found
+MODSMD_ARTICLE13: Die Kennzahl der Großhandelspreise vom 10. März.
+Found

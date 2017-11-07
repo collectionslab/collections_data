@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Hu Ministerialdirigenten ernannt.
+Found
+MODSMD_ARTICLE02: Ribbentrop zum Ableben der Gräfin Magistrats
+Found
+MODSMD_ARTICLE03: Alle deutschen Sender übertragen die Rede Ribbentrops.
+Found
+MODSMD_ARTICLE04: Sven Hedin dementiert die „News Chronicle".
+Found
+MODSMD_ARTICLE05: Keine neue Friedensinitiative Deutschlands.
+Found
+MODSMD_ARTICLE06: Ley und Darre vor den Propagandawaltern der DAF.
+Found
+MODSMD_ARTICLE08: Judenvermögensabgabe auf 25 vH. erhöht.
+Found
+MODSMD_ARTICLE09: Holland zur Abrechnung mit Churchill.
+Found
+MODSMD_ARTICLE10: Die Durchführung des russisch-lettischen Paktes.
+Found
+MODSMD_ARTICLE11: England bekommt immer mehr seinen Krieg zu spüren.
+Found
+MODSMD_ARTICLE12: „Wirrwarr beherrscht England auf der ganzen Linie."
+Found
+MODSMD_ARTICLE13: Kg Millionen Pfund der Preis?
+Found
+MODSMD_ARTICLE14: Das neue bulgarische Kabinett.
+Found
+MODSMD_ARTICLE15: Gegen britische Hetzredner in USA.
+Found

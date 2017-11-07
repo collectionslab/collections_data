@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Das Handwerk spendet für das Winterhilfswerk.
+Found
+MODSMD_ARTICLE02: Neuer Kommandant der Wachtruppe Berlin.
+Found
+MODSMD_ARTICLE03: Zusammenarbeit Wehrmacht—„Kraft durch Freude."
+Not Found
+MODSMD_ARTICLE04: Tie deutschen Seestreitkräfte in den spanischen Gewässern.
+Found
+MODSMD_ARTICLE05: Ein Engländer erlebte das neue Deutschland.
+Found
+MODSMD_ARTICLE06: Die Budapester Presse würdigt das Aufbauwerk Gömbös'.
+Found
+MODSMD_ARTICLE07: Genfer Auffassung über Danzig.
+Found
+MODSMD_ARTICLE08: Oesterreichisches Gesetz über die Ermittlung des Goldkurses.
+Found
+MODSMD_ARTICLE09: Neutralitäts-Jnterpellation im Schweizer Ständeratz
+Found
+MODSMD_ARTICLE10: Erweiterung der italienischen Mittelmeerflughäfen.
+Found
+MODSMD_ARTICLE11: Großer Erfolg der Sammlungen des nationalen Spaniens.
+Found
+MODSMD_ARTICLE12: Aeutschlandreise chilenischer Ingenieure.
+Found
+MODSMD_ARTICLE13: Zeitungsverbote in Palästina.
+Found

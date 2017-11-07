@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Empfang zu Ehren des finnischen Kultusministers.
+Found
+MODSMD_ARTICLE02: Rosenberg vor der Jugendsührer-Akademie.
+Found
+MODSMD_ARTICLE03: Reichsgruppe Fremdenverkehr errichtet.
+Found
+MODSMD_ARTICLE04: Italienische Erzieher in Bayreuth.
+Found
+MODSMD_ARTICLE05: „Großdeutschland sorgt für Ordnung in Europa.^
+Found
+MODSMD_ARTICLE06: Francs auf dem Wege nach Burgos
+Found
+MODSMD_ARTICLE07: Botschafter Togo bei Ministerpräsident Kjosseiwanoff.
+Found
+MODSMD_ARTICLE08: Die Steuerdiktatur Reynauds.
+Found
+MODSMD_ARTICLE09: Amery geht die Aufrüstung nicht schnell genug.
+Found
+MODSMD_ARTICLE10: Das englische Kabinett beriet Steuererhöhungen.
+Found
+MODSMD_ARTICLE11: Lord Lothian. britischer Botschafter in Washington.
+Found
+MODSMD_ARTICLE12: Englands Kampf gegen arabische Frauen und Kinder.
+Found
+MODSMD_ARTICLE13: Das zieht nun bald nicht mehr!
+Found
+MODSMD_ARTICLE14: Mißliebig selbst in Roosevelts Land.
+Found
+MODSMD_ARTICLE15: Bolivien macht sich vom parlamentarischen Leerlauf frei.
+Found
+MODSMD_ARTICLE16: R. G. Menzies australischer Ministerpräsident.
+Found

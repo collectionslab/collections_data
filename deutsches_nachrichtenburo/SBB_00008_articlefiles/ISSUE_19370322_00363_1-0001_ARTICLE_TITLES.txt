@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Neuer Oberst der Gendarmerie.
+Found
+MODSMD_ARTICLE02: Neue Generalintendanten in Düsseldorf und Stuttgart.
+Found
+MODSMD_ARTICLE03: Bildung eines Forschungsrates.
+Found
+MODSMD_ARTICLE04: Neugliederung des ReichssinanZmiuisteriums.
+Found
+MODSMD_ARTICLE05: Neuer amerikanischer Marine-Attache.
+Found
+MODSMD_ARTICLE06: Gau Saarpsalz für die Gemeinschaftsschule.
+Found
+MODSMD_ARTICLE07: Deutsch-schweizerische Zahlungsvertiandlungen.
+Found
+MODSMD_ARTICLE08: Gegenbesuch des Präsidenten Miklas in Budapest.
+Found
+MODSMD_ARTICLE09: Appell an das nationale Ungarn.
+Found
+MODSMD_ARTICLE10: Rückkehr Mussolinis nach Rom.
+Found
+MODSMD_ARTICLE11: Nedille Chamberlain erkrankt.
+Found
+MODSMD_ARTICLE12: Der König der Belgier in London.
+Found
+MODSMD_ARTICLE13: Ministerpräsident Tatarescu in Prag.
+Found
+MODSMD_ARTICLE14: Anarchistische Terrorakte in Bulgarien.
+Found
+MODSMD_ARTICLE15: Radikale Strömungen in Indien.
+Found
+MODSMD_ARTICLE16: Die EntPolitisierung des japanischen Heeres.
+Found
+MODSMD_ARTICLE17: Die japanisch-chinesischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE18: Deutsche Auszeichnungen für chinesische Staatsbeamte.
+Found

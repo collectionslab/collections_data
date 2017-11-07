@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Führertagung der Partei in Berlin.
+Found
+MODSMD_ARTICLE03: Der dänische Außenminister kommt nach Berlin.
+Found
+MODSMD_ARTICLE04: Neue Mitglieder des Reichsbankdirektoriums.
+Found
+MODSMD_ARTICLE05: Neurath besucht Jugoslawien, Bulgarien und Ungarn.
+Found
+MODSMD_ARTICLE06: Raeder an die Besatzung der „Deutschland".
+Found
+MODSMD_ARTICLE07: Bekanntmachung des Oberkommandos der Kriegsmarine.
+Found
+MODSMD_ARTICLE09: Weiteres Mitglied der „Deutschland"-Besatzung f.
+Found
+MODSMD_ARTICLE10: Italienische Ehrung für die Toten der „Deutschland".
+Found
+MODSMD_ARTICLE11: Das Beileid Bulgariens.
+Found
+MODSMD_ARTICLE12: Generalfeldmarschall von Blomberg in Rom eingetroffen.
+Found
+MODSMD_ARTICLE13: Schikanen gegen das Deutsche Gymnasium in Bromberg.
+Found
+MODSMD_ARTICLE14: Mussert legt sein Abgeordnetenmandat nieder.
+Found
+MODSMD_ARTICLE15: Explosion in einer österreichischen Munitionsfabrik.
+Found
+MODSMD_ARTICLE16: Rüschtü Aras in Wien.
+Found
+MODSMD_ARTICLE17: In London hat man wieder Mut gefaßt.
+Found
+MODSMD_ARTICLE18: Lord Plymouth setzt seine Baltikum-Reise fort.
+Found
+MODSMD_ARTICLE19: Das ist Parlamentarismus!
+Found
+MODSMD_ARTICLE20: Freundschaft nur bis zum Geldbeutel.
+Found

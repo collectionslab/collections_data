@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Internationale Verkehrsausstellung 1949 Köln.
+Found
+MODSMD_ARTICLE02: Anerkennung des Reichsführers SS.
+Found
+MODSMD_ARTICLE03: Der 7. Verhandlungstag im Plewitzkaja-Prozeß.
+Found
+MODSMD_ARTICLE04: Italien und Dschibuti.
+Found
+MODSMD_ARTICLE05: Ter englische Botschafter bei Graf Ciano.
+Found
+MODSMD_ARTICLE06: Der industrielle Ausschuh für Rüstungsfragen.
+Found
+MODSMD_ARTICLE07: England begrüßt die deutsch-französische Erklärung.
+Found
+MODSMD_ARTICLE08: Der Oberbürgermeister von Kowno in Warschau eingetroffen
+Found
+MODSMD_ARTICLE09: Die Warschauer Presse Zu den Memeler Wahlen.
+Found
+MODSMD_ARTICLE10: Nur die Hlinka-Garde bleibt bestehen.
+Found
+MODSMD_ARTICLE11: Die Judenfrage in der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE12: Der Wahlerfolg Stojadinowitfchs in Ungarn begrüßt.
+Found

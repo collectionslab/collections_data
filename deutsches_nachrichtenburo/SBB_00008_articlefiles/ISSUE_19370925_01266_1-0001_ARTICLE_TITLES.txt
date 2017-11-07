@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Mussolini in München
+Found
+MODSMD_ARTICLE02: Der Führer begrüßt Mussolini.
+Found
+MODSMD_ARTICLE03: Eintreffen des Führers»
+Found
+MODSMD_ARTICLE04: Der Sonderzug läuft ein.
+Found
+MODSMD_ARTICLE05: Die Fahrt durch die Hauptstadt der Bewegung.
+Found
+MODSMD_ARTICLE06: Weg vom 9. November 1923.
+Found
+MODSMD_ARTICLE07: Prinz Carl-Palais.
+Found
+MODSMD_ARTICLE08: Der Führer Ehrenkorporal der Faschistischen Miliz.
+Found
+MODSMD_ARTICLE09: Der Duce besucht den Führer. Vor dem Prinz Carl-Palais.
+Found
+MODSMD_ARTICLE10: Vor der Wohnung des Führers.
+Found

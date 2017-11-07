@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der neue Leiter des Deutschen Handwerks in der DAF.
+Found
+MODSMD_ARTICLE02: Reichsobmann Niemberg begrüßt 1000 Landarbeiter.
+Found
+MODSMD_ARTICLE03: Das Großkreuz des Homayun-Ordens für Dr. Schacht.
+Found
+MODSMD_ARTICLE04: Zur Entscheidung des Nobelpreis-Komitees.
+Found
+MODSMD_ARTICLE05: Unterhans ratifiziert englisch-ägyptischen Vertrag.
+Found
+MODSMD_ARTICLE06: Audienzen bei König Eduard.
+Found
+MODSMD_ARTICLE07: Beschuldigungen gegen den englischen Wirtschastsminister.
+Found
+MODSMD_ARTICLE08: Lindbergh verschollen.
+Found
+MODSMD_ARTICLE09: „Echo de Paris" über die Lage in Frankreich.
+Found
+MODSMD_ARTICLE10: Frecher Uebergrisf der Madrider Gangster.
+Found
+MODSMD_ARTICLE11: Frontbericht der spanischen Heeresleitung.
+Found
+MODSMD_ARTICLE12: Großer Waffenschmuggel bei Marseille aufgedeckt.
+Found
+MODSMD_ARTICLE13: Kommunistische Organisation in Bulgarien ausgehoben.
+Found
+MODSMD_ARTICLE14: Schwerer japanisch-sowjetrussischer Zwischenfall.
+Found
+MODSMD_ARTICLE15: Ständiger amerikanischer Trausatlantik-Luftschisfdienst.
+Found
+MODSMD_ARTICLE16: Hochverratsprozeß gegen Kommunisten in Brasilien.
+Found
+MODSMD_ARTICLE17: Noosevelt Ehrienprofessor der Universität Rio de Janeiro.
+Found
+MODSMD_ARTICLE18: Ein Mörder hingerichtet.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Sudetenland im Wiederaufbau.
+Found
+MODSMD_ARTICLE02: Göring gratuliert.
+Found
+MODSMD_ARTICLE03: Ter tschecho-slowakische Außenminister in Berlin.
+Found
+MODSMD_ARTICLE04: Reisepässe von Juden.
+Found
+MODSMD_ARTICLE05: Prag wird hellhörig!
+Found
+MODSMD_ARTICLE06: Prag beschließt äußerste Sparsamkeit in der Verwaltung«
+Found
+MODSMD_ARTICLE07: „Nation Beige" gegen die Verjudung»
+Found
+MODSMD_ARTICLE08: Rom: „Für Zwischenlösungen kein Platz".
+Found
+MODSMD_ARTICLE09: Die japanische Aktion in Südchina.
+Found
+MODSMD_ARTICLE10: Neue japanische Truppenlandungen für Südchina.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Sir Eric Phipps verabschiedet sich vom Führer.
+Found
+MODSMD_ARTICLE02: Der Führer empfing Botschafter Dr. Dieckhoff.
+Found
+MODSMD_ARTICLE03: Ministerpräsident Göring zum Dankopfer der Nation.
+Found
+MODSMD_ARTICLE04: Medaille des Deutschen Noten Kreuzes.
+Found
+MODSMD_ARTICLE05: Dr. Schacht bei van Zeeland.
+Found
+MODSMD_ARTICLE06: Belgien für Politik der Unabhängigkeit.
+Found
+MODSMD_ARTICLE07: Attlee für rücksichtslose Vertretung der See-Interessen.
+Found
+MODSMD_ARTICLE08: Die Konferenz in Montreux.
+Found
+MODSMD_ARTICLE09: Neue polnisch-litauische Kontroverse.
+Found
+MODSMD_ARTICLE10: Jugoslawisch-türkische Uebereinstimmung.
+Found
+MODSMD_ARTICLE11: Emigranten-„Schicksal".
+Found
+MODSMD_ARTICLE12: Blutige Zusammenstöße zwischen Hindus und Moslems.
+Found
+MODSMD_ARTICLE13: 33 KW Mann gegen den Fakir von Jpi.
+Found
+MODSMD_ARTICLE14: Die Lhnch-„Justiz" in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE15: Abfuhr für den Talmudjuden La Guardia.
+Found

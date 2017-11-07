@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Der Führer beim 11. Armeekorps.
+Found
+MODSMD_ARTICLE02: Die OZeanflieger bei Reichsminister Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Amerikanerinnen als Gäste der Reichsfrauenfnhrung.
+Found
+MODSMD_ARTICLE04: Ein Geschenk Fraucos in Verlin überreicht.
+Found
+MODSMD_ARTICLE05: Gesandter Nidder van Rappard gestorben.
+Found
+MODSMD_ARTICLE06: Wien rüstet zum Hortlch-Empsang.
+Found
+MODSMD_ARTICLE07: Reichstaguug des Reichsrechtsamtes der NSDAP eröffnet.
+Found
+MODSMD_ARTICLE08: Vorschläge Runcimans?
+Found
+MODSMD_ARTICLE09: Weltbund der Ungarn.
+Found
+MODSMD_ARTICLE10: Der Chef der polnischen Luftwaffe in Sofia.
+Found
+MODSMD_ARTICLE11: Statistiken Zur Judensrage.
+Found
+MODSMD_ARTICLE12: Francos Antwort an England noch nicht veröffentlicht.
+Found
+MODSMD_ARTICLE13: Heftige Kämpfe am Ebro.
+Found
+MODSMD_ARTICLE14: Abschluß der Europareise Morgcntliaus.
+Found
+MODSMD_ARTICLE15: Jugoslawische Mohammedaner für die Araber Palästinas.
+Found
+MODSMD_ARTICLE16: Beschluß des Palästina-Ausschusses.
+Found
+MODSMD_ARTICLE17: Die HJ.-Aührer in Bamauaka.
+Found
+MODSMD_ARTICLE18: Die Eroberung von Puchow.
+Found
+MODSMD_ARTICLE19: Außenminister Hull zur Rede Staatssekretärs Brinkmann.
+Found
+MODSMD_ARTICLE20: Englische Luftsahrt-Studienkommission in Brasilien.
+Found
+MODSMD_ARTICLE21: Brasilianische Jntegralisten verurteilt.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Reichsaußenminister beglückwünschte Dr. Tiso.
+Found
+MODSMD_ARTICLE02: General Oschima im Hause Ribbentrop.
+Found
+MODSMD_ARTICLE03: Die russische Wirtschaftsdelegation in Berlin.
+Found
+MODSMD_ARTICLE04: Reuter dementiert den französischen Freund.
+Found
+MODSMD_ARTICLE05: Empfänge beim neuen slowakischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE06: Die slowakische Regierung zurückgetreten.
+Found
+MODSMD_ARTICLE07: Mussolini inspiziert die neuesten Kampfwagen.
+Found
+MODSMD_ARTICLE08: Theunis' Aufgaben in Amerika.
+Found
+MODSMD_ARTICLE09: Erweiterung des Politischen Ausschusses der Anlange.
+Found
+MODSMD_ARTICLE10: „Der Dreierpakt von Ankara gegen Rußland gerichtet."
+Found
+MODSMD_ARTICLE11: Elend der evakuierten Elsässer.
+Found
+MODSMD_ARTICLE12: Absolute Neutralität Irans.
+Found

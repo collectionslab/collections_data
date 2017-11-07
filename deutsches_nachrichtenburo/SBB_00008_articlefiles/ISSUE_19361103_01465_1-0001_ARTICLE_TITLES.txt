@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Reichsjägermeister Göring auf dem Heimberg.
+Found
+MODSMD_ARTICLE02: .Hühnlein dankt NSKK-Männern für Einsatz an Nordsee«
+Found
+MODSMD_ARTICLE03: Eröffnung der Lehrerhochschule Würzburg.
+Found
+MODSMD_ARTICLE04: In das Hauptamt für Erzieher berufen.
+Found
+MODSMD_ARTICLE05: Fortsetzung der Film-Verhandlungen in Rom.
+Found
+MODSMD_ARTICLE06: Staatssekretär Schmidt zum Verhältnis Berlin—Wien.
+Not Found
+MODSMD_ARTICLE07: Ungarns Reichsverweser besucht Rom.
+Found
+MODSMD_ARTICLE08: Helge Roswaenge dänischer Kammersänger.
+Found
+MODSMD_ARTICLE09: Schweiz verbietet ~Roter Hilfe" politische Betätigung.
+Found
+MODSMD_ARTICLE10: Brüsseler Marxistcusührcr im Dienste Madrids.
+Found
+MODSMD_ARTICLE11: Verhandlungen Blums mit louhaux.
+Found
+MODSMD_ARTICLE12: Wieder eine Fabrikbesetzung in Paris.
+Found
+MODSMD_ARTICLE13: Blum antwortet Thorez am Sonntag.
+Found
+MODSMD_ARTICLE14: Kundgebung für die neue Irak-Regierung.
+Found
+MODSMD_ARTICLE15: Fortgesetzt Alarmrufe des Madrider Senders.
+Found
+MODSMD_ARTICLE16: Ausgelassenste Wahlstimmung in New Jork.
+Found
+MODSMD_ARTICLE17: Der Außenminister von Guatemala gestorben.
+Found

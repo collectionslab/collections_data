@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Empfang anläßlich des Unabhängigkeitstages von Uruguay.
+Found
+MODSMD_ARTICLE02: Der AerZtekongreß abgeschlossen.
+Found
+MODSMD_ARTICLE03: Admiral Carls kehrt zurück.
+Found
+MODSMD_ARTICLE04: Krogmanu Nachfolger Schleiers.
+Found
+MODSMD_ARTICLE05: Unglaubliche Frechheit eines jüdischen Rassenschänders.
+Found
+MODSMD_ARTICLE06: Unbegründete polnische Vorstellungen beim Danziger Senat.
+Found
+MODSMD_ARTICLE07: Generalstreik in Krakau.
+Found
+MODSMD_ARTICLE08: Juden, nichts als Juden!
+Found
+MODSMD_ARTICLE09: Kongreß der amtlichen Nachrichtenagenturen.
+Found
+MODSMD_ARTICLE10: Santander in den Händen von Nationalspaniern?
+Found
+MODSMD_ARTICLE11: Die Bolschewisten-Häuptlinge fliehen aus Santander.
+Found
+MODSMD_ARTICLE12: Botschafter Faupel von Salamanca abgereist.
+Found
+MODSMD_ARTICLE13: Beschlüsse des französischen Ministerrats.
+Found
+MODSMD_ARTICLE14: Sowjetunion und China.
+Found

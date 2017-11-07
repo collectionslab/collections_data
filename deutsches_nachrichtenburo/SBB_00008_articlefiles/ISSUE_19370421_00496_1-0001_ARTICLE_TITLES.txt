@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Gattin des Präsidenten von Panama in Berlin.
+Found
+MODSMD_ARTICLE02: Der Tag der Luftwaffe in Berlin.
+Found
+MODSMD_ARTICLE03: Abteilung Veterinärwesen im Reichsinnenministerium.
+Found
+MODSMD_ARTICLE04: 35W ostoberschlesische Bergleute im Hungerstreik.
+Found
+MODSMD_ARTICLE05: Belgien zur Zusammenarbeit mit Polen bereit.
+Found
+MODSMD_ARTICLE06: Oesterreichs Vertretung bei den Krönungsfeierlichkeiten.
+Found
+MODSMD_ARTICLE07: Besichtigungsreise Badoglios nach Tripolis.
+Found
+MODSMD_ARTICLE08: Daladier in London.
+Found
+MODSMD_ARTICLE09: Das Kernproblem von Montreux.
+Found
+MODSMD_ARTICLE10: Trostlose Zustände in Algerien.
+Found
+MODSMD_ARTICLE11: Molotow als Kronzeuge für die Sowjetmißwirtschaft.
+Found

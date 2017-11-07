@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Weitere Stimmen zur Führerrede.
+Found
+MODSMD_ARTICLE02: Prinz Schaumburg-Lippe beim König von Griechenland
+Found
+MODSMD_ARTICLE03: Sir Eric Phipps verläßt Berlin.
+Found
+MODSMD_ARTICLE04: Der neue schwedische Gesandte in Berlin.
+Found
+MODSMD_ARTICLE05: IN Milliarden Franken für die Rüstungen Frankreichs!
+Found
+MODSMD_ARTICLE06: Entschließung der Pariser Kammer-Linken.
+Found
+MODSMD_ARTICLE07: Trinksprüche in Brüssel.
+Found
+MODSMD_ARTICLE08: König Georg VI. empfing Baldwin.
+Found
+MODSMD_ARTICLE09: 137 Millionen Pfund für englische Rüstungsaufträge.
+Found
+MODSMD_ARTICLE10: Die Londoner Antikommunistische Schau eröffnet.
+Found

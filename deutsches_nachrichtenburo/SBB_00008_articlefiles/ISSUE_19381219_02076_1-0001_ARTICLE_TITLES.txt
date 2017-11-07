@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der libysch-italienische Jugendführer sammelt für WHW.
+Found
+MODSMD_ARTICLE02: Arbeitstagung der Landesgruppe Italien der AO.
+Found
+MODSMD_ARTICLE03: Ungarns Außenpolitik.
+Found
+MODSMD_ARTICLE04: Um die Lösung des Bodenproblems in Ungarn.
+Found
+MODSMD_ARTICLE05: Die oüerungarischen Gelbiete unter Zivilverwaltung.
+Found
+MODSMD_ARTICLE06: Französische Waffenstillstands-Anregung?
+Found
+MODSMD_ARTICLE07: Neues Masseuschlachten in Rotspanien»
+Found
+MODSMD_ARTICLE08: Haushaltsaussprache in der Pariser Kammer.
+Found
+MODSMD_ARTICLE09: De Monzie sondiert in Brüssel.
+Found
+MODSMD_ARTICLE10: Jüdische Gastwirtschaften in Rumänien geschlossen.
+Found
+MODSMD_ARTICLE11: Schwedische Abwehr gegen die Judenherrschaft.
+Found
+MODSMD_ARTICLE12: Die Wehrfrage in Schweden.
+Found
+MODSMD_ARTICLE13: Die Verhaftung des jüdischen Schiebers Holzmann.
+Found
+MODSMD_ARTICLE14: Ein wutschnaubender Artikel der „Sowjetskaja Ukraina".
+Found
+MODSMD_ARTICLE15: Die Riesenschmuggelaffäre der Gebrüder Musica.
+Found

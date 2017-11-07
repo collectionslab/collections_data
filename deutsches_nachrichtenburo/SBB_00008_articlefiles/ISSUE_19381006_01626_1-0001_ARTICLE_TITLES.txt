@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Preisaufbesserung für Milch- und Fleischerzeugung.
+Found
+MODSMD_ARTICLE03: Aer Freiheitsmarsch nach Mähren.
+Found
+MODSMD_ARTICLE04: Vormarsch mit der Flak.
+Found
+MODSMD_ARTICLE05: Tagung der Slowaken und der Karpatho-Ukrainer.
+Found
+MODSMD_ARTICLE06: Die tschechisch-ungarischen Verhandlungen verschoben.
+Found
+MODSMD_ARTICLE07: Tie ungarische Presse zum Abtritt Beneschs.
+Found
+MODSMD_ARTICLE08: Belgrad zum Rücktritt Beneschs.
+Found
+MODSMD_ARTICLE09: Herzlicher Empfang des Reichsministers Funk in Ankara.
+Found
+MODSMD_ARTICLE10: Der Kleinkrieg in Palästina.
+Found
+MODSMD_ARTICLE11: Ein Mörder hingerichtet.
+Found

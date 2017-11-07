@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ein britisches Memorandum zur Flottenfrage.
+Found
+MODSMD_ARTICLE02: Beförderungen im Reichsernährungsministerium.
+Found
+MODSMD_ARTICLE03: Ernennungen im Bereich des Reichserziehungsministerinms.
+Found
+MODSMD_ARTICLE04: Der Besuch Balles beendet.
+Found
+MODSMD_ARTICLE05: Das Staatsbegräbnis für Graf Costanzo Ciano.
+Found
+MODSMD_ARTICLE06: „Rückkehr Zur alten! Weltwirtschaft unmöglich!"
+Found
+MODSMD_ARTICLE07: Polens Handgeld für Einkreisungshilse.
+Found
+MODSMD_ARTICLE08: Skandalöse Parlamentserklärung MacDonalds.
+Found
+MODSMD_ARTICLE09: Chamberlain gibt Englands Bittgang nach Tokio bekannt.
+Found
+MODSMD_ARTICLE10: Zusammenstöße Zwischen Mohammedanern und Hindus.
+Found
+MODSMD_ARTICLE11: Verstärkter arabischer Freiheitskamps.
+Found

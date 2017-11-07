@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Goebbels über die deutsch-italienische Zusammenarbeit.
+Found
+MODSMD_ARTICLE02: „Tevere": Der Achsenblock unbedingt überlegen!
+Found
+MODSMD_ARTICLE03: Verstärkung der Landesverteidigung in der Schweiz.
+Found
+MODSMD_ARTICLE04: Jugoslawische Stimmen zu den Agramer Besprechungen.
+Found
+MODSMD_ARTICLE05: SV "IL s fv, L Festlicher Akt im Elysee-Palast.
+Found
+MODSMD_ARTICLE06: Moskau mit England sehr unzufrieden.
+Found
+MODSMD_ARTICLE07: Das Ende der rotspanischen Flotte.
+Found
+MODSMD_ARTICLE08: Das waren die Schützlinge der Demokratien!
+Found
+MODSMD_ARTICLE09: Reichsminister Dr. Goebbels in Aegypten.
+Found
+MODSMD_ARTICLE10: Syrien fordert Anschluß an den Irak.
+Found
+MODSMD_ARTICLE11: Borah zur Kriegshetze im Auswärtigen Ausschuß.
+Found
+MODSMD_ARTICLE12: „Ultimas Noticias" zum Anschlag auf die Deutsche Botschaft.
+Found
+MODSMD_ARTICLE13: Die Regierung Frauco von Chile anerkannt.
+Found
+MODSMD_ARTICLE14: Auch Australiens Wehrminister sieht Weiße Mäuse.
+Found

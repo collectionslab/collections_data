@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Deutschland nimmt an der Fünfmächtebesprechung teil.
+Found
+MODSMD_ARTICLE02: Italien zur Teilnahme an Fünfmächtekonferenz bereit.
+Found
+MODSMD_ARTICLE03: An alle Arbeitgeber. Aufruf des Reichsführers SS und Chef der deutschen Polizei.
+Found
+MODSMD_ARTICLE04: Verschmelzung der Reichsbahn-Zentralämter.
+Found
+MODSMD_ARTICLE05: Kriegsschiffbesuche in deutschen Bädern.
+Found
+MODSMD_ARTICLE06: Die Tätigkeit deutscher Kriegsschiffe in Spanien.
+Found
+MODSMD_ARTICLE07: Bedauern der spanischen Regierung.
+Found
+MODSMD_ARTICLE08: Weitere Spenden für die Spaniendeutschen.
+Found
+MODSMD_ARTICLE09: Danktelegramme Professor Ghigis.
+Found
+MODSMD_ARTICLE10: Dänischer Besuch in Breslau.
+Found
+MODSMD_ARTICLE11: 300 Deutsche aus Spanien in Genua eingetroffen.
+Found
+MODSMD_ARTICLE12: Spanisches Nationalkomitee auch in Italien notifiziert.
+Found
+MODSMD_ARTICLE13: Spanische Gesandtschaft in Budapest für Nationalisten.
+Found
+MODSMD_ARTICLE14: Rücktritt des spanischen Gesandten in Lima.
+Found
+MODSMD_ARTICLE15: General Francs dementiert.
+Found
+MODSMD_ARTICLE16: Geländegewinne der Nationalisten bei Madrid.
+Found
+MODSMD_ARTICLE17: Kanonendonner an der spanischen Grenze.
+Found
+MODSMD_ARTICLE18: Roosevelt in Kanada.
+Found
+MODSMD_ARTICLE19: Amerika und England senden Kriegsschiffe nach China.
+Found

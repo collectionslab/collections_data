@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Staatssekretär Dr. Schmidt bei Generaloberst Görina.
+Found
+MODSMD_ARTICLE02: Die Fettversorgung der minderbemittelten Bevölkerung.
+Found
+MODSMD_ARTICLE03: Empfang zu Ehren von Staatssekretär Funk.
+Found
+MODSMD_ARTICLE04: Hitlerjungen beim französischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE05: Frühstück für den polnischen Austenminister in Paris.
+Found
+MODSMD_ARTICLE06: Delbos Frankreichs Vertreter in Nyon.
+Found
+MODSMD_ARTICLE07: Minister Eden in Paris.
+Found
+MODSMD_ARTICLE08: Optimismus „der Form halber".
+Found
+MODSMD_ARTICLE09: Stehen nur die britischen Interessen zur Debatte?
+Found
+MODSMD_ARTICLE10: Frankreich will Mittelmeerflotte verstärken.
+Found
+MODSMD_ARTICLE11: Der unbezahlte Sowjetpavillon in Paris.
+Found
+MODSMD_ARTICLE12: Sowjetspanische Flugzeuge verließen Biarritz.
+Found
+MODSMD_ARTICLE13: De Valera auf der Reise nach Genf.
+Found
+MODSMD_ARTICLE14: „England soll seine eigenen Wege gehen."
+Found
+MODSMD_ARTICLE15: Italien ist zur Zusammenarbeit bereit.
+Found
+MODSMD_ARTICLE16: Rumpfkonferenz-Ergebnisse werden bedeutungslos sein.
+Found
+MODSMD_ARTICLE17: Hohe sowjerussische Funktionäre ermordet.
+Found
+MODSMD_ARTICLE19: Streikhetze belgischer Kommunisten.
+Found
+MODSMD_ARTICLE20: Weitgehende Grundstücksenteignungen im Memelgebiet.
+Found
+MODSMD_ARTICLE21: Proklamation des japanischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE22: Die amerikanischen Truppen in China.
+Found

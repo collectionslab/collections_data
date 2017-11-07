@@ -1,0 +1,48 @@
+MODSMD_ARTICLE01: Goethemedaille für Professor Dr. Seger.
+Found
+MODSMD_ARTICLE02: Der Reichsführer SS. an Frau Seehofer.
+Found
+MODSMD_ARTICLE03: .SA.-Mann Wessel beigesetzt.
+Found
+MODSMD_ARTICLE04: Der Kampf der polnischen Regierung gegen die Schieber.
+Found
+MODSMD_ARTICLE05: Polen versucht, Wahrheiten aus der Welt zu schaffen.
+Found
+MODSMD_ARTICLE06: Rapides Ansteigen der Preise in Polen.
+Found
+MODSMD_ARTICLE07: Die Bedrückung der Tschechen durch die Polen.
+Found
+MODSMD_ARTICLE08: Ein Hilferuf an Frau Chamberlain.
+Found
+MODSMD_ARTICLE09: Ein scharfes Dementi Ungarns.
+Found
+MODSMD_ARTICLE10: Zusammentritt des ungarischen Landesverteidigungsrates.
+Found
+MODSMD_ARTICLE11: britische Soldaten in Nordfrankreich.
+Found
+MODSMD_ARTICLE12: Türken im Foreign Office.
+Found
+MODSMD_ARTICLE13: Englische Kriegsvorbereitungen in Nordirland.
+Found
+MODSMD_ARTICLE14: Zwei neue Bombenexplosionen in Liperpool.
+Found
+MODSMD_ARTICLE15: Die englischen Handelsschiffe verlassen das Mittelmeer.
+Found
+MODSMD_ARTICLE16: Frankreich sperrt die Rheingrenze.
+Found
+MODSMD_ARTICLE17: Lückenlose Zensur in Frankreich.
+Found
+MODSMD_ARTICLE18: Konferenz der nordischen Außenminister fällt aus.
+Found
+MODSMD_ARTICLE19: Ueberfliegen italienischen Gebiets verboten.
+Found
+MODSMD_ARTICLE20: Die Schweiz mobilisiert Grenzschutztruppen.
+Found
+MODSMD_ARTICLE21: Ein offenes französisches Geständnis.
+Found
+MODSMD_ARTICLE22: Polnische Soldaten nach Lettland übergelaufen.
+Found
+MODSMD_ARTICLE23: Fortschreitender Revolutionskrieg in Palästina.
+Found
+MODSMD_ARTICLE24: Der Briefwechsel des Führers mit Daladier.
+Found

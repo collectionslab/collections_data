@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer stiftet eine Erinnerungs-Medaille.
+Found
+MODSMD_ARTICLE02: Baron de Coubertin an den Führer.
+Found
+MODSMD_ARTICLE03: Der Führer auf dem Reichssportfeld.
+Found
+MODSMD_ARTICLE04: festlicher Empfang der flieger.
+Found
+MODSMD_ARTICLE05: Internationaler Kongreß für körperliche Erziehung.
+Found
+MODSMD_ARTICLE06: Jesie Owens schnellster Mann der Welt.
+Found
+MODSMD_ARTICLE07: Jansen-Deutschland erringt Bronzemedaille.
+Found
+MODSMD_ARTICLE08: Woellke zum Leutnant befördert.
+Found
+MODSMD_ARTICLE09: Einweihung der Dietrich Eckart-Bühne.
+Found
+MODSMD_ARTICLE10: Der zweite Tag der Wettkämpfe.
+Found
+MODSMD_ARTICLE11: Goldene und Silberne Medaille für Deutschland.
+Found
+MODSMD_ARTICLE12: 700 schwedische Sportler im Berliner Rathaus.
+Found
+MODSMD_ARTICLE13: Berlin kauft auf der Olympischen Kunstausstellung.
+Found
+MODSMD_ARTICLE14: Der erste Sonderzug in der KdF-Stadt.
+Found
+MODSMD_ARTICLE15: Einzug der Olympia-Segler in Kiel.
+Found
+MODSMD_ARTICLE16: „Heimat und Weltmeer": Kunstausstellung in Kiel.
+Found

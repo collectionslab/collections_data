@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Göring: „Schützt die deutsche Ernte vor Brandgefahr!"
+Found
+MODSMD_ARTICLE02: Dr. Goebbels Zur 7W-Jahrfeier der Stadt Berlin.
+Found
+MODSMD_ARTICLE03: Japanische Ministerialbeamte in NSDAP.-Schulungshaus.
+Found
+MODSMD_ARTICLE04: Tie Reichswettkämpfe der SA. in Berlin.
+Found
+MODSMD_ARTICLE05: Neuregelung des Rechts der Zweigniederlassungen.
+Found
+MODSMD_ARTICLE06: Gesetzliche Neuregelung des Seefrachtrechts.
+Found
+MODSMD_ARTICLE07: Reuter meldet Revolte in Paraguay.
+Found
+MODSMD_ARTICLE08: „Hindenburg"-Kapitän Pruß auf Heimreise.
+Found
+MODSMD_ARTICLE09: Die Wiener Sänger in Bayreuth und Nürnberg.
+Found
+MODSMD_ARTICLE10: Belgiens Katholiken gegen den Gottlosenkongreß.
+Found
+MODSMD_ARTICLE11: Frankreich will keine Spanienflüchtlinge mehr aufnehmen.
+Found
+MODSMD_ARTICLE12: Viele Volkskommissare in der Sowjetunion verhaftet.
+Found

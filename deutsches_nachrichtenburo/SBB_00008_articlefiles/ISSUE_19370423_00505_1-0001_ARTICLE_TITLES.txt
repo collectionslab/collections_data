@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der 1. Mai in der Reichshauptstadt.
+Found
+MODSMD_ARTICLE02: Das Programm des 1. Mai.
+Found
+MODSMD_ARTICLE03: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE04: Der Hungerstreik in Ostoberschlesien.
+Found
+MODSMD_ARTICLE05: Neue Bombenwürfe in Warschauer Hochschulen.
+Found
+MODSMD_ARTICLE06: Zum Besuch des polnischen Außenministers in Bukarest.
+Found
+MODSMD_ARTICLE07: Pressestimmen zur Zusammenkunft Mussolini—Schuschnigg.
+Not Found
+MODSMD_ARTICLE08: Die neue Moskauer „EinWickel-Methode".
+Found
+MODSMD_ARTICLE09: 11 Todesopfer der Filmbrandkatastrophe in Estland.
+Found
+MODSMD_ARTICLE10: Zweiter Mörder Riedles noch nicht verhaftet?
+Found

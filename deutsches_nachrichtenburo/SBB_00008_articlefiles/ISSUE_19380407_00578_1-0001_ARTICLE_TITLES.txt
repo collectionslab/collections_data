@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Dr. Goebbels in Dresden.
+Found
+MODSMD_ARTICLE02: Sendboten der Treue und des Dankes.
+Found
+MODSMD_ARTICLE03: 19W österreichische Landarbeiter Gäste des Reichsnährstandes.
+Found
+MODSMD_ARTICLE04: Weitere Reichsbankanstalten im Lande Oesterreich errichtet.
+Found
+MODSMD_ARTICLE05: „Giornale d'Jtalia" über die Freudentage Oesterreichs.
+Found
+MODSMD_ARTICLE06: Bolschewistische Mordbrenner in Rotspanien.
+Found

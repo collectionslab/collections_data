@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Dr. Ley hat Hamburg wieder verlassen.
+Found
+MODSMD_ARTICLE02: Polnische Disziplin!
+Found
+MODSMD_ARTICLE03: Dietrich gewinnt die Coppa Mussolini.
+Found
+MODSMD_ARTICLE04: Eidesleistung der albanischen Truppen.
+Found
+MODSMD_ARTICLE05: Ovser des polnischen Terrors.
+Found
+MODSMD_ARTICLE06: „Noch kein Ausweg aus der Sackgasse."
+Found
+MODSMD_ARTICLE07: Craigies Bericht in London.
+Found
+MODSMD_ARTICLE08: Alexandrette soll Flotten- und Luftstützpunkt werden!
+Found
+MODSMD_ARTICLE09: London: Die 10. Unterredung! mit Molotow verlief „normal".
+Found
+MODSMD_ARTICLE10: London will noch nicht vom Rückzug in Fernost sprechein.
+Found
+MODSMD_ARTICLE11: 900 000 Luftschutz-Stahlkammern in England verteilt.
+Found
+MODSMD_ARTICLE12: Die Tientsin-Verhandlungen aufgenommen.
+Found
+MODSMD_ARTICLE13: Japanische Einzelforderungen an England.
+Found
+MODSMD_ARTICLE14: „England hat sich auf Singapur zurückgezogen."
+Found
+MODSMD_ARTICLE15: Negerin als Richterin in New Jork.
+Found
+MODSMD_ARTICLE16: Stützen des Systems La Guardia.
+Found
+MODSMD_ARTICLE17: Roosevelts Wahlaussichten sinken.
+Found
+MODSMD_ARTICLE18: Der erzbischöfliche Palast in Toledo in Flammen.
+Found

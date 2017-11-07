@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Ausschlüsse aus der Rcichskulturkammer.
+Found
+MODSMD_ARTICLE02: Die deutschen Verluste beim Erdbeben in Chile.
+Found
+MODSMD_ARTICLE03: Ausstellung: „Die französische Presse!"
+Found
+MODSMD_ARTICLE04: Die nativimlspaiiische Borhut 12 Kilometer vor Gerona.
+Found
+MODSMD_ARTICLE05: Sowiet-Kriegsmaterial über Bordeaux nach Rotspanieu!
+Found
+MODSMD_ARTICLE06: Abenteurer überwachten die sowjetspanische Front.
+Found
+MODSMD_ARTICLE07: Berards Mission in Burgos.
+Found
+MODSMD_ARTICLE08: Wieder Bombenanschläge in London.
+Found
+MODSMD_ARTICLE09: Mobilmachung der gesamten Londoner Polizei.
+Found
+MODSMD_ARTICLE10: Der Sowjetbotschafter im Foreign Office.
+Found
+MODSMD_ARTICLE11: Die Sowjetregierung eins mit der Komintern.
+Found
+MODSMD_ARTICLE12: Abschluß der baltischen Außenminister-Konferenz.
+Found
+MODSMD_ARTICLE13: Italien: „Roosevelt im Dienste des Ghettos."
+Found
+MODSMD_ARTICLE14: Jnsvektionsslug des Duce nach Caftiglione.
+Found
+MODSMD_ARTICLE15: Britischer Flottenbesuch in Lissabon.
+Found
+MODSMD_ARTICLE16: Belgien nimmt an keiner internationalen Konferenz teil.
+Found
+MODSMD_ARTICLE17: Die Bank von Spanien verklagt USA.
+Found

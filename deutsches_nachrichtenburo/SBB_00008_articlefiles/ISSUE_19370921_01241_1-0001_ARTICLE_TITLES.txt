@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Arbeitstagung des Hauptschulungsamtes der NSDAP.
+Found
+MODSMD_ARTICLE04: 699 österreichische Kausieute in Frankfurt a. M.
+Found
+MODSMD_ARTICLE05: Ungarns Kriegsminister nach Deutschland abgereist.
+Found
+MODSMD_ARTICLE06: Ungarn und das ungarländische Deutschtum.
+Found
+MODSMD_ARTICLE07: 89 Marxisten in Budapest verhaftet.
+Found
+MODSMD_ARTICLE08: Italien befürwortet den deutschen Kolonialanspruch.
+Found
+MODSMD_ARTICLE09: „Ein Trugbild zur Täuschung der Welt."
+Found
+MODSMD_ARTICLE10: Trauersitzungen in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE11: Fortgesetzte Werbung für die bolschewistische TMizetr.
+Found
+MODSMD_ARTICLE12: Iran und Peru in den Völkerbundsrat gewählt.
+Found
+MODSMD_ARTICLE13: Englischer Flottenchef in Orau.
+Found
+MODSMD_ARTICLE14: Französische Stellungnahme zur japanischen Blockade.
+Found
+MODSMD_ARTICLE15: Die Amerikanische Botschaft verläßt Nanking.
+Found
+MODSMD_ARTICLE16: Schwere Terrorakte in Mexiko.
+Found

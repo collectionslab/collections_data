@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Die Heimfahrt des Luftschiffes „Hindenburg". Das Luftschiff über der Südwestspitze Irlands.
+Found
+MODSMD_ARTICLE02: „Hindenburg" am Kanaleingang.
+Found
+MODSMD_ARTICLE03: An der Mündung der Schelde.
+Found
+MODSMD_ARTICLE04: „Hindenburg" über Köln.
+Found
+MODSMD_ARTICLE05: Auf dem Luftschiffhafen „Rhein-Main" gelandet.
+Found
+MODSMD_ARTICLE06: Eine Unterredung an Bord des „HindenburgV
+Found
+MODSMD_ARTICLE07: Schon 1928 geplant.
+Found
+MODSMD_ARTICLE08: Der Führer schuf auch hier Wandel.
+Found
+MODSMD_ARTICLE09: Frankfurts alte Beziehungen zu New Jork.
+Found
+MODSMD_ARTICLE10: Noch weitere Linien geplant.
+Found
+MODSMD_ARTICLE11: Eine neue Regierung in Oesterreich.
+Found
+MODSMD_ARTICLE12: Amtliche Verlautbarung über die Regierungsumbildung.
+Found
+MODSMD_ARTICLE13: Tie amtliche Mitteilung an Auslandsvertreter.
+Found
+MODSMD_ARTICLE14: Parteienauflösungsgesetz in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE15: Die Frage der Völkerbundsreform vor dem Oberhaus.
+Found
+MODSMD_ARTICLE16: Neue Abessinien-Anfragen im Unterhaus.
+Found
+MODSMD_ARTICLE17: Schwere Beschuldigungen gegen Italien.
+Found
+MODSMD_ARTICLE18: Amtssprache in Harrar jetzt arabisch.
+Found
+MODSMD_ARTICLE19: Abreise von Deutschen aus Addis Abeba.
+Found
+MODSMD_ARTICLE20: Ausnahmezustand in Jerusalem.
+Found

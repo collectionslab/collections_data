@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Neichsstatihalter Murr über seine Londoner Eindrücke.
+Found
+MODSMD_ARTICLE02: Für ein gutes Verhältnis Schweden—Deutschland.
+Not Found
+MODSMD_ARTICLE03: Furtwängler in Budapest
+Found
+MODSMD_ARTICLE04: Politisches Rowdytum der jüdischen Unterwelt.
+Found
+MODSMD_ARTICLE05: Dr. Naumann Schweizer Bundespräsident für 1938.
+Found
+MODSMD_ARTICLE06: Der neue schweizerische Bundesrichter.
+Found
+MODSMD_ARTICLE07: König Georg von Griechenland in Belgrad.
+Found
+MODSMD_ARTICLE08: „Tatsachen, mit denen man rechnen muß!"
+Found
+MODSMD_ARTICLE09: Der Haushaltsfehlbetrag vor der Kammer..
+Found
+MODSMD_ARTICLE10: Lansbury beim polnischen Staatspräsidenten.
+Found
+MODSMD_ARTICLE11: Militärdienst ist nichts für die Kinder Israels.
+Found
+MODSMD_ARTICLE12: Die englische Protestnote in Tokio überreicht.
+Found
+MODSMD_ARTICLE13: Der Streit zwischen Haiti und San Domingo.
+Found
+MODSMD_ARTICLE14: Schwere kommunistische Ausschreitungen in New Bork.
+Found
+MODSMD_ARTICLE15: Zwischenfall in argentinischem Parlament.
+Found
+MODSMD_ARTICLE16: Vier Anarchisten in Argentinien abgeurteilt.
+Found
+MODSMD_ARTICLE17: Anerkennung für die deutschen Siedler in Australien.
+Found
+MODSMD_ARTICLE18: Ein Mörder hingerichtet.
+Found

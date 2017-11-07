@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Die französische Presse sucht Zu beschwichtigen.
+Found
+MODSMD_ARTICLE02: Rom: „Deutschlands Haltung ist fest und ruhig".
+Found
+MODSMD_ARTICLE03: Eröffnung der 9. Levante-Messe in Bari.
+Found
+MODSMD_ARTICLE04: Die faschistische Miliz.
+Found
+MODSMD_ARTICLE05: Entfernung der Inden aus den italienischen Ministerien.
+Found
+MODSMD_ARTICLE06: Konrad Henlein nach Nürnberg abgereift.
+Found
+MODSMD_ARTICLE07: Mitte Oktober Parteitag der SdP. in Aussig.
+Found
+MODSMD_ARTICLE08: Eine halbe Million Arbeitslose mehr in England.
+Found
+MODSMD_ARTICLE09: Jugoslawien feiert den Geburtstag seines Königs.
+Found
+MODSMD_ARTICLE10: Polen will nichts von „slawischer Rücksichtnahme" wissen.
+Found
+MODSMD_ARTICLE11: Vormarsch an der Ebro-Front.
+Found
+MODSMD_ARTICLE12: Der größte Teil der Gefangenen Ausländer.
+Found
+MODSMD_ARTICLE13: Vier Todesurteile gegen Araber bestätigt.
+Found
+MODSMD_ARTICLE14: Warnungen der japanischen Presse an England.
+Found
+MODSMD_ARTICLE15: Deutsches Flugzeug tu Clevelaud erfolgreich.
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Adlerschild des Reiches für Geheimrat Kirdorf.
+Found
+MODSMD_ARTICLE02: Baldur von Schirach vor der Führerschaft der HJ.
+Found
+MODSMD_ARTICLE03: Wiederum Vereidigung der Politischen Leiter.
+Found
+MODSMD_ARTICLE04: Kundgebungen deutsch-griechischer
+Found
+MODSMD_ARTICLE05: Polnische Regierung bekämpft Preissteigerung.
+Found
+MODSMD_ARTICLE06: Nationale Offensive an der Baskenfront schreitet fort.
+Found
+MODSMD_ARTICLE07: Luftangriff auf Bilbao.
+Found
+MODSMD_ARTICLE08: Die Schatzkammern des GPU-Henkers!
+Found

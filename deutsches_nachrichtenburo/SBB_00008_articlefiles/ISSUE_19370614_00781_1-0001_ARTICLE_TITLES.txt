@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer an den französischen Botschafter in Berlin.
+Found
+MODSMD_ARTICLE02: Finanzminister Dr. Kung beim Führer.
+Found
+MODSMD_ARTICLE03: Danktelegramm Mussolinis an den Führer.
+Found
+MODSMD_ARTICLE04: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE05: Französische Gäste in Hamburg.
+Found
+MODSMD_ARTICLE06: Ein Ehrenmal für Reichsstatthalter Loeper.
+Found
+MODSMD_ARTICLE07: Die Besprechungen Neuraths in Budapest.
+Found
+MODSMD_ARTICLE08: Menschenfchlächtereien ohne geschichtliche Parallele.
+Found
+MODSMD_ARTICLE09: Note der Kontrollmächte an die spanischen Parteien.
+Found
+MODSMD_ARTICLE10: Der nationale Heeresbericht vom Sonntag.
+Found
+MODSMD_ARTICLE11: Die baskischen Oberbonzen nach Santander geflohen.
+Found
+MODSMD_ARTICLE12: Nationale Vorhuten an der Stadtgrenze von Bilbao.
+Found
+MODSMD_ARTICLE13: Der Terror der Lewis-Gewerkschaft.
+Found

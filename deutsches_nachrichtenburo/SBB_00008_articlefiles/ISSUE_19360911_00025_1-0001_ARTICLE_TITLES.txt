@@ -1,0 +1,6 @@
+MODSMD_ARTICLE04: Parteitag der Ehre.
+Found
+MODSMD_ARTICLE05: Moderne Leibeigenschaft.
+Found
+MODSMD_ARTICLE06: Getreidefabrik oder Erbhof?
+Found

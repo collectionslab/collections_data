@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Verkehrsausschuß der deutschen Seehäfen.
+Found
+MODSMD_ARTICLE03: Bücherspende der Reichsschrifttumskammer für das WHW.
+Found
+MODSMD_ARTICLE04: Epanische Jugendführerinnen beim deutschen Handwerk.
+Found
+MODSMD_ARTICLE05: SA.-Gruppenboot „Kiel" in Dienst gestellt.
+Found
+MODSMD_ARTICLE06: Dr. Scheel Zum Einigungswerk in der Studentenschaft.
+Found
+MODSMD_ARTICLE07: Die Protestantische Kirchenregierung der Pfalz über Oxford.
+Found
+MODSMD_ARTICLE08: Reichsleiter Fiehler auf der Ordensburg Sonthofen.
+Found
+MODSMD_ARTICLE09: Die Internationale Schau „Der Bolschewismus" eröffnet.
+Found
+MODSMD_ARTICLE10: Die Presse Italiens zum Halifax-Besuch.
+Found
+MODSMD_ARTICLE11: Der Duce führt Badoglio in sein neues Amt ein.
+Found
+MODSMD_ARTICLE12: Kranzniederlegungen in Rom durch Baron Okura.
+Found
+MODSMD_ARTICLE13: Baron Okura bei Graf Ciano.
+Found
+MODSMD_ARTICLE14: Drei U-Boote in Monfalcone vom Stapel gelaufen.
+Found
+MODSMD_ARTICLE15: Fliegerkameradschaft Italien—Paraguay.
+Not Found
+MODSMD_ARTICLE16: Der bolschewistische Kunstraub in Katalonien.
+Found
+MODSMD_ARTICLE17: Spanische Sowjetbonzm bezichtigen sich der Korruption.
+Found
+MODSMD_ARTICLE18: Bischofskonferenz in Valladolid.
+Found
+MODSMD_ARTICLE19: Barcelona in ernsten Nahrungssorgen.
+Found
+MODSMD_ARTICLE20: Haben Abdul Hamids Erben Anspruch auf Oelge biete?
+Found
+MODSMD_ARTICLE21: Der japanische Vormarsch auf Nanking.
+Found

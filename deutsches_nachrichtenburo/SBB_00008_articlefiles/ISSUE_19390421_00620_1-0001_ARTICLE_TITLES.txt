@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Empfänge beim Reichsaußenminister.
+Found
+MODSMD_ARTICLE02: Die ausländischen Ehrengäste auf dem Reichssportfeld.
+Found
+MODSMD_ARTICLE03: Ausländische Gäste bei Baldur von Schirach.
+Found
+MODSMD_ARTICLE04: Großzügige Maßnahmen für die Rentner und Kriegsopfer.
+Found
+MODSMD_ARTICLE05: „Tschechische Einheit an der Seite des deutschen Volkes."
+Found
+MODSMD_ARTICLE06: Italien beging das Fest der nationalen Arbeit.
+Found
+MODSMD_ARTICLE07: „Die Wehrmacht des Dritten Reiches unvergleichlich."
+Found
+MODSMD_ARTICLE08: Die dänische Presse Zur Führerparade.
+Found
+MODSMD_ARTICLE09: London wirft sich Moskau bedenkenlos an den Hals.
+Found
+MODSMD_ARTICLE10: „Stoppt das Bündnis mit Sowjetrußland!"
+Found

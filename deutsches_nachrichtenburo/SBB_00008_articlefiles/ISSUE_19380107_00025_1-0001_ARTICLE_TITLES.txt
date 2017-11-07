@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Internationale Handwerksausstellung 1938 in Berlin.
+Found
+MODSMD_ARTICLE02: Dritte Ausschüttung der Saarspende.
+Found
+MODSMD_ARTICLE03: Spanische Filmproduktion in Deutschland.
+Found
+MODSMD_ARTICLE04: Dr. Ley in Rom.
+Found
+MODSMD_ARTICLE05: Athen am Vorabend der Hochzeitsfeierlichkeiten.
+Found
+MODSMD_ARTICLE06: Der rumänische Landwirtschaftsminister vereidigt.
+Found
+MODSMD_ARTICLE07: Chautemps an Arbeitgeber und Arbeitnehmer.
+Found
+MODSMD_ARTICLE08: Wieder Kundgebung vor den Goodrich-Werken.
+Found
+MODSMD_ARTICLE09: Spiegel der französischen Preissteigerung.
+Found
+MODSMD_ARTICLE10: Französisch-syrische Verhandlungen.
+Found
+MODSMD_ARTICLE11: Entschließung in der Nichteinmischungssrage zu erwarten.
+Found
+MODSMD_ARTICLE12: Ein marxistischer Rückzieher.
+Found
+MODSMD_ARTICLE13: Um die Rechtsgrundlage der Schanghaier Verwaltung.
+Found
+MODSMD_ARTICLE14: Neuer Zwischenfall in Schanghai.
+Found
+MODSMD_ARTICLE15: Erregung in der englischen Presse.
+Found
+MODSMD_ARTICLE16: Vorbereitung des Führer-Besuches in Italien.
+Found
+MODSMD_ARTICLE17: Staatsjugend in Brasilien?
+Found
+MODSMD_ARTICLE18: Britische Verbindungsstraße Hongkong—Kanton.
+Found
+MODSMD_ARTICLE19: Die japanische Kabelkontrolle in Schanghai.
+Found
+MODSMD_ARTICLE20: Die Urteilsbegründung im BernsteinproZeß.
+Found

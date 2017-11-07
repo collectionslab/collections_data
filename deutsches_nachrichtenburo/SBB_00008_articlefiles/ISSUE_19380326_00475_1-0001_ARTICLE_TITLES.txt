@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Dr. Goebbels in Hamburg.
+Found
+MODSMD_ARTICLE02: Dr. Frick in Magdeburg.
+Found
+MODSMD_ARTICLE03: Jubelfahrt Görings auf der Donau.
+Found
+MODSMD_ARTICLE04: Der Führer spricht am Montag zu den Berlinern.
+Found
+MODSMD_ARTICLE05: Uebertragung der Göring-Rede.
+Found
+MODSMD_ARTICLE06: Funk über den Aufbau der Wirtschast Oesterreichs.
+Found
+MODSMD_ARTICLE07: Flaggenhissung auf der Polizeidirektion Wien.
+Found
+MODSMD_ARTICLE08: Die österreichischen KdF.-Fahrer an Gauleiter Bürckel.
+Found
+MODSMD_ARTICLE09: Churchill nach Paris abgereist. –
+Not Found

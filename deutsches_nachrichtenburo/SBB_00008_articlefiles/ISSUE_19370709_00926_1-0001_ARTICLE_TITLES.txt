@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Dr. Schacht beim Richtfest für den Reichsbankneubau.
+Found
+MODSMD_ARTICLE02: Die dänischen Juristen bei Reichsminister Frank.
+Found
+MODSMD_ARTICLE03: Deutsch-polnisches Abkommen über den Eisenbahnverkehr.
+Found
+MODSMD_ARTICLE04: Drei in Könitz verurteilte Deutsche haftentlassen.
+Found
+MODSMD_ARTICLE05: Tie Warschauer Presse zum Konitzer Prozeß.
+Found
+MODSMD_ARTICLE06: Italien begrüßt die Welles-Rede.
+Found
+MODSMD_ARTICLE07: Der nationale Heeresbericht vom Donnerstag.
+Found
+MODSMD_ARTICLE08: Franco hält Freiwilligen-Zurückziehung für undurchführbar.
+Found
+MODSMD_ARTICLE09: In Erwartung der Sitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE10: Chamberlain spricht in der Alberthall.
+Found
+MODSMD_ARTICLE11: 4V Grad Hitze in New Jork. Bisher 37 Todesfälle.
+Found

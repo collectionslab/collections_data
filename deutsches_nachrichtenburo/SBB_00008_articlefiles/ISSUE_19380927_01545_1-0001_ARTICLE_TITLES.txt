@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Gauleiter Krebs zum Ministerialrat ernannt.
+Found
+MODSMD_ARTICLE02: Deutschlands berufliche Gliederung.
+Found
+MODSMD_ARTICLE03: Die italienischen Eisenbahner von München Abgefahren.
+Found
+MODSMD_ARTICLE04: Die Deutschlandreise französischer Berufsgruppen beendet.
+Found
+MODSMD_ARTICLE05: 72jähriger Greis von den Tschechen ermordet.
+Found
+MODSMD_ARTICLE06: MG Geschosse bis aus den Klingenthaler Markt.
+Found
+MODSMD_ARTICLE07: Fortwährende Beschießung reichsdeutschen Gebiets.
+Found
+MODSMD_ARTICLE08: Plünderung der entvölkerten Orte.
+Found
+MODSMD_ARTICLE09: Der tschechische Schrecken in Setzdorf.
+Found
+MODSMD_ARTICLE10: Warnsdorf unter der Tschechengeißel.
+Found
+MODSMD_ARTICLE11: Opfer des tschechischen Hasses in Neiße beigesetzt.
+Found
+MODSMD_ARTICLE13: Bestattungsfeier für gemordete Sudetendeutsche.
+Found
+MODSMD_ARTICLE14: Die Tschechen sperren polnischen Lehrern das Gehali.
+Found
+MODSMD_ARTICLE15: Stimmt das?
+Found
+MODSMD_ARTICLE16: Moskau schickt „Spezialisten für Massenterror".
+Found
+MODSMD_ARTICLE17: Keine Notierungen der Tfchechenkrone in Warschau.
+Found
+MODSMD_ARTICLE18: Chamberlain, Halifax und Hoare berieten.
+Found
+MODSMD_ARTICLE19: Daladier berichtete dem Ministerrat.
+Found
+MODSMD_ARTICLE20: Senatsausschuß für Auswärtiges zum Freitag einberufen.
+Found
+MODSMD_ARTICLE21: Paris spart Papier.
+Found
+MODSMD_ARTICLE22: Empfang der HJ.-Abordnung in Tokio.
+Found

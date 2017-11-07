@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Der Führer in Königsberg.
+Found
+MODSMD_ARTICLE02: Göring im Fliegerhorst Wels und in Linz.
+Found
+MODSMD_ARTICLE03: 2. Verordnung zur Volksabstimmung und Reichstagswahl.
+Found
+MODSMD_ARTICLE04: Die neue Regierung in Kowno.
+Found
+MODSMD_ARTICLE05: Die ungarische Presse zur Erklärung vojn Kanyas.
+Found
+MODSMD_ARTICLE06: Das Echo der Rede Chamberlains.
+Found

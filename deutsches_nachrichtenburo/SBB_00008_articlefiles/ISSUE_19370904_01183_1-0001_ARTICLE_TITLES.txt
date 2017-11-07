@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Mussolini besucht den Führer und Reichskanzler. Ein Ereignis von überragender Bedeutung.
+Found
+MODSMD_ARTICLE02: König Boris ehrt Göring.
+Found
+MODSMD_ARTICLE03: Die Mitglieder des Landeskirchenausschusses abberufen.
+Found
+MODSMD_ARTICLE04: Der polnische Vizeverkehrsminister besucht Bremen.
+Found
+MODSMD_ARTICLE05: Der schwedische Landwirtschaftsminister kommt nach Berlin.
+Found
+MODSMD_ARTICLE06: Das Befinden der in Schanghai verletzten Deutschen.
+Found
+MODSMD_ARTICLE07: Tie Nationalen fordern Uebergabe Asturiens und Gijons.
+Found
+MODSMD_ARTICLE08: Die bolschewistischen „Weltbeglücker" richten ein Blutbad an.
+Found
+MODSMD_ARTICLE09: Die Täuschungsmanöver der Sowjets.
+Found
+MODSMD_ARTICLE10: „Mittelmeerkonferenz ein neues antifaschistisches Manöver".
+Found
+MODSMD_ARTICLE11: Prinzregent Paul empfängt Nachrichtenagentur-Vertreter.
+Found
+MODSMD_ARTICLE12: Estlands Außenminister besucht Warschau.
+Found
+MODSMD_ARTICLE13: Estlands neue Verfassung.
+Found
+MODSMD_ARTICLE14: Die Milch in Frankreich wird teurer.
+Found
+MODSMD_ARTICLE15: Geheimnisvolles bolschewistisches U-Boot gesichtet.
+Found
+MODSMD_ARTICLE16: Nach dem Taifun: Erschütternde Szenen in Hongkong.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Internationale Automobil- und Motorradausstellung.
+Found
+MODSMD_ARTICLE02: Der Führer besichtigt die Ausstellung.
+Found
+MODSMD_ARTICLE03: Die Ehrengäste.
+Found
+MODSMD_ARTICLE04: Gesetz zur Verhinderung der Teilnahme am spanischen Bürgerkrieg.
+Found
+MODSMD_ARTICLE05: Das deutsche Freiwilligen-Verbot ab 21. Februar in Kraft«
+Found
+MODSMD_ARTICLE06: „Adolf Hitler ein aufrichtiger Freund Europas".
+Found
+MODSMD_ARTICLE07: Handgranatenanschlag auf Vizekönig Graziani.
+Found
+MODSMD_ARTICLE08: Dr. Bittner Ehrendoktor der Berliner Universität.
+Found
+MODSMD_ARTICLE09: Erneute bolschewistische Angriffe abgewiesen.
+Found
+MODSMD_ARTICLE10: Neue Streikwelle in Amerika.
+Found
+MODSMD_ARTICLE11: Tschiangkaischek stellt deutsche Jugend als Vorbild ihn.
+Found

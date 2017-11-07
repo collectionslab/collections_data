@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der ungarische Innenminister in Berlin.
+Found
+MODSMD_ARTICLE02: Deutsch-österreichische Wirtschaftsbesprechungen.
+Found
+MODSMD_ARTICLE03: Der erste deutsch-ungarische Gemeinschaftsfilm.
+Found
+MODSMD_ARTICLE04: Konferenz der „Baltischen Entente" eröffnet.
+Found
+MODSMD_ARTICLE05: Italien erhofft baldiges Mittelmeerabkommen.
+Found
+MODSMD_ARTICLE06: Die Besetzung des Restgebietes von Aethiopien.
+Found
+MODSMD_ARTICLE07: Zum Kampf gegen den Bolschewismus aufgerufen.
+Found
+MODSMD_ARTICLE08: Rüstungsaussprache im englischen Unterhaus.
+Found
+MODSMD_ARTICLE09: Sowjetschiffe von nationalen Kriegsschiffen angehalten.
+Found
+MODSMD_ARTICLE10: Kommunistenverhaftungen in Jugoslawien.
+Found
+MODSMD_ARTICLE11: Das Treiben der Werber für Spaniens Bolschewisten.
+Found
+MODSMD_ARTICLE12: Umtriebe gegen die französische Armee.
+Found
+MODSMD_ARTICLE13: Bisher 42 Tote in Porto de Moz.
+Found
+MODSMD_ARTICLE14: Amerikanischer Jndustrie-Mobilmachnngsplan.
+Found
+MODSMD_ARTICLE15: Ueberliiufer auf dem Suiyan-Kriegsschauplah.
+Found
+MODSMD_ARTICLE16: Jüdische Rassenschänder.
+Found

@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Die deutsch-evangelischen Gemeinden Ost-Oberschlesiens.
+Found
+MODSMD_ARTICLE02: Beileid Botschafter von Hassels zum Tode Marconis.
+Found
+MODSMD_ARTICLE03: Die Hintergründe! des Anschlags geg»en Oberst Koc.
+Found
+MODSMD_ARTICLE04: Neuer Schlag gegen den Kommunismus in Polen.
+Found
+MODSMD_ARTICLE05: Die Besprechungen Hodschas abgeschlossen.
+Found
+MODSMD_ARTICLE06: Neue Demonstrationen in Belgrad.
+Found
+MODSMD_ARTICLE07: Volksfrontregierung beschleunigt Luftrüstung.
+Found
+MODSMD_ARTICLE08: Aussprache im Oberhaus über den Palästina-Teilungsplan.
+Not Found
+MODSMD_ARTICLE09: Nationaler Vormarsch im Abschnitt Albarracin.
+Found
+MODSMD_ARTICLE10: Kirche von den Bolschewisten als Stall benutzt.
+Found
+MODSMD_ARTICLE11: Bolschewistische Massenhinrichtungen am lausenden Band.
+Found
+MODSMD_ARTICLE12: Ausnahmezustand für Japaner in Schanghai.
+Found
+MODSMD_ARTICLE13: Chinesisch-japanische Beilegungsbemühungen.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Vizeadmiral von Bodenhausen 90 Jahre.
+Found
+MODSMD_ARTICLE02: Japanische Jugenddelegation bei der Reichsjugendführung.
+Found
+MODSMD_ARTICLE03: Der Stellvertreter des Führers bei Ulrich Graf.
+Found
+MODSMD_ARTICLE04: Die Entstehung der jüdischen Rasse.
+Found
+MODSMD_ARTICLE05: Neuer Prozeß gegen den jüdischen Schieber Bösel.
+Found
+MODSMD_ARTICLE07: Die deutsche Frontkämpferabordnung am Sarge Pilsudskis.
+Found
+MODSMD_ARTICLE08: „Metropole" über den Besuch Heymans in Berlin.
+Found
+MODSMD_ARTICLE09: Nochmals Chamberlain Zur englischen Selbstversorgung.
+Found
+MODSMD_ARTICLE10: Englisch-indische Handelsverhandlungen in Frage gestellt.
+Found
+MODSMD_ARTICLE11: 35 Millionen Gasmasken für Englands Bevölkerung.
+Found
+MODSMD_ARTICLE12: Der Gasschutz der Pariser Bevölkerung im Ausbau.
+Found
+MODSMD_ARTICLE13: Unerhörter Erlaß einer tschechischen Bezirksbehörde.
+Found
+MODSMD_ARTICLE14: Langsame Einsicht.
+Found
+MODSMD_ARTICLE15: Verschärfung des Urteils gegen Szalasi.
+Found
+MODSMD_ARTICLE16: Metaxas verkündet neue soziale Maßnahmen.
+Found
+MODSMD_ARTICLE17: Bombenanschlag auf Polizeistation in Haifa.
+Found
+MODSMD_ARTICLE18: Verdoppelung der ägyptischen Heeresstärke.
+Found
+MODSMD_ARTICLE19: Riesige Waffenbestände in die Hände der Japaner gefallen.
+Found
+MODSMD_ARTICLE20: Französischer 600-Millionen-Kredit für die Stadt Guayaquil.
+Found
+MODSMD_ARTICLE21: Bundespräsident Vargas nach Portugal eingeladen.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Ausklang der Jubelfeier des Gaues Berlin.
+Found
+MODSMD_ARTICLE02: Alfred Rosenberg bei der Braunschweiger HJ.
+Found
+MODSMD_ARTICLE03: Beisetzung von Geheimrat Himmler.
+Found
+MODSMD_ARTICLE04: Ersatzfeuerschiff fiir „Elbe I" ausgelegt.
+Found
+MODSMD_ARTICLE05: Gauleiter Bohle von Mailand abgereift.
+Found
+MODSMD_ARTICLE06: Pg. Ettel Laudesgruppenleiter in Italien.
+Found
+MODSMD_ARTICLE07: Weihe des neuen „Deutschen Heims" im Haag.
+Found
+MODSMD_ARTICLE08: Der Landeshauptmann von Kärnten zurückgetreten.
+Found
+MODSMD_ARTICLE09: Könia Carol aus der Tschechoslowakei abgereist.
+Found
+MODSMD_ARTICLE10: Blum ist optimistisch.
+Found
+MODSMD_ARTICLE11: Paris zur Rede des Duce.
+Found
+MODSMD_ARTICLE12: Politische Zusammenstöße in Nizza.
+Found
+MODSMD_ARTICLE13: Große Hochwasserkatastrophe in Rumänien.
+Found
+MODSMD_ARTICLE14: Die Brände in britischen Flughäfen und MunitiiWssabrtkrF
+Found
+MODSMD_ARTICLE15: Spanische Nationalregierung regelt Postverkehr.
+Found
+MODSMD_ARTICLE16: Baskische Separatisten gegen Sowjetrußland.
+Found
+MODSMD_ARTICLE17: Bezeichnender Aufruf in Madrid.
+Found
+MODSMD_ARTICLE18: Flugplatz Getafe völlig zerstört.
+Found
+MODSMD_ARTICLE19: Die mißglückte rote Gegenoffensive.
+Found
+MODSMD_ARTICLE20: Vorbereitungen für den Angriff auf Madrid.
+Found

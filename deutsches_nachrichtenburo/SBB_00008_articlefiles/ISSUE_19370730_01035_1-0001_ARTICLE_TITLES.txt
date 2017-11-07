@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die ostoberschlesischen Gesetzentwürfe vor dem Senat.
+Found
+MODSMD_ARTICLE02: Eine neue Provokation des Krakauer Erzbischofs.
+Found
+MODSMD_ARTICLE03: Abschaffung von Kapitulationsrechten.
+Found
+MODSMD_ARTICLE04: Gegen die „Irische Republikanische Armee".
+Found
+MODSMD_ARTICLE05: Britische Weltreichsfragen vor dem Unterhaus.
+Found
+MODSMD_ARTICLE06: Unterredung des Sowjetbotschafters mit Chamberlain.
+Found
+MODSMD_ARTICLE07: Justizreformvorlage vor dem amerikanischen Senat.
+Found
+MODSMD_ARTICLE08: Der Jude Laguardia im Bunde mit den Kommunisten.
+Found
+MODSMD_ARTICLE09: Die Unruhen auf Trinidad und Barbados.
+Found
+MODSMD_ARTICLE10: Protest wegen der Beschießung Tientsins.
+Found
+MODSMD_ARTICLE11: Japan rechnet mit Ausbreitung der Autonomiebestrebungen.
+Found
+MODSMD_ARTICLE12: Fürst Konoe über die erhöhte Aktivität der Komintern.
+Found

@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Deutsche Auslandsvertreter beim Führer.
+Found
+MODSMD_ARTICLE02: Der Führer und Dr. Goebbels empfingen Prof. Manacorda.
+Found
+MODSMD_ARTICLE03: Des Führers Dank für das Treuegelöbnis Bayerns.
+Found
+MODSMD_ARTICLE04: Staatssekretär Pfundtner spricht zum KV. Geburtstag Fricks.
+Found
+MODSMD_ARTICLE05: Aenderungen in der Verwaltung.
+Found
+MODSMD_ARTICLE06: Anlagebedarf veranlaßt Reichsanleiheerhöhung.
+Found
+MODSMD_ARTICLE07: S,LZ. Hindenburg" vor der Ausreise.
+Found
+MODSMD_ARTICLE08: Botschafter von Ribbentrop wieder in London.
+Found
+MODSMD_ARTICLE09: Gerüchte um die Auslandsreise Lozoraitis?.
+Found
+MODSMD_ARTICLE10: Das Buch Sebas wird zurückgezogen.
+Found
+MODSMD_ARTICLE11: Bundesrat Baumann gegen Komintern-Sektion.
+Found
+MODSMD_ARTICLE12: Schweizerische Erkenntnisse: Sankiionspolitik war verfehlt:
+Found
+MODSMD_ARTICLE13: Graf Dino Grandi.
+Found
+MODSMD_ARTICLE14: Verlängerung der Dienstpflicht in Holland.
+Found
+MODSMD_ARTICLE15: Landesverteidigungsanleihe auch vom Senat angenommen.
+Found
+MODSMD_ARTICLE16: Flugzeugangriff auf französischen Dampfer.
+Found
+MODSMD_ARTICLE17: Der nationale Vormarsch geht weiter.
+Found
+MODSMD_ARTICLE18: Große Verluste der Roten durch Mineuexplosionen.
+Found
+MODSMD_ARTICLE19: Auch die Türkei unterstützt die Nichteinmischung.
+Found

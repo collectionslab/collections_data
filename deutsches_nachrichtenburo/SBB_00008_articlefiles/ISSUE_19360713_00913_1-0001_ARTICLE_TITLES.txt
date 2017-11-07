@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Dr. Goebbels vor dem Arbeitslager des Rundfunk- und Kulturamtes der Reichsjugendführung.
+Found
+MODSMD_ARTICLE02: Verwundetenabzeichen auch an weitere Kreise.
+Found
+MODSMD_ARTICLE03: Ausstellung „Die deutschen Leibesübungen des Mittelalters."
+Found
+MODSMD_ARTICLE04: Erlast eines Staatsschutzgesetzes in Oesterreich.
+Found
+MODSMD_ARTICLE05: Kundgebung der Sudetendeutschen schroff unterbrochen.
+Found
+MODSMD_ARTICLE06: Schärferes Vorgehen gegen die Streikenden in Frankreich.
+Found
+MODSMD_ARTICLE07: Politische Empfänge bei Außenminister Delbos.
+Found
+MODSMD_ARTICLE08: Was wird aus der Brüsseler Locarno-Konserenz?
+Found
+MODSMD_ARTICLE09: Englands Lebensfrage eine starke Flotte.
+Found
+MODSMD_ARTICLE10: Englisch-italienisches Clearingamt.
+Found
+MODSMD_ARTICLE11: Christliche Gewerkschaften Belgiens gegen Volksfront.
+Found
+MODSMD_ARTICLE12: Flämischer Nationalverband gegen Einflüsse Frankreichs.
+Found
+MODSMD_ARTICLE13: Eine neue Flugdivision in Turin.
+Found
+MODSMD_ARTICLE14: Die Sühne für den Februaraufstand in Tokio.
+Found

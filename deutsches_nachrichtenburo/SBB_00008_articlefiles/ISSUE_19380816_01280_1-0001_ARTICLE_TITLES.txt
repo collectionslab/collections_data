@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: General Vuillemin in Staaken gelandet.
+Found
+MODSMD_ARTICLE02: Empfang für die Delegierten des Gartenbaukongrefses.
+Found
+MODSMD_ARTICLE03: Glückwünsche Görinas zur 65jährigen Ehejubelfeier.
+Found
+MODSMD_ARTICLE04: Internationale Gartenplanschau in Essen.
+Found
+MODSMD_ARTICLE05: Arbeiten Zur Sicherung der Helgoländer Düne.
+Found
+MODSMD_ARTICLE06: Reichsärzteführer Dr. Wagner 56 Jahre.
+Found
+MODSMD_ARTICLE07: Der Krästeverfall Hlinkas schreitet fort.
+Found
+MODSMD_ARTICLE08: Der Jahrestag der Schlacht bei Warschau.
+Found
+MODSMD_ARTICLE09: Beginn der St. Stephans-Woche in Ungarn.
+Found
+MODSMD_ARTICLE10: Tr> Matschet hat Belgrad wieder verlassen.
+Found
+MODSMD_ARTICLE11: Visumzwang an der französisch-italienischen Grenze in Kraft.
+Found
+MODSMD_ARTICLE12: Der Domimemuinister besucht Kanada.
+Found
+MODSMD_ARTICLE13: Stalin will neue Opfer.
+Found
+MODSMD_ARTICLE14: Zwei Todesurteile in Palästina vollstreckt.
+Found
+MODSMD_ARTICLE15: Sowzctrnssischer Protest von Japan Mrückgewiesen.
+Found
+MODSMD_ARTICLE16: Japanische Beschlüsse zum China-Konflikt.
+Found
+MODSMD_ARTICLE17: Neue Luftangriffe auf die Wuhajn-Städte.
+Found
+MODSMD_ARTICLE18: 26 Arbeiter von mexikanischen Rebellen getötet.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer in Frankfurt.
+Found
+MODSMD_ARTICLE02: Der Führer spricht am Freitag in Stuttgart.
+Found
+MODSMD_ARTICLE03: Handschreiben des Führers an Generaloberst Fritsch.
+Found
+MODSMD_ARTICLE04: Glückwunsch des Führers.
+Found
+MODSMD_ARTICLE05: NSV. auch am Wahltag M der Spitze.
+Found
+MODSMD_ARTICLE06: Wiener Jugoslawische Gesandtschaft wird Generalkonsulat.
+Found
+MODSMD_ARTICLE07: Der Stabschef am Grabe der Eltern des Führers.
+Found
+MODSMD_ARTICLE08: Göring in Mautcrndvrs.
+Found
+MODSMD_ARTICLE09: „Frohe Heimkehr aus dem Wunderland des Schaffens".
+Found
+MODSMD_ARTICLE10: Die erste Abstimmung: 199 „Ka>" Stimmen?
+Found
+MODSMD_ARTICLE11: Sudetendeutsche Erklärung.
+Found
+MODSMD_ARTICLE12: Versammluugsverbot in der Tschechoslowakei!
+Not Found
+MODSMD_ARTICLE13: Französisches Durchmarschrecht durch Belgien?
+Found
+MODSMD_ARTICLE14: Neuer Sendling Sowjetspaniens in Paris.
+Found

@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Voller Erfolg der Reichsanleihe.
+Found
+MODSMD_ARTICLE02: Eingliederung der sudetendeutschen Soldatenverbände.
+Found
+MODSMD_ARTICLE03: Niekisch Zu lebenslänglichem Zuchthaus verurteilt.
+Found
+MODSMD_ARTICLE04: Die tschecho-slowakische Antwortnote an Ungarn.
+Found
+MODSMD_ARTICLE05: Säuberung des ungarischen Wirtschaftslebens.
+Found
+MODSMD_ARTICLE06: „Tribuna" stellt Frankreichs LeistungsverZug fest.
+Found
+MODSMD_ARTICLE07: Chamberlain und Halifax in Paris.
+Found
+MODSMD_ARTICLE08: Die neue Sitzungsperiode der französischen Kammer.
+Found
+MODSMD_ARTICLE09: Blums Anmaßungen im Senat verurteilt.
+Found
+MODSMD_ARTICLE10: Abraham Grünspan hatte kein Glück.
+Found
+MODSMD_ARTICLE11: Freiwild in ihrem eigenen Lande.
+Found
+MODSMD_ARTICLE12: „Man verbrennt den Weizen, den wir essen wollen".
+Found
+MODSMD_ARTICLE13: Jüdischer Einreiseschmuggel nach Belgien.
+Found
+MODSMD_ARTICLE14: Mandschurische Wirtschaftsmission bei Botschafter Ott.
+Found
+MODSMD_ARTICLE15: Gegen die finanzielle Versklavung Chinas.
+Found
+MODSMD_ARTICLE16: Steigende Erbitterung gegen die Juden in Südafrika.
+Found
+MODSMD_ARTICLE17: Arado 79 in Sumatra.
+Found

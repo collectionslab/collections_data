@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Warschauer Lügenzentrale über Danzig.
+Found
+MODSMD_ARTICLE02: Warschauer Studenten für „neue Demütigung Preußens."
+Found
+MODSMD_ARTICLE03: Deutschfeindliche Ausschreitungen in Tomaszow.
+Found
+MODSMD_ARTICLE04: „Aeußerste Mahnung am Rande des Abgrundes."
+Found
+MODSMD_ARTICLE05: Dunkle Machenschaften der Demokratien in Griechenland.
+Found
+MODSMD_ARTICLE06: Das jugoslawische Prinzregentenpaar in Laibach.
+Found
+MODSMD_ARTICLE07: England und die Madrider Siegesparade.
+Found
+MODSMD_ARTICLE08: England will noch mehr Flugzeugträger bauen.
+Found
+MODSMD_ARTICLE09: Tagung des Kriegsgräberfürsorge-Ausschusses.
+Found
+MODSMD_ARTICLE10: Rotspanische Milizen für Tunis.
+Found
+MODSMD_ARTICLE11: Der Rücktritt der syrischen Regierung vollzogen.
+Found
+MODSMD_ARTICLE12: Kentucky schützt sich mit der Waffe gegen Streikterror.
+Found
+MODSMD_ARTICLE13: Der Gouverneur von Kentucky verhandelt nicht.
+Found
+MODSMD_ARTICLE14: Theorie und Praxis in New Jork.
+Found
+MODSMD_ARTICLE15: Die Synagoge als Spielkasino.
+Found
+MODSMD_ARTICLE16: Furcht um Amerikas Stellung im Pazifik.
+Found
+MODSMD_ARTICLE17: USA.-Luftfahrtmimsterium unter Oberst Lindbergh?
+Found
+MODSMD_ARTICLE18: Juden auch in Australien unerwünscht.
+Found

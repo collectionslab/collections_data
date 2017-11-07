@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Dr. Goebbels an die Leiter der Reichspropagandaämter.
+Found
+MODSMD_ARTICLE02: Tie Intendanten des Rundfunks bei Dr. Goebbels.
+Found
+MODSMD_ARTICLE03: Hacha über die tschechisch-deutsche Zusammenarbeit.
+Found
+MODSMD_ARTICLE04: Mach erneut Oberbefehlshaber der Hlinka-Garde.
+Found
+MODSMD_ARTICLE05: Die italienische Presse gegen alliierte Spekulationen.
+Found
+MODSMD_ARTICLE06: Schwedische Minensperre im Bottnischen Meerbusen.
+Found
+MODSMD_ARTICLE07: Die Londoner Presse schreit nach Arbeit.
+Found
+MODSMD_ARTICLE08: Britische Saboteure stecken Petroleumquellen in Brand.
+Found
+MODSMD_ARTICLE09: „Doric Star" sollte Fleisch nach England bringen.
+Found
+MODSMD_ARTICLE10: Ghandi straft Chamberlain öffentlich Lügen!
+Found
+MODSMD_ARTICLE11: Auch Spanien behält sich alle Rechte vor.
+Found
+MODSMD_ARTICLE12: Der Zwischenfall in Schanghai.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Der Präsident der Forschungsanstalt der Reichspost.
+Found
+MODSMD_ARTICLE02: Ausdehnung des weiblichen Pflichtjahres.
+Found
+MODSMD_ARTICLE03: Großzügige Förderung des Kleinwohnungsbanes.
+Found
+MODSMD_ARTICLE04: Talndier in Ajaccio eingetroffen.
+Found
+MODSMD_ARTICLE05: Neujahrsempfang beim Staatspräsidenten von Portugal.
+Found
+MODSMD_ARTICLE06: 345 Ungarn aus tschecho-slowakischem Gefängnis entlassen.
+Found
+MODSMD_ARTICLE07: Der Prozeß gegen die GPU-Funktionäre.
+Found
+MODSMD_ARTICLE08: Sie durften 15 Monate nicht sprechen.
+Found
+MODSMD_ARTICLE09: Pöbelhafte Beschimpfungen der peruanischen Regierung.
+Found
+MODSMD_ARTICLE10: Für Neuordnung der amerikanischen Austenpolitik.
+Found
+MODSMD_ARTICLE11: Widerstand gegen die uferlose Aufrüstung in USA.
+Found
+MODSMD_ARTICLE12: „Arado 79" in Slam.
+Found

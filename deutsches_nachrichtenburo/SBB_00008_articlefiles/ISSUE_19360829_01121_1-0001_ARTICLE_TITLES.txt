@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer zur Eröffnung der Leipziger Messe.
+Found
+MODSMD_ARTICLE02: Die kommenden Ausgaben der NSV und des WHW.
+Found
+MODSMD_ARTICLE03: Der Krankheitsurlaub des Ministerpräsidenten Gömbös.
+Found
+MODSMD_ARTICLE04: General Rydz-Smigly nach Paris abgereist.
+Found
+MODSMD_ARTICLE05: „Gazeta Polska" zur Reise des Generals Rydz-Smigly.
+Found
+MODSMD_ARTICLE06: Stellungnahme der englischen Arbeiterpartei für Madrid.
+Found
+MODSMD_ARTICLE07: Baldiger Zusammentritt des Nichteinmischungs-Ausschusses?
+Found
+MODSMD_ARTICLE08: Kommunisten in Brussa verhaftet.
+Found
+MODSMD_ARTICLE09: Kommunistische Demonstrationen auf Korsika.
+Found
+MODSMD_ARTICLE10: Queipo de Llano berichtet über weitere Fortschritte.
+Found
+MODSMD_ARTICLE11: Keine wesentliche Veränderung der Lage vor Jrun.
+Found
+MODSMD_ARTICLE12: Erlahmender Widerstand der Roten in Irun.
+Found
+MODSMD_ARTICLE13: Kumpfansage Portugals an den Weltbolschewismus.
+Found
+MODSMD_ARTICLE14: Kommunistische Verschwörung in Argentinien aufgedeckt.
+Found
+MODSMD_ARTICLE15: Der Kaiser von Japan empfängt Hirota.
+Found
+MODSMD_ARTICLE16: Wegen Gotteslästerung und Majestätsbeleidigung verhaftet.
+Found
+MODSMD_ARTICLE17: Japanische Fischdampfer von Sowjetrussen angehalten.
+Found

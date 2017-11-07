@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Morgen-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Neuer Vizepräsident beim Reichsgericht.
+Found
+MODSMD_ARTICLE03: Regierungsbezirk Westpreußen im Reichsgau Danzig.
+Found
+MODSMD_ARTICLE05: Wiedereröffnung des Deutschen Ständetheaters in Prag.
+Found
+MODSMD_ARTICLE06: Teutschlands überragende Wirtschaftskraft.
+Found
+MODSMD_ARTICLE07: Die deutsch-sowjetischen Wirtschaftsverhandlungen.
+Found
+MODSMD_ARTICLE08: Finnische Auslassung zu den Verhandlungen mit Moskau.
+Found
+MODSMD_ARTICLE09: „Giornale tüJtalia" über den „Wechsel der Wache".
+Found
+MODSMD_ARTICLE10: Tie U-Bvote eine böse Ueberraschung für England.
+Found
+MODSMD_ARTICLE11: Neutrale Schiffe unter der britischen Blockadeknute.
+Found
+MODSMD_ARTICLE12: Indien beharrt auf seiner Unabhängigkeitsforderuing.
+Found
+MODSMD_ARTICLE13: Wachsende Indien-Sorgen in London.
+Found
+MODSMD_ARTICLE14: Wieder ein englischer Dampfer versenkt.
+Found
+MODSMD_ARTICLE15: Molotow-Rede in der Türkei totgeschwiegen.
+Found
+MODSMD_ARTICLE16: Neuer türkischer Handelsminister.
+Found
+MODSMD_ARTICLE17: Einigung der Paktstaaten von Saadabad unmöglich.
+Found

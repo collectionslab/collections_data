@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Einstellung von Freiwilligen in die Luftwaffe.
+Found
+MODSMD_ARTICLE02: Empfang bei Botschafter von Papen in Wien.
+Found
+MODSMD_ARTICLE03: Ernennung eines Bundeskommissars für Kulturpropaganda
+Found
+MODSMD_ARTICLE04: Ein brasilianisches Urteil über Deutschland.
+Found
+MODSMD_ARTICLE05: Aussprache in der Kammer.
+Found
+MODSMD_ARTICLE06: Die Pariser Presse zur Kammeraussprache.
+Found
+MODSMD_ARTICLE07: Rumänische Proteste gegen die Sowjetrepublik.
+Found
+MODSMD_ARTICLE08: Dimitross auf dem Wege nach Barcelona.
+Found
+MODSMD_ARTICLE09: Fast völlige Ruhe vor Madrid.
+Found
+MODSMD_ARTICLE10: Der abgeschlagene Kampfwagenangrifs bei Pozuelo.
+Found
+MODSMD_ARTICLE11: Chinesischer Protest in Tokio.
+Found
+MODSMD_ARTICLE12: Die japanisch-chinesischen Verhandlungen abgebrochen?
+Found

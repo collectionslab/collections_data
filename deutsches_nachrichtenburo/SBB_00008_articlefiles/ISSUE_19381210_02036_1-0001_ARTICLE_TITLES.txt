@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: „Wir bauen für die Zukunft."
+Found
+MODSMD_ARTICLE02: Der Dank des Reichsinnenministers.
+Found
+MODSMD_ARTICLE03: Eröffnung der Deutsch-Polnischen Gesellschaft.
+Found
+MODSMD_ARTICLE04: Abänderung des Ermächtigungsgesetzes.
+Found
+MODSMD_ARTICLE05: Marovka an die Tschecho-Slowakei zurückgegeben.
+Found
+MODSMD_ARTICLE06: Säuberung Deutscher Künstlervereinigungen von Juden.
+Found
+MODSMD_ARTICLE07: K 999 Jungkommunisten in die Kerker geworfen.
+Found
+MODSMD_ARTICLE08: Moskau weist nichts vom Skoblin-Prozest.
+Found
+MODSMD_ARTICLE09: Bottai besucht die Deutsche Akademie in Rom.
+Found
+MODSMD_ARTICLE10: Deutscher Marimbesnch in Kopenhagen.
+Found
+MODSMD_ARTICLE11: Der holländische Sozialminister straft die Hetzer Lügen.
+Found
+MODSMD_ARTICLE12: Die Araber zweifeln an der Loyalität der Engländer.
+Found
+MODSMD_ARTICLE13: Wachsende Judengegnerschaft in den Vereinigten Staaten.
+Found

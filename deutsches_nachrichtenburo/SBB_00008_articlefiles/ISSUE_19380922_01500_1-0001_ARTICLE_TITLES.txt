@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer m Godesberg.
+Found
+MODSMD_ARTICLE02: Chamberlain unterwegs.
+Found
+MODSMD_ARTICLE03: Hitler-Fahnen über dem EgerlandZ
+Found
+MODSMD_ARTICLE04: Sudeteudeutscher auf Reichsgebiet angeschossen.
+Found
+MODSMD_ARTICLE05: In der Tscheche: ist der Teufel los.
+Found
+MODSMD_ARTICLE06: Sie lügen weiter.
+Found
+MODSMD_ARTICLE07: Auch Schwaderbach soll vernichtet wMen.
+Found
+MODSMD_ARTICLE08: Tschechen sprengen Brücken.
+Found
+MODSMD_ARTICLE09: Tschechische Militärmaßnahmen bei Seidenberg.
+Found
+MODSMD_ARTICLE10: Sudetendeutscher Soldat Zu Tode geprügelt.
+Found
+MODSMD_ARTICLE11: Feige Morde und Ueberfälle auf Sudeteudeutsche.
+Found
+MODSMD_ARTICLE12: Jnnerböhmen fürchtet kommunistische Raubzüge.
+Found
+MODSMD_ARTICLE13: Flüchtlingsansturm au den Grenzen der Karpathenukraine.
+Found
+MODSMD_ARTICLE14: Moskau schickt „Geschäftsreisende" nach Prag.
+Found
+MODSMD_ARTICLE15: Neuer ungarischer Minister für Handel und Verkehr.
+Found

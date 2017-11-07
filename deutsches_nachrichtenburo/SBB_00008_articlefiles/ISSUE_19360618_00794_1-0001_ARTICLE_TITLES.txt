@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ungarische Auszeichnung für Dr. Schacht.
+Found
+MODSMD_ARTICLE02: Die Bedeutung Deutschlands für die ungarische Wirtschaft.
+Found
+MODSMD_ARTICLE03: Eden vor dem Unterhaus.
+Found
+MODSMD_ARTICLE04: Aus dem französischen Senat.
+Found
+MODSMD_ARTICLE05: Schwere Zusammenstöße in Marseille.
+Found
+MODSMD_ARTICLE06: Auflösung der Kampfbünde in Frankreich beschlossen.
+Found
+MODSMD_ARTICLE07: Neuer Streik in den elsässischen Kaligruben.
+Found
+MODSMD_ARTICLE08: Von der Internationalen Arbeitskonferenz.
+Found
+MODSMD_ARTICLE09: Die italienisch-albanische Zusammenarbeit.
+Found
+MODSMD_ARTICLE10: Neue Streiks in Spanien.
+Found

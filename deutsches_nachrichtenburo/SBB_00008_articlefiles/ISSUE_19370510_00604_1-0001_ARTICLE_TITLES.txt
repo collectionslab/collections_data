@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer beglückwünscht den König von Rumänien.
+Found
+MODSMD_ARTICLE02: Weitere Beileidskundgebungen an den Führer.
+Found
+MODSMD_ARTICLE03: Weitere Beileidsbezeugungen.
+Found
+MODSMD_ARTICLE04: Das Beileid des französischen Luftsahrtministers.
+Found
+MODSMD_ARTICLE05: Botschafter Luther über das Zeppelin-Unglück.
+Found
+MODSMD_ARTICLE06: Boetticher bei amerikanischer Untersuchungskommission.
+Found
+MODSMD_ARTICLE07: Die Gemeinde im Aufbau des Dritten Reiches.
+Found
+MODSMD_ARTICLE08: Methoden jüdischer Greuelhetze.
+Found
+MODSMD_ARTICLE09: Polens Justizminister bei Reichsjustizminister Dr. Giirtner.
+Found
+MODSMD_ARTICLE10: Deutsche Panzerschiffe in spanische Gewässer ausgelaufen.
+Found
+MODSMD_ARTICLE11: Der nationale Heeresbericht vom Sonntag.
+Found

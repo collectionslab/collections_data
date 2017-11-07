@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Personalveränderungen im Heer.
+Found
+MODSMD_ARTICLE02: Personalveränderungen in der Luftwaffe.
+Found
+MODSMD_ARTICLE03: Empfang zu Ehren von Minister Oksala.
+Found
+MODSMD_ARTICLE04: Tie ersten WHW.-Sammelergebnisse.
+Found
+MODSMD_ARTICLE05: Der ungarische Militärattachs Hardy Oberst.
+Found
+MODSMD_ARTICLE06: Himmler in Karlsbad.
+Found
+MODSMD_ARTICLE07: Hlinka-Garde auf die autonome Slowakei vereidigt.
+Found
+MODSMD_ARTICLE08: Deutschlands Beileid zur Brandkatastrophe in Marseille.
+Found
+MODSMD_ARTICLE09: Rom: „Liquidierung der Vergangenheit".
+Found
+MODSMD_ARTICLE10: Die Neubesetzung im englischen Kabinett.
+Found
+MODSMD_ARTICLE11: Zustimmung in Belgien zur Anerkennung Francos»
+Found
+MODSMD_ARTICLE12: Marxismus verstärkt Hilfsaktion Zugunsten Rotspamens.
+Found
+MODSMD_ARTICLE13: Eine neue Terrorwelle in Rotspanien.
+Found
+MODSMD_ARTICLE14: Komsomol Bonzen klagen sich „schwerer Verschlungen" an.
+Found
+MODSMD_ARTICLE15: Adolf Friedrich von Mecklenburg in Buenos Aires.
+Found

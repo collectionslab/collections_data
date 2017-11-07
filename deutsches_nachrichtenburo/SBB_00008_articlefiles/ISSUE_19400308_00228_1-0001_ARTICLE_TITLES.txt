@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Schell Unterstaatssekretär im Reichsverkehrsministerium.
+Found
+MODSMD_ARTICLE02: Studium ist Kriegsdienst.
+Found
+MODSMD_ARTICLE03: Immer noch spanische „Regierungen" in Frankreich.
+Found
+MODSMD_ARTICLE04: Der polnische Terror gegen die Ukrainer.
+Found
+MODSMD_ARTICLE05: Thronrede König Karls.
+Found
+MODSMD_ARTICLE06: Prekäre wirtschaftliche Lage in Britisch-Westafrika.
+Found
+MODSMD_ARTICLE07: Englische Fälschung aus Furcht vor dem Weliurteil.
+Found
+MODSMD_ARTICLE08: 11 Handelsschiffe versenkt oder schwer getroffen.
+Found
+MODSMD_ARTICLE09: Bezeichnende Anregung des „Daily Mail".
+Found
+MODSMD_ARTICLE10: Rücktritt argentinischer Minister.
+Found
+MODSMD_ARTICLE11: „Der italienische Protest auch ijn Japans Interesse."
+Found

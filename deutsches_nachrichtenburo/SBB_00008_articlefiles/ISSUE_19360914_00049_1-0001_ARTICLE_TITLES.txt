@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Parteitag der Ehre.
+Found
+MODSMD_ARTICLE02: Schwarz auf der Tagung für Finanzwesen nnd Verwaltung.
+Not Found
+MODSMD_ARTICLE03: Die letzten Sondertagungen. Dr. Goebbels vor den Propagandisten der Bewegung,
+Found
+MODSMD_ARTICLE04: Pariser Blätter zum Reichsparteitag.
+Found

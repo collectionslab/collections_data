@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Dr. Noebel zum Gesandten in Lima ernannt.
+Found
+MODSMD_ARTICLE02: Gauleiter Bohle vor dem Führerkorps der AO.
+Found
+MODSMD_ARTICLE03: Staatssekretär Milch und General Stumpfs in Schweden.
+Found
+MODSMD_ARTICLE04: Reichsverweser von Horthy wieder in Budapest.
+Found
+MODSMD_ARTICLE05: Staatssekretär Dr. Antal wieder in Budapest.
+Found
+MODSMD_ARTICLE06: „Lavoro Fascista" über Englands Haltung gegenüber Prag.
+Found
+MODSMD_ARTICLE07: Runcimans Sekretariat über die Unterredung mit Henlein.
+Found
+MODSMD_ARTICLE08: Amtliche Mitteilung über die Besprechungen Chamberlains.
+Found
+MODSMD_ARTICLE09: Frankreich als Wortführer der britischen Politik.
+Found
+MODSMD_ARTICLE10: Der französische Kabinettsrat tagte.
+Found
+MODSMD_ARTICLE11: Der sowjetspanische Vertreter bei Bannet.
+Found
+MODSMD_ARTICLE12: Mergenthau über seine Befreiungen in Europa.
+Found
+MODSMD_ARTICLE13: Das Regierungsjubiläum der Königin der Niederlande.
+Found
+MODSMD_ARTICLE14: 49. Konferenz des International Law Association.
+Found
+MODSMD_ARTICLE15: Das Königsjubiläum Achmed Zogus I. –
+Not Found
+MODSMD_ARTICLE16: Die Häusersprmgungen in Palästina werden fortgesetzt.
+Found
+MODSMD_ARTICLE17: Feuergefecht zwischen Arabern! und Juden.
+Found
+MODSMD_ARTICLE18: Juden überfallen arabische Kaffeehausbesucher.
+Found
+MODSMD_ARTICLE19: Dynamittransport von der Polizei beschlagnahmt.
+Found
+MODSMD_ARTICLE20: Ostasiatischer Kulturrat gegründet.
+Found

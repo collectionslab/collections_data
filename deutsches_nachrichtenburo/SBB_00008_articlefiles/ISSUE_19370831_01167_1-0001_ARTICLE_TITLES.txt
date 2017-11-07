@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Der Glückwunsch des Führers an Dr. Dietrich.
+Found
+MODSMD_ARTICLE02: Nürnbergs Oberbürgermeister Liebe! 49 Jahre alt.
+Found
+MODSMD_ARTICLE03: Das Programm des Reichsparteitages.
+Found

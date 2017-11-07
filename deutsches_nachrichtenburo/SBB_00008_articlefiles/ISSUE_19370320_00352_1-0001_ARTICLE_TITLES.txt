@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der Führer im „Deutschen Theater".
+Found
+MODSMD_ARTICLE02: Neuer deutscher Gesandter in Havanna.
+Found
+MODSMD_ARTICLE03: Generaloberst Graf von Bothmer gestorben.
+Found
+MODSMD_ARTICLE04: Reichstagung des Amtes „Schönheit der Arbeit".
+Found
+MODSMD_ARTICLE05: Die marxistische Erpressung an Sudetendeutschen mißlungen.
+Found
+MODSMD_ARTICLE06: „Tribuna" zur Deutschlandseindlichkeit tschechischer Presse.
+Found
+MODSMD_ARTICLE07: Jüdischer Trick an den ungarischen Hochschulen.
+Found
+MODSMD_ARTICLE08: Außenminister Delbos empfängt Botschafter Cerruti.
+Found
+MODSMD_ARTICLE09: Blum vor den Linksabordnungen.
+Found
+MODSMD_ARTICLE10: Immer neue kommunistische Uebergriffe in Frankreich.
+Found
+MODSMD_ARTICLE11: 525 Tote und 125 Verletzte in New London.
+Found
+MODSMD_ARTICLE12: Der nationale Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE13: Grandi vertritt Italien bei den Krönungsfeierlichkeiten.
+Found
+MODSMD_ARTICLE14: Kombinationen um den Besuch König Leopolds in London.
+Found
+MODSMD_ARTICLE15: Londoner Lordmayor gegen Sensationslust der Presse.
+Found
+MODSMD_ARTICLE16: Neue Unruhen an der El Assar-Universität in Kairo.
+Found
+MODSMD_ARTICLE17: Warnung der ägyptischen Regierung an die Studenten.
+Found
+MODSMD_ARTICLE18: Rückkehr des Oberkommissars nach Palästina.
+Found
+MODSMD_ARTICLE19: Erweiterte Vollmachten für Oberkommissar für Palästina.
+Found
+MODSMD_ARTICLE20: Ein panarabischer Bündnisvertrag.
+Found

@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Höchstgeschwindigkeit für Kraftfahrzeuge neu geregelt.
+Found
+MODSMD_ARTICLE02: Lettland zum Nichtangriffspakt mit Deutschland.
+Found
+MODSMD_ARTICLE03: Gegenschlag gegen Englands Einkreisungspolitik.
+Found
+MODSMD_ARTICLE04: Paris Zur Jtalienreise Görings und Ribbentrops.
+Found
+MODSMD_ARTICLE05: Pariser Rätselraten über den Sturz Litwinow-Finkelsteins.
+Found
+MODSMD_ARTICLE06: Gafencu in Belgrad.
+Found
+MODSMD_ARTICLE07: Die Balkanstaaten wollen Frieden.
+Found
+MODSMD_ARTICLE08: Die jugoslawische Presse zum Sturz Litwinow-Finkelsteins.
+Found
+MODSMD_ARTICLE09: Franco besichtigt den Hafen von Valencia.
+Found
+MODSMD_ARTICLE10: Moskaus Presse schweigt sich weiter aus.
+Found
+MODSMD_ARTICLE11: Generaloberst von Brauchitsch in Tripolis.
+Found
+MODSMD_ARTICLE12: Der Oberkommissar Syriens kehrt zurück.
+Found

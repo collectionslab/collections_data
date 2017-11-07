@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Ein Aufruf zum Neichs-Jugendherbergs-Opfertag.
+Found
+MODSMD_ARTICLE02: Bundeskanzler Dr. Schuschnigg an Mussolini und Gömbös.
+Found
+MODSMD_ARTICLE03: Starhemberg reist nach Rom.
+Found
+MODSMD_ARTICLE04: Die Bedeutung der österreichischen Regierungsumbildung.
+Found
+MODSMD_ARTICLE05: England Zur österreichischen Regierungsbildung.
+Found
+MODSMD_ARTICLE06: Die Vernehmung des Kolonialministers Thomas.
+Found
+MODSMD_ARTICLE07: Ruhiger Verlauf des Streiks in Griechenland.
+Found

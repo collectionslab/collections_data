@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Schulkreuzer „Emden" auf Auslandsfahrt.
+Found
+MODSMD_ARTICLE03: „Wer an der Front war, will den Frieden."
+Found
+MODSMD_ARTICLE04: Das Magdeburger Pilsudski-Häuschen in Warschau.
+Found
+MODSMD_ARTICLE05: Polens blutende Grenze am Olsa-Flutz.
+Found
+MODSMD_ARTICLE06: Neuer Protest der polnischen Regierung in Prag.
+Found
+MODSMD_ARTICLE07: Die Ebro-Mündung von Bolschewisten gesäubert.
+Found
+MODSMD_ARTICLE08: Nationalspanische Abwehr ausländischer Greuelhetze.
+Found
+MODSMD_ARTICLE09: Zwölf kommunistische Rädelsführer in Athen verhaftet.
+Found
+MODSMD_ARTICLE10: Aegyptifcher Königsbesuch bei Atatürk?
+Found
+MODSMD_ARTICLE11: Will England in Palästina den Bock zum Gärtner machen?
+Found
+MODSMD_ARTICLE12: Arabische Polizisten in Bethlehem verwundet»
+Found

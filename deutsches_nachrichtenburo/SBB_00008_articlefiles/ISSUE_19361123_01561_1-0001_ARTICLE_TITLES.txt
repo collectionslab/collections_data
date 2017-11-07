@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Teutschland tritt Abkommen über Unterseebootkrieg bei.
+Found
+MODSMD_ARTICLE02: Nibbentrop bei Baldwin.
+Found
+MODSMD_ARTICLE03: Neichsleiter Max Amann 45 Jahre alt.
+Found
+MODSMD_ARTICLE04: Wechsel im Präsidium der Neichskammer der bildenden Künste
+Found
+MODSMD_ARTICLE05: Spanien-Aussprache im Unterhaus.
+Found
+MODSMD_ARTICLE06: Französisches Pressegesetz nach englischem Vorbild.
+Found
+MODSMD_ARTICLE07: Frankreichs kommender Innenminister Marx Dormoy.
+Found
+MODSMD_ARTICLE08: Schweiz und Holland schließen sich Währungsübereinkunft an.
+Found
+MODSMD_ARTICLE09: Polnisches Redeverbot für Senator Wiesner.
+Found
+MODSMD_ARTICLE10: Kolonialkundgebungen in Polen.
+Found
+MODSMD_ARTICLE11: Rumänische Sympathie für das nationale Spanien.
+Found
+MODSMD_ARTICLE12: Beschießung von Madrid wieder aufgenommen.
+Found

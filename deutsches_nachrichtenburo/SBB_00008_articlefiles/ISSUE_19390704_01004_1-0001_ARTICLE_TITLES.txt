@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Goethe-Medaille für Prof. Dr. Schmidt-Frankfurt.
+Found
+MODSMD_ARTICLE02: Auch polnische und ukrainische Rundfunksendungen.
+Found
+MODSMD_ARTICLE03: Zusammenarbeit der Nachrichtentruppen der Achse.
+Found
+MODSMD_ARTICLE04: Deutsch-italienische Gemeinschastskundgebung.
+Found
+MODSMD_ARTICLE05: Eine Verordnung des Neichsprotektors.
+Found
+MODSMD_ARTICLE06: Danziger Verordnung zur Sicherstellung des Kräftebedarfs.
+Found
+MODSMD_ARTICLE07: „Intim dinieren" und einkreisen.
+Found
+MODSMD_ARTICLE08: Ein lakonisches Kommunique.
+Found
+MODSMD_ARTICLE09: Die Tragödie der britischen Kolonie Gambia.
+Found

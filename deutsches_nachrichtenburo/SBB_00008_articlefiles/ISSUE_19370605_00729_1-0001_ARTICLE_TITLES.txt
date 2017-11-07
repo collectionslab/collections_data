@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: 2. Internationale Handwerker-Konferenz in Wien.
+Found
+MODSMD_ARTICLE02: Anerkennung der deutschen Kulturarbeit in Italien.
+Found
+MODSMD_ARTICLE03: Der englische Botschafter bei Graf Ciano.
+Found
+MODSMD_ARTICLE04: Italienische Stimmen zu den englischen Vorschlägen.
+Found
+MODSMD_ARTICLE05: Anerkennung treuer Pflichterfüllung in Sowjetspanien.
+Found
+MODSMD_ARTICLE06: Der Heeresbericht vom Freitag.
+Found
+MODSMD_ARTICLE07: Das neue Sprachenstatut der belgischen Armee.
+Found
+MODSMD_ARTICLE08: Gesetzentwurf über militärische Amnestie angenommen.
+Found
+MODSMD_ARTICLE09: Kammer beseitigt Trinkgelder im Gastwirtsgewerbe.
+Found
+MODSMD_ARTICLE10: Die Baltikumreise des schwedischen Außenministers Sandler.
+Found
+MODSMD_ARTICLE11: Emigranten-„Dank" für Gastfreundschaft.
+Found
+MODSMD_ARTICLE12: Die Weltreichskonferenz Zur Völkerbundsreform.
+Found
+MODSMD_ARTICLE13: Korruption in Indien.
+Found
+MODSMD_ARTICLE14: O-Zug fährt in Arbeiterkolonne: 7 Tote.
+Found

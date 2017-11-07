@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Das Echo der Goebbels-Rede.
+Found
+MODSMD_ARTICLE02: Ter Reichsaustenminister empfing Sano Mach.
+Found
+MODSMD_ARTICLE03: Der bolivianische Gesandte verläßt Berlin.
+Found
+MODSMD_ARTICLE04: Deutsch-italienische Jugendkundgebung.
+Found
+MODSMD_ARTICLE05: Glückwunsch des Führers an Reichsverweser von Horthy.
+Found
+MODSMD_ARTICLE06: Weitere Fortschritte der russischen Offensive.
+Found
+MODSMD_ARTICLE07: „Gemeinsame Rechte Italiens und Spaniens im Mittelmeer."
+Found
+MODSMD_ARTICLE08: Madrid: „Churchill soll zum Doktor gehen!"
+Found
+MODSMD_ARTICLE09: Nordirland ein Elendsgebiet.
+Found

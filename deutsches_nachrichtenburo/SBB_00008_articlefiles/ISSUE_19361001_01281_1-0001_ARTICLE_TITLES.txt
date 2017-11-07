@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der Reichsverkehrsminister beim Brückenbaukongreß.
+Found
+MODSMD_ARTICLE02: Hilgenfeldt über Aufgaben der Wohlfahrtspflege.
+Found
+MODSMD_ARTICLE03: Südosteuropa-Institut an der Universität Leipzig.
+Found
+MODSMD_ARTICLE04: 73 Jahre „Deutsche Allgemeine Zeitung".
+Found
+MODSMD_ARTICLE05: Die Lebenshaltungskosten im September 1930.
+Found
+MODSMD_ARTICLE06: Um das Schicksal des Kabinetts Blum.
+Found
+MODSMD_ARTICLE07: Französische Kammer besteuert Ultimogewinne.
+Found
+MODSMD_ARTICLE08: Streik auf der „Queen Mary".
+Found
+MODSMD_ARTICLE09: Englischer Unteroffizier in Jerusalem erschossen.
+Found
+MODSMD_ARTICLE10: Kommunistischer Präsidentschaftskandidat verhaftet.
+Found

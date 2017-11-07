@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Rudolf Heß spricht im Gau Halle-Merseburg.
+Found
+MODSMD_ARTICLE02: Volksglaube und Erziehung.
+Found
+MODSMD_ARTICLE03: Zur Eröffnung der französischen Kunstausstellung in Berlin.
+Found
+MODSMD_ARTICLE04: Geheimversammlung der Komintern in Amsterdam.
+Found
+MODSMD_ARTICLE05: Internationale HandwerkerZentrale (C. I. A.) gegründet.
+Found
+MODSMD_ARTICLE06: Der nationale Heeresbericht vom Sonnabend.
+Found

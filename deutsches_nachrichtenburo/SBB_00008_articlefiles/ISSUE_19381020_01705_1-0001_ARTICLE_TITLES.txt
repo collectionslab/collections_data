@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Keine Teilnahme Görings an kommenden Veranstaltungen.
+Found
+MODSMD_ARTICLE02: Ministerpräsident Tiso beim Reichsaustenmimster.
+Found
+MODSMD_ARTICLE03: Neichsmimster Graf Schwerin von Krosigk in Graz.
+Found
+MODSMD_ARTICLE04: Reichsmimster Nüst in Nordmähren.
+Found
+MODSMD_ARTICLE05: Dr. Frick ehrte die Blutzeugen von Kaaden.
+Found
+MODSMD_ARTICLE06: Polnische Jngemeurabordnung in Salzburg.
+Found
+MODSMD_ARTICLE07: Abschluß der Grazer Studenteuführertagung.
+Found
+MODSMD_ARTICLE08: Die Reichstagung für Raumforschung.
+Found
+MODSMD_ARTICLE09: Der wirtschaftliche Ausbau der Slowakei.
+Found
+MODSMD_ARTICLE10: Die Slowakei eröffnete das Winterhilfswerk.
+Found
+MODSMD_ARTICLE11: Oberst Beck m Rumänien.
+Found

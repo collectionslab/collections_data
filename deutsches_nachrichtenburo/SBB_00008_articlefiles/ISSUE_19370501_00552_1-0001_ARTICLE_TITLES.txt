@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Der Feiertag des Deutschen Volkes.
+Found
+MODSMD_ARTICLE02: Nede des Reichszugendführers.
+Found
+MODSMD_ARTICLE03: Der Führer ist da!
+Found
+MODSMD_ARTICLE04: Der Aufmarsch der Millionen.
+Found

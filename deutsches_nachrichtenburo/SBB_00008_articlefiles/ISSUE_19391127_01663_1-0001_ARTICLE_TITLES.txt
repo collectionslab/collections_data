@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: England auf der Suche nach freiwilligen Minensuchern. >
+Found
+MODSMD_ARTICLE02: Schamloseste Verletzung des internationalen Rechts.
+Found
+MODSMD_ARTICLE03: Lächerlicher Emigrantenspuk an der Themse.
+Found
+MODSMD_ARTICLE04: Britische Regierung und jüdische internationale Finanz.
+Found
+MODSMD_ARTICLE05: Secret-Service-Agent Best in Norwegen ein alter Bekannter!
+Found
+MODSMD_ARTICLE06: Der Freiheitswille der Jrländer nicht totzukriegen.
+Found
+MODSMD_ARTICLE07: „Neutrale Schiffe sollen England meiden."
+Found
+MODSMD_ARTICLE08: Gefahrengebiet rund um die Pirateninsel.
+Found
+MODSMD_ARTICLE09: Französischer Fischdampfer versenkt.
+Found
+MODSMD_ARTICLE10: Unter dem Druck der britischen Piraterie.
+Found
+MODSMD_ARTICLE11: Rüstungssieber in den Vereinigten Staaten.
+Found
+MODSMD_ARTICLE12: Englands Ansehen als Seemacht schwindet.
+Found
+MODSMD_ARTICLE13: England verhöhnt das amerikanische Neutralitätsgesetz.
+Found
+MODSMD_ARTICLE14: Ein Verbrechen gegen das Völkerrecht.
+Found

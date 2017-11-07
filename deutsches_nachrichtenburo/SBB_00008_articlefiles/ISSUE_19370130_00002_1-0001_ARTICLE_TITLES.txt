@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Goebbels an die Schuljugend
+Found
+MODSMD_ARTICLE03: Vorbeimarsch der Leibstandarte Adolf Hitler vor dem Führer.
+Found
+MODSMD_ARTICLE04: Die historische Sitzung des Deutschen Reichstags.
+Found
+MODSMD_ARTICLE05: Vor der Krolloper.
+Found
+MODSMD_ARTICLE06: Im Sitzungssaal.
+Found
+MODSMD_ARTICLE07: Die Tagesordnung.
+Found
+MODSMD_ARTICLE08: Der Führer verläßt die Reichskanzlei.
+Found
+MODSMD_ARTICLE09: Der Reichstag in Erwartung des Führers.
+Found
+MODSMD_ARTICLE10: Der Führer trifft ein.
+Found
+MODSMD_ARTICLE11: Reichstayspräsident Göring
+Found
+MODSMD_ARTICLE12: Göring wieder Reichstagspräsident.
+Found
+MODSMD_ARTICLE13: Ehrung der Toten.
+Found

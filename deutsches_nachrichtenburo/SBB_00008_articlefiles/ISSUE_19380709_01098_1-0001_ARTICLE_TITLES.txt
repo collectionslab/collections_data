@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Tag der Deutschen Kunst.
+Found
+MODSMD_ARTICLE02: Eröffnung des „Doerner-Jnstituts" für Maltechnik.
+Found
+MODSMD_ARTICLE03: Brasilianischer Goldabflusi.
+Found
+MODSMD_ARTICLE04: Ein griechisches Dementi.
+Found
+MODSMD_ARTICLE05: Die italienische Presse gegen neue Quertreibereien.
+Found
+MODSMD_ARTICLE06: Außenpolitischer Bericht Bonnets»
+Found
+MODSMD_ARTICLE07: Paris zu Japans Paracel-Note.
+Found
+MODSMD_ARTICLE08: Belgisches Sprachengesetz von der Kammer verabschiedet.
+Found
+MODSMD_ARTICLE09: Page-Croft über die roten Greueltaten in Castellon.
+Found
+MODSMD_ARTICLE10: Nur noch 19 üm bis zur Provinz Valencia.
+Found
+MODSMD_ARTICLE11: Sowjetrussische U-Boote in schwedischen Hoheitsgewässern.
+Found
+MODSMD_ARTICLE12: Der Führer der Araber im Sandschak ausgewiesen.
+Found
+MODSMD_ARTICLE13: Besuch des türkischen Außenministers in Syrien?
+Found

@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ernennung.
+Found
+MODSMD_ARTICLE02: Francois-Poncet wieder in Berlin.
+Found
+MODSMD_ARTICLE03: Neichsminister Ruft empfing österreichische Dichter.
+Found
+MODSMD_ARTICLE04: Uebergabe von Treuedienst-Ehrenzeichen durch Ruft.
+Found
+MODSMD_ARTICLE05: Minister lankowitsch bei Frau Scholtz-Klink.
+Found
+MODSMD_ARTICLE06: Steuerfreiheit für Sonderzuwendungen zum 1. Mai.
+Found
+MODSMD_ARTICLE07: Dr. Ley über „Schönheit der Arbeit".
+Found
+MODSMD_ARTICLE08: Kapitän Lübbes letzte Fahrt.
+Found
+MODSMD_ARTICLE09: Ehrung für Dr. Wilhelm Filchner.
+Found
+MODSMD_ARTICLE10: Skandalöse Geschäftsmethoden einer Wiener Judenfirma.
+Found
+MODSMD_ARTICLE11: Finnische Anerkennung des italienischen Imperiums.
+Found
+MODSMD_ARTICLE12: Der amtliche Bericht über die Londoner Besprechungen.
+Found
+MODSMD_ARTICLE13: Am 1» Mai Flaggen heraus.
+Found
+MODSMD_ARTICLE14: Das englische Schatzamt! und der französische Franken.
+Found
+MODSMD_ARTICLE15: Eine Denkschrift der Prager Regierung.
+Found
+MODSMD_ARTICLE16: Rücktritt des Direktors des Internationalen Arbeitsamtes.
+Found
+MODSMD_ARTICLE17: Dokumentenfälscherwerkstatt in Budapest ausgehoben.
+Found
+MODSMD_ARTICLE18: Kundgebung gegen Palästina-Teilungsplan in Aegypten.
+Found

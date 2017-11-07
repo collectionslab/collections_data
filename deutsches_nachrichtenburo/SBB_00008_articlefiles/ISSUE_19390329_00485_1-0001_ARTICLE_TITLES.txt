@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ausruf an alle Schaffenden.
+Found
+MODSMD_ARTICLE02: Spaniens großer Feiertag.
+Found
+MODSMD_ARTICLE03: Murcia in nationaler Gewalt!
+Found
+MODSMD_ARTICLE04: Wie Ciudad Reals Falangisten die Roten Vertrieben.
+Found
+MODSMD_ARTICLE05: Italien feiert die Niederlage des Bolschewismus.
+Found
+MODSMD_ARTICLE06: England soll sich bei Francs einschmeicheln.
+Found
+MODSMD_ARTICLE07: Boykottvorschlag eines Kriegshetzers.
+Found
+MODSMD_ARTICLE08: Die Kriegstreiber wollen ans Ruder!
+Found
+MODSMD_ARTICLE09: Von den Tätern fehlt jede Spur...,
+Found
+MODSMD_ARTICLE10: Rote Bonzen fluchteten nach Oran.
+Found
+MODSMD_ARTICLE11: Leger macht Politik auf eigene Faust.
+Found
+MODSMD_ARTICLE12: Portugal freut sich über die Einnahme Madrids.
+Found
+MODSMD_ARTICLE13: Zwangsregistrierung aller Männer in Australien.
+Found
+MODSMD_ARTICLE14: Nennt man das nicht Dumping?
+Found
+MODSMD_ARTICLE15: Amerikanischer Senator warnt vor Einmischungspolitik.
+Found
+MODSMD_ARTICLE16: Die chilenische Presse feiert die Einnahme Madrids.
+Found

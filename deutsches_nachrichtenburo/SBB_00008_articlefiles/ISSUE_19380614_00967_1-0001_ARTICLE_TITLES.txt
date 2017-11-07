@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der tschechoslowakische Gesandte verließ Berlin.
+Found
+MODSMD_ARTICLE02: Die Sudetendeutschen haben ein Recht ans Selbstbestimmung.
+Found
+MODSMD_ARTICLE03: Beschleunigte Lösung des tschechischen Problems notwendig.
+Found
+MODSMD_ARTICLE04: Der Berner „Bund" zu den Gemeindewahlen.
+Found
+MODSMD_ARTICLE05: „Volksjugend der Sudetendeutschem"
+Found
+MODSMD_ARTICLE06: Mißglückter tschechischer Pumpversuch iu London?
+Found
+MODSMD_ARTICLE07: Gegen eine weitere Verjudung der Berufe in Polen.
+Found
+MODSMD_ARTICLE08: Stalip verfolgt die letzten Priester. Neue Terrorwelle.
+Found
+MODSMD_ARTICLE09: Admiral Litile wurde zum Lord Commissioner ernannt.
+Found
+MODSMD_ARTICLE10: Die englischen Zivillufthäfen im Dienst der Luftwaffe.
+Found
+MODSMD_ARTICLE11: Es bleibt bei 40-ein-Geschützen.
+Found
+MODSMD_ARTICLE12: Bereinigung der englischen Kriegsschulden bei Amerika?
+Found
+MODSMD_ARTICLE13: Der Botschafter Nationalspaniens in Lissabon.
+Found
+MODSMD_ARTICLE14: Die Bedeutung der Einnahme von Castellon.
+Found
+MODSMD_ARTICLE15: Die bolschewistischen Verbrecher Nacht und Nebel.
+Found
+MODSMD_ARTICLE16: Echte und unechte britische Schiffe.
+Found
+MODSMD_ARTICLE17: Die Führer der Araber im Sandschak verhaftet.
+Found
+MODSMD_ARTICLE18: 3753 Dollarmillionen zur Wiederaukurbelung in USA.
+Found

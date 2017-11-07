@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Adolf Hitler auf deutschem Boden.
+Found
+MODSMD_ARTICLE02: Der Führer dankt dem König und Kaiser.
+Found
+MODSMD_ARTICLE03: „Die römischen Trinksprüche sind keine Drohung".
+Found
+MODSMD_ARTICLE04: Der Zweite Jahrestag der Gründung des Imperiums.
+Found
+MODSMD_ARTICLE05: Der Führer ehrt verdiente Generale.
+Found
+MODSMD_ARTICLE06: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE07: Ein Tagesbefehl des Stabschefs an die SA.
+Found
+MODSMD_ARTICLE08: Georg VI. inspizierte die Luftverteidigung Londons.
+Found
+MODSMD_ARTICLE09: Die englischen Flugzeugbestellungen in USA.
+Found
+MODSMD_ARTICLE10: Fortsetzung des japanischen Vormarsches in China.
+Found

@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Festliches Konzert des Reichssenders Stuttgart.
+Found
+MODSMD_ARTICLE02: Staatssekretär Funk vor der französischen Presse.
+Found
+MODSMD_ARTICLE03: Begeisterte Aufnahme des Ufa-Films „Patrioten" in Paris.
+Found
+MODSMD_ARTICLE04: Weitere Auslandsstimmen zur Stuttgarter Rede Görings.
+Found
+MODSMD_ARTICLE05: Abschluß der Internationalen Filmkunstschau.
+Found
+MODSMD_ARTICLE06: Für Zusammenarbeit mit Deutschland.
+Found
+MODSMD_ARTICLE07: „Mittelmeerkonferenz ohne Italien ein törichter Fehler".
+Found
+MODSMD_ARTICLE08: Parade vor Außenminister Ciano.
+Found
+MODSMD_ARTICLE09: Chautemps bespricht sich mit Blum und Daladier.
+Found
+MODSMD_ARTICLE10: Das Brot wird in Frankreich immer teurer.
+Found
+MODSMD_ARTICLE11: Bolschewistische Schisse flüchten nach Frankreich.
+Found
+MODSMD_ARTICLE12: Todesurteile am lausenden Band.
+Found
+MODSMD_ARTICLE13: 14 jüdische Terroristen verhaftet.
+Found
+MODSMD_ARTICLE14: Amoy von japanischen Torpedobooten beschossen.
+Found

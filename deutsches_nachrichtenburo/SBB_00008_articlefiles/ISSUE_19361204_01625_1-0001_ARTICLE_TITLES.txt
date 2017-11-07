@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: 12jährige Schulzeit wird durchgeführt.
+Found
+MODSMD_ARTICLE02: Rudolf Heß bei der Auslands-Organisation der NSDAP.
+Found
+MODSMD_ARTICLE03: Der Einsatz der Gemeinden im Vierjahresplan.
+Found
+MODSMD_ARTICLE04: Pariser Weltausstellung soll nicht verschoben werden.
+Found
+MODSMD_ARTICLE05: Krach in der sowjetrussischen Botschaft in Paris.
+Found
+MODSMD_ARTICLE06: Beendigung des Hafenarbeiterstreiks in Bordeaux.
+Found
+MODSMD_ARTICLE07: Das Gesetz über Transportverbot für Kriegsmaterial.
+Found
+MODSMD_ARTICLE08: Eine ungarische Stimme über Litwinow-Finkelstein.
+Found
+MODSMD_ARTICLE09: Jüdische Kommunistenbande in Budapest unschädlich gemacht
+Found
+MODSMD_ARTICLE10: Warschauer Hochschulen bleiben vorläufig geschlossen.
+Found
+MODSMD_ARTICLE11: Ueber 199 999 Italiener in Aethiopien beschäftigt.
+Found
+MODSMD_ARTICLE12: Sympathiekundgebung in Wien für das nationale Spanien.
+Found
+MODSMD_ARTICLE13: Neuer Staatssekretär im Wirtschaftsministerium Albaniens.
+Found
+MODSMD_ARTICLE14: Kriegszustand im Sandschak Alexaudrette.
+Found
+MODSMD_ARTICLE15: Der nationale Heeresbericht vom Donnerstag.
+Found
+MODSMD_ARTICLE16: 51 nationale Spanier in Alicante erschossen.
+Found
+MODSMD_ARTICLE17: Ministerpräsident Kallio Präsidentschaftskandidat.
+Found
+MODSMD_ARTICLE18: Im Zeichen der Nichteinmischung!
+Found
+MODSMD_ARTICLE19: China fordert Zurückziehung der Japaner aus Tsingtau.
+Found
+MODSMD_ARTICLE20: Roosevelt in Montevideo.
+Found

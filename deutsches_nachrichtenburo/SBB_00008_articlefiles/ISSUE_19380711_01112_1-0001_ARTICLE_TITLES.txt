@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: General Pariani vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Besuch der rumänischen Luftfahrtkommission beendet.
+Found
+MODSMD_ARTICLE03: Nachtrag und Neuauflage Zum „JnternatioualenSignalbuch"
+Found
+MODSMD_ARTICLE04: Die japanische Jugendsührer-Abordnuug in Bremen.
+Found
+MODSMD_ARTICLE05: Neue Großtat deutscher Technik.
+Found
+MODSMD_ARTICLE06: Sozialpolitische Forderungen der Sudetendeutschen.
+Found
+MODSMD_ARTICLE07: Schikanen ohne Ende gegen die Sudetendeutschen.
+Found
+MODSMD_ARTICLE08: Unverständliches Verhalten polnischer Behörden.
+Found
+MODSMD_ARTICLE09: Wie der Illustrierte „Krakauer Kurier" lügt.
+Found
+MODSMD_ARTICLE10: Italien ehrt den lettischen Statspräsidenten.
+Found
+MODSMD_ARTICLE11: „Friedenselement an der Adria".
+Found
+MODSMD_ARTICLE12: Pariser Intrigen in römischer Beleuchtung.
+Found
+MODSMD_ARTICLE13: „Man kann nichts gegen oder ohne Italien."
+Found
+MODSMD_ARTICLE14: Aus der italienischen Diplomatie.
+Found
+MODSMD_ARTICLE15: Portugals Staatspräsident besucht die Kolonien.
+Found
+MODSMD_ARTICLE16: Der nationakspanische Vormarsch nach Süden.
+Found
+MODSMD_ARTICLE17: Sowjetspanisches Kinder-Bataillon.
+Found
+MODSMD_ARTICLE18: Der Schriftwechsel zwischen London und Burgos.
+Found
+MODSMD_ARTICLE19: Mehrere britische Botschafter in London.
+Found
+MODSMD_ARTICLE20: Kommunistische Demonstrationen in einer serbischen Stadt.
+Found
+MODSMD_ARTICLE21: Auch Below teilte das Schicksal Tnchatschewskis.
+Found
+MODSMD_ARTICLE22: Japan warnt.
+Found

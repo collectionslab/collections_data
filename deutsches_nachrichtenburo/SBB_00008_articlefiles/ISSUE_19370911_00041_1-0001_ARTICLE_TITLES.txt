@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Parteitag der Arbeit.
+Found
+MODSMD_ARTICLE02: Der Führer kommt.
+Found
+MODSMD_ARTICLE03: Die Ansprache des Führers.
+Found
+MODSMD_ARTICLE04: Das Ausland zu Nürnberg.
+Found

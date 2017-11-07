@@ -1,0 +1,10 @@
+MODSMD_ARTICLE01: Tagung der Reichsarbeitskammer.
+Found
+MODSMD_ARTICLE02: Richtfest der Reichswerke Hermann Göring in Eisenerz.
+Found
+MODSMD_ARTICLE03: Die neue Autostraße der Tschecho-Slowakei.
+Found
+MODSMD_ARTICLE04: „Azet" zur ukrainischen Krage.
+Found
+MODSMD_ARTICLE05: „Ziellosigkeit, Schwanken, halbe Maßnahmen."
+Found

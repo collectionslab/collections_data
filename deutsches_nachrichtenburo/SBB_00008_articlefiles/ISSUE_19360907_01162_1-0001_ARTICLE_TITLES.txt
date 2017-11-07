@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Glückwunschtelegramm des Führers.
+Found
+MODSMD_ARTICLE02: Militärparade zum Geburtstag des jugoslawischen Königs.
+Found
+MODSMD_ARTICLE03: Kabinettsrat in Paris.
+Found
+MODSMD_ARTICLE04: Zum „Ultimatum" der Metallgewerkschaften.
+Found
+MODSMD_ARTICLE05: Castex Direktor der Hochschule für Landesverteidigung.
+Found
+MODSMD_ARTICLE06: Lebrun gibt ein Frühstück für den polnischen Generalissimus.
+Found
+MODSMD_ARTICLE07: Französische Rüstungsanleihe für Polen?
+Found
+MODSMD_ARTICLE08: Wechsel im Oberkommando der Honveds.
+Found
+MODSMD_ARTICLE09: Der belgische Parlamentsausschuß einberufen.
+Found
+MODSMD_ARTICLE10: Ein neuer Sieg der Nationalisten.
+Found
+MODSMD_ARTICLE11: General Queipo de Llano über die Einnahme von Jrun.
+Found
+MODSMD_ARTICLE12: Grenzübergang bei Hendahe und Behobia gesperrt.
+Found
+MODSMD_ARTICLE13: Die Nationalisten vier Kilometer vor Toledo.
+Found
+MODSMD_ARTICLE14: Madrid ernennt einen neuen Botschafter in London.
+Found
+MODSMD_ARTICLE15: Rücktritt des spanischen Botschafters in Washington.
+Found
+MODSMD_ARTICLE16: Sowjetrussisch-afghanischer Nichtangriffspakt verlängert.
+Found

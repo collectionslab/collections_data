@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Deutsches Nachrichtenbüro b H
+Found
+MODSMD_ARTICLE02: Dr. Goebbels' Feuerrede. Machtvolle Sonnenwendfeier des Gaues Berlin.
+Found
+MODSMD_ARTICLE03: Der Führer empfängt italienischen Straßenbauer.
+Found
+MODSMD_ARTICLE04: Empfang im Lübecker Rathaus.
+Found
+MODSMD_ARTICLE05: Lettland ratifiziert Nichtangriffspakt mit Deutschland.
+Found
+MODSMD_ARTICLE06: Dr. Ley bei König Karl.
+Found
+MODSMD_ARTICLE07: London verfängt sich im eigenen Lügennetz!
+Found
+MODSMD_ARTICLE08: Französische Zeitung in Tienksin lobt die Japaner.
+Found

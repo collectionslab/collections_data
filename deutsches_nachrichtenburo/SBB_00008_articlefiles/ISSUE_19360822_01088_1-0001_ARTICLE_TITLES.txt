@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Geburtstagsglückwunsch des Führers an Paul Nipkow.
+Found
+MODSMD_ARTICLE02: Schach-Olympia. Teutschland—Brasilien 5 : 1.
+Not Found
+MODSMD_ARTICLE03: Unrichtige Angaben des spanischen Ministerpräsidenten.
+Found
+MODSMD_ARTICLE04: General Queipo de Llano berichtet.
+Found
+MODSMD_ARTICLE05: Schüsse auf den Hadas-Vertreter.
+Found
+MODSMD_ARTICLE06: Die Einmischung des Marxismus in anderen Ländern.
+Found
+MODSMD_ARTICLE07: Sowjetrußlands Luftrüstung wächst immer mehr.
+Found
+MODSMD_ARTICLE08: Moskau: „Alle Faschisten vernichten".
+Found
+MODSMD_ARTICLE09: Beunruhigende Bahnbauten in der Tschechoslowakei.
+Found
+MODSMD_ARTICLE10: Sowjetgeneräle besuchen die Maginot-Linie.
+Found
+MODSMD_ARTICLE12: Eine Vermittlungsaktion der drei Araberfürsten.
+Found
+MODSMD_ARTICLE13: Der amerikanische Präsidentschaftswahlfeldzng.
+Found
+MODSMD_ARTICLE14: Das Problem der englisch-japanischen Beziehungen.
+Found

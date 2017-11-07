@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Neuer Oberfmanzpräsident in Kassel.
+Found
+MODSMD_ARTICLE02: Blomberg übergibt neue Fahnen und Standarten.
+Found
+MODSMD_ARTICLE03: Staatsaufsicht und Gemeindeverwaltung.
+Found
+MODSMD_ARTICLE04: Starace zum Besuch von Rudolf Heß.
+Found
+MODSMD_ARTICLE05: Neue Verfassung für Edingen geplant.
+Found
+MODSMD_ARTICLE06: Indische Unverschämtheiten in Wilna.
+Found
+MODSMD_ARTICLE07: Dr. Schmidt über die Beziehungen Wien—Warschau.
+Not Found
+MODSMD_ARTICLE08: Die Unterbindung des Flugverkehrs Warschau—Wien.
+Not Found
+MODSMD_ARTICLE09: Botschafter von Ribbentrop wieder in London.
+Found
+MODSMD_ARTICLE10: Jahresbankett der Englisch-Französischen Gesellschaft.
+Found
+MODSMD_ARTICLE11: Wie lange noch? 30 neue Todesurteile der Sowjetgerichte.
+Found
+MODSMD_ARTICLE12: Der türkische Ministerpräsident zurückgetreten.
+Found
+MODSMD_ARTICLE13: Die Wahlen in der Libanon-Republik.
+Found

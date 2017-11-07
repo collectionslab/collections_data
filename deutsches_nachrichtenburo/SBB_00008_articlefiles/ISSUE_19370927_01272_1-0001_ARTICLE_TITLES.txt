@@ -1,0 +1,16 @@
+MODSMD_ARTICLE02: Berlin, Montag 27. September 1637 Der Führer ehrt den Duce. Mussolini Trager des Goldenen Hoheitszeichens.
+Found
+MODSMD_ARTICLE03: Der Abschied von München.
+Found
+MODSMD_ARTICLE04: Die Fahrt Zum Bahnhof.
+Found
+MODSMD_ARTICLE06: Der Duce verabschiedet! sich.
+Found
+MODSMD_ARTICLE07: Vor dem Eintreffen Mussolinis in Berlin
+Found
+MODSMD_ARTICLE08: Mussolini bei den Manövern
+Found
+MODSMD_ARTICLE09: Jubel um den Duce und den Führer.
+Found
+MODSMD_ARTICLE10: Abschluß der Wehrmachtmanöver.
+Found

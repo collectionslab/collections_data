@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Feierliche Verabschiedung Gauleiter Greisers.
+Found
+MODSMD_ARTICLE02: England setzt seine Zukunft den Juden zuliebe aufs Spiel,
+Found
+MODSMD_ARTICLE03: „Englands Seeherrschaft für immer vorbei."
+Found
+MODSMD_ARTICLE04: Niesige Kapitalsverluste Englands im Ausland.
+Found
+MODSMD_ARTICLE05: Die holländische Regierung kauft Nahrungsmittel auf.
+Found
+MODSMD_ARTICLE06: „England wirklich von Inflation bedroht"
+Found
+MODSMD_ARTICLE07: „Verzweifelter Existenzkampf. Kein Krieg der Gentlemen."
+Found
+MODSMD_ARTICLE08: Südafrikaner werden für Englands Krieg geopfert.
+Found
+MODSMD_ARTICLE09: Der britische Schiffsraummangel.
+Found
+MODSMD_ARTICLE10: Die Lage „sehr ernst".
+Found
+MODSMD_ARTICLE11: „Schwerer Verstoß gegen das Völkerrecht."
+Found
+MODSMD_ARTICLE12: Amerikas Verzicht auf den Protest.
+Found
+MODSMD_ARTICLE13: Die Vereinigten Staaten bauen 30 Luftschiffe.
+Found
+MODSMD_ARTICLE14: Eine unzarte Erinnerung.
+Found
+MODSMD_ARTICLE15: Auch Japan kündigt Gegenmaßnahmen an.
+Found
+MODSMD_ARTICLE16: England wird mit seinen eigenen Waffen geschlagen.
+Found
+MODSMD_ARTICLE17: Japanische Luftangriffe.
+Found
+MODSMD_ARTICLE18: Vollstreckung eines Todesurteils.
+Found

@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Der Besuch des ungarischen Neichsverwesers.
+Found
+MODSMD_ARTICLE02: Unser Gruß der befreundeten ungarischen Nation!
+Found
+MODSMD_ARTICLE03: General Vuillemin verließ Deutschland.
+Found
+MODSMD_ARTICLE04: Generalfeldmarschall Göring zur Ostmesse.
+Found
+MODSMD_ARTICLE05: Abschluß des 12. Internationalen Gartenbankongresses.
+Found
+MODSMD_ARTICLE06: 7. Hochschultaguug der Luther-Akademie.
+Found
+MODSMD_ARTICLE07: Italien sorgt für die Reinerhaltung seiner Rasse.
+Found
+MODSMD_ARTICLE08: General Doihara in Peking.
+Found

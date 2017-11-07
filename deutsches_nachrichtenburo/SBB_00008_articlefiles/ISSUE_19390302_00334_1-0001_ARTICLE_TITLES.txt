@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Göring beglückwünscht eine Hundertjährige.
+Found
+MODSMD_ARTICLE02: Präsidialsitzung der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE03: Wehrgeist und Heldeuverehrung.
+Found
+MODSMD_ARTICLE04: Rückerstattung von nach Prag gebrachten Gegenständen.
+Found
+MODSMD_ARTICLE05: Der Reichsführer U in Dresden.
+Found
+MODSMD_ARTICLE06: Vor 2l> Jahren: 53 Sudetendeutsche fielen.
+Found
+MODSMD_ARTICLE07: Starke Fortentwicklung des italienischen Imperiums.
+Found
+MODSMD_ARTICLE08: Deutsch-polnisches Wirtschaftsabkommen.
+Found
+MODSMD_ARTICLE09: Jüdischer Tank: der Hungerstreik.
+Found
+MODSMD_ARTICLE10: Ironische Kommentare in Bnrgos.
+Found
+MODSMD_ARTICLE11: Pacelli als Pius XII. zum Papst gewählt.
+Found
+MODSMD_ARTICLE12: Ein zweites Bombenattentat auf einen englischen Kanal.
+Found
+MODSMD_ARTICLE13: Artillerieverstärkung für Malta.
+Found
+MODSMD_ARTICLE14: Brasilien wehrt sich gegen jüdische Einwanderung.
+Found
+MODSMD_ARTICLE15: „Sympathie für jede Aktion gegen den Kommunismus".
+Found
+MODSMD_ARTICLE16: Geringfügige Strafe für einen ungewöhnlichen Rohling.
+Found

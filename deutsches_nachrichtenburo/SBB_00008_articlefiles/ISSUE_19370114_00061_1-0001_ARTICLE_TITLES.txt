@@ -1,0 +1,6 @@
+MODSMD_ARTICLE01: Spendenliste Nr. 55 vom 12. Januar 1937. (Schluß.)
+Found
+MODSMD_ARTICLE02: Spendenliste Nr. 56 vom 13. Januar 1937.
+Found
+MODSMD_ARTICLE03: Spendenliste Nr. 57 vom 14. Januar 1937.
+Found

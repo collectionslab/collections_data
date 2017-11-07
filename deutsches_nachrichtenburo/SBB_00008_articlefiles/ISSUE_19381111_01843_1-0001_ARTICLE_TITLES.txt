@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Deutsches und französisches Soldatentum.
+Found
+MODSMD_ARTICLE02: Reichsminister Ruft in Linz.
+Found
+MODSMD_ARTICLE03: Horthps Einzug in Kaschau.
+Found
+MODSMD_ARTICLE04: „Hitler und die ungarische Ritterlichkeit."
+Found
+MODSMD_ARTICLE05: Nbschiedssrühstück für General von Stübnitz.
+Found
+MODSMD_ARTICLE06: Flucht aus der Volksfront.
+Found
+MODSMD_ARTICLE07: Eröffnung der Deutschen Buchwoche in Paris.
+Found
+MODSMD_ARTICLE08: Die Entführung des Generals von Miller.
+Found
+MODSMD_ARTICLE09: Hemming wieder in London.
+Found
+MODSMD_ARTICLE10: Tie türkische Negierung zum Ableben Atatürks.
+Found
+MODSMD_ARTICLE11: Der erste deutsche Gesandte in Hsingking.
+Found

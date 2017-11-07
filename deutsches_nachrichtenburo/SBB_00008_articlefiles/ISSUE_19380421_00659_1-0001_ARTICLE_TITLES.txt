@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Deutsche in aller Welt feiern den Geburtstag des Führers.
+Found
+MODSMD_ARTICLE02: Erhebende Geburtstagsfeiern in Innsbruck, Graz und Linz.
+Found
+MODSMD_ARTICLE03: Auf den Führer vereidigt.
+Found
+MODSMD_ARTICLE04: Verleihung von Treudienstehrenzeichen.
+Found
+MODSMD_ARTICLE05: Generalfeldmarschall Göring enthüllt Richthofen-Gedenkstem.
+Found
+MODSMD_ARTICLE06: „Wilhelm Gustloff" zur ersten Reise ausgelaufen.
+Found
+MODSMD_ARTICLE07: Erstes Arbeitsdienstlager in Oesterreich.
+Found
+MODSMD_ARTICLE08: „Es ist herrlich, wie glücklich hier jeder ist".
+Found
+MODSMD_ARTICLE09: „Tie Achse Berlin—Rom ist eine Realität".
+Not Found
+MODSMD_ARTICLE10: Sie wollen nach Nationalspanien.
+Found
+MODSMD_ARTICLE11: Die Mordfurie rast.
+Found
+MODSMD_ARTICLE12: Internationaler Mediziner-Kongreß in Brüssel.
+Found
+MODSMD_ARTICLE13: Der lettische Außenminister besucht Helsinki und Stockholm.
+Found
+MODSMD_ARTICLE14: Ein neues Opfer Stalins.
+Found
+MODSMD_ARTICLE15: Militärflugzeuge gegen Araber in Palästina.
+Found

@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Kommissar für das niederländische Bankwesen.
+Found
+MODSMD_ARTICLE02: Empfang bei Botschafter Alfieri.
+Found
+MODSMD_ARTICLE03: Engländer bombardieren holländische Orte.
+Found
+MODSMD_ARTICLE04: Keine Möglichkeit sich zu drücken.
+Found
+MODSMD_ARTICLE05: Urdeutsches Land ins Reich heimgekehrt.
+Found
+MODSMD_ARTICLE06: Die Einkreisung wird enger und enger.
+Found
+MODSMD_ARTICLE07: Neue Italiener-Verfolgung in! FranZösisch-Marokko.
+Found
+MODSMD_ARTICLE08: Weygand soll das „Wunder" vollbringen.
+Found
+MODSMD_ARTICLE09: Mehr Kohle schreit England.
+Found
+MODSMD_ARTICLE10: „Ueberlegenheit der deutschen Führung und Waffen".
+Found

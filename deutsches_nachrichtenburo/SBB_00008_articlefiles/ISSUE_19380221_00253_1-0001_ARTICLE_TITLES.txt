@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Spanische Ehrung für deutsche Gelehrte.
+Found
+MODSMD_ARTICLE02: „Gesellschaft der Freunde Deutschlands" gegründet.
+Found
+MODSMD_ARTICLE03: Teruel umzingelt.
+Found
+MODSMD_ARTICLE04: Preisordnung und Produktionslenkung in Nationalspanien.
+Found
+MODSMD_ARTICLE05: Die Anerkennung Francos durch Oesterreich.
+Found
+MODSMD_ARTICLE06: Riesiger Fackelzug in Innsbruck.
+Found
+MODSMD_ARTICLE07: Neue KommunistenZentrale'in Bulgarien ausgehoben.
+Found
+MODSMD_ARTICLE08: Jouvenel gegen Brunnenvergiftung.
+Found
+MODSMD_ARTICLE09: „Gazzetta del Popolo" für Tunis verboten.
+Found
+MODSMD_ARTICLE10: Ergänzung der französisch-japanischen Handelsabmachung.
+Found
+MODSMD_ARTICLE11: Der englische Heereshaushalt 1938/39.
+Found
+MODSMD_ARTICLE12: Eden war gegen englisch-italienische Unterhaltungen.
+Found
+MODSMD_ARTICLE13: Die Londoner Morgenpresse Mm Rücktritt Edens. ' – .i^
+Not Found
+MODSMD_ARTICLE14: Kontrolle der privaten Rüstungsindustrie in der Schweiz.
+Found
+MODSMD_ARTICLE15: Portugiesische Stimme zur Stalin-Erkläruug.
+Found
+MODSMD_ARTICLE16: Japan zur Anerkennung Mandschukuos.
+Found

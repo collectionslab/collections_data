@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Die Achema VIII eröffnet.
+Found
+MODSMD_ARTICLE02: Reichstagung der nationalsozialistischen Hochschullehrer.
+Found
+MODSMD_ARTICLE03: Zollvollmachtengesetz vom Senat angenommen.
+Found
+MODSMD_ARTICLE04: Deutsche Frontkämpfer besuchen England.
+Found
+MODSMD_ARTICLE05: Das Ergebnis der Londoner Beratungen.
+Found
+MODSMD_ARTICLE06: Schluß der Parlamentstagung in Ungarn.
+Found
+MODSMD_ARTICLE07: Die Forderungen der belgischen Frontkämpfer abgelehnt.
+Found
+MODSMD_ARTICLE08: Japanisch-sowjetrussische Einigung.
+Found
+MODSMD_ARTICLE09: Explosionsunglück auf der Zeche „General Blumenthal".
+Found

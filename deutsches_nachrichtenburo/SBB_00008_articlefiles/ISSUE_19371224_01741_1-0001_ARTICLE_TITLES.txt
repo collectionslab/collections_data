@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ernennung im Preußischen Staatsministerium.
+Found
+MODSMD_ARTICLE02: Gustaf Gründgens Generalintendant.
+Found
+MODSMD_ARTICLE03: Generalleutnant von Schröder Vizepräsident des KDL.
+Found
+MODSMD_ARTICLE04: Ans der Diplomatie.
+Found
+MODSMD_ARTICLE05: Deutsch-bolivianische Arbeitsgemeinschaft.
+Found
+MODSMD_ARTICLE06: Luftverkehrs-Abkommen Deutschland—Estland.
+Not Found
+MODSMD_ARTICLE07: Zusamenlegung von Arbeitslosen- und Krisenunterstützung.
+Found
+MODSMD_ARTICLE08: Errichtung einer Lnftwafsenmusikschule in Sondershansen.
+Found
+MODSMD_ARTICLE09: Das Amt Schrifttumspflege sammelte Bücher für die SS.
+Found
+MODSMD_ARTICLE10: Ein Versorgungsfonds der NSDAP, gegründet.
+Found
+MODSMD_ARTICLE11: Eiu Norweger über seine Eindrücke M Dritten Reich. " 7/
+Found
+MODSMD_ARTICLE12: Der Kampf um Teruel.
+Found
+MODSMD_ARTICLE13: Tie Kammer für Wiedereröffnung der Weltausstellung.
+Found
+MODSMD_ARTICLE14: Pariser Streiks dauern an.
+Found
+MODSMD_ARTICLE15: Schigenori Togo in Genua eingetroffen.
+Found
+MODSMD_ARTICLE16: Gefecht zwischen Arabern und englischem Militär.
+Found

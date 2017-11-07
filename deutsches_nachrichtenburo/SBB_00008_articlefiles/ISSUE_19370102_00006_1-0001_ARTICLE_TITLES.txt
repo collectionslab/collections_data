@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Erste Mittags-Ausgabe. Deutsches Nachrichtenbüro
+Found
+MODSMD_ARTICLE02: Verleihung von Rettungs-Auszeichnungen.
+Found
+MODSMD_ARTICLE03: Neujahrsansprache der Reichsfrauenschaftsführerin.
+Found
+MODSMD_ARTICLE04: Die Deutsche Reichspost im Jahre 1936.
+Found
+MODSMD_ARTICLE05: Die Gesellschaft „Reichsautobahnen" im Jahre 193 K.
+Found
+MODSMD_ARTICLE06: Vorläufig kein Besuch Delbos' in Bukarest.
+Found
+MODSMD_ARTICLE07: Veränderungen im französischen Wirtschaftsministerium.
+Found
+MODSMD_ARTICLE08: Zusammenstöße beim Hotelstreik in Nizza.
+Found
+MODSMD_ARTICLE09: Französische Gewerkschaftsbonzen für Freiwilligen-Brigade.
+Found
+MODSMD_ARTICLE10: Unamuno gestorben.
+Found
+MODSMD_ARTICLE11: Grauenhaftes Schicksal einer spanischen Stadt.
+Found

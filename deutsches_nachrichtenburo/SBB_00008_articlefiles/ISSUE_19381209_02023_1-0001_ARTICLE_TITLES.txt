@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Die Eröffnung der Architekturausstellung in München.
+Found
+MODSMD_ARTICLE02: Die NSV im Gau Sudetenland.
+Found
+MODSMD_ARTICLE03: Warschau zur Pariser Erklärung.
+Found
+MODSMD_ARTICLE04: Die Pariser Presse über die Absetzung Jeschows.
+Found
+MODSMD_ARTICLE05: Wie die Sowjets Miller entführten.
+Found
+MODSMD_ARTICLE06: Das Rücktrittsgesuch von Dierx nicht angenommen.
+Found
+MODSMD_ARTICLE07: Calinescu über die innere Lage Rumäniens.
+Found
+MODSMD_ARTICLE08: Festliche Eröffnung des spanischen Nationaltheaters.
+Found
+MODSMD_ARTICLE09: Tie unfähige Genfer Liga.
+Found
+MODSMD_ARTICLE10: Englands Aufrüstung.
+Found
+MODSMD_ARTICLE11: Wegen Ermordung eines arabischen Gefangenen vor Gericht.
+Found
+MODSMD_ARTICLE12: General Terautschi nach Tokio berufen.
+Found

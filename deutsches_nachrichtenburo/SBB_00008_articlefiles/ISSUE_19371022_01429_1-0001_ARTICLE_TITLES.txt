@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Herzog von Windsor vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Empfang im Außenpolitischen Schulungshaus.
+Found
+MODSMD_ARTICLE03: svprozentige Fahrpreisermäßigung für deutsche Seeleute.
+Found
+MODSMD_ARTICLE04: Tagung der Deutschen Akademie für Städtebau.
+Found
+MODSMD_ARTICLE05: Hauptmann Weiß in Paris.
+Found
+MODSMD_ARTICLE06: Die Knebelung der Sudetendeutschen geht weiter.
+Found
+MODSMD_ARTICLE07: Tschechoslowakische Betriebe entlassen reichsdeutsche Arbeiter.
+Found
+MODSMD_ARTICLE08: Botschafter von Ribbentrop in Rom eingetroffen.
+Found
+MODSMD_ARTICLE09: Roms Presse zur Befreiung Nordspaniens.
+Found
+MODSMD_ARTICLE10: Verwundete italienische Freiwillige in Neapel.
+Found
+MODSMD_ARTICLE11: Auch die bolschewistische Leon-Front in Auflösung.
+Found
+MODSMD_ARTICLE12: Verbrecher als sowjetspanische Polizei.
+Found
+MODSMD_ARTICLE13: Eine Wirtschaftshyäne vom Stamme Moses.
+Found
+MODSMD_ARTICLE14: Beratungen über die Freiwilligenfrage.
+Found
+MODSMD_ARTICLE15: Englische Thronrede im Parlament. Das Haus vertagt sich.
+Found
+MODSMD_ARTICLE16: Ter Grenzstreit zwischen Honduras und Nikaragua.
+Found
+MODSMD_ARTICLE17: Brüssels Einladung an Japan kam zu spät.
+Found

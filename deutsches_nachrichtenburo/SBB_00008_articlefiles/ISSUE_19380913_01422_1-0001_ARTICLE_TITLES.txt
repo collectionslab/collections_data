@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Führer bei Hermann Goring.
+Found
+MODSMD_ARTICLE02: Die Besichtigungen der englischen Straßenbauer.
+Found
+MODSMD_ARTICLE03: Wieder ein Sudetendeutscher schwerverletzt.
+Found
+MODSMD_ARTICLE04: „Deutsche Schweine, deutsche Hunde".
+Found
+MODSMD_ARTICLE05: Zurückweisung plumper Presselügen.
+Found
+MODSMD_ARTICLE06: Amt des Sudeteudeutschen Parteitages 1938.
+Found
+MODSMD_ARTICLE07: „Giornale d'Jtalia" Zur Lage.
+Found
+MODSMD_ARTICLE08: Londoner Ansichten zur außenpolitischen Lage.
+Found
+MODSMD_ARTICLE09: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE10: Streik in Lyon.
+Found
+MODSMD_ARTICLE11: Von der Genfer Liga.
+Found
+MODSMD_ARTICLE12: Rücktritt des chilenischen Kabinetts.
+Found
+MODSMD_ARTICLE13: Der Sensationsprozeß gegen Hines abgebrochen.
+Found
+MODSMD_ARTICLE14: Die Provinz Hopei von drei Seiten angegriffen.
+Found
+MODSMD_ARTICLE15: Sowjetkanonen für China.
+Found
+MODSMD_ARTICLE16: Ein neuer Plan zur „Verteidigung Indiens".
+Found
+MODSMD_ARTICLE17: Nordatlantikflug in Rekordzeit.
+Found

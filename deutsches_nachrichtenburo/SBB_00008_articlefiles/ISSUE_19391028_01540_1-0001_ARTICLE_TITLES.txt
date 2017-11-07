@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Weiterhin erfolgreicher Handelskrieg.
+Found
+MODSMD_ARTICLE02: Dr. Ley bei den Arbeitern im Westen des Reiches.
+Found
+MODSMD_ARTICLE03: Das Geheimnis der britischen Kohlenausfuhr.
+Found
+MODSMD_ARTICLE04: Beisetzung der Toten des deutschen Vorpostenbootes.
+Found
+MODSMD_ARTICLE05: Der Jahrestag des Marsches auf Rom.
+Found
+MODSMD_ARTICLE06: Das Aufbauwerk des Faschismus in Nordafrika.
+Found
+MODSMD_ARTICLE07: „Ueberlegeuheit Deutschlands."
+Found
+MODSMD_ARTICLE08: Duff Cooper als Hetzer erkannt.
+Found
+MODSMD_ARTICLE09: Tie Westukraine schließt sich der Sowjetukraine an.
+Found
+MODSMD_ARTICLE10: Londoner Jugendgerichte arbeiten mit Ueberstunden.
+Found
+MODSMD_ARTICLE11: Rücktritt des ungarischen Handelsministers.
+Found
+MODSMD_ARTICLE12: Deutschlands Bedeutung für die bulgarische Wirtschaft.
+Found
+MODSMD_ARTICLE13: Frankreich auf der Suche nach Kanonenfutter.
+Found
+MODSMD_ARTICLE14: Kriegsfolgen in Frankreich.
+Found
+MODSMD_ARTICLE15: Amerikanisches Urteil über die britische Blockade.
+Found

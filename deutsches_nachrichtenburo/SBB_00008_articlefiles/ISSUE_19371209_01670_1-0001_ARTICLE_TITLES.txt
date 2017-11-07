@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Förderung der Frühehe der Junglehrerschaft in Preußen.
+Found
+MODSMD_ARTICLE03: Großer Erfolg der Schau der Reichsbahn in Paris.
+Found
+MODSMD_ARTICLE04: Anerkennung deutscher Abiturzeugnisse in Oesterreichs
+Found
+MODSMD_ARTICLE05: Der Große Rat des Faschismus einberufen.
+Found
+MODSMD_ARTICLE06: Stojadinowitsch in Mailand.
+Found
+MODSMD_ARTICLE07: Studienkommission der Werkscharen der DAF. in Turin.
+Found
+MODSMD_ARTICLE08: Beratung des Londoner Hauptunterausschusses.
+Found
+MODSMD_ARTICLE09: Attlee in Paris.
+Found
+MODSMD_ARTICLE10: General Dufeignenr im Verhör.
+Found
+MODSMD_ARTICLE11: Der Schweizer Haushaltsvoranschlag. , " /AM
+Found
+MODSMD_ARTICLE12: Einige Wahlkandidaten „abgelöst".
+Found
+MODSMD_ARTICLE13: Der Reichsjugendführer auf dem Wege nach Ankara.
+Found
+MODSMD_ARTICLE14: Internationaler Augenärztlicher .Kongreß in Kairo.
+Found
+MODSMD_ARTICLE15: Fortsetzung des Feldzugs auch nach dem Fall Nankings.
+Found
+MODSMD_ARTICLE16: Durchbruch japanischer Torpedoboote bei Kiangyin.
+Found
+MODSMD_ARTICLE17: Der Kampf um die amerikanische Wirtschaftspolitik.
+Found

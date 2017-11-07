@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer über Deutschlands Verhältnis zur Schweiz.
+Found
+MODSMD_ARTICLE02: Danktelegramme Neuraths an Schuschmgg und Schmidt.
+Found
+MODSMD_ARTICLE03: Professor Reinerth über Borgeschichtsforschung.
+Found
+MODSMD_ARTICLE04: Der Streik in Fünfkirchen beendet.
+Found
+MODSMD_ARTICLE05: Numerus clausus bei der Fünfkirchener Universität.
+Found
+MODSMD_ARTICLE06: Kommunistische Zentrale in Preßburg ausgehoben.
+Found
+MODSMD_ARTICLE07: Erhöhung des tschechoslowakischen Rekrutenkontingents.
+Found
+MODSMD_ARTICLE08: Unterhausnachwahl in Richmond.
+Found
+MODSMD_ARTICLE09: Kredite für Heimbeförderung von Franzosen aus Spanien.
+Found
+MODSMD_ARTICLE10: Waffeuschmuggelschisf aufgebracht.
+Found
+MODSMD_ARTICLE11: Der Finanzskandal in Daressalam.
+Found
+MODSMD_ARTICLE12: Eine Mahnung Hulls an die Welt.
+Found
+MODSMD_ARTICLE13: Senator Borah gegen Roosevelts Reorgamsiernngspläne.
+Found

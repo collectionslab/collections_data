@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Reichspostminister dankt.
+Found
+MODSMD_ARTICLE02: Reichsbankpräsident Dr. Schacht erwidert Besuch Labeyries.
+Found
+MODSMD_ARTICLE03: Anerkennung der Leistungen der BVG.
+Found
+MODSMD_ARTICLE04: Der australische Kultusminister in Deutschland.
+Found
+MODSMD_ARTICLE05: Professor Gerlach seines Baseler Lehramtes enthoben.
+Found
+MODSMD_ARTICLE06: Amerikanische Anerkennung für die deutsche Luftschiffahrt.
+Found
+MODSMD_ARTICLE07: Paris und die deutsche Tienstzeitverlnngerung.
+Found
+MODSMD_ARTICLE08: Schweden Zur Zweijährigen Dienstpflicht in Deutschland.
+Found
+MODSMD_ARTICLE09: Der neue griechische Gesandte in Wien.
+Found
+MODSMD_ARTICLE10: Sammelaktion der französischen Marxisten.
+Found
+MODSMD_ARTICLE11: „Journee Industrielle" gegen Minister Faure.
+Found
+MODSMD_ARTICLE12: Der spanische Gesandte in Sofia unterstellt sich Burgos.
+Found
+MODSMD_ARTICLE13: Spanisches Negiernngsflugzeug beschlagnahmt.
+Found
+MODSMD_ARTICLE14: „Moruing Post" gegen Sir Walter Citrine.
+Found
+MODSMD_ARTICLE15: Schach-Olympia München 1936.
+Found
+MODSMD_ARTICLE16: „Graf Zeppelin" in Friedrichshafen.
+Found

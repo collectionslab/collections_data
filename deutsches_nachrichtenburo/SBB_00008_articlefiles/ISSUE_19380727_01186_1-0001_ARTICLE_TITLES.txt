@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer in der Ludwig-Siebert-Festhalle in Bayreuth.
+Found
+MODSMD_ARTICLE02: Der Führer bei „Tristan und Isolde".
+Found
+MODSMD_ARTICLE03: Einführung des Luftschutzrechts in Oesterreich.
+Found
+MODSMD_ARTICLE04: Empfang für die Volksdeutschen Turner.
+Found
+MODSMD_ARTICLE05: Reichssportführer eröffnet auslandsdeutsche Turner-Tagung
+Found
+MODSMD_ARTICLE06: Die Kette der tschechischen Willkürakte reißt nicht ab.
+Found
+MODSMD_ARTICLE07: „Die Zeit" zur Entsendung Runcimans.
+Found
+MODSMD_ARTICLE08: Paris zur Entsendung Lord Runcimans nach Prag.
+Found
+MODSMD_ARTICLE09: 266 Soldaten ans der Tschecho Slowakei desertiert.
+Found
+MODSMD_ARTICLE10: Der englische Botschafter erneut bei Graf Ciano.
+Found
+MODSMD_ARTICLE11: „Miliza Fascista" über den Deutschland-Besuch Nussos.
+Found
+MODSMD_ARTICLE12: Außenpolitische Besprechungen Bonnets mit Morgenthau.
+Found
+MODSMD_ARTICLE13: Verbreiterung des Kanals von Korinth.
+Found
+MODSMD_ARTICLE14: Japanisch-amerikanisches Bamnwoll-Abkommen verlängert.
+Found
+MODSMD_ARTICLE15: Kandidiert Roosevelt zum dritten Mal?
+Found
+MODSMD_ARTICLE16: Rückflug der „Nordmeer" nach den Azoren.
+Found

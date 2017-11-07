@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Besuch des Führers im Hause der Deutschen Erziehung.
+Found
+MODSMD_ARTICLE02: „Siegfried" im Festspielzyklus.
+Found
+MODSMD_ARTICLE03: Empfang türkischer Lehrer im Berliner Rathaus.
+Found
+MODSMD_ARTICLE04: Furchtbares Unglück bei einem SA-Ausflug. 20 Tote.
+Found
+MODSMD_ARTICLE05: Reichsminister Dr. Goebbels an Stabschef Lutze.
+Found
+MODSMD_ARTICLE06: Rosemeyer gewinnt den Großen Preis von Deutschland.
+Found
+MODSMD_ARTICLE07: Nereide gewinnt das „Braune Band" von Deutschland".
+Found
+MODSMD_ARTICLE08: Die italienische Presse zur Umwandlung der deutschen Gesandtschaft in Abeba in ein Generalkonsulat.
+Not Found
+MODSMD_ARTICLE09: Deutscher Schutz für schwedische Staatsangehörige in Spanien
+Found
+MODSMD_ARTICLE10: Feige kommunistische Bluttat an deutscher Familie.
+Found
+MODSMD_ARTICLE11: Schreckenstage in San Sebastian.
+Found
+MODSMD_ARTICLE12: Angebot eines Ministerpostens an die Nationalisten.
+Found
+MODSMD_ARTICLE13: Blutterror jugendlicher Kommunisten in Malaga.
+Found
+MODSMD_ARTICLE14: Bollstreckung eines Todesurteils.
+Found
+MODSMD_ARTICLE15: Dopprlmvrdcr hingerichtet.
+Found

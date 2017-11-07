@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Führer in der Stadt des 12. Sängerbundesfestes.
+Found
+MODSMD_ARTICLE02: Reichsminister Dr. Goebbels in Breslau eingetroffen.
+Found
+MODSMD_ARTICLE03: Telegrammwechsel zwischen dem Führer und Oberlindober.
+Found
+MODSMD_ARTICLE04: Das Frontkämpfertreffen in Berlin.
+Found
+MODSMD_ARTICLE05: Internationaler Kongreß für Vollblutzucht und Galoppsport.
+Found
+MODSMD_ARTICLE06: Der Kampf gegen die Geschlechtskrankheiten.
+Found
+MODSMD_ARTICLE07: „Erzieher der Jugend".
+Found
+MODSMD_ARTICLE08: Chinesisches Wehrpflichtgesetz in Kraft gesetzt.
+Found
+MODSMD_ARTICLE09: Die Reichskennzahl für die Lebenshaltungskosten im Juli.
+Found

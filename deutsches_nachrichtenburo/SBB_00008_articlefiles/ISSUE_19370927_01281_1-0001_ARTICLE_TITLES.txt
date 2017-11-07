@@ -1,0 +1,16 @@
+MODSMD_ARTICLE02: Die Ankunft Mussolinis.
+Found
+MODSMD_ARTICLE03: Empfang durch die Reichsregierung.
+Found
+MODSMD_ARTICLE04: Die Fahrt über die Triumphstratze.
+Found
+MODSMD_ARTICLE05: Ankunft im Hauss des Reichspräsidenten
+Found
+MODSMD_ARTICLE06: Hamburg empfängt Marschall Badoglio.
+Found
+MODSMD_ARTICLE07: Der italienische Rundfunk sendet einen Gruß.
+Found
+MODSMD_ARTICLE08: Die technischen Marinebesprechungen haben begonnen.
+Found
+MODSMD_ARTICLE09: Englische Kriegsschiffe in Tanger und Oran.
+Found

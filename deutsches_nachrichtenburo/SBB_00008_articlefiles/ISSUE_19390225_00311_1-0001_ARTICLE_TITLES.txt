@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der amerikanische Geschäftsträger gestorben.
+Found
+MODSMD_ARTICLE02: Ter Verband Ausländischer Pressevertreter in Berlin.
+Found
+MODSMD_ARTICLE03: Graf Ciano in Warschau.
+Found
+MODSMD_ARTICLE04: Die Auflösung der Vaterländischen Volksbewegung.
+Found
+MODSMD_ARTICLE05: Beschlüsse des Ministerrats in Prag zu Wirtschaftsfragen.
+Found
+MODSMD_ARTICLE06: Im nationalsozialistischen Geist zusammengeschlossen.
+Found
+MODSMD_ARTICLE07: Veränderungen in der rumänischen Diplomatie.
+Found
+MODSMD_ARTICLE08: Keresztes-Fischer Generaladjutant Horthys.
+Found
+MODSMD_ARTICLE09: Das Judentum in Ungarn.
+Found
+MODSMD_ARTICLE10: Völliges Durcheinander in« Madrid?
+Found
+MODSMD_ARTICLE11: Eine wirkliche „spanische Gefahr".
+Found
+MODSMD_ARTICLE12: Ein oberster Kriegsrat in der Sowjetunion.
+Found
+MODSMD_ARTICLE13: „Demokratisierung" der Tschiangkaischek-Regierung.
+Found
+MODSMD_ARTICLE14: Die Kennzahl der Großhandelspreise vom 22. Februar.
+Found

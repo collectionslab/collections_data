@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer grüßt das Wiener Infanterie-Bataillon.
+Found
+MODSMD_ARTICLE02: Dr. Stuckart mit Durchführung des Anschlusses betraut.
+Found
+MODSMD_ARTICLE03: Das Reich regelt Pahangelegeuheiteu für Oesterreich.
+Found
+MODSMD_ARTICLE04: Oesterreichischer Besuch in Leipzig und Düsseldorf.
+Found
+MODSMD_ARTICLE05: Besuch ehemaliger Gewerkschaftsführer Oesterreichs.
+Found
+MODSMD_ARTICLE06: Parade in Wien.
+Found
+MODSMD_ARTICLE07: Massenspeisungen durch die Wehrmacht in Wien.
+Found
+MODSMD_ARTICLE08: Großzügige Hilfe für die Wiener Privattheater.
+Found
+MODSMD_ARTICLE09: Ter Wiener Nordwestbahnhof wird Versammlungsraum.
+Found
+MODSMD_ARTICLE10: Gegen wilde Gerüchte um Danzig.
+Found
+MODSMD_ARTICLE11: „Paris Midi" zum Generalappell in der Deutschlandhalle.
+Found
+MODSMD_ARTICLE12: Neue Streiks in Frankreich.
+Found
+MODSMD_ARTICLE13: Umfangreiches Photographierverbot im Prager Gebiet.
+Found
+MODSMD_ARTICLE14: Die außenpolitische Aussprache im Belgrader Senat.
+Found

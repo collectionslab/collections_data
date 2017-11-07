@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Der Führer verließ Wien.
+Found
+MODSMD_ARTICLE02: Kranzniederlegung am Grabe Tirpitz'.
+Found
+MODSMD_ARTICLE03: Der Oberbefehlshaber des Heeres in Olmütz.
+Found
+MODSMD_ARTICLE05: Italienische Bewunderung für Hitlers große Tat.
+Found
+MODSMD_ARTICLE06: Die Besetzung der Karpatho-Ukraine vollzogen.
+Found
+MODSMD_ARTICLE07: Das Judentum die Quelle der tendenziösen Gerüchte.
+Found
+MODSMD_ARTICLE08: Jugoslawien weist Lügeumeldungen zurück.
+Found
+MODSMD_ARTICLE09: Rumänien will keine Juden ins Land lassen.
+Found
+MODSMD_ARTICLE10: Chamberlain rechtfertigt seine Politik.
+Found
+MODSMD_ARTICLE11: Neurath Reichsprotektor.
+Found
+MODSMD_ARTICLE12: Abstimmungssieg der französischen Regierung.
+Found
+MODSMD_ARTICLE13: Gesundheitsausstellung in Kopenhagen.
+Found
+MODSMD_ARTICLE14: Miaja läßt absehen, verhaften, verurteilen.
+Found
+MODSMD_ARTICLE15: Keine Aenderung der japanischen China-Politik.
+Found

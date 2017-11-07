@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Dw Bemühungen zur Beilegung des Fernost-Konflikts.
+Found
+MODSMD_ARTICLE02: Deutschlands Mitwirkung an den Ausgleichsversuchen.
+Found
+MODSMD_ARTICLE03: 11. Internationale Flugplankonserenz in Berlin.
+Found
+MODSMD_ARTICLE04: Die österreichische Regierung entschuldigt sich.
+Found
+MODSMD_ARTICLE05: Zum Besuch Stojadinowitschs bei der Wehrmacht.
+Found
+MODSMD_ARTICLE06: Polnische Studenten neuen einen Judenfreund.
+Found
+MODSMD_ARTICLE07: Handelsabkommen Kowno—Valencia.
+Not Found
+MODSMD_ARTICLE08: Zurückweisung der jüdischen Lügenhetze gegen Polen.
+Found
+MODSMD_ARTICLE09: Polnische Stimmen zur Regierungsbildung in Frankreich.
+Found
+MODSMD_ARTICLE10: „Regierung ohne dauerhafte Parlamentsarbeit".
+Found
+MODSMD_ARTICLE11: London zur neuen französischen Regierung.
+Found
+MODSMD_ARTICLE12: Die „Schlesien" besucht die Deutschen in Patagonien.
+Found
+MODSMD_ARTICLE13: 45 Opfer eines Brandunglücks.
+Found

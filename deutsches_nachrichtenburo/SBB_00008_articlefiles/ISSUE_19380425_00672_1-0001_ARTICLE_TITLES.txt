@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Ehrung von Professor Dr. Max Planck.
+Found
+MODSMD_ARTICLE02: Neues deutsches Schulgebäude in Antwerpen.
+Found
+MODSMD_ARTICLE03: Der Chef der belgischen Luftstreitkräfte amtsenthoben.
+Found
+MODSMD_ARTICLE04: Kongreß der katholischen Parteien Belgiens.
+Found
+MODSMD_ARTICLE05: Hore-Belisha in Paris.
+Found
+MODSMD_ARTICLE06: Streik verzögert Landesverteidigungsbauten bei Toulon.
+Found
+MODSMD_ARTICLE07: Verhaftung eines tunesischen Rechtsanwaltes in Paris.
+Found
+MODSMD_ARTICLE08: London Zu den englisch-französischen Verhandlungen.
+Found
+MODSMD_ARTICLE09: Vor Abschluß des englisch-irischen^Vertrages.
+Found
+MODSMD_ARTICLE10: Englisch-marxistische Agitation für Sowjetspanien.
+Found
+MODSMD_ARTICLE11: Erfolgreicher Vorstoß bei Montalban.
+Found
+MODSMD_ARTICLE12: 899 Verhaftungen in der Sowjetunion.
+Found
+MODSMD_ARTICLE13: Die neuesten Opfer Stalins: 192 orthodoxe Priester.
+Found
+MODSMD_ARTICLE14: Leibesvisitation aller Moskau-Reisenden.
+Found
+MODSMD_ARTICLE15: Gewerkschaftsabsage an Moskau.
+Found
+MODSMD_ARTICLE16: Kabinettskrise in Aegypten.
+Found

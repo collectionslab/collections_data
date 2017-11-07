@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer belohnt einen braven Retter.
+Found
+MODSMD_ARTICLE02: Ernennungen beim Volksgerichtshof.
+Found
+MODSMD_ARTICLE03: „Gazeta Polska" über die Lage in Deutschland.
+Found
+MODSMD_ARTICLE04: 52 Ukrainer wegen illegaler Betätigung verurteilt.
+Found
+MODSMD_ARTICLE05: Die ungarische Friedenspolitik.
+Found
+MODSMD_ARTICLE06: Weihnachtsfeier der KdF.-Italienfahrer in Neapel.
+Found
+MODSMD_ARTICLE07: Eine Weihnachtsbotschaft General Francos.
+Found
+MODSMD_ARTICLE08: Die Kämpfe nm Teruel dauern an.
+Found
+MODSMD_ARTICLE09: Französische Eisenbahnanleihe an England zurückgezahlt.
+Found
+MODSMD_ARTICLE10: Halms meldet: „Wahre Schlacht in Nordpalästina".
+Found
+MODSMD_ARTICLE11: Moskau kritisiert Delbos' Osteuropareise.
+Found
+MODSMD_ARTICLE12: „Die Hinrichtungen erwecken Abscheu vor dem Sowjetsystem".
+Found
+MODSMD_ARTICLE13: Paraguay verhaftet ausländische Kommunistenführer.
+Found
+MODSMD_ARTICLE14: Der „Panay"-Zwischenfall beigelegt.
+Found
+MODSMD_ARTICLE15: In USA. Zunahme der Arbeitslosenzahl.
+Found
+MODSMD_ARTICLE16: Die Kennzahl der Großhandelspreise vom 21. Dezember.
+Found

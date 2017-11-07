@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Finnische Frauen im Gästehaus der Neichssrauenfuhrung.
+Found
+MODSMD_ARTICLE02: Jahrestagung deutscher Verwaltungsakademien.
+Found
+MODSMD_ARTICLE03: Dr. Gärtner im Haus der Faschistischen Partei.
+Found
+MODSMD_ARTICLE04: Die italienischen Spanienfreiwilligen Montag in Neapel.
+Found
+MODSMD_ARTICLE05: Belgrader „Prawda" über die Parade.
+Found
+MODSMD_ARTICLE06: Der jugoslawische Handelsminister wieder in Belgrad.
+Found
+MODSMD_ARTICLE07: Englisch-Polnischer Beistandspakt.
+Found
+MODSMD_ARTICLE08: Polnische „Jnformationskommission".
+Found
+MODSMD_ARTICLE09: Dementi einer niederträchtigen demokratischen Lüge.
+Found
+MODSMD_ARTICLE10: USA.-Botschafter in Burgos eingetroffen.
+Found
+MODSMD_ARTICLE11: Italienische Buchausstellung in Lissabon.
+Found
+MODSMD_ARTICLE12: Englisches U-Boot bei Abnahmefahrt gesunken.
+Found
+MODSMD_ARTICLE13: Jüdischer „Kulturpionier" ergaunert 100 Millionen Frankem
+Found
+MODSMD_ARTICLE14: 15 Tote an einem Tage allein in Jerusalem.
+Found
+MODSMD_ARTICLE15: Stimmungsrummel soll Roosevelt retten.
+Found
+MODSMD_ARTICLE16: Amerika hat imperiale Pläne am Südpol.
+Found
+MODSMD_ARTICLE17: USA-Ministerium hat es eilig.
+Found
+MODSMD_ARTICLE18: Das „Darlehen" des jüdischen „Rechts"-Anwalis.
+Found

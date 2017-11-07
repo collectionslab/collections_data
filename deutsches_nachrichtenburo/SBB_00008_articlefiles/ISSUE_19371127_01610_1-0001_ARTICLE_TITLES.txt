@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Abschluß der Reichskulturkammertaguug.
+Found
+MODSMD_ARTICLE02: Präsident der Reichsmusikkammer, Peter Raabe, 65 Jahre.
+Found
+MODSMD_ARTICLE03: Vertreter Japans und Italiens in der Anti-Komintern.
+Found
+MODSMD_ARTICLE04: Auszeichnungen für das deutsche Museumswesen.
+Found
+MODSMD_ARTICLE05: Neue Reichsreferentin für den BdM.
+Found
+MODSMD_ARTICLE06: Henri Pichot in Lübeck.
+Found
+MODSMD_ARTICLE07: Das Buch ein Mittler zwischen den Völkern.
+Found
+MODSMD_ARTICLE08: Unterredung Francas mit einem Havas-Vertreter.
+Found
+MODSMD_ARTICLE09: „Expreß Poranuy" warnt.
+Found
+MODSMD_ARTICLE10: Herzog Pozzo di Borgo verhaftet.
+Found
+MODSMD_ARTICLE11: Streik in den elsüssischen Kaligruben.
+Found
+MODSMD_ARTICLE12: „Bedenkliche Moskauer Bindungen".
+Found
+MODSMD_ARTICLE13: König Boris von Bulgarien in Belgrad.
+Found
+MODSMD_ARTICLE14: Frachtflugzeug in Crohdon verunglückt.
+Found
+MODSMD_ARTICLE15: Scheich Farhun Saudi hingerichtet.
+Found

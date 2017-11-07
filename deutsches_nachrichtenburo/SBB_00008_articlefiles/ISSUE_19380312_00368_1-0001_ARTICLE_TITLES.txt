@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ein Volk, ein Reich, ein Führer! Ansprache des Majors Klempner.
+Found
+MODSMD_ARTICLE02: Ganz Oesteereich unteem Hakenkreuz!
+Found
+MODSMD_ARTICLE03: Die deutsche Schicksalsgemeinschaft.
+Found
+MODSMD_ARTICLE04: „Nationalsozialisten, Nationalsozialistinnen!
+Found
+MODSMD_ARTICLE05: Neuer Leiter der Amtlichen Nachrichtenstelle.
+Found
+MODSMD_ARTICLE06: Österreichische Polizei trägt das Hakenkreuz.
+Found
+MODSMD_ARTICLE07: Italienische Absage an Paris.
+Found
+MODSMD_ARTICLE08: Das Ausland zu Oesterreich.
+Found
+MODSMD_ARTICLE09: Göring Vertreter des Führers.
+Found
+MODSMD_ARTICLE10: Die Mitglieder der Regierung Seyß-Jnquart.
+Found
+MODSMD_ARTICLE11: Senator Soudan als Nachfolger de Mans vorgeschlagen.
+Found

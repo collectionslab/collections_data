@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Die öffentlichen Gebäude flaggen auch am Montag.
+Found
+MODSMD_ARTICLE02: Abschluß der 3. Jahrestagung der Reichsfilmkammer.
+Found
+MODSMD_ARTICLE03: Dr. Ley in Nürnberg.
+Found
+MODSMD_ARTICLE04: Ein deutscher Lehrer von den Tschechen verhaftet.
+Found
+MODSMD_ARTICLE05: Paris zu den Vorgängen in der Slowakei.
+Found
+MODSMD_ARTICLE06: Graf Ciano sen. Präsident der Kammer.
+Found
+MODSMD_ARTICLE07: Die Internationale Mustermesse in Brüssel eröffnet.
+Found
+MODSMD_ARTICLE08: Abreise des norwegischen Außenministers nach Paris.
+Found
+MODSMD_ARTICLE09: Sieben Iren wegen Sprengstoffanschlages verurteilt.
+Found
+MODSMD_ARTICLE10: Kantonales System für Palästina?
+Found
+MODSMD_ARTICLE11: Scharfe Sprache des Präsidenten Bose.
+Found
+MODSMD_ARTICLE12: Arita über Japans Haltung zu England und USA.
+Found
+MODSMD_ARTICLE13: Volksentscheid vor einer Kriegserklärung?
+Found
+MODSMD_ARTICLE14: „Eine Lehre für die Vereinigten Staaten."
+Found
+MODSMD_ARTICLE15: Jüdisches Abtreibungsracket in Brooklyn ausgehoben.
+Found
+MODSMD_ARTICLE16: Die „Bremen" in Rio de Janeiro.
+Found
+MODSMD_ARTICLE17: Die Kennzahl der Großhandelspreise vom 8. März.
+Found

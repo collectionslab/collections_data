@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Empfang der Nordischen Verbindungsstelle für Beugt Berg.
+Found
+MODSMD_ARTICLE02: Das neue belgische Kabinett vereidigt.
+Found
+MODSMD_ARTICLE03: Katholische Wortführer der Christusmörder.
+Found
+MODSMD_ARTICLE04: Die römische Presse würdigt die Einnahme von Jgualada.
+Found
+MODSMD_ARTICLE05: Sitzung des nationalspanischen Ministerrats.
+Found
+MODSMD_ARTICLE06: Französische Lieferungen für Barcelona»
+Found
+MODSMD_ARTICLE07: Fabry für schnelle Aufnahme der Beziehungen zu Burgos.
+Found
+MODSMD_ARTICLE08: „Expreß Poranny" gegen Hetzer und Gerüchtemacher.
+Found
+MODSMD_ARTICLE09: Leuiu wird gefeiert in Amerika.
+Found
+MODSMD_ARTICLE10: Immer neue Enthüllungen aus der Sowjet-Industrie.
+Found
+MODSMD_ARTICLE11: Der japanische Haushalt für 1939/40.
+Found
+MODSMD_ARTICLE12: Weitgehende Unterstützung des Kabinetets Hiranuma.
+Found
+MODSMD_ARTICLE13: Scharfe Augriffe im Senat gegen Roosevelt.
+Found
+MODSMD_ARTICLE14: Blockierung der mexikanischen Häfen durch die USA.?
+Found
+MODSMD_ARTICLE15: Die Kennzahl der Großhandelspreise vom 18. Januar.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Ehrenpreis von Dr. Frick.
+Found
+MODSMD_ARTICLE02: Empfang zu Ehren Fernand de Brinons.
+Found
+MODSMD_ARTICLE03: Fernand de Brinon in der Reichführerschule der HJ.
+Found
+MODSMD_ARTICLE04: Sir Arnold Wilson über „Problems of Afriea".
+Found
+MODSMD_ARTICLE05: Das Oberammergauer Passionsspiel-Komitee gebildet.
+Found
+MODSMD_ARTICLE06: Rückgabe einer Ikone ajn Stojadinowitsch.
+Found
+MODSMD_ARTICLE07: Die Regierungserklärung Chautemps'.
+Found
+MODSMD_ARTICLE08: „Generalsekretär der Landesverteidigung" in Frankreich.
+Found
+MODSMD_ARTICLE09: Der Zeeland-Bericht für nächste Woche angekündigt.
+Found
+MODSMD_ARTICLE10: Die Sitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE11: Roosevelt über die Holding-Gesellschaften.
+Found

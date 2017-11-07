@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Abendempfang beim Führer.
+Found
+MODSMD_ARTICLE02: Ehrung einer Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Heldengedenktag und Tag der Wehrfreiheit.
+Found
+MODSMD_ARTICLE04: Minister Kotzias bei Ribbentrop.
+Found
+MODSMD_ARTICLE05: Empfang Zu Ehren des niederländischen Wirtschaftsministers
+Found
+MODSMD_ARTICLE06: Zweigstelle Wien der Deutsch-Bulgarischen Gesellschaft.
+Found
+MODSMD_ARTICLE07: Weites antarktisches Gebiet von Deutschen entdeckt.
+Found
+MODSMD_ARTICLE08: Darre und Rossini im bayerischen Oberland.
+Found
+MODSMD_ARTICLE09: Präsident Cianetti in Bayreuth.
+Found
+MODSMD_ARTICLE10: Torpedoboote nehmen Flüchtlinge an Bord.
+Found
+MODSMD_ARTICLE11: Madrid HM Verstärkung.
+Found
+MODSMD_ARTICLE12: Bomben auf den Hafen von Valencia.
+Found
+MODSMD_ARTICLE13: Nationalsozialistische Md faschistische Jugend.
+Found
+MODSMD_ARTICLE14: Der Vizekönig von Aethiopien auf dem Wege nach Rom.
+Found
+MODSMD_ARTICLE15: Unterredung Cianos mit dem japanischen Botschafter.
+Found
+MODSMD_ARTICLE16: 259 Millionen Pfund für die englischen Luftrüstungen.
+Found
+MODSMD_ARTICLE17: Die Bombenanschläge gehen weiter.
+Found
+MODSMD_ARTICLE18: Abkommen zwischen Chile, Bolivien und Kolumbien.
+Found
+MODSMD_ARTICLE19: Milliarden Pesos für das Erdbebengebiet.
+Found
+MODSMD_ARTICLE20: Arbeitsdienst auch in Brasilien?
+Found
+MODSMD_ARTICLE21: Noosevelt vor Streikpostenketten.
+Found
+MODSMD_ARTICLE22: Die Handelsbeziehungen zwischen USA. und Brasilien.
+Found

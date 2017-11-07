@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Kulturkundgebung in Berlin.
+Found
+MODSMD_ARTICLE02: Belgien ehrt die abgestürzten deutschen Flieger.
+Found
+MODSMD_ARTICLE03: Der Passagierverkehr Ostende—Dover eingestellt.
+Not Found
+MODSMD_ARTICLE04: Abschiedsfeier für Landesgruppenleiter Ettel.
+Found
+MODSMD_ARTICLE05: „60 000 Tonnen an einem einzigen Tage versenkt."
+Found
+MODSMD_ARTICLE06: „England mehr Sklavin als Herrin der Weltmeere".
+Found
+MODSMD_ARTICLE07: Apathie der englischen Heimatfront.
+Found
+MODSMD_ARTICLE08: Ein schwerer Schlag für England.
+Found
+MODSMD_ARTICLE09: „Judengeschmeiß in Konzentrationslager!"
+Found
+MODSMD_ARTICLE10: Ein schwarzer Sonntag für die britische Schiffahrt.
+Found
+MODSMD_ARTICLE11: Der Ruin der Welthäfen an Scheide, Maas und Rhein.
+Found
+MODSMD_ARTICLE12: Entlarvung einer britischen Zwecklüge in Sofia.
+Found
+MODSMD_ARTICLE13: Schwere Verluste einer chinesischen Division.
+Found

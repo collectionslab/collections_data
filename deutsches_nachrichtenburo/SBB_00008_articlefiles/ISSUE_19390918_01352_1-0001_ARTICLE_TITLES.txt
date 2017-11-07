@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Das Wilna-Gebiet will wieder zu Litauen.
+Found
+MODSMD_ARTICLE02: „Slovak" zu den britischen Weltherrschaftsplänen.
+Found
+MODSMD_ARTICLE03: Deutschlands einzigartiger Siegeszug.
+Found
+MODSMD_ARTICLE04: Die Auflösung des polnischen Gewaltstaates.
+Found
+MODSMD_ARTICLE05: Zahllose Ukrainer von den Polen verschleppt.
+Found
+MODSMD_ARTICLE06: Furchtbarer Terror in Warschau.
+Found
+MODSMD_ARTICLE07: Dänische Absage an die Lügenfabrikanten.
+Found
+MODSMD_ARTICLE08: Norwegen: Der letzte Akt des polnischen Dramas begonnen.
+Found
+MODSMD_ARTICLE09: Blockade Deutschlands schwer durchführbar.
+Found
+MODSMD_ARTICLE10: Frankreich kämpft nur für britische Interessen.
+Found
+MODSMD_ARTICLE11: Estland: Der Kampf in Polen nähert sich dem Ende.
+Found
+MODSMD_ARTICLE12: „Deutschland in weit besserer Lage als England."
+Found
+MODSMD_ARTICLE13: Ueberwachung der lettisch-polnischen Grenze verschärft.
+Found
+MODSMD_ARTICLE14: Zuversicht in Moskau.
+Found
+MODSMD_ARTICLE15: 199 polnische Flugzeuge in Tschernowitz interniert.
+Found
+MODSMD_ARTICLE16: Brasilien verstärkt seine Kriegsmarine.
+Found
+MODSMD_ARTICLE17: Tokio vom russischen Einmarsch in Polen stark beeindruckt.
+Found

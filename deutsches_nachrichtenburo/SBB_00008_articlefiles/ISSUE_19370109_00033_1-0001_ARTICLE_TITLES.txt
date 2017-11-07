@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Keine Faschingsfeiern am 39. Januar.
+Found
+MODSMD_ARTICLE02: Jüdische Leihbüchereien kommunistische Schulungsstätten.
+Found
+MODSMD_ARTICLE03: Wilnaer Studenten fordern Sonderplätze für Juden.
+Found
+MODSMD_ARTICLE04: Das militärische Standgerichtsverfahren in Polen.
+Found
+MODSMD_ARTICLE05: Wien und Budapest Zu den Antwortnoten.
+Found
+MODSMD_ARTICLE06: Pariser Blätter für Beschleunigung der Verhandlungen.
+Found
+MODSMD_ARTICLE07: „Einmischung unerläßlich!" Moskauer Frechheiten.
+Found
+MODSMD_ARTICLE08: Besuch des britischen Handelministers in USA.
+Found
+MODSMD_ARTICLE09: Englands Dominien: Gebiete ohne Volk.
+Found
+MODSMD_ARTICLE10: Britische Befestigungspläne im Mittelmaer.
+Found
+MODSMD_ARTICLE11: Für freundschaftliche Lösung des Alexcmdrette-Streites.
+Found
+MODSMD_ARTICLE12: Bauernaufstand gegen das Bolschewistenunheil.
+Found
+MODSMD_ARTICLE13: Vorstoß nationaler Kriegsschiffe.
+Found
+MODSMD_ARTICLE14: Ein New Jorker Vortrag Dr. Reichards.
+Found
+MODSMD_ARTICLE15: Roosevelts Haushaltsbericht.
+Found

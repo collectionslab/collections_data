@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Alle Reserven an Arbeitskräften eingesetzt.
+Found
+MODSMD_ARTICLE02: Fünf internationale Rekorde aufgestellt.
+Found
+MODSMD_ARTICLE03: Das „Haus der Deutschen Technik".
+Found
+MODSMD_ARTICLE04: Tschechische Soldateska schoß sinnlos in die Menge.
+Found
+MODSMD_ARTICLE05: Tschechische Polizei als Urheber übler Pressehetze.
+Found
+MODSMD_ARTICLE06: Auflösung von Sejm und Senat! durch Sondererlaß.
+Found
+MODSMD_ARTICLE07: Eine unverständliche holländische Maßnahme.
+Found
+MODSMD_ARTICLE08: Vormarsch der Japaner in Nordchina.
+Found
+MODSMD_ARTICLE09: Ein wertvoller Fund»
+Found
+MODSMD_ARTICLE10: Gegner der New Deal-Politik in den Kongreß gewählt.
+Found
+MODSMD_ARTICLE11: Er überzeugte sich von den bolschewistischen Greueln.
+Found
+MODSMD_ARTICLE12: Belagerungszustand über Chile verhängt.
+Found

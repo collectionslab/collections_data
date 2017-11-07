@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Sexualmord im Kloster Mariatann.
+Found
+MODSMD_ARTICLE03: Londoner Blätter zu den Viermächte-Besprechungen.
+Found
+MODSMD_ARTICLE04: „Daily Expreß" für deutsch-englische Verständigung.
+Found
+MODSMD_ARTICLE05: Besprechung Eden—Chamberlain über den U-Boot-Angriff.
+Not Found
+MODSMD_ARTICLE06: Anschlag auf die Villa des dänischen Wehrministers.
+Found
+MODSMD_ARTICLE07: Kongreß des polnischen Zentralverbandes „Junges Dorf".
+Found
+MODSMD_ARTICLE08: Einweihung des neuen Budapester Flughafens.
+Found
+MODSMD_ARTICLE09: Gesamtbilanz im Stahlstreik: 11 Tote, MI Verletzte.
+Found
+MODSMD_ARTICLE10: Wieder ein Stahlwerk stillgelegt.
+Found

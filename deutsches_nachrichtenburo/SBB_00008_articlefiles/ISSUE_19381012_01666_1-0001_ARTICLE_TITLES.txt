@@ -1,0 +1,12 @@
+MODSMD_ARTICLE01: Hauptversammlung der Lilienthal Gesellschaft.
+Found
+MODSMD_ARTICLE02: Der Duce im selbstgesteuerten Bomber.
+Found
+MODSMD_ARTICLE03: Privater Besuch Malchins in Mailand.
+Found
+MODSMD_ARTICLE04: Ungarns Verständigungsbereitschaft in Komorn.
+Found
+MODSMD_ARTICLE05: Das Durcheinander in Palästina.
+Found
+MODSMD_ARTICLE06: Wieder Grcnzstrcitigkeiten zwischen Ecuador und Peru.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Finnlandbesuch des Reichsfinanzministers beendet.
+Found
+MODSMD_ARTICLE02: Amnestiegesetz veröffentlicht und in Kraft getreten.
+Found
+MODSMD_ARTICLE03: Tie österreichische Presse weiter im Wichen der Neuordnung.
+Found
+MODSMD_ARTICLE04: Ungarn begrüßt die Zusammenarbeit der deutschen Staaten.
+Found
+MODSMD_ARTICLE05: Rom und die Neuordnung in Oestereich.
+Found
+MODSMD_ARTICLE06: Weitere Einzelheiten der Flucht Budenkos.
+Found
+MODSMD_ARTICLE07: „Der verbrecherische Narr im Kreml."
+Found
+MODSMD_ARTICLE08: Die Finessen der Towjetpvlitik schachmatt gesetzt.
+Found
+MODSMD_ARTICLE09: Berliner rumänische Gesandte zum Staatssekretär ernannt.
+Found
+MODSMD_ARTICLE10: London dementiert eine lächerliche Ente des „Daily Herald".
+Found
+MODSMD_ARTICLE11: Leningrad soll das Singapur Sowjetrußlands werden.
+Found

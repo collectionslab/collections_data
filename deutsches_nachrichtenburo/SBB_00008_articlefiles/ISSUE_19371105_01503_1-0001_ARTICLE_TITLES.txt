@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Deutsch-polnische Uebereinkunft über die Minderheiten.
+Found
+MODSMD_ARTICLE02: Ehrung eigner Hundertjährigen.
+Found
+MODSMD_ARTICLE03: Kamerun-Deutsche opfern 10 000 RM für das WHW.
+Found
+MODSMD_ARTICLE04: Drei neue Institute der Kaiser-Wilhelm-Gesellschaft.
+Found
+MODSMD_ARTICLE05: Ein Reichsschwimmscheiu für die deutsche Jugend.
+Found
+MODSMD_ARTICLE06: Kabinettskrise in Luxemburg gelöst.
+Found
+MODSMD_ARTICLE07: Spaak versucht die Regierungsbildung.
+Found
+MODSMD_ARTICLE08: Werbeagenten für Sowjetspanien auch in Genf verhaftet.
+Found
+MODSMD_ARTICLE09: Spaniens Streitparteien sollen dem Ausschuß zustimmen.
+Found
+MODSMD_ARTICLE10: Bolschewistische Explosivgeschosse an der Madrid-Front.
+Found
+MODSMD_ARTICLE11: Todesurteil gegen den Mörder des Generalkonsuls der USA.
+Found

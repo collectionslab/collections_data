@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Neichsminisier Funk vor dem Führerkorps der HI.
+Found
+MODSMD_ARTICLE03: Bewunderung für die nationalsozialistische Aufbauarbeit.
+Found
+MODSMD_ARTICLE04: Empfang für die französischen Handwerker.
+Found
+MODSMD_ARTICLE05: 1938 erwartet Deutschland 1000 000 ausländische Kraftwagen.
+Found
+MODSMD_ARTICLE06: General Simotmtsch an die deutschen Meger.
+Found
+MODSMD_ARTICLE07: Razzia am Knrfurstendamm.
+Found
+MODSMD_ARTICLE08: 30 MI italienische Arbeiter besuchen Deutschland.
+Found
+MODSMD_ARTICLE09: Cedillo-Aufstand beendet?
+Found

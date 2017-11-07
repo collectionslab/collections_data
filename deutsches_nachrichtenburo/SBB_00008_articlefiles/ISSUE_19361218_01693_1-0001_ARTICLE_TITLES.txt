@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Augenzeugenbericht von den Greueln in Madrid.
+Found
+MODSMD_ARTICLE02: Lebensmittelnot. Keine Kohlen.
+Found
+MODSMD_ARTICLE03: Leninbilder an den Häusern.
+Found
+MODSMD_ARTICLE04: Mit der Pistole Zu Erdarbeiten gezwungen.
+Found
+MODSMD_ARTICLE05: „Undisziplinierte Mörderbande".
+Found
+MODSMD_ARTICLE06: Verbrecherklub „Internationale Brigade".
+Found
+MODSMD_ARTICLE08: Dirnen und Megären im Frauenbataillon.
+Found
+MODSMD_ARTICLE09: Berliner Juden in Madrid.
+Found
+MODSMD_ARTICLE10: Devisenschiebungen für Moses Rosenberg.
+Found
+MODSMD_ARTICLE11: Wohnungsplünderungen bei deutschen Familien.
+Found
+MODSMD_ARTICLE12: Amsterdamer Juden bekamen Spaniens Gold. .
+Found
+MODSMD_ARTICLE13: Die „Times" über die deutschen Kolonialford^rungenl
+Found
+MODSMD_ARTICLE14: Portugiesische Zeitung zu Deutschlands Kolonialansprüchen.
+Found
+MODSMD_ARTICLE15: Nächtliche Haushaltsaussprache in der Pariser Kammer.
+Found
+MODSMD_ARTICLE16: Sitzung des polnischen Ministerrats.
+Found
+MODSMD_ARTICLE17: Ein Brief Tschiangkaischeks?
+Found

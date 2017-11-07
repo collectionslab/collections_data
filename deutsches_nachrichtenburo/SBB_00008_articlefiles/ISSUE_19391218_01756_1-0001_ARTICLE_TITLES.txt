@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Goetho-Medaille für Prof. Dr. Fritz Stein.
+Found
+MODSMD_ARTICLE02: Die Zahl der Opfer an Bord der „Admiral Graf Spee".
+Found
+MODSMD_ARTICLE03: Englische Aengste in Indien.
+Found
+MODSMD_ARTICLE04: Tie letzten Umsiedlerschiffe treffen in Gotenhaven ein.
+Found
+MODSMD_ARTICLE05: „Deine Schuld, England!!"
+Found
+MODSMD_ARTICLE06: Die Moskauer Presse zu der Genfer Komödie.
+Found
+MODSMD_ARTICLE07: Die Russen an der norwegischen Grenze.
+Found
+MODSMD_ARTICLE08: Größter Buttermangel in England.
+Found
+MODSMD_ARTICLE09: Der britische Dampfer „Amble" auf eine Mine gelaufen.
+Found
+MODSMD_ARTICLE10: Pariser Geschmacklosigkeit.
+Found
+MODSMD_ARTICLE11: Der Waziri-Aufstand dauert an.
+Found
+MODSMD_ARTICLE12: Türkische Polizei als Büttel der Deutschenhetzer.
+Found
+MODSMD_ARTICLE13: Zunehmende Teuerung in der Türkei.
+Found
+MODSMD_ARTICLE14: Schwere Strafen für siamesische Putschisten.
+Found
+MODSMD_ARTICLE15: Wieder lebhaftere Kampftätigkeit in Mittelchina.
+Found
+MODSMD_ARTICLE16: Straßenkampf in Peking.
+Found
+MODSMD_ARTICLE17: „Admiral Graf Spee" durch eigene Sprengung vernichtet.
+Found
+MODSMD_ARTICLE18: Japans Außenminister zur politischen Lage.
+Found
+MODSMD_ARTICLE19: Der Chinakonflikt und der Krieg in Europa.
+Found
+MODSMD_ARTICLE20: Englands neuester Propagandatrick in USA.
+Found
+MODSMD_ARTICLE21: Schwere Verluste auf dem britischen Kreuzer „Exeter".
+Found

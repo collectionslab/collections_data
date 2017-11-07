@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Deutsche Auszeichnung für Jean Sibelius.
+Found
+MODSMD_ARTICLE02: Beide Luftschiffe an ihren Zielen.
+Found
+MODSMD_ARTICLE03: Schau für wissenschaftliche und Fremdenwerbungsfilme.
+Found
+MODSMD_ARTICLE04: Tie Währungsvorlage von der Kammer angenommen.
+Found
+MODSMD_ARTICLE05: „Temps" warnt vor Experimenten in Genf.
+Found
+MODSMD_ARTICLE06: „Mittlere Lösung" in der Schweiz.
+Found
+MODSMD_ARTICLE07: Die Bedeutung des Goldes für die Schweizer Währung.
+Found
+MODSMD_ARTICLE08: Morgenthau über das Währungsabkommen.
+Found
+MODSMD_ARTICLE09: Die Türkei im Sterlingblock.
+Found
+MODSMD_ARTICLE10: Die Priester der Kathedrale von Toledo ermordet.
+Found

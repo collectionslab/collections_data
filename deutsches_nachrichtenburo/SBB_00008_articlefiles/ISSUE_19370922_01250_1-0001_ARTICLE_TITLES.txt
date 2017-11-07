@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Der Führer im Manövergelände.
+Found
+MODSMD_ARTICLE02: 1500 Faschisten Gäste der DAF. in Berlin.
+Found
+MODSMD_ARTICLE03: Heldenehrung der italienischen Arbeiterurlauber.
+Found
+MODSMD_ARTICLE04: Tr. Ley an Starace.
+Found
+MODSMD_ARTICLE05: NS-Marinebund siedelt nach Berlin über.
+Found
+MODSMD_ARTICLE06: Sammelt Bucheckern!
+Found
+MODSMD_ARTICLE07: Wechsel in der Leitung der Reichspostdirektion Münster.
+Found
+MODSMD_ARTICLE08: Ernennungen durch den Duce.
+Found
+MODSMD_ARTICLE09: Neuer Schlag gegen das deutsche Schulwesen in Polen.
+Found
+MODSMD_ARTICLE10: Verschärfter Schutz keimenden Lebens in Oesterreich.
+Found
+MODSMD_ARTICLE11: Ministerrat in Wien«
+Found
+MODSMD_ARTICLE12: Genf und die polnische Presse.
+Found
+MODSMD_ARTICLE13: Die deutsche Beteiligung an der Marseiller Messe.
+Found
+MODSMD_ARTICLE14: Die städtischen Angestellten von Lille wollen streiken.
+Found
+MODSMD_ARTICLE15: Frankreichs Schraube ohne Ende.
+Found
+MODSMD_ARTICLE16: Aussprache zwischen Eden und Chamberlain.
+Found
+MODSMD_ARTICLE17: Japans Antwortnote in London eingetroffen.
+Found
+MODSMD_ARTICLE18: Sowjetrussische Herbstmanöver.
+Found
+MODSMD_ARTICLE19: Die Blutwelle in Sowjeirustland.
+Found
+MODSMD_ARTICLE20: Brasilien ehrt Opfer des Kommunisten-Aufstandes 1935.
+Found
+MODSMD_ARTICLE21: Tie Wirkung der japanischen Luftangriffe aus Nanking.
+Found
+MODSMD_ARTICLE22: Tschangtschau von Japanern eingenommen.
+Found

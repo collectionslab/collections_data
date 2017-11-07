@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der Wiener Schiedsspruch.
+Found
+MODSMD_ARTICLE02: Tie Militärsachverständigen Budapests und Prag? einig.
+Found
+MODSMD_ARTICLE03: Reform des tschechischen Pressewesens gefordert.
+Found
+MODSMD_ARTICLE04: Wochensitzung des britischen Kabinetts.
+Found
+MODSMD_ARTICLE05: Lettlands Außenminister fährt nach London.
+Found
+MODSMD_ARTICLE06: Internationale Konferenz zur Zeit nicht zweckmäßig.
+Found
+MODSMD_ARTICLE07: Chamberlain zum englisch-italienischen Abkommen.
+Found
+MODSMD_ARTICLE08: Fünf neue Todesurteile gegen Araber.
+Found
+MODSMD_ARTICLE09: sind erneut Eisenbahnschienen Zerstört worden.
+Found

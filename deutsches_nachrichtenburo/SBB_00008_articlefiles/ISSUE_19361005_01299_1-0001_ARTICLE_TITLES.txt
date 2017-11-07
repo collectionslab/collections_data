@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Der deutsche Rundfunk zum Jubiläum der NAC.
+Found
+MODSMD_ARTICLE02: Die deutschen Ungarnfahrer wieder daheim.
+Found
+MODSMD_ARTICLE03: Die Führertagung des Heimatschutzes unterbrochen.
+Found
+MODSMD_ARTICLE04: Vaterländische Front und Heimaischutz.
+Found
+MODSMD_ARTICLE05: Oesterreich wertet auch jetzt nicht ab.
+Found
+MODSMD_ARTICLE06: Ausländische Politiker in Wien.
+Found
+MODSMD_ARTICLE07: Besserung im Befinden Gvmbvs'.
+Found
+MODSMD_ARTICLE08: Csillery für Sozial- und Wirtschaftsform.
+Found
+MODSMD_ARTICLE09: „Die Verteilung der Kolonien schädigt die Weltwirtschaft".
+Found
+MODSMD_ARTICLE10: Französisches „Nevolntionsgericht" fällt „Todesurteil".
+Found
+MODSMD_ARTICLE11: Borbereitung für den Angriff auf Madrid.
+Found
+MODSMD_ARTICLE12: Weitere Fortschritte der Nationalisten.
+Found
+MODSMD_ARTICLE13: Nationalistischer Erfolg vor Madrid.
+Found
+MODSMD_ARTICLE14: Madrider Bombenfabrik durch Fliegerangriff zerstört.
+Found
+MODSMD_ARTICLE15: Einschränkung des Wasserverbrauchs in Madrid.
+Found
+MODSMD_ARTICLE16: Versicherungen General Francos über Marokko.
+Found
+MODSMD_ARTICLE17: Neue Verstärkungen aus Spanisch-Marokko.
+Found
+MODSMD_ARTICLE18: Arabische Prämie auf den Kopf Dills.
+Found
+MODSMD_ARTICLE19: Auch Kalinin vor dem Sturz?
+Found
+MODSMD_ARTICLE20: Kommunistische Generalstreikhetze in Paraguay.
+Found

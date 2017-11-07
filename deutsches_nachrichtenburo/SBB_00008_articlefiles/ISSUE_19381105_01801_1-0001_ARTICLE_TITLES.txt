@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Der Führer in Weimar. Brausender Jubel empfangt Adolf Hitler.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Dr. Lammers empfängt italienische Verwaltungsbeamte.
+Found
+MODSMD_ARTICLE04: Italien gedachte der Toten des großen Krieges.
+Found
+MODSMD_ARTICLE05: Demarkationslinie Ungarn—Tschecho-Slowakei.
+Not Found
+MODSMD_ARTICLE06: „Deutschland fordert nur sein Eigentum Zurück".
+Found
+MODSMD_ARTICLE07: Der Besuch der englischen Staatsmänner in Paris.
+Found
+MODSMD_ARTICLE08: Der ungarische Einmarsch beginnt.
+Found
+MODSMD_ARTICLE09: Absturz eines englischen Passagierslugzeuges.
+Found
+MODSMD_ARTICLE10: Kreuzer „Emden" in Constanza.
+Found
+MODSMD_ARTICLE11: Amerikanisches Tendenzurteil aufgehoben.
+Found

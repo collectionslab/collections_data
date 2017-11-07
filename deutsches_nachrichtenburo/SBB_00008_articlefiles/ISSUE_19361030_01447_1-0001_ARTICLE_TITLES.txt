@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: M Jahre Gau Grotz-Verlw. Ehrenwachen an den Gräbern der Ermordeten.
+Found
+MODSMD_ARTICLE02: Dr. Goebbels im Berliner Rathaus.
+Found
+MODSMD_ARTICLE03: Eine Schenkung der Stadt Verlin für Dr.' Goebbels.
+Found
+MODSMD_ARTICLE04: Neichsminister Dr. Frick an den Reichsjugendführer.
+Found
+MODSMD_ARTICLE05: Eröffnung der Reichsmusiktage der HI in Braunschweig.
+Found
+MODSMD_ARTICLE06: Die bolschewistische Gottlosenseuche.
+Found
+MODSMD_ARTICLE07: Staatsbesuch Mussolinis in Mailand.
+Found
+MODSMD_ARTICLE08: Thronrede des Königs von England.
+Found
+MODSMD_ARTICLE09: 129 Millionen Franken für die französische Handelsflotte.
+Found
+MODSMD_ARTICLE10: Der Jahrestag der Gründung der „Falange Espanola".
+Found
+MODSMD_ARTICLE11: Hafenarbeiterstreik an der amerikanischen Pazific-Küste.
+Found

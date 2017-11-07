@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der Führer an den Großdeutschen Studententag.
+Found
+MODSMD_ARTICLE02: Italienische Studentenabordnung in WürZburg.
+Found
+MODSMD_ARTICLE03: Rumänische Berkel,rsnucstellung in Berlin eröffnet.
+Found
+MODSMD_ARTICLE04: Reichsarbeitsführer Hier! nach Italien abgereist.
+Found
+MODSMD_ARTICLE05: Teutfchlandfahrt sinnischer Jäger und Freikorpskämpfer.
+Found
+MODSMD_ARTICLE07: Ernennungen im Reichsfinanzministerium.
+Found
+MODSMD_ARTICLE08: Würdige Denkmäler für deutsche Gefallene.
+Found
+MODSMD_ARTICLE09: Milch besichtigte die Fliegerstadt Guidoma.
+Found
+MODSMD_ARTICLE10: Die Rückkehr der italienischen Spanien-Freiwilligen.
+Found
+MODSMD_ARTICLE11: Die 5l)-Jahrfeier der Universität Sofia.
+Found
+MODSMD_ARTICLE12: Ter französische Botschafter in Moskau bei Bonnet.
+Found
+MODSMD_ARTICLE13: Die Sowjets bleiben in Genf unnachgiebig.
+Found
+MODSMD_ARTICLE14: Londoner Orakel über den Pakt mit Moskau.
+Found
+MODSMD_ARTICLE15: Gesetz über das britische Munitionsministerium.
+Found
+MODSMD_ARTICLE16: Internationaler Rekord im Zielstreckenflug.
+Found

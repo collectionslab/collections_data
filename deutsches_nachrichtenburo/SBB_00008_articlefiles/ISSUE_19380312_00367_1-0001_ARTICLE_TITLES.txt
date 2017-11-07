@@ -1,0 +1,16 @@
+MODSMD_ARTICLE01: Heute mittag 12 Uhr:
+Found
+MODSMD_ARTICLE02: Der Stapellauf des zweiten KdF.-Schiffes verschoben.
+Found
+MODSMD_ARTICLE03: Jubel auf dem Wilhelmplatz.
+Found
+MODSMD_ARTICLE04: Neuer Wiener Bürgermeister.
+Found
+MODSMD_ARTICLE05: Volksverräter fliehen über die Grenze.
+Found
+MODSMD_ARTICLE06: Das Krukenkreuz ist verschwunden.
+Found
+MODSMD_ARTICLE07: Linz: Nationalsozialisten übernehmen die öffentliche Gewalt.
+Found
+MODSMD_ARTICLE08: Freudenkundgebungen in Oesterreich.
+Found

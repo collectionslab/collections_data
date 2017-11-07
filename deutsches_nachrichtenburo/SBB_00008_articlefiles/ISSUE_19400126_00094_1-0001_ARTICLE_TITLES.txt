@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Wieder zwei Dampfer durch Minen vernichtet.
+Found
+MODSMD_ARTICLE02: 25 000 Postsendungen gestohlen!
+Found
+MODSMD_ARTICLE03: Auch die Maori sollen für England bluten.
+Found
+MODSMD_ARTICLE04: Unsere Pflicht: dem Genius des Führers zu vertrauen!
+Found
+MODSMD_ARTICLE05: Chamberlain weicht wieder aus.
+Found
+MODSMD_ARTICLE06: „Athenia"-Schwindel sogar von englischem Blatt zugegeben.
+Found
+MODSMD_ARTICLE07: Tevere: „Es steht faul um die Sache der Westmiichte".
+Found
+MODSMD_ARTICLE08: Das britische Schiff „Parkhill" verloren.
+Found
+MODSMD_ARTICLE09: Norwegischer Dampfer auf Mine gelausen.
+Found
+MODSMD_ARTICLE10: Bundesrat Motta beigesetzt.
+Found
+MODSMD_ARTICLE11: Britisches Flugzeug bei Duisburg abgeschossen.
+Found
+MODSMD_ARTICLE12: Finnisches Schiff gesunken.
+Found
+MODSMD_ARTICLE13: „England führt einen schmutzigen Krieg."
+Found
+MODSMD_ARTICLE14: London erzwingt die Auflösung des kanadischen Parlaments.
+Found
+MODSMD_ARTICLE15: Borah in seiner Heimat beigesetzt.
+Found
+MODSMD_ARTICLE16: Nachtragshaushalt vom amerikanischen Senat angenommen.
+Found

@@ -1,0 +1,40 @@
+MODSMD_ARTICLE01: Austausch von Neujahrsglückwünschen»
+Found
+MODSMD_ARTICLE02: Rudolf Heß dankt für die Weihnachtsgrüße.
+Found
+MODSMD_ARTICLE03: Angelini bei Mussolini.
+Found
+MODSMD_ARTICLE04: Tie römische Presse zum Nekordflug der „Arado 79".
+Found
+MODSMD_ARTICLE05: Ausbau der Luftverkehrslinien im italienischen Imperium.
+Found
+MODSMD_ARTICLE06: „Daladier-Reise ein Fehlgriff Frankreichs."
+Found
+MODSMD_ARTICLE07: Daladier setzt seine Reise nach Tunis fort.
+Found
+MODSMD_ARTICLE08: „Der französisch-sowjetrussifche Pakt ein schwerer Irrtum."
+Found
+MODSMD_ARTICLE09: Tuchesne fordert Verstärkung des Offizierskorps.
+Found
+MODSMD_ARTICLE10: Die Freimaurer wollen Sowjetspanien helfen.
+Found
+MODSMD_ARTICLE11: Jetzt wollen die Anarchisten an die Futterkrippe.
+Found
+MODSMD_ARTICLE12: Unaufhaltsamer Vormarsch Francos in Katalonien.
+Found
+MODSMD_ARTICLE13: Antisemitische Aktivität der tschechischen Imgend.
+Found
+MODSMD_ARTICLE14: Ungebetene Gäste!
+Found
+MODSMD_ARTICLE15: Todesurteile Hegen 5 GPU.-Funktionäre in Kiew.
+Found
+MODSMD_ARTICLE16: Die Araber gegen Waffenstillstandsvorschlag.
+Found
+MODSMD_ARTICLE17: Arabische Führerkonferenz in Kairo.
+Found
+MODSMD_ARTICLE18: Wangtschingwei völlig fallen gelassen.
+Found
+MODSMD_ARTICLE19: Tschiangkaischek für Wangtschingwei?
+Found
+MODSMD_ARTICLE20: Amerikas stilgerechter Jahresauftakt.
+Found

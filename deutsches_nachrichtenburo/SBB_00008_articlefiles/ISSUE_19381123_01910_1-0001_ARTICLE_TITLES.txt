@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Juden-Gesetze auch in Danzig verkündet.
+Found
+MODSMD_ARTICLE02: „Regime Fascista" entlarvt die „demokratische" Welt.
+Found
+MODSMD_ARTICLE03: Jmredp vor der Regierungspartei der Nationalen Einheit.
+Found
+MODSMD_ARTICLE04: Parlamentarische Intrigen in Paris.
+Found
+MODSMD_ARTICLE05: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE06: Kämpfer gegen den Bolschewismus.
+Found
+MODSMD_ARTICLE07: Das Verbot der „Vaterländischen Volksbewegung".
+Found
+MODSMD_ARTICLE08: Die Pressezensur in Palästina.
+Found
+MODSMD_ARTICLE09: Allgemeines Ausgehverbot über Palästina verhängt.
+Found
+MODSMD_ARTICLE10: Auch Kanada ist nicht der Platz für Juden.
+Found
+MODSMD_ARTICLE11: „Amerikaner, kehrt vor der eigenen Tür!"
+Found
+MODSMD_ARTICLE12: Die „zwischenhändlerische Parasitenklasse" unerwünscht.
+Found

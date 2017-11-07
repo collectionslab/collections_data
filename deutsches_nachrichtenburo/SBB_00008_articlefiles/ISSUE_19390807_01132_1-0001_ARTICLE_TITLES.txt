@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Hermann Göring bei den Junkerswerken in Dissau.
+Found
+MODSMD_ARTICLE02: Feier der Befreiung Ungarns vom Bolschewismus.
+Found
+MODSMD_ARTICLE03: Baltische Staaten verteidigen ihre Neutralität.
+Found
+MODSMD_ARTICLE04: Scotland Aard auf Spionenjagd.
+Found
+MODSMD_ARTICLE05: Strang verläßt Moskau.
+Found
+MODSMD_ARTICLE06: Londons Kurs scharf aintijapanisch.
+Found
+MODSMD_ARTICLE07: Die Militärmissionen auf dem Wege nach Moskau.
+Found
+MODSMD_ARTICLE08: Irischer Geheimsender wieder in Betrieb.
+Found
+MODSMD_ARTICLE09: Wettersorgen der englischen Manöverleitung.
+Found
+MODSMD_ARTICLE10: England benötigt Zeit zum „Ueberlegen und Erwägen".
+Found
+MODSMD_ARTICLE11: Verstärkte antibritische Bewegung in Nordchina.
+Found
+MODSMD_ARTICLE12: England beugt sich den japanischen Forderungen.
+Found
+MODSMD_ARTICLE13: Indische Truppentransporter mit geheimnisvollem Reiseziel.
+Found
+MODSMD_ARTICLE14: Politisches Attentat in Mexiko.
+Found
+MODSMD_ARTICLE15: Der amerikanische Kongreß vertagt.
+Found

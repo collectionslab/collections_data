@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Geburtstagswünsche des Führers an Ludendorff.
+Found
+MODSMD_ARTICLE02: Die Ueberwachung des Verkehrs der deutschen Handelsschiffahrt nach Spanien.
+Not Found
+MODSMD_ARTICLE03: Die deutsch-dänischen Handelsverhandlungen erfolgreich.
+Found
+MODSMD_ARTICLE04: Reichsminister Ruft besucht Olympia.
+Found
+MODSMD_ARTICLE05: Tie Kommunisten-Seuche in Polen.
+Found
+MODSMD_ARTICLE06: Wieder Bombenwurf in Warschauer Hochschule.
+Found
+MODSMD_ARTICLE07: Vertrag Rom—Bukarest in Sicht?
+Not Found
+MODSMD_ARTICLE08: Der Zweite Ruhetag und die Kleinhändler.
+Found
+MODSMD_ARTICLE09: Immer wieder neue Streiks in Frankreich.
+Found
+MODSMD_ARTICLE10: Die Ausbildung bolschewistischer Flieger in Frankreich.
+Found
+MODSMD_ARTICLE11: Streit um die französische Einmischung in Spanien.
+Found
+MODSMD_ARTICLE12: Weitere Lieferungen an die spanischen Bolschewisten.
+Found
+MODSMD_ARTICLE13: Sprengstoff für die spanischen Bolschewisten?
+Found
+MODSMD_ARTICLE14: Der nationale Heeresbericht.
+Found
+MODSMD_ARTICLE15: Die „Times" Zu Edens Brüsseler Besuch.
+Found
+MODSMD_ARTICLE16: Eine Warnung des ErZbischofs von Westminster.
+Found
+MODSMD_ARTICLE17: Das japanische Regierungsprogramm.
+Found

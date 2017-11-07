@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Der Führer an Reichsschcchmeister Schwarz.
+Found
+MODSMD_ARTICLE02: Ein Geschenk an den Führer.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels grüßt das deutsche Bauerntum.
+Found
+MODSMD_ARTICLE04: stmnstwürdigung statt Kunstkritik.
+Found
+MODSMD_ARTICLE05: Jahnen übergäbe an das Geschwader „Hindenburg".
+Found
+MODSMD_ARTICLE06: Tagung der Reichsbetriebsgemeinschaft Druck.
+Found
+MODSMD_ARTICLE07: Neue Mitglieder des Reichskulturseuats.
+Found
+MODSMD_ARTICLE08: Tie Hebung des Jeueerschiffes „Elbe I" eingestellt.
+Found
+MODSMD_ARTICLE09: Dänemark ehrt den Reformator Bugenbagen.
+Found
+MODSMD_ARTICLE10: Schulkreuzer „Schleswig-Holstein" in Pernambuco.
+Found
+MODSMD_ARTICLE11: Schwedens Kronprinz bei Ministerpräsident Baldwin.
+Found
+MODSMD_ARTICLE12: Sitzung des Nichteinmischungsunterausschusses.
+Found
+MODSMD_ARTICLE13: Nichteinmischungshauptausschuß tagt am 2. Dezember.
+Found
+MODSMD_ARTICLE14: Einzelheiten zum englischen Waffentransportverbot.
+Found
+MODSMD_ARTICLE15: Bemerkenswerte Moskauer Eingeständnisse.
+Found
+MODSMD_ARTICLE16: Japans Gesandtschaft in Addis Abeba wird Konsulat.
+Found

@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Personalderänderungen in der Kriegsmarine.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Dr. Goebbels verpflichtet Reichs- und Stroßtruppredner.
+Found
+MODSMD_ARTICLE04: Italien zur Chamberlain-Erklärung.
+Found
+MODSMD_ARTICLE05: Die Bedingungen für Zurückziehung der Freiwilligen.
+Found
+MODSMD_ARTICLE06: Katalonien wird von den Roten gesäubert.
+Found
+MODSMD_ARTICLE07: Die rote Flui an der französischen Grenze.
+Found
+MODSMD_ARTICLE08: Ständig neue „Notlandungen" auf französischem Boden.
+Found
+MODSMD_ARTICLE09: Die Amnestievorlage von der Kammer erledigt.
+Found
+MODSMD_ARTICLE10: Nächster Weltkongreß „Freude und Arbeit" in Stockholm.
+Found
+MODSMD_ARTICLE11: Chamberlain sprach auch vor den Juden.
+Found
+MODSMD_ARTICLE12: Noch keine Verhandlungen auf der Palästina-Konferenz.
+Found
+MODSMD_ARTICLE13: Patijn warnt die böswilligen Kritiker.
+Found
+MODSMD_ARTICLE14: Eine Denkschrift der syrischen Regierung über die Lage.
+Found
+MODSMD_ARTICLE15: Militärische Großaktion gegen Araber mißlungen.
+Found
+MODSMD_ARTICLE16: Kapitaliuvestieruug nur nach Rooscvelts Wünschen!
+Found

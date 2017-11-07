@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Empfänge beim Führer.
+Found
+MODSMD_ARTICLE02: Der Dank des Reichsarbeitsministers.
+Found
+MODSMD_ARTICLE03: 200 englische Verkehrsfachleute besuchen Deutschland.
+Found
+MODSMD_ARTICLE04: 2. Deutscher Evangelischer Freikirchen-Delegierter in Genf.
+Found
+MODSMD_ARTICLE05: Pumpversuche im Beichtstuhl.
+Found
+MODSMD_ARTICLE06: Kabinettsrat in Paris.
+Found
+MODSMD_ARTICLE07: Ein französisch-nationalspanischer Zwischenfall?
+Found
+MODSMD_ARTICLE08: 19 Millionen Franken für die spanischen Bolschewismen.
+Found
+MODSMD_ARTICLE09: England schickt einen Konsularvertreter nach Bilbao.
+Found
+MODSMD_ARTICLE10: Wie die Valencia-Bolschewisten Hetzen!
+Found
+MODSMD_ARTICLE11: Italien zur finanziellen Entwicklung in Frankreich.
+Found
+MODSMD_ARTICLE12: Das Dreimächte-Währungsabkommen bleibt.
+Found
+MODSMD_ARTICLE13: Neue sowjetrussische Grenzverletzungen auf dem Amur.
+Found
+MODSMD_ARTICLE14: Dr. Bischoff-Berlin Europameister der Starbootklasse.
+Found

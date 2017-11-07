@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Deutscher Ohnehaltflug Deutschland—Amerika.
+Not Found
+MODSMD_ARTICLE03: Marschall Balbo an der Ostsee.
+Found
+MODSMD_ARTICLE04: Der Lehrgang für die österreichischen Rechtswahrer.
+Found
+MODSMD_ARTICLE05: Ein Jugoslawe über seine Eindrücke in Wien.
+Found
+MODSMD_ARTICLE06: „Gazeta Polska" über den Umbruch in Oesterreich.
+Found
+MODSMD_ARTICLE07: Die Slowaken wollen eine selbständige Nation sein.
+Found
+MODSMD_ARTICLE08: Der Tscheche Matuschka der Hauptmörder Paierles.
+Found
+MODSMD_ARTICLE09: Oberitaliens Presse zu dem Empsang Balbos in Deutschland.
+Found
+MODSMD_ARTICLE10: Die englischen Flugzeugbestellungen in Amerika.
+Found
+MODSMD_ARTICLE11: Schweres Flugzeugunglück in Ungarn: 12 Tote.
+Found
+MODSMD_ARTICLE12: Rumänien erwartet Aufschwung des Donau-Verkehrs.
+Found
+MODSMD_ARTICLE13: Nationaler Augriff auf die Provinz Ciudal Real.
+Found
+MODSMD_ARTICLE14: Die Kampfhandlungen bei Schangfeng bereits eingestellt.
+Found
+MODSMD_ARTICLE15: Tokio bestätigt die Moskauer Abmachungen.
+Found

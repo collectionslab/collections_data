@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Staatssekretär Balle in! Berlin.
+Found
+MODSMD_ARTICLE02: Der Prozeß Strafella.
+Found
+MODSMD_ARTICLE03: Polen läßt die Maske fallen.
+Found
+MODSMD_ARTICLE04: Italien gegen den Sandschak-Bertrag.
+Found
+MODSMD_ARTICLE05: Dr. Frank beim bulgarischen Kultusminister.
+Found
+MODSMD_ARTICLE06: Der Skandal von Oß vor der Kammer.
+Found
+MODSMD_ARTICLE07: England trieb Frankreich zur Aufgabe des Sandschaks.
+Found
+MODSMD_ARTICLE08: Tie türkische Presse zum Bertragsschluß.
+Found
+MODSMD_ARTICLE09: Einkreisungsreise des ägyptischen Außenministers.
+Found
+MODSMD_ARTICLE10: ~Operationsbasis Singapur."
+Found
+MODSMD_ARTICLE11: 22 Todesopfer des jüdischen Bombenattentats in Haifa.
+Found
+MODSMD_ARTICLE12: Bitte Beweise, Herr Roosevelt!
+Found
+MODSMD_ARTICLE13: Roosevelts neuer Ausgabenrekord.
+Found
+MODSMD_ARTICLE14: Juden und New Deal-Beamte Hand in Hand.
+Found
+MODSMD_ARTICLE15: Die Spanienbolschewisten in Mexiko.
+Found
+MODSMD_ARTICLE16: Tie Kennzahl der Großhandelspreise vom 21. Juni.
+Found

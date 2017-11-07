@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Ein historischer Tag für Oesterreich.
+Found
+MODSMD_ARTICLE02: Japanischer Generalkonsul, tödlich verunglückt.
+Found
+MODSMD_ARTICLE03: Sondertreuhänder der Arbeit für die Hohlglasindustrie.
+Found
+MODSMD_ARTICLE04: Für Aufhebung des Kriegszustandes im Memelgebiet.
+Found
+MODSMD_ARTICLE05: Neues Wahlrecht in Ungarn.
+Found
+MODSMD_ARTICLE06: Polen und die Kolonialfrage.
+Found
+MODSMD_ARTICLE07: General Franco sorgt für die Kriegsbeschädigten.
+Found
+MODSMD_ARTICLE08: Die Niederlage des Kommunismus in Spanien.
+Found
+MODSMD_ARTICLE09: Flüchtlingssuche auf französischem Gebiet.
+Found
+MODSMD_ARTICLE10: Die französischen Munitionslieferungen an Barcelona.
+Found

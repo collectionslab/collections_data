@@ -1,0 +1,28 @@
+MODSMD_ARTICLE02: Das Weltecho der großen Führerrede.
+Found
+MODSMD_ARTICLE03: Rom: Abrechnung mit Englands scheinheiligen Methoden.
+Found
+MODSMD_ARTICLE04: Mailand: Eine Rede von größter internationaler Bedeutung.
+Found
+MODSMD_ARTICLE05: Tiefer Eindruck der Führerrede in Prag.
+Found
+MODSMD_ARTICLE06: Budapest: Eine ausgesprochene Friedensrede.
+Found
+MODSMD_ARTICLE07: Belgrad: „Adolf Hitlers ehrlicher Friedenswille".
+Found
+MODSMD_ARTICLE08: Kopenhagen: „Neue Perspektiven in der Politik".
+Found
+MODSMD_ARTICLE09: Warschau stark beeindruckt.
+Found
+MODSMD_ARTICLE10: Starkes Echo in Holland.
+Found
+MODSMD_ARTICLE11: Die Einkreisungshetzer reagierten sauer.
+Found
+MODSMD_ARTICLE12: Stärkste Beachtung auch im britischen Weltreich.
+Found
+MODSMD_ARTICLE13: Verworrenheit in der Pariser Presse.
+Found
+MODSMD_ARTICLE14: New Jork: Noch keine Kommentare.
+Found
+MODSMD_ARTICLE15: Tokio unterstreicht: Warnung an die Einkreisungspolitiker.
+Found

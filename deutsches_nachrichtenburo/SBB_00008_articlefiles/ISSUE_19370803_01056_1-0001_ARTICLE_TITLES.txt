@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Abschiedsgruß der österreichsichen Sänger an den Führer.
+Found
+MODSMD_ARTICLE02: Säuberung der Kunstsammlungen in Preußen.
+Found
+MODSMD_ARTICLE03: Sie wollen die Wahrheit nicht hören!
+Found
+MODSMD_ARTICLE04: Wieder ein Volkskommissar spurlos verschwunden.
+Found
+MODSMD_ARTICLE05: Die Abhängigkeit der französischen Politik von Moskau.
+Found
+MODSMD_ARTICLE06: Arbeitsbehinderung durch die CGT-Gewerkschaft.
+Found
+MODSMD_ARTICLE07: Der Bazillenkrieg gegen das nationale Spanien.
+Found
+MODSMD_ARTICLE08: Der nationale Heeresbericht vom Montag.
+Found
+MODSMD_ARTICLE09: Japans Oberkonrmandierender zur Lage in Nordchina.
+Found
+MODSMD_ARTICLE10: Die Japaner verlassen China und die Chinesen Japan.
+Found

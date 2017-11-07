@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der ungarische Kultusminister in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE02: Rudolf Heß im Reichsführerlager der HJ.
+Found
+MODSMD_ARTICLE03: Neuuhundertjahrfeier der Stadt Oerlinghausen.
+Found
+MODSMD_ARTICLE04: Reichsminister Dr. Frick in Bad Kreuznach.
+Found
+MODSMD_ARTICLE05: Autobahn Weyarn—Samerberg dem Verkehr übergeben.
+Found
+MODSMD_ARTICLE06: Segelflieger Wolf Hirth in Budapest verunglückt.
+Found
+MODSMD_ARTICLE07: Die Wahlen in Belgien: Erfolge der Rex-Bewegung.
+Found
+MODSMD_ARTICLE08: MW Weiße Zettel in Eupen, Malmedy und St, Vith.
+Found
+MODSMD_ARTICLE09: Vorläufige Auswertung des belgischen Wahlergebnisses.
+Found

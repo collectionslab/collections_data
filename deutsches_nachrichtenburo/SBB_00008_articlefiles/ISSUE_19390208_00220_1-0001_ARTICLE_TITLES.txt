@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Der neue siamesische Gesandte in Berlin.
+Found
+MODSMD_ARTICLE02: Das Fuhrerkorps des NSKK. bei Brauchitsch.
+Found
+MODSMD_ARTICLE03: Das Ergebnis der lanuarstraßensammlung des WHW.
+Found
+MODSMD_ARTICLE04: „Giornale tüJtalia": Frankreich bricht die Neutralität!
+Found
+MODSMD_ARTICLE05: Die letzten Kämpfe um Figueras im Gange.
+Found
+MODSMD_ARTICLE06: Terrorregiment in Puigcerda.
+Found
+MODSMD_ARTICLE07: Tie Nationalen nähern sich der Grenze.
+Found
+MODSMD_ARTICLE08: Französische Dampfer als Lazarettschiffe.
+Found
+MODSMD_ARTICLE09: Berards Eindruck von Burgos.
+Found
+MODSMD_ARTICLE10: Einstweilen keine nationale Dienstpflicht in Schweden.
+Found
+MODSMD_ARTICLE11: MW Auslandsjuden aus Bulgarien ausgewiesen.
+Found
+MODSMD_ARTICLE12: „Kein Paktieren mit Naschaschibi!"
+Found
+MODSMD_ARTICLE13: Einigung mit Ausgeftoßenen unmöglich!
+Found
+MODSMD_ARTICLE14: Syrien hält zu den Palästina-Arabern.
+Found
+MODSMD_ARTICLE15: Transjordanien fordert den Anschluß Syriens?
+Found

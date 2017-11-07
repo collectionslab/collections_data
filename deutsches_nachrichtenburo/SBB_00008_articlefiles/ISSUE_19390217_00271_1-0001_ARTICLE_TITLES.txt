@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Rundgang des Führers durch die Ausstellung.
+Found
+MODSMD_ARTICLE02: Lebhaftes Interesse für die Automobil-Ausstellung.
+Found
+MODSMD_ARTICLE03: London wartet auf Paris.
+Found
+MODSMD_ARTICLE04: Tie Untersuchung über die roten Greuel in Barcelona.
+Found
+MODSMD_ARTICLE05: Azana noch immer unter Druck.
+Found
+MODSMD_ARTICLE06: Azana in der Pariser rotspanischen Votschaft gesangen?
+Found
+MODSMD_ARTICLE07: Frankreichs Doppelspiel»
+Found
+MODSMD_ARTICLE08: Nur mit der Weißen Fahne nach Burgos.
+Found
+MODSMD_ARTICLE09: Leni Riefenstahl beim König! von Rumänien.
+Found
+MODSMD_ARTICLE10: Die Schweiz ernennt Gesandten in Burgos.
+Found
+MODSMD_ARTICLE11: Das Kabinett Teleki vereidigt.
+Found
+MODSMD_ARTICLE12: Die Stadt La Guardias hat einen neuen Skandal.
+Found
+MODSMD_ARTICLE13: Abreist Roosevelts zu den Flottenmanövern.
+Found
+MODSMD_ARTICLE14: Wie die Sowjetspanier Frau Roosevelt spicken.
+Found
+MODSMD_ARTICLE15: 5,5 Millionen Dollar-Vorlage für USA.-U.-Boote.
+Found
+MODSMD_ARTICLE16: Mord an einem Posthelfer gesühnt.
+Found

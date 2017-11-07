@@ -1,0 +1,18 @@
+MODSMD_ARTICLE01: Der zweite Tag des Mussolini-Besuches.
+Found
+MODSMD_ARTICLE02: Das Ausland zum Staatsbesuch des Duee.
+Found
+MODSMD_ARTICLE03: Unzerstörbarkeit der Achse Rom—Berlin.
+Not Found
+MODSMD_ARTICLE04: Die englischen Verkehrsfachleute in Nürnberg.
+Found
+MODSMD_ARTICLE05: Marschall Badoglio fährt nach Budapest.
+Found
+MODSMD_ARTICLE06: Hodscha und Schuschnigg trafen sich bei Wien.
+Found
+MODSMD_ARTICLE07: Unzufriedenheit bei der „Internationalen Brigade".
+Found
+MODSMD_ARTICLE08: Die Falange schlägt Ehrung für General Franca vor.
+Found
+MODSMD_ARTICLE09: Verlobung des griechischen Kronprinzen.
+Found

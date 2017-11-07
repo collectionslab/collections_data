@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer an Franca.
+Found
+MODSMD_ARTICLE02: Die Ausstellung „Volk und Recht" eröffnet.
+Found
+MODSMD_ARTICLE03: Deutsch-lettische Freundschast.
+Found
+MODSMD_ARTICLE04: Frankreich verfolgt die Führerreise zum Westwall.
+Found
+MODSMD_ARTICLE05: Die Pariser Presse macht Zweckoptimismus nicht mit.
+Found
+MODSMD_ARTICLE06: „Die Verhandlungen mit Moskaus festgefahren."
+Found
+MODSMD_ARTICLE07: Ablehnende Haltung des Arabischen Komitees.
+Found
+MODSMD_ARTICLE08: „Japan Times" warnt Polen vor seinen falschen Freunden.
+Found
+MODSMD_ARTICLE09: Um die Neuordnung in Schanghai.
+Found
+MODSMD_ARTICLE10: Eine merkwürdige Neutralität.
+Found
+MODSMD_ARTICLE11: „Die Lebensinteressen der Vereinigten Staaten bedroht."
+Found
+MODSMD_ARTICLE12: Verbrecherparadies USA.
+Found
+MODSMD_ARTICLE13: Ueberall machen sie sich unbeliebt.
+Found

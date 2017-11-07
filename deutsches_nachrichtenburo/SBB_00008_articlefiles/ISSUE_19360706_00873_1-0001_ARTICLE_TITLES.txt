@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Die Tage von Weimar.
+Found
+MODSMD_ARTICLE02: Heldengedenken.
+Found
+MODSMD_ARTICLE03: Treu dem Führer immerdar.
+Found
+MODSMD_ARTICLE04: Die Rede des Führers.
+Found
+MODSMD_ARTICLE05: Vorbeimarsch am Karlsplatz.
+Found
+MODSMD_ARTICLE06: Massenkundgebung im Stadion.
+Found
+MODSMD_ARTICLE07: Der Führer spricht.
+Found

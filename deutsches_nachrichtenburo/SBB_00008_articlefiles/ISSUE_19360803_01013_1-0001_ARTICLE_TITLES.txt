@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Vom Führer empfangen.
+Found
+MODSMD_ARTICLE02: Empfang ausländischer Olympia-Gäste.
+Found
+MODSMD_ARTICLE03: Empfang ägyptischer Gäste im „Schwedischen Pavillon".
+Found
+MODSMD_ARTICLE04: Generaladmiral Raeder besucht den „Almirante Saldanha".
+Found
+MODSMD_ARTICLE05: „Gorch Fock" von seiner Englandreise zurück.
+Found
+MODSMD_ARTICLE06: Die deutschen Kriegsschiffe an der spanischen Küste.
+Found
+MODSMD_ARTICLE07: Erholungsaufenthalt für Spanien-Flüchtlinge.
+Found
+MODSMD_ARTICLE08: Marxistische Demonstrationen an der Westgrenze.
+Found
+MODSMD_ARTICLE09: Madrid sagt Untersuchung Ermordung Reichsdeutscher zu.
+Found
+MODSMD_ARTICLE10: Zweistündiges Gefecht vor Centn.
+Found
+MODSMD_ARTICLE11: Zwei spanische Bombenflugzeuge in Frankreich gelandet.
+Found
+MODSMD_ARTICLE12: Ausländische Freiwillige für die Regierungsmiliz.
+Found
+MODSMD_ARTICLE13: Madrider Goldsendung in Paris eingetroffen.
+Found
+MODSMD_ARTICLE14: Französische Flugzeuge für Spanien.
+Found
+MODSMD_ARTICLE15: Warnung Hulls an die Amerikaner in Spanien.
+Found
+MODSMD_ARTICLE16: Die Kennzahl der Großhandelspreise vom 29. Juli 1936.
+Found

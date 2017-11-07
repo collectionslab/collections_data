@@ -1,0 +1,8 @@
+MODSMD_ARTICLE01: Die Eröffnung der Olympischeu Spiele.
+Found
+MODSMD_ARTICLE02: Die Olympiafackel trifft ein.
+Found
+MODSMD_ARTICLE03: Auffahrt zum Empfang beim Führer»
+Found
+MODSMD_ARTICLE04: Das Olympia-Komitee beim Führer:
+Found

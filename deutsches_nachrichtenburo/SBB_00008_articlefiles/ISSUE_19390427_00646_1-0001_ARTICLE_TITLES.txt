@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer gratuliert Rudolf Heft.
+Found
+MODSMD_ARTICLE02: Ter jugoslawische Außenminister bei Göring.
+Found
+MODSMD_ARTICLE03: Festlicher Empfang zu Ehren des Gouverneurs von Rom.
+Found
+MODSMD_ARTICLE04: Der ungarische Gesandte bei Schirach.
+Found
+MODSMD_ARTICLE05: Luftverkehrsvereinbarung zwischen Deutschland und Italien.
+Found
+MODSMD_ARTICLE07: Reichsminister Dr. Goebbels auf der Ordensburg Vogelsang.
+Found
+MODSMD_ARTICLE08: Ter finnische Kultusminister besucht die Reichswerke.
+Found
+MODSMD_ARTICLE09: Der Prager Textilhandel völlig verjudet.
+Found
+MODSMD_ARTICLE10: Litauens Armeechef über seine Berlin-Reise.
+Found
+MODSMD_ARTICLE11: Die Labour-Partei stimmt gegen die Wehrdienstvorlage.
+Found
+MODSMD_ARTICLE12: Englische Kriegsschiffe in griechischen Häfen.
+Found
+MODSMD_ARTICLE13: Potemkin nach Ankara abgereist.
+Found
+MODSMD_ARTICLE14: Ter „große Bruder" im Osten.
+Found

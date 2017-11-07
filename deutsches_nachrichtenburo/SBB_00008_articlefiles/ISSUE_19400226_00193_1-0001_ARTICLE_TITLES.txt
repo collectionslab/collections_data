@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Goethe-Medaille für Dr. Ritter von Petri.
+Found
+MODSMD_ARTICLE02: Reichsarbeitsführer Hierls K 5. Geburtstag.
+Found
+MODSMD_ARTICLE03: Die polnischen Greueltaten in Oberschlesien.
+Found
+MODSMD_ARTICLE05: England verletzt ständig niederländisches Hoheitsgebiet.
+Found
+MODSMD_ARTICLE06: „Die Westmächte kämpfen nicht für die Wahrheit."
+Found
+MODSMD_ARTICLE07: Sechs englische Sperrballotte in Norwegen niedergegangen.
+Found
+MODSMD_ARTICLE08: Ritterlichkeit deutscher Flieger.
+Found
+MODSMD_ARTICLE09: Heftiges Gefecht an Indiens Nordwestgrenze.
+Found
+MODSMD_ARTICLE10: Das Urteil im Stockholmer Spionageprozeß.
+Found
+MODSMD_ARTICLE11: Bisher 1810 315 BRT. versankt!
+Found
+MODSMD_ARTICLE12: Reuter und Havas schon wieder am Pranger.
+Found
+MODSMD_ARTICLE13: Britischer Dampfer gesunken.
+Found
+MODSMD_ARTICLE14: Krönung des Dalai Lama.
+Found
+MODSMD_ARTICLE15: Die Bermudas sollen nicht mehr angeflogen werden.
+Found
+MODSMD_ARTICLE16: Amerikanische Anleihe für Finnland abgelehnt.
+Found
+MODSMD_ARTICLE17: Die britischen Mordbnben gestehen!
+Found

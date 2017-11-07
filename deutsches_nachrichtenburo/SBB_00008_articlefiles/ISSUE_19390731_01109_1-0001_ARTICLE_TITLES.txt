@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Junkers-Bomber erringt drei Weltrekorde!
+Found
+MODSMD_ARTICLE02: Vizeadmiral a. D. von Ußlar gestorben.
+Found
+MODSMD_ARTICLE03: Ein Schlag gegen die Schweizer Neutralitätspolitik.
+Found
+MODSMD_ARTICLE04: Ungarn bekennt sich zu seinen Freunden.
+Found
+MODSMD_ARTICLE05: Stimmungsmache mit aufgewärmten Lügen.
+Found
+MODSMD_ARTICLE06: Lokomotivführer und Heizer völlig betrunken.
+Found
+MODSMD_ARTICLE07: Der britische Botschafter nach Warschau zurückgekehrt.
+Found
+MODSMD_ARTICLE08: Der Erste Seelord zum Admiral befördert.
+Found
+MODSMD_ARTICLE09: Verlängerung der Legislaturperiode erregt Anstoß.
+Found
+MODSMD_ARTICLE10: „Walküre" in Anwesenheit des Führers.
+Found
+MODSMD_ARTICLE11: Neue Fernost-Sorgen in Paris.
+Found
+MODSMD_ARTICLE12: Zutritt zum Mittelmeer nur mit italienischer Zustimmung.
+Found
+MODSMD_ARTICLE13: Ein neuer Zwischenfall in Tunis.
+Found
+MODSMD_ARTICLE14: Gegen wen rüstet Kanada?
+Found
+MODSMD_ARTICLE15: Kondor-Flugzeug „Arumani" in Rio de Janeiro.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Beileidstelegramme von Feld Marschall Döring.
+Found
+MODSMD_ARTICLE02: Die AO. betrauert ihren Kameraden vom Rath.
+Found
+MODSMD_ARTICLE03: Evangelische Kirche gegen Volksschädlinge.
+Found
+MODSMD_ARTICLE04: Wechsel in den diplomatischen Vertretungen Italiens.
+Found
+MODSMD_ARTICLE05: Weitcrc Beilcidskundgebuugen zum Tode vom Raths.
+Found
+MODSMD_ARTICLE06: Die Herkunft der 3999 Frauken Grünspans.
+Found
+MODSMD_ARTICLE07: Die korrekte Haltung der deutschen Presse anerkannt.
+Found
+MODSMD_ARTICLE08: Besprechungen Daladiers mit Bonuet und Couloudre.
+Found
+MODSMD_ARTICLE09: Abstimmungsniederlage der bulgarischen Regierung.
+Found
+MODSMD_ARTICLE10: Die HJ.Mbordnung verläßt Bukarest.
+Found
+MODSMD_ARTICLE11: Die Schweiz und der Kommunismus.
+Found
+MODSMD_ARTICLE12: Der Ausbau der schweizerischen Landesverteidigung.
+Found
+MODSMD_ARTICLE13: Fortschritte an der Ebro-Frout.
+Found
+MODSMD_ARTICLE14: Um den englisch-amerikanischen Handelsvertrag.
+Found
+MODSMD_ARTICLE15: Der brasilianische Staatspräsident vor der Presse.
+Found

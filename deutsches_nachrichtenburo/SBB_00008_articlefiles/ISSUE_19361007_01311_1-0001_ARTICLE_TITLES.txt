@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Deutschlands Beileid zum Tode Gömbös'.
+Found
+MODSMD_ARTICLE02: Ein Führungsrat der Sudetendeutschen Partei gebildet.
+Found
+MODSMD_ARTICLE03: Mandatsaussprache in Genf.
+Found
+MODSMD_ARTICLE04: Wirtschaftsausschuß des Völkerbundes.
+Found
+MODSMD_ARTICLE05: Französisch-schweizerische Wirtschaftsvereinbarnugen.
+Found
+MODSMD_ARTICLE06: Die Verstärkung des schweizerischen Grenzschutzes.
+Found
+MODSMD_ARTICLE08: Forderungen der österreichischen Metallarbeiter.
+Found
+MODSMD_ARTICLE09: Englands Aufrüstungsplan vor der Arbeiterparteikonferenz.
+Found
+MODSMD_ARTICLE10: Eröffnung des dänischen Reichstages.
+Found
+MODSMD_ARTICLE11: Erklärung des Nankinger Außenamtes zu den Zwischenfällen.
+Found

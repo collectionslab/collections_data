@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Polen und Japan erheben Gesandtschaften zu Botschaften.
+Found
+MODSMD_ARTICLE02: Neue Kommunistenprozesse in Polen.
+Found
+MODSMD_ARTICLE03: Streik der Warschauer städtischen Angestellten.
+Found
+MODSMD_ARTICLE04: 35 lettische Kommunisten vor Gericht.
+Found
+MODSMD_ARTICLE05: Genfer Besprechungen der baltischen Austenminister.
+Found
+MODSMD_ARTICLE06: Neue Verletzung der französischen Gastfreundschaft.
+Found
+MODSMD_ARTICLE07: Die „technischen" Besprechungen von Paris.
+Found
+MODSMD_ARTICLE08: General von Miller wie Kutjepow ein Opfer der GPU.
+Found
+MODSMD_ARTICLE09: Tagung des Genfer Ostafien-Ausschusfes.
+Found
+MODSMD_ARTICLE10: Die Mosley-Leute werden durch London marschieren.
+Found
+MODSMD_ARTICLE11: Eden bei Ministerpräsident Chamberlain.
+Found
+MODSMD_ARTICLE12: England schickt sowjetspanische Zerstörerbesatzung zurück.
+Found
+MODSMD_ARTICLE13: Neuer Flüchtlingstransport aus Valencia.
+Found
+MODSMD_ARTICLE14: Erdbebenwarte Florenz verzeichnet Erdbeben.
+Found
+MODSMD_ARTICLE15: Unaufhaltsamer Vormarsch auf Gijon.
+Found
+MODSMD_ARTICLE16: Ein großzügiges soziales Werk Genera! Queipo de Llanos.
+Found

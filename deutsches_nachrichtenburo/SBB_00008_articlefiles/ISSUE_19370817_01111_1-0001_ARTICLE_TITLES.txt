@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: Die ibero-amerikamschen Aerzte in München.
+Found
+MODSMD_ARTICLE03: 25» Jahre deutsche Kolonisation in der Batschka.
+Found
+MODSMD_ARTICLE04: Slowakischer Besuch in Polen.
+Found
+MODSMD_ARTICLE05: Avenol in Lettland.
+Found
+MODSMD_ARTICLE06: Moskau schürt weiter.
+Found
+MODSMD_ARTICLE07: Neue Flugzeug-Sendung für die Spanienbolschewisten?
+Found
+MODSMD_ARTICLE08: Londoner Stimmen zum Fernost Konflikt.
+Found
+MODSMD_ARTICLE09: Frankreichs Vorbehalte zur Palästina-Teilung.
+Found
+MODSMD_ARTICLE10: Besprechungen Roosevelts über die Lage im Fernen Osten.
+Found
+MODSMD_ARTICLE11: Streikunruhen in Kanada.
+Found
+MODSMD_ARTICLE12: Politische Schießerei in Mexiko.
+Found
+MODSMD_ARTICLE13: Vergrößerung der australischen Luftflotte.
+Found
+MODSMD_ARTICLE14: Bildung des neuen irakischen Kabinetts.
+Found
+MODSMD_ARTICLE15: Einberufung des japanischen Reichstags.
+Found
+MODSMD_ARTICLE16: Japan verstärkt seine Truppen in Schanghai.
+Found
+MODSMD_ARTICLE17: Dampfer „Gneiseuau" für die Deutschen bereitgestellt.
+Found
+MODSMD_ARTICLE18: Erregung in Tientsin über das Bombardement in Schanghai.
+Found

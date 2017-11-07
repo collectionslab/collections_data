@@ -1,0 +1,42 @@
+MODSMD_ARTICLE01: Schirach gratuliert Eberhard Wolfgang Möller.
+Found
+MODSMD_ARTICLE02: Personalveränderungen in der Heeresverwaltung.
+Found
+MODSMD_ARTICLE03: „Der Gräberwall um Deutschland."
+Found
+MODSMD_ARTICLE04: Außenminister Beck aus München abgereist.
+Found
+MODSMD_ARTICLE05: Die 5. Reichskleintierschau eröffnet.
+Found
+MODSMD_ARTICLE06: Das Sligemeinschaftslager der HJ. in Salzburg.
+Found
+MODSMD_ARTICLE07: Deutsche Unterrichtssprache an den Volksschulen in Memel.
+Found
+MODSMD_ARTICLE08: Der Amerikaner hungert, der Jude verdient.
+Found
+MODSMD_ARTICLE09: Gemischte Kommission in Munkacs.
+Found
+MODSMD_ARTICLE10: Rom zur Mittelmeer-Reise Daladiers.
+Found
+MODSMD_ARTICLE11: Gerichtliches Nachspiel zum Daladier-Besuch in Tunis.
+Found
+MODSMD_ARTICLE12: Paris will keine englische Vermittlung.
+Found
+MODSMD_ARTICLE13: Französisches Getreide für Rötspanien-
+Found
+MODSMD_ARTICLE14: Zur Verhaftung des britischen Prokonsuls Golding.
+Found
+MODSMD_ARTICLE15: 200 Millionen Pfund Gold zur Stützung des Pfundkurses.
+Found
+MODSMD_ARTICLE16: Tie Palästina-Konferenz.
+Found
+MODSMD_ARTICLE17: Tie Arabersnhrer verzichten auf Syrienreise.
+Found
+MODSMD_ARTICLE18: Roosevelt beißt in den sauren Apfel.
+Found
+MODSMD_ARTICLE19: Roosevelt deckt unlautere Machenschaften.
+Found
+MODSMD_ARTICLE20: Die Berufung des Juden Frankfurter.
+Found
+MODSMD_ARTICLE21: „Die Roosevelt-Rede eine Bedrohung Lateinamerikas."
+Found

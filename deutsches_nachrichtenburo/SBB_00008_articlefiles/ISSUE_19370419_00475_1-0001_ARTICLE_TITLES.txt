@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Der Führer besichtigt Modelle für Hitlerjugend-Bauten.
+Found
+MODSMD_ARTICLE02: Alfred Rosenberg spricht in Karlsruhe.
+Found
+MODSMD_ARTICLE03: Dr. Schacht dar dem deutschen Einzelhandel.
+Found
+MODSMD_ARTICLE04: 53 Personen wegen der Warnsdorfer Saalfchslacht verhaftet.
+Found
+MODSMD_ARTICLE05: Italienische Richtigstellung.
+Found
+MODSMD_ARTICLE06: Der Nachfolger des Megergenerals Liotta.
+Found
+MODSMD_ARTICLE07: Volksfrontabgeordneter gegen fünftägige Arbeitswoche.
+Found
+MODSMD_ARTICLE08: Wirtschaftsminister Roman über seine Brüsseler Reise.
+Found
+MODSMD_ARTICLE09: Keine Ueberwachung der spanischen Außenbesitzungen.
+Found
+MODSMD_ARTICLE10: Labour-Proviantschiff für Bilbao.
+Found
+MODSMD_ARTICLE11: Hilfsmaßnahmen für das „akademische Proletariat."
+Found
+MODSMD_ARTICLE12: Wollte Moskau amerikanische Marinebauspezialisten ködern?
+Found
+MODSMD_ARTICLE13: Die Schlichtungsverhandlungen in Oshawa gescheitert.
+Found

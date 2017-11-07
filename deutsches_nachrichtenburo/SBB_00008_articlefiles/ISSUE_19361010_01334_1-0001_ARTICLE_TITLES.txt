@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Deutscher Luftattache in Paris.
+Found
+MODSMD_ARTICLE02: Dr. Raimund Köhler in New Aork.
+Found
+MODSMD_ARTICLE03: Amtliche Verlautbarung über den Wiener Ministerrat.
+Found
+MODSMD_ARTICLE04: Die innerpolitische Wendung in Oesterreich.
+Found
+MODSMD_ARTICLE05: Rücktrittsgesuch des Gouverneurs Dr. Englisch.
+Found
+MODSMD_ARTICLE06: Aufruf des polnischen Winterhilfe-Ausschusses.
+Found
+MODSMD_ARTICLE07: Belgischer Ministerrat.
+Found
+MODSMD_ARTICLE08: Zur Unterredung Eden-Blum.
+Found
+MODSMD_ARTICLE09: Die Sitzung des Nichteinmischungsausschusses.
+Found
+MODSMD_ARTICLE11: Anschlag auf italienischen Konsulatsangestellten.
+Found
+MODSMD_ARTICLE12: Die Umklammerung Madrids vollzogen.
+Found
+MODSMD_ARTICLE13: 42 km vor Madrid.
+Found
+MODSMD_ARTICLE14: Die Kennzahl der Großhandelspreise vom 7. Oktober.
+Found

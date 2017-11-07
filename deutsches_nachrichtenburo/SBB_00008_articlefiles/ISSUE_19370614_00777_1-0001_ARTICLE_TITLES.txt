@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Reichsminister Heß empfing die ausländischen Ehrengäste.
+Found
+MODSMD_ARTICLE02: Empfang zu Ehren der französischen Trachtengruppen.
+Found
+MODSMD_ARTICLE03: Oesterreichische Kulturveranstaltung.
+Found
+MODSMD_ARTICLE04: Französische Matrosen besuchen Arbeitsdienstlager.
+Found
+MODSMD_ARTICLE05: Dank Mussolinis an den Führer.
+Found
+MODSMD_ARTICLE06: „Schlechtes Zeichen für das Blum-Experiment".
+Found
+MODSMD_ARTICLE07: „Blutigste Unterdrückung heute wie vor 29 Jahren".
+Found
+MODSMD_ARTICLE08: Die Hinrichtungen in Moskau.
+Found
+MODSMD_ARTICLE09: Das Kommunisten-Verbot im Kanton Genf.
+Found
+MODSMD_ARTICLE10: Bernd Rosemeyer Schnellster auf dem Nürburgring.
+Found

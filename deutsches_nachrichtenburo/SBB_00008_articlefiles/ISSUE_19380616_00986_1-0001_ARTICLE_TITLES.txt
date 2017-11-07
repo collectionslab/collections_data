@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Die Namen der drei U-Bootsflottillen des Jahres 1938.
+Found
+MODSMD_ARTICLE02: Prof. Dr. Lutz Heck empfängt die Urkunde des Führers.
+Found
+MODSMD_ARTICLE03: Dr. von Mikecz ehrt die Gefallenen des Weltkrieges.
+Found
+MODSMD_ARTICLE04: Telegramm Dr. Flicks an den Reichsbeamtenführer.
+Found
+MODSMD_ARTICLE05: Oberrcgicrungsrat Eichhart geht nach Gumbinnen.
+Found
+MODSMD_ARTICLE06: Reichstreuhänder der Arbeit für die Ostmark.
+Found
+MODSMD_ARTICLE07: Der NS.-Reichskriegerbund in Oesterreich.
+Found
+MODSMD_ARTICLE08: Die Schönheit der Rcichsnutobahncin.
+Found
+MODSMD_ARTICLE09: Italienische Gäste in München.
+Found
+MODSMD_ARTICLE10: UM österreichische Jugendführer auf Deutschlandfahrt.
+Found
+MODSMD_ARTICLE11: Die italienischen Kraftfahrer in Deutschland.
+Found
+MODSMD_ARTICLE12: Siebeubürger und Bauater Handwerker besuchen das Reich.
+Found
+MODSMD_ARTICLE13: Italien gegen tschechische Verschleppungsmanöver.
+Found
+MODSMD_ARTICLE14: Dr. Stojadinowitsch m Venedig.
+Found
+MODSMD_ARTICLE15: „Italien und Jugoslawien wollen den Frieden".
+Found
+MODSMD_ARTICLE16: Die italienischen Verluste in Spanien.
+Found
+MODSMD_ARTICLE17: „Freiwilliger Frauendienst" in England.
+Found
+MODSMD_ARTICLE18: Tie bolschewistische Terrorwelle,
+Found
+MODSMD_ARTICLE19: Die neuesten Opfer Stalins.
+Found
+MODSMD_ARTICLE20: Von 65 roten Häuptlingen blieben 6 übrig.
+Found
+MODSMD_ARTICLE21: Die Ukraine unter der Knute der Sowjets.
+Found
+MODSMD_ARTICLE22: Der Gelbe Fluß steigt immer noch.
+Found

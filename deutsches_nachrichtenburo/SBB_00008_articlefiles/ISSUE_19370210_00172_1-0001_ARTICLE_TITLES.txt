@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Spende des Führers für Opfer der Arbeit auf See.
+Found
+MODSMD_ARTICLE02: Frühstück Zu Ehren des Professors Sonda.
+Found
+MODSMD_ARTICLE03: Auslaudsprcssechcs Dr. Hanfstaengl 56 Jahre alt.
+Found
+MODSMD_ARTICLE04: Aufgaben der General-Inspekteure der OrdnungspoliZei.
+Found
+MODSMD_ARTICLE05: Uebereinkuust über Berusserziehung der deutschen Jugend.
+Found
+MODSMD_ARTICLE06: Französischer Reiteroffizier über die Tage in Berlin.
+Found
+MODSMD_ARTICLE07: Chile ehrt deutscheu Ingenieur.
+Found
+MODSMD_ARTICLE08: Danziger Bau- und Siedlungsverordnung.
+Found
+MODSMD_ARTICLE09: Greiser zu polnischer Staatsjagd eingeladen.
+Found
+MODSMD_ARTICLE10: Kampf dem Verderb auch in Danzig!
+Found
+MODSMD_ARTICLE11: Eine Milliarde Zloiy neue Rüstungsausgaben in Polen.
+Found
+MODSMD_ARTICLE12: Viele Orte im Salzkammergut vom Verkehr abgeschnitten.
+Found
+MODSMD_ARTICLE13: 19 Spione in Ungarn verurteilt.
+Found
+MODSMD_ARTICLE14: Die Bolschewisierung der Tschechoslowakei.
+Found
+MODSMD_ARTICLE15: Barcelona von See aus beschossen.
+Found
+MODSMD_ARTICLE16: Unterhausansrage Zur Spanienpolitik Moskaus.
+Found
+MODSMD_ARTICLE17: Verzögerte Ratifizierung des Londoner Flottenvertrages.
+Found
+MODSMD_ARTICLE18: Amtseuhebuugen auf Malta mit politischem- Hintergrund.
+Found

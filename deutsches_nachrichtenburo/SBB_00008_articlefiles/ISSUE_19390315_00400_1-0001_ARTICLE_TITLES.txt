@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Staatspräsident Dr. Hacha nach Prag abgereist.
+Found
+MODSMD_ARTICLE02: Luftsperrgebiet an der Grenze.
+Found
+MODSMD_ARTICLE03: Hilfszng Bayern eingesetzt.
+Found
+MODSMD_ARTICLE04: Der „Tag der Wehrmacht" wird durchgeführt.
+Found
+MODSMD_ARTICLE05: Uebergabe der Festung Theresienstadt.
+Found
+MODSMD_ARTICLE06: Mährisch-Ostrau arbeitet wieder.
+Found
+MODSMD_ARTICLE07: Extraausgaben in London.
+Found
+MODSMD_ARTICLE08: Polen von der Entwicklung durchaus befriedigt.
+Found
+MODSMD_ARTICLE09: Ungarn begrüßt die Selbständigkeit der Slowakei.
+Found
+MODSMD_ARTICLE10: Helsinki: Eine zwangsläufige Entwicklung.
+Found
+MODSMD_ARTICLE11: Bukarest: „Beseitigung einer gefährlichen Störung."
+Found
+MODSMD_ARTICLE12: Der ungarische Vormarsch in der Karpatho-Ukraine.
+Found
+MODSMD_ARTICLE13: Sitzung des britischen Kabinetts.
+Found
+MODSMD_ARTICLE14: Vorbereitung des Weltkongresses „Freude und Arbeit".
+Found
+MODSMD_ARTICLE15: Der Rücktritt der syrische-n Regierung angenommen.
+Found
+MODSMD_ARTICLE16: Der japanisch-sowjetrussische Fischereikonflikt.
+Found

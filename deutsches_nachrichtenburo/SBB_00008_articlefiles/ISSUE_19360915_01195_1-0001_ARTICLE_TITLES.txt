@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Die Leistung der Deutschen Reichsbahn.
+Found
+MODSMD_ARTICLE02: Grußtelegramm des Reichsbauernführers.
+Found
+MODSMD_ARTICLE03: Wirtschaftsführer und Deutsche Arbeitsfront.
+Found
+MODSMD_ARTICLE04: Ein Amt für technische Wissenschaft in der DAR.
+Found
+MODSMD_ARTICLE05: 450 Hitler-Jungen fahren nach Italien.
+Found
+MODSMD_ARTICLE06: Staatssekretär Schmidt und Graf Ciano bei Mussolini.
+Found
+MODSMD_ARTICLE07: Königen Wilhelmina eröffnet das Parlament.
+Found
+MODSMD_ARTICLE08: Rumänische Aufträge für Frankreichs Flugzeugindustrie.
+Found
+MODSMD_ARTICLE09: Pariser Kabinettsrat berät über die Streiklage.
+Found
+MODSMD_ARTICLE10: Verschärfung der Streiklage in Nordfrankreich.
+Found
+MODSMD_ARTICLE11: Blutige Bauernunruhen in Rumänien.
+Found

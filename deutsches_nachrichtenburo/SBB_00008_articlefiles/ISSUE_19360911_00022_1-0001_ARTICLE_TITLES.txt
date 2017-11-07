@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Parteitag der Ehre.
+Found
+MODSMD_ARTICLE02: Gemeinschaftstagung des Hauptamtes NSBO. und des Hauptamtes Handwerk und Handel.
+Found
+MODSMD_ARTICLE03: Sondertagung der Hitlerjugend.
+Found
+MODSMD_ARTICLE04: Göring im Germanischen Museum.
+Found
+MODSMD_ARTICLE05: Fackelzug der Politischen Leiter.
+Found
+MODSMD_ARTICLE06: DasAuslandzurProklamation.
+Found
+MODSMD_ARTICLE07: Ungarn Zur Antibolschewistenausstellung.
+Found
+MODSMD_ARTICLE08: Italienische Gäste beim Parteitag.
+Found
+MODSMD_ARTICLE09: Ausländische Diplomaten auf der Reichsautobahn.
+Found
+MODSMD_ARTICLE10: Das Ausland zum Ausmarsch des Arbeitsdienstes.
+Found

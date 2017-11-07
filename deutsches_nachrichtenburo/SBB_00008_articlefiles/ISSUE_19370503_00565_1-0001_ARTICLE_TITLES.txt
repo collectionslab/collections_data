@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Dr. Goebbels schickt hohe Beamte als Arbeiter in Betriebe.
+Found
+MODSMD_ARTICLE02: Maiseiern der Reichsdeutschen im Ausland auch am Sonniaa
+Found
+MODSMD_ARTICLE03: Begünstigungsprozeß gegen Patres eines Klostersrdens.
+Found
+MODSMD_ARTICLE04: Freundschaftlicher Empfang von Neuraths in Rom.
+Found
+MODSMD_ARTICLE05: Frankreich Spielzeug der Komintern.
+Found
+MODSMD_ARTICLE06: Für gemeinsames Programm gegen den Kommunismus.
+Found
+MODSMD_ARTICLE07: Nationalfeiertag in Polen.
+Found

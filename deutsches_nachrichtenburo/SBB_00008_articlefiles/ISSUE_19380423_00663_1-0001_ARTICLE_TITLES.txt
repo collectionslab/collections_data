@@ -1,0 +1,38 @@
+MODSMD_ARTICLE01: Der Führer beim Konzert der Wiener Philharmoniker.
+Found
+MODSMD_ARTICLE02: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE03: Der Kapitän des „Wilhelm Gustloff" f.
+Found
+MODSMD_ARTICLE04: Nachruf Dr. Leys.
+Found
+MODSMD_ARTICLE05: 12 618 wählten in italienischen Häfen.
+Found
+MODSMD_ARTICLE06: Generaladmiral Dr. Raeder in Kiel.
+Found
+MODSMD_ARTICLE07: Der Endkampf im Reichsberufswettkampf.
+Found
+MODSMD_ARTICLE08: Hore-Belisha in Rom.
+Found
+MODSMD_ARTICLE09: Faschistische Miliz probt für die Führer-Parade.
+Found
+MODSMD_ARTICLE10: Der französische Geschäftsträger bei Graf Ciano.
+Found
+MODSMD_ARTICLE11: Die französisch-italienischen! Besprechungen.
+Found
+MODSMD_ARTICLE12: Litauen erkennt das italienische Imperium an.
+Found
+MODSMD_ARTICLE13: Wilnaer AerZteverband führt den Arierparagraphen ein.
+Found
+MODSMD_ARTICLE14: Die Arbeiten an der Pressereform in Ungarn.
+Found
+MODSMD_ARTICLE15: Reiche Beute beim Durchbruch zum Mittelmeer.
+Found
+MODSMD_ARTICLE16: Hungerstreik der Araber im Jnternierungslager Akko.
+Found
+MODSMD_ARTICLE17: Die Deutschen in Chicago feierten den Führer-Geburtstag.
+Found
+MODSMD_ARTICLE18: Mexikanisch-amerikanische Entschädigungsverhandlungen.
+Found
+MODSMD_ARTICLE19: Kommunistische Verschwörung in Brasilien aufgedeckt.
+Found

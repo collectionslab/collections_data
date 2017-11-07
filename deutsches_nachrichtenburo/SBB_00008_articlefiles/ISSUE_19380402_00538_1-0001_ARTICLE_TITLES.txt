@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Stuttgarts großer Tag.
+Found
+MODSMD_ARTICLE02: Die Hauptstadt der Bewegung erwartet den Führer.
+Found
+MODSMD_ARTICLE03: Wichtige Ernennungen im Auswärtigen Amt.
+Found
+MODSMD_ARTICLE04: Der Verband ausländischer Pressevertreter e. V. zu Berlin.
+Found
+MODSMD_ARTICLE05: Eine Bekanntmachung von Gauleiter Bürckel.
+Found
+MODSMD_ARTICLE06: „Das Tor zu einer neuen Zeit aufgerissen".
+Found
+MODSMD_ARTICLE07: Wahlkundgebungen in Oesterreich am Freitag.
+Found
+MODSMD_ARTICLE08: Scharfe Absuhr für die Gerüchtemacher in Ungarn.
+Found
+MODSMD_ARTICLE09: Das Elelnd strömt über Frankreichs Grenzen.
+Found
+MODSMD_ARTICLE10: De. Goebbels in Düsseldorf.
+Found
+MODSMD_ARTICLE11: Grausames Geiselmorden in Barcelona geplant»
+Found
+MODSMD_ARTICLE12: Sämtliche Engländer sollen Barcelona verlassen.
+Found
+MODSMD_ARTICLE13: England gibt 20 Handelsschiffe an Nationalspanien zurück.
+Found
+MODSMD_ARTICLE14: Die militärischen Wiederholulngskurse in der Schweiz.
+Found

@@ -1,0 +1,22 @@
+MODSMD_ARTICLE01: Begnadigung durch den Führer.
+Found
+MODSMD_ARTICLE02: Auftakt zur Tagung der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE03: „Daily Telegraph" über die Beauftragung Görings.
+Found
+MODSMD_ARTICLE04: Cianos Besuch Hauptthema der römischen Presse. *
+Found
+MODSMD_ARTICLE05: Deutsche Industrielle in Venedig.
+Found
+MODSMD_ARTICLE06: Staatssekretär Milch nach Desenzano abgereist.
+Found
+MODSMD_ARTICLE07: Zwischenfall im Madrider „Ministerrat"?
+Found
+MODSMD_ARTICLE08: Die Kriegslage in Spanien.
+Found
+MODSMD_ARTICLE09: Frankreichs Hilfe für die spanischen Marxisten.
+Found
+MODSMD_ARTICLE10: „Figaro" kennzeichnet die Heuchelei Sowjetrnßlands.
+Found
+MODSMD_ARTICLE11: Araber boykottieren jüdische Geschäfte.
+Found

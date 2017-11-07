@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: gl Carl-Schurz-Austauschschüler zurückgekehrte
+Found
+MODSMD_ARTICLE02: Internationale Luftfahrtausstellung m Helsingki.
+Found
+MODSMD_ARTICLE03: Graf Ciano empfing den tschechoslowakischen Gesandten.
+Found
+MODSMD_ARTICLE04: Endgültige Liquidierung!
+Found
+MODSMD_ARTICLE05: Tagung der baltischen Außenminister verschoben.
+Found
+MODSMD_ARTICLE06: Spaak mit der Regierungsbildung beauftragt.
+Found
+MODSMD_ARTICLE07: Henleins Aufenthalt m London.
+Found
+MODSMD_ARTICLE08: London und Paris zum Englandbesuch Henleins.
+Found
+MODSMD_ARTICLE09: Hat Lord Swinton die Folgerungen gezogen?
+Found
+MODSMD_ARTICLE10: England verstärkt die Offiziersausbildung.
+Found
+MODSMD_ARTICLE11: Die türkischen Minister verließen Sofia.
+Found
+MODSMD_ARTICLE12: Sowsetspameu im Blutrausch.
+Found
+MODSMD_ARTICLE13: Der nationalspanische Heeresbericht.
+Found
+MODSMD_ARTICLE14: Die amerikanisches Flottenvorlage endgültig angenommen.
+Found
+MODSMD_ARTICLE15: Keine Aufhebung der Waffensperre für Barcelona.
+Found
+MODSMD_ARTICLE16: Mexiko bricht die diplomatischen Beziehungen zu England ab.
+Found

@@ -1,0 +1,14 @@
+MODSMD_ARTICLE01: Generalfeldmarschall Göring beim Führer.
+Found
+MODSMD_ARTICLE02: Die polnische Regierung lehnt Austausch ab.
+Found
+MODSMD_ARTICLE03: Stärkung der deutschen Erdölversorguing.
+Found
+MODSMD_ARTICLE04: Kurze Auslandsnachrichten.
+Found
+MODSMD_ARTICLE05: „Innere Schwäche der Grund für den Bankerott Kolens."
+Found
+MODSMD_ARTICLE06: Aufkommende Unruhe in Französisch-Nordafrika.
+Found
+MODSMD_ARTICLE07: Japanischer Dampfer von englischem Zerstörer angehaltem
+Found

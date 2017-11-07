@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Dr. Goebbels besichtigte Berliner Elendswohnungen.
+Found
+MODSMD_ARTICLE02: Litauischer Protest gegen jüdische Gauneren
+Found
+MODSMD_ARTICLE03: Das tschechische Volk gegen jüdische Bevormundung.
+Found
+MODSMD_ARTICLE04: Polen: „Juden raus!"
+Found
+MODSMD_ARTICLE05: Belgische Kaufleute wehren sich gegen das Judentum.
+Found
+MODSMD_ARTICLE06: König Karl wieder in Bukarest.
+Found
+MODSMD_ARTICLE07: Reise Chamberlains nach Rom?
+Found
+MODSMD_ARTICLE08: Anstritt aus der liberalen Partei Englands.
+Found
+MODSMD_ARTICLE09: Das überfällige englische Flugboot völlig zerstört.
+Found
+MODSMD_ARTICLE10: Vorbereitung der Maßnahmen für Mittwoch.
+Found
+MODSMD_ARTICLE11: Laugsames Abbröckeln der französischen Streiks.
+Found
+MODSMD_ARTICLE12: Die „Lebensmitteltransporte" nach Sowjetspanien.
+Found
+MODSMD_ARTICLE13: Lenkt England in der Palästinafrage ein?
+Found
+MODSMD_ARTICLE14: Selbstbewußte Haltung der brasilianischen Kresse.
+Found
+MODSMD_ARTICLE15: „Der Panamakanal muß uneinnehmbar gemacht werden".
+Found

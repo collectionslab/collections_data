@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: Bedingungslose Kapitulation der belgischen Armee.
+Found
+MODSMD_ARTICLE02: Mit erhöhter Kraft nunmehr gegen die Hauptschuldigen!
+Found
+MODSMD_ARTICLE03: Weitere militärische Umbesetzungen in England.
+Found
+MODSMD_ARTICLE04: Die französische Volkswirtschaft schwer getroffen.
+Found
+MODSMD_ARTICLE05: Die Pariser Presse muß die kritische Lage zugeben.
+Found
+MODSMD_ARTICLE06: Wieder ein feiger Ueberfall auf Fischerboote.
+Found
+MODSMD_ARTICLE07: Bezeichnender Zwischenfall in Canterbury.
+Found
+MODSMD_ARTICLE08: Fremdenjagd auch in Britannien.
+Found
+MODSMD_ARTICLE09: Weitere Normalisierung des Lebens in Holland.
+Found
+MODSMD_ARTICLE10: Die Schlacht auf dem Höhepunkt.
+Found
+MODSMD_ARTICLE11: „Gibraltar für Spanien!"
+Found
+MODSMD_ARTICLE12: Ganz wie in England!
+Found

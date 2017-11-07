@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: „Die deutsche Währung wird unter keinen Umständen abgewertet!"
+Not Found
+MODSMD_ARTICLE02: Tie deutsch-niederländischen Verhandlungen in Hamburg.
+Found
+MODSMD_ARTICLE03: Studieufahrt des deutschen Jugendfunks nach Amerika.
+Found
+MODSMD_ARTICLE04: Die deutschen Schriftleiter bei Stojadinowitsch.
+Found
+MODSMD_ARTICLE05: Die Auffassung Polens zum Pariser Währungsabkommen.
+Found
+MODSMD_ARTICLE06: Zustimmung Belgiens zum Pariser Währungsabkommen.
+Found
+MODSMD_ARTICLE07: Eine Erklärung Blums zur Franken-Abwertung.
+Found
+MODSMD_ARTICLE08: Keine Kompensationsgeschäfte in Paris.
+Found
+MODSMD_ARTICLE09: Der Schweizer Franken um 30 v. H. abgewertet.
+Found
+MODSMD_ARTICLE10: Der tschechoslowakische Generalstabschef in Paris.
+Found

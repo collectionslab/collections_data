@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Die Arbeiterabordnungen in Berlin eingetroffen.
+Found
+MODSMD_ARTICLE02: Tie Sieger des Reichsbcrufswettkampfes in Berlin.
+Found
+MODSMD_ARTICLE03: Ungarische Ehrung für deutsche Wissenschaftler.
+Found
+MODSMD_ARTICLE04: Deutsch-englisches lugendlager ein voller Erfolg.
+Found
+MODSMD_ARTICLE05: Frankreich feiert den 1. Mai mit Generalstreik.
+Found
+MODSMD_ARTICLE06: Das tschechoslowakische Staatsverteidigungsgesetz.
+Found
+MODSMD_ARTICLE07: Erneute Zusammenstöße mit Arbeitslosen in Polen.
+Found
+MODSMD_ARTICLE08: Politische Verhaftungen Rumänien.
+Found
+MODSMD_ARTICLE09: Ein albanisches Dementi.
+Found
+MODSMD_ARTICLE10: Die griechische Presse begrüßt die Reise von Rüschiii Aras.
+Found
+MODSMD_ARTICLE11: Anteilnahme der griechischen Presse am Tode Fuads I.
+Found
+MODSMD_ARTICLE12: Ein italienischer Artikel über England und Aegypten.
+Found
+MODSMD_ARTICLE13: Azanas Wahl gesichert.
+Found
+MODSMD_ARTICLE14: Spanische Brauerei von Belegschaft übernommen.
+Found
+MODSMD_ARTICLE15: Frankreichs Warschauer Botschafter bei Flandin.
+Found
+MODSMD_ARTICLE16: Botschafter Corbin bei Außenminister Eden.
+Found
+MODSMD_ARTICLE17: Ein englisch-sowjetrussisches Flottenabkommen?
+Found
+MODSMD_ARTICLE18: Ernste Lage in Palästina.
+Found

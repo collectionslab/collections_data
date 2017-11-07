@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Dr. Lammers an die Beamten.
+Found
+MODSMD_ARTICLE02: Deutsche Industrielle in Bregenz.
+Found
+MODSMD_ARTICLE03: Paßfälscherbande unschädlich gemacht. Zumeist Juden.
+Found
+MODSMD_ARTICLE04: Pariser Kongresse.
+Found
+MODSMD_ARTICLE05: Das Preisrichterkollegium der Pariser Weltausstellung.
+Found
+MODSMD_ARTICLE06: Der verstaatlichte Schneider-Creuzot übernommen.
+Found
+MODSMD_ARTICLE07: Belgien einstimmig in den Völkerbundsrat gewählt.
+Found
+MODSMD_ARTICLE08: Wirtschaftsfragen vor dem Völkerbund.
+Found
+MODSMD_ARTICLE09: Englands Kriegsminister Zu seinem Besuch in Frankreich.
+Found
+MODSMD_ARTICLE10: Britischer Flugzeugbau in Australien.
+Found
+MODSMD_ARTICLE11: Ein Zusammentreffen Metaxas—Atatürk.
+Found
+MODSMD_ARTICLE12: Jahresfeier der Befreiung des Alkazar.
+Found
+MODSMD_ARTICLE13: Miaja bestätigt Erhebung in Madrid.
+Found
+MODSMD_ARTICLE14: 23 neue Todesurteile in der Sowjetunion.
+Found
+MODSMD_ARTICLE15: Neue japanische Erfolge in Nordchina.
+Found
+MODSMD_ARTICLE16: Bombenabwurf bei Nanking.
+Found
+MODSMD_ARTICLE17: Massenverhaftungen in Nordpalästina.
+Found

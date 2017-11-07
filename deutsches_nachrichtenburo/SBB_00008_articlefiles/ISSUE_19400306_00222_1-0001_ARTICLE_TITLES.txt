@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Amtsbezeichnung Staatssekretär verliehen.
+Found
+MODSMD_ARTICLE02: Aussprache mit dem jugoslawischen Handelsminister.
+Found
+MODSMD_ARTICLE03: Sauersüße Bekenntnisse des britischen Exportministers.
+Found
+MODSMD_ARTICLE04: Italienische Empörung über den englischen Kohlenraub.
+Found
+MODSMD_ARTICLE05: Die alte Platte.
+Found
+MODSMD_ARTICLE06: Pandit Nehru: Teillösung wäre Verrat!
+Found
+MODSMD_ARTICLE07: Mehrere Kriegsanleihen in England.
+Found
+MODSMD_ARTICLE08: Ein schwerer Schlag für Rotterdam.
+Found
+MODSMD_ARTICLE09: Der Wehrmachtsbericht.
+Found
+MODSMD_ARTICLE10: Der bürgerliche Ungehorsam in Indien verkündet.
+Found
+MODSMD_ARTICLE11: Zwei Inseln von den Russen besetzt.
+Found
+MODSMD_ARTICLE12: Die Finnen melden heftige Kämpfe.
+Found
+MODSMD_ARTICLE13: Popofs stellt der bulgarischen Presse ihre Aufgabe.
+Found
+MODSMD_ARTICLE14: Griechische Matrosen wehren sich gegen Englandfahrt.
+Found

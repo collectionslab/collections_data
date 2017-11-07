@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Sieben tschechische Grenzverletzungen in 24 Stunden.
+Found
+MODSMD_ARTICLE02: Warschau: Umgestaltung der Tschechoslowakei notwendig!
+Found
+MODSMD_ARTICLE03: Budapest für Umgestaltung der Tschechoslowakei. .
+Found
+MODSMD_ARTICLE05: Fortsetzung der Manöver in der Londoner Presse.
+Found
+MODSMD_ARTICLE06: Japanische Sympathie für die Sudetendeutschen.
+Found
+MODSMD_ARTICLE07: Kommumstische Hehzentrale iu Raab ausgehoben.
+Found
+MODSMD_ARTICLE08: Achtstündiger Ministerrrat in Burgos.
+Found
+MODSMD_ARTICLE09: Erbitterter Kampf um den Brückenkopf von Balaguer.
+Found
+MODSMD_ARTICLE10: Eine Entführung Lord Nuffields mit knapper Not vereitelt.
+Found
+MODSMD_ARTICLE11: Immer wieder Streiks in Frankreich.
+Found
+MODSMD_ARTICLE12: Blutiger Wahlkampf im Sandschak.
+Found
+MODSMD_ARTICLE13: – Verstärkung der englischen Flugstreitkräfte in Aegypten.
+Not Found
+MODSMD_ARTICLE14: Aegpten will seine Armee verstärken.
+Found
+MODSMD_ARTICLE15: Die Chefs des Heeres und der Marine beim Tenno.
+Found
+MODSMD_ARTICLE16: Starke Truppenverschiebungen in Mexiko.
+Found
+MODSMD_ARTICLE17: Arbeitszeitvorlage vom Repräsentantenhaus angenommen.
+Found

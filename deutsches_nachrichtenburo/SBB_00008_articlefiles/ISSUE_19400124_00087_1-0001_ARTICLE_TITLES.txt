@@ -1,0 +1,24 @@
+MODSMD_ARTICLE01: 7Wll Offizieranwärter vor dem Führer.
+Found
+MODSMD_ARTICLE02: Neuer japanischer Botschaftsrat in Berlin.
+Found
+MODSMD_ARTICLE03: Sorgein in England und Frankreich.
+Found
+MODSMD_ARTICLE04: Sie mästen sich an den Notgroschen der Neutralen.
+Found
+MODSMD_ARTICLE05: Drohende Unterernährung in England.
+Found
+MODSMD_ARTICLE06: Kriegsgewinn über alles!
+Found
+MODSMD_ARTICLE07: Der russische Heeresbericht vom 23. Januar.
+Found
+MODSMD_ARTICLE08: Moskau zur Churchill-Rede.
+Found
+MODSMD_ARTICLE09: Der britische Zerstörer „Exmouth" vernichtet.
+Found
+MODSMD_ARTICLE10: Lebhafte Artillerietätigkeit an der Karelischen Front.
+Found
+MODSMD_ARTICLE11: „Ebenso unmöglich wie ungeschickt."
+Found
+MODSMD_ARTICLE12: „Piraterie vor den Toren Tokios."
+Found

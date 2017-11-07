@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Abschiedsworte des Führers der Avanguardisten.
+Found
+MODSMD_ARTICLE02: Das deutsch-französische Jugendlager an von Schirach.
+Found
+MODSMD_ARTICLE03: Minister Dr. Ohnesorge vor den deutschen Elektrotechnikern.
+Found
+MODSMD_ARTICLE04: Zweigstelle Bremen der Deutsch-Englischen Gesellschaft.
+Found
+MODSMD_ARTICLE05: Der Kampf gegen den Alkoholismus.
+Found
+MODSMD_ARTICLE06: Streikterror in einer dänischen Schlächterei.
+Found
+MODSMD_ARTICLE07: Pariser Taxichauffeure über die Tarif-Erhöhung.
+Found
+MODSMD_ARTICLE08: 10-prozentige Mietssteigerung in Volksfront-Frankreich.
+Found
+MODSMD_ARTICLE09: Telegraphisch zum Henker beordert.
+Found
+MODSMD_ARTICLE10: Sowjetspanischer Dampfer in Bordeaux beschlagnahmt.
+Found
+MODSMD_ARTICLE11: „Sitzstreik" im Vorzimmer des Finanzministers.
+Found
+MODSMD_ARTICLE12: Die Jacht Daladiers im Mittelmeer gerammt.
+Found
+MODSMD_ARTICLE13: Flugpreise Paris—London erhöht.
+Not Found
+MODSMD_ARTICLE14: Fortsetzung der Palästina-Erörterungen.
+Found
+MODSMD_ARTICLE15: Einspruch Roosevelts gegen Gesetzesvorlage.
+Found
+MODSMD_ARTICLE16: Neue Streikunruhen in USA.
+Found
+MODSMD_ARTICLE17: Eisenbahnerstreik in USA abgewendet.
+Found
+MODSMD_ARTICLE18: Heftiges Gefecht südlich von Peiping.
+Found

@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Generaloberst von Brauchitsch bei den SA.-Reiterführern.
+Found
+MODSMD_ARTICLE02: Generaloberst Milch begibt sich nach Rom.
+Found
+MODSMD_ARTICLE03: Reichsarbeitsführer Hier! in Italien.
+Found
+MODSMD_ARTICLE04: Eine unfreundliche Maßnahme der chilenischen Behörden.
+Found
+MODSMD_ARTICLE05: Eröffnung des studentischen Reichsberufswettkampfes.
+Found
+MODSMD_ARTICLE06: Deutscher Kraftwagenchauffeur von Polen beschossen.
+Found
+MODSMD_ARTICLE07: Echt englisches Benehmen!
+Found
+MODSMD_ARTICLE08: Das Fest der Schöpfer des bulgarischen Alphabets.
+Found
+MODSMD_ARTICLE09: Anerkennung des Königs für Graf Ciano.
+Found
+MODSMD_ARTICLE10: Graf Ciano überreichte Mussolini die Pakt-Urkunde.
+Found
+MODSMD_ARTICLE11: Arabisches Märtyrertum.
+Found
+MODSMD_ARTICLE12: Japanische Erklärung über Internationale Niederlassungen.
+Found
+MODSMD_ARTICLE14: „Die Lage in USA. dieselbe wie die Spanien 1936."
+Found
+MODSMD_ARTICLE15: „Ein Meilenstein der europäischen Geschichte."
+Found
+MODSMD_ARTICLE16: Scharfe Kritik an Roosevelts Ausgabenpolitik.
+Found

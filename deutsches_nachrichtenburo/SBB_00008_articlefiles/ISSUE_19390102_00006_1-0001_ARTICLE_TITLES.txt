@@ -1,0 +1,28 @@
+MODSMD_ARTICLE01: Chamberlain und Halifax am 11. Januar in Rom.
+Found
+MODSMD_ARTICLE02: Die polnische Außenpolitik im letzten Jahre.
+Found
+MODSMD_ARTICLE03: Neujahrsansprache des dänischen Außenministers.
+Found
+MODSMD_ARTICLE04: Daladier riß die Geduld.
+Found
+MODSMD_ARTICLE05: Was Frankreich die Teilmobilisierung kostete.
+Found
+MODSMD_ARTICLE06: Frankreichs Pakt mit Sowjetrußland.
+Found
+MODSMD_ARTICLE07: Verheißungsvoller Jahresbeginn in Spanien.
+Found
+MODSMD_ARTICLE08: Neujahrsempfang in Sofia.
+Found
+MODSMD_ARTICLE09: Falsche Voraussetzungen in Prag.
+Found
+MODSMD_ARTICLE10: Der 17. von 26 Sowjetkommissaren verschwunden.
+Found
+MODSMD_ARTICLE11: Ein englischer Offizier in Palästina erschossen.
+Found
+MODSMD_ARTICLE12: Neue britische Militäraktiouen in Palästina.
+Found
+MODSMD_ARTICLE13: Syrien wirft Frankreich Wortbruch vor.
+Found
+MODSMD_ARTICLE14: Begeisterter Empfang der Araberführer in Kairo.
+Found

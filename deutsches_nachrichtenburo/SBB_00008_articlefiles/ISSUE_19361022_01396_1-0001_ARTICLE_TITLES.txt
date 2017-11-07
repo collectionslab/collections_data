@@ -1,0 +1,30 @@
+MODSMD_ARTICLE01: Verleihung von Auszeichnungen für die Errettung von Menschen aus Lebensgefahr.
+Found
+MODSMD_ARTICLE02: Die Fahrestagung der Akademie für Deutsches Recht.
+Found
+MODSMD_ARTICLE03: Vundesführer Dr. Eulen in Belgrad.
+Found
+MODSMD_ARTICLE04: Offizieller Besuch Becks in London.
+Found
+MODSMD_ARTICLE05: Sofortige Einberufung des englischen Parlaments abgelehnt.
+Found
+MODSMD_ARTICLE06: Mussolini besichtigt das Gelände der Weltausstellung.
+Found
+MODSMD_ARTICLE07: Lerroux für die spanischen Nationalisten.
+Found
+MODSMD_ARTICLE08: Ein katalanischer Marxistenhäuptling in Paris.
+Found
+MODSMD_ARTICLE09: Ablieferungspflicht für Gold und Devisen in Bilbao.
+Found
+MODSMD_ARTICLE10: Präsident Aznnn richtet sich in ein.
+Found
+MODSMD_ARTICLE11: Francs über die Aufgaben der nationalen Regierung.
+Found
+MODSMD_ARTICLE12: Bilbao von nationalistischen Flugzeugen bombardiert.
+Found
+MODSMD_ARTICLE13: 200 Aufständische in Bombay zur Prügelstrafe verurteilt.
+Found
+MODSMD_ARTICLE14: Tauzi Bey hat Palästina verlassen.
+Found
+MODSMD_ARTICLE15: Steuersteckbriefe und Vermögensbeschlagnahmen.
+Found

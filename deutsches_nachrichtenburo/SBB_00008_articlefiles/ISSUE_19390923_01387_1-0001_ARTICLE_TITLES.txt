@@ -1,0 +1,20 @@
+MODSMD_ARTICLE01: Der polnische Bandenkrieg behördlich angeordnet!
+Found
+MODSMD_ARTICLE02: Der Heeresbericht der Roten Armee.
+Found
+MODSMD_ARTICLE03: Mussolini über die gegenwärtigen Ereignisse.
+Found
+MODSMD_ARTICLE05: Stärkstes Echo der Duce-Rede in Italien.
+Found
+MODSMD_ARTICLE06: „Deutschland bietet den Eindruck völliger Ruhe."
+Found
+MODSMD_ARTICLE07: Englischer Kapitän über die Versenkung seines Schisfes.
+Found
+MODSMD_ARTICLE08: „Curentul" über Hitlers Friedensbereitschaft.
+Found
+MODSMD_ARTICLE09: Kriegshetzer sind tabu!
+Found
+MODSMD_ARTICLE10: Deutsche in Süd- und Südwestafrika interniert.
+Found
+MODSMD_ARTICLE11: Der Ausgang des Kongreßkampfes noch ungewiß.
+Found

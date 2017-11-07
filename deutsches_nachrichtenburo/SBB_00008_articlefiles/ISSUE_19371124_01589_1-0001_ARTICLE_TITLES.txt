@@ -1,0 +1,26 @@
+MODSMD_ARTICLE01: Beileid des Reichswirtschaftsministers.
+Found
+MODSMD_ARTICLE02: Der Staatsbesuch der ungarischen Minister in Berlin.
+Found
+MODSMD_ARTICLE03: Die ungarischen Gäste im Reichsernährungsministerium.
+Found
+MODSMD_ARTICLE04: Daranyi besichtigt Berliner Groß-Molkereibetrieb.
+Found
+MODSMD_ARTICLE05: „Tief beeindruckt von der Fülle des Gesehenen".
+Found
+MODSMD_ARTICLE06: Ergiebige Oelquellen in Ungarn aufgefunden.
+Found
+MODSMD_ARTICLE07: Streikbeschluß der Wiener Hochschüler.
+Found
+MODSMD_ARTICLE08: Streik der Medizinstudenten auch in Innsbruck.
+Found
+MODSMD_ARTICLE09: Scharfe Warschauer Sprache gegen englische Zeitungen.
+Found
+MODSMD_ARTICLE10: Völlige Ruhe in Griechenland.
+Found
+MODSMD_ARTICLE11: Brüskierung der sudetendeutschen Vertreter im Parlament.
+Found
+MODSMD_ARTICLE12: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE13: Veränderungen im chinesischen Seezollwesen.
+Found

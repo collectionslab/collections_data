@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Der Führer besichtigt Museen.
+Found
+MODSMD_ARTICLE02: Der Führer fährt zur Abendtafel»
+Found
+MODSMD_ARTICLE03: Tie italienischen Wehrmachtsübungen Sonntag vormittag.
+Found
+MODSMD_ARTICLE04: Göring vor den neuernannten Leutnanten der Luftwaffe.
+Found
+MODSMD_ARTICLE05: Glückwunsch Görings zu einem Köjährigen Ehejubiläum.
+Found
+MODSMD_ARTICLE06: Tagung des Ausschusses für Arbeitsrecht.
+Found
+MODSMD_ARTICLE07: Deutsch-ungarische Wirtschaftsvereinbarungen.
+Found
+MODSMD_ARTICLE08: Stetiger Anstieg der Rundfunkteilnehmerzahlen.
+Found
+MODSMD_ARTICLE09: 25V österreichische Hitler-Urlauber in Bremen eingetroffene
+Found
+MODSMD_ARTICLE10: Gastspielreise italienischer Künstler durch Deutschland.
+Found
+MODSMD_ARTICLE11: Tie Zwischenfälle in Falkenau.
+Found
+MODSMD_ARTICLE12: Der britische und der französische Gesandte bei Krosta.
+Found
+MODSMD_ARTICLE13: Ministerrat in Paris.
+Found
+MODSMD_ARTICLE14: Lord Halifax auf dem Wege nach Genf.
+Found
+MODSMD_ARTICLE15: Chinesische Note an London.
+Found
+MODSMD_ARTICLE16: „Ein abgefeimtes jüdisches Manöver".
+Found
+MODSMD_ARTICLE17: Tie italienische Wirtschaftskommission in Tokio.
+Found
+MODSMD_ARTICLE18: Hirota für rasche Bereinigung des China-Konfliktes.
+Found

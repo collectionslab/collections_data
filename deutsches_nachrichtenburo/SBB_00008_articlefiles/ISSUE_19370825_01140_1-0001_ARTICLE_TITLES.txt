@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Der Reichsärzteführer empfing den Aerztekongreß.
+Found
+MODSMD_ARTICLE02: Keine Umbildung des jugoslawischen Kabinetts geplant.
+Found
+MODSMD_ARTICLE03: Verschärfung im polnischen Bauernstreik.
+Found
+MODSMD_ARTICLE04: Juden randalierten in Wilna.
+Found
+MODSMD_ARTICLE05: Der französische Kabinettsrat vom Dienstag.
+Found
+MODSMD_ARTICLE06: Die Schraube ohne Ende.
+Found
+MODSMD_ARTICLE07: Tie Untersuchung über die aus Bilbao geraubten Werte.
+Found
+MODSMD_ARTICLE08: Massenflucht aus Santander.
+Found
+MODSMD_ARTICLE09: Der nationalspanische Heeresbericht vom Dienstag.
+Found
+MODSMD_ARTICLE10: Englische Beunruhigung über die Entwicklung in China.
+Found
+MODSMD_ARTICLE11: Der englische Fernost-Vorschlag noch in der Schwebe.
+Found
+MODSMD_ARTICLE12: Japan will seine Staatsbürger in Schanghai selbst beschützen.
+Found
+MODSMD_ARTICLE13: Der Oberbefehlshaber der japanischen Laudungstruppen.
+Found
+MODSMD_ARTICLE14: Weitere Erfolge der Japaner.
+Found
+MODSMD_ARTICLE15: Japan zieht seine Olympia-Reiteroffiziere zurück.
+Found
+MODSMD_ARTICLE16: Der Friedensappell Hulls bisher unbeantwortet.
+Found
+MODSMD_ARTICLE17: Ernste Unruhen auf Jnagua (Bahama-Jnseln).
+Found

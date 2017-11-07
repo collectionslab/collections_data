@@ -1,0 +1,36 @@
+MODSMD_ARTICLE01: Ministerpräsident Göring gratuliert.
+Found
+MODSMD_ARTICLE02: Großkundgebung der HJ. in Außig.
+Found
+MODSMD_ARTICLE03: Das Standrecht in der Slowakei aufgehoben.
+Found
+MODSMD_ARTICLE04: Die polnische Regierung drängt auf Judenauswanderung.
+Found
+MODSMD_ARTICLE05: Neue jüdische Provokation an der Warschauer Universität.
+Found
+MODSMD_ARTICLE06: König Karl gab in London ein Festessen.
+Found
+MODSMD_ARTICLE07: Das britische Parlament macht in „Humanität".
+Found
+MODSMD_ARTICLE08: London zur japanischen Antwortnote.
+Found
+MODSMD_ARTICLE09: Der erste britische Lieferungsauftrag für Kanada.
+Found
+MODSMD_ARTICLE10: Balkanreise einer französischen Wirtschaftsabordnung.
+Found
+MODSMD_ARTICLE11: Auch die Ausländer sollen Militärdienst leisten.
+Found
+MODSMD_ARTICLE12: Kampf der Sozialdemokraten gegen Daladier.
+Found
+MODSMD_ARTICLE13: Heuchelei auf einer Pariser Kolonialdebatte.
+Found
+MODSMD_ARTICLE14: Daladier will unbirrbar sein Ziel durchsetzen.
+Found
+MODSMD_ARTICLE15: Verstiegenheiten französischer Agitation.
+Found
+MODSMD_ARTICLE16: Die neue türkische Regierung stellte sich vor.
+Found
+MODSMD_ARTICLE17: England verhindert wahrheitsgetreue Berichterstattung.
+Found
+MODSMD_ARTICLE18: Es stinkt über den Großen Teich.
+Found

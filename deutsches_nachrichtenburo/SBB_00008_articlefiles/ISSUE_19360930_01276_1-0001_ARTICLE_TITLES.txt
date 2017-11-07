@@ -1,0 +1,34 @@
+MODSMD_ARTICLE01: Pvstanweisungs-Verkehr mit der Schweiz eingestellt.
+Found
+MODSMD_ARTICLE02: Lloyd George verteidigt seinen Standpunkt.
+Found
+MODSMD_ARTICLE03: . Englisches Unterhausmitglied über das neue Deutschland.
+Found
+MODSMD_ARTICLE04: Ein Engländer über die Moskauer Rundsunkhetze.
+Found
+MODSMD_ARTICLE05: Gerüchte über Sterling-Dollar-Pakt unbestätigt.
+Found
+MODSMD_ARTICLE06: Ungarns Regierung verbietet politische Versammlungen.
+Found
+MODSMD_ARTICLE07: Der Blutterror in Madrid.
+Found
+MODSMD_ARTICLE08: Anarchisten-Herrschast in Bilbao.
+Found
+MODSMD_ARTICLE09: Vorbereitung des Angriffs ans Malaga.
+Found
+MODSMD_ARTICLE10: General Franco Chef der spanischen Armee.
+Found
+MODSMD_ARTICLE11: Moskaus Hilfe für Spanien.
+Found
+MODSMD_ARTICLE12: Einmischung Madrids in Portugal.
+Found
+MODSMD_ARTICLE13: Die Frage der Abschaffung der Zollkontingente.
+Found
+MODSMD_ARTICLE14: Erst Westpakt-Konfereuz, dann Abrustungsbesprechungen?
+Found
+MODSMD_ARTICLE15: Radek auch verhaftet?
+Found
+MODSMD_ARTICLE16: Mitglieder der Schwärzen Legion verurteilt.
+Found
+MODSMD_ARTICLE17: IKK verschüttete Bergleute in Indien gerettet.
+Found

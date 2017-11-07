@@ -1,0 +1,32 @@
+MODSMD_ARTICLE01: Wring vertritt den Führer bei den Beisetzungsseierlichkeiten.
+Found
+MODSMD_ARTICLE02: Polnische Frontkämpfer in Berlin.
+Found
+MODSMD_ARTICLE03: Der Präsident der bulgarischen Handwerksverbände an Ley.
+Found
+MODSMD_ARTICLE04: Gömbös-Ehrung in Wien.
+Found
+MODSMD_ARTICLE06: Zuchthausurteile gegen litauische Bauern.
+Found
+MODSMD_ARTICLE07: Faschistenuniform-Verbot in Manchester.
+Found
+MODSMD_ARTICLE08: Edinburger Partei kongrcß zur Frage der Nichteinmischung.
+Found
+MODSMD_ARTICLE09: „Daily Herald" über die Bölkerbundstagung.
+Found
+MODSMD_ARTICLE10: Streik der Londoner Omnibusschaffner abgebrochen.
+Found
+MODSMD_ARTICLE11: Eine zweite Kammer in Irland.
+Found
+MODSMD_ARTICLE12: Entschließung der Pariser Kammeropposition.
+Found
+MODSMD_ARTICLE13: Zusammenstöße bei Räumung einer Fabrik.
+Found
+MODSMD_ARTICLE14: Der Vormarsch auf Madrid.
+Found
+MODSMD_ARTICLE15: Dre xvv w.
+Found
+MODSMD_ARTICLE16: Die nationalistischen Truppen dicht vor Aranjuez.
+Found
+MODSMD_ARTICLE17: Die Kennzahl der Großhandelspreise im September.
+Found

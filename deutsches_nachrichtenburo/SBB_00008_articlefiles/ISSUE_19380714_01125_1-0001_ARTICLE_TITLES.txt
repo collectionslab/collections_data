@@ -1,0 +1,44 @@
+MODSMD_ARTICLE01: Aus der Diplomatie.
+Found
+MODSMD_ARTICLE02: „Wilhelm Gustloff" wieder in der Heimat.
+Found
+MODSMD_ARTICLE03: Schwedischer Schiffsbesuch in Kolberg.
+Found
+MODSMD_ARTICLE04: General Rwsso auf dem Wege nach München.
+Found
+MODSMD_ARTICLE05: Bürgermeister Schollich-Neutitschein im Amt bestätigt.
+Found
+MODSMD_ARTICLE06: Neugliederung der sudetendeutschen Mädelschaft.
+Found
+MODSMD_ARTICLE07: Dringende Antononneforderungen der Slowaken.
+Found
+MODSMD_ARTICLE08: Der Besuch Oberst Becks in Riga.
+Found
+MODSMD_ARTICLE09: Neuer Hauptkommandant des polnischen Schützenverbandes.
+Found
+MODSMD_ARTICLE10: Exportprämien für die polnische Landwirtschaft.
+Found
+MODSMD_ARTICLE11: Polnisch-litauische Warenaustauschverhandlungen.
+Found
+MODSMD_ARTICLE12: Botschafter von Stohrer bei Jordana.
+Found
+MODSMD_ARTICLE13: Das nationale Spanien gedenkt Calvo Sotelos.
+Found
+MODSMD_ARTICLE14: Die nationale Großoffensive an der Straße Teruel—Sagunt.
+Not Found
+MODSMD_ARTICLE15: Doriot im nationalspanischen Arbeitsministerium.
+Found
+MODSMD_ARTICLE16: Staatssekretär Morgenthau kommt nach Paris.
+Found
+MODSMD_ARTICLE17: Volkssront-„Brüder" unier sich.
+Found
+MODSMD_ARTICLE18: Der britische Landwirtschaftsminister vor dem Unterhaus.
+Found
+MODSMD_ARTICLE19: „In Aethiopien herrscht völlige Ruhe".
+Found
+MODSMD_ARTICLE20: Vor englischen Wirtschaftsverhandlungen mit Kolumbien.
+Found
+MODSMD_ARTICLE21: Keine englische Anleihe an China.
+Found
+MODSMD_ARTICLE22: Unruhiges Palästina.
+Found
